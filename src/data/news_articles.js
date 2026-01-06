@@ -1,518 +1,5 @@
 export default [
     {
-        "title": "Destinos internacionales activos vía aérea desde Venezuela en 2026",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "asia",
-            "vuelos",
-            "latinoamérica",
-            "paises",
-            "euopa"
-        ],
-        "link": "https://2001online.com/nacionales/destinos-internacionales-activos-via-aerea-desde-venezuela-en-2026-2026111800",
-        "date": "2026-01-01 22:00:00",
-        "sentiment_score": 0.5749323647469282
-    },
-    {
-        "title": "Sergio Ramos lidera a un grupo de inversores para comprar el Sevilla",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CPZWPL6NOFGZ3A7H5N24VP5Z7M.jpg?auth=09415ee5f28617bcfa065bdabae02e2693ae0048ea0bc59d80c6c895338a7d98&width=1200",
-        "tags": [
-            "josé maría del nido",
-            "ventas",
-            "josé maría del nido carrasco",
-            "sevilla fútbol club",
-            "laliga ea sports",
-            "fútbol",
-            "competiciones",
-            "monchi",
-            "entrenadores",
-            "sergio ramos",
-            "deportes",
-            "futbolistas",
-            "monterrey"
-        ],
-        "link": "https://elpais.com/deportes/futbol/2026-01-01/sergio-ramos-lidera-a-un-grupo-de-inversores-para-comprar-el-sevilla.html",
-        "date": "2026-01-01 21:54:35",
-        "sentiment_score": 0.6836027204990387
-    },
-    {
-        "title": "Real Madrid cierra 2025 como líder del ranking UEFA",
-        "image_url": "https://soynuevaprensadigital.com/wp-content/uploads/2025/07/REAL-MADRID-VUELOS-scaled.jpg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://soynuevaprensadigital.com/npd/real-madrid-cierra-2025-como-lider-del-ranking-uefa/",
-        "date": "2026-01-01 21:41:17",
-        "sentiment_score": 0.45836666226387024
-    },
-    {
-        "title": "Raúl Cuenca: “Yo calificaría a mi equipo con una nota muy alta, un 9”",
-        "image_url": "https://melillahoy.es/wp-content/uploads/2026/01/raul-cuenca-entrenador-deportes.jpg",
-        "tags": [
-            "futbol sala",
-            "división de honor de juveniles",
-            "mcd peña real madrid",
-            "polideportivo",
-            "deportes"
-        ],
-        "link": "https://melillahoy.es/raul-cuenca-yo-calificaria-a-mi-equipo-con-una-nota-muy-alta-un-9/",
-        "date": "2026-01-01 21:37:43",
-        "sentiment_score": 0.4740634262561798
-    },
-    {
-        "title": "Los juguetes que hicieron 'iguales' a infantes reales y niños humildes: del birlocho y el praxinoscopio al scalextric o la famosa Mariquita Pérez",
-        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/12/29/17670212724748.jpg",
-        "tags": [
-            "madrid",
-            "exposiciones",
-            "cultura"
-        ],
-        "link": "https://www.elmundo.es/madrid/2026/01/01/69529dc2e4d4d8e5058b4573.html",
-        "date": "2026-01-01 21:10:28",
-        "sentiment_score": 0.25250931084156036
-    },
-    {
-        "title": "Casadó se apaga en el Barça: España pierde un talento valioso para el futuro",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/21/2025022105082954572.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/casado-pierde-peso-barca-consecuencia-espana-pierde-activo-valioso/20260101220426369054.html",
-        "date": "2026-01-01 21:04:26",
-        "sentiment_score": -0.8184254579246044
-    },
-    {
-        "title": "El Atlético de Madrid inicia los entrenamientos en 2026 con la mente puesta en la Real Sociedad",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/01/image-d70ed635-3e83-49b4-ae1d-aafb88a1aa8e-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/el-atletico-de-madrid-inicia-los-entrenamientos-en-2026-con-la-mente-puesta-en-la-real-sociedad_vid60044271/video.shtml",
-        "date": "2026-01-01 20:52:08",
-        "sentiment_score": 0.38728994131088257
-    },
-    {
-        "title": "El Milan disfruta cada gota de magia de Modric mientras el Madrid sigue huérfano de un cerebro",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/18/2025081803430337791.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/milan-beneficia-cada-gota-talento-luka-modric/20260101214719369052.html",
-        "date": "2026-01-01 20:47:19",
-        "sentiment_score": 0.10282744467258453
-    },
-    {
-        "title": "Un goleador argentino se muda la Premier con el sueño de llegar al Mundial 2026: la impactante cifra por la que fue vendido",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "lazio",
-            "taty castellanos",
-            "serie a",
-            "deportes-argentina",
-            "west ham united",
-            "selección argentina",
-            "premier league"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/01/un-goleador-argentino-se-muda-la-premier-con-el-sueno-de-llegar-al-mundial-2026-la-impactante-cifra-por-la-que-fue-vendido/",
-        "date": "2026-01-01 20:38:37",
-        "sentiment_score": -0.35975807160139084
-    },
-    {
-        "title": "Lola Índigo y Lorca se cuelan en la Nochevieja de los españoles desde el Carlos V",
-        "image_url": "https://static.grupojoly.com/clip/54c8f2b1-1e6d-4008-b516-08bdbbfb7c1d_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "la alhambra"
-        ],
-        "link": "https://www.granadahoy.com/ocio/video-ext-lola-indigo-lorca-cuelan-nochevieja_7_2005534858.html",
-        "date": "2026-01-01 21:48:07",
-        "sentiment_score": -0.013375386595726013
-    },
-    {
-        "title": "Barcelona transformará el antiguo patronato de las mujeres obreras de Sagrada Família en 40 pisos sociales",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/23/eixample/1003742718799_15546895_1706x960.jpg",
-        "tags": [
-            "educación",
-            "historia",
-            "colegios barcelona",
-            "vivienda",
-            "eixample",
-            "ayuntamiento de barcelona",
-            "sagrada família",
-            "colegios",
-            "viviendas",
-            "alquiler vivienda"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/eixample/20260101/barcelona-transformara-antiguo-patronato-mujeres-obreras-sagrada-familia-pisos-sociales/1003742718796_0.html",
-        "date": "2026-01-01 21:40:39",
-        "sentiment_score": 0.02945546805858612
-    },
-    {
-        "title": "La Lotería Nacional deja un primer premio en la provincia de Alicante",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/314c563d-7997-4965-a5e5-2cd76b0337f6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "provincia de alicante",
-            "lotería nacional",
-            "sorteos",
-            "badajoz"
-        ],
-        "link": "https://www.informacion.es/elda/2026/01/01/loteria-nacional-primer-premio-elda-dv-125302589.html",
-        "date": "2026-01-01 21:38:46",
-        "sentiment_score": 0.7854065522551537
-    },
-    {
-        "title": "TMB renovará más de 30 trenes del metro de Barcelona por 82 millones tras la licitación fallida con Alstom",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/01/05/vivir-en-barcelona/822678753_15556624_1706x960.jpg",
-        "tags": [
-            "economía",
-            "transports metropolitans barcelona tmb",
-            "movilidad",
-            "contratos barcelona",
-            "metro barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260101/tmb-renovara-trenes-metro-barcelona-millones-licitacion-fallida-alstom/1003742719651_0.html",
-        "date": "2026-01-01 21:38:42",
-        "sentiment_score": 0.2788810655474663
-    },
-    {
-        "title": "El chef Martín Berasategui: “El sandwich favorito que hago en 15 minutos cuando llego a casa sin ganas de cocinar”",
-        "image_url": "https://okdiario.com/img/2025/10/06/sandwich-de-aguacate-y-anguila.jpg",
-        "tags": [
-            "recetas",
-            "recetas de pan y bollería",
-            "recetas de cocina",
-            "chef"
-        ],
-        "link": "https://okdiario.com/recetas/chef-martin-berasategui-sandwich-favorito-que-hago-15-minutos-cuando-llego-casa-sin-ganas-cocinar-15538425",
-        "date": "2026-01-01 21:35:18",
-        "sentiment_score": 0.2971533238887787
-    },
-    {
-        "title": "El gobierno suspende a la selección de Gabón y sanciona a Aubameyang",
-        "image_url": "https://www.infobae.com/resizer/v2/CHESYA6VAZALDDFU6AEIEP2DL4.jpg?auth=669fead1f6f3586e0595e20c759b5832477f1a7652e285973db98f3366cbece6&height=1280&smart=true&width=1920",
-        "tags": [
-            "olympique de marsella",
-            "gabón",
-            "simplice-desire mamboula",
-            "eliminación",
-            "selección de gabón",
-            "costa de marfil",
-            "thierry mouyouma",
-            "pierre-emerick aubameyang",
-            "marrakech",
-            "copa áfrica",
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/01/el-gobierno-suspende-a-la-seleccion-de-gabon-y-sanciona-a-aubameyang/",
-        "date": "2026-01-01 21:15:34",
-        "sentiment_score": -0.8872208939865232
-    },
-    {
-        "title": "Mago Pop: de la discusión más tensa en el declive de Bartomeu a nuevo aliado de Laporta en el Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/18/culemania/palco/1003742717094_15525106_1706x960.jpg",
-        "tags": [
-            "joan laporta",
-            "palco",
-            "el clásico",
-            "josep maria bartomeu",
-            "fc barcelona"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260101/mago-pop-discusion-declive-bartomeu-laporta-barca/1003742717086_0.html",
-        "date": "2026-01-01 21:07:55",
-        "sentiment_score": 0.8093172423541546
-    },
-    {
-        "title": "Los cuatro pilares de Xavi Vilajoana para destronar a Joan Laporta: \"No hay rastro de los valores que nos han hecho grandes\"",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/21/culemania/palco/1003742718023_15537260_1706x960.jpg",
-        "tags": [
-            "elecciones barça",
-            "joan laporta",
-            "palco",
-            "xavier vilajoana",
-            "fc barcelona"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260101/pilares-xavi-vilajoana-destronar-joan-laporta-no/1003742717651_0.html",
-        "date": "2026-01-01 21:05:38",
-        "sentiment_score": -0.06416812539100647
-    },
-    {
-        "title": "Magaluf cierra el año con alto nivel",
-        "image_url": "https://www.ultimahora.es/images/og.png",
-        "tags": [
-            "voleibol",
-            "ciclismo",
-            "tenis",
-            "vela",
-            "golf",
-            "deporte balear",
-            "otros deportes",
-            "san silvestre"
-        ],
-        "link": "https://www.ultimahora.es/deportes/otros-deportes/2026/01/01/2541739/magaluf-cierra-ano-alto-nivel.html",
-        "date": "2026-01-01 20:38:00",
-        "sentiment_score": 0.5260705426335335
-    },
-    {
-        "title": "Venezuela y Dominicana, los agujeros negros de Sánchez: del auxilio a Maduro a los vuelos del Falcon a Santo Domingo",
-        "image_url": "https://s3.elespanol.com/2026/01/01/actualidad/1003744075925_260740019_1706x960.jpg",
-        "tags": [
-            "venezuela",
-            "caso koldo",
-            "psoe (partido socialista obrero español)",
-            "política",
-            "república dominicana",
-            "pedro sánchez",
-            "nicolás maduro"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20260102/venezuela-dominicana-agujeros-negros-sanchez-auxilio-maduro-vuelos-falcon-santo-domingo/1003744070639_0.html",
-        "date": "2026-01-02 01:32:06",
-        "sentiment_score": -0.7954623699188232
-    },
-    {
-        "title": "La 'rave' sin ley de Albacete amenaza con superar todos los récords de la 'Big Fucking Party'",
-        "image_url": "https://s3.elespanol.com/2026/01/01/actualidad/1003744075909_260739857_1706x960.jpg",
-        "tags": [
-            "albacete",
-            "albacete (provincia)",
-            "castilla-la mancha"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/albacete/20260102/rave-sin-ley-albacete-amenaza-superar-records-big-fucking-party/1003744075907_0.html",
-        "date": "2026-01-02 01:02:21",
-        "sentiment_score": -0.8813381064683199
-    },
-    {
-        "title": "Masorange dispara las operaciones corporativas hasta 65.000 millones",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/707cf536737b02a5b9862c048116deca/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/01/17673036929279.jpg",
-        "tags": [
-            "empresas>"
-        ],
-        "link": "https://www.expansion.com/empresas/tecnologia/2026/01/02/6956e43f468aebd6188b4582.html",
-        "date": "2026-01-02 00:56:05",
-        "sentiment_score": -0.16283921897411346
-    },
-    {
-        "title": "Esta sería la millonada que ganaría James Rodríguez en su nuevo club: estaría entre los mejor pagados en la liga de Estados Unidos",
-        "image_url": "https://www.infobae.com/resizer/v2/NYN5YE4FNBESRB3IPNTGOQ5QNE.JPG?auth=ebe2787b3def0be324594f33a9b5e405cfcc57a5a884467af4ed3b7e252ca808&height=1063&smart=true&width=1889",
-        "tags": [
-            "mercado de pases",
-            "mercado de fichajes",
-            "james mls",
-            "león de méxico",
-            "colombia-deportes",
-            "james rodríguez",
-            "mls",
-            "fútbol colombiano",
-            "copa del mundo 2026",
-            "selección colombia"
-        ],
-        "link": "https://www.infobae.com/colombia/2026/01/02/esta-seria-la-millonada-que-ganaria-james-rodriguez-en-su-nuevo-club-estaria-entre-los-mejor-pagados-en-la-liga-de-estados-unidos/",
-        "date": "2026-01-02 00:51:04",
-        "sentiment_score": -0.5284225605428219
-    },
-    {
-        "title": "Los 16 distritos de Madrid que celebran su propia cabalgata de Reyes: una cuenta con 50 años de vida y 1.500 participantes",
-        "image_url": "https://s3.elespanol.com/2026/01/01/madrid/1003744075807_260738472_1706x960.jpg",
-        "tags": [
-            "madrid",
-            "cabalgata de reyes",
-            "ocio",
-            "navidad"
-        ],
-        "link": "https://www.elespanol.com/madrid/ocio/20260102/distritos-madrid-celebran-propia-cabalgata-reyes-cuenta-anos-vida-participantes/1003744075740_0.html",
-        "date": "2026-01-02 00:49:04",
-        "sentiment_score": 0.06619606912136078
-    },
-    {
-        "title": "El deseo en el Siglo de Oro, según De Villena: así amaron Garcilaso, Teresa de Jesús, Lope, Quevedo y Góngora",
-        "image_url": "https://s3.elespanol.com/2026/01/01/actualidad/1003744075694_260737049_1706x960.jpg",
-        "tags": [
-            "ec-critica-letras",
-            "letras",
-            "libros",
-            "historia",
-            "literatura",
-            "luis antonio de villena"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/letras/20260102/deseo-siglo-oro-villena-amaron-garcilaso-teresa-jesus-lope-quevedo-gongora/1003744075668_0.html",
-        "date": "2026-01-02 00:34:52",
-        "sentiment_score": 0.3203118294477463
-    },
-    {
-        "title": "Marilyn Monroe, un mito omnipresente: la mujer más deseada e incomprendida de Hollywood cumple un siglo",
-        "image_url": "https://s3.elespanol.com/2025/12/19/actualidad/1003744063768_260587251_1706x960.jpg",
-        "tags": [
-            "cine",
-            "exposiciones",
-            "marilyn monroe"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/cine/20260102/marilyn-monroe-mito-omnipresente-mujer-deseada-incomprendida-hollywood-cumple-siglo/1003744063760_0.html",
-        "date": "2026-01-02 00:33:36",
-        "sentiment_score": -0.3744308054447174
-    },
-    {
-        "title": "Una rave en Albacete reúne a unos mil coches, caravanas y furgonetas",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2026/01/02/una-fiesta-rave-reune-a-mas-de-mil-vehiculos-en-el-pantano-del-cenajo-en-albacete.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/noticias/nacional/2026/01/02/300-guardias-civiles-vigilan-rave-albacete-transcurre-sin-incidentesmacrofiesta-rave-1882623.html",
-        "date": "2026-01-02 00:00:59",
-        "sentiment_score": 0.14509982615709305
-    },
-    {
-        "title": "¿Éxito o fracaso?",
-        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2026/01/01/FOTO%20PP%20EXT%20-%20GUARDIOLA%20-%20NAVALM--758x531.jpg",
-        "tags": [
-            "exito",
-            "fracaso"
-        ],
-        "link": "https://www.hoy.es/opinion/j-m-rodriguez-figueredo-exito-fracaso-20260102080537-nt.html",
-        "date": "2026-01-02 00:00:00",
-        "sentiment_score": -0.7876161634922028
-    },
-    {
-        "title": "EL ESPAÑOL lanza su nuevo Curso de Comunicación con IA y Creación de Contenidos: 50 horas, online y muy asequible",
-        "image_url": "https://s3.elespanol.com/2025/12/30/actualidad/1003744074380_260719246_1706x960.jpg",
-        "tags": [
-            "inteligencia artificial",
-            "curso online periodismo multiplataforma",
-            "periódico el español",
-            "ucjc: universidad camilo josé cela",
-            "educación"
-        ],
-        "link": "https://www.elespanol.com/sociedad/educacion/20260102/espanol-lanza-nuevo-curso-comunicacion-ia-creacion-contenidos-horas-online-asequible/1003744073695_0.html",
-        "date": "2026-01-01 23:59:42",
-        "sentiment_score": 0.499185873195529
-    },
-    {
-        "title": "Tras asegurarse la continuidad de Neymar, el Santos va por otra estrella con pasado de selección",
-        "image_url": "https://www.infobae.com/resizer/v2/PFF3PO3MIVFLXLXJE2FKLMW7PM.jpg?auth=5522af4fa1c9f5c8edd11676eed58c8aa0eff55d408f6d02731903a64a974b6b&height=1765&smart=true&width=2647",
-        "tags": [
-            "deportes-argentina",
-            "cruzeiro",
-            "gabigol",
-            "santos",
-            "neymar"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/02/tras-asegurarse-la-continuidad-de-neymar-el-santos-va-por-otra-estrella-con-pasado-de-seleccion/",
-        "date": "2026-01-02 01:11:11",
-        "sentiment_score": 0.046088844537734985
-    },
-    {
-        "title": "El exmilitar Paco vivió 3 años en la calle por culpa de la heroína y, tras desintoxicarse, busca a su hermana: \"Es mi deseo de 2026\"",
-        "image_url": "https://s3.elespanol.com/2026/01/01/actualidad/1003744075714_260737297_1706x960.jpg",
-        "tags": [
-            "heroína",
-            "familia",
-            "cáritas",
-            "vih sida",
-            "ine instituto nacional de estadistica",
-            "madrid",
-            "cocaína",
-            "reportajes",
-            "ejército de tierra",
-            "farmacias"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260102/exmilitar-paco-vivio-anos-calle-culpa-heroina-desintoxicarse-busca-hermana-deseo/1003744074987_0.html",
-        "date": "2026-01-02 00:18:27",
-        "sentiment_score": -0.22813573479652405
-    },
-    {
-        "title": "La francesa Sonepar adquiere la compañía catalana Grup Carol",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/a3fdf28be056ec3e749c437bc909b45b/crop/60x115/1140x835/f/webp/assets/multimedia/imagenes/2026/01/01/17672876952648.jpg",
-        "tags": [
-            "industria>",
-            "cataluña>",
-            "fusiones y adquisiciones>"
-        ],
-        "link": "https://www.expansion.com/catalunya/2026/01/02/6956ac08468aeb8f3b8b4570.html",
-        "date": "2026-01-02 00:14:51",
-        "sentiment_score": 0.6991260051727295
-    },
-    {
-        "title": "Una montanera soñada por los productores de ibérico",
-        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2026/01/02/209974367.jpg",
-        "tags": [
-            "extremadura"
-        ],
-        "link": "https://www.hoy.es/agro/ganaderia/montanera-sonada-productores-iberico-20260102080134-nt.html",
-        "date": "2026-01-02 00:00:00",
-        "sentiment_score": 0.7943564262241125
-    },
-    {
-        "title": "El gran año de Amaia Romero: 200.000 euros en ingresos anuales y un suculento contrato publicitario como 'it girl'",
-        "image_url": "https://s3.elespanol.com/2025/12/31/actualidad/1003744074866_260724973_1706x960.jpg",
-        "tags": [
-            "famosos",
-            "operación triunfo",
-            "amaia romero",
-            "patrimonio personal"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20260102/gran-ano-amaia-romero-euros-ingresos-anuales-suculento-contrato-publicitario-it-girl/1003744074820_0.html",
-        "date": "2026-01-01 23:48:05",
-        "sentiment_score": 0.4967478960752487
-    },
-    {
-        "title": "Lionel Messi comenzó el 2026 jugando al fútbol: el video que publicó Antonela Roccuzzo",
-        "image_url": "https://www.infobae.com/resizer/v2/P4NNFDWEBVEINLOK5WPMFUFV2E.png?auth=fd84af5ce29ed9bf3b6d0e6be62aa76e87fbdbc5de4fb60a1a2e7f9d504ebd72&height=1080&smart=true&width=1920",
-        "tags": [
-            "antonela roccuzzo",
-            "lionel messi"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/01/lionel-messi-comenzo-el-2026-jugando-al-futbol-el-video-que-publico-antonela-roccuzzo/",
-        "date": "2026-01-01 23:39:20",
-        "sentiment_score": 0.688368670642376
-    },
-    {
-        "title": "Interpath, la banca de inversión nacida como una escisión de KPMG",
-        "image_url": "https://phantom-expansion.uecdn.es/b7c47b9a9fbc74c6ff1ac4cdeed71192/crop/210x39/1732x1053/resize/1522/assets/multimedia/imagenes/2025/12/23/17664908770907.jpg",
-        "tags": [
-            "artículos manuel de la cruz>",
-            "equipos financieros>",
-            "mercados>"
-        ],
-        "link": "https://www.expansion.com/mercados/fondos/2026/01/02/694a85a9468aeb01078b458c.html",
-        "date": "2026-01-01 23:28:27",
-        "sentiment_score": 0.23769224807620049
-    },
-    {
-        "title": "Calidez todo el año: hogares con alma y para celebrar la vida en Barcelona",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/460a6f046fa98cf78e6decee49a95ca1/f/webp/assets/multimedia/imagenes/2025/12/30/17671226517826.png",
-        "tags": [
-            "mercado inmobiliario>",
-            "cataluña>",
-            "inmobiliario>",
-            "casas>",
-            "estilo de vida>"
-        ],
-        "link": "https://www.expansion.com/directivos/estilo-vida/casas/2026/01/02/695429f0e5fdea9e768b4591.html",
-        "date": "2026-01-01 23:28:17",
-        "sentiment_score": 0.05199827253818512
-    },
-    {
-        "title": "El fondo público de pensiones no sale de su parálisis",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/2a2a532d38f23cc1261a6cc738f794b1/crop/167x30/1900x1185/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/02/17673092960885.jpg",
-        "tags": [
-            "pensiones>"
-        ],
-        "link": "https://www.expansion.com/ahorro/pensiones/2026/01/02/6956fedc468aeba22f8b458a.html",
-        "date": "2026-01-01 23:16:04",
-        "sentiment_score": -0.5159284099936485
-    },
-    {
-        "title": "Una islamista radical marroquí afincada en España planea fundar un «banco islámico»",
-        "image_url": "https://gaceta.es/wp-content/uploads/2025/10/98-24-1-1.jpg",
-        "tags": [
-            "inmigración",
-            "islamismo",
-            "españa",
-            "yihadismo"
-        ],
-        "link": "https://gaceta.es/espana/una-islamista-radical-marroqui-afincada-en-espana-planea-fundar-un-banco-islamico-20260102-0010/",
-        "date": "2026-01-01 23:10:00",
-        "sentiment_score": 0.37961383163928986
-    },
-    {
         "title": "El presidente burgalés del Real Madrid fusilado y olvidado por el club",
         "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/uploads/2025/12/28/6950f14a7675e.jpeg",
         "tags": [
@@ -576,79 +63,6 @@ export default [
         "link": "https://www.lavozdealmeria.com/ud-almeria/425182/almeria-celebra-vuelta-rachad.html",
         "date": "2026-01-02 05:44:41",
         "sentiment_score": 0.4227309934794903
-    },
-    {
-        "title": "Urbanistas lanzan un crowdfunding para defender la Residencia de Tiempo Libre de Marbella",
-        "image_url": "https://static.grupojoly.com/clip/b038fe88-da94-4273-a4e5-b01e6fccd8fb_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias málaga",
-            "ayuntamiento de marbella"
-        ],
-        "link": "https://www.malagahoy.es/marbella/urbanistas-lanzan-crowdfunding-defender-residencia_0_2005533197.html",
-        "date": "2026-01-02 05:10:09",
-        "sentiment_score": -0.6304784119129181
-    },
-    {
-        "title": "El Concello de A Illa plantea adquirir la casa del narco Marcial Dorado",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/16f9e245-aed6-497e-afba-1f7d90fc3b95_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "drogas",
-            "plan nacional sobre drogas",
-            "encuentro",
-            "marcial dorado",
-            "concello"
-        ],
-        "link": "https://www.farodevigo.es/arousa/2026/01/02/concello-illa-plantea-adquirir-casa-125300143.html",
-        "date": "2026-01-02 05:06:19",
-        "sentiment_score": -0.21908491849899292
-    },
-    {
-        "title": "Jornada 18 de La Liga: resultados y resúmenes de los partidos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/A466A4WS4BJHHJESYY7OURSYBE.jpg?auth=5c4b351724853090483c41f41b22f65e7659188dc6e2fa8dd66f9cb3c00046a1&width=1200",
-        "tags": [
-            "deportivo alavés",
-            "osasuna",
-            "real betis",
-            "getafe cf",
-            "girona fc",
-            "rayo vallecano",
-            "celta de vigo",
-            "atlético de madrid",
-            "sevilla fútbol club",
-            "rcd espanyol",
-            "futbolistas",
-            "fútbol",
-            "valencia cf",
-            "competiciones",
-            "levante ud",
-            "real oviedo",
-            "entrenadores",
-            "deportes",
-            "rcd mallorca",
-            "real madrid",
-            "laliga ea sports",
-            "elche cf",
-            "fc barcelona",
-            "real sociedad",
-            "villarreal cf",
-            "athletic"
-        ],
-        "link": "https://elpais.com/deportes/futbol/2026-01-02/jornada-18-de-la-liga-resultados-y-resumenes-de-los-partidos.html",
-        "date": "2026-01-02 05:01:28",
-        "sentiment_score": 0.0297011137008667
-    },
-    {
-        "title": "‘La Emoción’ homenajea a Salzillo con un concierto navideño en la Iglesia de Jesús",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3819badc-7f16-44eb-a8eb-dc56b324cd89_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "música",
-            "concierto",
-            "iglesia",
-            "jesús"
-        ],
-        "link": "https://www.laopiniondemurcia.es/cultura/2026/01/02/emocion-homenajea-salzillo-concierto-navideno-125301587.html",
-        "date": "2026-01-02 05:01:13",
-        "sentiment_score": 0.10398818552494049
     },
     {
         "title": "Málaga alcanza un nuevo máximo histórico de empresas y roza las 60.000",
@@ -3429,5 +2843,212 @@ export default [
         "link": "https://www.laopiniondemalaga.es/malaga/2026/01/05/profesores-sobrepasados-faltas-respeto-son-125369950.html",
         "date": "2026-01-05 06:00:25",
         "sentiment_score": -0.818239483051002
+    },
+    {
+        "title": "El Real Madrid visitará La Cerámica el sábado 24 de enero y el Barça recibirá al Oviedo el domingo 25",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260105181247_690.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-real-madrid-visitara-ceramica-sabado-24-enero-barca-recibira-oviedo-domingo-25-20260105181247.html",
+        "date": "2026-01-05 17:12:47",
+        "sentiment_score": 0.08082379586994648
+    },
+    {
+        "title": "Más ejercicio o hacer actividad física en compañía, entre los propósitos de 2026 según un estudio de Decathlon",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260105181123_690.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/noticia-mas-ejercicio-hacer-actividad-fisica-compania-propositos-2026-estudio-decathlon-20260105181123.html",
+        "date": "2026-01-05 17:11:23",
+        "sentiment_score": 0.4231012910604477
+    },
+    {
+        "title": "Más Madrid exige que se impida el Real Madrid-Maccabi Tel Aviv por \"legitimar un régimen genocida\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260105180952_690.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.europapress.es/madrid/noticia-mas-madrid-exige-impida-real-madrid-maccabi-tel-aviv-legitimar-regimen-genocida-20260105180952.html",
+        "date": "2026-01-05 17:09:52",
+        "sentiment_score": -0.9250672897323966
+    },
+    {
+        "title": "El Real Madrid - Maccabi se jugará a puerta cerrada por motivos de seguridad",
+        "image_url": "https://cflvdg.avoz.es/sc/MAhxxHZq4wH2Gn61Nizfhv-o7OI=/768x/2026/01/05/00121767632641469659555/Foto/eup_20251228_203116925.jpg",
+        "tags": [
+            "euroliga",
+            "fc barcelona",
+            "xenofobia",
+            "real madrid",
+            "deportes"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/05/real-madrid-maccabi-jugara-puerta-cerrada-motivos-seguridad/00031767632802939613199.htm",
+        "date": "2026-01-05 17:09:00",
+        "sentiment_score": 0.10043603181838989
+    },
+    {
+        "title": "17:00H | 05 ENE 2026 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-05-ene-2026-tarde-20260105_3281273.html",
+        "date": "2026-01-05 17:08:00",
+        "sentiment_score": -0.10419628024101257
+    },
+    {
+        "title": "Ciudad Real, entre las provincias que más casos por discriminación racial registró en 2025",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/Racismo.jpg",
+        "tags": [
+            "provincia de ciudad real",
+            "racismo",
+            "estadística"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/ciudad-real-entre-las-provincias-que-mas-casos-por-discriminacion-racial-registro-en-2025/",
+        "date": "2026-01-05 17:07:58",
+        "sentiment_score": -0.1461433321237564
+    },
+    {
+        "title": "Xavi Pascual acerca al Barça de basket a la gran estrella del Real Madrid",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/05/culemania/secciones/1003742721122_15574535_1706x960.jpg",
+        "tags": [
+            "fcb basket",
+            "xavi pascual",
+            "secciones"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260105/xavi-pascual-acerca-barca-estrella-real-madrid/1003742721117_0.html",
+        "date": "2026-01-05 17:04:26",
+        "sentiment_score": 0.0237494558095932
+    },
+    {
+        "title": "El Baskonia, a la espera del mejor Forrest",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/3119c194-7d92-472f-a367-1599cdff6da7_16-9-aspect-ratio_default_0_x851y730.jpg",
+        "tags": [
+            "espera",
+            "mejor",
+            "forrest",
+            "baskonia"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/01/05/baskonia-espera-mejor-forrest-10542488.html",
+        "date": "2026-01-05 17:00:57",
+        "sentiment_score": -0.7964518293738365
+    },
+    {
+        "title": "El Bayern tiembla ante el deseo de Lennart Karl, su nueva estrella: \"Algún día quiero jugar en el Real Madrid, es mi club\"",
+        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744049914_260409880_1706x960.jpg",
+        "tags": [
+            "fc bayern de múnich",
+            "fútbol",
+            "real madrid cf",
+            "deportes"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20260105/bayern-tiembla-deseo-lennart-karl-nueva-estrella-algun-dia-quiero-jugar-real-madrid-club/1003744079118_0.html",
+        "date": "2026-01-05 16:59:44",
+        "sentiment_score": 0.6838864609599113
+    },
+    {
+        "title": "Sánchez alega una reunión sobre Ucrania para no ir a la Pascua Militar",
+        "image_url": "https://cflvdg.avoz.es/sc/hPzpmQctRn6cmMnmtdDEHMPrQy8=/768x/2025/01/06/00121736164322600972714/Foto/efe_20250106_114501007.jpg",
+        "tags": [
+            "felipe vi",
+            "volodímir zelenski",
+            "ucrania",
+            "emmanuel macron",
+            "españa",
+            "margarita robles"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/espana/2026/01/05/sanchez-alega-reunion-sobre-ucrania-ir-pascua-militar/00031767631944968407672.htm",
+        "date": "2026-01-05 16:56:00",
+        "sentiment_score": -0.2739753872156143
+    },
+    {
+        "title": "Romeo Santos y Prince Royce actuarán el 30 de julio en A Coruña en su gira conjunta 'Mejor Tarde Que Nunca'",
+        "image_url": "https://www.galiciapress.es/images/285310",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.galiciapress.es/articulo/ultima-hora/2026-01-05/5723815-romeo-santos-prince-royce-actuaran-30-julio-coruna-gira-conjunta-mejor-tarde-nunca",
+        "date": "2026-01-05 17:16:02",
+        "sentiment_score": 0.2989403288811445
+    },
+    {
+        "title": "Collboni recibe a los Reyes Magos en Barcelona y les pide \"protección\" para los niños en conflictos",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260105181419_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-collboni-recibe-reyes-magos-barcelona-les-pide-proteccion-ninos-conflictos-20260105181419.html",
+        "date": "2026-01-05 17:14:19",
+        "sentiment_score": -0.6412626914680004
+    },
+    {
+        "title": "Dmitrovic delata al CTA en su charla con García Verdura: «Ojalá todos como tú, pero el criterio...»",
+        "image_url": "https://okdiario.com/img/2026/01/05/befunky-collage-2.jpg",
+        "tags": [
+            "fc barcelona",
+            "deportes",
+            "barcelona",
+            "rcd espanyol",
+            "fútbol"
+        ],
+        "link": "https://okdiario.com/deportes/dmitrovic-delata-cta-charla-garcia-verdura-ojala-todos-como-tu-pero-criterio-16026065",
+        "date": "2026-01-05 17:08:29",
+        "sentiment_score": -0.1572531759738922
+    },
+    {
+        "title": "El Premio Nadal y el Josep Pla se fallarán este martes en una velada literaria en Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/01/05/vivir-en-barcelona/914168605_13941191_1706x960.jpg",
+        "tags": [
+            "vivir en barcelona",
+            "barcelona literaria",
+            "literatura",
+            "premios"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260105/premio-nadal-josep-pla-fallaran-martes-velada-literaria-barcelona/1003742721120_0.html",
+        "date": "2026-01-05 17:05:36",
+        "sentiment_score": 0.41279153153300285
+    },
+    {
+        "title": "Sánchez acelera con ERC para sentar las bases de la nueva financiación autonómica",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/05/154566918-kmqF-U240752571137vCB-1200x840@RC.jpg",
+        "tags": [
+            "junts per catalunya",
+            "oriol junqueras",
+            "generalitat de cataluña",
+            "pedro sánchez",
+            "gabriel rufián",
+            "esquerra republicana"
+        ],
+        "link": "https://www.ideal.es/nacional/sanchez-acelera-erc-sentar-bases-nueva-financiacion-20260105180514-ntrc.html",
+        "date": "2026-01-05 17:05:15",
+        "sentiment_score": -0.060857608914375305
+    },
+    {
+        "title": "Imanol Arias y Pastora Vega van a ser abuelos: su hijo Jon espera su primer bebé junto a la actriz Alba Ribas",
+        "image_url": "https://www.hola.com/horizon/landscape/f2f8292d1d84-snapinstato574769432185459763340315607788403980906707270n.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "pastora vega",
+            "imanol arias",
+            "actualidad"
+        ],
+        "link": "https://www.hola.com/actualidad/20260105876151/imanol-arias-y-pastora-vega-van-a-ser-abuelos/",
+        "date": "2026-01-05 17:04:40",
+        "sentiment_score": 0.8326814481988549
+    },
+    {
+        "title": "Las 'start up' cuánticas ya atraen capital masivo",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/7210496b45617b7af526678733ce33b9/crop/178x233/1786x1305/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/05/17676324120577.jpg",
+        "tags": [
+            "emprendedores",
+            "empleo",
+            "pymes"
+        ],
+        "link": "https://www.expansion.com/expansion-empleo/emprendedores/2026/01/05/695beaf7468aeb71018b4583.html",
+        "date": "2026-01-05 17:03:22",
+        "sentiment_score": 0.5181846246123314
     }
 ];
