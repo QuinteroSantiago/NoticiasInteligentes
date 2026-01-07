@@ -12,33 +12,6 @@ export default [
         "sentiment_score": -0.7555730026215315
     },
     {
-        "title": "¿Qué ocurrirá en Venezuela tras la acción de EEUU?",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/be0bac6fade27944ed7bb479361873106a09979aw.jpg",
-        "tags": [
-            "eeuu",
-            "venezuela",
-            "actualidad",
-            "internacionales",
-            "nacionales"
-        ],
-        "link": "https://lapatilla.com/2026/01/03/que-ocurrira-en-venezuela-tras-la-accion-de-eeuu/",
-        "date": "2026-01-03 14:18:41",
-        "sentiment_score": -0.3641430474817753
-    },
-    {
-        "title": "Nicolás Maduro, el político improbable que desafió a todos los pronósticos pero no pudo con el último",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/regimen-de-nicolas-maduro-venezuela.jpg",
-        "tags": [
-            "actualidad",
-            "nicolás maduro",
-            "nacionales",
-            "internacionales"
-        ],
-        "link": "https://lapatilla.com/2026/01/03/nicolas-maduro-el-politico-improbable-que-desafio-a-todos-los-pronosticos-pero-no-pudo-con-el-ultimo/",
-        "date": "2026-01-03 12:54:13",
-        "sentiment_score": -0.7725238911807537
-    },
-    {
         "title": "Petro condena el ataque de EE.UU. a Venezuela y convoca al Consejo de Seguridad de la ONU",
         "image_url": "https://cdn.mnmstatic.net/cache/3f/0c/media_thumb-link-4132087.webp?1767449946=",
         "tags": [
@@ -503,33 +476,6 @@ export default [
         "link": "https://lapatilla.com/2026/01/03/quien-es-vladimir-padrino-lopez-el-ministro-de-defensa-de-venezuela/",
         "date": "2026-01-03 15:31:31",
         "sentiment_score": -0.7555732652544975
-    },
-    {
-        "title": "¿Qué ocurrirá en Venezuela tras la acción de EEUU?",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/be0bac6fade27944ed7bb479361873106a09979aw.jpg",
-        "tags": [
-            "eeuu",
-            "venezuela",
-            "actualidad",
-            "internacionales",
-            "nacionales"
-        ],
-        "link": "https://lapatilla.com/2026/01/03/que-ocurrira-en-venezuela-tras-la-accion-de-eeuu/",
-        "date": "2026-01-03 14:18:41",
-        "sentiment_score": -0.36414238065481186
-    },
-    {
-        "title": "Nicolás Maduro, el político improbable que desafió a todos los pronósticos pero no pudo con el último",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/regimen-de-nicolas-maduro-venezuela.jpg",
-        "tags": [
-            "actualidad",
-            "nicolás maduro",
-            "nacionales",
-            "internacionales"
-        ],
-        "link": "https://lapatilla.com/2026/01/03/nicolas-maduro-el-politico-improbable-que-desafio-a-todos-los-pronosticos-pero-no-pudo-con-el-ultimo/",
-        "date": "2026-01-03 12:54:13",
-        "sentiment_score": -0.7725244555622339
     },
     {
         "title": "Petro condena el ataque de EE.UU. a Venezuela y convoca al Consejo de Seguridad de la ONU",
@@ -2910,5 +2856,212 @@ export default [
         "link": "https://www.levante-emv.com/cultura/2026/01/06/david-ucles-gana-premio-nadal-125430489.html",
         "date": "2026-01-06 21:53:30",
         "sentiment_score": 0.6638080030679703
+    },
+    {
+        "title": "«Es Dios quien decide»: la respuesta de Delcy a Trump mientras Caracas se convierte en un Estado policial",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2026/01/07/delcy-kKBH-U1015272988060gC-1200x840@diario_abc.jpg",
+        "tags": [
+            "donald trump",
+            "intervención",
+            "caracas",
+            "estados unidos",
+            "josé luis rodríguez zapatero",
+            "políticos",
+            "nicolás maduro",
+            "venezuela",
+            "colombia",
+            "presos"
+        ],
+        "link": "https://www.abc.es/internacional/dios-decide-respuesta-delcy-trump-caracas-convierte-20260107031558-nt.html",
+        "date": "2026-01-07 02:16:00",
+        "sentiment_score": -0.11215353012084961
+    },
+    {
+        "title": "Iker Casillas pide prudencia tras la operación de Sara Carbonero",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/25/2025102505351537352.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/iker-casillas-pide-prudencia-operacion-sara-carbonero/20260107021721369586.html",
+        "date": "2026-01-07 01:17:21",
+        "sentiment_score": -0.11709573864936829
+    },
+    {
+        "title": "La lesión de Mbappé deja en evidencia la gestión del Real Madrid",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/19/2025101923111111708.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/lesion-mbappe-deja-evidencia-gestion-real-madrid/20260107020721369585.html",
+        "date": "2026-01-07 01:07:21",
+        "sentiment_score": 0.436153307557106
+    },
+    {
+        "title": "La impactante sentencia del mejor ajedrecista del mundo sobre la comparación entre Faustino Oro y Lionel Messi",
+        "image_url": "https://www.infobae.com/resizer/v2/BF7P4OV32ZFZHGDXBRL3XY7MDA.jpg?auth=4fdc39a9f449d09bdb477c0a15151deb32ef65fe9b267c51f6c0a0060e195b47&height=1080&smart=true&width=1920",
+        "tags": [
+            "faustino oro",
+            "lionel messi",
+            "deportes-internacional",
+            "ajedrez",
+            "deportes-argentina",
+            "magnus carlsen"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/07/la-impactante-sentencia-del-mejor-ajedrecista-del-mundo-sobre-la-comparacion-entre-faustino-oro-y-lionel-messi/",
+        "date": "2026-01-07 00:40:49",
+        "sentiment_score": 0.12270790338516235
+    },
+    {
+        "title": "06 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/06-ene-2026-partidazo-cope-20260107_3281468.html",
+        "date": "2026-01-07 00:34:50",
+        "sentiment_score": -0.5568699594587088
+    },
+    {
+        "title": "3a PARTE | 06 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-06-ene-2026-partidazo-cope-20260107_3281466.html",
+        "date": "2026-01-07 00:33:46",
+        "sentiment_score": -0.010126769542694092
+    },
+    {
+        "title": "El bien y los bienes en Venezuela",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/03/02/6400d275bdf6b.png",
+        "tags": [
+            "tribuna"
+        ],
+        "link": "https://www.eldebate.com/opinion/tribuna/20260107/bien-bienes-venezuela_371530.html",
+        "date": "2026-01-07 00:30:00",
+        "sentiment_score": -0.015394240617752075
+    },
+    {
+        "title": "Joao Grimaldo encuentra un nuevo destino en Europa: deja Partizán para enrumbar hacia el Sparta Praga",
+        "image_url": "https://www.infobae.com/resizer/v2/C6UBSL63QRE7FBYZQNO5K7SSBE.jpg?auth=dad2f118cb172b5171fab9b82ba4f884cd8629996780a7f0b3b94ca329aeca9d&height=1080&smart=true&width=1920",
+        "tags": [
+            "selección peruana",
+            "sparta praga",
+            "peru-deportes",
+            "joao grimaldo"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/01/07/joao-grimaldo-encuentra-un-nuevo-destino-en-europa-deja-partizan-para-enrumbar-hacia-el-sparta-praga/",
+        "date": "2026-01-07 00:28:52",
+        "sentiment_score": 0.8172490149736404
+    },
+    {
+        "title": "El Athletic conoce hoy su rival en los octavos de Copa",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2026/01/06/Imagen%201504403834-kMKG--758x531@El%20Correo.jpg",
+        "tags": [
+            "octavos",
+            "copa",
+            "conoce",
+            "athletic",
+            "hoy",
+            "rival"
+        ],
+        "link": "https://www.elcorreo.com/athletic/athletic-conoce-hoy-rival-octavos-copa-20260106004937-nt.html",
+        "date": "2026-01-06 23:49:38",
+        "sentiment_score": -0.07637814432382584
+    },
+    {
+        "title": "Noah Wyle: «El famoso 'bajón de la segunda temporada' es real»",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/28/noah-wyle-ned-brower-supriya-ganesh-k05E-U240687135773x6C-1200x840@RC.jpg",
+        "tags": [
+            "estados unidos",
+            "series de televisión",
+            "hbo",
+            "premios emmy",
+            "covid-19"
+        ],
+        "link": "https://www.leonoticias.com/pantallas/series/noah-wyle-famoso-bajon-segunda-temporada-real-20251228001236-ntrc.html",
+        "date": "2026-01-06 23:12:37",
+        "sentiment_score": -0.3262866474688053
+    },
+    {
+        "title": "Messi sueña con ser propietario de un club tras su retiro",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/06215829/AFP__20260106__89UE8KE__v1__HighRes__FilesFblArgentina-2560x1630.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.elnacional.com/2026/01/messi-suena-con-ser-propietario-de-un-club-tras-su-retiro/",
+        "date": "2026-01-07 02:10:29",
+        "sentiment_score": -0.26410849392414093
+    },
+    {
+        "title": "A qué hora juega Barcelona vs Athletic Club en Perú: partido por la semifinal de la Supercopa de España",
+        "image_url": "https://www.infobae.com/resizer/v2/VPKXEN27HNAVZCU4BEH5PY2EEM.jpg?auth=f1de1f3f60a3d1013297ebba653ff4749eb2b57c2308267f67c5bc2a2064f4dc&height=1080&smart=true&width=1920",
+        "tags": [
+            "supercopa de españa",
+            "fc barcelona",
+            "athletic bilbao",
+            "peru-deportes"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/01/07/a-que-hora-juega-barcelona-vs-athletic-club-en-peru-partido-por-la-semifinal-de-la-supercopa-de-espana/",
+        "date": "2026-01-07 02:03:24",
+        "sentiment_score": 7.85142183303833e-05
+    },
+    {
+        "title": "Oriente Medio vuelve a rescatar a Laporta en el mercado de invierno: del 'caso Dani Olmo' al regreso de Joao Cancelo",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/07/culemania/palco/1003742721306_15576945_1706x960.jpg",
+        "tags": [
+            "joao cancelo",
+            "joan laporta",
+            "palco",
+            "andreas christensen",
+            "deco",
+            "jorge mendes",
+            "fair play de la liga",
+            "fichajes barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260107/oriente-medio-laporta-dani-olmo-joao-cancelo/1003742721305_0.html",
+        "date": "2026-01-07 01:30:45",
+        "sentiment_score": -0.5308877155184746
+    },
+    {
+        "title": "Messi reveló más detalles del paso por Newell’s, la prueba en River Plate y su futuro: ¿entrenador, mánager o propietario?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/01/06/messi-newells-river-plate-futuro-propietario-orix/",
+        "date": "2026-01-07 01:03:41",
+        "sentiment_score": 0.09924282133579254
+    },
+    {
+        "title": "Sanitas: \"No podemos cuidar de las personas sin un planeta sano\"",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/514b6a176e75d859f1f3d75ec70ae280/crop/205x137/1843x1229/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/26/17667445538125.jpg",
+        "tags": [
+            "sostenibilidad>"
+        ],
+        "link": "https://www.expansion.com/economia-sostenible/2026/01/07/694e620d468aeb25408b4599.html",
+        "date": "2026-01-07 00:45:37",
+        "sentiment_score": 0.3652666360139847
+    },
+    {
+        "title": "Lamine Yamal vuelve a encender las alarmas antes de la Supercopa",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/16/2025071602150652830.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/lamine-yamal-vuelve-encender-alarmas-antes-supercopa/20260107013732369582.html",
+        "date": "2026-01-07 00:37:32",
+        "sentiment_score": -0.6299204714596272
+    },
+    {
+        "title": "Movilex: economía circular para impulsar el desarrollo local",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/bfb2c4e03ce710b9d25146bfc57cd692/crop/241x131/1807x1175/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/26/17667448372288.jpg",
+        "tags": [
+            "sostenibilidad>"
+        ],
+        "link": "https://www.expansion.com/economia-sostenible/2026/01/07/694e631de5fdea4e5e8b4598.html",
+        "date": "2026-01-07 00:33:39",
+        "sentiment_score": 0.5642692372202873
     }
 ];
