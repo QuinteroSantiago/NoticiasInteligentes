@@ -1,165 +1,5 @@
 export default [
     {
-        "title": "La victoria, primer propósito del Athletic de año nuevo",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/8dcbe70f-d45a-403b-8c80-60a8b5f24b65_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "victoria",
-            "ano",
-            "primer",
-            "athletic",
-            "proposito"
-        ],
-        "link": "https://www.deia.eus/athletic/2026/01/03/victoria-primer-proposito-athletic-ano-10533503.html",
-        "date": "2026-01-03 06:30:46",
-        "sentiment_score": -0.06990289688110352
-    },
-    {
-        "title": "El Tribunal Supremo descarta el carácter sancionador de la reducción de rentabilidad a instalaciones renovables con litigios",
-        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2026/01/ENERGETICAS.jpg",
-        "tags": [
-            "tribunal supremo",
-            "app",
-            "litigios arbitrales",
-            "sector eléctrico",
-            "artículos",
-            "incentivos regulatorios",
-            "energías renovables",
-            "rentabilidad razonable",
-            "artículo 25 ce",
-            "znoticia portada1"
-        ],
-        "link": "https://www.economistjurist.es/articulos-juridicos-destacados/el-tribunal-supremo-descarta-el-caracter-sancionador-de-la-reduccion-de-rentabilidad-a-instalaciones-renovables-con-litigios/",
-        "date": "2026-01-03 06:00:47",
-        "sentiment_score": -0.12301928550004959
-    },
-    {
-        "title": "Tradiciones de año nuevo: campanadas, 'necroporra' y 'rave'",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6dc0b5da-b330-49cd-9115-1a7f04b9d5e8_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cristina pedroche",
-            "albacete",
-            "chenoa",
-            "estopa"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20260103/tradiciones-ano-nuevo-campanadas-necroporra-rave-redes-125320264",
-        "date": "2026-01-03 06:00:04",
-        "sentiment_score": -0.4871346317231655
-    },
-    {
-        "title": "Luis García y la intrahistoria con un Real Zaragoza especial en su carrera",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b6d1df2e-4ce8-4692-8a7c-a36570c29785_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol",
-            "real zaragoza"
-        ],
-        "link": "https://www.elperiodicodearagon.com/real-zaragoza/2026/01/03/luis-garcia-intrahistoria-real-zaragoza-125310178.html",
-        "date": "2026-01-03 05:58:00",
-        "sentiment_score": 0.055134981870651245
-    },
-    {
-        "title": "Stats & Facts RCDE | Espanyol – Barça: estadísticas, precedentes y curiosidades de un derbi que arde",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/12/estadisticas-stats-facts-espanyol-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagradaonline.com/espanyol-barcelona-estadisticas-precedentes-curiosidades-derbi-jornada-18-laliga-25-26/",
-        "date": "2026-01-03 05:30:40",
-        "sentiment_score": 0.01438334584236145
-    },
-    {
-        "title": "Nico Paz y Mastantuono: ¿solo uno brillará en el nuevo Real Madrid?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/10/2025121017310715266.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/2222222/20260103062834369199.html",
-        "date": "2026-01-03 05:28:34",
-        "sentiment_score": 0.6490733586251736
-    },
-    {
-        "title": "La DO Rueda esquiva las adversidades del sector y anota otro récord de ventas",
-        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/uploads/2026/01/02/6957cc09ce35d.png",
-        "tags": [
-            "castilla y león"
-        ],
-        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/260103/103932/do-rueda-esquiva-adversidades-sector-anota-record-ventas.html",
-        "date": "2026-01-03 06:30:00",
-        "sentiment_score": 0.23025841265916824
-    },
-    {
-        "title": "Rafael Barradas, el gran ignorado por los museos catalanes",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/01/02/EC3B5E2F-F828-469F-9648-9916C74F29E7/pacifico-puerta-atocha-cuadro-1918-propiedad-ayuntamiento-girona_69.jpg?crop=1900%2C1069%2Cx0%2Cy0&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/rafael-barradas-gran-ignorado-museos-catalanes_202601036958b51dea66eb735324f8ee.html",
-        "date": "2026-01-03 06:20:13",
-        "sentiment_score": -0.8484746180474758
-    },
-    {
-        "title": "“Me horroriza que la gente joven se esté todo el rato maquillando en las redes sociales”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/19/6945ad0ef0fa1.r_d.326-333-7336.png",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.lavanguardia.com/gente/20260103/11381884/maria-adanez-rebela-frente-redes-sociales.html",
-        "date": "2026-01-03 06:15:10",
-        "sentiment_score": -0.6047077216207981
-    },
-    {
-        "title": "El año que Baltasar no se tuvo que pintar en la Cabalgata de Reyes Magos de Sevilla",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b035f383-6441-4b39-a9e7-1008ef6c2979_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cabalgata de los reyes magos,ateneo de sevilla,reyes magos,navidad en sevilla,navidad 2025"
-        ],
-        "link": "https://www.elcorreoweb.es/sevilla/2026/01/03/ano-baltasar-tuvo-pintar-cabalgata-reyes-magos-125095112.html",
-        "date": "2026-01-03 06:01:55",
-        "sentiment_score": -0.1954524964094162
-    },
-    {
-        "title": "PREVIA | Espanyol – FC Barcelona: el derbi del siglo",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/12/previa-Espanyol-FC-Barcelona-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagradaonline.com/espanyol-fc-barcelona-previa-derbi-barca-joan-garcia-jornada-18-liga-25-26/",
-        "date": "2026-01-03 06:00:30",
-        "sentiment_score": 0.5586450099945068
-    },
-    {
-        "title": "Año Nuevo, viuda nueva",
-        "image_url": "https://static.grupojoly.com/clip/0fc9b9d5-8791-4ebe-b90b-bd67caa20d93_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias sevilla"
-        ],
-        "link": "https://www.diariodesevilla.es/sevilla/ano-nuevo-viuda-nueva_0_2005538728.html",
-        "date": "2026-01-03 06:00:27",
-        "sentiment_score": -0.800544947385788
-    },
-    {
-        "title": "Una expo resucita el poco conocido 'milagro' de Jujol en Sant Maria del Pi",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e9abba64-4564-4381-bd20-9f4e1d67cdbc_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "arte",
-            "arquitectura",
-            "modernismo"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20260103/expo-resucita-conocido-milagro-jujol-125311997",
-        "date": "2026-01-03 06:00:01",
-        "sentiment_score": 0.030378222465515137
-    },
-    {
-        "title": "Javi Puado vuelve a una convocatoria justo a tiempo para el derbi entre Espanyol y Barça",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/09/javi-puado-espanyol-valencia-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagradaonline.com/convocatoria-espanyol-barca-vuelta-javi-puado/",
-        "date": "2026-01-03 05:54:07",
-        "sentiment_score": 0.8167606443166733
-    },
-    {
         "title": "¿Quién es Vladimir Padrino López, el ministro de Defensa de Venezuela?",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/vladimir-padrino-lopez-fanb.jpg",
         "tags": [
@@ -2841,5 +2681,234 @@ export default [
         "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-06-ene-2026-tarde-20260106_3281413.html",
         "date": "2026-01-06 17:06:00",
         "sentiment_score": -0.0027353763580322266
+    },
+    {
+        "title": "Mbappé, desatado: \"Vamos a triunfar\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/12/20/694718a45b2ad.r_d.2629-976-1023.jpeg",
+        "tags": [
+            "real madrid"
+        ],
+        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260106/1002596918/mbappe-desatado-triunfar.html",
+        "date": "2026-01-06 22:03:18",
+        "sentiment_score": -0.26656578481197357
+    },
+    {
+        "title": "Garuba y Lyles evitan un lío ante el ASVEL",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/6c1ce84e-75d5-48b9-a117c977eb48479e.jpg",
+        "tags": [
+            "azuqueca de henares",
+            "real madrid",
+            "facundo campazzo",
+            "sergio scariolo",
+            "euroliga",
+            "usman garuba"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z618bca78-1243-4a31-a90fe17a3dfcbe2a/202601/garuba-y-lyles-evitan-un-lio-ante-el-asvel",
+        "date": "2026-01-06 21:52:24",
+        "sentiment_score": -0.06751665472984314
+    },
+    {
+        "title": "Crónica del ASVEL Villeurbanne - Real Madrid: 69-80",
+        "image_url": "https://www.infobae.com/resizer/v2/XYK2B3MSTBGAPOPJIBNLP53JDQ.jpg?auth=c10ae47b0d059638e4630586fb7b115cb815dc9e38e3118e6f9bda578190956a&height=1280&smart=true&width=1920",
+        "tags": [
+            "ldlc arena",
+            "usman garuba",
+            "baloncesto",
+            "sergio scariolo",
+            "real madrid",
+            "europapress",
+            "asvel villeurbanne",
+            "euroliga",
+            "francia",
+            "facundo campazzo",
+            "trey lyles"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/06/cronica-del-asvel-villeurbanne-real-madrid-69-80/",
+        "date": "2026-01-06 21:45:35",
+        "sentiment_score": 0.7784498333930969
+    },
+    {
+        "title": "El escritor David Uclés gana el Premio Nadal 2026 con su nueva obra 'La ciudad de las luces muertas'",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/01/06/D31293C0-620E-4129-888D-A01C6E48F2D0/escritor-david-ucles-gana-premio-nadal-novela-peninsula-casas-vacias_70.jpg?crop=2560%2C1440%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "noticias",
+            "sociedad",
+            "ondacero"
+        ],
+        "link": "https://www.ondacero.es/noticias/sociedad/escritor-david-ucles-gana-premio-nadal-novela-peninsula-casas-vacias_20260106695d8228ea66eb73532837b0.html",
+        "date": "2026-01-06 21:44:08",
+        "sentiment_score": 0.7884482331573963
+    },
+    {
+        "title": "Qatar quiere la Supercopa y compite con Arabia por el nuevo contrato a partir de 2030",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/01/06/2026010622432787610.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/deportes/qatar-quiere-supercopa-compite-arabia-nuevo-contrato-partir-2030/20260106224404578139.html",
+        "date": "2026-01-06 21:44:04",
+        "sentiment_score": 0.24403835088014603
+    },
+    {
+        "title": "En directo: Trump estudia «diversas opciones» para hacerse con Groenlandia: «Recurrir al ejército siempre es una opción»",
+        "image_url": "https://cflvdg.avoz.es/sc/y__Lj9oHVoDT5WnQqERsKbjpcbc=/768x/2026/01/06/00121767713282082917838/Foto/reu_20260106_152341333.jpg",
+        "tags": [
+            "venezuela",
+            "internacional",
+            "nicolás maduro"
+        ],
+        "link": "https://www.lavozdegalicia.es/retransmision/internacional/2026/01/06/directotrump-estudia-diversas-opciones-hacerse-groenlandia-recurrir-ejercito-siempre-opcion/01071767682463006960891.htm",
+        "date": "2026-01-06 21:42:00",
+        "sentiment_score": -0.8492771685123444
+    },
+    {
+        "title": "El Madrid aparece al final y evita una derrota en casa del penúltimo de la Euroliga",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/01/06/695d80b9e41a4.r_d.668-149-8333.webp",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20260106/madrid-aparece-final-evita-derrota-casa-penultimo-euroliga_371728.html",
+        "date": "2026-01-06 21:41:34",
+        "sentiment_score": 0.16979891061782837
+    },
+    {
+        "title": "Trigueros: «Acabamos con cara de tontos; tenemos que aprender»",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/01/06/granada-trigueros-baldomero-rayo-vallecano-copa-rey-kXe-U240762380453VNB-1200x840@Ideal.jpg",
+        "tags": [
+            "tontos",
+            "aprender",
+            "acabamos",
+            "trigueros",
+            "cara"
+        ],
+        "link": "https://www.ideal.es/granadacf/rayo-vallecano-copa-rey-trigueros-acabamos-cara-tontos-aprender-20260106222230-nt.html",
+        "date": "2026-01-06 21:24:19",
+        "sentiment_score": -0.7850246615707874
+    },
+    {
+        "title": "No sabía que lo estaban grabando, dijo que era su sueño jugar en el Real Madrid y estalló el escandalo en Europa",
+        "image_url": "https://www.infobae.com/resizer/v2/NC2HFEQJTVET3DH55MPRR3KNCI.JPG?auth=2fb0703b2a5fe1a5a4ee4080c8c2b7b8cb2f78699b7f47ca3dfd2cf590c6ee19&height=1452&smart=true&width=2006",
+        "tags": [
+            "real madrid",
+            "deportes-argentina",
+            "fútbol",
+            "lothar matthaus",
+            "bayern múnich",
+            "deportes-internacional",
+            "lennart karl"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/06/no-sabia-que-lo-estaban-grabando-dijo-que-era-su-sueno-jugar-en-el-real-madrid-y-estallo-el-escandalo-en-europa/",
+        "date": "2026-01-06 21:23:48",
+        "sentiment_score": 0.34742843359708786
+    },
+    {
+        "title": "El Barça gana al Maccabi sin público pero con Shengelia",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/06/695d7bf59c147.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/baloncesto/20260106/11416677/barca-maccabi-tel-aviv-shengelia-euroliga-resumen.html",
+        "date": "2026-01-06 21:20:58",
+        "sentiment_score": -0.9404605561867356
+    },
+    {
+        "title": "Ter Stegen se vuelve a Barcelona lesionado",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/17/6942b45c59df5.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/ter-stegen-vuelve-barcelona-lesionado-20260106_3281455.html",
+        "date": "2026-01-06 22:14:51",
+        "sentiment_score": -0.07328075170516968
+    },
+    {
+        "title": "David Uclés se alza con el Premio Nadal 2026",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/d64189e6-83f4-4b76-bf012538002534e7.jpg",
+        "tags": [
+            "ana maría matute",
+            "literatura",
+            "barcelona",
+            "novela",
+            "premio nadal",
+            "uclés"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z2ed09f2d-93da-4a1e-ae06f7040f32e677/202601/david-ucles-se-alza-con-el-premio-nadal-2026",
+        "date": "2026-01-06 22:13:47",
+        "sentiment_score": 0.14058303833007812
+    },
+    {
+        "title": "Ter Stegen abandona la concentración del Barcelona en Arabia Saudí por lesión",
+        "image_url": "https://okdiario.com/img/2026/01/06/imagen_recortada-8.jpg",
+        "tags": [
+            "deportes",
+            "barcelona",
+            "supercopa de españa",
+            "fc barcelona",
+            "ter stegen"
+        ],
+        "link": "https://okdiario.com/deportes/ter-stegen-abandona-concentracion-del-barcelona-arabia-saudi-lesion-16030920",
+        "date": "2026-01-06 22:12:39",
+        "sentiment_score": -0.7476554624736309
+    },
+    {
+        "title": "Los expertos alertan: el tope al alquiler de temporada reducirá la oferta y favorecerá a las rentas altas",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/24/vivir-en-barcelona/1003742718946_15548685_1706x960.jpg",
+        "tags": [
+            "juicios",
+            "economía",
+            "viviendas",
+            "alquiler vivienda",
+            "vivienda"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260106/expertos-alertan-tope-alquiler-temporada-reducira-oferta-favorecera-rentas-altas/1003742718932_0.html",
+        "date": "2026-01-06 22:09:24",
+        "sentiment_score": -0.13190671801567078
+    },
+    {
+        "title": "El Barça resuelve con nota un partido con el Palau vacío",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/06/695d86ffee002.jpeg",
+        "tags": [
+            "esports cope"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/barca-resuelve-nota-partido-palau-vacio-20260106_3281454.html",
+        "date": "2026-01-06 22:05:45",
+        "sentiment_score": -0.04994243383407593
+    },
+    {
+        "title": "El escritor David Uclés gana el Premio Nadal 2026 con ‘La ciudad de las luces muertas’",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/06/vivir-en-barcelona/1003742721290_15576691_1706x960.jpg",
+        "tags": [
+            "barcelona literaria",
+            "literatura",
+            "premios",
+            "ayuntamiento de barcelona",
+            "vivir en barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260106/escritor-david-ucles-gana-premio-nadal-ciudad-luces-muertas/1003742721288_0.html",
+        "date": "2026-01-06 22:04:11",
+        "sentiment_score": -0.010167703032493591
+    },
+    {
+        "title": "Francesc Torralba gana el Premi Josep Pla 2026 con el ensayo ‘Anatomia de l’esperança’",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/06/vivir-en-barcelona/1003742721285_15576646_1706x960.jpg",
+        "tags": [
+            "premios",
+            "ayuntamiento de barcelona",
+            "vivir en barcelona",
+            "literatura"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260106/francesc-torralba-gana-premi-josep-pla-ensayo-anatomia-lesperanca/1003742721284_0.html",
+        "date": "2026-01-06 21:55:01",
+        "sentiment_score": 0.1655208244919777
+    },
+    {
+        "title": "David Uclés gana el Premio Nadal con una novela protagonizada por Carmen Laforet, Mercè Rodoreda y Freddie Mercury",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7720ee92-9dd2-4206-9bef-c45615ccf2eb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "premio nadal"
+        ],
+        "link": "https://www.levante-emv.com/cultura/2026/01/06/david-ucles-gana-premio-nadal-125430489.html",
+        "date": "2026-01-06 21:53:30",
+        "sentiment_score": 0.6638080030679703
     }
 ];
