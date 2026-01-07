@@ -1,296 +1,5 @@
 export default [
     {
-        "title": "¿Quién es Vladimir Padrino López, el ministro de Defensa de Venezuela?",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/vladimir-padrino-lopez-fanb.jpg",
-        "tags": [
-            "nacionales",
-            "actualidad",
-            "vladimir padrino lópez"
-        ],
-        "link": "https://lapatilla.com/2026/01/03/quien-es-vladimir-padrino-lopez-el-ministro-de-defensa-de-venezuela/",
-        "date": "2026-01-03 15:31:31",
-        "sentiment_score": -0.7555730026215315
-    },
-    {
-        "title": "Petro condena el ataque de EE.UU. a Venezuela y convoca al Consejo de Seguridad de la ONU",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/0c/media_thumb-link-4132087.webp?1767449946=",
-        "tags": [
-            "condena",
-            "colombia",
-            "politica",
-            "petro",
-            "ataque",
-            "consejo de seguridad",
-            "onu"
-        ],
-        "link": "https://www.meneame.net/story/petro-condena-ataque-ee-uu-venezuela-convoca-consejo-seguridad",
-        "date": "2026-01-03 16:50:05",
-        "sentiment_score": -0.2164357751607895
-    },
-    {
-        "title": "La inversión en servicios sociales en Plasencia, Mérida y Badajoz, entre las más bajas de España",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5939b36a-1591-4e3a-afdd-44d69f61f89d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "plasencia",
-            "servicios sociales",
-            "badajoz",
-            "mérida"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/01/03/badajoz-merida-plasencia-ciudades-menor-inversion-social-espana-125344604.html",
-        "date": "2026-01-03 17:17:29",
-        "sentiment_score": -0.052077099680900574
-    },
-    {
-        "title": "Las dos bajas del Atlético para Anoeta",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/19f79d50-b9ed-457c-b1d4-b0ce16c6d59f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sociedad",
-            "anoeta",
-            "atletico",
-            "real",
-            "convocatoria",
-            "lenglet",
-            "nico",
-            "madrid",
-            "bajas"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/01/03/bajas-atletico-anoeta-madrid-real-sociedad-lenglet-nico-convocatoria-10536496.html",
-        "date": "2026-01-03 17:06:06",
-        "sentiment_score": -0.17830032110214233
-    },
-    {
-        "title": "El Valencia en crisis total: el Celta arrasa y deja a Corberán al borde del abismo",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/03/2026010317531359743.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/valencia-crisis-total-celta-arrasa-deja-corberan-borde-abismo/20260103175339369252.html",
-        "date": "2026-01-03 16:53:39",
-        "sentiment_score": 0.4519914239645004
-    },
-    {
-        "title": "El Real Madrid abre la cuesta de enero con una emboscada",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/01/03/real-madrid-kV5G--758x531@RC.JPG",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.diariovasco.com/deportes/futbol/liga-primera/real-madrid-abre-cuesta-enero-emboscada-20260103173938-ntrc.html",
-        "date": "2026-01-03 16:47:44",
-        "sentiment_score": -0.050066202878952026
-    },
-    {
-        "title": "Pellegrini: \"El puesto de entrenador del Real Madrid exige ganar, golear y gustar, las tres cosas\"",
-        "image_url": "https://www.infobae.com/resizer/v2/4PPXYNERVRBMPPNJJHGU6XBAKY.jpg?auth=02d3144b41d19f709c5479fe6bca9b7e976e6028727de09ef8a311f2d1841b46&height=1280&smart=true&width=1920",
-        "tags": [
-            "sevilla",
-            "europapress",
-            "isco alarcón",
-            "real madrid",
-            "entrenador",
-            "fútbol",
-            "santiago bernabéu",
-            "refuerzo",
-            "manuel pellegrini",
-            "xabi alonso",
-            "lesión"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/03/pellegrini-el-puesto-de-entrenador-del-real-madrid-exige-ganar-golear-y-gustar-las-tres-cosas/",
-        "date": "2026-01-03 16:46:12",
-        "sentiment_score": 0.3022906482219696
-    },
-    {
-        "title": "El Cacereño afronta la primera de sus veintiuna batallas restantes",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2026/01/03/Joserra-RAtkL9Du2TZlwxWEsf5H74H-1200x840@Hoy.jpg",
-        "tags": [
-            "primera",
-            "cacereno",
-            "afronta",
-            "batallas",
-            "veintiuna",
-            "restantes"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/primera-rfef/cacereno-afronta-primera-veintiuna-batallas-restantes-20260103174308-nt.html",
-        "date": "2026-01-03 16:43:09",
-        "sentiment_score": 0.44899214059114456
-    },
-    {
-        "title": "Pellegrino Matarazzo: \"El Atlético busca esos pequeños momentos para definir cómo es cada partido\"",
-        "image_url": "https://www.infobae.com/resizer/v2/VDAREJSJEFH73NX4QKFBZ7BCQQ.jpg?auth=50606c060562dbe3cc914b795b02a6708a081711f9cb12fcb1cc91fe446ca8b0&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/03/pellegrino-matarazzo-el-atletico-busca-esos-pequenos-momentos-para-definir-como-es-cada-partido/",
-        "date": "2026-01-03 16:30:33",
-        "sentiment_score": 0.16738684102892876
-    },
-    {
-        "title": "Primer muerto del año en las carreteras catalanas, en la AP-7 en Castellbisbal (Barcelona)",
-        "image_url": "https://www.infobae.com/resizer/v2/Y5E2QKDWLJD6JCWK7WDM4PWDG4.jpg?auth=fd3806efed033119c02fea3e28a9049bc2c04abbcd3bace187a52a843a6cb301&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress",
-            "castellbisbal",
-            "accidente de tráfico",
-            "barcelona",
-            "bombers de la generalitat",
-            "ap-7",
-            "víctimas mortales",
-            "servei català de trànsit",
-            "mossos desquadra",
-            "carreteras catalanas",
-            "hospital de bellvitge"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/03/primer-muerto-del-ano-en-las-carreteras-catalanas-en-la-ap-7-en-castellbisbal-barcelona/",
-        "date": "2026-01-03 17:16:56",
-        "sentiment_score": -0.8011520709842443
-    },
-    {
-        "title": "El Polo se renueva y electrifica",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b430d7e5-819e-44ee-9a79-9dbd887f7237_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "clásico",
-            "volkswagen",
-            "neomotor",
-            "lfp"
-        ],
-        "link": "https://www.informacion.es/motor/2026/01/03/polo-renueva-electrifica-125344267.html",
-        "date": "2026-01-03 17:09:08",
-        "sentiment_score": 0.23726659081876278
-    },
-    {
-        "title": "\"Para protegernos del cura nos envolvíamos muy fuerte con las sábanas\"",
-        "image_url": "https://static1.ara.cat/clip/1ccdcc99-77a5-4a28-bb83-ec66d70f87a7_16-9-aspect-ratio_default_0.png",
-        "tags": [
-            "envolviamos",
-            "fuerte",
-            "sabanas",
-            "cura",
-            "protegernos"
-        ],
-        "link": "https://es.ara.cat/cultura/cine/protegernos-cura-envolviamos-fuerte-sabanas_1_5608250.html",
-        "date": "2026-01-03 17:00:19",
-        "sentiment_score": -0.4355488196015358
-    },
-    {
-        "title": "Nicolás Maduro, el aficionado más singular del Barça: de ser 'el nuevo fichaje' a enfadarse con Laporta por la salida de Messi",
-        "image_url": "https://s3.elespanol.com/2026/01/03/actualidad/1003744077491_260759629_1706x960.jpg",
-        "tags": [
-            "fútbol",
-            "venezuela",
-            "nicolás maduro",
-            "deportes",
-            "fc barcelona"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20260103/nicolas-maduro-aficionado-singular-barca-nuevo-fichaje-enfadarse-laporta-salida-messi/1003744077486_0.html",
-        "date": "2026-01-03 16:59:49",
-        "sentiment_score": -0.8729120139032602
-    },
-    {
-        "title": "\"Esperanza\", \"prudencia\" y alegría espontánea en las calles: Así han reaccionado los venezolanos en España",
-        "image_url": "https://static1.ara.cat/clip/08527b9e-6602-430d-b5da-182d30d2d297_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "prudencia",
-            "calles",
-            "reaccionado",
-            "espontanea",
-            "han",
-            "espana",
-            "alegria",
-            "venezolanos",
-            "esperanza"
-        ],
-        "link": "https://es.ara.cat/politica/esperanza-prudencia-alegria-espontanea-calles-han-reaccionado-venezolanos-espana_1_5608229.html",
-        "date": "2026-01-03 16:37:18",
-        "sentiment_score": -0.09712371230125427
-    },
-    {
-        "title": "Trump habla tras bombardear a Venezuela y capturar a Maduro",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.lavanguardia.com/internacional/20260103/11410552/trump-habla-bombardear-venezuela-capturar-maduro.html",
-        "date": "2026-01-03 16:23:53",
-        "sentiment_score": -0.4128672927618027
-    },
-    {
-        "title": "Estos son los centros comerciales de Barcelona abiertos este domingo, 4 de enero, para las compras de Reyes",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2020/12/14/economia/543455656_10016977_1706x960.jpg",
-        "tags": [
-            "navidad barcelona",
-            "compras bcn",
-            "centro comercial",
-            "vivir en barcelona",
-            "comercio"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260103/centros-comerciales-barcelona-abiertos-domingo-enero-compras-reyes/1003742720657_0.html",
-        "date": "2026-01-03 16:21:36",
-        "sentiment_score": 0.44350145012140274
-    },
-    {
-        "title": "Barcelona, preparada para la llegada del frío intenso y la nieve: el Meteocat lo confirma y activa el aviso por nevadas en la ciudad a partir de esta fecha",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2023/02/28/63fdb9894e9f2.r_d.2758-2320.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20260103/1002595331/barcelona-preparada-llegada-frio-intenso-nieve-meteocat-confirma-activa-aviso-nevadas-ciudad-partir-fecha-dct.html",
-        "date": "2026-01-03 16:21:13",
-        "sentiment_score": -0.8838963583111763
-    },
-    {
-        "title": "Del Mag Lari con Bartomeu al Mago Pop con Laporta: la magia y el Barça, siempre de la mano",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/03/culemania/palco/1003742720670_15569161_1706x960.jpg",
-        "tags": [
-            "palco",
-            "fc barcelona",
-            "joan laporta",
-            "josep maria bartomeu",
-            "el clásico"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260103/mag-lari-bartomeu-mago-pop-laporta-barca/1003742717086_0.html",
-        "date": "2026-01-03 16:18:00",
-        "sentiment_score": 0.6213145032525063
-    },
-    {
-        "title": "Julio Ceballos: “El modelo liberal democrático es el mejor para nosotros cuando es eficaz y lleva décadas perdiendo eficacia”",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/24/actualidad/1003742718923_15548323_1706x960.jpg",
-        "tags": [
-            "literatura",
-            "ideas",
-            "filosofia"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/letraglobal/ideas/20260103/julio-ceballos-liberal-democratico-decadas-perdiendo-eficacia/1003742718910_0.html",
-        "date": "2026-01-03 16:15:16",
-        "sentiment_score": 0.2854781150817871
-    },
-    {
-        "title": "Nicolás Maduro y Cilia Flores van rumbo a Nueva York en un buque de guerra",
-        "image_url": "https://static.wixstatic.com/media/cf263a_0597c58d890740338f9fe134c2b251e5~mv2.png/v1/fit/w_709,h_400,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/nicol%C3%A1s-maduro-y-cilia-flores-van-rumbo-a-nueva-york-en-un-buque-de-guerra",
-        "date": "2026-01-03 18:25:51",
-        "sentiment_score": -0.0768035501241684
-    },
-    {
-        "title": "EEUU desplegó más de 150 aeronaves en una misión de varias horas para capturar a Maduro",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_148.jpg",
-        "tags": [
-            "eeuu",
-            "150 aeronaves",
-            "desplegó",
-            "internacionales",
-            "actualidad",
-            "maduro",
-            "nacionales",
-            "capturar"
-        ],
-        "link": "https://lapatilla.com/2026/01/03/eeuu-desplego-mas-de-150-aeronaves-en-una-mision-de-varias-horas-para-capturar-a-maduro/",
-        "date": "2026-01-03 17:54:36",
-        "sentiment_score": -0.0464315265417099
-    },
-    {
         "title": "Joan García y Fermín apagan la caldera espanyolista (0-2)",
         "image_url": "https://cflvdg.avoz.es/sc/Fl1Af-HY6RFw5VGHFBCvf7oaJeE=/768x/2026/01/03/00121767477781362775368/Foto/efe_20260103_215959662.jpg",
         "tags": [
@@ -437,61 +146,6 @@ export default [
         "link": "https://2001online.com/nacionales/presidente-de-avior-a-partir-de-este-4-de-enero-se-reactivaran-los-vuelos-nacionales-en-venezuela-2026131810",
         "date": "2026-01-03 22:01:00",
         "sentiment_score": 0.12750835716724396
-    },
-    {
-        "title": "Nicolás Maduro y Cilia Flores van rumbo a Nueva York en un buque de guerra",
-        "image_url": "https://static.wixstatic.com/media/cf263a_0597c58d890740338f9fe134c2b251e5~mv2.png/v1/fit/w_709,h_400,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/nicol%C3%A1s-maduro-y-cilia-flores-van-rumbo-a-nueva-york-en-un-buque-de-guerra",
-        "date": "2026-01-03 18:25:51",
-        "sentiment_score": -0.07680349051952362
-    },
-    {
-        "title": "EEUU desplegó más de 150 aeronaves en una misión de varias horas para capturar a Maduro",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_148.jpg",
-        "tags": [
-            "eeuu",
-            "150 aeronaves",
-            "desplegó",
-            "internacionales",
-            "actualidad",
-            "maduro",
-            "nacionales",
-            "capturar"
-        ],
-        "link": "https://lapatilla.com/2026/01/03/eeuu-desplego-mas-de-150-aeronaves-en-una-mision-de-varias-horas-para-capturar-a-maduro/",
-        "date": "2026-01-03 17:54:36",
-        "sentiment_score": -0.046431973576545715
-    },
-    {
-        "title": "¿Quién es Vladimir Padrino López, el ministro de Defensa de Venezuela?",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/vladimir-padrino-lopez-fanb.jpg",
-        "tags": [
-            "nacionales",
-            "actualidad",
-            "vladimir padrino lópez"
-        ],
-        "link": "https://lapatilla.com/2026/01/03/quien-es-vladimir-padrino-lopez-el-ministro-de-defensa-de-venezuela/",
-        "date": "2026-01-03 15:31:31",
-        "sentiment_score": -0.7555732652544975
-    },
-    {
-        "title": "Petro condena el ataque de EE.UU. a Venezuela y convoca al Consejo de Seguridad de la ONU",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/0c/media_thumb-link-4132087.webp?1767449946=",
-        "tags": [
-            "condena",
-            "colombia",
-            "politica",
-            "petro",
-            "ataque",
-            "consejo de seguridad",
-            "onu"
-        ],
-        "link": "https://www.meneame.net/story/petro-condena-ataque-ee-uu-venezuela-convoca-consejo-seguridad",
-        "date": "2026-01-03 16:50:05",
-        "sentiment_score": -0.21643634140491486
     },
     {
         "title": "Sergio, creador de una app que \"revoluciona\" el fútbol base y apoyada por Juan Roig: \"Dijeron que íbamos a matar el deporte\"",
@@ -3063,5 +2717,175 @@ export default [
         "link": "https://www.expansion.com/economia-sostenible/2026/01/07/694e631de5fdea4e5e8b4598.html",
         "date": "2026-01-07 00:33:39",
         "sentiment_score": 0.5642692372202873
+    },
+    {
+        "title": "El preocupante dato sobre Mbappé para el Real Madrid: así funciona cada vez que pierde a su gran estrella",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/01/06/695d79239f0895-92164982.r_d.1623-909.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/preocupante-dato-sobre-mbappe-real-madrid-asi-funciona-cada-vez-pierde-gran-estrella_6917871_0.html",
+        "date": "2026-01-07 06:43:34",
+        "sentiment_score": -0.8558624256402254
+    },
+    {
+        "title": "\"Es muy sorprendente que en partidos como contra el Talavera Mbappé forzara, poniendo en riesgo una final de Supercopa\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2026/01/07/695dfaf2799f1.r_d.1814-560-1212.jpeg",
+        "tags": [
+            "real madrid"
+        ],
+        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260107/1002596990/sorprendente-partidos-talavera-mbappe-forzara-poniendo-riesgo-final-supercopa.html",
+        "date": "2026-01-07 06:41:46",
+        "sentiment_score": -0.6261729747056961
+    },
+    {
+        "title": "Niños con microbioma estable crecen mejor",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260107073849_690.jpg",
+        "tags": [
+            "infosalus.com",
+            "investigación"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-ninos-microbioma-estable-crecen-mejor-20260107073849.html",
+        "date": "2026-01-07 06:38:49",
+        "sentiment_score": -0.2322886809706688
+    },
+    {
+        "title": "El frío aprieta en toda España: temperaturas bajo cero, nevadas y avisos en varias comunidades",
+        "image_url": "https://static.eldiario.es/clip/c7321e5e-5cdc-4ad5-88f3-600f14a62867_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "espana",
+            "frio",
+            "avisos",
+            "aprieta",
+            "cero",
+            "pm",
+            "temperaturas",
+            "nevadas",
+            "comunidades"
+        ],
+        "link": "https://www.eldiario.es/sociedad/el-tiempo/frio-aprieta-espana-temperaturas-cero-nevadas-avisos-comunidades-pm_1_12889563.html",
+        "date": "2026-01-07 06:38:30",
+        "sentiment_score": -0.06941631436347961
+    },
+    {
+        "title": "España se congela: hasta -14 grados de mínima y alertas por frío extremo y nieve en medio país",
+        "image_url": "https://www.elplural.com/uploads/s1/18/83/44/9/alerta-por-nieve-en-pirineos-y-cordillera-canta-brica-ep_7_480x270.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.elplural.com/sociedad/espana-congela-hasta-14-grados-minima-alertas-frio-extremo-nieve-medio-pais_378020102",
+        "date": "2026-01-07 06:10:46",
+        "sentiment_score": -0.09154075384140015
+    },
+    {
+        "title": "David Uclés gana el Premio Nadal con \"una carta de amor a Barcelona\"",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/01/07/BE364183-4D43-4F84-A972-733FCE1E8A3B/noche-reyes-volvio-ser-sinonimo-literatura-barcelona_70.jpg?crop=1280%2C720%2Cx0%2Cy190&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "sociedad",
+            "noticias",
+            "ondacero"
+        ],
+        "link": "https://www.ondacero.es/noticias/sociedad/david-ucles-gana-premio-nadal-carta-amor-barcelona_20260107695df7d8af09df50109d4986.html",
+        "date": "2026-01-07 06:06:16",
+        "sentiment_score": 0.2897939160466194
+    },
+    {
+        "title": "El Barça de Flick regresa al lugar donde todo empezó: \"Ganar la última Supercopa nos dio mucha energía\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7cae193d-7d39-4020-b33e-5e779e106e64_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fc barcelona",
+            "supercopa de españa"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2026/01/07/barca-flick-regresa-lugar-empezo-supercopa-semifinal-athletic-125433820.html",
+        "date": "2026-01-07 06:03:33",
+        "sentiment_score": -0.3027717024087906
+    },
+    {
+        "title": "El precio más alto de la gasolina hoy en Madrid, Barcelona y otras ciudades este 7 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-economia",
+            "precio gasolina",
+            "gasolina",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/07/el-precio-mas-alto-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-este-7-de-enero/",
+        "date": "2026-01-07 06:30:39",
+        "sentiment_score": -0.06122169271111488
+    },
+    {
+        "title": "Las calles de Barcelona son perfectas",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/11/05/524E501D-5789-4743-9DBA-14CD1D8517E6/vista-aerea-eixample-barcelona-daigonal-atravesandolo_69.jpg?crop=1080%2C608%2Cx0%2Cy408&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/calles-barcelona-son-perfectas_20260107695dfd7522f0db7daf0767cf.html",
+        "date": "2026-01-07 06:30:13",
+        "sentiment_score": 0.727988613769412
+    },
+    {
+        "title": "De rascar 120 euros en Navidad a ganar el Gordo de ‘El Niño’: la historia de diez compañeros de Dénia",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/07/695dfab74dc7e.jpeg",
+        "tags": [
+            "denia"
+        ],
+        "link": "https://www.cope.es/emisoras/comunidad-valenciana/alicante-provincia/denia/noticias/rascar-120-euros-navidad-ganar-gordo-nino-historia-diez-companeros-denia-20260107_3281482.html",
+        "date": "2026-01-07 06:20:33",
+        "sentiment_score": -0.06975209712982178
+    },
+    {
+        "title": "Joaquín Ortiz Ortiz gana el certamen de relatos de la Fundación Concha en Navalmoral de la Mata",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d789791a-aec6-4b11-bb1c-62e622549553_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "relatos"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/navalmoral/2026/01/07/joaquin-ortiz-ortiz-gana-certamen-125434133.html",
+        "date": "2026-01-07 06:17:32",
+        "sentiment_score": -0.048175275325775146
+    },
+    {
+        "title": "Del aumento de penas por tráfico de marihuana al desalojo exprés: 4 propuestas para estrechar el cerco al cannabis",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a410dcd8-6173-411a-8b7a-d1038eb99a55_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "mossos d'esquadra",
+            "drogas",
+            "marihuana",
+            "justicia"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260107/aumento-penas-trafico-marihuana-desalojo-ocupacion-fraude-electrico-como-luchar-125147757",
+        "date": "2026-01-07 06:17:10",
+        "sentiment_score": -0.565812736749649
+    },
+    {
+        "title": "Lo que debes saber hoy, 7 de enero, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/24/vivir-en-barcelona/1003742710519_15443469_1706x960.jpg",
+        "tags": [
+            "tráfico",
+            "vivir en barcelona",
+            "metro barcelona",
+            "clima",
+            "tiempo",
+            "transports metropolitans barcelona tmb"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260107/debes-saber-hoy-enero-barcelona/1003742721309_0.html",
+        "date": "2026-01-07 06:17:09",
+        "sentiment_score": 0.21244626119732857
+    },
+    {
+        "title": "Ana, testimonio con enfermedad mental: \"Todavía se nos etiqueta de histéricas, locas o demasiado susceptibles\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0d7216a0-30ad-49b6-974d-6aa28c9871b1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "psicología",
+            "abusos sexuales",
+            "mujeres",
+            "enfermedad mental",
+            "feminismo",
+            "salud mental",
+            "psiquiatría"
+        ],
+        "link": "https://www.elcorreogallego.es/sociedad/2026/01/07/ana-testimonio-enfermedad-mental-todavia-125434092.html",
+        "date": "2026-01-07 06:11:40",
+        "sentiment_score": -0.7885246817022562
     }
 ];
