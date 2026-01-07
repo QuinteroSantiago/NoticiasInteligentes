@@ -1,400 +1,5 @@
 export default [
     {
-        "title": "El Madrid sigue como en 2025 y remonta para ganar al Dubái",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dab791ef-164b-49f3-ac1e-e03c2b25f95f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real madrid de baloncesto",
-            "euroliga",
-            "baloncesto"
-        ],
-        "link": "https://www.eldia.es/deportes/2026/01/02/madrid-remonta-ganar-dubai-euroliga-125328672.html",
-        "date": "2026-01-02 22:05:35",
-        "sentiment_score": 0.75492063164711
-    },
-    {
-        "title": "El Real Madrid firma una nueva remontada en una segunda parte colosal ante el Dubái para empezar el año con victoria",
-        "image_url": "https://s3.elespanol.com/2026/01/02/actualidad/1003744077169_260755805_1706x960.jpg",
-        "tags": [
-            "dubai",
-            "deportes",
-            "euroliga de baloncesto",
-            "real madrid baloncesto",
-            "baloncesto"
-        ],
-        "link": "https://www.elespanol.com/deportes/baloncesto/20260102/real-madrid-firma-nueva-remontada-segunda-parte-colosal-dubai-empezar-ano-victoria/1003744077134_0.html",
-        "date": "2026-01-02 21:42:40",
-        "sentiment_score": 0.7650856152176857
-    },
-    {
-        "title": "Programa WBA Future promueve el desarrollo de jóvenes boxeadores en Venezuela",
-        "image_url": "https://elpitazo.net/wp-content/uploads/2026/01/photo_5096326623874714474_y.jpg",
-        "tags": [
-            "qué acaba de pasar",
-            "deportes"
-        ],
-        "link": "https://elpitazo.net/deportes/programa-wba-future-promueve-el-desarrollo-de-jovenes-boxeadores-en-venezuela/",
-        "date": "2026-01-02 21:37:04",
-        "sentiment_score": 0.5179274454712868
-    },
-    {
-        "title": "El ocio nocturno ve «ambiguas» las normas sobre incendios en locales en España",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/02/sala-fiestas-suiza-kw7H-U240728177379GYB-1200x840@RC.jpg",
-        "tags": [
-            "suiza",
-            "nochevieja",
-            "ocio nocturno",
-            "sucesos"
-        ],
-        "link": "https://www.leonoticias.com/sociedad/ocio-nocturno-ambiguas-normas-sobre-incendios-locales-20260102231650-ntrc.html",
-        "date": "2026-01-02 22:16:54",
-        "sentiment_score": -0.8690072493627667
-    },
-    {
-        "title": "Del día a la noche con todo de cara",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/09d70f43-fd1f-4916-ac6d-4aec232fdd62_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cara",
-            "baskonia 93-108 fenerbahce euroliga",
-            "noche",
-            "dia"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/01/02/dia-noche-cara-baskonia-93-108-fenerbahce-euroliga-10534409.html",
-        "date": "2026-01-02 22:03:09",
-        "sentiment_score": -0.8943952079862356
-    },
-    {
-        "title": "La mujer del alcalde de Nueva York luce botas 'made in Galicia'",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2026/01/02/2026010223004735098.webp",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/gente/mujer-alcalde-nueva-york-luce-botas-made-in-galicia/202601022301451425949.html",
-        "date": "2026-01-02 22:01:45",
-        "sentiment_score": 0.02334250509738922
-    },
-    {
-        "title": "Por qué debes ver ‘No nos moverán’, la película que representará a México en los premios Oscar",
-        "image_url": "https://cst.brightspotcdn.com/dims4/default/4757236/2147483647/strip/true/crop/2250x1500+375+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2Faa%2F175e7b9f49ef958b96c5e2ba5597%2Fweshallnotbemoved-3.jpg",
-        "tags": [
-            "top",
-            "entertainment"
-        ],
-        "link": "https://chicago.suntimes.com/la-voz/2026/01/02/por-que-debes-ver-no-nos-moveran-la-pelicula-que-representara-a-mexico-en-los-premios-oscar",
-        "date": "2026-01-02 22:00:29",
-        "sentiment_score": 0.18340599536895752
-    },
-    {
-        "title": "Dani Alves vuelve a escena y compra un club de Portugal: su plan sería regresar al fútbol tras ser absuelto por el delito de abuso sexual",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/03/14035553/La-resolucion-absolutoria-deja-sin-efecto-las-medidas-cautelares-adoptadas-contra-Dani-Alves-Foto-Archivo.jpg",
-        "tags": [
-            "mundo",
-            "deportes",
-            "sociedad"
-        ],
-        "link": "https://www.elnacional.com/2026/01/dani-alves-vuelve-a-escena-y-compra-un-club-de-portugal-su-plan-seria-regresar-al-futbol-tras-ser-absuelto-por-el-delito-de-abuso-sexual/",
-        "date": "2026-01-02 22:00:12",
-        "sentiment_score": -0.8722559316083789
-    },
-    {
-        "title": "Familiares de joven desaparecido solicitan ayuda para dar con su paradero",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "sucesos"
-        ],
-        "link": "https://eltiempove.com/familiares-de-joven-desaparecido-solicitan-ayuda-para-dar-con-su-paradero/",
-        "date": "2026-01-02 21:58:16",
-        "sentiment_score": -0.6365953385829926
-    },
-    {
-        "title": "Dónde han caído el bote de 31 millones de euros del Euromillones, el de 2,1 millones de euros de la Bonoloto, y los premios del Eurojackpot y la ONCE de hoy viernes 2 de enero de 2026",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2023/12/20/6FD0278D-9A94-4FE5-97BD-59763A767F2A/administracion-castellon-plana_98.jpg?crop=1080%2C608%2Cx0%2Cy53&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "loterías"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-bote-31-millones-euros-euromillones-21-millones-euros-bonoloto-premios-eurojackpot-once-hoy-viernes-2-enero_2026010269583e41af09df501099a795.html",
-        "date": "2026-01-02 21:53:05",
-        "sentiment_score": 0.056990429759025574
-    },
-    {
-        "title": "¡Ayuso, culpable!",
-        "image_url": "https://okdiario.com/img/2026/01/02/interior_rius.jpg",
-        "tags": [
-            "junts",
-            "generalitat cataluña",
-            "isabel díaz ayuso",
-            "psoe",
-            "tribunas",
-            "opinión",
-            "sanidad"
-        ],
-        "link": "https://okdiario.com/opinion/ayuso-culpable-16016463",
-        "date": "2026-01-02 21:51:34",
-        "sentiment_score": -0.7174938954412937
-    },
-    {
-        "title": "El milagro de Xavi Pascual con tres actores secundarios del Barça de basket: de sentenciados a estrellas del Palau",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/02/culemania/secciones/1003742720606_15568591_1706x960.jpg",
-        "tags": [
-            "kevin punter",
-            "secciones",
-            "baloncesto",
-            "fcb basket",
-            "xavi pascual"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260102/xavi-pascual-secundarios-barca-sentenciados-estrellas-palau/1003742720600_0.html",
-        "date": "2026-01-02 21:41:07",
-        "sentiment_score": 0.06313300132751465
-    },
-    {
-        "title": "Rüdiger en Sierra Leona: el viaje solidario del central madridista",
-        "image_url": "https://pxcdn.2001online.com/2001/012026/1767397997811/SP2AFYQQOBHKJE6RKLUI2X6PDU.jpg?ch=675&cw=1200",
-        "tags": [
-            "sierra leona",
-            "rüdiger",
-            "real madrid",
-            "fundación",
-            "antonio rüdiger"
-        ],
-        "link": "https://2001online.com/deportes/rudiger-en-sierra-leona-el-viaje-solidario-del-central-madridista-2026122300",
-        "date": "2026-01-03 02:07:08",
-        "sentiment_score": -0.1249912828207016
-    },
-    {
-        "title": "Tragedias, accidentes, muertes y reconocimientos: las historias que conmovieron a Perú en 2025",
-        "image_url": "https://www.infobae.com/resizer/v2/S65OF3IBWVBCTJZYMH7UGM7OW4.png?auth=8e432eee41f17807b598441c9f37d806430528c825ede3868cca25c94496591d&height=1080&smart=true&width=1920",
-        "tags": [
-            "agosto 2025",
-            "resumen del año",
-            "año nuevo 2026",
-            "peru-noticias"
-        ],
-        "link": "https://www.infobae.com/peru/2026/01/03/tragedias-accidentes-muertes-y-reconocimientos-las-historias-que-conmovieron-a-peru-en-2025/",
-        "date": "2026-01-03 01:43:46",
-        "sentiment_score": -0.8382336404174566
-    },
-    {
-        "title": "España se acerca a los 100 millones de visitantes mientras el gasto turístico bate récords",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/95acc8c53e6ace282f1e283955704ae3/crop/83x195/643x755/f/image/jpeg/assets/multimedia/imagenes/2022/05/18/16529079984891.jpg",
-        "tags": [
-            "artículos gabriela galarza",
-            "turismo"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/01/03/6958049ee9cf4af5108b459b.html",
-        "date": "2026-01-03 01:20:05",
-        "sentiment_score": 0.13487297296524048
-    },
-    {
-        "title": "107-93. El Madrid inicia 2026 respetando las tradiciones y remonta para ganar al Dubái",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/03/69586d6232423.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.eldebate.com/internacional/20260103/10793-madrid-inicia-2026-respetando-tradiciones-remonta-ganar-dubai_370868.html",
-        "date": "2026-01-03 01:16:25",
-        "sentiment_score": 0.5324616357684135
-    },
-    {
-        "title": "'Sé agua', la ambiciosa fábula tecnológica de Andrés Ortega sobre la identidad en tiempos de inteligencia artificial",
-        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070723_260675882_1706x960.jpg",
-        "tags": [
-            "letras",
-            "novela",
-            "ec-critica-letras"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/letras/20260103/agua-ambiciosa-fabula-tecnologica-andres-ortega-identidad-tiempos-inteligencia-artificial/1003744070712_0.html",
-        "date": "2026-01-03 00:55:00",
-        "sentiment_score": -0.17935492098331451
-    },
-    {
-        "title": "El plan especial que tiene el Real Madrid con Franco Mastantuono: la estrategia para darle protagonismo",
-        "image_url": "https://www.infobae.com/resizer/v2/KBDQUG2UPNDMFG5KW37DMCK4DM.JPG?auth=84dbb80e8cb94c1eded73981743602b09b6a2c228582c9b12f8069680e13420e&height=1020&smart=true&width=1813",
-        "tags": [
-            "deportes-argentina",
-            "franco mastantuono",
-            "real madrid"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/03/el-plan-especial-que-tiene-el-real-madrid-con-franco-mastantuono-la-estrategia-para-darle-protagonismo/",
-        "date": "2026-01-03 00:46:34",
-        "sentiment_score": 0.3386685214936733
-    },
-    {
-        "title": "Brahim, renovación pactada y gran icono de la Copa África: un fenómeno en Marruecos que invade anuncios y gasolineras",
-        "image_url": "https://s3.elespanol.com/2026/01/02/actualidad/1003744076613_260747972_1706x960.jpg",
-        "tags": [
-            "copa de áfrica de fútbol",
-            "fútbol",
-            "selección de fútbol de marruecos",
-            "real madrid cf",
-            "brahim díaz"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20260103/brahim-renovacion-pactada-gran-icono-copa-africa-fenomeno-marruecos-invade-anuncios-gasolineras/1003744076370_0.html",
-        "date": "2026-01-03 00:40:00",
-        "sentiment_score": 0.5342549458146095
-    },
-    {
-        "title": "Luis Díaz generó un vendaval de reacciones en España por tener mejor presente que una de las estrellas del Barcelona: “Su experiencia se ha notado”",
-        "image_url": "https://www.infobae.com/resizer/v2/O34FBMIC6NFP7AKYARYMYCPX3Q.jpg?auth=0d0c32e28eff6eebbe2c17509f770ada9fa45d59688341f6dfc83073d9ff4f11&height=4433&smart=true&width=6649",
-        "tags": [
-            "fc barcelona",
-            "prensa española",
-            "estrellas del barcelona",
-            "marcus rashford",
-            "colombia-deportes",
-            "luis díaz barcelona",
-            "luis díaz"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/01/03/luis-diaz-genero-un-vendaval-de-reacciones-en-espana-por-tener-mejor-presente-que-una-de-las-estrellas-del-barcelona-su-experiencia-se-ha-notado/",
-        "date": "2026-01-03 00:34:11",
-        "sentiment_score": 0.5895493179559708
-    },
-    {
-        "title": "Úrsula Corberó, C. Tangana y Fernando Alonso, rumbo a la paternidad: todos los famosos que esperan un bebé este 2026",
-        "image_url": "https://s3.elespanol.com/2025/12/11/actualidad/1003744051797_260433920_1706x960.jpg",
-        "tags": [
-            "melissa jiménez",
-            "nacimientos",
-            "hijos de famosos",
-            "úrsula corberó",
-            "famosos",
-            "isabelle junot",
-            "ana boyer"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20260103/ursula-corbero-tangana-fernando-alonso-rumbo-paternidad-famosos-esperan-bebe/1003744050992_0.html",
-        "date": "2026-01-03 00:33:00",
-        "sentiment_score": 0.10639122873544693
-    },
-    {
-        "title": "Equipos de la LVBP se reforzaron de cara al Round Robin",
-        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/01/LVBP-1-696x392-1.jpg",
-        "tags": [
-            "béisbol",
-            "deportes",
-            "round robin",
-            "02ene"
-        ],
-        "link": "https://laverdaddemonagas.com/2026/01/02/equipos-de-la-lvbp-round-robin/",
-        "date": "2026-01-03 00:20:52",
-        "sentiment_score": 0.06273457407951355
-    },
-    {
-        "title": "Jordi Merca, de camarero a llevar 8 años con el show 'Yo sobreviví a la EGB': \"Me ha dado para la entrada de un piso\"",
-        "image_url": "https://s3.elespanol.com/2025/12/24/actualidad/1003744069071_260655157_1706x960.jpg",
-        "tags": [
-            "teatro",
-            "planes",
-            "ocio",
-            "madrid",
-            "comedia"
-        ],
-        "link": "https://www.elespanol.com/madrid/ocio/20260103/jordi-merca-camarero-llevar-anos-show-sobrevivi-egb-dado-entrada-piso-dl/1003744068253_0.html",
-        "date": "2026-01-03 01:00:00",
-        "sentiment_score": 0.31791627407073975
-    },
-    {
-        "title": "\"Busco empadronamiento. Sólo gente seria\": la 'mafia del padrón' engaña a migrantes por 4.000 € para obtener la residencia",
-        "image_url": "https://s3.elespanol.com/2026/01/02/actualidad/1003744077054_260754202_1706x960.jpg",
-        "tags": [
-            "inmigración ilegal",
-            "reportajes",
-            "inmigración",
-            "inmigrantes",
-            "porfolio"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260103/busco-empadronamiento-solo-gente-mafia-padron-engana-migrantes-eur-obtener-residencia/1003744074711_0.html",
-        "date": "2026-01-03 00:40:00",
-        "sentiment_score": -0.12168796360492706
-    },
-    {
-        "title": "02 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/02-ene-2026-partidazo-cope-20260103_3280521.html",
-        "date": "2026-01-03 00:40:00",
-        "sentiment_score": 0.6449189260601997
-    },
-    {
-        "title": "La denuncia sindical contra el Barça prospera: la seguridad privada del derbi catalán irá equipada como los Mossos",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/03/13/vida/839676222_12612541_1706x960.jpg",
-        "tags": [
-            "fc barcelona",
-            "rcd espanyol",
-            "fuerzas y cuerpos de seguridad del estado",
-            "mossos d'esquadra",
-            "sindicatos",
-            "vigilantes de seguridad",
-            "culemaníacos"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20260103/denuncia-sindical-barca-prospera-seguridad-equipada-mossos/1003742720550_0.html",
-        "date": "2026-01-03 00:21:39",
-        "sentiment_score": 0.17407195270061493
-    },
-    {
-        "title": "#OasisDeLibertad (02-01-2026)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "oasisdelibertad"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/oasisdelibertad/audios/oasisdelibertad-02-20260103_3280519.html",
-        "date": "2026-01-03 00:18:03",
-        "sentiment_score": -0.12687347829341888
-    },
-    {
-        "title": "\"Voy a pisar a Lamine Yamal\": Pere Milla incendia la previa del derbi catalán",
-        "image_url": "https://pxcdn.2001online.com/2001/012026/1767397529106/68d3c4e8cf11f.jpeg?ch=675&cw=1200",
-        "tags": [
-            "espanyol",
-            "lamine yamal",
-            "laliga",
-            "cataluña",
-            "pere milla",
-            "fc barcelona",
-            "españa",
-            "espanyol vs barcelona"
-        ],
-        "link": "https://2001online.com/deportes/voy-a-pisar-a-lamine-yamal-pere-milla-incendia-la-previa-del-derbi-catalan-2026122100",
-        "date": "2026-01-03 00:10:04",
-        "sentiment_score": -0.21400120109319687
-    },
-    {
-        "title": "El Espanyol y la muralla que frena su crecimiento económico: mucho más que un derbi contra el Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/07/15/culemania/palco/1003742674110_14875767_1706x960.jpg",
-        "tags": [
-            "rcd espanyol",
-            "primer equipo",
-            "laliga",
-            "joan garcía"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260103/espanyol-muralla-frena-crecimiento-economico-derbi-barca/1003742720445_0.html",
-        "date": "2026-01-02 23:39:54",
-        "sentiment_score": 0.3658077232539654
-    },
-    {
-        "title": "Las localidades donde más veces ha caído el primer premio del Sorteo de El Niño",
-        "image_url": "https://static.grupojoly.com/clip/56d0cf6e-5185-4f45-b27a-507ea7208ee4_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "loterías"
-        ],
-        "link": "https://www.diariodesevilla.es/loteria-de-navidad/localidades-veces-caido-primer-premio_0_2005538881.html",
-        "date": "2026-01-02 23:33:41",
-        "sentiment_score": 0.6014183685183525
-    },
-    {
-        "title": "Los pagos del Barça a los Mossos por la seguridad de Montjuïc, al descubierto",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/03/11/culemania/culemaniacos/930417098_14248799_1706x960.png",
-        "tags": [
-            "camp nou",
-            "joan laporta",
-            "palco",
-            "mossos d'esquadra"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260103/pagos-barca-mossos-seguridad-montjuic-descubierto/1003742683491_0.html",
-        "date": "2026-01-02 23:14:00",
-        "sentiment_score": -0.09843239188194275
-    },
-    {
         "title": "La victoria, primer propósito del Athletic de año nuevo",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/8dcbe70f-d45a-403b-8c80-60a8b5f24b65_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -470,61 +75,6 @@ export default [
         "link": "https://www.mundiario.com/articulo/deportes/2222222/20260103062834369199.html",
         "date": "2026-01-03 05:28:34",
         "sentiment_score": 0.6490733586251736
-    },
-    {
-        "title": "Resultados, clasificación, crónica y resúmenes de la Jornada 18 de LaLiga EA Sports 25-26 | El Rayo – Getafe abrió 2026 y hoy se juega un Espanyol – Barça que paraliza el país",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2026/01/laliga-ea-sports-25-26-jornada-18-viernes-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagradaonline.com/liga-jornada-18-resultados-clasificacion-cronica-resumen-partidos-rcd-espanyol-barca-viernes/",
-        "date": "2026-01-03 05:15:41",
-        "sentiment_score": -0.2723274230957031
-    },
-    {
-        "title": "Ecuador a la vista: las primeras vueltas de la Real",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7e4ad9a7-c7e8-405b-978c-5497bf6baeae_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sociedad",
-            "getafe",
-            "real",
-            "atlético",
-            "vista",
-            "vuelta",
-            "primera",
-            "ecuador"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/01/03/ecuador-vista-real-sociedad-vuelta-primera-atletico-getafe-10532606.html",
-        "date": "2026-01-03 05:00:49",
-        "sentiment_score": -0.02614954113960266
-    },
-    {
-        "title": "Sin fechas ni confirmación oficial de la visita del Papa a Santiago",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fa756048-440e-4185-9e2b-a8b872d23a4f_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "león xiv",
-            "españa",
-            "visita",
-            "compostela",
-            "santa sede",
-            "papa",
-            "santiago"
-        ],
-        "link": "https://www.elcorreogallego.es/santiago/2026/01/03/fechas-confirmacion-oficial-visita-papa-leon-santiago-espana-ano-santo-compostelano-125324671.html",
-        "date": "2026-01-03 05:00:34",
-        "sentiment_score": -0.5128031298518181
-    },
-    {
-        "title": "Diego Sanz: \"La música tiene que emocionar, entristecer, alegrar y hacernos sentir\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/89d558d8-f14f-43b3-b45d-4fc2c5f54b4b_16-9-aspect-ratio_default_0_x626y312.jpg",
-        "tags": [
-            "mozart",
-            "concierto",
-            "música"
-        ],
-        "link": "https://www.laopiniondemurcia.es/cultura/2026/01/03/diego-sanz-musica-emocionar-entristecer-125324430.html",
-        "date": "2026-01-03 05:00:32",
-        "sentiment_score": 0.14887674152851105
     },
     {
         "title": "La DO Rueda esquiva las adversidades del sector y anota otro récord de ventas",
@@ -3143,5 +2693,153 @@ export default [
         "link": "https://www.antena3.com/noticias/loterias/mapa-premios-loteria-nino-2026-donde-han-caido-premios-sorteo-hoy-6-enero_20260106695ca4f2af09df50109c7654.html",
         "date": "2026-01-06 06:00:18",
         "sentiment_score": 0.3449147343635559
+    },
+    {
+        "title": "Un yacimiento de Pompeya revela la receta del hormigón romano y contradice lo escrito por un famoso arquitecto",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/10/media_thumb-link-4132979.webp?1767686106=",
+        "tags": [
+            "yacimiento de pompeya",
+            "receta del hormigón romano",
+            "cultura",
+            "vitrubio"
+        ],
+        "link": "https://www.meneame.net/story/yacimiento-pompeya-revela-receta-hormigon-romano-contradice",
+        "date": "2026-01-06 09:20:03",
+        "sentiment_score": -0.005903780460357666
+    },
+    {
+        "title": "Roborock presenta en CES 2026 su primer robot aspirador capaz de subir (y limpiar) escaleras",
+        "image_url": "https://static.grupojoly.com/clip/17a99759-791d-46a7-98be-1479d6dad735_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "roborock",
+            "robot aspirador escaleras",
+            "ces"
+        ],
+        "link": "https://www.granadahoy.com/tecnologia/roborock-ces-robot-aspirador-escaleras_0_2005565917.html",
+        "date": "2026-01-06 17:16:28",
+        "sentiment_score": 0.3146042451262474
+    },
+    {
+        "title": "La reina Letizia, fiel a la tradición y a su plan favorito del año: roscón de reyes en casa de su padre, Jesús Ortiz",
+        "image_url": "https://s3.ppllstatics.com/mujerhoy/www/multimedia/2026/01/06/reina-letizia-roscon-reyes-k0j-U101523080953LKE-758x758@Mujer%20Hoy.jpg",
+        "tags": [
+            "letizia ortiz rocasolano",
+            "leonor de borbón",
+            "paloma rocasolano"
+        ],
+        "link": "https://www.mujerhoy.com/celebrities/realeza/reina-letizia-fiel-tradicion-roscon-reyes-casa-padre-jesus-ortiz-20260106153230-nt.html",
+        "date": "2026-01-06 17:15:29",
+        "sentiment_score": -0.3464639037847519
+    },
+    {
+        "title": "Un mallorquín en la Supercopa",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3627767.jpg",
+        "tags": [
+            "champions league",
+            "copa del rey",
+            "arabia saudí",
+            "atlético de madrid",
+            "supercopa de españa",
+            "real madrid",
+            "fútbol",
+            "primera división",
+            "liga de naciones",
+            "laliga",
+            "europa league"
+        ],
+        "link": "https://www.ultimahora.es/deportes/futbol/2026/01/06/2544229/mallorquin-supercopa.html",
+        "date": "2026-01-06 17:08:57",
+        "sentiment_score": 0.5372690334916115
+    },
+    {
+        "title": "Iñaki Williams reitera su crítica a la Supercopa de España: «No me arrepiento, sigue siendo una faena»",
+        "image_url": "https://okdiario.com/img/2026/01/06/imagen_recortada-3.jpg",
+        "tags": [
+            "athletic club de bilbao",
+            "deportes",
+            "iñaki williams",
+            "barcelona",
+            "supercopa de españa",
+            "fc barcelona"
+        ],
+        "link": "https://okdiario.com/deportes/inaki-williams-reitera-critica-supercopa-espana-no-arrepiento-sigue-siendo-faena-16030124",
+        "date": "2026-01-06 17:17:13",
+        "sentiment_score": -0.8070926405489445
+    },
+    {
+        "title": "Williams matiza sus críticas a la Supercopa: \"No usé la palabra adecuada [mierda], pero no me arrepiento\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/497b7bf8-d2fd-4c3d-a9d8-619e4ced7b42_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "athletic club",
+            "fc barcelona",
+            "athletic de bilbao",
+            "athletic",
+            "supercopa de españa"
+        ],
+        "link": "https://www.farodevigo.es/deportes/2026/01/06/athletic-barcelona-williams-valverde-supercopa-125425884.html",
+        "date": "2026-01-06 17:15:06",
+        "sentiment_score": -0.9078834410756826
+    },
+    {
+        "title": "\"El auténtico chollo es comprar viviendas sin ascensor para instalarlo después, ya que hay ayudas y los pisos más altos pasan automáticamente a ser los más caros del edificio\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/06/695d33276b1e3.png",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.cope.es/actualidad/economia/noticias/autentico-chollo-comprar-viviendas-ascensor-instalarlo-hay-ayudas-pisos-altos-pasan-automaticamente-caros-edificio-20260106_3281401.html",
+        "date": "2026-01-06 17:14:16",
+        "sentiment_score": -0.09717428684234619
+    },
+    {
+        "title": "El Barça quiere su cuarta final consecutiva en Arabia",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260106181314_690.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-barca-quiere-cuarta-final-consecutiva-arabia-20260106181314.html",
+        "date": "2026-01-06 17:13:14",
+        "sentiment_score": -0.7737288773059845
+    },
+    {
+        "title": "Más de 2.000 trenes circulan por la red ferroviaria española durante la operación retorno de Navidad",
+        "image_url": "https://forbes.es/wp-content/uploads/2026/01/fotonoticia_20260106174402_1920-1200x675.jpg",
+        "tags": [
+            "economía",
+            "última hora"
+        ],
+        "link": "https://forbes.es/economia/853201/mas-de-2-000-trenes-circulan-por-la-red-ferroviaria-espanola-durante-la-operacion-retorno-de-navidad/",
+        "date": "2026-01-06 17:10:12",
+        "sentiment_score": 0.1350080668926239
+    },
+    {
+        "title": "Qatar puede coger el relevo de Arabia en la Supercopa de España",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c41214fc-4bac-44cd-863c-915df26091fd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "qatar"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2026/01/06/qatar-coger-relevo-arabia-supercopa-125425752.html",
+        "date": "2026-01-06 17:07:48",
+        "sentiment_score": -0.22693464159965515
+    },
+    {
+        "title": "Seat produce 470.000 coches en Martorell, con una ligera caída del 2%",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/06/695d40faeb0f3.r_d.3229-1980-830.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20260106/11416379/seat-produce-470-000-coches-martorell-ligera-caida-2.html",
+        "date": "2026-01-06 17:07:21",
+        "sentiment_score": 0.1548682637512684
+    },
+    {
+        "title": "17:00H | 06 ENE 2026 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-06-ene-2026-tarde-20260106_3281413.html",
+        "date": "2026-01-06 17:06:00",
+        "sentiment_score": -0.0027353763580322266
     }
 ];
