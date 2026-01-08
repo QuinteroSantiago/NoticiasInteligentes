@@ -1,362 +1,5 @@
 export default [
     {
-        "title": "Joan García y Fermín apagan la caldera espanyolista (0-2)",
-        "image_url": "https://cflvdg.avoz.es/sc/Fl1Af-HY6RFw5VGHFBCvf7oaJeE=/768x/2026/01/03/00121767477781362775368/Foto/efe_20260103_215959662.jpg",
-        "tags": [
-            "primera división",
-            "rcd espanyol",
-            "deportes",
-            "fc barcelona"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/03/joan-garcia-fermin-apagan-caldera-espanyolista-0-2/00031767478389899957723.htm",
-        "date": "2026-01-03 22:19:00",
-        "sentiment_score": 0.24228563904762268
-    },
-    {
-        "title": "La sinceridad de Guasch tras la victoria del Barcelona: \"Hemos visto al campeón\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/03/695995b9f0f81.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/sinceridad-tomas-guasch-victoria-barcelona-espanyol-hemos-visto-campeon-20260103_3280646.html",
-        "date": "2026-01-03 22:18:38",
-        "sentiment_score": -0.013464599847793579
-    },
-    {
-        "title": "Gran cabalgata de los Reyes Magos 2026 en Chipiona: horario, recorrido e ilusión a raudales",
-        "image_url": "https://static.grupojoly.com/clip/74a6e214-5ea0-45be-9b92-b7a985c6ca72_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "reyes",
-            "magos",
-            "gran",
-            "2026",
-            "cabalgata"
-        ],
-        "link": "https://www.diariodejerez.es/que-hacer/gran-cabalgata-reyes-magos-2026_0_2005545440.html",
-        "date": "2026-01-03 22:18:37",
-        "sentiment_score": 0.16150106489658356
-    },
-    {
-        "title": "Joan García y Fermín apagan la caldera espanyolista",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/03/Clipboard-0183-kOaC-U240735590188yd-1200x840@RC.jpg",
-        "tags": [
-            "f.c. barcelona",
-            "lamine yamal",
-            "rcd espanyol",
-            "ferran torres"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-primera/cronica-espanyol-barcelona-jornada18-20260103190757-ntrc.html",
-        "date": "2026-01-03 22:12:06",
-        "sentiment_score": 0.4327663332223892
-    },
-    {
-        "title": "Joan García y Dani Olmo asaltan Cornellá y dan al Barça un derbi en el que sufrió de lo lindo",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/03/6959908ff2433.jpeg",
-        "tags": [
-            "la liga"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20260103/joan-garcia-dani-olmo-asaltan-cornella-dan-barca-derbi-sufrio-lindo_371047.html",
-        "date": "2026-01-03 22:00:09",
-        "sentiment_score": -0.3975140154361725
-    },
-    {
-        "title": "Mariví Monteserín, alcaldesa de Avilés: «Hay que acercar las decisiones de desarrollo industrial al territorio»",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/01/03/entrevista-alcaldesa-marivi-aviles-RtWWrSjBdhAmDu5idPibdAP-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "avilés"
-        ],
-        "link": "https://www.elcomercio.es/aviles/marivi-monteserin-alcaldesa-acercar-decisiones-desarrollo-industrial-territorio-20260103181347-nt.html",
-        "date": "2026-01-03 21:47:25",
-        "sentiment_score": 0.31163909286260605
-    },
-    {
-        "title": "Los deseos de los Reyes Magos para Jaén: unión, prosperidad e integración",
-        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2026/01/03/JAEN-reyes-kf1F-U2407350907017nG-1200x840@Ideal.jpg",
-        "tags": [
-            "canal sur",
-            "jaén",
-            "real madrid",
-            "juguetes"
-        ],
-        "link": "https://www.ideal.es/jaen/jaen/deseos-reyes-magos-jaen-union-prosperidad-integracion-20260103223948-nt.html",
-        "date": "2026-01-03 21:39:48",
-        "sentiment_score": 0.29828400164842606
-    },
-    {
-        "title": "Resultados, clasificación, crónica y resúmenes de la Jornada 18 de LaLiga EA Sports 25-26 | Se rompe la racha: el Espanyol frena su serie de cinco victorias tras caer en el derbi",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2026/01/laliga-ea-sports-25-26-jornada-18-sabado-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagradaonline.com/liga-jornada-18-resultados-clasificacion-cronica-resumen-partidos-rcd-espanyol-barca-sabado/",
-        "date": "2026-01-03 21:28:50",
-        "sentiment_score": -0.08376088738441467
-    },
-    {
-        "title": "Así fue el recibimiento de la afición del Espanyol a Joan García: pitos, billetes y pancartas de Judas",
-        "image_url": "https://okdiario.com/img/2026/01/03/joangarcia.jpg",
-        "tags": [
-            "joan garcía",
-            "barcelona",
-            "deportes",
-            "fútbol club barcelona",
-            "rcd espanyol"
-        ],
-        "link": "https://okdiario.com/deportes/asi-fue-recibimiento-aficion-del-espanyol-joan-garcia-pitos-billetes-pancartas-judas-16019623",
-        "date": "2026-01-03 20:27:20",
-        "sentiment_score": -0.1824740320444107
-    },
-    {
-        "title": "Un protagonista llamado Joan García (0-2)",
-        "image_url": "https://static.grupojoly.com/clip/7c951260-5fe9-4e63-8191-6337a0013231_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "protagonista",
-            "llamado",
-            "garcia",
-            "joan",
-            "2"
-        ],
-        "link": "https://www.malagahoy.es/deportes/protagonista-llamado-joan-garcia-2_0_2005545715.html",
-        "date": "2026-01-03 22:18:15",
-        "sentiment_score": 0.7135517373681068
-    },
-    {
-        "title": "Joan García frustra a un Espanyol superior y el Barça gana en su estadio fetiche con goles de Olmo y Lewandowski",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/03/culemania/primer-equipo/1003742720729_15569992_1706x960.jpg",
-        "tags": [
-            "hansi flick",
-            "rcd espanyol",
-            "laliga",
-            "primer equipo"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260103/joan-garcia-espanyol-superior-barca-olmo-lewandowski/1003742720713_0.html",
-        "date": "2026-01-03 22:06:35",
-        "sentiment_score": 0.8569868821650743
-    },
-    {
-        "title": "Presidente de Avior: A partir de este 4 de enero se reactivarán los vuelos nacionales en Venezuela",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "vuelos viajes",
-            "vuelos nacionales eeuu",
-            "avior airlines",
-            "viajes",
-            "aerolinea"
-        ],
-        "link": "https://2001online.com/nacionales/presidente-de-avior-a-partir-de-este-4-de-enero-se-reactivaran-los-vuelos-nacionales-en-venezuela-2026131810",
-        "date": "2026-01-03 22:01:00",
-        "sentiment_score": 0.12750835716724396
-    },
-    {
-        "title": "Sergio, creador de una app que \"revoluciona\" el fútbol base y apoyada por Juan Roig: \"Dijeron que íbamos a matar el deporte\"",
-        "image_url": "https://s3.elespanol.com/2026/01/02/actualidad/1003744076962_260753051_1706x960.jpg",
-        "tags": [
-            "valencia",
-            "comunidad valenciana",
-            "fútbol",
-            "inteligencia artificial"
-        ],
-        "link": "https://www.elespanol.com/valencia/20260104/sergio-creador-app-revoluciona-futbol-base-apoyada-juan-roig-dijeron-ibamos-matar-deporte/1003744076491_0.html",
-        "date": "2026-01-04 01:40:55",
-        "sentiment_score": 0.2009463906288147
-    },
-    {
-        "title": "Así negocié con los okupas para recuperar mi casa: \"Te sientes como un delincuente\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
-        "tags": [
-            "artículos clara rojas",
-            "vivienda"
-        ],
-        "link": "https://www.elmundo.es/economia/vivienda/2026/01/04/695796e8fc6c83d1638b457c.html",
-        "date": "2026-01-04 01:37:17",
-        "sentiment_score": 0.1037619560956955
-    },
-    {
-        "title": "Esther Ferrer: la belleza de los números primos en la Real Fábrica de Moneda y Timbre",
-        "image_url": "https://s3.elespanol.com/2025/12/18/actualidad/1003744061987_260563772_1706x960.jpg",
-        "tags": [
-            "arte",
-            "exposiciones",
-            "madrid",
-            "ec-critica-arte"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/arte/20260104/esther-ferrer-belleza-numeros-primos-real-fabrica-moneda-timbre/1003744061926_0.html",
-        "date": "2026-01-04 01:17:22",
-        "sentiment_score": 0.8608470074832439
-    },
-    {
-        "title": "La película de culto sobre las adicciones que usa Madrid como escenario: \"El director toma una decisión que es vivir y morir con heroína, controlando los tiempos\"",
-        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/01/01/17672848968411.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elmundo.es/madrid/2026/01/04/69569ee5fc6c83c23a8b45c3.html",
-        "date": "2026-01-04 01:10:29",
-        "sentiment_score": -0.032287657260894775
-    },
-    {
-        "title": "Imparable: el Barcelona suma su novena victoria consecutiva ante el Espanyol",
-        "image_url": "https://pxcdn.meridiano.net/012026/1767498825417.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/espanol/imparable-el-barcelona-suma-su-novena-victoria-consecutiva-ante-el-espanyol-2026132160",
-        "date": "2026-01-04 01:06:00",
-        "sentiment_score": -0.5450340583920479
-    },
-    {
-        "title": "Un viaje por la gastronomía castiza y centenaria de Madrid: de la fundación del PSOE entre pinchos de bacalao a la actriz Catherine Zeta-Jones cantando con la tuna",
-        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2024/05/31/17171530795787.jpg",
-        "tags": [
-            "gastronomía",
-            "madrid",
-            "comer",
-            "libros",
-            "restaurantes"
-        ],
-        "link": "https://www.elmundo.es/metropoli/gastronomia/2026/01/04/694146d7fdddffd1318b457f.html",
-        "date": "2026-01-04 00:38:12",
-        "sentiment_score": 0.25546758621931076
-    },
-    {
-        "title": "La Real estrena año y entrenador ante el Atlético: vida nueva",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/88044ecf-474a-4262-b524-cd9d0b1f53d0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sociedad",
-            "vida",
-            "nueva",
-            "real",
-            "atlético",
-            "madrid",
-            "previa"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/01/04/previa-vida-nueva-real-sociedad-atletico-madrid-10536320.html",
-        "date": "2026-01-04 00:24:51",
-        "sentiment_score": 0.1413775086402893
-    },
-    {
-        "title": "03 ENE 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/03-ene-2026-tramo-final-juego-20260104_3280657.html",
-        "date": "2026-01-04 00:03:13",
-        "sentiment_score": 0.15608159825205803
-    },
-    {
-        "title": "La inusual salvada del arquero del Barcelona que empujó a su defensor para evitar el gol y fue clave para ganar el clásico",
-        "image_url": "https://www.infobae.com/resizer/v2/DF7OGQAYUZA5JLOMFP5EEW6LHQ.JPG?auth=3fc1b3c65045f3ce870387ea222230725001cb8f52c4a82c6ceb7cfc47a28170&height=1032&smart=true&width=1835",
-        "tags": [
-            "joan garcía",
-            "la liga de españa",
-            "barcelona",
-            "gerard martin",
-            "espanyol",
-            "deportes-internacional"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/03/la-inusual-salvada-del-arquero-del-barcelona-que-empujo-a-su-defensor-para-evitar-el-gol-y-fue-clave-para-ganar-el-clasico/",
-        "date": "2026-01-03 23:45:11",
-        "sentiment_score": 0.8264713771641254
-    },
-    {
-        "title": "2a PARTE | 03 ENE 2026 | TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/2a-parte-03-ene-2026-juego-20260104_3280655.html",
-        "date": "2026-01-03 23:33:32",
-        "sentiment_score": -0.08152129501104355
-    },
-    {
-        "title": "Los Domínguez, de un taller en un pueblo de Málaga a vender en 100 países con Mayoral: su patrimonio es 1.200 millones",
-        "image_url": "https://s3.elespanol.com/2018/01/04/actualidad/274734490_59335560_1706x960.jpg",
-        "tags": [
-            "economía",
-            "moda infantil",
-            "málaga",
-            "empresas"
-        ],
-        "link": "https://www.elespanol.com/malaga/economia/20260104/dominguez-taller-pueblo-malaga-vender-paises-mayoral-patrimonio-millones-dl/1003744075389_0.html",
-        "date": "2026-01-04 01:38:12",
-        "sentiment_score": 0.4584345668554306
-    },
-    {
-        "title": "Tope histórico de víctimas que convivían con su agresor y denuncias en mínimos en el año con menos asesinatos machistas",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/100cc57e14e19b0030a2412626aad5ec/crop/1116x125/2131x1140/f/image/jpeg/assets/multimedia/imagenes/2024/10/31/17303778454999.jpg",
-        "tags": [
-            "artículos silvia lorenzo",
-            "vox",
-            "guardia civil",
-            "pedro sánchez"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/01/04/69594724e4d4d830628b45ac.html",
-        "date": "2026-01-04 01:31:48",
-        "sentiment_score": -0.34694381058216095
-    },
-    {
-        "title": "Abraham Boba y el gran festín de León Benavente: \"No somos el grupo de moda, vamos a lo nuestro\"",
-        "image_url": "https://s3.elespanol.com/2026/01/02/actualidad/1003744076540_260747031_1706x960.jpg",
-        "tags": [
-            "música",
-            "conciertos",
-            "libros"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20260104/abraham-boba-gran-festin-leon-benavente-no-grupo-moda-vamos/1003744076495_0.html",
-        "date": "2026-01-04 01:17:09",
-        "sentiment_score": 0.32443876937031746
-    },
-    {
-        "title": "MVP: Joan García",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/04/culemania/tarjetas-jornada/1003742720754_15570389_1706x960.jpg",
-        "tags": [
-            "el mvp y las tarjetas de la jornada",
-            "hansi flick",
-            "barça",
-            "rcd espanyol",
-            "joan garcía"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/tarjetas-jornada/20260104/mvp-joan-garcia/1003742720730_0.html",
-        "date": "2026-01-04 00:43:52",
-        "sentiment_score": 0.8000233881175518
-    },
-    {
-        "title": "Brigitte Bardot era \"insufrible\": así recordaba Teresa Gimpera, ya fallecida, a la actriz francesa con la que rodó en España",
-        "image_url": "https://s3.elespanol.com/2026/01/02/actualidad/1003744076869_260751485_1706x960.jpg",
-        "tags": [
-            "cine",
-            "raquel welch",
-            "actrices",
-            "brigitte bardot",
-            "celebrities"
-        ],
-        "link": "https://www.elespanol.com/corazon/celebrities/20260104/brigitte-bardot-insufrible-recordaba-teresa-gimpera-fallecida-actriz-francesa-rodo-espana/1003744076158_0.html",
-        "date": "2026-01-04 00:31:05",
-        "sentiment_score": -0.9035196201875806
-    },
-    {
-        "title": "Enric Mestre",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/01/01/6956936939450.r_d.802-422.png",
-        "tags": [
-            "obituarios"
-        ],
-        "link": "https://www.eldebate.com/obituarios/20260104/referente-mundial-ceramica_371018.html",
-        "date": "2026-01-04 00:30:00",
-        "sentiment_score": 0.31818918883800507
-    },
-    {
-        "title": "Maduro y su conocida afición por el FC Barcelona vuelve a escena",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/25/2025082522175120826.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/maduro-conocida-aficion-fc-barcelona-vuelve-escena/20260104010647369298.html",
-        "date": "2026-01-04 00:06:47",
-        "sentiment_score": -0.06090064346790314
-    },
-    {
         "title": "Los más de 60.000 intentos de pase de inmigrantes en la frontera sur más dura",
         "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/09/no-quiere-ver-marlaska-frontera-ceuta-intentos-pase-inmigrantes-4-750x500.jpg?v=1757827684",
         "tags": [
@@ -2887,5 +2530,251 @@ export default [
         "link": "https://www.elcorreogallego.es/sociedad/2026/01/07/ana-testimonio-enfermedad-mental-todavia-125434092.html",
         "date": "2026-01-07 06:11:40",
         "sentiment_score": -0.7885246817022562
+    },
+    {
+        "title": "EE.UU. incauta petrolero con bandera rusa vinculado a Venezuela",
+        "image_url": "https://static.wixstatic.com/media/335561_02d841435c5a46adb150bea58975a754~mv2.png/v1/fit/w_861,h_368,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/ee-uu-incauta-petrolero-con-bandera-rusa-vinculado-a-venezuela",
+        "date": "2026-01-07 15:18:54",
+        "sentiment_score": -0.9351853625848889
+    },
+    {
+        "title": "Derbi para subir el ánimo en Arabia",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260107181525_120.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-derbi-subir-animo-arabia-20260107181525.html",
+        "date": "2026-01-07 17:15:25",
+        "sentiment_score": -0.13695424795150757
+    },
+    {
+        "title": "El Fútbol Club Barcelona visitará El Sardinero la semana que viene",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2025/11/17/D786439C-1EBA-4B69-9A7A-58D896DCF64E/campos-sport-sardinero_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "cantabria",
+            "ondacero",
+            "noticias",
+            "emisoras"
+        ],
+        "link": "https://www.ondacero.es/emisoras/cantabria/noticias/futbol-club-barcelona-visitara-sardinero-semana-que-viene_20260107695e9476ea66eb73532925d9.html",
+        "date": "2026-01-07 17:14:30",
+        "sentiment_score": 0.5540554821491241
+    },
+    {
+        "title": "Xabi Alonso: \"Este derbi será otra historia, estoy convencido de que el equipo va a dar otra cara\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260107181426_690.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-xabi-alonso-derbi-sera-otra-historia-estoy-convencido-equipo-va-dar-otra-cara-20260107181426.html",
+        "date": "2026-01-07 17:14:26",
+        "sentiment_score": 0.637869194149971
+    },
+    {
+        "title": "Escombreras acelera su transformación hacia el 'Valle Verde'",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cf4059c0-fdd8-4698-aeda-1e314c0c9f5f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "emisiones",
+            "residuos",
+            "economía circular",
+            "repsol"
+        ],
+        "link": "https://www.laopiniondemurcia.es/comunidad/2026/01/07/escombreras-acelera-transformacion-valle-verde-125458011.html",
+        "date": "2026-01-07 17:14:10",
+        "sentiment_score": 0.06014825403690338
+    },
+    {
+        "title": "La marea verde espera que el Racing Club Ferrol suba el listón en la segunda vuelta: «Hai equipo para estar máis arriba»",
+        "image_url": "https://cflvdg.avoz.es/sc/5yveM-PxMVrOGh1sekiJkqyBiTw=/768x/2026/01/07/00121767805502514577424/Foto/f_20251214_194728001.jpg",
+        "tags": [
+            "primera rfef",
+            "opa racing",
+            "racing de ferrol"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/oparacing/2026/01/07/marea-verde-espera-racing-club-ferrol-suba-liston-segunda-vueltahai-equipo-estar-mais-arriba/00031767805450723962772.htm",
+        "date": "2026-01-07 17:14:00",
+        "sentiment_score": -0.6629470884799957
+    },
+    {
+        "title": "Liderazgo joven, visión global y éxito empresarial, Yasmine Skali, referente del healthcare en 2025",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7796969",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5725751/liderazgo-joven-vision-global-exito-empresarial-yasmine-skali-referente-healthcare-2025",
+        "date": "2026-01-07 17:09:42",
+        "sentiment_score": 0.7396978754550219
+    },
+    {
+        "title": "Jude Bellingham: \"Estamos a muerte con Xabi Alonso\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/07/695e9160ce551.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/jude-bellingham-muerte-xabi-alonso-20260107_3282134.html",
+        "date": "2026-01-07 17:05:58",
+        "sentiment_score": 0.04639539122581482
+    },
+    {
+        "title": "Simeone: \"Como entrenador no cierro ninguna puerta\"",
+        "image_url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/78527749001/f4ea5d3e-21ff-4941-b62d-32779ceba270/main/224x126/18s90ms/match/image.jpg?pubId=85707284001",
+        "tags": [
+            "ninguna",
+            "entrenador",
+            "como",
+            "cierro",
+            "simeone",
+            "puerta"
+        ],
+        "link": "https://www.elcomercio.es/deportes/simeone-entrenador-cierro-ninguna-puerta-20260107165525-vi.html",
+        "date": "2026-01-07 17:05:20",
+        "sentiment_score": -0.32075121253728867
+    },
+    {
+        "title": "VÍDEO: Koke Resurrección: \"Nos vamos a dejar la vida por ganar este título\"",
+        "image_url": "https://www.infobae.com/resizer/v2/HDP2MHXZBVFOLM6WSQSM543M5Y.jpg?auth=07d3935ecc7120786b3dfe05590fd1c4c124f4b7a85cde7f5a3fa112cdd6f1bd&height=1348&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/07/video-koke-resurreccion-nos-vamos-a-dejar-la-vida-por-ganar-este-titulo/",
+        "date": "2026-01-07 17:00:52",
+        "sentiment_score": 0.46614784747362137
+    },
+    {
+        "title": "La fotografía decimonónica de Charles Clifford retrata a una España fijada en sales de plata",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/22/letraglobal/artes/1003742718561_15544178_1706x960.jpg",
+        "tags": [
+            "artes",
+            "exposiciones",
+            "fotografía"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/letraglobal/artes/20260107/fotografia-decimononica-charles-clifford-retrata-espana-fijada/1003742718560_0.html",
+        "date": "2026-01-07 17:00:00",
+        "sentiment_score": 0.5477113202214241
+    },
+    {
+        "title": "17:00H | 07 ENE 2026 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-07-ene-2026-tarde-20260107_3282138.html",
+        "date": "2026-01-07 17:10:00",
+        "sentiment_score": -0.10147508978843689
+    },
+    {
+        "title": "La acusada de matar a su novio en Sant Adrià con 118 navajazos haciéndole creer que era un juego sexual acepta 20 años de cárcel",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/03/27/archivo-fachada-del-palacio-de-justicia-de-catalunya-sede-del-tsjc-y-de-la-audiencia-de-barcelona.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/acusada-matar-su-novio-sant-adria-con-118-navajazos-haciendole-creer-que-era-un-juego-sexual-acepta-20-anos-carcel_6918284_0.html",
+        "date": "2026-01-07 17:04:02",
+        "sentiment_score": -0.9250002782791853
+    },
+    {
+        "title": "La acusada de matar a su novio en 2023 en Sant Adrià (Barcelona) de 118 navajazos acepta 20 años de cárcel",
+        "image_url": "https://www.infobae.com/resizer/v2/OQUQDQP3SJHQRDBNAH6GERMXSY.jpg?auth=d2cdbc0cca38eecabcb91da1f021d01fda67b0ea22e5379dadafa67d10e1cfb7&height=1280&smart=true&width=1920",
+        "tags": [
+            "barcelona",
+            "libertad vigilada",
+            "fiscalía provincial de barcelona",
+            "sant adrià de besòs",
+            "crimen",
+            "ministerio público",
+            "europa press",
+            "asesinato",
+            "violencia de pareja",
+            "europapress",
+            "prisión"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/07/la-acusada-de-matar-a-su-novio-en-2023-en-sant-adria-barcelona-de-118-navajazos-acepta-20-anos-de-carcel/",
+        "date": "2026-01-07 17:04:02",
+        "sentiment_score": -0.6887130234390497
+    },
+    {
+        "title": "Muere un hombre sinhogar en plena ola de frío, el segundo en 24 horas",
+        "image_url": "https://static1.ara.cat/clip/1cdb2fbe-dd0c-41ef-8880-8d1ffbc372c3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "muere",
+            "frio",
+            "horas",
+            "plena",
+            "segundo",
+            "sinhogar",
+            "hombre",
+            "24",
+            "ola"
+        ],
+        "link": "https://es.ara.cat/sociedad/emergencia-social/muere-hombre-sinhogar-plena-ola-frio-segundo-24-horas_130_5611359.html",
+        "date": "2026-01-07 17:02:55",
+        "sentiment_score": -0.8733298974111676
+    },
+    {
+        "title": "La madre de Athina, la niña desaparecida en Sants, denunció al padre de la menor por violencia y amenazas",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/07/el-pulso-de-la-ciudad/1003742721440_15578126_1706x960.jpg",
+        "tags": [
+            "infancia",
+            "guardia urbana",
+            "mossos d'esquadra",
+            "sant antoni",
+            "el pulso de la ciudad",
+            "desaparecidos barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260107/madre-athina-nina-desaparecida-sants-denuncio-padre-menor-violencia-amenazas/1003742721432_0.html",
+        "date": "2026-01-07 17:02:26",
+        "sentiment_score": -0.9123673625290394
+    },
+    {
+        "title": "Louzán traslada su apoyo al CTA por su \"entrega y compromiso\" antes de la Supercopa de España",
+        "image_url": "https://www.infobae.com/resizer/v2/ECRGSNOO45A27OUCSFRWPQB2VQ.jpg?auth=3afebfb7762b1f1178a97a8debbe9d22ee0e246256c3e9bf8544d199278796ee&height=1080&smart=true&width=1920",
+        "tags": [
+            "arbitraje",
+            "supercopa de españa",
+            "athletic club",
+            "rafael louzán",
+            "fc barcelona",
+            "díaz de mera escuderos",
+            "comité técnico de árbitros",
+            "europapress",
+            "real federación española de fútbol",
+            "yeda",
+            "arabia saudí"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/07/louzan-traslada-su-apoyo-al-cta-por-su-entrega-y-compromiso-antes-de-la-supercopa-de-espana/",
+        "date": "2026-01-07 17:02:06",
+        "sentiment_score": 0.7944087982177734
+    },
+    {
+        "title": "Patricia Pardo explota contra ‘La casa de los gemelos’: «¡Miseria humana!»",
+        "image_url": "https://okdiario.com/img/2025/01/13/patricia-pardo-en-vamos-a-ver-informa-del-estado-de-salud-de-la-hija-de-anabel-pantoja.-1.jpg",
+        "tags": [
+            "mediaset",
+            "telecinco",
+            "televisión, cine y series",
+            "youtube"
+        ],
+        "link": "https://okdiario.com/trailer/patricia-pardo-explota-contra-casa-gemelos-miseria-humana-16035146",
+        "date": "2026-01-07 17:00:06",
+        "sentiment_score": -0.6704400759190321
+    },
+    {
+        "title": "La cadena de supermercados ‘low cost’ Normal suma y sigue en España: abre su primera tienda en esta comunidad",
+        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/08/archivo-gente-comprando-supermercado-20250813103603-1000x665.jpg",
+        "tags": [
+            "supermercados",
+            "castilla y león",
+            "empresas"
+        ],
+        "link": "https://www.economiadigital.es/empresas/normal-primera-tienda-comunidad.html",
+        "date": "2026-01-07 17:00:00",
+        "sentiment_score": 0.5272984132170677
     }
 ];
