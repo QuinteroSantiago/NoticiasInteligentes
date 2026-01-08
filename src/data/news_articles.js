@@ -1,169 +1,5 @@
 export default [
     {
-        "title": "Los más de 60.000 intentos de pase de inmigrantes en la frontera sur más dura",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/09/no-quiere-ver-marlaska-frontera-ceuta-intentos-pase-inmigrantes-4-750x500.jpg?v=1757827684",
-        "tags": [
-            "frontera e inmigración",
-            "guardia civil",
-            "marruecos",
-            "sociedad",
-            "frontera sur",
-            "policía nacional",
-            "inmigración",
-            "benzú",
-            "noticias",
-            "tarajal ii"
-        ],
-        "link": "https://elfarodeceuta.es/miles-intentos-pase-inmigrantes-frontera-sur-mas-dura/",
-        "date": "2026-01-04 06:20:56",
-        "sentiment_score": -0.3947412632405758
-    },
-    {
-        "title": "Excelencia malagueña para la Fiscalía",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc3e3c6c-dbdc-426e-9d96-955f464f0947_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "promoción",
-            "formación",
-            "jóvenes",
-            "fiscal"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/04/excelencia-malaguena-fiscalia-125346226.html",
-        "date": "2026-01-04 06:00:49",
-        "sentiment_score": -0.0863383561372757
-    },
-    {
-        "title": "Dos empresarios y el presidente de la Junta: ¿Quién hay detrás de las túnicas de los Reyes Magos de la Cabalgata de Sevilla?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7a0875b6-8508-4440-a541-9bc0a73be805_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cabalgata de los reyes magos,reyes magos,sevilla,juanma moreno,junta de andalucía,navidad,ateneo de sevilla"
-        ],
-        "link": "https://www.elcorreoweb.es/sevilla/2026/01/04/empresarios-presidente-junta-hay-detras-125319320.html",
-        "date": "2026-01-04 06:00:48",
-        "sentiment_score": -0.2269846349954605
-    },
-    {
-        "title": "El mapa de las 6.000 VPO en marcha en Sevilla durante 2026: desde la Cruz del Campo hasta Palmas Altas o Artillería",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4e29909e-f43a-411c-8328-989e8e977c34_16-9-aspect-ratio_default_0_x1059y1173.jpg",
-        "tags": [
-            "vpo,viviendas,vivienda,emvisesa,obras,barrio cruz del campo,algodonera,fibes,real fábrica de artillería"
-        ],
-        "link": "https://www.elcorreoweb.es/sevilla/2026/01/04/mapa-obras-vpo-alquiler-sevilla-2026-125244862.html",
-        "date": "2026-01-04 06:00:48",
-        "sentiment_score": 0.23829369246959686
-    },
-    {
-        "title": "La iglesia de San Martín y la plaza de las Sirenas (I)",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2026/01/1-Composicion.jpg",
-        "tags": [
-            "la mirada",
-            "segovia",
-            "portada imagen vertical"
-        ],
-        "link": "https://eladelantado.com/la-iglesia-de-san-martin-y-la-plaza-de-las-sirenas-i/",
-        "date": "2026-01-04 06:00:08",
-        "sentiment_score": -0.11873602122068405
-    },
-    {
-        "title": "Antonio Maíllo y el destino de la izquierda",
-        "image_url": "https://static.grupojoly.com/clip/165f72fe-3d73-41d0-a8a8-334b062426cd_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "antonio",
-            "destino",
-            "izquierda",
-            "maillo"
-        ],
-        "link": "https://www.malagahoy.es/andalucia/antonio-maillo-destino-izquierda_0_2005548076.html",
-        "date": "2026-01-04 05:59:48",
-        "sentiment_score": 0.065092533826828
-    },
-    {
-        "title": "De Caracas a Brooklyn: el periplo de Maduro bajo custodia de los EE.UU.",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/03/695991712d474.r_d.481-353-0.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.lavanguardia.com/internacional/20260104/11411392/caracas-brooklyn-periplo-maduro-custodia-ee-uu.html",
-        "date": "2026-01-04 06:34:47",
-        "sentiment_score": -0.7652487987652421
-    },
-    {
-        "title": "Óscar Dalmau, el hombre por el que sonríe Thais Villas y trabaja como locutor en Barcelona",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/thais-villa-marido.jpeg",
-        "tags": [
-            "barcelona",
-            "celebrities",
-            "hijos",
-            "gente",
-            "relaciones de pareja"
-        ],
-        "link": "https://theobjective.com/gente/2026-01-04/oscar-dalmau-hombre-thais-villas-locutor/",
-        "date": "2026-01-04 06:30:00",
-        "sentiment_score": -0.32129282504320145
-    },
-    {
-        "title": "Los 10 Grandes Premios de Fórmula 1 que tendrán a tres pilotos argentinos compartiendo circuitos",
-        "image_url": "https://www.infobae.com/resizer/v2/ZRSMVLZFE5FSXHFX2H5D2UQZTU.jpg?auth=99de0e04734d8dddea2494a78cf65d24dab535b418d9e2c6777188c237bd53f3&height=1080&smart=true&width=1920",
-        "tags": [
-            "fórmula 1",
-            "mattia colnaghi",
-            "nicolás varrone",
-            "últimas noticias",
-            "fórmula 3",
-            "franco colapinto",
-            "f1",
-            "f3",
-            "fórmula 2",
-            "f2"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/04/los-10-grandes-premios-de-formula-1-que-tendran-a-tres-pilotos-argentinos-compartiendo-circuitos/",
-        "date": "2026-01-04 06:28:22",
-        "sentiment_score": 0.12190317362546921
-    },
-    {
-        "title": "Andrea Beltramino explica cómo cambió el turismo silver: “Hoy el viajero mayor es activo, autónomo, conocedor, culto y dinámico”",
-        "image_url": "https://www.infobae.com/resizer/v2/PUPUM5QCAZFX7H7Q2V4UIVD4YE.jpg?auth=1e8571c63f8cf0f6dc3ece28e54aae5dbe0f59dc0d673ba0ca6819fedc6e63ef&height=1080&smart=true&width=1920",
-        "tags": [
-            "viajeros senior",
-            "turismo en argentina",
-            "andrea beltramino",
-            "turismo silver",
-            "últimas noticias",
-            "tercera edad",
-            "rosario"
-        ],
-        "link": "https://www.infobae.com/generacion-silver/2026/01/04/andrea-beltramino-explica-como-cambio-el-turismo-silver-hoy-el-viajero-mayor-es-activo-autonomo-conocedor-culto-y-dinamico/",
-        "date": "2026-01-04 06:06:30",
-        "sentiment_score": 0.5802578199654818
-    },
-    {
-        "title": "Juan Francisco Fuentes: “Me sentí poseído por esa alegría de vivir que transmiten los protagonistas del libro”",
-        "image_url": "https://static.grupojoly.com/clip/af74ac53-4789-4ca6-8b8f-32d368b0b349_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "poseido",
-            "francisco",
-            "juan",
-            "senti",
-            "fuentes"
-        ],
-        "link": "https://www.malagahoy.es/ocio/juan-francisco-fuentes-senti-poseido_0_2005548104.html",
-        "date": "2026-01-04 06:01:12",
-        "sentiment_score": 0.27020715922117233
-    },
-    {
-        "title": "Marianne Nilsen Nygaard: la musa de Antonio Flores",
-        "image_url": "https://static.grupojoly.com/clip/1570b7f3-de55-4a67-b580-4caaee5da619_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "marianne",
-            "antonio",
-            "nilsen",
-            "nygaard",
-            "musa"
-        ],
-        "link": "https://www.malagahoy.es/marbella/marianne-nilsen-nygaard-musa-antonio_0_2005541637.html",
-        "date": "2026-01-04 06:00:59",
-        "sentiment_score": 0.4388357140123844
-    },
-    {
         "title": "En el Bernabéu hay vida sin Mbappé: el Madrid vence al Betis 5-1",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/04/2026010418254551208.jpg",
         "tags": [
@@ -2776,5 +2612,155 @@ export default [
         "link": "https://www.economiadigital.es/empresas/normal-primera-tienda-comunidad.html",
         "date": "2026-01-07 17:00:00",
         "sentiment_score": 0.5272984132170677
+    },
+    {
+        "title": "El Athletic considera que será \"difícil\" el encuentro de Copa contra la Cultural Leonesa",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/07/el-athletic-considera-que-sera-dificil-el-encuentro-de-copa-contra-la-cultural-leonesa/",
+        "date": "2026-01-07 22:18:59",
+        "sentiment_score": -0.7906599286943674
+    },
+    {
+        "title": "Agenda Informativa de Europa Press para mañana jueves, 8 de enero (y 2)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/07/agenda-informativa-de-europa-press-para-manana-jueves-8-de-enero-y-2/",
+        "date": "2026-01-07 22:15:19",
+        "sentiment_score": 0.04253130778670311
+    },
+    {
+        "title": "Zontes y Voge reordenan un mercado de las dos ruedas que crece un 7% en 2025",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/d1d2da4f5eaca5349c76eff314261e4f/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/06/17677397059238.jpg",
+        "tags": [
+            "artículos florián r.s.>",
+            "motor>",
+            "cataluña>",
+            "empresas>",
+            "comunidad valenciana>"
+        ],
+        "link": "https://www.expansion.com/empresas/motor/2026/01/07/695d8d72468aeb28288b4594.html",
+        "date": "2026-01-07 22:13:57",
+        "sentiment_score": 0.30166636407375336
+    },
+    {
+        "title": "5-0. Goleada del Barça hacia la final",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/07/5-0-goleada-del-barca-hacia-la-final/",
+        "date": "2026-01-07 22:08:20",
+        "sentiment_score": 0.707267127931118
+    },
+    {
+        "title": "El Barcelona-Athletic, en 5 instantes",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/07/el-barcelona-athletic-en-5-instantes/",
+        "date": "2026-01-07 22:07:41",
+        "sentiment_score": -0.03912416845560074
+    },
+    {
+        "title": "Raphinha: \"Nosotros somos los que hacemos el partido fácil o difícil\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/07/raphinha-nosotros-somos-los-que-hacemos-el-partido-facil-o-dificil/",
+        "date": "2026-01-07 22:06:22",
+        "sentiment_score": -0.005367353558540344
+    },
+    {
+        "title": "Ernesto Valverde: “Un partido de los peores que hemos hecho en mucho tiempo”",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/07/ernesto-valverde-un-partido-de-los-peores-que-hemos-hecho-en-mucho-tiempo/",
+        "date": "2026-01-07 22:05:03",
+        "sentiment_score": 0.7770703248679638
+    },
+    {
+        "title": "El FC Barcelona gana, gusta y golea, y espera por Real Madrid o Atlético de Madrid en la final de la Supercopa de España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/01/07/barcelona-golea-athletic-club-supercopa-espana-orix/",
+        "date": "2026-01-07 22:03:49",
+        "sentiment_score": 0.20021259784698486
+    },
+    {
+        "title": "Solo un verdadero experto puede reconocer a estas leyendas del Barcelona y el Real Madrid",
+        "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2026-01/07/17/thumb/FWsFE5Wmj.jpg?6%2C0=&crop=2988%3A1992&resize=1250%3A830",
+        "tags": [
+            "sports"
+        ],
+        "link": "https://www.buzzfeed.com/mx/mikebarcena/un-experto-reconoce-estas-leyendas-barcelona-real-madrid",
+        "date": "2026-01-07 22:01:05",
+        "sentiment_score": 0.028052479028701782
+    },
+    {
+        "title": "Raphinha: \"Nunca voy a decir que estoy a mi mejor nivel\"",
+        "image_url": "https://www.infobae.com/resizer/v2/CG3ARDEH5NA3BPVINCPGIMSWCY.jpg?auth=1b0efdbd9f745bfd7ed5250e8c18df62b6fba3eef5eac1073f852f1bbec0013d&height=1280&smart=true&width=1920",
+        "tags": [
+            "supercopa",
+            "delantero",
+            "athletic club",
+            "raphinha",
+            "europa press",
+            "rotaciones",
+            "fc barcelona",
+            "movistar plus",
+            "europapress",
+            "king abdullah",
+            "yeda"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/07/raphinha-nunca-voy-a-decir-que-estoy-a-mi-mejor-nivel/",
+        "date": "2026-01-07 22:00:33",
+        "sentiment_score": 0.9037552680820227
+    },
+    {
+        "title": "Ernesto Valverde: “No suelo pedir perdón y no me gusta hacerlo además”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/144d13e1-1258-4a52-97ac-24c93929e0c8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "suelo",
+            "ernesto",
+            "pedir",
+            "perdon",
+            "valverde"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/01/07/ernesto-valverde-suelo-pedir-perdon-10549695.html",
+        "date": "2026-01-07 22:20:11",
+        "sentiment_score": -0.22192822396755219
+    },
+    {
+        "title": "Iñaki Williams pide perdón: “Es una lástima; no hemos estado a la altura”",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/07/inaki-williams-pide-perdon-es-una-lastima-no-hemos-estado-a-la-altura/",
+        "date": "2026-01-07 22:18:26",
+        "sentiment_score": -0.9231634251773357
+    },
+    {
+        "title": "De la pesadilla de Unai Simón a la noche plácida de Joan García",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "supercopa de espana",
+            "bilbao",
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/07/de-la-pesadilla-de-unai-simon-a-la-noche-placida-de-joan-garcia/",
+        "date": "2026-01-07 22:08:01",
+        "sentiment_score": -0.5518215671181679
     }
 ];
