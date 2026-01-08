@@ -2762,5 +2762,128 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2026/01/07/de-la-pesadilla-de-unai-simon-a-la-noche-placida-de-joan-garcia/",
         "date": "2026-01-07 22:08:01",
         "sentiment_score": -0.5518215671181679
+    },
+    {
+        "title": "La financiación singular tensiona al independentismo: Junts aprieta antes de la cumbre con Sánchez",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/05/2025030515062081901.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/financiacion-singular-tensiona-independentismo-junts-aprieta-antes-cumbre-sanchez/20260108023631369750.html",
+        "date": "2026-01-08 01:36:31",
+        "sentiment_score": -0.8394987285137177
+    },
+    {
+        "title": "La mejora que no basta: por qué el aire de las ciudades españolas sigue siendo insalubre",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/08/2026010801553925806.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.mundiario.com/articulo/sociedad/mejora-que-basta-que-aire-ciudades-espanolas-sigue-siendo-insalubre/20260108015809369744.html",
+        "date": "2026-01-08 00:58:09",
+        "sentiment_score": -0.4631638042628765
+    },
+    {
+        "title": "07 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/07-ene-2026-partidazo-cope-20260108_3282280.html",
+        "date": "2026-01-08 00:36:32",
+        "sentiment_score": 0.44634146243333817
+    },
+    {
+        "title": "El invento judicializado de Piqué y Rubiales que revalorizó la Supercopa de España: formato exitoso y polémico",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/05/31/culemania/palco/859424261_13025495_1706x960.jpg",
+        "tags": [
+            "real madrid",
+            "arabia saudí",
+            "gerard piqué",
+            "fc barcelona",
+            "luis rubiales",
+            "palco",
+            "supercopa de españa",
+            "real federación española de fútbol (rfef)"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260108/judicializado-pique-rubiales-revalorizo-supercopa-espana-polemico/1003742721564_0.html",
+        "date": "2026-01-08 00:15:52",
+        "sentiment_score": -0.14685940742492676
+    },
+    {
+        "title": "La locura a cero grados por una entrada de Copa para el Albacete-Real Madrid, con el 'tiktoker' Tapy95 desde la fila del Carlos Belmonte",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/locura-cero-grados-entrada-copa-albacete-real-madrid-tiktoker-tapy95-fila-carlos-belmonte-20260108_3282275.html",
+        "date": "2026-01-08 00:15:09",
+        "sentiment_score": -0.07870963215827942
+    },
+    {
+        "title": "El FC Barcelona no da tregua al Athletic y firma una goleada histórica en Arabia Saudí",
+        "image_url": "https://www.infobae.com/resizer/v2/SL636HKVQRDQROH3PG77FVFQ5M.JPG?auth=ef25396bb2d6859883db77bcb3fb33f252df0bebdc62502bde38801d40222df3&height=1966&smart=true&width=3495",
+        "tags": [
+            "athletic club",
+            "fútbol",
+            "fútbol españa",
+            "fc barcelona",
+            "españa-deportes",
+            "supercopa de españa",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/01/07/el-fc-barcelona-no-da-tregua-al-athletic-y-firma-una-goleada-historica-en-arabia-saudi/",
+        "date": "2026-01-08 00:06:04",
+        "sentiment_score": 0.35349661856889725
+    },
+    {
+        "title": "Sonatina bolivariana",
+        "image_url": "https://gaceta.es/wp-content/uploads/2022/07/Itxu-Diaz.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://gaceta.es/opinion/sonatina-bolivariana-20260108-0045/",
+        "date": "2026-01-07 23:45:00",
+        "sentiment_score": -0.7612982578575611
+    },
+    {
+        "title": "Cubarsí (Barcelona): \"Hemos estado muy efectivos arriba\"",
+        "image_url": "https://www.infobae.com/resizer/v2/DAP6N2N6LFCSLCWNZ6MSERT6VI.jpg?auth=54ed96deec3538262350342e90e290cfb85af5f8c8025a70776b18db1efbdb7b&height=2622&smart=true&width=3932",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/07/cubarsi-barcelona-hemos-estado-muy-efectivos-arriba/",
+        "date": "2026-01-07 23:30:35",
+        "sentiment_score": 0.7197652421891689
+    },
+    {
+        "title": "Jueves 8 de enero de 2026 (23.00 GMT)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/07/jueves-8-de-enero-de-2026-2300-gmt/",
+        "date": "2026-01-07 23:17:50",
+        "sentiment_score": -0.006428644061088562
+    },
+    {
+        "title": "Análisis desde Jeddah: El Barça, a la final a la espera del derbi madrileño",
+        "image_url": "https://www.mundodeportivo.com/files/image_948_465/uploads/2026/01/08/695ee69113778.jpeg",
+        "tags": [
+            "f.c. barcelona"
+        ],
+        "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260108/1002597538/analisis-jeddah-barca-final-espera-derbi-madrileno.html",
+        "date": "2026-01-07 23:04:59",
+        "sentiment_score": 0.3090601712465286
+    },
+    {
+        "title": "Del quiosco de prensa al ‘hub’ digital: así se reinventa la conectividad en las ciudades",
+        "image_url": "https://www.elperiodico.com/ideas/Cellnex-10-years-in-the-future/images/redes/redes-articulo-06.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/ideas/Cellnex-10-years-in-the-future/ciudades.html",
+        "date": "2026-01-08 02:01:06",
+        "sentiment_score": -0.22583333030343056
     }
 ];
