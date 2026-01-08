@@ -1,189 +1,5 @@
 export default [
     {
-        "title": "En el Bernabéu hay vida sin Mbappé: el Madrid vence al Betis 5-1",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/04/2026010418254551208.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/bernabeu-vida-mbappe/20260104182752369348.html",
-        "date": "2026-01-04 17:27:52",
-        "sentiment_score": 0.8334657996892929
-    },
-    {
-        "title": "Deportes | Febas se une a Affengruber en la lista de apercibidos de suspensión del Elche CF",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1752022.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/febas-se-une-a-affengruber-entre-los-apercibidos-de-sancion-del-elche-cf",
-        "date": "2026-01-04 17:27:39",
-        "sentiment_score": -0.08133850991725922
-    },
-    {
-        "title": "“Ir a esperar a los Reyes Magos”: la broma que hacían los madrileños a migrantes gallegos, asturianos y cántabros en el siglo XIX",
-        "image_url": "https://www.infobae.com/resizer/v2/C6IH2MVER5BCNMO532GJV2BUAA.jpg?auth=31dcf1f9da3b8e543e1d03c4970b35f9cbda84fe09c0cee5e96fedf802655610&height=433&smart=true&width=770",
-        "tags": [
-            "españa-sociedad",
-            "madrid",
-            "puerta del sol",
-            "monedas",
-            "migración",
-            "navidad",
-            "historia",
-            "españa-noticias",
-            "reyes magos"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/04/ir-a-esperar-a-los-reyes-magos-la-broma-que-hacian-los-madrilenos-a-gallegos-asturianos-y-cantabros-migrantes-en-el-siglo-xix/",
-        "date": "2026-01-04 17:21:02",
-        "sentiment_score": -0.07819677889347076
-    },
-    {
-        "title": "El Ceuta se adelanta a los Reyes y regala la primera victoria del año (2-1)",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/01/Gol-AD-Ceuta-Andorra-Murube-007-750x500.jpeg?v=1767541791",
-        "tags": [
-            "ad ceuta",
-            "estadio alfonso murube",
-            "futbol",
-            "noticias",
-            "deportes"
-        ],
-        "link": "https://elfarodeceuta.es/ceuta-adelanta-reyes-regala-primera-victoria/",
-        "date": "2026-01-04 17:18:41",
-        "sentiment_score": 0.4648454934358597
-    },
-    {
-        "title": "El Real Madrid de Gonzalo corre, centra, remata, repite y arrasa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a6586091-3e6e-4133-bc5d-1324d8be9ee0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol",
-            "vinicius",
-            "xabi alonso",
-            "real madrid",
-            "real betis",
-            "betis"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2026/01/04/real-madrid-betis-resultado-goles-resumen-liga-gonzalo-garcia-125367735.html",
-        "date": "2026-01-04 17:17:39",
-        "sentiment_score": 0.21176740527153015
-    },
-    {
-        "title": "El Bacelona ya se frota las manos con Joan García",
-        "image_url": "https://cflvdg.avoz.es/sc/m2NIPMO-F-IbeqRthtY_AOSLpvk=/768x/2026/01/04/00121767547141889939782/Foto/eup_20260103_212532229.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/04/bacelona-frota-manos-joan-garcia/00031767546903400857113.htm",
-        "date": "2026-01-04 17:20:00",
-        "sentiment_score": 0.44988344609737396
-    },
-    {
-        "title": "Alerta en Cataluña: llega una ola de frío intenso con temperaturas de hasta -12 grados",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/04/695a9e082fc93.png",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/noticias/alerta-cataluna-llega-ola-frio-intenso-temperaturas-12-grados-20260104_3280753.html",
-        "date": "2026-01-04 17:17:24",
-        "sentiment_score": -0.15983498096466064
-    },
-    {
-        "title": "Real Madrid 5 - 1 Betis | Resumen, goles y resultado del partido de hoy",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260104181350_120.jpg",
-        "tags": [
-            "estadísticas deportivas",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/estadisticas-deportivas/noticia-real-madrid-betis-resumen-goles-resultado-partido-hoy-20260104181350.html",
-        "date": "2026-01-04 17:13:50",
-        "sentiment_score": 0.06379356980323792
-    },
-    {
-        "title": "Unas 500 personas celebran en Barcelona la captura de Nicolás Maduro y apoyan a Edmundo González",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/647a8fc1-06b6-4269-af81-4ff53f917341_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "donald trump",
-            "edmundo gonzález",
-            "barcelona",
-            "venezuela",
-            "nicolás maduro",
-            "estados unidos"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20260104/500-personas-celebran-barcelona-captura-nicolas-maduro-apoyo-edmundo-gonzalez-125368686",
-        "date": "2026-01-04 17:08:35",
-        "sentiment_score": -0.125486359000206
-    },
-    {
-        "title": "Muere en un reto un ‘streamer’ español que copió el modelo de Simón Pérez, el influencer de las hipotecas y la cocaína: “Me podía haber pasado a mí”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GVZP3ZGZMBCRRORTIPLIQCX5CE.jpg?auth=2e2b6ceae463e7946ea76c26e90de4a125dbaa23550e5a87f6630ea485af115f&width=1200",
-        "tags": [
-            "streamers",
-            "alcoholismo",
-            "retos virales",
-            "videoconferencia",
-            "plataformas digitales",
-            "zoom video",
-            "drogas",
-            "tecnología"
-        ],
-        "link": "https://elpais.com/tecnologia/2026-01-04/muere-en-un-reto-un-streamer-espanol-que-copio-el-modelo-de-simon-perez-el-influencer-de-las-hipotecas-y-la-cocaina-me-podia-haber-pasado-a-mi.html",
-        "date": "2026-01-04 17:05:25",
-        "sentiment_score": -0.28010742738842964
-    },
-    {
-        "title": "Cancelo cerca del Barça, pero las dudas internas ponen en riesgo la operación",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/30/2025103021484811334.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/cancelo-tiro-barca-tiene-todo-claro-fichaje-portugues/20260104180256369338.html",
-        "date": "2026-01-04 17:02:56",
-        "sentiment_score": 0.20280945673584938
-    },
-    {
-        "title": "Todas las CCAA, salvo Extremadura, estarán en alerta este lunes por lluvias, nieve, frío y oleaje",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/EuropaPress_5700574_dos_ninos_caminan_mientras_nieva_19_enero_2024_soria_castilla_leon_espana-scaled.jpg",
-        "tags": [
-            "el tiempo",
-            "castilla-la mancha",
-            "aemet"
-        ],
-        "link": "https://www.lanzadigital.com/castilla-la-mancha/todas-las-ccaa-salvo-extremadura-estaran-en-alerta-este-lunes-por-lluvias-nieve-frio-y-oleaje/",
-        "date": "2026-01-04 16:53:18",
-        "sentiment_score": -0.14502570033073425
-    },
-    {
-        "title": "Muere a los 91 años el periodista Joan Armengol, histórico de la radio y la televisión",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d4f18dd1-0b6e-4447-8ab3-dd238478077a_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "igualada"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20260104/muere-91-anos-periodista-joan-armengol-historico-radio-television-125368303",
-        "date": "2026-01-04 16:51:54",
-        "sentiment_score": -0.702358815819025
-    },
-    {
-        "title": "FOTOS La alerta por nieve hace soñar a Barcelona con una noche de Reyes blanca: ¿Se repetirá la histórica nevada de 1985?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f4b0cdaa-32dd-4fee-bd4b-d2b43473d597_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "nieve"
-        ],
-        "link": "https://www.elperiodico.com/es/tiempo/20260104/fotos-alerta-nieve-sonar-barcelona-noche-reyes-magica-historica-nevada-1985-125367357",
-        "date": "2026-01-04 16:50:53",
-        "sentiment_score": -0.3331262320280075
-    },
-    {
-        "title": "La fiesta del Barça Basket en el vestuario tras ganar El Clásico",
-        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2026/01/04/695a9a347b6f9.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.mundodeportivo.com/videos/baloncesto/20260104/1002595808/fiesta-barca-basket-vestuario-ganar-clasico.html",
-        "date": "2026-01-04 16:49:58",
-        "sentiment_score": 0.14670980721712112
-    },
-    {
         "title": "La vida sigue igual para el Atlético",
         "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/04/real-atletico-kpuC-U240743366121dNC-1200x840@RC.jpg",
         "tags": [
@@ -2885,5 +2701,124 @@ export default [
         "link": "https://www.eldia.es/ideas/Cellnex-10-years-in-the-future/ciudades.html",
         "date": "2026-01-08 02:01:06",
         "sentiment_score": -0.22583333030343056
+    },
+    {
+        "title": "La Casa Blanca reescribe la historia del asalto al Capitolio y culpa a la policía por el ataque en su quinto aniversario",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/12/media_thumb-link-4133547.webp?1767821286=",
+        "tags": [
+            "policía",
+            "eeuu",
+            "capitolio",
+            "casa blanca"
+        ],
+        "link": "https://www.meneame.net/story/casa-blanca-reescribe-historia-asalto-capitolio-culpa-policia",
+        "date": "2026-01-08 06:35:02",
+        "sentiment_score": -0.6632244698703289
+    },
+    {
+        "title": "«Hurgar» o «urgar»: cuál es la forma correcta según la RAE",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/hurgar-urgar-rae.jpg",
+        "tags": [
+            "curiosidades",
+            "lom",
+            "palabras",
+            "escritura",
+            "rae (real academia española)",
+            "ortografía"
+        ],
+        "link": "https://theobjective.com/curiosidades/2026-01-08/hurgar-urgar-forma-correcta-rae/",
+        "date": "2026-01-08 06:30:00",
+        "sentiment_score": -0.30189725011587143
+    },
+    {
+        "title": "Infantilismo político: el antimodelo Ayuso",
+        "image_url": "https://www.elplural.com/uploads/s1/24/16/09/5/isabel-diaz-ayuso-diciembre-2025_7_480x270.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elplural.com/autonomias/madrid/infantilismo-politico-antimodelo-ayuso_378082102",
+        "date": "2026-01-08 06:28:31",
+        "sentiment_score": -0.18671976029872894
+    },
+    {
+        "title": "Jesús Garrido: “No vamos a parar de trabajar en favor del deporte en Segovia”",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2026/01/26-1.jpg",
+        "tags": [
+            "deportes",
+            "polideportivo",
+            "portada imagen vertical"
+        ],
+        "link": "https://eladelantado.com/jesus-garrido-no-vamos-a-parar-de-trabajar-en-favor-del-deporte-en-segovia/",
+        "date": "2026-01-08 06:11:44",
+        "sentiment_score": 0.5791390612721443
+    },
+    {
+        "title": "Xabi Alonso, un superviviente en la búsqueda de un oro saudí que cambie su destino",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d5aa6c10-e8d7-42b3-add1-955c40ad0d96_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "atlético de madrid",
+            "atlético",
+            "real madrid",
+            "fútbol",
+            "supercopa de españa",
+            "xabi alonso"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2026/01/08/xabi-alonso-superviviente-supercopa-real-madrid-atletico-125468476.html",
+        "date": "2026-01-08 06:06:19",
+        "sentiment_score": -0.11045597493648529
+    },
+    {
+        "title": "Innovar estructuras internacionales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "internacionales",
+            "estructuras",
+            "innovar"
+        ],
+        "link": "https://www.deia.eus/opinion/2026/01/08/innovar-estructuras-internacionales-10549801.html",
+        "date": "2026-01-08 06:00:19",
+        "sentiment_score": -0.34964005649089813
+    },
+    {
+        "title": "El Gobierno y la Iglesia cierran un acuerdo para reparar económicamente a las víctimas de pederastia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/da43d8b6-8345-4a2b-8790-5fe4468cbb59_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "pederastia",
+            "papa",
+            "gobierno",
+            "león xiv",
+            "iglesia"
+        ],
+        "link": "https://www.laopiniondemalaga.es/nacional/2026/01/08/gobierno-iglesia-cierran-acuerdo-reparar-125469125.html",
+        "date": "2026-01-08 06:35:34",
+        "sentiment_score": -0.7467190567404032
+    },
+    {
+        "title": "El Gobierno y la Iglesia cierran un acuerdo para reparar económicamente a las víctimas de pederastia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/da43d8b6-8345-4a2b-8790-5fe4468cbb59_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "iglesia",
+            "gobierno",
+            "pederastia",
+            "papa",
+            "león xiv"
+        ],
+        "link": "https://www.informacion.es/nacional/2026/01/08/gobierno-iglesia-cierran-acuerdo-reparar-125469104.html",
+        "date": "2026-01-08 06:35:31",
+        "sentiment_score": -0.5124130919575691
+    },
+    {
+        "title": "El Gobierno y la Iglesia cierran un acuerdo para reparar económicamente a las víctimas de pederastia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/da43d8b6-8345-4a2b-8790-5fe4468cbb59_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gobierno",
+            "pederastia",
+            "iglesia",
+            "papa",
+            "león xiv"
+        ],
+        "link": "https://www.elcorreogallego.es/espana/2026/01/08/gobierno-iglesia-cierran-acuerdo-reparar-125469116.html",
+        "date": "2026-01-08 06:35:31",
+        "sentiment_score": -0.5174775496125221
     }
 ];
