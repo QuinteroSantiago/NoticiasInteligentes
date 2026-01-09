@@ -1,212 +1,5 @@
 export default [
     {
-        "title": "El Real Madrid visitará La Cerámica el sábado 24 de enero y el Barça recibirá al Oviedo el domingo 25",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260105181247_690.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-real-madrid-visitara-ceramica-sabado-24-enero-barca-recibira-oviedo-domingo-25-20260105181247.html",
-        "date": "2026-01-05 17:12:47",
-        "sentiment_score": 0.08082379586994648
-    },
-    {
-        "title": "Más ejercicio o hacer actividad física en compañía, entre los propósitos de 2026 según un estudio de Decathlon",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260105181123_690.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/noticia-mas-ejercicio-hacer-actividad-fisica-compania-propositos-2026-estudio-decathlon-20260105181123.html",
-        "date": "2026-01-05 17:11:23",
-        "sentiment_score": 0.4231012910604477
-    },
-    {
-        "title": "Más Madrid exige que se impida el Real Madrid-Maccabi Tel Aviv por \"legitimar un régimen genocida\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260105180952_690.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.europapress.es/madrid/noticia-mas-madrid-exige-impida-real-madrid-maccabi-tel-aviv-legitimar-regimen-genocida-20260105180952.html",
-        "date": "2026-01-05 17:09:52",
-        "sentiment_score": -0.9250672897323966
-    },
-    {
-        "title": "El Real Madrid - Maccabi se jugará a puerta cerrada por motivos de seguridad",
-        "image_url": "https://cflvdg.avoz.es/sc/MAhxxHZq4wH2Gn61Nizfhv-o7OI=/768x/2026/01/05/00121767632641469659555/Foto/eup_20251228_203116925.jpg",
-        "tags": [
-            "euroliga",
-            "fc barcelona",
-            "xenofobia",
-            "real madrid",
-            "deportes"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/05/real-madrid-maccabi-jugara-puerta-cerrada-motivos-seguridad/00031767632802939613199.htm",
-        "date": "2026-01-05 17:09:00",
-        "sentiment_score": 0.10043603181838989
-    },
-    {
-        "title": "17:00H | 05 ENE 2026 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-05-ene-2026-tarde-20260105_3281273.html",
-        "date": "2026-01-05 17:08:00",
-        "sentiment_score": -0.10419628024101257
-    },
-    {
-        "title": "Ciudad Real, entre las provincias que más casos por discriminación racial registró en 2025",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/Racismo.jpg",
-        "tags": [
-            "provincia de ciudad real",
-            "racismo",
-            "estadística"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/ciudad-real-entre-las-provincias-que-mas-casos-por-discriminacion-racial-registro-en-2025/",
-        "date": "2026-01-05 17:07:58",
-        "sentiment_score": -0.1461433321237564
-    },
-    {
-        "title": "Xavi Pascual acerca al Barça de basket a la gran estrella del Real Madrid",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/05/culemania/secciones/1003742721122_15574535_1706x960.jpg",
-        "tags": [
-            "fcb basket",
-            "xavi pascual",
-            "secciones"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260105/xavi-pascual-acerca-barca-estrella-real-madrid/1003742721117_0.html",
-        "date": "2026-01-05 17:04:26",
-        "sentiment_score": 0.0237494558095932
-    },
-    {
-        "title": "El Baskonia, a la espera del mejor Forrest",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/3119c194-7d92-472f-a367-1599cdff6da7_16-9-aspect-ratio_default_0_x851y730.jpg",
-        "tags": [
-            "espera",
-            "mejor",
-            "forrest",
-            "baskonia"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/01/05/baskonia-espera-mejor-forrest-10542488.html",
-        "date": "2026-01-05 17:00:57",
-        "sentiment_score": -0.7964518293738365
-    },
-    {
-        "title": "El Bayern tiembla ante el deseo de Lennart Karl, su nueva estrella: \"Algún día quiero jugar en el Real Madrid, es mi club\"",
-        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744049914_260409880_1706x960.jpg",
-        "tags": [
-            "fc bayern de múnich",
-            "fútbol",
-            "real madrid cf",
-            "deportes"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20260105/bayern-tiembla-deseo-lennart-karl-nueva-estrella-algun-dia-quiero-jugar-real-madrid-club/1003744079118_0.html",
-        "date": "2026-01-05 16:59:44",
-        "sentiment_score": 0.6838864609599113
-    },
-    {
-        "title": "Sánchez alega una reunión sobre Ucrania para no ir a la Pascua Militar",
-        "image_url": "https://cflvdg.avoz.es/sc/hPzpmQctRn6cmMnmtdDEHMPrQy8=/768x/2025/01/06/00121736164322600972714/Foto/efe_20250106_114501007.jpg",
-        "tags": [
-            "felipe vi",
-            "volodímir zelenski",
-            "ucrania",
-            "emmanuel macron",
-            "españa",
-            "margarita robles"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/espana/2026/01/05/sanchez-alega-reunion-sobre-ucrania-ir-pascua-militar/00031767631944968407672.htm",
-        "date": "2026-01-05 16:56:00",
-        "sentiment_score": -0.2739753872156143
-    },
-    {
-        "title": "Romeo Santos y Prince Royce actuarán el 30 de julio en A Coruña en su gira conjunta 'Mejor Tarde Que Nunca'",
-        "image_url": "https://www.galiciapress.es/images/285310",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.galiciapress.es/articulo/ultima-hora/2026-01-05/5723815-romeo-santos-prince-royce-actuaran-30-julio-coruna-gira-conjunta-mejor-tarde-nunca",
-        "date": "2026-01-05 17:16:02",
-        "sentiment_score": 0.2989403288811445
-    },
-    {
-        "title": "Collboni recibe a los Reyes Magos en Barcelona y les pide \"protección\" para los niños en conflictos",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260105181419_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-collboni-recibe-reyes-magos-barcelona-les-pide-proteccion-ninos-conflictos-20260105181419.html",
-        "date": "2026-01-05 17:14:19",
-        "sentiment_score": -0.6412626914680004
-    },
-    {
-        "title": "Dmitrovic delata al CTA en su charla con García Verdura: «Ojalá todos como tú, pero el criterio...»",
-        "image_url": "https://okdiario.com/img/2026/01/05/befunky-collage-2.jpg",
-        "tags": [
-            "fc barcelona",
-            "deportes",
-            "barcelona",
-            "rcd espanyol",
-            "fútbol"
-        ],
-        "link": "https://okdiario.com/deportes/dmitrovic-delata-cta-charla-garcia-verdura-ojala-todos-como-tu-pero-criterio-16026065",
-        "date": "2026-01-05 17:08:29",
-        "sentiment_score": -0.1572531759738922
-    },
-    {
-        "title": "El Premio Nadal y el Josep Pla se fallarán este martes en una velada literaria en Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/01/05/vivir-en-barcelona/914168605_13941191_1706x960.jpg",
-        "tags": [
-            "vivir en barcelona",
-            "barcelona literaria",
-            "literatura",
-            "premios"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260105/premio-nadal-josep-pla-fallaran-martes-velada-literaria-barcelona/1003742721120_0.html",
-        "date": "2026-01-05 17:05:36",
-        "sentiment_score": 0.41279153153300285
-    },
-    {
-        "title": "Sánchez acelera con ERC para sentar las bases de la nueva financiación autonómica",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/05/154566918-kmqF-U240752571137vCB-1200x840@RC.jpg",
-        "tags": [
-            "junts per catalunya",
-            "oriol junqueras",
-            "generalitat de cataluña",
-            "pedro sánchez",
-            "gabriel rufián",
-            "esquerra republicana"
-        ],
-        "link": "https://www.ideal.es/nacional/sanchez-acelera-erc-sentar-bases-nueva-financiacion-20260105180514-ntrc.html",
-        "date": "2026-01-05 17:05:15",
-        "sentiment_score": -0.060857608914375305
-    },
-    {
-        "title": "Imanol Arias y Pastora Vega van a ser abuelos: su hijo Jon espera su primer bebé junto a la actriz Alba Ribas",
-        "image_url": "https://www.hola.com/horizon/landscape/f2f8292d1d84-snapinstato574769432185459763340315607788403980906707270n.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "pastora vega",
-            "imanol arias",
-            "actualidad"
-        ],
-        "link": "https://www.hola.com/actualidad/20260105876151/imanol-arias-y-pastora-vega-van-a-ser-abuelos/",
-        "date": "2026-01-05 17:04:40",
-        "sentiment_score": 0.8326814481988549
-    },
-    {
-        "title": "Las 'start up' cuánticas ya atraen capital masivo",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/7210496b45617b7af526678733ce33b9/crop/178x233/1786x1305/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/05/17676324120577.jpg",
-        "tags": [
-            "emprendedores",
-            "empleo",
-            "pymes"
-        ],
-        "link": "https://www.expansion.com/expansion-empleo/emprendedores/2026/01/05/695beaf7468aeb71018b4583.html",
-        "date": "2026-01-05 17:03:22",
-        "sentiment_score": 0.5181846246123314
-    },
-    {
         "title": "Un 2026 lleno de conciertos en Granada",
         "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/01/06/agenda-musical-granada-kMWB-U240752792872KvF-1200x840@Ideal.jpg",
         "tags": [
@@ -2669,5 +2462,211 @@ export default [
         "link": "https://www.elmundo.es/espana/2026/01/09/696001f5e9cf4a23358b4596.html",
         "date": "2026-01-09 00:18:50",
         "sentiment_score": -0.14493559300899506
+    },
+    {
+        "title": "\"¡Menudo chollo para el Barça!\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2026/01/08/69601c73ab51b.r_d.1459-1691.jpeg",
+        "tags": [
+            "supercopa españa"
+        ],
+        "link": "https://www.mundodeportivo.com/supercopa-espana/20260109/1002598143/menudo-chollo-barca.html",
+        "date": "2026-01-09 06:40:11",
+        "sentiment_score": 0.16601265221834183
+    },
+    {
+        "title": "Las tres noticias de Carlos Alsina para empezar el día: \"María Jesús Montero le hará los coros hoy a Junqueras\"",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/05/09/6DE83B54-8831-4632-AA7C-6CB358183EDA/tres-historias-empezar-dia-carlos-alsina_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "ondacero",
+            "españa",
+            "noticias"
+        ],
+        "link": "https://www.ondacero.es/noticias/espana/tres-noticias-carlos-alsina-empezar-dia-maria-jesus-montero-hara-coros-hoy-junqueras_202601096960a16d22f0db7daf099089.html",
+        "date": "2026-01-09 06:34:21",
+        "sentiment_score": 0.15619412064552307
+    },
+    {
+        "title": "Eloy Gonzalo García, el héroe de Cascorro",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/01/eloy-gonzalo-garcia-heroe-cascorro-3.jpeg",
+        "tags": [
+            "colaboraciones",
+            "opinión"
+        ],
+        "link": "https://elfarodeceuta.es/eloy-gonzalo-garcia-heroe-cascorro/",
+        "date": "2026-01-09 06:24:27",
+        "sentiment_score": -0.18024423718452454
+    },
+    {
+        "title": "Multan con 141.748 euros a una mujer que simulaba vivir en Madrid pero realmente residía en Gijón para pagar menos impuestos",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/10/31/mujer-triste-leyendo-una-carta-sola-en-casa.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/multan-141748-euros-mujer-simulaba-vivir-madrid-realmente-residia-gijon-pagar-impuestos-f202601.html",
+        "date": "2026-01-09 06:24:25",
+        "sentiment_score": -0.1331523358821869
+    },
+    {
+        "title": "La final de la Supercopa de España entre el Barça y el Real Madrid, protagonista de las portadas deportivas de hoy",
+        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2026/01/09/69609c1adcd3f.jpeg",
+        "tags": [
+            "vaya mundo"
+        ],
+        "link": "https://www.mundodeportivo.com/vaya-mundo/20260109/1002598141/final-supercopa-espana-barca-real-madrid-protagonista-portadas-deportivas-hoy-galeria-dct.html",
+        "date": "2026-01-09 06:20:27",
+        "sentiment_score": 0.17573032528162003
+    },
+    {
+        "title": "El modelo de negocio",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ae23b23b-cf26-4a42-b0c7-f33c9a502284_16-9-aspect-ratio_default_0_x1639y902.jpg",
+        "tags": [
+            "modelo",
+            "negocio"
+        ],
+        "link": "https://www.noticiasdenavarra.com/opinion/2026/01/09/modelo-negocio-10553927.html",
+        "date": "2026-01-09 06:13:21",
+        "sentiment_score": -0.7060011401772499
+    },
+    {
+        "title": "Xabi Alonso sobre Simeone: \"No es ejemplo de buen deportista\"",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/09100503/Xabi-Alonso-aseguro-que-no-le-gusto-la-actitud-del-argentino-Foto-Archivo.jpg",
+        "tags": [
+            "supercopa",
+            "deportes",
+            "real madrid",
+            "fútbol",
+            "simeone",
+            "xabi alonso"
+        ],
+        "link": "https://www.elnacional.com/2026/01/xabi-alonso-sobre-simeone-no-es-ejemplo-de-buen-deportista/",
+        "date": "2026-01-09 06:11:00",
+        "sentiment_score": 0.20165924727916718
+    },
+    {
+        "title": "Científicos logran producir células inmunitarias clave en laboratorio, un paso importante para terapias contra el cáncer",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260109070746_120.jpg",
+        "tags": [
+            "investigación",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-cientificos-logran-producir-celulas-inmunitarias-clave-laboratorio-paso-importante-terapias-contra-cancer-20260109070746.html",
+        "date": "2026-01-09 06:07:46",
+        "sentiment_score": 0.3300972208380699
+    },
+    {
+        "title": "Los principales retos del turismo en 2026",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3629465.jpg",
+        "tags": [
+            "vivienda",
+            "retos",
+            "turismofobia",
+            "ia",
+            "sostenibilidad",
+            "cambio climático",
+            "estacionalidad",
+            "nuevas rutas",
+            "el económico",
+            "modernización",
+            "alquiler vacacional",
+            "infraestructuras"
+        ],
+        "link": "https://www.menorca.info/balears/economico/2026/01/09/2545317/principales-retos-del-turismo-2026.html",
+        "date": "2026-01-09 06:42:00",
+        "sentiment_score": -0.05755928158760071
+    },
+    {
+        "title": "Alexia Pascual: \"Mi madre me dice que soy un poco rata\"",
+        "image_url": "https://static1.ara.cat/clip/d2ce7f51-94f3-4de3-ae52-82acd7475609_16-9-aspect-ratio_default_0_x2560y1190.jpg",
+        "tags": [
+            "pascual",
+            "rata",
+            "madre",
+            "dice",
+            "alexia"
+        ],
+        "link": "https://es.ara.cat/economia/empresas/alexia-pascual-madre-dice-rata_1_5612632.html",
+        "date": "2026-01-09 06:30:36",
+        "sentiment_score": 0.019741952419281006
+    },
+    {
+        "title": "La vuelta al mundo en crucero, el viaje más especial de tres amigas jubiladas de Barcelona: \"Como Willy Fog, pero en 132 días\"",
+        "image_url": "https://album.mediaset.es/eimg/2026/01/07/la-vuelta-al-mundo-en-crucero-el-viaje-mas-especial-de-tres-amigas-jubiladas-de-barcelona_7a65.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20260109/crucero-vuelta-mundo-tres-amigas-jubiladas-barcelona_18_018006016.html",
+        "date": "2026-01-09 06:30:28",
+        "sentiment_score": 0.34083613753318787
+    },
+    {
+        "title": "3 buenos restaurantes de Barcelona para el fin de semana: Fragments, El Botón Charro y Bar Arcoiris",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b6a38d19-a8ba-4182-aaeb-5a1e2e17814a_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gastronomía",
+            "barcelona",
+            "dónde comer hoy",
+            "restaurante",
+            "restaurantes barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260109/buenos-restaurantes-barcelona-fragments-boton-charro-bar-arcoiris-125393916",
+        "date": "2026-01-09 06:26:51",
+        "sentiment_score": -0.2884330675005913
+    },
+    {
+        "title": "Lo que debes saber hoy, 9 de enero, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2022/06/15/opinion/680441952_9350907_1706x960.jpg",
+        "tags": [
+            "clima",
+            "tiempo",
+            "metro barcelona",
+            "transports metropolitans barcelona tmb",
+            "vivir en barcelona",
+            "tráfico"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260109/debes-saber-hoy-enero-barcelona/1003742721856_0.html",
+        "date": "2026-01-09 06:26:28",
+        "sentiment_score": 0.2850746363401413
+    },
+    {
+        "title": "Si quieres probar escudellas renovadas este finde, anota estos restaurantes de Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/345b225b-161a-4650-a225-8c8ddf13fcc2_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "qué comer hoy",
+            "gastronomía",
+            "barcelona",
+            "dónde comer hoy",
+            "restaurante",
+            "restaurantes barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260109/mejores-escudellas-renovadas-barcelona-restaurantes-125398761",
+        "date": "2026-01-09 06:25:25",
+        "sentiment_score": 0.7299523390829563
+    },
+    {
+        "title": "El sello Vins de Finca Qualificada añade cinco vinos (y otras noticias a tragos)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ef7c0e60-724a-491c-ad62-a98d87a39482_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "bebidas alcohólicas",
+            "gastronomía",
+            "vino",
+            "sant antoni",
+            "restaurante",
+            "restaurantes barcelona",
+            "cóctel y coctelerías"
+        ],
+        "link": "https://www.elperiodico.com/es/gastronomia/bebidas/20260109/vins-finca-qualificada-cinco-nuevos-vinos-125458091",
+        "date": "2026-01-09 06:23:33",
+        "sentiment_score": 0.659104011952877
+    },
+    {
+        "title": "Los neonazis de Núcleo Nacional desembarcan en Barcelona mientras los antifascistas llaman a boicotear su acto",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c3db7541-8d0a-40bf-9743-b23a7a1986fc_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "nazismo",
+            "extrema derecha"
+        ],
+        "link": "https://www.elperiodico.com/es/politica/20260109/nucleo-nacional-barcelona-sabado-125508293",
+        "date": "2026-01-09 06:19:39",
+        "sentiment_score": 0.017555803060531616
     }
 ];
