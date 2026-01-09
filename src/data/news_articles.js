@@ -2489,5 +2489,185 @@ export default [
         "link": "https://www.eurosport.es/futbol/supercopa-de-espana/2025-2026/mbappe-estara-final-real-madrid-barca-clasico-xabi-alonso_sto23257106/story.shtml",
         "date": "2026-01-08 22:02:39",
         "sentiment_score": 0.1997043825685978
+    },
+    {
+        "title": "Mbappé viajará a Yeda y podría tener minutos en la final, aunque no será titular",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/25/2025022511505815255.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/mbappe-viajara-yeda-podria-tener-minutos-final-sera-titular/20260109025739369891.html",
+        "date": "2026-01-09 01:57:39",
+        "sentiment_score": 0.5601872801780701
+    },
+    {
+        "title": "08 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/08-ene-2026-partidazo-cope-20260109_3283127.html",
+        "date": "2026-01-09 01:22:19",
+        "sentiment_score": 0.016901299357414246
+    },
+    {
+        "title": "El Real Madrid y el FC Barcelona se vuelven a ver las caras por el título de la Supercopa de España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/01/08/real-madrid-barcelona-finalistas-supercopa-espana-orix/",
+        "date": "2026-01-09 01:03:44",
+        "sentiment_score": 0.08724141120910645
+    },
+    {
+        "title": "'Afanes sin provecho': los cuentos de Lorenzo Silva, su secreto mejor guardado",
+        "image_url": "https://s3.elespanol.com/2026/01/08/actualidad/1003744082462_260825354_1706x960.jpg",
+        "tags": [
+            "lorenzo silva",
+            "letras",
+            "ec-critica-letras"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20260109/afanes-sin-provecho-cuentos-lorenzo-silva-secreto-mejor-guardado/1003744082390_0.html",
+        "date": "2026-01-09 00:55:00",
+        "sentiment_score": 0.15977368503808975
+    },
+    {
+        "title": "3a PARTE | 08 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-08-ene-2026-partidazo-cope-20260109_3283126.html",
+        "date": "2026-01-09 00:37:48",
+        "sentiment_score": 0.008271843194961548
+    },
+    {
+        "title": "Supercremalleras: «Queremos crecer y todavía hay mucho margen»",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2026/01/09/sup%20(2)-kIuC-U240784213979kAC-758x531@El%20Correo.jpg",
+        "tags": [
+            "rock vasco (óscar cubillo)"
+        ],
+        "link": "https://www.elcorreo.com/culturas/musica/supercremalleras-queremos-crecer-margen-20260109011125-nt.html",
+        "date": "2026-01-09 00:11:26",
+        "sentiment_score": -0.10849079489707947
+    },
+    {
+        "title": "Real Madrid disputará la Supercopa de España frente al FC Barcelona",
+        "image_url": "https://i0.wp.com/noticiasaldiayalahora.co/wp-content/uploads/2026/01/Real-Madrid.jpg?resize=600%2C399&ssl=1",
+        "tags": [
+            "supercopa de españa",
+            "fc barcelona",
+            "real madrid",
+            "deportes"
+        ],
+        "link": "https://noticiasaldiayalahora.co/deportes/real-madrid-disputara-la-supercopa-de-espana-frente-al-fc-barcelona/",
+        "date": "2026-01-09 00:10:38",
+        "sentiment_score": 0.07857263088226318
+    },
+    {
+        "title": "\"Florentino te va a echar\": la polémica discusión entre Vinicius Jr. y Simeone",
+        "image_url": "https://pxcdn.2001online.com/2001/012026/1767914043032/57bfcbad-193e-4c58-bcb5-f5718fa5b233_alta-libre-aspect-ratio_default_0.jpg?ch=675&cw=1200",
+        "tags": [
+            "vinicius jr",
+            "el cholo simeone",
+            "supercopa de españa",
+            "polémica",
+            "atlético de madrid",
+            "súpercopa",
+            "diego simeone",
+            "real madrid"
+        ],
+        "link": "https://2001online.com/deportes/florentino-te-va-a-echar-la-polemica-discusion-entre-vinicius-jr-y-simeone-20261820300",
+        "date": "2026-01-08 23:40:59",
+        "sentiment_score": -0.844272187910974
+    },
+    {
+        "title": "El dardo de Vinícius a Simeone tras el tenso ida y vuelta en el triunfo del Real Madrid ante el Atlético",
+        "image_url": "https://www.infobae.com/resizer/v2/EKSDFXIJDVDGNJA4ZUSIAXGWVM.JPG?auth=2f3a708d768f3c218ebc8023e73f286d584abfe8fee8b76181833f167e72c44b&height=1846&smart=true&width=3282",
+        "tags": [
+            "atlético madrid",
+            "vinícius",
+            "deportes-argentina",
+            "real madrid",
+            "diego simeone"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/08/el-dardo-de-vinicius-a-simeone-tras-el-tenso-ida-y-vuelta-en-el-triunfo-del-real-madrid-ante-el-atletico/",
+        "date": "2026-01-08 23:34:48",
+        "sentiment_score": -0.06684884428977966
+    },
+    {
+        "title": "VÍDEO: Xabi Alonso manda un mensaje al 'Cholo' Simeone: \"No es ejemplo de buen deportista, no todo vale\"",
+        "image_url": "https://www.infobae.com/resizer/v2/6JVZ3OV6RJHPLLQ3OZRIU6ESKA.jpg?auth=8028d9e8f4f487151cca45431342f6522c625e2bb7579119663c807054cf048b&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/08/video-xabi-alonso-manda-un-mensaje-al-cholo-simeone-no-es-ejemplo-de-buen-deportista-no-todo-vale/",
+        "date": "2026-01-08 23:30:15",
+        "sentiment_score": -0.08538040518760681
+    },
+    {
+        "title": "Oriol Pla aborda la necesidad de ser vistos en un laberinto de estímulos en 'Gula/Gola'",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/08/oriol-pla-aborda-la-necesidad-de-ser-vistos-en-un-laberinto-de-estimulos-en-gulagola/",
+        "date": "2026-01-09 01:30:48",
+        "sentiment_score": -0.2310170829296112
+    },
+    {
+        "title": "Los socios críticos del Barça también atacan al Compliance Officer: cuestionan los negocios con New Era y Ruslan Birladeanu",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/04/10/culemania/palco/1003742648325_15583126_1706x960.jpg",
+        "tags": [
+            "fc barcelona",
+            "palco",
+            "junta directiva del barça",
+            "asamblea de compromisarios fcb"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260109/barca-compliance-officer-cuestionan-new-ruslan-birladeanu/1003742721843_0.html",
+        "date": "2026-01-09 01:10:44",
+        "sentiment_score": -0.9240374667569995
+    },
+    {
+        "title": "Adams, la academia familiar de los opositores y profesionales",
+        "image_url": "https://phantom-expansion.uecdn.es/0af93123fe5a525ccacf6ed68db198a2/resize/600/assets/multimedia/imagenes/2026/01/07/17677947960487.jpg",
+        "tags": [
+            "empresas>",
+            "funcionarios>",
+            "méxico>",
+            "formación>",
+            "historias de éxito>",
+            "latinoamérica>"
+        ],
+        "link": "https://www.expansion.com/empresas/2026/01/09/695e68c2e5fdeaae508b45ae.html",
+        "date": "2026-01-09 00:42:27",
+        "sentiment_score": 0.44997039437294006
+    },
+    {
+        "title": "Julio Preciado anuncia una gira de despedida antes de retirarse definitivamente",
+        "image_url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/XZNPN3GENVCEFKIY3QJ64MTSDA.JPG?auth=13d87f44f4e235962177621445c8cdadbc14f96cbcf145e3761c27ad04305224&height=553&quality=80&smart=true&width=830",
+        "tags": [
+            "famosos",
+            "espectáculos",
+            "celebridades",
+            "música"
+        ],
+        "link": "https://www.dallasnews.com/espanol/al-dia/espectaculos/2026/01/08/julio-preciado-retiro-despedida-gira-definitiva/",
+        "date": "2026-01-09 00:25:15",
+        "sentiment_score": -0.10965058207511902
+    },
+    {
+        "title": "El acuerdo del Gobierno y los obispos encarrila la visita de León XIV a España en junio tras la presión de Parolin",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/fb6d7adbccce048b370208c8b955a7b8/crop/2x0/1024x1022/f/image/jpeg/assets/multimedia/imagenes/2024/01/15/17053356313045.jpg",
+        "tags": [
+            "félix bolaños",
+            "artículos juanma lamet",
+            "papa león xiv",
+            "religión"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/01/09/696001f5e9cf4a23358b4596.html",
+        "date": "2026-01-09 00:18:50",
+        "sentiment_score": -0.14493559300899506
     }
 ];
