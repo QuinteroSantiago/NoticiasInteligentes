@@ -1,263 +1,5 @@
 export default [
     {
-        "title": "Lunes de lluvia, nieve y frío por la borrasca Francis en la víspera de Reyes",
-        "image_url": "https://static.eldiario.es/clip/12e51c55-a01f-45c3-8c94-7acb8346af90_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "francis",
-            "reyes",
-            "vispera",
-            "pm",
-            "nieve",
-            "borrasca",
-            "lluvia",
-            "lunes",
-            "frio"
-        ],
-        "link": "https://www.eldiario.es/sociedad/el-tiempo/lunes-lluvia-nieve-frio-borrasca-francis-vispera-reyes-pm_1_12885740.html",
-        "date": "2026-01-05 06:42:37",
-        "sentiment_score": 0.020826637744903564
-    },
-    {
-        "title": "Joan Garcia y la victoria del Barça frente al Real Madrid de baloncesto, protagonistas de las portadas deportivas",
-        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2026/01/05/695b56c49747a.jpeg",
-        "tags": [
-            "vaya mundo"
-        ],
-        "link": "https://www.mundodeportivo.com/vaya-mundo/20260105/1002596052/joan-garcia-victoria-barca-frente-real-madrid-baloncesto-protagonistas-portadas-deportivas-galeria-dct.html",
-        "date": "2026-01-05 06:25:41",
-        "sentiment_score": 0.15768762677907944
-    },
-    {
-        "title": "Gonzalo, el heredero silencioso: 159 goles, un hat-trick y una ambición blanca",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/01/05/2026010507011637231.jpg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/futbol/gonzalo-heredero-silencioso-159-goles-hat-trick-ambicion-blanca/20260105070214578093.html",
-        "date": "2026-01-05 06:02:14",
-        "sentiment_score": 0.7842257395386696
-    },
-    {
-        "title": "Javier Cabeza de Vaca: \"Tenemos una carga de trabajo que no se recuerda. Cádiz tiene un potencial enorme\"",
-        "image_url": "https://static.grupojoly.com/clip/a7d27937-1a75-4188-bd52-f91df2b65eb5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cabeza",
-            "trabajo",
-            "potencial",
-            "enorme",
-            "carga",
-            "vaca",
-            "javier",
-            "cádiz"
-        ],
-        "link": "https://www.diariodejerez.es/noticias-provincia-cadiz/javier-cabeza-vaca-carga-trabajo-cadiz-potencial-enorme_0_2005555604.html",
-        "date": "2026-01-05 06:01:06",
-        "sentiment_score": 0.11048996448516846
-    },
-    {
-        "title": "El Espanyol se rehace tras el derbi con la vista puesta en Levante y Girona, dos rivales reactivados",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2026/01/manolo-gonzalez-espanyol-barca-2-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagradaonline.com/espanyol-tras-derbi-levante-girona-rivales-en-racha/",
-        "date": "2026-01-05 06:00:55",
-        "sentiment_score": -0.5463981106877327
-    },
-    {
-        "title": "El funcionario que descubrió que en Málaga no hacía frío",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c96e9142-9eaa-432b-9430-11f9cc006bab_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "madrid",
-            "historia",
-            "oposiciones",
-            "tiempo"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/05/funcionario-descubrio-malaga-frio-125371153.html",
-        "date": "2026-01-05 06:00:25",
-        "sentiment_score": -0.04651689529418945
-    },
-    {
-        "title": "Resentimiento",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/992db25a-afbc-4ddc-8f04-5a9b62647a3b_16-9-discover-aspect-ratio_320w_0.webp",
-        "tags": [
-            "crisis",
-            "vivienda",
-            "sanidad",
-            "gente"
-        ],
-        "link": "https://www.elperiodicodearagon.com/opinion/2026/01/05/resentimiento-125367080.html",
-        "date": "2026-01-05 06:00:20",
-        "sentiment_score": -0.7328190058469772
-    },
-    {
-        "title": "Xabi Alonso: \"Fue una victoria importante para empezar el año\"",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/05093321/Xabi-Alonso-no-descarto-por-completo-a-Mbappe-para-la-Supercopa-Foto-Archivo.jpg",
-        "tags": [
-            "xabi alonso",
-            "fútbol",
-            "real madrid",
-            "gonzalo garcía",
-            "real betis",
-            "deportes"
-        ],
-        "link": "https://www.elnacional.com/2026/01/xabi-alonso-fue-una-victoria-importante-para-empezar-el-ano/",
-        "date": "2026-01-05 06:00:00",
-        "sentiment_score": 0.8413026295602322
-    },
-    {
-        "title": "Palacio de los Mencos: cuando el marqués es el guía y el vino, el final del recorrido",
-        "image_url": "https://s3.elespanol.com/2025/12/29/actualidad/1003744072286_260694725_1706x960.jpg",
-        "tags": [
-            "embutidos",
-            "reportajes gastronómicos",
-            "vino",
-            "tafalla"
-        ],
-        "link": "https://www.elespanol.com/cocinillas/reportajes-gastronomicos/20260105/palacio-mencos-marques-guia-vino-final-recorrido/1003744062905_0.html",
-        "date": "2026-01-05 05:55:00",
-        "sentiment_score": 0.2568977028131485
-    },
-    {
-        "title": "¿Ha tocado techo este Barcelona? Líder con autoridad tras una jornada que reafirma su candidatura",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/11/02/2024110217174781510.png",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/futbol/ha-tocado-techo-barcelona-lider-autoridad-jornada-que-reafirma-candidatura/20260105064658578091.html",
-        "date": "2026-01-05 05:46:58",
-        "sentiment_score": 0.8515911679714918
-    },
-    {
-        "title": "\"A principios de los 80, nadie pensaba que los grupos de Pamplona pudiesen llegar a nada\"",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/1d10e7a7-ce23-453e-8787-a456103aa0b7_16-9-aspect-ratio_default_0_x1317y621.jpg",
-        "tags": [
-            "grupos",
-            "pensaba",
-            "principios",
-            "80",
-            "nadie"
-        ],
-        "link": "https://www.noticiasdenavarra.com/cultura/2026/01/05/principios-80-nadie-pensaba-grupos-10535083.html",
-        "date": "2026-01-05 06:20:49",
-        "sentiment_score": 0.025942057371139526
-    },
-    {
-        "title": "Lo que debes saber hoy, 5 de enero, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/09/02/vivir-en-barcelona/1003742685677_15087792_1706x960.jpg",
-        "tags": [
-            "transporte",
-            "tráfico",
-            "metro barcelona",
-            "tiempo",
-            "ferrocarrils de la generalitat (fgc)",
-            "renfe barcelona",
-            "vivir en barcelona",
-            "transports metropolitans barcelona tmb",
-            "clima"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260105/debes-saber-hoy-enero-barcelona/1003742720894_0.html",
-        "date": "2026-01-05 06:15:24",
-        "sentiment_score": -0.00944492220878601
-    },
-    {
-        "title": "Salas quiere codearse con Gijón, Barcelona o Londres: el concejo se postula para ser Destino Turístico Inteligente",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4b7257ce-924c-4bfb-98c5-121015d8876a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "londres",
-            "turismo",
-            "barcelona"
-        ],
-        "link": "https://www.lne.es/salas/2026/01/05/salas-quiere-codearse-gijon-barcelona-125246571.html",
-        "date": "2026-01-05 06:01:09",
-        "sentiment_score": 0.35546837747097015
-    },
-    {
-        "title": "¿Málaga o Barcelona? Huelin ya vislumbra las primeras supermanzanas con el avance de las obras",
-        "image_url": "https://static.grupojoly.com/clip/513d9185-8a9d-4520-8cb8-c2c07ef75de9_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias málaga",
-            "urbanismo málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/malaga-barcelona-huelin-vislumbra-primeras_0_2005547404.html",
-        "date": "2026-01-05 06:00:59",
-        "sentiment_score": -0.6745767593383789
-    },
-    {
-        "title": "¿Cuáles son los intereses económicos españoles en Venezuela?",
-        "image_url": "https://static1.ara.cat/clip/a2d2c6a7-3b06-4d5a-836e-e5ac9a6f3c8b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "espanoles",
-            "son",
-            "venezuela",
-            "economicos",
-            "intereses"
-        ],
-        "link": "https://es.ara.cat/economia/macroeconomia/son-intereses-economicos-espanoles-venezuela_1_5609225.html",
-        "date": "2026-01-05 06:00:51",
-        "sentiment_score": 0.16845324635505676
-    },
-    {
-        "title": "Sánchez levanta la veda y abre la Moncloa a los líderes del Proceso",
-        "image_url": "https://static1.ara.cat/clip/f20023f3-42e3-4cf1-a693-c2b6fb135b8a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sanchez",
-            "veda",
-            "lideres",
-            "moncloa",
-            "levanta",
-            "proceso",
-            "abre"
-        ],
-        "link": "https://es.ara.cat/politica/sanchez-levanta-veda-abre-moncloa-lideres-proceso_129_5609221.html",
-        "date": "2026-01-05 06:00:47",
-        "sentiment_score": -0.01631826162338257
-    },
-    {
-        "title": "El cacao vuelve a abaratarse tras sus precios de récord",
-        "image_url": "https://static1.ara.cat/clip/c974e3c3-faf0-40e3-a808-12285ad3efd2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "abaratarse",
-            "record",
-            "vuelve",
-            "precios",
-            "cacao"
-        ],
-        "link": "https://es.ara.cat/economia/alimentacion/cacao-vuelve-abaratarse-precios-record_1_5609220.html",
-        "date": "2026-01-05 06:00:46",
-        "sentiment_score": -0.5382651202380657
-    },
-    {
-        "title": "El cambio en la carta del mejor buffet libre de Europa y que está a dos horas de Barcelona: no te lo vas a creer",
-        "image_url": "https://okdiario.com/img/2026/01/01/el-cambio-en-la-carta-del-mejor-buffet-libre-de-europa-y-que-esta-a-dos-horas-de-barcelona-no-te-lo-vas-a-creer.jpg",
-        "tags": [
-            "cataluña",
-            "gastronomía",
-            "españa",
-            "restaurantes",
-            "okd"
-        ],
-        "link": "https://okdiario.com/cataluna/cambio-carta-del-mejor-buffet-libre-europa-que-esta-dos-horas-barcelona-no-te-lo-vas-creer-16010034",
-        "date": "2026-01-05 06:00:36",
-        "sentiment_score": 0.06765633821487427
-    },
-    {
-        "title": "Los profesores, sobrepasados: \"Las faltas de respeto son de padres y alumnos\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5f0310dc-a375-4a6b-acff-512b9ff55af2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "profesores",
-            "docentes",
-            "agresiones",
-            "encuesta",
-            "educación en málaga",
-            "educación",
-            "padres"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/05/profesores-sobrepasados-faltas-respeto-son-125369950.html",
-        "date": "2026-01-05 06:00:25",
-        "sentiment_score": -0.818239483051002
-    },
-    {
         "title": "El Real Madrid visitará La Cerámica el sábado 24 de enero y el Barça recibirá al Oviedo el domingo 25",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260105181247_690.jpg",
         "tags": [
@@ -2619,5 +2361,133 @@ export default [
         "link": "https://es.ara.cat/sociedad/justicia/entrenador-baloncesto-expone-43-anos-carcel-agresiones-sexuales-tres-jugadoras-menores_1_5612250.html",
         "date": "2026-01-08 17:06:33",
         "sentiment_score": -0.7993503995239735
+    },
+    {
+        "title": "Rodrygo: \"Para llegar a una final hay que sufrir\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/08/rodrygo-para-llegar-a-una-final-hay-que-sufrir/",
+        "date": "2026-01-08 22:20:10",
+        "sentiment_score": -0.3278871178627014
+    },
+    {
+        "title": "Simeone no recuerda sus palabras a Vinícius; para Xabi, “no es ejemplo de buen deportista”",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/08/simeone-no-recuerda-sus-palabras-a-vinicius-para-xabi-no-es-ejemplo-de-buen-deportista/",
+        "date": "2026-01-08 22:19:02",
+        "sentiment_score": -0.7977540958672762
+    },
+    {
+        "title": "Rüdiger, Asencio y Rodrygo, dudas para la final",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "los rojiblancos",
+            "los blancos",
+            "supercopa de espana",
+            "efe",
+            "rma"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/08/rudiger-asencio-y-rodrygo-dudas-para-la-final/",
+        "date": "2026-01-08 22:16:19",
+        "sentiment_score": -0.6786687336862087
+    },
+    {
+        "title": "Crónica del Real Madrid - Maccabi Tel Aviv: 98-86",
+        "image_url": "https://www.infobae.com/resizer/v2/5HUD2CG3Y5C7JBICTGFOMFUPAQ.jpg?auth=af4a35ee1c46ded7ee5dfd10655045ea2e944df638c24e0011c49d44dabe77a3&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/08/cronica-del-real-madrid-maccabi-tel-aviv-98-86/",
+        "date": "2026-01-08 22:15:32",
+        "sentiment_score": -0.07508964091539383
+    },
+    {
+        "title": "Xabi Alonso despeja dudas sobre Mbappé antes de la final de la Supercopa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e2b31626-417b-4bc3-b09c-d7e112176c05_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid",
+            "kylian mbappé",
+            "supercopa de españa",
+            "xabi alonso"
+        ],
+        "link": "https://www.farodevigo.es/deportes/2026/01/08/xabi-alonso-despeja-dudas-mbappe-final-supercopa-espana-125502894.html",
+        "date": "2026-01-08 22:14:41",
+        "sentiment_score": 0.3260755240917206
+    },
+    {
+        "title": "Rodrygo: \"Para llegar a una final hay que sufrir\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2026/01/08/696014ec0843e.jpeg",
+        "tags": [
+            "real madrid"
+        ],
+        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260108/1002598059/rodrygo-llegar-final-hay-sufrir.html",
+        "date": "2026-01-08 22:12:58",
+        "sentiment_score": 0.8250509202480316
+    },
+    {
+        "title": "El Real Madrid es finalista de la Supercopa de España: así fue el partido contra el Atlético",
+        "image_url": "https://pxcdn.2001online.com/2001/012026/1767912127844/fede-valverde-se-luce-con-golazo-en-supercopa-de-espana-y-las-redes-explotan.jpg?ch=675&cw=1200",
+        "tags": [
+            "vinicius jr",
+            "fede valverde",
+            "real madrid",
+            "supercopa de españa",
+            "laliga",
+            "atlético de madrid",
+            "fc barcelona",
+            "súpercopa",
+            "valverde gol"
+        ],
+        "link": "https://2001online.com/deportes/el-real-madrid-es-finalista-de-la-supercopa-de-espana-asi-fue-el-partido-contra-el-atletico-20261818450",
+        "date": "2026-01-08 22:10:39",
+        "sentiment_score": 0.36655426025390625
+    },
+    {
+        "title": "abrá Clásico para la final de la Supercopa. Real Madrid vence 2-1 al Atlético",
+        "image_url": "https://dims.apnews.com/dims4/default/5e7523d/2147483647/strip/true/crop/6069x4040+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F19%2Fbd%2F7ae3f89fae4598c72daf4325708f%2Fe7ee9b324d9342a69c88dc36f61e5f50",
+        "tags": [
+            "deportes",
+            "sports",
+            "espana supercopa real madrid atletico barcelona"
+        ],
+        "link": "https://apnews.com/article/espana-supercopa-real-madrid-atletico-barcelona-df6d2b15d2d937e6e0e827b70abf4a4b",
+        "date": "2026-01-08 22:10:08",
+        "sentiment_score": 0.2390144169330597
+    },
+    {
+        "title": "Habrá Clásico en la final de la Supercopa de España tras victoria del Real Madrid ante Atlético",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2026/01/ESPA209A-SUPERCOPA_74282.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.bostonherald.com/2026/01/08/habr-clsico-en-la-final-de-la-supercopa-de-espaa-tras-victoria-del-real-madrid-ante-atltico/",
+        "date": "2026-01-08 22:10:07",
+        "sentiment_score": 0.1946285516023636
+    },
+    {
+        "title": "Mbappé viajará a Arabia con \"posibilidades\" de jugar la final frente al Barcelona",
+        "image_url": "https://www.mundodeportivo.com/files/image_948_465/uploads/2026/01/08/69602c06f2985.jpeg",
+        "tags": [
+            "real madrid"
+        ],
+        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260108/1002598052/mbappe-viajara-arabia-posibilidades-jugar-final-frente-barcelona.html",
+        "date": "2026-01-08 22:04:50",
+        "sentiment_score": -0.7779687643051147
+    },
+    {
+        "title": "Mbappé estará en la final: Xabi Alonso confirma que viajará para el Clásico",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1550x431:1552x429)/origin-imgresizer.eurosport.com/2025/12/31/image-cceff490-d621-4325-83db-046ceee612b1-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "spanish supercopa 2025-2026"
+        ],
+        "link": "https://www.eurosport.es/futbol/supercopa-de-espana/2025-2026/mbappe-estara-final-real-madrid-barca-clasico-xabi-alonso_sto23257106/story.shtml",
+        "date": "2026-01-08 22:02:39",
+        "sentiment_score": 0.1997043825685978
     }
 ];
