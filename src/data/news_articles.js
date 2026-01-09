@@ -1,444 +1,5 @@
 export default [
     {
-        "title": "La vida sigue igual para el Atlético",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/04/real-atletico-kpuC-U240743366121dNC-1200x840@RC.jpg",
-        "tags": [
-            "real sociedad de fútbol",
-            "koke",
-            "antoine griezmann",
-            "jan oblak",
-            "atlético de madrid"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/atletico-sigue-dar-tecla-lejos-metropolitano-20260104230715-ntrc.html",
-        "date": "2026-01-04 22:20:54",
-        "sentiment_score": -0.5214499831199646
-    },
-    {
-        "title": "El Atlético se estanca contra la Real de Matarazzo",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/5f6be744-00b8-4a71-a9a3d47ace709ee1.jpg",
-        "tags": [
-            "grupo promecal",
-            "toledano",
-            "consuegra",
-            "prensa",
-            "talavera de la reina",
-            "vivir",
-            "diario",
-            "provincia",
-            "noticias",
-            "toledo",
-            "fuensalida",
-            "illescas",
-            "promecal",
-            "periódico",
-            "actualidad",
-            "ocaña",
-            "toledana",
-            "madrigalejos"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z579c2eac-8028-41a2-85c9d81d50bbd975/202601/el-atletico-se-estanca-contra-la-real-de-matarazzo",
-        "date": "2026-01-04 22:20:23",
-        "sentiment_score": -0.8122806549072266
-    },
-    {
-        "title": "El Atlético sigue sin dar con la tecla lejos del Metropolitano",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/04/real-atletico-kpuC-U240743366121dNC-1200x840@RC.jpg",
-        "tags": [
-            "cronica",
-            "real",
-            "sociedad",
-            "atletico"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-primera/atletico-sigue-dar-tecla-lejos-metropolitano-20260104230715-ntrc.html",
-        "date": "2026-01-04 22:07:17",
-        "sentiment_score": -0.8526992835104465
-    },
-    {
-        "title": "Las mejores imágenes del Real - Atlético de Madrid (1-1)",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/4d444eb8-a84d-49c0-ae00-4140292b8dad_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "imagenes",
-            "atletico",
-            "real",
-            "madrid",
-            "mejores"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/01/04/mejores-imagenes-real-atletico-madrid-10539552.html",
-        "date": "2026-01-04 22:05:43",
-        "sentiment_score": 0.24494943022727966
-    },
-    {
-        "title": "22:00 | 04 ENE 2026 | TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-04-ene-2026-juego-20260104_3280793.html",
-        "date": "2026-01-04 22:05:35",
-        "sentiment_score": 0.08894016221165657
-    },
-    {
-        "title": "Resultados, clasificación, crónica y resúmenes de la Jornada 18 de LaLiga EA Sports 25-26 | El Espanyol conserva los cinco puntos de ventaja sobre el Betis; Levante, y Girona próximos rivales, reaccionan con victorias",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2026/01/laliga-ea-sports-25-26-jornada-18-domingo-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagradaonline.com/liga-jornada-18-resultados-clasificacion-cronica-resumen-partidos-rcd-espanyol-barca-domingo/",
-        "date": "2026-01-04 22:03:33",
-        "sentiment_score": 0.26790156960487366
-    },
-    {
-        "title": "Quinigol: resultados del 4 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
-        "tags": [
-            "noticias",
-            "quinigol",
-            "españa-loterias"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/04/quinigol-resultados-del-4-de-enero/",
-        "date": "2026-01-04 22:00:29",
-        "sentiment_score": 0.42532434314489365
-    },
-    {
-        "title": "La afición de la Real opina: ¿quién ha sido el mejor contra el Atlético?",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/69aa42ec-3c95-4a41-8627-61cef227f5fd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real",
-            "mejor",
-            "aficion",
-            "sido",
-            "opina"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/01/04/aficion-real-opina-sido-mejor-10532629.html",
-        "date": "2026-01-04 21:51:54",
-        "sentiment_score": -0.08250107616186142
-    },
-    {
-        "title": "Las dos estrellas del Barça Femenino que amenazan a Alexia Putellas para suceder a Aitana Bonmatí en el Balón de Oro",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/12/culemania/secciones/1003742706958_15571609_1706x960.jpg",
-        "tags": [
-            "secciones",
-            "futfem",
-            "fcbfemeni",
-            "aitana bonmatí",
-            "alexia putellas"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260104/barca-femenino-alexia-putellas-aitana-bonmati-balon/1003742720872_0.html",
-        "date": "2026-01-04 21:42:31",
-        "sentiment_score": 0.8864610344171524
-    },
-    {
-        "title": "Mineros, electricistas, técnicos y presidentes: las tres caras de la carrera laboral que puede perder España",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/eff26eeb1c56eb78de4f6cc54ae9e8de/crop/0x0/1000x1000/f/image/jpeg/assets/multimedia/imagenes/2022/06/01/16540908229228.jpg",
-        "tags": [
-            "nlpremium",
-            "artículos guillermo del palacio"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/01/04/6952a77a21efa04c4e8b45a0.html",
-        "date": "2026-01-04 21:41:15",
-        "sentiment_score": 0.11369144916534424
-    },
-    {
-        "title": "Horario y recorrido de las cabalgatas de Reyes Magos en Barcelona 2026",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/01/06/677bac633a806.jpeg",
-        "tags": [
-            "horarios"
-        ],
-        "link": "https://www.mundodeportivo.com/horarios/20260104/1002595813/horario-recorrido-cabalgatas-reyes-magos-barcelona-2026.html",
-        "date": "2026-01-04 22:06:27",
-        "sentiment_score": 0.5815899949520826
-    },
-    {
-        "title": "Los diez temas que marcarán la agenda internacional del nuevo año 2026",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/4b25fb948d7d85f6f696cb4346ab4a14/crop/172x38/1810x1130/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/04/17675413670991.jpg",
-        "tags": [
-            "donald trump>",
-            "artículos david casals>",
-            "política>",
-            "economía>",
-            "cataluña>"
-        ],
-        "link": "https://www.expansion.com/economia/politica/2026/01/04/69582c5ee5fdea9f3e8b45ae.html",
-        "date": "2026-01-04 22:01:26",
-        "sentiment_score": -0.8807363063097
-    },
-    {
-        "title": "Muere a los 91 años el periodista Joan Armengol, histórico de la radio y la televisión de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/04/quien-hace-barcelona/1003742720878_15571589_1706x960.jpg",
-        "tags": [
-            "¿quién hace barcelona?",
-            "periódicos barcelona",
-            "barcelona",
-            "televisión"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/quien-hace-barcelona/20260104/muere-anos-periodista-joan-armengol-historico-radio-television-barcelona/1003742720874_0.html",
-        "date": "2026-01-04 21:38:40",
-        "sentiment_score": 0.21250461786985397
-    },
-    {
-        "title": "Hilda, Mireya... María 1900-19xx y otros teldesianos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f4d4f126-4856-45f6-ba22-ffb467d5dd85_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "granada",
-            "suárez",
-            "santana",
-            "universidad",
-            "guerra civil",
-            "jesús",
-            "cultura"
-        ],
-        "link": "https://www.laprovincia.es/cultura/2026/01/04/hilda-mireya-maria-1900-19xx-125373456.html",
-        "date": "2026-01-04 21:35:41",
-        "sentiment_score": 0.020892322063446045
-    },
-    {
-        "title": "El amor solo, solo el amor",
-        "image_url": "https://static.eldiario.es/clip/a104cc05-d61f-4a6e-a2df-8f0ed98a07e5_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "amor"
-        ],
-        "link": "https://www.eldiario.es/sociedad/amor-amor_1_12856719.html",
-        "date": "2026-01-04 21:24:35",
-        "sentiment_score": -0.12321795523166656
-    },
-    {
-        "title": "España tiene suelo vacante para construir 6,7 millones de viviendas nuevas",
-        "image_url": "https://static.eldiario.es/clip/7a065b47-f22e-4a59-9d42-9fbea9f4ab6b_16-9-discover-aspect-ratio_default_1133520.jpg",
-        "tags": [
-            "6",
-            "nuevas",
-            "millones",
-            "construir",
-            "viviendas",
-            "7",
-            "espana",
-            "suelo",
-            "vacante"
-        ],
-        "link": "https://www.eldiario.es/economia/espana-suelo-vacante-construir-6-7-millones-viviendas-nuevas_1_12877765.html",
-        "date": "2026-01-04 21:24:33",
-        "sentiment_score": -0.09352633357048035
-    },
-    {
-        "title": "Pascua militar y romería",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pascua",
-            "romeria",
-            "militar"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/pascua-militar-romeria_0_2005555429.html",
-        "date": "2026-01-05 02:05:42",
-        "sentiment_score": 0.07956111431121826
-    },
-    {
-        "title": "¿Por qué España sigue siendo una isla energética en Europa?",
-        "image_url": "https://s3.elespanol.com/2026/01/02/actualidad/1003744076879_260751612_1706x960.jpg",
-        "tags": [
-            "opinión",
-            "electricidad",
-            "energía - opinión"
-        ],
-        "link": "https://www.elespanol.com/invertia/opinion/20260105/espana-sigue-isla-energetica-europa/1003744076760_12.html",
-        "date": "2026-01-05 01:41:47",
-        "sentiment_score": -0.7018237262964249
-    },
-    {
-        "title": "La nueva financiación autonómica irrumpe en un semestre de elecciones en las CCAA clave del PP",
-        "image_url": "https://s3.elespanol.com/2025/12/19/sociedad/1003744063148_260578564_1706x960.jpg",
-        "tags": [
-            "financiación autonómica",
-            "economía",
-            "maría jesús montero",
-            "agencia tributaria",
-            "ministerio de hacienda y función pública",
-            "iva",
-            "irpf"
-        ],
-        "link": "https://www.elespanol.com/invertia/economia/20260105/nueva-financiacion-autonomica-irrumpe-semestre-elecciones-ccaa-clave-pp/1003744069779_0.html",
-        "date": "2026-01-05 01:36:41",
-        "sentiment_score": 0.11355111002922058
-    },
-    {
-        "title": "El legado del 'Guía del Guardia Civil' y el 'Guía del Carabinero'",
-        "image_url": "https://static.grupojoly.com/clip/bf10067c-ba84-4a43-9bd2-53162cda122b_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias campo de gibraltar"
-        ],
-        "link": "https://www.europasur.es/algeciras/legado-guia-guardia-civil-carabinero_0_2005535206.html",
-        "date": "2026-01-05 01:33:02",
-        "sentiment_score": 0.5536660104990005
-    },
-    {
-        "title": "El Atlético necesita la mejor versión de Julián Alvarez con carácter de urgencia",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/18/2025081800081853699.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/atletico-necesita-mejor-version-julian-alvarez-caracter-urgencia/20260105020941369381.html",
-        "date": "2026-01-05 01:09:41",
-        "sentiment_score": -0.9235961781814694
-    },
-    {
-        "title": "Hansi Flick y Xavi Pascual, los antídotos de Laporta en el Barça para combatir la cartera del Real Madrid",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/05/culemania/palco/1003742720892_15571808_1706x960.jpg",
-        "tags": [
-            "barça",
-            "joan laporta",
-            "palco",
-            "fcb basket",
-            "xavi pascual",
-            "fc barcelona",
-            "hansi flick"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260105/hansi-flick-xavi-pascual-laporta-barca-madrid/1003742720886_0.html",
-        "date": "2026-01-05 01:05:10",
-        "sentiment_score": 0.4653737097978592
-    },
-    {
-        "title": "Tras la captura de Maduro, la diáspora venezolana rechaza la continuidad del chavismo: «No queremos a Delcy»",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2026/01/04/captura-maduro-diaspora-venezolana-rechaza-continuidad-chavismo-delcy-orix/",
-        "date": "2026-01-05 01:03:47",
-        "sentiment_score": -0.36260582506656647
-    },
-    {
-        "title": "La cantera sale al rescate de Xabi Alonso: Gonzalo se doctora, vuelve a tirar la puerta abajo y es el salvavidas para la Supercopa",
-        "image_url": "https://s3.elespanol.com/2026/01/04/actualidad/1003744078112_260768015_1706x960.jpg",
-        "tags": [
-            "real madrid cf",
-            "fútbol",
-            "gonzalo garcía",
-            "la liga",
-            "deportes",
-            "supercopa de europa"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20260105/cantera-sale-rescate-xabi-alonso-gonzalo-doctora-vuelve-tirar-puerta-abajo-salvavidas-supercopa/1003744078088_0.html",
-        "date": "2026-01-05 01:03:14",
-        "sentiment_score": 0.749078094959259
-    },
-    {
-        "title": "04 ENE 2025 | EL TERTULIÓN DE LOS DOMINGOS",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/04-ene-2025-tertulion-domingos-20260105_3280807.html",
-        "date": "2026-01-05 00:56:10",
-        "sentiment_score": -0.08952873945236206
-    },
-    {
-        "title": "Vini Jr. y un hito para la historia: 150 victorias en LaLiga con el Real Madrid",
-        "image_url": "https://pxcdn.meridiano.net/012026/1767577106644.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/espanol/vini-jr-y-un-hito-para-la-historia-150-victorias-en-laliga-con-el-real-madrid-20261420520",
-        "date": "2026-01-05 00:52:00",
-        "sentiment_score": 0.6879720762372017
-    },
-    {
-        "title": "Mujer y tecnología: las historias que cambiaron el relato de la innovación y la ciencia",
-        "image_url": "https://s3.elespanol.com/2025/12/30/actualidad/1003744073541_260709094_1706x960.jpg",
-        "tags": [
-            "tecnología",
-            "innovación",
-            "mujeres",
-            "mujeres emprendedoras",
-            "industria tecnológica",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/politica-digital/espana/20260105/mujer-tecnologia-historias-cambiaron-relato-innovacion-ciencia/1003744073539_0.html",
-        "date": "2026-01-05 01:45:02",
-        "sentiment_score": 0.3391326032578945
-    },
-    {
-        "title": "Puigdemont busca un \"mirlo blanco\" para Barcelona tras superarle Orriols: sondea al economista Sala i Martin y al ex consejero delegado del Sabadell, Jaume Guardiola",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
-        "tags": [
-            "artículos víctor mondelo"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2026/01/05/695a9f23fdddffac158b457f.html",
-        "date": "2026-01-05 01:11:45",
-        "sentiment_score": -0.8087887987494469
-    },
-    {
-        "title": "Los vinos que van a mandar en la barra en 2026 y dónde beberlos en Madrid",
-        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/01/01/17672765835495.jpg",
-        "tags": [
-            "comer",
-            "madrid",
-            "vinos"
-        ],
-        "link": "https://www.elmundo.es/metropoli/elmundovino/2026/01/05/6956808fe4d4d896188b459e.html",
-        "date": "2026-01-05 00:43:14",
-        "sentiment_score": -0.053652092814445496
-    },
-    {
-        "title": "El pueblo de Anzoátegui exige el retorno del presidente Maduro",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/01/PLaza-04013.jpg",
-        "tags": [
-            "actualidad",
-            "política",
-            "anzoátegui"
-        ],
-        "link": "https://ultimasnoticias.com.ve/actualidad/el-pueblo-de-anzoategui-exige-el-retorno-del-presidente-maduro/",
-        "date": "2026-01-05 00:27:29",
-        "sentiment_score": -0.06096698343753815
-    },
-    {
-        "title": "Los centros de procesamiento de datos en España allanan el camino hacia el futuro",
-        "image_url": "https://www.galiciapress.es/images/showid/7793089",
-        "tags": [
-            "internet"
-        ],
-        "link": "https://www.galiciapress.es/articulo/economia/2026-01-05/5723398-centros-procesamiento-datos-espana-allanan-camino-hacia-futuro",
-        "date": "2026-01-05 00:19:42",
-        "sentiment_score": 0.616944570094347
-    },
-    {
-        "title": "Joan García y Gonzalo, protagonistas de El Tertulión de los domingos",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/04/695aeb84d5cd8.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-04-20260105_3280796.html",
-        "date": "2026-01-05 00:13:36",
-        "sentiment_score": -0.06398603320121765
-    },
-    {
-        "title": "“Los escucho preocupados”: la fuerte defensa del Cholo Simeone al oír en vivo las críticas a Julián Álvarez",
-        "image_url": "https://www.infobae.com/resizer/v2/LGPZD2NBKNCQRKNVD2SQIUN4DI.JPG?auth=77a8feecc512f2b807ee188f03fea1f4dea6703696cfb985bd9c4ccda661b1e3&height=1080&smart=true&width=1920",
-        "tags": [
-            "deportes-internacional",
-            "diego simeone",
-            "atlético de madrid",
-            "la liga española",
-            "real sociedad",
-            "julián álvarez"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/04/los-escucho-preocupados-la-fuerte-defensa-del-cholo-simeone-al-oir-en-vivo-las-criticas-a-julian-alvarez/",
-        "date": "2026-01-04 23:34:20",
-        "sentiment_score": -0.8631376326084137
-    },
-    {
-        "title": "Opositores pidieron en España perseverar hasta que Edmundo González tome posesión",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/04191430/opositores-edmundo-gonzalez.jpg",
-        "tags": [
-            "edmundo gonzalez",
-            "españa",
-            "opositores",
-            "mundo"
-        ],
-        "link": "https://www.elnacional.com/2026/01/opositores-pidieron-en-espana-perseverar-hasta-que-edmundo-gonzalez-tome-posesion/",
-        "date": "2026-01-04 23:30:32",
-        "sentiment_score": -0.5241170972585678
-    },
-    {
         "title": "Lunes de lluvia, nieve y frío por la borrasca Francis en la víspera de Reyes",
         "image_url": "https://static.eldiario.es/clip/12e51c55-a01f-45c3-8c94-7acb8346af90_16-9-discover-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2820,5 +2381,243 @@ export default [
         "link": "https://www.elcorreogallego.es/espana/2026/01/08/gobierno-iglesia-cierran-acuerdo-reparar-125469116.html",
         "date": "2026-01-08 06:35:31",
         "sentiment_score": -0.5174775496125221
+    },
+    {
+        "title": "Obispos y gobierno en España acuerdan plan para compensar a víctimas de abuso sexual",
+        "image_url": "https://i.headtopics.com/images/2026/1/8/latimes/obispos-y-gobierno-en-espana-acuerdan-plan-para-co-obispos-y-gobierno-en-espana-acuerdan-plan-para-co-FA18C1EE9D6D0E5DF72A7A57D80570DC.webp",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://headtopics.com/news/obispos-y-gobierno-en-espana-acuerdan-plan-para-compensar-a-78124459",
+        "date": "2026-01-08 17:15:28",
+        "sentiment_score": -0.6460267566144466
+    },
+    {
+        "title": "Ayuso estrecha lazos con Milei en su reunión institucional y aplaude sus \"buenas relaciones\": \"Por la libertad\"",
+        "image_url": "https://www.elplural.com/uploads/s1/24/17/27/0/europapress-7204618-presidenta-comunidad-madrid-isabel-diaz-ayuso-sido-recibida-hoy-casa-rosada-1_7_480x270.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.elplural.com/politica/internacional/ayuso-estrecha-lazos-milei-reunion-institucional-aplaude-buenas-relaciones-libertad_378200102",
+        "date": "2026-01-08 17:09:40",
+        "sentiment_score": 0.03560405969619751
+    },
+    {
+        "title": "Xavi Pascual pide clemencia para su predecesor en el banquillo del Barça (después de darle un repaso épico)",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/08/culemania/secciones/1003742721789_15582404_1706x960.jpg",
+        "tags": [
+            "joan peñarroya",
+            "fcb basket",
+            "secciones",
+            "xavi pascual"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260108/xavi-pascual-clemencia-predecesor-banquillo-barca-despues/1003742721739_0.html",
+        "date": "2026-01-08 17:08:47",
+        "sentiment_score": -0.7820804379880428
+    },
+    {
+        "title": "Arturo Ruiz no cree que la Real deba acudir al mercado para cubrir marcha de Edna",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a361da02-f343-41d6-8324-9a8959a3585c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "deba",
+            "real",
+            "arturo",
+            "cree",
+            "ruiz"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/femenino/2026/01/08/arturo-ruiz-cree-real-deba-10552965.html",
+        "date": "2026-01-08 17:07:40",
+        "sentiment_score": 0.6266495734453201
+    },
+    {
+        "title": "Unos de los baluartes silenciosos del Madrid busca relanzar su carrera en la Supercopa",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/08/2026010818030148225.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/baluartes-silenciosos-madrid-busca-relanzar-carrera-supercopa/20260108180409369831.html",
+        "date": "2026-01-08 17:04:09",
+        "sentiment_score": 0.1896008551120758
+    },
+    {
+        "title": "Rincón de la Victoria concede el Boquerón de Plata 2026 a los jugadores de baloncesto Alfonso y Felipe Reyes",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260108180239_260.jpg",
+        "tags": [
+            "andalucía",
+            "málaga"
+        ],
+        "link": "https://www.europapress.es/andalucia/malaga-00356/noticia-rincon-victoria-concede-boqueron-plata-2026-jugadores-baloncesto-alfonso-felipe-reyes-20260108180239.html",
+        "date": "2026-01-08 17:02:39",
+        "sentiment_score": 0.44704756140708923
+    },
+    {
+        "title": "El congoleño Bakambu, novedad en la puesta a punto del Betis para la visita al Oviedo",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/08/el-congoleno-bakambu-novedad-en-la-puesta-a-punto-del-betis-para-la-visita-al-oviedo/",
+        "date": "2026-01-08 17:01:44",
+        "sentiment_score": 0.5335168279707432
+    },
+    {
+        "title": "La sorprendente historia de la Supercopa de España y su curioso origen vinculado a Eva Perón",
+        "image_url": "https://static.eldiario.es/clip/d4e2f80f-065d-4f3a-95ec-008788bf9ded_16-9-discover-aspect-ratio_default_1133886.jpg",
+        "tags": [
+            "eva",
+            "peron",
+            "supercopa",
+            "origen",
+            "sorprendente",
+            "vinculado",
+            "espana",
+            "pm",
+            "curioso",
+            "historia"
+        ],
+        "link": "https://www.eldiario.es/spin/deportes/sorprendente-historia-supercopa-espana-curioso-origen-vinculado-eva-peron-pm_1_12893881.html",
+        "date": "2026-01-08 17:00:20",
+        "sentiment_score": -0.08825966715812683
+    },
+    {
+        "title": "Supercopa de España ya tendría fecha para 2027",
+        "image_url": "https://pxcdn.meridiano.net/012026/1767890609899.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/supercopa-de-espana-ya-tendria-fecha-para-2027-2026187360",
+        "date": "2026-01-08 17:00:00",
+        "sentiment_score": 0.14605045691132545
+    },
+    {
+        "title": "¡Atención compradores! Los coches usados están más caros que nunca: 17.808 euros de media",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/01/08/695fc1ab3f02c7-66331627.r_d.535-340.png",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.20minutos.es/motor/actualidad/atencion-compradores-coches-usados-ya-superan-17800-euros-media-espana_6918705_0.html",
+        "date": "2026-01-08 17:00:00",
+        "sentiment_score": 0.684608512558043
+    },
+    {
+        "title": "Junqueras anuncia 4.700 millones más para Cataluña tras un acuerdo con el Gobierno",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/01/08/2026010817492831379.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/espana/junqueras-anuncia-4700-millones-mas-cataluna-acuerdo-gobierno/20260108181645439076.html",
+        "date": "2026-01-08 17:16:45",
+        "sentiment_score": 0.5558024533092976
+    },
+    {
+        "title": "La intervención en el Monasterio de Sijena (Huesca), seleccionada para el Premio Mies van der Rohe",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260108181552_260.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-intervencion-monasterio-sijena-huesca-seleccionada-premio-mies-van-der-rohe-20260108181552.html",
+        "date": "2026-01-08 17:15:52",
+        "sentiment_score": 0.07886692881584167
+    },
+    {
+        "title": "Uno de los grandes de la Premier League tienta a una de las estrellas del Barça",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/20/2025102020584921910.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/uno-grandes-premier-league-tienta-estrellas-barca/20260108181521369832.html",
+        "date": "2026-01-08 17:15:21",
+        "sentiment_score": 0.33866767957806587
+    },
+    {
+        "title": "Barcelona abre la nueva línea de subvención de 150.000 euros para fomentar el uso del catalán",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/52ded412-ba64-446a-ac6d-d1fa57dd9e5a_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ayuntamiento de barcelona",
+            "barcelona",
+            "catalán"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20260108/barcelona-abre-nueva-linea-subvencion-catalan-125495350",
+        "date": "2026-01-08 17:12:40",
+        "sentiment_score": 0.6071018241345882
+    },
+    {
+        "title": "La vida en Venezuela tras la detención de Maduro y el pulso de Trump con China",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "claves del día"
+        ],
+        "link": "https://www.lavanguardia.com/videos/claves-del-dia/20260108/11422309/claves-dia-vida-venezuela-detencion-maduro-pulso-trump-china.html",
+        "date": "2026-01-08 17:12:04",
+        "sentiment_score": 0.5766715286299586
+    },
+    {
+        "title": "La curva de la felicidad siempre había tenido forma de U... pero la Generación Z la ha convertido en una línea recta desde los 20 años",
+        "image_url": "https://es.gizmodo.com/app/uploads/2025/09/Diseno-sin-titulo-5-1024x683.jpg",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://es.gizmodo.com/curva-de-la-felicidad-siempre-habia-tenido-forma-de-u-pero-la-generacion-z-la-ha-convertido-en-una-linea-recta-desde-los-20-anos-2000189364",
+        "date": "2026-01-08 17:11:53",
+        "sentiment_score": -0.7935291342437267
+    },
+    {
+        "title": "Billetes de tren desde 7 euros: cómo conseguirlos hoy para viajar desde Alicante con Renfe y Ouigo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/adb7d7a2-4e26-4928-a2b4-acea74412800_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "renfe",
+            "ave",
+            "finanzas",
+            "tarifa",
+            "cnmc"
+        ],
+        "link": "https://www.informacion.es/finanzas-personales/2026/01/08/billetes-renfe-descuento-tren-ouigo-dv-125493389.html",
+        "date": "2026-01-08 17:11:18",
+        "sentiment_score": 0.28837613202631474
+    },
+    {
+        "title": "Habla el hermano de Sergio, el hombre que murió haciendo un reto en directo: \"Para mí fue Simón Pérez quien le indujo a todo esto\"",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/01/08/674BEE59-4A50-4AF3-9818-7D9F65B750BA/habla-hermano-sergio-hombre-que-murio-haciendo-reto-directo-fue-simon-perez-quien-indujo_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "y ahora sonsoles",
+            "antena3",
+            "programas"
+        ],
+        "link": "https://www.antena3.com/programas/y-ahora-sonsoles/habla-hermano-sergio-hombre-que-murio-haciendo-reto-directo-fue-simon-perez-quien-indujo-todo-esto_20260108695fe4eaaf09df50109efa6c.html",
+        "date": "2026-01-08 17:10:02",
+        "sentiment_score": -0.8998289220035076
+    },
+    {
+        "title": "Badia del Vallès abrirá una residencia de estudiantes en un nuevo distrito universitario: \"Dejamos de ser una ciudad dormitorio\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/08/gran-barcelona/1003742721776_15582198_1706x960.jpg",
+        "tags": [
+            "universidades de barcelona",
+            "gran barcelona",
+            "educación",
+            "obras"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260108/badia-valles-abrira-residencia-estudiantes-nuevo-distrito-universitario-dejamos-ciudad-dormitorio/1003742721769_0.html",
+        "date": "2026-01-08 17:09:55",
+        "sentiment_score": 0.10816346108913422
+    },
+    {
+        "title": "Un entrenador de baloncesto se expone a 43 años de cárcel por agresiones sexuales a tres jugadoras menores",
+        "image_url": "https://static1.ara.cat/clip/23d092b2-b237-4aa6-9011-63eb8ae742bf_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "expone",
+            "agresiones",
+            "menores",
+            "sexuales",
+            "entrenador",
+            "43",
+            "carcel",
+            "tres",
+            "jugadoras",
+            "anos",
+            "baloncesto"
+        ],
+        "link": "https://es.ara.cat/sociedad/justicia/entrenador-baloncesto-expone-43-anos-carcel-agresiones-sexuales-tres-jugadoras-menores_1_5612250.html",
+        "date": "2026-01-08 17:06:33",
+        "sentiment_score": -0.7993503995239735
     }
 ];
