@@ -1,458 +1,5 @@
 export default [
     {
-        "title": "Un 2026 lleno de conciertos en Granada",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/01/06/agenda-musical-granada-kMWB-U240752792872KvF-1200x840@Ideal.jpg",
-        "tags": [
-            "conciertos",
-            "granada",
-            "2026",
-            "lleno"
-        ],
-        "link": "https://www.ideal.es/culturas/2026-lleno-conciertos-granada-20260106230540-nt.html",
-        "date": "2026-01-05 22:05:41",
-        "sentiment_score": 0.6537977010011673
-    },
-    {
-        "title": "El Real Madrid se reencuentra con su verdugo: Julián Álvarez, en la nueva edición de la Supercopa",
-        "image_url": "https://pxcdn.meridiano.net/012026/1767656354199.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/espanol/el-real-madrid-se-reencuentra-con-su-verdugo-julian-alvarez-en-la-nueva-edicion-de-la-supercopa-2026151850",
-        "date": "2026-01-05 22:05:00",
-        "sentiment_score": -0.0727146565914154
-    },
-    {
-        "title": "Real Madrid viaja a Arabia pendiente de Huijsen y Mbappé",
-        "image_url": "https://noticialdia.com/wp-content/firewall/uploads/2026/01/dean-huijsen-l-y-kylian-mbappe-r-en-el-entrenamiento-del-real-madrid-previo-al-keirat-almaty-real-madrid-de-champions-league-2025-26-efe-maxim-shipenkov.jpg",
-        "tags": [
-            "arabia",
-            "mbappé",
-            "deportes",
-            "huijsen",
-            "real madrid"
-        ],
-        "link": "https://noticialdia.com/deportes/real-madrid-viaja-a-arabia-pendiente-de-huijsen-y-mbappe/",
-        "date": "2026-01-05 22:04:55",
-        "sentiment_score": -0.3416649401187897
-    },
-    {
-        "title": "Sus Majestades de Oriente desafían a la lluvia en Sant Josep",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b3725dda-51ae-484e-aba1-1afe3a7aa9db_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sant josep",
-            "cala de bou",
-            "cabalgatas de reyes",
-            "reyes magos en ibiza"
-        ],
-        "link": "https://www.diariodeibiza.es/ibiza/2026/01/05/majestades-oriente-desafian-lluvia-sant-josep-125405771.html",
-        "date": "2026-01-05 21:57:59",
-        "sentiment_score": -0.20559759438037872
-    },
-    {
-        "title": "Endrick agradece a Ancelotti por sus consejos tras unirse a Lyon cedido por Real Madrid",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/2696cef/2147483647/strip/true/crop/4366x2292+0+309/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3b%2Fef%2Fe6b4abb94cd5b43e5383a04a6d88%2F555d3bd1bc01470ea06ec6a637e9235c.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-01-05/endrick-agradece-ancelotti-por-sus-consejos-tras-unirse-lyon-cedido-por-real-madrid",
-        "date": "2026-01-05 21:55:17",
-        "sentiment_score": 0.057820260524749756
-    },
-    {
-        "title": "El adiós a Paquita Cortés reúne a una familia sportinguista única",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/01/05/1504819344-RjL5nvylWlTULoiAjVpYNoJ-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "sporting de gijón",
-            "abelardo fernández",
-            "ferrol",
-            "fútbol",
-            "real madrid",
-            "el molinón",
-            "f.c. barcelona",
-            "quini",
-            "portugal",
-            "ceares",
-            "juanele"
-        ],
-        "link": "https://www.elcomercio.es/gijon/adios-paquita-cortes-reune-familia-sportinguista-unica-20260105224927-nt.html",
-        "date": "2026-01-05 21:49:28",
-        "sentiment_score": -0.5233741998672485
-    },
-    {
-        "title": "El Real Oviedo, un colista que lidera la tabla de expulsados",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/01/05/210235003-kvT--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "expulsados",
-            "colista",
-            "lidera",
-            "tabla",
-            "oviedo",
-            "real"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-colista-lidera-tabla-expulsados-20260105193528-nt.html",
-        "date": "2026-01-05 21:49:02",
-        "sentiment_score": -0.835528526455164
-    },
-    {
-        "title": "Agenda gráfica para el día 6 de enero de 2026",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "agenda gráfica",
-            "barcelona",
-            "premio nadal",
-            "europapress",
-            "letizia",
-            "reyes felipe vi",
-            "europa press",
-            "madrid",
-            "pascua militar",
-            "leonor",
-            "sorteo extraordinario el niño"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/05/agenda-grafica-para-el-dia-6-de-enero-de-2026/",
-        "date": "2026-01-05 21:46:09",
-        "sentiment_score": 0.4684738628566265
-    },
-    {
-        "title": "Yeda recibe a Barça y Athletic",
-        "image_url": "https://www.infobae.com/resizer/v2/K4SYT2S6QJES7IGY45HQ7XQKGI.jpg?auth=baa485d8cb50c8097d5e6890429b06bf81ab47aa7e402681f0b8c69e1d8e0dc0&height=1277&smart=true&width=1920",
-        "tags": [
-            "arabia saudí",
-            "real madrid",
-            "fútbol",
-            "europapress",
-            "supercopa de españa",
-            "athletic club",
-            "alinma stadium",
-            "atlético de madrid",
-            "yeda",
-            "fc barcelona",
-            "hansi flick"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/05/yeda-recibe-a-barca-y-athletic/",
-        "date": "2026-01-05 21:45:20",
-        "sentiment_score": 0.17569497227668762
-    },
-    {
-        "title": "Republicanos, perseguidos por homosexuales y escritores bohemios: historias secretas en himnos futboleros de Madrid",
-        "image_url": "https://static.eldiario.es/clip/c4468aaa-04d6-4e2f-9100-2f2a6191984f_16-9-discover-aspect-ratio_default_1131758.jpg",
-        "tags": [
-            "madrid",
-            "secretas",
-            "himnos",
-            "homosexuales",
-            "futboleros",
-            "perseguidos",
-            "bohemios",
-            "historias",
-            "escritores",
-            "republicanos"
-        ],
-        "link": "https://www.eldiario.es/madrid/somos/republicanos-perseguidos-homosexuales-escritores-bohemios-historias-secretas-himnos-futboleros-madrid_1_12816725.html",
-        "date": "2026-01-05 21:00:38",
-        "sentiment_score": -0.06527835130691528
-    },
-    {
-        "title": "Dónde han caído los premios de la Bonoloto, Primitiva, Eurodreams y ONCE de hoy, lunes 5 de enero",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2023/12/20/6FD0278D-9A94-4FE5-97BD-59763A767F2A/administracion-castellon-plana_98.jpg?crop=1080%2C608%2Cx0%2Cy53&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "loterías"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-premios-bonoloto-primitiva-eurodreams-once-hoy-lunes-5-enero_20260105695c3709af09df50109c4339.html",
-        "date": "2026-01-05 22:11:21",
-        "sentiment_score": 0.04113054648041725
-    },
-    {
-        "title": "Oviedo, la única candidata con sede para la Agencia de Salud Pública",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/01/06/Imagen%20galeria-calatrava-RE8DYWfcVP7h2d-k8QC-U2407511050178PH-1200x840@Ideal.jpg",
-        "tags": [
-            "junta de andalucía",
-            "consejo de ministros",
-            "asturias",
-            "salud",
-            "granada",
-            "oviedo"
-        ],
-        "link": "https://www.ideal.es/granada/oviedo-unica-candidata-sede-agencia-salud-publica-20260106230506-nt.html",
-        "date": "2026-01-05 22:05:06",
-        "sentiment_score": 0.4981658235192299
-    },
-    {
-        "title": "10 horas en auto a Roland Garros, abuela fan y un sueño cumplido a los 36: la historia de uno de los citados por Argentina para la Davis",
-        "image_url": "https://www.infobae.com/resizer/v2/UCBGQHZ4SFACPOU3FS73D632YQ.jpg?auth=878838d1654177392d78fe5a3612b3720d4d2263057f2723f9f82d3545b12dcf&height=1080&smart=true&width=1920",
-        "tags": [
-            "marco trungelliti",
-            "tenis",
-            "argentina",
-            "deportes-argentina",
-            "tenis argentino",
-            "copa davis"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/05/10-horas-en-auto-a-roland-garros-abuela-fan-y-un-sueno-cumplido-a-los-36-la-historia-de-uno-de-los-citados-por-argentina-para-la-davis/",
-        "date": "2026-01-05 21:57:58",
-        "sentiment_score": 0.485129427164793
-    },
-    {
-        "title": "Acuerdo con el Al-Hilal: el Barça cierra el fichaje de Joao Cancelo bajo dos condiciones",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/12/02/culemania/primer-equipo/814178671_11997293_1706x960.jpg",
-        "tags": [
-            "fichajes barça",
-            "joao cancelo",
-            "primer equipo",
-            "barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260105/acuerdo-cerrado-al-hilal-barca-joao-cancelo-condiciones/1003742721182_0.html",
-        "date": "2026-01-05 21:57:23",
-        "sentiment_score": 0.1556164100766182
-    },
-    {
-        "title": "Ni el frío achanta a sus majestades: los Reyes Magos visitan muchos rincones de España",
-        "image_url": "https://images.ecestaticos.com/ewmBU0YrS-iAJmaQ4YRAoA03C4I=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F401%2F1d8%2F958%2F4011d8958d437a3aae0dc963eea165a6.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.elconfidencial.com/espana/2026-01-05/reyes-magos-navidad_4278934/",
-        "date": "2026-01-05 21:40:00",
-        "sentiment_score": -0.7858553472906351
-    },
-    {
-        "title": "Los Reyes Magos hacen frente al frío y reparten la ilusión por toda España",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/01/05/7D600502-88CB-45F6-836F-A1C4CF374757/reyes-magos-hacen-frente-frio-reparten-ilusion-toda-espana_70.jpg?crop=1920%2C1080%2Cx0%2Cy176&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "noticias",
-            "ondacero",
-            "sociedad"
-        ],
-        "link": "https://www.ondacero.es/noticias/sociedad/reyes-magos-hacen-frente-frio-reparten-ilusion-toda-espana_20260105695c2dd6ea66eb735327648d.html",
-        "date": "2026-01-05 21:32:06",
-        "sentiment_score": -0.7704910598695278
-    },
-    {
-        "title": "Albiol, en su mensaje de Año Nuevo: \"Todo el mundo que venga a trabajar a Badalona es bienvenido\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/23/gran-barcelona/1003742718663_15545409_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "xavier garcía albiol",
-            "badalona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260105/albiol-mensaje-ano-nuevo-mundo-venga-trabajar-bienvenido/1003742721181_0.html",
-        "date": "2026-01-05 21:26:46",
-        "sentiment_score": -0.11018042266368866
-    },
-    {
-        "title": "Las conexiones de Delcy con el gobierno español: el \"bien\" de Sánchez, una 'cena' con ministros, Ábalos en Barajas, mensajes con Koldo...",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/d9754f9e1c9ec2c05cc471eb1d5216d6/crop/519x0/2567x2048/f/image/jpeg/assets/multimedia/imagenes/2022/03/09/16468205674169.jpg",
-        "tags": [
-            "artículos ángela martialay",
-            "delcy rodríguez",
-            "pedro sánchez",
-            "josé luis ábalos",
-            "josé luis rodríguez zapatero"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/01/06/695bdf4be4d4d878418b4593.html",
-        "date": "2026-01-06 01:26:58",
-        "sentiment_score": -0.8495018519461155
-    },
-    {
-        "title": "Los Reyes junto a la Princesa de Asturias presiden la Pascua Militar con la ausencia inédita de Pedro Sánchez",
-        "image_url": "https://www.elconfidencialdigital.com/media/monarquiaconfidencial/images/2024/01/06/2024010614122444702.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elconfidencialdigital.com/monarquia/articulo/espana/reyes-espana-junto-princesa-asturias-presiden-pascua-militar-ausencia-pedro-sanchez/20260106021800148012.html",
-        "date": "2026-01-06 01:18:00",
-        "sentiment_score": 0.22991348803043365
-    },
-    {
-        "title": "Las dos estrellas internacionales que busca el Inter Miami de Messi para terminar de rearmar su Dream Team",
-        "image_url": "https://www.infobae.com/resizer/v2/RE4TKCVCXNCQ3BPN6FCMJHX6BE.JPG?auth=18e05ce03de4b39977cd7c20e364e0843c3fcdaf8961143d07a9ccb86ae4bc03&height=1777&smart=true&width=3159",
-        "tags": [
-            "atlético de madrid",
-            "koke",
-            "lionel messi",
-            "deportes-argentina",
-            "antoine griezmann",
-            "mls",
-            "inter miami"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/06/las-dos-estrellas-internacionales-que-busca-el-inter-miami-de-messi-para-terminar-de-rearmar-su-dream-team/",
-        "date": "2026-01-06 00:57:48",
-        "sentiment_score": 0.6412315145134926
-    },
-    {
-        "title": "05 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/05-ene-2026-partidazo-cope-20260106_3281320.html",
-        "date": "2026-01-06 00:50:00",
-        "sentiment_score": -0.05286677926778793
-    },
-    {
-        "title": "Felipe VI recogiendo el broche que se le cayó a la reina Letizia y otras anécdotas memorables en la historia de la Pascua Militar",
-        "image_url": "https://s3.elespanol.com/2026/01/05/actualidad/1003744079074_260779581_1706x960.jpg",
-        "tags": [
-            "pascua militar",
-            "leonor de borbón ortiz",
-            "casas reales",
-            "felipe vi",
-            "reina letizia"
-        ],
-        "link": "https://www.elespanol.com/corazon/casas-reales/20260106/felipe-vi-recogiendo-broche-cayo-reina-letizia-anecdotas-memorables-historia-pascua-militar/1003744078583_0.html",
-        "date": "2026-01-06 00:33:00",
-        "sentiment_score": 0.41293201595544815
-    },
-    {
-        "title": "Irina Shayk cumple 40 años: la modelo humilde que sufrió acoso por su físico y enamoró a Cristiano y Bradley Cooper",
-        "image_url": "https://s3.elespanol.com/2026/01/05/corazon/celebrities/1003744079307_260783007_1706x960.jpg",
-        "tags": [
-            "bradley cooper",
-            "celebrities",
-            "cristiano ronaldo",
-            "irina shayk"
-        ],
-        "link": "https://www.elespanol.com/corazon/celebrities/20260106/irina-shayk-cumple-anos-modelo-humilde-sufrio-acoso-fisico-enamoro-cristiano-bradley-cooper/1003744079230_0.html",
-        "date": "2026-01-06 00:33:00",
-        "sentiment_score": -0.694218635559082
-    },
-    {
-        "title": "Habló Trump. Y María Corina pensó en Zelenski",
-        "image_url": "https://s1.staticld.com/2026/01/05/donald-trump-04012026.jpg",
-        "tags": [
-            "estados unidos"
-        ],
-        "link": "https://www.libertaddigital.com/opinion/2026-01-06/pedro-gil-ruiz-hablo-trump-y-maria-corina-penso-en-zelenski-7340249/",
-        "date": "2026-01-06 00:19:19",
-        "sentiment_score": -0.4119236320257187
-    },
-    {
-        "title": "Crecimiento imparable: el mercado iGaming español sube un 18,6 % interanual en 2025",
-        "image_url": "https://www.elboletin.com/wp-content/uploads/2024/12/gaming.webp",
-        "tags": [
-            "hoy en la red",
-            "educación digital",
-            "fiscalidad",
-            "ocio",
-            "regulacion",
-            "datos",
-            "tecnología",
-            "innovacion",
-            "sostenibilidad"
-        ],
-        "link": "https://www.elboletin.com/crecimiento-imparable-el-mercado-igaming-espanol-sube-un-186-interanual-en-2025/",
-        "date": "2026-01-06 00:17:54",
-        "sentiment_score": 0.665702398866415
-    },
-    {
-        "title": "La impactante oferta que prepara el Chelsea para sacar a Vinícius del Real Madrid tras los silbidos que sufrió en el Bernabéu",
-        "image_url": "https://www.infobae.com/resizer/v2/ERW3PQHUWZCXJM6LEPKZCPVFZ4.JPG?auth=68c7be68340c5f82e25cba0ba5ded8727a932b722bf51210536644bddaf68a38&height=1465&smart=true&width=2604",
-        "tags": [
-            "deportes-argentina",
-            "chelsea",
-            "real madrid",
-            "vinicius jr."
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/06/la-impactante-oferta-que-prepara-el-chelsea-por-vinicius-para-sacarlo-del-real-madrid-tras-los-silbidos-que-sufrio-en-el-bernabeu/",
-        "date": "2026-01-06 00:14:48",
-        "sentiment_score": -0.4868268743157387
-    },
-    {
-        "title": "2a PARTE | 05 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-05-ene-2026-partidazo-cope-20260106_3281318.html",
-        "date": "2026-01-05 23:43:05",
-        "sentiment_score": -0.3708856739103794
-    },
-    {
-        "title": "El día que estuvieron a punto de expulsar a Los Protagonistas de José Ramón Fernández de unos Olímpicos",
-        "image_url": "https://www.infobae.com/resizer/v2/E6UBUFKCDJGVNNRHCH2U2TGIBM.jpg?auth=2fc45a81a0966f8696771792379589699161f974748ca2ea2857f26ef7fa8287&height=1080&smart=true&width=1920",
-        "tags": [
-            "barcelona 92",
-            "mexico-entretenimiento",
-            "los protagonistas",
-            "josé ramón fernández"
-        ],
-        "link": "https://www.infobae.com/america/entretenimiento/2021/06/14/el-dia-que-estuvieron-a-punto-de-expulsar-a-los-protagonistas-de-jose-ramon-fernandez-de-unos-olimpicos/",
-        "date": "2026-01-06 01:44:23",
-        "sentiment_score": -0.7814426608383656
-    },
-    {
-        "title": "Gina Lollobrigida cumple 93 años sumergida en una triste batalla familiar",
-        "image_url": "https://www.infobae.com/resizer/v2/5IVEMI6LRFHGHK75IPNZOFAW2M.jpg?auth=399ba0a15906e5aad0c1c038f75a3060108b6843346fc4dc833e901167d52551&height=1080&smart=true&width=1920",
-        "tags": [
-            "gina lollobrigida",
-            "hollywood",
-            "cine italiano"
-        ],
-        "link": "https://www.infobae.com/america/entretenimiento/2020/07/04/gina-lollobrigida-cumple-93-anos-sumergida-en-una-triste-batalla-familiar/",
-        "date": "2026-01-06 01:34:31",
-        "sentiment_score": -0.6565233319997787
-    },
-    {
-        "title": "“Era una guerra contra Televisa”: José Ramón Fernández y la historia de Los Protagonistas",
-        "image_url": "https://www.infobae.com/resizer/v2/PAWJYJNMTNBPVOREQQDRPSG7YA.jpg?auth=af45ec9e4706cdb8cccfa8a32d9db3b90c9df1fde7bc7176ace0ca9284526861&height=1080&smart=true&width=1920",
-        "tags": [
-            "enrique garay",
-            "mexico-entretenimiento",
-            "los protagonistas",
-            "televisa",
-            "rafa puente",
-            "josé ramón fernández",
-            "david faitelson"
-        ],
-        "link": "https://www.infobae.com/america/entretenimiento/2021/06/10/era-una-guerra-contra-televisa-jose-ramon-fernandez-y-la-historia-de-los-protagonistas/",
-        "date": "2026-01-06 01:18:47",
-        "sentiment_score": -0.4792559817433357
-    },
-    {
-        "title": "Joao Cancelo vuelve al Barcelona",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "cesión",
-            "barcelona",
-            "deportes",
-            "al hilal",
-            "joao cancelo"
-        ],
-        "link": "https://noticialdia.com/deportes/joao-cancelo-vuelve-al-barcelona/",
-        "date": "2026-01-06 00:15:56",
-        "sentiment_score": 0.08734040707349777
-    },
-    {
-        "title": "La automovilística Chery instalará su sede para Europa en Barcelona",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/3adc26463257c0d6a6e4dc9def6b4235/crop/318x273/1923x1343/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/05/17491332019810.jpg",
-        "tags": [
-            "artículos daniel g. lifona>",
-            "cataluña>",
-            "empresas>",
-            "motor>"
-        ],
-        "link": "https://www.expansion.com/empresas/motor/2026/01/06/695c02fde5fdea95228b4599.html",
-        "date": "2026-01-06 00:14:37",
-        "sentiment_score": 0.2755042612552643
-    },
-    {
-        "title": "Gáldar cierra el 2025 con la vivienda más barata de Canarias y San Bartolomé, con la más cara",
-        "image_url": "https://s2.ppllstatics.com/canarias7/www/multimedia/2026/01/05/210203454-kJGE--1200x840@Canarias7.jpg",
-        "tags": [
-            "precios",
-            "municipios",
-            "vivienda"
-        ],
-        "link": "https://www.canarias7.es/economia/galdar-cierra-2025-vivienda-barata-canarias-san-20260106070000-nt.html",
-        "date": "2026-01-06 00:00:00",
-        "sentiment_score": 0.012199923396110535
-    },
-    {
         "title": "Pascua Militar: el Rey felicita a las Fuerzas Armadas con la OTAN en plena incertidumbre y Europa doblemente amenazada",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b3311454-98b4-4fae-92aa-c6ed120fd2c9_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2668,5 +2215,160 @@ export default [
         "link": "https://www.elperiodico.com/es/politica/20260109/nucleo-nacional-barcelona-sabado-125508293",
         "date": "2026-01-09 06:19:39",
         "sentiment_score": 0.017555803060531616
+    },
+    {
+        "title": "Por qué Putin no ha respondido a la captura por parte de EEUU de su socio estratégico, Maduro",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/09/Venezuela-Rusia.jpg",
+        "tags": [
+            "actualidad",
+            "rusia",
+            "vladímir putin",
+            "internacionales",
+            "usa",
+            "nicolás maduro",
+            "nacionales",
+            "eeuu",
+            "venezuela"
+        ],
+        "link": "https://lapatilla.com/2026/01/09/por-que-putin-no-ha-respondido-a-la-captura-por-parte-de-eeuu-de-su-socio-estrategico-maduro/",
+        "date": "2026-01-09 10:14:56",
+        "sentiment_score": 0.4869857057929039
+    },
+    {
+        "title": "El Atlético de Madrid carga contra Vinícius tras el derbi: \"Es un clásico...\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/09/image-58115311-2844-420e-a8a4-c9cba205828e-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "spanish supercopa 2025-2026"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/supercopa-de-espana/2025-2026/tuit-atletico-de-madrid-contra-vinicius-polemica-cholo-simeone_sto23257370/story.shtml",
+        "date": "2026-01-09 17:11:11",
+        "sentiment_score": -0.847114160656929
+    },
+    {
+        "title": "Edmundo González habla por teléfono con Pedro Sánchez y reclama la liberación de todos los presos políticos",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260109181023_690.jpg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.europapress.es/nacional/noticia-edmundo-gonzalez-habla-telefono-pedro-sanchez-reclama-liberacion-todos-presos-politicos-20260109181023.html",
+        "date": "2026-01-09 17:10:23",
+        "sentiment_score": -0.08818631619215012
+    },
+    {
+        "title": "Hacienda destaca el peso de la población ajustada y los fondos de compensación del nuevo modelo para Extremadura",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2013de28-cf30-4bfc-9574-ba8445ac451f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "solidaridad",
+            "gobierno",
+            "extremadura",
+            "población",
+            "financiación",
+            "peso",
+            "hacienda"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/01/09/hacienda-poblacion-compensacion-financiacion-autonomica-extremadura-125532574.html",
+        "date": "2026-01-09 17:03:03",
+        "sentiment_score": 0.28447578102350235
+    },
+    {
+        "title": "Xabi Alonso recibe un fichaje estrella para el Real Madrid antes de la final contra el Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/09/culemania/real-madrid/1003742722083_15585871_1706x960.jpg",
+        "tags": [
+            "kylian mbappé",
+            "real madrid",
+            "xabi alonso"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260109/xabi-alonso-fichaje-estrella-real-madrid-barca/1003742722080_0.html",
+        "date": "2026-01-09 17:02:09",
+        "sentiment_score": 0.18267768621444702
+    },
+    {
+        "title": "El presidente del Consejo General de Gestores Administrativos dice que \"los autónomos están al límite\"",
+        "image_url": "https://images.ecestaticos.com/vH4eJq3U-EnLbcfQih_Nq50zDeo=/0x0:1200x799/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3e5%2F2e4%2F217%2F3e52e4217fc50a12c497520f01f5a194.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elconfidencial.com/economia/2026-01-09/autonomos-inseguridad-fiscalidad-gestores-economia-1hms_4281216/",
+        "date": "2026-01-09 17:02:00",
+        "sentiment_score": -0.9026970323175192
+    },
+    {
+        "title": "El Ministerio de Defensa distingue al alcalde de Sedaví por su papel tras la Dana",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/01/09/2026010918013949883.jpg",
+        "tags": [
+            "defensa"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/defensa/ministerio-defensa-distingue-alcalde-sedavi-papel-dana/20260109180157997156.html",
+        "date": "2026-01-09 17:01:57",
+        "sentiment_score": 0.5595503747463226
+    },
+    {
+        "title": "González Urrutia pide ser reconocido como presidente de Venezuela y exige la liberación de todos los presos políticos",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/01/13/67856507759ea.r_d.1825-1217.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.eldebate.com/internacional/20260109/gonzalez-urrutia-pide-reconocido-como-presidente-venezuela-exige-liberacion-todos-presos-politicos_372926.html",
+        "date": "2026-01-09 17:00:09",
+        "sentiment_score": -0.21883895993232727
+    },
+    {
+        "title": "El Athletic, ante el reto de mantener la buena dinámica",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9e8b7b84-3187-4830-8702-555193d0818b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "buena",
+            "reto",
+            "dinamica",
+            "athletic",
+            "mantener"
+        ],
+        "link": "https://www.deia.eus/athletic-femenino/2026/01/09/athletic-reto-mantener-buena-dinamica-10556804.html",
+        "date": "2026-01-09 16:55:01",
+        "sentiment_score": 0.5094636231660843
+    },
+    {
+        "title": "Feijóo rectifica sobre los mensajes con Mazón el día de la DANA y Ramón Espinar sabe muy bien sacar LA conclusión",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/09/ramon-espinar-habla-de-la-rectificacion-de-feijoo-en-directo-al-grano-de-tve.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/feijoo-rectifica-sobre-mensajes-mazon-dia-dana-ramon-espinar-sacar-conclusionbr-f202601.html",
+        "date": "2026-01-09 16:50:12",
+        "sentiment_score": -0.8411209508776665
+    },
+    {
+        "title": "Explosión en Carabanchel: un muerto y nueve heridos en un edificio en obras",
+        "image_url": "https://static.grupojoly.com/clip/749dd3c2-d04e-4f48-ad0e-bfa71b3040e7_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "muerto",
+            "heridos",
+            "carabanchel",
+            "explosion",
+            "nueve"
+        ],
+        "link": "https://www.granadahoy.com/sociedad/explosion-carabanchel-muerto-nueve-heridos_0_2005606760.html",
+        "date": "2026-01-09 17:12:16",
+        "sentiment_score": -0.48975049145519733
+    },
+    {
+        "title": "Madrid, Barcelona y Canarias, destinos previstos para el viaje del Papa León XIV a España",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/05/09/el-papa-leon-xiv-oficia-este-viernes-su-primera-misa-en-la-capilla-sixtina-ante-los-133-cardenales.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/actualidad/2026/01/09/madrid-barcelona-y-canarias-destinos-previstos-para-el-viaje-del-papa-leon-xiv-a-espana-1884495-daa.html",
+        "date": "2026-01-09 17:09:48",
+        "sentiment_score": -0.1871680933982134
+    },
+    {
+        "title": "17:00H | 09 ENE 2026 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-09-ene-2026-tarde-20260109_3283928.html",
+        "date": "2026-01-09 17:09:00",
+        "sentiment_score": -0.30989310145378113
     }
 ];
