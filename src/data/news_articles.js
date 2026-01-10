@@ -1,91 +1,5 @@
 export default [
     {
-        "title": "Pascua Militar: el Rey felicita a las Fuerzas Armadas con la OTAN en plena incertidumbre y Europa doblemente amenazada",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b3311454-98b4-4fae-92aa-c6ed120fd2c9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "felipe vi,reina letizia,princesa leonor,ejército de tierra,armada,ejército del aire,margarita robles,ministerio de defensa,otan,trump,groenlandia,venezuela"
-        ],
-        "link": "https://www.elcorreoweb.es/espana/2026/01/06/pascua-militar-rey-felicita-fuerzas-armadas-otan-incertidumbre-amenaza-europa-125410361.html",
-        "date": "2026-01-06 06:35:57",
-        "sentiment_score": -0.4738491028547287
-    },
-    {
-        "title": "Cuchillos camuflados a seis euros, machetes a 20: la promoción de las armas blancas en internet inquieta a las fuerzas de seguridad",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0399d58e-5af0-45e6-a551-cb13a1f975b2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "delincuencia",
-            "ministerio de interior",
-            "cuchillo",
-            "machetazos",
-            "guardia civil",
-            "armas",
-            "policía nacional"
-        ],
-        "link": "https://www.laprovincia.es/sociedad/2026/01/06/cuchillos-camuflados-seis-euros-machetes-20-euros-promocion-armas-internet-inquieta-policia-125410306.html",
-        "date": "2026-01-06 06:28:24",
-        "sentiment_score": -0.6108329445123672
-    },
-    {
-        "title": "El manuscrito perdido de Delibes que reapareció en Barcelona",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2021/10/06/6DCB237C-93C7-4F84-BDE6-DA96BDEC357B/69.jpg?crop=990%2C557%2Cx0%2Cy23&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/manuscrito-perdido-delibes-que-reaparecio-barcelona_20260106695ca99d22f0db7daf069232.html",
-        "date": "2026-01-06 06:20:13",
-        "sentiment_score": -0.009156174957752228
-    },
-    {
-        "title": "¿Qué es la Doctrina Monroe que ahora Trump ha recuperado?",
-        "image_url": "https://static1.ara.cat/clip/608ed395-30cd-47ca-9787-b0900bfaa40e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ahora",
-            "trump",
-            "monroe",
-            "doctrina",
-            "recuperado"
-        ],
-        "link": "https://es.ara.cat/internacional/doctrina-monroe-ahora-trump-recuperado_130_5610040.html",
-        "date": "2026-01-06 06:00:36",
-        "sentiment_score": 0.05183606594800949
-    },
-    {
-        "title": "Dónde ha caído el primer premio de la Lotería del Niño 2026",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/29/1194A75E-7A5A-4275-87FB-1546B8D0A4BC/donde-caido-primer-premio-loteria-nino-2026_98.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "loterías"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/donde-caido-primer-premio-loteria-nino-2026_20260106695ca4f422f0db7daf068fe3.html",
-        "date": "2026-01-06 06:00:20",
-        "sentiment_score": 0.8486505839973688
-    },
-    {
-        "title": "Mapa de premios de la Lotería del Niño 2026: ¿Dónde han caído los premios del sorteo de hoy 6 de enero?",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/29/E40B535A-58C4-4858-9C43-8E4ED14E7A1F/mapa-premios-loteria-nino-2026-donde-han-caido-premios-sorteo-hoy-6-enero_98.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "loterías"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/mapa-premios-loteria-nino-2026-donde-han-caido-premios-sorteo-hoy-6-enero_20260106695ca4f2af09df50109c7654.html",
-        "date": "2026-01-06 06:00:18",
-        "sentiment_score": 0.3449147343635559
-    },
-    {
-        "title": "Un yacimiento de Pompeya revela la receta del hormigón romano y contradice lo escrito por un famoso arquitecto",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/10/media_thumb-link-4132979.webp?1767686106=",
-        "tags": [
-            "yacimiento de pompeya",
-            "receta del hormigón romano",
-            "cultura",
-            "vitrubio"
-        ],
-        "link": "https://www.meneame.net/story/yacimiento-pompeya-revela-receta-hormigon-romano-contradice",
-        "date": "2026-01-06 09:20:03",
-        "sentiment_score": -0.005903780460357666
-    },
-    {
         "title": "Roborock presenta en CES 2026 su primer robot aspirador capaz de subir (y limpiar) escaleras",
         "image_url": "https://static.grupojoly.com/clip/17a99759-791d-46a7-98be-1479d6dad735_facebook-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2370,5 +2284,241 @@ export default [
         "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-09-ene-2026-tarde-20260109_3283928.html",
         "date": "2026-01-09 17:09:00",
         "sentiment_score": -0.30989310145378113
+    },
+    {
+        "title": "Lo que Donald Trump ha aprendido sobre imponer el poder global",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/donald-trump-eeuu-4.jpg",
+        "tags": [
+            "donald trump",
+            "internacionales",
+            "usa",
+            "actualidad"
+        ],
+        "link": "https://lapatilla.com/2026/01/09/lo-que-donald-trump-ha-aprendido-sobre-imponer-el-poder-global/",
+        "date": "2026-01-09 17:32:58",
+        "sentiment_score": -0.35971499979496
+    },
+    {
+        "title": "1-2. Real Sociedad gana a Getafe en el 96 del partido que abre 19a jornada en España",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/09/1-2-real-sociedad-gana-a-getafe-en-el-96-del-partido-que-abre-19-jornada-en-espana/",
+        "date": "2026-01-09 22:17:59",
+        "sentiment_score": 0.257020004093647
+    },
+    {
+        "title": "1-2. La Real Sociedad gana al Getafe con un gol de Aramburu en el minuto 96",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/09/1-2-la-real-sociedad-gana-al-getafe-con-un-gol-de-aramburu-en-el-minuto-96/",
+        "date": "2026-01-09 22:17:08",
+        "sentiment_score": 0.29782627522945404
+    },
+    {
+        "title": "Aramburu reina en el caos del descuento para dar los 3 puntos a la Real Sociedad",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5f0beb9f-6a9b-4908-a44a-ea8b0a056498_16-9-aspect-ratio_default_1426249.jpg",
+        "tags": [
+            "getafe cf",
+            "fútbol",
+            "getafe",
+            "real sociedad",
+            "laliga ea sports"
+        ],
+        "link": "https://www.lne.es/deportes/2026/01/09/aramburu-enmudece-coliseum-gol-96-puntos-real-sociedad-125540985.html",
+        "date": "2026-01-09 22:09:26",
+        "sentiment_score": -0.8589775301516056
+    },
+    {
+        "title": "Crónica del Barça - Partizán Belgrado, 88-70",
+        "image_url": "https://www.infobae.com/resizer/v2/MZZWHEACERD6XDNDNMWKHZTP6A.jpg?auth=23e91a2aa2961c787b0265bbd4de8f03b24b40da62085a0e8911c696b3c31bce&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/09/cronica-del-barca-partizan-belgrado-88-70/",
+        "date": "2026-01-09 22:00:16",
+        "sentiment_score": -0.08405967056751251
+    },
+    {
+        "title": "Trump frena una segunda oleada de ataques a Venezuela pese a las excarcelaciones a cuentagotas",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/fcef08f1aa687d56ce2bce627e8365f8/f/webp/assets/multimedia/imagenes/2026/01/09/17679866557208.jpg",
+        "tags": [
+            "venezuela",
+            "nlpremium",
+            "donald trump"
+        ],
+        "link": "https://www.elmundo.es/internacional/2026/01/09/69615430e85eced9798b4589.html",
+        "date": "2026-01-09 21:57:11",
+        "sentiment_score": 0.10904395207762718
+    },
+    {
+        "title": "La venganza se cocina a fuego lento y se sirve fría: la estrella del Barça de basket que destroza al Partizán de Peñarroya",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/09/culemania/secciones/1003742722156_15586834_1706x960.jpg",
+        "tags": [
+            "fcb basket",
+            "xavi pascual",
+            "secciones"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260109/venganza-cocina-estrella-barca-destroza-partizan-penarroya/1003742722153_0.html",
+        "date": "2026-01-09 21:56:57",
+        "sentiment_score": 0.008749514818191528
+    },
+    {
+        "title": "La vida al límite de los veterinarios: \"Los suicidios están a la orden del día\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/796276b32b31a172538a1885c062bd86/f/image/jpeg/assets/multimedia/imagenes/2023/02/13/16763014917691.jpg",
+        "tags": [
+            "artículos rebeca yanke",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/papel/historias/2026/01/09/696151f0e85ece98658b458e.html",
+        "date": "2026-01-09 21:51:46",
+        "sentiment_score": -0.8655473152175546
+    },
+    {
+        "title": "Un gigante de Brasil va a la carga por un jugador de la selección argentina que busca continuidad de cara al Mundial",
+        "image_url": "https://www.infobae.com/resizer/v2/LWOOSEWPQ5H2BONZFF4TDLZKBQ.jpg?auth=33b75135118769e10b55d5bc439716be4f8b29380273deaefc25899a119e32a2&height=3906&smart=true&width=5553",
+        "tags": [
+            "atlético de madrid",
+            "palmeiras",
+            "thiago almada",
+            "selección argentina",
+            "deportes-argentina",
+            "fútbol brasilero"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/09/un-gigante-de-brasil-va-a-la-carga-por-un-jugador-de-la-seleccion-argentina-que-busca-continuidad-de-cara-al-mundial/",
+        "date": "2026-01-09 21:51:12",
+        "sentiment_score": -0.2756504751741886
+    },
+    {
+        "title": "Mbappé ya está en Yeda",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe",
+            "deportistas",
+            "real madrid  manchester city",
+            "uefa champions league",
+            "liga de campeones"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/09/mbappe-ya-esta-en-yeda/",
+        "date": "2026-01-09 21:45:21",
+        "sentiment_score": -0.323032021522522
+    },
+    {
+        "title": "0-2. Brahim lanza a Marruecos a semifinales",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "afcon",
+            "football",
+            "caf africa cup of nations 2025",
+            "efe",
+            "quarterfinal",
+            "caf africa cup of nations 25",
+            "confederation africaine de football"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/09/0-2-brahim-lanza-a-marruecos-a-semifinales/",
+        "date": "2026-01-09 21:15:47",
+        "sentiment_score": 0.2525797337293625
+    },
+    {
+        "title": "Más apoyo para las víctimas canarias de la pederastia en la Iglesia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e692750b-7e1b-4737-ad2b-85dc627bb08c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "víctimas",
+            "religión",
+            "pederastia",
+            "canarias",
+            "gobierno",
+            "abusos sexuales",
+            "iglesia"
+        ],
+        "link": "https://www.laprovincia.es/sociedad/2026/01/09/apoyo-victimas-canarias-pederastia-iglesia-125540799.html",
+        "date": "2026-01-09 22:17:21",
+        "sentiment_score": -0.3880561292171478
+    },
+    {
+        "title": "Muere el ginecólogo Ángel Santaolaya, pionero en promover la salud sexual en Valladolid",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2026/01/09/80180515-kM7D-U240794658660ynE-758x531@El%20Norte.jpg",
+        "tags": [
+            "tomás rodríguez bolaños",
+            "universidad de valladolid",
+            "teatro zorrilla",
+            "salud",
+            "anticonceptivos",
+            "castilla y león"
+        ],
+        "link": "https://www.elnortedecastilla.es/valladolid/muere-ginecologo-angel-santaolaya-pionero-promover-salud-20260109231316-nt.html",
+        "date": "2026-01-09 22:13:16",
+        "sentiment_score": 0.053468503057956696
+    },
+    {
+        "title": "Despliegan operativo de fiscalización de comercios en Miranda y Anzoátegui",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/01/Fiscalizacion-4-300x225.jpg",
+        "tags": [
+            "pulso regional",
+            "miranda",
+            "anzoátegui",
+            "actualidad"
+        ],
+        "link": "https://ultimasnoticias.com.ve/actualidad/despliegan-operativo-de-fiscalizacion-de-comercios-en-miranda-y-anzoategui/",
+        "date": "2026-01-09 22:11:58",
+        "sentiment_score": -0.06383401155471802
+    },
+    {
+        "title": "Un exdiputado del PSOE da por muerto el modelo de financiación autonómica de Montero: «Solo es un debate político»",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/09/69617ac26edb9.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20260109/exdiputado-psoe-da-muerto-modelo-financiacion-autonomica-montero-solo-debate-politico_372990.html",
+        "date": "2026-01-09 22:03:30",
+        "sentiment_score": -0.8569972133263946
+    },
+    {
+        "title": "Peñarroya: \"Estoy agradecido por el recibimiento; hice lo que pude\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/09/penarroya-estoy-agradecido-por-el-recibimiento-hice-lo-que-pude/",
+        "date": "2026-01-09 22:01:12",
+        "sentiment_score": 0.8227324020117521
+    },
+    {
+        "title": "El Nadal, el nuevo populismo literario y el 'síndrome Uclés'",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/09/letraglobal/letras/1003742722120_15586300_1706x960.jpg",
+        "tags": [
+            "escritores",
+            "libros",
+            "literatura",
+            "letras",
+            "editoriales"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/letraglobal/letras/20260109/nadal-nuevo-populismo-literario-sindrome-ucles/1003742722118_0.html",
+        "date": "2026-01-09 22:00:23",
+        "sentiment_score": -0.6863686125725508
+    },
+    {
+        "title": "El Barça de Pascual no tiene piedad de Peñarroya ni del colista",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/18e80e2c-7de5-4893-83df-848f3f3ce68f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "euroliga"
+        ],
+        "link": "https://www.superdeporte.es/baloncesto/2026/01/09/barca-pascual-piedad-penarroya-colista-125540543.html",
+        "date": "2026-01-09 21:50:12",
+        "sentiment_score": -0.8393984641879797
+    },
+    {
+        "title": "Las noticias políticas del 9Ene en Venezuela",
+        "image_url": "https://static.wixstatic.com/media/335561_4fe9cbab080c42bda335bbbe7f3e8c08~mv2.jpg/v1/fit/w_1000,h_791,al_c,q_80/file.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.informe21.com/post/las-noticias-pol%C3%ADticas-del-9ene-en-venezuela-1",
+        "date": "2026-01-09 19:03:42",
+        "sentiment_score": -0.11648375540971756
     }
 ];
