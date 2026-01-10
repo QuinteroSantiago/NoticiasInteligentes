@@ -1,140 +1,5 @@
 export default [
     {
-        "title": "Roborock presenta en CES 2026 su primer robot aspirador capaz de subir (y limpiar) escaleras",
-        "image_url": "https://static.grupojoly.com/clip/17a99759-791d-46a7-98be-1479d6dad735_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "roborock",
-            "robot aspirador escaleras",
-            "ces"
-        ],
-        "link": "https://www.granadahoy.com/tecnologia/roborock-ces-robot-aspirador-escaleras_0_2005565917.html",
-        "date": "2026-01-06 17:16:28",
-        "sentiment_score": 0.3146042451262474
-    },
-    {
-        "title": "La reina Letizia, fiel a la tradición y a su plan favorito del año: roscón de reyes en casa de su padre, Jesús Ortiz",
-        "image_url": "https://s3.ppllstatics.com/mujerhoy/www/multimedia/2026/01/06/reina-letizia-roscon-reyes-k0j-U101523080953LKE-758x758@Mujer%20Hoy.jpg",
-        "tags": [
-            "letizia ortiz rocasolano",
-            "leonor de borbón",
-            "paloma rocasolano"
-        ],
-        "link": "https://www.mujerhoy.com/celebrities/realeza/reina-letizia-fiel-tradicion-roscon-reyes-casa-padre-jesus-ortiz-20260106153230-nt.html",
-        "date": "2026-01-06 17:15:29",
-        "sentiment_score": -0.3464639037847519
-    },
-    {
-        "title": "Un mallorquín en la Supercopa",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3627767.jpg",
-        "tags": [
-            "champions league",
-            "copa del rey",
-            "arabia saudí",
-            "atlético de madrid",
-            "supercopa de españa",
-            "real madrid",
-            "fútbol",
-            "primera división",
-            "liga de naciones",
-            "laliga",
-            "europa league"
-        ],
-        "link": "https://www.ultimahora.es/deportes/futbol/2026/01/06/2544229/mallorquin-supercopa.html",
-        "date": "2026-01-06 17:08:57",
-        "sentiment_score": 0.5372690334916115
-    },
-    {
-        "title": "Iñaki Williams reitera su crítica a la Supercopa de España: «No me arrepiento, sigue siendo una faena»",
-        "image_url": "https://okdiario.com/img/2026/01/06/imagen_recortada-3.jpg",
-        "tags": [
-            "athletic club de bilbao",
-            "deportes",
-            "iñaki williams",
-            "barcelona",
-            "supercopa de españa",
-            "fc barcelona"
-        ],
-        "link": "https://okdiario.com/deportes/inaki-williams-reitera-critica-supercopa-espana-no-arrepiento-sigue-siendo-faena-16030124",
-        "date": "2026-01-06 17:17:13",
-        "sentiment_score": -0.8070926405489445
-    },
-    {
-        "title": "Williams matiza sus críticas a la Supercopa: \"No usé la palabra adecuada [mierda], pero no me arrepiento\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/497b7bf8-d2fd-4c3d-a9d8-619e4ced7b42_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "athletic club",
-            "fc barcelona",
-            "athletic de bilbao",
-            "athletic",
-            "supercopa de españa"
-        ],
-        "link": "https://www.farodevigo.es/deportes/2026/01/06/athletic-barcelona-williams-valverde-supercopa-125425884.html",
-        "date": "2026-01-06 17:15:06",
-        "sentiment_score": -0.9078834410756826
-    },
-    {
-        "title": "\"El auténtico chollo es comprar viviendas sin ascensor para instalarlo después, ya que hay ayudas y los pisos más altos pasan automáticamente a ser los más caros del edificio\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/06/695d33276b1e3.png",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.cope.es/actualidad/economia/noticias/autentico-chollo-comprar-viviendas-ascensor-instalarlo-hay-ayudas-pisos-altos-pasan-automaticamente-caros-edificio-20260106_3281401.html",
-        "date": "2026-01-06 17:14:16",
-        "sentiment_score": -0.09717428684234619
-    },
-    {
-        "title": "El Barça quiere su cuarta final consecutiva en Arabia",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260106181314_690.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-barca-quiere-cuarta-final-consecutiva-arabia-20260106181314.html",
-        "date": "2026-01-06 17:13:14",
-        "sentiment_score": -0.7737288773059845
-    },
-    {
-        "title": "Más de 2.000 trenes circulan por la red ferroviaria española durante la operación retorno de Navidad",
-        "image_url": "https://forbes.es/wp-content/uploads/2026/01/fotonoticia_20260106174402_1920-1200x675.jpg",
-        "tags": [
-            "economía",
-            "última hora"
-        ],
-        "link": "https://forbes.es/economia/853201/mas-de-2-000-trenes-circulan-por-la-red-ferroviaria-espanola-durante-la-operacion-retorno-de-navidad/",
-        "date": "2026-01-06 17:10:12",
-        "sentiment_score": 0.1350080668926239
-    },
-    {
-        "title": "Qatar puede coger el relevo de Arabia en la Supercopa de España",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c41214fc-4bac-44cd-863c-915df26091fd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "qatar"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2026/01/06/qatar-coger-relevo-arabia-supercopa-125425752.html",
-        "date": "2026-01-06 17:07:48",
-        "sentiment_score": -0.22693464159965515
-    },
-    {
-        "title": "Seat produce 470.000 coches en Martorell, con una ligera caída del 2%",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/06/695d40faeb0f3.r_d.3229-1980-830.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20260106/11416379/seat-produce-470-000-coches-martorell-ligera-caida-2.html",
-        "date": "2026-01-06 17:07:21",
-        "sentiment_score": 0.1548682637512684
-    },
-    {
-        "title": "17:00H | 06 ENE 2026 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-06-ene-2026-tarde-20260106_3281413.html",
-        "date": "2026-01-06 17:06:00",
-        "sentiment_score": -0.0027353763580322266
-    },
-    {
         "title": "Mbappé, desatado: \"Vamos a triunfar\"",
         "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/12/20/694718a45b2ad.r_d.2629-976-1023.jpeg",
         "tags": [
@@ -2743,5 +2608,160 @@ export default [
         "link": "https://www.eldebate.com/espana/20260110/pilar-alegria-come-financiacion-carta-cataluna-tortilla-patata_372940.html",
         "date": "2026-01-10 00:30:00",
         "sentiment_score": 0.32420632243156433
+    },
+    {
+        "title": "Un gran reto sin Boyé ante la mejor zaga de LaLiga",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2070fac0-9f1c-41d4-982a-ebf8faede81b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "mejor",
+            "alavés",
+            "gran",
+            "zaga",
+            "villarreal",
+            "previa",
+            "laliga",
+            "boye",
+            "reto"
+        ],
+        "link": "https://www.noticiasdealava.eus/alaves/2026/01/10/gran-reto-boye-mejor-zaga-alaves-laliga-villarreal-previa-10557099.html",
+        "date": "2026-01-10 06:00:20",
+        "sentiment_score": 0.19069502502679825
+    },
+    {
+        "title": "Fitur 2026: Ciudad Real protagonizará la actividad del estand regional el domingo 25",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/Celebracion-del-dia-de-Ciudad-Real-en-Fitur-2025-J-Jurado.jpg",
+        "tags": [
+            "sabor quijote",
+            "turismo",
+            "pernoctaciones",
+            "geoparque unesco volcanes de calatrava. ciudad real",
+            "provincia de ciudad real"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/fitur-2026-ciudad-real-protagonizara-la-actividad-del-estand-regional-el-domingo-25/",
+        "date": "2026-01-10 06:00:00",
+        "sentiment_score": -0.02498084306716919
+    },
+    {
+        "title": "Restaurante con historia de los bandoleros: su plato estrella son los huevos a lo bestia",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/02/695787043ed4b9-18844343.jpeg",
+        "tags": [
+            "restaurantes"
+        ],
+        "link": "https://www.20minutos.es/gastronomia/restaurantes/restaurante-tres-siglos-historia-malaga-frecuentaban-bandoleros-plato-estrella-huevos-bestia_6916643_0.html",
+        "date": "2026-01-10 06:00:00",
+        "sentiment_score": -0.21635780110955238
+    },
+    {
+        "title": "Cambios en el conteo de la población y en la gestión de los impuestos: así es el nuevo modelo de financiación autonómica",
+        "image_url": "https://static.grupojoly.com/clip/138026ce-a114-4f27-89f3-7c3fbb1bc81c_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gestion",
+            "poblacion",
+            "conteo",
+            "impuestos",
+            "cambios"
+        ],
+        "link": "https://www.malagahoy.es/andalucia/cambios-conteo-poblacion-gestion-impuestos_0_2005614011.html",
+        "date": "2026-01-10 05:58:19",
+        "sentiment_score": 0.10156387090682983
+    },
+    {
+        "title": "Feijóo evita embestir a Trump para no dar munición a Sánchez y Abascal",
+        "image_url": "https://s1.staticld.com/2026/01/09/alberto-nunez-feijoo-pp-genova.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.libertaddigital.com/espana/politica/2026-01-10/feijoo-evita-embestir-a-trump-para-no-dar-municion-a-sanchez-y-abascal-7341511/",
+        "date": "2026-01-10 06:30:10",
+        "sentiment_score": 0.09383897483348846
+    },
+    {
+        "title": "¿Será Semenyo la próxima estrella o un caso Marmoush? El reto de alcanzar a Haaland",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/10/2026011007224253696.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/antoine-semenyo-entre-sombra-marmoush-brillo-haaland/20260110072435370027.html",
+        "date": "2026-01-10 06:24:35",
+        "sentiment_score": 0.4839147925376892
+    },
+    {
+        "title": "Barcelona-Partizán: No hay piedad que valga ante un colista al que Peñarroya tampoco da aire (88-70)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/10/image-1bf1f551-65b9-4e93-90a0-9fe8e915bc28-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "entertainment",
+            "lifestyle"
+        ],
+        "link": "https://www.eurosport.es/baloncesto/euroliga/2025-2026/barcelona-partizan-belgrado-resumen-resultado-mejores-momentos-canastas-highlights-jornada-21-hoy_vid60045261/video.shtml",
+        "date": "2026-01-10 06:24:06",
+        "sentiment_score": 0.7795966416597366
+    },
+    {
+        "title": "Carmen Prieto, testimonio en primera persona: \"Los antidepresivos me dejaban plana emocionalmente\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bfd33c3f-1f2a-4eed-85ca-c0f9d9c58273_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "salud mental",
+            "depresión",
+            "medicamentos",
+            "psicología"
+        ],
+        "link": "https://www.elperiodico.com/es/ser-feliz/20260110/carmen-prieto-testimonio-primera-persona-125296390",
+        "date": "2026-01-10 06:00:59",
+        "sentiment_score": -0.6798554603010416
+    },
+    {
+        "title": "El consumo de ropa pierde peso en un gasto familiar lastrado por la vivienda",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6ec50121-4cf1-40e1-8deb-2ae04d23c6a6_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "entender más",
+            "precios",
+            "rebajas"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260110/consumo-ropa-pierde-peso-gasto-125482347",
+        "date": "2026-01-10 06:00:59",
+        "sentiment_score": 0.24667205661535263
+    },
+    {
+        "title": "El coloso del puerto",
+        "image_url": "https://static.grupojoly.com/clip/c6a9c8f3-6385-4488-b1dd-b0d11bb273b8_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/coloso-puerto_0_2005607502.html",
+        "date": "2026-01-10 06:00:18",
+        "sentiment_score": -0.8471180954948068
+    },
+    {
+        "title": "Delcy Rodríguez agradece a Sánchez su “valiente postura” al condenar el ataque de EE. UU.",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/09/6961737c34060.r_d.1500-1000-1496.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20260110/11426923/delcy-rodriguez-agradece-sanchez-valiente-postura-condenar-ataque-ee-uu.html",
+        "date": "2026-01-10 05:59:30",
+        "sentiment_score": 0.4356841817498207
+    },
+    {
+        "title": "Los avisos por lluvia, oleaje, viento y nieve se reducen este sábado a 10 CC.AA, con mínimas de hasta -2oC",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/Gente-frio-_-Clara-Manzano-27.jpg",
+        "tags": [
+            "sociedad",
+            "aemet",
+            "tiempo"
+        ],
+        "link": "https://www.lanzadigital.com/sociedad/los-avisos-por-lluvia-oleaje-viento-y-nieve-se-reducen-manana-a-10-cc-aa-con-minimas-de-hasta-2oc/",
+        "date": "2026-01-10 05:53:00",
+        "sentiment_score": -0.10243311524391174
+    },
+    {
+        "title": "Un reloj con alma roquera creada por Eric Singer, el batería de Kiss",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/02/6957bab66dbc2.jpeg",
+        "tags": [
+            "moda"
+        ],
+        "link": "https://www.lavanguardia.com/magazine/moda/20260110/11257010/reloj-alma-roquera-creada-eric-singer-bateria-kiss.html",
+        "date": "2026-01-10 05:50:00",
+        "sentiment_score": 0.21008045971393585
     }
 ];
