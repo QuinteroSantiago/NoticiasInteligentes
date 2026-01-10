@@ -2520,5 +2520,228 @@ export default [
         "link": "https://www.informe21.com/post/las-noticias-pol%C3%ADticas-del-9ene-en-venezuela-1",
         "date": "2026-01-09 19:03:42",
         "sentiment_score": -0.11648375540971756
+    },
+    {
+        "title": "El silencio no se compra con 1.245 millones: Page rechaza por principios la financiación autonómica de Sánchez y ERC",
+        "image_url": "https://s3.elespanol.com/2026/01/09/actualidad/1003744084401_260849539_1706x960.jpg",
+        "tags": [
+            "financiación autonómica",
+            "emiliano garcía-page",
+            "región"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/20260110/silencio-no-compra-millones-page-rechaza-principios-financiacion-autonomica-sanchez-erc/1003744083970_0.html",
+        "date": "2026-01-10 02:00:00",
+        "sentiment_score": -0.9229437038302422
+    },
+    {
+        "title": "Montero maquilla la financiación: más dinero, mismos problemas",
+        "image_url": "https://s3.elespanol.com/2019/01/03/enfoques/365724633_111515802_1706x960.jpg",
+        "tags": [
+            "maría jesús montero",
+            "tribunas",
+            "opinión",
+            "cataluña",
+            "financiación autonómica",
+            "tribunas de opinión"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20260110/montero-maquilla-financiacion-dinero-mismos-problemas/1003744084590_12.html",
+        "date": "2026-01-10 01:50:20",
+        "sentiment_score": 0.28653183579444885
+    },
+    {
+        "title": "El traje a medida de Montero con la financiación: blinda más dinero a Cataluña, 'topa' a Andalucía y castiga a Madrid",
+        "image_url": "https://s3.elespanol.com/2026/01/09/actualidad/1003744084632_260852950_1706x960.jpg",
+        "tags": [
+            "macroeconomía",
+            "reforma fiscal",
+            "reformas económicas",
+            "isabel díaz ayuso",
+            "financiación autonómica",
+            "madrid"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20260110/traje-medida-montero-financiacion-blinda-dinero-cataluna-topa-andalucia-castiga-madrid/1003744084472_0.html",
+        "date": "2026-01-10 01:48:10",
+        "sentiment_score": -0.24936571717262268
+    },
+    {
+        "title": "09 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/09-ene-2026-partidazo-cope-20260110_3284021.html",
+        "date": "2026-01-10 00:40:00",
+        "sentiment_score": 0.4699518457055092
+    },
+    {
+        "title": "Úrsula Corbero, de compras por la milla de oro de Madrid en la recta final de su embarazo: de Loewe a dos tiendas infantiles",
+        "image_url": "https://s3.elespanol.com/2026/01/09/actualidad/1003744084225_260846951_1706x960.jpg",
+        "tags": [
+            "famosos",
+            "actores",
+            "ricardo darín",
+            "embarazo",
+            "úrsula corberó",
+            "loewe",
+            "exclusiva"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20260110/ursula-corbero-compras-milla-oro-madrid-recta-final-embarazo-loewe-tiendas-infantiles/1003744084188_0.html",
+        "date": "2026-01-10 00:33:00",
+        "sentiment_score": 0.01830063760280609
+    },
+    {
+        "title": "Retrato íntimo de Victoria, Isabelle, Alexis y Chloé, los cuatro hijos de Philippe Junot que lloran su muerte",
+        "image_url": "https://s3.elespanol.com/2026/01/09/corazon/celebrities/1003744083277_260844581_1706x960.jpg",
+        "tags": [
+            "carolina de mónaco",
+            "isabelle junot",
+            "muertes",
+            "celebrities",
+            "philippe junot"
+        ],
+        "link": "https://www.elespanol.com/corazon/celebrities/20260110/retrato-intimo-victoria-isabelle-alexis-chloe-hijos-philippe-junot-lloran-muerte/1003744083634_0.html",
+        "date": "2026-01-10 00:33:00",
+        "sentiment_score": 0.03431218862533569
+    },
+    {
+        "title": "Iker Jiménez, el 'rey del misterio' que amasa una fortuna de 10 millones de euros: así ha levantado su imperio",
+        "image_url": "https://s3.elespanol.com/2026/01/09/actualidad/1003744083621_260839881_1706x960.jpg",
+        "tags": [
+            "cumpleaños",
+            "famosos",
+            "iker jiménez",
+            "horizonte",
+            "cuarto milenio",
+            "cuatro",
+            "patrimonio personal"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20260110/iker-jimenez-rey-misterio-amasa-fortuna-millones-euros-levantado-imperio/1003744083609_0.html",
+        "date": "2026-01-10 00:33:00",
+        "sentiment_score": 0.458328515291214
+    },
+    {
+        "title": "Churruca y Lepanto",
+        "image_url": "https://www.eldebate.com/files/fp/uploads/2021/10/21/61713c9335472.r_d.577-326-0.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20260110/churruca-lepanto_372948.html",
+        "date": "2026-01-10 00:30:00",
+        "sentiment_score": 0.12590014934539795
+    },
+    {
+        "title": "La demanda dispara los precios de la vivienda usada en capitales y municipios secundarios: León, Ciudad Real y Guadalajara lideran las subidas",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/95acc8c53e6ace282f1e283955704ae3/crop/83x195/643x755/f/image/jpeg/assets/multimedia/imagenes/2022/05/18/16529079984891.jpg",
+        "tags": [
+            "artículos gabriela galarza"
+        ],
+        "link": "https://www.elmundo.es/economia/vivienda/2026/01/10/69615939e85ecea5128b45bd.html",
+        "date": "2026-01-10 00:08:35",
+        "sentiment_score": 0.18504448235034943
+    },
+    {
+        "title": "Frankfurt y Dortmund comparten puntos en emocionante empate de la Bundesliga",
+        "image_url": "https://i.headtopics.com/images/2026/1/9/latimes/frankfurt-y-dortmund-comparten-puntos-en-emocionan-frankfurt-y-dortmund-comparten-puntos-en-emocionan-8DEB62F999C4610A590C0F91EE8670C6.webp",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://us.headtopics.com/news/frankfurt-y-dortmund-comparten-puntos-en-emocionante-empate-78188581",
+        "date": "2026-01-09 23:43:18",
+        "sentiment_score": 0.0027489662170410156
+    },
+    {
+        "title": "Salas quier alternar con Xixón, Barcelona o Londres: el conceyu postúlase pa ser Destín Turísticu Intelixente",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4b7257ce-924c-4bfb-98c5-121015d8876a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "londres",
+            "turismo"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2026/01/10/salas-quier-alternar-xixon-barcelona-125429200.html",
+        "date": "2026-01-10 02:02:28",
+        "sentiment_score": -0.11131134629249573
+    },
+    {
+        "title": "Julio Anguita, aquel presidente del Gobierno del año 2001 que imaginó TVE",
+        "image_url": "https://static.grupojoly.com/clip/090d42a6-6537-43e7-aeee-df9b50152e33_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "julio",
+            "anguita",
+            "gobierno",
+            "presidente",
+            "futuro"
+        ],
+        "link": "https://www.diariodealmeria.es/television/julio-anguita-futuro-presidente-gobierno_0_2004809557.html",
+        "date": "2026-01-10 02:01:05",
+        "sentiment_score": -0.2627398669719696
+    },
+    {
+        "title": "Sábado 10 de enero de 2026 (02:00 GMT)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/10/sabado-10-de-enero-de-2026-0200-gmt/",
+        "date": "2026-01-10 02:00:16",
+        "sentiment_score": -0.006396107375621796
+    },
+    {
+        "title": "La nieve afecta a 54 carreteras, tres de la red principal, en León y Huesca",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/10/la-nieve-afecta-a-54-carreteras-tres-de-la-red-principal-en-leon-y-huesca/",
+        "date": "2026-01-10 01:15:54",
+        "sentiment_score": -0.6937844268977642
+    },
+    {
+        "title": "Juerga en la Fundación Juan March con La Argentina, la bailarina que revolucionó la danza española hace un siglo",
+        "image_url": "https://s3.elespanol.com/2026/01/09/actualidad/1003744084456_260850317_1706x960.jpg",
+        "tags": [
+            "danza",
+            "espectáculos",
+            "fundación juan march",
+            "flamenco"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/danza/20260110/juerga-fundacion-juan-march-argentina-bailarina-revoluciono-danza-espanola-hace-siglo/1003744084384_0.html",
+        "date": "2026-01-10 00:55:00",
+        "sentiment_score": 0.39773698151111603
+    },
+    {
+        "title": "Infiltrados en los canales de Telegram de adeptos a Simón Pérez que crean retos como el que mató al 'streamer' Sergio",
+        "image_url": "https://s3.elespanol.com/2026/01/09/actualidad/1003744084607_260852542_1706x960.jpg",
+        "tags": [
+            "reportajes",
+            "consumo drogas",
+            "porfolio",
+            "telegram",
+            "redes sociales",
+            "muertes",
+            "mozos de escuadra (mossos d'esquadra)"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260110/infiltrados-canales-telegram-adeptos-simon-perez-crean-retos-mato-streamer-sergio/1003744081133_0.html",
+        "date": "2026-01-10 00:40:00",
+        "sentiment_score": -0.8405440282076597
+    },
+    {
+        "title": "Sánchez dinamita la igualdad",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2021/10/21/61713ca150c6b.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20260110/sanchez-dinamita-igualdad_372941.html",
+        "date": "2026-01-10 00:30:00",
+        "sentiment_score": 0.4654998704791069
+    },
+    {
+        "title": "Pilar Alegría se «come» la financiación a la carta de Cataluña con tortilla de patata",
+        "image_url": "https://imagenes.eldebate.com/files/image_16_9_desktop/files/fp/uploads/2026/01/09/69613d3239f55.r_d.800-533-3875.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20260110/pilar-alegria-come-financiacion-carta-cataluna-tortilla-patata_372940.html",
+        "date": "2026-01-10 00:30:00",
+        "sentiment_score": 0.32420632243156433
     }
 ];
