@@ -1,175 +1,5 @@
 export default [
     {
-        "title": "El preocupante dato sobre Mbappé para el Real Madrid: así funciona cada vez que pierde a su gran estrella",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/01/06/695d79239f0895-92164982.r_d.1623-909.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/preocupante-dato-sobre-mbappe-real-madrid-asi-funciona-cada-vez-pierde-gran-estrella_6917871_0.html",
-        "date": "2026-01-07 06:43:34",
-        "sentiment_score": -0.8558624256402254
-    },
-    {
-        "title": "\"Es muy sorprendente que en partidos como contra el Talavera Mbappé forzara, poniendo en riesgo una final de Supercopa\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2026/01/07/695dfaf2799f1.r_d.1814-560-1212.jpeg",
-        "tags": [
-            "real madrid"
-        ],
-        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260107/1002596990/sorprendente-partidos-talavera-mbappe-forzara-poniendo-riesgo-final-supercopa.html",
-        "date": "2026-01-07 06:41:46",
-        "sentiment_score": -0.6261729747056961
-    },
-    {
-        "title": "Niños con microbioma estable crecen mejor",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260107073849_690.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-ninos-microbioma-estable-crecen-mejor-20260107073849.html",
-        "date": "2026-01-07 06:38:49",
-        "sentiment_score": -0.2322886809706688
-    },
-    {
-        "title": "El frío aprieta en toda España: temperaturas bajo cero, nevadas y avisos en varias comunidades",
-        "image_url": "https://static.eldiario.es/clip/c7321e5e-5cdc-4ad5-88f3-600f14a62867_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "espana",
-            "frio",
-            "avisos",
-            "aprieta",
-            "cero",
-            "pm",
-            "temperaturas",
-            "nevadas",
-            "comunidades"
-        ],
-        "link": "https://www.eldiario.es/sociedad/el-tiempo/frio-aprieta-espana-temperaturas-cero-nevadas-avisos-comunidades-pm_1_12889563.html",
-        "date": "2026-01-07 06:38:30",
-        "sentiment_score": -0.06941631436347961
-    },
-    {
-        "title": "España se congela: hasta -14 grados de mínima y alertas por frío extremo y nieve en medio país",
-        "image_url": "https://www.elplural.com/uploads/s1/18/83/44/9/alerta-por-nieve-en-pirineos-y-cordillera-canta-brica-ep_7_480x270.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.elplural.com/sociedad/espana-congela-hasta-14-grados-minima-alertas-frio-extremo-nieve-medio-pais_378020102",
-        "date": "2026-01-07 06:10:46",
-        "sentiment_score": -0.09154075384140015
-    },
-    {
-        "title": "David Uclés gana el Premio Nadal con \"una carta de amor a Barcelona\"",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/01/07/BE364183-4D43-4F84-A972-733FCE1E8A3B/noche-reyes-volvio-ser-sinonimo-literatura-barcelona_70.jpg?crop=1280%2C720%2Cx0%2Cy190&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "sociedad",
-            "noticias",
-            "ondacero"
-        ],
-        "link": "https://www.ondacero.es/noticias/sociedad/david-ucles-gana-premio-nadal-carta-amor-barcelona_20260107695df7d8af09df50109d4986.html",
-        "date": "2026-01-07 06:06:16",
-        "sentiment_score": 0.2897939160466194
-    },
-    {
-        "title": "El Barça de Flick regresa al lugar donde todo empezó: \"Ganar la última Supercopa nos dio mucha energía\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7cae193d-7d39-4020-b33e-5e779e106e64_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fc barcelona",
-            "supercopa de españa"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2026/01/07/barca-flick-regresa-lugar-empezo-supercopa-semifinal-athletic-125433820.html",
-        "date": "2026-01-07 06:03:33",
-        "sentiment_score": -0.3027717024087906
-    },
-    {
-        "title": "El precio más alto de la gasolina hoy en Madrid, Barcelona y otras ciudades este 7 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-economia",
-            "precio gasolina",
-            "gasolina",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/07/el-precio-mas-alto-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-este-7-de-enero/",
-        "date": "2026-01-07 06:30:39",
-        "sentiment_score": -0.06122169271111488
-    },
-    {
-        "title": "Las calles de Barcelona son perfectas",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/11/05/524E501D-5789-4743-9DBA-14CD1D8517E6/vista-aerea-eixample-barcelona-daigonal-atravesandolo_69.jpg?crop=1080%2C608%2Cx0%2Cy408&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/calles-barcelona-son-perfectas_20260107695dfd7522f0db7daf0767cf.html",
-        "date": "2026-01-07 06:30:13",
-        "sentiment_score": 0.727988613769412
-    },
-    {
-        "title": "De rascar 120 euros en Navidad a ganar el Gordo de ‘El Niño’: la historia de diez compañeros de Dénia",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/07/695dfab74dc7e.jpeg",
-        "tags": [
-            "denia"
-        ],
-        "link": "https://www.cope.es/emisoras/comunidad-valenciana/alicante-provincia/denia/noticias/rascar-120-euros-navidad-ganar-gordo-nino-historia-diez-companeros-denia-20260107_3281482.html",
-        "date": "2026-01-07 06:20:33",
-        "sentiment_score": -0.06975209712982178
-    },
-    {
-        "title": "Joaquín Ortiz Ortiz gana el certamen de relatos de la Fundación Concha en Navalmoral de la Mata",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d789791a-aec6-4b11-bb1c-62e622549553_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "relatos"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/navalmoral/2026/01/07/joaquin-ortiz-ortiz-gana-certamen-125434133.html",
-        "date": "2026-01-07 06:17:32",
-        "sentiment_score": -0.048175275325775146
-    },
-    {
-        "title": "Del aumento de penas por tráfico de marihuana al desalojo exprés: 4 propuestas para estrechar el cerco al cannabis",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a410dcd8-6173-411a-8b7a-d1038eb99a55_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "mossos d'esquadra",
-            "drogas",
-            "marihuana",
-            "justicia"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260107/aumento-penas-trafico-marihuana-desalojo-ocupacion-fraude-electrico-como-luchar-125147757",
-        "date": "2026-01-07 06:17:10",
-        "sentiment_score": -0.565812736749649
-    },
-    {
-        "title": "Lo que debes saber hoy, 7 de enero, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/24/vivir-en-barcelona/1003742710519_15443469_1706x960.jpg",
-        "tags": [
-            "tráfico",
-            "vivir en barcelona",
-            "metro barcelona",
-            "clima",
-            "tiempo",
-            "transports metropolitans barcelona tmb"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260107/debes-saber-hoy-enero-barcelona/1003742721309_0.html",
-        "date": "2026-01-07 06:17:09",
-        "sentiment_score": 0.21244626119732857
-    },
-    {
-        "title": "Ana, testimonio con enfermedad mental: \"Todavía se nos etiqueta de histéricas, locas o demasiado susceptibles\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0d7216a0-30ad-49b6-974d-6aa28c9871b1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "psicología",
-            "abusos sexuales",
-            "mujeres",
-            "enfermedad mental",
-            "feminismo",
-            "salud mental",
-            "psiquiatría"
-        ],
-        "link": "https://www.elcorreogallego.es/sociedad/2026/01/07/ana-testimonio-enfermedad-mental-todavia-125434092.html",
-        "date": "2026-01-07 06:11:40",
-        "sentiment_score": -0.7885246817022562
-    },
-    {
         "title": "EE.UU. incauta petrolero con bandera rusa vinculado a Venezuela",
         "image_url": "https://static.wixstatic.com/media/335561_02d841435c5a46adb150bea58975a754~mv2.png/v1/fit/w_861,h_368,al_c,q_80/file.png",
         "tags": [
@@ -2538,5 +2368,345 @@ export default [
         "link": "https://es.ara.cat/media/ninas-enviaban-fotos-pidiendome-dijera-estaban-gordas_128_5614124.html",
         "date": "2026-01-10 17:01:55",
         "sentiment_score": -0.2636393755674362
+    },
+    {
+        "title": "Expertos opinan que la reforma implica un «reparto arbitrario» que perjudica a Asturias",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/01/10/expertos1-Ra9F8K3mR4XpqfHS3WSZkGO-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "financiación autonómica",
+            "cataluña",
+            "principado de asturias"
+        ],
+        "link": "https://www.elcomercio.es/asturias/expertos-opinan-reforma-implica-reparto-arbitrario-perjudica-20260110225039-nt.html",
+        "date": "2026-01-10 21:50:39",
+        "sentiment_score": -0.7744780890643597
+    },
+    {
+        "title": "El ataque de ira de uno de los hijos de Zinedine Zidane tras la “masacre arbitral” que eliminó a Argelia de la Copa Africana",
+        "image_url": "https://www.infobae.com/resizer/v2/FLSIKDBF5ZA4RJCS6ZSSZZ325M.JPG?auth=c001d4f3cb0593092a074a9701074abcbc5fdc8f470838809461cf16d9015e3b&height=1406&smart=true&width=2500",
+        "tags": [
+            "deportes-argentina",
+            "luca zidane",
+            "nigeria",
+            "copa africana de naciones",
+            "zinedine zidane",
+            "argelia"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/10/el-ataque-de-ira-de-uno-de-los-hijos-de-zinedine-zidane-tras-la-masacre-arbitral-que-elimino-a-argelia-de-la-copa-africana/",
+        "date": "2026-01-10 21:46:25",
+        "sentiment_score": -0.665586668998003
+    },
+    {
+        "title": "Los mapas americanos de la Biblioteca Británica que dibujó un cartógrafo español perseguido por los Borbones",
+        "image_url": "https://static.eldiario.es/clip/bc6f96a5-8992-4d4c-b610-5bae48b4b345_16-9-discover-aspect-ratio_default_0_x340y296.jpg",
+        "tags": [
+            "britanica",
+            "biblioteca",
+            "cartografo",
+            "perseguido",
+            "americanos",
+            "mapas",
+            "espanol",
+            "borbones",
+            "dibujo"
+        ],
+        "link": "https://www.eldiario.es/illes-balears/cultura/mapas-americanos-biblioteca-britanica-dibujo-cartografo-espanol-perseguido-borbones_1_12896969.html",
+        "date": "2026-01-10 21:45:11",
+        "sentiment_score": -0.07611340284347534
+    },
+    {
+        "title": "Carlos Malamud: “El Tesoro de EEUU puede acabar pagando la reconstrucción de la industria petrolera venezolana”",
+        "image_url": "https://static.eldiario.es/clip/a8b46427-e021-4ca4-876b-501285a5494f_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "petrolera",
+            "eeuu",
+            "tesoro",
+            "acabar",
+            "pagando",
+            "industria",
+            "carlos",
+            "malamud",
+            "reconstruccion",
+            "venezolana"
+        ],
+        "link": "https://www.eldiario.es/economia/carlos-malamud-tesoro-eeuu-acabar-pagando-reconstruccion-industria-petrolera-venezolana_128_12894080.html",
+        "date": "2026-01-10 21:45:08",
+        "sentiment_score": -0.1355244517326355
+    },
+    {
+        "title": "Las 1.500 cartas que María escribió durante el franquismo a su hijo en el exilio: \"Las he guardado como un tesoro\"",
+        "image_url": "https://static.eldiario.es/clip/870065f6-113f-44a0-a494-4e128bdfa227_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "guardado",
+            "franquismo",
+            "he",
+            "escribio",
+            "tesoro",
+            "1",
+            "hijo",
+            "durante",
+            "exilio",
+            "500",
+            "maria",
+            "cartas"
+        ],
+        "link": "https://www.eldiario.es/sociedad/1-500-cartas-maria-escribio-durante-franquismo-hijo-exilio-he-guardado-tesoro_1_12890963.html",
+        "date": "2026-01-10 21:45:05",
+        "sentiment_score": -0.13252520561218262
+    },
+    {
+        "title": "Una cabeza de Franco devuelta por mensajero: la pugna entre un escultor y la Diputación de Álava en 1947",
+        "image_url": "https://static.eldiario.es/clip/aec8a85e-01ba-4348-b93b-0e96a1aeb11b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lab",
+            "belén ferreras",
+            "eibar",
+            "vitoria",
+            "eldiarionorte.es",
+            "gipuzkoa",
+            "eldiario.es/euskadi",
+            "bbva",
+            "eldiario.eus",
+            "upv/ehu",
+            "euskal herria",
+            "caso de miguel",
+            "álava",
+            "eldiario.es",
+            "sociedad",
+            "donostia",
+            "irún",
+            "corrupción",
+            "euskadi",
+            "política",
+            "ela",
+            "bizkaia",
+            "feminismo",
+            "eh bildu",
+            "maialen ferreira",
+            "igualdad",
+            "ignacio escolar",
+            "hondarribia",
+            "montai",
+            "lanbide",
+            "brands",
+            "educación",
+            "país vasco",
+            "emergencia climática",
+            "pnv",
+            "imanol pradales",
+            "eroski",
+            "gernika",
+            "ertzaintza",
+            "pp vasco",
+            "kutxabank",
+            "andar en bici",
+            "rodrigo saiz",
+            "actualidad",
+            "osakidetza",
+            "barakaldo",
+            "getxo",
+            "bilbao",
+            "pse-ee",
+            "rubén pereda",
+            "sindicatos",
+            "iker rioja andueza"
+        ],
+        "link": "https://www.eldiario.es/euskadi/cabeza-franco-devuelta-mensajero-pugna-escultor-diputacion-alava-1947_1_12894891.html",
+        "date": "2026-01-10 20:46:03",
+        "sentiment_score": -0.07363173365592957
+    },
+    {
+        "title": "El Salesianos gana y es campeón de invierno",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/G74aKwdWgAEAeie-scaled.jpeg",
+        "tags": [
+            "deportes",
+            "fútbol sala",
+            "segunda división femenina",
+            "puertollano",
+            "cd salesianos puertollano fsf"
+        ],
+        "link": "https://www.lanzadigital.com/deportes/el-salesianos-gana-y-es-campeon-de-invierno/",
+        "date": "2026-01-10 20:41:44",
+        "sentiment_score": -0.026277929544448853
+    },
+    {
+        "title": "Atlético y Real firman un 5-5 para el recuerdo; Barça y Real Madrid arrancan 2026 ganando",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/10/atletico-y-real-firman-un-5-5-para-el-recuerdo-barca-y-real-madrid-arrancan-2026-ganando/",
+        "date": "2026-01-10 20:31:08",
+        "sentiment_score": 0.6409511342644691
+    },
+    {
+        "title": "Mbappé pasa el examen",
+        "image_url": "https://okdiario.com/diariomadridista/img/2026/01/10/mbappe-pasa-el-examen-interior.jpg",
+        "tags": [
+            "real madrid",
+            "fútbol club barcelona",
+            "kylian mbappé",
+            "supercopa de españa"
+        ],
+        "link": "https://okdiario.com/diariomadridista/real-madrid/mbappe-pasa-examen-594377",
+        "date": "2026-01-10 20:00:00",
+        "sentiment_score": 0.007124327123165131
+    },
+    {
+        "title": "El crack del Real Madrid que presume de palmarés y lanza un dardo a Lamine Yamal antes de la final de la Supercopa",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/26/culemania/primer-equipo/1003742701549_15326917_1706x960.jpg",
+        "tags": [
+            "supercopa de españa",
+            "real madrid"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260110/real-madrid-presume-palmares-lamine-yamal-supercopa/1003742722257_0.html",
+        "date": "2026-01-10 19:57:23",
+        "sentiment_score": -0.4920388162136078
+    },
+    {
+        "title": "Albiol retrata el giro catalán ante la inmigración",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/01/10/migrantes-badalona-kXFG-R9ZK6CHwkXRODtZJfNX6ycK-1200x840@RC.jpg",
+        "tags": [
+            "generalitat de cataluña",
+            "alberto núñez feijóo",
+            "desahucio",
+            "migrantes",
+            "okupas",
+            "cataluña",
+            "xavier garcía albiol",
+            "badalona",
+            "extrema derecha",
+            "mossos d&#039;esquadra",
+            "santiago abascal"
+        ],
+        "link": "https://www.canarias7.es/nacional/politica/albiol-retrata-giro-catalan-ante-inmigracion-20260110001807-ntrc.html",
+        "date": "2026-01-10 22:18:09",
+        "sentiment_score": -0.7495723702013493
+    },
+    {
+        "title": "Tras su separación de Paula Badosa, Stefanos Tsitsipas blanqueó su romance con una ex tenista en medio de un viaje espiritual",
+        "image_url": "https://www.infobae.com/resizer/v2/DJBZNAYI3FFWLMC2QCNYE5F23U.jfif?auth=0d0ecbc3c80a9c85615ddc6c42c414748164c38051b97993b5f156ba344344c2&height=677&smart=true&width=1206",
+        "tags": [
+            "stefanos tsitsipas",
+            "paula badosa",
+            "kristen thoms",
+            "tenis",
+            "atp"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/10/tras-su-separacion-de-paula-badosa-stefanos-tsitsipas-blanqueo-su-romance-con-una-ex-tenista-en-medio-de-un-viaje-espiritual/",
+        "date": "2026-01-10 22:10:26",
+        "sentiment_score": 0.3028998412191868
+    },
+    {
+        "title": "Venezuela y Colombia ganan presencia entre los inmigrantes en Lugo",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/08/27/2025082708394990539.jpg",
+        "tags": [
+            "lugo"
+        ],
+        "link": "https://www.elprogreso.es/articulo/lugo/venezuela-colombia-ganan-presencia-entre-inmigrantes-lugo/202601102307441937180.html",
+        "date": "2026-01-10 22:07:44",
+        "sentiment_score": 0.04180347919464111
+    },
+    {
+        "title": "Uma, la modelo más internacional de Fuerteventura: de Tindaya al mundo",
+        "image_url": "https://s2.ppllstatics.com/canarias7/www/multimedia/2026/01/08/metro-sculture-kZ5F-U240780378487HZF-1200x840@Canarias7.jpg",
+        "tags": [
+            "modelo",
+            "uma",
+            "internacional",
+            "tindaya",
+            "majorera",
+            "mundo"
+        ],
+        "link": "https://www.canarias7.es/canarias/fuerteventura/uma-modelo-internacional-fuerteventura-tindaya-mundo-20260111230619-nt.html",
+        "date": "2026-01-10 22:06:20",
+        "sentiment_score": 0.04019395262002945
+    },
+    {
+        "title": "España acelera como imán para los emprendedores extranjeros, que triplican a los españoles: \"Tenía una idea y las ganas. Y quería 300 días de sol\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
+        "tags": [
+            "artículos clara rojas",
+            "nlpremium",
+            "startup"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2026/01/10/69596392e4d4d873178b45ab.html",
+        "date": "2026-01-10 21:51:51",
+        "sentiment_score": 0.14329858124256134
+    },
+    {
+        "title": "Por qué la política actual es igual que la del año 1900: \"La única pregunta es saber cuándo comenzará la III Guerra Mundial\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/9e1adeee492d225dc6c2577d19053dc3/f/image/jpeg/assets/multimedia/imagenes/2023/01/16/16738696618619.jpg",
+        "tags": [
+            "nlpremium",
+            "artículos jorge benítez",
+            "donald trump",
+            "nicolás maduro",
+            "venezuela"
+        ],
+        "link": "https://www.elmundo.es/papel/historias/2026/01/10/69611fd6fdddfff2658b457a.html",
+        "date": "2026-01-10 21:48:16",
+        "sentiment_score": -0.21850110590457916
+    },
+    {
+        "title": "¿Encontrar el ADN de Leonardo da Vinci? Una fantasía con mucha publicidad y serias objeciones científicas",
+        "image_url": "https://static.eldiario.es/clip/f85e80ba-e248-4781-a4b1-bea2cd1bb9dd_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "vinci",
+            "fantasia",
+            "cientificas",
+            "leonardo",
+            "publicidad",
+            "encontrar",
+            "serias",
+            "adn",
+            "objeciones",
+            "da"
+        ],
+        "link": "https://www.eldiario.es/sociedad/encontrar-adn-leonardo-da-vinci-fantasia-publicidad-serias-objeciones-cientificas_1_12891849.html",
+        "date": "2026-01-10 21:45:06",
+        "sentiment_score": -0.08474496006965637
+    },
+    {
+        "title": "Albiol exculpado y el ex fiscal general, condenado: resultados opuestos en dos causas por revelación de secretos",
+        "image_url": "https://static.eldiario.es/clip/3e918a58-3dbf-422e-b97a-66452184bbe6_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "actualidad",
+            "economía",
+            "política",
+            "noticias",
+            "cataluña",
+            "periodismo independiente",
+            "ignacio escolar",
+            "barcelona"
+        ],
+        "link": "https://www.eldiario.es/catalunya/albiol-exculpado-ex-fiscal-general-condenado-resultados-opuestos-causas-revelacion-secretos_1_12895631.html",
+        "date": "2026-01-10 21:45:05",
+        "sentiment_score": -0.15035401284694672
+    },
+    {
+        "title": "El Barcelona femenil humilló al Madrid",
+        "image_url": "https://pxcdn.meridiano.net/012026/1768081580070.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/usa/futbol/espanol/el-barcelona-femenil-humillo-al-madrid-202611017420",
+        "date": "2026-01-10 21:42:00",
+        "sentiment_score": 0.2077551931142807
+    },
+    {
+        "title": "Es uno de los mejores pueblos del mundo, según la ONU: naturaleza y patrimonio cerca de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/10/vivir-en-barcelona/1003742722276_15588282_1706x960.jpg",
+        "tags": [
+            "recomendaciones",
+            "vivir en barcelona",
+            "historia",
+            "planes",
+            "patrimonio de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260110/mejores-pueblos-mundo-onu-naturaleza-patrimonio-cerca-barcelona/1003742722271_0.html",
+        "date": "2026-01-10 21:34:44",
+        "sentiment_score": 0.8606509324163198
     }
 ];
