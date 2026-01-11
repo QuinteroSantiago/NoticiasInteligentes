@@ -1,441 +1,5 @@
 export default [
     {
-        "title": "Mbappé, desatado: \"Vamos a triunfar\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/12/20/694718a45b2ad.r_d.2629-976-1023.jpeg",
-        "tags": [
-            "real madrid"
-        ],
-        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260106/1002596918/mbappe-desatado-triunfar.html",
-        "date": "2026-01-06 22:03:18",
-        "sentiment_score": -0.26656578481197357
-    },
-    {
-        "title": "Garuba y Lyles evitan un lío ante el ASVEL",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/6c1ce84e-75d5-48b9-a117c977eb48479e.jpg",
-        "tags": [
-            "azuqueca de henares",
-            "real madrid",
-            "facundo campazzo",
-            "sergio scariolo",
-            "euroliga",
-            "usman garuba"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z618bca78-1243-4a31-a90fe17a3dfcbe2a/202601/garuba-y-lyles-evitan-un-lio-ante-el-asvel",
-        "date": "2026-01-06 21:52:24",
-        "sentiment_score": -0.06751665472984314
-    },
-    {
-        "title": "Crónica del ASVEL Villeurbanne - Real Madrid: 69-80",
-        "image_url": "https://www.infobae.com/resizer/v2/XYK2B3MSTBGAPOPJIBNLP53JDQ.jpg?auth=c10ae47b0d059638e4630586fb7b115cb815dc9e38e3118e6f9bda578190956a&height=1280&smart=true&width=1920",
-        "tags": [
-            "ldlc arena",
-            "usman garuba",
-            "baloncesto",
-            "sergio scariolo",
-            "real madrid",
-            "europapress",
-            "asvel villeurbanne",
-            "euroliga",
-            "francia",
-            "facundo campazzo",
-            "trey lyles"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/06/cronica-del-asvel-villeurbanne-real-madrid-69-80/",
-        "date": "2026-01-06 21:45:35",
-        "sentiment_score": 0.7784498333930969
-    },
-    {
-        "title": "El escritor David Uclés gana el Premio Nadal 2026 con su nueva obra 'La ciudad de las luces muertas'",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/01/06/D31293C0-620E-4129-888D-A01C6E48F2D0/escritor-david-ucles-gana-premio-nadal-novela-peninsula-casas-vacias_70.jpg?crop=2560%2C1440%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "noticias",
-            "sociedad",
-            "ondacero"
-        ],
-        "link": "https://www.ondacero.es/noticias/sociedad/escritor-david-ucles-gana-premio-nadal-novela-peninsula-casas-vacias_20260106695d8228ea66eb73532837b0.html",
-        "date": "2026-01-06 21:44:08",
-        "sentiment_score": 0.7884482331573963
-    },
-    {
-        "title": "Qatar quiere la Supercopa y compite con Arabia por el nuevo contrato a partir de 2030",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/01/06/2026010622432787610.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/deportes/qatar-quiere-supercopa-compite-arabia-nuevo-contrato-partir-2030/20260106224404578139.html",
-        "date": "2026-01-06 21:44:04",
-        "sentiment_score": 0.24403835088014603
-    },
-    {
-        "title": "En directo: Trump estudia «diversas opciones» para hacerse con Groenlandia: «Recurrir al ejército siempre es una opción»",
-        "image_url": "https://cflvdg.avoz.es/sc/y__Lj9oHVoDT5WnQqERsKbjpcbc=/768x/2026/01/06/00121767713282082917838/Foto/reu_20260106_152341333.jpg",
-        "tags": [
-            "venezuela",
-            "internacional",
-            "nicolás maduro"
-        ],
-        "link": "https://www.lavozdegalicia.es/retransmision/internacional/2026/01/06/directotrump-estudia-diversas-opciones-hacerse-groenlandia-recurrir-ejercito-siempre-opcion/01071767682463006960891.htm",
-        "date": "2026-01-06 21:42:00",
-        "sentiment_score": -0.8492771685123444
-    },
-    {
-        "title": "El Madrid aparece al final y evita una derrota en casa del penúltimo de la Euroliga",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/01/06/695d80b9e41a4.r_d.668-149-8333.webp",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.eldebate.com/deportes/baloncesto/20260106/madrid-aparece-final-evita-derrota-casa-penultimo-euroliga_371728.html",
-        "date": "2026-01-06 21:41:34",
-        "sentiment_score": 0.16979891061782837
-    },
-    {
-        "title": "Trigueros: «Acabamos con cara de tontos; tenemos que aprender»",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/01/06/granada-trigueros-baldomero-rayo-vallecano-copa-rey-kXe-U240762380453VNB-1200x840@Ideal.jpg",
-        "tags": [
-            "tontos",
-            "aprender",
-            "acabamos",
-            "trigueros",
-            "cara"
-        ],
-        "link": "https://www.ideal.es/granadacf/rayo-vallecano-copa-rey-trigueros-acabamos-cara-tontos-aprender-20260106222230-nt.html",
-        "date": "2026-01-06 21:24:19",
-        "sentiment_score": -0.7850246615707874
-    },
-    {
-        "title": "No sabía que lo estaban grabando, dijo que era su sueño jugar en el Real Madrid y estalló el escandalo en Europa",
-        "image_url": "https://www.infobae.com/resizer/v2/NC2HFEQJTVET3DH55MPRR3KNCI.JPG?auth=2fb0703b2a5fe1a5a4ee4080c8c2b7b8cb2f78699b7f47ca3dfd2cf590c6ee19&height=1452&smart=true&width=2006",
-        "tags": [
-            "real madrid",
-            "deportes-argentina",
-            "fútbol",
-            "lothar matthaus",
-            "bayern múnich",
-            "deportes-internacional",
-            "lennart karl"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/06/no-sabia-que-lo-estaban-grabando-dijo-que-era-su-sueno-jugar-en-el-real-madrid-y-estallo-el-escandalo-en-europa/",
-        "date": "2026-01-06 21:23:48",
-        "sentiment_score": 0.34742843359708786
-    },
-    {
-        "title": "El Barça gana al Maccabi sin público pero con Shengelia",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/06/695d7bf59c147.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/baloncesto/20260106/11416677/barca-maccabi-tel-aviv-shengelia-euroliga-resumen.html",
-        "date": "2026-01-06 21:20:58",
-        "sentiment_score": -0.9404605561867356
-    },
-    {
-        "title": "Ter Stegen se vuelve a Barcelona lesionado",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/17/6942b45c59df5.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/ter-stegen-vuelve-barcelona-lesionado-20260106_3281455.html",
-        "date": "2026-01-06 22:14:51",
-        "sentiment_score": -0.07328075170516968
-    },
-    {
-        "title": "David Uclés se alza con el Premio Nadal 2026",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/d64189e6-83f4-4b76-bf012538002534e7.jpg",
-        "tags": [
-            "ana maría matute",
-            "literatura",
-            "barcelona",
-            "novela",
-            "premio nadal",
-            "uclés"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z2ed09f2d-93da-4a1e-ae06f7040f32e677/202601/david-ucles-se-alza-con-el-premio-nadal-2026",
-        "date": "2026-01-06 22:13:47",
-        "sentiment_score": 0.14058303833007812
-    },
-    {
-        "title": "Ter Stegen abandona la concentración del Barcelona en Arabia Saudí por lesión",
-        "image_url": "https://okdiario.com/img/2026/01/06/imagen_recortada-8.jpg",
-        "tags": [
-            "deportes",
-            "barcelona",
-            "supercopa de españa",
-            "fc barcelona",
-            "ter stegen"
-        ],
-        "link": "https://okdiario.com/deportes/ter-stegen-abandona-concentracion-del-barcelona-arabia-saudi-lesion-16030920",
-        "date": "2026-01-06 22:12:39",
-        "sentiment_score": -0.7476554624736309
-    },
-    {
-        "title": "Los expertos alertan: el tope al alquiler de temporada reducirá la oferta y favorecerá a las rentas altas",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/24/vivir-en-barcelona/1003742718946_15548685_1706x960.jpg",
-        "tags": [
-            "juicios",
-            "economía",
-            "viviendas",
-            "alquiler vivienda",
-            "vivienda"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260106/expertos-alertan-tope-alquiler-temporada-reducira-oferta-favorecera-rentas-altas/1003742718932_0.html",
-        "date": "2026-01-06 22:09:24",
-        "sentiment_score": -0.13190671801567078
-    },
-    {
-        "title": "El Barça resuelve con nota un partido con el Palau vacío",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/06/695d86ffee002.jpeg",
-        "tags": [
-            "esports cope"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/barca-resuelve-nota-partido-palau-vacio-20260106_3281454.html",
-        "date": "2026-01-06 22:05:45",
-        "sentiment_score": -0.04994243383407593
-    },
-    {
-        "title": "El escritor David Uclés gana el Premio Nadal 2026 con ‘La ciudad de las luces muertas’",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/06/vivir-en-barcelona/1003742721290_15576691_1706x960.jpg",
-        "tags": [
-            "barcelona literaria",
-            "literatura",
-            "premios",
-            "ayuntamiento de barcelona",
-            "vivir en barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260106/escritor-david-ucles-gana-premio-nadal-ciudad-luces-muertas/1003742721288_0.html",
-        "date": "2026-01-06 22:04:11",
-        "sentiment_score": -0.010167703032493591
-    },
-    {
-        "title": "Francesc Torralba gana el Premi Josep Pla 2026 con el ensayo ‘Anatomia de l’esperança’",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/06/vivir-en-barcelona/1003742721285_15576646_1706x960.jpg",
-        "tags": [
-            "premios",
-            "ayuntamiento de barcelona",
-            "vivir en barcelona",
-            "literatura"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260106/francesc-torralba-gana-premi-josep-pla-ensayo-anatomia-lesperanca/1003742721284_0.html",
-        "date": "2026-01-06 21:55:01",
-        "sentiment_score": 0.1655208244919777
-    },
-    {
-        "title": "David Uclés gana el Premio Nadal con una novela protagonizada por Carmen Laforet, Mercè Rodoreda y Freddie Mercury",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7720ee92-9dd2-4206-9bef-c45615ccf2eb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "premio nadal"
-        ],
-        "link": "https://www.levante-emv.com/cultura/2026/01/06/david-ucles-gana-premio-nadal-125430489.html",
-        "date": "2026-01-06 21:53:30",
-        "sentiment_score": 0.6638080030679703
-    },
-    {
-        "title": "«Es Dios quien decide»: la respuesta de Delcy a Trump mientras Caracas se convierte en un Estado policial",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2026/01/07/delcy-kKBH-U1015272988060gC-1200x840@diario_abc.jpg",
-        "tags": [
-            "donald trump",
-            "intervención",
-            "caracas",
-            "estados unidos",
-            "josé luis rodríguez zapatero",
-            "políticos",
-            "nicolás maduro",
-            "venezuela",
-            "colombia",
-            "presos"
-        ],
-        "link": "https://www.abc.es/internacional/dios-decide-respuesta-delcy-trump-caracas-convierte-20260107031558-nt.html",
-        "date": "2026-01-07 02:16:00",
-        "sentiment_score": -0.11215353012084961
-    },
-    {
-        "title": "Iker Casillas pide prudencia tras la operación de Sara Carbonero",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/25/2025102505351537352.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/iker-casillas-pide-prudencia-operacion-sara-carbonero/20260107021721369586.html",
-        "date": "2026-01-07 01:17:21",
-        "sentiment_score": -0.11709573864936829
-    },
-    {
-        "title": "La lesión de Mbappé deja en evidencia la gestión del Real Madrid",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/19/2025101923111111708.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/lesion-mbappe-deja-evidencia-gestion-real-madrid/20260107020721369585.html",
-        "date": "2026-01-07 01:07:21",
-        "sentiment_score": 0.436153307557106
-    },
-    {
-        "title": "La impactante sentencia del mejor ajedrecista del mundo sobre la comparación entre Faustino Oro y Lionel Messi",
-        "image_url": "https://www.infobae.com/resizer/v2/BF7P4OV32ZFZHGDXBRL3XY7MDA.jpg?auth=4fdc39a9f449d09bdb477c0a15151deb32ef65fe9b267c51f6c0a0060e195b47&height=1080&smart=true&width=1920",
-        "tags": [
-            "faustino oro",
-            "lionel messi",
-            "deportes-internacional",
-            "ajedrez",
-            "deportes-argentina",
-            "magnus carlsen"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/07/la-impactante-sentencia-del-mejor-ajedrecista-del-mundo-sobre-la-comparacion-entre-faustino-oro-y-lionel-messi/",
-        "date": "2026-01-07 00:40:49",
-        "sentiment_score": 0.12270790338516235
-    },
-    {
-        "title": "06 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/06-ene-2026-partidazo-cope-20260107_3281468.html",
-        "date": "2026-01-07 00:34:50",
-        "sentiment_score": -0.5568699594587088
-    },
-    {
-        "title": "3a PARTE | 06 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-06-ene-2026-partidazo-cope-20260107_3281466.html",
-        "date": "2026-01-07 00:33:46",
-        "sentiment_score": -0.010126769542694092
-    },
-    {
-        "title": "El bien y los bienes en Venezuela",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/03/02/6400d275bdf6b.png",
-        "tags": [
-            "tribuna"
-        ],
-        "link": "https://www.eldebate.com/opinion/tribuna/20260107/bien-bienes-venezuela_371530.html",
-        "date": "2026-01-07 00:30:00",
-        "sentiment_score": -0.015394240617752075
-    },
-    {
-        "title": "Joao Grimaldo encuentra un nuevo destino en Europa: deja Partizán para enrumbar hacia el Sparta Praga",
-        "image_url": "https://www.infobae.com/resizer/v2/C6UBSL63QRE7FBYZQNO5K7SSBE.jpg?auth=dad2f118cb172b5171fab9b82ba4f884cd8629996780a7f0b3b94ca329aeca9d&height=1080&smart=true&width=1920",
-        "tags": [
-            "selección peruana",
-            "sparta praga",
-            "peru-deportes",
-            "joao grimaldo"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2026/01/07/joao-grimaldo-encuentra-un-nuevo-destino-en-europa-deja-partizan-para-enrumbar-hacia-el-sparta-praga/",
-        "date": "2026-01-07 00:28:52",
-        "sentiment_score": 0.8172490149736404
-    },
-    {
-        "title": "El Athletic conoce hoy su rival en los octavos de Copa",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2026/01/06/Imagen%201504403834-kMKG--758x531@El%20Correo.jpg",
-        "tags": [
-            "octavos",
-            "copa",
-            "conoce",
-            "athletic",
-            "hoy",
-            "rival"
-        ],
-        "link": "https://www.elcorreo.com/athletic/athletic-conoce-hoy-rival-octavos-copa-20260106004937-nt.html",
-        "date": "2026-01-06 23:49:38",
-        "sentiment_score": -0.07637814432382584
-    },
-    {
-        "title": "Noah Wyle: «El famoso 'bajón de la segunda temporada' es real»",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/28/noah-wyle-ned-brower-supriya-ganesh-k05E-U240687135773x6C-1200x840@RC.jpg",
-        "tags": [
-            "estados unidos",
-            "series de televisión",
-            "hbo",
-            "premios emmy",
-            "covid-19"
-        ],
-        "link": "https://www.leonoticias.com/pantallas/series/noah-wyle-famoso-bajon-segunda-temporada-real-20251228001236-ntrc.html",
-        "date": "2026-01-06 23:12:37",
-        "sentiment_score": -0.3262866474688053
-    },
-    {
-        "title": "Messi sueña con ser propietario de un club tras su retiro",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/06215829/AFP__20260106__89UE8KE__v1__HighRes__FilesFblArgentina-2560x1630.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.elnacional.com/2026/01/messi-suena-con-ser-propietario-de-un-club-tras-su-retiro/",
-        "date": "2026-01-07 02:10:29",
-        "sentiment_score": -0.26410849392414093
-    },
-    {
-        "title": "A qué hora juega Barcelona vs Athletic Club en Perú: partido por la semifinal de la Supercopa de España",
-        "image_url": "https://www.infobae.com/resizer/v2/VPKXEN27HNAVZCU4BEH5PY2EEM.jpg?auth=f1de1f3f60a3d1013297ebba653ff4749eb2b57c2308267f67c5bc2a2064f4dc&height=1080&smart=true&width=1920",
-        "tags": [
-            "supercopa de españa",
-            "fc barcelona",
-            "athletic bilbao",
-            "peru-deportes"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2026/01/07/a-que-hora-juega-barcelona-vs-athletic-club-en-peru-partido-por-la-semifinal-de-la-supercopa-de-espana/",
-        "date": "2026-01-07 02:03:24",
-        "sentiment_score": 7.85142183303833e-05
-    },
-    {
-        "title": "Oriente Medio vuelve a rescatar a Laporta en el mercado de invierno: del 'caso Dani Olmo' al regreso de Joao Cancelo",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/07/culemania/palco/1003742721306_15576945_1706x960.jpg",
-        "tags": [
-            "joao cancelo",
-            "joan laporta",
-            "palco",
-            "andreas christensen",
-            "deco",
-            "jorge mendes",
-            "fair play de la liga",
-            "fichajes barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260107/oriente-medio-laporta-dani-olmo-joao-cancelo/1003742721305_0.html",
-        "date": "2026-01-07 01:30:45",
-        "sentiment_score": -0.5308877155184746
-    },
-    {
-        "title": "Messi reveló más detalles del paso por Newell’s, la prueba en River Plate y su futuro: ¿entrenador, mánager o propietario?",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2026/01/06/messi-newells-river-plate-futuro-propietario-orix/",
-        "date": "2026-01-07 01:03:41",
-        "sentiment_score": 0.09924282133579254
-    },
-    {
-        "title": "Sanitas: \"No podemos cuidar de las personas sin un planeta sano\"",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/514b6a176e75d859f1f3d75ec70ae280/crop/205x137/1843x1229/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/26/17667445538125.jpg",
-        "tags": [
-            "sostenibilidad>"
-        ],
-        "link": "https://www.expansion.com/economia-sostenible/2026/01/07/694e620d468aeb25408b4599.html",
-        "date": "2026-01-07 00:45:37",
-        "sentiment_score": 0.3652666360139847
-    },
-    {
-        "title": "Lamine Yamal vuelve a encender las alarmas antes de la Supercopa",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/16/2025071602150652830.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/lamine-yamal-vuelve-encender-alarmas-antes-supercopa/20260107013732369582.html",
-        "date": "2026-01-07 00:37:32",
-        "sentiment_score": -0.6299204714596272
-    },
-    {
-        "title": "Movilex: economía circular para impulsar el desarrollo local",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/bfb2c4e03ce710b9d25146bfc57cd692/crop/241x131/1807x1175/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/26/17667448372288.jpg",
-        "tags": [
-            "sostenibilidad>"
-        ],
-        "link": "https://www.expansion.com/economia-sostenible/2026/01/07/694e631de5fdea4e5e8b4598.html",
-        "date": "2026-01-07 00:33:39",
-        "sentiment_score": 0.5642692372202873
-    },
-    {
         "title": "El preocupante dato sobre Mbappé para el Real Madrid: así funciona cada vez que pierde a su gran estrella",
         "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/01/06/695d79239f0895-92164982.r_d.1623-909.jpeg",
         "tags": [
@@ -2763,5 +2327,216 @@ export default [
         "link": "https://www.lavanguardia.com/magazine/moda/20260110/11257010/reloj-alma-roquera-creada-eric-singer-bateria-kiss.html",
         "date": "2026-01-10 05:50:00",
         "sentiment_score": 0.21008045971393585
+    },
+    {
+        "title": "De la Constitución a los colectivos, cuatro preguntas que definirán el incierto futuro de Venezuela",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/08b4501e3c9ba92c70b1def39c0376a922c8eedcw.jpg",
+        "tags": [
+            "destacados",
+            "venezuela",
+            "nacionales",
+            "constitución",
+            "colectivos"
+        ],
+        "link": "https://lapatilla.com/2026/01/10/de-la-constitucion-a-los-colectivos-cuatro-preguntas-que-definiran-el-incierto-futuro-de-venezuela/",
+        "date": "2026-01-10 12:29:11",
+        "sentiment_score": -0.8169306199997663
+    },
+    {
+        "title": "Carvajal, sobre su renovación: \"Si los astros se alinean y estamos en la línea de lo que queremos, no habrá ningún problema\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/01/10/6962866d65eff.r_d.926-420-2240.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/carvajal-sobre-renovacion-astros-alinean-linea-queremos-habra-problema-20260110_3284126.html",
+        "date": "2026-01-10 17:15:01",
+        "sentiment_score": 0.09637302160263062
+    },
+    {
+        "title": "Carvajal: \"Tenemos un aprecio mutuo Simeone y yo, defendemos nuestro club a muerte\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260110181328_120.jpg",
+        "tags": [
+            "vídeos"
+        ],
+        "link": "https://www.europapress.es/videos/deportes/video-carvajal-tenemos-aprecio-mutuo-simeone-yo-defendemos-club-muerte-20260110181328.html",
+        "date": "2026-01-10 17:13:28",
+        "sentiment_score": -0.014656513929367065
+    },
+    {
+        "title": "Final de la Supercopa de España: horario y dónde ver el FC Barcelona-Real Madrid",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3631833.jpg",
+        "tags": [
+            "champions league",
+            "copa del rey",
+            "supercopa de españa",
+            "real madrid",
+            "fútbol",
+            "primera división",
+            "fc barcelona",
+            "liga de naciones",
+            "laliga",
+            "europa league",
+            "horario y donde ver"
+        ],
+        "link": "https://www.ultimahora.es/deportes/futbol/2026/01/10/2546803/final-supercopa-espana-horario-donde-ver-barcelona-real-madrid.html",
+        "date": "2026-01-10 17:11:11",
+        "sentiment_score": 0.11138571798801422
+    },
+    {
+        "title": "Carvajal: “Estamos a muerte con Xabi”",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/10/carvajal-estamos-a-muerte-con-xabi/",
+        "date": "2026-01-10 17:03:03",
+        "sentiment_score": -0.21588988602161407
+    },
+    {
+        "title": "Carvajal: “Mañana va a ser un día importante para Vinícius”",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/10/carvajal-manana-va-a-ser-un-dia-importante-para-vinicius/",
+        "date": "2026-01-10 17:00:40",
+        "sentiment_score": 0.7104618214070797
+    },
+    {
+        "title": "VÍDEO: Eric García: \"Perder el último Clásico nos dolió\"",
+        "image_url": "https://www.infobae.com/resizer/v2/AP7L7YTUANBBHIUESJY7SEZKNM.jpg?auth=1999860679c4998245870f9d8e3d09d0a6537004030ecaf31d3d093a2ed871e7&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/10/video-eric-garcia-perder-el-ultimo-clasico-nos-dolio/",
+        "date": "2026-01-10 17:00:20",
+        "sentiment_score": -0.8663087300956249
+    },
+    {
+        "title": "Qué cambia con el nuevo modelo de financiación de Hacienda: así se reparte el aumento de recursos",
+        "image_url": "https://www.infobae.com/resizer/v2/FZ2D5ULUMJGOHDUY42EDXGOFHY.jpg?auth=9dd5d9c0c6d56cc736f91e0b8aa3980b213f789da36a3c2defa6edf5c550f56d&height=1280&smart=true&width=1920",
+        "tags": [
+            "gobierno de españa",
+            "comunidades autónomas",
+            "españa-economia",
+            "españa-noticias",
+            "cataluña",
+            "financiación autonómica",
+            "impuestos",
+            "ministerio de hacienda"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/10/que-cambia-con-el-nuevo-modelo-de-financiacion-de-hacienda-asi-se-reparte-el-aumento-de-recursos/",
+        "date": "2026-01-10 16:57:58",
+        "sentiment_score": 0.2533878907561302
+    },
+    {
+        "title": "El PSOE pide la máxima homologación para las pistas de atletismo",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/01/10/pistas-R2meqkPbR5JSBLNlTO8MeHJ-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "federacion española de atletismo",
+            "partido socialista obrero español (psoe)",
+            "oviedo",
+            "atletismo"
+        ],
+        "link": "https://www.elcomercio.es/oviedo/psoe-pide-maxima-homologacion-pistas-atletismo-20260110175624-nt.html",
+        "date": "2026-01-10 16:56:25",
+        "sentiment_score": -0.40767223946750164
+    },
+    {
+        "title": "Ni Barça ni Real Madrid pueden con el fanatismo religioso en los países árabes: camisetas falsificadas sin los escudos originales",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/10/culemania/culemaniacos/1003742722229_15587616_1706x960.jpg",
+        "tags": [
+            "cule-brón",
+            "arabia saudí",
+            "supercopa de españa",
+            "religión",
+            "barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/cule-bron/20260110/barca-real-madrid-fanatismo-religioso-falsificadas-originales/1003742722226_0.html",
+        "date": "2026-01-10 16:50:48",
+        "sentiment_score": -0.36628610268235207
+    },
+    {
+        "title": "Kompany tilda de \"error de comunicación\" las declaraciones de Lennart Karl sobre jugar en el Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/UGGWV25565GSDMNPGDASVHUSDM.jpg?auth=6fbd0dc58470f2cd0c34086c6d4e607c61d25a6f30a36397ae24934eb306a579&height=1327&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/10/kompany-tilda-de-error-de-comunicacion-las-declaraciones-de-lennart-karl-sobre-jugar-en-el-real-madrid/",
+        "date": "2026-01-10 16:46:09",
+        "sentiment_score": -0.8372359573841095
+    },
+    {
+        "title": "El Racing pone a prueba su liderato ante un Zaragoza agónico",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/09/el-racing-pone-a-prueba-su-liderato-ante-un-zaragoza-agonico/",
+        "date": "2026-01-10 17:17:06",
+        "sentiment_score": -0.6864223815500736
+    },
+    {
+        "title": "Los agricultores mantienen sus protestas y bloqueos en vías contra el acuerdo UE-Mercosur",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/EuropaPress_7203148_varias_personas_cortan_carretera_protesta_enero_2026_pontos_girona-scaled.jpg",
+        "tags": [
+            "nacional",
+            "mercosur"
+        ],
+        "link": "https://www.lanzadigital.com/nacional/los-agricultores-mantienen-sus-protestas-y-bloqueos-en-vias-contra-el-acuerdo-ue-mercosur/",
+        "date": "2026-01-10 17:15:37",
+        "sentiment_score": -0.12350624799728394
+    },
+    {
+        "title": "Deco: \"Cancelo es un grandísimo jugador y nos da soluciones que no teníamos antes\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/09/deco-cancelo-es-un-grandisimo-jugador-y-nos-da-soluciones-que-no-teniamos-antes/",
+        "date": "2026-01-10 17:15:11",
+        "sentiment_score": 0.8736367505043745
+    },
+    {
+        "title": "Choripa, el bar de bocadillos con el mejor pastrami de Barcelona de dos exchefs de restaurantes Michelin",
+        "image_url": "https://s3.elespanol.com/2026/01/08/actualidad/1003744082216_260822630_1706x960.jpg",
+        "tags": [
+            "restaurantes con estilo",
+            "michelín",
+            "cocineros",
+            "restaurantes",
+            "estrellas michelin",
+            "soft",
+            "chorizo"
+        ],
+        "link": "https://www.elespanol.com/cocinillas/restaurantes/20260110/choripa-bar-bocadillos-mejor-pastrami-barcelona-exchefs-restaurantes-michelin/1003744082164_0.html",
+        "date": "2026-01-10 17:10:48",
+        "sentiment_score": 0.4706079363822937
+    },
+    {
+        "title": "La Xunta apoya a Lugo para que acoja la sede de la Agencia Estatal de Salud Pública",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2018/12/11/2018121113091869094.png",
+        "tags": [
+            "lugo"
+        ],
+        "link": "https://www.elprogreso.es/articulo/lugo/xunta-apoya-lugo-que-acoja-sede-agencia-estatal-salud-publica/202601101803401937102.html",
+        "date": "2026-01-10 17:03:40",
+        "sentiment_score": 0.10397352650761604
+    },
+    {
+        "title": "\"Muchas niñas me enviaban fotos pidiéndome que les dijera si estaban gordas\"",
+        "image_url": "https://static1.ara.cat/clip/218924e7-ccf1-4dfa-aaae-245e181d4359_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ninas",
+            "fotos",
+            "gordas",
+            "pidiendome",
+            "estaban",
+            "enviaban",
+            "dijera"
+        ],
+        "link": "https://es.ara.cat/media/ninas-enviaban-fotos-pidiendome-dijera-estaban-gordas_128_5614124.html",
+        "date": "2026-01-10 17:01:55",
+        "sentiment_score": -0.2636393755674362
     }
 ];
