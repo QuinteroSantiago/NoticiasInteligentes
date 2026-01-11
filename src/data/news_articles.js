@@ -2708,5 +2708,234 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260110/mejores-pueblos-mundo-onu-naturaleza-patrimonio-cerca-barcelona/1003742722271_0.html",
         "date": "2026-01-10 21:34:44",
         "sentiment_score": 0.8606509324163198
+    },
+    {
+        "title": "De la Constitución a los colectivos, cuatro preguntas que definirán el incierto futuro de Venezuela",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/08b4501e3c9ba92c70b1def39c0376a922c8eedcw.jpg",
+        "tags": [
+            "destacados",
+            "venezuela",
+            "nacionales",
+            "constitución",
+            "colectivos"
+        ],
+        "link": "https://lapatilla.com/2026/01/10/de-la-constitucion-a-los-colectivos-cuatro-preguntas-que-definiran-el-incierto-futuro-de-venezuela/",
+        "date": "2026-01-10 12:29:11",
+        "sentiment_score": -0.8169304933398962
+    },
+    {
+        "title": "Lo que Donald Trump ha aprendido sobre imponer el poder global",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/donald-trump-eeuu-4.jpg",
+        "tags": [
+            "donald trump",
+            "internacionales",
+            "usa",
+            "actualidad"
+        ],
+        "link": "https://lapatilla.com/2026/01/09/lo-que-donald-trump-ha-aprendido-sobre-imponer-el-poder-global/",
+        "date": "2026-01-09 17:32:58",
+        "sentiment_score": -0.35971325635910034
+    },
+    {
+        "title": "Mejorar la gobernanza",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bdaacc06-d597-4ee2-8e74-7f8c895e38cc_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "público",
+            "canarias",
+            "cultura",
+            "controles"
+        ],
+        "link": "https://www.eldia.es/opinion/2026/01/11/mejorar-gobernanza-125564215.html",
+        "date": "2026-01-11 02:11:31",
+        "sentiment_score": 0.2360868901014328
+    },
+    {
+        "title": "Los futbolistas africanos que pueden deslumbrar en el Mundial 2026",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/01/10/futbolistas-africanos-destacados-mundial-2026-orix/",
+        "date": "2026-01-11 02:03:49",
+        "sentiment_score": 0.5352395698428154
+    },
+    {
+        "title": "Lamine Yamal apunta a la titularidad en la gran final de la Supercopa",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/22/2025112220022723599.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/lamine-yamal-chispa-que-regresa/20260111020853370095.html",
+        "date": "2026-01-11 01:08:53",
+        "sentiment_score": 0.7806583177298307
+    },
+    {
+        "title": "Real Madrid vs. Barcelona: a qué hora y por dónde ver la Supercopa de España",
+        "image_url": "https://pxcdn.2001online.com/2001/012026/1768088104131/9f95debe-1b7e-47ba-923d-1dc48e51c29a_16-9-discover-aspect-ratio_default_0.jpg?ch=675&cw=1200",
+        "tags": [
+            "real madrid",
+            "españa",
+            "real madrid vs barcelona",
+            "meridiano tv",
+            "supercopa de españa",
+            "fc barcelona",
+            "el clásico",
+            "meridiano"
+        ],
+        "link": "https://2001online.com/deportes/real-madrid-vs-barcelona-a-que-hora-y-por-donde-ver-la-supercopa-de-espana-20261102200",
+        "date": "2026-01-11 01:08:48",
+        "sentiment_score": 0.2258971482515335
+    },
+    {
+        "title": "Si yo fuera Xabi Alonso apostaría por Gonzalo García",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/04/2026010418254551208.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/fuera-xabi-alonso-apostaria-gonzalo-garcia/20260111015404370094.html",
+        "date": "2026-01-11 00:54:04",
+        "sentiment_score": -0.24506235122680664
+    },
+    {
+        "title": "El tic cultureta",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20260111/tic-cultureta_372978.html",
+        "date": "2026-01-11 00:30:00",
+        "sentiment_score": -0.43444667756557465
+    },
+    {
+        "title": "Real Madrid entrena con Mbappé, pero sin Rüdiger, Mendy y Arnold",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/01/Entrenamiento-Real-Madrid-696x392-1.jpg",
+        "tags": [
+            "real madrid",
+            "10ene",
+            "deportes",
+            "mbappé"
+        ],
+        "link": "https://laverdaddemonagas.com/2026/01/10/real-madrid-entrena-con-mbappe/",
+        "date": "2026-01-11 00:19:12",
+        "sentiment_score": -0.058740586042404175
+    },
+    {
+        "title": "La Supercopa de España enfrenta dos estilos antagónicos: el proyecto nacional del Barça contra la cartera del Real Madrid",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/10/culemania/primer-equipo/1003742722279_15588324_1706x960.jpg",
+        "tags": [
+            "real madrid",
+            "supercopa de españa",
+            "primer equipo",
+            "barça",
+            "la masía"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260111/supercopa-espana-enfrenta-antagonicos-barca-real-madrid/1003742722278_0.html",
+        "date": "2026-01-11 00:01:04",
+        "sentiment_score": -0.247406005859375
+    },
+    {
+        "title": "Guía del partido Barça-Madrid de hoy: horario, dónde verlo y alineaciones",
+        "image_url": "https://static1.ara.cat/clip/364caf2b-6073-4568-9ee0-4616c4b9cff1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "guia",
+            "barca",
+            "verlo",
+            "alineaciones",
+            "partido",
+            "horario",
+            "madrid",
+            "hoy"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/guia-partido-barca-madrid-hoy-horario-verlo-alineaciones_1_5614677.html",
+        "date": "2026-01-11 00:00:27",
+        "sentiment_score": 0.1734601967036724
+    },
+    {
+        "title": "El técnico Luis Zubeldía atraviesa \"con éxito\" una angioplastia con colocación de stent",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/11/el-tecnico-luis-zubeldia-atraviesa-con-exito-una-angioplastia-con-colocacion-de-stent/",
+        "date": "2026-01-11 01:33:01",
+        "sentiment_score": 0.5141953825950623
+    },
+    {
+        "title": "Richard y Arnaud, los nuevos autónomos de la era de Ayuso en un Madrid que bate récords: \"Tiene pocas desventajas\"",
+        "image_url": "https://s3.elespanol.com/2026/01/09/madrid/1003744084496_260850942_1706x960.jpg",
+        "tags": [
+            "madrid comunidad",
+            "comunidad de madrid",
+            "autónomos"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20260111/richard-arnaud-nuevos-autonomos-ayuso-madrid-bate-records-pocas-desventajas-dl/1003744083568_0.html",
+        "date": "2026-01-11 01:29:30",
+        "sentiment_score": 0.2979198843240738
+    },
+    {
+        "title": "Los agricultores catalanes elevan el pulso y mantienen varios cortes: \"Si Mercosur sale adelante, mucha gente puede verse obligada a cerrar\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/c8960417ed23b19cba2bd8b74e5ced05/crop/2x0/998x997/f/image/jpeg/assets/multimedia/imagenes/2023/12/28/17037819584998.jpg",
+        "tags": [
+            "economía",
+            "artículos cristina rubio",
+            "mercosur"
+        ],
+        "link": "https://www.elmundo.es/economia/macroeconomia/2026/01/11/69629390e85ece7f158b4572.html",
+        "date": "2026-01-11 01:15:08",
+        "sentiment_score": -0.2606174349784851
+    },
+    {
+        "title": "Anna Cejudo, fundadora de Founderz: \"La IA no te va a quitar el trabajo, el problema es cuando se quiere usar para no trabajar o no pensar\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/4b0ab66c35091c52a9f988ef54ff6c02/crop/702x111/2640x2048/f/image/jpeg/assets/multimedia/imagenes/2024/12/15/17342882060591.jpg",
+        "tags": [
+            "artículos marcos iriarte"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2026/01/11/695fd82d21efa0df6d8b4599.html",
+        "date": "2026-01-11 01:15:07",
+        "sentiment_score": -0.8207934703677893
+    },
+    {
+        "title": "Cuidar a quienes cuidan a un ser querido que ha intentado quitarse la vida, una tarea urgente y pendiente en la prevención del suicidio: \"Los familiares suelen encontrarse solos y sobrepasados\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/4ef6b6a9e552d8ee4a95a7814bad47c0/crop/271x85/995x810/f/image/jpeg/assets/multimedia/imagenes/2022/05/26/16535920018495.jpg",
+        "tags": [
+            "artículos yaiza perera"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/2026/01/11/696259c8e9cf4a5d2b8b45af.html",
+        "date": "2026-01-11 01:02:42",
+        "sentiment_score": -0.051578864455223083
+    },
+    {
+        "title": "¿Quién está detrás del grupo neonazi Núcleo Nacional, que quiere abrir una sede en Barcelona? (catalán)",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/15/media_thumb-link-4134329.webp?1768035126=",
+        "tags": [
+            "grupo neonazi",
+            "núcleo nacional",
+            "politica",
+            "sede en barcelona"
+        ],
+        "link": "https://www.meneame.net/story/quien-esta-detras-grupo-neonazi-nucleo-nacional-quiere-abrir",
+        "date": "2026-01-11 00:35:03",
+        "sentiment_score": -0.3277157321572304
+    },
+    {
+        "title": "El técnico Luis Zubeldía se someterá a un procedimiento cardiovascular este sábado",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/09/el-tecnico-luis-zubeldia-se-sometera-a-un-procedimiento-cardiovascular-este-sabado/",
+        "date": "2026-01-11 00:03:28",
+        "sentiment_score": -0.035798363387584686
+    },
+    {
+        "title": "Las noticias políticas del 9Ene en Venezuela",
+        "image_url": "https://static.wixstatic.com/media/335561_4fe9cbab080c42bda335bbbe7f3e8c08~mv2.jpg/v1/fit/w_1000,h_791,al_c,q_80/file.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.informe21.com/post/las-noticias-pol%C3%ADticas-del-9ene-en-venezuela-1",
+        "date": "2026-01-09 19:03:42",
+        "sentiment_score": -0.11648284643888474
     }
 ];
