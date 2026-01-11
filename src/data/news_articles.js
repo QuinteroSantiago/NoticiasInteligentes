@@ -1,251 +1,5 @@
 export default [
     {
-        "title": "EE.UU. incauta petrolero con bandera rusa vinculado a Venezuela",
-        "image_url": "https://static.wixstatic.com/media/335561_02d841435c5a46adb150bea58975a754~mv2.png/v1/fit/w_861,h_368,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/ee-uu-incauta-petrolero-con-bandera-rusa-vinculado-a-venezuela",
-        "date": "2026-01-07 15:18:54",
-        "sentiment_score": -0.9351853625848889
-    },
-    {
-        "title": "Derbi para subir el ánimo en Arabia",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260107181525_120.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-derbi-subir-animo-arabia-20260107181525.html",
-        "date": "2026-01-07 17:15:25",
-        "sentiment_score": -0.13695424795150757
-    },
-    {
-        "title": "El Fútbol Club Barcelona visitará El Sardinero la semana que viene",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2025/11/17/D786439C-1EBA-4B69-9A7A-58D896DCF64E/campos-sport-sardinero_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "cantabria",
-            "ondacero",
-            "noticias",
-            "emisoras"
-        ],
-        "link": "https://www.ondacero.es/emisoras/cantabria/noticias/futbol-club-barcelona-visitara-sardinero-semana-que-viene_20260107695e9476ea66eb73532925d9.html",
-        "date": "2026-01-07 17:14:30",
-        "sentiment_score": 0.5540554821491241
-    },
-    {
-        "title": "Xabi Alonso: \"Este derbi será otra historia, estoy convencido de que el equipo va a dar otra cara\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260107181426_690.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-xabi-alonso-derbi-sera-otra-historia-estoy-convencido-equipo-va-dar-otra-cara-20260107181426.html",
-        "date": "2026-01-07 17:14:26",
-        "sentiment_score": 0.637869194149971
-    },
-    {
-        "title": "Escombreras acelera su transformación hacia el 'Valle Verde'",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cf4059c0-fdd8-4698-aeda-1e314c0c9f5f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "emisiones",
-            "residuos",
-            "economía circular",
-            "repsol"
-        ],
-        "link": "https://www.laopiniondemurcia.es/comunidad/2026/01/07/escombreras-acelera-transformacion-valle-verde-125458011.html",
-        "date": "2026-01-07 17:14:10",
-        "sentiment_score": 0.06014825403690338
-    },
-    {
-        "title": "La marea verde espera que el Racing Club Ferrol suba el listón en la segunda vuelta: «Hai equipo para estar máis arriba»",
-        "image_url": "https://cflvdg.avoz.es/sc/5yveM-PxMVrOGh1sekiJkqyBiTw=/768x/2026/01/07/00121767805502514577424/Foto/f_20251214_194728001.jpg",
-        "tags": [
-            "primera rfef",
-            "opa racing",
-            "racing de ferrol"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/oparacing/2026/01/07/marea-verde-espera-racing-club-ferrol-suba-liston-segunda-vueltahai-equipo-estar-mais-arriba/00031767805450723962772.htm",
-        "date": "2026-01-07 17:14:00",
-        "sentiment_score": -0.6629470884799957
-    },
-    {
-        "title": "Liderazgo joven, visión global y éxito empresarial, Yasmine Skali, referente del healthcare en 2025",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7796969",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5725751/liderazgo-joven-vision-global-exito-empresarial-yasmine-skali-referente-healthcare-2025",
-        "date": "2026-01-07 17:09:42",
-        "sentiment_score": 0.7396978754550219
-    },
-    {
-        "title": "Jude Bellingham: \"Estamos a muerte con Xabi Alonso\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/07/695e9160ce551.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/jude-bellingham-muerte-xabi-alonso-20260107_3282134.html",
-        "date": "2026-01-07 17:05:58",
-        "sentiment_score": 0.04639539122581482
-    },
-    {
-        "title": "Simeone: \"Como entrenador no cierro ninguna puerta\"",
-        "image_url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/78527749001/f4ea5d3e-21ff-4941-b62d-32779ceba270/main/224x126/18s90ms/match/image.jpg?pubId=85707284001",
-        "tags": [
-            "ninguna",
-            "entrenador",
-            "como",
-            "cierro",
-            "simeone",
-            "puerta"
-        ],
-        "link": "https://www.elcomercio.es/deportes/simeone-entrenador-cierro-ninguna-puerta-20260107165525-vi.html",
-        "date": "2026-01-07 17:05:20",
-        "sentiment_score": -0.32075121253728867
-    },
-    {
-        "title": "VÍDEO: Koke Resurrección: \"Nos vamos a dejar la vida por ganar este título\"",
-        "image_url": "https://www.infobae.com/resizer/v2/HDP2MHXZBVFOLM6WSQSM543M5Y.jpg?auth=07d3935ecc7120786b3dfe05590fd1c4c124f4b7a85cde7f5a3fa112cdd6f1bd&height=1348&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/07/video-koke-resurreccion-nos-vamos-a-dejar-la-vida-por-ganar-este-titulo/",
-        "date": "2026-01-07 17:00:52",
-        "sentiment_score": 0.46614784747362137
-    },
-    {
-        "title": "La fotografía decimonónica de Charles Clifford retrata a una España fijada en sales de plata",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/22/letraglobal/artes/1003742718561_15544178_1706x960.jpg",
-        "tags": [
-            "artes",
-            "exposiciones",
-            "fotografía"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/letraglobal/artes/20260107/fotografia-decimononica-charles-clifford-retrata-espana-fijada/1003742718560_0.html",
-        "date": "2026-01-07 17:00:00",
-        "sentiment_score": 0.5477113202214241
-    },
-    {
-        "title": "17:00H | 07 ENE 2026 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-07-ene-2026-tarde-20260107_3282138.html",
-        "date": "2026-01-07 17:10:00",
-        "sentiment_score": -0.10147508978843689
-    },
-    {
-        "title": "La acusada de matar a su novio en Sant Adrià con 118 navajazos haciéndole creer que era un juego sexual acepta 20 años de cárcel",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/03/27/archivo-fachada-del-palacio-de-justicia-de-catalunya-sede-del-tsjc-y-de-la-audiencia-de-barcelona.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/acusada-matar-su-novio-sant-adria-con-118-navajazos-haciendole-creer-que-era-un-juego-sexual-acepta-20-anos-carcel_6918284_0.html",
-        "date": "2026-01-07 17:04:02",
-        "sentiment_score": -0.9250002782791853
-    },
-    {
-        "title": "La acusada de matar a su novio en 2023 en Sant Adrià (Barcelona) de 118 navajazos acepta 20 años de cárcel",
-        "image_url": "https://www.infobae.com/resizer/v2/OQUQDQP3SJHQRDBNAH6GERMXSY.jpg?auth=d2cdbc0cca38eecabcb91da1f021d01fda67b0ea22e5379dadafa67d10e1cfb7&height=1280&smart=true&width=1920",
-        "tags": [
-            "barcelona",
-            "libertad vigilada",
-            "fiscalía provincial de barcelona",
-            "sant adrià de besòs",
-            "crimen",
-            "ministerio público",
-            "europa press",
-            "asesinato",
-            "violencia de pareja",
-            "europapress",
-            "prisión"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/07/la-acusada-de-matar-a-su-novio-en-2023-en-sant-adria-barcelona-de-118-navajazos-acepta-20-anos-de-carcel/",
-        "date": "2026-01-07 17:04:02",
-        "sentiment_score": -0.6887130234390497
-    },
-    {
-        "title": "Muere un hombre sinhogar en plena ola de frío, el segundo en 24 horas",
-        "image_url": "https://static1.ara.cat/clip/1cdb2fbe-dd0c-41ef-8880-8d1ffbc372c3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "muere",
-            "frio",
-            "horas",
-            "plena",
-            "segundo",
-            "sinhogar",
-            "hombre",
-            "24",
-            "ola"
-        ],
-        "link": "https://es.ara.cat/sociedad/emergencia-social/muere-hombre-sinhogar-plena-ola-frio-segundo-24-horas_130_5611359.html",
-        "date": "2026-01-07 17:02:55",
-        "sentiment_score": -0.8733298974111676
-    },
-    {
-        "title": "La madre de Athina, la niña desaparecida en Sants, denunció al padre de la menor por violencia y amenazas",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/07/el-pulso-de-la-ciudad/1003742721440_15578126_1706x960.jpg",
-        "tags": [
-            "infancia",
-            "guardia urbana",
-            "mossos d'esquadra",
-            "sant antoni",
-            "el pulso de la ciudad",
-            "desaparecidos barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260107/madre-athina-nina-desaparecida-sants-denuncio-padre-menor-violencia-amenazas/1003742721432_0.html",
-        "date": "2026-01-07 17:02:26",
-        "sentiment_score": -0.9123673625290394
-    },
-    {
-        "title": "Louzán traslada su apoyo al CTA por su \"entrega y compromiso\" antes de la Supercopa de España",
-        "image_url": "https://www.infobae.com/resizer/v2/ECRGSNOO45A27OUCSFRWPQB2VQ.jpg?auth=3afebfb7762b1f1178a97a8debbe9d22ee0e246256c3e9bf8544d199278796ee&height=1080&smart=true&width=1920",
-        "tags": [
-            "arbitraje",
-            "supercopa de españa",
-            "athletic club",
-            "rafael louzán",
-            "fc barcelona",
-            "díaz de mera escuderos",
-            "comité técnico de árbitros",
-            "europapress",
-            "real federación española de fútbol",
-            "yeda",
-            "arabia saudí"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/07/louzan-traslada-su-apoyo-al-cta-por-su-entrega-y-compromiso-antes-de-la-supercopa-de-espana/",
-        "date": "2026-01-07 17:02:06",
-        "sentiment_score": 0.7944087982177734
-    },
-    {
-        "title": "Patricia Pardo explota contra ‘La casa de los gemelos’: «¡Miseria humana!»",
-        "image_url": "https://okdiario.com/img/2025/01/13/patricia-pardo-en-vamos-a-ver-informa-del-estado-de-salud-de-la-hija-de-anabel-pantoja.-1.jpg",
-        "tags": [
-            "mediaset",
-            "telecinco",
-            "televisión, cine y series",
-            "youtube"
-        ],
-        "link": "https://okdiario.com/trailer/patricia-pardo-explota-contra-casa-gemelos-miseria-humana-16035146",
-        "date": "2026-01-07 17:00:06",
-        "sentiment_score": -0.6704400759190321
-    },
-    {
-        "title": "La cadena de supermercados ‘low cost’ Normal suma y sigue en España: abre su primera tienda en esta comunidad",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/08/archivo-gente-comprando-supermercado-20250813103603-1000x665.jpg",
-        "tags": [
-            "supermercados",
-            "castilla y león",
-            "empresas"
-        ],
-        "link": "https://www.economiadigital.es/empresas/normal-primera-tienda-comunidad.html",
-        "date": "2026-01-07 17:00:00",
-        "sentiment_score": 0.5272984132170677
-    },
-    {
         "title": "El Athletic considera que será \"difícil\" el encuentro de Copa contra la Cultural Leonesa",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
         "tags": [
@@ -2937,5 +2691,162 @@ export default [
         "link": "https://www.informe21.com/post/las-noticias-pol%C3%ADticas-del-9ene-en-venezuela-1",
         "date": "2026-01-09 19:03:42",
         "sentiment_score": -0.11648284643888474
+    },
+    {
+        "title": "El Leganés invierte en afición: Butarque a todo confort",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/01/02/6957b88855ded.jpeg",
+        "tags": [
+            "ud almería"
+        ],
+        "link": "https://www.lavozdealmeria.com/ud-almeria/425691/leganes-invierte-aficion-butarque-confort.html",
+        "date": "2026-01-11 06:15:03",
+        "sentiment_score": 0.12760136276483536
+    },
+    {
+        "title": "Las cinco provincias de Castilla-La Mancha estarán en riesgo de heladas este domingo en las primera horas",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/EuropaPress_5679065_nieve_coche_10_enero_2024_jaca_huesca_aragon_espana_dana_llegado_aragon-scaled.jpg",
+        "tags": [
+            "riesgo",
+            "castilla-la mancha",
+            "nieve"
+        ],
+        "link": "https://www.lanzadigital.com/castilla-la-mancha/las-cinco-provincias-de-castilla-la-mancha-estaran-en-riesgo-de-heladas-este-domingo-en-las-primera-horas/",
+        "date": "2026-01-11 06:04:00",
+        "sentiment_score": -0.09860202670097351
+    },
+    {
+        "title": "El tren del Guadiato",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5f4028f0-9b50-4a60-949c-1b1ac34d2dbe_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "extremadura",
+            "córdoba",
+            "madrid",
+            "cuenca",
+            "más extremadura"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/01/11/tren-guadiato-125557350.html",
+        "date": "2026-01-11 06:02:32",
+        "sentiment_score": -0.11603827774524689
+    },
+    {
+        "title": "La prestación universal de 200 euros por hijo reduciría un 9% la pobreza infantil en Extremadura",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c1fb9421-e255-46ed-8fb7-a03264066bdf_16-9-aspect-ratio_default_1426310.jpg",
+        "tags": [
+            "pobreza",
+            "extremadura",
+            "niños",
+            "comunidades autónomas",
+            "unicef"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/01/11/prestacion-universal-200-euros-hijo-reduciria-9-pobreza-infantil-extremadura-125565974.html",
+        "date": "2026-01-11 06:01:53",
+        "sentiment_score": -0.3315980136394501
+    },
+    {
+        "title": "Stranger Things y un señor en batín",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5c04fa27-94b8-413b-b449-025ccc81de27_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "stranger things",
+            "películas",
+            "serie",
+            "series",
+            "libros"
+        ],
+        "link": "https://www.laopiniondemalaga.es/opinion/2026/01/11/stranger-things-senor-batin-125553380.html",
+        "date": "2026-01-11 06:01:04",
+        "sentiment_score": -0.02652612328529358
+    },
+    {
+        "title": "La ejemplar historia de Fernando \"el de Bercianos\", una persona dedicada a sus pueblos y vecinos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/240acd3e-5fba-4ac9-b60c-c10e33075314_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cofradía,incendio,corazón,la raya,aliste la raya,fernando gonzález rodríguez,semana santa de bercianos de aliste,incendio puercas"
+        ],
+        "link": "https://www.laopiniondezamora.es/comarcas/2026/01/11/ejemplar-historia-fernando-bercianos-persona-125555576.html",
+        "date": "2026-01-11 06:01:04",
+        "sentiment_score": -0.04199323058128357
+    },
+    {
+        "title": "Guía para entender el reparto del dinero entre las autonomías",
+        "image_url": "https://static.grupojoly.com/clip/6aec13c7-92f9-4f17-9f5b-c796f78b3f70_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "guia",
+            "dinero",
+            "reparto",
+            "entender",
+            "autonomias"
+        ],
+        "link": "https://www.malagahoy.es/andalucia/guia-entender-reparto-dinero-autonomias_0_2005619123.html",
+        "date": "2026-01-11 05:59:07",
+        "sentiment_score": 0.002707652747631073
+    },
+    {
+        "title": "Delhy Tejero y el Reina Sofía: una presencia que se consolida en la colección nacional",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b6281190-18dd-4080-8cb9-fd55195e7aea_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "delhy tejero,obras,arte,tomás del bien,museo reina sofía"
+        ],
+        "link": "https://www.laopiniondezamora.es/opinion/2026/01/11/delhy-tejero-reina-sofia-presencia-125560022.html",
+        "date": "2026-01-11 06:01:08",
+        "sentiment_score": 0.49081533402204514
+    },
+    {
+        "title": "Venezolanos maduros",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2b717d1f-0b76-46b3-b237-83c905aa81eb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "venezuela,guerra,epidemia"
+        ],
+        "link": "https://www.laopiniondezamora.es/opinion/2026/01/11/venezolanos-maduros-125559923.html",
+        "date": "2026-01-11 06:01:07",
+        "sentiment_score": -0.932424345985055
+    },
+    {
+        "title": "Sevilla celebra los 150 años de Aníbal González, el arquitecto que reinventó su imagen",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2026/01/11/anibal-gonzalez-apertura_xoptimizadax_20260109192305-R9XjQ2JaQZzgkejHZnXSdQP-750x1600@diario_abc.jpg",
+        "tags": [
+            "parque de maría luisa",
+            "sevilla",
+            "arquitectura",
+            "monumentos",
+            "historia"
+        ],
+        "link": "https://www.abc.es/sevilla/ciudad/sevilla-celebra-150-anos-anibal-gonzalez-20260111070102-nts.html",
+        "date": "2026-01-11 06:01:02",
+        "sentiment_score": 0.04066359996795654
+    },
+    {
+        "title": "La UB cierra un año de récord en la creación de spin-offs con seis nuevas spin-offs y 28 millones de financiación",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/49758180-6ce7-49fc-b0ac-24d9fe1c550b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "innovación",
+            "universitat de barcelona (ub)"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260111/ub-cierra-ano-record-creacion-125554164",
+        "date": "2026-01-11 06:00:36",
+        "sentiment_score": 0.4356496296823025
+    },
+    {
+        "title": "Dos años de lluvia en la media histórica de Barcelona consolidan los ejes verdes y prometen una primavera esplendorosa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6dfa6608-66cc-4454-92a3-c2d72c74d446_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "'superilles' en barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/eixample/20260111/anos-lluvia-media-historica-barcelona-125531821",
+        "date": "2026-01-11 06:00:36",
+        "sentiment_score": -0.20180033147335052
+    },
+    {
+        "title": "María Jesús Montero sirve café para todos, solo sin azúcar para Junqueras",
+        "image_url": "https://static.grupojoly.com/clip/3a570b8b-bfee-4ef9-8be3-c639ba4a16fc_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sirve",
+            "jesus",
+            "montero",
+            "cafe",
+            "maria"
+        ],
+        "link": "https://www.europasur.es/andalucia/maria-jesus-montero-sirve-cafe_0_2005619132.html",
+        "date": "2026-01-11 06:00:17",
+        "sentiment_score": -0.18777000159025192
     }
 ];
