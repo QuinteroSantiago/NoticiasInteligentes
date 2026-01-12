@@ -2776,5 +2776,186 @@ export default [
         "link": "https://www.expansion.com/inmobiliario/mercado/2026/01/11/6963f16d468aeb7b1b8b4594.html",
         "date": "2026-01-11 22:05:17",
         "sentiment_score": 0.4743749685585499
+    },
+    {
+        "title": "El AVE se transparenta",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "transparenta",
+            "ave"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/ave-transparenta_0_2005623528.html",
+        "date": "2026-01-12 02:06:25",
+        "sentiment_score": -0.20031267404556274
+    },
+    {
+        "title": "Xabi se hace pequeño ante el Barcelona y sigue sin encontrar la tecla",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2669024.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/xabi-se-hace-pequeno-ante-el-barcelona-y-sigue-sin-encontrar-la-tecla.html",
+        "date": "2026-01-12 01:00:48",
+        "sentiment_score": 0.5459749028086662
+    },
+    {
+        "title": "El recorrido de el 'Guía del Guardia Civil' y el 'Guía del Carabinero'",
+        "image_url": "https://static.grupojoly.com/clip/4bcffa99-5ce1-4690-a18c-1dfe012fe123_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/algeciras/recorrido-guia-guardia-civil-carabinero_0_2005604069.html",
+        "date": "2026-01-12 00:45:49",
+        "sentiment_score": 0.07615157961845398
+    },
+    {
+        "title": "El Barcelona, otra campeón de la Supercopa contra el Real Madrid, en El Tertulión",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/12/696441ddad14e.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-11-20260112_3284311.html",
+        "date": "2026-01-12 00:40:49",
+        "sentiment_score": 0.06109631061553955
+    },
+    {
+        "title": "Tras su derrota en la Supercopa, el Real Madrid denuncia la falta de derechos humanos en Arabia Saudí",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "ocio",
+            "supercopa",
+            "real madrid",
+            "arabia",
+            "barça"
+        ],
+        "link": "https://www.meneame.net/story/tras-derrota-supercopa-real-madrid-denuncia-falta-derechos-saudi",
+        "date": "2026-01-12 00:30:02",
+        "sentiment_score": -0.9017703412100673
+    },
+    {
+        "title": "Endrick debuta con el Lyon, marca gol y da el pase a su equipo a los octavos de la Copa de Francia",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/12/69643a1b91f17.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/endrick-debuta-lyon-marca-gol-da-pase-equipo-octavos-copa-francia-20260112_3284319.html",
+        "date": "2026-01-12 00:03:10",
+        "sentiment_score": -0.08769094944000244
+    },
+    {
+        "title": "La controvertida actitud de Mbappé tras el título de Barcelona en la Supercopa de España: así impidió el pasillo del Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/7I2WMB4JYRCL5IWI3E4ETSEBLQ.gif?auth=84a0d93204d192ddcf1c1709dd58d0e5663e66971e8baa5d40ca1c9f20726a67&height=1080&smart=true&width=1920",
+        "tags": [
+            "barcelona",
+            "supercopa de españa",
+            "real madrid",
+            "kylian mbappé",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/11/la-controvertida-actitud-de-mbappe-tras-el-titulo-de-barcelona-en-la-supercopa-de-espana-asi-impidio-el-pasillo-del-real-madrid/",
+        "date": "2026-01-11 23:46:04",
+        "sentiment_score": -0.8346727509051561
+    },
+    {
+        "title": "De Cuenca a la Luna literaria",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/12/BNE-kkN-U240793026872up-1200x840@RC.jpg",
+        "tags": [
+            "luna",
+            "novela",
+            "biblioteca nacional de españa",
+            "ciencia"
+        ],
+        "link": "https://www.leonoticias.com/culturas/libros/cuenca-luna-literaria-20260112003550-ntrc.html",
+        "date": "2026-01-11 23:35:52",
+        "sentiment_score": 0.08609706908464432
+    },
+    {
+        "title": "España rompe la barrera de los 50.000 puntos de recarga impulsando la alta potencia",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/11/aedive-infraestructura-electrica-RSuAiw4zWFePWzJEx5c88UK-1200x840@diario_abc.jpg",
+        "tags": [
+            "motor",
+            "coches eléctricos"
+        ],
+        "link": "https://www.leonoticias.com/motor/motoreco/espana-rompe-barrera-50000-puntos-recarga-impulsando-20260111074500-ntrc.html",
+        "date": "2026-01-11 23:33:11",
+        "sentiment_score": 0.6311044786125422
+    },
+    {
+        "title": "La escritora que se hizo con el Pulitzer al enfrentarse a sus fantasmas familiares",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/12/tessa-hulls-kUjD-U2408083612415wD-1200x840@RC.jpg",
+        "tags": [
+            "mao zedong",
+            "novela",
+            "salud mental",
+            "china",
+            "estados unidos"
+        ],
+        "link": "https://www.leonoticias.com/culturas/libros/escritora-hizo-pulitzer-enfrentarse-fantasmas-familiares-20260112003309-ntrc.html",
+        "date": "2026-01-11 23:33:10",
+        "sentiment_score": -0.400445606559515
+    },
+    {
+        "title": "Johan Mojica, jugador de la selección Colombia, tuvo tenso cruce con hinchas del Mallorca en España: “No me grites que no eres mi papá”",
+        "image_url": "https://www.infobae.com/resizer/v2/QZZX6IQL5BC25JVKNTODL34XPQ.png?auth=a4c9e363483ffe5dc18be96f21ec1ed0e280707562313f4eb0e3938e2487b766&height=720&smart=true&width=1280",
+        "tags": [
+            "fútbol colombiano",
+            "mallorca",
+            "johan mojica",
+            "colombia-deportes",
+            "fútbol español",
+            "copa del mundo 2026",
+            "selección colombia",
+            "mundial 2026 colombia"
+        ],
+        "link": "https://www.infobae.com/colombia/2026/01/12/johan-mojica-jugador-de-la-seleccion-colombia-tuvo-tenso-cruce-con-hinchas-del-mallorca-en-espana-no-me-grites-que-no-eres-mi-papa/",
+        "date": "2026-01-12 01:53:49",
+        "sentiment_score": -0.546076625585556
+    },
+    {
+        "title": "Raúl Ruidíaz sorprendió con nueva renovación de contrato en Atlético Grau: ¿Hasta cuándo la ‘Pulga’ se quedará en Piura?",
+        "image_url": "https://www.infobae.com/resizer/v2/BQDAATKEJ5DVJGOCE6KNBERVOA.png?auth=2a137a5f724f2fe417bce00be510e91e8022cac676f325fa8f8c912f42405bcc&height=1080&smart=true&width=1920",
+        "tags": [
+            "atlético grau",
+            "raúl ruidíaz",
+            "peru-deportes",
+            "liga 1"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/01/12/raul-ruidiaz-sorprendio-con-nueva-renovacion-de-contrato-en-atletico-grau-hasta-cuando-la-pulga-se-quedara-en-piura/",
+        "date": "2026-01-12 01:48:19",
+        "sentiment_score": 0.1292516440153122
+    },
+    {
+        "title": "​Selección de Glorias deportivas de Monagas se prepara rumbo al Nacional 2026",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/01/glorias1.jpg",
+        "tags": [
+            "11ene",
+            "deportes",
+            "deportivas"
+        ],
+        "link": "https://laverdaddemonagas.com/2026/01/11/seleccion-de-glorias-deportivas/",
+        "date": "2026-01-12 01:35:34",
+        "sentiment_score": 0.6011252179741859
+    },
+    {
+        "title": "Decathlon sólo comprará algunas tiendas de Intersport: las más rentables y estratégicas están en Canarias",
+        "image_url": "https://s3.elespanol.com/2024/12/17/sociedad/consumo/909419364_251745183_1706x960.jpg",
+        "tags": [
+            "distribución",
+            "decathlon"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20260112/decathlon-solo-comprara-tiendas-intersport-rentables-estrategicas-canarias/1003744083674_0.html",
+        "date": "2026-01-12 00:55:21",
+        "sentiment_score": 0.5452931560575962
+    },
+    {
+        "title": "La música no obedece",
+        "image_url": "https://s3.abcstatics.com/lavozdigital/www/multimedia/sociedad/2026/01/08/pueblo-abraham-mateo-kpKD--170x119@abc.jpg",
+        "tags": [
+            "obedece",
+            "musica"
+        ],
+        "link": "https://www.elcomercio.es/opinion/jose-maria-caso-musica-obedece-20260112002011-nt.html",
+        "date": "2026-01-11 23:56:26",
+        "sentiment_score": 0.15593913197517395
     }
 ];
