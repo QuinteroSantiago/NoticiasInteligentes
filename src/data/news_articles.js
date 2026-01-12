@@ -1,243 +1,5 @@
 export default [
     {
-        "title": "Obispos y gobierno en España acuerdan plan para compensar a víctimas de abuso sexual",
-        "image_url": "https://i.headtopics.com/images/2026/1/8/latimes/obispos-y-gobierno-en-espana-acuerdan-plan-para-co-obispos-y-gobierno-en-espana-acuerdan-plan-para-co-FA18C1EE9D6D0E5DF72A7A57D80570DC.webp",
-        "tags": [
-            "united states news"
-        ],
-        "link": "https://headtopics.com/news/obispos-y-gobierno-en-espana-acuerdan-plan-para-compensar-a-78124459",
-        "date": "2026-01-08 17:15:28",
-        "sentiment_score": -0.6460267566144466
-    },
-    {
-        "title": "Ayuso estrecha lazos con Milei en su reunión institucional y aplaude sus \"buenas relaciones\": \"Por la libertad\"",
-        "image_url": "https://www.elplural.com/uploads/s1/24/17/27/0/europapress-7204618-presidenta-comunidad-madrid-isabel-diaz-ayuso-sido-recibida-hoy-casa-rosada-1_7_480x270.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.elplural.com/politica/internacional/ayuso-estrecha-lazos-milei-reunion-institucional-aplaude-buenas-relaciones-libertad_378200102",
-        "date": "2026-01-08 17:09:40",
-        "sentiment_score": 0.03560405969619751
-    },
-    {
-        "title": "Xavi Pascual pide clemencia para su predecesor en el banquillo del Barça (después de darle un repaso épico)",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/08/culemania/secciones/1003742721789_15582404_1706x960.jpg",
-        "tags": [
-            "joan peñarroya",
-            "fcb basket",
-            "secciones",
-            "xavi pascual"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260108/xavi-pascual-clemencia-predecesor-banquillo-barca-despues/1003742721739_0.html",
-        "date": "2026-01-08 17:08:47",
-        "sentiment_score": -0.7820804379880428
-    },
-    {
-        "title": "Arturo Ruiz no cree que la Real deba acudir al mercado para cubrir marcha de Edna",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a361da02-f343-41d6-8324-9a8959a3585c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "deba",
-            "real",
-            "arturo",
-            "cree",
-            "ruiz"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/femenino/2026/01/08/arturo-ruiz-cree-real-deba-10552965.html",
-        "date": "2026-01-08 17:07:40",
-        "sentiment_score": 0.6266495734453201
-    },
-    {
-        "title": "Unos de los baluartes silenciosos del Madrid busca relanzar su carrera en la Supercopa",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/08/2026010818030148225.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/baluartes-silenciosos-madrid-busca-relanzar-carrera-supercopa/20260108180409369831.html",
-        "date": "2026-01-08 17:04:09",
-        "sentiment_score": 0.1896008551120758
-    },
-    {
-        "title": "Rincón de la Victoria concede el Boquerón de Plata 2026 a los jugadores de baloncesto Alfonso y Felipe Reyes",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260108180239_260.jpg",
-        "tags": [
-            "andalucía",
-            "málaga"
-        ],
-        "link": "https://www.europapress.es/andalucia/malaga-00356/noticia-rincon-victoria-concede-boqueron-plata-2026-jugadores-baloncesto-alfonso-felipe-reyes-20260108180239.html",
-        "date": "2026-01-08 17:02:39",
-        "sentiment_score": 0.44704756140708923
-    },
-    {
-        "title": "El congoleño Bakambu, novedad en la puesta a punto del Betis para la visita al Oviedo",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/08/el-congoleno-bakambu-novedad-en-la-puesta-a-punto-del-betis-para-la-visita-al-oviedo/",
-        "date": "2026-01-08 17:01:44",
-        "sentiment_score": 0.5335168279707432
-    },
-    {
-        "title": "La sorprendente historia de la Supercopa de España y su curioso origen vinculado a Eva Perón",
-        "image_url": "https://static.eldiario.es/clip/d4e2f80f-065d-4f3a-95ec-008788bf9ded_16-9-discover-aspect-ratio_default_1133886.jpg",
-        "tags": [
-            "eva",
-            "peron",
-            "supercopa",
-            "origen",
-            "sorprendente",
-            "vinculado",
-            "espana",
-            "pm",
-            "curioso",
-            "historia"
-        ],
-        "link": "https://www.eldiario.es/spin/deportes/sorprendente-historia-supercopa-espana-curioso-origen-vinculado-eva-peron-pm_1_12893881.html",
-        "date": "2026-01-08 17:00:20",
-        "sentiment_score": -0.08825966715812683
-    },
-    {
-        "title": "Supercopa de España ya tendría fecha para 2027",
-        "image_url": "https://pxcdn.meridiano.net/012026/1767890609899.jpg?ch=180&cw=320",
-        "tags": [
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/supercopa-de-espana-ya-tendria-fecha-para-2027-2026187360",
-        "date": "2026-01-08 17:00:00",
-        "sentiment_score": 0.14605045691132545
-    },
-    {
-        "title": "¡Atención compradores! Los coches usados están más caros que nunca: 17.808 euros de media",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/01/08/695fc1ab3f02c7-66331627.r_d.535-340.png",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.20minutos.es/motor/actualidad/atencion-compradores-coches-usados-ya-superan-17800-euros-media-espana_6918705_0.html",
-        "date": "2026-01-08 17:00:00",
-        "sentiment_score": 0.684608512558043
-    },
-    {
-        "title": "Junqueras anuncia 4.700 millones más para Cataluña tras un acuerdo con el Gobierno",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/01/08/2026010817492831379.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/espana/junqueras-anuncia-4700-millones-mas-cataluna-acuerdo-gobierno/20260108181645439076.html",
-        "date": "2026-01-08 17:16:45",
-        "sentiment_score": 0.5558024533092976
-    },
-    {
-        "title": "La intervención en el Monasterio de Sijena (Huesca), seleccionada para el Premio Mies van der Rohe",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260108181552_260.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-intervencion-monasterio-sijena-huesca-seleccionada-premio-mies-van-der-rohe-20260108181552.html",
-        "date": "2026-01-08 17:15:52",
-        "sentiment_score": 0.07886692881584167
-    },
-    {
-        "title": "Uno de los grandes de la Premier League tienta a una de las estrellas del Barça",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/20/2025102020584921910.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/uno-grandes-premier-league-tienta-estrellas-barca/20260108181521369832.html",
-        "date": "2026-01-08 17:15:21",
-        "sentiment_score": 0.33866767957806587
-    },
-    {
-        "title": "Barcelona abre la nueva línea de subvención de 150.000 euros para fomentar el uso del catalán",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/52ded412-ba64-446a-ac6d-d1fa57dd9e5a_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ayuntamiento de barcelona",
-            "barcelona",
-            "catalán"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20260108/barcelona-abre-nueva-linea-subvencion-catalan-125495350",
-        "date": "2026-01-08 17:12:40",
-        "sentiment_score": 0.6071018241345882
-    },
-    {
-        "title": "La vida en Venezuela tras la detención de Maduro y el pulso de Trump con China",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-        "tags": [
-            "claves del día"
-        ],
-        "link": "https://www.lavanguardia.com/videos/claves-del-dia/20260108/11422309/claves-dia-vida-venezuela-detencion-maduro-pulso-trump-china.html",
-        "date": "2026-01-08 17:12:04",
-        "sentiment_score": 0.5766715286299586
-    },
-    {
-        "title": "La curva de la felicidad siempre había tenido forma de U... pero la Generación Z la ha convertido en una línea recta desde los 20 años",
-        "image_url": "https://es.gizmodo.com/app/uploads/2025/09/Diseno-sin-titulo-5-1024x683.jpg",
-        "tags": [
-            "ciencia"
-        ],
-        "link": "https://es.gizmodo.com/curva-de-la-felicidad-siempre-habia-tenido-forma-de-u-pero-la-generacion-z-la-ha-convertido-en-una-linea-recta-desde-los-20-anos-2000189364",
-        "date": "2026-01-08 17:11:53",
-        "sentiment_score": -0.7935291342437267
-    },
-    {
-        "title": "Billetes de tren desde 7 euros: cómo conseguirlos hoy para viajar desde Alicante con Renfe y Ouigo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/adb7d7a2-4e26-4928-a2b4-acea74412800_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "renfe",
-            "ave",
-            "finanzas",
-            "tarifa",
-            "cnmc"
-        ],
-        "link": "https://www.informacion.es/finanzas-personales/2026/01/08/billetes-renfe-descuento-tren-ouigo-dv-125493389.html",
-        "date": "2026-01-08 17:11:18",
-        "sentiment_score": 0.28837613202631474
-    },
-    {
-        "title": "Habla el hermano de Sergio, el hombre que murió haciendo un reto en directo: \"Para mí fue Simón Pérez quien le indujo a todo esto\"",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/01/08/674BEE59-4A50-4AF3-9818-7D9F65B750BA/habla-hermano-sergio-hombre-que-murio-haciendo-reto-directo-fue-simon-perez-quien-indujo_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "y ahora sonsoles",
-            "antena3",
-            "programas"
-        ],
-        "link": "https://www.antena3.com/programas/y-ahora-sonsoles/habla-hermano-sergio-hombre-que-murio-haciendo-reto-directo-fue-simon-perez-quien-indujo-todo-esto_20260108695fe4eaaf09df50109efa6c.html",
-        "date": "2026-01-08 17:10:02",
-        "sentiment_score": -0.8998289220035076
-    },
-    {
-        "title": "Badia del Vallès abrirá una residencia de estudiantes en un nuevo distrito universitario: \"Dejamos de ser una ciudad dormitorio\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/08/gran-barcelona/1003742721776_15582198_1706x960.jpg",
-        "tags": [
-            "universidades de barcelona",
-            "gran barcelona",
-            "educación",
-            "obras"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260108/badia-valles-abrira-residencia-estudiantes-nuevo-distrito-universitario-dejamos-ciudad-dormitorio/1003742721769_0.html",
-        "date": "2026-01-08 17:09:55",
-        "sentiment_score": 0.10816346108913422
-    },
-    {
-        "title": "Un entrenador de baloncesto se expone a 43 años de cárcel por agresiones sexuales a tres jugadoras menores",
-        "image_url": "https://static1.ara.cat/clip/23d092b2-b237-4aa6-9011-63eb8ae742bf_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "expone",
-            "agresiones",
-            "menores",
-            "sexuales",
-            "entrenador",
-            "43",
-            "carcel",
-            "tres",
-            "jugadoras",
-            "anos",
-            "baloncesto"
-        ],
-        "link": "https://es.ara.cat/sociedad/justicia/entrenador-baloncesto-expone-43-anos-carcel-agresiones-sexuales-tres-jugadoras-menores_1_5612250.html",
-        "date": "2026-01-08 17:06:33",
-        "sentiment_score": -0.7993503995239735
-    },
-    {
         "title": "Rodrygo: \"Para llegar a una final hay que sufrir\"",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
         "tags": [
@@ -2957,5 +2719,126 @@ export default [
         "link": "https://www.elcomercio.es/opinion/jose-maria-caso-musica-obedece-20260112002011-nt.html",
         "date": "2026-01-11 23:56:26",
         "sentiment_score": 0.15593913197517395
+    },
+    {
+        "title": "Manolo Lama analiza cómo deja al Real Madrid la derrota en la Supercopa: \"Xabi Alonso puede salir contento, pero no entiendo que el equipo lo esté cuando pierde\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2026/01/11/69642768571a5.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/manolo-lama-analiza-deja-real-madrid-derrota-supercopa-xabi-alonso-salir-contento-entiendo-equipo-pierde-20260112_3284315.html",
+        "date": "2026-01-12 06:29:36",
+        "sentiment_score": 0.0012220442295074463
+    },
+    {
+        "title": "Xabi pierde, compite, sobrevive",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8d3df242-7135-4788-aaac-1fe19e04bd6b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "florentino pérez",
+            "real madrid",
+            "supercopa de españa",
+            "xabi alonso"
+        ],
+        "link": "https://www.lne.es/deportes/2026/01/12/xabi-alonso-florentino-perez-real-madrid-fc-barcelona-supercopa-125589693.html",
+        "date": "2026-01-12 06:24:22",
+        "sentiment_score": -0.32825957238674164
+    },
+    {
+        "title": "06:00H | 12 ENE 2026 | Herrera en COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "herrera en cope"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/06-00h-12-ene-2026-herrera-cope-20260112_3284339.html",
+        "date": "2026-01-12 06:06:00",
+        "sentiment_score": -0.09106296300888062
+    },
+    {
+        "title": "Xabi Alonso resiste contra viento y marea y salva su puesto in extremis",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/09/14/2025091413320438484.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/xabi-alonso-resiste-viento-marea-salva-puesto-in-extremis/20260112070429370230.html",
+        "date": "2026-01-12 06:04:29",
+        "sentiment_score": -0.5800922773778439
+    },
+    {
+        "title": "'Váyase, señor Feijóo, váyase': diez motivos democráticos para hacerlo",
+        "image_url": "https://www.elplural.com/uploads/s1/21/07/58/4/europapress-7126424-presidente-partido-popular-alberto-nunez-feijoo-portavoz-pp-congreso-ester-1_7_480x270.jpeg",
+        "tags": [
+            "análisis"
+        ],
+        "link": "https://www.elplural.com/opinion/analisis/vayase-senor-feijoo-vayase-diez-motivos-democraticos-hacerlo_378377102",
+        "date": "2026-01-12 06:01:39",
+        "sentiment_score": -0.14587131142616272
+    },
+    {
+        "title": "Tractoradas, año Gaudí y el juicio a los Pujol",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/12/vida/1003742722437_15590106_1706x960.jpg",
+        "tags": [
+            "agricultura",
+            "cataluña",
+            "primeras planas"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260112/tractoradas-ano-gaudi-juicio-pujol/1003742722436_0.html",
+        "date": "2026-01-12 06:39:52",
+        "sentiment_score": -0.9042985513806343
+    },
+    {
+        "title": "El vuelco de un camión corta la AP-7 en Benicàssim (Castellón) hacia Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7f2f004c-df51-49e3-ac80-0c3d60d96d5f_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tráfico",
+            "sucesos"
+        ],
+        "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260112/camion-corta-ap-7-benicassim-accidente-125590646",
+        "date": "2026-01-12 06:39:35",
+        "sentiment_score": -0.714200971648097
+    },
+    {
+        "title": "Siete miradas al potencial de la literatura",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9df08043-fe94-4681-adfb-ea36e520404c_16-9-aspect-ratio_default_0_x1930y1046.jpg",
+        "tags": [
+            "miradas",
+            "potencial",
+            "literatura",
+            "siete"
+        ],
+        "link": "https://www.noticiasdenavarra.com/cultura/2026/01/12/siete-miradas-potencial-literatura-10561186.html",
+        "date": "2026-01-12 06:36:00",
+        "sentiment_score": 0.22493484616279602
+    },
+    {
+        "title": "Lo que debes saber hoy, 12 de enero, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/08/13/informacion-municipal/1003742681413_15011381_1706x960.jpg",
+        "tags": [
+            "renfe barcelona",
+            "tráfico",
+            "transports metropolitans barcelona tmb",
+            "metro barcelona",
+            "clima",
+            "tiempo",
+            "movilidad",
+            "aemet (agencia estatal de meteorología)",
+            "rodalies",
+            "autobús"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260112/debes-saber-hoy-enero-barcelona/1003742722435_0.html",
+        "date": "2026-01-12 06:32:09",
+        "sentiment_score": -0.6629386879503727
+    },
+    {
+        "title": "Feijóo redobla su presencia en Cataluña para llegar a la Moncloa inspirado por las mayorías de Aznar y Rajoy",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cca3ea65-6a08-4a10-861b-a28f8f4d36d9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "elecciones generales",
+            "congreso",
+            "alberto núñez feijóo",
+            "elecciones municipales"
+        ],
+        "link": "https://www.lne.es/espana/2026/01/12/feijoo-redobla-presencia-cataluna-llegar-125589735.html",
+        "date": "2026-01-12 06:28:39",
+        "sentiment_score": 0.03663697838783264
     }
 ];
