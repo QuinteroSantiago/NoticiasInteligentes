@@ -1,124 +1,5 @@
 export default [
     {
-        "title": "La Casa Blanca reescribe la historia del asalto al Capitolio y culpa a la policía por el ataque en su quinto aniversario",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/12/media_thumb-link-4133547.webp?1767821286=",
-        "tags": [
-            "policía",
-            "eeuu",
-            "capitolio",
-            "casa blanca"
-        ],
-        "link": "https://www.meneame.net/story/casa-blanca-reescribe-historia-asalto-capitolio-culpa-policia",
-        "date": "2026-01-08 06:35:02",
-        "sentiment_score": -0.6632244698703289
-    },
-    {
-        "title": "«Hurgar» o «urgar»: cuál es la forma correcta según la RAE",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/hurgar-urgar-rae.jpg",
-        "tags": [
-            "curiosidades",
-            "lom",
-            "palabras",
-            "escritura",
-            "rae (real academia española)",
-            "ortografía"
-        ],
-        "link": "https://theobjective.com/curiosidades/2026-01-08/hurgar-urgar-forma-correcta-rae/",
-        "date": "2026-01-08 06:30:00",
-        "sentiment_score": -0.30189725011587143
-    },
-    {
-        "title": "Infantilismo político: el antimodelo Ayuso",
-        "image_url": "https://www.elplural.com/uploads/s1/24/16/09/5/isabel-diaz-ayuso-diciembre-2025_7_480x270.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elplural.com/autonomias/madrid/infantilismo-politico-antimodelo-ayuso_378082102",
-        "date": "2026-01-08 06:28:31",
-        "sentiment_score": -0.18671976029872894
-    },
-    {
-        "title": "Jesús Garrido: “No vamos a parar de trabajar en favor del deporte en Segovia”",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2026/01/26-1.jpg",
-        "tags": [
-            "deportes",
-            "polideportivo",
-            "portada imagen vertical"
-        ],
-        "link": "https://eladelantado.com/jesus-garrido-no-vamos-a-parar-de-trabajar-en-favor-del-deporte-en-segovia/",
-        "date": "2026-01-08 06:11:44",
-        "sentiment_score": 0.5791390612721443
-    },
-    {
-        "title": "Xabi Alonso, un superviviente en la búsqueda de un oro saudí que cambie su destino",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d5aa6c10-e8d7-42b3-add1-955c40ad0d96_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "atlético de madrid",
-            "atlético",
-            "real madrid",
-            "fútbol",
-            "supercopa de españa",
-            "xabi alonso"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2026/01/08/xabi-alonso-superviviente-supercopa-real-madrid-atletico-125468476.html",
-        "date": "2026-01-08 06:06:19",
-        "sentiment_score": -0.11045597493648529
-    },
-    {
-        "title": "Innovar estructuras internacionales",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "internacionales",
-            "estructuras",
-            "innovar"
-        ],
-        "link": "https://www.deia.eus/opinion/2026/01/08/innovar-estructuras-internacionales-10549801.html",
-        "date": "2026-01-08 06:00:19",
-        "sentiment_score": -0.34964005649089813
-    },
-    {
-        "title": "El Gobierno y la Iglesia cierran un acuerdo para reparar económicamente a las víctimas de pederastia",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/da43d8b6-8345-4a2b-8790-5fe4468cbb59_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pederastia",
-            "papa",
-            "gobierno",
-            "león xiv",
-            "iglesia"
-        ],
-        "link": "https://www.laopiniondemalaga.es/nacional/2026/01/08/gobierno-iglesia-cierran-acuerdo-reparar-125469125.html",
-        "date": "2026-01-08 06:35:34",
-        "sentiment_score": -0.7467190567404032
-    },
-    {
-        "title": "El Gobierno y la Iglesia cierran un acuerdo para reparar económicamente a las víctimas de pederastia",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/da43d8b6-8345-4a2b-8790-5fe4468cbb59_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "iglesia",
-            "gobierno",
-            "pederastia",
-            "papa",
-            "león xiv"
-        ],
-        "link": "https://www.informacion.es/nacional/2026/01/08/gobierno-iglesia-cierran-acuerdo-reparar-125469104.html",
-        "date": "2026-01-08 06:35:31",
-        "sentiment_score": -0.5124130919575691
-    },
-    {
-        "title": "El Gobierno y la Iglesia cierran un acuerdo para reparar económicamente a las víctimas de pederastia",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/da43d8b6-8345-4a2b-8790-5fe4468cbb59_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gobierno",
-            "pederastia",
-            "iglesia",
-            "papa",
-            "león xiv"
-        ],
-        "link": "https://www.elcorreogallego.es/espana/2026/01/08/gobierno-iglesia-cierran-acuerdo-reparar-125469116.html",
-        "date": "2026-01-08 06:35:31",
-        "sentiment_score": -0.5174775496125221
-    },
-    {
         "title": "Obispos y gobierno en España acuerdan plan para compensar a víctimas de abuso sexual",
         "image_url": "https://i.headtopics.com/images/2026/1/8/latimes/obispos-y-gobierno-en-espana-acuerdan-plan-para-co-obispos-y-gobierno-en-espana-acuerdan-plan-para-co-FA18C1EE9D6D0E5DF72A7A57D80570DC.webp",
         "tags": [
@@ -2765,5 +2646,135 @@ export default [
         "link": "https://www.elespanol.com/bluper/20260111/delicious-martha-foodie-influencer-millones-seguidores-debuta-jurado-masterchef/1003744085407_0.html",
         "date": "2026-01-11 16:36:43",
         "sentiment_score": 0.28891579806804657
+    },
+    {
+        "title": "Hechos alternativos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1ea3da5c-d218-4aa0-b5ca-e5cc312db85b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "erc",
+            "gobierno",
+            "financiación",
+            "relatos",
+            "déficit",
+            "fuerzas armadas",
+            "política"
+        ],
+        "link": "https://www.laprovincia.es/opinion/2026/01/11/hechos-alternativos-125586152.html",
+        "date": "2026-01-11 22:19:05",
+        "sentiment_score": -0.23627513647079468
+    },
+    {
+        "title": "Xabi Alonso: «Es la competición menos importante»",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/11/xabi-alonso-supercopa-kbbF-U240809490057acG-1200x840@RC.jpg",
+        "tags": [
+            "xabi alonso",
+            "real madrid",
+            "f.c. barcelona"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/xabi-alonso-competicion-importante-20260111230533-ntrc.html",
+        "date": "2026-01-11 22:16:27",
+        "sentiment_score": -0.8887386228889227
+    },
+    {
+        "title": "Xabi Alonso lamenta el cansancio: \"Algunos jugadores están haciendo un gran esfuerzo y eso se nota\"",
+        "image_url": "https://www.infobae.com/resizer/v2/XGQD2QMLKJCLRB2ABI5PAD32WM.jpg?auth=a87ba0d63d099745ced53e0ac1d24245a867921af3b82e5633ad01e34c7efc7a&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/11/xabi-alonso-lamenta-el-cansancio-algunos-jugadores-estan-haciendo-un-gran-esfuerzo-y-eso-se-nota/",
+        "date": "2026-01-11 22:15:16",
+        "sentiment_score": 0.733755573630333
+    },
+    {
+        "title": "En el nombre del padre y del hijo: Jesucristo García",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/11/culemania/primer-equipo/1003742722411_15589743_1706x960.jpg",
+        "tags": [
+            "supercopa de españa",
+            "joan garcía",
+            "el clásico",
+            "hablemos del barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/hablemos-del-barca/20260111/nombre-padre-hijo-jesucristo-garcia/1003742722405_12.html",
+        "date": "2026-01-11 22:11:24",
+        "sentiment_score": 0.39274855703115463
+    },
+    {
+        "title": "¡FC Barcelona supercampeón de España! Raphinha sentencia al Real Madrid",
+        "image_url": "https://pxcdn.2001online.com/2001/012026/1768171800633/f.elconfidencial.com_original_2f0_8cf_863_2f08cf863e06ffba61eaff84c4ab291d.jpg?ch=675&cw=1200",
+        "tags": [
+            "hansi flick",
+            "vinicius jr",
+            "raphinha",
+            "el clásico",
+            "real madrid",
+            "supercopa de españa",
+            "xabi alonso",
+            "fc barcelona",
+            "españa",
+            "fede valverde"
+        ],
+        "link": "https://2001online.com/deportes/fc-barcelona-supercampeon-de-espana-raphinha-sentencia-al-real-madrid-202611118550",
+        "date": "2026-01-11 22:09:22",
+        "sentiment_score": 0.02984517812728882
+    },
+    {
+        "title": "Xabi Alonso: \"Hemos estado cerca; el equipo ha tenido un gran compromiso\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/11/69641cf1591d8.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/xabi-alonso-hemos-cerca-equipo-tenido-gran-compromiso-20260111_3284304.html",
+        "date": "2026-01-11 22:08:03",
+        "sentiment_score": 0.04144287109375
+    },
+    {
+        "title": "21:00 | 11 ENE 2026 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/21-00-11-ene-2026-juego-20260111_3284307.html",
+        "date": "2026-01-11 22:07:28",
+        "sentiment_score": 0.021929539740085602
+    },
+    {
+        "title": "Las finales se ganan",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/11/culemania/primer-equipo/1003742722383_15589345_1706x960.jpg",
+        "tags": [
+            "juanito blaugrana",
+            "un culé en la castellana",
+            "supercopa de españa",
+            "real madrid",
+            "el clásico",
+            "barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/juanito-blaugrana/20260111/finales-ganan/1003742722397_0.html",
+        "date": "2026-01-11 22:05:31",
+        "sentiment_score": 0.43579094111919403
+    },
+    {
+        "title": "¿POR QUÉ ESPAÑA LLEGA AL 2026 CON UNA GRAN INESTABILIDAD POLÍTICA?",
+        "image_url": "https://meridadigital.com.ve/wp-content/uploads/2026/01/Toma_de_posesion_de_Alvaro_Garcia_como_fiscal_general_02-150x150.jpg",
+        "tags": [
+            "destacadas",
+            "mundo"
+        ],
+        "link": "https://meridadigital.com.ve/por-que-espana-llega-al-2026-con-una-gran-inestabilidad-politica",
+        "date": "2026-01-11 22:05:57",
+        "sentiment_score": -0.23801276832818985
+    },
+    {
+        "title": "El precio de la vivienda subirá al menos un 7% y el del alquiler un 7,5%",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/db330ee6b22990ff4ee2f191536056dc/crop/44x50/1958x1326/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/11/17681564220886.jpg",
+        "tags": [
+            "mercado inmobiliario>",
+            "inmobiliario>",
+            "artículos diego s. adelantado>",
+            "artículos pablo cerezal>",
+            "artículos beatriz amigot>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2026/01/11/6963f16d468aeb7b1b8b4594.html",
+        "date": "2026-01-11 22:05:17",
+        "sentiment_score": 0.4743749685585499
     }
 ];
