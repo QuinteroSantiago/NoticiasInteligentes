@@ -1,155 +1,5 @@
 export default [
     {
-        "title": "El Atlético de Madrid carga contra Vinícius tras el derbi: \"Es un clásico...\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/09/image-58115311-2844-420e-a8a4-c9cba205828e-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "spanish supercopa 2025-2026"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/supercopa-de-espana/2025-2026/tuit-atletico-de-madrid-contra-vinicius-polemica-cholo-simeone_sto23257370/story.shtml",
-        "date": "2026-01-09 17:11:11",
-        "sentiment_score": -0.847114160656929
-    },
-    {
-        "title": "Edmundo González habla por teléfono con Pedro Sánchez y reclama la liberación de todos los presos políticos",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260109181023_690.jpg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.europapress.es/nacional/noticia-edmundo-gonzalez-habla-telefono-pedro-sanchez-reclama-liberacion-todos-presos-politicos-20260109181023.html",
-        "date": "2026-01-09 17:10:23",
-        "sentiment_score": -0.08818631619215012
-    },
-    {
-        "title": "Hacienda destaca el peso de la población ajustada y los fondos de compensación del nuevo modelo para Extremadura",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2013de28-cf30-4bfc-9574-ba8445ac451f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "solidaridad",
-            "gobierno",
-            "extremadura",
-            "población",
-            "financiación",
-            "peso",
-            "hacienda"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/01/09/hacienda-poblacion-compensacion-financiacion-autonomica-extremadura-125532574.html",
-        "date": "2026-01-09 17:03:03",
-        "sentiment_score": 0.28447578102350235
-    },
-    {
-        "title": "Xabi Alonso recibe un fichaje estrella para el Real Madrid antes de la final contra el Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/09/culemania/real-madrid/1003742722083_15585871_1706x960.jpg",
-        "tags": [
-            "kylian mbappé",
-            "real madrid",
-            "xabi alonso"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260109/xabi-alonso-fichaje-estrella-real-madrid-barca/1003742722080_0.html",
-        "date": "2026-01-09 17:02:09",
-        "sentiment_score": 0.18267768621444702
-    },
-    {
-        "title": "El presidente del Consejo General de Gestores Administrativos dice que \"los autónomos están al límite\"",
-        "image_url": "https://images.ecestaticos.com/vH4eJq3U-EnLbcfQih_Nq50zDeo=/0x0:1200x799/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3e5%2F2e4%2F217%2F3e52e4217fc50a12c497520f01f5a194.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elconfidencial.com/economia/2026-01-09/autonomos-inseguridad-fiscalidad-gestores-economia-1hms_4281216/",
-        "date": "2026-01-09 17:02:00",
-        "sentiment_score": -0.9026970323175192
-    },
-    {
-        "title": "El Ministerio de Defensa distingue al alcalde de Sedaví por su papel tras la Dana",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/01/09/2026010918013949883.jpg",
-        "tags": [
-            "defensa"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/defensa/ministerio-defensa-distingue-alcalde-sedavi-papel-dana/20260109180157997156.html",
-        "date": "2026-01-09 17:01:57",
-        "sentiment_score": 0.5595503747463226
-    },
-    {
-        "title": "González Urrutia pide ser reconocido como presidente de Venezuela y exige la liberación de todos los presos políticos",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/01/13/67856507759ea.r_d.1825-1217.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.eldebate.com/internacional/20260109/gonzalez-urrutia-pide-reconocido-como-presidente-venezuela-exige-liberacion-todos-presos-politicos_372926.html",
-        "date": "2026-01-09 17:00:09",
-        "sentiment_score": -0.21883895993232727
-    },
-    {
-        "title": "El Athletic, ante el reto de mantener la buena dinámica",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9e8b7b84-3187-4830-8702-555193d0818b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "buena",
-            "reto",
-            "dinamica",
-            "athletic",
-            "mantener"
-        ],
-        "link": "https://www.deia.eus/athletic-femenino/2026/01/09/athletic-reto-mantener-buena-dinamica-10556804.html",
-        "date": "2026-01-09 16:55:01",
-        "sentiment_score": 0.5094636231660843
-    },
-    {
-        "title": "Feijóo rectifica sobre los mensajes con Mazón el día de la DANA y Ramón Espinar sabe muy bien sacar LA conclusión",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/09/ramon-espinar-habla-de-la-rectificacion-de-feijoo-en-directo-al-grano-de-tve.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/feijoo-rectifica-sobre-mensajes-mazon-dia-dana-ramon-espinar-sacar-conclusionbr-f202601.html",
-        "date": "2026-01-09 16:50:12",
-        "sentiment_score": -0.8411209508776665
-    },
-    {
-        "title": "Explosión en Carabanchel: un muerto y nueve heridos en un edificio en obras",
-        "image_url": "https://static.grupojoly.com/clip/749dd3c2-d04e-4f48-ad0e-bfa71b3040e7_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "muerto",
-            "heridos",
-            "carabanchel",
-            "explosion",
-            "nueve"
-        ],
-        "link": "https://www.granadahoy.com/sociedad/explosion-carabanchel-muerto-nueve-heridos_0_2005606760.html",
-        "date": "2026-01-09 17:12:16",
-        "sentiment_score": -0.48975049145519733
-    },
-    {
-        "title": "Madrid, Barcelona y Canarias, destinos previstos para el viaje del Papa León XIV a España",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/05/09/el-papa-leon-xiv-oficia-este-viernes-su-primera-misa-en-la-capilla-sixtina-ante-los-133-cardenales.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/actualidad/2026/01/09/madrid-barcelona-y-canarias-destinos-previstos-para-el-viaje-del-papa-leon-xiv-a-espana-1884495-daa.html",
-        "date": "2026-01-09 17:09:48",
-        "sentiment_score": -0.1871680933982134
-    },
-    {
-        "title": "17:00H | 09 ENE 2026 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-09-ene-2026-tarde-20260109_3283928.html",
-        "date": "2026-01-09 17:09:00",
-        "sentiment_score": -0.30989310145378113
-    },
-    {
-        "title": "Lo que Donald Trump ha aprendido sobre imponer el poder global",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/donald-trump-eeuu-4.jpg",
-        "tags": [
-            "donald trump",
-            "internacionales",
-            "usa",
-            "actualidad"
-        ],
-        "link": "https://lapatilla.com/2026/01/09/lo-que-donald-trump-ha-aprendido-sobre-imponer-el-poder-global/",
-        "date": "2026-01-09 17:32:58",
-        "sentiment_score": -0.35971499979496
-    },
-    {
         "title": "1-2. Real Sociedad gana a Getafe en el 96 del partido que abre 19a jornada en España",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
         "tags": [
@@ -1314,19 +1164,6 @@ export default [
         "link": "https://lapatilla.com/2026/01/10/de-la-constitucion-a-los-colectivos-cuatro-preguntas-que-definiran-el-incierto-futuro-de-venezuela/",
         "date": "2026-01-10 12:29:11",
         "sentiment_score": -0.8169304933398962
-    },
-    {
-        "title": "Lo que Donald Trump ha aprendido sobre imponer el poder global",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/donald-trump-eeuu-4.jpg",
-        "tags": [
-            "donald trump",
-            "internacionales",
-            "usa",
-            "actualidad"
-        ],
-        "link": "https://lapatilla.com/2026/01/09/lo-que-donald-trump-ha-aprendido-sobre-imponer-el-poder-global/",
-        "date": "2026-01-09 17:32:58",
-        "sentiment_score": -0.35971325635910034
     },
     {
         "title": "Mejorar la gobernanza",
@@ -2877,5 +2714,110 @@ export default [
         "link": "https://www.eldia.es/deportes/ud-tenerife/2026/01/13/gramaglia-encontrando-125621527.html",
         "date": "2026-01-13 00:01:17",
         "sentiment_score": 0.8484381809830666
+    },
+    {
+        "title": "“Ha sido un placer jugar para ti”: Mbappé rompe el silencio tras la fulminante destitución de Xabi Alonso",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/07/17/2024071717122216308.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/deportes/ha-sido-placer-jugar-ti-mbappe-rompe-silencio-fulminante-destitucion-xabi-alonso/20260113074200997552.html",
+        "date": "2026-01-13 06:42:00",
+        "sentiment_score": -0.2814413011074066
+    },
+    {
+        "title": "Las tres noticias de Carlos Alsina para empezar el día: \"Se acabó la aventura de Xabi Alonso en el Madrid\"",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/05/09/6DE83B54-8831-4632-AA7C-6CB358183EDA/tres-historias-empezar-dia-carlos-alsina_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "españa",
+            "noticias",
+            "ondacero"
+        ],
+        "link": "https://www.ondacero.es/noticias/espana/tres-noticias-carlos-alsina-empezar-dia-acabo-aventura-xabi-alonso-madrid_202601136965e872be7ae37724c1510f.html",
+        "date": "2026-01-13 06:38:42",
+        "sentiment_score": 0.1872502937912941
+    },
+    {
+        "title": "Irán, otro elemento más que hace temblar el panorama internacional: \"Trump parece haber dejado atrás el discurso pacifista\"",
+        "image_url": "https://www.elplural.com/uploads/s1/24/19/21/5/protestas-en-tehran_7_480x270.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.elplural.com/politica/internacional/iran-elemento-mas-hace-temblar-panorama-internacional-trump-parece-haber-dejado-atras-discurso-pacifista_378430102",
+        "date": "2026-01-13 06:20:26",
+        "sentiment_score": -0.1966920644044876
+    },
+    {
+        "title": "Mbappé le dio la puntilla a un Xabi que no habló con Florentino en el avión y cerró la puerta a Pintus",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/93bdab27-75ff-4a92-911c-b31ecca1fd28_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol",
+            "florentino pérez",
+            "kylian mbappé",
+            "xabi alonso"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2026/01/13/mbappe-le-dio-puntilla-xabi-florentino-perez-125624501.html",
+        "date": "2026-01-13 06:14:54",
+        "sentiment_score": -0.16030332446098328
+    },
+    {
+        "title": "Cuál es el precio de la gasolina este 13 de enero en Madrid, Barcelona y otras ciudades",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "precio gasolina",
+            "españa-economia",
+            "gasolina"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/13/cual-es-el-precio-de-la-gasolina-este-13-de-enero-en-madrid-barcelona-y-otras-ciudades/",
+        "date": "2026-01-13 06:30:51",
+        "sentiment_score": -0.022126439958810806
+    },
+    {
+        "title": "Adelantarse a la leucemia infantil",
+        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/uploads/2026/01/12/6965686d84db6.jpeg",
+        "tags": [
+            "innovadores"
+        ],
+        "link": "https://www.diariodecastillayleon.es/innovadores/260113/104110/adelantarse-leucemia-infantil.html",
+        "date": "2026-01-13 06:30:00",
+        "sentiment_score": 0.3412782624363899
+    },
+    {
+        "title": "Lo que debes saber hoy, 13 de enero, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2019/08/02/vivir-en-barcelona/418468150_10002223_1706x960.jpg",
+        "tags": [
+            "movilidad",
+            "aemet (agencia estatal de meteorología)",
+            "metro barcelona",
+            "tráfico",
+            "clima",
+            "tiempo",
+            "transports metropolitans barcelona tmb",
+            "renfe barcelona",
+            "autobús",
+            "rodalies"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260113/debes-saber-hoy-enero-barcelona/1003742722753_0.html",
+        "date": "2026-01-13 06:28:20",
+        "sentiment_score": 0.04548099637031555
+    },
+    {
+        "title": "¿Qué significa subrayar tu nombre en la firma? Descubre lo que dice la psicología sobre este gesto",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/significa-subrayar-nombre-firma.jpg",
+        "tags": [
+            "documentos",
+            "firmas",
+            "expertos",
+            "estado de ánimo",
+            "lom",
+            "identidad",
+            "curiosidades",
+            "psicología",
+            "inseguridad"
+        ],
+        "link": "https://theobjective.com/curiosidades/2026-01-13/significa-subrayar-nombre-firma-descubre-psicologia-gesto/",
+        "date": "2026-01-13 06:15:00",
+        "sentiment_score": -0.3139119893312454
     }
 ];
