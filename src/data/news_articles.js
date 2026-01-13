@@ -2656,5 +2656,226 @@ export default [
         "link": "https://espanol.eurosport.com/futbol/copa-del-rey/2025-2026/steve-mcmanaman-defiende-a-xabi-alonso-tras-su-salida-no-aguanta-las-tonterias-de-los-de-arriba_sto23258403/story.shtml",
         "date": "2026-01-12 21:08:07",
         "sentiment_score": -0.24180562794208527
+    },
+    {
+        "title": "El PSG se quema en su propio derbi y dice adiós a la Copa",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/14/2025071401034962671.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/psg-quema-propio-derbi-dice-adios-copa/20260113032054370361.html",
+        "date": "2026-01-13 02:20:54",
+        "sentiment_score": -0.7378553189337254
+    },
+    {
+        "title": "La sociedad civil se activa para impulsar la Andalucía «del futuro»",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/01/12/298DADD1-3510-4A85-99C9-04DFB1EBE778/juanma-moreno-impulsores-andalucia-27_69.jpg?crop=2992%2C1683%2Cx0%2Cy0&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "andalucía",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/andalucia/sociedad-civil-activa-impulsar-andalucia-futuro_202601136965ab6f5b0f0226995fa658.html",
+        "date": "2026-01-13 02:18:23",
+        "sentiment_score": 0.5321747977286577
+    },
+    {
+        "title": "El Real Madrid y su alergia crónica a la derrota",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/08/2026010818030148225.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/real-madrid-alergia-cronica-derrota/20260113030143370360.html",
+        "date": "2026-01-13 02:01:43",
+        "sentiment_score": -0.4589805044233799
+    },
+    {
+        "title": "En busca del 'efecto Zidane': así jugará el Real Madrid de Arbeloa, un técnico inspirado en la táctica de Sacchi y Klopp",
+        "image_url": "https://s3.elespanol.com/2026/01/12/actualidad/1003744087198_260884839_1706x960.jpg",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "álvaro arbeloa",
+            "josé mourinho",
+            "xabi alonso",
+            "real madrid cf"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20260113/busca-efecto-zidane-jugara-real-madrid-arbeloa-tecnico-inspirado-tactica-sacchi-klopp/1003744086984_0.html",
+        "date": "2026-01-13 01:44:13",
+        "sentiment_score": -0.0049019306898117065
+    },
+    {
+        "title": "La justicia penal y las dos Españas",
+        "image_url": "https://s3.elespanol.com/2024/12/11/actualidad/907920421_251606494_1706x960.jpg",
+        "tags": [
+            "tribunas",
+            "tribunas de opinión",
+            "justicia",
+            "españa",
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20260113/justicia-penal-espanas/1003744083685_12.html",
+        "date": "2026-01-13 01:43:27",
+        "sentiment_score": 0.038422927260398865
+    },
+    {
+        "title": "Paramount reorganiza su catálogo en Pluto TV: el papel del FAST en la realidad televisiva actual",
+        "image_url": "https://s3.elespanol.com/2026/01/05/actualidad/1003744078597_260773655_1706x960.jpg",
+        "tags": [
+            "paramount global",
+            "plataformas digitales",
+            "medios",
+            "pluto tv",
+            "paramount network",
+            "plataformas de streaming"
+        ],
+        "link": "https://www.elespanol.com/invertia/medios/20260113/paramount-reorganiza-catalogo-pluto-tv-papel-fast-realidad-televisiva-actual/1003744078573_0.html",
+        "date": "2026-01-13 01:42:37",
+        "sentiment_score": 0.3321840949356556
+    },
+    {
+        "title": "La trituradora de técnicos de Florentino suma un nuevo nombre con Álvaro Arbeloa",
+        "image_url": "https://pxcdn.meridiano.net/012026/1768269977880.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/la-trituradora-de-tecnicos-de-florentino-suma-un-nuevo-nombre-con-alvaro-arbeloa-202611221350",
+        "date": "2026-01-13 01:35:00",
+        "sentiment_score": 0.5085847824811935
+    },
+    {
+        "title": "Los detonantes que provocaron el despido de Xabi Alonso del Real Madrid",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/b1d44ba21c60b58b6b4a5440a0569d535be50820w.jpg",
+        "tags": [
+            "deportes",
+            "titulares",
+            "real madrid",
+            "xabi alonso"
+        ],
+        "link": "https://lapatilla.com/2026/01/12/los-detonantes-que-provocaron-el-despido-de-xabi-alonso-del-real-madrid/",
+        "date": "2026-01-13 01:00:11",
+        "sentiment_score": -0.13640111684799194
+    },
+    {
+        "title": "Morgan, de hacer 4.000 km en coche para grabar su disco a llenar en Madrid: \"De alquiler, pero haciendo lo que nos gusta\"",
+        "image_url": "https://s3.elespanol.com/2026/01/12/actualidad/1003744087199_260884843_1706x960.jpg",
+        "tags": [
+            "conciertos música",
+            "ocio",
+            "cultura",
+            "madrid"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20260113/morgan-hacer-km-coche-grabar-disco-llenar-madrid-alquiler-haciendo-gusta/1003744086853_0.html",
+        "date": "2026-01-13 01:00:00",
+        "sentiment_score": 0.20668461546301842
+    },
+    {
+        "title": "Un viaje por el saber cuántico de la mano del divulgador de la ciencia José Manuel Sánchez Ron",
+        "image_url": "https://s3.elespanol.com/2025/04/23/actualidad/1003743727046_255013139_1706x960.jpg",
+        "tags": [
+            "mecánica cuántica",
+            "historia",
+            "libros",
+            "letras",
+            "física",
+            "ciencia",
+            "josé manuel sánchez ron"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20260113/viaje-saber-cuantico-mano-divulgador-ciencia-jose-manuel-sanchez-ron/1003744086898_0.html",
+        "date": "2026-01-13 00:55:00",
+        "sentiment_score": 0.35607944056391716
+    },
+    {
+        "title": "La producción española del Grupo VW cae un 8% en 2025 por la adaptación de las plantas de Martorell y Landaben",
+        "image_url": "https://s3.elespanol.com/2026/01/12/actualidad/1003744086180_260872708_1706x960.jpg",
+        "tags": [
+            "motor",
+            "pamplona",
+            "grupo volkswagen",
+            "coche eléctrico",
+            "industria automovilística",
+            "martorell",
+            "seat",
+            "volkswagen"
+        ],
+        "link": "https://www.elespanol.com/motor/20260113/produccion-espanola-grupo-vw-cae-adaptacion-plantas-martorell-landaben/1003744086150_0.html",
+        "date": "2026-01-13 01:42:28",
+        "sentiment_score": 0.4723711237311363
+    },
+    {
+        "title": "Víctor Coyote, currante del 'underground': \"El rock está muerto, lo mató Puerto Rico\"",
+        "image_url": "https://s3.elespanol.com/2026/01/12/actualidad/1003744086820_260880285_1706x960.jpg",
+        "tags": [
+            "cómic",
+            "entrevistas",
+            "música"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20260113/victor-coyote-currante-underground-rock-muerto-mato-puerto-rico/1003744086418_0.html",
+        "date": "2026-01-13 00:55:00",
+        "sentiment_score": 0.07726477086544037
+    },
+    {
+        "title": "“La situación es caótica”: se agudiza la crisis en Ferrari por el desarrollo del nuevo monoplaza de la F1 para 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/HBZ7HTM7BNACBIA6DJZOBL3IY4.JPG?auth=3964cc76e771a48ded10b5a2c0fd5d138ce68241ad95ccc944ffd1276fc41329&height=2810&smart=true&width=4995",
+        "tags": [
+            "charles leclerc",
+            "ferrari",
+            "lewis hamilton",
+            "fórmula 1",
+            "f1",
+            "frederic vasseur"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/13/la-situacion-es-caotica-se-agudiza-la-crisis-en-ferrari-por-el-desarrollo-del-nuevo-monoplaza-de-la-f1-para-2026/",
+        "date": "2026-01-13 00:44:23",
+        "sentiment_score": -0.780012097209692
+    },
+    {
+        "title": "Gran noche wagneriana en el Liceu con Lise Davidsen",
+        "image_url": "https://static1.ara.cat/clip/71e9193a-ce8b-478e-89ea-d9e81786061e_16-9-aspect-ratio_default_0_x1474y796.jpg",
+        "tags": [
+            "lise",
+            "noche",
+            "liceu",
+            "wagneriana",
+            "davidsen",
+            "gran"
+        ],
+        "link": "https://es.ara.cat/cultura/opera/gran-noche-wagneriana-liceu-lise-davidsen_1_5616349.html",
+        "date": "2026-01-13 00:12:09",
+        "sentiment_score": -0.0023620128631591797
+    },
+    {
+        "title": "Real Madrid destituye a Xabi Alonso y asciende a Álvaro Arbeloa, técnico del filial",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/32c48e9/2147483647/strip/true/crop/2605x1368+0+184/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F96%2F25%2Fcd196aba483896ff1641945cbaf4%2F6696298c949e4331986039351e5ed1ea.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-01-12/real-madrid-destituye-xabi-alonso-y-asciende-alvaro-arbeloa-tecnico-del-filial",
+        "date": "2026-01-13 00:06:49",
+        "sentiment_score": -0.006612762808799744
+    },
+    {
+        "title": "«Tenemos una misión en Estados Unidos»: Ousmane Dembélé, en exclusiva con CNN, apunta al Mundial como gran objetivo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/01/12/entrevista-ousmane-dembele-psg-trax/",
+        "date": "2026-01-13 00:03:50",
+        "sentiment_score": 0.7300948910415173
+    },
+    {
+        "title": "Gramaglia: «Me estoy encontrando muy bien»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1d85b810-b2ef-47b0-ace3-2d6c36d73e41_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "argentina",
+            "isla",
+            "tenerife",
+            "trabajo"
+        ],
+        "link": "https://www.eldia.es/deportes/ud-tenerife/2026/01/13/gramaglia-encontrando-125621527.html",
+        "date": "2026-01-13 00:01:17",
+        "sentiment_score": 0.8484381809830666
     }
 ];
