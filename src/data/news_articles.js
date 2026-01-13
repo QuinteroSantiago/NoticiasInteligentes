@@ -1,313 +1,5 @@
 export default [
     {
-        "title": "Rodrygo: \"Para llegar a una final hay que sufrir\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/08/rodrygo-para-llegar-a-una-final-hay-que-sufrir/",
-        "date": "2026-01-08 22:20:10",
-        "sentiment_score": -0.3278871178627014
-    },
-    {
-        "title": "Simeone no recuerda sus palabras a Vinícius; para Xabi, “no es ejemplo de buen deportista”",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/08/simeone-no-recuerda-sus-palabras-a-vinicius-para-xabi-no-es-ejemplo-de-buen-deportista/",
-        "date": "2026-01-08 22:19:02",
-        "sentiment_score": -0.7977540958672762
-    },
-    {
-        "title": "Rüdiger, Asencio y Rodrygo, dudas para la final",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "los rojiblancos",
-            "los blancos",
-            "supercopa de espana",
-            "efe",
-            "rma"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/08/rudiger-asencio-y-rodrygo-dudas-para-la-final/",
-        "date": "2026-01-08 22:16:19",
-        "sentiment_score": -0.6786687336862087
-    },
-    {
-        "title": "Crónica del Real Madrid - Maccabi Tel Aviv: 98-86",
-        "image_url": "https://www.infobae.com/resizer/v2/5HUD2CG3Y5C7JBICTGFOMFUPAQ.jpg?auth=af4a35ee1c46ded7ee5dfd10655045ea2e944df638c24e0011c49d44dabe77a3&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/08/cronica-del-real-madrid-maccabi-tel-aviv-98-86/",
-        "date": "2026-01-08 22:15:32",
-        "sentiment_score": -0.07508964091539383
-    },
-    {
-        "title": "Xabi Alonso despeja dudas sobre Mbappé antes de la final de la Supercopa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e2b31626-417b-4bc3-b09c-d7e112176c05_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real madrid",
-            "kylian mbappé",
-            "supercopa de españa",
-            "xabi alonso"
-        ],
-        "link": "https://www.farodevigo.es/deportes/2026/01/08/xabi-alonso-despeja-dudas-mbappe-final-supercopa-espana-125502894.html",
-        "date": "2026-01-08 22:14:41",
-        "sentiment_score": 0.3260755240917206
-    },
-    {
-        "title": "Rodrygo: \"Para llegar a una final hay que sufrir\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2026/01/08/696014ec0843e.jpeg",
-        "tags": [
-            "real madrid"
-        ],
-        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260108/1002598059/rodrygo-llegar-final-hay-sufrir.html",
-        "date": "2026-01-08 22:12:58",
-        "sentiment_score": 0.8250509202480316
-    },
-    {
-        "title": "El Real Madrid es finalista de la Supercopa de España: así fue el partido contra el Atlético",
-        "image_url": "https://pxcdn.2001online.com/2001/012026/1767912127844/fede-valverde-se-luce-con-golazo-en-supercopa-de-espana-y-las-redes-explotan.jpg?ch=675&cw=1200",
-        "tags": [
-            "vinicius jr",
-            "fede valverde",
-            "real madrid",
-            "supercopa de españa",
-            "laliga",
-            "atlético de madrid",
-            "fc barcelona",
-            "súpercopa",
-            "valverde gol"
-        ],
-        "link": "https://2001online.com/deportes/el-real-madrid-es-finalista-de-la-supercopa-de-espana-asi-fue-el-partido-contra-el-atletico-20261818450",
-        "date": "2026-01-08 22:10:39",
-        "sentiment_score": 0.36655426025390625
-    },
-    {
-        "title": "abrá Clásico para la final de la Supercopa. Real Madrid vence 2-1 al Atlético",
-        "image_url": "https://dims.apnews.com/dims4/default/5e7523d/2147483647/strip/true/crop/6069x4040+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F19%2Fbd%2F7ae3f89fae4598c72daf4325708f%2Fe7ee9b324d9342a69c88dc36f61e5f50",
-        "tags": [
-            "deportes",
-            "sports",
-            "espana supercopa real madrid atletico barcelona"
-        ],
-        "link": "https://apnews.com/article/espana-supercopa-real-madrid-atletico-barcelona-df6d2b15d2d937e6e0e827b70abf4a4b",
-        "date": "2026-01-08 22:10:08",
-        "sentiment_score": 0.2390144169330597
-    },
-    {
-        "title": "Habrá Clásico en la final de la Supercopa de España tras victoria del Real Madrid ante Atlético",
-        "image_url": "https://www.bostonherald.com/wp-content/uploads/2026/01/ESPA209A-SUPERCOPA_74282.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.bostonherald.com/2026/01/08/habr-clsico-en-la-final-de-la-supercopa-de-espaa-tras-victoria-del-real-madrid-ante-atltico/",
-        "date": "2026-01-08 22:10:07",
-        "sentiment_score": 0.1946285516023636
-    },
-    {
-        "title": "Mbappé viajará a Arabia con \"posibilidades\" de jugar la final frente al Barcelona",
-        "image_url": "https://www.mundodeportivo.com/files/image_948_465/uploads/2026/01/08/69602c06f2985.jpeg",
-        "tags": [
-            "real madrid"
-        ],
-        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260108/1002598052/mbappe-viajara-arabia-posibilidades-jugar-final-frente-barcelona.html",
-        "date": "2026-01-08 22:04:50",
-        "sentiment_score": -0.7779687643051147
-    },
-    {
-        "title": "Mbappé estará en la final: Xabi Alonso confirma que viajará para el Clásico",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1550x431:1552x429)/origin-imgresizer.eurosport.com/2025/12/31/image-cceff490-d621-4325-83db-046ceee612b1-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "spanish supercopa 2025-2026"
-        ],
-        "link": "https://www.eurosport.es/futbol/supercopa-de-espana/2025-2026/mbappe-estara-final-real-madrid-barca-clasico-xabi-alonso_sto23257106/story.shtml",
-        "date": "2026-01-08 22:02:39",
-        "sentiment_score": 0.1997043825685978
-    },
-    {
-        "title": "Mbappé viajará a Yeda y podría tener minutos en la final, aunque no será titular",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/25/2025022511505815255.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/mbappe-viajara-yeda-podria-tener-minutos-final-sera-titular/20260109025739369891.html",
-        "date": "2026-01-09 01:57:39",
-        "sentiment_score": 0.5601872801780701
-    },
-    {
-        "title": "08 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/08-ene-2026-partidazo-cope-20260109_3283127.html",
-        "date": "2026-01-09 01:22:19",
-        "sentiment_score": 0.016901299357414246
-    },
-    {
-        "title": "El Real Madrid y el FC Barcelona se vuelven a ver las caras por el título de la Supercopa de España",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2026/01/08/real-madrid-barcelona-finalistas-supercopa-espana-orix/",
-        "date": "2026-01-09 01:03:44",
-        "sentiment_score": 0.08724141120910645
-    },
-    {
-        "title": "'Afanes sin provecho': los cuentos de Lorenzo Silva, su secreto mejor guardado",
-        "image_url": "https://s3.elespanol.com/2026/01/08/actualidad/1003744082462_260825354_1706x960.jpg",
-        "tags": [
-            "lorenzo silva",
-            "letras",
-            "ec-critica-letras"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/letras/20260109/afanes-sin-provecho-cuentos-lorenzo-silva-secreto-mejor-guardado/1003744082390_0.html",
-        "date": "2026-01-09 00:55:00",
-        "sentiment_score": 0.15977368503808975
-    },
-    {
-        "title": "3a PARTE | 08 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-08-ene-2026-partidazo-cope-20260109_3283126.html",
-        "date": "2026-01-09 00:37:48",
-        "sentiment_score": 0.008271843194961548
-    },
-    {
-        "title": "Supercremalleras: «Queremos crecer y todavía hay mucho margen»",
-        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2026/01/09/sup%20(2)-kIuC-U240784213979kAC-758x531@El%20Correo.jpg",
-        "tags": [
-            "rock vasco (óscar cubillo)"
-        ],
-        "link": "https://www.elcorreo.com/culturas/musica/supercremalleras-queremos-crecer-margen-20260109011125-nt.html",
-        "date": "2026-01-09 00:11:26",
-        "sentiment_score": -0.10849079489707947
-    },
-    {
-        "title": "Real Madrid disputará la Supercopa de España frente al FC Barcelona",
-        "image_url": "https://i0.wp.com/noticiasaldiayalahora.co/wp-content/uploads/2026/01/Real-Madrid.jpg?resize=600%2C399&ssl=1",
-        "tags": [
-            "supercopa de españa",
-            "fc barcelona",
-            "real madrid",
-            "deportes"
-        ],
-        "link": "https://noticiasaldiayalahora.co/deportes/real-madrid-disputara-la-supercopa-de-espana-frente-al-fc-barcelona/",
-        "date": "2026-01-09 00:10:38",
-        "sentiment_score": 0.07857263088226318
-    },
-    {
-        "title": "\"Florentino te va a echar\": la polémica discusión entre Vinicius Jr. y Simeone",
-        "image_url": "https://pxcdn.2001online.com/2001/012026/1767914043032/57bfcbad-193e-4c58-bcb5-f5718fa5b233_alta-libre-aspect-ratio_default_0.jpg?ch=675&cw=1200",
-        "tags": [
-            "vinicius jr",
-            "el cholo simeone",
-            "supercopa de españa",
-            "polémica",
-            "atlético de madrid",
-            "súpercopa",
-            "diego simeone",
-            "real madrid"
-        ],
-        "link": "https://2001online.com/deportes/florentino-te-va-a-echar-la-polemica-discusion-entre-vinicius-jr-y-simeone-20261820300",
-        "date": "2026-01-08 23:40:59",
-        "sentiment_score": -0.844272187910974
-    },
-    {
-        "title": "El dardo de Vinícius a Simeone tras el tenso ida y vuelta en el triunfo del Real Madrid ante el Atlético",
-        "image_url": "https://www.infobae.com/resizer/v2/EKSDFXIJDVDGNJA4ZUSIAXGWVM.JPG?auth=2f3a708d768f3c218ebc8023e73f286d584abfe8fee8b76181833f167e72c44b&height=1846&smart=true&width=3282",
-        "tags": [
-            "atlético madrid",
-            "vinícius",
-            "deportes-argentina",
-            "real madrid",
-            "diego simeone"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/08/el-dardo-de-vinicius-a-simeone-tras-el-tenso-ida-y-vuelta-en-el-triunfo-del-real-madrid-ante-el-atletico/",
-        "date": "2026-01-08 23:34:48",
-        "sentiment_score": -0.06684884428977966
-    },
-    {
-        "title": "VÍDEO: Xabi Alonso manda un mensaje al 'Cholo' Simeone: \"No es ejemplo de buen deportista, no todo vale\"",
-        "image_url": "https://www.infobae.com/resizer/v2/6JVZ3OV6RJHPLLQ3OZRIU6ESKA.jpg?auth=8028d9e8f4f487151cca45431342f6522c625e2bb7579119663c807054cf048b&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/08/video-xabi-alonso-manda-un-mensaje-al-cholo-simeone-no-es-ejemplo-de-buen-deportista-no-todo-vale/",
-        "date": "2026-01-08 23:30:15",
-        "sentiment_score": -0.08538040518760681
-    },
-    {
-        "title": "Oriol Pla aborda la necesidad de ser vistos en un laberinto de estímulos en 'Gula/Gola'",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/08/oriol-pla-aborda-la-necesidad-de-ser-vistos-en-un-laberinto-de-estimulos-en-gulagola/",
-        "date": "2026-01-09 01:30:48",
-        "sentiment_score": -0.2310170829296112
-    },
-    {
-        "title": "Los socios críticos del Barça también atacan al Compliance Officer: cuestionan los negocios con New Era y Ruslan Birladeanu",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/04/10/culemania/palco/1003742648325_15583126_1706x960.jpg",
-        "tags": [
-            "fc barcelona",
-            "palco",
-            "junta directiva del barça",
-            "asamblea de compromisarios fcb"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260109/barca-compliance-officer-cuestionan-new-ruslan-birladeanu/1003742721843_0.html",
-        "date": "2026-01-09 01:10:44",
-        "sentiment_score": -0.9240374667569995
-    },
-    {
-        "title": "Adams, la academia familiar de los opositores y profesionales",
-        "image_url": "https://phantom-expansion.uecdn.es/0af93123fe5a525ccacf6ed68db198a2/resize/600/assets/multimedia/imagenes/2026/01/07/17677947960487.jpg",
-        "tags": [
-            "empresas>",
-            "funcionarios>",
-            "méxico>",
-            "formación>",
-            "historias de éxito>",
-            "latinoamérica>"
-        ],
-        "link": "https://www.expansion.com/empresas/2026/01/09/695e68c2e5fdeaae508b45ae.html",
-        "date": "2026-01-09 00:42:27",
-        "sentiment_score": 0.44997039437294006
-    },
-    {
-        "title": "Julio Preciado anuncia una gira de despedida antes de retirarse definitivamente",
-        "image_url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/XZNPN3GENVCEFKIY3QJ64MTSDA.JPG?auth=13d87f44f4e235962177621445c8cdadbc14f96cbcf145e3761c27ad04305224&height=553&quality=80&smart=true&width=830",
-        "tags": [
-            "famosos",
-            "espectáculos",
-            "celebridades",
-            "música"
-        ],
-        "link": "https://www.dallasnews.com/espanol/al-dia/espectaculos/2026/01/08/julio-preciado-retiro-despedida-gira-definitiva/",
-        "date": "2026-01-09 00:25:15",
-        "sentiment_score": -0.10965058207511902
-    },
-    {
-        "title": "El acuerdo del Gobierno y los obispos encarrila la visita de León XIV a España en junio tras la presión de Parolin",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/fb6d7adbccce048b370208c8b955a7b8/crop/2x0/1024x1022/f/image/jpeg/assets/multimedia/imagenes/2024/01/15/17053356313045.jpg",
-        "tags": [
-            "félix bolaños",
-            "artículos juanma lamet",
-            "papa león xiv",
-            "religión"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/01/09/696001f5e9cf4a23358b4596.html",
-        "date": "2026-01-09 00:18:50",
-        "sentiment_score": -0.14493559300899506
-    },
-    {
         "title": "\"¡Menudo chollo para el Barça!\"",
         "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2026/01/08/69601c73ab51b.r_d.1459-1691.jpeg",
         "tags": [
@@ -2840,5 +2532,148 @@ export default [
         "link": "https://www.lne.es/espana/2026/01/12/feijoo-redobla-presencia-cataluna-llegar-125589735.html",
         "date": "2026-01-12 06:28:39",
         "sentiment_score": 0.03663697838783264
+    },
+    {
+        "title": "El Real Madrid anuncia el cese de Xabi Alonso",
+        "image_url": "https://www.elplural.com/uploads/s1/21/17/07/1/xabi-alonso-durante-el-real-madrid-celta-de-vigo-ep_7_480x270.jpeg",
+        "tags": [
+            "el regate"
+        ],
+        "link": "https://www.elplural.com/el-regate/real-madrid-anuncia-cese-xabi-alonso_378461102",
+        "date": "2026-01-12 17:18:00",
+        "sentiment_score": 0.5694340690970421
+    },
+    {
+        "title": "El Real Madrid fulmina a Xabi Alonso",
+        "image_url": "https://static1.ara.cat/clip/eb0a62e3-e7d9-4cc2-ac2a-8334ea7b0c77_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real",
+            "fulmina",
+            "xabi",
+            "madrid",
+            "alonso"
+        ],
+        "link": "https://es.ara.cat/deportes/futbol/real-madrid-fulmina-xabi-alonso_1_5616070.html",
+        "date": "2026-01-12 17:17:53",
+        "sentiment_score": 0.4060856103897095
+    },
+    {
+        "title": "Xabi Alonso deja de ser entrenador del Real Madrid",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/01/11/696426b2d10b8.r_d.934-452-2240.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/real-madrid-destituye-xabi-alonso-20260112_3285066.html",
+        "date": "2026-01-12 17:17:45",
+        "sentiment_score": 0.6502878665924072
+    },
+    {
+        "title": "El Real Madrid cesa a Xabi Alonso como entrenador",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/1a4bbbb3-52f8-45d8-9b17b04dda0abd74.jpg",
+        "tags": [
+            "real madrid",
+            "xabi alonso"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z87796aa1-418d-4b2e-8562eda031ac50a1/202601/el-real-madrid-cesa-a-xabi-alonso-como-entrenador",
+        "date": "2026-01-12 17:17:33",
+        "sentiment_score": -0.5041845329105854
+    },
+    {
+        "title": "Xabi Alonso, destituido como entrenador del Real Madrid: Álvaro Arbeloa será el nuevo técnico blanco",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2559152.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/xabi-alonso-destituido-como-entrenador-del-real-madrid.html",
+        "date": "2026-01-12 17:17:26",
+        "sentiment_score": 0.24860601127147675
+    },
+    {
+        "title": "El Real Madrid anuncia la destitución de Xabi Alonso",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/11/69641faea43c08-65516878.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/real-madrid-anuncia-destitucion-xabi-alonso_6920135_0.html",
+        "date": "2026-01-12 17:16:49",
+        "sentiment_score": -0.13287191092967987
+    },
+    {
+        "title": "El Real Madrid comunica la salida de Xabi Alonso del banquillo blanco",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/12/xabi-alonso-durante-la-final-de-supercopa-de-espana-barcelona-real-madrid-11-de-enero-de-2026.jpeg",
+        "tags": [
+            "deporte"
+        ],
+        "link": "https://www.huffingtonpost.es/deporte/el-real-madrid-comunica-salida-xabi-alonso-banquillo-blanco-f202601.html",
+        "date": "2026-01-12 17:16:47",
+        "sentiment_score": -0.33247124031186104
+    },
+    {
+        "title": "La localidad coruñesa de Ames acogerá el Campeonato del Mundo de 100 kilómetros de 2026",
+        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/noticia-localidad-corunesa-ames-acogera-campeonato-mundo-100-kilometros-2026-20260112181620.html",
+        "date": "2026-01-12 17:16:20",
+        "sentiment_score": 0.2337930165231228
+    },
+    {
+        "title": "¡Bombazo! Xabi Alonso sale del Real Madrid",
+        "image_url": "https://pxcdn.meridiano.net/012026/1768237912256.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/bombazo-xabi-alonso-sale-del-real-madrid--202611213150",
+        "date": "2026-01-12 17:15:00",
+        "sentiment_score": -0.17797689139842987
+    },
+    {
+        "title": "El Real Madrid anuncia la destitución de Xabi Alonso tras perder la Supercopa de España y nombra a Álvaro Arbeloa",
+        "image_url": "https://s3.elespanol.com/2025/12/19/actualidad/1003744063091_260577766_1706x960.jpg",
+        "tags": [
+            "real madrid cf",
+            "deportes",
+            "fútbol",
+            "xabi alonso"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20260112/real-madrid-anuncia-destitucion-xabi-alonso-perder-supercopa-espana/1003744086913_0.html",
+        "date": "2026-01-12 17:14:40",
+        "sentiment_score": -0.028097547590732574
+    },
+    {
+        "title": "Desmantelada una banda de colombianos especializada en asaltos violentos a ancianos en portales de viviendas",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/10/policia-nacional-0-1.jpg",
+        "tags": [
+            "españa",
+            "inseguridad",
+            "inmigración ilegal",
+            "inmigración"
+        ],
+        "link": "https://gaceta.es/espana/desmantelada-una-banda-de-colombianos-especializada-en-asaltos-violentos-a-ancianos-en-portales-de-viviendas-20260112-1817/",
+        "date": "2026-01-12 17:17:37",
+        "sentiment_score": -0.8613293804228306
+    },
+    {
+        "title": "La navarra Natalia Lacunza inicia la gira de presentación de su segundo álbum de estudio",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2025/10/27/68ffaf879aa93.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/cultura-ocio/cultura/2026/01/12/navarra-natalia-lacunza-inicia-gira-presentacion-segundo-album-estudio-806360-104.html",
+        "date": "2026-01-12 17:17:05",
+        "sentiment_score": 0.2141843307763338
+    },
+    {
+        "title": "Espectacular maniobra del piloto de un avión procedente de Barcelona para abortar un aterrizaje en Santander",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/05bf85ed-885b-498c-b93c-7b17d28b7804_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "santander",
+            "aviones",
+            "aeropuertos"
+        ],
+        "link": "https://www.elperiodicodearagon.com/sociedad/2026/01/12/espectacular-maniobra-piloto-santander-abortar-aterrizaje-125614586.html",
+        "date": "2026-01-12 17:13:49",
+        "sentiment_score": -0.3049035668373108
     }
 ];
