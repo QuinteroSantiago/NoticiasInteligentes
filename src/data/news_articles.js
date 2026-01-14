@@ -1,451 +1,5 @@
 export default [
     {
-        "title": "1-2. Real Sociedad gana a Getafe en el 96 del partido que abre 19a jornada en España",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/09/1-2-real-sociedad-gana-a-getafe-en-el-96-del-partido-que-abre-19-jornada-en-espana/",
-        "date": "2026-01-09 22:17:59",
-        "sentiment_score": 0.257020004093647
-    },
-    {
-        "title": "1-2. La Real Sociedad gana al Getafe con un gol de Aramburu en el minuto 96",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/09/1-2-la-real-sociedad-gana-al-getafe-con-un-gol-de-aramburu-en-el-minuto-96/",
-        "date": "2026-01-09 22:17:08",
-        "sentiment_score": 0.29782627522945404
-    },
-    {
-        "title": "Aramburu reina en el caos del descuento para dar los 3 puntos a la Real Sociedad",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5f0beb9f-6a9b-4908-a44a-ea8b0a056498_16-9-aspect-ratio_default_1426249.jpg",
-        "tags": [
-            "getafe cf",
-            "fútbol",
-            "getafe",
-            "real sociedad",
-            "laliga ea sports"
-        ],
-        "link": "https://www.lne.es/deportes/2026/01/09/aramburu-enmudece-coliseum-gol-96-puntos-real-sociedad-125540985.html",
-        "date": "2026-01-09 22:09:26",
-        "sentiment_score": -0.8589775301516056
-    },
-    {
-        "title": "Crónica del Barça - Partizán Belgrado, 88-70",
-        "image_url": "https://www.infobae.com/resizer/v2/MZZWHEACERD6XDNDNMWKHZTP6A.jpg?auth=23e91a2aa2961c787b0265bbd4de8f03b24b40da62085a0e8911c696b3c31bce&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/09/cronica-del-barca-partizan-belgrado-88-70/",
-        "date": "2026-01-09 22:00:16",
-        "sentiment_score": -0.08405967056751251
-    },
-    {
-        "title": "Trump frena una segunda oleada de ataques a Venezuela pese a las excarcelaciones a cuentagotas",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/fcef08f1aa687d56ce2bce627e8365f8/f/webp/assets/multimedia/imagenes/2026/01/09/17679866557208.jpg",
-        "tags": [
-            "venezuela",
-            "nlpremium",
-            "donald trump"
-        ],
-        "link": "https://www.elmundo.es/internacional/2026/01/09/69615430e85eced9798b4589.html",
-        "date": "2026-01-09 21:57:11",
-        "sentiment_score": 0.10904395207762718
-    },
-    {
-        "title": "La venganza se cocina a fuego lento y se sirve fría: la estrella del Barça de basket que destroza al Partizán de Peñarroya",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/09/culemania/secciones/1003742722156_15586834_1706x960.jpg",
-        "tags": [
-            "fcb basket",
-            "xavi pascual",
-            "secciones"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260109/venganza-cocina-estrella-barca-destroza-partizan-penarroya/1003742722153_0.html",
-        "date": "2026-01-09 21:56:57",
-        "sentiment_score": 0.008749514818191528
-    },
-    {
-        "title": "La vida al límite de los veterinarios: \"Los suicidios están a la orden del día\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/796276b32b31a172538a1885c062bd86/f/image/jpeg/assets/multimedia/imagenes/2023/02/13/16763014917691.jpg",
-        "tags": [
-            "artículos rebeca yanke",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/papel/historias/2026/01/09/696151f0e85ece98658b458e.html",
-        "date": "2026-01-09 21:51:46",
-        "sentiment_score": -0.8655473152175546
-    },
-    {
-        "title": "Un gigante de Brasil va a la carga por un jugador de la selección argentina que busca continuidad de cara al Mundial",
-        "image_url": "https://www.infobae.com/resizer/v2/LWOOSEWPQ5H2BONZFF4TDLZKBQ.jpg?auth=33b75135118769e10b55d5bc439716be4f8b29380273deaefc25899a119e32a2&height=3906&smart=true&width=5553",
-        "tags": [
-            "atlético de madrid",
-            "palmeiras",
-            "thiago almada",
-            "selección argentina",
-            "deportes-argentina",
-            "fútbol brasilero"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/09/un-gigante-de-brasil-va-a-la-carga-por-un-jugador-de-la-seleccion-argentina-que-busca-continuidad-de-cara-al-mundial/",
-        "date": "2026-01-09 21:51:12",
-        "sentiment_score": -0.2756504751741886
-    },
-    {
-        "title": "Mbappé ya está en Yeda",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe",
-            "deportistas",
-            "real madrid  manchester city",
-            "uefa champions league",
-            "liga de campeones"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/09/mbappe-ya-esta-en-yeda/",
-        "date": "2026-01-09 21:45:21",
-        "sentiment_score": -0.323032021522522
-    },
-    {
-        "title": "0-2. Brahim lanza a Marruecos a semifinales",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "afcon",
-            "football",
-            "caf africa cup of nations 2025",
-            "efe",
-            "quarterfinal",
-            "caf africa cup of nations 25",
-            "confederation africaine de football"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/09/0-2-brahim-lanza-a-marruecos-a-semifinales/",
-        "date": "2026-01-09 21:15:47",
-        "sentiment_score": 0.2525797337293625
-    },
-    {
-        "title": "Más apoyo para las víctimas canarias de la pederastia en la Iglesia",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e692750b-7e1b-4737-ad2b-85dc627bb08c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "víctimas",
-            "religión",
-            "pederastia",
-            "canarias",
-            "gobierno",
-            "abusos sexuales",
-            "iglesia"
-        ],
-        "link": "https://www.laprovincia.es/sociedad/2026/01/09/apoyo-victimas-canarias-pederastia-iglesia-125540799.html",
-        "date": "2026-01-09 22:17:21",
-        "sentiment_score": -0.3880561292171478
-    },
-    {
-        "title": "Muere el ginecólogo Ángel Santaolaya, pionero en promover la salud sexual en Valladolid",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2026/01/09/80180515-kM7D-U240794658660ynE-758x531@El%20Norte.jpg",
-        "tags": [
-            "tomás rodríguez bolaños",
-            "universidad de valladolid",
-            "teatro zorrilla",
-            "salud",
-            "anticonceptivos",
-            "castilla y león"
-        ],
-        "link": "https://www.elnortedecastilla.es/valladolid/muere-ginecologo-angel-santaolaya-pionero-promover-salud-20260109231316-nt.html",
-        "date": "2026-01-09 22:13:16",
-        "sentiment_score": 0.053468503057956696
-    },
-    {
-        "title": "Despliegan operativo de fiscalización de comercios en Miranda y Anzoátegui",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/01/Fiscalizacion-4-300x225.jpg",
-        "tags": [
-            "pulso regional",
-            "miranda",
-            "anzoátegui",
-            "actualidad"
-        ],
-        "link": "https://ultimasnoticias.com.ve/actualidad/despliegan-operativo-de-fiscalizacion-de-comercios-en-miranda-y-anzoategui/",
-        "date": "2026-01-09 22:11:58",
-        "sentiment_score": -0.06383401155471802
-    },
-    {
-        "title": "Un exdiputado del PSOE da por muerto el modelo de financiación autonómica de Montero: «Solo es un debate político»",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/09/69617ac26edb9.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20260109/exdiputado-psoe-da-muerto-modelo-financiacion-autonomica-montero-solo-debate-politico_372990.html",
-        "date": "2026-01-09 22:03:30",
-        "sentiment_score": -0.8569972133263946
-    },
-    {
-        "title": "Peñarroya: \"Estoy agradecido por el recibimiento; hice lo que pude\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/09/penarroya-estoy-agradecido-por-el-recibimiento-hice-lo-que-pude/",
-        "date": "2026-01-09 22:01:12",
-        "sentiment_score": 0.8227324020117521
-    },
-    {
-        "title": "El Nadal, el nuevo populismo literario y el 'síndrome Uclés'",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/09/letraglobal/letras/1003742722120_15586300_1706x960.jpg",
-        "tags": [
-            "escritores",
-            "libros",
-            "literatura",
-            "letras",
-            "editoriales"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/letraglobal/letras/20260109/nadal-nuevo-populismo-literario-sindrome-ucles/1003742722118_0.html",
-        "date": "2026-01-09 22:00:23",
-        "sentiment_score": -0.6863686125725508
-    },
-    {
-        "title": "El Barça de Pascual no tiene piedad de Peñarroya ni del colista",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/18e80e2c-7de5-4893-83df-848f3f3ce68f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "euroliga"
-        ],
-        "link": "https://www.superdeporte.es/baloncesto/2026/01/09/barca-pascual-piedad-penarroya-colista-125540543.html",
-        "date": "2026-01-09 21:50:12",
-        "sentiment_score": -0.8393984641879797
-    },
-    {
-        "title": "Las noticias políticas del 9Ene en Venezuela",
-        "image_url": "https://static.wixstatic.com/media/335561_4fe9cbab080c42bda335bbbe7f3e8c08~mv2.jpg/v1/fit/w_1000,h_791,al_c,q_80/file.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.informe21.com/post/las-noticias-pol%C3%ADticas-del-9ene-en-venezuela-1",
-        "date": "2026-01-09 19:03:42",
-        "sentiment_score": -0.11648375540971756
-    },
-    {
-        "title": "El silencio no se compra con 1.245 millones: Page rechaza por principios la financiación autonómica de Sánchez y ERC",
-        "image_url": "https://s3.elespanol.com/2026/01/09/actualidad/1003744084401_260849539_1706x960.jpg",
-        "tags": [
-            "financiación autonómica",
-            "emiliano garcía-page",
-            "región"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/20260110/silencio-no-compra-millones-page-rechaza-principios-financiacion-autonomica-sanchez-erc/1003744083970_0.html",
-        "date": "2026-01-10 02:00:00",
-        "sentiment_score": -0.9229437038302422
-    },
-    {
-        "title": "Montero maquilla la financiación: más dinero, mismos problemas",
-        "image_url": "https://s3.elespanol.com/2019/01/03/enfoques/365724633_111515802_1706x960.jpg",
-        "tags": [
-            "maría jesús montero",
-            "tribunas",
-            "opinión",
-            "cataluña",
-            "financiación autonómica",
-            "tribunas de opinión"
-        ],
-        "link": "https://www.elespanol.com/opinion/tribunas/20260110/montero-maquilla-financiacion-dinero-mismos-problemas/1003744084590_12.html",
-        "date": "2026-01-10 01:50:20",
-        "sentiment_score": 0.28653183579444885
-    },
-    {
-        "title": "El traje a medida de Montero con la financiación: blinda más dinero a Cataluña, 'topa' a Andalucía y castiga a Madrid",
-        "image_url": "https://s3.elespanol.com/2026/01/09/actualidad/1003744084632_260852950_1706x960.jpg",
-        "tags": [
-            "macroeconomía",
-            "reforma fiscal",
-            "reformas económicas",
-            "isabel díaz ayuso",
-            "financiación autonómica",
-            "madrid"
-        ],
-        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20260110/traje-medida-montero-financiacion-blinda-dinero-cataluna-topa-andalucia-castiga-madrid/1003744084472_0.html",
-        "date": "2026-01-10 01:48:10",
-        "sentiment_score": -0.24936571717262268
-    },
-    {
-        "title": "09 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/09-ene-2026-partidazo-cope-20260110_3284021.html",
-        "date": "2026-01-10 00:40:00",
-        "sentiment_score": 0.4699518457055092
-    },
-    {
-        "title": "Úrsula Corbero, de compras por la milla de oro de Madrid en la recta final de su embarazo: de Loewe a dos tiendas infantiles",
-        "image_url": "https://s3.elespanol.com/2026/01/09/actualidad/1003744084225_260846951_1706x960.jpg",
-        "tags": [
-            "famosos",
-            "actores",
-            "ricardo darín",
-            "embarazo",
-            "úrsula corberó",
-            "loewe",
-            "exclusiva"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20260110/ursula-corbero-compras-milla-oro-madrid-recta-final-embarazo-loewe-tiendas-infantiles/1003744084188_0.html",
-        "date": "2026-01-10 00:33:00",
-        "sentiment_score": 0.01830063760280609
-    },
-    {
-        "title": "Retrato íntimo de Victoria, Isabelle, Alexis y Chloé, los cuatro hijos de Philippe Junot que lloran su muerte",
-        "image_url": "https://s3.elespanol.com/2026/01/09/corazon/celebrities/1003744083277_260844581_1706x960.jpg",
-        "tags": [
-            "carolina de mónaco",
-            "isabelle junot",
-            "muertes",
-            "celebrities",
-            "philippe junot"
-        ],
-        "link": "https://www.elespanol.com/corazon/celebrities/20260110/retrato-intimo-victoria-isabelle-alexis-chloe-hijos-philippe-junot-lloran-muerte/1003744083634_0.html",
-        "date": "2026-01-10 00:33:00",
-        "sentiment_score": 0.03431218862533569
-    },
-    {
-        "title": "Iker Jiménez, el 'rey del misterio' que amasa una fortuna de 10 millones de euros: así ha levantado su imperio",
-        "image_url": "https://s3.elespanol.com/2026/01/09/actualidad/1003744083621_260839881_1706x960.jpg",
-        "tags": [
-            "cumpleaños",
-            "famosos",
-            "iker jiménez",
-            "horizonte",
-            "cuarto milenio",
-            "cuatro",
-            "patrimonio personal"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20260110/iker-jimenez-rey-misterio-amasa-fortuna-millones-euros-levantado-imperio/1003744083609_0.html",
-        "date": "2026-01-10 00:33:00",
-        "sentiment_score": 0.458328515291214
-    },
-    {
-        "title": "Churruca y Lepanto",
-        "image_url": "https://www.eldebate.com/files/fp/uploads/2021/10/21/61713c9335472.r_d.577-326-0.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20260110/churruca-lepanto_372948.html",
-        "date": "2026-01-10 00:30:00",
-        "sentiment_score": 0.12590014934539795
-    },
-    {
-        "title": "La demanda dispara los precios de la vivienda usada en capitales y municipios secundarios: León, Ciudad Real y Guadalajara lideran las subidas",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/95acc8c53e6ace282f1e283955704ae3/crop/83x195/643x755/f/image/jpeg/assets/multimedia/imagenes/2022/05/18/16529079984891.jpg",
-        "tags": [
-            "artículos gabriela galarza"
-        ],
-        "link": "https://www.elmundo.es/economia/vivienda/2026/01/10/69615939e85ecea5128b45bd.html",
-        "date": "2026-01-10 00:08:35",
-        "sentiment_score": 0.18504448235034943
-    },
-    {
-        "title": "Frankfurt y Dortmund comparten puntos en emocionante empate de la Bundesliga",
-        "image_url": "https://i.headtopics.com/images/2026/1/9/latimes/frankfurt-y-dortmund-comparten-puntos-en-emocionan-frankfurt-y-dortmund-comparten-puntos-en-emocionan-8DEB62F999C4610A590C0F91EE8670C6.webp",
-        "tags": [
-            "united states news"
-        ],
-        "link": "https://us.headtopics.com/news/frankfurt-y-dortmund-comparten-puntos-en-emocionante-empate-78188581",
-        "date": "2026-01-09 23:43:18",
-        "sentiment_score": 0.0027489662170410156
-    },
-    {
-        "title": "Salas quier alternar con Xixón, Barcelona o Londres: el conceyu postúlase pa ser Destín Turísticu Intelixente",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4b7257ce-924c-4bfb-98c5-121015d8876a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "londres",
-            "turismo"
-        ],
-        "link": "https://www.lne.es/asturias/n-asturianu/2026/01/10/salas-quier-alternar-xixon-barcelona-125429200.html",
-        "date": "2026-01-10 02:02:28",
-        "sentiment_score": -0.11131134629249573
-    },
-    {
-        "title": "Julio Anguita, aquel presidente del Gobierno del año 2001 que imaginó TVE",
-        "image_url": "https://static.grupojoly.com/clip/090d42a6-6537-43e7-aeee-df9b50152e33_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "julio",
-            "anguita",
-            "gobierno",
-            "presidente",
-            "futuro"
-        ],
-        "link": "https://www.diariodealmeria.es/television/julio-anguita-futuro-presidente-gobierno_0_2004809557.html",
-        "date": "2026-01-10 02:01:05",
-        "sentiment_score": -0.2627398669719696
-    },
-    {
-        "title": "Sábado 10 de enero de 2026 (02:00 GMT)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/10/sabado-10-de-enero-de-2026-0200-gmt/",
-        "date": "2026-01-10 02:00:16",
-        "sentiment_score": -0.006396107375621796
-    },
-    {
-        "title": "La nieve afecta a 54 carreteras, tres de la red principal, en León y Huesca",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/10/la-nieve-afecta-a-54-carreteras-tres-de-la-red-principal-en-leon-y-huesca/",
-        "date": "2026-01-10 01:15:54",
-        "sentiment_score": -0.6937844268977642
-    },
-    {
-        "title": "Juerga en la Fundación Juan March con La Argentina, la bailarina que revolucionó la danza española hace un siglo",
-        "image_url": "https://s3.elespanol.com/2026/01/09/actualidad/1003744084456_260850317_1706x960.jpg",
-        "tags": [
-            "danza",
-            "espectáculos",
-            "fundación juan march",
-            "flamenco"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/escenarios/danza/20260110/juerga-fundacion-juan-march-argentina-bailarina-revoluciono-danza-espanola-hace-siglo/1003744084384_0.html",
-        "date": "2026-01-10 00:55:00",
-        "sentiment_score": 0.39773698151111603
-    },
-    {
-        "title": "Infiltrados en los canales de Telegram de adeptos a Simón Pérez que crean retos como el que mató al 'streamer' Sergio",
-        "image_url": "https://s3.elespanol.com/2026/01/09/actualidad/1003744084607_260852542_1706x960.jpg",
-        "tags": [
-            "reportajes",
-            "consumo drogas",
-            "porfolio",
-            "telegram",
-            "redes sociales",
-            "muertes",
-            "mozos de escuadra (mossos d'esquadra)"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260110/infiltrados-canales-telegram-adeptos-simon-perez-crean-retos-mato-streamer-sergio/1003744081133_0.html",
-        "date": "2026-01-10 00:40:00",
-        "sentiment_score": -0.8405440282076597
-    },
-    {
-        "title": "Sánchez dinamita la igualdad",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2021/10/21/61713ca150c6b.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20260110/sanchez-dinamita-igualdad_372941.html",
-        "date": "2026-01-10 00:30:00",
-        "sentiment_score": 0.4654998704791069
-    },
-    {
-        "title": "Pilar Alegría se «come» la financiación a la carta de Cataluña con tortilla de patata",
-        "image_url": "https://imagenes.eldebate.com/files/image_16_9_desktop/files/fp/uploads/2026/01/09/69613d3239f55.r_d.800-533-3875.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20260110/pilar-alegria-come-financiacion-carta-cataluna-tortilla-patata_372940.html",
-        "date": "2026-01-10 00:30:00",
-        "sentiment_score": 0.32420632243156433
-    },
-    {
         "title": "Un gran reto sin Boyé ante la mejor zaga de LaLiga",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/2070fac0-9f1c-41d4-982a-ebf8faede81b_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -1355,17 +909,6 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2026/01/09/el-tecnico-luis-zubeldia-se-sometera-a-un-procedimiento-cardiovascular-este-sabado/",
         "date": "2026-01-11 00:03:28",
         "sentiment_score": -0.035798363387584686
-    },
-    {
-        "title": "Las noticias políticas del 9Ene en Venezuela",
-        "image_url": "https://static.wixstatic.com/media/335561_4fe9cbab080c42bda335bbbe7f3e8c08~mv2.jpg/v1/fit/w_1000,h_791,al_c,q_80/file.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.informe21.com/post/las-noticias-pol%C3%ADticas-del-9ene-en-venezuela-1",
-        "date": "2026-01-09 19:03:42",
-        "sentiment_score": -0.11648284643888474
     },
     {
         "title": "El Leganés invierte en afición: Butarque a todo confort",
@@ -2819,5 +2362,227 @@ export default [
         "link": "https://theobjective.com/curiosidades/2026-01-13/significa-subrayar-nombre-firma-descubre-psicologia-gesto/",
         "date": "2026-01-13 06:15:00",
         "sentiment_score": -0.3139119893312454
+    },
+    {
+        "title": "Los pasaportes más poderosos del mundo para 2026",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_142-1.jpg",
+        "tags": [
+            "actualidad",
+            "internacionales",
+            "pasaportes",
+            "2026",
+            "poderosos del mundo"
+        ],
+        "link": "https://lapatilla.com/2026/01/13/los-pasaportes-mas-poderosos-del-mundo-para-2026/",
+        "date": "2026-01-13 11:43:40",
+        "sentiment_score": 0.3217240273952484
+    },
+    {
+        "title": "Servicios mínimos al detalle: cómo te afecta la huelga de médicos en la Comunitat Valenciana",
+        "image_url": "https://castellondiario.com/wp-content/uploads/2026/01/servicios-minimos-al-detalle-como-te-afecta-la-huelga-de-medicos-en-la-comunitat-valenciana.jpg",
+        "tags": [
+            "sanidad",
+            "actualidad",
+            "huelga"
+        ],
+        "link": "https://castellondiario.com/servicios-minimos-al-detalle-como-te-afecta-la-huelga-de-medicos-en-la-comunitat-valenciana/",
+        "date": "2026-01-13 17:14:32",
+        "sentiment_score": 0.18654955178499222
+    },
+    {
+        "title": "El Gobierno actualiza la ley del derecho de rectificación para garantizar la información veraz",
+        "image_url": "http://st1.lacerca.com/imagenes/view/d91ba10dfb8d77b5777e255281f2da59.jpg",
+        "tags": [
+            "españa",
+            "noticias"
+        ],
+        "link": "https://www.lacerca.com/noticias/espana/gobierno-actualiza-ley-derecho-rectificacion-garantizar-informacion-veraz-797703-1.html",
+        "date": "2026-01-13 17:10:00",
+        "sentiment_score": -0.02821175754070282
+    },
+    {
+        "title": "Once ideal de EP Deportes de la jornada 19 de LaLiga EA Sports",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260113180622_690.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-once-ideal-ep-deportes-jornada-19-laliga-ea-sports-20260113180622.html",
+        "date": "2026-01-13 17:06:22",
+        "sentiment_score": 0.4263273850083351
+    },
+    {
+        "title": "17:00H | 13 ENE 2026 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-13-ene-2026-tarde-20260113_3285927.html",
+        "date": "2026-01-13 17:06:00",
+        "sentiment_score": -0.24790789186954498
+    },
+    {
+        "title": "Leyenda de Real Madrid se rindió ante la presencia de Javier Rabanal en Universitario: “Ve posibilidades de sacarle un buen rendimiento”",
+        "image_url": "https://www.infobae.com/resizer/v2/34IECUJVAFAVDK7JHFLMTLYVNU.png?auth=edef6c20d89ac84c7ba63396aa99e7fcab433f51497027a956e0111aa4650684&height=1080&smart=true&width=1920",
+        "tags": [
+            "real madrid",
+            "universitario de deportes",
+            "selección peruana",
+            "peru-deportes",
+            "fernando morientes",
+            "javier rabanal"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/01/13/leyenda-de-real-madrid-se-rindio-ante-la-presencia-de-javier-rabanal-en-universitario-ve-posibilidades-de-sacarle-un-buen-rendimiento/",
+        "date": "2026-01-13 17:02:12",
+        "sentiment_score": 0.265220083296299
+    },
+    {
+        "title": "Lo que dijo Xabi Alonso tras su sustitución en el Real Madrid",
+        "image_url": "https://elclarinweb.com/2026/01/13/xabi-alonso-tras-su-sustitucion/%3Cimg",
+        "tags": [
+            "deportes",
+            "actualidad"
+        ],
+        "link": "https://elclarinweb.com/2026/01/13/xabi-alonso-tras-su-sustitucion/",
+        "date": "2026-01-13 17:01:17",
+        "sentiment_score": -0.034139737486839294
+    },
+    {
+        "title": "El vínculo que une a Álvaro Arbeloa con Carcastillo",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/60e87d13-5d66-434f-8411-b0b0277ea94c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "vinculo",
+            "carcastillo",
+            "alvaro",
+            "fiestas de 2010",
+            "une",
+            "arbeloa"
+        ],
+        "link": "https://www.noticiasdenavarra.com/futbol/2026/01/13/vinculo-une-alvaro-arbeloa-carcastillo-fiestas-de-2010-10569108.html",
+        "date": "2026-01-13 16:58:02",
+        "sentiment_score": 0.42760196328163147
+    },
+    {
+        "title": "Tyson Pérez: \"El partido de Breogán marca un punto de inflexión\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ac747512-34c1-4da9-8817-a86f1ae2c656_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tyson pérez",
+            "plantilla",
+            "lugo",
+            "unicaja"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2026/01/13/tyson-perez-unicaja-punto-inflexion-125647644.html",
+        "date": "2026-01-13 16:54:46",
+        "sentiment_score": -0.021725058555603027
+    },
+    {
+        "title": "José María Alfaro, agente inmobiliario: \"La última medida de Sánchez va a terminar con el alquiler por habitaciones o, en todo caso, se hará mediante economía sumergida\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/13/6966752c89bc0.jpeg",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/noticias/jose-maria-alfaro-agente-inmobiliario-ultima-medida-sanchez-terminar-alquiler-habitaciones-caso-hara-mediante-economia-sumergida-20260113_3285910.html",
+        "date": "2026-01-13 16:54:06",
+        "sentiment_score": -0.13735873997211456
+    },
+    {
+        "title": "El nuevo Real Madrid de Arbeloa arranca con examen copero en Albacete",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260113175140_120.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-nuevo-real-madrid-arbeloa-arranca-examen-copero-albacete-20260113175140.html",
+        "date": "2026-01-13 16:51:40",
+        "sentiment_score": 0.002994820475578308
+    },
+    {
+        "title": "João Cancelo: \"Quiero desafiarme e intentar tener un espacio en este Barça\"",
+        "image_url": "https://www.infobae.com/resizer/v2/P5J72VTMAJDU3HQNGT47UAOPHU.jpg?auth=804915527a5a03f32fa768e06458ff1f10efabe0ee0a25b9049c624365cb0795&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/13/joao-cancelo-quiero-desafiarme-e-intentar-tener-un-espacio-en-este-barca/",
+        "date": "2026-01-13 17:15:55",
+        "sentiment_score": -0.020198717713356018
+    },
+    {
+        "title": "El Gobierno pone coto al 'true crime', más allá de la violencia vicaria: la víctima podrá denunciar daños a su honor",
+        "image_url": "https://www.infobae.com/resizer/v2/ON5OEXYSUZHMTOAYECRK5GLLJ4.jpg?auth=b69c0983a4e0db06745296b834931c891ab2c1bf7a52f1753030bbb1797e64ad&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/13/el-gobierno-pone-coto-al-true-crime-mas-alla-de-la-violencia-vicaria-la-victima-podra-denunciar-danos-a-su-honor/",
+        "date": "2026-01-13 17:15:38",
+        "sentiment_score": -0.3385673090815544
+    },
+    {
+        "title": "El Ejército mueve ficha con el Pizarro: la unidad que marca el rumbo de su modernización",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/01/24/2025012400260277586.jpg",
+        "tags": [
+            "defensa"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/defensa/ejercito-mueve-ficha-pizarro-unidad-que-marca-rumbo-modernizacion/20260113181413997650.html",
+        "date": "2026-01-13 17:14:13",
+        "sentiment_score": 0.48006077483296394
+    },
+    {
+        "title": "Ercros nombra a Imma Comella nueva directora de relaciones institucionales y comunicación",
+        "image_url": "https://forbes.es/wp-content/uploads/2026/01/fotonoticia_20260113173953_1920-1200x675.jpg",
+        "tags": [
+            "economía",
+            "última hora"
+        ],
+        "link": "https://forbes.es/economia/856323/ercros-nombra-a-imma-comella-nueva-directora-de-relaciones-institucionales-y-comunicacion/",
+        "date": "2026-01-13 17:10:29",
+        "sentiment_score": 0.17984313517808914
+    },
+    {
+        "title": "El Banco Mundial ve la economía global más \"resiliente\" pese a la incertidumbre",
+        "image_url": "https://static1.ara.cat/clip/5d8a95ad-5d38-4e33-930a-78a00129869e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "economia",
+            "pese",
+            "global",
+            "banco",
+            "mundial",
+            "incertidumbre",
+            "resiliente",
+            "ve"
+        ],
+        "link": "https://es.ara.cat/economia/macroeconomia/banco-mundial-ve-economia-global-resiliente-pese-incertidumbre_1_5617033.html",
+        "date": "2026-01-13 17:09:50",
+        "sentiment_score": 0.4862203449010849
+    },
+    {
+        "title": "Madrid y Barcelona marcan tendencia: la oferta de pisos turísticos se ajusta por primera vez",
+        "image_url": "https://capital.es/wp-content/uploads/2025/12/la-vivienda-sigue-siendo-el-mayor-problema-de-los-espanoles-seguida-por-la-situacion-economica-segun-cis.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://capital.es/economia/madrid-y-barcelona-marcan-tendencia-la-oferta-de-pisos-turisticos-se-ajusta-por-primera-vez/161935/",
+        "date": "2026-01-13 17:09:42",
+        "sentiment_score": 0.3018893301486969
+    },
+    {
+        "title": "Cataluña refuerza el control sobre los pisos vacíos para facilitar recargos sobre el IBI",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2023/08/09/64d360ead3fd6.r_d.354-520.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.eldebate.com/economia/20260113/cataluna-refuerza-control-sobre-pisos-vacios-facilitar-recargos-sobre-ibi_374053.html",
+        "date": "2026-01-13 17:07:07",
+        "sentiment_score": 0.005049780011177063
+    },
+    {
+        "title": "Revés judicial a los taxis en Barcelona: anulan la obligación de contratar VTC con una hora de antelación",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2024/02/04/EDA30134-8F65-4833-86BC-19CCC6E36662/conductores-vtc-estan-obligados-acreditar-datos-cada-servicio-que-vayan-iniciar_69.jpg?crop=6053%2C3405%2Cx0%2Cy551&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/reves-judicial-taxis-barcelona-anulan-obligacion-contratar-vtc-hora-antelacion_2026011369667b79be7ae37724c2b63e.html",
+        "date": "2026-01-13 17:06:01",
+        "sentiment_score": -0.8397604841738939
     }
 ];
