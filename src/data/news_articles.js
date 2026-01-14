@@ -1,202 +1,5 @@
 export default [
     {
-        "title": "Carvajal, sobre su renovación: \"Si los astros se alinean y estamos en la línea de lo que queremos, no habrá ningún problema\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/01/10/6962866d65eff.r_d.926-420-2240.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/carvajal-sobre-renovacion-astros-alinean-linea-queremos-habra-problema-20260110_3284126.html",
-        "date": "2026-01-10 17:15:01",
-        "sentiment_score": 0.09637302160263062
-    },
-    {
-        "title": "Carvajal: \"Tenemos un aprecio mutuo Simeone y yo, defendemos nuestro club a muerte\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260110181328_120.jpg",
-        "tags": [
-            "vídeos"
-        ],
-        "link": "https://www.europapress.es/videos/deportes/video-carvajal-tenemos-aprecio-mutuo-simeone-yo-defendemos-club-muerte-20260110181328.html",
-        "date": "2026-01-10 17:13:28",
-        "sentiment_score": -0.014656513929367065
-    },
-    {
-        "title": "Final de la Supercopa de España: horario y dónde ver el FC Barcelona-Real Madrid",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3631833.jpg",
-        "tags": [
-            "champions league",
-            "copa del rey",
-            "supercopa de españa",
-            "real madrid",
-            "fútbol",
-            "primera división",
-            "fc barcelona",
-            "liga de naciones",
-            "laliga",
-            "europa league",
-            "horario y donde ver"
-        ],
-        "link": "https://www.ultimahora.es/deportes/futbol/2026/01/10/2546803/final-supercopa-espana-horario-donde-ver-barcelona-real-madrid.html",
-        "date": "2026-01-10 17:11:11",
-        "sentiment_score": 0.11138571798801422
-    },
-    {
-        "title": "Carvajal: “Estamos a muerte con Xabi”",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/10/carvajal-estamos-a-muerte-con-xabi/",
-        "date": "2026-01-10 17:03:03",
-        "sentiment_score": -0.21588988602161407
-    },
-    {
-        "title": "Carvajal: “Mañana va a ser un día importante para Vinícius”",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/10/carvajal-manana-va-a-ser-un-dia-importante-para-vinicius/",
-        "date": "2026-01-10 17:00:40",
-        "sentiment_score": 0.7104618214070797
-    },
-    {
-        "title": "VÍDEO: Eric García: \"Perder el último Clásico nos dolió\"",
-        "image_url": "https://www.infobae.com/resizer/v2/AP7L7YTUANBBHIUESJY7SEZKNM.jpg?auth=1999860679c4998245870f9d8e3d09d0a6537004030ecaf31d3d093a2ed871e7&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/10/video-eric-garcia-perder-el-ultimo-clasico-nos-dolio/",
-        "date": "2026-01-10 17:00:20",
-        "sentiment_score": -0.8663087300956249
-    },
-    {
-        "title": "Qué cambia con el nuevo modelo de financiación de Hacienda: así se reparte el aumento de recursos",
-        "image_url": "https://www.infobae.com/resizer/v2/FZ2D5ULUMJGOHDUY42EDXGOFHY.jpg?auth=9dd5d9c0c6d56cc736f91e0b8aa3980b213f789da36a3c2defa6edf5c550f56d&height=1280&smart=true&width=1920",
-        "tags": [
-            "gobierno de españa",
-            "comunidades autónomas",
-            "españa-economia",
-            "españa-noticias",
-            "cataluña",
-            "financiación autonómica",
-            "impuestos",
-            "ministerio de hacienda"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/10/que-cambia-con-el-nuevo-modelo-de-financiacion-de-hacienda-asi-se-reparte-el-aumento-de-recursos/",
-        "date": "2026-01-10 16:57:58",
-        "sentiment_score": 0.2533878907561302
-    },
-    {
-        "title": "El PSOE pide la máxima homologación para las pistas de atletismo",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/01/10/pistas-R2meqkPbR5JSBLNlTO8MeHJ-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "federacion española de atletismo",
-            "partido socialista obrero español (psoe)",
-            "oviedo",
-            "atletismo"
-        ],
-        "link": "https://www.elcomercio.es/oviedo/psoe-pide-maxima-homologacion-pistas-atletismo-20260110175624-nt.html",
-        "date": "2026-01-10 16:56:25",
-        "sentiment_score": -0.40767223946750164
-    },
-    {
-        "title": "Ni Barça ni Real Madrid pueden con el fanatismo religioso en los países árabes: camisetas falsificadas sin los escudos originales",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/10/culemania/culemaniacos/1003742722229_15587616_1706x960.jpg",
-        "tags": [
-            "cule-brón",
-            "arabia saudí",
-            "supercopa de españa",
-            "religión",
-            "barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/cule-bron/20260110/barca-real-madrid-fanatismo-religioso-falsificadas-originales/1003742722226_0.html",
-        "date": "2026-01-10 16:50:48",
-        "sentiment_score": -0.36628610268235207
-    },
-    {
-        "title": "Kompany tilda de \"error de comunicación\" las declaraciones de Lennart Karl sobre jugar en el Real Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/UGGWV25565GSDMNPGDASVHUSDM.jpg?auth=6fbd0dc58470f2cd0c34086c6d4e607c61d25a6f30a36397ae24934eb306a579&height=1327&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/10/kompany-tilda-de-error-de-comunicacion-las-declaraciones-de-lennart-karl-sobre-jugar-en-el-real-madrid/",
-        "date": "2026-01-10 16:46:09",
-        "sentiment_score": -0.8372359573841095
-    },
-    {
-        "title": "El Racing pone a prueba su liderato ante un Zaragoza agónico",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/09/el-racing-pone-a-prueba-su-liderato-ante-un-zaragoza-agonico/",
-        "date": "2026-01-10 17:17:06",
-        "sentiment_score": -0.6864223815500736
-    },
-    {
-        "title": "Los agricultores mantienen sus protestas y bloqueos en vías contra el acuerdo UE-Mercosur",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/EuropaPress_7203148_varias_personas_cortan_carretera_protesta_enero_2026_pontos_girona-scaled.jpg",
-        "tags": [
-            "nacional",
-            "mercosur"
-        ],
-        "link": "https://www.lanzadigital.com/nacional/los-agricultores-mantienen-sus-protestas-y-bloqueos-en-vias-contra-el-acuerdo-ue-mercosur/",
-        "date": "2026-01-10 17:15:37",
-        "sentiment_score": -0.12350624799728394
-    },
-    {
-        "title": "Deco: \"Cancelo es un grandísimo jugador y nos da soluciones que no teníamos antes\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/09/deco-cancelo-es-un-grandisimo-jugador-y-nos-da-soluciones-que-no-teniamos-antes/",
-        "date": "2026-01-10 17:15:11",
-        "sentiment_score": 0.8736367505043745
-    },
-    {
-        "title": "Choripa, el bar de bocadillos con el mejor pastrami de Barcelona de dos exchefs de restaurantes Michelin",
-        "image_url": "https://s3.elespanol.com/2026/01/08/actualidad/1003744082216_260822630_1706x960.jpg",
-        "tags": [
-            "restaurantes con estilo",
-            "michelín",
-            "cocineros",
-            "restaurantes",
-            "estrellas michelin",
-            "soft",
-            "chorizo"
-        ],
-        "link": "https://www.elespanol.com/cocinillas/restaurantes/20260110/choripa-bar-bocadillos-mejor-pastrami-barcelona-exchefs-restaurantes-michelin/1003744082164_0.html",
-        "date": "2026-01-10 17:10:48",
-        "sentiment_score": 0.4706079363822937
-    },
-    {
-        "title": "La Xunta apoya a Lugo para que acoja la sede de la Agencia Estatal de Salud Pública",
-        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2018/12/11/2018121113091869094.png",
-        "tags": [
-            "lugo"
-        ],
-        "link": "https://www.elprogreso.es/articulo/lugo/xunta-apoya-lugo-que-acoja-sede-agencia-estatal-salud-publica/202601101803401937102.html",
-        "date": "2026-01-10 17:03:40",
-        "sentiment_score": 0.10397352650761604
-    },
-    {
-        "title": "\"Muchas niñas me enviaban fotos pidiéndome que les dijera si estaban gordas\"",
-        "image_url": "https://static1.ara.cat/clip/218924e7-ccf1-4dfa-aaae-245e181d4359_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ninas",
-            "fotos",
-            "gordas",
-            "pidiendome",
-            "estaban",
-            "enviaban",
-            "dijera"
-        ],
-        "link": "https://es.ara.cat/media/ninas-enviaban-fotos-pidiendome-dijera-estaban-gordas_128_5614124.html",
-        "date": "2026-01-10 17:01:55",
-        "sentiment_score": -0.2636393755674362
-    },
-    {
         "title": "Expertos opinan que la reforma implica un «reparto arbitrario» que perjudica a Asturias",
         "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/01/10/expertos1-Ra9F8K3mR4XpqfHS3WSZkGO-1200x840@El%20Comercio.jpg",
         "tags": [
@@ -2868,5 +2671,167 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260114/laporta-aventuras-arriesgadas-barca-superliga-nba-europa/1003742722921_0.html",
         "date": "2026-01-13 23:55:48",
         "sentiment_score": -0.7806403301656246
+    },
+    {
+        "title": "Raspadori pone fin a su telenovela: jugará en Atalanta y no en Roma",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/30/2025123018215192979.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/telenovela-raspadori-concluye-atacante-atalanta-roma/20260114072804370520.html",
+        "date": "2026-01-14 06:28:04",
+        "sentiment_score": 0.44278135895729065
+    },
+    {
+        "title": "La Liga MX busca en el Atlético un crack para llenar el vacío que dejó Sergio Ramos",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/09/2025120905521227594.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/liga-mx-busca-atletico-madrid-figura-llenar-vacio-que-dejo-sergio-ramos/20260114071337370519.html",
+        "date": "2026-01-14 06:13:37",
+        "sentiment_score": 0.02371092140674591
+    },
+    {
+        "title": "En libertad provisional el feriante de Cáceres acusado de contratar a sicarios para matar a un empresario sevillano del sector",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2026/01/13/FERIANTECCFETN-RfCxjzcG78X2FU4ENh0ZqfO-1200x840@Hoy.jpg",
+        "tags": [
+            "libertad",
+            "empresario",
+            "sevillano",
+            "acusado",
+            "feriante",
+            "provisional",
+            "matar",
+            "caceres",
+            "contratar",
+            "sicarios",
+            "sector"
+        ],
+        "link": "https://www.hoy.es/caceres/libertad-provisional-feriante-caceres-acusado-contratar-sicarios-20260114142750-nt.html",
+        "date": "2026-01-14 06:12:45",
+        "sentiment_score": -0.7481498923152685
+    },
+    {
+        "title": "Murcia y Valencia son las comunidades con mayor incremento de financiación en el nuevo modelo propuesto por el Gobierno",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/822a7c2c-2146-46f6-b658-8f169a9a0392_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "consejo de política fiscal y financiera",
+            "maría jesús montero",
+            "comunidades autónomas",
+            "ministerio de hacienda",
+            "sistema de financiación autonómica",
+            "financiación autonómica"
+        ],
+        "link": "https://www.diariodeibiza.es/economia/2026/01/14/murcia-valencia-comunidades-mayor-incremento-relativo-modelo-financiacion-autonomica-gobierno-cpff-montero-125659491.html",
+        "date": "2026-01-14 06:12:43",
+        "sentiment_score": -0.1917130947113037
+    },
+    {
+        "title": "La ultraderecha recurre al falangismo frente al Gobierno: falsa preocupación por la vivienda y anticapitalismo impostado",
+        "image_url": "https://www.elplural.com/uploads/s1/24/20/17/7/la-ultraderecha-recurre-al-falangismo-frente-al-gobierno-falsa-preocupacion-por-la-vivienda-y-anticapitalismo-impostado-ep_7_480x270.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elplural.com/politica/espana/ultraderecha-recurre-falangismo-frente-gobierno-falsa-preocupacion-vivienda-anticapitalismo-impostado_378531102",
+        "date": "2026-01-14 06:31:22",
+        "sentiment_score": -0.15497763454914093
+    },
+    {
+        "title": "El feísmo",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/98f78b66-1bf7-46d6-9a28-d9093731c501_16-9-aspect-ratio_default_0_x2887y1286.jpg",
+        "tags": [
+            "feismo"
+        ],
+        "link": "https://www.noticiasdenavarra.com/opinion/2026/01/14/feismo-10570663.html",
+        "date": "2026-01-14 06:30:33",
+        "sentiment_score": -0.8519565351307392
+    },
+    {
+        "title": "El feísmo",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/98f78b66-1bf7-46d6-9a28-d9093731c501_16-9-aspect-ratio_default_0_x2887y1286.jpg",
+        "tags": [
+            "feismo"
+        ],
+        "link": "https://www.deia.eus/opinion/2026/01/14/feismo-10570661.html",
+        "date": "2026-01-14 06:30:33",
+        "sentiment_score": -0.5953408926725388
+    },
+    {
+        "title": "Lo que debes saber hoy, 14 de enero, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2020/06/25/vivir-en-barcelona/500459954_10121913_1706x960.jpg",
+        "tags": [
+            "autobús",
+            "tráfico",
+            "clima",
+            "rodalies",
+            "tiempo",
+            "transports metropolitans barcelona tmb",
+            "movilidad",
+            "renfe barcelona",
+            "metro barcelona",
+            "aemet (agencia estatal de meteorología)"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260114/debes-saber-hoy-enero-barcelona/1003742723043_0.html",
+        "date": "2026-01-14 06:25:26",
+        "sentiment_score": -0.8040990438312292
+    },
+    {
+        "title": "El Derecho Internacional, en vilo ante el ansia de poder de Trump sobre Groenlandia: \"Difícilmente compatible con el marco jurídico\"",
+        "image_url": "https://www.elplural.com/uploads/s1/24/19/63/5/diseno-sin-titulo-47_7_480x270.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.elplural.com/politica/internacional/derecho-internacional-vilo-ansia-poder-trump-groenlandia-dificilmente-compatible-marco-juridico_378475102",
+        "date": "2026-01-14 06:24:34",
+        "sentiment_score": -0.22215920686721802
+    },
+    {
+        "title": "Los médicos vuelven a la huelga durante dos días para exigir un estatuto propio",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/a2a87be117e840940bfebe148476567c/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/14/17683717541587.jpg",
+        "tags": [
+            "ciencia-y-salud/salud"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2026/01/14/696735a2e9cf4aa13d8b4585.html",
+        "date": "2026-01-14 06:24:30",
+        "sentiment_score": -0.1537017934024334
+    },
+    {
+        "title": "El cielo se encapota en Cataluña y las temperaturas inician un ligero descenso por el oeste",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/03/12/vida/839426051_12599901_1706x960.jpg",
+        "tags": [
+            "tiempo",
+            "vida",
+            "cataluña"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20260114/cielo-encapota-cataluna-temperaturas-inician-ligero-descenso/1003742723042_0.html",
+        "date": "2026-01-14 06:18:32",
+        "sentiment_score": -0.14523085951805115
+    },
+    {
+        "title": "Seis de cada 10 alimentos que se meten en la cesta de la compra son ya de marca blanca",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f81a29dc-ded9-4caa-925c-3d56af33b4c4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "alimentos",
+            "marcas",
+            "supermercados",
+            "compras",
+            "comercio"
+        ],
+        "link": "https://www.laopiniondemalaga.es/economia/2026/01/14/peso-marca-blanca-cesta-compra-espana-2025-125659647.html",
+        "date": "2026-01-14 06:16:17",
+        "sentiment_score": -0.3327968269586563
+    },
+    {
+        "title": "Probamos los mejores patinetes para niños",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UJ4NYNQTMNC6ZPEX4EMJ2SMJGI.jpg?auth=4be7f45060aefd7fd79e36989c719bc45ce1ceafc91b718fbcd657606a4eddac&width=1200",
+        "tags": [
+            "patinetes eléctricos",
+            "niños",
+            "amazon"
+        ],
+        "link": "https://elpais.com/escaparate/comparativas/2026-01-14/mejores-patinetes-para-ninos.html",
+        "date": "2026-01-14 06:15:00",
+        "sentiment_score": 0.42234100960195065
     }
 ];
