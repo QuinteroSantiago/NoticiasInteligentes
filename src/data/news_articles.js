@@ -1,19 +1,5 @@
 export default [
     {
-        "title": "De la Constitución a los colectivos, cuatro preguntas que definirán el incierto futuro de Venezuela",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/08b4501e3c9ba92c70b1def39c0376a922c8eedcw.jpg",
-        "tags": [
-            "destacados",
-            "venezuela",
-            "nacionales",
-            "constitución",
-            "colectivos"
-        ],
-        "link": "https://lapatilla.com/2026/01/10/de-la-constitucion-a-los-colectivos-cuatro-preguntas-que-definiran-el-incierto-futuro-de-venezuela/",
-        "date": "2026-01-10 12:29:11",
-        "sentiment_score": -0.8169306199997663
-    },
-    {
         "title": "Carvajal, sobre su renovación: \"Si los astros se alinean y estamos en la línea de lo que queremos, no habrá ningún problema\"",
         "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/01/10/6962866d65eff.r_d.926-420-2240.jpeg",
         "tags": [
@@ -549,20 +535,6 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260110/mejores-pueblos-mundo-onu-naturaleza-patrimonio-cerca-barcelona/1003742722271_0.html",
         "date": "2026-01-10 21:34:44",
         "sentiment_score": 0.8606509324163198
-    },
-    {
-        "title": "De la Constitución a los colectivos, cuatro preguntas que definirán el incierto futuro de Venezuela",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/08b4501e3c9ba92c70b1def39c0376a922c8eedcw.jpg",
-        "tags": [
-            "destacados",
-            "venezuela",
-            "nacionales",
-            "constitución",
-            "colectivos"
-        ],
-        "link": "https://lapatilla.com/2026/01/10/de-la-constitucion-a-los-colectivos-cuatro-preguntas-que-definiran-el-incierto-futuro-de-venezuela/",
-        "date": "2026-01-10 12:29:11",
-        "sentiment_score": -0.8169304933398962
     },
     {
         "title": "Mejorar la gobernanza",
@@ -2647,5 +2619,254 @@ export default [
         "link": "https://www.20minutos.es/cinemania/noticias/premios-goya-2026-nominaciones-mejor-cine-espanol_6920508_6.html",
         "date": "2026-01-13 21:41:23",
         "sentiment_score": 0.13381241261959076
+    },
+    {
+        "title": "El tren bala chino que obsesiona a Óscar Puente: puede alcanzar los 450 km/h para unir Madrid y Barcelona en hora y media",
+        "image_url": "https://s3.elespanol.com/2026/01/12/omicrono/tecnologia/1003744086825_260880310_1706x960.jpg",
+        "tags": [
+            "trenes",
+            "transporte ferroviario",
+            "china",
+            "tecnología"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20260114/tren-bala-chino-obsesiona-oscar-puente-puede-alcanzar-kmh-unir-madrid-barcelona-hora-media/1003744086516_0.html",
+        "date": "2026-01-14 01:47:14",
+        "sentiment_score": 0.05358146131038666
+    },
+    {
+        "title": "Plus Ultra pagó a inversores desconocidos una deuda de 9M dando un avión de 2001 que siguió usando bajo alquiler",
+        "image_url": "https://s3.elespanol.com/2026/01/13/actualidad/1003744088685_260902801_1706x960.jpg",
+        "tags": [
+            "venezuela",
+            "plus ultra líneas aéreas",
+            "tribunales",
+            "sepi sociedad estatal participaciones industriales",
+            "periodismo de investigación"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20260114/plus-ultra-pago-inversores-desconocidos-deuda-dando-avion-siguio-usando-alquiler/1003744088155_0.html",
+        "date": "2026-01-14 01:44:47",
+        "sentiment_score": -0.1335584968328476
+    },
+    {
+        "title": "Las CCAA del PP exigirán que Montero les adelante parte de los 21.000M prometidos pero dirán no al 'modelo Junqueras'",
+        "image_url": "https://s3.elespanol.com/2026/01/13/espana/politica/1003744088705_260903079_1706x960.jpg",
+        "tags": [
+            "independentismo",
+            "ministerio de hacienda y función pública",
+            "oriol junqueras",
+            "financiación autonómica",
+            "maría jesús montero",
+            "política",
+            "alberto núñez feijóo",
+            "pedro sánchez"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20260114/ccaa-pp-exigiran-montero-adelante-parte-prometidos-diran-no-modelo-junqueras/1003744088193_0.html",
+        "date": "2026-01-14 01:26:16",
+        "sentiment_score": -0.8763078413903713
+    },
+    {
+        "title": "Rafael Fructuoso, agricultor madrileño, tras el acuerdo de la UE y Mercosur: \"Nos deja vendidos frente a otros países\"",
+        "image_url": "https://s3.elespanol.com/2026/01/13/actualidad/1003744087695_260890708_1706x960.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "agricultura",
+            "sociedad",
+            "madrid"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20260114/rafael-fructuoso-agricultor-madrileno-acuerdo-ue-mercosur-deja-vendidos-frente-paises/1003744087489_0.html",
+        "date": "2026-01-14 01:00:00",
+        "sentiment_score": 0.15079365670681
+    },
+    {
+        "title": "Doña Letizia entrega los Premios Zenda en medio de la preocupación por el estado de salud de Irene de Grecia",
+        "image_url": "https://www.infobae.com/resizer/v2/JCE6Y2Y2NFBG7EENCA7DZ44GEU.jpg?auth=2198ed8b6140ac045e5787451912c11cc068a9e60cad698fe44e619458c3ad3e&height=1440&smart=true&width=1920",
+        "tags": [
+            "madrid",
+            "literatura española",
+            "europapress",
+            "galardones literarios",
+            "irene de grecia",
+            "premios zenda",
+            "enrique vila-matas",
+            "isabel díaz ayuso",
+            "letizia ortiz",
+            "real fábrica de tapices",
+            "josé luis martínez almeida"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/13/dona-letizia-entrega-los-premios-zenda-en-medio-de-la-preocupacion-por-el-estado-de-salud-de-irene-de-grecia/",
+        "date": "2026-01-14 00:49:16",
+        "sentiment_score": 0.5512740463018417
+    },
+    {
+        "title": "La Reina entrega el Premio Zenda a Vila-Matas, que afirma que hay \"imbéciles\" en todos los ambientes y no solo digitales",
+        "image_url": "https://www.infobae.com/resizer/v2/SGP7WMZGX5DBJBMFVMYULE6K4E.jpg?auth=30b725db2b893518d45177860f3b3687d8bd39d60f4264ebac95ab78049456b6&height=1280&smart=true&width=1920",
+        "tags": [
+            "madrid",
+            "letizia",
+            "premios literarios",
+            "arturo pérez-reverte",
+            "europapress",
+            "galardones",
+            "enrique vila-matas",
+            "literatura",
+            "real fábrica de tapices",
+            "mario vargas llosa",
+            "zenda"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/13/la-reina-entrega-el-premio-zenda-a-vila-matas-que-afirma-que-hay-imbeciles-en-todos-los-ambientes-y-no-solo-digitales/",
+        "date": "2026-01-14 00:48:46",
+        "sentiment_score": 0.7860473543405533
+    },
+    {
+        "title": "Pedja Mijatovic sobre la destitución de Xabi Alonso: “Quizás no es un problema de entrenadores, sino de la plantilla, que ha perdido hambre y ganas”",
+        "image_url": "https://www.infobae.com/resizer/v2/QYRVIGV445BYJGDM4LKU5KRHPI.jpg?auth=031d36a71d485d320c70fdf7329c332032a7da8ac6eec2499c7db443f002d164&height=1080&smart=true&width=1920",
+        "tags": [
+            "mijatovic",
+            "fútbol españa",
+            "champions league",
+            "real madrid",
+            "la liga",
+            "españa-noticias",
+            "fútbol",
+            "fc barcelona",
+            "españa-deportes",
+            "álvaro arbeloa",
+            "xabi alonso"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/01/14/pedja-mijatovic-sobre-la-destitucion-de-xabi-alonso-quizas-no-es-un-problema-de-entrenadores-sino-de-la-plantilla-que-ha-perdido-hambre-y-ganas/",
+        "date": "2026-01-14 00:47:56",
+        "sentiment_score": 0.5895476564764977
+    },
+    {
+        "title": "13 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/13-ene-2026-partidazo-cope-20260114_3286064.html",
+        "date": "2026-01-14 00:43:09",
+        "sentiment_score": -0.0076644644141197205
+    },
+    {
+        "title": "Gol de tiro libre de Griezmann lleva al Atlético de Madrid a cuartos de la Copa del Rey",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/371fd11/2147483647/strip/true/crop/1000x525+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2Fdf%2F583ec1044822a259af5c031752f8%2Flat3.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-01-13/gol-de-tiro-libre-de-griezmann-lleva-al-atletico-de-madrid-cuartos-de-la-copa-del-rey",
+        "date": "2026-01-14 00:40:25",
+        "sentiment_score": 0.8326442241668701
+    },
+    {
+        "title": "Ander Cotorro, analista y comentarista de Tiempo de Juego analiza la forma de jugar de Arbeloa: \"Un estilo de juego cercano al Barça\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/14/6966e088aa1f1.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/ander-cotorro-analista-comentarista-juego-analiza-forma-jugar-arbeloa-estilo-juego-cercano-barca-20260114_3286060.html",
+        "date": "2026-01-14 00:19:03",
+        "sentiment_score": -0.051049113273620605
+    },
+    {
+        "title": "Clima en Barcelona: temperatura y probabilidad de lluvia para este 14 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
+        "tags": [
+            "barcelona",
+            "noticias",
+            "tiempo en españa",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/14/clima-en-barcelona-temperatura-y-probabilidad-de-lluvia-para-este-14-de-enero/",
+        "date": "2026-01-14 02:15:34",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "El viaje del Papa",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "viaje",
+            "papa"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/viaje-papa_0_2005638150.html",
+        "date": "2026-01-14 02:07:23",
+        "sentiment_score": -0.2084350883960724
+    },
+    {
+        "title": "Lleonart (Metges): “Las CCAA deben dejar su hipocresía atrás y asumir sus responsabilidades en el Estatuto Marco”",
+        "image_url": "https://s3.elespanol.com/2026/01/13/actualidad/1003744088640_260902324_1706x960.jpg",
+        "tags": [
+            "sanidad - política sanitaria",
+            "huelgas",
+            "sanidad - actualidad sanitaria",
+            "observatorio de la sanidad"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260114/lleonart-metges-ccaa-deben-dejar-hipocresia-asumir-responsabilidades-estatuto-marco/1003744088184_0.html",
+        "date": "2026-01-14 01:26:16",
+        "sentiment_score": -0.061247818171978
+    },
+    {
+        "title": "Las viviendas turísticas empiezan a desaparecer de las grandes ciudades",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/14/2026011402044684067.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.mundiario.com/articulo/economia/viviendas-turisticas-empiezan-desaparecer-grandes-ciudades/20260114020527370489.html",
+        "date": "2026-01-14 01:05:27",
+        "sentiment_score": -0.7964214533567429
+    },
+    {
+        "title": "El nuevo Camp Nou impulsará los ingresos del Barça hasta los 1.200 millones en 2028",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/14/culemania/palco/1003742723041_15597419_1706x960.jpg",
+        "tags": [
+            "palco",
+            "fc barcelona",
+            "camp nou",
+            "espai barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260114/nuevo-camp-nou-impulsara-ingresos-barca-millones/1003742723039_0.html",
+        "date": "2026-01-14 00:45:25",
+        "sentiment_score": 0.2773180902004242
+    },
+    {
+        "title": "La fuerte advertencia de un histórico piloto de Fórmula 1 y compañero de Schumacher a Franco Colapinto",
+        "image_url": "https://www.infobae.com/resizer/v2/CBRAH4MIBRDE3K3U4QQ72VNUJI.png?auth=3d12fb7c47424351980949ca51f3a71efd7f222c4e702b2e4b716db4af3c8058&height=1080&smart=true&width=1920",
+        "tags": [
+            "franco colapinto",
+            "deportes-internacional",
+            "alpine",
+            "johnny herbert",
+            "fórmula 1",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/14/la-fuerte-advertencia-de-un-historico-piloto-de-formula-1-y-companero-de-schumacher-a-franco-colapinto/",
+        "date": "2026-01-14 00:05:14",
+        "sentiment_score": -0.8763195918872952
+    },
+    {
+        "title": "En memoria de Vidal Cano, corredor popular",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2026/01/13/vidal-cano-obituario-st-kVJI--1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "obituarios cantabria"
+        ],
+        "link": "https://www.eldiariomontanes.es/obituarios/memoria-vidal-cano-corredor-popular-20260114072219-nt.html",
+        "date": "2026-01-14 00:00:00",
+        "sentiment_score": -0.23619554936885834
+    },
+    {
+        "title": "Laporta aparca las aventuras más arriesgadas del Barça: se desmarca de la Superliga y la NBA Europa",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/22/culemania/primer-equipo/1003742709860_15434622_1706x960.jpg",
+        "tags": [
+            "fcb basket",
+            "joan laporta",
+            "champions league",
+            "superliga",
+            "nba",
+            "secciones"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260114/laporta-aventuras-arriesgadas-barca-superliga-nba-europa/1003742722921_0.html",
+        "date": "2026-01-13 23:55:48",
+        "sentiment_score": -0.7806403301656246
     }
 ];
