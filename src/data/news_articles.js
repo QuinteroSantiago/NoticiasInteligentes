@@ -1,160 +1,5 @@
 export default [
     {
-        "title": "Un gran reto sin Boyé ante la mejor zaga de LaLiga",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2070fac0-9f1c-41d4-982a-ebf8faede81b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "mejor",
-            "alavés",
-            "gran",
-            "zaga",
-            "villarreal",
-            "previa",
-            "laliga",
-            "boye",
-            "reto"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2026/01/10/gran-reto-boye-mejor-zaga-alaves-laliga-villarreal-previa-10557099.html",
-        "date": "2026-01-10 06:00:20",
-        "sentiment_score": 0.19069502502679825
-    },
-    {
-        "title": "Fitur 2026: Ciudad Real protagonizará la actividad del estand regional el domingo 25",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/Celebracion-del-dia-de-Ciudad-Real-en-Fitur-2025-J-Jurado.jpg",
-        "tags": [
-            "sabor quijote",
-            "turismo",
-            "pernoctaciones",
-            "geoparque unesco volcanes de calatrava. ciudad real",
-            "provincia de ciudad real"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/fitur-2026-ciudad-real-protagonizara-la-actividad-del-estand-regional-el-domingo-25/",
-        "date": "2026-01-10 06:00:00",
-        "sentiment_score": -0.02498084306716919
-    },
-    {
-        "title": "Restaurante con historia de los bandoleros: su plato estrella son los huevos a lo bestia",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/02/695787043ed4b9-18844343.jpeg",
-        "tags": [
-            "restaurantes"
-        ],
-        "link": "https://www.20minutos.es/gastronomia/restaurantes/restaurante-tres-siglos-historia-malaga-frecuentaban-bandoleros-plato-estrella-huevos-bestia_6916643_0.html",
-        "date": "2026-01-10 06:00:00",
-        "sentiment_score": -0.21635780110955238
-    },
-    {
-        "title": "Cambios en el conteo de la población y en la gestión de los impuestos: así es el nuevo modelo de financiación autonómica",
-        "image_url": "https://static.grupojoly.com/clip/138026ce-a114-4f27-89f3-7c3fbb1bc81c_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gestion",
-            "poblacion",
-            "conteo",
-            "impuestos",
-            "cambios"
-        ],
-        "link": "https://www.malagahoy.es/andalucia/cambios-conteo-poblacion-gestion-impuestos_0_2005614011.html",
-        "date": "2026-01-10 05:58:19",
-        "sentiment_score": 0.10156387090682983
-    },
-    {
-        "title": "Feijóo evita embestir a Trump para no dar munición a Sánchez y Abascal",
-        "image_url": "https://s1.staticld.com/2026/01/09/alberto-nunez-feijoo-pp-genova.jpg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.libertaddigital.com/espana/politica/2026-01-10/feijoo-evita-embestir-a-trump-para-no-dar-municion-a-sanchez-y-abascal-7341511/",
-        "date": "2026-01-10 06:30:10",
-        "sentiment_score": 0.09383897483348846
-    },
-    {
-        "title": "¿Será Semenyo la próxima estrella o un caso Marmoush? El reto de alcanzar a Haaland",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/10/2026011007224253696.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/antoine-semenyo-entre-sombra-marmoush-brillo-haaland/20260110072435370027.html",
-        "date": "2026-01-10 06:24:35",
-        "sentiment_score": 0.4839147925376892
-    },
-    {
-        "title": "Barcelona-Partizán: No hay piedad que valga ante un colista al que Peñarroya tampoco da aire (88-70)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/10/image-1bf1f551-65b9-4e93-90a0-9fe8e915bc28-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "entertainment",
-            "lifestyle"
-        ],
-        "link": "https://www.eurosport.es/baloncesto/euroliga/2025-2026/barcelona-partizan-belgrado-resumen-resultado-mejores-momentos-canastas-highlights-jornada-21-hoy_vid60045261/video.shtml",
-        "date": "2026-01-10 06:24:06",
-        "sentiment_score": 0.7795966416597366
-    },
-    {
-        "title": "Carmen Prieto, testimonio en primera persona: \"Los antidepresivos me dejaban plana emocionalmente\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bfd33c3f-1f2a-4eed-85ca-c0f9d9c58273_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "salud mental",
-            "depresión",
-            "medicamentos",
-            "psicología"
-        ],
-        "link": "https://www.elperiodico.com/es/ser-feliz/20260110/carmen-prieto-testimonio-primera-persona-125296390",
-        "date": "2026-01-10 06:00:59",
-        "sentiment_score": -0.6798554603010416
-    },
-    {
-        "title": "El consumo de ropa pierde peso en un gasto familiar lastrado por la vivienda",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6ec50121-4cf1-40e1-8deb-2ae04d23c6a6_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "entender más",
-            "precios",
-            "rebajas"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260110/consumo-ropa-pierde-peso-gasto-125482347",
-        "date": "2026-01-10 06:00:59",
-        "sentiment_score": 0.24667205661535263
-    },
-    {
-        "title": "El coloso del puerto",
-        "image_url": "https://static.grupojoly.com/clip/c6a9c8f3-6385-4488-b1dd-b0d11bb273b8_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/coloso-puerto_0_2005607502.html",
-        "date": "2026-01-10 06:00:18",
-        "sentiment_score": -0.8471180954948068
-    },
-    {
-        "title": "Delcy Rodríguez agradece a Sánchez su “valiente postura” al condenar el ataque de EE. UU.",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/09/6961737c34060.r_d.1500-1000-1496.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.lavanguardia.com/internacional/20260110/11426923/delcy-rodriguez-agradece-sanchez-valiente-postura-condenar-ataque-ee-uu.html",
-        "date": "2026-01-10 05:59:30",
-        "sentiment_score": 0.4356841817498207
-    },
-    {
-        "title": "Los avisos por lluvia, oleaje, viento y nieve se reducen este sábado a 10 CC.AA, con mínimas de hasta -2oC",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/Gente-frio-_-Clara-Manzano-27.jpg",
-        "tags": [
-            "sociedad",
-            "aemet",
-            "tiempo"
-        ],
-        "link": "https://www.lanzadigital.com/sociedad/los-avisos-por-lluvia-oleaje-viento-y-nieve-se-reducen-manana-a-10-cc-aa-con-minimas-de-hasta-2oc/",
-        "date": "2026-01-10 05:53:00",
-        "sentiment_score": -0.10243311524391174
-    },
-    {
-        "title": "Un reloj con alma roquera creada por Eric Singer, el batería de Kiss",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/02/6957bab66dbc2.jpeg",
-        "tags": [
-            "moda"
-        ],
-        "link": "https://www.lavanguardia.com/magazine/moda/20260110/11257010/reloj-alma-roquera-creada-eric-singer-bateria-kiss.html",
-        "date": "2026-01-10 05:50:00",
-        "sentiment_score": 0.21008045971393585
-    },
-    {
         "title": "De la Constitución a los colectivos, cuatro preguntas que definirán el incierto futuro de Venezuela",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/08b4501e3c9ba92c70b1def39c0376a922c8eedcw.jpg",
         "tags": [
@@ -2584,5 +2429,223 @@ export default [
         "link": "https://www.larazon.es/cataluna/reves-judicial-taxis-barcelona-anulan-obligacion-contratar-vtc-hora-antelacion_2026011369667b79be7ae37724c2b63e.html",
         "date": "2026-01-13 17:06:01",
         "sentiment_score": -0.8397604841738939
+    },
+    {
+        "title": "'Los domingos' y 'Sirât', con 13 y 11 nominaciones, arrasan en candidaturas a los Premios Goya",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/03f2da1/2147483647/strip/true/crop/7630x4006+0+525/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F59%2F01%2Ff3b016cc4ee7a902680aff39b289%2F3c21481fe9f34327b1c8a13f24ea0ee6.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/entretenimiento/articulo/2026-01-13/los-domingos-y-sirat-con-13-y-11-nominaciones-arrasan-en-candidaturas-los-premios-goya",
+        "date": "2026-01-13 22:19:47",
+        "sentiment_score": 0.8310787379741669
+    },
+    {
+        "title": "Griezmann mete al Atlético en cuartos de final",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/ad684cb5-266c-4ac7-9c5ba1ac7b1dd74a.jpg",
+        "tags": [
+            "deportivo de la coruña",
+            "atlético de madrid",
+            "antoine griezmann",
+            "real madrid",
+            "copa del rey"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z4e04bd6a-738c-40bb-9a476c3e0558c050/202601/griezmann-mete-al-atletico-en-cuartos-de-final",
+        "date": "2026-01-13 22:13:15",
+        "sentiment_score": 0.8477192725986242
+    },
+    {
+        "title": "Arbeloa afirma que no intentará ser el nuevo Mourinho en el Real Madrid",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/30a80d2/2147483647/strip/true/crop/7754x4071+0+550/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F42%2F59%2Fa4b061d14fe58b840fb9015c63d6%2F1e4ba7f391f64c0ca98b263abca8024d.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-01-13/arbeloa-afirma-que-no-intentara-ser-el-nuevo-mourinho-en-el-real-madrid",
+        "date": "2026-01-13 22:03:19",
+        "sentiment_score": -0.5335356313735247
+    },
+    {
+        "title": "Bellingham estalla contra los rumores de su mala relación con Xabi Alonso",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/01/13/38F192C8-184A-47DC-8645-8BD02CD88648/bellingham-xabi-alonso-entrenamiento_98.jpg?crop=1280%2C720%2Cx0%2Cy31&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/bellingham-estalla-rumores-mala-relacion-xabi-alonso_202601136966bc7c384d9f038d870762.html",
+        "date": "2026-01-13 21:43:24",
+        "sentiment_score": -0.9430870525538921
+    },
+    {
+        "title": "Cinco restaurantes de Siero compiten por el mejor plato de callos de España: estos son los locales que participan en el certamen nacional",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5b78cdcc-bbb1-4db4-8296-f19c70448c7e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "asturias",
+            "restaurantes",
+            "siero",
+            "callos"
+        ],
+        "link": "https://www.lne.es/siero/2026/01/13/cinco-restaurantes-siero-compiten-mejor-125655179.html",
+        "date": "2026-01-13 21:39:17",
+        "sentiment_score": 0.03702870011329651
+    },
+    {
+        "title": "El Athletic toma Valdebebas",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/3849bf50-5c94-4e1a-8a31-6d83c3632e0b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "toma",
+            "athletic",
+            "valdebebas"
+        ],
+        "link": "https://www.deia.eus/athletic-femenino/2026/01/13/athletic-toma-valdebebas-10570216.html",
+        "date": "2026-01-13 21:35:31",
+        "sentiment_score": 0.2504425644874573
+    },
+    {
+        "title": "Fabian Causeur se retira del baloncesto",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/13/6966b8e7e105b.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/fabian-causeur-retira-baloncesto-20260113_3286020.html",
+        "date": "2026-01-13 21:31:48",
+        "sentiment_score": 0.2629784941673279
+    },
+    {
+        "title": "Un serio Athletic asalta el Di Stéfano con susto de Adriana Nanclares y aleja al Real Madrid del FC Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/LRDC7TFUPZHV3KEUGWPWMZ7K5M.jpg?auth=f9fcdc2230e5b4b857280798f6f379a2331e6e07b76be103f41043b9f3da78ac&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/13/un-serio-athletic-asalta-el-di-stefano-con-susto-de-adriana-nanclares-y-aleja-al-real-madrid-del-fc-barcelona/",
+        "date": "2026-01-13 21:15:16",
+        "sentiment_score": -0.8929872438311577
+    },
+    {
+        "title": "Excampeón de UFC arremetió contra jugadores del Real Madrid y defendió a Xabi Alonso",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Khabib-Nurmagomedov.jpg",
+        "tags": [
+            "titulares",
+            "real madrid",
+            "khabib nurmagomedov",
+            "deportes",
+            "xabi alonso"
+        ],
+        "link": "https://lapatilla.com/2026/01/13/excampeon-de-ufc-arremetio-contra-jugadores-del-real-madrid-y-defendio-a-xabi-alonso/",
+        "date": "2026-01-13 21:14:30",
+        "sentiment_score": -0.18347078934311867
+    },
+    {
+        "title": "El emotivo mensaje de Nagore Aramburu para Xavi Alonso tras su salida del Real Madrid",
+        "image_url": "https://lavozdeibiza.com/wp-content/uploads/2026/01/Xabi-Alonso-y-su-familia.avif",
+        "tags": [
+            "real madrid",
+            "sociedad",
+            "xavi alonso",
+            "nagore aramburu",
+            "actualidad"
+        ],
+        "link": "https://lavozdeibiza.com/actualidad/el-emotivo-mensaje-de-nagore-aramburu-para-xavi-alonso-tras-su-salida-del-real-madrid/",
+        "date": "2026-01-13 21:11:28",
+        "sentiment_score": -0.24740298092365265
+    },
+    {
+        "title": "Susana Abaitua logra su primera nominación a los Goya con ‘Un fantasma en la batalla’, basada en la misma historia que ‘La infiltrada’: “Cada película tiene su camino”",
+        "image_url": "https://www.infobae.com/resizer/v2/XMUNXNVGT5G7XIPJL53I3ZEP3Q.jpg?auth=7f034888a87fa4b0e497bfa8e22e25be15c8087fcaf694977e9c7049feab93a2&height=1068&smart=true&width=1898",
+        "tags": [
+            "cine españa",
+            "premios goya 2026",
+            "españa-cultura",
+            "cine",
+            "premios goya",
+            "susana abaitua",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2026/01/13/susana-abaitua-logra-su-primera-nominacion-a-los-goya-con-un-fantasma-en-la-batalla-basada-en-la-misma-historia-que-la-infiltrada-cada-pelicula-tiene-su-camino/",
+        "date": "2026-01-13 22:05:34",
+        "sentiment_score": 0.3806692846119404
+    },
+    {
+        "title": "Un sevillano, premiado con un millón de euros en el Euromillones",
+        "image_url": "https://static.grupojoly.com/clip/776c5c4f-d6cf-470c-8c69-6c9be5d261f2_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias sevilla"
+        ],
+        "link": "https://www.diariodesevilla.es/sevilla/sevillano-premiado-millon-euros-euromillones_0_2005637676.html",
+        "date": "2026-01-13 22:04:57",
+        "sentiment_score": 0.40587231889367104
+    },
+    {
+        "title": "A juicio un inquilino de un piso de Barcelona donde la propiedad quiere construir 'colivings'",
+        "image_url": "https://www.infobae.com/resizer/v2/UN7LXMALKFBCLJ4LG2BR3WU3LE.jpg?auth=27246bca5951aa6eeeafdd5064979a24a5aba1279f3ad1f93f810d2a40245229&height=1280&smart=true&width=1920",
+        "tags": [
+            "gràcia",
+            "fondo de inversión",
+            "carme arcarazo",
+            "europapress",
+            "sindicat de llogateres",
+            "barcelona",
+            "ciutat de la justícia",
+            "colivings",
+            "desahucios",
+            "vivienda",
+            "txema escorsa"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/13/a-juicio-un-inquilino-de-un-piso-de-barcelona-donde-la-propiedad-quiere-construir-colivings/",
+        "date": "2026-01-13 22:02:54",
+        "sentiment_score": -0.845124926418066
+    },
+    {
+        "title": "Dónde han caído el bote de Euromillones, y los premios de la Bonoloto y la ONCE de hoy, martes 13 de enero de 2026",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2019/12/15/DD6F937B-CB78-45BE-A8BA-423DBC0AECA2/98.jpg?crop=594%2C334%2Cx0%2Cy53&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "loterías",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-bote-41-millones-euromillones-premios-bonoloto-once-hoy-martes-6-enero-2025_202601136966c0d55b0f0226996207df.html",
+        "date": "2026-01-13 22:01:57",
+        "sentiment_score": -0.07793214917182922
+    },
+    {
+        "title": "Zapatero busca blanquear a Delcy con una oposición a la carta en Venezuela",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/b163308355aee2e784ab008b60b4770c/crop/60x63/2026x1374/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/13/17683367150227.jpg",
+        "tags": [
+            "españa",
+            "nlpremium",
+            "venezuela"
+        ],
+        "link": "https://www.elmundo.es/internacional/2026/01/13/6966a56dfdddfff2348b4587.html",
+        "date": "2026-01-13 21:53:42",
+        "sentiment_score": -0.004249006509780884
+    },
+    {
+        "title": "El ICA refuerza los controles a viajeros desde España para impedir el ingreso de la peste porcina africana",
+        "image_url": "https://www.infobae.com/resizer/v2/XVNYXZUKVVCEDMVPVGC6YVA6KA.jpg?auth=b32cf8eb8273910f3b3608f9162cb7944ad3bfb5c1ad02eb46cfe008d82ffaa2&height=3266&smart=true&width=4995",
+        "tags": [
+            "industria porcina",
+            "colombia-economía",
+            "bioseguridad",
+            "españa",
+            "cerdanyola del vallès",
+            "ica",
+            "colombia-noticias",
+            "peste porcina africana",
+            "porkcolombia"
+        ],
+        "link": "https://www.infobae.com/colombia/2026/01/13/el-ica-refuerza-los-controles-a-viajeros-desde-espana-para-impedir-el-ingreso-de-la-peste-porcina-africana/",
+        "date": "2026-01-13 21:51:37",
+        "sentiment_score": -0.4218292459845543
+    },
+    {
+        "title": "Premios Goya 2026: 'Los domingos' arrasa en nominaciones por delante de 'Sirat' y 'Maspalomas'",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/03/6908a994dda8a.jpeg",
+        "tags": [
+            "cine"
+        ],
+        "link": "https://www.20minutos.es/cinemania/noticias/premios-goya-2026-nominaciones-mejor-cine-espanol_6920508_6.html",
+        "date": "2026-01-13 21:41:23",
+        "sentiment_score": 0.13381241261959076
     }
 ];
