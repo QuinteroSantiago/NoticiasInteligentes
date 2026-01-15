@@ -2466,5 +2466,211 @@ export default [
         "link": "https://www.latimes.com/espanol/entretenimiento/articulo/2026-01-14/fiscales-espanoles-investigan-acusaciones-de-agresion-sexual-contra-julio-iglesias",
         "date": "2026-01-14 22:18:08",
         "sentiment_score": -0.8128390004858375
+    },
+    {
+        "title": "Álvaro Arbeloa: “Si alguien es responsable de la derrota soy yo”",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/01/arbeloa.jpg",
+        "tags": [
+            "deportes",
+            "primera derrota",
+            "real madrid",
+            "14ene",
+            "arbeloa"
+        ],
+        "link": "https://laverdaddemonagas.com/2026/01/14/alvaro-arbeloa-derrota/",
+        "date": "2026-01-15 02:14:06",
+        "sentiment_score": -0.36146294325590134
+    },
+    {
+        "title": "El mexicano que participó en la histórica eliminación del Real Madrid a manos del Albacete",
+        "image_url": "https://www.infobae.com/resizer/v2/B2LJY7U34JDMBOTFOZBL7UTGV4.JPG?auth=8fb43f88d278d3dc45beeacbaffccccb4ac8d502c9299c36da3ea91229b49b2c&height=3918&smart=true&width=5877",
+        "tags": [
+            "copa del rey",
+            "mexico-noticias",
+            "álvaro arbeloa",
+            "real madrid",
+            "albacete balompié",
+            "mexico-deportes",
+            "jonathan gómez"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2026/01/15/el-mexicano-que-participo-en-la-historica-eliminacion-del-real-madrid-a-manos-del-albacete/",
+        "date": "2026-01-15 02:04:08",
+        "sentiment_score": 0.838950127363205
+    },
+    {
+        "title": "Las noches más amargas del Real Madrid en Copa del Rey: un repaso a sus eliminaciones más recordadas",
+        "image_url": "https://www.infobae.com/resizer/v2/KIOO6Y5UIREHTCMVLNYZ43GAJQ.jpg?auth=e227ec24a91850e398918e826d8631266a4bb8464b1ea4559b9884c4a5ad593b&height=2998&smart=true&width=4496",
+        "tags": [
+            "españa-noticias",
+            "copa del rey",
+            "fútbol",
+            "españa-deportes",
+            "fútbol españa",
+            "real madrid",
+            "albacete"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/01/15/las-noches-mas-amargas-del-real-madrid-en-copa-del-rey-un-repaso-a-sus-eliminaciones-mas-recordadas/",
+        "date": "2026-01-15 02:00:38",
+        "sentiment_score": 0.41271544992923737
+    },
+    {
+        "title": "“Ridículo histórico” y “vergüenza”: las repercusiones de la eliminación del Real Madrid de la Copa del Rey, con dardos a Mastantuono",
+        "image_url": "https://www.infobae.com/resizer/v2/Q2RIXXKCFJABXO2DNGCPYN5ZLM.JPG?auth=27724e6a965ee598ce629ebfc55f2adf735591076a687393fa4c5aaf1f5e6025&height=3361&smart=true&width=5975",
+        "tags": [
+            "franco mastantuono",
+            "deportes-internacional",
+            "vinicius júnior",
+            "real madrid",
+            "deportes-argentina",
+            "copa del rey",
+            "albacete"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/15/ridiculo-historico-y-verguenza-las-repercusiones-de-la-eliminacion-del-real-madrid-de-la-copa-del-rey-con-dardos-a-mastantuono/",
+        "date": "2026-01-15 01:45:50",
+        "sentiment_score": 0.3848055824637413
+    },
+    {
+        "title": "Real Madrid eliminado de Copa del Rey por el Albacete de 2a división en debut del entrenador Arbeloa",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/6d8697a/2147483647/strip/true/crop/3175x1667+0+225/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8e%2Fb0%2Fdf02540a40da94311e507844bbd0%2Ff1c5021f8fec408295ea6db9b6b02608.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-01-14/real-madrid-eliminado-de-copa-del-rey-por-el-albacete-de-2-division-en-debut-del-entrenador-arbeloa",
+        "date": "2026-01-15 00:57:45",
+        "sentiment_score": -0.27122320234775543
+    },
+    {
+        "title": "Este es el motivo por el que dormimos peor que nunca en España aunque sepamos cada vez más sobre el sueño",
+        "image_url": "https://s3.elespanol.com/2016/06/12/actualidad/132001188_129485026_1706x960.jpg",
+        "tags": [
+            "trastornos del sueño",
+            "sueño",
+            "salud",
+            "insomnio"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20260115/motivo-dormimos-peor-nunca-espana-sepamos-vez-sueno/1003744086874_0.html",
+        "date": "2026-01-15 00:40:00",
+        "sentiment_score": -0.8834814950823784
+    },
+    {
+        "title": "14 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/14-ene-2026-partidazo-cope-20260115_3286950.html",
+        "date": "2026-01-15 00:38:42",
+        "sentiment_score": -0.013702496886253357
+    },
+    {
+        "title": "“Hemos tocado fondo estrepitosamente”: Las reacciones de Carvajal y Arbeloa tras la derrota en Albacete",
+        "image_url": "https://www.infobae.com/resizer/v2/AAORF34TDJAOJO4PPMT466INYA.jpg?auth=2f6499e37a84d0727e5516cd7d40279e202306b49d3fb482778956244ed2c824&height=1080&smart=true&width=1920",
+        "tags": [
+            "dani carvajal",
+            "albacete",
+            "fútbol españa",
+            "real madrid",
+            "españa-noticias",
+            "fútbol",
+            "españa-deportes",
+            "álvaro arbeloa"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/01/15/hemos-tocado-fondo-estrepitosamente-las-reacciones-de-carvajal-y-arbeloa-tras-la-derrota-en-albacete/",
+        "date": "2026-01-15 00:27:38",
+        "sentiment_score": 0.43392715975642204
+    },
+    {
+        "title": "Fernando Ranz, country manager de Celonis: “La empresa del futuro estará impulsada por la IA y será componible”",
+        "image_url": "https://revistabyte.es/wp-content/uploads/2026/01/fernando-ranz-country-manager-de-celonis.webp",
+        "tags": [
+            "procesos",
+            "ia",
+            "analitica de datos",
+            "entrevistas tic"
+        ],
+        "link": "https://revistabyte.es/entrevistas/fernando-ranz-celonis/",
+        "date": "2026-01-15 00:25:38",
+        "sentiment_score": 0.7657607682049274
+    },
+    {
+        "title": "José Alberto: \"Será mucho más difícil; sin Barça y Madrid, ¿quién va a Arabia?\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/01/15/6968308922845.r_d.546-305-4535.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/jose-alberto-lopez-sera-dificil-barca-madrid-arabia-ano-viene-20260115_3286942.html",
+        "date": "2026-01-15 00:15:01",
+        "sentiment_score": -0.03554156422615051
+    },
+    {
+        "title": "Clima en Barcelona: pronóstico de lluvias y ráfagas de viento",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
+        "tags": [
+            "barcelona",
+            "noticias",
+            "españa sociedad",
+            "tiempo en españa",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/15/clima-en-barcelona-pronostico-de-lluvias-y-rafagas-de-viento/",
+        "date": "2026-01-15 02:16:15",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "El PSOE, el PP y el cine",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "pp",
+            "psoe",
+            "cine"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/psoe-pp-cine_0_2005645566.html",
+        "date": "2026-01-15 02:07:19",
+        "sentiment_score": -0.3789524585008621
+    },
+    {
+        "title": "Junts abre la puerta a la quita mientras el Gobierno confía en un giro sobre la financiación",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/15/2026011503251590310.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/junts-abre-puerta-quita-mientras-gobierno-confia-giro-financiacion/20260115024714370661.html",
+        "date": "2026-01-15 01:47:14",
+        "sentiment_score": -0.7427232936024666
+    },
+    {
+        "title": "Cara y cruz para las aerolíneas de IAG: Vueling despega con 5.000 M€ e Iberia Express sigue con su futuro en el aire",
+        "image_url": "https://s3.elespanol.com/2026/01/14/actualidad/1003744089515_260913013_1706x960.jpg",
+        "tags": [
+            "turismo",
+            "luis gallego",
+            "iberia",
+            "iag",
+            "vueling"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/turismo/20260115/cara-cruz-aerolineas-iag-vueling-despega-meur-iberia-express-sigue-futuro-aire/1003744089387_0.html",
+        "date": "2026-01-15 01:39:17",
+        "sentiment_score": -0.2678420692682266
+    },
+    {
+        "title": "Dani Carvajal: \"Hemos tocado fondo, hay que dar mucho más\"",
+        "image_url": "https://www.infobae.com/resizer/v2/XBRPP2L3CNDIFB36MCB5ALOYXQ.jpg?auth=c9ab9d35491b0be709a884f120ec0cdb131b5380c973ec47d5e2c2d4759daea1&height=1280&smart=true&width=1920",
+        "tags": [
+            "madrid",
+            "copa del rey",
+            "autocrítica",
+            "dani carvajal",
+            "eliminación",
+            "real madrid",
+            "albacete",
+            "afición",
+            "europapress",
+            "carlos belmonte",
+            "fc barcelona"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/14/dani-carvajal-hemos-tocado-fondo-hay-que-dar-mucho-mas/",
+        "date": "2026-01-15 00:00:54",
+        "sentiment_score": 0.05988961458206177
     }
 ];
