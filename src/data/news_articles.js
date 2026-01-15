@@ -1,195 +1,5 @@
 export default [
     {
-        "title": "Tres goles en 900 minutos: la sequía que condena a Osasuna fuera de casa",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/11/tres-goles-en-900-minutos-la-sequia-que-condena-a-osasuna-fuera-de-casa/",
-        "date": "2026-01-11 17:16:49",
-        "sentiment_score": -0.8529550917446613
-    },
-    {
-        "title": "Undécimo gol de Muriqi, octavo de Moleiro y sexto de De Frutos",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/11/undecimo-gol-de-muriqi-octavo-de-moleiro-y-sexto-de-de-frutos/",
-        "date": "2026-01-11 17:15:25",
-        "sentiment_score": 0.06746067106723785
-    },
-    {
-        "title": "La Real y su ineludible cita con los octavos de Copa",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/0c05e065-c5fb-44a9-89de-e395e405134c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cita",
-            "ineludible",
-            "real",
-            "copa",
-            "rey",
-            "final",
-            "octavos",
-            "sociedad"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/01/11/real-ineludible-cita-octavos-copa-sociedad-rey-final-10561056.html",
-        "date": "2026-01-11 17:12:58",
-        "sentiment_score": -0.32612597942352295
-    },
-    {
-        "title": "Munuera Montero, el árbitro de la final de la Supercopa que lleva un año sufriendo acoso por no beneficiar al Real Madrid",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/02/15/culemania/real-madrid/924417601_14350761_1706x960.jpg",
-        "tags": [
-            "culemaníacos",
-            "supercopa de españa",
-            "real federación española de fútbol",
-            "árbitros",
-            "el clásico"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20260111/munuera-montero-supercopa-sufriendo-beneficiar-real-madrid/1003742722343_0.html",
-        "date": "2026-01-11 17:05:52",
-        "sentiment_score": -0.8538643941283226
-    },
-    {
-        "title": "Melilla, en el origen familiar de Brahim Díaz, estrella del Real Madrid",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/01/Brahim-Diaz-750x500.jpg?v=1768150098",
-        "tags": [
-            "deportes",
-            "melilla",
-            "marruecos",
-            "sociedad",
-            "futbol",
-            "noticias"
-        ],
-        "link": "https://elfarodeceuta.es/melilla-origen-familiar-brahim-diaz-estrella-real-madrid/",
-        "date": "2026-01-11 17:01:25",
-        "sentiment_score": 0.6376713514328003
-    },
-    {
-        "title": "Barcelona - Real Madrid, en directo: alineaciones, última hora y resultado de la final de la Supercopa de España",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/01/11/8B3DCD16-7179-455A-A990-F4CFA6B7DF8F/hansi-flick-xabi-alonso_96.jpg?crop=710%2C399%2Cx0%2Cy32&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "fútbol",
-            "antena 3 noticias",
-            "deportes"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/barcelona-real-madrid-directo-alineaciones-ultima-hora-resultado-final-supercopa-espana_202601116963d70b22f0db7daf0bd2ab.html",
-        "date": "2026-01-11 17:00:47",
-        "sentiment_score": 0.27465110272169113
-    },
-    {
-        "title": "Poca gente lo sabe, pero la falsificación de esta moneda estuvo a punto de destruir el imperio español en el siglo XVII",
-        "image_url": "https://okdiario.com/img/2026/01/09/moneda-historica.jpg",
-        "tags": [
-            "españa",
-            "curiosidades",
-            "monedas",
-            "monarquía",
-            "historia",
-            "historia de españa"
-        ],
-        "link": "https://okdiario.com/historia/poca-gente-lo-sabe-pero-falsificacion-esta-moneda-estuvo-punto-destruir-imperio-espanol-siglo-xvii-16043699",
-        "date": "2026-01-11 17:00:21",
-        "sentiment_score": -0.8635396268218756
-    },
-    {
-        "title": "FC Barcelona - Real Madrid, la final de la Supercopa de España en directo: horario y dónde ver el partido, en vivo",
-        "image_url": "https://www.infobae.com/resizer/v2/6H23JYQFUBGA7GBBRF33LP7N7Y.JPG?auth=b4f718df7da51785e053bed24b2a57594a24828255286bea0822a36866bfd73a&height=2489&smart=true&width=4424",
-        "tags": [
-            "fútbol españa",
-            "españa-noticias",
-            "real madrid",
-            "españa-deportes",
-            "fútbol",
-            "supercopa de españa",
-            "fc barcelona"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/01/11/fc-barcelona-real-madrid-la-final-de-supercopa-de-espana-en-directo-horario-y-donde-ver-el-partido-en-vivo/",
-        "date": "2026-01-11 16:52:58",
-        "sentiment_score": 0.04071246460080147
-    },
-    {
-        "title": "Munera Montero, el árbitro de la final de la Supercopa que lleva un año sufriendo acoso por no beneficiar al Real Madrid",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/02/15/culemania/real-madrid/924417601_14350761_1706x960.jpg",
-        "tags": [
-            "real federación española de fútbol",
-            "el clásico",
-            "culemaníacos",
-            "supercopa de españa",
-            "árbitros"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20260111/munera-montero-supercopa-sufriendo-beneficiar-real-madrid/1003742722343_0.html",
-        "date": "2026-01-11 16:52:05",
-        "sentiment_score": -0.8538643941283226
-    },
-    {
-        "title": "Mbappé apunta al banquillo ante el Barcelona",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2026/01/11/6963d0478307d.jpeg",
-        "tags": [
-            "real madrid"
-        ],
-        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260111/1002599503/mbappe-apunta-banquillo-barcelona.html",
-        "date": "2026-01-11 16:36:04",
-        "sentiment_score": -0.885314280167222
-    },
-    {
-        "title": "El coche que no deja descansar a nadie: el fúnebre más viral de Alicante divide a los vecinos en redes sociales",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/01/11/6963d9ac11894.r_d.528-390-10772.jpeg",
-        "tags": [
-            "c. valenciana"
-        ],
-        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20260111/coche-no-deja-descansar-nadie-funebre-viral-alicante-divide-vecinos-redes-sociales_373249.html",
-        "date": "2026-01-11 17:12:48",
-        "sentiment_score": -0.7544407807290554
-    },
-    {
-        "title": "Los ciberestafadores también atacan a la Generalitat: en diez años intentan robar 1,7 millones",
-        "image_url": "https://static1.ara.cat/clip/4383302f-1a93-470e-8029-223f5c0b985c_16-9-aspect-ratio_default_0_x4802y784.jpg",
-        "tags": [
-            "atacan",
-            "robar",
-            "ciberestafadores",
-            "diez",
-            "millones",
-            "generalitat",
-            "1",
-            "7",
-            "anos"
-        ],
-        "link": "https://es.ara.cat/politica/ciberestafadores-atacan-generalitat-diez-anos-robar-1-7-millones_1_5615018.html",
-        "date": "2026-01-11 17:00:30",
-        "sentiment_score": -0.6353207677602768
-    },
-    {
-        "title": "Elisenda Alamany (ERC), sobre la gestión del sinhogarismo en Barcelona: \"Las últimas semanas han sido dramáticas\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/11/informacion-municipal/1003742722349_15589016_1706x960.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260111/elisenda-alamany-erc-gestion-sinhogarismo-barcelona-ultimas-semanas-dramaticas/1003742722344_0.html",
-        "date": "2026-01-11 16:48:51",
-        "sentiment_score": -0.8655722495168447
-    },
-    {
-        "title": "Quién es Delicious Martha, la 'influencer' con más de 5 millones de seguidores y nueva jurado de 'MasterChef'",
-        "image_url": "https://s3.elespanol.com/2026/01/11/actualidad/1003744085370_260862649_1706x960.jpg",
-        "tags": [
-            "soft",
-            "rtve (radiotelevisión española)",
-            "masterchef",
-            "shine iberia",
-            "la 1",
-            "tve",
-            "televisión",
-            "bluper",
-            "tve (televisión española)"
-        ],
-        "link": "https://www.elespanol.com/bluper/20260111/delicious-martha-foodie-influencer-millones-seguidores-debuta-jurado-masterchef/1003744085407_0.html",
-        "date": "2026-01-11 16:36:43",
-        "sentiment_score": 0.28891579806804657
-    },
-    {
         "title": "Hechos alternativos",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1ea3da5c-d218-4aa0-b5ca-e5cc312db85b_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2672,5 +2482,148 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2026/01/14/dani-carvajal-hemos-tocado-fondo-hay-que-dar-mucho-mas/",
         "date": "2026-01-15 00:00:54",
         "sentiment_score": 0.05988961458206177
+    },
+    {
+        "title": "Buenas noticias para los funcionarios: van a cobrar un dineral en 2026 por ésta razón",
+        "image_url": "https://okdiario.com/img/2026/01/14/imagen_recortada-14.jpg",
+        "tags": [
+            "funcionarios",
+            "madrid",
+            "okd",
+            "isabel díaz ayuso",
+            "economía"
+        ],
+        "link": "https://okdiario.com/economia/buenas-noticias-funcionarios-van-cobrar-dineral-2026-esta-razon-16071003",
+        "date": "2026-01-15 06:45:15",
+        "sentiment_score": 0.11021434515714645
+    },
+    {
+        "title": "Albacete - Real Madrid, vídeo resumen, goles y mejores jugadas de la eliminación madridista",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5adc3442-6e8f-4c37-b65c-e953aa1495a2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "madrid",
+            "albacete",
+            "real",
+            "video",
+            "resumen"
+        ],
+        "link": "https://www.noticiasdenavarra.com/videos/general/deportes/2026/01/15/albacete-real-madrid-video-resumen-10575091.html",
+        "date": "2026-01-15 06:37:11",
+        "sentiment_score": 0.015372440218925476
+    },
+    {
+        "title": "Arbeloa se estrena con un tremendo batacazo",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5adc3442-6e8f-4c37-b65c-e953aa1495a2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "arbeloa",
+            "tremendo",
+            "batacazo",
+            "estrena"
+        ],
+        "link": "https://www.noticiasdenavarra.com/futbol/2026/01/15/arbeloa-estrena-tremendo-batacazo-10575078.html",
+        "date": "2026-01-15 06:33:59",
+        "sentiment_score": -0.28245192766189575
+    },
+    {
+        "title": "La \"debacle total\" del Real Madrid de Arbeloa en Copa: \"Ridículo espantoso\", \"A la calle\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "copa del rey mapfre 2025/2026"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/copa-del-rey/2025-2026/portadas-eliminacion-real-madrid-albacete-alvaro-arbeloa-ridiculo-espantoso-debacle-total-marca-diario-as-sport-mundo-deportivo-tribuna_sto23259167/story.shtml",
+        "date": "2026-01-15 06:28:55",
+        "sentiment_score": -0.8348346948623657
+    },
+    {
+        "title": "Pepe Mel: el alquimista que convierte promesas en oro",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/01/04/695a235c68fcb.jpeg",
+        "tags": [
+            "ud almería"
+        ],
+        "link": "https://www.lavozdealmeria.com/ud-almeria/426416/pepe-mel-alquimista-convierte-promesas-oro.html",
+        "date": "2026-01-15 06:22:15",
+        "sentiment_score": 0.6319804713129997
+    },
+    {
+        "title": "Embridando",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c544b4d3-6d2e-47fe-b09c-e1df26751dfa_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "embridando"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/opinion/2026/01/15/embridando-10575070.html",
+        "date": "2026-01-15 06:12:44",
+        "sentiment_score": -0.2783209979534149
+    },
+    {
+        "title": "Bebidas sin alcohol: ¿saludables o un riesgo escondido?",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260115071047_690.jpg",
+        "tags": [
+            "investigación",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-bebidas-alcohol-saludables-riesgo-escondido-20260115071047.html",
+        "date": "2026-01-15 06:10:47",
+        "sentiment_score": -0.6205160841345787
+    },
+    {
+        "title": "Más de 230 efectivos conforman el dispositivo de seguridad para el Racing-Barça",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages02/2025/06/02/802847EB-3908-4542-84F9-9F0EEC952625/aficionados-racing-santander-reciben-equipo-ultimo-partido-liga-sardinero_70.jpg?crop=2048%2C1152%2Cx0%2Cy108&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "noticias",
+            "cantabria",
+            "emisoras",
+            "ondacero"
+        ],
+        "link": "https://www.ondacero.es/emisoras/cantabria/noticias/mas-230-efectivos-conforman-dispositivo-seguridad-racingbarca_2026011569688b01384d9f038d8a4900.html",
+        "date": "2026-01-15 06:36:49",
+        "sentiment_score": 0.047816768288612366
+    },
+    {
+        "title": "El Meteocat lo sentencia: a partir de este día, volverá a llover sin parar en Barcelona por culpa de un temporal",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/12/21/6947991e8badb.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20260115/1002601688/meteocat-sentencia-partir-dia-volvera-llover-parar-barcelona-culpa-temporal-dct.html",
+        "date": "2026-01-15 06:31:51",
+        "sentiment_score": -0.05537347495555878
+    },
+    {
+        "title": "15 años sin humo: la historia de cómo se aprobó la Ley del Tabaco",
+        "image_url": "https://www.elplural.com/uploads/s1/18/89/76/6/dejar-de-fumar_7_480x270.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.elplural.com/sociedad/15-anos-sin-humo-historia-como-aprobo-ley-tabaco_378618102",
+        "date": "2026-01-15 06:15:58",
+        "sentiment_score": -0.09556844830513
+    },
+    {
+        "title": "\"Pensaba llegar a la jubilación con tranquilidad, pero no pudo ser\"",
+        "image_url": "https://static1.ara.cat/clip/8920c460-c9e2-4bc9-9840-ce982d4e608c_16-9-aspect-ratio_default_1055588.jpg",
+        "tags": [
+            "pudo",
+            "llegar",
+            "no",
+            "tranquilidad",
+            "jubilacion",
+            "pensaba"
+        ],
+        "link": "https://es.ara.cat/cultura/leer/pensaba-llegar-jubilacion-tranquilidad-no-pudo_128_5618305.html",
+        "date": "2026-01-15 06:15:38",
+        "sentiment_score": -0.3596213310956955
+    },
+    {
+        "title": "Génova culmina sin fisuras entre barones su estrategia de oposición a la financiación por el 'pecado original' del pacto con ERC",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/839ce9cf-5350-4634-9411-eed0ac4ca112_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "maría jesús montero",
+            "partido popular",
+            "alberto núñez feijóo"
+        ],
+        "link": "https://www.elcorreogallego.es/espana/2026/01/15/genova-culmina-fisuras-barones-estrategia-125698626.html",
+        "date": "2026-01-15 06:13:41",
+        "sentiment_score": -0.22689786553382874
     }
 ];
