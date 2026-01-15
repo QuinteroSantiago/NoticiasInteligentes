@@ -1,536 +1,5 @@
 export default [
     {
-        "title": "Expertos opinan que la reforma implica un «reparto arbitrario» que perjudica a Asturias",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/01/10/expertos1-Ra9F8K3mR4XpqfHS3WSZkGO-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "financiación autonómica",
-            "cataluña",
-            "principado de asturias"
-        ],
-        "link": "https://www.elcomercio.es/asturias/expertos-opinan-reforma-implica-reparto-arbitrario-perjudica-20260110225039-nt.html",
-        "date": "2026-01-10 21:50:39",
-        "sentiment_score": -0.7744780890643597
-    },
-    {
-        "title": "El ataque de ira de uno de los hijos de Zinedine Zidane tras la “masacre arbitral” que eliminó a Argelia de la Copa Africana",
-        "image_url": "https://www.infobae.com/resizer/v2/FLSIKDBF5ZA4RJCS6ZSSZZ325M.JPG?auth=c001d4f3cb0593092a074a9701074abcbc5fdc8f470838809461cf16d9015e3b&height=1406&smart=true&width=2500",
-        "tags": [
-            "deportes-argentina",
-            "luca zidane",
-            "nigeria",
-            "copa africana de naciones",
-            "zinedine zidane",
-            "argelia"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/10/el-ataque-de-ira-de-uno-de-los-hijos-de-zinedine-zidane-tras-la-masacre-arbitral-que-elimino-a-argelia-de-la-copa-africana/",
-        "date": "2026-01-10 21:46:25",
-        "sentiment_score": -0.665586668998003
-    },
-    {
-        "title": "Los mapas americanos de la Biblioteca Británica que dibujó un cartógrafo español perseguido por los Borbones",
-        "image_url": "https://static.eldiario.es/clip/bc6f96a5-8992-4d4c-b610-5bae48b4b345_16-9-discover-aspect-ratio_default_0_x340y296.jpg",
-        "tags": [
-            "britanica",
-            "biblioteca",
-            "cartografo",
-            "perseguido",
-            "americanos",
-            "mapas",
-            "espanol",
-            "borbones",
-            "dibujo"
-        ],
-        "link": "https://www.eldiario.es/illes-balears/cultura/mapas-americanos-biblioteca-britanica-dibujo-cartografo-espanol-perseguido-borbones_1_12896969.html",
-        "date": "2026-01-10 21:45:11",
-        "sentiment_score": -0.07611340284347534
-    },
-    {
-        "title": "Carlos Malamud: “El Tesoro de EEUU puede acabar pagando la reconstrucción de la industria petrolera venezolana”",
-        "image_url": "https://static.eldiario.es/clip/a8b46427-e021-4ca4-876b-501285a5494f_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "petrolera",
-            "eeuu",
-            "tesoro",
-            "acabar",
-            "pagando",
-            "industria",
-            "carlos",
-            "malamud",
-            "reconstruccion",
-            "venezolana"
-        ],
-        "link": "https://www.eldiario.es/economia/carlos-malamud-tesoro-eeuu-acabar-pagando-reconstruccion-industria-petrolera-venezolana_128_12894080.html",
-        "date": "2026-01-10 21:45:08",
-        "sentiment_score": -0.1355244517326355
-    },
-    {
-        "title": "Las 1.500 cartas que María escribió durante el franquismo a su hijo en el exilio: \"Las he guardado como un tesoro\"",
-        "image_url": "https://static.eldiario.es/clip/870065f6-113f-44a0-a494-4e128bdfa227_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "guardado",
-            "franquismo",
-            "he",
-            "escribio",
-            "tesoro",
-            "1",
-            "hijo",
-            "durante",
-            "exilio",
-            "500",
-            "maria",
-            "cartas"
-        ],
-        "link": "https://www.eldiario.es/sociedad/1-500-cartas-maria-escribio-durante-franquismo-hijo-exilio-he-guardado-tesoro_1_12890963.html",
-        "date": "2026-01-10 21:45:05",
-        "sentiment_score": -0.13252520561218262
-    },
-    {
-        "title": "Una cabeza de Franco devuelta por mensajero: la pugna entre un escultor y la Diputación de Álava en 1947",
-        "image_url": "https://static.eldiario.es/clip/aec8a85e-01ba-4348-b93b-0e96a1aeb11b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "lab",
-            "belén ferreras",
-            "eibar",
-            "vitoria",
-            "eldiarionorte.es",
-            "gipuzkoa",
-            "eldiario.es/euskadi",
-            "bbva",
-            "eldiario.eus",
-            "upv/ehu",
-            "euskal herria",
-            "caso de miguel",
-            "álava",
-            "eldiario.es",
-            "sociedad",
-            "donostia",
-            "irún",
-            "corrupción",
-            "euskadi",
-            "política",
-            "ela",
-            "bizkaia",
-            "feminismo",
-            "eh bildu",
-            "maialen ferreira",
-            "igualdad",
-            "ignacio escolar",
-            "hondarribia",
-            "montai",
-            "lanbide",
-            "brands",
-            "educación",
-            "país vasco",
-            "emergencia climática",
-            "pnv",
-            "imanol pradales",
-            "eroski",
-            "gernika",
-            "ertzaintza",
-            "pp vasco",
-            "kutxabank",
-            "andar en bici",
-            "rodrigo saiz",
-            "actualidad",
-            "osakidetza",
-            "barakaldo",
-            "getxo",
-            "bilbao",
-            "pse-ee",
-            "rubén pereda",
-            "sindicatos",
-            "iker rioja andueza"
-        ],
-        "link": "https://www.eldiario.es/euskadi/cabeza-franco-devuelta-mensajero-pugna-escultor-diputacion-alava-1947_1_12894891.html",
-        "date": "2026-01-10 20:46:03",
-        "sentiment_score": -0.07363173365592957
-    },
-    {
-        "title": "El Salesianos gana y es campeón de invierno",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/G74aKwdWgAEAeie-scaled.jpeg",
-        "tags": [
-            "deportes",
-            "fútbol sala",
-            "segunda división femenina",
-            "puertollano",
-            "cd salesianos puertollano fsf"
-        ],
-        "link": "https://www.lanzadigital.com/deportes/el-salesianos-gana-y-es-campeon-de-invierno/",
-        "date": "2026-01-10 20:41:44",
-        "sentiment_score": -0.026277929544448853
-    },
-    {
-        "title": "Atlético y Real firman un 5-5 para el recuerdo; Barça y Real Madrid arrancan 2026 ganando",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/10/atletico-y-real-firman-un-5-5-para-el-recuerdo-barca-y-real-madrid-arrancan-2026-ganando/",
-        "date": "2026-01-10 20:31:08",
-        "sentiment_score": 0.6409511342644691
-    },
-    {
-        "title": "Mbappé pasa el examen",
-        "image_url": "https://okdiario.com/diariomadridista/img/2026/01/10/mbappe-pasa-el-examen-interior.jpg",
-        "tags": [
-            "real madrid",
-            "fútbol club barcelona",
-            "kylian mbappé",
-            "supercopa de españa"
-        ],
-        "link": "https://okdiario.com/diariomadridista/real-madrid/mbappe-pasa-examen-594377",
-        "date": "2026-01-10 20:00:00",
-        "sentiment_score": 0.007124327123165131
-    },
-    {
-        "title": "El crack del Real Madrid que presume de palmarés y lanza un dardo a Lamine Yamal antes de la final de la Supercopa",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/26/culemania/primer-equipo/1003742701549_15326917_1706x960.jpg",
-        "tags": [
-            "supercopa de españa",
-            "real madrid"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260110/real-madrid-presume-palmares-lamine-yamal-supercopa/1003742722257_0.html",
-        "date": "2026-01-10 19:57:23",
-        "sentiment_score": -0.4920388162136078
-    },
-    {
-        "title": "Albiol retrata el giro catalán ante la inmigración",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/01/10/migrantes-badalona-kXFG-R9ZK6CHwkXRODtZJfNX6ycK-1200x840@RC.jpg",
-        "tags": [
-            "generalitat de cataluña",
-            "alberto núñez feijóo",
-            "desahucio",
-            "migrantes",
-            "okupas",
-            "cataluña",
-            "xavier garcía albiol",
-            "badalona",
-            "extrema derecha",
-            "mossos d&#039;esquadra",
-            "santiago abascal"
-        ],
-        "link": "https://www.canarias7.es/nacional/politica/albiol-retrata-giro-catalan-ante-inmigracion-20260110001807-ntrc.html",
-        "date": "2026-01-10 22:18:09",
-        "sentiment_score": -0.7495723702013493
-    },
-    {
-        "title": "Tras su separación de Paula Badosa, Stefanos Tsitsipas blanqueó su romance con una ex tenista en medio de un viaje espiritual",
-        "image_url": "https://www.infobae.com/resizer/v2/DJBZNAYI3FFWLMC2QCNYE5F23U.jfif?auth=0d0ecbc3c80a9c85615ddc6c42c414748164c38051b97993b5f156ba344344c2&height=677&smart=true&width=1206",
-        "tags": [
-            "stefanos tsitsipas",
-            "paula badosa",
-            "kristen thoms",
-            "tenis",
-            "atp"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/10/tras-su-separacion-de-paula-badosa-stefanos-tsitsipas-blanqueo-su-romance-con-una-ex-tenista-en-medio-de-un-viaje-espiritual/",
-        "date": "2026-01-10 22:10:26",
-        "sentiment_score": 0.3028998412191868
-    },
-    {
-        "title": "Venezuela y Colombia ganan presencia entre los inmigrantes en Lugo",
-        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/08/27/2025082708394990539.jpg",
-        "tags": [
-            "lugo"
-        ],
-        "link": "https://www.elprogreso.es/articulo/lugo/venezuela-colombia-ganan-presencia-entre-inmigrantes-lugo/202601102307441937180.html",
-        "date": "2026-01-10 22:07:44",
-        "sentiment_score": 0.04180347919464111
-    },
-    {
-        "title": "Uma, la modelo más internacional de Fuerteventura: de Tindaya al mundo",
-        "image_url": "https://s2.ppllstatics.com/canarias7/www/multimedia/2026/01/08/metro-sculture-kZ5F-U240780378487HZF-1200x840@Canarias7.jpg",
-        "tags": [
-            "modelo",
-            "uma",
-            "internacional",
-            "tindaya",
-            "majorera",
-            "mundo"
-        ],
-        "link": "https://www.canarias7.es/canarias/fuerteventura/uma-modelo-internacional-fuerteventura-tindaya-mundo-20260111230619-nt.html",
-        "date": "2026-01-10 22:06:20",
-        "sentiment_score": 0.04019395262002945
-    },
-    {
-        "title": "España acelera como imán para los emprendedores extranjeros, que triplican a los españoles: \"Tenía una idea y las ganas. Y quería 300 días de sol\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
-        "tags": [
-            "artículos clara rojas",
-            "nlpremium",
-            "startup"
-        ],
-        "link": "https://www.elmundo.es/economia/empresas/2026/01/10/69596392e4d4d873178b45ab.html",
-        "date": "2026-01-10 21:51:51",
-        "sentiment_score": 0.14329858124256134
-    },
-    {
-        "title": "Por qué la política actual es igual que la del año 1900: \"La única pregunta es saber cuándo comenzará la III Guerra Mundial\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/9e1adeee492d225dc6c2577d19053dc3/f/image/jpeg/assets/multimedia/imagenes/2023/01/16/16738696618619.jpg",
-        "tags": [
-            "nlpremium",
-            "artículos jorge benítez",
-            "donald trump",
-            "nicolás maduro",
-            "venezuela"
-        ],
-        "link": "https://www.elmundo.es/papel/historias/2026/01/10/69611fd6fdddfff2658b457a.html",
-        "date": "2026-01-10 21:48:16",
-        "sentiment_score": -0.21850110590457916
-    },
-    {
-        "title": "¿Encontrar el ADN de Leonardo da Vinci? Una fantasía con mucha publicidad y serias objeciones científicas",
-        "image_url": "https://static.eldiario.es/clip/f85e80ba-e248-4781-a4b1-bea2cd1bb9dd_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "vinci",
-            "fantasia",
-            "cientificas",
-            "leonardo",
-            "publicidad",
-            "encontrar",
-            "serias",
-            "adn",
-            "objeciones",
-            "da"
-        ],
-        "link": "https://www.eldiario.es/sociedad/encontrar-adn-leonardo-da-vinci-fantasia-publicidad-serias-objeciones-cientificas_1_12891849.html",
-        "date": "2026-01-10 21:45:06",
-        "sentiment_score": -0.08474496006965637
-    },
-    {
-        "title": "Albiol exculpado y el ex fiscal general, condenado: resultados opuestos en dos causas por revelación de secretos",
-        "image_url": "https://static.eldiario.es/clip/3e918a58-3dbf-422e-b97a-66452184bbe6_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "actualidad",
-            "economía",
-            "política",
-            "noticias",
-            "cataluña",
-            "periodismo independiente",
-            "ignacio escolar",
-            "barcelona"
-        ],
-        "link": "https://www.eldiario.es/catalunya/albiol-exculpado-ex-fiscal-general-condenado-resultados-opuestos-causas-revelacion-secretos_1_12895631.html",
-        "date": "2026-01-10 21:45:05",
-        "sentiment_score": -0.15035401284694672
-    },
-    {
-        "title": "El Barcelona femenil humilló al Madrid",
-        "image_url": "https://pxcdn.meridiano.net/012026/1768081580070.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/usa/futbol/espanol/el-barcelona-femenil-humillo-al-madrid-202611017420",
-        "date": "2026-01-10 21:42:00",
-        "sentiment_score": 0.2077551931142807
-    },
-    {
-        "title": "Es uno de los mejores pueblos del mundo, según la ONU: naturaleza y patrimonio cerca de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/10/vivir-en-barcelona/1003742722276_15588282_1706x960.jpg",
-        "tags": [
-            "recomendaciones",
-            "vivir en barcelona",
-            "historia",
-            "planes",
-            "patrimonio de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260110/mejores-pueblos-mundo-onu-naturaleza-patrimonio-cerca-barcelona/1003742722271_0.html",
-        "date": "2026-01-10 21:34:44",
-        "sentiment_score": 0.8606509324163198
-    },
-    {
-        "title": "Mejorar la gobernanza",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bdaacc06-d597-4ee2-8e74-7f8c895e38cc_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "público",
-            "canarias",
-            "cultura",
-            "controles"
-        ],
-        "link": "https://www.eldia.es/opinion/2026/01/11/mejorar-gobernanza-125564215.html",
-        "date": "2026-01-11 02:11:31",
-        "sentiment_score": 0.2360868901014328
-    },
-    {
-        "title": "Los futbolistas africanos que pueden deslumbrar en el Mundial 2026",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2026/01/10/futbolistas-africanos-destacados-mundial-2026-orix/",
-        "date": "2026-01-11 02:03:49",
-        "sentiment_score": 0.5352395698428154
-    },
-    {
-        "title": "Lamine Yamal apunta a la titularidad en la gran final de la Supercopa",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/22/2025112220022723599.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/lamine-yamal-chispa-que-regresa/20260111020853370095.html",
-        "date": "2026-01-11 01:08:53",
-        "sentiment_score": 0.7806583177298307
-    },
-    {
-        "title": "Real Madrid vs. Barcelona: a qué hora y por dónde ver la Supercopa de España",
-        "image_url": "https://pxcdn.2001online.com/2001/012026/1768088104131/9f95debe-1b7e-47ba-923d-1dc48e51c29a_16-9-discover-aspect-ratio_default_0.jpg?ch=675&cw=1200",
-        "tags": [
-            "real madrid",
-            "españa",
-            "real madrid vs barcelona",
-            "meridiano tv",
-            "supercopa de españa",
-            "fc barcelona",
-            "el clásico",
-            "meridiano"
-        ],
-        "link": "https://2001online.com/deportes/real-madrid-vs-barcelona-a-que-hora-y-por-donde-ver-la-supercopa-de-espana-20261102200",
-        "date": "2026-01-11 01:08:48",
-        "sentiment_score": 0.2258971482515335
-    },
-    {
-        "title": "Si yo fuera Xabi Alonso apostaría por Gonzalo García",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/04/2026010418254551208.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/fuera-xabi-alonso-apostaria-gonzalo-garcia/20260111015404370094.html",
-        "date": "2026-01-11 00:54:04",
-        "sentiment_score": -0.24506235122680664
-    },
-    {
-        "title": "El tic cultureta",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20260111/tic-cultureta_372978.html",
-        "date": "2026-01-11 00:30:00",
-        "sentiment_score": -0.43444667756557465
-    },
-    {
-        "title": "Real Madrid entrena con Mbappé, pero sin Rüdiger, Mendy y Arnold",
-        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/01/Entrenamiento-Real-Madrid-696x392-1.jpg",
-        "tags": [
-            "real madrid",
-            "10ene",
-            "deportes",
-            "mbappé"
-        ],
-        "link": "https://laverdaddemonagas.com/2026/01/10/real-madrid-entrena-con-mbappe/",
-        "date": "2026-01-11 00:19:12",
-        "sentiment_score": -0.058740586042404175
-    },
-    {
-        "title": "La Supercopa de España enfrenta dos estilos antagónicos: el proyecto nacional del Barça contra la cartera del Real Madrid",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/10/culemania/primer-equipo/1003742722279_15588324_1706x960.jpg",
-        "tags": [
-            "real madrid",
-            "supercopa de españa",
-            "primer equipo",
-            "barça",
-            "la masía"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260111/supercopa-espana-enfrenta-antagonicos-barca-real-madrid/1003742722278_0.html",
-        "date": "2026-01-11 00:01:04",
-        "sentiment_score": -0.247406005859375
-    },
-    {
-        "title": "Guía del partido Barça-Madrid de hoy: horario, dónde verlo y alineaciones",
-        "image_url": "https://static1.ara.cat/clip/364caf2b-6073-4568-9ee0-4616c4b9cff1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "guia",
-            "barca",
-            "verlo",
-            "alineaciones",
-            "partido",
-            "horario",
-            "madrid",
-            "hoy"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/guia-partido-barca-madrid-hoy-horario-verlo-alineaciones_1_5614677.html",
-        "date": "2026-01-11 00:00:27",
-        "sentiment_score": 0.1734601967036724
-    },
-    {
-        "title": "El técnico Luis Zubeldía atraviesa \"con éxito\" una angioplastia con colocación de stent",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/11/el-tecnico-luis-zubeldia-atraviesa-con-exito-una-angioplastia-con-colocacion-de-stent/",
-        "date": "2026-01-11 01:33:01",
-        "sentiment_score": 0.5141953825950623
-    },
-    {
-        "title": "Richard y Arnaud, los nuevos autónomos de la era de Ayuso en un Madrid que bate récords: \"Tiene pocas desventajas\"",
-        "image_url": "https://s3.elespanol.com/2026/01/09/madrid/1003744084496_260850942_1706x960.jpg",
-        "tags": [
-            "madrid comunidad",
-            "comunidad de madrid",
-            "autónomos"
-        ],
-        "link": "https://www.elespanol.com/madrid/comunidad/20260111/richard-arnaud-nuevos-autonomos-ayuso-madrid-bate-records-pocas-desventajas-dl/1003744083568_0.html",
-        "date": "2026-01-11 01:29:30",
-        "sentiment_score": 0.2979198843240738
-    },
-    {
-        "title": "Los agricultores catalanes elevan el pulso y mantienen varios cortes: \"Si Mercosur sale adelante, mucha gente puede verse obligada a cerrar\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/c8960417ed23b19cba2bd8b74e5ced05/crop/2x0/998x997/f/image/jpeg/assets/multimedia/imagenes/2023/12/28/17037819584998.jpg",
-        "tags": [
-            "economía",
-            "artículos cristina rubio",
-            "mercosur"
-        ],
-        "link": "https://www.elmundo.es/economia/macroeconomia/2026/01/11/69629390e85ece7f158b4572.html",
-        "date": "2026-01-11 01:15:08",
-        "sentiment_score": -0.2606174349784851
-    },
-    {
-        "title": "Anna Cejudo, fundadora de Founderz: \"La IA no te va a quitar el trabajo, el problema es cuando se quiere usar para no trabajar o no pensar\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/4b0ab66c35091c52a9f988ef54ff6c02/crop/702x111/2640x2048/f/image/jpeg/assets/multimedia/imagenes/2024/12/15/17342882060591.jpg",
-        "tags": [
-            "artículos marcos iriarte"
-        ],
-        "link": "https://www.elmundo.es/economia/empresas/2026/01/11/695fd82d21efa0df6d8b4599.html",
-        "date": "2026-01-11 01:15:07",
-        "sentiment_score": -0.8207934703677893
-    },
-    {
-        "title": "Cuidar a quienes cuidan a un ser querido que ha intentado quitarse la vida, una tarea urgente y pendiente en la prevención del suicidio: \"Los familiares suelen encontrarse solos y sobrepasados\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/4ef6b6a9e552d8ee4a95a7814bad47c0/crop/271x85/995x810/f/image/jpeg/assets/multimedia/imagenes/2022/05/26/16535920018495.jpg",
-        "tags": [
-            "artículos yaiza perera"
-        ],
-        "link": "https://www.elmundo.es/ciencia-y-salud/2026/01/11/696259c8e9cf4a5d2b8b45af.html",
-        "date": "2026-01-11 01:02:42",
-        "sentiment_score": -0.051578864455223083
-    },
-    {
-        "title": "¿Quién está detrás del grupo neonazi Núcleo Nacional, que quiere abrir una sede en Barcelona? (catalán)",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/15/media_thumb-link-4134329.webp?1768035126=",
-        "tags": [
-            "grupo neonazi",
-            "núcleo nacional",
-            "politica",
-            "sede en barcelona"
-        ],
-        "link": "https://www.meneame.net/story/quien-esta-detras-grupo-neonazi-nucleo-nacional-quiere-abrir",
-        "date": "2026-01-11 00:35:03",
-        "sentiment_score": -0.3277157321572304
-    },
-    {
-        "title": "El técnico Luis Zubeldía se someterá a un procedimiento cardiovascular este sábado",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/09/el-tecnico-luis-zubeldia-se-sometera-a-un-procedimiento-cardiovascular-este-sabado/",
-        "date": "2026-01-11 00:03:28",
-        "sentiment_score": -0.035798363387584686
-    },
-    {
         "title": "El Leganés invierte en afición: Butarque a todo confort",
         "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/01/02/6957b88855ded.jpeg",
         "tags": [
@@ -2833,5 +2302,190 @@ export default [
         "link": "https://elpais.com/escaparate/comparativas/2026-01-14/mejores-patinetes-para-ninos.html",
         "date": "2026-01-14 06:15:00",
         "sentiment_score": 0.42234100960195065
+    },
+    {
+        "title": "La volatilidad del bolívar desnuda las dificultades diarias de los venezolanos",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/443b0a803e597edbca9247decd32484954451104w-1200x750-1.jpg",
+        "tags": [
+            "economía",
+            "bolivar",
+            "desnuda",
+            "nacionales",
+            "dificultades",
+            "destacados",
+            "venezolanos"
+        ],
+        "link": "https://lapatilla.com/2026/01/14/la-volatilidad-del-bolivar-desnuda-las-dificultades-diarias-de-los-venezolanos/",
+        "date": "2026-01-14 11:06:29",
+        "sentiment_score": -0.50814338773489
+    },
+    {
+        "title": "Nace la Challenge Futura para potenciar la élite sub-23, \"una de las etapas más decisivas del corredor\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260114181631_690.jpg",
+        "tags": [
+            "deportes",
+            "ciclismo"
+        ],
+        "link": "https://www.europapress.es/deportes/ciclismo-00396/noticia-nace-challenge-futura-potenciar-elite-sub-23-etapas-mas-decisivas-corredor-20260114181631.html",
+        "date": "2026-01-14 17:16:31",
+        "sentiment_score": 0.5782964378595352
+    },
+    {
+        "title": "La UEFA pagó 116 millones al Barça por su participación en la Champions League",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/06/culemania/palco/1003742695161_15300500_1706x960.jpg",
+        "tags": [
+            "uefa",
+            "palco",
+            "barça",
+            "champions league"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260114/uefa-pago-millones-barca-participacion-champions-league/1003742723266_0.html",
+        "date": "2026-01-14 17:16:20",
+        "sentiment_score": 0.8595735505223274
+    },
+    {
+        "title": "El catedrático de la UMA Pablo Lara recibe el Premio de Educación y Docencia Médica 2025",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/392afaa2-51bf-4ac9-9a5f-64b044acbf76_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "trabajo",
+            "universidad de málaga",
+            "uma",
+            "premios",
+            "conferencia",
+            "premio de investigación",
+            "educación",
+            "medicina"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/14/catedratico-uma-pablo-lara-recibe-125686947.html",
+        "date": "2026-01-14 17:15:48",
+        "sentiment_score": 0.07602599263191223
+    },
+    {
+        "title": "Dabiz Muñoz desembarca este verano en Ibiza con StreetXO de la mano de Palladium Hotel Group",
+        "image_url": "https://forbes.es/wp-content/uploads/2026/01/fotonoticia_20260114174527_1920-1200x675.jpg",
+        "tags": [
+            "economía",
+            "última hora"
+        ],
+        "link": "https://forbes.es/economia/856898/dabiz-munoz-desembarca-este-verano-en-ibiza-con-streetxo-de-la-mano-de-palladium-hotel-group/",
+        "date": "2026-01-14 17:15:11",
+        "sentiment_score": 0.4696616977453232
+    },
+    {
+        "title": "La libre elección sanitaria se consolida en Madrid",
+        "image_url": "https://s1.staticld.com/2025/12/11/medicos-publi-salud-11122025-2-16-9.jpg",
+        "tags": [
+            "salud"
+        ],
+        "link": "https://www.libertaddigital.com/ciencia-tecnologia/salud/2026-01-14/la-libre-eleccion-sanitaria-se-consolida-en-madrid-7343556/",
+        "date": "2026-01-14 17:07:19",
+        "sentiment_score": 0.3456219546496868
+    },
+    {
+        "title": "Bartomeu pide al juez que deniegue al Real Madrid los informes económicos del Barça",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/09/696181aa7d64f.jpeg",
+        "tags": [
+            "barça"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260114/11439723/bartomeu-pide-juez-deniegue-real-madrid-informes-economicos-barca.html",
+        "date": "2026-01-14 17:07:01",
+        "sentiment_score": -0.7619149312376976
+    },
+    {
+        "title": "17:00H | 14 ENE 2026 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-14-ene-2026-tarde-20260114_3286797.html",
+        "date": "2026-01-14 17:07:00",
+        "sentiment_score": -0.14595970511436462
+    },
+    {
+        "title": "Los números confirman que Xabi no apostó por Endrick ni por Gonzalo",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/27/2025022701123463582.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/xabi-nunca-confio-endrick-numeros-dejan-claro-que-tampoco-gonzalo/20260114180639370590.html",
+        "date": "2026-01-14 17:06:39",
+        "sentiment_score": -0.9080129666253924
+    },
+    {
+        "title": "Dabiz Muñoz desembarca este verano en Ibiza con StreetXO de la mano de Palladium Hotel Group",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/01/20260114174526.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://cronicadecantabria.com/cr/dabiz-muoz-desembarca-este-verano-en-ibiza-con-streetxo-de-la-mano-de-palladium-hotel-group/",
+        "date": "2026-01-14 17:00:04",
+        "sentiment_score": 0.3924867659807205
+    },
+    {
+        "title": "Guardia Real, Ejército, la UME... ¿Por qué todos han elegido vehículos KGM 4x4?",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/13/696679abd32390-47827922.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.20minutos.es/motor/actualidad/guardia-real-ejercito-aire-ume-por-que-todos-han-elegido-vehiculos-kgm-4x4_6920694_0.html",
+        "date": "2026-01-14 17:00:00",
+        "sentiment_score": 0.1619206666946411
+    },
+    {
+        "title": "¿Cómo debe ser la dieta de los mayores? \"No basta con cenar un yogur y fruta\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/014e7149-1367-4962-8c8d-e47ece55c3af_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "longevidad",
+            "alimentación",
+            "dietas",
+            "nutrición"
+        ],
+        "link": "https://www.laopiniondemalaga.es/sociedad/2026/01/14/debe-dieta-abuelos-importante-coman-bien-tomen-medicacion-125687458.html",
+        "date": "2026-01-14 17:17:49",
+        "sentiment_score": -0.8480526991188526
+    },
+    {
+        "title": "Llega a Barcelona la T-Social, la nueva tarjeta de transporte público: todos los detalles y beneficios",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2022/05/24/DEA7F6F8-4186-4F2A-8FA3-0D7DE40EEADE/69.jpg?crop=1920%2C1080%2Cx0%2Cy100&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/llega-barcelona-tsocial-nueva-tarjeta-transporte-publico-todos-detalles-beneficios_202601146967cf995b0f02269963ed60.html",
+        "date": "2026-01-14 17:17:13",
+        "sentiment_score": 0.2608065754175186
+    },
+    {
+        "title": "Maspalomas sorprende con nueve nominaciones en los Premios Goya 2026",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/01/14/2026011418151743561.jpg",
+        "tags": [
+            "medios"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/medios/maspalomas-sorprende-nueve-nominaciones-premios-goya-2026/20260114181611997933.html",
+        "date": "2026-01-14 17:16:11",
+        "sentiment_score": 0.18582075834274292
+    },
+    {
+        "title": "El Barça vuelve a la Tierra en la Copa",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/01/14/barcelona-kXMB-U240843236588PlF-1200x840@RC.JPG",
+        "tags": [
+            "barca",
+            "tierra",
+            "copa",
+            "vuelve"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/copa-del-rey/barcelona-vuelve-tierra-copa-racing-20260114180920-ntrc.html",
+        "date": "2026-01-14 17:13:23",
+        "sentiment_score": 0.031063437461853027
+    },
+    {
+        "title": "Amtu, ATM y Govern lanzan la T-social para unificar los títulos de transporte bonificados",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260114181157_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-amtu-atm-govern-lanzan-social-unificar-titulos-transporte-bonificados-20260114181157.html",
+        "date": "2026-01-14 17:11:57",
+        "sentiment_score": 0.41044313088059425
     }
 ];
