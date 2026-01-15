@@ -1,162 +1,5 @@
 export default [
     {
-        "title": "El Leganés invierte en afición: Butarque a todo confort",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/01/02/6957b88855ded.jpeg",
-        "tags": [
-            "ud almería"
-        ],
-        "link": "https://www.lavozdealmeria.com/ud-almeria/425691/leganes-invierte-aficion-butarque-confort.html",
-        "date": "2026-01-11 06:15:03",
-        "sentiment_score": 0.12760136276483536
-    },
-    {
-        "title": "Las cinco provincias de Castilla-La Mancha estarán en riesgo de heladas este domingo en las primera horas",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/EuropaPress_5679065_nieve_coche_10_enero_2024_jaca_huesca_aragon_espana_dana_llegado_aragon-scaled.jpg",
-        "tags": [
-            "riesgo",
-            "castilla-la mancha",
-            "nieve"
-        ],
-        "link": "https://www.lanzadigital.com/castilla-la-mancha/las-cinco-provincias-de-castilla-la-mancha-estaran-en-riesgo-de-heladas-este-domingo-en-las-primera-horas/",
-        "date": "2026-01-11 06:04:00",
-        "sentiment_score": -0.09860202670097351
-    },
-    {
-        "title": "El tren del Guadiato",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5f4028f0-9b50-4a60-949c-1b1ac34d2dbe_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "extremadura",
-            "córdoba",
-            "madrid",
-            "cuenca",
-            "más extremadura"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/01/11/tren-guadiato-125557350.html",
-        "date": "2026-01-11 06:02:32",
-        "sentiment_score": -0.11603827774524689
-    },
-    {
-        "title": "La prestación universal de 200 euros por hijo reduciría un 9% la pobreza infantil en Extremadura",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c1fb9421-e255-46ed-8fb7-a03264066bdf_16-9-aspect-ratio_default_1426310.jpg",
-        "tags": [
-            "pobreza",
-            "extremadura",
-            "niños",
-            "comunidades autónomas",
-            "unicef"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/01/11/prestacion-universal-200-euros-hijo-reduciria-9-pobreza-infantil-extremadura-125565974.html",
-        "date": "2026-01-11 06:01:53",
-        "sentiment_score": -0.3315980136394501
-    },
-    {
-        "title": "Stranger Things y un señor en batín",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5c04fa27-94b8-413b-b449-025ccc81de27_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "stranger things",
-            "películas",
-            "serie",
-            "series",
-            "libros"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2026/01/11/stranger-things-senor-batin-125553380.html",
-        "date": "2026-01-11 06:01:04",
-        "sentiment_score": -0.02652612328529358
-    },
-    {
-        "title": "La ejemplar historia de Fernando \"el de Bercianos\", una persona dedicada a sus pueblos y vecinos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/240acd3e-5fba-4ac9-b60c-c10e33075314_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cofradía,incendio,corazón,la raya,aliste la raya,fernando gonzález rodríguez,semana santa de bercianos de aliste,incendio puercas"
-        ],
-        "link": "https://www.laopiniondezamora.es/comarcas/2026/01/11/ejemplar-historia-fernando-bercianos-persona-125555576.html",
-        "date": "2026-01-11 06:01:04",
-        "sentiment_score": -0.04199323058128357
-    },
-    {
-        "title": "Guía para entender el reparto del dinero entre las autonomías",
-        "image_url": "https://static.grupojoly.com/clip/6aec13c7-92f9-4f17-9f5b-c796f78b3f70_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "guia",
-            "dinero",
-            "reparto",
-            "entender",
-            "autonomias"
-        ],
-        "link": "https://www.malagahoy.es/andalucia/guia-entender-reparto-dinero-autonomias_0_2005619123.html",
-        "date": "2026-01-11 05:59:07",
-        "sentiment_score": 0.002707652747631073
-    },
-    {
-        "title": "Delhy Tejero y el Reina Sofía: una presencia que se consolida en la colección nacional",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b6281190-18dd-4080-8cb9-fd55195e7aea_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "delhy tejero,obras,arte,tomás del bien,museo reina sofía"
-        ],
-        "link": "https://www.laopiniondezamora.es/opinion/2026/01/11/delhy-tejero-reina-sofia-presencia-125560022.html",
-        "date": "2026-01-11 06:01:08",
-        "sentiment_score": 0.49081533402204514
-    },
-    {
-        "title": "Venezolanos maduros",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2b717d1f-0b76-46b3-b237-83c905aa81eb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "venezuela,guerra,epidemia"
-        ],
-        "link": "https://www.laopiniondezamora.es/opinion/2026/01/11/venezolanos-maduros-125559923.html",
-        "date": "2026-01-11 06:01:07",
-        "sentiment_score": -0.932424345985055
-    },
-    {
-        "title": "Sevilla celebra los 150 años de Aníbal González, el arquitecto que reinventó su imagen",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2026/01/11/anibal-gonzalez-apertura_xoptimizadax_20260109192305-R9XjQ2JaQZzgkejHZnXSdQP-750x1600@diario_abc.jpg",
-        "tags": [
-            "parque de maría luisa",
-            "sevilla",
-            "arquitectura",
-            "monumentos",
-            "historia"
-        ],
-        "link": "https://www.abc.es/sevilla/ciudad/sevilla-celebra-150-anos-anibal-gonzalez-20260111070102-nts.html",
-        "date": "2026-01-11 06:01:02",
-        "sentiment_score": 0.04066359996795654
-    },
-    {
-        "title": "La UB cierra un año de récord en la creación de spin-offs con seis nuevas spin-offs y 28 millones de financiación",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/49758180-6ce7-49fc-b0ac-24d9fe1c550b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "innovación",
-            "universitat de barcelona (ub)"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260111/ub-cierra-ano-record-creacion-125554164",
-        "date": "2026-01-11 06:00:36",
-        "sentiment_score": 0.4356496296823025
-    },
-    {
-        "title": "Dos años de lluvia en la media histórica de Barcelona consolidan los ejes verdes y prometen una primavera esplendorosa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6dfa6608-66cc-4454-92a3-c2d72c74d446_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "'superilles' en barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/eixample/20260111/anos-lluvia-media-historica-barcelona-125531821",
-        "date": "2026-01-11 06:00:36",
-        "sentiment_score": -0.20180033147335052
-    },
-    {
-        "title": "María Jesús Montero sirve café para todos, solo sin azúcar para Junqueras",
-        "image_url": "https://static.grupojoly.com/clip/3a570b8b-bfee-4ef9-8be3-c639ba4a16fc_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sirve",
-            "jesus",
-            "montero",
-            "cafe",
-            "maria"
-        ],
-        "link": "https://www.europasur.es/andalucia/maria-jesus-montero-sirve-cafe_0_2005619132.html",
-        "date": "2026-01-11 06:00:17",
-        "sentiment_score": -0.18777000159025192
-    },
-    {
         "title": "Tres goles en 900 minutos: la sequía que condena a Osasuna fuera de casa",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
         "tags": [
@@ -2487,5 +2330,141 @@ export default [
         "link": "https://www.europapress.es/catalunya/noticia-amtu-atm-govern-lanzan-social-unificar-titulos-transporte-bonificados-20260114181157.html",
         "date": "2026-01-14 17:11:57",
         "sentiment_score": 0.41044313088059425
+    },
+    {
+        "title": "La volatilidad del bolívar desnuda las dificultades diarias de los venezolanos",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/443b0a803e597edbca9247decd32484954451104w-1200x750-1.jpg",
+        "tags": [
+            "economía",
+            "bolivar",
+            "desnuda",
+            "nacionales",
+            "dificultades",
+            "destacados",
+            "venezolanos"
+        ],
+        "link": "https://lapatilla.com/2026/01/14/la-volatilidad-del-bolivar-desnuda-las-dificultades-diarias-de-los-venezolanos/",
+        "date": "2026-01-14 11:06:29",
+        "sentiment_score": -0.5081448256969452
+    },
+    {
+        "title": "Los pasaportes más poderosos del mundo para 2026",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_142-1.jpg",
+        "tags": [
+            "actualidad",
+            "internacionales",
+            "pasaportes",
+            "2026",
+            "poderosos del mundo"
+        ],
+        "link": "https://lapatilla.com/2026/01/13/los-pasaportes-mas-poderosos-del-mundo-para-2026/",
+        "date": "2026-01-13 11:43:40",
+        "sentiment_score": 0.32172422856092453
+    },
+    {
+        "title": "Copa del Rey: ¡Rídiculo! Vallejo llora por eliminar el Real Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "entertainment"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/copa-del-rey-ridiculo-vallejo-llora-por-eliminar-el-real-madrid-202611418220",
+        "date": "2026-01-14 22:22:00",
+        "sentiment_score": 0.11219078674912453
+    },
+    {
+        "title": "En el debut de Arbeloa, el Real Madrid fue eliminado en la Copa del Rey por un equipo de segunda",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/real-madrid-alvaro-arbeloa.jpg",
+        "tags": [
+            "titulares",
+            "albacete balompié sad",
+            "deportes",
+            "españa",
+            "futbol",
+            "real madrid cf",
+            "copa del rey"
+        ],
+        "link": "https://lapatilla.com/2026/01/14/en-el-debut-de-arbeloa-el-real-madrid-fue-eliminado-en-la-copa-del-rey-por-un-equipo-de-segunda/",
+        "date": "2026-01-14 22:19:06",
+        "sentiment_score": -0.49951668083667755
+    },
+    {
+        "title": "Arbeloa queda marcado con un Albacetazo",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/14/arbeloa-albacete-realmadrid-ktz-U240840377211mMC-1200x840@RC.jpg",
+        "tags": [
+            "vinícius",
+            "copa del rey de fútbol",
+            "real madrid"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/copa-del-rey/cronica-albacete-realmadrid-octavos-copa-20260114231746-ntrc.html",
+        "date": "2026-01-14 22:18:29",
+        "sentiment_score": 0.2029290795326233
+    },
+    {
+        "title": "El Real Madrid, eliminado de Copa del Rey",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/14/alvaro-arbeloa-entrenador-del-real-madrid.jpeg",
+        "tags": [
+            "deporte"
+        ],
+        "link": "https://www.huffingtonpost.es/deporte/el-real-madrid-eliminado-copa-rey-f202601.html",
+        "date": "2026-01-14 22:12:35",
+        "sentiment_score": 0.04350690543651581
+    },
+    {
+        "title": "El Albacete elimina al Real Madrid en el debut de Arbeloa (3-2)",
+        "image_url": "https://static.grupojoly.com/clip/6ca7b1f8-b3cb-48ec-ad3f-b374e01358a5_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "copa del rey",
+            "real madrid"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/albacete-elimina-real-madrid-debut-arbeloa-3-2_0_2005644996.html",
+        "date": "2026-01-14 22:12:28",
+        "sentiment_score": -0.8886277861893177
+    },
+    {
+        "title": "Arbeloa se estrena de la mejor manera posible: el Real Madrid, ‘al carrer’",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/14/culemania/real-madrid/1003742723348_15601247_1706x960.jpg",
+        "tags": [
+            "florentino pérez",
+            "real madrid",
+            "copa del rey",
+            "xabi alonso"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260114/arbeloa-estrena-manera-posible-real-madrid-carrer/1003742723341_0.html",
+        "date": "2026-01-14 22:11:18",
+        "sentiment_score": -0.6875024512410164
+    },
+    {
+        "title": "Arbeloa se estrella en su debut con el Real Madrid en Albacete",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1d2af182-7e87-48f6-9097-01c128aff46d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol",
+            "real madrid",
+            "álvaro arbeloa",
+            "copa del rey"
+        ],
+        "link": "https://www.elperiodicodearagon.com/deportes/2026/01/14/albacete-real-madrid-copa-del-rey-resumen-resultado-futbol-125694771.html",
+        "date": "2026-01-14 22:11:18",
+        "sentiment_score": -0.7080531641840935
+    },
+    {
+        "title": "Relaño sentencia al Real Madrid tras la debacle en Copa del Rey ante el Albacete: \"La imagen es catastrófica\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/14/6968137dc771a.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/relano-sentencia-real-madrid-debacle-copa-rey-albacete-imagen-catastrofica-20260114_3286907.html",
+        "date": "2026-01-14 22:11:09",
+        "sentiment_score": -0.15640860795974731
+    },
+    {
+        "title": "Fiscales españoles investigan acusaciones de agresión sexual contra Julio Iglesias",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/fbeed99/2147483647/strip/true/crop/2000x1050+0+145/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffe%2F65%2F04c7e0e540249d6da8a12ad211c4%2F1a3983fb31d04310a3cbb1bb1e215178.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/entretenimiento/articulo/2026-01-14/fiscales-espanoles-investigan-acusaciones-de-agresion-sexual-contra-julio-iglesias",
+        "date": "2026-01-14 22:18:08",
+        "sentiment_score": -0.8128390004858375
     }
 ];
