@@ -1,148 +1,5 @@
 export default [
     {
-        "title": "El Real Madrid anuncia el cese de Xabi Alonso",
-        "image_url": "https://www.elplural.com/uploads/s1/21/17/07/1/xabi-alonso-durante-el-real-madrid-celta-de-vigo-ep_7_480x270.jpeg",
-        "tags": [
-            "el regate"
-        ],
-        "link": "https://www.elplural.com/el-regate/real-madrid-anuncia-cese-xabi-alonso_378461102",
-        "date": "2026-01-12 17:18:00",
-        "sentiment_score": 0.5694340690970421
-    },
-    {
-        "title": "El Real Madrid fulmina a Xabi Alonso",
-        "image_url": "https://static1.ara.cat/clip/eb0a62e3-e7d9-4cc2-ac2a-8334ea7b0c77_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real",
-            "fulmina",
-            "xabi",
-            "madrid",
-            "alonso"
-        ],
-        "link": "https://es.ara.cat/deportes/futbol/real-madrid-fulmina-xabi-alonso_1_5616070.html",
-        "date": "2026-01-12 17:17:53",
-        "sentiment_score": 0.4060856103897095
-    },
-    {
-        "title": "Xabi Alonso deja de ser entrenador del Real Madrid",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/01/11/696426b2d10b8.r_d.934-452-2240.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/real-madrid-destituye-xabi-alonso-20260112_3285066.html",
-        "date": "2026-01-12 17:17:45",
-        "sentiment_score": 0.6502878665924072
-    },
-    {
-        "title": "El Real Madrid cesa a Xabi Alonso como entrenador",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/1a4bbbb3-52f8-45d8-9b17b04dda0abd74.jpg",
-        "tags": [
-            "real madrid",
-            "xabi alonso"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z87796aa1-418d-4b2e-8562eda031ac50a1/202601/el-real-madrid-cesa-a-xabi-alonso-como-entrenador",
-        "date": "2026-01-12 17:17:33",
-        "sentiment_score": -0.5041845329105854
-    },
-    {
-        "title": "Xabi Alonso, destituido como entrenador del Real Madrid: Álvaro Arbeloa será el nuevo técnico blanco",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2559152.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.vozpopuli.com/deportes/xabi-alonso-destituido-como-entrenador-del-real-madrid.html",
-        "date": "2026-01-12 17:17:26",
-        "sentiment_score": 0.24860601127147675
-    },
-    {
-        "title": "El Real Madrid anuncia la destitución de Xabi Alonso",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/11/69641faea43c08-65516878.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/real-madrid-anuncia-destitucion-xabi-alonso_6920135_0.html",
-        "date": "2026-01-12 17:16:49",
-        "sentiment_score": -0.13287191092967987
-    },
-    {
-        "title": "El Real Madrid comunica la salida de Xabi Alonso del banquillo blanco",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/12/xabi-alonso-durante-la-final-de-supercopa-de-espana-barcelona-real-madrid-11-de-enero-de-2026.jpeg",
-        "tags": [
-            "deporte"
-        ],
-        "link": "https://www.huffingtonpost.es/deporte/el-real-madrid-comunica-salida-xabi-alonso-banquillo-blanco-f202601.html",
-        "date": "2026-01-12 17:16:47",
-        "sentiment_score": -0.33247124031186104
-    },
-    {
-        "title": "La localidad coruñesa de Ames acogerá el Campeonato del Mundo de 100 kilómetros de 2026",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/noticia-localidad-corunesa-ames-acogera-campeonato-mundo-100-kilometros-2026-20260112181620.html",
-        "date": "2026-01-12 17:16:20",
-        "sentiment_score": 0.2337930165231228
-    },
-    {
-        "title": "¡Bombazo! Xabi Alonso sale del Real Madrid",
-        "image_url": "https://pxcdn.meridiano.net/012026/1768237912256.jpg?ch=180&cw=320",
-        "tags": [
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/espanol/bombazo-xabi-alonso-sale-del-real-madrid--202611213150",
-        "date": "2026-01-12 17:15:00",
-        "sentiment_score": -0.17797689139842987
-    },
-    {
-        "title": "El Real Madrid anuncia la destitución de Xabi Alonso tras perder la Supercopa de España y nombra a Álvaro Arbeloa",
-        "image_url": "https://s3.elespanol.com/2025/12/19/actualidad/1003744063091_260577766_1706x960.jpg",
-        "tags": [
-            "real madrid cf",
-            "deportes",
-            "fútbol",
-            "xabi alonso"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20260112/real-madrid-anuncia-destitucion-xabi-alonso-perder-supercopa-espana/1003744086913_0.html",
-        "date": "2026-01-12 17:14:40",
-        "sentiment_score": -0.028097547590732574
-    },
-    {
-        "title": "Desmantelada una banda de colombianos especializada en asaltos violentos a ancianos en portales de viviendas",
-        "image_url": "https://gaceta.es/wp-content/uploads/2025/10/policia-nacional-0-1.jpg",
-        "tags": [
-            "españa",
-            "inseguridad",
-            "inmigración ilegal",
-            "inmigración"
-        ],
-        "link": "https://gaceta.es/espana/desmantelada-una-banda-de-colombianos-especializada-en-asaltos-violentos-a-ancianos-en-portales-de-viviendas-20260112-1817/",
-        "date": "2026-01-12 17:17:37",
-        "sentiment_score": -0.8613293804228306
-    },
-    {
-        "title": "La navarra Natalia Lacunza inicia la gira de presentación de su segundo álbum de estudio",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2025/10/27/68ffaf879aa93.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/cultura-ocio/cultura/2026/01/12/navarra-natalia-lacunza-inicia-gira-presentacion-segundo-album-estudio-806360-104.html",
-        "date": "2026-01-12 17:17:05",
-        "sentiment_score": 0.2141843307763338
-    },
-    {
-        "title": "Espectacular maniobra del piloto de un avión procedente de Barcelona para abortar un aterrizaje en Santander",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/05bf85ed-885b-498c-b93c-7b17d28b7804_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "santander",
-            "aviones",
-            "aeropuertos"
-        ],
-        "link": "https://www.elperiodicodearagon.com/sociedad/2026/01/12/espectacular-maniobra-piloto-santander-abortar-aterrizaje-125614586.html",
-        "date": "2026-01-12 17:13:49",
-        "sentiment_score": -0.3049035668373108
-    },
-    {
         "title": "La reacción viral de Arturo Vidal al gol de Lewandowski",
         "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2017/02/25/60e6fc6d0512a.jpeg",
         "tags": [
@@ -2791,5 +2648,166 @@ export default [
         "link": "https://www.elespanol.com/el-cultural/letras/20260116/muchas-vidas-pasolini-genio-rebelde-enigma-narrado-cercania/1003744091355_0.html",
         "date": "2026-01-16 00:55:00",
         "sentiment_score": -0.2478364333510399
+    },
+    {
+        "title": "Así es el adiós a Irene de Grecia: capilla ardiente privada en la Zarzuela, oración en Madrid y funeral y entierro en Grecia",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/03/02/reina-sofia.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.20minutos.es/gente/asi-es-adios-irene-grecia-capilla-ardiente-privada-zarzuela-oracion-madrid-funeral-entierro-grecia_6921819_0.html",
+        "date": "2026-01-16 06:36:53",
+        "sentiment_score": -0.4482848420739174
+    },
+    {
+        "title": "Las facetas más desconocidas de Irene de Grecia: un novio abogado, trató a Teresa de Calcuta...",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2023/12/20/la-infanta-elena-celeb-48052695.r_d.952-728.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.20minutos.es/gente/las-facetas-mas-desconocidas-irene-grecia-tuvo-un-novio-abogado-trato-teresa-calcuta-dono-un-millon-dolares_6921807_0.html",
+        "date": "2026-01-16 06:36:34",
+        "sentiment_score": 0.6398708894848824
+    },
+    {
+        "title": "Banco Santander lanza un fondo para invertir 300 millones en comprar centros y locales comerciales",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8c97a691-cf1a-4026-941b-039b424092af_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sector inmobiliario",
+            "santander",
+            "mercado inmobiliario",
+            "centro comercial",
+            "cnmv",
+            "centros comerciales",
+            "banco santander",
+            "fondos de inversión"
+        ],
+        "link": "https://www.laopiniondemurcia.es/economia/2026/01/16/banco-santander-fondo-centros-comerciales-125739948.html",
+        "date": "2026-01-16 06:07:34",
+        "sentiment_score": 0.4531970154494047
+    },
+    {
+        "title": "Julio Iglesias rompe el silencio: \"No he abusado, coaccionado o faltado al respeto a ninguna mujer\"",
+        "image_url": "https://static1.ara.cat/clip/d28f2ab9-c313-4c45-9d0e-02dfe5718ef4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rompe",
+            "mujer",
+            "respeto",
+            "abusado",
+            "no",
+            "coaccionado",
+            "silencio",
+            "faltado",
+            "julio",
+            "iglesias",
+            "he"
+        ],
+        "link": "https://es.ara.cat/cultura/julio-iglesias-rompe-silencio-no-he-abusado-coaccionado-faltado-respeto-mujer_1_5619366.html",
+        "date": "2026-01-16 06:35:29",
+        "sentiment_score": -0.9364694198593497
+    },
+    {
+        "title": "'Dentro del sol', el homenaje de Jeremías San Martín a «los amigos surferos que ya no están»",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2026/01/15/jeremias-san-martin-sol%20(2).jpg",
+        "tags": [
+            "sol",
+            "santander",
+            "música",
+            "surf"
+        ],
+        "link": "https://www.eldiariomontanes.es/dmusica/lanzamientos/dentro-sol-homenaje-jeremias-san-martin-amigos-20260116072334-nt.html",
+        "date": "2026-01-16 06:23:35",
+        "sentiment_score": 0.5284553337842226
+    },
+    {
+        "title": "El reto de abordar la muerte con los niños: \"Lo más importantes es que vean lo menos afectada posible su rutina\"",
+        "image_url": "https://album.mediaset.es/eimg/2026/01/15/duelo_47a7.jpg",
+        "tags": [
+            "educación"
+        ],
+        "link": "https://www.telecinco.es/noticias/educacion/20260116/reto-abordar-muerte-ninos-duelo_18_017966890.html",
+        "date": "2026-01-16 06:15:33",
+        "sentiment_score": -0.8873874135315418
+    },
+    {
+        "title": "¿De dónde vienen mis ideas y qué pasa si las cambio?",
+        "image_url": "https://static1.ara.cat/clip/fae6fe11-9b9b-4313-948f-9742604e2922_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "vienen",
+            "pasa",
+            "ideas",
+            "cambio"
+        ],
+        "link": "https://es.ara.cat/cultura/leer/vienen-ideas-pasa-cambio_129_5619361.html",
+        "date": "2026-01-16 06:15:17",
+        "sentiment_score": -0.01205851137638092
+    },
+    {
+        "title": "Daría, española en Suiza: \"Hace años se hizo un referéndum para dar dos días extra de vacaciones y por un 80% salió que no; imagínate si saliese esto en España\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/16/6969d55638218.jpeg",
+        "tags": [
+            "a ciegas"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/a-ciegas/noticias/daria-espanola-suiza-anos-hizo-referendum-dar-dos-dias-extra-vacaciones-80-salio-imaginate-saliese-esto-espana-20260116_3287307.html",
+        "date": "2026-01-16 06:13:06",
+        "sentiment_score": -0.1117401123046875
+    },
+    {
+        "title": "Lo que debes saber hoy, 16 de enero, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/24/vivir-en-barcelona/1003742710519_15443469_1706x960.jpg",
+        "tags": [
+            "transports metropolitans barcelona tmb",
+            "tiempo",
+            "movilidad",
+            "vivir en barcelona",
+            "clima",
+            "metro barcelona",
+            "transporte"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260116/debes-saber-hoy-enero-barcelona/1003742723738_0.html",
+        "date": "2026-01-16 06:10:53",
+        "sentiment_score": -0.8397755175828934
+    },
+    {
+        "title": "3 buenos restaurantes de Barcelona para el fin de semana: Melós, Nobu y Café Video Instan",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0f583683-740e-4a95-8eab-819a4d90de7b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "dónde comer hoy",
+            "gastronomía",
+            "restaurantes barcelona",
+            "restaurante",
+            "barcelona",
+            "hoteles"
+        ],
+        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260116/buenos-restaurantes-barcelona-melos-nobu-cafe-video-instan-125710511",
+        "date": "2026-01-16 06:01:00",
+        "sentiment_score": -0.2884330675005913
+    },
+    {
+        "title": "Viaje a Idaho 1938 (I)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "idaho",
+            "1938",
+            "viaje",
+            "i"
+        ],
+        "link": "https://www.deia.eus/opinion/2026/01/16/viaje-idaho-1938-i-10578064.html",
+        "date": "2026-01-16 06:00:28",
+        "sentiment_score": -0.44989074766635895
+    },
+    {
+        "title": "El Alavés veta la cesión de Egoitz Muñoz a la Ponferradina",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f1f6f9ea-61ca-4e1f-a14e-3d29df63212c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "egoitz",
+            "veta",
+            "cesion",
+            "munoz",
+            "alaves"
+        ],
+        "link": "https://www.noticiasdealava.eus/alaves/2026/01/16/alaves-veta-cesion-egoitz-munoz-10577688.html",
+        "date": "2026-01-16 06:00:27",
+        "sentiment_score": 0.8366445861756802
     }
 ];
