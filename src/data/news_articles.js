@@ -1,126 +1,5 @@
 export default [
     {
-        "title": "Manolo Lama analiza cómo deja al Real Madrid la derrota en la Supercopa: \"Xabi Alonso puede salir contento, pero no entiendo que el equipo lo esté cuando pierde\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2026/01/11/69642768571a5.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/manolo-lama-analiza-deja-real-madrid-derrota-supercopa-xabi-alonso-salir-contento-entiendo-equipo-pierde-20260112_3284315.html",
-        "date": "2026-01-12 06:29:36",
-        "sentiment_score": 0.0012220442295074463
-    },
-    {
-        "title": "Xabi pierde, compite, sobrevive",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8d3df242-7135-4788-aaac-1fe19e04bd6b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "florentino pérez",
-            "real madrid",
-            "supercopa de españa",
-            "xabi alonso"
-        ],
-        "link": "https://www.lne.es/deportes/2026/01/12/xabi-alonso-florentino-perez-real-madrid-fc-barcelona-supercopa-125589693.html",
-        "date": "2026-01-12 06:24:22",
-        "sentiment_score": -0.32825957238674164
-    },
-    {
-        "title": "06:00H | 12 ENE 2026 | Herrera en COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "herrera en cope"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/06-00h-12-ene-2026-herrera-cope-20260112_3284339.html",
-        "date": "2026-01-12 06:06:00",
-        "sentiment_score": -0.09106296300888062
-    },
-    {
-        "title": "Xabi Alonso resiste contra viento y marea y salva su puesto in extremis",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/09/14/2025091413320438484.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/xabi-alonso-resiste-viento-marea-salva-puesto-in-extremis/20260112070429370230.html",
-        "date": "2026-01-12 06:04:29",
-        "sentiment_score": -0.5800922773778439
-    },
-    {
-        "title": "'Váyase, señor Feijóo, váyase': diez motivos democráticos para hacerlo",
-        "image_url": "https://www.elplural.com/uploads/s1/21/07/58/4/europapress-7126424-presidente-partido-popular-alberto-nunez-feijoo-portavoz-pp-congreso-ester-1_7_480x270.jpeg",
-        "tags": [
-            "análisis"
-        ],
-        "link": "https://www.elplural.com/opinion/analisis/vayase-senor-feijoo-vayase-diez-motivos-democraticos-hacerlo_378377102",
-        "date": "2026-01-12 06:01:39",
-        "sentiment_score": -0.14587131142616272
-    },
-    {
-        "title": "Tractoradas, año Gaudí y el juicio a los Pujol",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/12/vida/1003742722437_15590106_1706x960.jpg",
-        "tags": [
-            "agricultura",
-            "cataluña",
-            "primeras planas"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260112/tractoradas-ano-gaudi-juicio-pujol/1003742722436_0.html",
-        "date": "2026-01-12 06:39:52",
-        "sentiment_score": -0.9042985513806343
-    },
-    {
-        "title": "El vuelco de un camión corta la AP-7 en Benicàssim (Castellón) hacia Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7f2f004c-df51-49e3-ac80-0c3d60d96d5f_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tráfico",
-            "sucesos"
-        ],
-        "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260112/camion-corta-ap-7-benicassim-accidente-125590646",
-        "date": "2026-01-12 06:39:35",
-        "sentiment_score": -0.714200971648097
-    },
-    {
-        "title": "Siete miradas al potencial de la literatura",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9df08043-fe94-4681-adfb-ea36e520404c_16-9-aspect-ratio_default_0_x1930y1046.jpg",
-        "tags": [
-            "miradas",
-            "potencial",
-            "literatura",
-            "siete"
-        ],
-        "link": "https://www.noticiasdenavarra.com/cultura/2026/01/12/siete-miradas-potencial-literatura-10561186.html",
-        "date": "2026-01-12 06:36:00",
-        "sentiment_score": 0.22493484616279602
-    },
-    {
-        "title": "Lo que debes saber hoy, 12 de enero, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/08/13/informacion-municipal/1003742681413_15011381_1706x960.jpg",
-        "tags": [
-            "renfe barcelona",
-            "tráfico",
-            "transports metropolitans barcelona tmb",
-            "metro barcelona",
-            "clima",
-            "tiempo",
-            "movilidad",
-            "aemet (agencia estatal de meteorología)",
-            "rodalies",
-            "autobús"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260112/debes-saber-hoy-enero-barcelona/1003742722435_0.html",
-        "date": "2026-01-12 06:32:09",
-        "sentiment_score": -0.6629386879503727
-    },
-    {
-        "title": "Feijóo redobla su presencia en Cataluña para llegar a la Moncloa inspirado por las mayorías de Aznar y Rajoy",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cca3ea65-6a08-4a10-861b-a28f8f4d36d9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "elecciones generales",
-            "congreso",
-            "alberto núñez feijóo",
-            "elecciones municipales"
-        ],
-        "link": "https://www.lne.es/espana/2026/01/12/feijoo-redobla-presencia-cataluna-llegar-125589735.html",
-        "date": "2026-01-12 06:28:39",
-        "sentiment_score": 0.03663697838783264
-    },
-    {
         "title": "El Real Madrid anuncia el cese de Xabi Alonso",
         "image_url": "https://www.elplural.com/uploads/s1/21/17/07/1/xabi-alonso-durante-el-real-madrid-celta-de-vigo-ep_7_480x270.jpeg",
         "tags": [
@@ -2489,5 +2368,208 @@ export default [
         "link": "https://www.lne.es/sociedad/2026/01/15/pena-carcel-aviso-falsa-bomba-125725944.html",
         "date": "2026-01-15 17:14:21",
         "sentiment_score": -0.8401333913207054
+    },
+    {
+        "title": "¿Cuántos petroleros vinculados a Venezuela ha incautado EEUU?",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/descarga-1-1.jpg",
+        "tags": [
+            "incautado",
+            "vinculados",
+            "internacionales",
+            "actualidad",
+            "usa",
+            "petroleros",
+            "venezuela",
+            "nacionales",
+            "eeuu"
+        ],
+        "link": "https://lapatilla.com/2026/01/15/cuantos-petroleros-vinculados-a-venezuela-ha-incautado-eeuu/",
+        "date": "2026-01-15 22:16:12",
+        "sentiment_score": -0.459651093930006
+    },
+    {
+        "title": "El Valencia CF se toma una 'Copa' de oxígeno y accede a los cuartos de final",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/13834c77-8729-4b6a-bfcc-e800d37935c0_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "cartagena",
+            "la liga",
+            "burgos",
+            "valencia cf",
+            "el valencia"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2026/01/15/valencia-cf-toma-copa-oxigeno-125734012.html",
+        "date": "2026-01-15 22:18:25",
+        "sentiment_score": 0.32624681293964386
+    },
+    {
+        "title": "Sanidad publica las listas definitivas del MIR 2026 a sólo una semana del examen con un récord de 16.763 aspirantes",
+        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070302_260670196_1706x960.jpg",
+        "tags": [
+            "sanidad - actualidad sanitaria",
+            "observatorio de la sanidad",
+            "mir"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260115/sanidad-publica-listas-definitivas-mir-solo-semana-examen-record-aspirantes/1003744091743_0.html",
+        "date": "2026-01-15 22:17:53",
+        "sentiment_score": -0.5838393531739712
+    },
+    {
+        "title": "El Barça se invita a otra ronda en la Copa",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/15/Clipboard-0229-kwvC-U2408554901800aD-1200x840@RC.jpg",
+        "tags": [
+            "barcelona",
+            "cronica",
+            "racing"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/copa-del-rey/barca-invita-ronda-copa-20260115231642-ntrc.html",
+        "date": "2026-01-15 22:16:45",
+        "sentiment_score": 0.10818828642368317
+    },
+    {
+        "title": "Estos son los posibles rivales del Athletic en los cuartos de Copa",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9718d5a4-10fb-4c7d-bf39-93f72181f7e9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rivales",
+            "posibles",
+            "cuartos",
+            "athletic",
+            "son"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/01/15/son-posibles-rivales-athletic-cuartos-10578300.html",
+        "date": "2026-01-15 22:15:11",
+        "sentiment_score": -0.1929052174091339
+    },
+    {
+        "title": "El Barça sufre contra el Racing para seguir vivo en la Copa: victoria y ambientazo en El Sardinero",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/15/culemania/primer-equipo/1003742723720_15605998_1706x960.jpg",
+        "tags": [
+            "primer equipo",
+            "hansi flick",
+            "ferran torres",
+            "copa del rey",
+            "lamine yamal"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260115/barca-sufre-seguir-copa-victoria-ambientazo-sardinero/1003742723702_0.html",
+        "date": "2026-01-15 22:12:54",
+        "sentiment_score": 0.6708680391311646
+    },
+    {
+        "title": "Los posibles rivales del Valencia CF en los cuartos de Copa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a07591e5-2007-4aa0-a390-99b32231d973_16-9-aspect-ratio_default_0_x353y199.jpg",
+        "tags": [
+            "real madrid",
+            "copa del rey",
+            "deportivo de la coruña",
+            "burgos",
+            "valencia cf"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2026/01/15/posibles-rivales-valencia-cf-cuartos-125733984.html",
+        "date": "2026-01-15 22:12:18",
+        "sentiment_score": -0.005240872502326965
+    },
+    {
+        "title": "¿Cuándo es el sorteo de cuartos de la Copa del Rey? Todos los equipos que se han clasificado y bombos",
+        "image_url": "https://okdiario.com/img/2026/01/15/befunky-collage-3.jpg",
+        "tags": [
+            "deportes",
+            "sorteo copa del rey",
+            "fútbol",
+            "copa del rey"
+        ],
+        "link": "https://okdiario.com/deportes/cuando-sorteo-cuartos-copa-del-rey-todos-equipos-que-han-clasificado-bombos-16077644",
+        "date": "2026-01-15 22:11:59",
+        "sentiment_score": 0.12599784135818481
+    },
+    {
+        "title": "El Barça se clasifica ante un rival de Primera",
+        "image_url": "https://static1.ara.cat/clip/5436a245-b102-4b17-810c-1ffb9f99d1e8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barca",
+            "primera",
+            "clasifica",
+            "rival"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/barca-clasifica-rival-primera_1_5619315.html",
+        "date": "2026-01-15 22:09:59",
+        "sentiment_score": 0.3878720849752426
+    },
+    {
+        "title": "Ferran Torres y Lamine acaban con la resistencia del Racing y meten al Barça en los cuartos de final de la Copa del Rey",
+        "image_url": "https://s3.elespanol.com/2026/01/15/actualidad/1003744091744_260939871_1706x960.jpg",
+        "tags": [
+            "fc barcelona",
+            "racing de santander",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20260115/ferran-torres-lamine-acaban-resistencia-racing-meten-barca-cuartos-final-copa-rey/1003744091734_0.html",
+        "date": "2026-01-15 22:09:00",
+        "sentiment_score": -0.92275102250278
+    },
+    {
+        "title": "Óscar Liria, en su blog: «Me enfrenté a una situación injusta, el sistema no escucha»",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/01/15/imagenblogliria-k7pF-U240857866943cLI-1200x840@Ideal.jpg",
+        "tags": [
+            "óscar liria",
+            "almería",
+            "caso mascarillas",
+            "unidad central operativa (uco)",
+            "guardia civil"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/oscar-liria-blog-enfrente-situacion-injusta-sistema-20260115232126-nt.html",
+        "date": "2026-01-15 22:21:27",
+        "sentiment_score": -0.6918682586401701
+    },
+    {
+        "title": "Kilian López, de Azor Corporate, creó una nueva empresa en 2022",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/01/16/kilian-kHtE-U240857925648P1C-1200x840@Ideal.jpg",
+        "tags": [
+            "diputación provincial de almería",
+            "caso mascarillas",
+            "almería"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/kilian-lopez-azor-corporate-creo-nueva-empresa-20260116232114-nt.html",
+        "date": "2026-01-15 22:21:14",
+        "sentiment_score": 0.09033646062016487
+    },
+    {
+        "title": "Adif prevé solucionar \"esta noche\" la avería que causa retrasos en trenes Madrid-Barcelona",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/15/adif-preve-solucionar-esta-noche-la-averia-que-causa-retrasos-en-trenes-madrid-barcelona/",
+        "date": "2026-01-15 22:21:07",
+        "sentiment_score": -0.5688573606312275
+    },
+    {
+        "title": "Películas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "peliculas"
+        ],
+        "link": "https://www.hoy.es/opinion/manuel-martinez-mediero-badajoz-peliculas-20260116231323-nt.html",
+        "date": "2026-01-15 22:18:37",
+        "sentiment_score": -0.11777040362358093
+    },
+    {
+        "title": "Junqueras se reúne con Foment para intentar despejar sus reparos a la nueva financiación",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/15/junqueras-se-reune-con-foment-para-intentar-despejar-sus-reparos-a-la-nueva-financiacion/",
+        "date": "2026-01-15 22:18:23",
+        "sentiment_score": 0.14832378923892975
+    },
+    {
+        "title": "El navarro Manex Lozano perdona el empate en el descuento y Lamine cierra el pase",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2026/01/15/6969667a2f1a0.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/deportes/futbol/2026/01/15/navarro-manex-lozano-perdona-empate-descuento-lamine-cierra-pase-806764-31.html",
+        "date": "2026-01-15 22:16:32",
+        "sentiment_score": 0.13308940827846527
     }
 ];
