@@ -2571,5 +2571,225 @@ export default [
         "link": "https://www.diariodenavarra.es/noticias/deportes/futbol/2026/01/15/navarro-manex-lozano-perdona-empate-descuento-lamine-cierra-pase-806764-31.html",
         "date": "2026-01-15 22:16:32",
         "sentiment_score": 0.13308940827846527
+    },
+    {
+        "title": "Quique Sánchez Flores sobre Vinicius: \"Creo que no representa los valores del Real Madrid\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/16/quique-sanchez-flores-sobre-vinicius-creo-que-no-representa-los-valores-del-real-madrid/",
+        "date": "2026-01-16 02:06:25",
+        "sentiment_score": -0.7429164741188288
+    },
+    {
+        "title": "Copa del Rey: resultados de los octavos de final y la siguiente fase",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/01/15/copa-del-rey-resultados-octavos-de-final-orix/",
+        "date": "2026-01-16 02:03:46",
+        "sentiment_score": 0.8470286726951599
+    },
+    {
+        "title": "La realidad descrita por las denunciantes de Julio Iglesias también ocurre en muchas casas de España: “Te tocan las tetas, te piden favores sexuales, estás totalmente expuesta”",
+        "image_url": "https://www.infobae.com/resizer/v2/2YSFG4MVFBGS5N7R3HHUG57SSE.JPG?auth=6d699f4ef0cba49f64fbd74211fd8b0dcdc6869a1391c43ef975d86012d32d07&height=2306&smart=true&width=4100",
+        "tags": [
+            "trabajo doméstico",
+            "machismo",
+            "españa-sociedad",
+            "inmigración españa",
+            "violencia contra las mujeres",
+            "abusos sexuales",
+            "españa-noticias",
+            "julio iglesias",
+            "migrantes",
+            "violencia de género"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/16/la-realidad-descrita-por-las-denunciantes-de-julio-iglesias-tambien-ocurre-en-muchas-casas-de-espana-te-tocan-las-tetas-te-piden-favores-sexuales-estas-totalmente-expuesta/",
+        "date": "2026-01-16 02:00:00",
+        "sentiment_score": -0.8482568189501762
+    },
+    {
+        "title": "Irene de Grecia, la princesa a la sombra de la reina Sofía: su mote familiar, sus amores y su pasión por el piano",
+        "image_url": "https://s3.elespanol.com/2023/11/24/mujer/royals/812178936_237886347_1706x960.jpg",
+        "tags": [
+            "casas reales",
+            "royals",
+            "reina sofía"
+        ],
+        "link": "https://www.elespanol.com/mujer/royals/20260116/irene-grecia-princesa-sombra-reina-sofia-mote-familiar-amores-pasion-piano/810419299_0.html",
+        "date": "2026-01-16 01:49:32",
+        "sentiment_score": -0.1321915090084076
+    },
+    {
+        "title": "James Rodríguez, reconocido como “el más creativo” con el que jugó un viejo conocido del colombiano en el AS Mónaco",
+        "image_url": "https://www.infobae.com/resizer/v2/FZFQTMS6H5H4JMG4QOWQ7EIEJM.jpg?auth=a06710f83a9779391b7ace4f3f2e27355da1b75411a4864c63f62e209070fd6f&height=540&smart=true&width=960",
+        "tags": [
+            "colombia-deportes",
+            "dimitar berbatov",
+            "as monaco",
+            "james rodríguez"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/01/16/james-rodriguez-reconocido-como-el-mas-creativo-con-el-que-jugo-un-viejo-conocido-del-colombiano-en-el-as-monaco/",
+        "date": "2026-01-16 01:46:29",
+        "sentiment_score": 0.4073607176542282
+    },
+    {
+        "title": "Real Madrid: estos son los candidatos para el banquillo 'merengue'",
+        "image_url": "https://pxcdn.2001online.com/2001/012026/1768521334377/044067e2-eae2-4b63-ac82-9ea48af5dc7b_alta-libre-aspect-ratio_default_0.jpg?ch=675&cw=1200",
+        "tags": [
+            "enzo maresca",
+            "laliga",
+            "álvaro arbeloa",
+            "zinedine zidane",
+            "real madrid",
+            "jürgen klopp",
+            "madrid",
+            "imanol alguacil",
+            "xabi alonso",
+            "florentino pérez"
+        ],
+        "link": "https://2001online.com/deportes/real-madrid-estos-son-los-candidatos-para-el-banquillo-merengue-20261152200",
+        "date": "2026-01-16 01:10:14",
+        "sentiment_score": -0.12850189208984375
+    },
+    {
+        "title": "15 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/15-ene-2026-partidazo-cope-20260116_3287848.html",
+        "date": "2026-01-16 00:42:55",
+        "sentiment_score": -0.08194917440414429
+    },
+    {
+        "title": "3a PARTE | 15 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-15-ene-2026-partidazo-cope-20260116_3287847.html",
+        "date": "2026-01-16 00:42:02",
+        "sentiment_score": 0.012948557734489441
+    },
+    {
+        "title": "La entrañable relación entre el rey Felipe VI e Irene de Grecia, su rebelde 'tía Pecu' que era una segunda madre para él",
+        "image_url": "https://s3.elespanol.com/2026/01/15/actualidad/1003744091200_260932939_1706x960.jpg",
+        "tags": [
+            "reina sofía",
+            "casas reales",
+            "salud",
+            "muertes",
+            "felipe vi"
+        ],
+        "link": "https://www.elespanol.com/corazon/casas-reales/20260116/entranable-relacion-rey-felipe-vi-irene-grecia-rebelde-tia-pecu-segunda-madre/1003743867226_0.html",
+        "date": "2026-01-16 00:33:00",
+        "sentiment_score": -0.915183481760323
+    },
+    {
+        "title": "Machado arrasa a Delcy en las encuestas de una Venezuela bajo terrorismo de Estado",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/217ad697a68e0c989b78e10c771e199a/crop/0x0/2905x1937/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/15/17685071622144.jpg",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://www.elmundo.es/internacional/2026/01/16/696930b7fdddfff7728b4594.html",
+        "date": "2026-01-16 00:32:51",
+        "sentiment_score": -0.7997591216117144
+    },
+    {
+        "title": "El sorprendente elogio de Roger Federer a Lionel Messi: la contundente frase sobre su último Mundial con la selección argentina",
+        "image_url": "https://www.infobae.com/resizer/v2/EPU2B6A4WJHUHGTAJKUQL2O2C4.jpg?auth=ce672db73140e9298eede82c77eede2f6664a45f733e9ea99fcccd386684be93&height=1080&smart=true&width=1920",
+        "tags": [
+            "roger federer",
+            "lionel messi",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/16/el-sorprendente-elogio-de-roger-federer-a-lionel-messi-la-contundente-frase-sobre-su-ultimo-mundial-con-la-seleccion-argentina/",
+        "date": "2026-01-16 02:04:19",
+        "sentiment_score": 0.7300142198801041
+    },
+    {
+        "title": "Eladio Carrión en Granada: el rugido del trap latino en el Palacio de Deportes",
+        "image_url": "https://static.grupojoly.com/clip/f5c237ad-ce7c-49b7-a5ef-04d9eaf42d58_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "conciertos granada"
+        ],
+        "link": "https://www.granadahoy.com/ocio/eladio-carrion-granada-rugido-trap_0_2005648584.html",
+        "date": "2026-01-16 02:00:44",
+        "sentiment_score": 0.8736861478537321
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 16 de enero en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
+        "tags": [
+            "barcelona",
+            "noticias",
+            "tiempo en españa",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/16/clima-las-temperaturas-que-predominaran-este-16-de-enero-en-barcelona/",
+        "date": "2026-01-16 02:00:39",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "María Jimena Duzán recordó su vida tras ser cónsul en España y vaticinó el futuro de Vicky Dávila si no es presidenta",
+        "image_url": "https://www.infobae.com/resizer/v2/X43S3BVCJBBY7J7UBZNKHMGKKY.png?auth=c70c981c575eda71594ca0b5219f7dcff1668531c3666e1dc329c901c86f971d&height=566&smart=true&width=1080",
+        "tags": [
+            "vicky dávila",
+            "presidencia colombia 2026",
+            "maría jimena duzán",
+            "cónsul colombia en barcelona",
+            "españa",
+            "periodismo",
+            "colombia-noticias"
+        ],
+        "link": "https://www.infobae.com/colombia/2026/01/16/maria-jimena-duzan-recordo-su-vida-tras-ser-consul-en-espana-y-vaticino-el-futuro-de-vicky-davila-si-no-es-presidenta/",
+        "date": "2026-01-16 01:52:44",
+        "sentiment_score": -0.7396111153066158
+    },
+    {
+        "title": "Le robó la identidad a su amiga para sacar un préstamo millonario, la asesinó y simuló un crimen sexual",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Maria-Angeles-Molina-y-Ana-Paez.jpg",
+        "tags": [
+            "crimen sexual",
+            "titulares",
+            "españa",
+            "amiga",
+            "asesinato",
+            "curiosidades"
+        ],
+        "link": "https://lapatilla.com/2026/01/15/le-robo-la-identidad-a-su-amiga-para-sacar-un-prestamo-millonario-la-asesino-y-simulo-un-crimen-sexual/",
+        "date": "2026-01-16 01:17:16",
+        "sentiment_score": -0.10027169808745384
+    },
+    {
+        "title": "“¡Ay, basta, basta!”: Neymar expuso a sus amigos a la dolorosa rehabilitación que afronta y el video se volvió viral",
+        "image_url": "https://www.infobae.com/resizer/v2/PNVBIVYAYNCSTOXU4RALMZ3WIU.JPG?auth=372389ad262d9e759da5c2106f841dafe3a76cf3afa7d9563dc683db18aea076&height=1080&smart=true&width=1920",
+        "tags": [
+            "deportes-internacional",
+            "neymar",
+            "santos"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/16/ay-basta-basta-neymar-expuso-a-sus-amigos-a-la-dolorosa-rehabilitacion-que-afronta-y-el-video-se-volvio-viral/",
+        "date": "2026-01-16 01:13:18",
+        "sentiment_score": -0.22314834594726562
+    },
+    {
+        "title": "Las 'muchas vidas' de Pasolini, el genio rebelde: un enigma narrado con cercanía",
+        "image_url": "https://s3.elespanol.com/2026/01/15/actualidad/1003744091373_260935299_1706x960.jpg",
+        "tags": [
+            "letras",
+            "pier paolo pasolini",
+            "biografías",
+            "libros",
+            "cine"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20260116/muchas-vidas-pasolini-genio-rebelde-enigma-narrado-cercania/1003744091355_0.html",
+        "date": "2026-01-16 00:55:00",
+        "sentiment_score": -0.2478364333510399
     }
 ];
