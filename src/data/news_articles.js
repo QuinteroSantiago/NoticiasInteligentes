@@ -1,110 +1,5 @@
 export default [
     {
-        "title": "“Ha sido un placer jugar para ti”: Mbappé rompe el silencio tras la fulminante destitución de Xabi Alonso",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/07/17/2024071717122216308.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/deportes/ha-sido-placer-jugar-ti-mbappe-rompe-silencio-fulminante-destitucion-xabi-alonso/20260113074200997552.html",
-        "date": "2026-01-13 06:42:00",
-        "sentiment_score": -0.2814413011074066
-    },
-    {
-        "title": "Las tres noticias de Carlos Alsina para empezar el día: \"Se acabó la aventura de Xabi Alonso en el Madrid\"",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/05/09/6DE83B54-8831-4632-AA7C-6CB358183EDA/tres-historias-empezar-dia-carlos-alsina_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "españa",
-            "noticias",
-            "ondacero"
-        ],
-        "link": "https://www.ondacero.es/noticias/espana/tres-noticias-carlos-alsina-empezar-dia-acabo-aventura-xabi-alonso-madrid_202601136965e872be7ae37724c1510f.html",
-        "date": "2026-01-13 06:38:42",
-        "sentiment_score": 0.1872502937912941
-    },
-    {
-        "title": "Irán, otro elemento más que hace temblar el panorama internacional: \"Trump parece haber dejado atrás el discurso pacifista\"",
-        "image_url": "https://www.elplural.com/uploads/s1/24/19/21/5/protestas-en-tehran_7_480x270.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.elplural.com/politica/internacional/iran-elemento-mas-hace-temblar-panorama-internacional-trump-parece-haber-dejado-atras-discurso-pacifista_378430102",
-        "date": "2026-01-13 06:20:26",
-        "sentiment_score": -0.1966920644044876
-    },
-    {
-        "title": "Mbappé le dio la puntilla a un Xabi que no habló con Florentino en el avión y cerró la puerta a Pintus",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/93bdab27-75ff-4a92-911c-b31ecca1fd28_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol",
-            "florentino pérez",
-            "kylian mbappé",
-            "xabi alonso"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2026/01/13/mbappe-le-dio-puntilla-xabi-florentino-perez-125624501.html",
-        "date": "2026-01-13 06:14:54",
-        "sentiment_score": -0.16030332446098328
-    },
-    {
-        "title": "Cuál es el precio de la gasolina este 13 de enero en Madrid, Barcelona y otras ciudades",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "noticias",
-            "precio gasolina",
-            "españa-economia",
-            "gasolina"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/13/cual-es-el-precio-de-la-gasolina-este-13-de-enero-en-madrid-barcelona-y-otras-ciudades/",
-        "date": "2026-01-13 06:30:51",
-        "sentiment_score": -0.022126439958810806
-    },
-    {
-        "title": "Adelantarse a la leucemia infantil",
-        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/uploads/2026/01/12/6965686d84db6.jpeg",
-        "tags": [
-            "innovadores"
-        ],
-        "link": "https://www.diariodecastillayleon.es/innovadores/260113/104110/adelantarse-leucemia-infantil.html",
-        "date": "2026-01-13 06:30:00",
-        "sentiment_score": 0.3412782624363899
-    },
-    {
-        "title": "Lo que debes saber hoy, 13 de enero, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2019/08/02/vivir-en-barcelona/418468150_10002223_1706x960.jpg",
-        "tags": [
-            "movilidad",
-            "aemet (agencia estatal de meteorología)",
-            "metro barcelona",
-            "tráfico",
-            "clima",
-            "tiempo",
-            "transports metropolitans barcelona tmb",
-            "renfe barcelona",
-            "autobús",
-            "rodalies"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260113/debes-saber-hoy-enero-barcelona/1003742722753_0.html",
-        "date": "2026-01-13 06:28:20",
-        "sentiment_score": 0.04548099637031555
-    },
-    {
-        "title": "¿Qué significa subrayar tu nombre en la firma? Descubre lo que dice la psicología sobre este gesto",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/significa-subrayar-nombre-firma.jpg",
-        "tags": [
-            "documentos",
-            "firmas",
-            "expertos",
-            "estado de ánimo",
-            "lom",
-            "identidad",
-            "curiosidades",
-            "psicología",
-            "inseguridad"
-        ],
-        "link": "https://theobjective.com/curiosidades/2026-01-13/significa-subrayar-nombre-firma-descubre-psicologia-gesto/",
-        "date": "2026-01-13 06:15:00",
-        "sentiment_score": -0.3139119893312454
-    },
-    {
         "title": "Los pasaportes más poderosos del mundo para 2026",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_142-1.jpg",
         "tags": [
@@ -2563,5 +2458,199 @@ export default [
         "link": "https://www.europapress.es/catalunya/noticia-mayoria-activaciones-planes-proteccio-civil-2025-fueron-inundaciones-20260116175428.html",
         "date": "2026-01-16 16:54:28",
         "sentiment_score": 0.05203501880168915
+    },
+    {
+        "title": "El Madrid arrolla al Barça en la Euroliga impulsado por Garuba y Tavares",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c5027879-47a8-4871-af49-5e8aa2ba4626_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fc barcelona de baloncesto",
+            "euroliga",
+            "baloncesto",
+            "real madrid de baloncesto"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2026/01/16/madrid-arrolla-barca-euroliga-liderado-125771555.html",
+        "date": "2026-01-16 22:06:38",
+        "sentiment_score": 0.0540061891078949
+    },
+    {
+        "title": "El Madrid arrolla al Barça en la Euroliga liderado por Garuba y Tavares",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c5027879-47a8-4871-af49-5e8aa2ba4626_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "baloncesto",
+            "euroliga",
+            "fc barcelona de baloncesto",
+            "real madrid de baloncesto"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2026/01/16/madrid-arrolla-barca-euroliga-liderado-125771538.html",
+        "date": "2026-01-16 22:06:37",
+        "sentiment_score": 0.0540061891078949
+    },
+    {
+        "title": "80-61. El Real Madrid domina el clásico europeo con un Garuba estelar",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/16/80-61-el-real-madrid-domina-el-clasico-europeo-con-un-garuba-estelar/",
+        "date": "2026-01-16 22:01:47",
+        "sentiment_score": 0.5031501278281212
+    },
+    {
+        "title": "Liga F: El Eibar se mide este sábado con el Madrid CFF en Ipurua",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/8251c95e-34c9-440e-811e-097c94504f8a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "liga",
+            "eibar",
+            "sabado",
+            "f",
+            "mide"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/futbol/2026/01/16/liga-f-eibar-mide-sabado-10582134.html",
+        "date": "2026-01-16 22:01:20",
+        "sentiment_score": -0.5927170142531395
+    },
+    {
+        "title": "Crónica del Real Madrid - Barça: 80-61",
+        "image_url": "https://www.infobae.com/resizer/v2/QEYH2EI7MRCFJJLBDPW4JYBYSU.jpg?auth=230af2783c849e752da9bc9288ba6f0092be241bea90cff7003f7ef400b243ba&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/16/cronica-del-real-madrid-barca-80-61/",
+        "date": "2026-01-16 22:00:38",
+        "sentiment_score": -0.08120737224817276
+    },
+    {
+        "title": "El Real Madrid se 'venga' del Barça en la Euroliga: aplastante victoria blanca para ponerse delante en la clasificación",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/16/696ab23b5ee8f5-38856648.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.20minutos.es/deportes/baloncesto/real-madrid-venga-barcelona-euroliga-aplastante-victoria-blanca-ponerse-delante-clasificacion_6922335_0.html",
+        "date": "2026-01-16 22:00:19",
+        "sentiment_score": 0.6649138387292624
+    },
+    {
+        "title": "Así gestiona su fortuna la familia Puig: un hólding familiar con la belleza en el centro",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/4e6018ddfd99f72a4f8aaadbf92073b5/crop/26x0/1289x842/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/16/17686014659134.jpg",
+        "tags": [
+            "sagas familiares>",
+            "artículos josé orihuel>",
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/empresas/2026/01/16/696ab758468aebdb6c8b4594.html",
+        "date": "2026-01-16 22:12:00",
+        "sentiment_score": -0.10617653280496597
+    },
+    {
+        "title": "Vanat confirma que el Girona es la bestia negra del Espanyol",
+        "image_url": "https://static1.ara.cat/clip/176fdece-3a11-4c73-afab-5b903928d93c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "bestia",
+            "vanat",
+            "confirma",
+            "espanyol",
+            "negra",
+            "girona"
+        ],
+        "link": "https://es.ara.cat/deportes/rcd-espanyol/vanat-confirma-girona-bestia-negra-espanyol_1_5620419.html",
+        "date": "2026-01-16 22:02:34",
+        "sentiment_score": -0.768896859139204
+    },
+    {
+        "title": "3-0. Dembele pone orden",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/16/3-0-dembele-pone-orden/",
+        "date": "2026-01-16 22:01:30",
+        "sentiment_score": 0.4359041005373001
+    },
+    {
+        "title": "Guardiola y Busquets compran un 28% de la socimi de viviendas de Alquiler Seguro",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/02/03/culemania/culemaniacos/921417920_14061030_1706x960.jpg",
+        "tags": [
+            "alquiler",
+            "sergio busquets",
+            "business",
+            "barça",
+            "josep guardiola",
+            "inmobiliario",
+            "vivienda",
+            "accionistas",
+            "fc barcelona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20260116/guardiola-busquets-compran-socimi-viviendas-alquiler-seguro/1003742724032_0.html",
+        "date": "2026-01-16 21:58:25",
+        "sentiment_score": 0.17568784952163696
+    },
+    {
+        "title": "Marlene Figueroa, consejera de Turismo: «La unidad de destino es la mejor estrategia turística de Fuerteventura»",
+        "image_url": "https://s1.ppllstatics.com/canarias7/www/multimedia/2026/01/16/marlene-depie-kL2B-U240871132249m2F-1200x840@Canarias7.jpg",
+        "tags": [
+            "bilbao",
+            "turismo",
+            "málaga",
+            "líneas aéreas",
+            "redes sociales",
+            "madrid (ciudad)",
+            "beneficios",
+            "santiago de compostela",
+            "turistas",
+            "canarias",
+            "economia",
+            "sevilla",
+            "trabajo",
+            "principado de asturias",
+            "verano",
+            "cabildo de fuerteventura",
+            "precios",
+            "fitur",
+            "fuerteventura"
+        ],
+        "link": "https://www.canarias7.es/canarias/fuerteventura/marlene-figueroa-consejera-turismo-unidad-destino-mejor-20260117224632-nt.html",
+        "date": "2026-01-16 21:46:33",
+        "sentiment_score": 0.5098002906888723
+    },
+    {
+        "title": "El bajo-barítono ucraniano Vladyslav Buialskyi, ganador del Concurso de Tenor Viñas",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/16/el-bajo-baritono-ucraniano-vladyslav-buialskyi-ganador-del-concurso-de-tenor-vinas/",
+        "date": "2026-01-16 21:45:55",
+        "sentiment_score": 0.05553136020898819
+    },
+    {
+        "title": "La polémica anexión de Bellaterra, la urbanización rica que quiere irse de su municipio: \"Peor que ahora no estaremos\"",
+        "image_url": "https://static.eldiario.es/clip/cfdb2142-65c8-4297-96d7-a7c4d96ad72e_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "cataluña",
+            "actualidad",
+            "noticias",
+            "periodismo independiente",
+            "política",
+            "ignacio escolar",
+            "economía"
+        ],
+        "link": "https://www.eldiario.es/catalunya/polemica-anexion-bellaterra-urbanizacion-rica-quiere-irse-municipio-peor-ahora-no-estaremos_1_12908835.html",
+        "date": "2026-01-16 21:37:55",
+        "sentiment_score": -0.05700647830963135
+    },
+    {
+        "title": "El Barça no repite milagro en Madrid",
+        "image_url": "https://static1.ara.cat/clip/3a7f8f10-e2af-4166-8acd-b4349df62f66_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "madrid",
+            "repite",
+            "no",
+            "milagro",
+            "barca"
+        ],
+        "link": "https://es.ara.cat/deportes/baloncesto/barca-no-repite-milagro-madrid_1_5620383.html",
+        "date": "2026-01-16 21:34:25",
+        "sentiment_score": 0.43361160159111023
     }
 ];
