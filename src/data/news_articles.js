@@ -1,19 +1,5 @@
 export default [
     {
-        "title": "Los pasaportes más poderosos del mundo para 2026",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_142-1.jpg",
-        "tags": [
-            "actualidad",
-            "internacionales",
-            "pasaportes",
-            "2026",
-            "poderosos del mundo"
-        ],
-        "link": "https://lapatilla.com/2026/01/13/los-pasaportes-mas-poderosos-del-mundo-para-2026/",
-        "date": "2026-01-13 11:43:40",
-        "sentiment_score": 0.3217240273952484
-    },
-    {
         "title": "Servicios mínimos al detalle: cómo te afecta la huelga de médicos en la Comunitat Valenciana",
         "image_url": "https://castellondiario.com/wp-content/uploads/2026/01/servicios-minimos-al-detalle-como-te-afecta-la-huelga-de-medicos-en-la-comunitat-valenciana.jpg",
         "tags": [
@@ -1050,20 +1036,6 @@ export default [
         "link": "https://lapatilla.com/2026/01/14/la-volatilidad-del-bolivar-desnuda-las-dificultades-diarias-de-los-venezolanos/",
         "date": "2026-01-14 11:06:29",
         "sentiment_score": -0.5081448256969452
-    },
-    {
-        "title": "Los pasaportes más poderosos del mundo para 2026",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_142-1.jpg",
-        "tags": [
-            "actualidad",
-            "internacionales",
-            "pasaportes",
-            "2026",
-            "poderosos del mundo"
-        ],
-        "link": "https://lapatilla.com/2026/01/13/los-pasaportes-mas-poderosos-del-mundo-para-2026/",
-        "date": "2026-01-13 11:43:40",
-        "sentiment_score": 0.32172422856092453
     },
     {
         "title": "Copa del Rey: ¡Rídiculo! Vallejo llora por eliminar el Real Madrid",
@@ -2652,5 +2624,226 @@ export default [
         "link": "https://es.ara.cat/deportes/baloncesto/barca-no-repite-milagro-madrid_1_5620383.html",
         "date": "2026-01-16 21:34:25",
         "sentiment_score": 0.43361160159111023
+    },
+    {
+        "title": "Cosas de casa",
+        "image_url": "https://s3.elespanol.com/static/ESPEspanol/img/elespanol_amp-1706x960.png?hash=924e",
+        "tags": [
+            "ayuntamiento de toledo",
+            "diputacion de toledo",
+            "opinión",
+            "albacete balompié",
+            "real madrid cf",
+            "josé bono rodríguez"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/opinion/20260117/cosas-casa/1003744091291_13.html",
+        "date": "2026-01-17 02:00:00",
+        "sentiment_score": -0.5726961344480515
+    },
+    {
+        "title": "IU presentará un candidato 'neutro' para intentar aglutinar a la izquierda y superar el choque entre Yolanda Díaz y Podemos",
+        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744093184_260958179_1706x960.jpg",
+        "tags": [
+            "podemos",
+            "ione belarra",
+            "política",
+            "antonio maíllo",
+            "irene montero",
+            "iu",
+            "yolanda díaz",
+            "sumar"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20260117/iu-presentara-candidato-neutro-intentar-aglutinar-izquierda-superar-choque-yolanda-diaz-podemos/1003744093139_0.html",
+        "date": "2026-01-17 01:49:50",
+        "sentiment_score": -0.2733749747276306
+    },
+    {
+        "title": "Los argumentos de Laporta para convocar las elecciones a la presidencia del Barça en marzo",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/09/04/culemania/palco/883421651_13406475_1706x960.jpg",
+        "tags": [
+            "palco",
+            "joan laporta",
+            "elecciones barça",
+            "junta directiva del barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260117/argumentos-laporta-convocar-elecciones-presidencia-barca-marzo/1003742723671_0.html",
+        "date": "2026-01-17 01:42:33",
+        "sentiment_score": 0.8613452278077602
+    },
+    {
+        "title": "La irresistible propuesta de Montero para Andalucía: expoliar a los andaluces para financiar el independentismo",
+        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744092074_260943049_1706x960.jpg",
+        "tags": [
+            "columnas de opinión",
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20260117/irresistible-propuesta-montero-andalucia-expoliar-andaluces-financiar-independentismo/1003744092222_13.html",
+        "date": "2026-01-17 01:39:38",
+        "sentiment_score": 0.371260330080986
+    },
+    {
+        "title": "La competencia récord en el MIR 2026 dejará sin plaza a 7.487 aspirantes tras el examen",
+        "image_url": "https://s3.elespanol.com/2025/01/21/invertia/observatorios/sanidad/918168639_252491165_1706x960.jpg",
+        "tags": [
+            "mir",
+            "sanidad - actualidad sanitaria",
+            "observatorio de la sanidad"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260117/competencia-record-mir-dejara-sin-plaza-aspirantes-examen/1003744092787_0.html",
+        "date": "2026-01-17 01:10:00",
+        "sentiment_score": -0.6519058458507061
+    },
+    {
+        "title": "Óscar Villar y Edgar Sánchez venden la primera casa para 14 personas de la Comunidad Madrid: \"Un chalé por 36.428 €\"",
+        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744093226_260958786_1706x960.jpg",
+        "tags": [
+            "madrid",
+            "vivienda",
+            "inmobiliarias",
+            "sociedad"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20260117/oscar-villar-edgar-sanchez-venden-primera-casa-personas-comunidad-madrid-chale-eur/1003744093220_0.html",
+        "date": "2026-01-17 01:00:00",
+        "sentiment_score": -0.8471357701346278
+    },
+    {
+        "title": "La Antártida inaugura el primer santuario mundial de hielo: una biblioteca climática para los próximos 2.000 años",
+        "image_url": "https://s3.elespanol.com/2026/01/15/actualidad/1003744091640_260938537_1706x960.jpg",
+        "tags": [
+            "glaciares",
+            "antártida",
+            "objetivo 13: acción por el clima",
+            "historias",
+            "objetivo 15: vida de ecosistemas terrestres",
+            "objetivo 14: vida submarina"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20260117/antartida-inaugura-primer-santuario-mundial-hielo-biblioteca-climatica-proximos-anos/1003744091624_0.html",
+        "date": "2026-01-17 00:45:00",
+        "sentiment_score": 0.233621746301651
+    },
+    {
+        "title": "16 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/16-ene-2026-partidazo-cope-20260117_3288808.html",
+        "date": "2026-01-17 00:40:00",
+        "sentiment_score": 0.09122739732265472
+    },
+    {
+        "title": "3a PARTE | 16 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-16-ene-2026-partidazo-cope-20260117_3288807.html",
+        "date": "2026-01-17 00:30:00",
+        "sentiment_score": 0.15533411502838135
+    },
+    {
+        "title": "¿El elegido en Francia? El futuro de Zidane se aleja del Real Madrid",
+        "image_url": "https://pxcdn.2001online.com/2001/012026/1768609152851/file_20160204090120.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/el-elegido-en-francia-el-futuro-de-zidane-se-aleja-del-real-madrid-20261162100",
+        "date": "2026-01-17 00:09:28",
+        "sentiment_score": 0.1690964475274086
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 17 de enero en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
+        "tags": [
+            "tiempo en españa",
+            "barcelona",
+            "noticias",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/17/clima-las-temperaturas-que-predominaran-este-17-de-enero-en-barcelona/",
+        "date": "2026-01-17 02:00:58",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Inquietud en Groenlandia entre los científicos españoles: \"Trump niega el calentamiento pero quiere aprovecharse de él\"",
+        "image_url": "https://s3.elespanol.com/2026/01/15/ciencia/1003744091755_260939997_1706x960.jpg",
+        "tags": [
+            "donald trump",
+            "estados unidos",
+            "ciencia",
+            "investigación científica",
+            "groenlandia",
+            "ártico"
+        ],
+        "link": "https://www.elespanol.com/ciencia/20260117/inquietud-groenlandia-cientificos-espanoles-trump-niega-calentamiento-quiere-aprovecharse/1003744090665_0.html",
+        "date": "2026-01-17 01:49:27",
+        "sentiment_score": 0.10234293341636658
+    },
+    {
+        "title": "La licencia 1C del nuevo Camp Nou se atasca: los motivos del retraso que penalizan al Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/22/culemania/palco/1003742709867_15434730_1706x960.jpg",
+        "tags": [
+            "camp nou",
+            "palco",
+            "joan laporta"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260117/licencia-camp-nou-motivos-retraso-penalizan-barca/1003742723505_0.html",
+        "date": "2026-01-17 01:42:56",
+        "sentiment_score": -0.7696820553392172
+    },
+    {
+        "title": "España no llega a los 100 millones de viajeros internacionales: ¿es un fracaso o un éxito del modelo turístico?",
+        "image_url": "https://s3.elespanol.com/2026/01/15/actualidad/1003744091217_260933051_1706x960.jpg",
+        "tags": [
+            "turismo",
+            "jordi hereu i boher",
+            "hoteles"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/turismo/20260117/espana-no-llega-millones-viajeros-internacionales-fracaso-exito-modelo-turistico/1003744091212_0.html",
+        "date": "2026-01-17 01:39:39",
+        "sentiment_score": 0.47334177792072296
+    },
+    {
+        "title": "Derrota del Gobierno ante los enfermos de ELA en los tribunales: \"Asistencia domiciliaria inmediata para Antonio\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/bb7a140548345d6bddad71569884cb8a/f/image/jpeg/assets/multimedia/imagenes/2022/05/03/16515702585114.jpg",
+        "tags": [
+            "gobierno de españa",
+            "artículos ana maría ortiz",
+            "sanidad",
+            "justicia"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/01/17/696a7e25fc6c83da318b4584.html",
+        "date": "2026-01-17 01:34:49",
+        "sentiment_score": -0.5666499398648739
+    },
+    {
+        "title": "Provocación y botellazo desde la tribuna: la escandalosa escena que protagonizó el argentino Paulo Gazzaniga en España",
+        "image_url": "https://www.infobae.com/resizer/v2/5GXEZDVR7RF2BN5VIPCZU7AUII.jpg?auth=f17e1aa72c4f53b0015e38ed1f784bf45d286bc7043a9329ded5b7e3398298b9&height=1080&smart=true&width=1920",
+        "tags": [
+            "espanyol",
+            "paulo gazzaniga",
+            "la liga",
+            "deportes-argentina",
+            "girona"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/17/provocacion-y-botellazo-desde-la-tribuna-la-escandalosa-escena-que-protagonizo-el-argentino-paulo-gazzaniga-en-espana/",
+        "date": "2026-01-17 00:59:06",
+        "sentiment_score": 0.39055515080690384
+    },
+    {
+        "title": "'La cena', protagonista por sorpresa de los Goya con ocho nominaciones: las claves de la película que se ríe de Franco",
+        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744092381_260947004_1706x960.jpg",
+        "tags": [
+            "películas",
+            "cine",
+            "premios goya",
+            "guerra civil española",
+            "franquismo"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/cine/20260117/cena-protagonista-sorpresa-goya-nominaciones-claves-pelicula-rie-franco/1003744091115_0.html",
+        "date": "2026-01-17 00:55:00",
+        "sentiment_score": 0.32611408829689026
     }
 ];
