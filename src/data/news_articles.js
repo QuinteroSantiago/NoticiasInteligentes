@@ -1,213 +1,5 @@
 export default [
     {
-        "title": "Servicios mínimos al detalle: cómo te afecta la huelga de médicos en la Comunitat Valenciana",
-        "image_url": "https://castellondiario.com/wp-content/uploads/2026/01/servicios-minimos-al-detalle-como-te-afecta-la-huelga-de-medicos-en-la-comunitat-valenciana.jpg",
-        "tags": [
-            "sanidad",
-            "actualidad",
-            "huelga"
-        ],
-        "link": "https://castellondiario.com/servicios-minimos-al-detalle-como-te-afecta-la-huelga-de-medicos-en-la-comunitat-valenciana/",
-        "date": "2026-01-13 17:14:32",
-        "sentiment_score": 0.18654955178499222
-    },
-    {
-        "title": "El Gobierno actualiza la ley del derecho de rectificación para garantizar la información veraz",
-        "image_url": "http://st1.lacerca.com/imagenes/view/d91ba10dfb8d77b5777e255281f2da59.jpg",
-        "tags": [
-            "españa",
-            "noticias"
-        ],
-        "link": "https://www.lacerca.com/noticias/espana/gobierno-actualiza-ley-derecho-rectificacion-garantizar-informacion-veraz-797703-1.html",
-        "date": "2026-01-13 17:10:00",
-        "sentiment_score": -0.02821175754070282
-    },
-    {
-        "title": "Once ideal de EP Deportes de la jornada 19 de LaLiga EA Sports",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260113180622_690.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-once-ideal-ep-deportes-jornada-19-laliga-ea-sports-20260113180622.html",
-        "date": "2026-01-13 17:06:22",
-        "sentiment_score": 0.4263273850083351
-    },
-    {
-        "title": "17:00H | 13 ENE 2026 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-13-ene-2026-tarde-20260113_3285927.html",
-        "date": "2026-01-13 17:06:00",
-        "sentiment_score": -0.24790789186954498
-    },
-    {
-        "title": "Leyenda de Real Madrid se rindió ante la presencia de Javier Rabanal en Universitario: “Ve posibilidades de sacarle un buen rendimiento”",
-        "image_url": "https://www.infobae.com/resizer/v2/34IECUJVAFAVDK7JHFLMTLYVNU.png?auth=edef6c20d89ac84c7ba63396aa99e7fcab433f51497027a956e0111aa4650684&height=1080&smart=true&width=1920",
-        "tags": [
-            "real madrid",
-            "universitario de deportes",
-            "selección peruana",
-            "peru-deportes",
-            "fernando morientes",
-            "javier rabanal"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2026/01/13/leyenda-de-real-madrid-se-rindio-ante-la-presencia-de-javier-rabanal-en-universitario-ve-posibilidades-de-sacarle-un-buen-rendimiento/",
-        "date": "2026-01-13 17:02:12",
-        "sentiment_score": 0.265220083296299
-    },
-    {
-        "title": "Lo que dijo Xabi Alonso tras su sustitución en el Real Madrid",
-        "image_url": "https://elclarinweb.com/2026/01/13/xabi-alonso-tras-su-sustitucion/%3Cimg",
-        "tags": [
-            "deportes",
-            "actualidad"
-        ],
-        "link": "https://elclarinweb.com/2026/01/13/xabi-alonso-tras-su-sustitucion/",
-        "date": "2026-01-13 17:01:17",
-        "sentiment_score": -0.034139737486839294
-    },
-    {
-        "title": "El vínculo que une a Álvaro Arbeloa con Carcastillo",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/60e87d13-5d66-434f-8411-b0b0277ea94c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "vinculo",
-            "carcastillo",
-            "alvaro",
-            "fiestas de 2010",
-            "une",
-            "arbeloa"
-        ],
-        "link": "https://www.noticiasdenavarra.com/futbol/2026/01/13/vinculo-une-alvaro-arbeloa-carcastillo-fiestas-de-2010-10569108.html",
-        "date": "2026-01-13 16:58:02",
-        "sentiment_score": 0.42760196328163147
-    },
-    {
-        "title": "Tyson Pérez: \"El partido de Breogán marca un punto de inflexión\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ac747512-34c1-4da9-8817-a86f1ae2c656_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tyson pérez",
-            "plantilla",
-            "lugo",
-            "unicaja"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2026/01/13/tyson-perez-unicaja-punto-inflexion-125647644.html",
-        "date": "2026-01-13 16:54:46",
-        "sentiment_score": -0.021725058555603027
-    },
-    {
-        "title": "José María Alfaro, agente inmobiliario: \"La última medida de Sánchez va a terminar con el alquiler por habitaciones o, en todo caso, se hará mediante economía sumergida\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/13/6966752c89bc0.jpeg",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/noticias/jose-maria-alfaro-agente-inmobiliario-ultima-medida-sanchez-terminar-alquiler-habitaciones-caso-hara-mediante-economia-sumergida-20260113_3285910.html",
-        "date": "2026-01-13 16:54:06",
-        "sentiment_score": -0.13735873997211456
-    },
-    {
-        "title": "El nuevo Real Madrid de Arbeloa arranca con examen copero en Albacete",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260113175140_120.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-nuevo-real-madrid-arbeloa-arranca-examen-copero-albacete-20260113175140.html",
-        "date": "2026-01-13 16:51:40",
-        "sentiment_score": 0.002994820475578308
-    },
-    {
-        "title": "João Cancelo: \"Quiero desafiarme e intentar tener un espacio en este Barça\"",
-        "image_url": "https://www.infobae.com/resizer/v2/P5J72VTMAJDU3HQNGT47UAOPHU.jpg?auth=804915527a5a03f32fa768e06458ff1f10efabe0ee0a25b9049c624365cb0795&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/13/joao-cancelo-quiero-desafiarme-e-intentar-tener-un-espacio-en-este-barca/",
-        "date": "2026-01-13 17:15:55",
-        "sentiment_score": -0.020198717713356018
-    },
-    {
-        "title": "El Gobierno pone coto al 'true crime', más allá de la violencia vicaria: la víctima podrá denunciar daños a su honor",
-        "image_url": "https://www.infobae.com/resizer/v2/ON5OEXYSUZHMTOAYECRK5GLLJ4.jpg?auth=b69c0983a4e0db06745296b834931c891ab2c1bf7a52f1753030bbb1797e64ad&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/13/el-gobierno-pone-coto-al-true-crime-mas-alla-de-la-violencia-vicaria-la-victima-podra-denunciar-danos-a-su-honor/",
-        "date": "2026-01-13 17:15:38",
-        "sentiment_score": -0.3385673090815544
-    },
-    {
-        "title": "El Ejército mueve ficha con el Pizarro: la unidad que marca el rumbo de su modernización",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/01/24/2025012400260277586.jpg",
-        "tags": [
-            "defensa"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/defensa/ejercito-mueve-ficha-pizarro-unidad-que-marca-rumbo-modernizacion/20260113181413997650.html",
-        "date": "2026-01-13 17:14:13",
-        "sentiment_score": 0.48006077483296394
-    },
-    {
-        "title": "Ercros nombra a Imma Comella nueva directora de relaciones institucionales y comunicación",
-        "image_url": "https://forbes.es/wp-content/uploads/2026/01/fotonoticia_20260113173953_1920-1200x675.jpg",
-        "tags": [
-            "economía",
-            "última hora"
-        ],
-        "link": "https://forbes.es/economia/856323/ercros-nombra-a-imma-comella-nueva-directora-de-relaciones-institucionales-y-comunicacion/",
-        "date": "2026-01-13 17:10:29",
-        "sentiment_score": 0.17984313517808914
-    },
-    {
-        "title": "El Banco Mundial ve la economía global más \"resiliente\" pese a la incertidumbre",
-        "image_url": "https://static1.ara.cat/clip/5d8a95ad-5d38-4e33-930a-78a00129869e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "economia",
-            "pese",
-            "global",
-            "banco",
-            "mundial",
-            "incertidumbre",
-            "resiliente",
-            "ve"
-        ],
-        "link": "https://es.ara.cat/economia/macroeconomia/banco-mundial-ve-economia-global-resiliente-pese-incertidumbre_1_5617033.html",
-        "date": "2026-01-13 17:09:50",
-        "sentiment_score": 0.4862203449010849
-    },
-    {
-        "title": "Madrid y Barcelona marcan tendencia: la oferta de pisos turísticos se ajusta por primera vez",
-        "image_url": "https://capital.es/wp-content/uploads/2025/12/la-vivienda-sigue-siendo-el-mayor-problema-de-los-espanoles-seguida-por-la-situacion-economica-segun-cis.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://capital.es/economia/madrid-y-barcelona-marcan-tendencia-la-oferta-de-pisos-turisticos-se-ajusta-por-primera-vez/161935/",
-        "date": "2026-01-13 17:09:42",
-        "sentiment_score": 0.3018893301486969
-    },
-    {
-        "title": "Cataluña refuerza el control sobre los pisos vacíos para facilitar recargos sobre el IBI",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2023/08/09/64d360ead3fd6.r_d.354-520.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.eldebate.com/economia/20260113/cataluna-refuerza-control-sobre-pisos-vacios-facilitar-recargos-sobre-ibi_374053.html",
-        "date": "2026-01-13 17:07:07",
-        "sentiment_score": 0.005049780011177063
-    },
-    {
-        "title": "Revés judicial a los taxis en Barcelona: anulan la obligación de contratar VTC con una hora de antelación",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2024/02/04/EDA30134-8F65-4833-86BC-19CCC6E36662/conductores-vtc-estan-obligados-acreditar-datos-cada-servicio-que-vayan-iniciar_69.jpg?crop=6053%2C3405%2Cx0%2Cy551&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/reves-judicial-taxis-barcelona-anulan-obligacion-contratar-vtc-hora-antelacion_2026011369667b79be7ae37724c2b63e.html",
-        "date": "2026-01-13 17:06:01",
-        "sentiment_score": -0.8397604841738939
-    },
-    {
         "title": "'Los domingos' y 'Sirât', con 13 y 11 nominaciones, arrasan en candidaturas a los Premios Goya",
         "image_url": "https://ca-times.brightspotcdn.com/dims4/default/03f2da1/2147483647/strip/true/crop/7630x4006+0+525/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F59%2F01%2Ff3b016cc4ee7a902680aff39b289%2F3c21481fe9f34327b1c8a13f24ea0ee6.jpg",
         "tags": [
@@ -2845,5 +2637,231 @@ export default [
         "link": "https://www.elespanol.com/el-cultural/cine/20260117/cena-protagonista-sorpresa-goya-nominaciones-claves-pelicula-rie-franco/1003744091115_0.html",
         "date": "2026-01-17 00:55:00",
         "sentiment_score": 0.32611408829689026
+    },
+    {
+        "title": "¿Cuántos petroleros vinculados a Venezuela ha incautado EEUU?",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/descarga-1-1.jpg",
+        "tags": [
+            "incautado",
+            "vinculados",
+            "internacionales",
+            "actualidad",
+            "usa",
+            "petroleros",
+            "venezuela",
+            "nacionales",
+            "eeuu"
+        ],
+        "link": "https://lapatilla.com/2026/01/15/cuantos-petroleros-vinculados-a-venezuela-ha-incautado-eeuu/",
+        "date": "2026-01-15 22:16:12",
+        "sentiment_score": -0.4596506170928478
+    },
+    {
+        "title": "El Atlético se aferrra a Sorloth ante el bajón de Julián Alvarez",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/25/2025042504072539700.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/atletico-encomienda-mejor-version-sorloth-mientras-julian-sigue-aparecer/20260117073335370955.html",
+        "date": "2026-01-17 06:33:35",
+        "sentiment_score": -0.022233501076698303
+    },
+    {
+        "title": "El Burgos denuncia al Valencia por alineación indebida de Umar Sadiq",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/15/2025061511573762669.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/burgos-denuncia-valencia-alineacion-indebida-umar-sadiq/20260117071532370954.html",
+        "date": "2026-01-17 06:15:32",
+        "sentiment_score": -0.6205484643578529
+    },
+    {
+        "title": "Los lugares de memoria democrática: desde cárceles y palacios hasta una mina e islas",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/17/los-lugares-de-memoria-democratica-desde-carceles-y-palacios-hasta-una-mina-e-islas/",
+        "date": "2026-01-17 06:15:25",
+        "sentiment_score": -0.2332986295223236
+    },
+    {
+        "title": "Elon Musk sucumbe: fin a la era del bikini en Grok",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e093e7ba-8091-42b1-890f-e6d9f5537f6b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "xabi alonso",
+            "instagram",
+            "elon musk",
+            "twitter",
+            "florentino pérez",
+            "entender más"
+        ],
+        "link": "https://www.elperiodico.com/es/gente/20260117/elon-musk-sucumbe-bikini-grok-125754456",
+        "date": "2026-01-17 06:01:21",
+        "sentiment_score": -0.21221663057804108
+    },
+    {
+        "title": "Un acuerdo útil y clarificador",
+        "image_url": "https://estaticosgn-cdn.deia.eus/gn/public/file/2022/0530/21/logo-editorial-2af8a66.png",
+        "tags": [
+            "util",
+            "acuerdo",
+            "clarificador"
+        ],
+        "link": "https://www.deia.eus/editorial/2026/01/17/acuerdo-util-clarificador-10581634.html",
+        "date": "2026-01-17 06:00:26",
+        "sentiment_score": -0.34399476647377014
+    },
+    {
+        "title": "Bitcoin ya no es el rey: el activo tecnológico que le está robando el protagonismo en 2026",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/01/16/2026011619085547553.jpg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/dinero/bitcoin-es-rey-activo-tecnologico-que-robando-protagonismo-2026/20260117070004998499.html",
+        "date": "2026-01-17 06:00:04",
+        "sentiment_score": 0.13067413866519928
+    },
+    {
+        "title": "Salesianos encara su segunda salida consecutiva",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/10/FotoJet-28-1.jpg",
+        "tags": [
+            "fútbol sala",
+            "deportes",
+            "puertollano",
+            "cd salesianos puertollano fsf",
+            "segunda división femenina"
+        ],
+        "link": "https://www.lanzadigital.com/deportes/futbol-sala/segunda-division-femenina/salesianos-encara-su-segunda-salida-consecutiva/",
+        "date": "2026-01-17 06:00:00",
+        "sentiment_score": 0.022111117839813232
+    },
+    {
+        "title": "El Barça ya supera al Madrid en títulos en este siglo (41-40) y aspira a liderar el cómputo global (103-105)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3695f965-ff5e-4749-b9e2-144b0e4c42a9_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "madrid",
+            "barca",
+            "titulos",
+            "supera",
+            "siglo"
+        ],
+        "link": "https://www.elperiodico.com/es/deportes/20260117/barca-supera-madrid-titulos-siglo-125768282",
+        "date": "2026-01-17 05:59:21",
+        "sentiment_score": -0.08854666352272034
+    },
+    {
+        "title": "Ciudad Real sigue siendo una de las capitales más baratas para alquilar habitación pese al alza del mercado",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/11/Imagen-de-archivo-de-una-vivienda-en-alquiler-en-Ciudad-Real.jpg",
+        "tags": [
+            "ciudad real",
+            "mercado",
+            "vivienda",
+            "provincia de ciudad real",
+            "castilla-la mancha",
+            "capitales",
+            "alquiler de vivienda",
+            "idealista"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/ciudad-real-sigue-siendo-una-de-las-capitales-mas-baratas-para-alquilar-habitacion-pese-al-alza-del-mercado/",
+        "date": "2026-01-17 05:55:03",
+        "sentiment_score": -0.01069563627243042
+    },
+    {
+        "title": "Málaga supera a Madrid y Barcelona en VTC: 2.766 coches en la Costa del Sol, uno por cada 648 habitantes",
+        "image_url": "https://s3.elespanol.com/2025/09/26/actualidad/1003743941884_259000849_1706x960.jpg",
+        "tags": [
+            "madrid (provincia)",
+            "málaga",
+            "licencias vtc",
+            "taxis",
+            "málaga (provincia)"
+        ],
+        "link": "https://www.elespanol.com/malaga/20260117/malaga-supera-madrid-barcelona-vtc-coches-costa-sol-habitantes/1003744083618_0.html",
+        "date": "2026-01-17 05:50:00",
+        "sentiment_score": 0.052356816828250885
+    },
+    {
+        "title": "El Niño de Elche menos ambicioso y chocante en el Negufest",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2026/01/17/cubillo1-kUCB-U2408909083114J-758x531@El%20Correo.jpg",
+        "tags": [
+            "el bafle (óscar cubillo)",
+            "elche/elx",
+            "algorta",
+            "getxo"
+        ],
+        "link": "https://www.elcorreo.com/culturas/musica/nino-elche-ambicioso-chocante-negufest-20260117073036-nt.html",
+        "date": "2026-01-17 06:30:36",
+        "sentiment_score": 0.05941575765609741
+    },
+    {
+        "title": "Menos lobos, caperucita",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e15c0549-f776-41f2-b6cb-4ca70a01942e_16-9-discover-aspect-ratio_320w_0.webp",
+        "tags": [
+            "el paso",
+            "viaje",
+            "aceite",
+            "compras"
+        ],
+        "link": "https://www.laopiniondemalaga.es/opinion/2026/01/17/lobos-caperucita-125769898.html",
+        "date": "2026-01-17 06:00:53",
+        "sentiment_score": -0.12012165784835815
+    },
+    {
+        "title": "Mis nuevos vecinos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bdedfd13-a15f-49ee-9d65-25f5dd0129c5_16-9-discover-aspect-ratio_320w_0.webp",
+        "tags": [
+            "barcelona",
+            "francia",
+            "jóvenes",
+            "economía"
+        ],
+        "link": "https://www.elperiodicodearagon.com/opinion/2026/01/17/nuevos-vecinos-125759604.html",
+        "date": "2026-01-17 06:00:45",
+        "sentiment_score": -0.12774880230426788
+    },
+    {
+        "title": "Un mercado invernal más frío que nunca",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b94b3d4c-f034-4f5e-8a9e-5fb3390e5275_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fichajes",
+            "coudet",
+            "refuerzos",
+            "la liga",
+            "alavés",
+            "mercado",
+            "invernal",
+            "frio"
+        ],
+        "link": "https://www.noticiasdealava.eus/alaves/2026/01/17/mercado-invernal-frio-la-liga-alaves-fichajes-refuerzos-coudet-10581197.html",
+        "date": "2026-01-17 06:00:26",
+        "sentiment_score": 0.19953085482120514
+    },
+    {
+        "title": "Dytective: una herramienta digital para detectar y reeducar la dislexia en las aulas",
+        "image_url": "https://s1.ppllstatics.com/hoy/solidario/multimedia/2026/01/16/IMG%20010063%20-%20042-kkV-U240876065334qn-1200x840@Hoy.jpg",
+        "tags": [
+            "reeducar",
+            "detectar",
+            "digital",
+            "dytective",
+            "dislexia",
+            "aulas",
+            "herramienta"
+        ],
+        "link": "https://solidario.hoy.es/extremadura-solidaria/dytective-herramienta-digital-detectar-reeducar-dislexia-aulas-20260116070000-nt.html",
+        "date": "2026-01-17 06:00:13",
+        "sentiment_score": 0.3184591382741928
+    },
+    {
+        "title": "La huelga de médicos contra Mónica García costó más de 5 millones a Madrid: miles de consultas y operaciones canceladas",
+        "image_url": "https://s1.staticld.com/2026/01/16/huelga-medicos-madrid-140126.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.libertaddigital.com/madrid/2026-01-17/la-huelga-de-medicos-contra-monica-garcia-costo-mas-de-5-millones-a-madrid-miles-de-consultas-y-operaciones-canceladas-7344761/",
+        "date": "2026-01-17 05:45:06",
+        "sentiment_score": -0.6999596823006868
     }
 ];
