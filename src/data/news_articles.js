@@ -1,431 +1,5 @@
 export default [
     {
-        "title": "La reacción viral de Arturo Vidal al gol de Lewandowski",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2017/02/25/60e6fc6d0512a.jpeg",
-        "tags": [
-            "f.c. barcelona"
-        ],
-        "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260112/1002600305/reaccion-viral-arturo-vidal-gol-lewandowski.html",
-        "date": "2026-01-12 22:00:18",
-        "sentiment_score": 0.6767725721001625
-    },
-    {
-        "title": "Asociaciones deportivas de Monagas preparan ruta para el 2026",
-        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2026/01/Asociaciones-deportivas-de-Monagas-preparan-ruta-para-el-2026-elorientaldemonagas.com-12-de-enero-de-2026-1024x477.gif",
-        "tags": [
-            "deportes",
-            "monagas",
-            "maturin",
-            "venezuela"
-        ],
-        "link": "https://elorientaldemonagas.com/asociaciones-deportivas-de-monagas-preparan-ruta-para-el-2026/",
-        "date": "2026-01-12 21:57:09",
-        "sentiment_score": 0.04784545302391052
-    },
-    {
-        "title": "Un acertante de Albacete, agraciado con más de un millón de euros en el sorteo 'La Primitiva' de este lunes",
-        "image_url": "http://st1.lacerca.com/imagenes/view/d91ba10dfb8d77b5777e255281f2da59.jpg",
-        "tags": [
-            "noticias",
-            "albacete"
-        ],
-        "link": "https://www.lacerca.com/noticias/albacete/acertante-albacete-agraciado-millon-euros-sorteo-primitiva-lunes-797583-1.html",
-        "date": "2026-01-12 21:56:00",
-        "sentiment_score": 0.15432687103748322
-    },
-    {
-        "title": "La salida de Xabi Alonso deja a Rodrygo sin su gran protector",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/13/2025051305295985898.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/salida-xabi-alonso-deja-rodrygo-gran-protector/20260112225301370334.html",
-        "date": "2026-01-12 21:53:01",
-        "sentiment_score": -0.9297004612162709
-    },
-    {
-        "title": "El Real Madrid ya tiene a 'su Mourinho particular' contra el nuevo Guardiola: favor electoral de Florentino a Laporta",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/12/culemania/palco/1003742722734_15593800_1706x960.jpg",
-        "tags": [
-            "joan laporta",
-            "hansi flick",
-            "florentino pérez",
-            "josep guardiola",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260112/real-madrid-mourinho-particular-guardiola-electoral-laporta/1003742722670_0.html",
-        "date": "2026-01-12 21:49:37",
-        "sentiment_score": 0.3579453155398369
-    },
-    {
-        "title": "Los jugadores del Real Madrid se despiden de Xabi Alonso: \"Te recordaré como un entrenador con ideas claras\"",
-        "image_url": "https://www.infobae.com/resizer/v2/2PVDHFHQOFBEPHKOAUSNBW73OY.jpg?auth=f58095ffd16a25ecfa495ee4b7d5a40850a2922d22d966c63dc7c6644887d396&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/12/los-jugadores-del-real-madrid-se-despiden-de-xabi-alonso-te-recordare-como-un-entrenador-con-ideas-claras/",
-        "date": "2026-01-12 21:45:16",
-        "sentiment_score": 0.030509158968925476
-    },
-    {
-        "title": "Un premio de Primera Categoría de La Primitiva deja más de un millón en Albacete",
-        "image_url": "https://www.clm24.es/media/clm24/images/2021/11/21/2021112113000750846.jpg",
-        "tags": [
-            "albacete"
-        ],
-        "link": "https://www.clm24.es/articulo/albacete/acertante-primera-categoria-primitiva-gana-mas-millon-albacete/20260112224145468627.html",
-        "date": "2026-01-12 21:41:45",
-        "sentiment_score": 0.3314584493637085
-    },
-    {
-        "title": "Dónde han caído el bote de 77 millones de La Primitiva y los premios de la Bonoloto, ONCE y EuroDreams de hoy, lunes 12 de enero",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2024/11/28/6089236E-7DE5-4924-98A5-B58FBB998013/administracion-loteria-dona-manolita_98.jpg?crop=4252%2C2392%2Cx0%2Cy220&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "loterías",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-bote-77-millones-primitiva-premios-bonoloto-once-eurodreams-hoy-lunes-12-enero_20260112696567d05b0f0226995f84e0.html",
-        "date": "2026-01-12 21:31:51",
-        "sentiment_score": 0.04267432168126106
-    },
-    {
-        "title": "Arbeloa no llega solo: el Madrid apuesta por un fichaje de emergencia para salvar la temporada",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/12/2026011222211040426.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/arbeloa-como-parche-emergencia-solo-recibira-fichaje-potenciar-equipo/20260112222829370329.html",
-        "date": "2026-01-12 21:28:29",
-        "sentiment_score": -0.8058032467961311
-    },
-    {
-        "title": "'Cariñoso' insulto de Florentino a Lewandowski y Laporta se declara a Araujo",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2026/01/12/69656562850c6.jpeg",
-        "tags": [
-            "f.c. barcelona"
-        ],
-        "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260112/1002600285/carinoso-insulto-florentino-lewandowski-laporta-declara-araujo.html",
-        "date": "2026-01-12 21:22:19",
-        "sentiment_score": -0.10011367499828339
-    },
-    {
-        "title": "El PP entra al \"cuerpo a cuerpo\" con Sánchez en vivienda para atraer a los \"abandonados\" de 30 a 44 años",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/fb6d7adbccce048b370208c8b955a7b8/crop/2x0/1024x1022/f/image/jpeg/assets/multimedia/imagenes/2024/01/15/17053356313045.jpg",
-        "tags": [
-            "artículos juanma lamet",
-            "nlpremium",
-            "artículos víctor mondelo",
-            "pp",
-            "vivienda",
-            "alberto núñez feijóo"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/01/12/69653ad721efa029688b45a2.html",
-        "date": "2026-01-12 21:58:50",
-        "sentiment_score": 0.5520095191895962
-    },
-    {
-        "title": "Matan a tiros en el funeral de su madre a un ex líder nacionalista de Córcega",
-        "image_url": "https://static1.ara.cat/clip/6a253a46-a03b-4507-90fe-d42d87b46492_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tiros",
-            "madre",
-            "corcega",
-            "ex",
-            "nacionalista",
-            "matan",
-            "funeral",
-            "lider"
-        ],
-        "link": "https://es.ara.cat/internacional/europa/matan-tiros-funeral-madre-ex-lider-nacionalista-corcega_1_5616335.html",
-        "date": "2026-01-12 21:50:09",
-        "sentiment_score": -0.7882648762315512
-    },
-    {
-        "title": "Groenlandia y el cambio climático: \"Existe y se ve perfectamente en el Ártico\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2026/01/12/69656a0a84ede.jpeg",
-        "tags": [
-            "la linterna"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna/audios/carla-rodrigo-investigadora-copenhague-hay-duda-cambio-climatico-existe-ve-perfectamente-artico-20260112_3285158.html",
-        "date": "2026-01-12 21:47:21",
-        "sentiment_score": -0.10511547327041626
-    },
-    {
-        "title": "Barcelona blinda los derechos del pueblo gitano con un nuevo plan estratégico hasta 2030",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/12/informacion-municipal/1003742722737_15593821_1706x960.jpg",
-        "tags": [
-            "información municipal",
-            "jaume collboni",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260112/barcelona-blinda-derechos-pueblo-gitano-nuevo-plan-estrategico/1003742722731_0.html",
-        "date": "2026-01-12 21:46:43",
-        "sentiment_score": 0.4534878358244896
-    },
-    {
-        "title": "Raúl Ochoa Cuenca: ¿Y qué están esperando? ¿Más desgracias como la del agente de policía de Portuguesa?",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2022/03/thumbnailRaulOchoaCuenca.jpg",
-        "tags": [
-            "raúl ochoa cuenca: ¿y qué están esperando? ¿más desgracias como la del agente de policía de portuguesa?",
-            "opinión"
-        ],
-        "link": "https://lapatilla.com/2026/01/12/raul-ochoa-cuenca-y-que-estan-esperando-mas-desgracias-como-la-del-agente-de-policia-de-portuguesa/",
-        "date": "2026-01-12 21:33:34",
-        "sentiment_score": -0.5848072115331888
-    },
-    {
-        "title": "Ya es oficial: Barcelona cambia las normas y toma una decisión sin precedentes con las luces de Navidad",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/03/19/67da9c002bb2c.r_d.2129-2565.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20260112/1002600259/oficial-barcelona-cambia-normas-toma-decision-precedentes-luces-navidad-lcl-dct.html",
-        "date": "2026-01-12 21:15:33",
-        "sentiment_score": 0.4458826929330826
-    },
-    {
-        "title": "Los Pujol regularizaron \"deprisa y corriendo\" el dinero de Andorra al filtrarse sus fondos",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2025/11/16/2025111611301395257.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/espana/pujol-regularizaron-deprisa-corriendo-dinero-andorra-filtrarse-fondos/202601122215061427423.html",
-        "date": "2026-01-12 21:15:06",
-        "sentiment_score": -0.7376306597143412
-    },
-    {
-        "title": "Steve McManaman defiende a Xabi Alonso tras su salida: \"No aguanta las tonterías de los de arriba\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/12/image-07772856-d2c1-4188-ab56-abb2d2e80cf8-85-2560-1440.jpeg",
-        "tags": [
-            "copa del rey mapfre 2025/2026",
-            "football"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/copa-del-rey/2025-2026/steve-mcmanaman-defiende-a-xabi-alonso-tras-su-salida-no-aguanta-las-tonterias-de-los-de-arriba_sto23258403/story.shtml",
-        "date": "2026-01-12 21:08:07",
-        "sentiment_score": -0.24180562794208527
-    },
-    {
-        "title": "El PSG se quema en su propio derbi y dice adiós a la Copa",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/14/2025071401034962671.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/psg-quema-propio-derbi-dice-adios-copa/20260113032054370361.html",
-        "date": "2026-01-13 02:20:54",
-        "sentiment_score": -0.7378553189337254
-    },
-    {
-        "title": "La sociedad civil se activa para impulsar la Andalucía «del futuro»",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/01/12/298DADD1-3510-4A85-99C9-04DFB1EBE778/juanma-moreno-impulsores-andalucia-27_69.jpg?crop=2992%2C1683%2Cx0%2Cy0&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "andalucía",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/andalucia/sociedad-civil-activa-impulsar-andalucia-futuro_202601136965ab6f5b0f0226995fa658.html",
-        "date": "2026-01-13 02:18:23",
-        "sentiment_score": 0.5321747977286577
-    },
-    {
-        "title": "El Real Madrid y su alergia crónica a la derrota",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/08/2026010818030148225.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/real-madrid-alergia-cronica-derrota/20260113030143370360.html",
-        "date": "2026-01-13 02:01:43",
-        "sentiment_score": -0.4589805044233799
-    },
-    {
-        "title": "En busca del 'efecto Zidane': así jugará el Real Madrid de Arbeloa, un técnico inspirado en la táctica de Sacchi y Klopp",
-        "image_url": "https://s3.elespanol.com/2026/01/12/actualidad/1003744087198_260884839_1706x960.jpg",
-        "tags": [
-            "deportes",
-            "fútbol",
-            "álvaro arbeloa",
-            "josé mourinho",
-            "xabi alonso",
-            "real madrid cf"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20260113/busca-efecto-zidane-jugara-real-madrid-arbeloa-tecnico-inspirado-tactica-sacchi-klopp/1003744086984_0.html",
-        "date": "2026-01-13 01:44:13",
-        "sentiment_score": -0.0049019306898117065
-    },
-    {
-        "title": "La justicia penal y las dos Españas",
-        "image_url": "https://s3.elespanol.com/2024/12/11/actualidad/907920421_251606494_1706x960.jpg",
-        "tags": [
-            "tribunas",
-            "tribunas de opinión",
-            "justicia",
-            "españa",
-            "opinión"
-        ],
-        "link": "https://www.elespanol.com/opinion/tribunas/20260113/justicia-penal-espanas/1003744083685_12.html",
-        "date": "2026-01-13 01:43:27",
-        "sentiment_score": 0.038422927260398865
-    },
-    {
-        "title": "Paramount reorganiza su catálogo en Pluto TV: el papel del FAST en la realidad televisiva actual",
-        "image_url": "https://s3.elespanol.com/2026/01/05/actualidad/1003744078597_260773655_1706x960.jpg",
-        "tags": [
-            "paramount global",
-            "plataformas digitales",
-            "medios",
-            "pluto tv",
-            "paramount network",
-            "plataformas de streaming"
-        ],
-        "link": "https://www.elespanol.com/invertia/medios/20260113/paramount-reorganiza-catalogo-pluto-tv-papel-fast-realidad-televisiva-actual/1003744078573_0.html",
-        "date": "2026-01-13 01:42:37",
-        "sentiment_score": 0.3321840949356556
-    },
-    {
-        "title": "La trituradora de técnicos de Florentino suma un nuevo nombre con Álvaro Arbeloa",
-        "image_url": "https://pxcdn.meridiano.net/012026/1768269977880.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/espanol/la-trituradora-de-tecnicos-de-florentino-suma-un-nuevo-nombre-con-alvaro-arbeloa-202611221350",
-        "date": "2026-01-13 01:35:00",
-        "sentiment_score": 0.5085847824811935
-    },
-    {
-        "title": "Los detonantes que provocaron el despido de Xabi Alonso del Real Madrid",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/b1d44ba21c60b58b6b4a5440a0569d535be50820w.jpg",
-        "tags": [
-            "deportes",
-            "titulares",
-            "real madrid",
-            "xabi alonso"
-        ],
-        "link": "https://lapatilla.com/2026/01/12/los-detonantes-que-provocaron-el-despido-de-xabi-alonso-del-real-madrid/",
-        "date": "2026-01-13 01:00:11",
-        "sentiment_score": -0.13640111684799194
-    },
-    {
-        "title": "Morgan, de hacer 4.000 km en coche para grabar su disco a llenar en Madrid: \"De alquiler, pero haciendo lo que nos gusta\"",
-        "image_url": "https://s3.elespanol.com/2026/01/12/actualidad/1003744087199_260884843_1706x960.jpg",
-        "tags": [
-            "conciertos música",
-            "ocio",
-            "cultura",
-            "madrid"
-        ],
-        "link": "https://www.elespanol.com/madrid/ocio/20260113/morgan-hacer-km-coche-grabar-disco-llenar-madrid-alquiler-haciendo-gusta/1003744086853_0.html",
-        "date": "2026-01-13 01:00:00",
-        "sentiment_score": 0.20668461546301842
-    },
-    {
-        "title": "Un viaje por el saber cuántico de la mano del divulgador de la ciencia José Manuel Sánchez Ron",
-        "image_url": "https://s3.elespanol.com/2025/04/23/actualidad/1003743727046_255013139_1706x960.jpg",
-        "tags": [
-            "mecánica cuántica",
-            "historia",
-            "libros",
-            "letras",
-            "física",
-            "ciencia",
-            "josé manuel sánchez ron"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/letras/20260113/viaje-saber-cuantico-mano-divulgador-ciencia-jose-manuel-sanchez-ron/1003744086898_0.html",
-        "date": "2026-01-13 00:55:00",
-        "sentiment_score": 0.35607944056391716
-    },
-    {
-        "title": "La producción española del Grupo VW cae un 8% en 2025 por la adaptación de las plantas de Martorell y Landaben",
-        "image_url": "https://s3.elespanol.com/2026/01/12/actualidad/1003744086180_260872708_1706x960.jpg",
-        "tags": [
-            "motor",
-            "pamplona",
-            "grupo volkswagen",
-            "coche eléctrico",
-            "industria automovilística",
-            "martorell",
-            "seat",
-            "volkswagen"
-        ],
-        "link": "https://www.elespanol.com/motor/20260113/produccion-espanola-grupo-vw-cae-adaptacion-plantas-martorell-landaben/1003744086150_0.html",
-        "date": "2026-01-13 01:42:28",
-        "sentiment_score": 0.4723711237311363
-    },
-    {
-        "title": "Víctor Coyote, currante del 'underground': \"El rock está muerto, lo mató Puerto Rico\"",
-        "image_url": "https://s3.elespanol.com/2026/01/12/actualidad/1003744086820_260880285_1706x960.jpg",
-        "tags": [
-            "cómic",
-            "entrevistas",
-            "música"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20260113/victor-coyote-currante-underground-rock-muerto-mato-puerto-rico/1003744086418_0.html",
-        "date": "2026-01-13 00:55:00",
-        "sentiment_score": 0.07726477086544037
-    },
-    {
-        "title": "“La situación es caótica”: se agudiza la crisis en Ferrari por el desarrollo del nuevo monoplaza de la F1 para 2026",
-        "image_url": "https://www.infobae.com/resizer/v2/HBZ7HTM7BNACBIA6DJZOBL3IY4.JPG?auth=3964cc76e771a48ded10b5a2c0fd5d138ce68241ad95ccc944ffd1276fc41329&height=2810&smart=true&width=4995",
-        "tags": [
-            "charles leclerc",
-            "ferrari",
-            "lewis hamilton",
-            "fórmula 1",
-            "f1",
-            "frederic vasseur"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/13/la-situacion-es-caotica-se-agudiza-la-crisis-en-ferrari-por-el-desarrollo-del-nuevo-monoplaza-de-la-f1-para-2026/",
-        "date": "2026-01-13 00:44:23",
-        "sentiment_score": -0.780012097209692
-    },
-    {
-        "title": "Gran noche wagneriana en el Liceu con Lise Davidsen",
-        "image_url": "https://static1.ara.cat/clip/71e9193a-ce8b-478e-89ea-d9e81786061e_16-9-aspect-ratio_default_0_x1474y796.jpg",
-        "tags": [
-            "lise",
-            "noche",
-            "liceu",
-            "wagneriana",
-            "davidsen",
-            "gran"
-        ],
-        "link": "https://es.ara.cat/cultura/opera/gran-noche-wagneriana-liceu-lise-davidsen_1_5616349.html",
-        "date": "2026-01-13 00:12:09",
-        "sentiment_score": -0.0023620128631591797
-    },
-    {
-        "title": "Real Madrid destituye a Xabi Alonso y asciende a Álvaro Arbeloa, técnico del filial",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/32c48e9/2147483647/strip/true/crop/2605x1368+0+184/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F96%2F25%2Fcd196aba483896ff1641945cbaf4%2F6696298c949e4331986039351e5ed1ea.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-01-12/real-madrid-destituye-xabi-alonso-y-asciende-alvaro-arbeloa-tecnico-del-filial",
-        "date": "2026-01-13 00:06:49",
-        "sentiment_score": -0.006612762808799744
-    },
-    {
-        "title": "«Tenemos una misión en Estados Unidos»: Ousmane Dembélé, en exclusiva con CNN, apunta al Mundial como gran objetivo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2026/01/12/entrevista-ousmane-dembele-psg-trax/",
-        "date": "2026-01-13 00:03:50",
-        "sentiment_score": 0.7300948910415173
-    },
-    {
-        "title": "Gramaglia: «Me estoy encontrando muy bien»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1d85b810-b2ef-47b0-ace3-2d6c36d73e41_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "argentina",
-            "isla",
-            "tenerife",
-            "trabajo"
-        ],
-        "link": "https://www.eldia.es/deportes/ud-tenerife/2026/01/13/gramaglia-encontrando-125621527.html",
-        "date": "2026-01-13 00:01:17",
-        "sentiment_score": 0.8484381809830666
-    },
-    {
         "title": "“Ha sido un placer jugar para ti”: Mbappé rompe el silencio tras la fulminante destitución de Xabi Alonso",
         "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/07/17/2024071717122216308.jpg",
         "tags": [
@@ -2809,5 +2383,185 @@ export default [
         "link": "https://www.noticiasdealava.eus/alaves/2026/01/16/alaves-veta-cesion-egoitz-munoz-10577688.html",
         "date": "2026-01-16 06:00:27",
         "sentiment_score": 0.8366445861756802
+    },
+    {
+        "title": "La reveladora reflexión de Zidane sobre el banquillo del Real Madrid: \"Tenemos que caerles bien\"",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2024/02/27/79D23FDB-AC38-4DB6-A249-1292EB984BFD/zinedine-zidane_98.jpg?crop=3251%2C1829%2Cx0%2Cy170&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/reveladora-reflexion-zidane-banquillo-real-madrid-tenemos-que-caerles-bien_20260116696a71915b0f02269968d922.html",
+        "date": "2026-01-16 17:12:49",
+        "sentiment_score": -0.183134563267231
+    },
+    {
+        "title": "Juan Carlos I será el único miembro de la Familia Real que no asistirá al responso por la princesa Irene de Grecia",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/11/juan-carlos-aniversario-constitucion-1-1440x808.jpg",
+        "tags": [
+            "españa",
+            "juan carlos i",
+            "casa real"
+        ],
+        "link": "https://www.elindependiente.com/espana/2026/01/16/juan-carlos-i-sera-el-unico-miembro-de-la-familia-real-que-no-asistira-al-responso-por-la-princesa-irene-de-grecia/",
+        "date": "2026-01-16 17:10:26",
+        "sentiment_score": 0.23066510260105133
+    },
+    {
+        "title": "El rey emérito no acudirá al funeral de su cuñada por recomendación médica",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/16/1503247836.jpg",
+        "tags": [
+            "juan carlos i de españa",
+            "sofía de grecia",
+            "sofía de borbón ortiz",
+            "irene de grecia",
+            "princesa leonor de borbón",
+            "letizia ortiz rocasolano"
+        ],
+        "link": "https://www.ideal.es/gente-estilo/rey-emerito-acudira-funeral-cunada-recomendacion-medica-20260116180959-ntrc.html",
+        "date": "2026-01-16 17:10:01",
+        "sentiment_score": -0.6596464775502682
+    },
+    {
+        "title": "Dro, a punto de marcharse ya del Barça",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/61bf49b9-4955-4312-8318-1f5b784911de_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "hansi flick"
+        ],
+        "link": "https://www.elperiodico.com/es/deportes/20260116/dro-paso-marcharse-barcelona-125765375",
+        "date": "2026-01-16 17:04:34",
+        "sentiment_score": -0.8801405047997832
+    },
+    {
+        "title": "El Ayuntamiento de Lorca tratará de alargar las estancias de los turistas a través de premios",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7099a41a-4fe3-419a-bbb7-832b4a7278f5_16-9-aspect-ratio_default_0_x800y355.jpg",
+        "tags": [
+            "lorca",
+            "municipios",
+            "premios",
+            "turismo",
+            "turistas",
+            "fitur",
+            "ayuntamiento de lorca"
+        ],
+        "link": "https://www.laopiniondemurcia.es/municipios/2026/01/16/ayuntamiento-lorca-sorteos-turistas-fitur-125763482.html",
+        "date": "2026-01-16 17:04:01",
+        "sentiment_score": 0.3605029322206974
+    },
+    {
+        "title": "Chris Pratt protagoniza Sin piedad, el thriller sobre juicios controlados por IA",
+        "image_url": "https://es.gizmodo.com/app/uploads/2026/01/Gizmodo-35-5-1024x683.jpg",
+        "tags": [
+            "io9"
+        ],
+        "link": "https://es.gizmodo.com/chris-pratt-protagoniza-sin-piedad-el-thriller-sobre-juicios-controlados-por-ia-2000215063",
+        "date": "2026-01-16 17:03:30",
+        "sentiment_score": -0.8272397071123123
+    },
+    {
+        "title": "La provincia de Guadalajara, en aviso amarillo por nieve este sábado",
+        "image_url": "http://st1.lacerca.com/imagenes/view/86adec3236a7f44f47e41dc86f29ceaa.jpg",
+        "tags": [
+            "guadalajara",
+            "noticias"
+        ],
+        "link": "https://www.lacerca.com/noticias/guadalajara/provincia-guadalajara-aviso-amarillo-nieve-sabado-798185-1.html",
+        "date": "2026-01-16 17:04:00",
+        "sentiment_score": -0.02536827325820923
+    },
+    {
+        "title": "El Banco de España contará con un centro físico para la educación financiera",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2679309.jpg",
+        "tags": [
+            "economia"
+        ],
+        "link": "https://www.vozpopuli.com/economia/el-banco-de-espana-contara-con-un-centro-fisico-para-la-educacion-financiera.html",
+        "date": "2026-01-16 17:01:26",
+        "sentiment_score": 0.09282280504703522
+    },
+    {
+        "title": "Venus Williams, la campeona que sigue con cuerda con 45 años",
+        "image_url": "https://static1.ara.cat/clip/6373c893-ff73-419c-8028-a2400c0a016c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cuerda",
+            "campeona",
+            "venus",
+            "sigue",
+            "williams",
+            "45",
+            "anos"
+        ],
+        "link": "https://es.ara.cat/deportes/tenis/venus-williams-campeona-sigue-cuerda-45-anos_1_5620071.html",
+        "date": "2026-01-16 17:00:49",
+        "sentiment_score": 0.31194646656513214
+    },
+    {
+        "title": "Flick funde a Lamine Yamal tras decir en noviembre que había que «cuidarle»",
+        "image_url": "https://okdiario.com/img/2025/11/18/gettyimages-2245476094-1.jpg",
+        "tags": [
+            "fútbol",
+            "fc barcelona",
+            "barcelona",
+            "hansi flick",
+            "lamine yamal",
+            "deportes"
+        ],
+        "link": "https://okdiario.com/deportes/flick-funde-lamine-yamal-decir-noviembre-que-habia-que-cuidarle-16085814",
+        "date": "2026-01-16 17:00:46",
+        "sentiment_score": -0.3713090270757675
+    },
+    {
+        "title": "Real Madrid - Levante: Horario, posibles onces y dónde ver el partido de LaLiga EA Sports, en directo",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/01/14/86773700-FB89-4103-8963-73107AE2ADC8/vinicius-carlos-belmonte_98.jpg?crop=5669%2C3190%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/real-madrid-levante-horario-posibles-onces-donde-ver-partido-laliga-sports-directo_20260116696a6e9d5b0f02269968d376.html",
+        "date": "2026-01-16 17:00:13",
+        "sentiment_score": 0.06047032028436661
+    },
+    {
+        "title": "La multa a la que podrían enfrentarse los \"bromistas\" como el de Turkish Airlines y su falsa amenaza de bomba",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/16/696a460f620e81-70140067.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.20minutos.es/viajes/actualidad/multa-podrian-enfrentarse-bromistas-turkish-airlines-falsa-amenaza-bomba_6922142_0.html",
+        "date": "2026-01-16 17:00:00",
+        "sentiment_score": -0.8979114573448896
+    },
+    {
+        "title": "Un estudio identifica el nanomensajero que mantiene las células en funcionamiento",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260116175801_690.jpg",
+        "tags": [
+            "investigación",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-estudio-identifica-nanomensajero-mantiene-celulas-funcionamiento-20260116175801.html",
+        "date": "2026-01-16 16:58:01",
+        "sentiment_score": 0.23067042231559753
+    },
+    {
+        "title": "Así se creó con un móvil la falsa amenaza de bomba del vuelo de Turkish",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/16/696a6b9c28919.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20260116/11441666/asi-creo-movil-falsa-amenaza-bomba-vuelo-turkish.html",
+        "date": "2026-01-16 16:57:06",
+        "sentiment_score": -0.04239341616630554
+    },
+    {
+        "title": "La mayoría de activaciones de planes de Protecció Civil durante 2025 fueron por inundaciones",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260116175428_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-mayoria-activaciones-planes-proteccio-civil-2025-fueron-inundaciones-20260116175428.html",
+        "date": "2026-01-16 16:54:28",
+        "sentiment_score": 0.05203501880168915
     }
 ];
