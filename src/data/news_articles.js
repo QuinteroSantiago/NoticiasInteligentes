@@ -1,174 +1,5 @@
 export default [
     {
-        "title": "Nace la Challenge Futura para potenciar la élite sub-23, \"una de las etapas más decisivas del corredor\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260114181631_690.jpg",
-        "tags": [
-            "deportes",
-            "ciclismo"
-        ],
-        "link": "https://www.europapress.es/deportes/ciclismo-00396/noticia-nace-challenge-futura-potenciar-elite-sub-23-etapas-mas-decisivas-corredor-20260114181631.html",
-        "date": "2026-01-14 17:16:31",
-        "sentiment_score": 0.5782964378595352
-    },
-    {
-        "title": "La UEFA pagó 116 millones al Barça por su participación en la Champions League",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/06/culemania/palco/1003742695161_15300500_1706x960.jpg",
-        "tags": [
-            "uefa",
-            "palco",
-            "barça",
-            "champions league"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260114/uefa-pago-millones-barca-participacion-champions-league/1003742723266_0.html",
-        "date": "2026-01-14 17:16:20",
-        "sentiment_score": 0.8595735505223274
-    },
-    {
-        "title": "El catedrático de la UMA Pablo Lara recibe el Premio de Educación y Docencia Médica 2025",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/392afaa2-51bf-4ac9-9a5f-64b044acbf76_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "trabajo",
-            "universidad de málaga",
-            "uma",
-            "premios",
-            "conferencia",
-            "premio de investigación",
-            "educación",
-            "medicina"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/14/catedratico-uma-pablo-lara-recibe-125686947.html",
-        "date": "2026-01-14 17:15:48",
-        "sentiment_score": 0.07602599263191223
-    },
-    {
-        "title": "Dabiz Muñoz desembarca este verano en Ibiza con StreetXO de la mano de Palladium Hotel Group",
-        "image_url": "https://forbes.es/wp-content/uploads/2026/01/fotonoticia_20260114174527_1920-1200x675.jpg",
-        "tags": [
-            "economía",
-            "última hora"
-        ],
-        "link": "https://forbes.es/economia/856898/dabiz-munoz-desembarca-este-verano-en-ibiza-con-streetxo-de-la-mano-de-palladium-hotel-group/",
-        "date": "2026-01-14 17:15:11",
-        "sentiment_score": 0.4696616977453232
-    },
-    {
-        "title": "La libre elección sanitaria se consolida en Madrid",
-        "image_url": "https://s1.staticld.com/2025/12/11/medicos-publi-salud-11122025-2-16-9.jpg",
-        "tags": [
-            "salud"
-        ],
-        "link": "https://www.libertaddigital.com/ciencia-tecnologia/salud/2026-01-14/la-libre-eleccion-sanitaria-se-consolida-en-madrid-7343556/",
-        "date": "2026-01-14 17:07:19",
-        "sentiment_score": 0.3456219546496868
-    },
-    {
-        "title": "Bartomeu pide al juez que deniegue al Real Madrid los informes económicos del Barça",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/09/696181aa7d64f.jpeg",
-        "tags": [
-            "barça"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260114/11439723/bartomeu-pide-juez-deniegue-real-madrid-informes-economicos-barca.html",
-        "date": "2026-01-14 17:07:01",
-        "sentiment_score": -0.7619149312376976
-    },
-    {
-        "title": "17:00H | 14 ENE 2026 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-14-ene-2026-tarde-20260114_3286797.html",
-        "date": "2026-01-14 17:07:00",
-        "sentiment_score": -0.14595970511436462
-    },
-    {
-        "title": "Los números confirman que Xabi no apostó por Endrick ni por Gonzalo",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/27/2025022701123463582.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/xabi-nunca-confio-endrick-numeros-dejan-claro-que-tampoco-gonzalo/20260114180639370590.html",
-        "date": "2026-01-14 17:06:39",
-        "sentiment_score": -0.9080129666253924
-    },
-    {
-        "title": "Dabiz Muñoz desembarca este verano en Ibiza con StreetXO de la mano de Palladium Hotel Group",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/01/20260114174526.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/dabiz-muoz-desembarca-este-verano-en-ibiza-con-streetxo-de-la-mano-de-palladium-hotel-group/",
-        "date": "2026-01-14 17:00:04",
-        "sentiment_score": 0.3924867659807205
-    },
-    {
-        "title": "Guardia Real, Ejército, la UME... ¿Por qué todos han elegido vehículos KGM 4x4?",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/13/696679abd32390-47827922.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.20minutos.es/motor/actualidad/guardia-real-ejercito-aire-ume-por-que-todos-han-elegido-vehiculos-kgm-4x4_6920694_0.html",
-        "date": "2026-01-14 17:00:00",
-        "sentiment_score": 0.1619206666946411
-    },
-    {
-        "title": "¿Cómo debe ser la dieta de los mayores? \"No basta con cenar un yogur y fruta\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/014e7149-1367-4962-8c8d-e47ece55c3af_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "longevidad",
-            "alimentación",
-            "dietas",
-            "nutrición"
-        ],
-        "link": "https://www.laopiniondemalaga.es/sociedad/2026/01/14/debe-dieta-abuelos-importante-coman-bien-tomen-medicacion-125687458.html",
-        "date": "2026-01-14 17:17:49",
-        "sentiment_score": -0.8480526991188526
-    },
-    {
-        "title": "Llega a Barcelona la T-Social, la nueva tarjeta de transporte público: todos los detalles y beneficios",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2022/05/24/DEA7F6F8-4186-4F2A-8FA3-0D7DE40EEADE/69.jpg?crop=1920%2C1080%2Cx0%2Cy100&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/llega-barcelona-tsocial-nueva-tarjeta-transporte-publico-todos-detalles-beneficios_202601146967cf995b0f02269963ed60.html",
-        "date": "2026-01-14 17:17:13",
-        "sentiment_score": 0.2608065754175186
-    },
-    {
-        "title": "Maspalomas sorprende con nueve nominaciones en los Premios Goya 2026",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/01/14/2026011418151743561.jpg",
-        "tags": [
-            "medios"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/medios/maspalomas-sorprende-nueve-nominaciones-premios-goya-2026/20260114181611997933.html",
-        "date": "2026-01-14 17:16:11",
-        "sentiment_score": 0.18582075834274292
-    },
-    {
-        "title": "El Barça vuelve a la Tierra en la Copa",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/01/14/barcelona-kXMB-U240843236588PlF-1200x840@RC.JPG",
-        "tags": [
-            "barca",
-            "tierra",
-            "copa",
-            "vuelve"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/copa-del-rey/barcelona-vuelve-tierra-copa-racing-20260114180920-ntrc.html",
-        "date": "2026-01-14 17:13:23",
-        "sentiment_score": 0.031063437461853027
-    },
-    {
-        "title": "Amtu, ATM y Govern lanzan la T-social para unificar los títulos de transporte bonificados",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260114181157_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-amtu-atm-govern-lanzan-social-unificar-titulos-transporte-bonificados-20260114181157.html",
-        "date": "2026-01-14 17:11:57",
-        "sentiment_score": 0.41044313088059425
-    },
-    {
         "title": "Copa del Rey: ¡Rídiculo! Vallejo llora por eliminar el Real Madrid",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -2915,5 +2746,143 @@ export default [
         "link": "https://www.eldiariomontanes.es/economia/conseguir-ecosistema-reparta-prosperidad-alcance-pymes-20260118075134-nt.html",
         "date": "2026-01-18 00:00:00",
         "sentiment_score": 0.07339222729206085
+    },
+    {
+        "title": "La urbanización-búnker de Rocío Carrasco en Madrid no es La Finca, pero tiene mucho lujo",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/rocio-carrasco-urba.jpeg",
+        "tags": [
+            "urbanismo",
+            "gente",
+            "celebrities",
+            "rocío carrasco",
+            "madrid"
+        ],
+        "link": "https://theobjective.com/gente/2026-01-18/urbanizacion-rocio-carrasco-madrid-lujo/",
+        "date": "2026-01-18 06:30:00",
+        "sentiment_score": -0.22913454473018646
+    },
+    {
+        "title": "Aurelio Viribay: “Lorca sigue inspirando a compositores actuales”",
+        "image_url": "https://static.grupojoly.com/clip/174fdbe2-d15e-44bf-b17a-8c18cd8423a2_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "aurelio viribay",
+            "naroa intxausti",
+            "luken munguira",
+            "cezanne"
+        ],
+        "link": "https://www.malagahoy.es/ocio/aurelio-viribay-naroa-intxausti-luken-munguira-cezanne_0_2005670327.html",
+        "date": "2026-01-18 06:28:40",
+        "sentiment_score": 0.7113472279161215
+    },
+    {
+        "title": "La autoridad del entrenador",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/867767eb-4af0-4e78-9597-b7d87bfe0e8b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol",
+            "tiempo",
+            "madrid",
+            "barcelona",
+            "xabi alonso",
+            "estilo"
+        ],
+        "link": "https://www.laopiniondemalaga.es/opinion/2026/01/18/autoridad-entrenador-xabi-alonso-125789254.html",
+        "date": "2026-01-18 06:00:52",
+        "sentiment_score": -0.5746067147701979
+    },
+    {
+        "title": "Más de sesenta años de confidencias y complicidad: Ana María y la Reina Sofía, hermanas por destino",
+        "image_url": "https://okdiario.com/look/img/2025/09/02/ana3.jpg",
+        "tags": [
+            "familia real española",
+            "casa real"
+        ],
+        "link": "https://okdiario.com/look/casa-real/mas-sesenta-anos-confidencias-complicidad-ana-maria-reina-sofia-hermanas-destino-2370135",
+        "date": "2026-01-18 06:00:51",
+        "sentiment_score": 0.044635578989982605
+    },
+    {
+        "title": "Contra la doctrina Monroe, la doctrina Marilyn...",
+        "image_url": "https://static.grupojoly.com/clip/35e2d94a-843a-4dcb-bd76-3ce17d1f35d2_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "marilyn",
+            "doctrina",
+            "monroe"
+        ],
+        "link": "https://www.diariodealmeria.es/ocio/doctrina-monroe-marilyn_0_2005670263.html",
+        "date": "2026-01-18 06:00:38",
+        "sentiment_score": -0.02887079119682312
+    },
+    {
+        "title": "Exigente examen para el Alavés en el Metropolitano",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/6a79abdc-0a8c-4cac-a554-b2f24017d206_16-9-aspect-ratio_default_0_x977y643.jpg",
+        "tags": [
+            "examen",
+            "metropolitano",
+            "exigente",
+            "alaves"
+        ],
+        "link": "https://www.noticiasdealava.eus/alaves/2026/01/18/exigente-examen-alaves-metropolitano-10583741.html",
+        "date": "2026-01-18 06:00:34",
+        "sentiment_score": -0.1455962061882019
+    },
+    {
+        "title": "Primera bola de partido copera ante el Manresa",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7877b30d-2364-4dd0-9626-057e1b232062_16-9-aspect-ratio_default_0_x1072y653.jpg",
+        "tags": [
+            "partido",
+            "bola",
+            "manresa",
+            "primera",
+            "copera"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/01/18/primera-bola-partido-copera-manresa-10584010.html",
+        "date": "2026-01-18 06:00:34",
+        "sentiment_score": -0.19021381437778473
+    },
+    {
+        "title": "Así se dibujó la Barcelona imaginada por David Uclés",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/01/17/234F8E44-A800-4C86-8FB2-032582E24CFF/obra-diego-robredo_69.jpg?crop=2362%2C1329%2Cx0%2Cy2124&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/asi-dibujo-barcelona-imaginada-david-ucles_20260118696c79455b0f0226996be93c.html",
+        "date": "2026-01-18 06:10:13",
+        "sentiment_score": 0.08544977009296417
+    },
+    {
+        "title": "La discografía de Diego de Morón",
+        "image_url": "https://static.grupojoly.com/clip/4f0ef82e-ca74-4b3d-be0a-c51db452180a_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "diego",
+            "discografia",
+            "moron"
+        ],
+        "link": "https://www.granadahoy.com/ocio/discografia-diego-moron_0_2005670282.html",
+        "date": "2026-01-18 06:07:45",
+        "sentiment_score": -0.5915551967918873
+    },
+    {
+        "title": "Una boda, una reina y el Monasterio de Sijena",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/818a1225-f593-4f9e-8989-09b0661f908e_16-9-aspect-ratio_default_0_x960y360.jpg",
+        "tags": [
+            "la reina",
+            "villanueva",
+            "ribagorza",
+            "aragón"
+        ],
+        "link": "https://www.elperiodicodearagon.com/cultura/entender-con-la-historia/2026/01/18/boda-reina-monasterio-sijena-125757596.html",
+        "date": "2026-01-18 06:00:47",
+        "sentiment_score": 0.031307339668273926
+    },
+    {
+        "title": "Javi Hernández y Luka Koleosho, de tener que salir del Espanyol a marcar goles sin parar",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagradaonline.com/javi-hernandez-koleosho-goles-tras-salir-espanyol-mirandes-espanyol/",
+        "date": "2026-01-18 06:00:46",
+        "sentiment_score": -0.6928733661770821
     }
 ];
