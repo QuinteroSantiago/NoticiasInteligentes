@@ -1,167 +1,5 @@
 export default [
     {
-        "title": "Raspadori pone fin a su telenovela: jugará en Atalanta y no en Roma",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/30/2025123018215192979.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/telenovela-raspadori-concluye-atacante-atalanta-roma/20260114072804370520.html",
-        "date": "2026-01-14 06:28:04",
-        "sentiment_score": 0.44278135895729065
-    },
-    {
-        "title": "La Liga MX busca en el Atlético un crack para llenar el vacío que dejó Sergio Ramos",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/09/2025120905521227594.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/liga-mx-busca-atletico-madrid-figura-llenar-vacio-que-dejo-sergio-ramos/20260114071337370519.html",
-        "date": "2026-01-14 06:13:37",
-        "sentiment_score": 0.02371092140674591
-    },
-    {
-        "title": "En libertad provisional el feriante de Cáceres acusado de contratar a sicarios para matar a un empresario sevillano del sector",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2026/01/13/FERIANTECCFETN-RfCxjzcG78X2FU4ENh0ZqfO-1200x840@Hoy.jpg",
-        "tags": [
-            "libertad",
-            "empresario",
-            "sevillano",
-            "acusado",
-            "feriante",
-            "provisional",
-            "matar",
-            "caceres",
-            "contratar",
-            "sicarios",
-            "sector"
-        ],
-        "link": "https://www.hoy.es/caceres/libertad-provisional-feriante-caceres-acusado-contratar-sicarios-20260114142750-nt.html",
-        "date": "2026-01-14 06:12:45",
-        "sentiment_score": -0.7481498923152685
-    },
-    {
-        "title": "Murcia y Valencia son las comunidades con mayor incremento de financiación en el nuevo modelo propuesto por el Gobierno",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/822a7c2c-2146-46f6-b658-8f169a9a0392_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "consejo de política fiscal y financiera",
-            "maría jesús montero",
-            "comunidades autónomas",
-            "ministerio de hacienda",
-            "sistema de financiación autonómica",
-            "financiación autonómica"
-        ],
-        "link": "https://www.diariodeibiza.es/economia/2026/01/14/murcia-valencia-comunidades-mayor-incremento-relativo-modelo-financiacion-autonomica-gobierno-cpff-montero-125659491.html",
-        "date": "2026-01-14 06:12:43",
-        "sentiment_score": -0.1917130947113037
-    },
-    {
-        "title": "La ultraderecha recurre al falangismo frente al Gobierno: falsa preocupación por la vivienda y anticapitalismo impostado",
-        "image_url": "https://www.elplural.com/uploads/s1/24/20/17/7/la-ultraderecha-recurre-al-falangismo-frente-al-gobierno-falsa-preocupacion-por-la-vivienda-y-anticapitalismo-impostado-ep_7_480x270.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elplural.com/politica/espana/ultraderecha-recurre-falangismo-frente-gobierno-falsa-preocupacion-vivienda-anticapitalismo-impostado_378531102",
-        "date": "2026-01-14 06:31:22",
-        "sentiment_score": -0.15497763454914093
-    },
-    {
-        "title": "El feísmo",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/98f78b66-1bf7-46d6-9a28-d9093731c501_16-9-aspect-ratio_default_0_x2887y1286.jpg",
-        "tags": [
-            "feismo"
-        ],
-        "link": "https://www.noticiasdenavarra.com/opinion/2026/01/14/feismo-10570663.html",
-        "date": "2026-01-14 06:30:33",
-        "sentiment_score": -0.8519565351307392
-    },
-    {
-        "title": "El feísmo",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/98f78b66-1bf7-46d6-9a28-d9093731c501_16-9-aspect-ratio_default_0_x2887y1286.jpg",
-        "tags": [
-            "feismo"
-        ],
-        "link": "https://www.deia.eus/opinion/2026/01/14/feismo-10570661.html",
-        "date": "2026-01-14 06:30:33",
-        "sentiment_score": -0.5953408926725388
-    },
-    {
-        "title": "Lo que debes saber hoy, 14 de enero, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2020/06/25/vivir-en-barcelona/500459954_10121913_1706x960.jpg",
-        "tags": [
-            "autobús",
-            "tráfico",
-            "clima",
-            "rodalies",
-            "tiempo",
-            "transports metropolitans barcelona tmb",
-            "movilidad",
-            "renfe barcelona",
-            "metro barcelona",
-            "aemet (agencia estatal de meteorología)"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260114/debes-saber-hoy-enero-barcelona/1003742723043_0.html",
-        "date": "2026-01-14 06:25:26",
-        "sentiment_score": -0.8040990438312292
-    },
-    {
-        "title": "El Derecho Internacional, en vilo ante el ansia de poder de Trump sobre Groenlandia: \"Difícilmente compatible con el marco jurídico\"",
-        "image_url": "https://www.elplural.com/uploads/s1/24/19/63/5/diseno-sin-titulo-47_7_480x270.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.elplural.com/politica/internacional/derecho-internacional-vilo-ansia-poder-trump-groenlandia-dificilmente-compatible-marco-juridico_378475102",
-        "date": "2026-01-14 06:24:34",
-        "sentiment_score": -0.22215920686721802
-    },
-    {
-        "title": "Los médicos vuelven a la huelga durante dos días para exigir un estatuto propio",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/a2a87be117e840940bfebe148476567c/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/14/17683717541587.jpg",
-        "tags": [
-            "ciencia-y-salud/salud"
-        ],
-        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2026/01/14/696735a2e9cf4aa13d8b4585.html",
-        "date": "2026-01-14 06:24:30",
-        "sentiment_score": -0.1537017934024334
-    },
-    {
-        "title": "El cielo se encapota en Cataluña y las temperaturas inician un ligero descenso por el oeste",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/03/12/vida/839426051_12599901_1706x960.jpg",
-        "tags": [
-            "tiempo",
-            "vida",
-            "cataluña"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/vida/20260114/cielo-encapota-cataluna-temperaturas-inician-ligero-descenso/1003742723042_0.html",
-        "date": "2026-01-14 06:18:32",
-        "sentiment_score": -0.14523085951805115
-    },
-    {
-        "title": "Seis de cada 10 alimentos que se meten en la cesta de la compra son ya de marca blanca",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f81a29dc-ded9-4caa-925c-3d56af33b4c4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "alimentos",
-            "marcas",
-            "supermercados",
-            "compras",
-            "comercio"
-        ],
-        "link": "https://www.laopiniondemalaga.es/economia/2026/01/14/peso-marca-blanca-cesta-compra-espana-2025-125659647.html",
-        "date": "2026-01-14 06:16:17",
-        "sentiment_score": -0.3327968269586563
-    },
-    {
-        "title": "Probamos los mejores patinetes para niños",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UJ4NYNQTMNC6ZPEX4EMJ2SMJGI.jpg?auth=4be7f45060aefd7fd79e36989c719bc45ce1ceafc91b718fbcd657606a4eddac&width=1200",
-        "tags": [
-            "patinetes eléctricos",
-            "niños",
-            "amazon"
-        ],
-        "link": "https://elpais.com/escaparate/comparativas/2026-01-14/mejores-patinetes-para-ninos.html",
-        "date": "2026-01-14 06:15:00",
-        "sentiment_score": 0.42234100960195065
-    },
-    {
         "title": "La volatilidad del bolívar desnuda las dificultades diarias de los venezolanos",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/443b0a803e597edbca9247decd32484954451104w-1200x750-1.jpg",
         "tags": [
@@ -2622,5 +2460,278 @@ export default [
         "link": "https://www.infobae.com/espana/agencias/2026/01/17/illa-en-buen-estado-tras-una-indisposicion-haciendo-deporte-aunque-se-somete-a-pruebas/",
         "date": "2026-01-17 16:46:10",
         "sentiment_score": -0.07115057110786438
+    },
+    {
+        "title": "La Familia Real, sin Juan Carlos I, se despide de Irene de Grecia en Madrid",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/17/2026011723071582727.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/familia-real-juan-carlos-i-despide-irene-grecia-madrid/20260117231204371019.html",
+        "date": "2026-01-17 22:12:04",
+        "sentiment_score": 0.6817276775836945
+    },
+    {
+        "title": "Resultados, clasificación, crónica y resúmenes de la Jornada 20 de LaLiga EA Sports 25-26 | El Betis gana al Villarreal y se sitúa a solo dos puntos del Espanyol",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2026/01/CARTEL-ASI-VA-LALIGA-25-26.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagradaonline.com/liga-jornada-20-resultados-clasificacion-cronica-resumen-partidos-rcd-espanyol-girona-sabado/",
+        "date": "2026-01-17 21:58:00",
+        "sentiment_score": -0.9040112867951393
+    },
+    {
+        "title": "Presidencia Ayuso: todo el Gobierno y su agenda consagrados al antisanchismo",
+        "image_url": "https://static.eldiario.es/clip/2c634559-1467-452e-a6c4-e2d0d647d0de_16-9-discover-aspect-ratio_default_0_x878y778.jpg",
+        "tags": [
+            "agenda",
+            "consagrados",
+            "presidencia",
+            "ayuso",
+            "antisanchismo",
+            "gobierno"
+        ],
+        "link": "https://www.eldiario.es/madrid/presidencia-ayuso-gobierno-agenda-consagrados-antisanchismo_1_12911604.html",
+        "date": "2026-01-17 21:49:36",
+        "sentiment_score": -0.11939963698387146
+    },
+    {
+        "title": "Real Madrid sometió al Levante en la jornada de La Liga española",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "combo clap",
+            "news",
+            "sistema patria",
+            "noticias hoy",
+            "portada",
+            "información de carabobo",
+            "17ene",
+            "noticias24carabobo en google news",
+            "noticias 24",
+            "17 de enero",
+            "noticias24carabobo",
+            "noticias de carabobo",
+            "real madrid",
+            "enero 17",
+            "noticias de hoy valencia",
+            "noticias 24 horas carabobo",
+            "deportes",
+            "noticias de venezuela",
+            "salud (+destacados)",
+            "bonos patria 2026",
+            "liga de españa",
+            "noticias de sucesos",
+            "noticias de valencia",
+            "mbappé"
+        ],
+        "link": "https://noticias24carabobo.com/real-madrid-sometio-al-levante-en-la-jornada-de-la-liga-espanola/",
+        "date": "2026-01-17 21:40:54",
+        "sentiment_score": 0.02194051444530487
+    },
+    {
+        "title": "Liga F: Derrota del Eibar en Ipurua (1-3)",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9263ccc5-6555-42ec-869a-26c61034d057_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "eibar",
+            "ipurua",
+            "liga",
+            "f",
+            "derrota"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/futbol/2026/01/17/liga-f-derrota-eibar-ipurua-10584557.html",
+        "date": "2026-01-17 21:10:52",
+        "sentiment_score": 0.24897532165050507
+    },
+    {
+        "title": "Tensión en el Bernabéu: Vinicius Jr. llora ante el abucheo de la afición",
+        "image_url": "https://pxcdn.2001online.com/2001/012026/1768685359192/vinicius-mbappe-realmadrid-partido_117_1200x675.jpeg?ch=675&cw=1200",
+        "tags": [
+            "laliga",
+            "real madrid",
+            "vinicius jr. llora",
+            "vinicius jr",
+            "santiago bernabéu",
+            "pitos en el bernabéu"
+        ],
+        "link": "https://2001online.com/deportes/tension-en-el-bernabeu-vinicius-jr-llora-ante-el-abucheo-de-la-aficion-202611717400",
+        "date": "2026-01-17 21:10:05",
+        "sentiment_score": -0.9074401808902621
+    },
+    {
+        "title": "Pese al gol del Cuti Romero, Tottenham perdió en el final ante West Ham y agudizó su mal momento en la Premier League",
+        "image_url": "https://www.infobae.com/resizer/v2/OTOPD2BB4RDW5AV3BAQOHUHBXY.JPG?auth=9ab5b5f42c4839bc17138457e4c62db46235c629cdd794e6151c024634b79472&height=2313&smart=true&width=3417",
+        "tags": [
+            "tottenham",
+            "cristian romero",
+            "premier league"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/17/pese-al-gol-del-cuti-romero-tottenham-perdio-en-el-final-ante-west-ham-y-agudizo-su-mal-momento-en-la-premier-league/",
+        "date": "2026-01-17 21:07:58",
+        "sentiment_score": 0.5016171485185623
+    },
+    {
+        "title": "Luis Astolfi, el primer romance conocido de la infanta Elena que no terminó en boda",
+        "image_url": "https://okdiario.com/look/img/2025/12/19/dl_u292024_002.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://okdiario.com/look/actualidad/infanta-elena-romance-luis-astolfi-primer-amor-2453700",
+        "date": "2026-01-17 21:00:01",
+        "sentiment_score": -0.13573360443115234
+    },
+    {
+        "title": "Álvaro Arbeloa critica los silbidos en el Bernabéu: \"Son de gente que no quiere al Real Madrid\"",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/17164745/Arbeloa.webp",
+        "tags": [
+            "bernabéu",
+            "deportes",
+            "fútbol",
+            "real madrid",
+            "laliga"
+        ],
+        "link": "https://www.elnacional.com/2026/01/alvaro-arbeloa-critica-los-silbidos-en-el-bernabeu-son-de-gente-que-no-quiere-al-real-madrid/",
+        "date": "2026-01-17 20:50:34",
+        "sentiment_score": -0.5712246932089329
+    },
+    {
+        "title": "El pletórico Cádiz CF empieza la segunda vuelta frente a un Albacete eufórico",
+        "image_url": "https://s3.abcstatics.com/lavozdigital/www/multimedia/canal-amarillo/2026/01/17/464A3697%20(1)_20260117204056-RnJryF51txHQ1oQgCx6tQHI-758x531@abc.JPG",
+        "tags": [
+            "liga de fútbol profesional",
+            "mercado de fichajes",
+            "real madrid",
+            "albacete balompié",
+            "cádiz cf"
+        ],
+        "link": "https://www.lavozdigital.es/canal-amarillo/noticias-cadiz-cf/pletorico-cadiz-empieza-segunda-vuelta-frente-albacete-20260117212901-div.html",
+        "date": "2026-01-17 20:42:56",
+        "sentiment_score": 0.0182420015335083
+    },
+    {
+        "title": "Checo Pérez prueba por primera vez el monoplaza de Cadillac",
+        "image_url": "https://mundonow.com/wp-content/uploads/2025/12/shutterstock_2352095289-1200x799.jpg",
+        "tags": [
+            "hogar y auto"
+        ],
+        "link": "https://mundonow.com/checo-perez-prueba-por-primera-vez-el-monoplaza-de-cadillac/",
+        "date": "2026-01-17 21:57:36",
+        "sentiment_score": 0.44759104400873184
+    },
+    {
+        "title": "Lily Phillips, confesiones de la mujer más escandalosa del mundo: \"Vi porno por primera vez a los 11 años. Es necesario al 100% poner límites de edad\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/da74726c09132be564ee3257b8a0cb81/crop/117x368/2574x2825/f/image/jpeg/assets/multimedia/imagenes/2022/02/09/16444360039230.jpg",
+        "tags": [
+            "artículos martín mucha",
+            "nlpremium",
+            "sexo",
+            "influencers",
+            "reino unido"
+        ],
+        "link": "https://www.elmundo.es/cronica/2026/01/17/6969304be9cf4aac328b45d0.html",
+        "date": "2026-01-17 21:52:24",
+        "sentiment_score": 0.2992652505636215
+    },
+    {
+        "title": "El empresariado catalán se divide ante Illa por la financiación y los planes de Sánchez",
+        "image_url": "https://static.eldiario.es/clip/7108802c-db9d-46b2-bb75-0ae71e2e31a5_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "periodismo independiente",
+            "barcelona",
+            "cataluña",
+            "noticias",
+            "ignacio escolar",
+            "actualidad",
+            "política",
+            "economía"
+        ],
+        "link": "https://www.eldiario.es/catalunya/empresariado-catalan-divide-illa-financiacion-planes-sanchez_1_12907298.html",
+        "date": "2026-01-17 21:49:38",
+        "sentiment_score": -0.067554771900177
+    },
+    {
+        "title": "Así funciona el abono transporte único que empieza este lunes: ¿Cómo se usa? ¿Y dónde se compra?",
+        "image_url": "https://static.eldiario.es/clip/64111722-4311-4b1f-bbe6-f629ba21a7b6_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "empieza",
+            "unico",
+            "lunes",
+            "compra",
+            "funciona",
+            "transporte",
+            "abono"
+        ],
+        "link": "https://www.eldiario.es/economia/funciona-abono-transporte-unico-empieza-lunes-compra_1_12914030.html",
+        "date": "2026-01-17 21:49:37",
+        "sentiment_score": -0.0883680135011673
+    },
+    {
+        "title": "El Gobierno se atasca con la crisis de vivienda: choque entre los socios y medidas fiscales que no avanzan",
+        "image_url": "https://static.eldiario.es/clip/17d1eeb7-97f6-41f8-939b-e060626af9ad_16-9-discover-aspect-ratio_default_1134451.jpg",
+        "tags": [
+            "medidas",
+            "socios",
+            "no",
+            "crisis",
+            "avanzan",
+            "atasca",
+            "fiscales",
+            "gobierno",
+            "vivienda",
+            "choque"
+        ],
+        "link": "https://www.eldiario.es/economia/gobierno-atasca-crisis-vivienda-choque-socios-medidas-fiscales-no-avanzan_1_12909482.html",
+        "date": "2026-01-17 21:49:35",
+        "sentiment_score": -0.017562925815582275
+    },
+    {
+        "title": "La producción catalana 'Sirat', gran triunfadora de los premios del Cine Europeo",
+        "image_url": "https://static1.ara.cat/clip/a2fd068f-15bf-4aea-8201-bc49e9a30c12_16-9-aspect-ratio_default_0_x3231y1356.jpg",
+        "tags": [
+            "catalana",
+            "europeo",
+            "premios",
+            "triunfadora",
+            "produccion",
+            "cine",
+            "sirat",
+            "gran"
+        ],
+        "link": "https://es.ara.cat/cultura/cine/produccion-catalana-sirat-gran-triunfadora-premios-cine-europeo_1_5621236.html",
+        "date": "2026-01-17 21:23:15",
+        "sentiment_score": -0.009823024272918701
+    },
+    {
+        "title": "'Valor sentimental' se corona como mejor película europea y 'Sirat' acapara méritos por su impactante técnica",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc9ed867-6ae1-4048-9752-147583c8341b_16-9-aspect-ratio_default_0_x1000y360.jpg",
+        "tags": [
+            "cine europeo"
+        ],
+        "link": "https://www.informacion.es/ocio/cine/2026/01/17/sentimental-triunfa-premios-cine-europeo-125795152.html",
+        "date": "2026-01-17 21:05:04",
+        "sentiment_score": 0.3144722580909729
+    },
+    {
+        "title": "El Curso MIR tendrá rércord de alumnos presenciales en Oviedo: 1.500, y la mayoría de fuera de Asturias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b52273e3-5d3a-4fa1-a27d-d2d540f2b543_16-9-aspect-ratio_default_0_x800y400.jpg",
+        "tags": [
+            "asturias",
+            "simulacro",
+            "mir",
+            "médicos"
+        ],
+        "link": "https://www.lne.es/asturias/2026/01/17/curso-mir-tendra-rercord-alumnos-125794915.html",
+        "date": "2026-01-17 21:04:41",
+        "sentiment_score": -0.09224092960357666
+    },
+    {
+        "title": "Lo mas viral de la semana: Julio Iglesias niega acusaciones de agresión sexual",
+        "image_url": "https://static.wixstatic.com/media/cf263a_d3e7b0dbbcd84427a91181ee7352b7b3~mv2.png/v1/fit/w_939,h_544,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/lo-mas-viral-de-la-semana-julio-iglesias-niega-acusaciones-de-agresi%C3%B3n-sexual",
+        "date": "2026-01-17 19:45:34",
+        "sentiment_score": -0.7767717130482197
     }
 ];
