@@ -1,472 +1,5 @@
 export default [
     {
-        "title": "'Los domingos' y 'Sirât', con 13 y 11 nominaciones, arrasan en candidaturas a los Premios Goya",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/03f2da1/2147483647/strip/true/crop/7630x4006+0+525/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F59%2F01%2Ff3b016cc4ee7a902680aff39b289%2F3c21481fe9f34327b1c8a13f24ea0ee6.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/entretenimiento/articulo/2026-01-13/los-domingos-y-sirat-con-13-y-11-nominaciones-arrasan-en-candidaturas-los-premios-goya",
-        "date": "2026-01-13 22:19:47",
-        "sentiment_score": 0.8310787379741669
-    },
-    {
-        "title": "Griezmann mete al Atlético en cuartos de final",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/ad684cb5-266c-4ac7-9c5ba1ac7b1dd74a.jpg",
-        "tags": [
-            "deportivo de la coruña",
-            "atlético de madrid",
-            "antoine griezmann",
-            "real madrid",
-            "copa del rey"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z4e04bd6a-738c-40bb-9a476c3e0558c050/202601/griezmann-mete-al-atletico-en-cuartos-de-final",
-        "date": "2026-01-13 22:13:15",
-        "sentiment_score": 0.8477192725986242
-    },
-    {
-        "title": "Arbeloa afirma que no intentará ser el nuevo Mourinho en el Real Madrid",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/30a80d2/2147483647/strip/true/crop/7754x4071+0+550/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F42%2F59%2Fa4b061d14fe58b840fb9015c63d6%2F1e4ba7f391f64c0ca98b263abca8024d.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-01-13/arbeloa-afirma-que-no-intentara-ser-el-nuevo-mourinho-en-el-real-madrid",
-        "date": "2026-01-13 22:03:19",
-        "sentiment_score": -0.5335356313735247
-    },
-    {
-        "title": "Bellingham estalla contra los rumores de su mala relación con Xabi Alonso",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/01/13/38F192C8-184A-47DC-8645-8BD02CD88648/bellingham-xabi-alonso-entrenamiento_98.jpg?crop=1280%2C720%2Cx0%2Cy31&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "deportes",
-            "fútbol",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/bellingham-estalla-rumores-mala-relacion-xabi-alonso_202601136966bc7c384d9f038d870762.html",
-        "date": "2026-01-13 21:43:24",
-        "sentiment_score": -0.9430870525538921
-    },
-    {
-        "title": "Cinco restaurantes de Siero compiten por el mejor plato de callos de España: estos son los locales que participan en el certamen nacional",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5b78cdcc-bbb1-4db4-8296-f19c70448c7e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "asturias",
-            "restaurantes",
-            "siero",
-            "callos"
-        ],
-        "link": "https://www.lne.es/siero/2026/01/13/cinco-restaurantes-siero-compiten-mejor-125655179.html",
-        "date": "2026-01-13 21:39:17",
-        "sentiment_score": 0.03702870011329651
-    },
-    {
-        "title": "El Athletic toma Valdebebas",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/3849bf50-5c94-4e1a-8a31-6d83c3632e0b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "toma",
-            "athletic",
-            "valdebebas"
-        ],
-        "link": "https://www.deia.eus/athletic-femenino/2026/01/13/athletic-toma-valdebebas-10570216.html",
-        "date": "2026-01-13 21:35:31",
-        "sentiment_score": 0.2504425644874573
-    },
-    {
-        "title": "Fabian Causeur se retira del baloncesto",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/13/6966b8e7e105b.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/fabian-causeur-retira-baloncesto-20260113_3286020.html",
-        "date": "2026-01-13 21:31:48",
-        "sentiment_score": 0.2629784941673279
-    },
-    {
-        "title": "Un serio Athletic asalta el Di Stéfano con susto de Adriana Nanclares y aleja al Real Madrid del FC Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/LRDC7TFUPZHV3KEUGWPWMZ7K5M.jpg?auth=f9fcdc2230e5b4b857280798f6f379a2331e6e07b76be103f41043b9f3da78ac&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/13/un-serio-athletic-asalta-el-di-stefano-con-susto-de-adriana-nanclares-y-aleja-al-real-madrid-del-fc-barcelona/",
-        "date": "2026-01-13 21:15:16",
-        "sentiment_score": -0.8929872438311577
-    },
-    {
-        "title": "Excampeón de UFC arremetió contra jugadores del Real Madrid y defendió a Xabi Alonso",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Khabib-Nurmagomedov.jpg",
-        "tags": [
-            "titulares",
-            "real madrid",
-            "khabib nurmagomedov",
-            "deportes",
-            "xabi alonso"
-        ],
-        "link": "https://lapatilla.com/2026/01/13/excampeon-de-ufc-arremetio-contra-jugadores-del-real-madrid-y-defendio-a-xabi-alonso/",
-        "date": "2026-01-13 21:14:30",
-        "sentiment_score": -0.18347078934311867
-    },
-    {
-        "title": "El emotivo mensaje de Nagore Aramburu para Xavi Alonso tras su salida del Real Madrid",
-        "image_url": "https://lavozdeibiza.com/wp-content/uploads/2026/01/Xabi-Alonso-y-su-familia.avif",
-        "tags": [
-            "real madrid",
-            "sociedad",
-            "xavi alonso",
-            "nagore aramburu",
-            "actualidad"
-        ],
-        "link": "https://lavozdeibiza.com/actualidad/el-emotivo-mensaje-de-nagore-aramburu-para-xavi-alonso-tras-su-salida-del-real-madrid/",
-        "date": "2026-01-13 21:11:28",
-        "sentiment_score": -0.24740298092365265
-    },
-    {
-        "title": "Susana Abaitua logra su primera nominación a los Goya con ‘Un fantasma en la batalla’, basada en la misma historia que ‘La infiltrada’: “Cada película tiene su camino”",
-        "image_url": "https://www.infobae.com/resizer/v2/XMUNXNVGT5G7XIPJL53I3ZEP3Q.jpg?auth=7f034888a87fa4b0e497bfa8e22e25be15c8087fcaf694977e9c7049feab93a2&height=1068&smart=true&width=1898",
-        "tags": [
-            "cine españa",
-            "premios goya 2026",
-            "españa-cultura",
-            "cine",
-            "premios goya",
-            "susana abaitua",
-            "españa noticias"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2026/01/13/susana-abaitua-logra-su-primera-nominacion-a-los-goya-con-un-fantasma-en-la-batalla-basada-en-la-misma-historia-que-la-infiltrada-cada-pelicula-tiene-su-camino/",
-        "date": "2026-01-13 22:05:34",
-        "sentiment_score": 0.3806692846119404
-    },
-    {
-        "title": "Un sevillano, premiado con un millón de euros en el Euromillones",
-        "image_url": "https://static.grupojoly.com/clip/776c5c4f-d6cf-470c-8c69-6c9be5d261f2_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias sevilla"
-        ],
-        "link": "https://www.diariodesevilla.es/sevilla/sevillano-premiado-millon-euros-euromillones_0_2005637676.html",
-        "date": "2026-01-13 22:04:57",
-        "sentiment_score": 0.40587231889367104
-    },
-    {
-        "title": "A juicio un inquilino de un piso de Barcelona donde la propiedad quiere construir 'colivings'",
-        "image_url": "https://www.infobae.com/resizer/v2/UN7LXMALKFBCLJ4LG2BR3WU3LE.jpg?auth=27246bca5951aa6eeeafdd5064979a24a5aba1279f3ad1f93f810d2a40245229&height=1280&smart=true&width=1920",
-        "tags": [
-            "gràcia",
-            "fondo de inversión",
-            "carme arcarazo",
-            "europapress",
-            "sindicat de llogateres",
-            "barcelona",
-            "ciutat de la justícia",
-            "colivings",
-            "desahucios",
-            "vivienda",
-            "txema escorsa"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/13/a-juicio-un-inquilino-de-un-piso-de-barcelona-donde-la-propiedad-quiere-construir-colivings/",
-        "date": "2026-01-13 22:02:54",
-        "sentiment_score": -0.845124926418066
-    },
-    {
-        "title": "Dónde han caído el bote de Euromillones, y los premios de la Bonoloto y la ONCE de hoy, martes 13 de enero de 2026",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2019/12/15/DD6F937B-CB78-45BE-A8BA-423DBC0AECA2/98.jpg?crop=594%2C334%2Cx0%2Cy53&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "loterías",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-bote-41-millones-euromillones-premios-bonoloto-once-hoy-martes-6-enero-2025_202601136966c0d55b0f0226996207df.html",
-        "date": "2026-01-13 22:01:57",
-        "sentiment_score": -0.07793214917182922
-    },
-    {
-        "title": "Zapatero busca blanquear a Delcy con una oposición a la carta en Venezuela",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/b163308355aee2e784ab008b60b4770c/crop/60x63/2026x1374/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/13/17683367150227.jpg",
-        "tags": [
-            "españa",
-            "nlpremium",
-            "venezuela"
-        ],
-        "link": "https://www.elmundo.es/internacional/2026/01/13/6966a56dfdddfff2348b4587.html",
-        "date": "2026-01-13 21:53:42",
-        "sentiment_score": -0.004249006509780884
-    },
-    {
-        "title": "El ICA refuerza los controles a viajeros desde España para impedir el ingreso de la peste porcina africana",
-        "image_url": "https://www.infobae.com/resizer/v2/XVNYXZUKVVCEDMVPVGC6YVA6KA.jpg?auth=b32cf8eb8273910f3b3608f9162cb7944ad3bfb5c1ad02eb46cfe008d82ffaa2&height=3266&smart=true&width=4995",
-        "tags": [
-            "industria porcina",
-            "colombia-economía",
-            "bioseguridad",
-            "españa",
-            "cerdanyola del vallès",
-            "ica",
-            "colombia-noticias",
-            "peste porcina africana",
-            "porkcolombia"
-        ],
-        "link": "https://www.infobae.com/colombia/2026/01/13/el-ica-refuerza-los-controles-a-viajeros-desde-espana-para-impedir-el-ingreso-de-la-peste-porcina-africana/",
-        "date": "2026-01-13 21:51:37",
-        "sentiment_score": -0.4218292459845543
-    },
-    {
-        "title": "Premios Goya 2026: 'Los domingos' arrasa en nominaciones por delante de 'Sirat' y 'Maspalomas'",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/03/6908a994dda8a.jpeg",
-        "tags": [
-            "cine"
-        ],
-        "link": "https://www.20minutos.es/cinemania/noticias/premios-goya-2026-nominaciones-mejor-cine-espanol_6920508_6.html",
-        "date": "2026-01-13 21:41:23",
-        "sentiment_score": 0.13381241261959076
-    },
-    {
-        "title": "El tren bala chino que obsesiona a Óscar Puente: puede alcanzar los 450 km/h para unir Madrid y Barcelona en hora y media",
-        "image_url": "https://s3.elespanol.com/2026/01/12/omicrono/tecnologia/1003744086825_260880310_1706x960.jpg",
-        "tags": [
-            "trenes",
-            "transporte ferroviario",
-            "china",
-            "tecnología"
-        ],
-        "link": "https://www.elespanol.com/omicrono/tecnologia/20260114/tren-bala-chino-obsesiona-oscar-puente-puede-alcanzar-kmh-unir-madrid-barcelona-hora-media/1003744086516_0.html",
-        "date": "2026-01-14 01:47:14",
-        "sentiment_score": 0.05358146131038666
-    },
-    {
-        "title": "Plus Ultra pagó a inversores desconocidos una deuda de 9M dando un avión de 2001 que siguió usando bajo alquiler",
-        "image_url": "https://s3.elespanol.com/2026/01/13/actualidad/1003744088685_260902801_1706x960.jpg",
-        "tags": [
-            "venezuela",
-            "plus ultra líneas aéreas",
-            "tribunales",
-            "sepi sociedad estatal participaciones industriales",
-            "periodismo de investigación"
-        ],
-        "link": "https://www.elespanol.com/espana/tribunales/20260114/plus-ultra-pago-inversores-desconocidos-deuda-dando-avion-siguio-usando-alquiler/1003744088155_0.html",
-        "date": "2026-01-14 01:44:47",
-        "sentiment_score": -0.1335584968328476
-    },
-    {
-        "title": "Las CCAA del PP exigirán que Montero les adelante parte de los 21.000M prometidos pero dirán no al 'modelo Junqueras'",
-        "image_url": "https://s3.elespanol.com/2026/01/13/espana/politica/1003744088705_260903079_1706x960.jpg",
-        "tags": [
-            "independentismo",
-            "ministerio de hacienda y función pública",
-            "oriol junqueras",
-            "financiación autonómica",
-            "maría jesús montero",
-            "política",
-            "alberto núñez feijóo",
-            "pedro sánchez"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20260114/ccaa-pp-exigiran-montero-adelante-parte-prometidos-diran-no-modelo-junqueras/1003744088193_0.html",
-        "date": "2026-01-14 01:26:16",
-        "sentiment_score": -0.8763078413903713
-    },
-    {
-        "title": "Rafael Fructuoso, agricultor madrileño, tras el acuerdo de la UE y Mercosur: \"Nos deja vendidos frente a otros países\"",
-        "image_url": "https://s3.elespanol.com/2026/01/13/actualidad/1003744087695_260890708_1706x960.jpg",
-        "tags": [
-            "comunidad de madrid",
-            "agricultura",
-            "sociedad",
-            "madrid"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20260114/rafael-fructuoso-agricultor-madrileno-acuerdo-ue-mercosur-deja-vendidos-frente-paises/1003744087489_0.html",
-        "date": "2026-01-14 01:00:00",
-        "sentiment_score": 0.15079365670681
-    },
-    {
-        "title": "Doña Letizia entrega los Premios Zenda en medio de la preocupación por el estado de salud de Irene de Grecia",
-        "image_url": "https://www.infobae.com/resizer/v2/JCE6Y2Y2NFBG7EENCA7DZ44GEU.jpg?auth=2198ed8b6140ac045e5787451912c11cc068a9e60cad698fe44e619458c3ad3e&height=1440&smart=true&width=1920",
-        "tags": [
-            "madrid",
-            "literatura española",
-            "europapress",
-            "galardones literarios",
-            "irene de grecia",
-            "premios zenda",
-            "enrique vila-matas",
-            "isabel díaz ayuso",
-            "letizia ortiz",
-            "real fábrica de tapices",
-            "josé luis martínez almeida"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/13/dona-letizia-entrega-los-premios-zenda-en-medio-de-la-preocupacion-por-el-estado-de-salud-de-irene-de-grecia/",
-        "date": "2026-01-14 00:49:16",
-        "sentiment_score": 0.5512740463018417
-    },
-    {
-        "title": "La Reina entrega el Premio Zenda a Vila-Matas, que afirma que hay \"imbéciles\" en todos los ambientes y no solo digitales",
-        "image_url": "https://www.infobae.com/resizer/v2/SGP7WMZGX5DBJBMFVMYULE6K4E.jpg?auth=30b725db2b893518d45177860f3b3687d8bd39d60f4264ebac95ab78049456b6&height=1280&smart=true&width=1920",
-        "tags": [
-            "madrid",
-            "letizia",
-            "premios literarios",
-            "arturo pérez-reverte",
-            "europapress",
-            "galardones",
-            "enrique vila-matas",
-            "literatura",
-            "real fábrica de tapices",
-            "mario vargas llosa",
-            "zenda"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/13/la-reina-entrega-el-premio-zenda-a-vila-matas-que-afirma-que-hay-imbeciles-en-todos-los-ambientes-y-no-solo-digitales/",
-        "date": "2026-01-14 00:48:46",
-        "sentiment_score": 0.7860473543405533
-    },
-    {
-        "title": "Pedja Mijatovic sobre la destitución de Xabi Alonso: “Quizás no es un problema de entrenadores, sino de la plantilla, que ha perdido hambre y ganas”",
-        "image_url": "https://www.infobae.com/resizer/v2/QYRVIGV445BYJGDM4LKU5KRHPI.jpg?auth=031d36a71d485d320c70fdf7329c332032a7da8ac6eec2499c7db443f002d164&height=1080&smart=true&width=1920",
-        "tags": [
-            "mijatovic",
-            "fútbol españa",
-            "champions league",
-            "real madrid",
-            "la liga",
-            "españa-noticias",
-            "fútbol",
-            "fc barcelona",
-            "españa-deportes",
-            "álvaro arbeloa",
-            "xabi alonso"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/01/14/pedja-mijatovic-sobre-la-destitucion-de-xabi-alonso-quizas-no-es-un-problema-de-entrenadores-sino-de-la-plantilla-que-ha-perdido-hambre-y-ganas/",
-        "date": "2026-01-14 00:47:56",
-        "sentiment_score": 0.5895476564764977
-    },
-    {
-        "title": "13 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/13-ene-2026-partidazo-cope-20260114_3286064.html",
-        "date": "2026-01-14 00:43:09",
-        "sentiment_score": -0.0076644644141197205
-    },
-    {
-        "title": "Gol de tiro libre de Griezmann lleva al Atlético de Madrid a cuartos de la Copa del Rey",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/371fd11/2147483647/strip/true/crop/1000x525+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2Fdf%2F583ec1044822a259af5c031752f8%2Flat3.png",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-01-13/gol-de-tiro-libre-de-griezmann-lleva-al-atletico-de-madrid-cuartos-de-la-copa-del-rey",
-        "date": "2026-01-14 00:40:25",
-        "sentiment_score": 0.8326442241668701
-    },
-    {
-        "title": "Ander Cotorro, analista y comentarista de Tiempo de Juego analiza la forma de jugar de Arbeloa: \"Un estilo de juego cercano al Barça\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/14/6966e088aa1f1.jpeg",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/ander-cotorro-analista-comentarista-juego-analiza-forma-jugar-arbeloa-estilo-juego-cercano-barca-20260114_3286060.html",
-        "date": "2026-01-14 00:19:03",
-        "sentiment_score": -0.051049113273620605
-    },
-    {
-        "title": "Clima en Barcelona: temperatura y probabilidad de lluvia para este 14 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
-        "tags": [
-            "barcelona",
-            "noticias",
-            "tiempo en españa",
-            "españa noticias",
-            "españa sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/14/clima-en-barcelona-temperatura-y-probabilidad-de-lluvia-para-este-14-de-enero/",
-        "date": "2026-01-14 02:15:34",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "El viaje del Papa",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "viaje",
-            "papa"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/viaje-papa_0_2005638150.html",
-        "date": "2026-01-14 02:07:23",
-        "sentiment_score": -0.2084350883960724
-    },
-    {
-        "title": "Lleonart (Metges): “Las CCAA deben dejar su hipocresía atrás y asumir sus responsabilidades en el Estatuto Marco”",
-        "image_url": "https://s3.elespanol.com/2026/01/13/actualidad/1003744088640_260902324_1706x960.jpg",
-        "tags": [
-            "sanidad - política sanitaria",
-            "huelgas",
-            "sanidad - actualidad sanitaria",
-            "observatorio de la sanidad"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260114/lleonart-metges-ccaa-deben-dejar-hipocresia-asumir-responsabilidades-estatuto-marco/1003744088184_0.html",
-        "date": "2026-01-14 01:26:16",
-        "sentiment_score": -0.061247818171978
-    },
-    {
-        "title": "Las viviendas turísticas empiezan a desaparecer de las grandes ciudades",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/14/2026011402044684067.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.mundiario.com/articulo/economia/viviendas-turisticas-empiezan-desaparecer-grandes-ciudades/20260114020527370489.html",
-        "date": "2026-01-14 01:05:27",
-        "sentiment_score": -0.7964214533567429
-    },
-    {
-        "title": "El nuevo Camp Nou impulsará los ingresos del Barça hasta los 1.200 millones en 2028",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/14/culemania/palco/1003742723041_15597419_1706x960.jpg",
-        "tags": [
-            "palco",
-            "fc barcelona",
-            "camp nou",
-            "espai barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260114/nuevo-camp-nou-impulsara-ingresos-barca-millones/1003742723039_0.html",
-        "date": "2026-01-14 00:45:25",
-        "sentiment_score": 0.2773180902004242
-    },
-    {
-        "title": "La fuerte advertencia de un histórico piloto de Fórmula 1 y compañero de Schumacher a Franco Colapinto",
-        "image_url": "https://www.infobae.com/resizer/v2/CBRAH4MIBRDE3K3U4QQ72VNUJI.png?auth=3d12fb7c47424351980949ca51f3a71efd7f222c4e702b2e4b716db4af3c8058&height=1080&smart=true&width=1920",
-        "tags": [
-            "franco colapinto",
-            "deportes-internacional",
-            "alpine",
-            "johnny herbert",
-            "fórmula 1",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/14/la-fuerte-advertencia-de-un-historico-piloto-de-formula-1-y-companero-de-schumacher-a-franco-colapinto/",
-        "date": "2026-01-14 00:05:14",
-        "sentiment_score": -0.8763195918872952
-    },
-    {
-        "title": "En memoria de Vidal Cano, corredor popular",
-        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2026/01/13/vidal-cano-obituario-st-kVJI--1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "obituarios cantabria"
-        ],
-        "link": "https://www.eldiariomontanes.es/obituarios/memoria-vidal-cano-corredor-popular-20260114072219-nt.html",
-        "date": "2026-01-14 00:00:00",
-        "sentiment_score": -0.23619554936885834
-    },
-    {
-        "title": "Laporta aparca las aventuras más arriesgadas del Barça: se desmarca de la Superliga y la NBA Europa",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/22/culemania/primer-equipo/1003742709860_15434622_1706x960.jpg",
-        "tags": [
-            "fcb basket",
-            "joan laporta",
-            "champions league",
-            "superliga",
-            "nba",
-            "secciones"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260114/laporta-aventuras-arriesgadas-barca-superliga-nba-europa/1003742722921_0.html",
-        "date": "2026-01-13 23:55:48",
-        "sentiment_score": -0.7806403301656246
-    },
-    {
         "title": "Raspadori pone fin a su telenovela: jugará en Atalanta y no en Roma",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/30/2025123018215192979.jpg",
         "tags": [
@@ -2863,5 +2396,231 @@ export default [
         "link": "https://www.libertaddigital.com/madrid/2026-01-17/la-huelga-de-medicos-contra-monica-garcia-costo-mas-de-5-millones-a-madrid-miles-de-consultas-y-operaciones-canceladas-7344761/",
         "date": "2026-01-17 05:45:06",
         "sentiment_score": -0.6999596823006868
+    },
+    {
+        "title": "ANÁLISIS | El Bernabéu dejó de creer: el Real Madrid, ante su mayor fractura interna en años",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/17/image-937b2cc6-e777-4f69-af68-ade09cc79ab8-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "la liga 2025/2026"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/real-madrid-mayor-fractura-interna-anos-pitos-abucheos-panolada-santiago-bernabeu_sto23260051/story.shtml",
+        "date": "2026-01-17 17:13:07",
+        "sentiment_score": -0.6105208843946457
+    },
+    {
+        "title": "Alquilar en 2026: más caro, menos pisos y fuera del alcance de muchas familias",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/01/17/CB83F304-0779-4A18-8BAC-543ACEDDDB98/alquilar-2026-mas-caro-menos-pisos-fuera-alcance-muchas-familias_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "economía",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/economia/alquilar-2026-mas-caro-menos-pisos-fuera-alcance-muchas-familias_20260117696bb3e35b0f0226996ad727.html",
+        "date": "2026-01-17 17:06:42",
+        "sentiment_score": -0.805440915748477
+    },
+    {
+        "title": "Manolo Lama: \"Escuchar 'Florentino, dimisión' es una queja unánime de la gestión que el presidente del Real Madrid está haciendo con el equipo\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/17/696bbd3bae55a.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/manolo-lama-escuchar-florentino-dimision-queja-unanime-gestion-presidente-real-madrid-haciendo-equipo-20260117_3288918.html",
+        "date": "2026-01-17 17:06:11",
+        "sentiment_score": -0.006841093301773071
+    },
+    {
+        "title": "La estadística que explica la paliza del Real Madrid al Barça de basket en la Euroliga: tres señalados",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/16/culemania/secciones/1003742724035_15611058_1706x960.jpg",
+        "tags": [
+            "fcb basket",
+            "secciones",
+            "xavi pascual",
+            "willy hernangómez"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260117/estadistica-explica-real-madrid-barca-euroliga-senalados/1003742724133_0.html",
+        "date": "2026-01-17 17:05:15",
+        "sentiment_score": -0.1529516875743866
+    },
+    {
+        "title": "El papel de la princesa Leonor y la infanta Sofía, la presencia de otras dinastías reales y el apoyo de Felipe VI: la ceremonia en recuerdo a Irene de Grecia, en imágenes",
+        "image_url": "https://images.ecestaticos.com/fI1Pwqrww9s5fGZdwFoNpcq9JZI=/0x0:800x600/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F167%2Fafb%2Fa7c%2F167afba7c59d5eefd1ee6dae1127b93e.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-01-17/ceremonia-irene-de-grecia-imagenes-papel-leonor_4285864/",
+        "date": "2026-01-17 17:01:00",
+        "sentiment_score": -0.36638250574469566
+    },
+    {
+        "title": "La ceremonia en honor a Irene de Grecia, desde dentro: de las fotos que revelan el lenguaje no verbal de la familia real a la música escogida por Sofía",
+        "image_url": "https://images.ecestaticos.com/BHxQKzXjyOj16xJYRHapGM35wdo=/0x0:1920x1283/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fabb%2Ff7e%2F598%2Fabbf7e598dec7da122249e0e216dea2b.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-01-17/ceremonia-irene-grecia-dentro-intimidad-fotos-lenguaje-corporal-felipe-letizia-sofia-leonor_4285827/",
+        "date": "2026-01-17 17:01:00",
+        "sentiment_score": 0.0683472529053688
+    },
+    {
+        "title": "El Real Madrid en crisis y Kylian Mbappé rompiendo récords",
+        "image_url": "https://i.ytimg.com/vi/6VC5VHn5EQM/mqdefault.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/el-real-madrid-en-crisis-y-kylian-mbappe-rompiendo-records-202611712590",
+        "date": "2026-01-17 17:00:00",
+        "sentiment_score": 0.7849512249231339
+    },
+    {
+        "title": "¿Presidenta pa’ cuándo?: Hasta 2031 no habrá mujer al frente de Canarias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2ffcdc8d-cc1e-4b4e-ada8-da83b3f0a150_16-9-aspect-ratio_default_0_x358y104.jpg",
+        "tags": [
+            "política",
+            "pp",
+            "canarias",
+            "psoe",
+            "mujeres",
+            "gobierno"
+        ],
+        "link": "https://www.laprovincia.es/canarias/2026/01/17/presidenta-pa-2031-habra-mujer-125789959.html",
+        "date": "2026-01-17 16:58:53",
+        "sentiment_score": -0.36252689361572266
+    },
+    {
+        "title": "Madrid tendrá su propia Feria de Abril a lo grande: casetas, carruajes, famosos y moda flamenca",
+        "image_url": "https://s1.ppllstatics.com/mujerhoy/www/multimedia/2026/01/16/feria-abril-sevilla-R3FoDsrhWfFI5LMH0HqNpWI-758x758@Mujer%20Hoy.jpg",
+        "tags": [
+            "gastronomía",
+            "música"
+        ],
+        "link": "https://www.mujerhoy.com/vivir/ocio/madrid-feria-abril-sevilla-casetas-famosos-musica-gastronomia-20260117000310-nt.html",
+        "date": "2026-01-17 16:56:02",
+        "sentiment_score": 0.10196113586425781
+    },
+    {
+        "title": "Bob Pop opta a la Alcaldía de Barcelona \"sin hada madrina\" y apelando al ADN de BComú",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/01/17/bob-pop-presenta-en-barcelona-su-candidatura-a-las-primarias-de-bcomu.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.heraldo.es/noticias/nacional/2026/01/17/bob-pop-opta-alcaldia-barcelona-sin-hada-madrina-apelando-adn-bcomu-1886438.html",
+        "date": "2026-01-17 17:15:34",
+        "sentiment_score": 0.4176337867975235
+    },
+    {
+        "title": "No hace falta viajar 10.000 km para ver Japón: Este barrio recrea la cultura japonesa con restaurantes y tiendas",
+        "image_url": "https://s3.elespanol.com/2026/01/12/actualidad/1003744086813_260880157_1706x960.jpg",
+        "tags": [
+            "españa",
+            "destinos",
+            "viajes",
+            "japón"
+        ],
+        "link": "https://www.elespanol.com/viajes/20260117/no-hace-falta-viajar-km-ver-japon-barrio-recrea-cultura-japonesa-restaurantes-tiendas/1003744086806_0.html",
+        "date": "2026-01-17 17:15:09",
+        "sentiment_score": 0.5301325283944607
+    },
+    {
+        "title": "Director de orquesta Zubin Mehta cancela sus conciertos en Israel en protesta a Netanyahu",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/17/director-de-orquesta-zubin-mehta-cancela-sus-conciertos-en-israel-en-protesta-a-netanyahu/",
+        "date": "2026-01-17 17:06:29",
+        "sentiment_score": -0.853781757876277
+    },
+    {
+        "title": "Trump anuncia aranceles adicionales del 10% en ocho países europeos",
+        "image_url": "https://static1.ara.cat/clip/9d8411fe-3dce-4b91-9144-d1919d36f704_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "trump",
+            "paises",
+            "adicionales",
+            "25",
+            "europeos",
+            "anuncia",
+            "ocho",
+            "aranceles"
+        ],
+        "link": "https://es.ara.cat/internacional/europa/trump-anuncia-aranceles-adicionales-25-ocho-paises-europeos_1_5620888.html",
+        "date": "2026-01-17 17:01:06",
+        "sentiment_score": -0.24649813771247864
+    },
+    {
+        "title": "Illa, «en buen estado» tras una indisposición haciendo deporte aunque se somete a pruebas",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/01/20260117172703.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "política"
+        ],
+        "link": "https://cronicadecantabria.com/cr/illa-en-buen-estado-tras-una-indisposicin-haciendo-deporte-aunque-se-somete-a-pruebas/",
+        "date": "2026-01-17 17:00:04",
+        "sentiment_score": -0.42838938534259796
+    },
+    {
+        "title": "211 CV, híbrido, y desde 19.990 € con descuento, para esta oferta del EBRO s400",
+        "image_url": "https://cdn.motor1.com/images/mgl/lElYlO/s3/ebro-s400-hibrido-2026.jpg",
+        "tags": [
+            "ebro s400",
+            "suv",
+            "suv/todoterreno",
+            "ofertas",
+            "coche chino"
+        ],
+        "link": "https://es.motor1.com/news/784495/comprar-suv-eco-barato-precio-ebro-s400-19900euros/",
+        "date": "2026-01-17 17:00:01",
+        "sentiment_score": 0.5556455664336681
+    },
+    {
+        "title": "Arbeloa tras los pitos: «Florentino es el hombre más importante del club tras Santiago Bernabéu»",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/01/17/2026011717483049374.jpg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/futbol/arbeloa-pitos-que-van-florentino-es-hombre-mas-importante-club-santiago-bernabeu/20260117175455578544.html",
+        "date": "2026-01-17 16:54:55",
+        "sentiment_score": 0.17603075504302979
+    },
+    {
+        "title": "Seis años sin juicios penales en Vic: \"Muchos abogados han tenido que hacer de taxistas hasta Manresa\"",
+        "image_url": "https://static1.ara.cat/clip/2a56a2f7-b70e-4399-90d8-ad5538eddb34_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "abogados",
+            "han",
+            "tenido",
+            "manresa",
+            "juicios",
+            "anos",
+            "seis",
+            "taxistas",
+            "vic",
+            "penales"
+        ],
+        "link": "https://es.ara.cat/sociedad/justicia/seis-anos-juicios-penales-vic-abogados-han-tenido-taxistas-manresa_1_5620855.html",
+        "date": "2026-01-17 16:52:07",
+        "sentiment_score": -0.4238804429769516
+    },
+    {
+        "title": "Mapa de los asesinatos por encargo en España: de Madrid a Barcelona y Marbella",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/da2327c0-5515-4f0d-b28c-38ccb0ee9dd1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "narcotráfico,asesinatos,barcelona,madrid,valencia,alicante,málaga,guadalquivir,cádiz,sucesos"
+        ],
+        "link": "https://www.elcorreoweb.es/sociedad/2026/01/17/mapa-sicarios-asesinatos-por-encargo-madrid-barcelona-valencia-alicante-cadiz-guadalquivir-125780776.html",
+        "date": "2026-01-17 16:48:45",
+        "sentiment_score": -0.9059211565181613
+    },
+    {
+        "title": "Illa, \"en buen estado\" tras una indisposición haciendo deporte aunque se somete a pruebas",
+        "image_url": "https://www.infobae.com/resizer/v2/ZQADJVQXYNHARC36JDOAANRUBI.jpg?auth=0b6eba15d364ab003e790339a4684e4d3632c71b1a3ea20621d7c0b294fe0ec5&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/17/illa-en-buen-estado-tras-una-indisposicion-haciendo-deporte-aunque-se-somete-a-pruebas/",
+        "date": "2026-01-17 16:46:10",
+        "sentiment_score": -0.07115057110786438
     }
 ];
