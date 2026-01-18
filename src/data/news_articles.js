@@ -1,21 +1,5 @@
 export default [
     {
-        "title": "La volatilidad del bolívar desnuda las dificultades diarias de los venezolanos",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/443b0a803e597edbca9247decd32484954451104w-1200x750-1.jpg",
-        "tags": [
-            "economía",
-            "bolivar",
-            "desnuda",
-            "nacionales",
-            "dificultades",
-            "destacados",
-            "venezolanos"
-        ],
-        "link": "https://lapatilla.com/2026/01/14/la-volatilidad-del-bolivar-desnuda-las-dificultades-diarias-de-los-venezolanos/",
-        "date": "2026-01-14 11:06:29",
-        "sentiment_score": -0.50814338773489
-    },
-    {
         "title": "Nace la Challenge Futura para potenciar la élite sub-23, \"una de las etapas más decisivas del corredor\"",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260114181631_690.jpg",
         "tags": [
@@ -183,22 +167,6 @@ export default [
         "link": "https://www.europapress.es/catalunya/noticia-amtu-atm-govern-lanzan-social-unificar-titulos-transporte-bonificados-20260114181157.html",
         "date": "2026-01-14 17:11:57",
         "sentiment_score": 0.41044313088059425
-    },
-    {
-        "title": "La volatilidad del bolívar desnuda las dificultades diarias de los venezolanos",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/443b0a803e597edbca9247decd32484954451104w-1200x750-1.jpg",
-        "tags": [
-            "economía",
-            "bolivar",
-            "desnuda",
-            "nacionales",
-            "dificultades",
-            "destacados",
-            "venezolanos"
-        ],
-        "link": "https://lapatilla.com/2026/01/14/la-volatilidad-del-bolivar-desnuda-las-dificultades-diarias-de-los-venezolanos/",
-        "date": "2026-01-14 11:06:29",
-        "sentiment_score": -0.5081448256969452
     },
     {
         "title": "Copa del Rey: ¡Rídiculo! Vallejo llora por eliminar el Real Madrid",
@@ -2733,5 +2701,219 @@ export default [
         "link": "https://www.informe21.com/post/lo-mas-viral-de-la-semana-julio-iglesias-niega-acusaciones-de-agresi%C3%B3n-sexual",
         "date": "2026-01-17 19:45:34",
         "sentiment_score": -0.7767717130482197
+    },
+    {
+        "title": "¿Bolaños candidato a alcalde? La fragilidad de Reyes Maroto alimenta la operación de recambio en Madrid",
+        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744093164_260957893_1706x960.jpg",
+        "tags": [
+            "reyes maroto",
+            "félix bolaños garcía",
+            "josé luis martínez almeida",
+            "madrid",
+            "política",
+            "óscar lópez",
+            "psm-psoe"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20260118/bolanos-candidato-alcalde-fragilidad-reyes-maroto-alimenta-operacion-recambio-madrid/1003744092490_0.html",
+        "date": "2026-01-18 02:06:13",
+        "sentiment_score": -0.1590404510498047
+    },
+    {
+        "title": "Mañueco o el arte de salir airoso de la primera coalición con Vox: blinda la hegemonía del PP y los sondeos respaldan su gestión",
+        "image_url": "https://s3.elespanol.com/2026/01/17/actualidad/1003744093880_260967829_1706x960.jpg",
+        "tags": [
+            "elecciones castilla y león",
+            "política castilla y león",
+            "junta de castilla y león",
+            "alfonso fernández mañueco",
+            "política",
+            "región",
+            "partido popular (pp)",
+            "partido popular de castilla y león"
+        ],
+        "link": "https://www.elespanol.com/castilla-y-leon/region/20260118/manueco-arte-salir-airoso-primera-coalicion-vox-blinda-hegemonia-pp-sondeos-respaldan-gestion/1003744093545_0.html",
+        "date": "2026-01-18 02:05:38",
+        "sentiment_score": 0.4655204862356186
+    },
+    {
+        "title": "Pere Navarro, el 'inquisidor' de la DGT que obliga a llevar la V16 y no quiere que uses el coche: \"¿Tienes prisa? Pide un Uber\"",
+        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744092880_260953388_1706x960.jpg",
+        "tags": [
+            "tráfico",
+            "porfolio",
+            "dgt dirección general de tráfico",
+            "reportajes",
+            "industria automovilística",
+            "movilidad",
+            "vehículos"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260118/pere-navarro-inquisidor-dgt-obliga-llevar-v16-no-quiere-uses-coche-prisa-pide-uber/1003744092181_0.html",
+        "date": "2026-01-18 01:06:01",
+        "sentiment_score": 0.0776856392621994
+    },
+    {
+        "title": "Real Madrid se sobrepuso a la avalancha de abucheos en el Bernabéu",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/01/REal-Madrid.jpg",
+        "tags": [
+            "abucheos",
+            "real madrid",
+            "17ene",
+            "deportes"
+        ],
+        "link": "https://laverdaddemonagas.com/2026/01/17/real-madrid-bernabeu/",
+        "date": "2026-01-18 00:38:56",
+        "sentiment_score": -0.25845643877983093
+    },
+    {
+        "title": "El Bernabéu afina su punto de mira: el juicio público a Vinicius y el indulto a los canteranos y a Kylian Mbappé",
+        "image_url": "https://s3.elespanol.com/2026/01/17/actualidad/1003744093832_260967183_1706x960.jpg",
+        "tags": [
+            "jude bellingham",
+            "fútbol",
+            "real madrid cf",
+            "federico valverde",
+            "álvaro arbeloa",
+            "vinícius júnior",
+            "deportes"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20260118/bernabeu-afina-punto-mira-juicio-publico-vinicius-indulto-canteranos-kylian-mbappe/1003744093707_0.html",
+        "date": "2026-01-18 00:34:55",
+        "sentiment_score": 0.5172077268362045
+    },
+    {
+        "title": "Las portadas de una \"bronca histórica\" al Real Madrid y a Florentino en el Bernabéu",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
+        "tags": [
+            "la liga 2025/2026",
+            "football"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/portadas-prensa-deportiva-principales-medios-naciones-internacionales-hoy-domingo-18-de-enero_sto23260197/story.shtml",
+        "date": "2026-01-18 00:25:30",
+        "sentiment_score": -0.6882192678749561
+    },
+    {
+        "title": "17 ENE 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/17-ene-2026-tramo-final-juego-20260118_3288983.html",
+        "date": "2026-01-18 00:20:00",
+        "sentiment_score": -0.05295535922050476
+    },
+    {
+        "title": "Jordi Évole: \"Iñaki Urdangarín fue una cabeza de turco. Pasó de ser el yerno perfecto de España a alguien vilipendiado\"",
+        "image_url": "https://s3.elespanol.com/2026/01/15/bluper/1003744091400_260935139_1706x960.jpg",
+        "tags": [
+            "programas de televisión",
+            "televisión",
+            "bluper",
+            "jordi évole"
+        ],
+        "link": "https://www.elespanol.com/bluper/20260118/jordi-evole-inaki-urdangarin-cabeza-turco-paso-yerno-perfecto-espana-alguien-vilipendiado/1003744089372_0.html",
+        "date": "2026-01-18 00:13:17",
+        "sentiment_score": -0.11196452379226685
+    },
+    {
+        "title": "Los plazos electorales que marcan los estatutos del Barça para convocar elecciones: 40 días como mínimo",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/16/culemania/palco/1003742724018_15609772_1706x960.jpg",
+        "tags": [
+            "junta directiva del barça",
+            "palco",
+            "elecciones barça",
+            "joan laporta"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260118/plazos-electorales-marcan-estatutos-barca-convocar-elecciones/1003742723859_0.html",
+        "date": "2026-01-17 23:21:51",
+        "sentiment_score": 0.07421357929706573
+    },
+    {
+        "title": "Jaime Liriano (General Mills): “La marca blanca es un claro competidor que nos obliga a ser diferentes con Häagen-Dazs”",
+        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744092496_260948604_1706x960.jpg",
+        "tags": [
+            "general mills",
+            "distribución"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20260118/jaime-liriano-general-mills-marca-blanca-claro-competidor-obliga-diferentes-haagen-dazs/1003744090577_0.html",
+        "date": "2026-01-18 02:04:33",
+        "sentiment_score": 0.16664379090070724
+    },
+    {
+        "title": "Clima en Barcelona: conoce el pronóstico y prepárate antes de salir",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
+        "tags": [
+            "barcelona",
+            "noticias",
+            "tiempo en españa",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/18/clima-en-barcelona-conoce-el-pronostico-y-preparate-antes-de-salir/",
+        "date": "2026-01-18 02:00:34",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Domingo 18 de enero (02:00 GMT)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/18/domingo-18-de-enero-0200-gmt/",
+        "date": "2026-01-18 02:00:17",
+        "sentiment_score": 0.003595098853111267
+    },
+    {
+        "title": "Cuando los Reyes Magos meten la pata... los 'ecommerce' hacen caja",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2026/01/16/149416290-RSX8Rkya7DnzacSmqVwJhmL-1200x840@diario_abc.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.abc.es/economia/reyes-magos-meten-pata-ecommerce-caja-20260116022155-nt.html",
+        "date": "2026-01-18 01:21:55",
+        "sentiment_score": -0.003820747137069702
+    },
+    {
+        "title": "Pere Gimferrer, \"el hombre vestido de seda\": lo que no suele decirse se hace texto en 'Balada', su nuevo libro",
+        "image_url": "https://s3.elespanol.com/2026/01/05/actualidad/1003744078835_260776817_1706x960.jpg",
+        "tags": [
+            "pere gimferrer",
+            "poesía",
+            "ec-critica-letras"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/poesia/20260118/pere-gimferrer-hombre-vestido-seda-no-suele-decirse-hace-texto-balada-nuevo-libro/1003744078766_0.html",
+        "date": "2026-01-18 00:58:14",
+        "sentiment_score": 0.03621281683444977
+    },
+    {
+        "title": "Messi comenzó la pretemporada en Inter Miami y revolucionó las redes: la reacción de Antonela y el mensaje de la MLS",
+        "image_url": "https://www.infobae.com/resizer/v2/MOG4PLGCS5BRNGR2GW3QLKSVBI.jpeg?auth=cd5732c23b4430f1bdc2636964e7f073b90e5b2a0df446c74c7f57184588a085&height=921&smart=true&width=1638",
+        "tags": [
+            "deportes-argentina",
+            "inter miami",
+            "lionel messi",
+            "mls",
+            "javier mascherano",
+            "rodrigo de paul",
+            "jorge mas"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/18/messi-comenzo-la-pretemporada-en-inter-miami-y-revoluciono-las-redes-la-reaccion-de-antonela-y-el-mensaje-de-la-mls/",
+        "date": "2026-01-18 00:08:30",
+        "sentiment_score": 0.785016130656004
+    },
+    {
+        "title": "«Tenemos que conseguir un ecosistema donde se reparta la prosperidad y alcance a las pymes»",
+        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2026/01/17/210831021-knwF--1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "cantabria (provincia)",
+            "foro económico de el diario montañés",
+            "economia",
+            "unión europea",
+            "salario mínimo interprofesional (smi)",
+            "españa",
+            "europa"
+        ],
+        "link": "https://www.eldiariomontanes.es/economia/conseguir-ecosistema-reparta-prosperidad-alcance-pymes-20260118075134-nt.html",
+        "date": "2026-01-18 00:00:00",
+        "sentiment_score": 0.07339222729206085
     }
 ];
