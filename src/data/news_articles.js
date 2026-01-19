@@ -1,148 +1,5 @@
 export default [
     {
-        "title": "Buenas noticias para los funcionarios: van a cobrar un dineral en 2026 por ésta razón",
-        "image_url": "https://okdiario.com/img/2026/01/14/imagen_recortada-14.jpg",
-        "tags": [
-            "funcionarios",
-            "madrid",
-            "okd",
-            "isabel díaz ayuso",
-            "economía"
-        ],
-        "link": "https://okdiario.com/economia/buenas-noticias-funcionarios-van-cobrar-dineral-2026-esta-razon-16071003",
-        "date": "2026-01-15 06:45:15",
-        "sentiment_score": 0.11021434515714645
-    },
-    {
-        "title": "Albacete - Real Madrid, vídeo resumen, goles y mejores jugadas de la eliminación madridista",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5adc3442-6e8f-4c37-b65c-e953aa1495a2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "madrid",
-            "albacete",
-            "real",
-            "video",
-            "resumen"
-        ],
-        "link": "https://www.noticiasdenavarra.com/videos/general/deportes/2026/01/15/albacete-real-madrid-video-resumen-10575091.html",
-        "date": "2026-01-15 06:37:11",
-        "sentiment_score": 0.015372440218925476
-    },
-    {
-        "title": "Arbeloa se estrena con un tremendo batacazo",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5adc3442-6e8f-4c37-b65c-e953aa1495a2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "arbeloa",
-            "tremendo",
-            "batacazo",
-            "estrena"
-        ],
-        "link": "https://www.noticiasdenavarra.com/futbol/2026/01/15/arbeloa-estrena-tremendo-batacazo-10575078.html",
-        "date": "2026-01-15 06:33:59",
-        "sentiment_score": -0.28245192766189575
-    },
-    {
-        "title": "La \"debacle total\" del Real Madrid de Arbeloa en Copa: \"Ridículo espantoso\", \"A la calle\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "copa del rey mapfre 2025/2026"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/copa-del-rey/2025-2026/portadas-eliminacion-real-madrid-albacete-alvaro-arbeloa-ridiculo-espantoso-debacle-total-marca-diario-as-sport-mundo-deportivo-tribuna_sto23259167/story.shtml",
-        "date": "2026-01-15 06:28:55",
-        "sentiment_score": -0.8348346948623657
-    },
-    {
-        "title": "Pepe Mel: el alquimista que convierte promesas en oro",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/01/04/695a235c68fcb.jpeg",
-        "tags": [
-            "ud almería"
-        ],
-        "link": "https://www.lavozdealmeria.com/ud-almeria/426416/pepe-mel-alquimista-convierte-promesas-oro.html",
-        "date": "2026-01-15 06:22:15",
-        "sentiment_score": 0.6319804713129997
-    },
-    {
-        "title": "Embridando",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c544b4d3-6d2e-47fe-b09c-e1df26751dfa_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "embridando"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/opinion/2026/01/15/embridando-10575070.html",
-        "date": "2026-01-15 06:12:44",
-        "sentiment_score": -0.2783209979534149
-    },
-    {
-        "title": "Bebidas sin alcohol: ¿saludables o un riesgo escondido?",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260115071047_690.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-bebidas-alcohol-saludables-riesgo-escondido-20260115071047.html",
-        "date": "2026-01-15 06:10:47",
-        "sentiment_score": -0.6205160841345787
-    },
-    {
-        "title": "Más de 230 efectivos conforman el dispositivo de seguridad para el Racing-Barça",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages02/2025/06/02/802847EB-3908-4542-84F9-9F0EEC952625/aficionados-racing-santander-reciben-equipo-ultimo-partido-liga-sardinero_70.jpg?crop=2048%2C1152%2Cx0%2Cy108&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "noticias",
-            "cantabria",
-            "emisoras",
-            "ondacero"
-        ],
-        "link": "https://www.ondacero.es/emisoras/cantabria/noticias/mas-230-efectivos-conforman-dispositivo-seguridad-racingbarca_2026011569688b01384d9f038d8a4900.html",
-        "date": "2026-01-15 06:36:49",
-        "sentiment_score": 0.047816768288612366
-    },
-    {
-        "title": "El Meteocat lo sentencia: a partir de este día, volverá a llover sin parar en Barcelona por culpa de un temporal",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/12/21/6947991e8badb.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20260115/1002601688/meteocat-sentencia-partir-dia-volvera-llover-parar-barcelona-culpa-temporal-dct.html",
-        "date": "2026-01-15 06:31:51",
-        "sentiment_score": -0.05537347495555878
-    },
-    {
-        "title": "15 años sin humo: la historia de cómo se aprobó la Ley del Tabaco",
-        "image_url": "https://www.elplural.com/uploads/s1/18/89/76/6/dejar-de-fumar_7_480x270.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.elplural.com/sociedad/15-anos-sin-humo-historia-como-aprobo-ley-tabaco_378618102",
-        "date": "2026-01-15 06:15:58",
-        "sentiment_score": -0.09556844830513
-    },
-    {
-        "title": "\"Pensaba llegar a la jubilación con tranquilidad, pero no pudo ser\"",
-        "image_url": "https://static1.ara.cat/clip/8920c460-c9e2-4bc9-9840-ce982d4e608c_16-9-aspect-ratio_default_1055588.jpg",
-        "tags": [
-            "pudo",
-            "llegar",
-            "no",
-            "tranquilidad",
-            "jubilacion",
-            "pensaba"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/pensaba-llegar-jubilacion-tranquilidad-no-pudo_128_5618305.html",
-        "date": "2026-01-15 06:15:38",
-        "sentiment_score": -0.3596213310956955
-    },
-    {
-        "title": "Génova culmina sin fisuras entre barones su estrategia de oposición a la financiación por el 'pecado original' del pacto con ERC",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/839ce9cf-5350-4634-9411-eed0ac4ca112_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "maría jesús montero",
-            "partido popular",
-            "alberto núñez feijóo"
-        ],
-        "link": "https://www.elcorreogallego.es/espana/2026/01/15/genova-culmina-fisuras-barones-estrategia-125698626.html",
-        "date": "2026-01-15 06:13:41",
-        "sentiment_score": -0.22689786553382874
-    },
-    {
         "title": "¿Quiénes eran y qué hacían los agentes cubanos que murieron en Venezuela?",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_180-1.jpg",
         "tags": [
@@ -156,20 +13,6 @@ export default [
         "link": "https://lapatilla.com/2026/01/15/quienes-eran-y-que-hacian-los-agentes-cubanos-que-murieron-en-venezuela/",
         "date": "2026-01-15 15:52:07",
         "sentiment_score": -0.6277549229562283
-    },
-    {
-        "title": "Un agente federal dispara contra inmigrante venezolano en Minneapolis",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/1c/media_thumb-link-4135982.webp?1768457166=",
-        "tags": [
-            "camisaparda",
-            "venezolano",
-            "ice",
-            "disparo",
-            "inmigrante"
-        ],
-        "link": "https://www.meneame.net/story/agente-federal-dispara-contra-inmigrante-venezolano-minneapolis",
-        "date": "2026-01-15 09:05:06",
-        "sentiment_score": -0.8174293823540211
     },
     {
         "title": "Brutal paliza de dos porteros de la discoteca Opium a un cliente: le reventaron el cráneo y está en coma inducido",
@@ -2810,5 +2653,112 @@ export default [
         "link": "https://www.elespanol.com/viajes/20260118/jared-leto-lugar-favorito-espana-marca-diferencia-mejor-amo-agua/1003744089413_0.html",
         "date": "2026-01-18 17:04:43",
         "sentiment_score": 0.8419410064816475
+    },
+    {
+        "title": "El caos devora a un desafortunado Barça en Anoeta",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1148dca0-d49f-4222-a95d-9bfd730a7c30_16-9-aspect-ratio_default_1428114.jpg",
+        "tags": [
+            "fc barcelona",
+            "real sociedad",
+            "laliga"
+        ],
+        "link": "https://www.laopiniondemalaga.es/deportes/2026/01/18/real-sociedad-barcelona-resultado-goles-cronica-resumen-125820957.html",
+        "date": "2026-01-18 22:25:50",
+        "sentiment_score": -0.7134297899901867
+    },
+    {
+        "title": "La Real frena al Barça con un triunfo heroico y polémico",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/18/lamine-kWg-U240905872421ApE-1200x840@RC.JPG",
+        "tags": [
+            "ferran torres",
+            "robert lewandowski",
+            "real sociedad de fútbol",
+            "lamine yamal",
+            "take kubo",
+            "f.c. barcelona"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-primera/real-sociedad-frustra-barca-20260118231854-ntrc.html",
+        "date": "2026-01-18 22:25:11",
+        "sentiment_score": -0.5942642092704773
+    },
+    {
+        "title": "Alvise (SALF) se lanza contra Pilar Alegría en Zaragoza: “La amiguita de Ábalos, Cerdán y Koldo”",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/01/18/2026011823231367703.jpg",
+        "tags": [
+            "elecciones"
+        ],
+        "link": "https://www.aragondigital.es/articulo/elecciones/alvise-salf-lanza-pilar-alegria-zaragoza-amiguita-abalos-cerdan-koldo/20260118232417961464.html",
+        "date": "2026-01-18 22:24:17",
+        "sentiment_score": 0.42120081931352615
+    },
+    {
+        "title": "El Barcelona cae ante la Real Sociedad y su ventaja se reduce a un punto (2-1)",
+        "image_url": "https://static.grupojoly.com/clip/5b5414b6-d8c5-486f-915a-78d68a5e36da_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ventaja",
+            "cae",
+            "sociedad",
+            "barcelona",
+            "real"
+        ],
+        "link": "https://www.granadahoy.com/deportes/barcelona-cae-real-sociedad-ventaja_0_2005675528.html",
+        "date": "2026-01-18 22:24:10",
+        "sentiment_score": -0.4973272457718849
+    },
+    {
+        "title": "El Barcelona cae ante la Real en Anoeta y su ventaja sobre el Real Madrid en la Liga se reduce a un punto (2-1)",
+        "image_url": "https://cflvdg.avoz.es/sc/ak9Tqy7DMCLcLfu86k_202-8Kqk=/768x/2026/01/18/00121768774742175658899/Foto/reu_20260118_214218620.jpg",
+        "tags": [
+            "deportes",
+            "real sociedad",
+            "primera división",
+            "fc barcelona"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/18/barcelona-cae-ante-real-anoeta-ventaja-sobre-real-madrid-liga-reduce-punto-2-1/00031768774755828275560.htm",
+        "date": "2026-01-18 22:22:00",
+        "sentiment_score": 0.1387300044298172
+    },
+    {
+        "title": "El Madrid noquea al Valencia y el Baskonia vuelve a la Copa",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/c807eae9-5e8f-4b7f-9dd28f2cd6aa0565.jpg",
+        "tags": [
+            "liga endesa",
+            "san pablo burgos",
+            "real madrid",
+            "copa del rey",
+            "baskonia",
+            "casademont zaragoza",
+            "valencia basket",
+            "joventut",
+            "sergio scariolo",
+            "ricky rubio",
+            "coliseum",
+            "liga acb",
+            "bàsquet girona",
+            "willy hernangómez",
+            "badalona",
+            "sergio llull",
+            "bilbao basket",
+            "ucam murcia",
+            "euroliga",
+            "fc barcelona"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z571cc808-457a-4f71-86b546b42a54f8dc/202601/el-madrid-noquea-al-valencia-y-el-baskonia-vuelve-a-la-copa",
+        "date": "2026-01-18 22:20:21",
+        "sentiment_score": -0.03961116075515747
+    },
+    {
+        "title": "Rajada descomunal de De Jong contra Gil Manzano: «Te mira con una cara de ‘soy más que tú’, es frustrante»",
+        "image_url": "https://okdiario.com/img/2026/01/18/imagen_recortada-1.jpg",
+        "tags": [
+            "barcelona",
+            "deportes",
+            "real sociedad de fútbol",
+            "fc barcelona",
+            "frenkie de jong"
+        ],
+        "link": "https://okdiario.com/deportes/rajada-descomunal-jong-contra-gil-manzano-te-mira-cara-soy-mas-que-tu-frustrante-16095679",
+        "date": "2026-01-18 22:25:07",
+        "sentiment_score": -0.7729831971228123
     }
 ];
