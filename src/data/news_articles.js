@@ -1,317 +1,5 @@
 export default [
     {
-        "title": "Copa del Rey: ¡Rídiculo! Vallejo llora por eliminar el Real Madrid",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top",
-            "entertainment"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/copa-del-rey-ridiculo-vallejo-llora-por-eliminar-el-real-madrid-202611418220",
-        "date": "2026-01-14 22:22:00",
-        "sentiment_score": 0.11219078674912453
-    },
-    {
-        "title": "En el debut de Arbeloa, el Real Madrid fue eliminado en la Copa del Rey por un equipo de segunda",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/real-madrid-alvaro-arbeloa.jpg",
-        "tags": [
-            "titulares",
-            "albacete balompié sad",
-            "deportes",
-            "españa",
-            "futbol",
-            "real madrid cf",
-            "copa del rey"
-        ],
-        "link": "https://lapatilla.com/2026/01/14/en-el-debut-de-arbeloa-el-real-madrid-fue-eliminado-en-la-copa-del-rey-por-un-equipo-de-segunda/",
-        "date": "2026-01-14 22:19:06",
-        "sentiment_score": -0.49951668083667755
-    },
-    {
-        "title": "Arbeloa queda marcado con un Albacetazo",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/14/arbeloa-albacete-realmadrid-ktz-U240840377211mMC-1200x840@RC.jpg",
-        "tags": [
-            "vinícius",
-            "copa del rey de fútbol",
-            "real madrid"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/copa-del-rey/cronica-albacete-realmadrid-octavos-copa-20260114231746-ntrc.html",
-        "date": "2026-01-14 22:18:29",
-        "sentiment_score": 0.2029290795326233
-    },
-    {
-        "title": "El Real Madrid, eliminado de Copa del Rey",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/14/alvaro-arbeloa-entrenador-del-real-madrid.jpeg",
-        "tags": [
-            "deporte"
-        ],
-        "link": "https://www.huffingtonpost.es/deporte/el-real-madrid-eliminado-copa-rey-f202601.html",
-        "date": "2026-01-14 22:12:35",
-        "sentiment_score": 0.04350690543651581
-    },
-    {
-        "title": "El Albacete elimina al Real Madrid en el debut de Arbeloa (3-2)",
-        "image_url": "https://static.grupojoly.com/clip/6ca7b1f8-b3cb-48ec-ad3f-b374e01358a5_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "copa del rey",
-            "real madrid"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/albacete-elimina-real-madrid-debut-arbeloa-3-2_0_2005644996.html",
-        "date": "2026-01-14 22:12:28",
-        "sentiment_score": -0.8886277861893177
-    },
-    {
-        "title": "Arbeloa se estrena de la mejor manera posible: el Real Madrid, ‘al carrer’",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/14/culemania/real-madrid/1003742723348_15601247_1706x960.jpg",
-        "tags": [
-            "florentino pérez",
-            "real madrid",
-            "copa del rey",
-            "xabi alonso"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260114/arbeloa-estrena-manera-posible-real-madrid-carrer/1003742723341_0.html",
-        "date": "2026-01-14 22:11:18",
-        "sentiment_score": -0.6875024512410164
-    },
-    {
-        "title": "Arbeloa se estrella en su debut con el Real Madrid en Albacete",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1d2af182-7e87-48f6-9097-01c128aff46d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol",
-            "real madrid",
-            "álvaro arbeloa",
-            "copa del rey"
-        ],
-        "link": "https://www.elperiodicodearagon.com/deportes/2026/01/14/albacete-real-madrid-copa-del-rey-resumen-resultado-futbol-125694771.html",
-        "date": "2026-01-14 22:11:18",
-        "sentiment_score": -0.7080531641840935
-    },
-    {
-        "title": "Relaño sentencia al Real Madrid tras la debacle en Copa del Rey ante el Albacete: \"La imagen es catastrófica\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/14/6968137dc771a.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/relano-sentencia-real-madrid-debacle-copa-rey-albacete-imagen-catastrofica-20260114_3286907.html",
-        "date": "2026-01-14 22:11:09",
-        "sentiment_score": -0.15640860795974731
-    },
-    {
-        "title": "Fiscales españoles investigan acusaciones de agresión sexual contra Julio Iglesias",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/fbeed99/2147483647/strip/true/crop/2000x1050+0+145/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffe%2F65%2F04c7e0e540249d6da8a12ad211c4%2F1a3983fb31d04310a3cbb1bb1e215178.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/entretenimiento/articulo/2026-01-14/fiscales-espanoles-investigan-acusaciones-de-agresion-sexual-contra-julio-iglesias",
-        "date": "2026-01-14 22:18:08",
-        "sentiment_score": -0.8128390004858375
-    },
-    {
-        "title": "Álvaro Arbeloa: “Si alguien es responsable de la derrota soy yo”",
-        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/01/arbeloa.jpg",
-        "tags": [
-            "deportes",
-            "primera derrota",
-            "real madrid",
-            "14ene",
-            "arbeloa"
-        ],
-        "link": "https://laverdaddemonagas.com/2026/01/14/alvaro-arbeloa-derrota/",
-        "date": "2026-01-15 02:14:06",
-        "sentiment_score": -0.36146294325590134
-    },
-    {
-        "title": "El mexicano que participó en la histórica eliminación del Real Madrid a manos del Albacete",
-        "image_url": "https://www.infobae.com/resizer/v2/B2LJY7U34JDMBOTFOZBL7UTGV4.JPG?auth=8fb43f88d278d3dc45beeacbaffccccb4ac8d502c9299c36da3ea91229b49b2c&height=3918&smart=true&width=5877",
-        "tags": [
-            "copa del rey",
-            "mexico-noticias",
-            "álvaro arbeloa",
-            "real madrid",
-            "albacete balompié",
-            "mexico-deportes",
-            "jonathan gómez"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2026/01/15/el-mexicano-que-participo-en-la-historica-eliminacion-del-real-madrid-a-manos-del-albacete/",
-        "date": "2026-01-15 02:04:08",
-        "sentiment_score": 0.838950127363205
-    },
-    {
-        "title": "Las noches más amargas del Real Madrid en Copa del Rey: un repaso a sus eliminaciones más recordadas",
-        "image_url": "https://www.infobae.com/resizer/v2/KIOO6Y5UIREHTCMVLNYZ43GAJQ.jpg?auth=e227ec24a91850e398918e826d8631266a4bb8464b1ea4559b9884c4a5ad593b&height=2998&smart=true&width=4496",
-        "tags": [
-            "españa-noticias",
-            "copa del rey",
-            "fútbol",
-            "españa-deportes",
-            "fútbol españa",
-            "real madrid",
-            "albacete"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/01/15/las-noches-mas-amargas-del-real-madrid-en-copa-del-rey-un-repaso-a-sus-eliminaciones-mas-recordadas/",
-        "date": "2026-01-15 02:00:38",
-        "sentiment_score": 0.41271544992923737
-    },
-    {
-        "title": "“Ridículo histórico” y “vergüenza”: las repercusiones de la eliminación del Real Madrid de la Copa del Rey, con dardos a Mastantuono",
-        "image_url": "https://www.infobae.com/resizer/v2/Q2RIXXKCFJABXO2DNGCPYN5ZLM.JPG?auth=27724e6a965ee598ce629ebfc55f2adf735591076a687393fa4c5aaf1f5e6025&height=3361&smart=true&width=5975",
-        "tags": [
-            "franco mastantuono",
-            "deportes-internacional",
-            "vinicius júnior",
-            "real madrid",
-            "deportes-argentina",
-            "copa del rey",
-            "albacete"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/15/ridiculo-historico-y-verguenza-las-repercusiones-de-la-eliminacion-del-real-madrid-de-la-copa-del-rey-con-dardos-a-mastantuono/",
-        "date": "2026-01-15 01:45:50",
-        "sentiment_score": 0.3848055824637413
-    },
-    {
-        "title": "Real Madrid eliminado de Copa del Rey por el Albacete de 2a división en debut del entrenador Arbeloa",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/6d8697a/2147483647/strip/true/crop/3175x1667+0+225/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8e%2Fb0%2Fdf02540a40da94311e507844bbd0%2Ff1c5021f8fec408295ea6db9b6b02608.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-01-14/real-madrid-eliminado-de-copa-del-rey-por-el-albacete-de-2-division-en-debut-del-entrenador-arbeloa",
-        "date": "2026-01-15 00:57:45",
-        "sentiment_score": -0.27122320234775543
-    },
-    {
-        "title": "Este es el motivo por el que dormimos peor que nunca en España aunque sepamos cada vez más sobre el sueño",
-        "image_url": "https://s3.elespanol.com/2016/06/12/actualidad/132001188_129485026_1706x960.jpg",
-        "tags": [
-            "trastornos del sueño",
-            "sueño",
-            "salud",
-            "insomnio"
-        ],
-        "link": "https://www.elespanol.com/ciencia/salud/20260115/motivo-dormimos-peor-nunca-espana-sepamos-vez-sueno/1003744086874_0.html",
-        "date": "2026-01-15 00:40:00",
-        "sentiment_score": -0.8834814950823784
-    },
-    {
-        "title": "14 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/14-ene-2026-partidazo-cope-20260115_3286950.html",
-        "date": "2026-01-15 00:38:42",
-        "sentiment_score": -0.013702496886253357
-    },
-    {
-        "title": "“Hemos tocado fondo estrepitosamente”: Las reacciones de Carvajal y Arbeloa tras la derrota en Albacete",
-        "image_url": "https://www.infobae.com/resizer/v2/AAORF34TDJAOJO4PPMT466INYA.jpg?auth=2f6499e37a84d0727e5516cd7d40279e202306b49d3fb482778956244ed2c824&height=1080&smart=true&width=1920",
-        "tags": [
-            "dani carvajal",
-            "albacete",
-            "fútbol españa",
-            "real madrid",
-            "españa-noticias",
-            "fútbol",
-            "españa-deportes",
-            "álvaro arbeloa"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/01/15/hemos-tocado-fondo-estrepitosamente-las-reacciones-de-carvajal-y-arbeloa-tras-la-derrota-en-albacete/",
-        "date": "2026-01-15 00:27:38",
-        "sentiment_score": 0.43392715975642204
-    },
-    {
-        "title": "Fernando Ranz, country manager de Celonis: “La empresa del futuro estará impulsada por la IA y será componible”",
-        "image_url": "https://revistabyte.es/wp-content/uploads/2026/01/fernando-ranz-country-manager-de-celonis.webp",
-        "tags": [
-            "procesos",
-            "ia",
-            "analitica de datos",
-            "entrevistas tic"
-        ],
-        "link": "https://revistabyte.es/entrevistas/fernando-ranz-celonis/",
-        "date": "2026-01-15 00:25:38",
-        "sentiment_score": 0.7657607682049274
-    },
-    {
-        "title": "José Alberto: \"Será mucho más difícil; sin Barça y Madrid, ¿quién va a Arabia?\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/01/15/6968308922845.r_d.546-305-4535.jpeg",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/jose-alberto-lopez-sera-dificil-barca-madrid-arabia-ano-viene-20260115_3286942.html",
-        "date": "2026-01-15 00:15:01",
-        "sentiment_score": -0.03554156422615051
-    },
-    {
-        "title": "Clima en Barcelona: pronóstico de lluvias y ráfagas de viento",
-        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
-        "tags": [
-            "barcelona",
-            "noticias",
-            "españa sociedad",
-            "tiempo en españa",
-            "españa noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/15/clima-en-barcelona-pronostico-de-lluvias-y-rafagas-de-viento/",
-        "date": "2026-01-15 02:16:15",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "El PSOE, el PP y el cine",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pp",
-            "psoe",
-            "cine"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/psoe-pp-cine_0_2005645566.html",
-        "date": "2026-01-15 02:07:19",
-        "sentiment_score": -0.3789524585008621
-    },
-    {
-        "title": "Junts abre la puerta a la quita mientras el Gobierno confía en un giro sobre la financiación",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/15/2026011503251590310.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.mundiario.com/articulo/politica/junts-abre-puerta-quita-mientras-gobierno-confia-giro-financiacion/20260115024714370661.html",
-        "date": "2026-01-15 01:47:14",
-        "sentiment_score": -0.7427232936024666
-    },
-    {
-        "title": "Cara y cruz para las aerolíneas de IAG: Vueling despega con 5.000 M€ e Iberia Express sigue con su futuro en el aire",
-        "image_url": "https://s3.elespanol.com/2026/01/14/actualidad/1003744089515_260913013_1706x960.jpg",
-        "tags": [
-            "turismo",
-            "luis gallego",
-            "iberia",
-            "iag",
-            "vueling"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/turismo/20260115/cara-cruz-aerolineas-iag-vueling-despega-meur-iberia-express-sigue-futuro-aire/1003744089387_0.html",
-        "date": "2026-01-15 01:39:17",
-        "sentiment_score": -0.2678420692682266
-    },
-    {
-        "title": "Dani Carvajal: \"Hemos tocado fondo, hay que dar mucho más\"",
-        "image_url": "https://www.infobae.com/resizer/v2/XBRPP2L3CNDIFB36MCB5ALOYXQ.jpg?auth=c9ab9d35491b0be709a884f120ec0cdb131b5380c973ec47d5e2c2d4759daea1&height=1280&smart=true&width=1920",
-        "tags": [
-            "madrid",
-            "copa del rey",
-            "autocrítica",
-            "dani carvajal",
-            "eliminación",
-            "real madrid",
-            "albacete",
-            "afición",
-            "europapress",
-            "carlos belmonte",
-            "fc barcelona"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/14/dani-carvajal-hemos-tocado-fondo-hay-que-dar-mucho-mas/",
-        "date": "2026-01-15 00:00:54",
-        "sentiment_score": 0.05988961458206177
-    },
-    {
         "title": "Buenas noticias para los funcionarios: van a cobrar un dineral en 2026 por ésta razón",
         "image_url": "https://okdiario.com/img/2026/01/14/imagen_recortada-14.jpg",
         "tags": [
@@ -2884,5 +2572,243 @@ export default [
         "link": "https://lagradaonline.com/javi-hernandez-koleosho-goles-tras-salir-espanyol-mirandes-espanyol/",
         "date": "2026-01-18 06:00:46",
         "sentiment_score": -0.6928733661770821
+    },
+    {
+        "title": "Los pescadores pararán en los puertos y protestarán en Madrid contra la nueva norma de control impuesta por la UE",
+        "image_url": "https://album.mediaset.es/eimg/2026/01/18/huelga-de-pescadores-contra-la-nueva-norma-de-control-impuesta-por-la-ue_817e.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.telecinco.es/noticias/economia/20260118/pescadores-protesta-madrid-paron-norma-control-impuesta-ue_18_018093247.html",
+        "date": "2026-01-18 17:20:57",
+        "sentiment_score": -0.0812322199344635
+    },
+    {
+        "title": "¿Viajas fuera del país? No siempre necesitas comprar dólares: 5 claves financieras para no caer en la bancarrota este verano",
+        "image_url": "https://www.infobae.com/resizer/v2/J3T3VXZ6GVAFFDSTJP3WQ67WRY.jpg?auth=901be2ba820314ea71f036690d36d573086d53a017988e212c8ce7e98ee20bf7&height=816&smart=true&width=1456",
+        "tags": [
+            "peru-economia",
+            "viajes",
+            "dolares",
+            "global66",
+            "comprar dolares",
+            "turismo",
+            "dinero",
+            "vacaciones",
+            "transferencias bancarias",
+            "tipo de cambio"
+        ],
+        "link": "https://www.infobae.com/peru/2026/01/18/viajas-fuera-del-pais-no-siempre-necesitas-comprar-dolares-5-claves-financieras-para-no-caer-en-la-bancarrota-este-verano/",
+        "date": "2026-01-18 17:17:00",
+        "sentiment_score": 0.37837594002485275
+    },
+    {
+        "title": "El Barcelona gana al Alhama en el regreso de Patri; la Real consolida plaza ‘Champions’",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/18/el-barcelona-gana-al-alhama-en-el-regreso-de-patri-la-real-consolida-plaza-champions/",
+        "date": "2026-01-18 17:15:58",
+        "sentiment_score": 0.3490590788424015
+    },
+    {
+        "title": "El Baskonia pulveriza su récord anotador en la primera mitad ante el Manresa",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a6748653-5735-4216-9649-57100e123e8d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "baskonia",
+            "histórico",
+            "acb",
+            "galbiati",
+            "récord",
+            "records",
+            "manresa",
+            "pulveriza"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/01/18/baskonia-pulveriza-records-manresa-galbiati-acb-record-historico-10586049.html",
+        "date": "2026-01-18 17:08:42",
+        "sentiment_score": 0.7604774460196495
+    },
+    {
+        "title": "Un histórico entrenador le cerró la puerta al Real Madrid en medio de la crisis: “No cuenten conmigo”",
+        "image_url": "https://www.infobae.com/resizer/v2/TK6N5EUIBFBQDH35XSDDMIQAIU.JPG?auth=c2d0ab6d9dab23f0fd085a83137447c2d3bdf22d0329bc8a7e54c08e750ddcec&height=1506&smart=true&width=2160",
+        "tags": [
+            "real madrid",
+            "liga de españa",
+            "deportes-internacional",
+            "josé mourinho",
+            "xabi alonso"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/18/un-historico-entrenador-le-cerro-la-puerta-al-real-madrid-en-medio-de-la-crisis-no-cuenten-conmigo/",
+        "date": "2026-01-18 17:08:28",
+        "sentiment_score": -0.061136744916439056
+    },
+    {
+        "title": "Las estadísticas del Albacete - Cádiz",
+        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/canal-amarillo/2026/01/18/WhatsApp%20Image%202026-01-18%20at%2017.32.49-RHljP9RtAvl8aD9igyumEoI-758x531@abc.jpeg",
+        "tags": [
+            "albacete",
+            "estadisticas",
+            "cadiz"
+        ],
+        "link": "https://www.lavozdigital.es/canal-amarillo/noticias-cadiz-cf/estadisticas-albacete-cadiz-20260118171005-div.html",
+        "date": "2026-01-18 17:01:55",
+        "sentiment_score": 0.10885077714920044
+    },
+    {
+        "title": "Una Copa medio vasca en cuartos",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/18/una-copa-medio-vasca-en-cuartos/",
+        "date": "2026-01-18 17:00:38",
+        "sentiment_score": -0.38448265194892883
+    },
+    {
+        "title": "Unicaja logra su cuarto billete seguido para la Copa y defenderá el título en Valencia",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/18/unicaja-logra-su-cuarto-billete-seguido-para-la-copa-y-defendera-el-titulo-en-valencia/",
+        "date": "2026-01-18 17:00:22",
+        "sentiment_score": 0.6856118645519018
+    },
+    {
+        "title": "Feijóo y sus barones se conjuran contra financiación «bilateral» de Sánchez: «Ni nos han dividido ni nos dividirán»",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/01/20260118170855.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "política"
+        ],
+        "link": "https://cronicadecantabria.com/cr/feijo-y-sus-barones-se-conjuran-contra-financiacin-bilateral-de-snchez-ni-nos-han-dividido-ni-nos-dividirn/",
+        "date": "2026-01-18 17:00:03",
+        "sentiment_score": -0.3025809973478317
+    },
+    {
+        "title": "Una red de cercanías a Calamocha o Huesca, Policía autonómica y vivienda:todo el programa del PAR",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/01/18/2026011817474836882.jpg",
+        "tags": [
+            "elecciones de aragón 2026"
+        ],
+        "link": "https://www.aragondigital.es/articulo/elecciones-aragon-2026/red-cercanias-calamocha-huesca-policia-autonomica-vivienda-todo-programa-par/20260118175452961425.html",
+        "date": "2026-01-18 16:54:52",
+        "sentiment_score": 0.05736922100186348
+    },
+    {
+        "title": "Propietarios de Barcelona se concentrarán frente al Congreso contra la ley que paraliza los desahucios",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/18/informacion-municipal/1003742724314_15613288_1706x960.jpg",
+        "tags": [
+            "alquiler vivienda",
+            "viviendas",
+            "el pulso de la ciudad",
+            "vivienda",
+            "okupas"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260118/propietarios-barcelona-concentraran-frente-congreso-ley-paraliza-desahucios/1003742724312_0.html",
+        "date": "2026-01-18 17:18:33",
+        "sentiment_score": -0.6008315235376358
+    },
+    {
+        "title": "95 años de historia y las mejores bravas de España por menos de 4 euros: El pueblo 'oculto' para comer bien y barato",
+        "image_url": "https://s3.elespanol.com/2026/01/13/actualidad/1003744087771_260891726_1706x960.jpg",
+        "tags": [
+            "españa",
+            "barcelona",
+            "destinos",
+            "restaurantes"
+        ],
+        "link": "https://www.elespanol.com/viajes/20260118/anos-historia-mejores-bravas-espana-euros-pueblo-oculto-comer-bien-barato/1003744087763_0.html",
+        "date": "2026-01-18 17:15:42",
+        "sentiment_score": -0.8294825293123722
+    },
+    {
+        "title": "Dos exposiciones, de Olena Mynenko y de Arturo Yelo, inauguran la temporada del Museo Cristóbal Gabarrón",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260118181237_260.jpg",
+        "tags": [
+            "murcia"
+        ],
+        "link": "https://www.europapress.es/murcia/noticia-dos-exposiciones-olena-mynenko-arturo-yelo-inauguran-temporada-museo-cristobal-gabarron-20260118181237.html",
+        "date": "2026-01-18 17:12:37",
+        "sentiment_score": 0.28864844888448715
+    },
+    {
+        "title": "Un experto explica cuánto cuesta mantener la Sagrada Familia abierta: “Vas a flipar”",
+        "image_url": "https://www.infobae.com/resizer/v2/3QWWHYBSPBHYHIOY4ONF2U724M.png?auth=32ceff09b41c93e7093240b8f8c6f9e8c6339ee9220418ae215c27b1f0249369&height=1080&smart=true&width=1920",
+        "tags": [
+            "tiktok españa",
+            "redes sociales",
+            "españa-economia",
+            "españa-noticias",
+            "virales españa",
+            "barcelona",
+            "antonio gaudí",
+            "cataluña",
+            "arquitectura",
+            "sagrada familia"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/18/un-experto-explica-cuanto-cuesta-mantener-la-sagrada-familia-abierta-vas-a-flipar/",
+        "date": "2026-01-18 17:10:13",
+        "sentiment_score": 0.6075369529426098
+    },
+    {
+        "title": "'Aragón, primero', el lema del PAR para las elecciones del 8-F: \"Resume la idea que el partido lleva tiempo defendiendo\"",
+        "image_url": "https://s3.elespanol.com/2026/01/18/actualidad/1003744094183_260971840_1706x960.jpg",
+        "tags": [
+            "partido aragonés regionalista",
+            "actualidad",
+            "aragón"
+        ],
+        "link": "https://www.elespanol.com/aragon/actualidad/20260118/aragon-primero-lema-par-elecciones-resume-idea-partido-lleva-tiempo-defendiendo/1003744094180_0.html",
+        "date": "2026-01-18 17:10:12",
+        "sentiment_score": -0.1485930010676384
+    },
+    {
+        "title": "La gasolina, factor clave en el Aston Martin AMR26 de Fernando Alonso, le provoca el último problema a la Fórmula 1",
+        "image_url": "https://s3.elespanol.com/2025/03/06/deportes/motor/f1/929168112_253689116_1706x960.jpg",
+        "tags": [
+            "fernando alonso",
+            "aston martin f1",
+            "deportes de motor",
+            "f1",
+            "mundial de fórmula 1"
+        ],
+        "link": "https://www.elespanol.com/deportes/motor/f1/20260118/gasolina-factor-clave-aston-martin-amr26-fernando-alonso-provoca-ultimo-problema-formula/1003744094161_0.html",
+        "date": "2026-01-18 17:09:22",
+        "sentiment_score": -0.7220204975455999
+    },
+    {
+        "title": "El millonario patrimonio de Jesús Vázquez a sus 60 años: más de 20 propiedades y varias empresas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ede60903-c097-4b9e-900b-149bf01e869b_16-9-aspect-ratio_default_1427106.jpg",
+        "tags": [
+            "pisos",
+            "empresas",
+            "barcelona",
+            "mercado inmobiliario",
+            "la revuelta",
+            "javier ambrossi",
+            "jesús vázquez",
+            "benidorm fest 2026",
+            "madrid",
+            "david broncano",
+            "mediaset"
+        ],
+        "link": "https://www.elperiodico.com/es/gente/20260118/jesus-vazquez-patrimonio-casas-empresas-madrid-barcelona-presentador-rtve-mediaset-dv-125676297",
+        "date": "2026-01-18 17:06:03",
+        "sentiment_score": 0.07920758426189423
+    },
+    {
+        "title": "Jared Leto (54) sobre su lugar favorito de España que marca la diferencia: 'Esa es la mejor para mí porque amo el agua'",
+        "image_url": "https://s3.elespanol.com/2026/01/14/actualidad/1003744089427_260911903_1706x960.jpg",
+        "tags": [
+            "viajes",
+            "españa",
+            "jared leto",
+            "destinos",
+            "mallorca"
+        ],
+        "link": "https://www.elespanol.com/viajes/20260118/jared-leto-lugar-favorito-espana-marca-diferencia-mejor-amo-agua/1003744089413_0.html",
+        "date": "2026-01-18 17:04:43",
+        "sentiment_score": 0.8419410064816475
     }
 ];
