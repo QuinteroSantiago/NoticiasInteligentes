@@ -1,185 +1,5 @@
 export default [
     {
-        "title": "La reveladora reflexión de Zidane sobre el banquillo del Real Madrid: \"Tenemos que caerles bien\"",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2024/02/27/79D23FDB-AC38-4DB6-A249-1292EB984BFD/zinedine-zidane_98.jpg?crop=3251%2C1829%2Cx0%2Cy170&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "fútbol",
-            "deportes",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/reveladora-reflexion-zidane-banquillo-real-madrid-tenemos-que-caerles-bien_20260116696a71915b0f02269968d922.html",
-        "date": "2026-01-16 17:12:49",
-        "sentiment_score": -0.183134563267231
-    },
-    {
-        "title": "Juan Carlos I será el único miembro de la Familia Real que no asistirá al responso por la princesa Irene de Grecia",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/11/juan-carlos-aniversario-constitucion-1-1440x808.jpg",
-        "tags": [
-            "españa",
-            "juan carlos i",
-            "casa real"
-        ],
-        "link": "https://www.elindependiente.com/espana/2026/01/16/juan-carlos-i-sera-el-unico-miembro-de-la-familia-real-que-no-asistira-al-responso-por-la-princesa-irene-de-grecia/",
-        "date": "2026-01-16 17:10:26",
-        "sentiment_score": 0.23066510260105133
-    },
-    {
-        "title": "El rey emérito no acudirá al funeral de su cuñada por recomendación médica",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/16/1503247836.jpg",
-        "tags": [
-            "juan carlos i de españa",
-            "sofía de grecia",
-            "sofía de borbón ortiz",
-            "irene de grecia",
-            "princesa leonor de borbón",
-            "letizia ortiz rocasolano"
-        ],
-        "link": "https://www.ideal.es/gente-estilo/rey-emerito-acudira-funeral-cunada-recomendacion-medica-20260116180959-ntrc.html",
-        "date": "2026-01-16 17:10:01",
-        "sentiment_score": -0.6596464775502682
-    },
-    {
-        "title": "Dro, a punto de marcharse ya del Barça",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/61bf49b9-4955-4312-8318-1f5b784911de_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "hansi flick"
-        ],
-        "link": "https://www.elperiodico.com/es/deportes/20260116/dro-paso-marcharse-barcelona-125765375",
-        "date": "2026-01-16 17:04:34",
-        "sentiment_score": -0.8801405047997832
-    },
-    {
-        "title": "El Ayuntamiento de Lorca tratará de alargar las estancias de los turistas a través de premios",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7099a41a-4fe3-419a-bbb7-832b4a7278f5_16-9-aspect-ratio_default_0_x800y355.jpg",
-        "tags": [
-            "lorca",
-            "municipios",
-            "premios",
-            "turismo",
-            "turistas",
-            "fitur",
-            "ayuntamiento de lorca"
-        ],
-        "link": "https://www.laopiniondemurcia.es/municipios/2026/01/16/ayuntamiento-lorca-sorteos-turistas-fitur-125763482.html",
-        "date": "2026-01-16 17:04:01",
-        "sentiment_score": 0.3605029322206974
-    },
-    {
-        "title": "Chris Pratt protagoniza Sin piedad, el thriller sobre juicios controlados por IA",
-        "image_url": "https://es.gizmodo.com/app/uploads/2026/01/Gizmodo-35-5-1024x683.jpg",
-        "tags": [
-            "io9"
-        ],
-        "link": "https://es.gizmodo.com/chris-pratt-protagoniza-sin-piedad-el-thriller-sobre-juicios-controlados-por-ia-2000215063",
-        "date": "2026-01-16 17:03:30",
-        "sentiment_score": -0.8272397071123123
-    },
-    {
-        "title": "La provincia de Guadalajara, en aviso amarillo por nieve este sábado",
-        "image_url": "http://st1.lacerca.com/imagenes/view/86adec3236a7f44f47e41dc86f29ceaa.jpg",
-        "tags": [
-            "guadalajara",
-            "noticias"
-        ],
-        "link": "https://www.lacerca.com/noticias/guadalajara/provincia-guadalajara-aviso-amarillo-nieve-sabado-798185-1.html",
-        "date": "2026-01-16 17:04:00",
-        "sentiment_score": -0.02536827325820923
-    },
-    {
-        "title": "El Banco de España contará con un centro físico para la educación financiera",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2679309.jpg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.vozpopuli.com/economia/el-banco-de-espana-contara-con-un-centro-fisico-para-la-educacion-financiera.html",
-        "date": "2026-01-16 17:01:26",
-        "sentiment_score": 0.09282280504703522
-    },
-    {
-        "title": "Venus Williams, la campeona que sigue con cuerda con 45 años",
-        "image_url": "https://static1.ara.cat/clip/6373c893-ff73-419c-8028-a2400c0a016c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cuerda",
-            "campeona",
-            "venus",
-            "sigue",
-            "williams",
-            "45",
-            "anos"
-        ],
-        "link": "https://es.ara.cat/deportes/tenis/venus-williams-campeona-sigue-cuerda-45-anos_1_5620071.html",
-        "date": "2026-01-16 17:00:49",
-        "sentiment_score": 0.31194646656513214
-    },
-    {
-        "title": "Flick funde a Lamine Yamal tras decir en noviembre que había que «cuidarle»",
-        "image_url": "https://okdiario.com/img/2025/11/18/gettyimages-2245476094-1.jpg",
-        "tags": [
-            "fútbol",
-            "fc barcelona",
-            "barcelona",
-            "hansi flick",
-            "lamine yamal",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/flick-funde-lamine-yamal-decir-noviembre-que-habia-que-cuidarle-16085814",
-        "date": "2026-01-16 17:00:46",
-        "sentiment_score": -0.3713090270757675
-    },
-    {
-        "title": "Real Madrid - Levante: Horario, posibles onces y dónde ver el partido de LaLiga EA Sports, en directo",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/01/14/86773700-FB89-4103-8963-73107AE2ADC8/vinicius-carlos-belmonte_98.jpg?crop=5669%2C3190%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/real-madrid-levante-horario-posibles-onces-donde-ver-partido-laliga-sports-directo_20260116696a6e9d5b0f02269968d376.html",
-        "date": "2026-01-16 17:00:13",
-        "sentiment_score": 0.06047032028436661
-    },
-    {
-        "title": "La multa a la que podrían enfrentarse los \"bromistas\" como el de Turkish Airlines y su falsa amenaza de bomba",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/16/696a460f620e81-70140067.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.20minutos.es/viajes/actualidad/multa-podrian-enfrentarse-bromistas-turkish-airlines-falsa-amenaza-bomba_6922142_0.html",
-        "date": "2026-01-16 17:00:00",
-        "sentiment_score": -0.8979114573448896
-    },
-    {
-        "title": "Un estudio identifica el nanomensajero que mantiene las células en funcionamiento",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260116175801_690.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-estudio-identifica-nanomensajero-mantiene-celulas-funcionamiento-20260116175801.html",
-        "date": "2026-01-16 16:58:01",
-        "sentiment_score": 0.23067042231559753
-    },
-    {
-        "title": "Así se creó con un móvil la falsa amenaza de bomba del vuelo de Turkish",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/16/696a6b9c28919.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20260116/11441666/asi-creo-movil-falsa-amenaza-bomba-vuelo-turkish.html",
-        "date": "2026-01-16 16:57:06",
-        "sentiment_score": -0.04239341616630554
-    },
-    {
-        "title": "La mayoría de activaciones de planes de Protecció Civil durante 2025 fueron por inundaciones",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260116175428_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-mayoria-activaciones-planes-proteccio-civil-2025-fueron-inundaciones-20260116175428.html",
-        "date": "2026-01-16 16:54:28",
-        "sentiment_score": 0.05203501880168915
-    },
-    {
         "title": "El Madrid arrolla al Barça en la Euroliga impulsado por Garuba y Tavares",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c5027879-47a8-4871-af49-5e8aa2ba4626_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2969,5 +2789,104 @@ export default [
         "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20260120/orquesta-swr-francois-xavier-roth-iluminan-filarmonica-debussy-mozart-ravel/1003744095167_0.html",
         "date": "2026-01-20 00:55:00",
         "sentiment_score": 0.1365082636475563
+    },
+    {
+        "title": "El Real Madrid juega contra el Mónaco... ¿y contra el Bernabéu?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/22bbc1f2-4d0b-4e39-9a4e-82490affac15_16-9-aspect-ratio_default_1428379.jpg",
+        "tags": [
+            "real madrid",
+            "santiago bernabéu",
+            "champions",
+            "kylian mbappé",
+            "álvaro arbeloa"
+        ],
+        "link": "https://www.informacion.es/deportes/2026/01/20/real-madrid-juega-monaco-bernabeu-champions-125865807.html",
+        "date": "2026-01-20 06:57:52",
+        "sentiment_score": 0.032171398401260376
+    },
+    {
+        "title": "El que con fuego juega...",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e7efd0e2-5f96-4d3e-8e55-922d2e1486c5_source-aspect-ratio_default_0.jpeg",
+        "tags": [
+            "juega",
+            "fuego"
+        ],
+        "link": "https://www.deia.eus/opinion/mesa-de-redaccion/2026/01/20/fuego-juega-10591658.html",
+        "date": "2026-01-20 06:46:38",
+        "sentiment_score": -0.2558525502681732
+    },
+    {
+        "title": "El celibato voluntario, la tendencia viral sin trascendencia en la vida de los jóvenes",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/20/el-celibato-voluntario-la-tendencia-viral-sin-trascendencia-en-la-vida-de-los-jovenes/",
+        "date": "2026-01-20 06:45:42",
+        "sentiment_score": -0.3579006716609001
+    },
+    {
+        "title": "Accidente de tren en Adamuz, Córdoba, en directo | Marlaska confirma la localización de tres cadáveres más y 43 denuncias por desaparición",
+        "image_url": "https://s3.elespanol.com/2026/01/19/actualidad/1003744094493_260975384_1706x960.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20260120/ultima-hora-accidente-tren-adamuz-cordoba-directo-marlaska-desaparicion/1003744095974_10.html",
+        "date": "2026-01-20 06:44:30",
+        "sentiment_score": -0.8017420712858438
+    },
+    {
+        "title": "El \"extraño\" accidente de trenes de Adamuz analizado por los sindicatos ferroviarios: \"No hay una explicación fácil ni racional\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2bd23ce8-b9c9-4763-baaa-7b143bf690e9_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "córdoba",
+            "accidentes de tren",
+            "trenes",
+            "accidente de tren córdoba",
+            "sindicatos"
+        ],
+        "link": "https://www.diariodemallorca.es/economia/2026/01/20/extrano-accidente-trenes-adamuz-analizado-125865440.html",
+        "date": "2026-01-20 06:39:40",
+        "sentiment_score": -0.5353112183511257
+    },
+    {
+        "title": "Suspendidas por el temporal las clases en el Alt y el Baix Empordà, la Selva y el Gironès",
+        "image_url": "https://static1.ara.cat/clip/e3aed7d2-dbfa-4afc-bf0a-4e0ae025ce11_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "selva",
+            "suspendidas",
+            "temporal",
+            "baix",
+            "clases",
+            "alt",
+            "girones",
+            "emporda"
+        ],
+        "link": "https://es.ara.cat/sociedad/suspendidas-temporal-clases-alt-baix-emporda-selva-girones_1_5622888.html",
+        "date": "2026-01-20 06:40:49",
+        "sentiment_score": -0.8633431047201157
+    },
+    {
+        "title": "La técnica de decoración japonesa que hace furor en España",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2026/01/20/696f21ea07f51.jpeg",
+        "tags": [
+            "medio ambiente"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/vivir/medio-ambiente/2026/01/20/tecnica-decoracion-japonesa-furor-espana-807180-119.html",
+        "date": "2026-01-20 06:34:40",
+        "sentiment_score": 0.4010777771472931
+    },
+    {
+        "title": "La tragedia del accidente de trenes de Adamuz sacude Huelva: víctimas, desaparecidos y una provincia rota por el dolor",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b7412bcb-a06c-4a24-a1f1-6af7eac923f7_16-9-discover-aspect-ratio_default_0_x1000y500.jpg",
+        "tags": [
+            "huelva",
+            "accidente de tren córdoba",
+            "córdoba",
+            "accidentes de tren"
+        ],
+        "link": "https://www.eldia.es/sociedad/2026/01/20/tragedia-accidente-trenes-adamuz-cordoba-sacude-huelva-125865352.html",
+        "date": "2026-01-20 06:33:21",
+        "sentiment_score": -0.7890976592898369
     }
 ];
