@@ -1,166 +1,5 @@
 export default [
     {
-        "title": "Así es el adiós a Irene de Grecia: capilla ardiente privada en la Zarzuela, oración en Madrid y funeral y entierro en Grecia",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/03/02/reina-sofia.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/gente/asi-es-adios-irene-grecia-capilla-ardiente-privada-zarzuela-oracion-madrid-funeral-entierro-grecia_6921819_0.html",
-        "date": "2026-01-16 06:36:53",
-        "sentiment_score": -0.4482848420739174
-    },
-    {
-        "title": "Las facetas más desconocidas de Irene de Grecia: un novio abogado, trató a Teresa de Calcuta...",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2023/12/20/la-infanta-elena-celeb-48052695.r_d.952-728.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/gente/las-facetas-mas-desconocidas-irene-grecia-tuvo-un-novio-abogado-trato-teresa-calcuta-dono-un-millon-dolares_6921807_0.html",
-        "date": "2026-01-16 06:36:34",
-        "sentiment_score": 0.6398708894848824
-    },
-    {
-        "title": "Banco Santander lanza un fondo para invertir 300 millones en comprar centros y locales comerciales",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8c97a691-cf1a-4026-941b-039b424092af_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sector inmobiliario",
-            "santander",
-            "mercado inmobiliario",
-            "centro comercial",
-            "cnmv",
-            "centros comerciales",
-            "banco santander",
-            "fondos de inversión"
-        ],
-        "link": "https://www.laopiniondemurcia.es/economia/2026/01/16/banco-santander-fondo-centros-comerciales-125739948.html",
-        "date": "2026-01-16 06:07:34",
-        "sentiment_score": 0.4531970154494047
-    },
-    {
-        "title": "Julio Iglesias rompe el silencio: \"No he abusado, coaccionado o faltado al respeto a ninguna mujer\"",
-        "image_url": "https://static1.ara.cat/clip/d28f2ab9-c313-4c45-9d0e-02dfe5718ef4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "rompe",
-            "mujer",
-            "respeto",
-            "abusado",
-            "no",
-            "coaccionado",
-            "silencio",
-            "faltado",
-            "julio",
-            "iglesias",
-            "he"
-        ],
-        "link": "https://es.ara.cat/cultura/julio-iglesias-rompe-silencio-no-he-abusado-coaccionado-faltado-respeto-mujer_1_5619366.html",
-        "date": "2026-01-16 06:35:29",
-        "sentiment_score": -0.9364694198593497
-    },
-    {
-        "title": "'Dentro del sol', el homenaje de Jeremías San Martín a «los amigos surferos que ya no están»",
-        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2026/01/15/jeremias-san-martin-sol%20(2).jpg",
-        "tags": [
-            "sol",
-            "santander",
-            "música",
-            "surf"
-        ],
-        "link": "https://www.eldiariomontanes.es/dmusica/lanzamientos/dentro-sol-homenaje-jeremias-san-martin-amigos-20260116072334-nt.html",
-        "date": "2026-01-16 06:23:35",
-        "sentiment_score": 0.5284553337842226
-    },
-    {
-        "title": "El reto de abordar la muerte con los niños: \"Lo más importantes es que vean lo menos afectada posible su rutina\"",
-        "image_url": "https://album.mediaset.es/eimg/2026/01/15/duelo_47a7.jpg",
-        "tags": [
-            "educación"
-        ],
-        "link": "https://www.telecinco.es/noticias/educacion/20260116/reto-abordar-muerte-ninos-duelo_18_017966890.html",
-        "date": "2026-01-16 06:15:33",
-        "sentiment_score": -0.8873874135315418
-    },
-    {
-        "title": "¿De dónde vienen mis ideas y qué pasa si las cambio?",
-        "image_url": "https://static1.ara.cat/clip/fae6fe11-9b9b-4313-948f-9742604e2922_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "vienen",
-            "pasa",
-            "ideas",
-            "cambio"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/vienen-ideas-pasa-cambio_129_5619361.html",
-        "date": "2026-01-16 06:15:17",
-        "sentiment_score": -0.01205851137638092
-    },
-    {
-        "title": "Daría, española en Suiza: \"Hace años se hizo un referéndum para dar dos días extra de vacaciones y por un 80% salió que no; imagínate si saliese esto en España\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/16/6969d55638218.jpeg",
-        "tags": [
-            "a ciegas"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/a-ciegas/noticias/daria-espanola-suiza-anos-hizo-referendum-dar-dos-dias-extra-vacaciones-80-salio-imaginate-saliese-esto-espana-20260116_3287307.html",
-        "date": "2026-01-16 06:13:06",
-        "sentiment_score": -0.1117401123046875
-    },
-    {
-        "title": "Lo que debes saber hoy, 16 de enero, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/24/vivir-en-barcelona/1003742710519_15443469_1706x960.jpg",
-        "tags": [
-            "transports metropolitans barcelona tmb",
-            "tiempo",
-            "movilidad",
-            "vivir en barcelona",
-            "clima",
-            "metro barcelona",
-            "transporte"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260116/debes-saber-hoy-enero-barcelona/1003742723738_0.html",
-        "date": "2026-01-16 06:10:53",
-        "sentiment_score": -0.8397755175828934
-    },
-    {
-        "title": "3 buenos restaurantes de Barcelona para el fin de semana: Melós, Nobu y Café Video Instan",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0f583683-740e-4a95-8eab-819a4d90de7b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "dónde comer hoy",
-            "gastronomía",
-            "restaurantes barcelona",
-            "restaurante",
-            "barcelona",
-            "hoteles"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260116/buenos-restaurantes-barcelona-melos-nobu-cafe-video-instan-125710511",
-        "date": "2026-01-16 06:01:00",
-        "sentiment_score": -0.2884330675005913
-    },
-    {
-        "title": "Viaje a Idaho 1938 (I)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "idaho",
-            "1938",
-            "viaje",
-            "i"
-        ],
-        "link": "https://www.deia.eus/opinion/2026/01/16/viaje-idaho-1938-i-10578064.html",
-        "date": "2026-01-16 06:00:28",
-        "sentiment_score": -0.44989074766635895
-    },
-    {
-        "title": "El Alavés veta la cesión de Egoitz Muñoz a la Ponferradina",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f1f6f9ea-61ca-4e1f-a14e-3d29df63212c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "egoitz",
-            "veta",
-            "cesion",
-            "munoz",
-            "alaves"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2026/01/16/alaves-veta-cesion-egoitz-munoz-10577688.html",
-        "date": "2026-01-16 06:00:27",
-        "sentiment_score": 0.8366445861756802
-    },
-    {
         "title": "La reveladora reflexión de Zidane sobre el banquillo del Real Madrid: \"Tenemos que caerles bien\"",
         "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2024/02/27/79D23FDB-AC38-4DB6-A249-1292EB984BFD/zinedine-zidane_98.jpg?crop=3251%2C1829%2Cx0%2Cy170&format=webply&height=1069&optimize=low&width=1900",
         "tags": [
@@ -2788,5 +2627,216 @@ export default [
         "link": "https://www.economiadigital.es/empresas/ouigo-suspendio-diciembre-22-de-enero.html",
         "date": "2026-01-19 17:13:47",
         "sentiment_score": 0.17755984142422676
+    },
+    {
+        "title": "Real Madrid-Mónaco: Alineaciones probables, estadísticas y cómo ver por TV y online (21:00)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/06/image-02825dde-53c8-422e-941f-abf76d4b591f-85-2560-1440.jpeg",
+        "tags": [
+            "champions league 2025/2026",
+            "football"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/real-madrid-monaco-alineaciones-probables-previa-estadisticas-horario-como-donde-ver-television-online-streaming-hoy_sto23260898/story.shtml",
+        "date": "2026-01-19 22:22:39",
+        "sentiment_score": 0.03217344917356968
+    },
+    {
+        "title": "Renfe habilita servicios especiales por vía convencional para Granada y Almería tras el accidente",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/01/19/renfe-kiOE-U240995377644oXB-1200x840@Ideal.jpg",
+        "tags": [
+            "renfe",
+            "andalucía",
+            "almería",
+            "granada",
+            "adamuz"
+        ],
+        "link": "https://www.ideal.es/granada/renfe-habilita-servicios-especiales-via-convencional-granada-20260119232125-nt.html",
+        "date": "2026-01-19 22:21:25",
+        "sentiment_score": -0.3827838599681854
+    },
+    {
+        "title": "Precisión quirúrgica y definición de goleador: Nico Paz brilló y convirtió por duplicado en la contundente victoria del Como",
+        "image_url": "https://www.infobae.com/resizer/v2/J3VJUSZJUBCSZHICRXMAUGNQPQ.jpg?auth=bae8d0e68eea70690c549585772ba61269dd261d8a004603675699471ca48fa3&height=1267&smart=true&width=2252",
+        "tags": [
+            "lazio",
+            "como",
+            "serie a",
+            "nico paz",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/19/precision-quirurgica-y-definicion-de-goleador-nico-paz-brillo-y-convirtio-por-duplicado-en-la-contundente-victoria-del-como/",
+        "date": "2026-01-19 22:20:59",
+        "sentiment_score": 0.7996471114456654
+    },
+    {
+        "title": "Akor Adams (Sevilla) llega a los 5 goles con un doblete en Elche",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/19/akor-adams-sevilla-llega-a-los-5-goles-con-un-doblete-en-elche/",
+        "date": "2026-01-19 22:18:54",
+        "sentiment_score": 0.4184619188308716
+    },
+    {
+        "title": "Protestas, una penal dudoso y una afición a punto de explotar. ¿Qué pasó en la final de la AFCON más caótica de la historia?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/01/19/protestas-penal-dudoso-final-afcon-senegal-marruecos-trax/",
+        "date": "2026-01-19 22:03:44",
+        "sentiment_score": -0.9063922632485628
+    },
+    {
+        "title": "0-3. Nico Paz asalta el Olímpico de Roma",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/19/0-3-nico-paz-asalta-el-olimpico-de-roma/",
+        "date": "2026-01-19 22:01:42",
+        "sentiment_score": 0.7002997994422913
+    },
+    {
+        "title": "Ni Via Veneto ni Botafumeiro: el primer restaurante de Barcelona en lucir la Supercopa de España del Barça en su comedor",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/19/culemania/cule-bron/1003742724701_15618161_1706x960.jpg",
+        "tags": [
+            "junta directiva del barça",
+            "supercopa de españa",
+            "bares y restaurantes",
+            "cule-brón"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/cule-bron/20260119/via-veneto-botafumeiro-barcelona-supercopa-espana-barca/1003742724694_0.html",
+        "date": "2026-01-19 21:59:50",
+        "sentiment_score": 0.8451981842517853
+    },
+    {
+        "title": "Óscar Jiménez rescata en una novela la figura del Schindler portugués que salvó a cientos de extremeños",
+        "image_url": "https://s1.ppllstatics.com/hoy/navalmoral/multimedia/2026/01/19/scar%20Jimnez%20con%20libro-kQJF-U240995315245bPH-1200x840@Hoy.jpg",
+        "tags": [
+            "badajoz",
+            "lisboa",
+            "navalmoral de la mata",
+            "extremadura",
+            "portugal"
+        ],
+        "link": "https://navalmoral.hoy.es/oscar-jimenez-rescata-novela-figura-schindler-portugues-20260119225641-nt.html",
+        "date": "2026-01-19 21:56:41",
+        "sentiment_score": -0.7371795829385519
+    },
+    {
+        "title": "La familia de la tragedia, \"muy conocida en Aljaraque por su tienda\", y el \"milagro\" de la niña Cristina: \"Sólo tiene unos puntos en la cabeza\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/68d93e3956b24060cdeac6a6cd11b216/crop/988x18/2809x1839/f/image/jpeg/assets/multimedia/imagenes/2022/03/14/16472689940900.jpg",
+        "tags": [
+            "accidente tren córdoba",
+            "artículos andros lozano",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/01/19/696e68e9e9cf4a35388b459f.html",
+        "date": "2026-01-19 21:56:33",
+        "sentiment_score": -0.76265705563128
+    },
+    {
+        "title": "¿Qué sabemos de la carta del sindicato de maquinistas con relación al accidente de tren en Adamuz?",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/23/media_thumb-link-4137741.webp?1768853706=",
+        "tags": [
+            "maquinistas",
+            "adamuz",
+            "tren",
+            "actualidad",
+            "accidente",
+            "bulos"
+        ],
+        "link": "https://www.meneame.net/story/sabemos-carta-sindicato-maquinistas-relacion-accidente-tren",
+        "date": "2026-01-19 22:20:03",
+        "sentiment_score": -0.7028469163924456
+    },
+    {
+        "title": "Seis acertantes del sorteo de la Bonoloto ganan 30.000 euros cada uno este lunes",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2026/01/05/loteria-general-kgFI-U2407516065596QC-1200x840@Hoy.jpg",
+        "tags": [
+            "bonoloto"
+        ],
+        "link": "https://www.hoy.es/sociedad/seis-acertantes-sorteo-bonoloto-ganan-30000-euros-20260119230905-nt.html",
+        "date": "2026-01-19 22:09:05",
+        "sentiment_score": 0.09563380852341652
+    },
+    {
+        "title": "La Inteligencia Artificial como motor de competitividad",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/868e7ca4-1577-4614-ad91-097c1ff78a67_16-9-discover-aspect-ratio_default_0_x572y214.jpg",
+        "tags": [
+            "inteligencia artificial",
+            "bbva",
+            "barcelona",
+            "innovación",
+            "empresas"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260119/inteligencia-artificial-motor-competitividad-125840619",
+        "date": "2026-01-19 21:59:11",
+        "sentiment_score": 0.7169456444680691
+    },
+    {
+        "title": "ALDI abre este 28 de enero un nuevo establecimiento en el mercado de Montserrat de Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fe2897f2-32b4-4c3a-ab0e-b458d3067f4b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "supermercados",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20260119/aldi-abre-mes-nueva-sede-mercado-montserrat-roquetes-barcelona-125859704",
+        "date": "2026-01-19 21:59:11",
+        "sentiment_score": 0.10848160088062286
+    },
+    {
+        "title": "Una red que va sumando puntos débiles: tres tramos concentran el récord de incidentes y más de la mitad de los precursores de accidentes son ya deformaciones de la vía",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/4b0ab66c35091c52a9f988ef54ff6c02/crop/702x111/2640x2048/f/image/jpeg/assets/multimedia/imagenes/2024/12/15/17342882060591.jpg",
+        "tags": [
+            "artículos marcos iriarte",
+            "accidente tren córdoba",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/economia/2026/01/19/696e316efc6c837d708b4597.html",
+        "date": "2026-01-19 21:59:11",
+        "sentiment_score": -0.882225469686091
+    },
+    {
+        "title": "Los pescadores del Puerto de Barcelona desconvocan la huelga tras el acuerdo con el Ministerio de Agricultura",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/19/actualidad/1003742724529_15615984_1706x960.jpg",
+        "tags": [
+            "vivir en barcelona",
+            "puerto barcelona",
+            "manifestaciones",
+            "port de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260119/pescadores-puerto-barcelona-desconvocan-huelga-acuerdo-ministerio-agricultura/1003742724700_0.html",
+        "date": "2026-01-19 21:56:38",
+        "sentiment_score": 0.32028961181640625
+    },
+    {
+        "title": "El descarrilamiento de Adamuz en Córdoba, el primer accidente mortal en la alta velocidad española en sus 32 años de historia",
+        "image_url": "https://www.infobae.com/resizer/v2/YXHDL6TU6BFJTBMJEXNJC7THYA.jpg?auth=928f17447e3ebd49de1a57913a980153681ec0066184f4636a97c60704988500&height=1080&smart=true&width=1920",
+        "tags": [
+            "accidentes españa",
+            "españa-sociedad",
+            "andalucía",
+            "descarrilamiento trenes adamuz",
+            "córdoba españa",
+            "españa-noticias",
+            "sucesos",
+            "trenes",
+            "sucesos españa"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/19/el-descarrilamiento-de-adamuz-en-cordoba-el-primer-accidente-mortal-en-la-alta-velocidad-espanola-en-sus-32-anos-de-historia/",
+        "date": "2026-01-19 21:49:25",
+        "sentiment_score": -0.851327657699585
+    },
+    {
+        "title": "La NBA contempla a Pau Gasol para un papel clave en su liga europea, según el NYT",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/19/la-nba-contempla-a-pau-gasol-para-un-papel-clave-en-su-liga-europea-segun-el-nyt/",
+        "date": "2026-01-19 21:46:22",
+        "sentiment_score": 0.4538437072187662
     }
 ];
