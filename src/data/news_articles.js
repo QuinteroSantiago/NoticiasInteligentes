@@ -2838,5 +2838,136 @@ export default [
         "link": "https://www.infobae.com/espana/agencias/2026/01/19/la-nba-contempla-a-pau-gasol-para-un-papel-clave-en-su-liga-europea-segun-el-nyt/",
         "date": "2026-01-19 21:46:22",
         "sentiment_score": 0.4538437072187662
+    },
+    {
+        "title": "Ansu Fati vuelve al Bernabéu con el Mónaco y reaviva su clásico personal",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/06/2025100607213217908.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/ansu-fati-vuelve-bernabeu-monaco-reaviva-clasico-personal/20260120032004371295.html",
+        "date": "2026-01-20 02:20:04",
+        "sentiment_score": 0.04003548622131348
+    },
+    {
+        "title": "La NBA confía a Pau Gasol su liga europea",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/18/2025051805510954321.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/nba-confia-pau-gasol-liga-europea/20260120030215371294.html",
+        "date": "2026-01-20 02:02:15",
+        "sentiment_score": 0.6577543169260025
+    },
+    {
+        "title": "Emprender en la era digital: cómo la tecnología ofrece nuevas oportunidades",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/41a94a57-e670-4dc6-8176-ab6fd7aefd2d_16-9-aspect-ratio_default_0_x1024y384.jpg",
+        "tags": [
+            "crecimiento",
+            "españa",
+            "gestora",
+            "formación",
+            "economía"
+        ],
+        "link": "https://www.lacronicabadajoz.com/economia/2026/01/20/emprender-digital-tecnologia-ofrece-nuevas-125863032.html",
+        "date": "2026-01-20 02:01:07",
+        "sentiment_score": 0.6251767463982105
+    },
+    {
+        "title": "Un equipo de la Fórmula 1 compartió un video de Soledad Pastorutti y causó furor en las redes sociales",
+        "image_url": "https://www.infobae.com/resizer/v2/ELTO2QJAGZEXPHI7GC6NTSIWOY.gif?auth=21dfb530fc554b2a0c119abae7a43321b172ce3086bf267c6092ec67e6285dec&height=2304&smart=true&width=4096",
+        "tags": [
+            "deportes-argentina",
+            "soledad pastorutti",
+            "racing bulls",
+            "fórmula 1"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/20/un-equipo-de-la-formula-1-compartio-un-video-de-soledad-pastorutti-y-causo-furor-en-las-redes-sociales/",
+        "date": "2026-01-20 02:08:36",
+        "sentiment_score": -0.4066673740744591
+    },
+    {
+        "title": "La pintora Monica Dixon inaugura esposición en Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/615e692a-1325-48bb-ba65-bad206e860ad_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "exposición",
+            "mataró",
+            "luz",
+            "barcelona"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2026/01/20/pintora-monica-dixon-inaugura-esposicion-125817024.html",
+        "date": "2026-01-20 02:00:59",
+        "sentiment_score": -0.056489795446395874
+    },
+    {
+        "title": "Pronóstico del clima en Barcelona este 20 de enero: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
+        "tags": [
+            "tiempo en españa",
+            "barcelona",
+            "noticias",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/20/pronostico-del-clima-en-barcelona-este-20-de-enero-temperatura-lluvias-y-viento/",
+        "date": "2026-01-20 02:00:58",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "España invierte 3 veces menos en su red ferroviaria que hace 17 años mientras los viajeros de alta velocidad se duplican",
+        "image_url": "https://s3.elespanol.com/2026/01/19/actualidad/1003744095810_260991948_1706x960.jpg",
+        "tags": [
+            "observatorio de la movilidad",
+            "liberalización del ferrocarril",
+            "accidentes de tren",
+            "trenes",
+            "adif"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20260120/espana-invierte-veces-red-ferroviaria-hace-anos-viajeros-alta-velocidad-duplican/1003744094538_0.html",
+        "date": "2026-01-20 01:43:13",
+        "sentiment_score": -0.04349619150161743
+    },
+    {
+        "title": "Murió Valentino, maestro que definió la elegancia italiana",
+        "image_url": "https://correodelcaroni.com/wp-content/uploads/2026/01/VALENTINOG_muerte.jpg",
+        "tags": [
+            "roma",
+            "a - modulo 7 - b",
+            "lo actual",
+            "valentino garavani",
+            "giammetti",
+            "lujo",
+            "moda",
+            "divas",
+            "italia",
+            "rojo valentino"
+        ],
+        "link": "https://correodelcaroni.com/sociedad/actual/murio-valentino-maestro-que-definio-la-elegancia-italiana/",
+        "date": "2026-01-20 01:42:51",
+        "sentiment_score": 0.040068358182907104
+    },
+    {
+        "title": "El minuto de silencio de Real Madrid y Barça en sus entrenamientos por la tragedia en Córdoba",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/20/image-520fa609-88f9-4437-a101-50fde81f5792-85-2560-1440.jpeg",
+        "tags": [
+            "lifestyle",
+            "sports",
+            "top"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/minuto-silencio-real-madrid-y-barca-la-tragedia-accidente-tren-cordoba-39-fallecidos_vid60047753/video.shtml",
+        "date": "2026-01-20 01:32:42",
+        "sentiment_score": -0.8150339908897877
+    },
+    {
+        "title": "La Orquesta SWR y François-Xavier Roth iluminan La Filarmónica con Debussy, Mozart y Ravel",
+        "image_url": "https://s3.elespanol.com/2026/01/19/actualidad/1003744095274_260985131_1706x960.jpg",
+        "tags": [
+            "música",
+            "música clásica",
+            "conciertos música"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20260120/orquesta-swr-francois-xavier-roth-iluminan-filarmonica-debussy-mozart-ravel/1003744095167_0.html",
+        "date": "2026-01-20 00:55:00",
+        "sentiment_score": 0.1365082636475563
     }
 ];
