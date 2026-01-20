@@ -1,428 +1,5 @@
 export default [
     {
-        "title": "¿Cuántos petroleros vinculados a Venezuela ha incautado EEUU?",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/descarga-1-1.jpg",
-        "tags": [
-            "incautado",
-            "vinculados",
-            "internacionales",
-            "actualidad",
-            "usa",
-            "petroleros",
-            "venezuela",
-            "nacionales",
-            "eeuu"
-        ],
-        "link": "https://lapatilla.com/2026/01/15/cuantos-petroleros-vinculados-a-venezuela-ha-incautado-eeuu/",
-        "date": "2026-01-15 22:16:12",
-        "sentiment_score": -0.459651093930006
-    },
-    {
-        "title": "El Valencia CF se toma una 'Copa' de oxígeno y accede a los cuartos de final",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/13834c77-8729-4b6a-bfcc-e800d37935c0_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "cartagena",
-            "la liga",
-            "burgos",
-            "valencia cf",
-            "el valencia"
-        ],
-        "link": "https://www.levante-emv.com/valencia-cf/2026/01/15/valencia-cf-toma-copa-oxigeno-125734012.html",
-        "date": "2026-01-15 22:18:25",
-        "sentiment_score": 0.32624681293964386
-    },
-    {
-        "title": "Sanidad publica las listas definitivas del MIR 2026 a sólo una semana del examen con un récord de 16.763 aspirantes",
-        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070302_260670196_1706x960.jpg",
-        "tags": [
-            "sanidad - actualidad sanitaria",
-            "observatorio de la sanidad",
-            "mir"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260115/sanidad-publica-listas-definitivas-mir-solo-semana-examen-record-aspirantes/1003744091743_0.html",
-        "date": "2026-01-15 22:17:53",
-        "sentiment_score": -0.5838393531739712
-    },
-    {
-        "title": "El Barça se invita a otra ronda en la Copa",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/15/Clipboard-0229-kwvC-U2408554901800aD-1200x840@RC.jpg",
-        "tags": [
-            "barcelona",
-            "cronica",
-            "racing"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/copa-del-rey/barca-invita-ronda-copa-20260115231642-ntrc.html",
-        "date": "2026-01-15 22:16:45",
-        "sentiment_score": 0.10818828642368317
-    },
-    {
-        "title": "Estos son los posibles rivales del Athletic en los cuartos de Copa",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9718d5a4-10fb-4c7d-bf39-93f72181f7e9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "rivales",
-            "posibles",
-            "cuartos",
-            "athletic",
-            "son"
-        ],
-        "link": "https://www.deia.eus/athletic/2026/01/15/son-posibles-rivales-athletic-cuartos-10578300.html",
-        "date": "2026-01-15 22:15:11",
-        "sentiment_score": -0.1929052174091339
-    },
-    {
-        "title": "El Barça sufre contra el Racing para seguir vivo en la Copa: victoria y ambientazo en El Sardinero",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/15/culemania/primer-equipo/1003742723720_15605998_1706x960.jpg",
-        "tags": [
-            "primer equipo",
-            "hansi flick",
-            "ferran torres",
-            "copa del rey",
-            "lamine yamal"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260115/barca-sufre-seguir-copa-victoria-ambientazo-sardinero/1003742723702_0.html",
-        "date": "2026-01-15 22:12:54",
-        "sentiment_score": 0.6708680391311646
-    },
-    {
-        "title": "Los posibles rivales del Valencia CF en los cuartos de Copa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a07591e5-2007-4aa0-a390-99b32231d973_16-9-aspect-ratio_default_0_x353y199.jpg",
-        "tags": [
-            "real madrid",
-            "copa del rey",
-            "deportivo de la coruña",
-            "burgos",
-            "valencia cf"
-        ],
-        "link": "https://www.levante-emv.com/valencia-cf/2026/01/15/posibles-rivales-valencia-cf-cuartos-125733984.html",
-        "date": "2026-01-15 22:12:18",
-        "sentiment_score": -0.005240872502326965
-    },
-    {
-        "title": "¿Cuándo es el sorteo de cuartos de la Copa del Rey? Todos los equipos que se han clasificado y bombos",
-        "image_url": "https://okdiario.com/img/2026/01/15/befunky-collage-3.jpg",
-        "tags": [
-            "deportes",
-            "sorteo copa del rey",
-            "fútbol",
-            "copa del rey"
-        ],
-        "link": "https://okdiario.com/deportes/cuando-sorteo-cuartos-copa-del-rey-todos-equipos-que-han-clasificado-bombos-16077644",
-        "date": "2026-01-15 22:11:59",
-        "sentiment_score": 0.12599784135818481
-    },
-    {
-        "title": "El Barça se clasifica ante un rival de Primera",
-        "image_url": "https://static1.ara.cat/clip/5436a245-b102-4b17-810c-1ffb9f99d1e8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barca",
-            "primera",
-            "clasifica",
-            "rival"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/barca-clasifica-rival-primera_1_5619315.html",
-        "date": "2026-01-15 22:09:59",
-        "sentiment_score": 0.3878720849752426
-    },
-    {
-        "title": "Ferran Torres y Lamine acaban con la resistencia del Racing y meten al Barça en los cuartos de final de la Copa del Rey",
-        "image_url": "https://s3.elespanol.com/2026/01/15/actualidad/1003744091744_260939871_1706x960.jpg",
-        "tags": [
-            "fc barcelona",
-            "racing de santander",
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20260115/ferran-torres-lamine-acaban-resistencia-racing-meten-barca-cuartos-final-copa-rey/1003744091734_0.html",
-        "date": "2026-01-15 22:09:00",
-        "sentiment_score": -0.92275102250278
-    },
-    {
-        "title": "Óscar Liria, en su blog: «Me enfrenté a una situación injusta, el sistema no escucha»",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/01/15/imagenblogliria-k7pF-U240857866943cLI-1200x840@Ideal.jpg",
-        "tags": [
-            "óscar liria",
-            "almería",
-            "caso mascarillas",
-            "unidad central operativa (uco)",
-            "guardia civil"
-        ],
-        "link": "https://www.ideal.es/almeria/almeria/oscar-liria-blog-enfrente-situacion-injusta-sistema-20260115232126-nt.html",
-        "date": "2026-01-15 22:21:27",
-        "sentiment_score": -0.6918682586401701
-    },
-    {
-        "title": "Kilian López, de Azor Corporate, creó una nueva empresa en 2022",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/01/16/kilian-kHtE-U240857925648P1C-1200x840@Ideal.jpg",
-        "tags": [
-            "diputación provincial de almería",
-            "caso mascarillas",
-            "almería"
-        ],
-        "link": "https://www.ideal.es/almeria/almeria/kilian-lopez-azor-corporate-creo-nueva-empresa-20260116232114-nt.html",
-        "date": "2026-01-15 22:21:14",
-        "sentiment_score": 0.09033646062016487
-    },
-    {
-        "title": "Adif prevé solucionar \"esta noche\" la avería que causa retrasos en trenes Madrid-Barcelona",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/15/adif-preve-solucionar-esta-noche-la-averia-que-causa-retrasos-en-trenes-madrid-barcelona/",
-        "date": "2026-01-15 22:21:07",
-        "sentiment_score": -0.5688573606312275
-    },
-    {
-        "title": "Películas",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "peliculas"
-        ],
-        "link": "https://www.hoy.es/opinion/manuel-martinez-mediero-badajoz-peliculas-20260116231323-nt.html",
-        "date": "2026-01-15 22:18:37",
-        "sentiment_score": -0.11777040362358093
-    },
-    {
-        "title": "Junqueras se reúne con Foment para intentar despejar sus reparos a la nueva financiación",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/15/junqueras-se-reune-con-foment-para-intentar-despejar-sus-reparos-a-la-nueva-financiacion/",
-        "date": "2026-01-15 22:18:23",
-        "sentiment_score": 0.14832378923892975
-    },
-    {
-        "title": "El navarro Manex Lozano perdona el empate en el descuento y Lamine cierra el pase",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2026/01/15/6969667a2f1a0.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/deportes/futbol/2026/01/15/navarro-manex-lozano-perdona-empate-descuento-lamine-cierra-pase-806764-31.html",
-        "date": "2026-01-15 22:16:32",
-        "sentiment_score": 0.13308940827846527
-    },
-    {
-        "title": "Quique Sánchez Flores sobre Vinicius: \"Creo que no representa los valores del Real Madrid\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/16/quique-sanchez-flores-sobre-vinicius-creo-que-no-representa-los-valores-del-real-madrid/",
-        "date": "2026-01-16 02:06:25",
-        "sentiment_score": -0.7429164741188288
-    },
-    {
-        "title": "Copa del Rey: resultados de los octavos de final y la siguiente fase",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2026/01/15/copa-del-rey-resultados-octavos-de-final-orix/",
-        "date": "2026-01-16 02:03:46",
-        "sentiment_score": 0.8470286726951599
-    },
-    {
-        "title": "La realidad descrita por las denunciantes de Julio Iglesias también ocurre en muchas casas de España: “Te tocan las tetas, te piden favores sexuales, estás totalmente expuesta”",
-        "image_url": "https://www.infobae.com/resizer/v2/2YSFG4MVFBGS5N7R3HHUG57SSE.JPG?auth=6d699f4ef0cba49f64fbd74211fd8b0dcdc6869a1391c43ef975d86012d32d07&height=2306&smart=true&width=4100",
-        "tags": [
-            "trabajo doméstico",
-            "machismo",
-            "españa-sociedad",
-            "inmigración españa",
-            "violencia contra las mujeres",
-            "abusos sexuales",
-            "españa-noticias",
-            "julio iglesias",
-            "migrantes",
-            "violencia de género"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/16/la-realidad-descrita-por-las-denunciantes-de-julio-iglesias-tambien-ocurre-en-muchas-casas-de-espana-te-tocan-las-tetas-te-piden-favores-sexuales-estas-totalmente-expuesta/",
-        "date": "2026-01-16 02:00:00",
-        "sentiment_score": -0.8482568189501762
-    },
-    {
-        "title": "Irene de Grecia, la princesa a la sombra de la reina Sofía: su mote familiar, sus amores y su pasión por el piano",
-        "image_url": "https://s3.elespanol.com/2023/11/24/mujer/royals/812178936_237886347_1706x960.jpg",
-        "tags": [
-            "casas reales",
-            "royals",
-            "reina sofía"
-        ],
-        "link": "https://www.elespanol.com/mujer/royals/20260116/irene-grecia-princesa-sombra-reina-sofia-mote-familiar-amores-pasion-piano/810419299_0.html",
-        "date": "2026-01-16 01:49:32",
-        "sentiment_score": -0.1321915090084076
-    },
-    {
-        "title": "James Rodríguez, reconocido como “el más creativo” con el que jugó un viejo conocido del colombiano en el AS Mónaco",
-        "image_url": "https://www.infobae.com/resizer/v2/FZFQTMS6H5H4JMG4QOWQ7EIEJM.jpg?auth=a06710f83a9779391b7ace4f3f2e27355da1b75411a4864c63f62e209070fd6f&height=540&smart=true&width=960",
-        "tags": [
-            "colombia-deportes",
-            "dimitar berbatov",
-            "as monaco",
-            "james rodríguez"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/01/16/james-rodriguez-reconocido-como-el-mas-creativo-con-el-que-jugo-un-viejo-conocido-del-colombiano-en-el-as-monaco/",
-        "date": "2026-01-16 01:46:29",
-        "sentiment_score": 0.4073607176542282
-    },
-    {
-        "title": "Real Madrid: estos son los candidatos para el banquillo 'merengue'",
-        "image_url": "https://pxcdn.2001online.com/2001/012026/1768521334377/044067e2-eae2-4b63-ac82-9ea48af5dc7b_alta-libre-aspect-ratio_default_0.jpg?ch=675&cw=1200",
-        "tags": [
-            "enzo maresca",
-            "laliga",
-            "álvaro arbeloa",
-            "zinedine zidane",
-            "real madrid",
-            "jürgen klopp",
-            "madrid",
-            "imanol alguacil",
-            "xabi alonso",
-            "florentino pérez"
-        ],
-        "link": "https://2001online.com/deportes/real-madrid-estos-son-los-candidatos-para-el-banquillo-merengue-20261152200",
-        "date": "2026-01-16 01:10:14",
-        "sentiment_score": -0.12850189208984375
-    },
-    {
-        "title": "15 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/15-ene-2026-partidazo-cope-20260116_3287848.html",
-        "date": "2026-01-16 00:42:55",
-        "sentiment_score": -0.08194917440414429
-    },
-    {
-        "title": "3a PARTE | 15 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-15-ene-2026-partidazo-cope-20260116_3287847.html",
-        "date": "2026-01-16 00:42:02",
-        "sentiment_score": 0.012948557734489441
-    },
-    {
-        "title": "La entrañable relación entre el rey Felipe VI e Irene de Grecia, su rebelde 'tía Pecu' que era una segunda madre para él",
-        "image_url": "https://s3.elespanol.com/2026/01/15/actualidad/1003744091200_260932939_1706x960.jpg",
-        "tags": [
-            "reina sofía",
-            "casas reales",
-            "salud",
-            "muertes",
-            "felipe vi"
-        ],
-        "link": "https://www.elespanol.com/corazon/casas-reales/20260116/entranable-relacion-rey-felipe-vi-irene-grecia-rebelde-tia-pecu-segunda-madre/1003743867226_0.html",
-        "date": "2026-01-16 00:33:00",
-        "sentiment_score": -0.915183481760323
-    },
-    {
-        "title": "Machado arrasa a Delcy en las encuestas de una Venezuela bajo terrorismo de Estado",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/217ad697a68e0c989b78e10c771e199a/crop/0x0/2905x1937/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/15/17685071622144.jpg",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://www.elmundo.es/internacional/2026/01/16/696930b7fdddfff7728b4594.html",
-        "date": "2026-01-16 00:32:51",
-        "sentiment_score": -0.7997591216117144
-    },
-    {
-        "title": "El sorprendente elogio de Roger Federer a Lionel Messi: la contundente frase sobre su último Mundial con la selección argentina",
-        "image_url": "https://www.infobae.com/resizer/v2/EPU2B6A4WJHUHGTAJKUQL2O2C4.jpg?auth=ce672db73140e9298eede82c77eede2f6664a45f733e9ea99fcccd386684be93&height=1080&smart=true&width=1920",
-        "tags": [
-            "roger federer",
-            "lionel messi",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/16/el-sorprendente-elogio-de-roger-federer-a-lionel-messi-la-contundente-frase-sobre-su-ultimo-mundial-con-la-seleccion-argentina/",
-        "date": "2026-01-16 02:04:19",
-        "sentiment_score": 0.7300142198801041
-    },
-    {
-        "title": "Eladio Carrión en Granada: el rugido del trap latino en el Palacio de Deportes",
-        "image_url": "https://static.grupojoly.com/clip/f5c237ad-ce7c-49b7-a5ef-04d9eaf42d58_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "conciertos granada"
-        ],
-        "link": "https://www.granadahoy.com/ocio/eladio-carrion-granada-rugido-trap_0_2005648584.html",
-        "date": "2026-01-16 02:00:44",
-        "sentiment_score": 0.8736861478537321
-    },
-    {
-        "title": "Clima: las temperaturas que predominarán este 16 de enero en Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
-        "tags": [
-            "barcelona",
-            "noticias",
-            "tiempo en españa",
-            "españa noticias",
-            "españa sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/16/clima-las-temperaturas-que-predominaran-este-16-de-enero-en-barcelona/",
-        "date": "2026-01-16 02:00:39",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "María Jimena Duzán recordó su vida tras ser cónsul en España y vaticinó el futuro de Vicky Dávila si no es presidenta",
-        "image_url": "https://www.infobae.com/resizer/v2/X43S3BVCJBBY7J7UBZNKHMGKKY.png?auth=c70c981c575eda71594ca0b5219f7dcff1668531c3666e1dc329c901c86f971d&height=566&smart=true&width=1080",
-        "tags": [
-            "vicky dávila",
-            "presidencia colombia 2026",
-            "maría jimena duzán",
-            "cónsul colombia en barcelona",
-            "españa",
-            "periodismo",
-            "colombia-noticias"
-        ],
-        "link": "https://www.infobae.com/colombia/2026/01/16/maria-jimena-duzan-recordo-su-vida-tras-ser-consul-en-espana-y-vaticino-el-futuro-de-vicky-davila-si-no-es-presidenta/",
-        "date": "2026-01-16 01:52:44",
-        "sentiment_score": -0.7396111153066158
-    },
-    {
-        "title": "Le robó la identidad a su amiga para sacar un préstamo millonario, la asesinó y simuló un crimen sexual",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Maria-Angeles-Molina-y-Ana-Paez.jpg",
-        "tags": [
-            "crimen sexual",
-            "titulares",
-            "españa",
-            "amiga",
-            "asesinato",
-            "curiosidades"
-        ],
-        "link": "https://lapatilla.com/2026/01/15/le-robo-la-identidad-a-su-amiga-para-sacar-un-prestamo-millonario-la-asesino-y-simulo-un-crimen-sexual/",
-        "date": "2026-01-16 01:17:16",
-        "sentiment_score": -0.10027169808745384
-    },
-    {
-        "title": "“¡Ay, basta, basta!”: Neymar expuso a sus amigos a la dolorosa rehabilitación que afronta y el video se volvió viral",
-        "image_url": "https://www.infobae.com/resizer/v2/PNVBIVYAYNCSTOXU4RALMZ3WIU.JPG?auth=372389ad262d9e759da5c2106f841dafe3a76cf3afa7d9563dc683db18aea076&height=1080&smart=true&width=1920",
-        "tags": [
-            "deportes-internacional",
-            "neymar",
-            "santos"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/16/ay-basta-basta-neymar-expuso-a-sus-amigos-a-la-dolorosa-rehabilitacion-que-afronta-y-el-video-se-volvio-viral/",
-        "date": "2026-01-16 01:13:18",
-        "sentiment_score": -0.22314834594726562
-    },
-    {
-        "title": "Las 'muchas vidas' de Pasolini, el genio rebelde: un enigma narrado con cercanía",
-        "image_url": "https://s3.elespanol.com/2026/01/15/actualidad/1003744091373_260935299_1706x960.jpg",
-        "tags": [
-            "letras",
-            "pier paolo pasolini",
-            "biografías",
-            "libros",
-            "cine"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/letras/20260116/muchas-vidas-pasolini-genio-rebelde-enigma-narrado-cercania/1003744091355_0.html",
-        "date": "2026-01-16 00:55:00",
-        "sentiment_score": -0.2478364333510399
-    },
-    {
         "title": "Así es el adiós a Irene de Grecia: capilla ardiente privada en la Zarzuela, oración en Madrid y funeral y entierro en Grecia",
         "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/03/02/reina-sofia.jpeg",
         "tags": [
@@ -1177,24 +754,6 @@ export default [
         "link": "https://www.elespanol.com/el-cultural/cine/20260117/cena-protagonista-sorpresa-goya-nominaciones-claves-pelicula-rie-franco/1003744091115_0.html",
         "date": "2026-01-17 00:55:00",
         "sentiment_score": 0.32611408829689026
-    },
-    {
-        "title": "¿Cuántos petroleros vinculados a Venezuela ha incautado EEUU?",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/descarga-1-1.jpg",
-        "tags": [
-            "incautado",
-            "vinculados",
-            "internacionales",
-            "actualidad",
-            "usa",
-            "petroleros",
-            "venezuela",
-            "nacionales",
-            "eeuu"
-        ],
-        "link": "https://lapatilla.com/2026/01/15/cuantos-petroleros-vinculados-a-venezuela-ha-incautado-eeuu/",
-        "date": "2026-01-15 22:16:12",
-        "sentiment_score": -0.4596506170928478
     },
     {
         "title": "El Atlético se aferrra a Sorloth ante el bajón de Julián Alvarez",
@@ -3043,5 +2602,191 @@ export default [
         "link": "https://www.informe21.com/post/lo-mas-viral-de-la-semana-julio-iglesias-niega-acusaciones-de-agresi%C3%B3n-sexual",
         "date": "2026-01-17 19:45:34",
         "sentiment_score": -0.7767715286463499
+    },
+    {
+        "title": "UEFA Champions League: Estos serán los partidos del martes 20 de enero",
+        "image_url": "https://pxcdn.meridiano.net/012026/1768842546039.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/uefa-champions-league-estos-seran-los-partidos-del-martes-20-de-enero-202611913210",
+        "date": "2026-01-19 17:21:00",
+        "sentiment_score": 0.4713116027414799
+    },
+    {
+        "title": "Quesada: \"Tenemos que demostrar que somos un equipo realmente maduro para dar ese salto competitivo\"",
+        "image_url": "https://www.infobae.com/resizer/v2/W7FL52TDYVA7ZA4CFDLXAYXLZQ.jpg?auth=8d871736b2d3ceee35165d33b4b64e744ae4fee7a154ed7c0f535a6f4ce8e972&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/19/quesada-tenemos-que-demostrar-que-somos-un-equipo-realmente-maduro-para-dar-ese-salto-competitivo/",
+        "date": "2026-01-19 17:17:18",
+        "sentiment_score": 0.5726464614272118
+    },
+    {
+        "title": "Misa Rodríguez: \"Veo a mis compañeras muy tranquilas y con la confianza para llegar a una final más\"",
+        "image_url": "https://www.infobae.com/resizer/v2/4PVQAPN67BFMZD63NQTWCMIXPU.jpg?auth=d114b49128c1f76b5c0ac54cec58baae8dd19b6d1fefbea750a50c5f1646d4e9&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/19/misa-rodriguez-veo-a-mis-companeras-muy-tranquilas-y-con-la-confianza-para-llegar-a-una-final-mas/",
+        "date": "2026-01-19 17:16:08",
+        "sentiment_score": 0.8566380571573973
+    },
+    {
+        "title": "Mbappé se solidariza con España tras tragedia ferroviaria: “Hay cosas más importantes que el futbol”",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/WC6I6KZQF5A4TCFJVHYJSTCB5U.png?auth=8753685677ae4cfd9bb947004354ed8073392b0ac242837f640de8ae2114f351&height=924&smart=true&width=1640",
+        "tags": [
+            "kylian mbappé",
+            "real madrid"
+        ],
+        "link": "https://www.metroworldnews.com/deportes/2026/01/19/mbappe-se-solidariza-con-espana-tras-tragedia-ferroviaria-hay-cosas-mas-importantes-que-el-futbol/",
+        "date": "2026-01-19 17:14:46",
+        "sentiment_score": -0.9217997705563903
+    },
+    {
+        "title": "El Albacete sueña con otra noche mágica ante el Barça en cuartos de Copa del Rey",
+        "image_url": "https://www.clm24.es/media/clm24/images/2026/01/19/2026011918103824808.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.clm24.es/articulo/deportes/albacete-balompie-suena-otra-noche-magica-barca-cuartos-copa-rey/20260119181231469301.html",
+        "date": "2026-01-19 17:12:31",
+        "sentiment_score": 0.6901507824659348
+    },
+    {
+        "title": "El Hospital de Ciudad Real lidera la lista de hospitales públicos de C-LM en 2025, según Merco Salud",
+        "image_url": "http://st1.lacerca.com/imagenes/view/1f66596424acb0caa6f20122b2614c32.jpg",
+        "tags": [
+            "noticias",
+            "ciudad real"
+        ],
+        "link": "https://www.lacerca.com/noticias/ciudad_real/hospital-ciudad-real-lidera-lista-hospitales-publicos-salud-798402-1.html",
+        "date": "2026-01-19 17:12:00",
+        "sentiment_score": 0.2310924306511879
+    },
+    {
+        "title": "\"Puede pitar el primer penalti, puede pitar el segundo, pero si pita el primero o el segundo, tiene que pitar el tercero\": clamor contra el arbitraje en Mallorca en la tertulia rojiblanca Minuto 91",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/13/6966b53bd959a.jpeg",
+        "tags": [
+            "deportes vizcaya"
+        ],
+        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-vizcaya/noticias/pitar-primer-penalti-pitar-segundo-pita-primero-segundo-pitar-tercero-clamor-arbitraje-mallorca-tertulia-rojiblanca-minuto-91-20260119_3289861.html",
+        "date": "2026-01-19 17:11:54",
+        "sentiment_score": -0.11911758780479431
+    },
+    {
+        "title": "Calendario oficial de cuartos de final de Copa del Rey 2025-2026: día y horario de todos los partidos",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/01/19/8456E76C-E6FB-4E48-B602-92990FD4478A/javi-villar-celebra-gol-real-madrid-octavos_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/calendario-oficial-cuartos-final-copa-rey-20252026-dia-horario-todos-partidos_20260119696e63d0c48f6b4ee366a4ce.html",
+        "date": "2026-01-19 17:03:12",
+        "sentiment_score": 0.05159145966172218
+    },
+    {
+        "title": "Marruecos anuncia acciones legales por la retirada del campo de Senegal en la final de la Copa África",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260119180144_690.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-marruecos-anuncia-acciones-legales-retirada-campo-senegal-final-copa-africa-20260119180144.html",
+        "date": "2026-01-19 17:01:44",
+        "sentiment_score": -0.1153126135468483
+    },
+    {
+        "title": "Corberán perderá a Tárrega entre 2 y 3 semanas",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/19/696e6159a32e0.jpeg",
+        "tags": [
+            "deportes cope valencia"
+        ],
+        "link": "https://www.cope.es/emisoras/comunidad-valenciana/valencia-provincia/valencia/deportes-cope-valencia/noticias/corberan-perdera-tarrega-2-3-semanas-20260119_3289848.html",
+        "date": "2026-01-19 17:01:20",
+        "sentiment_score": -0.10180968046188354
+    },
+    {
+        "title": "Illa sufre una osteomielitis púbica por un microbio y presenta una evolución clínica \"muy favorable\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260119181950_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-illa-sufre-osteomielitis-pubica-microbio-presenta-evolucion-clinica-muy-favorable-20260119181950.html",
+        "date": "2026-01-19 17:19:50",
+        "sentiment_score": -0.7892963904887438
+    },
+    {
+        "title": "Protección Civil envía una alerta móvil en seis comarcas del litoral catalán por fuerte oleaje",
+        "image_url": "https://www.elplural.com/uploads/s1/21/29/65/2/europapress-4929771-vista-oleaje-playa-barceloneta-17-enero-2023-barcelona-catalunya-espana_7_480x270.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.elplural.com/autonomias/cataluna/proteccion-civil-envia-alerta-movil-seis-comarcas-litoral-catalan-fuerte-oleaje_379012102",
+        "date": "2026-01-19 17:18:40",
+        "sentiment_score": -0.1785111278295517
+    },
+    {
+        "title": "Salvador Illa sufre una osteomielitis púbica: evoluciona bien, pero seguirá ingresado dos semanas",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/01/19/696e66692ba5a.r_d.869-482-8140.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/20260119/salvador-illa-sufre-osteomielitis-pubica-evoluciona-bien-seguira-ingresado-dos-semanas_376033.html",
+        "date": "2026-01-19 17:16:35",
+        "sentiment_score": -0.6480550337582827
+    },
+    {
+        "title": "Barcelona y Palafrugell (Girona) acogen una muestra sobre el universo del fotógrafo Sergio Larrain",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/19/barcelona-y-palafrugell-girona-acogen-una-muestra-sobre-el-universo-del-fotografo-sergio-larrain/",
+        "date": "2026-01-19 17:16:25",
+        "sentiment_score": 0.10169883072376251
+    },
+    {
+        "title": "De paradas decisivas a un regalo muy especial: la noche perfecta de Remiro",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2026/01/19/696e66344203a.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/deportes/futbol/2026/01/19/paradas-decisivas-regalo-especial-noche-perfecta-remiro-807134-31.html",
+        "date": "2026-01-19 17:15:30",
+        "sentiment_score": 0.8306501600891352
+    },
+    {
+        "title": "\"El territorio habla, el comensal guía\": la propuesta gastronómica de Gran Canaria en Madrid Fusión",
+        "image_url": "https://static.eldiario.es/clip/391d0ed9-392f-4f55-b2dd-3d931db0af11_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "propuesta",
+            "habla",
+            "madrid",
+            "fusion",
+            "comensal",
+            "guia",
+            "canaria",
+            "gastronomica",
+            "territorio",
+            "gran"
+        ],
+        "link": "https://www.eldiario.es/canariasahora/sociedad/territorio-habla-comensal-guia-propuesta-gastronomica-gran-canaria-madrid-fusion_1_12919674.html",
+        "date": "2026-01-19 17:14:09",
+        "sentiment_score": 0.037640511989593506
+    },
+    {
+        "title": "Ouigo suspendió en diciembre hasta el 22 de enero 14 servicios entre Madrid y Andalucía",
+        "image_url": "https://www.economiadigital.es/wp-content/uploads/2024/07/tren_anden_inauguracion_linea_ouigo_madrid_albacete_alicante_estacion-1-1000x665.jpg",
+        "tags": [
+            "ouigo",
+            "empresas"
+        ],
+        "link": "https://www.economiadigital.es/empresas/ouigo-suspendio-diciembre-22-de-enero.html",
+        "date": "2026-01-19 17:13:47",
+        "sentiment_score": 0.17755984142422676
     }
 ];
