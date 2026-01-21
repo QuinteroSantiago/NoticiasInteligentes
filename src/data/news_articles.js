@@ -1,231 +1,5 @@
 export default [
     {
-        "title": "ANÁLISIS | El Bernabéu dejó de creer: el Real Madrid, ante su mayor fractura interna en años",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/17/image-937b2cc6-e777-4f69-af68-ade09cc79ab8-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "la liga 2025/2026"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/real-madrid-mayor-fractura-interna-anos-pitos-abucheos-panolada-santiago-bernabeu_sto23260051/story.shtml",
-        "date": "2026-01-17 17:13:07",
-        "sentiment_score": -0.6105208843946457
-    },
-    {
-        "title": "Alquilar en 2026: más caro, menos pisos y fuera del alcance de muchas familias",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/01/17/CB83F304-0779-4A18-8BAC-543ACEDDDB98/alquilar-2026-mas-caro-menos-pisos-fuera-alcance-muchas-familias_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "economía",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/economia/alquilar-2026-mas-caro-menos-pisos-fuera-alcance-muchas-familias_20260117696bb3e35b0f0226996ad727.html",
-        "date": "2026-01-17 17:06:42",
-        "sentiment_score": -0.805440915748477
-    },
-    {
-        "title": "Manolo Lama: \"Escuchar 'Florentino, dimisión' es una queja unánime de la gestión que el presidente del Real Madrid está haciendo con el equipo\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/17/696bbd3bae55a.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/manolo-lama-escuchar-florentino-dimision-queja-unanime-gestion-presidente-real-madrid-haciendo-equipo-20260117_3288918.html",
-        "date": "2026-01-17 17:06:11",
-        "sentiment_score": -0.006841093301773071
-    },
-    {
-        "title": "La estadística que explica la paliza del Real Madrid al Barça de basket en la Euroliga: tres señalados",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/16/culemania/secciones/1003742724035_15611058_1706x960.jpg",
-        "tags": [
-            "fcb basket",
-            "secciones",
-            "xavi pascual",
-            "willy hernangómez"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260117/estadistica-explica-real-madrid-barca-euroliga-senalados/1003742724133_0.html",
-        "date": "2026-01-17 17:05:15",
-        "sentiment_score": -0.1529516875743866
-    },
-    {
-        "title": "El papel de la princesa Leonor y la infanta Sofía, la presencia de otras dinastías reales y el apoyo de Felipe VI: la ceremonia en recuerdo a Irene de Grecia, en imágenes",
-        "image_url": "https://images.ecestaticos.com/fI1Pwqrww9s5fGZdwFoNpcq9JZI=/0x0:800x600/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F167%2Fafb%2Fa7c%2F167afba7c59d5eefd1ee6dae1127b93e.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-01-17/ceremonia-irene-de-grecia-imagenes-papel-leonor_4285864/",
-        "date": "2026-01-17 17:01:00",
-        "sentiment_score": -0.36638250574469566
-    },
-    {
-        "title": "La ceremonia en honor a Irene de Grecia, desde dentro: de las fotos que revelan el lenguaje no verbal de la familia real a la música escogida por Sofía",
-        "image_url": "https://images.ecestaticos.com/BHxQKzXjyOj16xJYRHapGM35wdo=/0x0:1920x1283/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fabb%2Ff7e%2F598%2Fabbf7e598dec7da122249e0e216dea2b.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-01-17/ceremonia-irene-grecia-dentro-intimidad-fotos-lenguaje-corporal-felipe-letizia-sofia-leonor_4285827/",
-        "date": "2026-01-17 17:01:00",
-        "sentiment_score": 0.0683472529053688
-    },
-    {
-        "title": "El Real Madrid en crisis y Kylian Mbappé rompiendo récords",
-        "image_url": "https://i.ytimg.com/vi/6VC5VHn5EQM/mqdefault.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-internacional/el-real-madrid-en-crisis-y-kylian-mbappe-rompiendo-records-202611712590",
-        "date": "2026-01-17 17:00:00",
-        "sentiment_score": 0.7849512249231339
-    },
-    {
-        "title": "¿Presidenta pa’ cuándo?: Hasta 2031 no habrá mujer al frente de Canarias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2ffcdc8d-cc1e-4b4e-ada8-da83b3f0a150_16-9-aspect-ratio_default_0_x358y104.jpg",
-        "tags": [
-            "política",
-            "pp",
-            "canarias",
-            "psoe",
-            "mujeres",
-            "gobierno"
-        ],
-        "link": "https://www.laprovincia.es/canarias/2026/01/17/presidenta-pa-2031-habra-mujer-125789959.html",
-        "date": "2026-01-17 16:58:53",
-        "sentiment_score": -0.36252689361572266
-    },
-    {
-        "title": "Madrid tendrá su propia Feria de Abril a lo grande: casetas, carruajes, famosos y moda flamenca",
-        "image_url": "https://s1.ppllstatics.com/mujerhoy/www/multimedia/2026/01/16/feria-abril-sevilla-R3FoDsrhWfFI5LMH0HqNpWI-758x758@Mujer%20Hoy.jpg",
-        "tags": [
-            "gastronomía",
-            "música"
-        ],
-        "link": "https://www.mujerhoy.com/vivir/ocio/madrid-feria-abril-sevilla-casetas-famosos-musica-gastronomia-20260117000310-nt.html",
-        "date": "2026-01-17 16:56:02",
-        "sentiment_score": 0.10196113586425781
-    },
-    {
-        "title": "Bob Pop opta a la Alcaldía de Barcelona \"sin hada madrina\" y apelando al ADN de BComú",
-        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/01/17/bob-pop-presenta-en-barcelona-su-candidatura-a-las-primarias-de-bcomu.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/noticias/nacional/2026/01/17/bob-pop-opta-alcaldia-barcelona-sin-hada-madrina-apelando-adn-bcomu-1886438.html",
-        "date": "2026-01-17 17:15:34",
-        "sentiment_score": 0.4176337867975235
-    },
-    {
-        "title": "No hace falta viajar 10.000 km para ver Japón: Este barrio recrea la cultura japonesa con restaurantes y tiendas",
-        "image_url": "https://s3.elespanol.com/2026/01/12/actualidad/1003744086813_260880157_1706x960.jpg",
-        "tags": [
-            "españa",
-            "destinos",
-            "viajes",
-            "japón"
-        ],
-        "link": "https://www.elespanol.com/viajes/20260117/no-hace-falta-viajar-km-ver-japon-barrio-recrea-cultura-japonesa-restaurantes-tiendas/1003744086806_0.html",
-        "date": "2026-01-17 17:15:09",
-        "sentiment_score": 0.5301325283944607
-    },
-    {
-        "title": "Director de orquesta Zubin Mehta cancela sus conciertos en Israel en protesta a Netanyahu",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/17/director-de-orquesta-zubin-mehta-cancela-sus-conciertos-en-israel-en-protesta-a-netanyahu/",
-        "date": "2026-01-17 17:06:29",
-        "sentiment_score": -0.853781757876277
-    },
-    {
-        "title": "Trump anuncia aranceles adicionales del 10% en ocho países europeos",
-        "image_url": "https://static1.ara.cat/clip/9d8411fe-3dce-4b91-9144-d1919d36f704_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "trump",
-            "paises",
-            "adicionales",
-            "25",
-            "europeos",
-            "anuncia",
-            "ocho",
-            "aranceles"
-        ],
-        "link": "https://es.ara.cat/internacional/europa/trump-anuncia-aranceles-adicionales-25-ocho-paises-europeos_1_5620888.html",
-        "date": "2026-01-17 17:01:06",
-        "sentiment_score": -0.24649813771247864
-    },
-    {
-        "title": "Illa, «en buen estado» tras una indisposición haciendo deporte aunque se somete a pruebas",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/01/20260117172703.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "política"
-        ],
-        "link": "https://cronicadecantabria.com/cr/illa-en-buen-estado-tras-una-indisposicin-haciendo-deporte-aunque-se-somete-a-pruebas/",
-        "date": "2026-01-17 17:00:04",
-        "sentiment_score": -0.42838938534259796
-    },
-    {
-        "title": "211 CV, híbrido, y desde 19.990 € con descuento, para esta oferta del EBRO s400",
-        "image_url": "https://cdn.motor1.com/images/mgl/lElYlO/s3/ebro-s400-hibrido-2026.jpg",
-        "tags": [
-            "ebro s400",
-            "suv",
-            "suv/todoterreno",
-            "ofertas",
-            "coche chino"
-        ],
-        "link": "https://es.motor1.com/news/784495/comprar-suv-eco-barato-precio-ebro-s400-19900euros/",
-        "date": "2026-01-17 17:00:01",
-        "sentiment_score": 0.5556455664336681
-    },
-    {
-        "title": "Arbeloa tras los pitos: «Florentino es el hombre más importante del club tras Santiago Bernabéu»",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/01/17/2026011717483049374.jpg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/futbol/arbeloa-pitos-que-van-florentino-es-hombre-mas-importante-club-santiago-bernabeu/20260117175455578544.html",
-        "date": "2026-01-17 16:54:55",
-        "sentiment_score": 0.17603075504302979
-    },
-    {
-        "title": "Seis años sin juicios penales en Vic: \"Muchos abogados han tenido que hacer de taxistas hasta Manresa\"",
-        "image_url": "https://static1.ara.cat/clip/2a56a2f7-b70e-4399-90d8-ad5538eddb34_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "abogados",
-            "han",
-            "tenido",
-            "manresa",
-            "juicios",
-            "anos",
-            "seis",
-            "taxistas",
-            "vic",
-            "penales"
-        ],
-        "link": "https://es.ara.cat/sociedad/justicia/seis-anos-juicios-penales-vic-abogados-han-tenido-taxistas-manresa_1_5620855.html",
-        "date": "2026-01-17 16:52:07",
-        "sentiment_score": -0.4238804429769516
-    },
-    {
-        "title": "Mapa de los asesinatos por encargo en España: de Madrid a Barcelona y Marbella",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/da2327c0-5515-4f0d-b28c-38ccb0ee9dd1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "narcotráfico,asesinatos,barcelona,madrid,valencia,alicante,málaga,guadalquivir,cádiz,sucesos"
-        ],
-        "link": "https://www.elcorreoweb.es/sociedad/2026/01/17/mapa-sicarios-asesinatos-por-encargo-madrid-barcelona-valencia-alicante-cadiz-guadalquivir-125780776.html",
-        "date": "2026-01-17 16:48:45",
-        "sentiment_score": -0.9059211565181613
-    },
-    {
-        "title": "Illa, \"en buen estado\" tras una indisposición haciendo deporte aunque se somete a pruebas",
-        "image_url": "https://www.infobae.com/resizer/v2/ZQADJVQXYNHARC36JDOAANRUBI.jpg?auth=0b6eba15d364ab003e790339a4684e4d3632c71b1a3ea20621d7c0b294fe0ec5&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/17/illa-en-buen-estado-tras-una-indisposicion-haciendo-deporte-aunque-se-somete-a-pruebas/",
-        "date": "2026-01-17 16:46:10",
-        "sentiment_score": -0.07115057110786438
-    },
-    {
         "title": "La Familia Real, sin Juan Carlos I, se despide de Irene de Grecia en Madrid",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/17/2026011723071582727.jpg",
         "tags": [
@@ -2928,5 +2702,224 @@ export default [
         "link": "https://www.laopiniondemalaga.es/economia/2026/01/21/ia-transforma-sector-bancario-mayor-125904651.html",
         "date": "2026-01-21 01:59:15",
         "sentiment_score": 0.6294103935360909
+    },
+    {
+        "title": "De presidente a acusado: así fue presenciar el primer día de Nicolás Maduro en una corte de EEUU",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/695c2404421b4.r_d.1189-300.avif",
+        "tags": [
+            "actualidad",
+            "internacionales",
+            "usa",
+            "nicolás maduro",
+            "nacionales",
+            "corte",
+            "presidente a acusado",
+            "eeuu"
+        ],
+        "link": "https://lapatilla.com/2026/01/20/de-presidente-a-acusado-asi-fue-presenciar-el-primer-dia-de-nicolas-maduro-en-una-corte-de-eeuu/",
+        "date": "2026-01-20 10:22:28",
+        "sentiment_score": -0.44481680542230606
+    },
+    {
+        "title": "La flota cántabra se suma al paro nacional del sector contra el nuevo reglamento europeo",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/19/la-flota-cantabra-se-suma-al-paro-nacional-del-sector-contra-el-nuevo-reglamento-europeo/",
+        "date": "2026-01-21 06:47:04",
+        "sentiment_score": -0.6220719665288925
+    },
+    {
+        "title": "Bellingham se desata con un gol al Mónaco y lanza un mensaje a los fans con una celebración provocadora",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/04/02/2025040212371695294.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/deportes/bellingham-desata-gol-monaco-lanza-mensaje-fans-celebracion-provocadora/20260121073500999171.html",
+        "date": "2026-01-21 06:35:00",
+        "sentiment_score": 0.2732880264520645
+    },
+    {
+        "title": "Vinicius se sincera tras su gol al Mónaco: “Los últimos días han sido muy complicados para mí”",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/01/10/2024011009024643970.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/deportes/vinicius-sincera-gol-monaco-ultimos-dias-han-sido-muy-complicados/20260121073200999170.html",
+        "date": "2026-01-21 06:32:00",
+        "sentiment_score": 0.36417651176452637
+    },
+    {
+        "title": "Un correo revela que Ribera Salud reutilizó hasta diez veces catéteres de un solo uso en su hospital público de Elche y ordenó hacerlo en Torrejón",
+        "image_url": "https://static.eldiario.es/clip/298b7d90-5964-4f3e-86bb-e68b8388a441_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ribera",
+            "veces",
+            "publico",
+            "reutilizo",
+            "hospital",
+            "diez",
+            "elche",
+            "revela",
+            "torrejon",
+            "salud",
+            "correo",
+            "hacerlo",
+            "ordeno",
+            "cateteres"
+        ],
+        "link": "https://www.eldiario.es/sociedad/correo-revela-ribera-salud-reutilizo-diez-veces-cateteres-hospital-publico-elche-ordeno-hacerlo-torrejon_1_12909867.html",
+        "date": "2026-01-21 06:30:00",
+        "sentiment_score": -0.10824190080165863
+    },
+    {
+        "title": "El Real Madrid honra a las víctimas de Adamuz antes de su partido de Euroliga",
+        "image_url": "https://www.eldebate.com/files/article_social/files/fp/uploads/2026/01/19/696e507d33421.r_d.704-1061-0.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20260121/real-madrid-honra-victimas-adamuz-antes-partido-euroliga_376506.html",
+        "date": "2026-01-21 06:23:57",
+        "sentiment_score": -0.1568465232849121
+    },
+    {
+        "title": "El Supremo prohíbe a los bancos cobrar intereses de demora y comisión por un mismo descubierto",
+        "image_url": "https://imagenes.businessinsider.es/files/image_1920_1080/uploads/imagenes/2025/10/06/68e3892fd074c.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.businessinsider.es/economia/supremo-prohibe-los-bancos-cobrar-intereses-demora-comision-por-un-mismo-descubierto_6921202_0.html",
+        "date": "2026-01-21 06:20:00",
+        "sentiment_score": -0.690802488476038
+    },
+    {
+        "title": "Marco Otero, posible incorporación para la dirección del Fútbol Base del Espanyol, avanza Javier de Haro",
+        "image_url": "https://lagrada.org/wp-content/uploads/2026/01/marco-otero-750x425.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagrada.org/marco-otero-futbol-base-espanyol/",
+        "date": "2026-01-21 05:58:52",
+        "sentiment_score": 0.03231465816497803
+    },
+    {
+        "title": "Álvaro Arbeloa: Entre pitos y Espartas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d0aec8de-3339-40e9-b330-d9dcd3120c4c_16-9-aspect-ratio_default_0_x600y226.jpg",
+        "tags": [
+            "fútbol",
+            "real madrid",
+            "álvaro arbeloa"
+        ],
+        "link": "https://www.laopiniondemalaga.es/opinion/2026/01/21/alvaro-arbeloa-pitos-espartas-125906490.html",
+        "date": "2026-01-21 05:51:02",
+        "sentiment_score": -0.3931826502084732
+    },
+    {
+        "title": "Condenado a cadena perpetua el asesino del ex primer ministro de Japón Shinzo Abe",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/EuropaPress_7233568_july_12_2022_ottawa_on_canada_japanese_ambassador_to_canada_kanji-scaled.jpg",
+        "tags": [
+            "japón",
+            "internacional"
+        ],
+        "link": "https://www.lanzadigital.com/internacional/condenado-a-cadena-perpetua-el-asesino-del-ex-primer-ministro-de-japon-shinzo-abe/",
+        "date": "2026-01-21 06:50:25",
+        "sentiment_score": -0.7530064322054386
+    },
+    {
+        "title": "Adif mantiene suspendida la circulación de trenes de Rodalies en toda Cataluña",
+        "image_url": "https://images.ecestaticos.com/k1eidHdh5H0pZhE_c7nIocreMi4=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F981%2F8f1%2Fe6b%2F9818f1e6b77a9d451f2160a03eaed139.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.elconfidencial.com/espana/cataluna/2026-01-21/suspension-trenes-cataluna-accidente-1tps_4287909/",
+        "date": "2026-01-21 06:50:00",
+        "sentiment_score": 0.18305852264165878
+    },
+    {
+        "title": "La Generalitat afirma que no se reanudará el servicio de Rodalies hasta que no haya garantías de seguridad",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/33c8ff56-e263-4811-86fd-03448e9012e0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "generalitat",
+            "afirma",
+            "servicio",
+            "seguridad",
+            "rodalies"
+        ],
+        "link": "https://www.deia.eus/sucesos/2026/01/21/generalitat-afirma-servicio-rodalies-seguridad-10597067.html",
+        "date": "2026-01-21 06:48:59",
+        "sentiment_score": -0.8501400109380484
+    },
+    {
+        "title": "España hoy, 21 de enero de 2026: lo que tienes que saber",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/KOLDO_IRYO_AZVI_2001.jpg",
+        "tags": [
+            "venezuela",
+            "china",
+            "bruselas",
+            "españa",
+            "aranceles",
+            "europa",
+            "estados unidos",
+            "israel",
+            "gaza"
+        ],
+        "link": "https://theobjective.com/espana/2026-01-21/espana-hoy-21-de-enero-de-2026-lo-que-tienes-que-saber/",
+        "date": "2026-01-21 06:47:12",
+        "sentiment_score": -0.725441362708807
+    },
+    {
+        "title": "Sílvia Paneque: “Que nadie vaya a buscar el tren a Rodalies”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/21/697073ec61a94.jpeg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.lavanguardia.com/local/catalunya/20260121/11444911/rodalies-restablecera-servicio-garantice-seguridad.html",
+        "date": "2026-01-21 06:46:50",
+        "sentiment_score": 0.10518968105316162
+    },
+    {
+        "title": "Renfe habilita un teléfono para familiares de víctimas del descarrilamiento en Gelida (Barcelona)",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/EuropaPress_7233374_accidente_ferroviario_gelida_descarrilamiento_tren_caida_muro_contencion.jpg",
+        "tags": [
+            "descarrilamiento",
+            "nacional"
+        ],
+        "link": "https://www.lanzadigital.com/nacional/renfe-habilita-un-telefono-para-familiares-de-victimas-del-descarrilamiento-en-gelida-barcelona/",
+        "date": "2026-01-21 06:45:24",
+        "sentiment_score": -0.31528379023075104
+    },
+    {
+        "title": "La Generalitat afirma que no se reanudará el servicio de Rodalies hasta que no haya garantías de seguridad",
+        "image_url": "https://s2.ppllstatics.com/lagacetadesalamanca/www/multimedia/2026/01/21/fallecido-kzeD-U20257334589DaG-758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "mossos d&#039;esquadra",
+            "adif",
+            "renfe"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/nacional/generalitat-afirma-reanudara-servicio-rodalies-garantias-seguridad-20260121074347-nt.html",
+        "date": "2026-01-21 06:45:16",
+        "sentiment_score": -0.26898447424173355
+    },
+    {
+        "title": "Accidente de tren en Adamuz, Córdoba, última hora en directo | Adif levanta la limitación a 160 km/h en la línea de alta velocidad Madrid-Barcelona y la mantiene a 230 km/h en solo cuatro puntos",
+        "image_url": "https://s3.elespanol.com/2026/01/19/actualidad/1003744095492_260987778_1706x960.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/espana/20260121/accidente-tren-adamuz-cordoba-ultima-hora-directo-muertos-heridos-uci/1003744097470_10.html",
+        "date": "2026-01-21 06:44:03",
+        "sentiment_score": -0.49850184470415115
+    },
+    {
+        "title": "Cataluña corta el servicio de Rodalies para analizar el estado de la red tras el accidente mortal de Gelida",
+        "image_url": "https://www.elplural.com/uploads/s1/24/29/07/0/cataluna-corta-el-servicio-de-rodalies-para-analizar-el-estado-de-la-red-tras-el-accidente-mortal-de-gelida-ep_7_480x270.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.elplural.com/autonomias/cataluna/cataluna-corta-servicio-rodalies-analizar-estado-red-accidente-mortal-gelida_379237102",
+        "date": "2026-01-21 06:41:00",
+        "sentiment_score": -0.14604923129081726
     }
 ];
