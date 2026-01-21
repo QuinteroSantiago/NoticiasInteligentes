@@ -2697,5 +2697,236 @@ export default [
         "link": "https://www.elboletin.com/muere-el-maquinista-en-un-accidente-de-rodalies-tras-chocar-contra-un-muro-en-barcelona/",
         "date": "2026-01-20 22:12:08",
         "sentiment_score": -0.8918848531320691
+    },
+    {
+        "title": "Aprende a hacer una marca personal o corporativa: claves que Jesús Alcoba enseñará en el Curso de El Español",
+        "image_url": "https://s3.elespanol.com/2026/01/20/actualidad/1003744097176_261008194_1706x960.jpg",
+        "tags": [
+            "periódico el español",
+            "curso comunicación con ia y creación de contenidos",
+            "ucjc: universidad camilo josé cela",
+            "el español",
+            "formación",
+            "educación",
+            "inteligencia artificial"
+        ],
+        "link": "https://www.elespanol.com/sociedad/educacion/20260121/aprende-hacer-marca-personal-corporativa-claves-jesus-alcoba-ensenara-curso-espanol/1003744097131_0.html",
+        "date": "2026-01-21 02:23:58",
+        "sentiment_score": 0.1932763047516346
+    },
+    {
+        "title": "Delcy mantiene la \"extorsión\" a Edmundo González: liberará a su yerno si él renuncia a volver a Venezuela y al triunfo electoral",
+        "image_url": "https://s3.elespanol.com/2026/01/20/actualidad/1003744097065_261006787_1706x960.jpg",
+        "tags": [
+            "venezuela",
+            "política",
+            "unión europea y cooperación",
+            "edmundo gonzález",
+            "ministerio de asuntos exteriores",
+            "delcy rodríguez"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20260121/delcy-mantiene-extorsion-edmundo-gonzalez-liberara-yerno-renuncia-volver-venezuela-triunfo-electoral/1003744096355_0.html",
+        "date": "2026-01-21 02:23:54",
+        "sentiment_score": -0.31808045506477356
+    },
+    {
+        "title": "El peligro de que ChatGPT y Google te muestren publicidad en sus chatbots de IA: \"Saben más de ti que tú mismo\"",
+        "image_url": "https://s3.elespanol.com/2026/01/20/actualidad/1003744096367_260998395_1706x960.jpg",
+        "tags": [
+            "openai",
+            "tecnología",
+            "google",
+            "chatgpt",
+            "publicidad",
+            "inteligencia artificial"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20260121/peligro-chatgpt-google-muestren-publicidad-chatbots-ia-saben-mismo/1003744094625_0.html",
+        "date": "2026-01-21 02:23:47",
+        "sentiment_score": -0.896859266795218
+    },
+    {
+        "title": "La niña del tren",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tren",
+            "nina"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/nina-tren_0_2005694243.html",
+        "date": "2026-01-21 02:06:55",
+        "sentiment_score": -0.37705880403518677
+    },
+    {
+        "title": "La niña del tren",
+        "image_url": "https://static.grupojoly.com/clip/f35d753c-21a7-43c6-9615-858f39a8648a_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "nina",
+            "tren"
+        ],
+        "link": "https://www.diariodecadiz.es/opinion/articulos/nina-tren_0_2005694221.html",
+        "date": "2026-01-21 02:04:53",
+        "sentiment_score": -0.3809908479452133
+    },
+    {
+        "title": "Vinícius y el Real Madrid se ganaron el indulto del Bernabéu con victoria ante el Mónaco",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/01/Real-Madrid1-1.jpg",
+        "tags": [
+            "real madrid",
+            "20ene",
+            "champions",
+            "deportes"
+        ],
+        "link": "https://laverdaddemonagas.com/2026/01/20/real-madrid-victoria-ante-el-monaco/",
+        "date": "2026-01-21 01:59:15",
+        "sentiment_score": -0.10307605564594269
+    },
+    {
+        "title": "Las portadas de la redención de Vinícius y el Real Madrid: \"Así os quiere el Bernabéu\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "champions league 2025/2026"
+        ],
+        "link": "https://www.eurosport.es/futbol/champions-league/2025-2026/portadas-prensa-deportiva-principales-medios-naciones-internacionales-hoy-miercoles-21-de-enero_sto23261350/story.shtml",
+        "date": "2026-01-21 01:37:11",
+        "sentiment_score": 0.3028605282306671
+    },
+    {
+        "title": "Sin MLS ni club definido: James Rodríguez afronta la cuenta regresiva hacia el Mundial 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/2YW4TLJ33NBQRKQOKDB2223MPQ.JPG?auth=e540e5cb72660e37438029cefeb9046a1e680e901658a5189bb7d084af6505fe&height=2568&smart=true&width=3541",
+        "tags": [
+            "selección colombia",
+            "copa mundial de la fifa 2026",
+            "mls",
+            "colombia-deportes",
+            "austin fc",
+            "james rodríguez"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/01/21/sin-mls-ni-club-definido-james-rodriguez-afronta-la-cuenta-regresiva-hacia-el-mundial-2026/",
+        "date": "2026-01-21 01:15:27",
+        "sentiment_score": -0.7091341689229012
+    },
+    {
+        "title": "10 frases de Mastantuono tras hacer historia en Champions con el Madrid: su enfática reacción a las críticas y la comparación con Messi",
+        "image_url": "https://www.infobae.com/resizer/v2/JOK755XBNVCPXC5TUGHRMA6HZE.jfif?auth=8e7828fbc947c3bb706b72740457358b798f122571f218392c049bd041e34c80&height=1213&smart=true&width=2156",
+        "tags": [
+            "deportes-internacional",
+            "champions league",
+            "real madrid",
+            "franco mastantuono",
+            "mónaco"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/21/10-frases-de-mastantuono-tras-hacer-historia-en-champions-con-el-madrid-su-enfatica-reaccion-a-las-criticas-y-la-comparacion-con-messi/",
+        "date": "2026-01-21 01:13:39",
+        "sentiment_score": -0.09679675102233887
+    },
+    {
+        "title": "Un Fitur más profesional para confirmar el alza del sector en Andalucía",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/01/20/53CC0D03-8166-475A-BB5F-DB0AB285793A/grupo-turistas-malaga_69.jpg?crop=5518%2C3104%2Cx0%2Cy368&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "andalucía",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/andalucia/fitur-mas-profesional-confirmar-alza-sector-andalucia_202601216970396ff21351044da39c4c.html",
+        "date": "2026-01-21 02:26:55",
+        "sentiment_score": -0.8527294443920255
+    },
+    {
+        "title": "La mafia de 4 veinteañeros que sacaba papeles a migrantes con uniones de hecho falsas: 1.000 € a cada española que accedía",
+        "image_url": "https://s3.elespanol.com/2026/01/20/actualidad/1003744097202_261008503_1706x960.jpg",
+        "tags": [
+            "tarragona",
+            "reportajes",
+            "barcelona",
+            "delitos",
+            "fraudes",
+            "mozos de escuadra (mossos d'esquadra)",
+            "policía nacional"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260121/mafia-veinteaneros-sacaba-papeles-migrantes-uniones-hecho-falsas-eur-espanola-accedia/1003744096709_0.html",
+        "date": "2026-01-21 02:23:50",
+        "sentiment_score": -0.6939746737480164
+    },
+    {
+        "title": "Muchos trenes, poca inversión: el aviso mortal de Adamuz a la España de la 'alta velocidad'",
+        "image_url": "https://s3.elespanol.com/2026/01/19/actualidad/1003744095492_260987778_1706x960.jpg",
+        "tags": [
+            "opinión",
+            "tribunas",
+            "renfe",
+            "accidentes",
+            "tribunas de opinión"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20260121/trenes-poca-inversion-aviso-mortal-adamuz-espana-alta-velocidad/1003744097049_12.html",
+        "date": "2026-01-21 02:22:48",
+        "sentiment_score": -0.8883910179138184
+    },
+    {
+        "title": "Adif avisó a los maquinistas antes del accidente de una rotura de vía en un cambio de aguja de la misma línea",
+        "image_url": "https://s3.elespanol.com/2026/01/21/actualidad/1003744097433_261011535_1706x1515.jpg",
+        "tags": [
+            "accidentes de tren",
+            "ministerio de transporte",
+            "gobierno de españa",
+            "adif",
+            "observatorio de la movilidad",
+            "óscar puente santiago",
+            "movilidad y agenda urbana"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20260121/adif-aviso-maquinistas-accidente-rotura-via-cambio-aguja-misma-linea/1003744097366_0.html",
+        "date": "2026-01-21 02:21:10",
+        "sentiment_score": -0.5557820480316877
+    },
+    {
+        "title": "Miércoles, 21 de enero de 2026 (02:00 GMT)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/21/miercoles-21-de-enero-de-2026-0200-gmt/",
+        "date": "2026-01-21 02:16:09",
+        "sentiment_score": -0.008583076298236847
+    },
+    {
+        "title": "¿Cuál es la temperatura promedio en Barcelona?",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
+        "tags": [
+            "tiempo en españa",
+            "noticias",
+            "españa noticias",
+            "españa sociedad",
+            "barcelona"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/21/cual-es-la-temperatura-promedio-en-barcelona/",
+        "date": "2026-01-21 02:15:37",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "El Cursu MIR va tener récor d'alumnos presenciales n'Uviéu: 1.500, y la mayoría de fuera d'Asturies",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b52273e3-5d3a-4fa1-a27d-d2d540f2b543_16-9-aspect-ratio_default_0_x800y400.jpg",
+        "tags": [
+            "mir",
+            "simulacro",
+            "asturias",
+            "médicos"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2026/01/21/cursu-mir-recor-dalumnos-presenciales-125859320.html",
+        "date": "2026-01-21 02:05:33",
+        "sentiment_score": -0.18442480266094208
+    },
+    {
+        "title": "La IA transforma el sector bancario: mayor eficiencia, atención al cliente, autoservicio y personalización",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0534a7af-4572-4c29-9e9e-101c3aa6a499_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "modelos",
+            "economía",
+            "caixabank",
+            "bancos",
+            "ética",
+            "inteligencia",
+            "tecnología"
+        ],
+        "link": "https://www.laopiniondemalaga.es/economia/2026/01/21/ia-transforma-sector-bancario-mayor-125904651.html",
+        "date": "2026-01-21 01:59:15",
+        "sentiment_score": 0.6294103935360909
     }
 ];
