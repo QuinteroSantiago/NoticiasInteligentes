@@ -1,213 +1,5 @@
 export default [
     {
-        "title": "El Atlético se aferrra a Sorloth ante el bajón de Julián Alvarez",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/25/2025042504072539700.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/atletico-encomienda-mejor-version-sorloth-mientras-julian-sigue-aparecer/20260117073335370955.html",
-        "date": "2026-01-17 06:33:35",
-        "sentiment_score": -0.022233501076698303
-    },
-    {
-        "title": "El Burgos denuncia al Valencia por alineación indebida de Umar Sadiq",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/15/2025061511573762669.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/burgos-denuncia-valencia-alineacion-indebida-umar-sadiq/20260117071532370954.html",
-        "date": "2026-01-17 06:15:32",
-        "sentiment_score": -0.6205484643578529
-    },
-    {
-        "title": "Los lugares de memoria democrática: desde cárceles y palacios hasta una mina e islas",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/17/los-lugares-de-memoria-democratica-desde-carceles-y-palacios-hasta-una-mina-e-islas/",
-        "date": "2026-01-17 06:15:25",
-        "sentiment_score": -0.2332986295223236
-    },
-    {
-        "title": "Elon Musk sucumbe: fin a la era del bikini en Grok",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e093e7ba-8091-42b1-890f-e6d9f5537f6b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "xabi alonso",
-            "instagram",
-            "elon musk",
-            "twitter",
-            "florentino pérez",
-            "entender más"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20260117/elon-musk-sucumbe-bikini-grok-125754456",
-        "date": "2026-01-17 06:01:21",
-        "sentiment_score": -0.21221663057804108
-    },
-    {
-        "title": "Un acuerdo útil y clarificador",
-        "image_url": "https://estaticosgn-cdn.deia.eus/gn/public/file/2022/0530/21/logo-editorial-2af8a66.png",
-        "tags": [
-            "util",
-            "acuerdo",
-            "clarificador"
-        ],
-        "link": "https://www.deia.eus/editorial/2026/01/17/acuerdo-util-clarificador-10581634.html",
-        "date": "2026-01-17 06:00:26",
-        "sentiment_score": -0.34399476647377014
-    },
-    {
-        "title": "Bitcoin ya no es el rey: el activo tecnológico que le está robando el protagonismo en 2026",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/01/16/2026011619085547553.jpg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/dinero/bitcoin-es-rey-activo-tecnologico-que-robando-protagonismo-2026/20260117070004998499.html",
-        "date": "2026-01-17 06:00:04",
-        "sentiment_score": 0.13067413866519928
-    },
-    {
-        "title": "Salesianos encara su segunda salida consecutiva",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/10/FotoJet-28-1.jpg",
-        "tags": [
-            "fútbol sala",
-            "deportes",
-            "puertollano",
-            "cd salesianos puertollano fsf",
-            "segunda división femenina"
-        ],
-        "link": "https://www.lanzadigital.com/deportes/futbol-sala/segunda-division-femenina/salesianos-encara-su-segunda-salida-consecutiva/",
-        "date": "2026-01-17 06:00:00",
-        "sentiment_score": 0.022111117839813232
-    },
-    {
-        "title": "El Barça ya supera al Madrid en títulos en este siglo (41-40) y aspira a liderar el cómputo global (103-105)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3695f965-ff5e-4749-b9e2-144b0e4c42a9_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "madrid",
-            "barca",
-            "titulos",
-            "supera",
-            "siglo"
-        ],
-        "link": "https://www.elperiodico.com/es/deportes/20260117/barca-supera-madrid-titulos-siglo-125768282",
-        "date": "2026-01-17 05:59:21",
-        "sentiment_score": -0.08854666352272034
-    },
-    {
-        "title": "Ciudad Real sigue siendo una de las capitales más baratas para alquilar habitación pese al alza del mercado",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/11/Imagen-de-archivo-de-una-vivienda-en-alquiler-en-Ciudad-Real.jpg",
-        "tags": [
-            "ciudad real",
-            "mercado",
-            "vivienda",
-            "provincia de ciudad real",
-            "castilla-la mancha",
-            "capitales",
-            "alquiler de vivienda",
-            "idealista"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/ciudad-real-sigue-siendo-una-de-las-capitales-mas-baratas-para-alquilar-habitacion-pese-al-alza-del-mercado/",
-        "date": "2026-01-17 05:55:03",
-        "sentiment_score": -0.01069563627243042
-    },
-    {
-        "title": "Málaga supera a Madrid y Barcelona en VTC: 2.766 coches en la Costa del Sol, uno por cada 648 habitantes",
-        "image_url": "https://s3.elespanol.com/2025/09/26/actualidad/1003743941884_259000849_1706x960.jpg",
-        "tags": [
-            "madrid (provincia)",
-            "málaga",
-            "licencias vtc",
-            "taxis",
-            "málaga (provincia)"
-        ],
-        "link": "https://www.elespanol.com/malaga/20260117/malaga-supera-madrid-barcelona-vtc-coches-costa-sol-habitantes/1003744083618_0.html",
-        "date": "2026-01-17 05:50:00",
-        "sentiment_score": 0.052356816828250885
-    },
-    {
-        "title": "El Niño de Elche menos ambicioso y chocante en el Negufest",
-        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2026/01/17/cubillo1-kUCB-U2408909083114J-758x531@El%20Correo.jpg",
-        "tags": [
-            "el bafle (óscar cubillo)",
-            "elche/elx",
-            "algorta",
-            "getxo"
-        ],
-        "link": "https://www.elcorreo.com/culturas/musica/nino-elche-ambicioso-chocante-negufest-20260117073036-nt.html",
-        "date": "2026-01-17 06:30:36",
-        "sentiment_score": 0.05941575765609741
-    },
-    {
-        "title": "Menos lobos, caperucita",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e15c0549-f776-41f2-b6cb-4ca70a01942e_16-9-discover-aspect-ratio_320w_0.webp",
-        "tags": [
-            "el paso",
-            "viaje",
-            "aceite",
-            "compras"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2026/01/17/lobos-caperucita-125769898.html",
-        "date": "2026-01-17 06:00:53",
-        "sentiment_score": -0.12012165784835815
-    },
-    {
-        "title": "Mis nuevos vecinos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bdedfd13-a15f-49ee-9d65-25f5dd0129c5_16-9-discover-aspect-ratio_320w_0.webp",
-        "tags": [
-            "barcelona",
-            "francia",
-            "jóvenes",
-            "economía"
-        ],
-        "link": "https://www.elperiodicodearagon.com/opinion/2026/01/17/nuevos-vecinos-125759604.html",
-        "date": "2026-01-17 06:00:45",
-        "sentiment_score": -0.12774880230426788
-    },
-    {
-        "title": "Un mercado invernal más frío que nunca",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b94b3d4c-f034-4f5e-8a9e-5fb3390e5275_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fichajes",
-            "coudet",
-            "refuerzos",
-            "la liga",
-            "alavés",
-            "mercado",
-            "invernal",
-            "frio"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2026/01/17/mercado-invernal-frio-la-liga-alaves-fichajes-refuerzos-coudet-10581197.html",
-        "date": "2026-01-17 06:00:26",
-        "sentiment_score": 0.19953085482120514
-    },
-    {
-        "title": "Dytective: una herramienta digital para detectar y reeducar la dislexia en las aulas",
-        "image_url": "https://s1.ppllstatics.com/hoy/solidario/multimedia/2026/01/16/IMG%20010063%20-%20042-kkV-U240876065334qn-1200x840@Hoy.jpg",
-        "tags": [
-            "reeducar",
-            "detectar",
-            "digital",
-            "dytective",
-            "dislexia",
-            "aulas",
-            "herramienta"
-        ],
-        "link": "https://solidario.hoy.es/extremadura-solidaria/dytective-herramienta-digital-detectar-reeducar-dislexia-aulas-20260116070000-nt.html",
-        "date": "2026-01-17 06:00:13",
-        "sentiment_score": 0.3184591382741928
-    },
-    {
-        "title": "La huelga de médicos contra Mónica García costó más de 5 millones a Madrid: miles de consultas y operaciones canceladas",
-        "image_url": "https://s1.staticld.com/2026/01/16/huelga-medicos-madrid-140126.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.libertaddigital.com/madrid/2026-01-17/la-huelga-de-medicos-contra-monica-garcia-costo-mas-de-5-millones-a-madrid-miles-de-consultas-y-operaciones-canceladas-7344761/",
-        "date": "2026-01-17 05:45:06",
-        "sentiment_score": -0.6999596823006868
-    },
-    {
         "title": "ANÁLISIS | El Bernabéu dejó de creer: el Real Madrid, ante su mayor fractura interna en años",
         "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/17/image-937b2cc6-e777-4f69-af68-ade09cc79ab8-85-2560-1440.jpeg",
         "tags": [
@@ -2731,5 +2523,179 @@ export default [
         "link": "https://www.eldebate.com/espana/cataluna/20260120/peregrinacion-montserrat-nuria-salir-barcelona_376428.html",
         "date": "2026-01-20 17:14:19",
         "sentiment_score": -0.24628539755940437
+    },
+    {
+        "title": "Champions League: Así quedó la tabla de posiciones tras la jornada del martes",
+        "image_url": "https://i.ytimg.com/vi/nTy-YbMVJ38/mqdefault.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/champions-league-asi-quedo-la-tabla-de-posiciones-tras-la-jornada-del-martes-202612018240",
+        "date": "2026-01-20 22:24:00",
+        "sentiment_score": 0.26699793338775635
+    },
+    {
+        "title": "Tchouaméni: \"Ese es mi Vinícius\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/20/tchouameni-ese-es-mi-vinicius/",
+        "date": "2026-01-20 22:21:35",
+        "sentiment_score": 0.28609365224838257
+    },
+    {
+        "title": "Arbeloa: \"Vinicius, más que abrazarme a mí, abrazaba al madridismo\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/arbeloa-vinicius-abrazarme-mi-abrazaba-madridismo-20260120_3290814.html",
+        "date": "2026-01-20 22:20:34",
+        "sentiment_score": 0.11874580383300781
+    },
+    {
+        "title": "6-1. Vinícius se gana el indulto",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/20/6-1-vinicius-se-gana-el-indulto/",
+        "date": "2026-01-20 22:19:53",
+        "sentiment_score": 0.615281730890274
+    },
+    {
+        "title": "Resumen Real Madrid-Mónaco: Goleada para redimirse en el Bernabéu (6-1)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/20/image-5db671d0-6739-4e75-a1e3-ed62af3bae9c-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.eurosport.es/futbol/champions-league/2025-2026/real-madrid-monaco-video-resumen-resultado-goles-y-mejores-momentos-del-partido-fase-liga-jornada-7-hoy_vid60048098/video.shtml",
+        "date": "2026-01-20 22:19:21",
+        "sentiment_score": 0.7080269679427147
+    },
+    {
+        "title": "Vinícius se gana el indulto en el 6-1 al Mónaco",
+        "image_url": "https://static.grupojoly.com/clip/d1b08945-fa8f-4ddd-ac3f-a4b84016599c_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gana",
+            "1",
+            "indulto",
+            "6",
+            "vinicius"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/vinicius-gana-indulto-6-1_0_2005692976.html",
+        "date": "2026-01-20 22:19:10",
+        "sentiment_score": 0.8449727818369865
+    },
+    {
+        "title": "Manolo Lama analiza la victoria del Real Madrid contra el Mónaco en Champions: \"Las penas con goles, son menos penas\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/20/696ffd19adfa3.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/manolo-lama-analiza-victoria-real-madrid-monaco-champions-penas-goles-son-penas-20260120_3290813.html",
+        "date": "2026-01-20 22:16:46",
+        "sentiment_score": 0.11394795775413513
+    },
+    {
+        "title": "Crónica del Real Madrid - AS Monaco: 6-1",
+        "image_url": "https://www.infobae.com/resizer/v2/RCHDFCGMP5FY3P5MQLVYHIBTF4.jpg?auth=fb09273037ffc68c79442158f99b81b6f214fbec8b3db3e1a8780b647a566bcb&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/20/cronica-del-real-madrid-as-monaco-6-1/",
+        "date": "2026-01-20 22:15:20",
+        "sentiment_score": -0.0938708484172821
+    },
+    {
+        "title": "Dónde ha caído el bote de 4,5 millones de la Bonoloto, el de 87 millones del Euromillones, y los premios del Cupón Diario y Súper Once de hoy, martes 20 de enero de 2026",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2019/12/15/DD6F937B-CB78-45BE-A8BA-423DBC0AECA2/98.jpg?crop=594%2C334%2Cx0%2Cy53&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "loterías"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-caido-bote-45-millones-bonoloto-87-millones-euromillones-premios-cupon-diario-super-once-hoy-martes-20-enero-2026_20260120697000d4eb223406e5a9e731.html",
+        "date": "2026-01-20 22:25:24",
+        "sentiment_score": 0.05996232107281685
+    },
+    {
+        "title": "Semaf pide paralizar Rodalies tras dos descarrilamientos por el temporal en Cataluña",
+        "image_url": "https://www.elboletin.com/wp-content/uploads/2024/11/Imagen-de-Rodalies-de-Catalunya-Foto-Ministerio-de-Tranportes.jpg",
+        "tags": [
+            "temporal",
+            "infraestructuras",
+            "semaf",
+            "nacional",
+            "cataluña",
+            "rodalies",
+            "renfe",
+            "seguridad ferroviaria"
+        ],
+        "link": "https://www.elboletin.com/semaf-pide-paralizar-rodalies-tras-dos-descarrilamientos-por-el-temporal-en-cataluna/",
+        "date": "2026-01-20 22:25:08",
+        "sentiment_score": -0.8963712928816676
+    },
+    {
+        "title": "Penalty",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "penalty"
+        ],
+        "link": "https://www.hoy.es/opinion/manuel-martinez-mediero-penalty-20260121230838-nt.html",
+        "date": "2026-01-20 22:22:35",
+        "sentiment_score": -0.32858361303806305
+    },
+    {
+        "title": "Accidentes de tren en Barcelona, última hora en directo | Las consejeras de Territorio e Interior se han desplazado a Gelida",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/20/696fff96cb1811-66651975.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/accidentes-tren-barcelona-ultima-hora-directo-las-consejeras-territorio-interior-se-han-desplazado-gelida_6923778_6.html",
+        "date": "2026-01-20 22:20:37",
+        "sentiment_score": -0.6664812322705984
+    },
+    {
+        "title": "Nuevo accidente ferroviario en Cataluña con un muerto y una quincena de heridos",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2026/01/20/los-bomberos-de-la-generalitat-trabajan-en-el-lugar-del-accidente.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/actualidad/2026/01/20/nuevo-accidente-ferroviario-en-cataluna-con-un-muerto-y-una-quincena-de-heridos-1887230-daa.html",
+        "date": "2026-01-20 22:19:07",
+        "sentiment_score": -0.8327507674694061
+    },
+    {
+        "title": "Otro escándalo salpica a Tsitsipas: a una semana de blanquear su romance, aparecieron fotos de su nueva novia con otro hombre",
+        "image_url": "https://www.infobae.com/resizer/v2/CTSYSWLPGNBC7DH4OAW46XDFD4.png?auth=1f9798f0bf419583cadaf5cb2620fb7a2bb4379d8cacbd7219b67b8d03f87fb4&height=1080&smart=true&width=1920",
+        "tags": [
+            "australian open",
+            "tenis",
+            "kristen thoms",
+            "stefanos tsitsipas"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/20/otro-escandalo-salpica-a-tsitsipas-a-una-semana-de-blanquear-su-romance-aparecieron-fotos-de-su-nueva-novia-con-otro-hombre/",
+        "date": "2026-01-20 22:18:30",
+        "sentiment_score": -0.10793562605977058
+    },
+    {
+        "title": "Muere el maquinista en un accidente de Rodalies tras chocar contra un muro en Barcelona",
+        "image_url": "https://www.elboletin.com/wp-content/uploads/2024/11/Imagen-de-Rodalies-de-Catalunya-Foto-Ministerio-de-Tranportes.webp",
+        "tags": [
+            "seguridad",
+            "cataluña",
+            "barcelona",
+            "infraestructuras",
+            "rodalies",
+            "accidentes",
+            "nacional",
+            "transporte ferroviario"
+        ],
+        "link": "https://www.elboletin.com/muere-el-maquinista-en-un-accidente-de-rodalies-tras-chocar-contra-un-muro-en-barcelona/",
+        "date": "2026-01-20 22:12:08",
+        "sentiment_score": -0.8918848531320691
     }
 ];
