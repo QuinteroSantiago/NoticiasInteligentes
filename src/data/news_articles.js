@@ -1,420 +1,5 @@
 export default [
     {
-        "title": "El Madrid arrolla al Barça en la Euroliga impulsado por Garuba y Tavares",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c5027879-47a8-4871-af49-5e8aa2ba4626_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fc barcelona de baloncesto",
-            "euroliga",
-            "baloncesto",
-            "real madrid de baloncesto"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2026/01/16/madrid-arrolla-barca-euroliga-liderado-125771555.html",
-        "date": "2026-01-16 22:06:38",
-        "sentiment_score": 0.0540061891078949
-    },
-    {
-        "title": "El Madrid arrolla al Barça en la Euroliga liderado por Garuba y Tavares",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c5027879-47a8-4871-af49-5e8aa2ba4626_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "baloncesto",
-            "euroliga",
-            "fc barcelona de baloncesto",
-            "real madrid de baloncesto"
-        ],
-        "link": "https://www.levante-emv.com/deportes/2026/01/16/madrid-arrolla-barca-euroliga-liderado-125771538.html",
-        "date": "2026-01-16 22:06:37",
-        "sentiment_score": 0.0540061891078949
-    },
-    {
-        "title": "80-61. El Real Madrid domina el clásico europeo con un Garuba estelar",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/16/80-61-el-real-madrid-domina-el-clasico-europeo-con-un-garuba-estelar/",
-        "date": "2026-01-16 22:01:47",
-        "sentiment_score": 0.5031501278281212
-    },
-    {
-        "title": "Liga F: El Eibar se mide este sábado con el Madrid CFF en Ipurua",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/8251c95e-34c9-440e-811e-097c94504f8a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "liga",
-            "eibar",
-            "sabado",
-            "f",
-            "mide"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/futbol/2026/01/16/liga-f-eibar-mide-sabado-10582134.html",
-        "date": "2026-01-16 22:01:20",
-        "sentiment_score": -0.5927170142531395
-    },
-    {
-        "title": "Crónica del Real Madrid - Barça: 80-61",
-        "image_url": "https://www.infobae.com/resizer/v2/QEYH2EI7MRCFJJLBDPW4JYBYSU.jpg?auth=230af2783c849e752da9bc9288ba6f0092be241bea90cff7003f7ef400b243ba&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/16/cronica-del-real-madrid-barca-80-61/",
-        "date": "2026-01-16 22:00:38",
-        "sentiment_score": -0.08120737224817276
-    },
-    {
-        "title": "El Real Madrid se 'venga' del Barça en la Euroliga: aplastante victoria blanca para ponerse delante en la clasificación",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/16/696ab23b5ee8f5-38856648.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.20minutos.es/deportes/baloncesto/real-madrid-venga-barcelona-euroliga-aplastante-victoria-blanca-ponerse-delante-clasificacion_6922335_0.html",
-        "date": "2026-01-16 22:00:19",
-        "sentiment_score": 0.6649138387292624
-    },
-    {
-        "title": "Así gestiona su fortuna la familia Puig: un hólding familiar con la belleza en el centro",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/4e6018ddfd99f72a4f8aaadbf92073b5/crop/26x0/1289x842/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/16/17686014659134.jpg",
-        "tags": [
-            "sagas familiares>",
-            "artículos josé orihuel>",
-            "empresas>"
-        ],
-        "link": "https://www.expansion.com/empresas/2026/01/16/696ab758468aebdb6c8b4594.html",
-        "date": "2026-01-16 22:12:00",
-        "sentiment_score": -0.10617653280496597
-    },
-    {
-        "title": "Vanat confirma que el Girona es la bestia negra del Espanyol",
-        "image_url": "https://static1.ara.cat/clip/176fdece-3a11-4c73-afab-5b903928d93c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "bestia",
-            "vanat",
-            "confirma",
-            "espanyol",
-            "negra",
-            "girona"
-        ],
-        "link": "https://es.ara.cat/deportes/rcd-espanyol/vanat-confirma-girona-bestia-negra-espanyol_1_5620419.html",
-        "date": "2026-01-16 22:02:34",
-        "sentiment_score": -0.768896859139204
-    },
-    {
-        "title": "3-0. Dembele pone orden",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/16/3-0-dembele-pone-orden/",
-        "date": "2026-01-16 22:01:30",
-        "sentiment_score": 0.4359041005373001
-    },
-    {
-        "title": "Guardiola y Busquets compran un 28% de la socimi de viviendas de Alquiler Seguro",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/02/03/culemania/culemaniacos/921417920_14061030_1706x960.jpg",
-        "tags": [
-            "alquiler",
-            "sergio busquets",
-            "business",
-            "barça",
-            "josep guardiola",
-            "inmobiliario",
-            "vivienda",
-            "accionistas",
-            "fc barcelona"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/business/20260116/guardiola-busquets-compran-socimi-viviendas-alquiler-seguro/1003742724032_0.html",
-        "date": "2026-01-16 21:58:25",
-        "sentiment_score": 0.17568784952163696
-    },
-    {
-        "title": "Marlene Figueroa, consejera de Turismo: «La unidad de destino es la mejor estrategia turística de Fuerteventura»",
-        "image_url": "https://s1.ppllstatics.com/canarias7/www/multimedia/2026/01/16/marlene-depie-kL2B-U240871132249m2F-1200x840@Canarias7.jpg",
-        "tags": [
-            "bilbao",
-            "turismo",
-            "málaga",
-            "líneas aéreas",
-            "redes sociales",
-            "madrid (ciudad)",
-            "beneficios",
-            "santiago de compostela",
-            "turistas",
-            "canarias",
-            "economia",
-            "sevilla",
-            "trabajo",
-            "principado de asturias",
-            "verano",
-            "cabildo de fuerteventura",
-            "precios",
-            "fitur",
-            "fuerteventura"
-        ],
-        "link": "https://www.canarias7.es/canarias/fuerteventura/marlene-figueroa-consejera-turismo-unidad-destino-mejor-20260117224632-nt.html",
-        "date": "2026-01-16 21:46:33",
-        "sentiment_score": 0.5098002906888723
-    },
-    {
-        "title": "El bajo-barítono ucraniano Vladyslav Buialskyi, ganador del Concurso de Tenor Viñas",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/16/el-bajo-baritono-ucraniano-vladyslav-buialskyi-ganador-del-concurso-de-tenor-vinas/",
-        "date": "2026-01-16 21:45:55",
-        "sentiment_score": 0.05553136020898819
-    },
-    {
-        "title": "La polémica anexión de Bellaterra, la urbanización rica que quiere irse de su municipio: \"Peor que ahora no estaremos\"",
-        "image_url": "https://static.eldiario.es/clip/cfdb2142-65c8-4297-96d7-a7c4d96ad72e_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "cataluña",
-            "actualidad",
-            "noticias",
-            "periodismo independiente",
-            "política",
-            "ignacio escolar",
-            "economía"
-        ],
-        "link": "https://www.eldiario.es/catalunya/polemica-anexion-bellaterra-urbanizacion-rica-quiere-irse-municipio-peor-ahora-no-estaremos_1_12908835.html",
-        "date": "2026-01-16 21:37:55",
-        "sentiment_score": -0.05700647830963135
-    },
-    {
-        "title": "El Barça no repite milagro en Madrid",
-        "image_url": "https://static1.ara.cat/clip/3a7f8f10-e2af-4166-8acd-b4349df62f66_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "madrid",
-            "repite",
-            "no",
-            "milagro",
-            "barca"
-        ],
-        "link": "https://es.ara.cat/deportes/baloncesto/barca-no-repite-milagro-madrid_1_5620383.html",
-        "date": "2026-01-16 21:34:25",
-        "sentiment_score": 0.43361160159111023
-    },
-    {
-        "title": "Cosas de casa",
-        "image_url": "https://s3.elespanol.com/static/ESPEspanol/img/elespanol_amp-1706x960.png?hash=924e",
-        "tags": [
-            "ayuntamiento de toledo",
-            "diputacion de toledo",
-            "opinión",
-            "albacete balompié",
-            "real madrid cf",
-            "josé bono rodríguez"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/opinion/20260117/cosas-casa/1003744091291_13.html",
-        "date": "2026-01-17 02:00:00",
-        "sentiment_score": -0.5726961344480515
-    },
-    {
-        "title": "IU presentará un candidato 'neutro' para intentar aglutinar a la izquierda y superar el choque entre Yolanda Díaz y Podemos",
-        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744093184_260958179_1706x960.jpg",
-        "tags": [
-            "podemos",
-            "ione belarra",
-            "política",
-            "antonio maíllo",
-            "irene montero",
-            "iu",
-            "yolanda díaz",
-            "sumar"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20260117/iu-presentara-candidato-neutro-intentar-aglutinar-izquierda-superar-choque-yolanda-diaz-podemos/1003744093139_0.html",
-        "date": "2026-01-17 01:49:50",
-        "sentiment_score": -0.2733749747276306
-    },
-    {
-        "title": "Los argumentos de Laporta para convocar las elecciones a la presidencia del Barça en marzo",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/09/04/culemania/palco/883421651_13406475_1706x960.jpg",
-        "tags": [
-            "palco",
-            "joan laporta",
-            "elecciones barça",
-            "junta directiva del barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260117/argumentos-laporta-convocar-elecciones-presidencia-barca-marzo/1003742723671_0.html",
-        "date": "2026-01-17 01:42:33",
-        "sentiment_score": 0.8613452278077602
-    },
-    {
-        "title": "La irresistible propuesta de Montero para Andalucía: expoliar a los andaluces para financiar el independentismo",
-        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744092074_260943049_1706x960.jpg",
-        "tags": [
-            "columnas de opinión",
-            "opinión"
-        ],
-        "link": "https://www.elespanol.com/invertia/opinion/20260117/irresistible-propuesta-montero-andalucia-expoliar-andaluces-financiar-independentismo/1003744092222_13.html",
-        "date": "2026-01-17 01:39:38",
-        "sentiment_score": 0.371260330080986
-    },
-    {
-        "title": "La competencia récord en el MIR 2026 dejará sin plaza a 7.487 aspirantes tras el examen",
-        "image_url": "https://s3.elespanol.com/2025/01/21/invertia/observatorios/sanidad/918168639_252491165_1706x960.jpg",
-        "tags": [
-            "mir",
-            "sanidad - actualidad sanitaria",
-            "observatorio de la sanidad"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260117/competencia-record-mir-dejara-sin-plaza-aspirantes-examen/1003744092787_0.html",
-        "date": "2026-01-17 01:10:00",
-        "sentiment_score": -0.6519058458507061
-    },
-    {
-        "title": "Óscar Villar y Edgar Sánchez venden la primera casa para 14 personas de la Comunidad Madrid: \"Un chalé por 36.428 €\"",
-        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744093226_260958786_1706x960.jpg",
-        "tags": [
-            "madrid",
-            "vivienda",
-            "inmobiliarias",
-            "sociedad"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20260117/oscar-villar-edgar-sanchez-venden-primera-casa-personas-comunidad-madrid-chale-eur/1003744093220_0.html",
-        "date": "2026-01-17 01:00:00",
-        "sentiment_score": -0.8471357701346278
-    },
-    {
-        "title": "La Antártida inaugura el primer santuario mundial de hielo: una biblioteca climática para los próximos 2.000 años",
-        "image_url": "https://s3.elespanol.com/2026/01/15/actualidad/1003744091640_260938537_1706x960.jpg",
-        "tags": [
-            "glaciares",
-            "antártida",
-            "objetivo 13: acción por el clima",
-            "historias",
-            "objetivo 15: vida de ecosistemas terrestres",
-            "objetivo 14: vida submarina"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/historias/20260117/antartida-inaugura-primer-santuario-mundial-hielo-biblioteca-climatica-proximos-anos/1003744091624_0.html",
-        "date": "2026-01-17 00:45:00",
-        "sentiment_score": 0.233621746301651
-    },
-    {
-        "title": "16 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/16-ene-2026-partidazo-cope-20260117_3288808.html",
-        "date": "2026-01-17 00:40:00",
-        "sentiment_score": 0.09122739732265472
-    },
-    {
-        "title": "3a PARTE | 16 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-16-ene-2026-partidazo-cope-20260117_3288807.html",
-        "date": "2026-01-17 00:30:00",
-        "sentiment_score": 0.15533411502838135
-    },
-    {
-        "title": "¿El elegido en Francia? El futuro de Zidane se aleja del Real Madrid",
-        "image_url": "https://pxcdn.2001online.com/2001/012026/1768609152851/file_20160204090120.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/el-elegido-en-francia-el-futuro-de-zidane-se-aleja-del-real-madrid-20261162100",
-        "date": "2026-01-17 00:09:28",
-        "sentiment_score": 0.1690964475274086
-    },
-    {
-        "title": "Clima: las temperaturas que predominarán este 17 de enero en Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
-        "tags": [
-            "tiempo en españa",
-            "barcelona",
-            "noticias",
-            "españa noticias",
-            "españa sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/17/clima-las-temperaturas-que-predominaran-este-17-de-enero-en-barcelona/",
-        "date": "2026-01-17 02:00:58",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "Inquietud en Groenlandia entre los científicos españoles: \"Trump niega el calentamiento pero quiere aprovecharse de él\"",
-        "image_url": "https://s3.elespanol.com/2026/01/15/ciencia/1003744091755_260939997_1706x960.jpg",
-        "tags": [
-            "donald trump",
-            "estados unidos",
-            "ciencia",
-            "investigación científica",
-            "groenlandia",
-            "ártico"
-        ],
-        "link": "https://www.elespanol.com/ciencia/20260117/inquietud-groenlandia-cientificos-espanoles-trump-niega-calentamiento-quiere-aprovecharse/1003744090665_0.html",
-        "date": "2026-01-17 01:49:27",
-        "sentiment_score": 0.10234293341636658
-    },
-    {
-        "title": "La licencia 1C del nuevo Camp Nou se atasca: los motivos del retraso que penalizan al Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/22/culemania/palco/1003742709867_15434730_1706x960.jpg",
-        "tags": [
-            "camp nou",
-            "palco",
-            "joan laporta"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260117/licencia-camp-nou-motivos-retraso-penalizan-barca/1003742723505_0.html",
-        "date": "2026-01-17 01:42:56",
-        "sentiment_score": -0.7696820553392172
-    },
-    {
-        "title": "España no llega a los 100 millones de viajeros internacionales: ¿es un fracaso o un éxito del modelo turístico?",
-        "image_url": "https://s3.elespanol.com/2026/01/15/actualidad/1003744091217_260933051_1706x960.jpg",
-        "tags": [
-            "turismo",
-            "jordi hereu i boher",
-            "hoteles"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/turismo/20260117/espana-no-llega-millones-viajeros-internacionales-fracaso-exito-modelo-turistico/1003744091212_0.html",
-        "date": "2026-01-17 01:39:39",
-        "sentiment_score": 0.47334177792072296
-    },
-    {
-        "title": "Derrota del Gobierno ante los enfermos de ELA en los tribunales: \"Asistencia domiciliaria inmediata para Antonio\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/bb7a140548345d6bddad71569884cb8a/f/image/jpeg/assets/multimedia/imagenes/2022/05/03/16515702585114.jpg",
-        "tags": [
-            "gobierno de españa",
-            "artículos ana maría ortiz",
-            "sanidad",
-            "justicia"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/01/17/696a7e25fc6c83da318b4584.html",
-        "date": "2026-01-17 01:34:49",
-        "sentiment_score": -0.5666499398648739
-    },
-    {
-        "title": "Provocación y botellazo desde la tribuna: la escandalosa escena que protagonizó el argentino Paulo Gazzaniga en España",
-        "image_url": "https://www.infobae.com/resizer/v2/5GXEZDVR7RF2BN5VIPCZU7AUII.jpg?auth=f17e1aa72c4f53b0015e38ed1f784bf45d286bc7043a9329ded5b7e3398298b9&height=1080&smart=true&width=1920",
-        "tags": [
-            "espanyol",
-            "paulo gazzaniga",
-            "la liga",
-            "deportes-argentina",
-            "girona"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/17/provocacion-y-botellazo-desde-la-tribuna-la-escandalosa-escena-que-protagonizo-el-argentino-paulo-gazzaniga-en-espana/",
-        "date": "2026-01-17 00:59:06",
-        "sentiment_score": 0.39055515080690384
-    },
-    {
-        "title": "'La cena', protagonista por sorpresa de los Goya con ocho nominaciones: las claves de la película que se ríe de Franco",
-        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744092381_260947004_1706x960.jpg",
-        "tags": [
-            "películas",
-            "cine",
-            "premios goya",
-            "guerra civil española",
-            "franquismo"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/cine/20260117/cena-protagonista-sorpresa-goya-nominaciones-claves-pelicula-rie-franco/1003744091115_0.html",
-        "date": "2026-01-17 00:55:00",
-        "sentiment_score": 0.32611408829689026
-    },
-    {
         "title": "El Atlético se aferrra a Sorloth ante el bajón de Julián Alvarez",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/25/2025042504072539700.jpg",
         "tags": [
@@ -2888,5 +2473,263 @@ export default [
         "link": "https://www.eldia.es/sociedad/2026/01/20/tragedia-accidente-trenes-adamuz-cordoba-sacude-huelva-125865352.html",
         "date": "2026-01-20 06:33:21",
         "sentiment_score": -0.7890976592898369
+    },
+    {
+        "title": "La diáspora venezolana en el exilio sigue dudando si es momento de volver",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_30-1.jpg",
+        "tags": [
+            "exilio",
+            "internacionales",
+            "diáspora venezolana",
+            "nacionales",
+            "destacados"
+        ],
+        "link": "https://lapatilla.com/2026/01/20/la-diaspora-venezolana-en-el-exilio-sigue-dudando-si-es-momento-de-volver/",
+        "date": "2026-01-20 11:28:46",
+        "sentiment_score": -0.8988512642681599
+    },
+    {
+        "title": "De presidente a acusado: así fue presenciar el primer día de Nicolás Maduro en una corte de EEUU",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/695c2404421b4.r_d.1189-300.avif",
+        "tags": [
+            "actualidad",
+            "internacionales",
+            "usa",
+            "nicolás maduro",
+            "nacionales",
+            "corte",
+            "presidente a acusado",
+            "eeuu"
+        ],
+        "link": "https://lapatilla.com/2026/01/20/de-presidente-a-acusado-asi-fue-presenciar-el-primer-dia-de-nicolas-maduro-en-una-corte-de-eeuu/",
+        "date": "2026-01-20 10:22:28",
+        "sentiment_score": -0.4448166638612747
+    },
+    {
+        "title": "Las comunidades del PP y Page se rebelan y hacen frente común contra el reparto de menores migrantes aprobado por el Gobierno: “Ha sido una imposición”",
+        "image_url": "https://www.infobae.com/resizer/v2/RPAG2FCBHJFPHIVGJPEBCVBJA4.png?auth=72784bb128b19a636d667c00b13e3cea6fafbf3c36df5f81854584f5f7d45146&height=566&smart=true&width=1011",
+        "tags": [
+            "menores españa",
+            "ong",
+            "murcia",
+            "tribunal supremo",
+            "ceuta",
+            "ministerio de juventud e infancia",
+            "vox",
+            "pedro sánchez",
+            "españa-noticias",
+            "inmigración españa",
+            "psoe",
+            "melilla",
+            "canarias",
+            "comunidad velenciana",
+            "migrantes",
+            "comunidad de madrid",
+            "pp",
+            "menores",
+            "menores migrantes",
+            "política españa",
+            "gobierno de españa",
+            "españa-sociedad",
+            "castilla y león",
+            "islas baleares"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/27/las-comunidades-del-pp-y-page-se-rebelan-y-hacen-frente-comun-contra-el-reparto-de-menores-migrantes-aprobado-por-el-gobierno-ha-sido-una-imposicion/",
+        "date": "2026-01-20 17:17:59",
+        "sentiment_score": -0.810468815267086
+    },
+    {
+        "title": "La flota pesquera retoma su actividad en Málaga tras las protestas",
+        "image_url": "https://static.grupojoly.com/clip/4fb9651b-2b8b-46a4-ac2f-af3f1b2d1d08_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "axarquía",
+            "málaga"
+        ],
+        "link": "https://www.malagahoy.es/velez-malaga/flota-pesquera-retoma-actividad-malaga_0_2005687674.html",
+        "date": "2026-01-20 17:17:06",
+        "sentiment_score": -0.8577185329049826
+    },
+    {
+        "title": "Los casos que el SEPE quitará el subsidio de mayores de 52 años al computar el salario como renta",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2026/01/19/sepe-oficina-kUlB-U240985561952LXD-758x531@El%20Correo.JPG",
+        "tags": [
+            "empleo",
+            "audiencias",
+            "trabajo",
+            "salario mínimo interprofesional (smi)"
+        ],
+        "link": "https://www.elcorreo.com/economia/tu-economia/casos-sepe-quitara-subsidio-mayores-anos-computar-20260120181258-nt.html",
+        "date": "2026-01-20 17:12:59",
+        "sentiment_score": 0.05413258820772171
+    },
+    {
+        "title": "Barcelona podría volver a ver atletismo de élite en 2028",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/01/20/696fb09803242.r_d.645-125-3583.jpeg",
+        "tags": [
+            "esports cope"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/barcelona-volver-ver-atletismo-elite-2028-20260120_3290673.html",
+        "date": "2026-01-20 17:12:25",
+        "sentiment_score": 0.04176485538482666
+    },
+    {
+        "title": "El plan alternativo de transporte de Renfe entre Madrid y Andalucía se desarrolla con normalidad",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/Estacion-Adif-Ciudad-Real-_-Clara-Manzano-198.jpg",
+        "tags": [
+            "adamuz",
+            "ciudad real",
+            "renfe"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/ciudad-real/el-plan-alternativo-de-transporte-de-renfe-entre-madrid-y-andalucia-se-desarrolla-con-normalidad/",
+        "date": "2026-01-20 17:12:08",
+        "sentiment_score": -0.0638909637928009
+    },
+    {
+        "title": "Sindicatos denuncian que la Xunta \"bloquea\" la negociación de los convenios de las fundaciones sanitarias",
+        "image_url": "https://www.galiciapress.es/images/285310",
+        "tags": [
+            "top",
+            "sports"
+        ],
+        "link": "https://www.galiciapress.es/articulo/sanidad/2026-01-20/5741029-sindicatos-denuncian-xunta-bloquea-negociacion-convenios-fundaciones-sanitarias",
+        "date": "2026-01-20 17:11:03",
+        "sentiment_score": -0.6000907123088837
+    },
+    {
+        "title": "¿Vuelve con Arbeloa el coche más espectacular que se ha visto en el Real Madrid?",
+        "image_url": "https://fotografias.lasexta.com/clipping/cmsimages01/2026/01/20/019A16C8-1648-4249-8061-8F10F51416A8/vuelve-arbeloa-coche-mas-espectacular-que-visto-real-madrid_96.jpg?crop=2000%2C1125%2Cx0%2Cy106&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "noticias motor",
+            "motor"
+        ],
+        "link": "https://www.lasexta.com/motor/noticias/vuelve-arbeloa-coche-mas-espectacular-que-visto-real-madrid_20260120696fb6f5f21351044da336a0.html",
+        "date": "2026-01-20 17:10:13",
+        "sentiment_score": -0.6546706221997738
+    },
+    {
+        "title": "Las iniciativas de Madrid para rescatar las matemáticas en 1.200 centros de la región",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/20/696fb5d889892.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.eldebate.com/espana/madrid/20260120/iniciativas-madrid-rescatar-matematicas-1200-centros-region_376426.html",
+        "date": "2026-01-20 17:08:04",
+        "sentiment_score": 0.33355138450860977
+    },
+    {
+        "title": "Piqué se anima con propuestas para cambiar el baloncesto tras destrozar el tenis",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/01/20/696fb2983e032.r_d.942-431-6250.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20260120/pique-anima-propuestas-cambiar-baloncesto-destrozar-tenis-tiros-10-puntos_376414.html",
+        "date": "2026-01-20 17:07:00",
+        "sentiment_score": -0.5180860012769699
+    },
+    {
+        "title": "Comprender antes de juzgar: ¿qué enseñan los fallos ferroviarios del pasado sobre el accidente de Adamuz?",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/20/696fb512cdaeb.r_d.3051-1858-748.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lavanguardia.com/motor/actualidad/20260120/11444516/comprender-antes-juzgar-que-ensenan-fallos-ferroviarios-pasado-sobre-accidente-adamuz.html",
+        "date": "2026-01-20 17:05:52",
+        "sentiment_score": -0.23902267217636108
+    },
+    {
+        "title": "Adif frena el AVE Madrid-Barcelona a su paso por Zaragoza por la aparición de baches en la vía",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/20/696fb74e662b0.jpeg",
+        "tags": [
+            "zaragoza"
+        ],
+        "link": "https://www.cope.es/emisoras/aragon/zaragoza-provincia/zaragoza/noticias/adif-frena-ave-madrid-barcelona-paso-zaragoza-aparicion-baches-20260120_3290693.html",
+        "date": "2026-01-20 17:17:53",
+        "sentiment_score": -0.12454292178153992
+    },
+    {
+        "title": "Flick: \"Queremos ganar la Champions, todos tenemos hambre de hacerlo\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260120181716_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-flick-queremos-ganar-champions-todos-tenemos-hambre-hacerlo-20260120181716.html",
+        "date": "2026-01-20 17:17:16",
+        "sentiment_score": 0.6501781865954399
+    },
+    {
+        "title": "Comienza el juicio al masajista de Canet de Mar acusado de abusos sexuales a 12 chicas",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/20/696fb7ffa7a61.webp",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/noticias/comienza-juicio-masajista-canet-mar-acusado-abusos-sexuales-12-chicas-20260120_3290696.html",
+        "date": "2026-01-20 17:16:45",
+        "sentiment_score": -0.3161756843328476
+    },
+    {
+        "title": "España y Portugal acuerdan impulsar un programa de intercambio de expertos de protección radiológica y seguridad nuclear",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260120181628_690.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.europapress.es/sociedad/noticia-espana-portugal-acuerdan-impulsar-programa-intercambio-expertos-proteccion-radiologica-seguridad-nuclear-20260120181628.html",
+        "date": "2026-01-20 17:16:28",
+        "sentiment_score": 0.561026755720377
+    },
+    {
+        "title": "El emotivo adiós de Alejandro Balde a dos jugadores del Barça: enero de despedidas",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/20/culemania/primer-equipo/1003742724951_15621164_1706x960.jpg",
+        "tags": [
+            "primer equipo",
+            "barça",
+            "champions league",
+            "alejandro balde"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260120/emotivo-adios-alejandro-balde-jugadores-barca-despedidas/1003742724949_0.html",
+        "date": "2026-01-20 17:16:03",
+        "sentiment_score": -0.37297456711530685
+    },
+    {
+        "title": "Alejandro Balde: \"Nuestra idea es ganar la Champions\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/20/696fb7f9bf690.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/alejandro-balde-nuestra-idea-ganar-champions-20260120_3290694.html",
+        "date": "2026-01-20 17:16:02",
+        "sentiment_score": 0.20046499371528625
+    },
+    {
+        "title": "Toledo, Granada, Barcelona, León, Zaragoza, Murcia, Oviedo y Lugo: candidatas oficiales para la Agencia de Salud Pública",
+        "image_url": "https://s3.elespanol.com/2025/12/17/actualidad/1003744060345_260542400_1706x960.jpg",
+        "tags": [
+            "sanidad - actualidad sanitaria",
+            "sanidad - política sanitaria",
+            "observatorio de la sanidad"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260120/toledo-granada-barcelona-leon-zaragoza-murcia-oviedo-lugo-candidatas-oficiales-agencia-salud-publica/1003744097073_0.html",
+        "date": "2026-01-20 17:15:51",
+        "sentiment_score": 0.023139555007219315
+    },
+    {
+        "title": "Trump exhibe tics autoritarios mientras el Ártico abre la Ruta de la Seda Polar",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "claves del día"
+        ],
+        "link": "https://www.lavanguardia.com/videos/claves-del-dia/20260120/11444544/claves-dia-trump-exhibe-tics-autoritarios-artico-abre-ruta-seda-polar.html",
+        "date": "2026-01-20 17:15:10",
+        "sentiment_score": 0.10191135853528976
+    },
+    {
+        "title": "Una peregrinación de Montserrat a Nuria sin salir de Barcelona",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/20/696fb69a59b2a.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/20260120/peregrinacion-montserrat-nuria-salir-barcelona_376428.html",
+        "date": "2026-01-20 17:14:19",
+        "sentiment_score": -0.24628539755940437
     }
 ];
