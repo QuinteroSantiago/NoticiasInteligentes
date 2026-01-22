@@ -2734,5 +2734,160 @@ export default [
         "link": "https://www.diariodesevilla.es/deportes/fotos-slavia-praga-barcelona_3_2005700978.html",
         "date": "2026-01-21 22:17:20",
         "sentiment_score": 0.5062201544642448
+    },
+    {
+        "title": "Agenda: qué hacer hoy jueves 22 de enero en Asturias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/13c3b901-ac14-4f31-97a2-4f47977e0741_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "festivos",
+            "exposición",
+            "asturias",
+            "horario"
+        ],
+        "link": "https://www.lne.es/asturias/2026/01/22/agenda-hoy-jueves-22-enero-125938524.html",
+        "date": "2026-01-22 02:09:39",
+        "sentiment_score": -0.06581622362136841
+    },
+    {
+        "title": "Barcelona reaccionó a tiempo en Praga",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/01/Barcelona11.jpg",
+        "tags": [
+            "21ene",
+            "deportes",
+            "champions league",
+            "barcelona",
+            "praga"
+        ],
+        "link": "https://laverdaddemonagas.com/2026/01/21/barcelona-reacciono-en-praga/",
+        "date": "2026-01-22 01:55:27",
+        "sentiment_score": 0.22370046377182007
+    },
+    {
+        "title": "Microplásticos: ¿amenaza real o cifras infladas? La ciencia pone límites al alarmismo",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/22/2026012202204297748.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.mundiario.com/articulo/sociedad/microplasticos-amenaza-real-cifras-infladas-ciencia-pone-limites-alarmismo/20260122022336371615.html",
+        "date": "2026-01-22 01:23:36",
+        "sentiment_score": -0.20352209359407425
+    },
+    {
+        "title": "Los 17 hospitales con más negligencias médicas de España por comunidades: hubo 14.986 casos y 951 muertes en 2025",
+        "image_url": "https://s3.elespanol.com/2026/01/21/actualidad/1003744098783_261027949_1706x960.jpg",
+        "tags": [
+            "médicos",
+            "hospitales",
+            "negligencias médicas",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260122/hospitales-negligencias-medicas-espana-comunidades-casos-muertes/1003744098605_0.html",
+        "date": "2026-01-22 01:10:00",
+        "sentiment_score": -0.8754375334829092
+    },
+    {
+        "title": "Las portadas del jueves: \"Renovación a la vista\" de Vinícius y la \"reacción top\" del Barça en Praga",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
+        "tags": [
+            "football"
+        ],
+        "link": "https://www.eurosport.es/futbol/renovacion-a-la-vista-vinicius-reconciliacion-reaccion-top-barca-portadas-deporte-espana-hoy_sto23261730/story.shtml",
+        "date": "2026-01-22 01:08:42",
+        "sentiment_score": 0.1871941015124321
+    },
+    {
+        "title": "Cuando el diagnóstico llega tarde: el boom silencioso del TDAH en Europa",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/22/2026012202044962962.jpg",
+        "tags": [
+            "salud"
+        ],
+        "link": "https://www.mundiario.com/articulo/salud/cuando-diagnostico-llega-tarde-boom-silencioso-tdah-europa/20260122020702371603.html",
+        "date": "2026-01-22 01:07:02",
+        "sentiment_score": -0.5158044751733541
+    },
+    {
+        "title": "Qué necesitan el Real Madrid y el FC Barcelona para clasificar a los octavos de final de la Champions League",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/01/21/real-madrid-fc-barcelona-octavos-final-champions-league-orix/",
+        "date": "2026-01-22 01:03:56",
+        "sentiment_score": 0.049466341733932495
+    },
+    {
+        "title": "Ana Hernández, la profesora madrileña que roza el 'Nobel' de Educación: \"Hay que escuchar a los malos alumnos\"",
+        "image_url": "https://s3.elespanol.com/2026/01/21/actualidad/1003744098586_261025287_1706x960.jpg",
+        "tags": [
+            "sociedad",
+            "comunidad de madrid",
+            "madrid",
+            "profesores",
+            "leganés",
+            "educación"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20260122/ana-hernandez-profesora-madrilena-roza-nobel-educacion-escuchar-malos-alumnos/1003744097676_0.html",
+        "date": "2026-01-22 01:00:00",
+        "sentiment_score": 0.8419619053602219
+    },
+    {
+        "title": "Esto es lo que necesitan los equipos españoles en la última jornada para avanzar a octavos de la Champions League",
+        "image_url": "https://www.infobae.com/resizer/v2/D3SLGU43TZEOFLSFFYJ55VCBMU.JPG?auth=a3186334c25c7edf921090f5c363140d50ad52e8a19785cb2f26190835585826&height=3329&smart=true&width=4834",
+        "tags": [
+            "villarreal",
+            "españa-noticias",
+            "españa-deportes",
+            "fútbol",
+            "fútbol españa",
+            "champions league",
+            "uefa champions league",
+            "real madrid",
+            "fc barcelona",
+            "athletic club"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/01/22/esto-es-lo-que-necesitan-los-equipos-espanoles-en-la-ultima-jornada-para-avanzar-a-octavos-de-la-champions-league/",
+        "date": "2026-01-22 00:52:36",
+        "sentiment_score": -0.10050240159034729
+    },
+    {
+        "title": "Rutas alternativas al bloqueo de la AP-7: se suspenden los peajes en la C-32 y se eliminan las Zonas de Bajas Emisiones",
+        "image_url": "https://www.infobae.com/resizer/v2/MYKTBVNDBJDOTODUTL24OVPEIU.jpg?auth=de6241ccc880b7c946c4776d391e08df4862359bd50dccf4d9b746f603ade70a&height=5760&smart=true&width=8640",
+        "tags": [
+            "trenes",
+            "españa-noticias",
+            "rodalies",
+            "sucesos españa",
+            "barcelona",
+            "renfe",
+            "trenes españa",
+            "españa-nacional",
+            "cataluña",
+            "tráfico"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/22/rutas-alternativas-al-bloqueo-de-la-ap-7-se-suspenden-los-peajes-en-la-c-32-y-se-eliminan-las-zonas-de-bajas-emisiones/",
+        "date": "2026-01-22 02:20:28",
+        "sentiment_score": -0.22308793663978577
+    },
+    {
+        "title": "Se veía venir",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "venir",
+            "veia"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/articulos/veia-venir_0_2005701850.html",
+        "date": "2026-01-22 02:06:37",
+        "sentiment_score": 0.17199084162712097
+    },
+    {
+        "title": "Los AVE que perdimos",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ave",
+            "perdimos"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/ave-perdimos_0_2005701820.html",
+        "date": "2026-01-22 02:06:26",
+        "sentiment_score": -0.2594009339809418
     }
 ];
