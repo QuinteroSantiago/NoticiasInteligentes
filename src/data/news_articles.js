@@ -1,492 +1,5 @@
 export default [
     {
-        "title": "La Familia Real, sin Juan Carlos I, se despide de Irene de Grecia en Madrid",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/17/2026011723071582727.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/familia-real-juan-carlos-i-despide-irene-grecia-madrid/20260117231204371019.html",
-        "date": "2026-01-17 22:12:04",
-        "sentiment_score": 0.6817276775836945
-    },
-    {
-        "title": "Resultados, clasificación, crónica y resúmenes de la Jornada 20 de LaLiga EA Sports 25-26 | El Betis gana al Villarreal y se sitúa a solo dos puntos del Espanyol",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2026/01/CARTEL-ASI-VA-LALIGA-25-26.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagradaonline.com/liga-jornada-20-resultados-clasificacion-cronica-resumen-partidos-rcd-espanyol-girona-sabado/",
-        "date": "2026-01-17 21:58:00",
-        "sentiment_score": -0.9040112867951393
-    },
-    {
-        "title": "Presidencia Ayuso: todo el Gobierno y su agenda consagrados al antisanchismo",
-        "image_url": "https://static.eldiario.es/clip/2c634559-1467-452e-a6c4-e2d0d647d0de_16-9-discover-aspect-ratio_default_0_x878y778.jpg",
-        "tags": [
-            "agenda",
-            "consagrados",
-            "presidencia",
-            "ayuso",
-            "antisanchismo",
-            "gobierno"
-        ],
-        "link": "https://www.eldiario.es/madrid/presidencia-ayuso-gobierno-agenda-consagrados-antisanchismo_1_12911604.html",
-        "date": "2026-01-17 21:49:36",
-        "sentiment_score": -0.11939963698387146
-    },
-    {
-        "title": "Real Madrid sometió al Levante en la jornada de La Liga española",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "combo clap",
-            "news",
-            "sistema patria",
-            "noticias hoy",
-            "portada",
-            "información de carabobo",
-            "17ene",
-            "noticias24carabobo en google news",
-            "noticias 24",
-            "17 de enero",
-            "noticias24carabobo",
-            "noticias de carabobo",
-            "real madrid",
-            "enero 17",
-            "noticias de hoy valencia",
-            "noticias 24 horas carabobo",
-            "deportes",
-            "noticias de venezuela",
-            "salud (+destacados)",
-            "bonos patria 2026",
-            "liga de españa",
-            "noticias de sucesos",
-            "noticias de valencia",
-            "mbappé"
-        ],
-        "link": "https://noticias24carabobo.com/real-madrid-sometio-al-levante-en-la-jornada-de-la-liga-espanola/",
-        "date": "2026-01-17 21:40:54",
-        "sentiment_score": 0.02194051444530487
-    },
-    {
-        "title": "Liga F: Derrota del Eibar en Ipurua (1-3)",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9263ccc5-6555-42ec-869a-26c61034d057_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "eibar",
-            "ipurua",
-            "liga",
-            "f",
-            "derrota"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/futbol/2026/01/17/liga-f-derrota-eibar-ipurua-10584557.html",
-        "date": "2026-01-17 21:10:52",
-        "sentiment_score": 0.24897532165050507
-    },
-    {
-        "title": "Tensión en el Bernabéu: Vinicius Jr. llora ante el abucheo de la afición",
-        "image_url": "https://pxcdn.2001online.com/2001/012026/1768685359192/vinicius-mbappe-realmadrid-partido_117_1200x675.jpeg?ch=675&cw=1200",
-        "tags": [
-            "laliga",
-            "real madrid",
-            "vinicius jr. llora",
-            "vinicius jr",
-            "santiago bernabéu",
-            "pitos en el bernabéu"
-        ],
-        "link": "https://2001online.com/deportes/tension-en-el-bernabeu-vinicius-jr-llora-ante-el-abucheo-de-la-aficion-202611717400",
-        "date": "2026-01-17 21:10:05",
-        "sentiment_score": -0.9074401808902621
-    },
-    {
-        "title": "Pese al gol del Cuti Romero, Tottenham perdió en el final ante West Ham y agudizó su mal momento en la Premier League",
-        "image_url": "https://www.infobae.com/resizer/v2/OTOPD2BB4RDW5AV3BAQOHUHBXY.JPG?auth=9ab5b5f42c4839bc17138457e4c62db46235c629cdd794e6151c024634b79472&height=2313&smart=true&width=3417",
-        "tags": [
-            "tottenham",
-            "cristian romero",
-            "premier league"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/17/pese-al-gol-del-cuti-romero-tottenham-perdio-en-el-final-ante-west-ham-y-agudizo-su-mal-momento-en-la-premier-league/",
-        "date": "2026-01-17 21:07:58",
-        "sentiment_score": 0.5016171485185623
-    },
-    {
-        "title": "Luis Astolfi, el primer romance conocido de la infanta Elena que no terminó en boda",
-        "image_url": "https://okdiario.com/look/img/2025/12/19/dl_u292024_002.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://okdiario.com/look/actualidad/infanta-elena-romance-luis-astolfi-primer-amor-2453700",
-        "date": "2026-01-17 21:00:01",
-        "sentiment_score": -0.13573360443115234
-    },
-    {
-        "title": "Álvaro Arbeloa critica los silbidos en el Bernabéu: \"Son de gente que no quiere al Real Madrid\"",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/17164745/Arbeloa.webp",
-        "tags": [
-            "bernabéu",
-            "deportes",
-            "fútbol",
-            "real madrid",
-            "laliga"
-        ],
-        "link": "https://www.elnacional.com/2026/01/alvaro-arbeloa-critica-los-silbidos-en-el-bernabeu-son-de-gente-que-no-quiere-al-real-madrid/",
-        "date": "2026-01-17 20:50:34",
-        "sentiment_score": -0.5712246932089329
-    },
-    {
-        "title": "El pletórico Cádiz CF empieza la segunda vuelta frente a un Albacete eufórico",
-        "image_url": "https://s3.abcstatics.com/lavozdigital/www/multimedia/canal-amarillo/2026/01/17/464A3697%20(1)_20260117204056-RnJryF51txHQ1oQgCx6tQHI-758x531@abc.JPG",
-        "tags": [
-            "liga de fútbol profesional",
-            "mercado de fichajes",
-            "real madrid",
-            "albacete balompié",
-            "cádiz cf"
-        ],
-        "link": "https://www.lavozdigital.es/canal-amarillo/noticias-cadiz-cf/pletorico-cadiz-empieza-segunda-vuelta-frente-albacete-20260117212901-div.html",
-        "date": "2026-01-17 20:42:56",
-        "sentiment_score": 0.0182420015335083
-    },
-    {
-        "title": "Checo Pérez prueba por primera vez el monoplaza de Cadillac",
-        "image_url": "https://mundonow.com/wp-content/uploads/2025/12/shutterstock_2352095289-1200x799.jpg",
-        "tags": [
-            "hogar y auto"
-        ],
-        "link": "https://mundonow.com/checo-perez-prueba-por-primera-vez-el-monoplaza-de-cadillac/",
-        "date": "2026-01-17 21:57:36",
-        "sentiment_score": 0.44759104400873184
-    },
-    {
-        "title": "Lily Phillips, confesiones de la mujer más escandalosa del mundo: \"Vi porno por primera vez a los 11 años. Es necesario al 100% poner límites de edad\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/da74726c09132be564ee3257b8a0cb81/crop/117x368/2574x2825/f/image/jpeg/assets/multimedia/imagenes/2022/02/09/16444360039230.jpg",
-        "tags": [
-            "artículos martín mucha",
-            "nlpremium",
-            "sexo",
-            "influencers",
-            "reino unido"
-        ],
-        "link": "https://www.elmundo.es/cronica/2026/01/17/6969304be9cf4aac328b45d0.html",
-        "date": "2026-01-17 21:52:24",
-        "sentiment_score": 0.2992652505636215
-    },
-    {
-        "title": "El empresariado catalán se divide ante Illa por la financiación y los planes de Sánchez",
-        "image_url": "https://static.eldiario.es/clip/7108802c-db9d-46b2-bb75-0ae71e2e31a5_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "periodismo independiente",
-            "barcelona",
-            "cataluña",
-            "noticias",
-            "ignacio escolar",
-            "actualidad",
-            "política",
-            "economía"
-        ],
-        "link": "https://www.eldiario.es/catalunya/empresariado-catalan-divide-illa-financiacion-planes-sanchez_1_12907298.html",
-        "date": "2026-01-17 21:49:38",
-        "sentiment_score": -0.067554771900177
-    },
-    {
-        "title": "Así funciona el abono transporte único que empieza este lunes: ¿Cómo se usa? ¿Y dónde se compra?",
-        "image_url": "https://static.eldiario.es/clip/64111722-4311-4b1f-bbe6-f629ba21a7b6_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "empieza",
-            "unico",
-            "lunes",
-            "compra",
-            "funciona",
-            "transporte",
-            "abono"
-        ],
-        "link": "https://www.eldiario.es/economia/funciona-abono-transporte-unico-empieza-lunes-compra_1_12914030.html",
-        "date": "2026-01-17 21:49:37",
-        "sentiment_score": -0.0883680135011673
-    },
-    {
-        "title": "El Gobierno se atasca con la crisis de vivienda: choque entre los socios y medidas fiscales que no avanzan",
-        "image_url": "https://static.eldiario.es/clip/17d1eeb7-97f6-41f8-939b-e060626af9ad_16-9-discover-aspect-ratio_default_1134451.jpg",
-        "tags": [
-            "medidas",
-            "socios",
-            "no",
-            "crisis",
-            "avanzan",
-            "atasca",
-            "fiscales",
-            "gobierno",
-            "vivienda",
-            "choque"
-        ],
-        "link": "https://www.eldiario.es/economia/gobierno-atasca-crisis-vivienda-choque-socios-medidas-fiscales-no-avanzan_1_12909482.html",
-        "date": "2026-01-17 21:49:35",
-        "sentiment_score": -0.017562925815582275
-    },
-    {
-        "title": "La producción catalana 'Sirat', gran triunfadora de los premios del Cine Europeo",
-        "image_url": "https://static1.ara.cat/clip/a2fd068f-15bf-4aea-8201-bc49e9a30c12_16-9-aspect-ratio_default_0_x3231y1356.jpg",
-        "tags": [
-            "catalana",
-            "europeo",
-            "premios",
-            "triunfadora",
-            "produccion",
-            "cine",
-            "sirat",
-            "gran"
-        ],
-        "link": "https://es.ara.cat/cultura/cine/produccion-catalana-sirat-gran-triunfadora-premios-cine-europeo_1_5621236.html",
-        "date": "2026-01-17 21:23:15",
-        "sentiment_score": -0.009823024272918701
-    },
-    {
-        "title": "'Valor sentimental' se corona como mejor película europea y 'Sirat' acapara méritos por su impactante técnica",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc9ed867-6ae1-4048-9752-147583c8341b_16-9-aspect-ratio_default_0_x1000y360.jpg",
-        "tags": [
-            "cine europeo"
-        ],
-        "link": "https://www.informacion.es/ocio/cine/2026/01/17/sentimental-triunfa-premios-cine-europeo-125795152.html",
-        "date": "2026-01-17 21:05:04",
-        "sentiment_score": 0.3144722580909729
-    },
-    {
-        "title": "El Curso MIR tendrá rércord de alumnos presenciales en Oviedo: 1.500, y la mayoría de fuera de Asturias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b52273e3-5d3a-4fa1-a27d-d2d540f2b543_16-9-aspect-ratio_default_0_x800y400.jpg",
-        "tags": [
-            "asturias",
-            "simulacro",
-            "mir",
-            "médicos"
-        ],
-        "link": "https://www.lne.es/asturias/2026/01/17/curso-mir-tendra-rercord-alumnos-125794915.html",
-        "date": "2026-01-17 21:04:41",
-        "sentiment_score": -0.09224092960357666
-    },
-    {
-        "title": "Lo mas viral de la semana: Julio Iglesias niega acusaciones de agresión sexual",
-        "image_url": "https://static.wixstatic.com/media/cf263a_d3e7b0dbbcd84427a91181ee7352b7b3~mv2.png/v1/fit/w_939,h_544,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/lo-mas-viral-de-la-semana-julio-iglesias-niega-acusaciones-de-agresi%C3%B3n-sexual",
-        "date": "2026-01-17 19:45:34",
-        "sentiment_score": -0.7767717130482197
-    },
-    {
-        "title": "¿Bolaños candidato a alcalde? La fragilidad de Reyes Maroto alimenta la operación de recambio en Madrid",
-        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744093164_260957893_1706x960.jpg",
-        "tags": [
-            "reyes maroto",
-            "félix bolaños garcía",
-            "josé luis martínez almeida",
-            "madrid",
-            "política",
-            "óscar lópez",
-            "psm-psoe"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20260118/bolanos-candidato-alcalde-fragilidad-reyes-maroto-alimenta-operacion-recambio-madrid/1003744092490_0.html",
-        "date": "2026-01-18 02:06:13",
-        "sentiment_score": -0.1590404510498047
-    },
-    {
-        "title": "Mañueco o el arte de salir airoso de la primera coalición con Vox: blinda la hegemonía del PP y los sondeos respaldan su gestión",
-        "image_url": "https://s3.elespanol.com/2026/01/17/actualidad/1003744093880_260967829_1706x960.jpg",
-        "tags": [
-            "elecciones castilla y león",
-            "política castilla y león",
-            "junta de castilla y león",
-            "alfonso fernández mañueco",
-            "política",
-            "región",
-            "partido popular (pp)",
-            "partido popular de castilla y león"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/20260118/manueco-arte-salir-airoso-primera-coalicion-vox-blinda-hegemonia-pp-sondeos-respaldan-gestion/1003744093545_0.html",
-        "date": "2026-01-18 02:05:38",
-        "sentiment_score": 0.4655204862356186
-    },
-    {
-        "title": "Pere Navarro, el 'inquisidor' de la DGT que obliga a llevar la V16 y no quiere que uses el coche: \"¿Tienes prisa? Pide un Uber\"",
-        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744092880_260953388_1706x960.jpg",
-        "tags": [
-            "tráfico",
-            "porfolio",
-            "dgt dirección general de tráfico",
-            "reportajes",
-            "industria automovilística",
-            "movilidad",
-            "vehículos"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260118/pere-navarro-inquisidor-dgt-obliga-llevar-v16-no-quiere-uses-coche-prisa-pide-uber/1003744092181_0.html",
-        "date": "2026-01-18 01:06:01",
-        "sentiment_score": 0.0776856392621994
-    },
-    {
-        "title": "Real Madrid se sobrepuso a la avalancha de abucheos en el Bernabéu",
-        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/01/REal-Madrid.jpg",
-        "tags": [
-            "abucheos",
-            "real madrid",
-            "17ene",
-            "deportes"
-        ],
-        "link": "https://laverdaddemonagas.com/2026/01/17/real-madrid-bernabeu/",
-        "date": "2026-01-18 00:38:56",
-        "sentiment_score": -0.25845643877983093
-    },
-    {
-        "title": "El Bernabéu afina su punto de mira: el juicio público a Vinicius y el indulto a los canteranos y a Kylian Mbappé",
-        "image_url": "https://s3.elespanol.com/2026/01/17/actualidad/1003744093832_260967183_1706x960.jpg",
-        "tags": [
-            "jude bellingham",
-            "fútbol",
-            "real madrid cf",
-            "federico valverde",
-            "álvaro arbeloa",
-            "vinícius júnior",
-            "deportes"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20260118/bernabeu-afina-punto-mira-juicio-publico-vinicius-indulto-canteranos-kylian-mbappe/1003744093707_0.html",
-        "date": "2026-01-18 00:34:55",
-        "sentiment_score": 0.5172077268362045
-    },
-    {
-        "title": "Las portadas de una \"bronca histórica\" al Real Madrid y a Florentino en el Bernabéu",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
-        "tags": [
-            "la liga 2025/2026",
-            "football"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/portadas-prensa-deportiva-principales-medios-naciones-internacionales-hoy-domingo-18-de-enero_sto23260197/story.shtml",
-        "date": "2026-01-18 00:25:30",
-        "sentiment_score": -0.6882192678749561
-    },
-    {
-        "title": "17 ENE 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/17-ene-2026-tramo-final-juego-20260118_3288983.html",
-        "date": "2026-01-18 00:20:00",
-        "sentiment_score": -0.05295535922050476
-    },
-    {
-        "title": "Jordi Évole: \"Iñaki Urdangarín fue una cabeza de turco. Pasó de ser el yerno perfecto de España a alguien vilipendiado\"",
-        "image_url": "https://s3.elespanol.com/2026/01/15/bluper/1003744091400_260935139_1706x960.jpg",
-        "tags": [
-            "programas de televisión",
-            "televisión",
-            "bluper",
-            "jordi évole"
-        ],
-        "link": "https://www.elespanol.com/bluper/20260118/jordi-evole-inaki-urdangarin-cabeza-turco-paso-yerno-perfecto-espana-alguien-vilipendiado/1003744089372_0.html",
-        "date": "2026-01-18 00:13:17",
-        "sentiment_score": -0.11196452379226685
-    },
-    {
-        "title": "Los plazos electorales que marcan los estatutos del Barça para convocar elecciones: 40 días como mínimo",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/16/culemania/palco/1003742724018_15609772_1706x960.jpg",
-        "tags": [
-            "junta directiva del barça",
-            "palco",
-            "elecciones barça",
-            "joan laporta"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260118/plazos-electorales-marcan-estatutos-barca-convocar-elecciones/1003742723859_0.html",
-        "date": "2026-01-17 23:21:51",
-        "sentiment_score": 0.07421357929706573
-    },
-    {
-        "title": "Jaime Liriano (General Mills): “La marca blanca es un claro competidor que nos obliga a ser diferentes con Häagen-Dazs”",
-        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744092496_260948604_1706x960.jpg",
-        "tags": [
-            "general mills",
-            "distribución"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20260118/jaime-liriano-general-mills-marca-blanca-claro-competidor-obliga-diferentes-haagen-dazs/1003744090577_0.html",
-        "date": "2026-01-18 02:04:33",
-        "sentiment_score": 0.16664379090070724
-    },
-    {
-        "title": "Clima en Barcelona: conoce el pronóstico y prepárate antes de salir",
-        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
-        "tags": [
-            "barcelona",
-            "noticias",
-            "tiempo en españa",
-            "españa noticias",
-            "españa sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/18/clima-en-barcelona-conoce-el-pronostico-y-preparate-antes-de-salir/",
-        "date": "2026-01-18 02:00:34",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "Domingo 18 de enero (02:00 GMT)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/18/domingo-18-de-enero-0200-gmt/",
-        "date": "2026-01-18 02:00:17",
-        "sentiment_score": 0.003595098853111267
-    },
-    {
-        "title": "Cuando los Reyes Magos meten la pata... los 'ecommerce' hacen caja",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2026/01/16/149416290-RSX8Rkya7DnzacSmqVwJhmL-1200x840@diario_abc.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/reyes-magos-meten-pata-ecommerce-caja-20260116022155-nt.html",
-        "date": "2026-01-18 01:21:55",
-        "sentiment_score": -0.003820747137069702
-    },
-    {
-        "title": "Pere Gimferrer, \"el hombre vestido de seda\": lo que no suele decirse se hace texto en 'Balada', su nuevo libro",
-        "image_url": "https://s3.elespanol.com/2026/01/05/actualidad/1003744078835_260776817_1706x960.jpg",
-        "tags": [
-            "pere gimferrer",
-            "poesía",
-            "ec-critica-letras"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/letras/poesia/20260118/pere-gimferrer-hombre-vestido-seda-no-suele-decirse-hace-texto-balada-nuevo-libro/1003744078766_0.html",
-        "date": "2026-01-18 00:58:14",
-        "sentiment_score": 0.03621281683444977
-    },
-    {
-        "title": "Messi comenzó la pretemporada en Inter Miami y revolucionó las redes: la reacción de Antonela y el mensaje de la MLS",
-        "image_url": "https://www.infobae.com/resizer/v2/MOG4PLGCS5BRNGR2GW3QLKSVBI.jpeg?auth=cd5732c23b4430f1bdc2636964e7f073b90e5b2a0df446c74c7f57184588a085&height=921&smart=true&width=1638",
-        "tags": [
-            "deportes-argentina",
-            "inter miami",
-            "lionel messi",
-            "mls",
-            "javier mascherano",
-            "rodrigo de paul",
-            "jorge mas"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/18/messi-comenzo-la-pretemporada-en-inter-miami-y-revoluciono-las-redes-la-reaccion-de-antonela-y-el-mensaje-de-la-mls/",
-        "date": "2026-01-18 00:08:30",
-        "sentiment_score": 0.785016130656004
-    },
-    {
-        "title": "«Tenemos que conseguir un ecosistema donde se reparta la prosperidad y alcance a las pymes»",
-        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2026/01/17/210831021-knwF--1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "cantabria (provincia)",
-            "foro económico de el diario montañés",
-            "economia",
-            "unión europea",
-            "salario mínimo interprofesional (smi)",
-            "españa",
-            "europa"
-        ],
-        "link": "https://www.eldiariomontanes.es/economia/conseguir-ecosistema-reparta-prosperidad-alcance-pymes-20260118075134-nt.html",
-        "date": "2026-01-18 00:00:00",
-        "sentiment_score": 0.07339222729206085
-    },
-    {
         "title": "La urbanización-búnker de Rocío Carrasco en Madrid no es La Finca, pero tiene mucho lujo",
         "image_url": "https://theobjective.com/wp-content/uploads/2026/01/rocio-carrasco-urba.jpeg",
         "tags": [
@@ -1402,16 +915,6 @@ export default [
         "link": "https://www.deia.eus/athletic/2026/01/19/llamativo-caso-selton-athletic-10587192.html",
         "date": "2026-01-19 06:04:51",
         "sentiment_score": 0.40614913403987885
-    },
-    {
-        "title": "Lo mas viral de la semana: Julio Iglesias niega acusaciones de agresión sexual",
-        "image_url": "https://static.wixstatic.com/media/cf263a_d3e7b0dbbcd84427a91181ee7352b7b3~mv2.png/v1/fit/w_939,h_544,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/lo-mas-viral-de-la-semana-julio-iglesias-niega-acusaciones-de-agresi%C3%B3n-sexual",
-        "date": "2026-01-17 19:45:34",
-        "sentiment_score": -0.7767715286463499
     },
     {
         "title": "UEFA Champions League: Estos serán los partidos del martes 20 de enero",
@@ -2921,5 +2424,254 @@ export default [
         "link": "https://www.elplural.com/autonomias/cataluna/cataluna-corta-servicio-rodalies-analizar-estado-red-accidente-mortal-gelida_379237102",
         "date": "2026-01-21 06:41:00",
         "sentiment_score": -0.14604923129081726
+    },
+    {
+        "title": "La pausa a las visas para inmigrante a EEUU entra en vigor este #21Ene",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_58-1.jpg",
+        "tags": [
+            "eeuu",
+            "actualidad",
+            "internacionales",
+            "usa",
+            "visas",
+            "inmigrante"
+        ],
+        "link": "https://lapatilla.com/2026/01/21/la-pausa-a-las-visas-para-inmigrante-a-eeuu-entra-en-vigor-este-21ene/",
+        "date": "2026-01-21 15:26:02",
+        "sentiment_score": 0.1642349511384964
+    },
+    {
+        "title": "Cinco claves para entender el ambicioso plan de Trump por Groenlandia",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_53.jpg",
+        "tags": [
+            "ambicioso",
+            "actualidad",
+            "internacionales",
+            "usa",
+            "plan",
+            "trump",
+            "groenlandia"
+        ],
+        "link": "https://lapatilla.com/2026/01/21/cinco-claves-para-entender-el-ambicioso-plan-de-trump-por-groenlandia/",
+        "date": "2026-01-21 12:38:46",
+        "sentiment_score": -0.3110021948814392
+    },
+    {
+        "title": "Reino Unido autoriza la «megaembajada» de China en Londres en medio de fuertes críticas",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/24/media_thumb-link-4138091.webp?1768936986=",
+        "tags": [
+            "actualidad",
+            "reino unido",
+            "china"
+        ],
+        "link": "https://www.meneame.net/story/reino-unido-autoriza-megaembajada-china-londres-medio-fuertes",
+        "date": "2026-01-21 11:20:02",
+        "sentiment_score": 0.0066460371017456055
+    },
+    {
+        "title": "Un verano para no olvidar: Castellón se prepara para vivir un eclipse histórico y atraer a miles de turistas",
+        "image_url": "https://imagenes.esdiario.com/files/og_thumbnail/uploads/2026/01/21/6971098a5e2db.jpeg",
+        "tags": [
+            "castellón"
+        ],
+        "link": "https://www.esdiario.com/comunidad-valenciana/castellon/260121/177620/verano-olvidar-castellon-prepara-vivir-eclipse-historico-atraer-miles-turistas.html",
+        "date": "2026-01-21 17:15:33",
+        "sentiment_score": 0.5095106959342957
+    },
+    {
+        "title": "Morante de la Puebla reaparecerá el Domingo de Resurrección en Sevilla",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/21/Clipboard-0217.jpg",
+        "tags": [
+            "toros",
+            "morante de la puebla",
+            "sevilla"
+        ],
+        "link": "https://www.leonoticias.com/culturas/morante-puebla-reaparecera-domingo-resurreccion-sevilla-20260121180745-ntrc.html",
+        "date": "2026-01-21 17:07:49",
+        "sentiment_score": -0.061260566115379333
+    },
+    {
+        "title": "UPN reclama explicaciones sobre los cambios en el límite de la velocidad: «La irresponsabilidad del Gobierno es inadmisible»",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/05/30/66582713889b2.r_d.3169-1234-2000.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20260121/upn-reclama-explicaciones-sobre-cambios-limite-velocidad-irresponsabilidad-gobierno-inadmisible_376841.html",
+        "date": "2026-01-21 17:05:38",
+        "sentiment_score": -0.8865302577614784
+    },
+    {
+        "title": "Derbis y duelos de Champions: El Tourmalet del Valencia CF para huir del descenso",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2973855b-0d6a-4ca9-b37a-5d129c1e54a2_16-9-aspect-ratio_default_0_x714y317.jpg",
+        "tags": [
+            "real madrid",
+            "mestalla",
+            "valencia cf",
+            "villarreal",
+            "valencia",
+            "deportes",
+            "el valencia"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2026/01/21/valencia-calendario-liga-125918476.html",
+        "date": "2026-01-21 17:00:44",
+        "sentiment_score": 0.043373286724090576
+    },
+    {
+        "title": "El Betis quiere acercar el Top 8 y el Celta asegurar los 'playoffs'",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260121180026_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-betis-quiere-acercar-top-celta-asegurar-playoffs-20260121180026.html",
+        "date": "2026-01-21 17:00:26",
+        "sentiment_score": 0.11364627629518509
+    },
+    {
+        "title": "A qué hora y dónde ver el partido de Champions entre el Slavia de Praga y el FC Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/OFZQXYT2VNGJDJYFI3AYJV6FFQ.jpg?auth=88f669b7cf732899646afd730859d0edfce50a8194125cbb65ad4b9437cded5f&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-noticias",
+            "españa-deportes",
+            "fútbol",
+            "fútbol españa",
+            "fc barcelona",
+            "champions",
+            "slavia de praga"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/01/21/a-que-hora-y-donde-ver-el-partido-de-champions-entre-el-slavia-de-praga-y-el-fc-barcelona/",
+        "date": "2026-01-21 16:55:22",
+        "sentiment_score": 0.08707285672426224
+    },
+    {
+        "title": "Cofares entrega los Premios ‘Tutor Destacado’ de la Facultad de Farmacia de la USAL",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/Premios-Cofares.jpg",
+        "tags": [
+            "premios",
+            "universidades",
+            "servimedia",
+            "galardones",
+            "fármacos",
+            "actualidad"
+        ],
+        "link": "https://theobjective.com/actualidad/2026-01-21/cofares-premios-destacado-facultad-farmacia-usal/",
+        "date": "2026-01-21 16:54:51",
+        "sentiment_score": 0.6392028965055943
+    },
+    {
+        "title": "Deportes | Europeo de Judo, Boxam Élite, Nacionales de Atletismo y Duatlón, Rallye, Open de Taekwondo, Gran Fondo y Super Cup Massi este 2026 en La Nucía",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1761682.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/europeo-de-judo-boxam-elite-nacionales-de-atletismo-y-duatlon-rallye-open-de-taekwondo-gran-fondo-y-super-cup-massi-este-2026-en-la-nucia",
+        "date": "2026-01-21 16:54:48",
+        "sentiment_score": 0.08035703748464584
+    },
+    {
+        "title": "Trànsit levanta las barreras del peaje de la C-32: “Cuando se recupere el servicio de Rodalies dejará de ser gratis”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/12/12/65786e4709575.r_d.3629-3204-1785.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lavanguardia.com/motor/actualidad/20260121/11445466/transit-levanta-barreras-peaje-c-32-cuando-recupere-servicio-rodalies-dejara-gratis.html",
+        "date": "2026-01-21 17:18:10",
+        "sentiment_score": -0.5618716962635517
+    },
+    {
+        "title": "El juez procesa al pederasta del Raval en un tercer caso por violar y prostituir a dos menores",
+        "image_url": "https://static.eldiario.es/clip/0cb7e5df-786c-4dc1-b5ee-bf9631ddb00a_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "noticias",
+            "política",
+            "periodismo independiente",
+            "ignacio escolar",
+            "barcelona",
+            "cataluña",
+            "actualidad",
+            "economía"
+        ],
+        "link": "https://www.eldiario.es/catalunya/juez-procesa-pederasta-raval-tercer-caso-violar-prostituir-menores_1_12925128.html",
+        "date": "2026-01-21 17:17:20",
+        "sentiment_score": -0.3390432894229889
+    },
+    {
+        "title": "Jordi Castelló, ingeniero de caminos: “En Cercanías los maquinistas accionan periódicamente el pedal de hombre muerto para demostrar que están conscientes”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/21/697105fc08514.png",
+        "tags": [
+            "motor"
+        ],
+        "link": "https://www.lavanguardia.com/motor/20260121/11445559/jordi-castello-ingeniero-caminos-cercanias-maquinistas-accionan-periodicamente-pedal-hombre-muerto-demostrar-conscientes.html",
+        "date": "2026-01-21 17:15:47",
+        "sentiment_score": -0.8459252156317234
+    },
+    {
+        "title": "Aigües de Barcelona invirtió casi seis millones de euros en proyectos de innovación en 2025",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/21/vivir-en-barcelona/1003742725423_15627457_1706x960.jpg",
+        "tags": [
+            "empresas barcelona",
+            "innovación",
+            "vivir en barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260121/aigues-barcelona-invirtio-millones-euros-proyectos-innovacion/1003742725422_0.html",
+        "date": "2026-01-21 17:15:36",
+        "sentiment_score": -0.744460778310895
+    },
+    {
+        "title": "Así será el coche que estrenará Audi en la Fórmula 1 este 2026",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7a9bfd0a-2cf4-4190-b3b6-b0ad3083e9d4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "berlín",
+            "audi",
+            "automovilismo",
+            "australia"
+        ],
+        "link": "https://www.elperiodico.com/es/motor/20260121/asi-sera-coche-estrenara-audi-formula-1-2026-125932662",
+        "date": "2026-01-21 17:15:31",
+        "sentiment_score": 0.10181404650211334
+    },
+    {
+        "title": "Vibraciones en los trenes de alta velocidad, ¿pronóstico de la tragedia?: \"Cogí el Iryo anterior al que descarriló y vibraba mucho\"",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/01/21/034B6D32-FD3E-4243-A087-FC4A029AD3A2/salman_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "antena3",
+            "programas",
+            "y ahora sonsoles"
+        ],
+        "link": "https://www.antena3.com/programas/y-ahora-sonsoles/vibraciones-trenes-alta-velocidad-pronostico-tragedia-cogi-iryo-anterior-que-descarrilo-vibraba-mucho_202601216971099ff21351044da462d2.html",
+        "date": "2026-01-21 17:15:11",
+        "sentiment_score": -0.5887933373451233
+    },
+    {
+        "title": "Una maquinista leonesa en prácticas, entre las heridas del accidente de Rodalíes en Barcelona en el que murió el conductor",
+        "image_url": "https://album.mediaset.es/eimg/2026/01/21/europapress-7234737-trenes-servicio-estacion-francia-barcelona-21-enero-2026-barcelona_50e4.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20260121/maquinista-practicas-accidente-rodalies-barcelona_18_018122627.html",
+        "date": "2026-01-21 17:14:12",
+        "sentiment_score": -0.6292020715773106
+    },
+    {
+        "title": "Castellón presenta su estrategia turística con el eclipse total de sol del 12 de agosto como «gran reclamo»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2026/01/21/carrasco-fitur-eclipse-RDVxXCIOi0e5CvVHcwwEQGJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "valencia",
+            "españa"
+        ],
+        "link": "https://www.abc.es/espana/comunidad-valenciana/castellon-presenta-estrategia-turistica-eclipse-total-sol-20260121181252-nt.html",
+        "date": "2026-01-21 17:13:40",
+        "sentiment_score": 0.05119386315345764
+    },
+    {
+        "title": "Fernando Huerta, el maquinista de 28 años que murió en Rodalies: aficionado del Sevilla y hermano de la Macarena",
+        "image_url": "https://album.mediaset.es/eimg/2026/01/21/fernando-huerta-el-maquinista-de-28-anos-que-murio-en-rodalies-aficionado-del-sevilla-y-hermano-de-l_4648.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20260121/fernando-huerta-maquinista-murio-rodalies-aficionado-sevilla-hermano-macarena_18_018122279.html",
+        "date": "2026-01-21 17:12:32",
+        "sentiment_score": -0.6460099965333939
     }
 ];
