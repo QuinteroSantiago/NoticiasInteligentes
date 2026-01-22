@@ -1,243 +1,5 @@
 export default [
     {
-        "title": "Los pescadores pararán en los puertos y protestarán en Madrid contra la nueva norma de control impuesta por la UE",
-        "image_url": "https://album.mediaset.es/eimg/2026/01/18/huelga-de-pescadores-contra-la-nueva-norma-de-control-impuesta-por-la-ue_817e.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.telecinco.es/noticias/economia/20260118/pescadores-protesta-madrid-paron-norma-control-impuesta-ue_18_018093247.html",
-        "date": "2026-01-18 17:20:57",
-        "sentiment_score": -0.0812322199344635
-    },
-    {
-        "title": "¿Viajas fuera del país? No siempre necesitas comprar dólares: 5 claves financieras para no caer en la bancarrota este verano",
-        "image_url": "https://www.infobae.com/resizer/v2/J3T3VXZ6GVAFFDSTJP3WQ67WRY.jpg?auth=901be2ba820314ea71f036690d36d573086d53a017988e212c8ce7e98ee20bf7&height=816&smart=true&width=1456",
-        "tags": [
-            "peru-economia",
-            "viajes",
-            "dolares",
-            "global66",
-            "comprar dolares",
-            "turismo",
-            "dinero",
-            "vacaciones",
-            "transferencias bancarias",
-            "tipo de cambio"
-        ],
-        "link": "https://www.infobae.com/peru/2026/01/18/viajas-fuera-del-pais-no-siempre-necesitas-comprar-dolares-5-claves-financieras-para-no-caer-en-la-bancarrota-este-verano/",
-        "date": "2026-01-18 17:17:00",
-        "sentiment_score": 0.37837594002485275
-    },
-    {
-        "title": "El Barcelona gana al Alhama en el regreso de Patri; la Real consolida plaza ‘Champions’",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/18/el-barcelona-gana-al-alhama-en-el-regreso-de-patri-la-real-consolida-plaza-champions/",
-        "date": "2026-01-18 17:15:58",
-        "sentiment_score": 0.3490590788424015
-    },
-    {
-        "title": "El Baskonia pulveriza su récord anotador en la primera mitad ante el Manresa",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a6748653-5735-4216-9649-57100e123e8d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "baskonia",
-            "histórico",
-            "acb",
-            "galbiati",
-            "récord",
-            "records",
-            "manresa",
-            "pulveriza"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/01/18/baskonia-pulveriza-records-manresa-galbiati-acb-record-historico-10586049.html",
-        "date": "2026-01-18 17:08:42",
-        "sentiment_score": 0.7604774460196495
-    },
-    {
-        "title": "Un histórico entrenador le cerró la puerta al Real Madrid en medio de la crisis: “No cuenten conmigo”",
-        "image_url": "https://www.infobae.com/resizer/v2/TK6N5EUIBFBQDH35XSDDMIQAIU.JPG?auth=c2d0ab6d9dab23f0fd085a83137447c2d3bdf22d0329bc8a7e54c08e750ddcec&height=1506&smart=true&width=2160",
-        "tags": [
-            "real madrid",
-            "liga de españa",
-            "deportes-internacional",
-            "josé mourinho",
-            "xabi alonso"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/18/un-historico-entrenador-le-cerro-la-puerta-al-real-madrid-en-medio-de-la-crisis-no-cuenten-conmigo/",
-        "date": "2026-01-18 17:08:28",
-        "sentiment_score": -0.061136744916439056
-    },
-    {
-        "title": "Las estadísticas del Albacete - Cádiz",
-        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/canal-amarillo/2026/01/18/WhatsApp%20Image%202026-01-18%20at%2017.32.49-RHljP9RtAvl8aD9igyumEoI-758x531@abc.jpeg",
-        "tags": [
-            "albacete",
-            "estadisticas",
-            "cadiz"
-        ],
-        "link": "https://www.lavozdigital.es/canal-amarillo/noticias-cadiz-cf/estadisticas-albacete-cadiz-20260118171005-div.html",
-        "date": "2026-01-18 17:01:55",
-        "sentiment_score": 0.10885077714920044
-    },
-    {
-        "title": "Una Copa medio vasca en cuartos",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/18/una-copa-medio-vasca-en-cuartos/",
-        "date": "2026-01-18 17:00:38",
-        "sentiment_score": -0.38448265194892883
-    },
-    {
-        "title": "Unicaja logra su cuarto billete seguido para la Copa y defenderá el título en Valencia",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/18/unicaja-logra-su-cuarto-billete-seguido-para-la-copa-y-defendera-el-titulo-en-valencia/",
-        "date": "2026-01-18 17:00:22",
-        "sentiment_score": 0.6856118645519018
-    },
-    {
-        "title": "Feijóo y sus barones se conjuran contra financiación «bilateral» de Sánchez: «Ni nos han dividido ni nos dividirán»",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/01/20260118170855.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "política"
-        ],
-        "link": "https://cronicadecantabria.com/cr/feijo-y-sus-barones-se-conjuran-contra-financiacin-bilateral-de-snchez-ni-nos-han-dividido-ni-nos-dividirn/",
-        "date": "2026-01-18 17:00:03",
-        "sentiment_score": -0.3025809973478317
-    },
-    {
-        "title": "Una red de cercanías a Calamocha o Huesca, Policía autonómica y vivienda:todo el programa del PAR",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/01/18/2026011817474836882.jpg",
-        "tags": [
-            "elecciones de aragón 2026"
-        ],
-        "link": "https://www.aragondigital.es/articulo/elecciones-aragon-2026/red-cercanias-calamocha-huesca-policia-autonomica-vivienda-todo-programa-par/20260118175452961425.html",
-        "date": "2026-01-18 16:54:52",
-        "sentiment_score": 0.05736922100186348
-    },
-    {
-        "title": "Propietarios de Barcelona se concentrarán frente al Congreso contra la ley que paraliza los desahucios",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/18/informacion-municipal/1003742724314_15613288_1706x960.jpg",
-        "tags": [
-            "alquiler vivienda",
-            "viviendas",
-            "el pulso de la ciudad",
-            "vivienda",
-            "okupas"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260118/propietarios-barcelona-concentraran-frente-congreso-ley-paraliza-desahucios/1003742724312_0.html",
-        "date": "2026-01-18 17:18:33",
-        "sentiment_score": -0.6008315235376358
-    },
-    {
-        "title": "95 años de historia y las mejores bravas de España por menos de 4 euros: El pueblo 'oculto' para comer bien y barato",
-        "image_url": "https://s3.elespanol.com/2026/01/13/actualidad/1003744087771_260891726_1706x960.jpg",
-        "tags": [
-            "españa",
-            "barcelona",
-            "destinos",
-            "restaurantes"
-        ],
-        "link": "https://www.elespanol.com/viajes/20260118/anos-historia-mejores-bravas-espana-euros-pueblo-oculto-comer-bien-barato/1003744087763_0.html",
-        "date": "2026-01-18 17:15:42",
-        "sentiment_score": -0.8294825293123722
-    },
-    {
-        "title": "Dos exposiciones, de Olena Mynenko y de Arturo Yelo, inauguran la temporada del Museo Cristóbal Gabarrón",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260118181237_260.jpg",
-        "tags": [
-            "murcia"
-        ],
-        "link": "https://www.europapress.es/murcia/noticia-dos-exposiciones-olena-mynenko-arturo-yelo-inauguran-temporada-museo-cristobal-gabarron-20260118181237.html",
-        "date": "2026-01-18 17:12:37",
-        "sentiment_score": 0.28864844888448715
-    },
-    {
-        "title": "Un experto explica cuánto cuesta mantener la Sagrada Familia abierta: “Vas a flipar”",
-        "image_url": "https://www.infobae.com/resizer/v2/3QWWHYBSPBHYHIOY4ONF2U724M.png?auth=32ceff09b41c93e7093240b8f8c6f9e8c6339ee9220418ae215c27b1f0249369&height=1080&smart=true&width=1920",
-        "tags": [
-            "tiktok españa",
-            "redes sociales",
-            "españa-economia",
-            "españa-noticias",
-            "virales españa",
-            "barcelona",
-            "antonio gaudí",
-            "cataluña",
-            "arquitectura",
-            "sagrada familia"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/18/un-experto-explica-cuanto-cuesta-mantener-la-sagrada-familia-abierta-vas-a-flipar/",
-        "date": "2026-01-18 17:10:13",
-        "sentiment_score": 0.6075369529426098
-    },
-    {
-        "title": "'Aragón, primero', el lema del PAR para las elecciones del 8-F: \"Resume la idea que el partido lleva tiempo defendiendo\"",
-        "image_url": "https://s3.elespanol.com/2026/01/18/actualidad/1003744094183_260971840_1706x960.jpg",
-        "tags": [
-            "partido aragonés regionalista",
-            "actualidad",
-            "aragón"
-        ],
-        "link": "https://www.elespanol.com/aragon/actualidad/20260118/aragon-primero-lema-par-elecciones-resume-idea-partido-lleva-tiempo-defendiendo/1003744094180_0.html",
-        "date": "2026-01-18 17:10:12",
-        "sentiment_score": -0.1485930010676384
-    },
-    {
-        "title": "La gasolina, factor clave en el Aston Martin AMR26 de Fernando Alonso, le provoca el último problema a la Fórmula 1",
-        "image_url": "https://s3.elespanol.com/2025/03/06/deportes/motor/f1/929168112_253689116_1706x960.jpg",
-        "tags": [
-            "fernando alonso",
-            "aston martin f1",
-            "deportes de motor",
-            "f1",
-            "mundial de fórmula 1"
-        ],
-        "link": "https://www.elespanol.com/deportes/motor/f1/20260118/gasolina-factor-clave-aston-martin-amr26-fernando-alonso-provoca-ultimo-problema-formula/1003744094161_0.html",
-        "date": "2026-01-18 17:09:22",
-        "sentiment_score": -0.7220204975455999
-    },
-    {
-        "title": "El millonario patrimonio de Jesús Vázquez a sus 60 años: más de 20 propiedades y varias empresas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ede60903-c097-4b9e-900b-149bf01e869b_16-9-aspect-ratio_default_1427106.jpg",
-        "tags": [
-            "pisos",
-            "empresas",
-            "barcelona",
-            "mercado inmobiliario",
-            "la revuelta",
-            "javier ambrossi",
-            "jesús vázquez",
-            "benidorm fest 2026",
-            "madrid",
-            "david broncano",
-            "mediaset"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20260118/jesus-vazquez-patrimonio-casas-empresas-madrid-barcelona-presentador-rtve-mediaset-dv-125676297",
-        "date": "2026-01-18 17:06:03",
-        "sentiment_score": 0.07920758426189423
-    },
-    {
-        "title": "Jared Leto (54) sobre su lugar favorito de España que marca la diferencia: 'Esa es la mejor para mí porque amo el agua'",
-        "image_url": "https://s3.elespanol.com/2026/01/14/actualidad/1003744089427_260911903_1706x960.jpg",
-        "tags": [
-            "viajes",
-            "españa",
-            "jared leto",
-            "destinos",
-            "mallorca"
-        ],
-        "link": "https://www.elespanol.com/viajes/20260118/jared-leto-lugar-favorito-espana-marca-diferencia-mejor-amo-agua/1003744089413_0.html",
-        "date": "2026-01-18 17:04:43",
-        "sentiment_score": 0.8419410064816475
-    },
-    {
         "title": "El caos devora a un desafortunado Barça en Anoeta",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1148dca0-d49f-4222-a95d-9bfd730a7c30_16-9-aspect-ratio_default_1428114.jpg",
         "tags": [
@@ -2889,5 +2651,306 @@ export default [
         "link": "https://www.diariodesevilla.es/opinion/articulos/ave-perdimos_0_2005701820.html",
         "date": "2026-01-22 02:06:26",
         "sentiment_score": -0.2594009339809418
+    },
+    {
+        "title": "La pausa a las visas para inmigrante a EEUU entra en vigor este #21Ene",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_58-1.jpg",
+        "tags": [
+            "eeuu",
+            "actualidad",
+            "internacionales",
+            "usa",
+            "visas",
+            "inmigrante"
+        ],
+        "link": "https://lapatilla.com/2026/01/21/la-pausa-a-las-visas-para-inmigrante-a-eeuu-entra-en-vigor-este-21ene/",
+        "date": "2026-01-21 15:26:02",
+        "sentiment_score": 0.16423587501049042
+    },
+    {
+        "title": "Cinco claves para entender el ambicioso plan de Trump por Groenlandia",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_53.jpg",
+        "tags": [
+            "ambicioso",
+            "actualidad",
+            "internacionales",
+            "usa",
+            "plan",
+            "trump",
+            "groenlandia"
+        ],
+        "link": "https://lapatilla.com/2026/01/21/cinco-claves-para-entender-el-ambicioso-plan-de-trump-por-groenlandia/",
+        "date": "2026-01-21 12:38:46",
+        "sentiment_score": -0.3110022470355034
+    },
+    {
+        "title": "Reino Unido autoriza la «megaembajada» de China en Londres en medio de fuertes críticas",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/24/media_thumb-link-4138091.webp?1768936986=",
+        "tags": [
+            "actualidad",
+            "reino unido",
+            "china"
+        ],
+        "link": "https://www.meneame.net/story/reino-unido-autoriza-megaembajada-china-londres-medio-fuertes",
+        "date": "2026-01-21 11:20:02",
+        "sentiment_score": 0.006647437810897827
+    },
+    {
+        "title": "El Centre del Carme inicia la temporada 2026 con dos muestras de videocreación sobre el mundo gamer, las relaciones humanas y la empatía",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/22/6971c23b9c4ff.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20260122/centre-carme-inicia-temporada-2026-dos-muestras-videocreacion-sobre-mundo-gamer-relaciones-humanas-empatia_376933.html",
+        "date": "2026-01-22 06:24:13",
+        "sentiment_score": 0.19134075567126274
+    },
+    {
+        "title": "Los datos que no gustarán a Ayuso: Televisión Española (TVE) arrasa en la Comunidad de Madrid",
+        "image_url": "https://www.elplural.com/uploads/s1/24/30/16/6/ayuso-rtve_7_480x270.jpeg",
+        "tags": [
+            "extratele"
+        ],
+        "link": "https://www.elplural.com/extratele/datos-no-gustaran-ayuso-television-espanola-tve-arrasa-comunidad-madrid_379289102",
+        "date": "2026-01-22 06:13:27",
+        "sentiment_score": -0.12127067148685455
+    },
+    {
+        "title": "\"La chica del lago' ha sido un desafío, una transición hacia otras cosas\"",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/69841a5b-b46f-4203-afff-d5dbc9a59e15_16-9-aspect-ratio_default_0_x798y499.jpg",
+        "tags": [
+            "desafio",
+            "transicion",
+            "sido",
+            "lago",
+            "chica"
+        ],
+        "link": "https://www.noticiasdenavarra.com/cultura/2026/01/22/chica-lago-sido-desafio-transicion-10601073.html",
+        "date": "2026-01-22 06:12:56",
+        "sentiment_score": -0.20921647548675537
+    },
+    {
+        "title": "Niños pasando frío en las aulas y techos que se desploman: siete años de abandono de Moreno Bonilla a la educación pública",
+        "image_url": "https://www.elplural.com/uploads/s1/24/16/42/1/moreno-bonilla-desprecia-a-los-mayores-con-una-subida-de-pensiones-mi-nima-ep_7_480x270.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.elplural.com/opinion/ninos-pasando-frio-aulas-techos-desploman-siete-anos-abandono-moreno-bonilla-educacion-publica_379344102",
+        "date": "2026-01-22 06:08:56",
+        "sentiment_score": -0.23778626322746277
+    },
+    {
+        "title": "Bebe",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0924cb93-f85b-4378-a363-ee97d505358f_16-9-aspect-ratio_default_0_x426y289.jpg",
+        "tags": [
+            "corazón",
+            "sevilla",
+            "música",
+            "padres"
+        ],
+        "link": "https://www.lacronicabadajoz.com/opinion/2026/01/22/bebe-125950402.html",
+        "date": "2026-01-22 06:02:11",
+        "sentiment_score": 0.258365735411644
+    },
+    {
+        "title": "Hace diez años, la gente se obsesionó con salir a capturar criaturas: así fue como Pokémon Go conquistó al mundo",
+        "image_url": "https://static.eldiario.es/clip/d6cf0b21-a863-4ff8-9f5b-23f029199f8b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "diez",
+            "criaturas",
+            "anos",
+            "obsesiono",
+            "conquisto",
+            "pm",
+            "pokemon",
+            "salir",
+            "go",
+            "mundo",
+            "gente",
+            "capturar"
+        ],
+        "link": "https://www.eldiario.es/spin/diez-anos-gente-obsesiono-salir-capturar-criaturas-pokemon-go-conquisto-mundo-pm_1_12924048.html",
+        "date": "2026-01-22 06:00:54",
+        "sentiment_score": -0.067477285861969
+    },
+    {
+        "title": "Así era el otro Palacio Real de Madrid en el siglo XV: hospedó a los Reyes Católicos y a sus herederos",
+        "image_url": "https://www.infobae.com/resizer/v2/SLKL4F4OWNFLTN4GJOCH5C5CGY.jpg?auth=e466815978baec11c7ae32d8002f82465ad18e5b16862db2882a7ff7af99edaa&height=1235&smart=true&width=1849",
+        "tags": [
+            "turismo",
+            "arquitectura",
+            "historia",
+            "españa-sociedad",
+            "arquitectura y diseño",
+            "españa-noticias",
+            "madrid",
+            "reyes católicos",
+            "viajes"
+        ],
+        "link": "https://www.infobae.com/espana/viajes/2026/01/22/asi-era-el-otro-palacio-real-de-madrid-en-el-siglo-xv-hospedo-a-los-reyes-catolicos-y-a-sus-herederos/",
+        "date": "2026-01-22 05:51:54",
+        "sentiment_score": 0.12274444103240967
+    },
+    {
+        "title": "El cambio de criterio en la velocidad de los trenes activa las alertas en PP y Vox",
+        "image_url": "https://s1.staticld.com/2026/01/21/sanchez-montero-puente-adamuz.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.libertaddigital.com/espana/politica/2026-01-22/el-cambio-de-criterio-en-la-velocidad-de-los-trenes-activa-las-alertas-en-pp-y-vox-7347267/",
+        "date": "2026-01-22 05:27:54",
+        "sentiment_score": -0.4242188520729542
+    },
+    {
+        "title": "Quién se juega la clasificación en la última jornada de la Champions League y cómo funciona el formato",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/01/21/clasificacion-ultima-jornada-champions-league-formato-orix/",
+        "date": "2026-01-22 05:03:39",
+        "sentiment_score": 0.1602083146572113
+    },
+    {
+        "title": "Cocaína en el coche y uniformes en el maletero: un policía local, sorprendido en el 'supermercado' de la droga de Mallorca",
+        "image_url": "https://static.eldiario.es/clip/26156dc4-2275-43f4-92b6-5db7347d0fe7_16-9-discover-aspect-ratio_default_1134742.jpg",
+        "tags": [
+            "uniformes",
+            "supermercado",
+            "droga",
+            "coche",
+            "sorprendido",
+            "local",
+            "mallorca",
+            "maletero",
+            "policia",
+            "cocaina"
+        ],
+        "link": "https://www.eldiario.es/illes-balears/sociedad/cocaina-coche-uniformes-maletero-policia-local-sorprendido-supermercado-droga-mallorca_1_12923574.html",
+        "date": "2026-01-22 05:02:44",
+        "sentiment_score": -0.24371792376041412
+    },
+    {
+        "title": "Accidente de tren en Adamuz y Gelida, última hora en directo | Rodalies continúa sin servicio en Cataluña",
+        "image_url": "https://s3.elespanol.com/2026/01/21/actualidad/1003744097463_261011961_1706x960.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/espana/20260122/accidente-tren-adamuz-gelida-barcelona-ultima-hora-directo-rodalies-cataluna/1003744099059_10.html",
+        "date": "2026-01-22 06:43:34",
+        "sentiment_score": -0.7838157489895821
+    },
+    {
+        "title": "Rodalies suspende su servicio desde primera hora por causas operativas",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/21/vivir-en-barcelona/1003742725295_15625913_1706x960.jpg",
+        "tags": [
+            "movilidad",
+            "rodalies"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/movilidad/20260122/rodalies-suspende-servicio-primera-hora-causas-operativas/1003742725540_0.html",
+        "date": "2026-01-22 06:38:07",
+        "sentiment_score": -0.68548883497715
+    },
+    {
+        "title": "Rodalies no prestará finalmente servicio este jueves \"por causas operativas\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/21/bomberos-revisan-este-miercoles-el-tren-de-rodalies-descarrilado-el-dia-anterior-en-barcelona.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/rodalies-prestara-finalmente-servicio-jueves-por-causas-operativasbr-f202601.html",
+        "date": "2026-01-22 06:32:53",
+        "sentiment_score": -0.7021540198475122
+    },
+    {
+        "title": "El precio de la gasolina en Madrid, Barcelona y otras ciudades este 22 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "precio gasolina",
+            "noticias",
+            "españa-economia",
+            "gasolina"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/22/el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-este-22-de-enero/",
+        "date": "2026-01-22 06:31:05",
+        "sentiment_score": -0.053244080394506454
+    },
+    {
+        "title": "Herrera analiza la crisis ferroviaria y todas las preguntas sin respuesta",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/07/15/6694ebeb006f0.jpeg",
+        "tags": [
+            "herrera en cope"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/noticias/carlos-herrera-analiza-crisis-ferroviaria-colapso-sistema-preguntas-respuesta-20260122_3291776.html",
+        "date": "2026-01-22 06:30:41",
+        "sentiment_score": -0.18611355125904083
+    },
+    {
+        "title": "Lo que debes saber hoy, 22 de enero, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/07/12/vivir-en-barcelona/1003742673272_14861103_1706x960.jpg",
+        "tags": [
+            "vivir en barcelona",
+            "metro barcelona",
+            "clima",
+            "tráfico",
+            "transports metropolitans barcelona tmb",
+            "tiempo"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260122/debes-saber-hoy-enero-barcelona/1003742725539_0.html",
+        "date": "2026-01-22 06:28:27",
+        "sentiment_score": 0.7595459446310997
+    },
+    {
+        "title": "Los usuarios de Rodalies encaran el segundo día sin servicio con resignación: \"¿Hoy tampoco hay trenes?\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6d0b5d41-bf8b-4566-a3b6-a40f5433dc67_16-9-discover-aspect-ratio_default_0_x720y270.jpg",
+        "tags": [
+            "movilidad"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20260122/usuarios-rodalies-encaran-segundo-dia-sin-servicio-125951291",
+        "date": "2026-01-22 06:27:54",
+        "sentiment_score": -0.6231198161840439
+    },
+    {
+        "title": "Última hora del accidente de tren en Córdoba, y del choque de Rodalies en Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/5B1YtBCOa7krdB927ZH3nRcrdmI=/arc-anglerfish-eu-central-1-prod-prisa/public/BKTYN56LRJBDHIAMRJOLKMNN34.jpg",
+        "tags": [
+            "córdoba",
+            "barcelona",
+            "accidentes ferrocarril",
+            "accidente trenes adamuz",
+            "españa",
+            "andalucía",
+            "adif",
+            "accidentes",
+            "trenes",
+            "renfe",
+            "madrid",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/2026-01-22/ultima-hora-del-accidente-de-tren-en-cordoba-y-del-choque-de-rodalies-en-barcelona.html",
+        "date": "2026-01-22 06:25:58",
+        "sentiment_score": -0.7081253807991743
+    },
+    {
+        "title": "Adif reduce temporalmente la velocidad máxima en tres puntos de la línea Madrid-València",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f5553605-b169-4f31-8c4e-bd17175818d8_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "valencia",
+            "adif",
+            "trenes",
+            "madrid"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260122/adif-reduce-temporalmente-velocidad-maxima-125927798",
+        "date": "2026-01-22 06:25:33",
+        "sentiment_score": -0.5871249325573444
+    },
+    {
+        "title": "Las imágenes aéreas del accidente de Gelida que paralizó el servicio ferroviario",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2026/01/22/6971c1a12abf4.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/20260122/imagenes-aereas-accidente-gelida-paralizo-servicio-ferroviario_376932.html",
+        "date": "2026-01-22 06:21:39",
+        "sentiment_score": -0.8182985819876194
     }
 ];
