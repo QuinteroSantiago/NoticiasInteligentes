@@ -1,143 +1,5 @@
 export default [
     {
-        "title": "La urbanización-búnker de Rocío Carrasco en Madrid no es La Finca, pero tiene mucho lujo",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/rocio-carrasco-urba.jpeg",
-        "tags": [
-            "urbanismo",
-            "gente",
-            "celebrities",
-            "rocío carrasco",
-            "madrid"
-        ],
-        "link": "https://theobjective.com/gente/2026-01-18/urbanizacion-rocio-carrasco-madrid-lujo/",
-        "date": "2026-01-18 06:30:00",
-        "sentiment_score": -0.22913454473018646
-    },
-    {
-        "title": "Aurelio Viribay: “Lorca sigue inspirando a compositores actuales”",
-        "image_url": "https://static.grupojoly.com/clip/174fdbe2-d15e-44bf-b17a-8c18cd8423a2_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "aurelio viribay",
-            "naroa intxausti",
-            "luken munguira",
-            "cezanne"
-        ],
-        "link": "https://www.malagahoy.es/ocio/aurelio-viribay-naroa-intxausti-luken-munguira-cezanne_0_2005670327.html",
-        "date": "2026-01-18 06:28:40",
-        "sentiment_score": 0.7113472279161215
-    },
-    {
-        "title": "La autoridad del entrenador",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/867767eb-4af0-4e78-9597-b7d87bfe0e8b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol",
-            "tiempo",
-            "madrid",
-            "barcelona",
-            "xabi alonso",
-            "estilo"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2026/01/18/autoridad-entrenador-xabi-alonso-125789254.html",
-        "date": "2026-01-18 06:00:52",
-        "sentiment_score": -0.5746067147701979
-    },
-    {
-        "title": "Más de sesenta años de confidencias y complicidad: Ana María y la Reina Sofía, hermanas por destino",
-        "image_url": "https://okdiario.com/look/img/2025/09/02/ana3.jpg",
-        "tags": [
-            "familia real española",
-            "casa real"
-        ],
-        "link": "https://okdiario.com/look/casa-real/mas-sesenta-anos-confidencias-complicidad-ana-maria-reina-sofia-hermanas-destino-2370135",
-        "date": "2026-01-18 06:00:51",
-        "sentiment_score": 0.044635578989982605
-    },
-    {
-        "title": "Contra la doctrina Monroe, la doctrina Marilyn...",
-        "image_url": "https://static.grupojoly.com/clip/35e2d94a-843a-4dcb-bd76-3ce17d1f35d2_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "marilyn",
-            "doctrina",
-            "monroe"
-        ],
-        "link": "https://www.diariodealmeria.es/ocio/doctrina-monroe-marilyn_0_2005670263.html",
-        "date": "2026-01-18 06:00:38",
-        "sentiment_score": -0.02887079119682312
-    },
-    {
-        "title": "Exigente examen para el Alavés en el Metropolitano",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/6a79abdc-0a8c-4cac-a554-b2f24017d206_16-9-aspect-ratio_default_0_x977y643.jpg",
-        "tags": [
-            "examen",
-            "metropolitano",
-            "exigente",
-            "alaves"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2026/01/18/exigente-examen-alaves-metropolitano-10583741.html",
-        "date": "2026-01-18 06:00:34",
-        "sentiment_score": -0.1455962061882019
-    },
-    {
-        "title": "Primera bola de partido copera ante el Manresa",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7877b30d-2364-4dd0-9626-057e1b232062_16-9-aspect-ratio_default_0_x1072y653.jpg",
-        "tags": [
-            "partido",
-            "bola",
-            "manresa",
-            "primera",
-            "copera"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/01/18/primera-bola-partido-copera-manresa-10584010.html",
-        "date": "2026-01-18 06:00:34",
-        "sentiment_score": -0.19021381437778473
-    },
-    {
-        "title": "Así se dibujó la Barcelona imaginada por David Uclés",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/01/17/234F8E44-A800-4C86-8FB2-032582E24CFF/obra-diego-robredo_69.jpg?crop=2362%2C1329%2Cx0%2Cy2124&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/asi-dibujo-barcelona-imaginada-david-ucles_20260118696c79455b0f0226996be93c.html",
-        "date": "2026-01-18 06:10:13",
-        "sentiment_score": 0.08544977009296417
-    },
-    {
-        "title": "La discografía de Diego de Morón",
-        "image_url": "https://static.grupojoly.com/clip/4f0ef82e-ca74-4b3d-be0a-c51db452180a_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "diego",
-            "discografia",
-            "moron"
-        ],
-        "link": "https://www.granadahoy.com/ocio/discografia-diego-moron_0_2005670282.html",
-        "date": "2026-01-18 06:07:45",
-        "sentiment_score": -0.5915551967918873
-    },
-    {
-        "title": "Una boda, una reina y el Monasterio de Sijena",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/818a1225-f593-4f9e-8989-09b0661f908e_16-9-aspect-ratio_default_0_x960y360.jpg",
-        "tags": [
-            "la reina",
-            "villanueva",
-            "ribagorza",
-            "aragón"
-        ],
-        "link": "https://www.elperiodicodearagon.com/cultura/entender-con-la-historia/2026/01/18/boda-reina-monasterio-sijena-125757596.html",
-        "date": "2026-01-18 06:00:47",
-        "sentiment_score": 0.031307339668273926
-    },
-    {
-        "title": "Javi Hernández y Luka Koleosho, de tener que salir del Espanyol a marcar goles sin parar",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagradaonline.com/javi-hernandez-koleosho-goles-tras-salir-espanyol-mirandes-espanyol/",
-        "date": "2026-01-18 06:00:46",
-        "sentiment_score": -0.6928733661770821
-    },
-    {
         "title": "Los pescadores pararán en los puertos y protestarán en Madrid contra la nueva norma de control impuesta por la UE",
         "image_url": "https://album.mediaset.es/eimg/2026/01/18/huelga-de-pescadores-contra-la-nueva-norma-de-control-impuesta-por-la-ue_817e.jpg",
         "tags": [
@@ -2673,5 +2535,204 @@ export default [
         "link": "https://www.telecinco.es/noticias/catalunya/20260121/fernando-huerta-maquinista-murio-rodalies-aficionado-sevilla-hermano-macarena_18_018122279.html",
         "date": "2026-01-21 17:12:32",
         "sentiment_score": -0.6460099965333939
+    },
+    {
+        "title": "2-0. La 'Juve' sentencia a Mourinho",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/21/2-0-la-juve-sentencia-a-mourinho/",
+        "date": "2026-01-21 22:20:19",
+        "sentiment_score": 0.290182888507843
+    },
+    {
+        "title": "El Atlético: ganar, golear y esperar en la última jornada para ir al top ocho",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/21/el-atletico-ganar-golear-y-esperar-en-la-ultima-jornada-para-ir-al-top-ocho/",
+        "date": "2026-01-21 22:19:46",
+        "sentiment_score": 0.4919637106359005
+    },
+    {
+        "title": "El Atlético: ganar, golear y esperar en la última jornada para ir al ‘top 8’",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/21/el-atletico-ganar-golear-y-esperar-en-la-ultima-jornada-para-ir-al-top-8/",
+        "date": "2026-01-21 22:19:13",
+        "sentiment_score": 0.37774310261011124
+    },
+    {
+        "title": "Champions League: Así quedó la tabla de posiciones tras la victoria de Barcelona",
+        "image_url": "https://i.ytimg.com/vi/CCu-99d-xdM/mqdefault.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/champions-league-asi-quedo-la-tabla-de-posiciones-tras-la-victoria-de-barcelona-202612118140",
+        "date": "2026-01-21 22:14:00",
+        "sentiment_score": 0.08068612217903137
+    },
+    {
+        "title": "Pedri, otra vez KO: saltan las alarmas en el Barça con su tercera lesión de la temporada",
+        "image_url": "https://s3.elespanol.com/2026/01/21/actualidad/1003744099003_261030630_1706x960.jpg",
+        "tags": [
+            "pedri gonzález",
+            "lesiones",
+            "fútbol",
+            "fc barcelona",
+            "deportes",
+            "champions league"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20260121/pedri-vez-ko-saltan-alarmas-barca-tercera-lesion-temporada/1003744098991_0.html",
+        "date": "2026-01-21 22:08:16",
+        "sentiment_score": -0.3507282957434654
+    },
+    {
+        "title": "El PP tilda de «indecente» que senadores del PSOE estén de vinos en Fitur con el no2 de Ábalos «en pleno luto»",
+        "image_url": "https://okdiario.com/img/2025/02/23/alicia-garcia-senado.jpg",
+        "tags": [
+            "comisión de investigación en el senado",
+            "psoe",
+            "fitur",
+            "josé luis ábalos",
+            "pp",
+            "españa"
+        ],
+        "link": "https://okdiario.com/espana/pp-acusa-senadores-del-psoe-tomar-vinos-fitur-ex-no-2-abalos-pleno-luto-oficial-16116430",
+        "date": "2026-01-21 22:03:38",
+        "sentiment_score": -0.3529462292790413
+    },
+    {
+        "title": "Atlético de Madrid y FC Barcelona en Champions",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/21/lamine-yamal-celebrando-un-gol-con-raphinha-y-pedri-durante-un-encuentro-del-fc-barcelona-photo-by-juan-manuel-serrano-arce-getty-images.jpeg",
+        "tags": [
+            "deporte"
+        ],
+        "link": "https://www.huffingtonpost.es/deporte/gran-jornada-champions-equipos-espanoles-atletico-fc-barcelona-athletic-paso-octavos-f202601.html",
+        "date": "2026-01-21 21:56:23",
+        "sentiment_score": -0.043286532163619995
+    },
+    {
+        "title": "José Manuel, rescatado por el \"ángel\" de Adamuz: dos horas atrapado en el vagón 1 y \"vi la luz\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/c6761d28815bd519cad39f2a74c73e6c/f/image/jpeg/assets/multimedia/imagenes/2022/03/18/16476300465282.jpg",
+        "tags": [
+            "accidente tren córdoba",
+            "andalucía",
+            "huelva",
+            "artículos chema rodríguez",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/andalucia/2026/01/21/6970b3e8fc6c8332728b4592.html",
+        "date": "2026-01-21 21:55:23",
+        "sentiment_score": -0.4689223989844322
+    },
+    {
+        "title": "Fichajes del fútbol europeo en 2026 que pueden mover apuestas",
+        "image_url": "https://correodelcaroni.com/wp-content/uploads/2026/01/FICHAJES_Europa.jpg",
+        "tags": [
+            "publicidad",
+            "publicitarios"
+        ],
+        "link": "https://correodelcaroni.com/anuncios/publicidad/fichajes-del-futbol-europeo-en-2026-que-pueden-mover-apuestas/",
+        "date": "2026-01-21 21:32:07",
+        "sentiment_score": 0.16232240200042725
+    },
+    {
+        "title": "Romeu: “Es muy motivante pensar en ganar la final al Real Madrid”",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/21/romeu-es-muy-motivante-pensar-en-ganar-la-final-al-real-madrid/",
+        "date": "2026-01-21 21:31:38",
+        "sentiment_score": 0.8654890665784478
+    },
+    {
+        "title": "El Barça entra en calor a tiempo en Praga",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/21/Clipboard-0261.jpg",
+        "tags": [
+            "champions league",
+            "f.c. barcelona"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-campeones/cronica-slavia-barcelona-champions-jornada7-20260121172933-ntrc.html",
+        "date": "2026-01-21 22:24:51",
+        "sentiment_score": 0.41985762119293213
+    },
+    {
+        "title": "Se empadronan fraudulentamente 8 personas en su casa en Barcelona, y debe demostrar que ella y su hija viven allí: \"Si no están en mi casa es porque viven en un sitio no empadronable. ¿Quién trafica con esto?\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2026/01/21/697150eed931f.jpeg",
+        "tags": [
+            "tressesenta"
+        ],
+        "link": "https://www.mundodeportivo.com/tressesenta/20260121/1002606088/empadronan-fraudulentamente-8-personas-casa-barcelona-debe-demostrar-hija-viven-mi-casa-viven-sitio-empadronable-trafica-esto-dct.html",
+        "date": "2026-01-21 22:24:49",
+        "sentiment_score": -0.9117692988365889
+    },
+    {
+        "title": "El Barça sufre pero vence en Praga",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/01/21/2026012123213467524.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/deportes/barca-sufre-vence-praga/20260121232354439664.html",
+        "date": "2026-01-21 22:23:54",
+        "sentiment_score": 0.8614153023809195
+    },
+    {
+        "title": "El Circo el Sol regresa a Sevilla con el estreno en España de ‘KURIOS’",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/21/el-circo-el-sol-regresa-a-sevilla-con-el-estreno-en-espana-de-kurios/",
+        "date": "2026-01-21 22:22:03",
+        "sentiment_score": 0.04849711060523987
+    },
+    {
+        "title": "2-3. El Igualada no puede con el Trissino y sigue sin ganar en Les Comes",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/21/2-3-el-igualada-no-puede-con-el-trissino-y-sigue-sin-ganar-en-les-comes/",
+        "date": "2026-01-21 22:20:02",
+        "sentiment_score": -0.8613581052049994
+    },
+    {
+        "title": "El Barcelona se descongela a tiempo en Praga (2-4)",
+        "image_url": "https://static.grupojoly.com/clip/c91a41f4-7b78-49c9-baea-78bccd24d7fd_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "uefa champions league",
+            "fc barcelona"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/barcelona-descongela-tiempo-praga-2_0_2005701021.html",
+        "date": "2026-01-21 22:19:17",
+        "sentiment_score": 0.5827358886599541
+    },
+    {
+        "title": "El Barça vence al Slavia, pero sufre atrás y no remata el Top 8",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/21/2026012123171515141.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/barca-vence-slavia-sufre-atras-remata-top-8/20260121231738371592.html",
+        "date": "2026-01-21 22:17:38",
+        "sentiment_score": 0.060525476932525635
+    },
+    {
+        "title": "Las fotos del Slavia Praga-Barcelona",
+        "image_url": "https://static.grupojoly.com/clip/deeeaad1-e7ba-453f-9767-0f444a88816e_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "uefa champions league",
+            "fc barcelona"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/fotos-slavia-praga-barcelona_3_2005700978.html",
+        "date": "2026-01-21 22:17:20",
+        "sentiment_score": 0.5062201544642448
     }
 ];
