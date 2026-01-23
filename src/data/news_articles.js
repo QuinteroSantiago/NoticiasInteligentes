@@ -1,329 +1,5 @@
 export default [
     {
-        "title": "El caos devora a un desafortunado Barça en Anoeta",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1148dca0-d49f-4222-a95d-9bfd730a7c30_16-9-aspect-ratio_default_1428114.jpg",
-        "tags": [
-            "fc barcelona",
-            "real sociedad",
-            "laliga"
-        ],
-        "link": "https://www.laopiniondemalaga.es/deportes/2026/01/18/real-sociedad-barcelona-resultado-goles-cronica-resumen-125820957.html",
-        "date": "2026-01-18 22:25:50",
-        "sentiment_score": -0.7134297899901867
-    },
-    {
-        "title": "La Real frena al Barça con un triunfo heroico y polémico",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/18/lamine-kWg-U240905872421ApE-1200x840@RC.JPG",
-        "tags": [
-            "ferran torres",
-            "robert lewandowski",
-            "real sociedad de fútbol",
-            "lamine yamal",
-            "take kubo",
-            "f.c. barcelona"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-primera/real-sociedad-frustra-barca-20260118231854-ntrc.html",
-        "date": "2026-01-18 22:25:11",
-        "sentiment_score": -0.5942642092704773
-    },
-    {
-        "title": "Alvise (SALF) se lanza contra Pilar Alegría en Zaragoza: “La amiguita de Ábalos, Cerdán y Koldo”",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/01/18/2026011823231367703.jpg",
-        "tags": [
-            "elecciones"
-        ],
-        "link": "https://www.aragondigital.es/articulo/elecciones/alvise-salf-lanza-pilar-alegria-zaragoza-amiguita-abalos-cerdan-koldo/20260118232417961464.html",
-        "date": "2026-01-18 22:24:17",
-        "sentiment_score": 0.42120081931352615
-    },
-    {
-        "title": "El Barcelona cae ante la Real Sociedad y su ventaja se reduce a un punto (2-1)",
-        "image_url": "https://static.grupojoly.com/clip/5b5414b6-d8c5-486f-915a-78d68a5e36da_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ventaja",
-            "cae",
-            "sociedad",
-            "barcelona",
-            "real"
-        ],
-        "link": "https://www.granadahoy.com/deportes/barcelona-cae-real-sociedad-ventaja_0_2005675528.html",
-        "date": "2026-01-18 22:24:10",
-        "sentiment_score": -0.4973272457718849
-    },
-    {
-        "title": "El Barcelona cae ante la Real en Anoeta y su ventaja sobre el Real Madrid en la Liga se reduce a un punto (2-1)",
-        "image_url": "https://cflvdg.avoz.es/sc/ak9Tqy7DMCLcLfu86k_202-8Kqk=/768x/2026/01/18/00121768774742175658899/Foto/reu_20260118_214218620.jpg",
-        "tags": [
-            "deportes",
-            "real sociedad",
-            "primera división",
-            "fc barcelona"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/18/barcelona-cae-ante-real-anoeta-ventaja-sobre-real-madrid-liga-reduce-punto-2-1/00031768774755828275560.htm",
-        "date": "2026-01-18 22:22:00",
-        "sentiment_score": 0.1387300044298172
-    },
-    {
-        "title": "El Madrid noquea al Valencia y el Baskonia vuelve a la Copa",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/c807eae9-5e8f-4b7f-9dd28f2cd6aa0565.jpg",
-        "tags": [
-            "liga endesa",
-            "san pablo burgos",
-            "real madrid",
-            "copa del rey",
-            "baskonia",
-            "casademont zaragoza",
-            "valencia basket",
-            "joventut",
-            "sergio scariolo",
-            "ricky rubio",
-            "coliseum",
-            "liga acb",
-            "bàsquet girona",
-            "willy hernangómez",
-            "badalona",
-            "sergio llull",
-            "bilbao basket",
-            "ucam murcia",
-            "euroliga",
-            "fc barcelona"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z571cc808-457a-4f71-86b546b42a54f8dc/202601/el-madrid-noquea-al-valencia-y-el-baskonia-vuelve-a-la-copa",
-        "date": "2026-01-18 22:20:21",
-        "sentiment_score": -0.03961116075515747
-    },
-    {
-        "title": "Rajada descomunal de De Jong contra Gil Manzano: «Te mira con una cara de ‘soy más que tú’, es frustrante»",
-        "image_url": "https://okdiario.com/img/2026/01/18/imagen_recortada-1.jpg",
-        "tags": [
-            "barcelona",
-            "deportes",
-            "real sociedad de fútbol",
-            "fc barcelona",
-            "frenkie de jong"
-        ],
-        "link": "https://okdiario.com/deportes/rajada-descomunal-jong-contra-gil-manzano-te-mira-cara-soy-mas-que-tu-frustrante-16095679",
-        "date": "2026-01-18 22:25:07",
-        "sentiment_score": -0.7729831971228123
-    },
-    {
-        "title": "Al menos 21 muertos y 15 heridos graves al descarrilar dos trenes en Córdoba",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/19/al-menos-21-muertos-y-15-heridos-graves-al-descarrilar-dos-trenes-en-cordoba/",
-        "date": "2026-01-19 02:15:50",
-        "sentiment_score": -0.8321043737232685
-    },
-    {
-        "title": "Aitor Karanka, convencido del favoritismo de España en el Mundial: \"Aquí se olvidan los Clásicos. El grupo es fantástico\"",
-        "image_url": "https://s3.elespanol.com/2026/01/18/actualidad/1003744094218_260972238_1706x960.jpg",
-        "tags": [
-            "real madrid cf",
-            "el clásico",
-            "fútbol",
-            "fc barcelona",
-            "aitor karanka",
-            "deportes",
-            "luis de la fuente",
-            "selección española de fútbol",
-            "álvaro arbeloa",
-            "xabi alonso"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20260119/aitor-karanka-convencido-favoritismo-espana-mundial-olvidan-clasicos-grupo-fantastico/1003744094216_0.html",
-        "date": "2026-01-19 02:06:19",
-        "sentiment_score": 0.17866307497024536
-    },
-    {
-        "title": "El lento deterioro de la red de alta velocidad española: histórico déficit de inversión para un tráfico récord desde la liberalización",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/4b0ab66c35091c52a9f988ef54ff6c02/crop/702x111/2640x2048/f/image/jpeg/assets/multimedia/imagenes/2024/12/15/17342882060591.jpg",
-        "tags": [
-            "artículos marcos iriarte"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/01/19/696d414fe9cf4aa4208b4584.html",
-        "date": "2026-01-19 02:04:31",
-        "sentiment_score": -0.7116477359086275
-    },
-    {
-        "title": "Arranca el desmontaje del cableado del Teleférico de Madrid para dar paso a su renovación integral",
-        "image_url": "https://www.madridactual.es/images/stories/noticias/agencias/ep/2026/01/madrid-la-renovacion-integral-teleferico-coge-velocidad.jpg",
-        "tags": [
-            "transportes madrid"
-        ],
-        "link": "https://www.madridactual.es/noticias-regionales/transportes/madrid-la-renovacion-integral-teleferico-coge-velocidad-20260119-8079520.html",
-        "date": "2026-01-19 02:02:03",
-        "sentiment_score": 0.06091899052262306
-    },
-    {
-        "title": "Al menos 24 muertos y decenas de heridos al descarrilar dos trenes de alta velocidad en la localidad cordobesa de Adamuz",
-        "image_url": "https://i0.wp.com/noticiasaldiayalahora.co/wp-content/uploads/2026/01/descarrilamiento-Adamuz-tren-espana.jpeg?resize=660%2C360&ssl=1",
-        "tags": [
-            "internacionales",
-            "españa",
-            "accidentes ferroviarios",
-            "andalucía",
-            "adamuz"
-        ],
-        "link": "https://noticiasaldiayalahora.co/internacionales/al-menos-24-muertos-y-decenas-de-heridos-al-descarrilar-dos-trenes-de-alta-velocidad-en-la-localidad-cordobesa-de-adamuz/",
-        "date": "2026-01-19 01:58:20",
-        "sentiment_score": -0.7628689492121339
-    },
-    {
-        "title": "Endrick enciende Lyon y acelera el sueño de la Champions",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/12/2026011205334086192.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/endrick-enciende-lyon-acelera-sueno-champions/20260119025033371174.html",
-        "date": "2026-01-19 01:50:33",
-        "sentiment_score": 0.7472482994198799
-    },
-    {
-        "title": "Choque entre dos trenes en el sur de España deja al menos 21 muertos y decenas de heridos",
-        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2026/01/fd40fd63fe0c6a3924cfe651facf373ef6e7b7d5w.jpg",
-        "tags": [
-            "mundo",
-            "accidente",
-            "españa"
-        ],
-        "link": "https://eldiariony.com/2026/01/18/choque-entre-dos-trenes-en-el-sur-de-espana-deja-al-menos-21-muertos-y-decenas-de-heridos/",
-        "date": "2026-01-19 01:42:33",
-        "sentiment_score": -0.9093166850507259
-    },
-    {
-        "title": "40 años del Reina Sofía: diez exposiciones que trazaron la identidad del museo",
-        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744093231_260958887_1706x960.jpg",
-        "tags": [
-            "arte",
-            "exposiciones",
-            "museo reina sofía",
-            "museos"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/arte/20260119/anos-reina-sofia-exposiciones-trazaron-identidad-museo/1003744086938_0.html",
-        "date": "2026-01-19 01:35:05",
-        "sentiment_score": 0.3059871718287468
-    },
-    {
-        "title": "El fútbol andaluz traslada sus condolencias a las familias de las personas fallecidas",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/19/el-futbol-andaluz-traslada-sus-condolencias-a-las-familias-de-las-personas-fallecidas/",
-        "date": "2026-01-19 01:00:34",
-        "sentiment_score": -0.5850262343883514
-    },
-    {
-        "title": "El accidente ferroviario paraliza el eje Madrid-Andalucía: más de 200 trenes suspendidos",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/19/2026011902203241088.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.mundiario.com/articulo/sociedad/accidente-ferroviario-paraliza-eje-madrid-andalucia-mas-200-trenes-suspendidos/20260119014934371169.html",
-        "date": "2026-01-19 00:49:34",
-        "sentiment_score": -0.9230974828824401
-    },
-    {
-        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 19 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
-        "tags": [
-            "barcelona",
-            "noticias",
-            "tiempo en españa",
-            "españa noticias",
-            "españa sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/19/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-19-de-enero/",
-        "date": "2026-01-19 02:15:32",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "La reacción de Fermín al gol anulado a Lamine: Sonrisas irónicas y un mensaje lapidario",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1462x263:1464x261)/origin-imgresizer.eurosport.com/2026/01/19/image-3f8b6f60-0407-417b-8b66-f80c8598832c-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "la liga 2025/2026"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/reaccion-fermin-lopez-gol-anulado-lamine-yamal-fc-barcelona-real-sociedad_sto23260542/story.shtml",
-        "date": "2026-01-19 01:44:43",
-        "sentiment_score": -0.8463384285569191
-    },
-    {
-        "title": "Sacarse el carnet de conducir, misión imposible por la falta de examinadores: 2 años sin plazas y saturación donde sí los hay",
-        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744093229_260958842_1706x960.jpg",
-        "tags": [
-            "exámenes",
-            "autoescuelas",
-            "reportajes",
-            "dgt dirección general de tráfico",
-            "carnet de conducir",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260119/sacarse-carnet-conducir-mision-imposible-falta-examinadores-anos-sin-plazas-saturacion/1003744090042_0.html",
-        "date": "2026-01-19 01:41:28",
-        "sentiment_score": -0.9061679691076279
-    },
-    {
-        "title": "Historia y prehistoria del Museo Reina Sofía contada por uno de sus directores",
-        "image_url": "https://s3.elespanol.com/2026/01/11/actualidad/1003744085154_260859179_1706x960.jpg",
-        "tags": [
-            "arte",
-            "museo reina sofía",
-            "museos",
-            "arte contemporáneo"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/arte/20260119/historia-prehistoria-museo-reina-sofia-contada-directores/1003744084897_12.html",
-        "date": "2026-01-19 01:34:52",
-        "sentiment_score": 0.5017117708921432
-    },
-    {
-        "title": "El blues del autobús: El Español celebra su tercer año de liderazgo consecutivo",
-        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744093023_260972854_1706x1280.jpg",
-        "tags": [
-            "prensa",
-            "periódico el español",
-            "españa",
-            "periodismo"
-        ],
-        "link": "https://www.elespanol.com/espana/20260119/periodico_el_espaNol-espana-periodismo-prensa-espana/1003744094255_0.html",
-        "date": "2026-01-19 01:27:58",
-        "sentiment_score": 0.45397254079580307
-    },
-    {
-        "title": "Tus viejos CDs, cintas de vídeo y videojuegos están deteriorándose poco a poco... ¿Sabes qué hacer para evitarlo?",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/15/ce-des-kjsB-U240561377381AtC-1200x840@RC.jpg",
-        "tags": [
-            "videojuegos"
-        ],
-        "link": "https://www.eldiariomontanes.es/vivir/tecnologia/tus-viejos-cds-cintas-video-videojuegos-deteriorandose-20251215020345-ntrc.html",
-        "date": "2026-01-19 01:04:00",
-        "sentiment_score": -0.7711792979389429
-    },
-    {
-        "title": "El Barcelona cayó 2-1 ante el Real Sociedad y se complica su lucha en LaLiga",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/18204505/Barcelona-3.jpg",
-        "tags": [
-            "fútbol",
-            "barcelona",
-            "deportes",
-            "laliga"
-        ],
-        "link": "https://www.elnacional.com/2026/01/el-barcelona-cayo-2-1-ante-el-real-sociedad-y-se-complica-su-lucha-en-laliga/",
-        "date": "2026-01-19 00:46:17",
-        "sentiment_score": -0.6330281011760235
-    },
-    {
-        "title": "Puente, sobre el accidente: «No sabemos aún las causas, es muy extraño»",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/19/oscar-puente-kFJE-U2409561039133QC-1200x840@RC.jpeg",
-        "tags": [
-            "renfe"
-        ],
-        "link": "https://www.eldiariomontanes.es/sociedad/puente-sobre-accidente-sabemos-causas-extrano-20260119005915-ntrc.html",
-        "date": "2026-01-19 00:20:58",
-        "sentiment_score": -0.03610711544752121
-    },
-    {
         "title": "El entramado empresarial detrás de la red Arenales, propietaria del colegio Alborada denunciado por abusos sexuales",
         "image_url": "https://www.elplural.com/uploads/s1/21/28/64/1/colegio-alborada_7_480x270.png",
         "tags": [
@@ -2952,5 +2628,130 @@ export default [
         "link": "https://www.eldebate.com/espana/cataluna/20260122/imagenes-aereas-accidente-gelida-paralizo-servicio-ferroviario_376932.html",
         "date": "2026-01-22 06:21:39",
         "sentiment_score": -0.8182985819876194
+    },
+    {
+        "title": "Un empresario, el general de la Guardia Civil y 'el mediador' rechazan su implicación en la trama de Tito Berni",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2692166.jpg",
+        "tags": [
+            "canarias"
+        ],
+        "link": "https://www.vozpopuli.com/espana/canarias/un-empresario-el-general-de-la-guardia-civil-y-el-mediador-rechazan-su-implicacion-en-la-trama-de-tito-berni.html",
+        "date": "2026-01-22 17:16:34",
+        "sentiment_score": 0.2660526633262634
+    },
+    {
+        "title": "Butragueño: \"El fútbol no es solo talento o físico, es entender el juego\"",
+        "image_url": "https://www.infobae.com/resizer/v2/FOKCH6HNARFSZJL2LYKUI3KD3U.jpg?auth=28ee806209947dec69560e00c4d466d3c7dd7a0a9722555f7f961ef1cef1853b&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/22/butragueno-el-futbol-no-es-solo-talento-o-fisico-es-entender-el-juego/",
+        "date": "2026-01-22 17:15:18",
+        "sentiment_score": 0.1572169028222561
+    },
+    {
+        "title": "Bombazo en Inglaterra: ¡Casemiro anuncia que se marcha del United!",
+        "image_url": "https://okdiario.com/img/2026/01/22/imagen_recortada-2026-01-22t181329.161.jpg",
+        "tags": [
+            "manchester united",
+            "fútbol",
+            "premier league",
+            "deportes",
+            "carlos henrique casemiro"
+        ],
+        "link": "https://okdiario.com/deportes/bombazo-inglaterra-casemiro-anuncia-que-marcha-del-united-16121173",
+        "date": "2026-01-22 17:14:07",
+        "sentiment_score": 0.5071565955877304
+    },
+    {
+        "title": "Air Europa firma el pedido de 20 de los 40 aviones A350 acordados con Airbus en noviembre",
+        "image_url": "https://static.grupojoly.com/clip/29891f4b-5ed6-4cdd-9c80-66b62eddbc04_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "europa",
+            "acordados",
+            "air",
+            "airbus",
+            "aviones",
+            "a350",
+            "pedido",
+            "firma"
+        ],
+        "link": "https://www.elconciso.es/empresas/air-europa-firma-pedido-aviones-a350-acordados-airbus_0_2005706249.html",
+        "date": "2026-01-22 17:12:10",
+        "sentiment_score": 0.2601064667105675
+    },
+    {
+        "title": "Las agencias de viaje, preocupadas por los conflictos geopolíticos de cara al 2026",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/22/6972586d7fb0d.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20260122/11446869/agencias-viaje-preocupadas-conflictos-geopoliticos-cara-2026.html",
+        "date": "2026-01-22 17:11:18",
+        "sentiment_score": -0.47588054835796356
+    },
+    {
+        "title": "Renfe ajusta los horarios para viajar a Madrid desde Córdoba",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/21/6970e48fea4f3.jpeg",
+        "tags": [
+            "córdoba - actualidad"
+        ],
+        "link": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20260122/renfe-ajusta-horarios-viajar-madrid-tren-desde-cordoba_377266.html",
+        "date": "2026-01-22 17:10:44",
+        "sentiment_score": 0.08848048746585846
+    },
+    {
+        "title": "OBS y UNIR, las mejores universidades para cursar un MBA online en español en Europa y América, según Ranking FSO",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260122180155_690.jpg",
+        "tags": [
+            "sociedad",
+            "educación"
+        ],
+        "link": "https://www.europapress.es/sociedad/educacion-00468/noticia-obs-unir-mejores-universidades-cursar-mba-online-espanol-europa-america-ranking-fso-20260122180155.html",
+        "date": "2026-01-22 17:01:55",
+        "sentiment_score": 0.67411258071661
+    },
+    {
+        "title": "Las cuentas de Real Madrid, Barcelona, Atlético de Madrid y Athletic en la última jornada de la Champions",
+        "image_url": "https://www.infobae.com/resizer/v2/UBSJ4KXAERCNFN3JL5OXRICKSA.jpg?auth=005d3d950d68b6d2a898dd7a0160b387f605eaf3b15e144ffb9ea7673d317d59&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/22/las-cuentas-de-real-madrid-barcelona-atletico-de-madrid-y-athletic-en-la-ultima-jornada-de-la-champions/",
+        "date": "2026-01-22 17:01:28",
+        "sentiment_score": -0.18192275613546371
+    },
+    {
+        "title": "Santander recibe en Fitur el distintivo de Destino Turístico Inteligente",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/01/20260122172515.jpg?fit=1920%2C1440&ssl=1",
+        "tags": [
+            "cantabria"
+        ],
+        "link": "https://cronicadecantabria.com/cr/santander-recibe-en-fitur-el-distintivo-de-destino-turstico-inteligente/",
+        "date": "2026-01-22 17:00:07",
+        "sentiment_score": 0.03552626073360443
+    },
+    {
+        "title": "Paradores brilla en FITUR 2026: anuncian un beneficio de 23 millones y más de 337 millones en ingresos",
+        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/12/paradores-espana-hoteles-1000x665.jpg",
+        "tags": [
+            "paradores",
+            "empresas"
+        ],
+        "link": "https://www.economiadigital.es/empresas/paradores-fitur-2026.html",
+        "date": "2026-01-22 17:00:00",
+        "sentiment_score": 0.6650371439754963
+    },
+    {
+        "title": "Salvador Illa evoluciona favorablemente y sigue con su tratamiento en el hospital",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3d7eacb2-6f83-4cc1-a8fc-1c8da5ad4183_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "salvador illa",
+            "hospital vall d'hebron",
+            "sanidad pública"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/espana/2026/01/22/salvador-illa-evoluciona-favorablemente-sigue-125977205.html",
+        "date": "2026-01-22 17:16:07",
+        "sentiment_score": -0.3114975169301033
     }
 ];
