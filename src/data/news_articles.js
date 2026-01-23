@@ -2658,5 +2658,224 @@ export default [
         "link": "https://www.elnortedecastilla.es/palencia/barrio-san-juanillo-palencia-reparte-premio-loteria-20260122222646-nt.html",
         "date": "2026-01-22 21:26:51",
         "sentiment_score": 0.11326449364423752
+    },
+    {
+        "title": "Los 'okupas' no llegan a Soria: la única capital de provincia sin viviendas 'okupadas' en venta",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
+        "tags": [
+            "artículos daniela saltos",
+            "vivienda",
+            "okupas"
+        ],
+        "link": "https://www.elmundo.es/economia/2026/01/23/69720461fc6c83e1568b4584.html",
+        "date": "2026-01-23 02:09:43",
+        "sentiment_score": 0.16048013418912888
+    },
+    {
+        "title": "Agenda: qué hacer hoy viernes 23 de enero en Asturias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5b4f638b-abb9-432b-b030-b95ede353956_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "festivos",
+            "exposición",
+            "asturias",
+            "horario"
+        ],
+        "link": "https://www.lne.es/asturias/2026/01/23/agenda-hoy-viernes-23-enero-125980353.html",
+        "date": "2026-01-23 02:09:42",
+        "sentiment_score": -0.06353936716914177
+    },
+    {
+        "title": "Un ministro saboteador",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ministro",
+            "saboteador"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/ministro-saboteador_0_2005708382.html",
+        "date": "2026-01-23 02:06:47",
+        "sentiment_score": -0.542274534702301
+    },
+    {
+        "title": "Proyecto Caetra: nace una plataforma que coordina los diferentes servicios ante catástrofes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4fd7d15c-fa96-430c-99ba-dd041f1eab2e_16-9-discover-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "valencia",
+            "crisis",
+            "aplicaciones",
+            "bomberos",
+            "internet",
+            "vecinos"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260123/proyecto-caetra-nace-plataforma-coordina-125925552",
+        "date": "2026-01-23 01:59:37",
+        "sentiment_score": 0.09755560755729675
+    },
+    {
+        "title": "Crece la polémica sobre si la tardanza en detectar el Alvia accidentado costó vidas: \"Nadie sabía que había otro tren\"",
+        "image_url": "https://s3.elespanol.com/2026/01/22/actualidad/1003744100607_261050733_1706x960.jpg",
+        "tags": [
+            "gobierno de españa",
+            "fernando grande-marlaska",
+            "accidentes de tren",
+            "adif",
+            "guardia civil",
+            "observatorio de la movilidad"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20260123/crece-polemica-tardanza-detectar-alvia-accidentado-costo-vidas-nadie-sabia-tren/1003744100583_0.html",
+        "date": "2026-01-23 01:44:28",
+        "sentiment_score": -0.4422136154025793
+    },
+    {
+        "title": "El Madrid aprovecha una gran primera mitad y roba el 'average' al Mónaco",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/23/6972cab48c7d2.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20260123/madrid-aprovecha-gran-primera-mitad-roba-average-monaco_377336.html",
+        "date": "2026-01-23 01:11:30",
+        "sentiment_score": -0.7718134857714176
+    },
+    {
+        "title": "El Barça de Hansi Flick y el Camp Nou, los dos grandes pilares de Laporta para revalidar la presidencia",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/12/culemania/palco/1003742722647_15592604_1706x960.jpg",
+        "tags": [
+            "fc barcelona",
+            "junta directiva del barça",
+            "joan laporta",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260123/barca-hansi-flick-camp-nou-laporta-presidencia/1003742725926_0.html",
+        "date": "2026-01-23 01:06:45",
+        "sentiment_score": 0.6892186589539051
+    },
+    {
+        "title": "Real Madrid-Mónaco: Venganza, basketaverage y la sexta seguida (90-78)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1689x554:1691x552)/origin-imgresizer.eurosport.com/2026/01/23/image-9dc9b1e4-696d-4935-8940-83fbff8e300e-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.eurosport.es/baloncesto/euroliga/2025-2026/real-madrid-monaco-video-resumen-mejores-canastas-y-resultado-venganza-basketaverage-y-la-sexta-seguida-90-78-euroliga-20252026_vid60048846/video.shtml",
+        "date": "2026-01-23 01:01:28",
+        "sentiment_score": 0.42381778359413147
+    },
+    {
+        "title": "'Grito, boda y sangre': García Lorca desde los márgenes y en lengua de signos",
+        "image_url": "https://s3.elespanol.com/2026/01/20/actualidad/1003744097081_261006990_1706x960.jpg",
+        "tags": [
+            "federico garcía lorca",
+            "estrenos de teatro",
+            "cdn centro dramático nacional",
+            "teatro"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/teatro/20260123/grito-boda-sangre-garcia-lorca-margenes-lengua-signos/1003744097012_0.html",
+        "date": "2026-01-23 00:55:00",
+        "sentiment_score": 0.3050457686185837
+    },
+    {
+        "title": "Otra figura de la Selección encendió las alarmas por una lesión: pidió el cambio a los seis minutos de haber ingresado",
+        "image_url": "https://www.infobae.com/resizer/v2/N5CAKUJKAJHVNJKXXP2ELM3Q3A.JPG?auth=4fb92f8897980dc3918520d8481bcf717daa1333b13eb75821e27fb3759d5e0c&height=1298&smart=true&width=2308",
+        "tags": [
+            "uefa europa league",
+            "deportes-argentina",
+            "real betis",
+            "selección argentina",
+            "giovani lo celso"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/23/otra-figura-de-la-seleccion-encendio-las-alarmas-por-una-lesion-pidio-el-cambio-a-los-seis-minutos-de-haber-ingresado/",
+        "date": "2026-01-23 02:15:13",
+        "sentiment_score": -0.746007164940238
+    },
+    {
+        "title": "Elecciones en el FC Barcelona: Joan Laporta anuncia que las urnas decidirán el futuro del club",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "fc barcelona",
+            "barcelona",
+            "caso negreira",
+            "elecciones en el fc barcelona",
+            "joan laporta",
+            "españa",
+            "cataluña"
+        ],
+        "link": "https://2001online.com/deportes/elecciones-en-el-fc-barcelona-joan-laporta-anuncia-que-las-urnas-decidiran-el-futuro-del-club-20261222300",
+        "date": "2026-01-23 02:13:06",
+        "sentiment_score": 0.2514621801674366
+    },
+    {
+        "title": "El ministro pícaro y el catalán impresentable",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ministro",
+            "impresentable",
+            "catalan",
+            "picaro"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/ministro-picaro-catalan-impresentable_0_2005708326.html",
+        "date": "2026-01-23 02:06:14",
+        "sentiment_score": -0.1388511210680008
+    },
+    {
+        "title": "El Calatrava de Oviedo, un edificio hecho a la medida para albergar la Agencia de Salud Pública: metros cuadrados, parking, salón de actos...",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cc6a4aef-ef27-40c9-ac28-400d478d2f0a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ministerio",
+            "salud pública",
+            "calatrava",
+            "salud"
+        ],
+        "link": "https://www.lne.es/oviedo/2026/01/23/calatrava-oviedo-edificio-hecho-medida-125974605.html",
+        "date": "2026-01-23 01:59:11",
+        "sentiment_score": -0.030313104391098022
+    },
+    {
+        "title": "El devastador temporal en Mozambique deja 124 muertos y 723.000 afectados",
+        "image_url": "https://www.cronicabalear.es/access/public/img/noticias/upload/0_1769108888.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.cronicabalear.es/mallorca/2026-01-22/el-devastador-temporal-en-mozambique-deja-124-muertos-y-723000-afectados/",
+        "date": "2026-01-23 01:57:35",
+        "sentiment_score": -0.8561134729534388
+    },
+    {
+        "title": "El último informe de Seguridad Ferroviaria pide más \"vigilancia\" por el \"control inadecuado de materiales\" de los contratistas",
+        "image_url": "https://s3.elespanol.com/2026/01/22/actualidad/1003744100454_261048901_1706x960.jpg",
+        "tags": [
+            "comisiones de investigación",
+            "renfe",
+            "accidentes de tren",
+            "adif",
+            "política",
+            "óscar puente santiago"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20260123/ultimo-informe-seguridad-ferroviaria-pide-vigilancia-control-inadecuado-materiales-contratistas/1003744100272_0.html",
+        "date": "2026-01-23 01:44:26",
+        "sentiment_score": -0.8304493948817253
+    },
+    {
+        "title": "Para tranquilidad de los viajeros en Alta velocidad: ¡por favor, ministro Puente, dimita!",
+        "image_url": "https://s3.elespanol.com/2026/01/22/actualidad/1003744099527_261037075_1706x960.jpg",
+        "tags": [
+            "columnas de opinión",
+            "opinión",
+            "óscar puente santiago",
+            "trenes"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20260123/tranquilidad-viajeros-alta-velocidad-favor-ministro-puente-dimita/1003744099488_13.html",
+        "date": "2026-01-23 01:40:14",
+        "sentiment_score": 0.31252139806747437
+    },
+    {
+        "title": "Golpe español a la diabetes: una nueva terapia 'reprograma' las células de la piel para que produzcan insulina",
+        "image_url": "https://s3.elespanol.com/2026/01/22/actualidad/1003744100350_261047250_1706x960.jpg",
+        "tags": [
+            "células madre",
+            "diabetes",
+            "salud"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20260123/golpe-espanol-diabetes-nueva-terapia-reprograma-celulas-piel-produzcan-insulina/1003744100337_0.html",
+        "date": "2026-01-23 01:10:00",
+        "sentiment_score": 0.15975134074687958
     }
 ];
