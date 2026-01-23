@@ -1,191 +1,5 @@
 export default [
     {
-        "title": "UEFA Champions League: Estos serán los partidos del martes 20 de enero",
-        "image_url": "https://pxcdn.meridiano.net/012026/1768842546039.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-internacional/uefa-champions-league-estos-seran-los-partidos-del-martes-20-de-enero-202611913210",
-        "date": "2026-01-19 17:21:00",
-        "sentiment_score": 0.4713116027414799
-    },
-    {
-        "title": "Quesada: \"Tenemos que demostrar que somos un equipo realmente maduro para dar ese salto competitivo\"",
-        "image_url": "https://www.infobae.com/resizer/v2/W7FL52TDYVA7ZA4CFDLXAYXLZQ.jpg?auth=8d871736b2d3ceee35165d33b4b64e744ae4fee7a154ed7c0f535a6f4ce8e972&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/19/quesada-tenemos-que-demostrar-que-somos-un-equipo-realmente-maduro-para-dar-ese-salto-competitivo/",
-        "date": "2026-01-19 17:17:18",
-        "sentiment_score": 0.5726464614272118
-    },
-    {
-        "title": "Misa Rodríguez: \"Veo a mis compañeras muy tranquilas y con la confianza para llegar a una final más\"",
-        "image_url": "https://www.infobae.com/resizer/v2/4PVQAPN67BFMZD63NQTWCMIXPU.jpg?auth=d114b49128c1f76b5c0ac54cec58baae8dd19b6d1fefbea750a50c5f1646d4e9&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/19/misa-rodriguez-veo-a-mis-companeras-muy-tranquilas-y-con-la-confianza-para-llegar-a-una-final-mas/",
-        "date": "2026-01-19 17:16:08",
-        "sentiment_score": 0.8566380571573973
-    },
-    {
-        "title": "Mbappé se solidariza con España tras tragedia ferroviaria: “Hay cosas más importantes que el futbol”",
-        "image_url": "https://www.metroworldnews.com/resizer/v2/WC6I6KZQF5A4TCFJVHYJSTCB5U.png?auth=8753685677ae4cfd9bb947004354ed8073392b0ac242837f640de8ae2114f351&height=924&smart=true&width=1640",
-        "tags": [
-            "kylian mbappé",
-            "real madrid"
-        ],
-        "link": "https://www.metroworldnews.com/deportes/2026/01/19/mbappe-se-solidariza-con-espana-tras-tragedia-ferroviaria-hay-cosas-mas-importantes-que-el-futbol/",
-        "date": "2026-01-19 17:14:46",
-        "sentiment_score": -0.9217997705563903
-    },
-    {
-        "title": "El Albacete sueña con otra noche mágica ante el Barça en cuartos de Copa del Rey",
-        "image_url": "https://www.clm24.es/media/clm24/images/2026/01/19/2026011918103824808.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.clm24.es/articulo/deportes/albacete-balompie-suena-otra-noche-magica-barca-cuartos-copa-rey/20260119181231469301.html",
-        "date": "2026-01-19 17:12:31",
-        "sentiment_score": 0.6901507824659348
-    },
-    {
-        "title": "El Hospital de Ciudad Real lidera la lista de hospitales públicos de C-LM en 2025, según Merco Salud",
-        "image_url": "http://st1.lacerca.com/imagenes/view/1f66596424acb0caa6f20122b2614c32.jpg",
-        "tags": [
-            "noticias",
-            "ciudad real"
-        ],
-        "link": "https://www.lacerca.com/noticias/ciudad_real/hospital-ciudad-real-lidera-lista-hospitales-publicos-salud-798402-1.html",
-        "date": "2026-01-19 17:12:00",
-        "sentiment_score": 0.2310924306511879
-    },
-    {
-        "title": "\"Puede pitar el primer penalti, puede pitar el segundo, pero si pita el primero o el segundo, tiene que pitar el tercero\": clamor contra el arbitraje en Mallorca en la tertulia rojiblanca Minuto 91",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/13/6966b53bd959a.jpeg",
-        "tags": [
-            "deportes vizcaya"
-        ],
-        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-vizcaya/noticias/pitar-primer-penalti-pitar-segundo-pita-primero-segundo-pitar-tercero-clamor-arbitraje-mallorca-tertulia-rojiblanca-minuto-91-20260119_3289861.html",
-        "date": "2026-01-19 17:11:54",
-        "sentiment_score": -0.11911758780479431
-    },
-    {
-        "title": "Calendario oficial de cuartos de final de Copa del Rey 2025-2026: día y horario de todos los partidos",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/01/19/8456E76C-E6FB-4E48-B602-92990FD4478A/javi-villar-celebra-gol-real-madrid-octavos_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "fútbol",
-            "deportes",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/calendario-oficial-cuartos-final-copa-rey-20252026-dia-horario-todos-partidos_20260119696e63d0c48f6b4ee366a4ce.html",
-        "date": "2026-01-19 17:03:12",
-        "sentiment_score": 0.05159145966172218
-    },
-    {
-        "title": "Marruecos anuncia acciones legales por la retirada del campo de Senegal en la final de la Copa África",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260119180144_690.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-marruecos-anuncia-acciones-legales-retirada-campo-senegal-final-copa-africa-20260119180144.html",
-        "date": "2026-01-19 17:01:44",
-        "sentiment_score": -0.1153126135468483
-    },
-    {
-        "title": "Corberán perderá a Tárrega entre 2 y 3 semanas",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/19/696e6159a32e0.jpeg",
-        "tags": [
-            "deportes cope valencia"
-        ],
-        "link": "https://www.cope.es/emisoras/comunidad-valenciana/valencia-provincia/valencia/deportes-cope-valencia/noticias/corberan-perdera-tarrega-2-3-semanas-20260119_3289848.html",
-        "date": "2026-01-19 17:01:20",
-        "sentiment_score": -0.10180968046188354
-    },
-    {
-        "title": "Illa sufre una osteomielitis púbica por un microbio y presenta una evolución clínica \"muy favorable\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260119181950_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-illa-sufre-osteomielitis-pubica-microbio-presenta-evolucion-clinica-muy-favorable-20260119181950.html",
-        "date": "2026-01-19 17:19:50",
-        "sentiment_score": -0.7892963904887438
-    },
-    {
-        "title": "Protección Civil envía una alerta móvil en seis comarcas del litoral catalán por fuerte oleaje",
-        "image_url": "https://www.elplural.com/uploads/s1/21/29/65/2/europapress-4929771-vista-oleaje-playa-barceloneta-17-enero-2023-barcelona-catalunya-espana_7_480x270.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.elplural.com/autonomias/cataluna/proteccion-civil-envia-alerta-movil-seis-comarcas-litoral-catalan-fuerte-oleaje_379012102",
-        "date": "2026-01-19 17:18:40",
-        "sentiment_score": -0.1785111278295517
-    },
-    {
-        "title": "Salvador Illa sufre una osteomielitis púbica: evoluciona bien, pero seguirá ingresado dos semanas",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/01/19/696e66692ba5a.r_d.869-482-8140.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/20260119/salvador-illa-sufre-osteomielitis-pubica-evoluciona-bien-seguira-ingresado-dos-semanas_376033.html",
-        "date": "2026-01-19 17:16:35",
-        "sentiment_score": -0.6480550337582827
-    },
-    {
-        "title": "Barcelona y Palafrugell (Girona) acogen una muestra sobre el universo del fotógrafo Sergio Larrain",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/19/barcelona-y-palafrugell-girona-acogen-una-muestra-sobre-el-universo-del-fotografo-sergio-larrain/",
-        "date": "2026-01-19 17:16:25",
-        "sentiment_score": 0.10169883072376251
-    },
-    {
-        "title": "De paradas decisivas a un regalo muy especial: la noche perfecta de Remiro",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2026/01/19/696e66344203a.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/deportes/futbol/2026/01/19/paradas-decisivas-regalo-especial-noche-perfecta-remiro-807134-31.html",
-        "date": "2026-01-19 17:15:30",
-        "sentiment_score": 0.8306501600891352
-    },
-    {
-        "title": "\"El territorio habla, el comensal guía\": la propuesta gastronómica de Gran Canaria en Madrid Fusión",
-        "image_url": "https://static.eldiario.es/clip/391d0ed9-392f-4f55-b2dd-3d931db0af11_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "propuesta",
-            "habla",
-            "madrid",
-            "fusion",
-            "comensal",
-            "guia",
-            "canaria",
-            "gastronomica",
-            "territorio",
-            "gran"
-        ],
-        "link": "https://www.eldiario.es/canariasahora/sociedad/territorio-habla-comensal-guia-propuesta-gastronomica-gran-canaria-madrid-fusion_1_12919674.html",
-        "date": "2026-01-19 17:14:09",
-        "sentiment_score": 0.037640511989593506
-    },
-    {
-        "title": "Ouigo suspendió en diciembre hasta el 22 de enero 14 servicios entre Madrid y Andalucía",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2024/07/tren_anden_inauguracion_linea_ouigo_madrid_albacete_alicante_estacion-1-1000x665.jpg",
-        "tags": [
-            "ouigo",
-            "empresas"
-        ],
-        "link": "https://www.economiadigital.es/empresas/ouigo-suspendio-diciembre-22-de-enero.html",
-        "date": "2026-01-19 17:13:47",
-        "sentiment_score": 0.17755984142422676
-    },
-    {
         "title": "Real Madrid-Mónaco: Alineaciones probables, estadísticas y cómo ver por TV y online (21:00)",
         "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/06/image-02825dde-53c8-422e-941f-abf76d4b591f-85-2560-1440.jpeg",
         "tags": [
@@ -2877,5 +2691,154 @@ export default [
         "link": "https://www.elespanol.com/ciencia/salud/20260123/golpe-espanol-diabetes-nueva-terapia-reprograma-celulas-piel-produzcan-insulina/1003744100337_0.html",
         "date": "2026-01-23 01:10:00",
         "sentiment_score": 0.15975134074687958
+    },
+    {
+        "title": "'Eugenio Oneguin' de Chaikovski en Les Arts: amores suspendidos en un escenario giratorio",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/22/697253daa56e21-09912374.jpeg",
+        "tags": [
+            "artes"
+        ],
+        "link": "https://www.20minutos.es/artes/eugenio-oneguin-chaikovski-les-arts-amores-suspendidos-un-escenario-giratorio_6924506_0.html",
+        "date": "2026-01-23 06:43:36",
+        "sentiment_score": 0.014161594212055206
+    },
+    {
+        "title": "El madridismo recela de la NBA, la nueva Superliga de Florentino",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b2a32811-bfdf-439d-9a29-e603c270567e_16-9-aspect-ratio_default_0_x454y200.jpg",
+        "tags": [
+            "real madrid de baloncesto",
+            "nba",
+            "baloncesto",
+            "euroliga"
+        ],
+        "link": "https://www.laopiniondemalaga.es/deportes/2026/01/23/madridismo-recela-nba-nueva-superliga-baloncesto-125988918.html",
+        "date": "2026-01-23 06:30:13",
+        "sentiment_score": -0.2415018081665039
+    },
+    {
+        "title": "«Hay que aprovechar que el balón parado está surtiendo efecto»",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2026/01/21/1504689663-k58B-U2401023350070MKD-758x531@El%20Norte.jpg",
+        "tags": [
+            "estadio josé zorrilla",
+            "real valladolid club de fútbol",
+            "valladolid (ciudad)"
+        ],
+        "link": "https://www.elnortedecastilla.es/realvalladolid/aprovechar-balon-parado-surtiendo-efecto-20260123072744-nt.html",
+        "date": "2026-01-23 06:27:47",
+        "sentiment_score": 0.14903248101472855
+    },
+    {
+        "title": "El magistrado que redactará la sentencia de la Kitchen superará la fecha de jubilación en pleno juicio",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a1277977-eb16-4ef7-9397-0088b602efa6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fiscalía anticorrupción",
+            "pp",
+            "corrupción del pp",
+            "villarejo",
+            "caso villarejo",
+            "josé villarejo",
+            "audiencia nacional",
+            "josé manuel villarejo"
+        ],
+        "link": "https://www.lacronicabadajoz.com/nacional/2026/01/23/magistrado-redactara-sentencia-kitchen-superara-125988831.html",
+        "date": "2026-01-23 06:26:46",
+        "sentiment_score": -0.01368483155965805
+    },
+    {
+        "title": "Nuevo accidente de tren en Asturias: un convoy de cercanías choca contra un desprendimiento a la salida de un túnel",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2026/01/23/6973188a4f222.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20260123/1002606774/nuevo-accidente-tren-asturias-convoy-cercanias-choca-desprendimiento-salida-tunel-dct.html",
+        "date": "2026-01-23 06:45:23",
+        "sentiment_score": -0.903566719032824
+    },
+    {
+        "title": "Rodalies recupera la circulación en Cataluña",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/23/697313caf2ba8.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/noticias/rodalies-recupera-circulacion-cataluna-paron-provocado-accidente-mortal-gelida-20260123_3292673.html",
+        "date": "2026-01-23 06:44:24",
+        "sentiment_score": -0.15495844185352325
+    },
+    {
+        "title": "Rodalies restablece el servicio con circulaciones reducidas de dos trenes por sentido en las líneas R1 y R4",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1fee70db-03fb-4808-b58c-200bc19e14c0_16-9-aspect-ratio_default_0_x609y270.jpg",
+        "tags": [
+            "barcelona",
+            "trenes",
+            "rodalies",
+            "cataluña",
+            "renfe"
+        ],
+        "link": "https://www.laopiniondemalaga.es/economia/2026/01/23/rodalies-restablece-servicio-circulaciones-reducidas-trenes-cataluna-125989025.html",
+        "date": "2026-01-23 06:43:25",
+        "sentiment_score": -0.7248911969363689
+    },
+    {
+        "title": "Rodalies restablece por completo el servicio de cercanías en Cataluña",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/rodalies-barcelona-servicio.jpg",
+        "tags": [
+            "cercanías",
+            "adif",
+            "cataluña",
+            "transporte",
+            "maquinistas",
+            "rodalies",
+            "generalitat de cataluña",
+            "accidentes"
+        ],
+        "link": "https://theobjective.com/espana/cataluna/2026-01-23/rodalies-restablece-completo-servicio-cercanias-cataluna/",
+        "date": "2026-01-23 06:42:39",
+        "sentiment_score": -0.10866905003786087
+    },
+    {
+        "title": "Los Mossos investigan la muerte violenta de una mujer en un local de L'Hospitalet",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/1d5b6c7eb452299dca626de8174a4e23/crop/0x450/2179x1903/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/23/17691504453437.jpg",
+        "tags": [
+            "cataluña",
+            "mossos d&#039;esquadra",
+            "sucesos"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2026/01/23/6973181ffdddffdf298b4598.html",
+        "date": "2026-01-23 06:41:37",
+        "sentiment_score": -0.24892707541584969
+    },
+    {
+        "title": "José Antonio Maldonado, meteorólogo, avisa de un frente polar en medio de la borrasca Ingrid: \"En estas zonas no sería extraño que cayese nieve\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/23/69730de409f02.jpeg",
+        "tags": [
+            "herrera en cope"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/noticias/jose-antonio-maldonado-meteorologo-avisa-frente-polar-medio-borrasca-ingrid-zonas-seria-extrano-cayese-nieve-20260123_3292670.html",
+        "date": "2026-01-23 06:37:41",
+        "sentiment_score": -0.11629828810691833
+    },
+    {
+        "title": "Cuenta atrás en Can Barça: Dro Fernández vive su peor momento y el PSG aguarda la firma",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/23/2026012307312264162.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/dro-fernandez-vive-pesadilla-can-barca-cuando-cierra-salida-rumbo-psg/20260123073543371777.html",
+        "date": "2026-01-23 06:35:43",
+        "sentiment_score": -0.8589117834344506
+    },
+    {
+        "title": "Rodalies restablece por completo el servicio de cercanías en Catalunya",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/cd7a9459-9d0e-4a5b-9378-cc88e835e47d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cercanias",
+            "servicio",
+            "completo",
+            "rodalies",
+            "restablece"
+        ],
+        "link": "https://www.deia.eus/actualidad/sociedad/2026/01/23/rodalies-restablece-completo-servicio-cercanias-10606295.html",
+        "date": "2026-01-23 06:34:14",
+        "sentiment_score": -0.0021751075983047485
     }
 ];
