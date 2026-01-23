@@ -1,222 +1,5 @@
 export default [
     {
-        "title": "El entramado empresarial detrás de la red Arenales, propietaria del colegio Alborada denunciado por abusos sexuales",
-        "image_url": "https://www.elplural.com/uploads/s1/21/28/64/1/colegio-alborada_7_480x270.png",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.elplural.com/sociedad/entramado-empresarial-detras-red-arenales-propietaria-colegio-alborada-denunciado-abusos-sexuales_378819102",
-        "date": "2026-01-19 06:32:56",
-        "sentiment_score": -0.054056018590927124
-    },
-    {
-        "title": "El movimiento de Álvaro Morata con el que delata la ruptura con Alice Campello y el fin de su vida familiar",
-        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/uploads/2026/01/19/696dce693a4f2.jpeg",
-        "tags": [
-            "trending topic"
-        ],
-        "link": "https://www.cadena100.es/trending-topic/noticias/movimiento-alvaro-morata-delata-ruptura-alice-campello-vida-familiar-20260119_144800.html",
-        "date": "2026-01-19 06:28:02",
-        "sentiment_score": -0.1553211212158203
-    },
-    {
-        "title": "El descarrilamiento de dos trenes de alta velocidad en Adamuz, el accidente más grave desde el de Angrois",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2026/01/19/imagen-de-uno-de-los-dos-trenes-que-han-descarrilado-a-la-altura-de-adamuz-cordoba-este-domingo-18-de-enero-de-2026.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/noticias/nacional/2026/01/19/descarrilamiento-dos-trenes-alta-velocidad-adamuz-cordoba-accidente-mas-grave-desde-angrois-1886690.html",
-        "date": "2026-01-19 06:25:33",
-        "sentiment_score": -0.7380487229675055
-    },
-    {
-        "title": "RTVE estrena esta noche 'DecoMasters', su nuevo talent de interiorismo con rostros muy conocidos",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/01/15/696920acd16c0.jpeg",
-        "tags": [
-            "series y tv"
-        ],
-        "link": "https://www.lavozdealmeria.com/series-y-tv/434796/rtve-estrena-noche-decomasters-nuevo-talent-interiorismo-rostros-conocidos.html",
-        "date": "2026-01-19 06:25:00",
-        "sentiment_score": 0.5730414353311062
-    },
-    {
-        "title": "La demanda de General Dynamics contra Indra confirma el cambio de ciclo: España deja de pedir permiso para defenderse.",
-        "image_url": "https://static.merca2.es/wp-content/uploads/2025/05/presidente_indra_angel_escribano-AZAL.webp",
-        "tags": [
-            "últimas noticias",
-            "lo más compartido",
-            "actualidad",
-            "en portada"
-        ],
-        "link": "https://www.merca2.es/2026/01/19/demanda-general-dynamics-contra-indra-confirma-el-cambio-de-ciclo-espana-deja-pedir-permiso-defenderse-2344326/",
-        "date": "2026-01-19 06:01:00",
-        "sentiment_score": -0.4263859689235687
-    },
-    {
-        "title": "Dicen que los precios subieron por Navidad",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bea16c7e-00b3-4700-9dfc-10e270a01c7f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "navidad",
-            "precios",
-            "tradiciones"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/19/dicen-precios-subieron-navidad-125803859.html",
-        "date": "2026-01-19 06:00:45",
-        "sentiment_score": -0.23007363080978394
-    },
-    {
-        "title": "Otro 'milagro' de San Sebastián: la Real Sociedad frena a un Barça sin puntería",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b26c02dc-1132-402b-8e32-cb2293e4c79f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sociedad",
-            "sebastian",
-            "milagro",
-            "san",
-            "real"
-        ],
-        "link": "https://www.noticiasdenavarra.com/futbol/2026/01/19/milagro-san-sebastian-real-sociedad-10587642.html",
-        "date": "2026-01-19 06:00:00",
-        "sentiment_score": -0.14248082041740417
-    },
-    {
-        "title": "La almadraba y Concert Music, el tándem que plantea convertir Sancti-Petri en un motor económico para Chiclana: «Está a la vuelta de la esquina»",
-        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2026/01/16/levanta-RYooLrN5eYzfFhojuYSOydO-758x531@abc.jpg",
-        "tags": [
-            "concert",
-            "music",
-            "sanctipetri",
-            "motor",
-            "economico",
-            "tandem",
-            "convertiria",
-            "almadraba",
-            "chiclana"
-        ],
-        "link": "https://www.lavozdigital.es/provincia/chiclana/almadraba-concert-music-tandem-convertira-sanctipetri-motor-20260116160143-ntv.html",
-        "date": "2026-01-19 06:00:00",
-        "sentiment_score": -0.08333271741867065
-    },
-    {
-        "title": "Julio Iglesias, le gustan las mujeres y le gusta el vino",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/72e34b18-7c26-425f-bdea-3f635dd7ca19_16-9-discover-aspect-ratio_default_0_x600y226.jpg",
-        "tags": [
-            "miel, limón & vinagre",
-            "mujeres",
-            "julio iglesias"
-        ],
-        "link": "https://www.elcorreogallego.es/opinion/2026/01/19/julio-iglesias-le-gustan-mujeres-125827133.html",
-        "date": "2026-01-19 05:50:44",
-        "sentiment_score": -0.7199062518775463
-    },
-    {
-        "title": "Un profesional para elegir al mejor camarero",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2026/01/40-2.jpg",
-        "tags": [
-            "la última",
-            "segovia"
-        ],
-        "link": "https://eladelantado.com/un-profesional-para-elegir-al-mejor-camarero/",
-        "date": "2026-01-19 06:36:56",
-        "sentiment_score": 0.07936767116189003
-    },
-    {
-        "title": "La borrasca Harry obliga a la AEMET a activar todas las alarmas por lluvias, nieve y fuertes rachas de viento",
-        "image_url": "https://www.elplural.com/uploads/s1/21/15/74/0/lluvia-y-cielo-nublado-en-bilbao-europa-press_7_480x270.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.elplural.com/sociedad/borrasca-harry-obliga-aemet-activar-todas-alarmas-lluvias-nieve-fuertes-rachas-viento_378933102",
-        "date": "2026-01-19 06:32:14",
-        "sentiment_score": -0.1842408925294876
-    },
-    {
-        "title": "Precio de la gasolina hoy en España: las tarifas más altas y más bajas",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "noticias",
-            "precio gasolina",
-            "españa-economia",
-            "gasolina"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/19/precio-de-la-gasolina-hoy-en-espana-las-tarifas-mas-altas-y-mas-bajas/",
-        "date": "2026-01-19 06:30:54",
-        "sentiment_score": -0.06157943606376648
-    },
-    {
-        "title": "Las grietas del sistema educativo por las que abandona un 30% de alumnos migrantes: \"Concentrar es un problema\"",
-        "image_url": "https://s3.elespanol.com/2026/01/15/actualidad/1003744091608_260938144_1706x960.jpg",
-        "tags": [
-            "inmigración",
-            "menores",
-            "historias",
-            "infancia",
-            "objetivo 10: reducción de las desigualdades",
-            "educación",
-            "objetivo 4: educación de calidad",
-            "colegios"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/historias/20260119/grietas-sistema-educativo-abandona-alumnos-migrantes-concentrar-problema/1003744091591_0.html",
-        "date": "2026-01-19 06:30:00",
-        "sentiment_score": -0.8649501334875822
-    },
-    {
-        "title": "Lo que debes saber hoy, 19 de enero, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/17/vivir-en-barcelona/1003742724168_15611522_1706x960.jpg",
-        "tags": [
-            "transports metropolitans barcelona tmb",
-            "clima",
-            "tráfico",
-            "vivir en barcelona",
-            "tiempo",
-            "metro barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260119/debes-saber-hoy-enero-barcelona/1003742724387_0.html",
-        "date": "2026-01-19 06:25:26",
-        "sentiment_score": 0.5694227293133736
-    },
-    {
-        "title": "Por qué Sigmund Freud cambió nuestro mundo para siempre",
-        "image_url": "https://static1.ara.cat/clip/9a2aefa6-4ee5-42aa-ab9d-d81942ed6f90_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "freud",
-            "sigmund",
-            "mundo",
-            "cambio"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/sigmund-freud-cambio-mundo_1_5621887.html",
-        "date": "2026-01-19 06:15:14",
-        "sentiment_score": -0.10218143463134766
-    },
-    {
-        "title": "Empresas Matutes incorpora un hotel vacacional en Peñíscola en gestión bajo la marca Palladium",
-        "image_url": "https://lavozdeibiza.com/wp-content/uploads/2026/01/808167305.jpg",
-        "tags": [
-            "ibiza",
-            "palladium hotel group",
-            "actualidad",
-            "empresas matutes",
-            "negocios",
-            "hoteles",
-            "actualidad 2"
-        ],
-        "link": "https://lavozdeibiza.com/actualidad/empresas-matutes-incorpora-un-hotel-vacacional-en-peniscola-en-gestion-bajo-la-marca-palladium/",
-        "date": "2026-01-19 06:13:19",
-        "sentiment_score": 0.29723184555768967
-    },
-    {
-        "title": "El llamativo caso de Selton en el Athletic",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/67877be8-3bd6-47bf-90e3-dc5f8c0cb1f3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "llamativo",
-            "athletic",
-            "selton",
-            "caso"
-        ],
-        "link": "https://www.deia.eus/athletic/2026/01/19/llamativo-caso-selton-athletic-10587192.html",
-        "date": "2026-01-19 06:04:51",
-        "sentiment_score": 0.40614913403987885
-    },
-    {
         "title": "UEFA Champions League: Estos serán los partidos del martes 20 de enero",
         "image_url": "https://pxcdn.meridiano.net/012026/1768842546039.jpg?ch=180&cw=320",
         "tags": [
@@ -2753,5 +2536,127 @@ export default [
         "link": "https://www.elperiodicoextremadura.com/espana/2026/01/22/salvador-illa-evoluciona-favorablemente-sigue-125977205.html",
         "date": "2026-01-22 17:16:07",
         "sentiment_score": -0.3114975169301033
+    },
+    {
+        "title": "El Madrid aprovecha una gran primera mitad y roba el 'average' al Mónaco",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7aee4f28-a92f-464f-9860-d0a475221fbd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid,euroliga"
+        ],
+        "link": "https://www.superdeporte.es/baloncesto/2026/01/22/madrid-aprovecha-gran-primera-mitad-125985314.html",
+        "date": "2026-01-22 22:22:17",
+        "sentiment_score": 0.8246721364557743
+    },
+    {
+        "title": "Rodalies pone esta noche en marcha la R2 norte y el viernes funcionará el resto de la red",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/07f631c1588ee8888f8703331dce22a8/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/22/17691201695869.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/01/22/6972a1e621efa011748b4591.html",
+        "date": "2026-01-22 22:17:12",
+        "sentiment_score": 0.0926414430141449
+    },
+    {
+        "title": "Las Cercanías catalanas empiezan a operar de nuevo tras el caos ferroviario total de la red",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/9954f4a01689f24c9b1236baaaad93b1/crop/0x0/2048x1365/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/22/17691196753362.jpg",
+        "tags": [
+            "renfe>",
+            "empresas>",
+            "transporte y turismo>",
+            "cataluña>",
+            "artículos david casals>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2026/01/22/69729fe7e5fdea707d8b45c1.html",
+        "date": "2026-01-22 22:10:29",
+        "sentiment_score": -0.2774338126182556
+    },
+    {
+        "title": "El Barça de basket extiende su alianza con la Euroliga: portazo a la NBA Europa",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/07/culemania/palco/1003742705707_15381261_1706x960.jpg",
+        "tags": [
+            "nba",
+            "fcb basket",
+            "secciones",
+            "baloncesto"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260122/barca-extiende-alianza-euroliga-portazo-nba-europa/1003742725921_0.html",
+        "date": "2026-01-22 22:06:09",
+        "sentiment_score": -0.7194610498845577
+    },
+    {
+        "title": "Rousaud prepara la recompra de Factorenergia de la mano de varios ‘family offices’",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/22/69727c2e9d093.r_d.466-270-4885.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20260122/11446971/rousaud-prepara-recompra-factorenergia-mano-family-offices.html",
+        "date": "2026-01-22 22:04:02",
+        "sentiment_score": 0.3618610054254532
+    },
+    {
+        "title": "La investigación del accidente descubre que sensores de trenes previos detectaron anomalías en el punto del carril roto",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/7c795bbc3e0bb54086ee52a89e08ab49/f/image/jpeg/assets/multimedia/imagenes/2024/01/17/17055016058889.jpg",
+        "tags": [
+            "nlpremium",
+            "artículos jaime rodríguez",
+            "artículos césar urrutia"
+        ],
+        "link": "https://www.elmundo.es/economia/2026/01/22/69728051e9cf4a9a248b45c3.html",
+        "date": "2026-01-22 21:52:22",
+        "sentiment_score": -0.017558254301548004
+    },
+    {
+        "title": "Semaf reclama más seguridad ferroviaria tras los accidentes",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/01/22/2026012222493234028.jpg",
+        "tags": [
+            "noticias en la red"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/semaf-reclama-mas-seguridad-ferroviaria-accidentes/20260122224932439755.html",
+        "date": "2026-01-22 21:49:32",
+        "sentiment_score": -0.8352615255862474
+    },
+    {
+        "title": "Laporta convoca elecciones al FC Barcelona el 15 de marzo",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/01/22/2026012222485160739.jpg",
+        "tags": [
+            "noticias en la red"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/laporta-convoca-elecciones-fc-barcelona-15-marzo/20260122224851439749.html",
+        "date": "2026-01-22 21:48:51",
+        "sentiment_score": 0.3599059395492077
+    },
+    {
+        "title": "Rodalies recupera una línea y espera retomar el resto este viernes",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/22/69729ac1c2bc4.jpeg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/noticias/rodalies-recupera-linea-espera-retomar-resto-servicios-cercanias-cataluna-viernes-20260122_3292613.html",
+        "date": "2026-01-22 21:46:46",
+        "sentiment_score": -0.10305851697921753
+    },
+    {
+        "title": "Feijóo pide al Gobierno un diálogo leal con los maquinistas",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/01/22/2026012222461058385.jpg",
+        "tags": [
+            "noticias en la red"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/feijoo-pide-gobierno-dialogo-leal-maquinistas/20260122224611439729.html",
+        "date": "2026-01-22 21:46:11",
+        "sentiment_score": -0.894773998297751
+    },
+    {
+        "title": "El barrio de San Juanillo de Palencia reparte otro premio de lotería",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2026/01/22/admonLoteriaConchi01-kwFB-U20288105232e1-758x531@El%20Norte.jpg",
+        "tags": [
+            "loterías y apuestas del estado",
+            "palencia",
+            "dos hermanas",
+            "jaén (provincia)"
+        ],
+        "link": "https://www.elnortedecastilla.es/palencia/barrio-san-juanillo-palencia-reparte-premio-loteria-20260122222646-nt.html",
+        "date": "2026-01-22 21:26:51",
+        "sentiment_score": 0.11326449364423752
     }
 ];
