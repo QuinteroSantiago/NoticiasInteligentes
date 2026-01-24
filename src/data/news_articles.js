@@ -1,104 +1,5 @@
 export default [
     {
-        "title": "El Real Madrid juega contra el Mónaco... ¿y contra el Bernabéu?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/22bbc1f2-4d0b-4e39-9a4e-82490affac15_16-9-aspect-ratio_default_1428379.jpg",
-        "tags": [
-            "real madrid",
-            "santiago bernabéu",
-            "champions",
-            "kylian mbappé",
-            "álvaro arbeloa"
-        ],
-        "link": "https://www.informacion.es/deportes/2026/01/20/real-madrid-juega-monaco-bernabeu-champions-125865807.html",
-        "date": "2026-01-20 06:57:52",
-        "sentiment_score": 0.032171398401260376
-    },
-    {
-        "title": "El que con fuego juega...",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e7efd0e2-5f96-4d3e-8e55-922d2e1486c5_source-aspect-ratio_default_0.jpeg",
-        "tags": [
-            "juega",
-            "fuego"
-        ],
-        "link": "https://www.deia.eus/opinion/mesa-de-redaccion/2026/01/20/fuego-juega-10591658.html",
-        "date": "2026-01-20 06:46:38",
-        "sentiment_score": -0.2558525502681732
-    },
-    {
-        "title": "El celibato voluntario, la tendencia viral sin trascendencia en la vida de los jóvenes",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/20/el-celibato-voluntario-la-tendencia-viral-sin-trascendencia-en-la-vida-de-los-jovenes/",
-        "date": "2026-01-20 06:45:42",
-        "sentiment_score": -0.3579006716609001
-    },
-    {
-        "title": "Accidente de tren en Adamuz, Córdoba, en directo | Marlaska confirma la localización de tres cadáveres más y 43 denuncias por desaparición",
-        "image_url": "https://s3.elespanol.com/2026/01/19/actualidad/1003744094493_260975384_1706x960.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20260120/ultima-hora-accidente-tren-adamuz-cordoba-directo-marlaska-desaparicion/1003744095974_10.html",
-        "date": "2026-01-20 06:44:30",
-        "sentiment_score": -0.8017420712858438
-    },
-    {
-        "title": "El \"extraño\" accidente de trenes de Adamuz analizado por los sindicatos ferroviarios: \"No hay una explicación fácil ni racional\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2bd23ce8-b9c9-4763-baaa-7b143bf690e9_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "córdoba",
-            "accidentes de tren",
-            "trenes",
-            "accidente de tren córdoba",
-            "sindicatos"
-        ],
-        "link": "https://www.diariodemallorca.es/economia/2026/01/20/extrano-accidente-trenes-adamuz-analizado-125865440.html",
-        "date": "2026-01-20 06:39:40",
-        "sentiment_score": -0.5353112183511257
-    },
-    {
-        "title": "Suspendidas por el temporal las clases en el Alt y el Baix Empordà, la Selva y el Gironès",
-        "image_url": "https://static1.ara.cat/clip/e3aed7d2-dbfa-4afc-bf0a-4e0ae025ce11_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "selva",
-            "suspendidas",
-            "temporal",
-            "baix",
-            "clases",
-            "alt",
-            "girones",
-            "emporda"
-        ],
-        "link": "https://es.ara.cat/sociedad/suspendidas-temporal-clases-alt-baix-emporda-selva-girones_1_5622888.html",
-        "date": "2026-01-20 06:40:49",
-        "sentiment_score": -0.8633431047201157
-    },
-    {
-        "title": "La técnica de decoración japonesa que hace furor en España",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2026/01/20/696f21ea07f51.jpeg",
-        "tags": [
-            "medio ambiente"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/vivir/medio-ambiente/2026/01/20/tecnica-decoracion-japonesa-furor-espana-807180-119.html",
-        "date": "2026-01-20 06:34:40",
-        "sentiment_score": 0.4010777771472931
-    },
-    {
-        "title": "La tragedia del accidente de trenes de Adamuz sacude Huelva: víctimas, desaparecidos y una provincia rota por el dolor",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b7412bcb-a06c-4a24-a1f1-6af7eac923f7_16-9-discover-aspect-ratio_default_0_x1000y500.jpg",
-        "tags": [
-            "huelva",
-            "accidente de tren córdoba",
-            "córdoba",
-            "accidentes de tren"
-        ],
-        "link": "https://www.eldia.es/sociedad/2026/01/20/tragedia-accidente-trenes-adamuz-cordoba-sacude-huelva-125865352.html",
-        "date": "2026-01-20 06:33:21",
-        "sentiment_score": -0.7890976592898369
-    },
-    {
         "title": "La diáspora venezolana en el exilio sigue dudando si es momento de volver",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_30-1.jpg",
         "tags": [
@@ -2708,5 +2609,150 @@ export default [
         "link": "https://www.lavanguardia.com/videos/claves-del-dia/20260123/11447906/trump-volcan-impredecible-europa-ignorar.html",
         "date": "2026-01-23 16:57:40",
         "sentiment_score": 0.011206075549125671
+    },
+    {
+        "title": "Barcelona-Real Madrid: Alineaciones probables y datos de la Supercopa de España Femenina (19:00)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/23/image-642e909a-feca-4ccd-afb3-6b8d7497ecb7-85-2560-1440.jpeg",
+        "tags": [
+            "football"
+        ],
+        "link": "https://www.eurosport.es/futbol/barcelona-real-madrid-supercopa-espana-femenina-alineaciones-probables-previa-estadisticas-horario-como-donde-ver-television-online-streaming-hoy_sto23262455/story.shtml",
+        "date": "2026-01-23 22:16:52",
+        "sentiment_score": 0.8324591908603907
+    },
+    {
+        "title": "Bárbara Coppel y su familia disfrutan de una aventura de lujo en Escocia",
+        "image_url": "https://www.hola.com/horizon/landscape/f5902a18e149-barbaravaca.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.hola.com/us-es/celebrities/20260123879779/barbara-coppel-viaje-familiar-escocia/",
+        "date": "2026-01-23 22:16:12",
+        "sentiment_score": 0.12924206629395485
+    },
+    {
+        "title": "El Real Oviedo cierra filas y solo piensa en dar la sorpresa ante el Barcelona",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/01/23/ThiagoFernandez-RnA3ZXKkC7KPa4GRbNd9SrN-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real oviedo"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-cierra-filas-sorpresa-barcelona-20260123210722-nt.html",
+        "date": "2026-01-23 21:55:28",
+        "sentiment_score": -0.5505336001515388
+    },
+    {
+        "title": "Baloncesto español: próximos encuentros para la semana 17 y 18 y dónde verlos gratis",
+        "image_url": "https://pxcdn.2001online.com/2001/012026/1769205382012.jpg?ch=675&cw=1200",
+        "tags": [
+            "españa",
+            "baloncesto"
+        ],
+        "link": "https://2001online.com/deportes/baloncesto-espanol-proximos-encuentros-para-la-semana-17-y-18-y-donde-verlos-gratis-202612317520",
+        "date": "2026-01-23 21:52:00",
+        "sentiment_score": 0.604394294321537
+    },
+    {
+        "title": "Las dos estrellas del Barça de basket que se exhiben en la Euroliga: 62 puntos de valoración",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/23/culemania/secciones/1003742726225_15637553_1706x960.jpg",
+        "tags": [
+            "fcb basket",
+            "kevin punter",
+            "secciones",
+            "xavi pascual"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260123/estrellas-barca-basket-exhiben-euroliga-puntos-valoracion/1003742726219_0.html",
+        "date": "2026-01-23 21:48:57",
+        "sentiment_score": 0.7002884037792683
+    },
+    {
+        "title": "VÍDEO: El segundo entrenador del Real Madrid, Antonio Rodríguez: \"Va a ser un partido esperemos de tú a tú\"",
+        "image_url": "https://www.infobae.com/resizer/v2/4GO7UEZVHJEMBCWIWVKB3MQ5DI.jpg?auth=8626a354ee2dd37e621fc522bd80f737b834d4ca55572eae367e74e059db8847&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/23/video-el-segundo-entrenador-del-real-madrid-antonio-rodriguez-va-a-ser-un-partido-esperemos-de-tu-a-tu/",
+        "date": "2026-01-23 21:30:51",
+        "sentiment_score": 0.1639833003282547
+    },
+    {
+        "title": "Roberto Martínez: \"Una selección que ya ha ganado un Mundial se puede considerar favorita\"",
+        "image_url": "https://www.infobae.com/resizer/v2/DNSRMKPDMFAHBKQSIN7RGAPTC4.jpg?auth=750d41719d6efd90cf595c1d16c69dc52d09afa570330157221e82a2e0723f0f&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/23/roberto-martinez-una-seleccion-que-ya-ha-ganado-un-mundial-se-puede-considerar-favorita/",
+        "date": "2026-01-23 21:30:16",
+        "sentiment_score": 0.5111638978123665
+    },
+    {
+        "title": "Real Madrid y FC Barcelona se enfrentan este sábado en la final de la Supercopa Femenina",
+        "image_url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/78527749001/c93169d0-4ed7-4d73-b49f-7ef29ed5e443/main/224x126/54s517ms/match/image.jpg?pubId=85707284001",
+        "tags": [
+            "sabado",
+            "barcelona",
+            "enfrentan",
+            "real",
+            "final",
+            "supercopa",
+            "femenina",
+            "este",
+            "madrid"
+        ],
+        "link": "https://www.elcomercio.es/deportes/real-madrid-barcelona-enfrentan-sabado-final-supercopa-20260123210524-vi.html",
+        "date": "2026-01-23 21:20:28",
+        "sentiment_score": 0.22057873383164406
+    },
+    {
+        "title": "VÍDEO: Caroline Weir, jugadora del Real Madrid: \"Es importante para el club, queremos ganar nuestro primer título\"",
+        "image_url": "https://www.infobae.com/resizer/v2/63KEVVWQTBFX3PWVNDHQKNNDZ4.jpg?auth=a0784344374e76a8af39af494f2d3d002303ec1aefbee9d919cc4a4a00cd2554&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/23/video-caroline-weir-jugadora-del-real-madrid-es-importante-para-el-club-queremos-ganar-nuestro-primer-titulo/",
+        "date": "2026-01-23 21:15:19",
+        "sentiment_score": 0.5513414032757282
+    },
+    {
+        "title": "Elena Batista; 'Hay gente que no brilla ni poniéndoles purpurina, pero tienen su espacio en medios'",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7818413",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5745661/elena-batista-hay-gente-no-brilla-ni-poniendoles-purpurina-pero-tienen-espacio-medios",
+        "date": "2026-01-23 22:14:53",
+        "sentiment_score": 0.48350271582603455
+    },
+    {
+        "title": "Ramón Vallès, piloto: \"Cuando hay una amenaza de bomba en el avión, es peliagudo, pero el 99 por ciento de los casos son radicalmente falsos\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/23/6973f1c720b84.png",
+        "tags": [
+            "barcelona provincia"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/noticias/ramon-valles-piloto-hay-amenaza-bomba-avion-peliagudo-99-ciento-casos-son-radicalmente-falsos-20260123_3293549.html",
+        "date": "2026-01-23 22:11:22",
+        "sentiment_score": -0.18596506118774414
+    },
+    {
+        "title": "Punter acaba con Watson y el Barça sigue escalando en la Euroliga",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/23/6973efde74734.png",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/baloncesto/20260123/11448071/asvel-villeurbanne-barca-euroliga-punter-resumen.html",
+        "date": "2026-01-23 22:09:55",
+        "sentiment_score": 0.6399825476109982
+    },
+    {
+        "title": "Punter y Shengelia impulsan a un Barça que alcanza a los líderes de la Euroliga",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5f10490e-6b19-4985-ac62-f329269c3a26_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "barça",
+            "euroliga",
+            "fc barcelona de baloncesto",
+            "baloncesto"
+        ],
+        "link": "https://www.informacion.es/deportes/2026/01/23/punter-shengelia-impulsan-barca-alcanza-126024990.html",
+        "date": "2026-01-23 22:00:53",
+        "sentiment_score": 0.2855965197086334
     }
 ];
