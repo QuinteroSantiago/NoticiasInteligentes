@@ -1,232 +1,5 @@
 export default [
     {
-        "title": "Las comunidades del PP y Page se rebelan y hacen frente común contra el reparto de menores migrantes aprobado por el Gobierno: “Ha sido una imposición”",
-        "image_url": "https://www.infobae.com/resizer/v2/RPAG2FCBHJFPHIVGJPEBCVBJA4.png?auth=72784bb128b19a636d667c00b13e3cea6fafbf3c36df5f81854584f5f7d45146&height=566&smart=true&width=1011",
-        "tags": [
-            "menores españa",
-            "ong",
-            "murcia",
-            "tribunal supremo",
-            "ceuta",
-            "ministerio de juventud e infancia",
-            "vox",
-            "pedro sánchez",
-            "españa-noticias",
-            "inmigración españa",
-            "psoe",
-            "melilla",
-            "canarias",
-            "comunidad velenciana",
-            "migrantes",
-            "comunidad de madrid",
-            "pp",
-            "menores",
-            "menores migrantes",
-            "política españa",
-            "gobierno de españa",
-            "españa-sociedad",
-            "castilla y león",
-            "islas baleares"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/27/las-comunidades-del-pp-y-page-se-rebelan-y-hacen-frente-comun-contra-el-reparto-de-menores-migrantes-aprobado-por-el-gobierno-ha-sido-una-imposicion/",
-        "date": "2026-01-20 17:17:59",
-        "sentiment_score": -0.810468815267086
-    },
-    {
-        "title": "La flota pesquera retoma su actividad en Málaga tras las protestas",
-        "image_url": "https://static.grupojoly.com/clip/4fb9651b-2b8b-46a4-ac2f-af3f1b2d1d08_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "axarquía",
-            "málaga"
-        ],
-        "link": "https://www.malagahoy.es/velez-malaga/flota-pesquera-retoma-actividad-malaga_0_2005687674.html",
-        "date": "2026-01-20 17:17:06",
-        "sentiment_score": -0.8577185329049826
-    },
-    {
-        "title": "Los casos que el SEPE quitará el subsidio de mayores de 52 años al computar el salario como renta",
-        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2026/01/19/sepe-oficina-kUlB-U240985561952LXD-758x531@El%20Correo.JPG",
-        "tags": [
-            "empleo",
-            "audiencias",
-            "trabajo",
-            "salario mínimo interprofesional (smi)"
-        ],
-        "link": "https://www.elcorreo.com/economia/tu-economia/casos-sepe-quitara-subsidio-mayores-anos-computar-20260120181258-nt.html",
-        "date": "2026-01-20 17:12:59",
-        "sentiment_score": 0.05413258820772171
-    },
-    {
-        "title": "Barcelona podría volver a ver atletismo de élite en 2028",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/01/20/696fb09803242.r_d.645-125-3583.jpeg",
-        "tags": [
-            "esports cope"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/barcelona-volver-ver-atletismo-elite-2028-20260120_3290673.html",
-        "date": "2026-01-20 17:12:25",
-        "sentiment_score": 0.04176485538482666
-    },
-    {
-        "title": "El plan alternativo de transporte de Renfe entre Madrid y Andalucía se desarrolla con normalidad",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/Estacion-Adif-Ciudad-Real-_-Clara-Manzano-198.jpg",
-        "tags": [
-            "adamuz",
-            "ciudad real",
-            "renfe"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/ciudad-real/el-plan-alternativo-de-transporte-de-renfe-entre-madrid-y-andalucia-se-desarrolla-con-normalidad/",
-        "date": "2026-01-20 17:12:08",
-        "sentiment_score": -0.0638909637928009
-    },
-    {
-        "title": "Sindicatos denuncian que la Xunta \"bloquea\" la negociación de los convenios de las fundaciones sanitarias",
-        "image_url": "https://www.galiciapress.es/images/285310",
-        "tags": [
-            "top",
-            "sports"
-        ],
-        "link": "https://www.galiciapress.es/articulo/sanidad/2026-01-20/5741029-sindicatos-denuncian-xunta-bloquea-negociacion-convenios-fundaciones-sanitarias",
-        "date": "2026-01-20 17:11:03",
-        "sentiment_score": -0.6000907123088837
-    },
-    {
-        "title": "¿Vuelve con Arbeloa el coche más espectacular que se ha visto en el Real Madrid?",
-        "image_url": "https://fotografias.lasexta.com/clipping/cmsimages01/2026/01/20/019A16C8-1648-4249-8061-8F10F51416A8/vuelve-arbeloa-coche-mas-espectacular-que-visto-real-madrid_96.jpg?crop=2000%2C1125%2Cx0%2Cy106&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "noticias motor",
-            "motor"
-        ],
-        "link": "https://www.lasexta.com/motor/noticias/vuelve-arbeloa-coche-mas-espectacular-que-visto-real-madrid_20260120696fb6f5f21351044da336a0.html",
-        "date": "2026-01-20 17:10:13",
-        "sentiment_score": -0.6546706221997738
-    },
-    {
-        "title": "Las iniciativas de Madrid para rescatar las matemáticas en 1.200 centros de la región",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/20/696fb5d889892.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.eldebate.com/espana/madrid/20260120/iniciativas-madrid-rescatar-matematicas-1200-centros-region_376426.html",
-        "date": "2026-01-20 17:08:04",
-        "sentiment_score": 0.33355138450860977
-    },
-    {
-        "title": "Piqué se anima con propuestas para cambiar el baloncesto tras destrozar el tenis",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/01/20/696fb2983e032.r_d.942-431-6250.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.eldebate.com/deportes/baloncesto/20260120/pique-anima-propuestas-cambiar-baloncesto-destrozar-tenis-tiros-10-puntos_376414.html",
-        "date": "2026-01-20 17:07:00",
-        "sentiment_score": -0.5180860012769699
-    },
-    {
-        "title": "Comprender antes de juzgar: ¿qué enseñan los fallos ferroviarios del pasado sobre el accidente de Adamuz?",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/20/696fb512cdaeb.r_d.3051-1858-748.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.lavanguardia.com/motor/actualidad/20260120/11444516/comprender-antes-juzgar-que-ensenan-fallos-ferroviarios-pasado-sobre-accidente-adamuz.html",
-        "date": "2026-01-20 17:05:52",
-        "sentiment_score": -0.23902267217636108
-    },
-    {
-        "title": "Adif frena el AVE Madrid-Barcelona a su paso por Zaragoza por la aparición de baches en la vía",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/20/696fb74e662b0.jpeg",
-        "tags": [
-            "zaragoza"
-        ],
-        "link": "https://www.cope.es/emisoras/aragon/zaragoza-provincia/zaragoza/noticias/adif-frena-ave-madrid-barcelona-paso-zaragoza-aparicion-baches-20260120_3290693.html",
-        "date": "2026-01-20 17:17:53",
-        "sentiment_score": -0.12454292178153992
-    },
-    {
-        "title": "Flick: \"Queremos ganar la Champions, todos tenemos hambre de hacerlo\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260120181716_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-flick-queremos-ganar-champions-todos-tenemos-hambre-hacerlo-20260120181716.html",
-        "date": "2026-01-20 17:17:16",
-        "sentiment_score": 0.6501781865954399
-    },
-    {
-        "title": "Comienza el juicio al masajista de Canet de Mar acusado de abusos sexuales a 12 chicas",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/20/696fb7ffa7a61.webp",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/noticias/comienza-juicio-masajista-canet-mar-acusado-abusos-sexuales-12-chicas-20260120_3290696.html",
-        "date": "2026-01-20 17:16:45",
-        "sentiment_score": -0.3161756843328476
-    },
-    {
-        "title": "España y Portugal acuerdan impulsar un programa de intercambio de expertos de protección radiológica y seguridad nuclear",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260120181628_690.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-espana-portugal-acuerdan-impulsar-programa-intercambio-expertos-proteccion-radiologica-seguridad-nuclear-20260120181628.html",
-        "date": "2026-01-20 17:16:28",
-        "sentiment_score": 0.561026755720377
-    },
-    {
-        "title": "El emotivo adiós de Alejandro Balde a dos jugadores del Barça: enero de despedidas",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/20/culemania/primer-equipo/1003742724951_15621164_1706x960.jpg",
-        "tags": [
-            "primer equipo",
-            "barça",
-            "champions league",
-            "alejandro balde"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260120/emotivo-adios-alejandro-balde-jugadores-barca-despedidas/1003742724949_0.html",
-        "date": "2026-01-20 17:16:03",
-        "sentiment_score": -0.37297456711530685
-    },
-    {
-        "title": "Alejandro Balde: \"Nuestra idea es ganar la Champions\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/20/696fb7f9bf690.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/alejandro-balde-nuestra-idea-ganar-champions-20260120_3290694.html",
-        "date": "2026-01-20 17:16:02",
-        "sentiment_score": 0.20046499371528625
-    },
-    {
-        "title": "Toledo, Granada, Barcelona, León, Zaragoza, Murcia, Oviedo y Lugo: candidatas oficiales para la Agencia de Salud Pública",
-        "image_url": "https://s3.elespanol.com/2025/12/17/actualidad/1003744060345_260542400_1706x960.jpg",
-        "tags": [
-            "sanidad - actualidad sanitaria",
-            "sanidad - política sanitaria",
-            "observatorio de la sanidad"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260120/toledo-granada-barcelona-leon-zaragoza-murcia-oviedo-lugo-candidatas-oficiales-agencia-salud-publica/1003744097073_0.html",
-        "date": "2026-01-20 17:15:51",
-        "sentiment_score": 0.023139555007219315
-    },
-    {
-        "title": "Trump exhibe tics autoritarios mientras el Ártico abre la Ruta de la Seda Polar",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-        "tags": [
-            "claves del día"
-        ],
-        "link": "https://www.lavanguardia.com/videos/claves-del-dia/20260120/11444544/claves-dia-trump-exhibe-tics-autoritarios-artico-abre-ruta-seda-polar.html",
-        "date": "2026-01-20 17:15:10",
-        "sentiment_score": 0.10191135853528976
-    },
-    {
-        "title": "Una peregrinación de Montserrat a Nuria sin salir de Barcelona",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/20/696fb69a59b2a.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/20260120/peregrinacion-montserrat-nuria-salir-barcelona_376428.html",
-        "date": "2026-01-20 17:14:19",
-        "sentiment_score": -0.24628539755940437
-    },
-    {
         "title": "Champions League: Así quedó la tabla de posiciones tras la jornada del martes",
         "image_url": "https://i.ytimg.com/vi/nTy-YbMVJ38/mqdefault.jpg",
         "tags": [
@@ -2965,5 +2738,229 @@ export default [
         "link": "https://www.infobae.com/peru/deportes/2026/01/24/oliver-sonne-se-perfila-como-refuerzo-del-fc-copenhague-via-cesion-y-coincidiria-en-el-plantel-con-marcos-lopez/",
         "date": "2026-01-24 01:01:35",
         "sentiment_score": 0.4052291810512543
+    },
+    {
+        "title": "El insólito refrán madrileño que nunca conocerán el resto de españoles: sólo tiene sentido en la capital",
+        "image_url": "https://okdiario.com/img/2026/01/20/madrid-calle.jpg",
+        "tags": [
+            "lenguaje",
+            "historia de españa",
+            "comunidad de madrid",
+            "frases",
+            "curiosidades",
+            "castellano",
+            "palabras",
+            "español",
+            "madrid"
+        ],
+        "link": "https://okdiario.com/curiosidades/insolito-refran-madrileno-que-nunca-conoceran-resto-espanoles-solo-tiene-sentido-capital-16103819",
+        "date": "2026-01-24 06:30:13",
+        "sentiment_score": -0.4367797002196312
+    },
+    {
+        "title": "El acogedor caserón de Josie del siglo XVIII: en un pueblo de La Mancha y lo heredó de sus tías",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/casa-josie-mancha.jpeg",
+        "tags": [
+            "celebrities",
+            "cristina pedroche",
+            "gente",
+            "ciudad real",
+            "casas"
+        ],
+        "link": "https://theobjective.com/gente/2026-01-24/acogedor-caseron-josie-pueblo-mancha-tias/",
+        "date": "2026-01-24 06:30:00",
+        "sentiment_score": 0.43030617386102676
+    },
+    {
+        "title": "Cada vez mejor",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/24/SEAT%20IBIZA%20foto%202-kIlB-U2409820495010tD-1200x840@RC.jpg",
+        "tags": [
+            "tráfico",
+            "seat"
+        ],
+        "link": "https://www.leonoticias.com/motor/vez-mejor-20260124140346-ntrc.html",
+        "date": "2026-01-24 06:29:03",
+        "sentiment_score": 0.753127520903945
+    },
+    {
+        "title": "Borrasca Ingrid, en directo: Catalunya y parte de España en alerta por la nieve y temporal",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8c5a8f27-d306-4b6d-8fdf-77237e0bd6ca_16-9-discover-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "movilidad",
+            "nieve",
+            "camiones",
+            "carreteras",
+            "tráfico",
+            "logística",
+            "temporales"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260124/directo-ingrid-temporal-nieve-camiones-desabastecimiento-ultima-hora-125996196",
+        "date": "2026-01-24 06:22:00",
+        "sentiment_score": -0.3597462773323059
+    },
+    {
+        "title": "Giro radical en la ZBE de Bilbao: adiós para siempre a la circulación para los vehículos con etiqueta B",
+        "image_url": "https://okdiario.com/img/2026/01/22/giro-radical-en-la-zbe-de-bilbao-adios-para-siempre-a-la-circulacion-para-los-vehiculos-con-etiqueta-b.jpg",
+        "tags": [
+            "bilbao",
+            "emisiones co2",
+            "okd",
+            "país vasco",
+            "españa"
+        ],
+        "link": "https://okdiario.com/pais-vasco/giro-radical-zbe-bilbao-adios-siempre-circulacion-vehiculos-etiqueta-b-16120668",
+        "date": "2026-01-24 06:15:36",
+        "sentiment_score": -0.48641443252563477
+    },
+    {
+        "title": "La estación de autobuses de Badajoz cambia de cara",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4c7cc093-4d78-42ae-bb63-252647b6b262_16-9-aspect-ratio_default_0_x609y270.jpg",
+        "tags": [
+            "imagen",
+            "extremadura",
+            "obras",
+            "autobuses",
+            "badajoz",
+            "viajeros"
+        ],
+        "link": "https://www.lacronicabadajoz.com/badajoz/2026/01/24/estacion-autobuses-badajoz-cambia-cara-126027817.html",
+        "date": "2026-01-24 06:06:01",
+        "sentiment_score": 0.1885511875152588
+    },
+    {
+        "title": "Tomás Guitarte: \"Nos preocupa mucho la entrada de la extrema derecha al poder, estamos ante una situación de emergencia\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/21/tomas-guitarte-candidato-de-aragon-existe-a-las-elecciones-autonomicas-de-aragon.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.huffingtonpost.es/politica/tomas-guitarte-nos-preocupa-entrada-extrema-derecha-situacion-emergencia-f202601.html",
+        "date": "2026-01-24 06:05:43",
+        "sentiment_score": -0.17346662282943726
+    },
+    {
+        "title": "Una polémica foto de la Casa del Rey une a populismos opuestos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9b5560b7-14a3-4fb6-8fa8-79d948707430_16-9-discover-aspect-ratio_default_0_x652y289.jpg",
+        "tags": [
+            "felipe vi",
+            "santiago bernabéu, estadio",
+            "donald trump",
+            "casa del rey",
+            "accidente de tren córdoba",
+            "davos",
+            "florentino pérez",
+            "entender más",
+            "taylor swift",
+            "vox",
+            "emmanuel macron"
+        ],
+        "link": "https://www.elperiodico.com/es/gente/20260124/polemica-foto-casa-rey-une-populismos-accidente-tren-125981308",
+        "date": "2026-01-24 06:00:37",
+        "sentiment_score": -0.9213177673518658
+    },
+    {
+        "title": "Así están las cuentas en la última jornada para ser cabezas de serie en la Copa del Rey 2026",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f13b0bdc-ffc1-4561-835b-3bfdb0dbb049_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unicaja",
+            "ucam",
+            "barça",
+            "valencia",
+            "joventut",
+            "baskonia",
+            "serie"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2026/01/24/cuentas-ultima-jornada-cabeza-serie-copa-126023287.html",
+        "date": "2026-01-24 06:00:35",
+        "sentiment_score": 0.2824355363845825
+    },
+    {
+        "title": "Villarreal - Real Madrid: Horario, posibles alineaciones y dónde ver el partido de LaLiga EA Sports, en directo",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/12/13/F348C551-7B62-49C2-8FCE-070280320396/kylian-mbappe_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/villarreal-real-madrid-horario-posibles-alineaciones-donde-ver-partido-laliga-sports-directo_2026012469745ff1f21351044da716c7.html",
+        "date": "2026-01-24 06:00:17",
+        "sentiment_score": 0.02087768167257309
+    },
+    {
+        "title": "El servicio de Rodalies vuelve a estar suspendido este sábado en toda Cataluña",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/1623cfbba86010f6bdb35f37b59bd1c6/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/24/17692364619535.jpg",
+        "tags": [
+            "transporte y turismo",
+            "cataluña",
+            "rodalíes"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2026/01/24/69746812e4d4d871618b4598.html",
+        "date": "2026-01-24 06:35:01",
+        "sentiment_score": 0.5224284492433071
+    },
+    {
+        "title": "Así ha ganado esta provincia catalana la guerra del carburante",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/11/04/2024110409421397119.jpg",
+        "tags": [
+            "motor"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/motor/asi-ha-ganado-provincia-catalana-guerra-carburante/20260124073205999819.html",
+        "date": "2026-01-24 06:32:05",
+        "sentiment_score": 0.4265027493238449
+    },
+    {
+        "title": "Xavier Ruyra, cardiólogo: \"En la mujer, el infarto pasa más desapercibido porque cuida de ella menos que de los demás\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9700a4c5-bff2-4843-89a2-fa062236ddd4_16-9-discover-aspect-ratio_default_0_x303y134.jpg",
+        "tags": [
+            "entender más",
+            "medicina"
+        ],
+        "link": "https://www.elperiodico.com/es/sanidad/20260124/xavier-ruyra-cardiologo-mujer-infarto-125851239",
+        "date": "2026-01-24 06:00:38",
+        "sentiment_score": 0.39691193401813507
+    },
+    {
+        "title": "Ardoi, el primero de tres duros rivales",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8d14bac3-7b39-4849-90a2-a8c2e51ec8d8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "zamarat,la liga,argentina"
+        ],
+        "link": "https://www.laopiniondezamora.es/deportes/2026/01/24/ardoi-tres-duros-rivales-126023836.html",
+        "date": "2026-01-24 06:00:36",
+        "sentiment_score": 0.639370497316122
+    },
+    {
+        "title": "La inversión total en infraestructuras desciende un 63% en quince años",
+        "image_url": "https://s10.s3c.es/imag/_v0/2119x1156/b/0/1/1200x655_iStock-1021908692.jpg",
+        "tags": [
+            "economia"
+        ],
+        "link": "https://www.eleconomista.es/economia/noticias/13741864/01/26/la-inversion-total-en-infraestructuras-desciende-un-63-en-quince-anos.html",
+        "date": "2026-01-24 06:00:32",
+        "sentiment_score": -0.55700409039855
+    },
+    {
+        "title": "Donald Trump desea Groenlandia por lo que China ya controla: las tierras raras que impulsan el desarrollo tecnológico",
+        "image_url": "https://imagenes.businessinsider.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/01/23/69735fcec5f3e4-51440141.r_d.829-329.png",
+        "tags": [
+            "defensa y espacio"
+        ],
+        "link": "https://www.businessinsider.es/defensa-espacio/donald-trump-desea-groenlandia-por-que-china-ya-controla-las-tierras-raras-que-impulsan-desarrollo-tecnologico_6925028_0.html",
+        "date": "2026-01-24 06:00:00",
+        "sentiment_score": 0.6836617328226566
+    },
+    {
+        "title": "El camino hacia la cabina del tren tras 1.150 horas de preparación: así se forman los futuros maquinistas en Sevilla",
+        "image_url": "https://s3.elespanol.com/2023/10/15/castilla-y-leon/sociedad/802179876_236816900_1706x960.jpg",
+        "tags": [
+            "transporte ferroviario",
+            "trenes",
+            "sevilla (municipio)",
+            "sevilla",
+            "estudiantes",
+            "renfe"
+        ],
+        "link": "https://www.elespanol.com/sevilla/20260124/camino-cabina-tren-horas-preparacion-forman-futuros-maquinistas-sevilla/1003744101692_0.html",
+        "date": "2026-01-24 06:00:00",
+        "sentiment_score": -0.11580239981412888
     }
 ];
