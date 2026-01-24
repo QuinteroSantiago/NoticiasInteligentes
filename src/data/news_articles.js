@@ -1,36 +1,5 @@
 export default [
     {
-        "title": "La diáspora venezolana en el exilio sigue dudando si es momento de volver",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_30-1.jpg",
-        "tags": [
-            "exilio",
-            "internacionales",
-            "diáspora venezolana",
-            "nacionales",
-            "destacados"
-        ],
-        "link": "https://lapatilla.com/2026/01/20/la-diaspora-venezolana-en-el-exilio-sigue-dudando-si-es-momento-de-volver/",
-        "date": "2026-01-20 11:28:46",
-        "sentiment_score": -0.8988512642681599
-    },
-    {
-        "title": "De presidente a acusado: así fue presenciar el primer día de Nicolás Maduro en una corte de EEUU",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/695c2404421b4.r_d.1189-300.avif",
-        "tags": [
-            "actualidad",
-            "internacionales",
-            "usa",
-            "nicolás maduro",
-            "nacionales",
-            "corte",
-            "presidente a acusado",
-            "eeuu"
-        ],
-        "link": "https://lapatilla.com/2026/01/20/de-presidente-a-acusado-asi-fue-presenciar-el-primer-dia-de-nicolas-maduro-en-una-corte-de-eeuu/",
-        "date": "2026-01-20 10:22:28",
-        "sentiment_score": -0.4448166638612747
-    },
-    {
         "title": "Las comunidades del PP y Page se rebelan y hacen frente común contra el reparto de menores migrantes aprobado por el Gobierno: “Ha sido una imposición”",
         "image_url": "https://www.infobae.com/resizer/v2/RPAG2FCBHJFPHIVGJPEBCVBJA4.png?auth=72784bb128b19a636d667c00b13e3cea6fafbf3c36df5f81854584f5f7d45146&height=566&smart=true&width=1011",
         "tags": [
@@ -661,23 +630,6 @@ export default [
         "link": "https://www.laopiniondemalaga.es/economia/2026/01/21/ia-transforma-sector-bancario-mayor-125904651.html",
         "date": "2026-01-21 01:59:15",
         "sentiment_score": 0.6294103935360909
-    },
-    {
-        "title": "De presidente a acusado: así fue presenciar el primer día de Nicolás Maduro en una corte de EEUU",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/695c2404421b4.r_d.1189-300.avif",
-        "tags": [
-            "actualidad",
-            "internacionales",
-            "usa",
-            "nicolás maduro",
-            "nacionales",
-            "corte",
-            "presidente a acusado",
-            "eeuu"
-        ],
-        "link": "https://lapatilla.com/2026/01/20/de-presidente-a-acusado-asi-fue-presenciar-el-primer-dia-de-nicolas-maduro-en-una-corte-de-eeuu/",
-        "date": "2026-01-20 10:22:28",
-        "sentiment_score": -0.44481680542230606
     },
     {
         "title": "La flota cántabra se suma al paro nacional del sector contra el nuevo reglamento europeo",
@@ -2754,5 +2706,264 @@ export default [
         "link": "https://www.informacion.es/deportes/2026/01/23/punter-shengelia-impulsan-barca-alcanza-126024990.html",
         "date": "2026-01-23 22:00:53",
         "sentiment_score": 0.2855965197086334
+    },
+    {
+        "title": "Vox se mantiene fiel a Trump aunque sus últimas medidas le creen problemas en el relato",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/27/media_thumb-link-4138985.webp?1769120946=",
+        "tags": [
+            "donald trump",
+            "problemas",
+            "relato",
+            "vox",
+            "apoyo"
+        ],
+        "link": "https://www.meneame.net/story/vox-mantiene-fiel-trump-aunque-ultimas-medidas-creen-problemas",
+        "date": "2026-01-23 12:00:02",
+        "sentiment_score": -0.6739874184131622
+    },
+    {
+        "title": "Vinicius Jr. podría ser fichado a cambio de una cifra récord: ofrecerían 1 billón de euros por su traspaso",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/vinicius-jr.jpg",
+        "tags": [
+            "futbol",
+            "real madrid cf",
+            "vinicius jr",
+            "deportes",
+            "arabia saudí",
+            "españa",
+            "titulares"
+        ],
+        "link": "https://lapatilla.com/2026/01/23/vinicius-jr-podria-ser-fichado-a-cambio-de-una-cifra-record-ofrecerian-1-billon-de-euros-por-su-traspaso/",
+        "date": "2026-01-24 02:00:39",
+        "sentiment_score": -0.27231205999851227
+    },
+    {
+        "title": "Amenaza para Cristiano Ronaldo: el récord que Kylian Mbappé busca en Champions League",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/kylian-Mbappe-real-madrid.jpg",
+        "tags": [
+            "cristiano ronaldo",
+            "deportes",
+            "futbol",
+            "champions league",
+            "kylian mbappé",
+            "titulares"
+        ],
+        "link": "https://lapatilla.com/2026/01/23/amenaza-para-cristiano-ronaldo-el-record-que-kylian-mbappe-busca-en-champions-league/",
+        "date": "2026-01-24 01:34:20",
+        "sentiment_score": -0.6735646650195122
+    },
+    {
+        "title": "El Gobierno ocultó la declaración de la ministra Tolón ante el juez por la dana",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/fb6d7adbccce048b370208c8b955a7b8/crop/2x0/1024x1022/f/image/jpeg/assets/multimedia/imagenes/2024/01/15/17053356313045.jpg",
+        "tags": [
+            "artículos juanma lamet",
+            "dana"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/01/24/6973cc20fdddff9a708b457d.html",
+        "date": "2026-01-24 01:31:48",
+        "sentiment_score": -0.19418169558048248
+    },
+    {
+        "title": "El ‘rebaño’ de Redoblones y la ‘partida’ de Mamelones firman lo mejor de la primera fase de las murgas infantiles",
+        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-23.39.38-1024x598.jpg",
+        "tags": [
+            "portada apertura",
+            "portada",
+            "santa cruz",
+            "metropolitana",
+            "tenerife"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2026/01/fase-1-murgas-infantiles-santa-cruz/",
+        "date": "2026-01-24 01:27:00",
+        "sentiment_score": 0.5401124507188797
+    },
+    {
+        "title": "El imperio de Manuel Robledo: de llevar Lizarrán a abrir un kebab en el Bernabéu y un café de especialidad a 0,70 euros",
+        "image_url": "https://s3.elespanol.com/2026/01/23/madrid/1003744101438_261060976_1706x960.jpg",
+        "tags": [
+            "estadio santiago bernabéu",
+            "hostelería y restauración",
+            "ocio"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20260124/imperio-manuel-robledo-llevar-lizarran-abrir-kebab-bernabeu-cafe-especialidad-euros/1003744101255_0.html",
+        "date": "2026-01-24 01:00:00",
+        "sentiment_score": 0.1450403928756714
+    },
+    {
+        "title": "Folclore, sexo y rituales paganos: Marina Abramovic lleva al Liceu su ambiciosa obra 'Balkan Erotic Epic'",
+        "image_url": "https://s3.elespanol.com/2026/01/23/actualidad/1003744101808_261065763_1706x960.jpg",
+        "tags": [
+            "liceu de barcelona",
+            "escenarios",
+            "marina abramovic"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/20260124/folclore-sexo-rituales-paganos-marina-abramovic-lleva-liceu-ambiciosa-obra-balkan-erotic-epic/1003744100966_0.html",
+        "date": "2026-01-24 00:55:00",
+        "sentiment_score": 0.45258573442697525
+    },
+    {
+        "title": "Mariano Jabonero, secretario general de la OEI: \"Ahora la cooperación educativa es más importante que nunca\"",
+        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744034640_261051999_1706x960.jpg",
+        "tags": [
+            "objetivo 4: educación de calidad",
+            "charo izquierdo",
+            "oei iberoamérica en democracia",
+            "referentes"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/referentes/20260124/mariano-jabonero-secretario-general-oei-ahora-cooperacion-educativa-importante-nunca/1003744100708_0.html",
+        "date": "2026-01-24 00:45:00",
+        "sentiment_score": 0.7993134260177612
+    },
+    {
+        "title": "23 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/23-ene-2026-partidazo-cope-20260124_3293583.html",
+        "date": "2026-01-24 00:40:00",
+        "sentiment_score": 0.07110379636287689
+    },
+    {
+        "title": "3a PARTE | 23 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-23-ene-2026-partidazo-cope-20260124_3293582.html",
+        "date": "2026-01-24 00:30:00",
+        "sentiment_score": 0.0403421875089407
+    },
+    {
+        "title": "Ari Arias se marcha tras solo medio año y cuatro partidos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/59e14ee7-5bb2-4abe-a536-ed7ea401e2f8_16-9-discover-aspect-ratio_default_0_x465y195.jpg",
+        "tags": [
+            "costa adeje",
+            "invierno",
+            "trabajo",
+            "tenerife"
+        ],
+        "link": "https://www.eldia.es/deportes/ud-tenerife/2026/01/24/ari-arias-marcha-medio-ano-126025066.html",
+        "date": "2026-01-24 00:02:50",
+        "sentiment_score": 0.19105671346187592
+    },
+    {
+        "title": "Estos son los dos hospitales y 16 servicios de la sanidá pública asturiana asitiaos na élite nacional",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/aa88ad53-7d01-4405-b31e-a4d22fa4804e_16-9-aspect-ratio_default_0_x812y361.jpg",
+        "tags": [
+            "sanidad pública",
+            "clasificación",
+            "asturias",
+            "élite",
+            "huca"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2026/01/24/son-hospitales-16-servicios-sanida-125898278.html",
+        "date": "2026-01-24 02:03:31",
+        "sentiment_score": -0.18635469675064087
+    },
+    {
+        "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
+        "tags": [
+            "tiempo en españa",
+            "noticias",
+            "españa noticias",
+            "españa sociedad",
+            "barcelona"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/24/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-barcelona/",
+        "date": "2026-01-24 02:01:00",
+        "sentiment_score": -0.05413059890270233
+    },
+    {
+        "title": "Feijóo acusa a Sánchez de “colapso” detrás de Adamuz: “el estado de las vías es el estado de la nación”",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/24/2026012404100554826.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/feijoo-acusa-sanchez-colapso-detras-adamuz-estado-vias-es-estado-nacion/20260124025951371894.html",
+        "date": "2026-01-24 01:59:51",
+        "sentiment_score": -0.8588108643889427
+    },
+    {
+        "title": "El PP aplaza 'sine die' la reunión Feijóo-Sánchez: \"Con 46 ataúdes no podemos hablar de la misión de paz a Ucrania que no existe\"",
+        "image_url": "https://s3.elespanol.com/2026/01/23/actualidad/1003744101928_261067518_1706x960.jpg",
+        "tags": [
+            "política",
+            "partido popular (pp)",
+            "accidentes de tren",
+            "pedro sánchez",
+            "adamuz",
+            "alberto núñez feijóo"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20260124/pp-aplaza-sine-die-reunion-feijoo-sanchez-ataudes-no-podemos-hablar-mision-paz-ucrania-existe/1003744100997_0.html",
+        "date": "2026-01-24 01:45:01",
+        "sentiment_score": -0.8332364615052938
+    },
+    {
+        "title": "El gran negocio de la compraventa de hoteles en Málaga: mueve 2.000 millones de euros en cinco años",
+        "image_url": "https://s3.elespanol.com/2025/12/19/actualidad/1003744063659_260585676_1706x960.jpg",
+        "tags": [
+            "hoteles",
+            "turismo",
+            "inversiones",
+            "costa del sol",
+            "málaga"
+        ],
+        "link": "https://www.elespanol.com/malaga/vivir/turismo/20260124/gran-negocio-compraventa-hoteles-malaga-mueve-millones-euros-anos-dl/1003744100236_0.html",
+        "date": "2026-01-24 01:45:00",
+        "sentiment_score": -0.3732627332210541
+    },
+    {
+        "title": "Los límites a la velocidad de Adif dejan la red ferroviaria a medio gas y una hora de retraso promedio en los tramos señalados",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
+        "tags": [
+            "artículos clara rojas"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2026/01/24/69727296e85ecede068b4572.html",
+        "date": "2026-01-24 01:39:09",
+        "sentiment_score": -0.7211306095123291
+    },
+    {
+        "title": "El Barça devuelve a Goldman Sachs los primeros 45 millones del crédito del Espai Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/24/culemania/palco/1003742726244_15637837_1706x960.jpg",
+        "tags": [
+            "palco",
+            "goldman sachs",
+            "fc barcelona",
+            "espai barça",
+            "camp nou"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260124/barca-devuelve-goldman-sachs-primeros-millones-espai/1003742726239_0.html",
+        "date": "2026-01-24 01:21:30",
+        "sentiment_score": 0.6248757764697075
+    },
+    {
+        "title": "Magallanes asaltó el segundo lugar de la tabla",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/01/Magallanes-1-696x392-1.jpg",
+        "tags": [
+            "round robin",
+            "magallanes",
+            "23ene",
+            "deportes"
+        ],
+        "link": "https://laverdaddemonagas.com/2026/01/23/magallanes-segundo-lugar/",
+        "date": "2026-01-24 01:04:51",
+        "sentiment_score": 0.49651922285556793
+    },
+    {
+        "title": "Oliver Sonne se perfila como refuerzo del FC Copenhague vía cesión y coincidiría en el plantel con Marcos López",
+        "image_url": "https://www.infobae.com/resizer/v2/4EIRBF2IHJD4NCF2TUNPZFUYG4.jpg?auth=56d616f9c114e9e3620dae2d6630d6f6dcd9bb67671251a23a2840a60a4ffe71&height=1080&smart=true&width=1920",
+        "tags": [
+            "selección peruana",
+            "marcos lópez",
+            "peru-deportes",
+            "burnley",
+            "oliver sonne",
+            "fc copenhague"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/01/24/oliver-sonne-se-perfila-como-refuerzo-del-fc-copenhague-via-cesion-y-coincidiria-en-el-plantel-con-marcos-lopez/",
+        "date": "2026-01-24 01:01:35",
+        "sentiment_score": 0.4052291810512543
     }
 ];
