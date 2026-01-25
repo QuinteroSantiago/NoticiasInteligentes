@@ -15,34 +15,6 @@ export default [
         "sentiment_score": 0.1642349511384964
     },
     {
-        "title": "Cinco claves para entender el ambicioso plan de Trump por Groenlandia",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_53.jpg",
-        "tags": [
-            "ambicioso",
-            "actualidad",
-            "internacionales",
-            "usa",
-            "plan",
-            "trump",
-            "groenlandia"
-        ],
-        "link": "https://lapatilla.com/2026/01/21/cinco-claves-para-entender-el-ambicioso-plan-de-trump-por-groenlandia/",
-        "date": "2026-01-21 12:38:46",
-        "sentiment_score": -0.3110021948814392
-    },
-    {
-        "title": "Reino Unido autoriza la «megaembajada» de China en Londres en medio de fuertes críticas",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/24/media_thumb-link-4138091.webp?1768936986=",
-        "tags": [
-            "actualidad",
-            "reino unido",
-            "china"
-        ],
-        "link": "https://www.meneame.net/story/reino-unido-autoriza-megaembajada-china-londres-medio-fuertes",
-        "date": "2026-01-21 11:20:02",
-        "sentiment_score": 0.0066460371017456055
-    },
-    {
         "title": "Un verano para no olvidar: Castellón se prepara para vivir un eclipse histórico y atraer a miles de turistas",
         "image_url": "https://imagenes.esdiario.com/files/og_thumbnail/uploads/2026/01/21/6971098a5e2db.jpeg",
         "tags": [
@@ -616,34 +588,6 @@ export default [
         "link": "https://lapatilla.com/2026/01/21/la-pausa-a-las-visas-para-inmigrante-a-eeuu-entra-en-vigor-este-21ene/",
         "date": "2026-01-21 15:26:02",
         "sentiment_score": 0.16423587501049042
-    },
-    {
-        "title": "Cinco claves para entender el ambicioso plan de Trump por Groenlandia",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_53.jpg",
-        "tags": [
-            "ambicioso",
-            "actualidad",
-            "internacionales",
-            "usa",
-            "plan",
-            "trump",
-            "groenlandia"
-        ],
-        "link": "https://lapatilla.com/2026/01/21/cinco-claves-para-entender-el-ambicioso-plan-de-trump-por-groenlandia/",
-        "date": "2026-01-21 12:38:46",
-        "sentiment_score": -0.3110022470355034
-    },
-    {
-        "title": "Reino Unido autoriza la «megaembajada» de China en Londres en medio de fuertes críticas",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/24/media_thumb-link-4138091.webp?1768936986=",
-        "tags": [
-            "actualidad",
-            "reino unido",
-            "china"
-        ],
-        "link": "https://www.meneame.net/story/reino-unido-autoriza-megaembajada-china-londres-medio-fuertes",
-        "date": "2026-01-21 11:20:02",
-        "sentiment_score": 0.006647437810897827
     },
     {
         "title": "El Centre del Carme inicia la temporada 2026 con dos muestras de videocreación sobre el mundo gamer, las relaciones humanas y la empatía",
@@ -2781,5 +2725,242 @@ export default [
         "link": "https://www.elcomercio.es/gijon/sabor-plato-copa-20260125192436-nt.html",
         "date": "2026-01-24 21:56:43",
         "sentiment_score": 0.2403733730316162
+    },
+    {
+        "title": "Jorge Azcón: \"Yo quiero un Gobierno sólo con consejeros del PP y dudo de que Vox quiera remangarse y gobernar\"",
+        "image_url": "https://s3.elespanol.com/2026/01/24/actualidad/1003744102984_261083152_1706x960.jpg",
+        "tags": [
+            "pilar alegría",
+            "política",
+            "hablando sobre españa",
+            "jorge azcón",
+            "elecciones autonómicas",
+            "aragón",
+            "entrevistas"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20260125/jorge-azcon-quiero-gobierno-solo-consejeros-pp-dudo-vox-quiera-remangarse-gobernar/1003744102838_0.html",
+        "date": "2026-01-25 02:00:00",
+        "sentiment_score": -0.5971465408802032
+    },
+    {
+        "title": "Al rescate de la Ilustración, una brújula moral y racional para entender el desconcertante siglo XXI",
+        "image_url": "https://s3.elespanol.com/2026/01/23/actualidad/1003744101314_261059399_1706x960.jpg",
+        "tags": [
+            "literatura",
+            "ensayo",
+            "letras"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20260125/rescate-ilustracion-brujula-moral-racional-entender-desconcertante-siglo-xxi/1003744101297_0.html",
+        "date": "2026-01-25 01:51:49",
+        "sentiment_score": 0.5370568297803402
+    },
+    {
+        "title": "Óscar, el entrenador de fútbol y policía militar detenido por tenencia de pornografía infantil: \"No hay denuncias de padres\"",
+        "image_url": "https://s3.elespanol.com/2026/01/24/actualidad/1003744102718_261079534_1706x960.jpg",
+        "tags": [
+            "menores",
+            "extremadura",
+            "reportajes",
+            "españa",
+            "badajoz (municipio)",
+            "cáceres (provincia)",
+            "guardia civil"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260125/oscar-entrenador-futbol-policia-militar-detenido-tenencia-pornografia-infantil-no-denuncias-padres/1003744102715_0.html",
+        "date": "2026-01-25 01:39:08",
+        "sentiment_score": -0.885512669570744
+    },
+    {
+        "title": "La noche en la que Emil Jonsson volvió a nacer en el mortífero vagón 8 del Iryo: \"Un chico me cambió el sitio. Él murió y yo...\"",
+        "image_url": "https://s3.elespanol.com/2026/01/24/actualidad/1003744103002_261083467_1706x960.jpg",
+        "tags": [
+            "córdoba (municipio)",
+            "adamuz",
+            "iryo",
+            "renfe",
+            "accidentes",
+            "reportajes",
+            "sucesos"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260125/noche-emil-jonsson-volvio-nacer-mortifero-vagon-iryo-chico-cambio-sitio-murio/1003744096906_0.html",
+        "date": "2026-01-25 01:38:01",
+        "sentiment_score": -0.8996952911838889
+    },
+    {
+        "title": "Delcy impone un consejo de paz con chavistas, falsos opositores y \"extorsionadores\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/83af476d1f02dc84f55f8d2cc3f0f952/crop/25x0/2156x1421/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/24/17692793189831.jpg",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://www.elmundo.es/internacional/2026/01/25/6975068ae4d4d8d4418b457e.html",
+        "date": "2026-01-25 01:08:56",
+        "sentiment_score": -0.8586075883358717
+    },
+    {
+        "title": "El primer gol de Lucas Vázquez en Bundesliga: Combinación y definición que es puro caviar",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1148x307:1150x305)/origin-imgresizer.eurosport.com/2026/01/25/image-99896009-9968-4b0d-9c49-27cd93782c77-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/bundesliga/2025-2026/primer-gol-lucas-vazquez-bundesliga-combinacion-definicion-puro-caviar-video-hoy_vid60049639/video.shtml",
+        "date": "2026-01-25 00:34:05",
+        "sentiment_score": 0.8215714544057846
+    },
+    {
+        "title": "Los secretos de la parrilla según las cinco mujeres con más talento de España al frente de las brasas",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/01/21/17689886140889.jpg",
+        "tags": [
+            "restaurantes",
+            "gastronomía",
+            "comer"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2026/01/25/6970a2c521efa0916d8b4587.html",
+        "date": "2026-01-25 00:30:21",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "Arbeloa promete más tras la victoria en Villarreal: \"Tenemos mucho margen de mejora\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/25/image-a1483b93-64e7-4c35-a09d-3b4b741e1abd-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/video-alvaro-arbeloa-rueda-de-prensa-victoria-real-madrid-villarreal-jornada-21-margen-mejora-equipo-futbolistas-hoy_vid60049636/video.shtml",
+        "date": "2026-01-25 00:19:32",
+        "sentiment_score": 0.8584365546703339
+    },
+    {
+        "title": "Sánchez mantiene a Puente como dique de contención de las críticas al Gobierno",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2026/01/europapress-7239554-ministro-transportes-movilidad-sostenible-oscar-puente-atiende-medios-rueda-1440x808.jpg",
+        "tags": [
+            "partido socialista obrero español (psoe)",
+            "transportes",
+            "partido popular (pp)",
+            "accidente de tren en adamuz",
+            "crónicas desde la moncloa",
+            "renfe",
+            "iryo",
+            "españa",
+            "pedro sánchez",
+            "óscar puente",
+            "gobierno de españa"
+        ],
+        "link": "https://www.elindependiente.com/espana/2026/01/25/sanchez-mantiene-a-puente-como-dique-de-contencion-de-las-criticas-al-gobierno/",
+        "date": "2026-01-25 02:14:16",
+        "sentiment_score": -0.8212764281779528
+    },
+    {
+        "title": "La emoción del jugador argentino de Alianza Lima que se llevó la camiseta de Lionel Messi: el gesto que lo conmovió",
+        "image_url": "https://www.infobae.com/resizer/v2/PQWQUOGOTJBZLG3HZXH6XONWE4.jpeg?auth=ead7cef9b359883474426967de4ee400cd1afb8b655daedbfc720656fcb8ae79&height=1152&smart=true&width=2048",
+        "tags": [
+            "alianza lima",
+            "deportes-argentina",
+            "lionel messi",
+            "alan cantero",
+            "inter miami"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/25/la-emocion-del-jugador-argentino-de-alianza-lima-que-se-llevo-la-camiseta-de-lionel-messi-el-gesto-que-lo-conmovio/",
+        "date": "2026-01-25 02:11:08",
+        "sentiment_score": 0.05313950777053833
+    },
+    {
+        "title": "Uviéu, ente les ciudaes españoles onde ye más barato arrendar una habitación: esti ye'l preciu mediu",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1af847cf-1ec5-4330-a6db-a8d82cf12124_16-9-aspect-ratio_default_0_x609y270.jpg",
+        "tags": [
+            "oviedo"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2026/01/25/uvieu-ente-les-ciudaes-espanoles-125945687.html",
+        "date": "2026-01-25 02:00:16",
+        "sentiment_score": -0.10872748494148254
+    },
+    {
+        "title": "Nicki Nicole compartió sus sensaciones a menos de un mes de cantar en el Teatro Colón: “Van a ser muy felices”",
+        "image_url": "https://www.infobae.com/resizer/v2/HFXTTG62LZE4XD5MJMRBKY3ADI.png?auth=473e918f46cb050e5316c880e92e5a7c884bcdbc2d8e6a36c36621fa543b95b0&height=1080&smart=true&width=1920",
+        "tags": [
+            "espectáculo sinfónico",
+            "teatro colón",
+            "buenos aires",
+            "premios grammy",
+            "nicki nicole"
+        ],
+        "link": "https://www.infobae.com/teleshow/2026/01/25/nicki-nicole-compartio-sus-sensaciones-a-menos-de-un-mes-de-cantar-en-el-teatro-colon-van-a-ser-muy-felices/",
+        "date": "2026-01-25 01:00:46",
+        "sentiment_score": 0.7717510126531124
+    },
+    {
+        "title": "“Hasta la luna”: el divertido intercambio entre Colapinto y Gasly dentro de un auto superdeportivo de Alpine",
+        "image_url": "https://www.infobae.com/resizer/v2/ANECBB4JPBHZPPC2LJWFU4ORWM.jpg?auth=57a3592352dbab2c3b089f1d5692c5a32d02776dd030d53358708a97223cb517&height=547&smart=true&width=972",
+        "tags": [
+            "franco colapinto",
+            "f1",
+            "alpine",
+            "fórmula 1",
+            "pierre gasly"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/25/hasta-la-luna-el-divertido-intercambio-entre-colapinto-y-gasly-dentro-de-un-auto-superdeportivo-de-alpine/",
+        "date": "2026-01-25 00:59:14",
+        "sentiment_score": 0.5908731520175934
+    },
+    {
+        "title": "El descarrilamiento político de Óscar Puente",
+        "image_url": "https://s3.elespanol.com/2026/01/24/actualidad/1003744102991_261083284_1706x1280.jpg",
+        "tags": [
+            "opinión",
+            "óscar puente santiago",
+            "accidentes de tren",
+            "adamuz",
+            "pedro sánchez",
+            "carta del director",
+            "psoe (partido socialista obrero español)",
+            "gobierno de españa",
+            "pedro j. ramírez"
+        ],
+        "link": "https://www.elespanol.com/opinion/carta-del-director/20260125/descarrilamiento-politico-oscar-puente/1003744102986_20.html",
+        "date": "2026-01-25 00:52:57",
+        "sentiment_score": -0.7802797518670559
+    },
+    {
+        "title": "Adif traslada su respeto a la decisión judicial sobre el accidente de Angrois, contra la que no cabe recurso de casación",
+        "image_url": "https://www.infobae.com/resizer/v2/Q2MUIWISCZCOJP6YSWBU5GMP74.jpg?auth=1bd8abce8d0ca90dae265cae224ba5f5d301a7a111d9acf9b6e34bc044edebef&height=1280&smart=true&width=1920",
+        "tags": [
+            "a coruña",
+            "audiencia provincial de a coruña",
+            "alvia",
+            "adif",
+            "tribunal superior de xustiza de galicia",
+            "francisco garzón",
+            "accidente de angrois",
+            "europapress",
+            "sentencia judicial",
+            "santiago",
+            "andrés cortabitarte"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/23/adif-traslada-su-respeto-a-la-decision-judicial-sobre-el-accidente-de-angrois-contra-la-que-no-cabe-recurso-de-casacion/",
+        "date": "2026-01-25 00:47:27",
+        "sentiment_score": -0.7511487621814013
+    },
+    {
+        "title": "Sara R. Fuertes, la 'celestina' que une a 70 parejas al año en su agencia matrimonial: \"La gente vuelve al método tradicional\"",
+        "image_url": "https://s3.elespanol.com/2026/01/25/actualidad/1003744103127_261085455_1706x960.jpg",
+        "tags": [
+            "relaciones de pareja",
+            "valencia",
+            "amor",
+            "comunidad valenciana"
+        ],
+        "link": "https://www.elespanol.com/valencia/20260125/sara-fuertes-celestina-une-parejas-ano-agencia-matrimonial-gente-vuelve-metodo-tradicional-dl/1003744098418_0.html",
+        "date": "2026-01-25 00:47:10",
+        "sentiment_score": -0.9150559501722455
+    },
+    {
+        "title": "La fatalidad y la negligencia",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/02/26/63fb90c4cb392.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20260125/fatalidad-negligencia_377859.html",
+        "date": "2026-01-25 00:30:00",
+        "sentiment_score": -0.8720739651471376
     }
 ];
