@@ -1,226 +1,5 @@
 export default [
     {
-        "title": "La pausa a las visas para inmigrante a EEUU entra en vigor este #21Ene",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_58-1.jpg",
-        "tags": [
-            "eeuu",
-            "actualidad",
-            "internacionales",
-            "usa",
-            "visas",
-            "inmigrante"
-        ],
-        "link": "https://lapatilla.com/2026/01/21/la-pausa-a-las-visas-para-inmigrante-a-eeuu-entra-en-vigor-este-21ene/",
-        "date": "2026-01-21 15:26:02",
-        "sentiment_score": 0.1642349511384964
-    },
-    {
-        "title": "Un verano para no olvidar: Castellón se prepara para vivir un eclipse histórico y atraer a miles de turistas",
-        "image_url": "https://imagenes.esdiario.com/files/og_thumbnail/uploads/2026/01/21/6971098a5e2db.jpeg",
-        "tags": [
-            "castellón"
-        ],
-        "link": "https://www.esdiario.com/comunidad-valenciana/castellon/260121/177620/verano-olvidar-castellon-prepara-vivir-eclipse-historico-atraer-miles-turistas.html",
-        "date": "2026-01-21 17:15:33",
-        "sentiment_score": 0.5095106959342957
-    },
-    {
-        "title": "Morante de la Puebla reaparecerá el Domingo de Resurrección en Sevilla",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/21/Clipboard-0217.jpg",
-        "tags": [
-            "toros",
-            "morante de la puebla",
-            "sevilla"
-        ],
-        "link": "https://www.leonoticias.com/culturas/morante-puebla-reaparecera-domingo-resurreccion-sevilla-20260121180745-ntrc.html",
-        "date": "2026-01-21 17:07:49",
-        "sentiment_score": -0.061260566115379333
-    },
-    {
-        "title": "UPN reclama explicaciones sobre los cambios en el límite de la velocidad: «La irresponsabilidad del Gobierno es inadmisible»",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/05/30/66582713889b2.r_d.3169-1234-2000.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20260121/upn-reclama-explicaciones-sobre-cambios-limite-velocidad-irresponsabilidad-gobierno-inadmisible_376841.html",
-        "date": "2026-01-21 17:05:38",
-        "sentiment_score": -0.8865302577614784
-    },
-    {
-        "title": "Derbis y duelos de Champions: El Tourmalet del Valencia CF para huir del descenso",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2973855b-0d6a-4ca9-b37a-5d129c1e54a2_16-9-aspect-ratio_default_0_x714y317.jpg",
-        "tags": [
-            "real madrid",
-            "mestalla",
-            "valencia cf",
-            "villarreal",
-            "valencia",
-            "deportes",
-            "el valencia"
-        ],
-        "link": "https://www.levante-emv.com/deportes/2026/01/21/valencia-calendario-liga-125918476.html",
-        "date": "2026-01-21 17:00:44",
-        "sentiment_score": 0.043373286724090576
-    },
-    {
-        "title": "El Betis quiere acercar el Top 8 y el Celta asegurar los 'playoffs'",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260121180026_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-betis-quiere-acercar-top-celta-asegurar-playoffs-20260121180026.html",
-        "date": "2026-01-21 17:00:26",
-        "sentiment_score": 0.11364627629518509
-    },
-    {
-        "title": "A qué hora y dónde ver el partido de Champions entre el Slavia de Praga y el FC Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/OFZQXYT2VNGJDJYFI3AYJV6FFQ.jpg?auth=88f669b7cf732899646afd730859d0edfce50a8194125cbb65ad4b9437cded5f&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-noticias",
-            "españa-deportes",
-            "fútbol",
-            "fútbol españa",
-            "fc barcelona",
-            "champions",
-            "slavia de praga"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/01/21/a-que-hora-y-donde-ver-el-partido-de-champions-entre-el-slavia-de-praga-y-el-fc-barcelona/",
-        "date": "2026-01-21 16:55:22",
-        "sentiment_score": 0.08707285672426224
-    },
-    {
-        "title": "Cofares entrega los Premios ‘Tutor Destacado’ de la Facultad de Farmacia de la USAL",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/Premios-Cofares.jpg",
-        "tags": [
-            "premios",
-            "universidades",
-            "servimedia",
-            "galardones",
-            "fármacos",
-            "actualidad"
-        ],
-        "link": "https://theobjective.com/actualidad/2026-01-21/cofares-premios-destacado-facultad-farmacia-usal/",
-        "date": "2026-01-21 16:54:51",
-        "sentiment_score": 0.6392028965055943
-    },
-    {
-        "title": "Deportes | Europeo de Judo, Boxam Élite, Nacionales de Atletismo y Duatlón, Rallye, Open de Taekwondo, Gran Fondo y Super Cup Massi este 2026 en La Nucía",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1761682.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/europeo-de-judo-boxam-elite-nacionales-de-atletismo-y-duatlon-rallye-open-de-taekwondo-gran-fondo-y-super-cup-massi-este-2026-en-la-nucia",
-        "date": "2026-01-21 16:54:48",
-        "sentiment_score": 0.08035703748464584
-    },
-    {
-        "title": "Trànsit levanta las barreras del peaje de la C-32: “Cuando se recupere el servicio de Rodalies dejará de ser gratis”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/12/12/65786e4709575.r_d.3629-3204-1785.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.lavanguardia.com/motor/actualidad/20260121/11445466/transit-levanta-barreras-peaje-c-32-cuando-recupere-servicio-rodalies-dejara-gratis.html",
-        "date": "2026-01-21 17:18:10",
-        "sentiment_score": -0.5618716962635517
-    },
-    {
-        "title": "El juez procesa al pederasta del Raval en un tercer caso por violar y prostituir a dos menores",
-        "image_url": "https://static.eldiario.es/clip/0cb7e5df-786c-4dc1-b5ee-bf9631ddb00a_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "noticias",
-            "política",
-            "periodismo independiente",
-            "ignacio escolar",
-            "barcelona",
-            "cataluña",
-            "actualidad",
-            "economía"
-        ],
-        "link": "https://www.eldiario.es/catalunya/juez-procesa-pederasta-raval-tercer-caso-violar-prostituir-menores_1_12925128.html",
-        "date": "2026-01-21 17:17:20",
-        "sentiment_score": -0.3390432894229889
-    },
-    {
-        "title": "Jordi Castelló, ingeniero de caminos: “En Cercanías los maquinistas accionan periódicamente el pedal de hombre muerto para demostrar que están conscientes”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/21/697105fc08514.png",
-        "tags": [
-            "motor"
-        ],
-        "link": "https://www.lavanguardia.com/motor/20260121/11445559/jordi-castello-ingeniero-caminos-cercanias-maquinistas-accionan-periodicamente-pedal-hombre-muerto-demostrar-conscientes.html",
-        "date": "2026-01-21 17:15:47",
-        "sentiment_score": -0.8459252156317234
-    },
-    {
-        "title": "Aigües de Barcelona invirtió casi seis millones de euros en proyectos de innovación en 2025",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/21/vivir-en-barcelona/1003742725423_15627457_1706x960.jpg",
-        "tags": [
-            "empresas barcelona",
-            "innovación",
-            "vivir en barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260121/aigues-barcelona-invirtio-millones-euros-proyectos-innovacion/1003742725422_0.html",
-        "date": "2026-01-21 17:15:36",
-        "sentiment_score": -0.744460778310895
-    },
-    {
-        "title": "Así será el coche que estrenará Audi en la Fórmula 1 este 2026",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7a9bfd0a-2cf4-4190-b3b6-b0ad3083e9d4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "berlín",
-            "audi",
-            "automovilismo",
-            "australia"
-        ],
-        "link": "https://www.elperiodico.com/es/motor/20260121/asi-sera-coche-estrenara-audi-formula-1-2026-125932662",
-        "date": "2026-01-21 17:15:31",
-        "sentiment_score": 0.10181404650211334
-    },
-    {
-        "title": "Vibraciones en los trenes de alta velocidad, ¿pronóstico de la tragedia?: \"Cogí el Iryo anterior al que descarriló y vibraba mucho\"",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/01/21/034B6D32-FD3E-4243-A087-FC4A029AD3A2/salman_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "antena3",
-            "programas",
-            "y ahora sonsoles"
-        ],
-        "link": "https://www.antena3.com/programas/y-ahora-sonsoles/vibraciones-trenes-alta-velocidad-pronostico-tragedia-cogi-iryo-anterior-que-descarrilo-vibraba-mucho_202601216971099ff21351044da462d2.html",
-        "date": "2026-01-21 17:15:11",
-        "sentiment_score": -0.5887933373451233
-    },
-    {
-        "title": "Una maquinista leonesa en prácticas, entre las heridas del accidente de Rodalíes en Barcelona en el que murió el conductor",
-        "image_url": "https://album.mediaset.es/eimg/2026/01/21/europapress-7234737-trenes-servicio-estacion-francia-barcelona-21-enero-2026-barcelona_50e4.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.telecinco.es/noticias/catalunya/20260121/maquinista-practicas-accidente-rodalies-barcelona_18_018122627.html",
-        "date": "2026-01-21 17:14:12",
-        "sentiment_score": -0.6292020715773106
-    },
-    {
-        "title": "Castellón presenta su estrategia turística con el eclipse total de sol del 12 de agosto como «gran reclamo»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2026/01/21/carrasco-fitur-eclipse-RDVxXCIOi0e5CvVHcwwEQGJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "valencia",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/castellon-presenta-estrategia-turistica-eclipse-total-sol-20260121181252-nt.html",
-        "date": "2026-01-21 17:13:40",
-        "sentiment_score": 0.05119386315345764
-    },
-    {
-        "title": "Fernando Huerta, el maquinista de 28 años que murió en Rodalies: aficionado del Sevilla y hermano de la Macarena",
-        "image_url": "https://album.mediaset.es/eimg/2026/01/21/fernando-huerta-el-maquinista-de-28-anos-que-murio-en-rodalies-aficionado-del-sevilla-y-hermano-de-l_4648.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.telecinco.es/noticias/catalunya/20260121/fernando-huerta-maquinista-murio-rodalies-aficionado-sevilla-hermano-macarena_18_018122279.html",
-        "date": "2026-01-21 17:12:32",
-        "sentiment_score": -0.6460099965333939
-    },
-    {
         "title": "2-0. La 'Juve' sentencia a Mourinho",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
         "tags": [
@@ -573,21 +352,6 @@ export default [
         "link": "https://www.diariodesevilla.es/opinion/articulos/ave-perdimos_0_2005701820.html",
         "date": "2026-01-22 02:06:26",
         "sentiment_score": -0.2594009339809418
-    },
-    {
-        "title": "La pausa a las visas para inmigrante a EEUU entra en vigor este #21Ene",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_58-1.jpg",
-        "tags": [
-            "eeuu",
-            "actualidad",
-            "internacionales",
-            "usa",
-            "visas",
-            "inmigrante"
-        ],
-        "link": "https://lapatilla.com/2026/01/21/la-pausa-a-las-visas-para-inmigrante-a-eeuu-entra-en-vigor-este-21ene/",
-        "date": "2026-01-21 15:26:02",
-        "sentiment_score": 0.16423587501049042
     },
     {
         "title": "El Centre del Carme inicia la temporada 2026 con dos muestras de videocreación sobre el mundo gamer, las relaciones humanas y la empatía",
@@ -2962,5 +2726,230 @@ export default [
         "link": "https://www.eldebate.com/opinion/20260125/fatalidad-negligencia_377859.html",
         "date": "2026-01-25 00:30:00",
         "sentiment_score": -0.8720739651471376
+    },
+    {
+        "title": "El histórico de la corrupción en ADIF: cargos imputados, enchufes y sospechas de mantenimiento inadecuado",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/08/20/68a5f00786be1.png",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20260125/historico-corrupcion-adif-cargos-imputados-enchufes-sospechas-mantenimiento-inadecuado_377940.html",
+        "date": "2026-01-25 06:37:31",
+        "sentiment_score": -0.8388525061309338
+    },
+    {
+        "title": "¿Cómo se escribe en español, ‘póker’ o ‘póquer’? La RAE deja las cosas muy claras, aunque muchos se sorprendan",
+        "image_url": "https://okdiario.com/img/2026/01/20/cartas-poquer.jpg",
+        "tags": [
+            "palabras",
+            "español",
+            "rae",
+            "frases",
+            "idioma",
+            "curiosidades",
+            "lenguaje",
+            "real academia española (rae)",
+            "castellano"
+        ],
+        "link": "https://okdiario.com/curiosidades/como-escribe-espanol-poker-o-poquer-rae-deja-cosas-muy-claras-aunque-muchos-sorprendan-16104579",
+        "date": "2026-01-25 06:15:15",
+        "sentiment_score": -0.6030304692685604
+    },
+    {
+        "title": "'Todos los ángeles alzaron el vuelo', a los pies de los espectadores",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/23/escena-de-todos-los-angeles-alzaron-el-vuelo.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.huffingtonpost.es/opinion/todos-angeles-alzaron-vuelo-pies-espectadores-f202601.html",
+        "date": "2026-01-25 06:07:44",
+        "sentiment_score": -0.18548324704170227
+    },
+    {
+        "title": "Carlos de Burgos:",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/23/el-influencer-carlos-de-burgos.jpeg",
+        "tags": [
+            "influencers y celebrities"
+        ],
+        "link": "https://www.huffingtonpost.es/life/influencers-celebrities/carlos-burgos-influencer-en-mis-videos-intento-mantener-estimulado-usuario-frases-cortas-bloquee-favoreciendo-consumidor-ameba-quiere-aprender-f202601.html",
+        "date": "2026-01-25 06:07:02",
+        "sentiment_score": -0.4149932414293289
+    },
+    {
+        "title": "Jorge Pueyo: \"He sido en esta legislatura el único diputado aragonés que ha defendido Aragón desde Madrid\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/23/jorge-pueyo-candidato-de-la-cha-a-la-presidencia-de-aragon-en-las-elecciones-del-proximo-8-de-febrero.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.huffingtonpost.es/politica/jorge-pueyo-he-sido-legislatura-unico-diputado-aragones-defendido-aragon-madrid-f202601.html",
+        "date": "2026-01-25 06:06:40",
+        "sentiment_score": -0.1776648312807083
+    },
+    {
+        "title": "Qué hacer si tu banco te coló un seguro de vida en la hipoteca sin consentimiento",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fbbf2688-c5c1-4948-b68d-dc0d925bb636_16-9-aspect-ratio_default_0_x640y283.jpg",
+        "tags": [
+            "madrid",
+            "extremadura",
+            "españa",
+            "tribunales"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/caceres-local/2026/01/25/banco-colo-seguro-vida-hipoteca-126051285.html",
+        "date": "2026-01-25 06:01:24",
+        "sentiment_score": -0.8514632768929005
+    },
+    {
+        "title": "El Pleno de Benavente reclama a Gobierno, Junta y Diputación, más fondos para colonias felinas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bf0717d9-bd9e-49ba-981a-a104278f398f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gobierno,pp,financiación,psoe"
+        ],
+        "link": "https://www.laopiniondezamora.es/benavente/2026/01/25/pleno-benavente-reclama-gobierno-junta-126045095.html",
+        "date": "2026-01-25 06:01:18",
+        "sentiment_score": 0.27048880606889725
+    },
+    {
+        "title": "La escalada de la vivienda en Málaga en compra y alquiler supera el 55% desde 2020",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c45d7ff0-40a7-4dc3-a69c-eb440d3b60ed_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "madrid",
+            "vivienda",
+            "precios",
+            "metro"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/25/escalada-vivienda-malaga-compra-alquiler-126044250.html",
+        "date": "2026-01-25 06:01:16",
+        "sentiment_score": -0.028835222125053406
+    },
+    {
+        "title": "El AVE de Andalucía, una historia de éxito en horas bajas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cd48170b-36e5-4780-b379-cc602916b1fd_16-9-aspect-ratio_default_0_x1190y523.jpg",
+        "tags": [
+            "córdoba",
+            "ave",
+            "alta velocidad",
+            "andalucía",
+            "trenes",
+            "madrid",
+            "sevilla"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/25/ave-andalucia-historia-exito-horas-126043124.html",
+        "date": "2026-01-25 06:01:16",
+        "sentiment_score": 0.17182642221450806
+    },
+    {
+        "title": "Nathy Peluso regresa a Madrid en una de las fechas clave de su gira",
+        "image_url": "https://okdiario.com/img/2026/01/21/nathy-_11zon.png",
+        "tags": [
+            "wizink center",
+            "madrid",
+            "conciertos",
+            "cultura",
+            "okplanes"
+        ],
+        "link": "https://okdiario.com/okplanes/nathy-peluso-regresa-madrid-fechas-clave-gira-16111744",
+        "date": "2026-01-25 06:00:35",
+        "sentiment_score": 0.5772200971841812
+    },
+    {
+        "title": "Los españoles hablan: El coche particular sigue siendo el medio de transporte preferido",
+        "image_url": "https://hips.hearstapps.com/es.h-cdn.co/cades/contenidos/56547/madrid_atasco.jpg",
+        "tags": [
+            "displaytype: standard article",
+            "content-type: news",
+            "shorttitle: los españoles siguen eligiendo el coche particular",
+            "contentid: 7cc2ccd4-6df8-47e7-a31e-d4709e7455e2",
+            "locale: es"
+        ],
+        "link": "https://www.caranddriver.com/es/movilidad/sostenibilidad-ecologia/a70059274/coche-particular-transporte-preferido-2025/",
+        "date": "2026-01-25 06:30:00",
+        "sentiment_score": -0.6891162674874067
+    },
+    {
+        "title": "Cataluña amanece este domingo de nuevo sin servicio de Rodalies tras una semana de caos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ATZK7XFQIRG7NMB6ZMTI3ATEAA.jpg?auth=4cb547007f10ca48f54d5ec94130ed39f3defedd2bd2f01c30bc3b7040b1047d&width=1200",
+        "tags": [
+            "generalitat cataluña",
+            "cercanías",
+            "transportes ferroviarios especiales",
+            "fgc",
+            "sílvia paneque",
+            "albert dalmau",
+            "adif",
+            "accidentes ferrocarril",
+            "cataluña",
+            "averías",
+            "renfe"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2026-01-25/cataluna-amanece-este-domingo-de-nuevo-sin-servicio-de-rodalies-tras-una-semana-de-caos.html",
+        "date": "2026-01-25 06:29:08",
+        "sentiment_score": 0.07694501616060734
+    },
+    {
+        "title": "Plásticos y Claraboyas Matilla: luz de Almería para el mundo",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/01/20/696f46512f579.jpeg",
+        "tags": [
+            "almería"
+        ],
+        "link": "https://www.lavozdealmeria.com/almeria/437642/plasticos-claraboyas-matilla-luz-almeria-mundo.html",
+        "date": "2026-01-25 06:15:29",
+        "sentiment_score": -0.11754100769758224
+    },
+    {
+        "title": "La mucha vida pintada de Eva Armisén",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/01/24/F404C5D9-7A8B-4EB9-B52A-E4F0AB45B6F0/imagen-exposicion-que-puede-verse-reial-cercle-artistic-barcelona_69.jpg?crop=2730%2C1536%2Cx0%2Cy927&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/mucha-vida-pintada-eva-armisen_202601256975b3c5eb223406e5ae4d92.html",
+        "date": "2026-01-25 06:10:13",
+        "sentiment_score": 0.4894722178578377
+    },
+    {
+        "title": "Sorpresa en Osasuna: Víctor Muñoz destrona a Lamine Yamal con un nuevo récord",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/25/2026012507084371783.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/sorpresa-osasuna-victor-munoz-destrona-lamine-yamal-nuevo-record/20260125070942372031.html",
+        "date": "2026-01-25 06:09:42",
+        "sentiment_score": -0.41186223179101944
+    },
+    {
+        "title": "Crece el miedo a viajar en tren: «No hay que temer. Ha sido un hecho puntual»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/343a5ab3-6cb3-4d09-b65e-c7be890a6f6d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "madrid",
+            "accidente",
+            "joaquín",
+            "viajar"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/25/crece-miedo-viajar-tren-126039457.html",
+        "date": "2026-01-25 06:01:13",
+        "sentiment_score": -0.8087143255397677
+    },
+    {
+        "title": "La encrucijada del Mercosur: más competencia, menos calidad y una larga espera",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/01/11/2AAA0C72-3312-40B7-82AD-8276E36E26B0/69.jpg?crop=3543%2C1993%2Cx0%2Cy185&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/encrucijada-mercosur-mas-competencia-menos-calidad-larga-espera_202601256974a3abc48f6b4ee36bbd5f.html",
+        "date": "2026-01-25 06:00:19",
+        "sentiment_score": -0.6903037130832672
+    },
+    {
+        "title": "Freno a la llegada de turistas de negocios internacionales",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7d0fb7e8-4397-48be-ba9f-152d3e2d6c57_16-9-discover-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "hoteles",
+            "turismo",
+            "entender más"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260125/freno-llegada-turistas-negocios-internacionales-126009251",
+        "date": "2026-01-25 06:00:11",
+        "sentiment_score": 0.22407694905996323
     }
 ];
