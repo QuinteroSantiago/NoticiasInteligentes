@@ -2635,5 +2635,166 @@ export default [
         "link": "https://www.mundodeportivo.com/waterpolo/20260125/1002608482/serbia-superequipo-vez-quiere-quedarse.html",
         "date": "2026-01-25 21:41:30",
         "sentiment_score": 0.24786847829818726
+    },
+    {
+        "title": "La calle se le tuerce a Sánchez: febrero arrancará con huelgas de maquinistas y de médicos, y protestas de los funcionarios",
+        "image_url": "https://s3.elespanol.com/2026/01/23/actualidad/1003744102290_261073201_1706x1280.jpg",
+        "tags": [
+            "médicos",
+            "política",
+            "accidentes de tren",
+            "huelgas",
+            "adamuz",
+            "elecciones"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20260126/calle-tuerce-sanchez-febrero-arrancara-huelgas-maquinistas-medicos-protestas-funcionarios/1003744099656_0.html",
+        "date": "2026-01-26 02:12:52",
+        "sentiment_score": -0.9137267358601093
+    },
+    {
+        "title": "Rick de la Torre, exjefe de la CIA en Venezuela: \"Delcy Rodríguez es temporal. Será reemplazada en el momento adecuado\"",
+        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744092884_260953435_1706x960.jpg",
+        "tags": [
+            "estados unidos",
+            "cia",
+            "reportajes",
+            "porfolio"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260126/rick-torre-exjefe-cia-venezuela-delcy-rodriguez-temporal-reemplazada-momento-adecuado/1003744090675_0.html",
+        "date": "2026-01-26 01:26:06",
+        "sentiment_score": -0.8661784324795008
+    },
+    {
+        "title": "25 ENE 2026 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/25-ene-2026-tertulion-domingos-20260126_3293950.html",
+        "date": "2026-01-26 00:58:55",
+        "sentiment_score": 0.828483497723937
+    },
+    {
+        "title": "Cambiar nombres",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2021/10/20/6170345c0cba3.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20260126/cambiar-nombres_378074.html",
+        "date": "2026-01-26 00:30:00",
+        "sentiment_score": -0.08188538253307343
+    },
+    {
+        "title": "Huérfano a los 20, el suicidio de dos hermanos y el cáncer de su mujer: retrato de Reza Pahlaví, heredero al trono de Irán",
+        "image_url": "https://s3.elespanol.com/2026/01/23/actualidad/1003744101058_261056083_1706x960.jpg",
+        "tags": [
+            "suicidio",
+            "royals",
+            "monarquía",
+            "casas reales",
+            "irán"
+        ],
+        "link": "https://www.elespanol.com/corazon/casas-reales/20260126/huerfano-suicidio-hermanos-cancer-mujer-retrato-reza-pahlavi-heredero-trono-iran/1003744100935_0.html",
+        "date": "2026-01-26 00:24:51",
+        "sentiment_score": -0.5269217118620872
+    },
+    {
+        "title": "Benfica-Estrela Amadora: Mourinho advierte al Real Madrid (4-0)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1315x659:1317x657)/origin-imgresizer.eurosport.com/2026/01/25/image-729053ec-6f7b-42e8-90b4-ffaa6fec6dec-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "entertainment",
+            "lifestyle"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/primeira-liga/2025-2026/benfica-4-0-estrela-amadora-video-resumen-goles-mejores-jugadas-y-resultado-mourinho-advierte-al-real-madrid_vid60050006/video.shtml",
+        "date": "2026-01-26 00:14:53",
+        "sentiment_score": 0.4179334118962288
+    },
+    {
+        "title": "El Barça sigue líder ante un Real Madrid que mejora, en El Tertulión de los domingos",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/26/6976a4025c935.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-25-20260126_3293940.html",
+        "date": "2026-01-26 00:13:05",
+        "sentiment_score": -0.05752214789390564
+    },
+    {
+        "title": "Barcelona goleó 3-0 al Real Oviedo en el Camp Nou",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/25190301/FC-Barcelona.jpg",
+        "tags": [
+            "real oviedo",
+            "camp nou",
+            "fútbol",
+            "barcelona",
+            "deportes"
+        ],
+        "link": "https://www.elnacional.com/2026/01/barcelona-goleo-3-0-al-real-oviedo-en-el-camp-nou/",
+        "date": "2026-01-25 23:10:29",
+        "sentiment_score": 0.5976335555315018
+    },
+    {
+        "title": "Byan, la copiadísima firma de abrigos española que elige la familia real británica: \"Conocemos el largo perfecto para que un abrigo estilice\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/21ff758a3334ac32f53a99f13250539c/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/22/17691000418580.jpg",
+        "tags": [
+            "artículos charo lagares",
+            "tendencias de moda",
+            "invierno",
+            "yodona"
+        ],
+        "link": "https://www.elmundo.es/yodona/moda/2026/01/26/697252dfe85ece87558b45a1.html",
+        "date": "2026-01-25 23:08:33",
+        "sentiment_score": 0.6339676603674889
+    },
+    {
+        "title": "Un par de libros",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "par",
+            "libros"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/par-libros_0_2005730599.html",
+        "date": "2026-01-26 02:08:18",
+        "sentiment_score": -0.1116965115070343
+    },
+    {
+        "title": "El fracaso de ALIA, el buque insignia de Óscar López: 10,2 millones de inversión para conseguir 174 descargas al mes",
+        "image_url": "https://s3.elespanol.com/2026/01/08/actualidad/1003744082305_260823533_1706x960.jpg",
+        "tags": [
+            "innovación",
+            "digitalización",
+            "óscar lópez",
+            "españa",
+            "inteligencia artificial",
+            "tecnología"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/politica-digital/espana/20260126/fracaso-alia-buque-insignia-oscar-lopez-millones-inversion-conseguir-descargas-mes/1003744100921_0.html",
+        "date": "2026-01-26 02:02:08",
+        "sentiment_score": -0.3797872066497803
+    },
+    {
+        "title": "Deportes | El Elche CF regresa esta tarde al trabajo, ya con el fichaje de Lucas Cepeda y tras dos días y medio de desconexión para liberar la mente",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1732172.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-elche-cf-regresa-esta-tarde-al-trabajo-ya-con-el-fichaje-de-lucas-cepeda-y-tras-dos-dias-y-medio-de-desconexion-para-liberar-la-mente",
+        "date": "2026-01-26 02:00:07",
+        "sentiment_score": 0.42495299875736237
+    },
+    {
+        "title": "Corazones que laten más allá de las fronteras",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8ea78885-ad12-4877-92d2-b336602b8ba1_16-9-discover-aspect-ratio_default_0_x1146y619.jpg",
+        "tags": [
+            "barcelona",
+            "economía",
+            "enfermedades cardiovasculares",
+            "gaza",
+            "solidaridad"
+        ],
+        "link": "https://www.elcorreogallego.es/economia/activos/2026/01/26/corazones-laten-fronteras-126081137.html",
+        "date": "2026-01-26 01:59:49",
+        "sentiment_score": -0.8900028178468347
     }
 ];
