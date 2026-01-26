@@ -1,234 +1,5 @@
 export default [
     {
-        "title": "El Centre del Carme inicia la temporada 2026 con dos muestras de videocreación sobre el mundo gamer, las relaciones humanas y la empatía",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/22/6971c23b9c4ff.jpeg",
-        "tags": [
-            "c. valenciana"
-        ],
-        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20260122/centre-carme-inicia-temporada-2026-dos-muestras-videocreacion-sobre-mundo-gamer-relaciones-humanas-empatia_376933.html",
-        "date": "2026-01-22 06:24:13",
-        "sentiment_score": 0.19134075567126274
-    },
-    {
-        "title": "Los datos que no gustarán a Ayuso: Televisión Española (TVE) arrasa en la Comunidad de Madrid",
-        "image_url": "https://www.elplural.com/uploads/s1/24/30/16/6/ayuso-rtve_7_480x270.jpeg",
-        "tags": [
-            "extratele"
-        ],
-        "link": "https://www.elplural.com/extratele/datos-no-gustaran-ayuso-television-espanola-tve-arrasa-comunidad-madrid_379289102",
-        "date": "2026-01-22 06:13:27",
-        "sentiment_score": -0.12127067148685455
-    },
-    {
-        "title": "\"La chica del lago' ha sido un desafío, una transición hacia otras cosas\"",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/69841a5b-b46f-4203-afff-d5dbc9a59e15_16-9-aspect-ratio_default_0_x798y499.jpg",
-        "tags": [
-            "desafio",
-            "transicion",
-            "sido",
-            "lago",
-            "chica"
-        ],
-        "link": "https://www.noticiasdenavarra.com/cultura/2026/01/22/chica-lago-sido-desafio-transicion-10601073.html",
-        "date": "2026-01-22 06:12:56",
-        "sentiment_score": -0.20921647548675537
-    },
-    {
-        "title": "Niños pasando frío en las aulas y techos que se desploman: siete años de abandono de Moreno Bonilla a la educación pública",
-        "image_url": "https://www.elplural.com/uploads/s1/24/16/42/1/moreno-bonilla-desprecia-a-los-mayores-con-una-subida-de-pensiones-mi-nima-ep_7_480x270.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.elplural.com/opinion/ninos-pasando-frio-aulas-techos-desploman-siete-anos-abandono-moreno-bonilla-educacion-publica_379344102",
-        "date": "2026-01-22 06:08:56",
-        "sentiment_score": -0.23778626322746277
-    },
-    {
-        "title": "Bebe",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0924cb93-f85b-4378-a363-ee97d505358f_16-9-aspect-ratio_default_0_x426y289.jpg",
-        "tags": [
-            "corazón",
-            "sevilla",
-            "música",
-            "padres"
-        ],
-        "link": "https://www.lacronicabadajoz.com/opinion/2026/01/22/bebe-125950402.html",
-        "date": "2026-01-22 06:02:11",
-        "sentiment_score": 0.258365735411644
-    },
-    {
-        "title": "Hace diez años, la gente se obsesionó con salir a capturar criaturas: así fue como Pokémon Go conquistó al mundo",
-        "image_url": "https://static.eldiario.es/clip/d6cf0b21-a863-4ff8-9f5b-23f029199f8b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "diez",
-            "criaturas",
-            "anos",
-            "obsesiono",
-            "conquisto",
-            "pm",
-            "pokemon",
-            "salir",
-            "go",
-            "mundo",
-            "gente",
-            "capturar"
-        ],
-        "link": "https://www.eldiario.es/spin/diez-anos-gente-obsesiono-salir-capturar-criaturas-pokemon-go-conquisto-mundo-pm_1_12924048.html",
-        "date": "2026-01-22 06:00:54",
-        "sentiment_score": -0.067477285861969
-    },
-    {
-        "title": "Así era el otro Palacio Real de Madrid en el siglo XV: hospedó a los Reyes Católicos y a sus herederos",
-        "image_url": "https://www.infobae.com/resizer/v2/SLKL4F4OWNFLTN4GJOCH5C5CGY.jpg?auth=e466815978baec11c7ae32d8002f82465ad18e5b16862db2882a7ff7af99edaa&height=1235&smart=true&width=1849",
-        "tags": [
-            "turismo",
-            "arquitectura",
-            "historia",
-            "españa-sociedad",
-            "arquitectura y diseño",
-            "españa-noticias",
-            "madrid",
-            "reyes católicos",
-            "viajes"
-        ],
-        "link": "https://www.infobae.com/espana/viajes/2026/01/22/asi-era-el-otro-palacio-real-de-madrid-en-el-siglo-xv-hospedo-a-los-reyes-catolicos-y-a-sus-herederos/",
-        "date": "2026-01-22 05:51:54",
-        "sentiment_score": 0.12274444103240967
-    },
-    {
-        "title": "El cambio de criterio en la velocidad de los trenes activa las alertas en PP y Vox",
-        "image_url": "https://s1.staticld.com/2026/01/21/sanchez-montero-puente-adamuz.jpg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.libertaddigital.com/espana/politica/2026-01-22/el-cambio-de-criterio-en-la-velocidad-de-los-trenes-activa-las-alertas-en-pp-y-vox-7347267/",
-        "date": "2026-01-22 05:27:54",
-        "sentiment_score": -0.4242188520729542
-    },
-    {
-        "title": "Accidente de tren en Adamuz y Gelida, última hora en directo | Rodalies continúa sin servicio en Cataluña",
-        "image_url": "https://s3.elespanol.com/2026/01/21/actualidad/1003744097463_261011961_1706x960.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/espana/20260122/accidente-tren-adamuz-gelida-barcelona-ultima-hora-directo-rodalies-cataluna/1003744099059_10.html",
-        "date": "2026-01-22 06:43:34",
-        "sentiment_score": -0.7838157489895821
-    },
-    {
-        "title": "Rodalies suspende su servicio desde primera hora por causas operativas",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/21/vivir-en-barcelona/1003742725295_15625913_1706x960.jpg",
-        "tags": [
-            "movilidad",
-            "rodalies"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/movilidad/20260122/rodalies-suspende-servicio-primera-hora-causas-operativas/1003742725540_0.html",
-        "date": "2026-01-22 06:38:07",
-        "sentiment_score": -0.68548883497715
-    },
-    {
-        "title": "Rodalies no prestará finalmente servicio este jueves \"por causas operativas\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/21/bomberos-revisan-este-miercoles-el-tren-de-rodalies-descarrilado-el-dia-anterior-en-barcelona.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/rodalies-prestara-finalmente-servicio-jueves-por-causas-operativasbr-f202601.html",
-        "date": "2026-01-22 06:32:53",
-        "sentiment_score": -0.7021540198475122
-    },
-    {
-        "title": "El precio de la gasolina en Madrid, Barcelona y otras ciudades este 22 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "precio gasolina",
-            "noticias",
-            "españa-economia",
-            "gasolina"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/22/el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-este-22-de-enero/",
-        "date": "2026-01-22 06:31:05",
-        "sentiment_score": -0.053244080394506454
-    },
-    {
-        "title": "Herrera analiza la crisis ferroviaria y todas las preguntas sin respuesta",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/07/15/6694ebeb006f0.jpeg",
-        "tags": [
-            "herrera en cope"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/noticias/carlos-herrera-analiza-crisis-ferroviaria-colapso-sistema-preguntas-respuesta-20260122_3291776.html",
-        "date": "2026-01-22 06:30:41",
-        "sentiment_score": -0.18611355125904083
-    },
-    {
-        "title": "Lo que debes saber hoy, 22 de enero, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/07/12/vivir-en-barcelona/1003742673272_14861103_1706x960.jpg",
-        "tags": [
-            "vivir en barcelona",
-            "metro barcelona",
-            "clima",
-            "tráfico",
-            "transports metropolitans barcelona tmb",
-            "tiempo"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260122/debes-saber-hoy-enero-barcelona/1003742725539_0.html",
-        "date": "2026-01-22 06:28:27",
-        "sentiment_score": 0.7595459446310997
-    },
-    {
-        "title": "Los usuarios de Rodalies encaran el segundo día sin servicio con resignación: \"¿Hoy tampoco hay trenes?\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6d0b5d41-bf8b-4566-a3b6-a40f5433dc67_16-9-discover-aspect-ratio_default_0_x720y270.jpg",
-        "tags": [
-            "movilidad"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20260122/usuarios-rodalies-encaran-segundo-dia-sin-servicio-125951291",
-        "date": "2026-01-22 06:27:54",
-        "sentiment_score": -0.6231198161840439
-    },
-    {
-        "title": "Última hora del accidente de tren en Córdoba, y del choque de Rodalies en Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/5B1YtBCOa7krdB927ZH3nRcrdmI=/arc-anglerfish-eu-central-1-prod-prisa/public/BKTYN56LRJBDHIAMRJOLKMNN34.jpg",
-        "tags": [
-            "córdoba",
-            "barcelona",
-            "accidentes ferrocarril",
-            "accidente trenes adamuz",
-            "españa",
-            "andalucía",
-            "adif",
-            "accidentes",
-            "trenes",
-            "renfe",
-            "madrid",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/2026-01-22/ultima-hora-del-accidente-de-tren-en-cordoba-y-del-choque-de-rodalies-en-barcelona.html",
-        "date": "2026-01-22 06:25:58",
-        "sentiment_score": -0.7081253807991743
-    },
-    {
-        "title": "Adif reduce temporalmente la velocidad máxima en tres puntos de la línea Madrid-València",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f5553605-b169-4f31-8c4e-bd17175818d8_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "valencia",
-            "adif",
-            "trenes",
-            "madrid"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260122/adif-reduce-temporalmente-velocidad-maxima-125927798",
-        "date": "2026-01-22 06:25:33",
-        "sentiment_score": -0.5871249325573444
-    },
-    {
-        "title": "Las imágenes aéreas del accidente de Gelida que paralizó el servicio ferroviario",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2026/01/22/6971c1a12abf4.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/20260122/imagenes-aereas-accidente-gelida-paralizo-servicio-ferroviario_376932.html",
-        "date": "2026-01-22 06:21:39",
-        "sentiment_score": -0.8182985819876194
-    },
-    {
         "title": "Un empresario, el general de la Guardia Civil y 'el mediador' rechazan su implicación en la trama de Tito Berni",
         "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2692166.jpg",
         "tags": [
@@ -2761,5 +2532,108 @@ export default [
         "link": "https://www.lne.es/fotos/real-oviedo/2026/01/25/imagenes-barcelona-real-oviedo-126073469.html",
         "date": "2026-01-25 17:15:59",
         "sentiment_score": -0.021893784403800964
+    },
+    {
+        "title": "Resultados del Quinigol de este 25 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "quinigol",
+            "españa-loterias",
+            "narrativa"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/25/resultados-del-quinigol-de-este-25-de-enero/",
+        "date": "2026-01-25 22:00:31",
+        "sentiment_score": 0.043751731514930725
+    },
+    {
+        "title": "Las 27 crisis ferroviarias de Óscar Puente en el cuestionado Ministerio de Transportes: \"Yo he venido a hacer, no a estar\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/4b0ab66c35091c52a9f988ef54ff6c02/crop/702x111/2640x2048/f/image/jpeg/assets/multimedia/imagenes/2024/12/15/17342882060591.jpg",
+        "tags": [
+            "accidente tren córdoba",
+            "nlpremium",
+            "artículos marcos iriarte"
+        ],
+        "link": "https://www.elmundo.es/economia/2026/01/25/6970d0fee9cf4a312a8b456f.html",
+        "date": "2026-01-25 21:59:38",
+        "sentiment_score": -0.9240714777261019
+    },
+    {
+        "title": "Resultados, clasificación, crónica y resúmenes de la Jornada 21 de LaLiga EA Sports 25-26 | Se hizo justicia... divina: el Espanyol mantiene la 5a plaza pese al atraco en Mestalla",
+        "image_url": "https://lagrada.org/wp-content/uploads/2026/01/CARTEL-ASI-VA-LALIGA-25-26-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagrada.org/liga-jornada-21-resultados-clasificacion-cronica-resumen-partidos-valencia-cf-rcd-espanyol-domingo/",
+        "date": "2026-01-25 21:59:31",
+        "sentiment_score": -0.14791810512542725
+    },
+    {
+        "title": "Un joven de 24 años, herido grave por arma blanca en una pelea en Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5e179185-682a-4ce2-b2f1-3ef7a8e1fb2e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "pelea",
+            "comunidad de madrid",
+            "parla"
+        ],
+        "link": "https://www.laprovincia.es/sucesos/2026/01/25/joven-24-anos-herido-grave-126079287.html",
+        "date": "2026-01-25 21:53:03",
+        "sentiment_score": -0.7783870026469231
+    },
+    {
+        "title": "Gracias, ministra",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "cartas"
+        ],
+        "link": "https://www.lavanguardia.com/participacion/cartas/20260125/11449170/gracias-ministra.html",
+        "date": "2026-01-25 22:11:46",
+        "sentiment_score": 0.6892844215035439
+    },
+    {
+        "title": "El tapón en la red eléctrica eleva a 350.000 las nuevas viviendas en riesgo en España: \"No podemos ni empezar las obras\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/6527acf41681b9fef92faa161ef584c9/crop/485x95/1558x1101/f/image/jpeg/assets/multimedia/imagenes/2022/11/16/16686363463923.jpg",
+        "tags": [
+            "vivienda",
+            "nlpremium",
+            "energía",
+            "artículos paula maría"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2026/01/25/69720db5e4d4d8c0218b4594.html",
+        "date": "2026-01-25 21:58:08",
+        "sentiment_score": -0.7785031460225582
+    },
+    {
+        "title": "Alpine confirma que Christian Horner está interesado en comprar participación minoritaria",
+        "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "deportes",
+            "christian horner alpine f1",
+            "send to apple news",
+            "sports"
+        ],
+        "link": "https://apnews.com/article/christian-horner-alpine-f1-52a69268a31ddd31dedc47e832c9fbcf",
+        "date": "2026-01-25 21:43:14",
+        "sentiment_score": 0.15014347061514854
+    },
+    {
+        "title": "Alpine confirma que Christian Horner está interesado en comprar participación minoritaria",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.bostonherald.com/2026/01/25/alpine-confirma-que-christian-horner-est-interesado-en-comprar-participacin-minoritaria/",
+        "date": "2026-01-25 21:43:13",
+        "sentiment_score": 0.04740180820226669
+    },
+    {
+        "title": "Serbia, un 'superequipo' que esta vez sí quiere quedarse",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2026/01/25/69768df141a37.jpeg",
+        "tags": [
+            "waterpolo"
+        ],
+        "link": "https://www.mundodeportivo.com/waterpolo/20260125/1002608482/serbia-superequipo-vez-quiere-quedarse.html",
+        "date": "2026-01-25 21:41:30",
+        "sentiment_score": 0.24786847829818726
     }
 ];
