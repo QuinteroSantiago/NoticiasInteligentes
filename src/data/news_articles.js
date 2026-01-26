@@ -1,359 +1,5 @@
 export default [
     {
-        "title": "2-0. La 'Juve' sentencia a Mourinho",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/21/2-0-la-juve-sentencia-a-mourinho/",
-        "date": "2026-01-21 22:20:19",
-        "sentiment_score": 0.290182888507843
-    },
-    {
-        "title": "El Atlético: ganar, golear y esperar en la última jornada para ir al top ocho",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/21/el-atletico-ganar-golear-y-esperar-en-la-ultima-jornada-para-ir-al-top-ocho/",
-        "date": "2026-01-21 22:19:46",
-        "sentiment_score": 0.4919637106359005
-    },
-    {
-        "title": "El Atlético: ganar, golear y esperar en la última jornada para ir al ‘top 8’",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/21/el-atletico-ganar-golear-y-esperar-en-la-ultima-jornada-para-ir-al-top-8/",
-        "date": "2026-01-21 22:19:13",
-        "sentiment_score": 0.37774310261011124
-    },
-    {
-        "title": "Champions League: Así quedó la tabla de posiciones tras la victoria de Barcelona",
-        "image_url": "https://i.ytimg.com/vi/CCu-99d-xdM/mqdefault.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/champions-league-asi-quedo-la-tabla-de-posiciones-tras-la-victoria-de-barcelona-202612118140",
-        "date": "2026-01-21 22:14:00",
-        "sentiment_score": 0.08068612217903137
-    },
-    {
-        "title": "Pedri, otra vez KO: saltan las alarmas en el Barça con su tercera lesión de la temporada",
-        "image_url": "https://s3.elespanol.com/2026/01/21/actualidad/1003744099003_261030630_1706x960.jpg",
-        "tags": [
-            "pedri gonzález",
-            "lesiones",
-            "fútbol",
-            "fc barcelona",
-            "deportes",
-            "champions league"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20260121/pedri-vez-ko-saltan-alarmas-barca-tercera-lesion-temporada/1003744098991_0.html",
-        "date": "2026-01-21 22:08:16",
-        "sentiment_score": -0.3507282957434654
-    },
-    {
-        "title": "El PP tilda de «indecente» que senadores del PSOE estén de vinos en Fitur con el no2 de Ábalos «en pleno luto»",
-        "image_url": "https://okdiario.com/img/2025/02/23/alicia-garcia-senado.jpg",
-        "tags": [
-            "comisión de investigación en el senado",
-            "psoe",
-            "fitur",
-            "josé luis ábalos",
-            "pp",
-            "españa"
-        ],
-        "link": "https://okdiario.com/espana/pp-acusa-senadores-del-psoe-tomar-vinos-fitur-ex-no-2-abalos-pleno-luto-oficial-16116430",
-        "date": "2026-01-21 22:03:38",
-        "sentiment_score": -0.3529462292790413
-    },
-    {
-        "title": "Atlético de Madrid y FC Barcelona en Champions",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/21/lamine-yamal-celebrando-un-gol-con-raphinha-y-pedri-durante-un-encuentro-del-fc-barcelona-photo-by-juan-manuel-serrano-arce-getty-images.jpeg",
-        "tags": [
-            "deporte"
-        ],
-        "link": "https://www.huffingtonpost.es/deporte/gran-jornada-champions-equipos-espanoles-atletico-fc-barcelona-athletic-paso-octavos-f202601.html",
-        "date": "2026-01-21 21:56:23",
-        "sentiment_score": -0.043286532163619995
-    },
-    {
-        "title": "José Manuel, rescatado por el \"ángel\" de Adamuz: dos horas atrapado en el vagón 1 y \"vi la luz\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/c6761d28815bd519cad39f2a74c73e6c/f/image/jpeg/assets/multimedia/imagenes/2022/03/18/16476300465282.jpg",
-        "tags": [
-            "accidente tren córdoba",
-            "andalucía",
-            "huelva",
-            "artículos chema rodríguez",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/andalucia/2026/01/21/6970b3e8fc6c8332728b4592.html",
-        "date": "2026-01-21 21:55:23",
-        "sentiment_score": -0.4689223989844322
-    },
-    {
-        "title": "Fichajes del fútbol europeo en 2026 que pueden mover apuestas",
-        "image_url": "https://correodelcaroni.com/wp-content/uploads/2026/01/FICHAJES_Europa.jpg",
-        "tags": [
-            "publicidad",
-            "publicitarios"
-        ],
-        "link": "https://correodelcaroni.com/anuncios/publicidad/fichajes-del-futbol-europeo-en-2026-que-pueden-mover-apuestas/",
-        "date": "2026-01-21 21:32:07",
-        "sentiment_score": 0.16232240200042725
-    },
-    {
-        "title": "Romeu: “Es muy motivante pensar en ganar la final al Real Madrid”",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/21/romeu-es-muy-motivante-pensar-en-ganar-la-final-al-real-madrid/",
-        "date": "2026-01-21 21:31:38",
-        "sentiment_score": 0.8654890665784478
-    },
-    {
-        "title": "El Barça entra en calor a tiempo en Praga",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/21/Clipboard-0261.jpg",
-        "tags": [
-            "champions league",
-            "f.c. barcelona"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-campeones/cronica-slavia-barcelona-champions-jornada7-20260121172933-ntrc.html",
-        "date": "2026-01-21 22:24:51",
-        "sentiment_score": 0.41985762119293213
-    },
-    {
-        "title": "Se empadronan fraudulentamente 8 personas en su casa en Barcelona, y debe demostrar que ella y su hija viven allí: \"Si no están en mi casa es porque viven en un sitio no empadronable. ¿Quién trafica con esto?\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2026/01/21/697150eed931f.jpeg",
-        "tags": [
-            "tressesenta"
-        ],
-        "link": "https://www.mundodeportivo.com/tressesenta/20260121/1002606088/empadronan-fraudulentamente-8-personas-casa-barcelona-debe-demostrar-hija-viven-mi-casa-viven-sitio-empadronable-trafica-esto-dct.html",
-        "date": "2026-01-21 22:24:49",
-        "sentiment_score": -0.9117692988365889
-    },
-    {
-        "title": "El Barça sufre pero vence en Praga",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/01/21/2026012123213467524.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/deportes/barca-sufre-vence-praga/20260121232354439664.html",
-        "date": "2026-01-21 22:23:54",
-        "sentiment_score": 0.8614153023809195
-    },
-    {
-        "title": "El Circo el Sol regresa a Sevilla con el estreno en España de ‘KURIOS’",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/21/el-circo-el-sol-regresa-a-sevilla-con-el-estreno-en-espana-de-kurios/",
-        "date": "2026-01-21 22:22:03",
-        "sentiment_score": 0.04849711060523987
-    },
-    {
-        "title": "2-3. El Igualada no puede con el Trissino y sigue sin ganar en Les Comes",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/21/2-3-el-igualada-no-puede-con-el-trissino-y-sigue-sin-ganar-en-les-comes/",
-        "date": "2026-01-21 22:20:02",
-        "sentiment_score": -0.8613581052049994
-    },
-    {
-        "title": "El Barcelona se descongela a tiempo en Praga (2-4)",
-        "image_url": "https://static.grupojoly.com/clip/c91a41f4-7b78-49c9-baea-78bccd24d7fd_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "uefa champions league",
-            "fc barcelona"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/barcelona-descongela-tiempo-praga-2_0_2005701021.html",
-        "date": "2026-01-21 22:19:17",
-        "sentiment_score": 0.5827358886599541
-    },
-    {
-        "title": "El Barça vence al Slavia, pero sufre atrás y no remata el Top 8",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/21/2026012123171515141.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/barca-vence-slavia-sufre-atras-remata-top-8/20260121231738371592.html",
-        "date": "2026-01-21 22:17:38",
-        "sentiment_score": 0.060525476932525635
-    },
-    {
-        "title": "Las fotos del Slavia Praga-Barcelona",
-        "image_url": "https://static.grupojoly.com/clip/deeeaad1-e7ba-453f-9767-0f444a88816e_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "uefa champions league",
-            "fc barcelona"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/fotos-slavia-praga-barcelona_3_2005700978.html",
-        "date": "2026-01-21 22:17:20",
-        "sentiment_score": 0.5062201544642448
-    },
-    {
-        "title": "Agenda: qué hacer hoy jueves 22 de enero en Asturias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/13c3b901-ac14-4f31-97a2-4f47977e0741_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "festivos",
-            "exposición",
-            "asturias",
-            "horario"
-        ],
-        "link": "https://www.lne.es/asturias/2026/01/22/agenda-hoy-jueves-22-enero-125938524.html",
-        "date": "2026-01-22 02:09:39",
-        "sentiment_score": -0.06581622362136841
-    },
-    {
-        "title": "Barcelona reaccionó a tiempo en Praga",
-        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/01/Barcelona11.jpg",
-        "tags": [
-            "21ene",
-            "deportes",
-            "champions league",
-            "barcelona",
-            "praga"
-        ],
-        "link": "https://laverdaddemonagas.com/2026/01/21/barcelona-reacciono-en-praga/",
-        "date": "2026-01-22 01:55:27",
-        "sentiment_score": 0.22370046377182007
-    },
-    {
-        "title": "Microplásticos: ¿amenaza real o cifras infladas? La ciencia pone límites al alarmismo",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/22/2026012202204297748.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.mundiario.com/articulo/sociedad/microplasticos-amenaza-real-cifras-infladas-ciencia-pone-limites-alarmismo/20260122022336371615.html",
-        "date": "2026-01-22 01:23:36",
-        "sentiment_score": -0.20352209359407425
-    },
-    {
-        "title": "Los 17 hospitales con más negligencias médicas de España por comunidades: hubo 14.986 casos y 951 muertes en 2025",
-        "image_url": "https://s3.elespanol.com/2026/01/21/actualidad/1003744098783_261027949_1706x960.jpg",
-        "tags": [
-            "médicos",
-            "hospitales",
-            "negligencias médicas",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260122/hospitales-negligencias-medicas-espana-comunidades-casos-muertes/1003744098605_0.html",
-        "date": "2026-01-22 01:10:00",
-        "sentiment_score": -0.8754375334829092
-    },
-    {
-        "title": "Las portadas del jueves: \"Renovación a la vista\" de Vinícius y la \"reacción top\" del Barça en Praga",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
-        "tags": [
-            "football"
-        ],
-        "link": "https://www.eurosport.es/futbol/renovacion-a-la-vista-vinicius-reconciliacion-reaccion-top-barca-portadas-deporte-espana-hoy_sto23261730/story.shtml",
-        "date": "2026-01-22 01:08:42",
-        "sentiment_score": 0.1871941015124321
-    },
-    {
-        "title": "Cuando el diagnóstico llega tarde: el boom silencioso del TDAH en Europa",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/22/2026012202044962962.jpg",
-        "tags": [
-            "salud"
-        ],
-        "link": "https://www.mundiario.com/articulo/salud/cuando-diagnostico-llega-tarde-boom-silencioso-tdah-europa/20260122020702371603.html",
-        "date": "2026-01-22 01:07:02",
-        "sentiment_score": -0.5158044751733541
-    },
-    {
-        "title": "Qué necesitan el Real Madrid y el FC Barcelona para clasificar a los octavos de final de la Champions League",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2026/01/21/real-madrid-fc-barcelona-octavos-final-champions-league-orix/",
-        "date": "2026-01-22 01:03:56",
-        "sentiment_score": 0.049466341733932495
-    },
-    {
-        "title": "Ana Hernández, la profesora madrileña que roza el 'Nobel' de Educación: \"Hay que escuchar a los malos alumnos\"",
-        "image_url": "https://s3.elespanol.com/2026/01/21/actualidad/1003744098586_261025287_1706x960.jpg",
-        "tags": [
-            "sociedad",
-            "comunidad de madrid",
-            "madrid",
-            "profesores",
-            "leganés",
-            "educación"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20260122/ana-hernandez-profesora-madrilena-roza-nobel-educacion-escuchar-malos-alumnos/1003744097676_0.html",
-        "date": "2026-01-22 01:00:00",
-        "sentiment_score": 0.8419619053602219
-    },
-    {
-        "title": "Esto es lo que necesitan los equipos españoles en la última jornada para avanzar a octavos de la Champions League",
-        "image_url": "https://www.infobae.com/resizer/v2/D3SLGU43TZEOFLSFFYJ55VCBMU.JPG?auth=a3186334c25c7edf921090f5c363140d50ad52e8a19785cb2f26190835585826&height=3329&smart=true&width=4834",
-        "tags": [
-            "villarreal",
-            "españa-noticias",
-            "españa-deportes",
-            "fútbol",
-            "fútbol españa",
-            "champions league",
-            "uefa champions league",
-            "real madrid",
-            "fc barcelona",
-            "athletic club"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/01/22/esto-es-lo-que-necesitan-los-equipos-espanoles-en-la-ultima-jornada-para-avanzar-a-octavos-de-la-champions-league/",
-        "date": "2026-01-22 00:52:36",
-        "sentiment_score": -0.10050240159034729
-    },
-    {
-        "title": "Rutas alternativas al bloqueo de la AP-7: se suspenden los peajes en la C-32 y se eliminan las Zonas de Bajas Emisiones",
-        "image_url": "https://www.infobae.com/resizer/v2/MYKTBVNDBJDOTODUTL24OVPEIU.jpg?auth=de6241ccc880b7c946c4776d391e08df4862359bd50dccf4d9b746f603ade70a&height=5760&smart=true&width=8640",
-        "tags": [
-            "trenes",
-            "españa-noticias",
-            "rodalies",
-            "sucesos españa",
-            "barcelona",
-            "renfe",
-            "trenes españa",
-            "españa-nacional",
-            "cataluña",
-            "tráfico"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/22/rutas-alternativas-al-bloqueo-de-la-ap-7-se-suspenden-los-peajes-en-la-c-32-y-se-eliminan-las-zonas-de-bajas-emisiones/",
-        "date": "2026-01-22 02:20:28",
-        "sentiment_score": -0.22308793663978577
-    },
-    {
-        "title": "Se veía venir",
-        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "venir",
-            "veia"
-        ],
-        "link": "https://www.eldiadecordoba.es/opinion/articulos/veia-venir_0_2005701850.html",
-        "date": "2026-01-22 02:06:37",
-        "sentiment_score": 0.17199084162712097
-    },
-    {
-        "title": "Los AVE que perdimos",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ave",
-            "perdimos"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/ave-perdimos_0_2005701820.html",
-        "date": "2026-01-22 02:06:26",
-        "sentiment_score": -0.2594009339809418
-    },
-    {
         "title": "El Centre del Carme inicia la temporada 2026 con dos muestras de videocreación sobre el mundo gamer, las relaciones humanas y la empatía",
         "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/22/6971c23b9c4ff.jpeg",
         "tags": [
@@ -458,35 +104,6 @@ export default [
         "link": "https://www.libertaddigital.com/espana/politica/2026-01-22/el-cambio-de-criterio-en-la-velocidad-de-los-trenes-activa-las-alertas-en-pp-y-vox-7347267/",
         "date": "2026-01-22 05:27:54",
         "sentiment_score": -0.4242188520729542
-    },
-    {
-        "title": "Quién se juega la clasificación en la última jornada de la Champions League y cómo funciona el formato",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2026/01/21/clasificacion-ultima-jornada-champions-league-formato-orix/",
-        "date": "2026-01-22 05:03:39",
-        "sentiment_score": 0.1602083146572113
-    },
-    {
-        "title": "Cocaína en el coche y uniformes en el maletero: un policía local, sorprendido en el 'supermercado' de la droga de Mallorca",
-        "image_url": "https://static.eldiario.es/clip/26156dc4-2275-43f4-92b6-5db7347d0fe7_16-9-discover-aspect-ratio_default_1134742.jpg",
-        "tags": [
-            "uniformes",
-            "supermercado",
-            "droga",
-            "coche",
-            "sorprendido",
-            "local",
-            "mallorca",
-            "maletero",
-            "policia",
-            "cocaina"
-        ],
-        "link": "https://www.eldiario.es/illes-balears/sociedad/cocaina-coche-uniformes-maletero-policia-local-sorprendido-supermercado-droga-mallorca_1_12923574.html",
-        "date": "2026-01-22 05:02:44",
-        "sentiment_score": -0.24371792376041412
     },
     {
         "title": "Accidente de tren en Adamuz y Gelida, última hora en directo | Rodalies continúa sin servicio en Cataluña",
@@ -2951,5 +2568,198 @@ export default [
         "link": "https://www.elperiodico.com/es/sociedad/20260125/freno-llegada-turistas-negocios-internacionales-126009251",
         "date": "2026-01-25 06:00:11",
         "sentiment_score": 0.22407694905996323
+    },
+    {
+        "title": "Un hombre confiesa a la Guardia Civil haber matado a un niño de trece años amigo de su hijo en Sueca",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/2a/media_thumb-link-4139721.webp?1769332506=",
+        "tags": [
+            "actualidad",
+            "13 años",
+            "niño",
+            "asesinato",
+            "sueca"
+        ],
+        "link": "https://www.meneame.net/story/hombre-confiesa-guardia-civil-haber-matado-nino-trece-anos-amigo",
+        "date": "2026-01-25 13:10:03",
+        "sentiment_score": -0.6850151401013136
+    },
+    {
+        "title": "Oviedo se despide de Fitur con el stand hasta los topes y satisfacción por la \"creciente proyección internacional\" de la ciudad",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ab237c4a-1890-42e8-93ab-131e179e3c26_16-9-aspect-ratio_default_0_x1000y500.jpg",
+        "tags": [
+            "concursos",
+            "cultura",
+            "fitur",
+            "sostenibilidad"
+        ],
+        "link": "https://www.lne.es/oviedo/2026/01/25/oviedo-despide-fitur-stand-topes-126073739.html",
+        "date": "2026-01-25 17:25:27",
+        "sentiment_score": 0.46569448709487915
+    },
+    {
+        "title": "La tijereta antológica de Lamine Yamal que confirma el liderato del Barça: un punto sobre el Real Madrid",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/25/culemania/primer-equipo/1003742726552_15641210_1706x960.jpg",
+        "tags": [
+            "barça",
+            "primer equipo",
+            "la liga"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260125/tijereta-antologica-lamine-yamal-barca-real-madrid/1003742726540_0.html",
+        "date": "2026-01-25 17:17:55",
+        "sentiment_score": 0.8361846357584
+    },
+    {
+        "title": "El Barça encuentra el camino para derrotar a un buen Oviedo y regresar al liderato de la Liga",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/01/25/69764c0cc66f9.r_d.337-527-6250.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20260125/barca-encuentra-camino-derrotar-buen-oviedo-regresar-liderato-liga_378059.html",
+        "date": "2026-01-25 17:12:35",
+        "sentiment_score": 0.5739338472485542
+    },
+    {
+        "title": "Olmo vuelve a ser el desatascador de un Barça que 'recupera' el liderato (3-0)",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/01/25/824BDB13-2EEA-478C-9029-5963BCF080C0/dani-olmo-celebra-gol-oviedo_96.jpg?crop=3312%2C1863%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "fútbol",
+            "antena 3 noticias",
+            "deportes"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/olmo-vuelve-ser-desatascador-barca-que-recupera-liderato-30_2026012569764ef7eb223406e5aecd1a.html",
+        "date": "2026-01-25 17:12:22",
+        "sentiment_score": 0.21329516172409058
+    },
+    {
+        "title": "Fiesta en el Heliodoro de camino al ascenso",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/24440a2e-9c2c-44e5-8483-93312466d400_16-9-discover-aspect-ratio_default_0_x769y341.jpg",
+        "tags": [
+            "cd tenerife",
+            "álvaro cervera",
+            "enric gallego",
+            "jesús de miguel"
+        ],
+        "link": "https://www.eldia.es/deportes/cd-tenerife/2026/01/25/fiesta-heliodoro-camino-ascenso-126073222.html",
+        "date": "2026-01-25 17:11:43",
+        "sentiment_score": 0.02309998869895935
+    },
+    {
+        "title": "Horario y dónde ver en televisión y online streaming el Levante-Atlético de LaLiga 2025-26",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/16/image-343e996f-3977-41da-a038-7a335737906a-85-2560-1440.jpeg",
+        "tags": [
+            "la liga 2025/2026",
+            "football"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/levante-atletico-madrid-jornada-22-fecha-horario-donde-ver-television-online-streaming-hoy_sto23263069/story.shtml",
+        "date": "2026-01-25 17:06:21",
+        "sentiment_score": 0.06117977946996689
+    },
+    {
+        "title": "Esther García Llovet: \"A cierta edad miras atrás y te das cuenta de que te has pasado la vida sin hacer nada concreto\"",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/24/letraglobal/letras/1003742726340_15638541_1706x960.jpg",
+        "tags": [
+            "letras",
+            "entrevistas",
+            "libros",
+            "literatura",
+            "escritores"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/letraglobal/letras/20260125/esther-garcia-llovet-cierta-cuenta-pasado-concreto/1003742726339_0.html",
+        "date": "2026-01-25 17:00:00",
+        "sentiment_score": 0.10796110332012177
+    },
+    {
+        "title": "Efemérides: estos son los acontecimientos más importantes que se celebran hoy 25 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/OEKTSHL5KJE2BSSHJCLJH4PTK4.jpg?auth=35d0d56fc8e52a25be7c70727e508d01633c70bc3d14dd87168702e6a0a87ca9&height=3241&smart=true&width=4861",
+        "tags": [
+            "enero",
+            "efemérides",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/01/25/efemerides-estos-son-los-acontecimientos-mas-importantes-que-se-celebra-hoy-25-de-enero/",
+        "date": "2026-01-25 16:55:08",
+        "sentiment_score": 0.3826625868678093
+    },
+    {
+        "title": "Don Alexander Sorloth marca el camino en un Atlético práctico y eficaz",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/25/2025042504072539700.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/don-alexander-sorloth-marca-camino-atletico-practico-eficaz/20260125175457372090.html",
+        "date": "2026-01-25 16:54:57",
+        "sentiment_score": 0.6023501306772232
+    },
+    {
+        "title": "Estas son las líneas de Rodalies que retomarán su servicio este lunes en Catalunya",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d4509b6b-0295-482f-9d2f-cd39147ffc84_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rodalies",
+            "sílvia paneque i sureda"
+        ],
+        "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260125/lineas-rodalies-retomaran-servicio-lunes-catalunya-126075071",
+        "date": "2026-01-25 17:21:32",
+        "sentiment_score": 0.00473998486995697
+    },
+    {
+        "title": "Charles Leclerc señala las claves del 2026 en la F1 con Ferrari: “Serán los aspectos más importantes”",
+        "image_url": "https://hips.hearstapps.com/hmg-prod/images/charles-leclerc-of-scuderia-ferrari-walks-in-the-paddock-news-photo-1769361521.pjpeg",
+        "tags": [
+            "locale: es",
+            "contentid: ecc99802-f6d2-4ac4-93e9-28fd6ab955bc",
+            "content-type: news",
+            "displaytype: standard article",
+            "shorttitle: charles leclerc señala las claves del 2026"
+        ],
+        "link": "https://www.caranddriver.com/es/formula-1/a70130092/charles-leclerc-senala-claves-2026-f1-ferrari-seran-aspectos-mas-importantes/",
+        "date": "2026-01-25 17:21:00",
+        "sentiment_score": 0.02633911371231079
+    },
+    {
+        "title": "Eric Ponce, empresario catalán, desvela el negocio más rentable para invertir con poco personal y sin complicaciones: \"Yo lo consumo\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/14/6967d4783b330.png",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.cope.es/actualidad/economia/noticias/eric-ponce-empresario-catalan-desvela-negocio-rentable-invertir-poco-personal-complicaciones-consumo-20260125_3286803.html",
+        "date": "2026-01-25 17:20:27",
+        "sentiment_score": -0.06400159001350403
+    },
+    {
+        "title": "El accidente de Rodalies reabre la crisis con los maquinistas y alienta el hartazgo ciudadano",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/25/1505867852-k2MD-U20334551809gOF-1200x840@RC.jpg",
+        "tags": [
+            "salvador illa",
+            "generalitat de cataluña"
+        ],
+        "link": "https://www.elcomercio.es/sociedad/accidente-rodalies-reabre-crisis-maquinistas-alienta-hartazgo-20260125182014-ntrc.html",
+        "date": "2026-01-25 17:20:17",
+        "sentiment_score": -0.8989959880709648
+    },
+    {
+        "title": "Olmo desatasca las cañerías y Lamine Yamal deja una obra de arte",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/60958245-68b6-4d23-9199-622cc5478c0e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol",
+            "laliga ea sports",
+            "fc barcelona",
+            "real oviedo"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/deportes/2026/01/25/olmo-desatasca-canerias-lamine-yamal-126073702.html",
+        "date": "2026-01-25 17:19:52",
+        "sentiment_score": 0.2697531580924988
+    },
+    {
+        "title": "EN IMÁGENES: Barcelona - Real Oviedo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/13ace587-0ab2-4222-a4c3-d5160569b773_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "oviedo",
+            "imagenes",
+            "real",
+            "barcelona"
+        ],
+        "link": "https://www.lne.es/fotos/real-oviedo/2026/01/25/imagenes-barcelona-real-oviedo-126073469.html",
+        "date": "2026-01-25 17:15:59",
+        "sentiment_score": -0.021893784403800964
     }
 ];
