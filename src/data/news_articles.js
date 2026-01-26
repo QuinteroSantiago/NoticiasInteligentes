@@ -1,130 +1,5 @@
 export default [
     {
-        "title": "Un empresario, el general de la Guardia Civil y 'el mediador' rechazan su implicación en la trama de Tito Berni",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2692166.jpg",
-        "tags": [
-            "canarias"
-        ],
-        "link": "https://www.vozpopuli.com/espana/canarias/un-empresario-el-general-de-la-guardia-civil-y-el-mediador-rechazan-su-implicacion-en-la-trama-de-tito-berni.html",
-        "date": "2026-01-22 17:16:34",
-        "sentiment_score": 0.2660526633262634
-    },
-    {
-        "title": "Butragueño: \"El fútbol no es solo talento o físico, es entender el juego\"",
-        "image_url": "https://www.infobae.com/resizer/v2/FOKCH6HNARFSZJL2LYKUI3KD3U.jpg?auth=28ee806209947dec69560e00c4d466d3c7dd7a0a9722555f7f961ef1cef1853b&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/22/butragueno-el-futbol-no-es-solo-talento-o-fisico-es-entender-el-juego/",
-        "date": "2026-01-22 17:15:18",
-        "sentiment_score": 0.1572169028222561
-    },
-    {
-        "title": "Bombazo en Inglaterra: ¡Casemiro anuncia que se marcha del United!",
-        "image_url": "https://okdiario.com/img/2026/01/22/imagen_recortada-2026-01-22t181329.161.jpg",
-        "tags": [
-            "manchester united",
-            "fútbol",
-            "premier league",
-            "deportes",
-            "carlos henrique casemiro"
-        ],
-        "link": "https://okdiario.com/deportes/bombazo-inglaterra-casemiro-anuncia-que-marcha-del-united-16121173",
-        "date": "2026-01-22 17:14:07",
-        "sentiment_score": 0.5071565955877304
-    },
-    {
-        "title": "Air Europa firma el pedido de 20 de los 40 aviones A350 acordados con Airbus en noviembre",
-        "image_url": "https://static.grupojoly.com/clip/29891f4b-5ed6-4cdd-9c80-66b62eddbc04_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "europa",
-            "acordados",
-            "air",
-            "airbus",
-            "aviones",
-            "a350",
-            "pedido",
-            "firma"
-        ],
-        "link": "https://www.elconciso.es/empresas/air-europa-firma-pedido-aviones-a350-acordados-airbus_0_2005706249.html",
-        "date": "2026-01-22 17:12:10",
-        "sentiment_score": 0.2601064667105675
-    },
-    {
-        "title": "Las agencias de viaje, preocupadas por los conflictos geopolíticos de cara al 2026",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/22/6972586d7fb0d.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.lavanguardia.com/economia/20260122/11446869/agencias-viaje-preocupadas-conflictos-geopoliticos-cara-2026.html",
-        "date": "2026-01-22 17:11:18",
-        "sentiment_score": -0.47588054835796356
-    },
-    {
-        "title": "Renfe ajusta los horarios para viajar a Madrid desde Córdoba",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/21/6970e48fea4f3.jpeg",
-        "tags": [
-            "córdoba - actualidad"
-        ],
-        "link": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20260122/renfe-ajusta-horarios-viajar-madrid-tren-desde-cordoba_377266.html",
-        "date": "2026-01-22 17:10:44",
-        "sentiment_score": 0.08848048746585846
-    },
-    {
-        "title": "OBS y UNIR, las mejores universidades para cursar un MBA online en español en Europa y América, según Ranking FSO",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260122180155_690.jpg",
-        "tags": [
-            "sociedad",
-            "educación"
-        ],
-        "link": "https://www.europapress.es/sociedad/educacion-00468/noticia-obs-unir-mejores-universidades-cursar-mba-online-espanol-europa-america-ranking-fso-20260122180155.html",
-        "date": "2026-01-22 17:01:55",
-        "sentiment_score": 0.67411258071661
-    },
-    {
-        "title": "Las cuentas de Real Madrid, Barcelona, Atlético de Madrid y Athletic en la última jornada de la Champions",
-        "image_url": "https://www.infobae.com/resizer/v2/UBSJ4KXAERCNFN3JL5OXRICKSA.jpg?auth=005d3d950d68b6d2a898dd7a0160b387f605eaf3b15e144ffb9ea7673d317d59&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/22/las-cuentas-de-real-madrid-barcelona-atletico-de-madrid-y-athletic-en-la-ultima-jornada-de-la-champions/",
-        "date": "2026-01-22 17:01:28",
-        "sentiment_score": -0.18192275613546371
-    },
-    {
-        "title": "Santander recibe en Fitur el distintivo de Destino Turístico Inteligente",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/01/20260122172515.jpg?fit=1920%2C1440&ssl=1",
-        "tags": [
-            "cantabria"
-        ],
-        "link": "https://cronicadecantabria.com/cr/santander-recibe-en-fitur-el-distintivo-de-destino-turstico-inteligente/",
-        "date": "2026-01-22 17:00:07",
-        "sentiment_score": 0.03552626073360443
-    },
-    {
-        "title": "Paradores brilla en FITUR 2026: anuncian un beneficio de 23 millones y más de 337 millones en ingresos",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/12/paradores-espana-hoteles-1000x665.jpg",
-        "tags": [
-            "paradores",
-            "empresas"
-        ],
-        "link": "https://www.economiadigital.es/empresas/paradores-fitur-2026.html",
-        "date": "2026-01-22 17:00:00",
-        "sentiment_score": 0.6650371439754963
-    },
-    {
-        "title": "Salvador Illa evoluciona favorablemente y sigue con su tratamiento en el hospital",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3d7eacb2-6f83-4cc1-a8fc-1c8da5ad4183_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "salvador illa",
-            "hospital vall d'hebron",
-            "sanidad pública"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/espana/2026/01/22/salvador-illa-evoluciona-favorablemente-sigue-125977205.html",
-        "date": "2026-01-22 17:16:07",
-        "sentiment_score": -0.3114975169301033
-    },
-    {
         "title": "El Madrid aprovecha una gran primera mitad y roba el 'average' al Mónaco",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7aee4f28-a92f-464f-9860-d0a475221fbd_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2796,5 +2671,138 @@ export default [
         "link": "https://www.elcorreogallego.es/economia/activos/2026/01/26/corazones-laten-fronteras-126081137.html",
         "date": "2026-01-26 01:59:49",
         "sentiment_score": -0.8900028178468347
+    },
+    {
+        "title": "Descubren 'códigos de barras' en sangre que identifican el cáncer con más del 90% de precisión",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260126074349_690.jpg",
+        "tags": [
+            "investigación",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-descubren-codigos-barras-sangre-identifican-cancer-mas-90-precision-20260126074349.html",
+        "date": "2026-01-26 06:43:49",
+        "sentiment_score": -0.16358963400125504
+    },
+    {
+        "title": "La chilena de Lamine ocupa todas las portadas: \"Laminazo\", \"espectacular\" y \"regalo\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "la liga 2025/2026"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/chilena-lamine-yamal-video-gol-oviedo-portadas-deporte-espana-lunes-26-enero-hoy_sto23263214/story.shtml",
+        "date": "2026-01-26 06:43:47",
+        "sentiment_score": 0.4201667159795761
+    },
+    {
+        "title": "La bailarina con discapacidad auditiva Jone San Martín reivindica la danza como lenguaje en el espectáculo 'sORDA'",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/26/6977090bcbe4f1-81863683.jpeg",
+        "tags": [
+            "capaces"
+        ],
+        "link": "https://www.20minutos.es/capaces/bailarina-con-discapacidad-auditiva-jone-san-martin-reivindica-danza-como-lenguaje-espectaculo-sorda_6925639_0.html",
+        "date": "2026-01-26 06:40:54",
+        "sentiment_score": -0.056547656655311584
+    },
+    {
+        "title": "El curioso refrán madrileño que nadie conoce en el resto de España: nació de la rivalidad entre capital y pueblos",
+        "image_url": "https://okdiario.com/img/2026/01/22/orquesta.jpg",
+        "tags": [
+            "lenguaje",
+            "frases",
+            "curiosidades",
+            "castellano",
+            "palabras",
+            "español",
+            "madrid"
+        ],
+        "link": "https://okdiario.com/curiosidades/curioso-refran-madrileno-que-nadie-conoce-resto-espana-nacio-rivalidad-capital-pueblos-16117881",
+        "date": "2026-01-26 06:30:36",
+        "sentiment_score": -0.2924070283770561
+    },
+    {
+        "title": "Así ha logrado Arbeloa resucitar al Real Madrid en 10 días: \"No puedo ir contra la naturaleza de los jugadores\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/51a33216-fae6-4b17-9cb8-0848913db7fc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol",
+            "real madrid",
+            "álvaro arbeloa"
+        ],
+        "link": "https://www.laopiniondemalaga.es/deportes/2026/01/26/arbeloa-resucitar-real-madrid-mbappe-vinicius-126083216.html",
+        "date": "2026-01-26 06:24:23",
+        "sentiment_score": -0.2497018575668335
+    },
+    {
+        "title": "Rodalies vuelve a suspender el servicio por una incidencia en el centro de control de ADIF",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/pantalla-incidencia-rodalies.jpg",
+        "tags": [
+            "incidencia",
+            "rodalies",
+            "barcelona",
+            "adif",
+            "cataluña",
+            "transporte"
+        ],
+        "link": "https://theobjective.com/economia/transporte/2026-01-26/rodalies-suspender-servicio-incidencia-adif/",
+        "date": "2026-01-26 06:48:09",
+        "sentiment_score": -0.775668865069747
+    },
+    {
+        "title": "El portavoz de Adif, Salvador Almenar: \"No descartamos hipótesis ante el problema informático que ha cortado dos veces Rodalies\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6869a35a-321c-45cb-9f49-2467e60e7a1d_16-9-discover-aspect-ratio_default_0_x609y270.jpg",
+        "tags": [
+            "adif",
+            "rodalies",
+            "renfe"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260126/portavoz-adif-salvador-almenar-descartamos-126084351",
+        "date": "2026-01-26 06:45:03",
+        "sentiment_score": -0.3760758116841316
+    },
+    {
+        "title": "Boro, el perro del tren de Adamuz, recibe ofertas para ir a televisión",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/01/24/6975010150661.jpeg",
+        "tags": [
+            "series y tv"
+        ],
+        "link": "https://www.lavozdealmeria.com/series-y-tv/441922/boro-perro-tren-adamuz-recibe-ofertas-television.html",
+        "date": "2026-01-26 06:45:00",
+        "sentiment_score": -0.27995675057172775
+    },
+    {
+        "title": "Se va Ingrid, llega Joseph: las fuertes lluvias impiden bajar la guardia, sobre todo en Galicia",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/26/unos-ciudadanos-tratan-de-protegerse-del-temporal-en-a-coruna-el-21-de-enero-de-2026.jpeg",
+        "tags": [
+            "el tiempo"
+        ],
+        "link": "https://www.huffingtonpost.es/tiempo/se-ingrid-llegajoseph-fuertes-lluvias-impiden-bajar-guardia-sobre-galicia-f202601.html",
+        "date": "2026-01-26 06:43:56",
+        "sentiment_score": -0.49881497770547867
+    },
+    {
+        "title": "Cuál es el precio de la gasolina este 26 de enero en Madrid, Barcelona y otras ciudades",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "precio gasolina",
+            "noticias",
+            "españa-economia",
+            "gasolina"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/26/cual-es-el-precio-de-la-gasolina-este-26-de-enero-en-madrid-barcelona-y-otras-ciudades/",
+        "date": "2026-01-26 06:30:39",
+        "sentiment_score": -0.01283891499042511
+    },
+    {
+        "title": "Un fallo en un centro de control de Adif vuelve a alterar el servicio de Rodalies en Cataluña",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9a88761a-33df-4f62-a9c4-f328f3c6959b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "adif",
+            "rodalies",
+            "renfe",
+            "trenes"
+        ],
+        "link": "https://www.laprovincia.es/sociedad/2026/01/26/suspendido-nuevo-cataluna-servicio-rodalies-126083396.html",
+        "date": "2026-01-26 06:28:05",
+        "sentiment_score": -0.1293625310063362
     }
 ];
