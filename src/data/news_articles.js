@@ -1,201 +1,5 @@
 export default [
     {
-        "title": "Vinícius Jr. iguala registro de Xavi Hernández en la Champions League",
-        "image_url": "https://pxcdn.meridiano.net/012026/1769189487706.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/vinicius-jr-iguala-registro-de-xavi-hernandez-en-la-champions-league-20261231380",
-        "date": "2026-01-23 17:08:00",
-        "sentiment_score": -0.4450676962733269
-    },
-    {
-        "title": "17:00H | 23 ENE 2026 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-23-ene-2026-tarde-20260123_3293464.html",
-        "date": "2026-01-23 17:06:00",
-        "sentiment_score": -0.44352129101753235
-    },
-    {
-        "title": "El invitado que le negó la mano a Doña Letizia",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/01/23/6973a85c08a15.r_d.1463-511-6250.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.eldebate.com/gente/20260123/invitado-le-nego-mano-dona-letizia_377691.html",
-        "date": "2026-01-23 17:04:00",
-        "sentiment_score": -0.5330308862030506
-    },
-    {
-        "title": "El stand de Cantabria gana el Premio a la Sostenibilidad en Fitur 2026",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260123180215_690.jpg",
-        "tags": [
-            "cantabria"
-        ],
-        "link": "https://www.europapress.es/cantabria/noticia-stand-cantabria-gana-premio-sostenibilidad-fitur-2026-20260123180215.html",
-        "date": "2026-01-23 17:02:15",
-        "sentiment_score": 0.8806598549708724
-    },
-    {
-        "title": "Villarreal-Real Madrid: Alineaciones probables, estadísticas y cómo ver por TV y online (21:00)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1337x268:1339x266)/origin-imgresizer.eurosport.com/2026/01/23/image-075a1be0-b3db-4f09-b7fa-9adeaa2846f1-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "la liga 2025/2026"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/villarreal-real-madrid-alineaciones-probables-previa-estadisticas-horario-como-donde-ver-television-online-streaming-hoy_sto23262377/story.shtml",
-        "date": "2026-01-23 17:00:54",
-        "sentiment_score": 0.026976581662893295
-    },
-    {
-        "title": "Estos son los opositores de Laporta a las elecciones: todos los candidatos a presidir el Barça",
-        "image_url": "https://okdiario.com/img/2026/01/23/befunky-collage.jpg",
-        "tags": [
-            "fc barcelona",
-            "deportes",
-            "barcelona",
-            "joan laporta"
-        ],
-        "link": "https://okdiario.com/deportes/estos-son-opositores-laporta-elecciones-todos-candidatos-presidir-barca-16123994",
-        "date": "2026-01-23 17:00:35",
-        "sentiment_score": -0.0019491016864776611
-    },
-    {
-        "title": "Sira Rego pide a Fitur la expulsión de Israel de la feria: «Es incompatible con el derecho internacional»",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/01/20260123173729.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/sira-rego-pide-a-fitur-la-expulsin-de-israel-de-la-feria-es-incompatible-con-el-derecho-internacional/",
-        "date": "2026-01-23 17:00:07",
-        "sentiment_score": -0.7297730557620525
-    },
-    {
-        "title": "IGP Ternera Asturiana advierte: Mercosur pone en grave riesgo el futuro del vacuno asturiano",
-        "image_url": "https://nuestrocampo.elcomercio.es/wp-content/uploads//sites/19/2025/04/ternera-asturiana-1080x675.jpg",
-        "tags": [
-            "ganadería"
-        ],
-        "link": "https://nuestrocampo.elcomercio.es/igp-ternera-asturiana-advierte-mercosur-grave-riesgo-futuro-vacuno-asturiano/",
-        "date": "2026-01-23 16:56:38",
-        "sentiment_score": -0.4387967735528946
-    },
-    {
-        "title": "Sira Rego pide a Fitur la expulsión de Israel de la feria: «Es incompatible con el derecho internacional»",
-        "image_url": "https://forbes.es/wp-content/uploads/2026/01/fotonoticia_20260123173730_1920-1200x675.jpg",
-        "tags": [
-            "última hora",
-            "economía"
-        ],
-        "link": "https://forbes.es/economia/862831/sira-rego-pide-a-fitur-la-expulsion-de-israel-de-la-feria-es-incompatible-con-el-derecho-internacional/",
-        "date": "2026-01-23 16:55:04",
-        "sentiment_score": -0.7610860727727413
-    },
-    {
-        "title": "Un carril de la AP-7 se abrirá mañana a partir de las 14 horas en sentido sur en Martorell",
-        "image_url": "https://static1.ara.cat/clip/d3eceb6b-9e40-44d7-8b85-eb1627e9c378_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "horas",
-            "sentido",
-            "7",
-            "ap",
-            "martorell",
-            "14",
-            "manana",
-            "sur",
-            "partir",
-            "carril",
-            "abrira"
-        ],
-        "link": "https://es.ara.cat/sociedad/movilidad/carril-ap-7-abrira-manana-partir-14-horas-sentido-sur-martorell_1_5626949.html",
-        "date": "2026-01-23 17:12:39",
-        "sentiment_score": -0.6773455440998077
-    },
-    {
-        "title": "La nueva Ferrari fue empujada a boxes tras su primera vuelta y el video desató una polémica que el equipo debió aclarar",
-        "image_url": "https://www.infobae.com/resizer/v2/LUQEZKMCCFFVXEZRQSG4T3DG6M.jpg?auth=cd83ecbb31f349ac5f9645f5480835dc535805ce50c0242c794cf556005c68eb&height=1080&smart=true&width=1920",
-        "tags": [
-            "f1",
-            "lewis hamilton",
-            "charles leclerc",
-            "fórmula 1",
-            "ferrari"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/23/la-nueva-ferrari-fue-empujada-a-boxes-tras-su-primera-vuelta-y-el-video-desato-una-polemica-que-el-equipo-debio-aclarar/",
-        "date": "2026-01-23 17:07:45",
-        "sentiment_score": -0.39407647773623466
-    },
-    {
-        "title": "Inquietud por los retrasos de Rodalies entre los médicos catalanes que se examinan este sábado del MIR",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ccaf2551-a500-4380-9033-ad39cd672d4e_16-9-discover-aspect-ratio_default_0_x618y309.jpg",
-        "tags": [
-            "ministerio de sanidad",
-            "mir 2026",
-            "médicos",
-            "rodalies"
-        ],
-        "link": "https://www.elperiodico.com/es/sanidad/20260123/inquietud-retrasos-rodalies-medicos-mir-2026-126007085",
-        "date": "2026-01-23 17:06:48",
-        "sentiment_score": -0.03641027957201004
-    },
-    {
-        "title": "El legado de Colita se queda en el Niemeyer en quince fotos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2e3503af-d928-41ff-8fd5-64eee4e2527c_16-9-aspect-ratio_default_0_x750y375.jpg",
-        "tags": [
-            "centro niemeyer",
-            "fotografía",
-            "orson welles",
-            "joan manuel serrat"
-        ],
-        "link": "https://www.lne.es/aviles/2026/01/23/legado-colita-queda-niemeyer-quince-126016218.html",
-        "date": "2026-01-23 17:05:00",
-        "sentiment_score": 0.20958496630191803
-    },
-    {
-        "title": "Diputació de Barcelona regala más meses de contrato a la esposa de Puigdemont con fondos públicos",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/08/11/66b8a3f8b0399.r_d.1432-1819.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20260123/diputacion-barcelona-prorroga-contrato-esposa-puigdemont-hasta-finales-julio_377702.html",
-        "date": "2026-01-23 17:03:14",
-        "sentiment_score": 0.45615726709365845
-    },
-    {
-        "title": "CCOO denunció hace meses el deterioro de las condiciones de seguridad y salud a bordo de los trenes",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/01/20260123170521.jpg?fit=1714%2C1250&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/ccoo-denunci-hace-meses-el-deterioro-de-las-condiciones-de-seguridad-y-salud-a-bordo-de-los-trenes/",
-        "date": "2026-01-23 17:00:08",
-        "sentiment_score": -0.7723980955779552
-    },
-    {
-        "title": "Los dos destinos españoles que debes visitar en 2026, según 'The New York Times'",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/13/696612a19e1e42-90060793.jpeg",
-        "tags": [
-            "destinos"
-        ],
-        "link": "https://www.20minutos.es/viajes/destinos/dos-destinos-espanoles-debes-visitar-2026-the-new-york-times_6920473_0.html",
-        "date": "2026-01-23 17:00:00",
-        "sentiment_score": 0.08565080538392067
-    },
-    {
-        "title": "“Trump, un volcán impredecible que Europa ya no puede ignorar”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-        "tags": [
-            "claves del día"
-        ],
-        "link": "https://www.lavanguardia.com/videos/claves-del-dia/20260123/11447906/trump-volcan-impredecible-europa-ignorar.html",
-        "date": "2026-01-23 16:57:40",
-        "sentiment_score": 0.011206075549125671
-    },
-    {
         "title": "Barcelona-Real Madrid: Alineaciones probables y datos de la Supercopa de España Femenina (19:00)",
         "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/23/image-642e909a-feca-4ccd-afb3-6b8d7497ecb7-85-2560-1440.jpeg",
         "tags": [
@@ -2972,5 +2776,57 @@ export default [
         "link": "https://www.elespanol.com/motor/20260127/nissan-bmw-mercedes-volvo-unicos-fabricantes-cumplen-reduccion-emisiones-bruselas-cierre/1003744104137_0.html",
         "date": "2026-01-27 01:39:50",
         "sentiment_score": -0.007662087678909302
+    },
+    {
+        "title": "«Un alumno me agredió, me llamó guarra y amenazó con matar a mi hijo»: el diario de una profesora de instituto",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/2b/media_thumb-link-4140018.webp?1769411826=",
+        "tags": [
+            "alumnos",
+            "profesores",
+            "actualidad",
+            "fiscalía de menores"
+        ],
+        "link": "https://www.meneame.net/story/alumno-agredio-llamo-guarra-amenazo-matar-hijo-diario-profesora",
+        "date": "2026-01-26 17:30:02",
+        "sentiment_score": -0.1872897446155548
+    },
+    {
+        "title": "Mourinho, el oscuro deseo de Florentino: \"José, quédate en el Real Madrid. Lo mejor está por venir\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e8f73c43-c9ea-4198-89d0-4c82d5e95b10_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "josé mourinho",
+            "fútbol",
+            "real madrid",
+            "florentino pérez",
+            "álvaro arbeloa"
+        ],
+        "link": "https://www.elperiodicodearagon.com/deportes/2026/01/27/mourinho-oscuro-deseo-florentino-real-madrid-126121935.html",
+        "date": "2026-01-27 06:49:28",
+        "sentiment_score": 0.1662508100271225
+    },
+    {
+        "title": "España solo construye de media 8.600 pisos de VPO al año, frente a los 60.000 de hace 15 años",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/af02d8bb-39c9-4d27-861f-d28c6983cbd1_16-9-aspect-ratio_default_0_x640y240.jpg",
+        "tags": [
+            "sector inmobiliario",
+            "vivienda",
+            "vpo",
+            "construcción",
+            "mercado inmobiliario",
+            "vivienda protegida"
+        ],
+        "link": "https://www.laopiniondemurcia.es/economia/2026/01/27/vivienda-protegida-problema-espana-acceso-126121857.html",
+        "date": "2026-01-27 06:45:10",
+        "sentiment_score": -0.2516327500343323
+    },
+    {
+        "title": "Renfe asegura que el servicio de Rodalies se presta hoy \"con una razonable normalidad\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/27/imagen-de-archivo-de-la-estacion-de-sants-barcelona-9763.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/renfe-asegura-servicio-rodalies-presta-hoy-con-razonable-normalidad-f202601.html",
+        "date": "2026-01-27 06:47:12",
+        "sentiment_score": 0.35200123488903046
     }
 ];
