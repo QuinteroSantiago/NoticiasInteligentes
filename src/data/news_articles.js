@@ -1,19 +1,5 @@
 export default [
     {
-        "title": "Vox se mantiene fiel a Trump aunque sus últimas medidas le creen problemas en el relato",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/27/media_thumb-link-4138985.webp?1769120946=",
-        "tags": [
-            "donald trump",
-            "problemas",
-            "relato",
-            "vox",
-            "apoyo"
-        ],
-        "link": "https://www.meneame.net/story/vox-mantiene-fiel-trump-aunque-ultimas-medidas-creen-problemas",
-        "date": "2026-01-23 12:00:02",
-        "sentiment_score": -0.6739882230758667
-    },
-    {
         "title": "Vinícius Jr. iguala registro de Xavi Hernández en la Champions League",
         "image_url": "https://pxcdn.meridiano.net/012026/1769189487706.jpg?ch=180&cw=320",
         "tags": [
@@ -353,20 +339,6 @@ export default [
         "link": "https://www.informacion.es/deportes/2026/01/23/punter-shengelia-impulsan-barca-alcanza-126024990.html",
         "date": "2026-01-23 22:00:53",
         "sentiment_score": 0.2855965197086334
-    },
-    {
-        "title": "Vox se mantiene fiel a Trump aunque sus últimas medidas le creen problemas en el relato",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/27/media_thumb-link-4138985.webp?1769120946=",
-        "tags": [
-            "donald trump",
-            "problemas",
-            "relato",
-            "vox",
-            "apoyo"
-        ],
-        "link": "https://www.meneame.net/story/vox-mantiene-fiel-trump-aunque-ultimas-medidas-creen-problemas",
-        "date": "2026-01-23 12:00:02",
-        "sentiment_score": -0.6739874184131622
     },
     {
         "title": "Vinicius Jr. podría ser fichado a cambio de una cifra récord: ofrecerían 1 billón de euros por su traspaso",
@@ -2781,5 +2753,224 @@ export default [
         "link": "https://www.granadahoy.com/ocio/pxxr-gvng-vuelve-escenarios-kaydy-cain-yung-beef-salobrena_0_2005739019.html",
         "date": "2026-01-26 21:39:01",
         "sentiment_score": -0.010592497885227203
+    },
+    {
+        "title": "Resultados, clasificación, crónica y resúmenes de la Jornada 21 de LaLiga EA Sports 25-26 | Así queda la clasificación",
+        "image_url": "https://lagrada.org/wp-content/uploads/2026/01/CARTEL-ASI-VA-LALIGA-25-26-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagrada.org/liga-jornada-21-resultados-clasificacion-cronica-resumen-partidos-valencia-cf-rcd-espanyol-lunes/",
+        "date": "2026-01-27 02:00:19",
+        "sentiment_score": -0.14791810512542725
+    },
+    {
+        "title": "Rita Maestre reaparece para presentar la campaña \"Te están robando Madrid\"",
+        "image_url": "https://s1.staticld.com/2026/01/26/vallecas.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.libertaddigital.com/madrid/2026-01-27/rita-maestre-reaparece-para-presentar-la-campana-te-estan-robando-madrid-7349644/",
+        "date": "2026-01-27 02:00:13",
+        "sentiment_score": -0.9183919727802277
+    },
+    {
+        "title": "De las 'wine moms' a las caras femeninas de los Panteras Negras: las estadounidenses toman las calles contra el ICE",
+        "image_url": "https://s3.elespanol.com/2026/01/26/actualidad/1003744104432_261100542_1706x960.jpg",
+        "tags": [
+            "donald trump",
+            "estados unidos",
+            "inmigración",
+            "actualidad"
+        ],
+        "link": "https://www.elespanol.com/mujer/actualidad/20260127/wine-moms-caras-femeninas-panteras-negras-estadounidenses-toman-calles-ice/1003744104422_0.html",
+        "date": "2026-01-27 01:49:12",
+        "sentiment_score": -0.7802611105144024
+    },
+    {
+        "title": "El Real Madrid de Arbeloa ya mejora al de Xabi Alonso: un cambio impulsado por los números y pocos ajustes",
+        "image_url": "https://s3.elespanol.com/2026/01/26/actualidad/1003744104351_261099645_1706x960.jpg",
+        "tags": [
+            "xabi alonso",
+            "fútbol",
+            "la liga",
+            "champions league",
+            "álvaro arbeloa",
+            "real madrid cf"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20260127/real-madrid-arbeloa-mejora-xabi-alonso-cambio-impulsado-numeros-pocos-ajustes/1003744104330_0.html",
+        "date": "2026-01-27 01:15:00",
+        "sentiment_score": 0.38993173837661743
+    },
+    {
+        "title": "Un nuevo tratamiento para los casos graves de enfermedad de Crohn llega a España: el 90% de los pacientes recuperó su vida",
+        "image_url": "https://s3.elespanol.com/2024/03/29/ciencia/salud/843676042_241122721_1706x960.jpg",
+        "tags": [
+            "enfermedad de crohn",
+            "colitis ulcerosa",
+            "salud",
+            "gastroenterología",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20260127/nuevo-tratamiento-casos-graves-enfermedad-crohn-llega-espana-pacientes-recupero-vida/1003744104007_0.html",
+        "date": "2026-01-27 01:10:00",
+        "sentiment_score": 0.28951573371887207
+    },
+    {
+        "title": "26 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/26-ene-2026-partidazo-cope-20260127_3294788.html",
+        "date": "2026-01-27 00:50:00",
+        "sentiment_score": 0.3959643468260765
+    },
+    {
+        "title": "Crisis diplomática entre España y Nicaragua: expulsión cruzada de embajadores y acusaciones de “injerencia”",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/27/2026012703095252280.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.mundiario.com/articulo/internacional/crisis-diplomatica-entre-espana-nicaragua-expulsion-cruzada-embajadores-acusaciones/20260127013749372248.html",
+        "date": "2026-01-27 00:37:49",
+        "sentiment_score": -0.9113994166254997
+    },
+    {
+        "title": "El programa Isla Bonita Moda del Cabildo se consolida como motor económico con una repercusión mediática de 4,2 millones de euros",
+        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2026/01/IBM-1024x768.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.elperiodicodecanarias.es/el-programa-isla-bonita-moda-del-cabildo-se-consolida-como-motor-economico-con-una-repercusion-mediatica-de-42-millones-de-euros/",
+        "date": "2026-01-27 00:23:33",
+        "sentiment_score": 0.5588973239064217
+    },
+    {
+        "title": "Papeles en cinco meses para el 60% de los inmigrantes irregulares",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/100cc57e14e19b0030a2412626aad5ec/crop/1116x125/2131x1140/f/image/jpeg/assets/multimedia/imagenes/2024/10/31/17303778454999.jpg",
+        "tags": [
+            "artículos silvia lorenzo",
+            "inmigración"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/01/27/6977c725fc6c83cb678b4592.html",
+        "date": "2026-01-27 00:03:22",
+        "sentiment_score": -0.43037956207990646
+    },
+    {
+        "title": "El Cajasiete, ante Barça, Granca y Zaragoza",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a2d400db-8dc6-4da3-84c1-7a0299dd0885_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gran canaria",
+            "clasificación",
+            "infantil",
+            "zaragoza"
+        ],
+        "link": "https://www.eldia.es/deportes-canarias/2026/01/27/cajasiete-barca-granca-zaragoza-126119065.html",
+        "date": "2026-01-27 00:03:16",
+        "sentiment_score": 0.07307418435811996
+    },
+    {
+        "title": "Primeros ceses en Renfe y Adif tras otro día de caos en Rodalies que indigna al Govern",
+        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2026/01/Primeros-ceses-en-Renfe-y-Adif-tras-otro-dia-de-caos-en-Rodalies-que-indigna-al-Govern.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.elperiodicodecanarias.es/primeros-ceses-en-renfe-y-adif-tras-otro-dia-de-caos-en-rodalies-que-indigna-al-govern/",
+        "date": "2026-01-27 02:18:33",
+        "sentiment_score": -0.17301039770245552
+    },
+    {
+        "title": "Predicción del clima: estas son las temperaturas en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
+        "tags": [
+            "barcelona",
+            "tiempo en españa",
+            "españa sociedad",
+            "españa noticias",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/27/prediccion-del-clima-estas-son-las-temperaturas-en-barcelona/",
+        "date": "2026-01-27 02:15:35",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Con todo, Europa no está tan mal",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "no",
+            "mal",
+            "europa"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/analisis/europa-no-mal_0_2005739831.html",
+        "date": "2026-01-27 02:07:04",
+        "sentiment_score": -0.7098551616072655
+    },
+    {
+        "title": "Serrat, Dalí, García Márquez, Orson Welles... los protagonistes del Archivu Colita que van quedar pa siempre nel Niemeyer",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2e3503af-d928-41ff-8fd5-64eee4e2527c_16-9-aspect-ratio_default_0_x750y375.jpg",
+        "tags": [
+            "fotografía",
+            "joan manuel serrat",
+            "orson welles",
+            "centro niemeyer"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2026/01/27/serrat-dali-garcia-marquez-orson-126047254.html",
+        "date": "2026-01-27 02:05:10",
+        "sentiment_score": -0.06180381774902344
+    },
+    {
+        "title": "Óscar Puente destituye a dos altos cargos por el caos de Rodalies pero a nadie por los 45 muertos en Córdoba",
+        "image_url": "https://s3.elespanol.com/2026/01/26/actualidad/1003744105014_261107610_1706x960.jpg",
+        "tags": [
+            "óscar puente santiago",
+            "cercanías",
+            "ministerio de transporte",
+            "adamuz",
+            "movilidad y agenda urbana",
+            "transporte ferroviario",
+            "política",
+            "adif",
+            "renfe",
+            "cataluña"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20260127/oscar-puente-destituye-altos-cargos-caos-rodalies-nadie-muertos-cordoba/1003744104991_0.html",
+        "date": "2026-01-27 01:49:24",
+        "sentiment_score": -0.8370276745408773
+    },
+    {
+        "title": "El accidente y el apagón dejan sin argumentos al Gobierno para la ‘Marca España’ más allá de la ‘macro’ en el extranjero",
+        "image_url": "https://s3.elespanol.com/2026/01/24/actualidad/1003744102721_261079583_1706x960.jpg",
+        "tags": [
+            "óscar puente santiago",
+            "adamuz",
+            "economía",
+            "accidentes de tren",
+            "marca españa",
+            "energías renovables",
+            "apagón"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/20260127/accidente-apagon-dejan-sin-argumentos-gobierno-marca-espana-alla-macro-extranjero/1003744104722_0.html",
+        "date": "2026-01-27 01:40:00",
+        "sentiment_score": -0.7205504272133112
+    },
+    {
+        "title": "Nissan, BMW, Mercedes y Volvo, únicos fabricantes que cumplen con la reducción de emisiones de Bruselas al cierre de 2025",
+        "image_url": "https://s3.elespanol.com/2025/01/03/motor/913669209_252095050_1706x960.jpg",
+        "tags": [
+            "cupra",
+            "volvo",
+            "emisiones",
+            "coche eléctrico",
+            "industria automovilística",
+            "mercedes benz",
+            "hyundai",
+            "nissan",
+            "grupo volkswagen",
+            "bmw"
+        ],
+        "link": "https://www.elespanol.com/motor/20260127/nissan-bmw-mercedes-volvo-unicos-fabricantes-cumplen-reduccion-emisiones-bruselas-cierre/1003744104137_0.html",
+        "date": "2026-01-27 01:39:50",
+        "sentiment_score": -0.007662087678909302
     }
 ];
