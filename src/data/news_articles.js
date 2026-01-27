@@ -1,154 +1,5 @@
 export default [
     {
-        "title": "'Eugenio Oneguin' de Chaikovski en Les Arts: amores suspendidos en un escenario giratorio",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/22/697253daa56e21-09912374.jpeg",
-        "tags": [
-            "artes"
-        ],
-        "link": "https://www.20minutos.es/artes/eugenio-oneguin-chaikovski-les-arts-amores-suspendidos-un-escenario-giratorio_6924506_0.html",
-        "date": "2026-01-23 06:43:36",
-        "sentiment_score": 0.014161594212055206
-    },
-    {
-        "title": "El madridismo recela de la NBA, la nueva Superliga de Florentino",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b2a32811-bfdf-439d-9a29-e603c270567e_16-9-aspect-ratio_default_0_x454y200.jpg",
-        "tags": [
-            "real madrid de baloncesto",
-            "nba",
-            "baloncesto",
-            "euroliga"
-        ],
-        "link": "https://www.laopiniondemalaga.es/deportes/2026/01/23/madridismo-recela-nba-nueva-superliga-baloncesto-125988918.html",
-        "date": "2026-01-23 06:30:13",
-        "sentiment_score": -0.2415018081665039
-    },
-    {
-        "title": "«Hay que aprovechar que el balón parado está surtiendo efecto»",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2026/01/21/1504689663-k58B-U2401023350070MKD-758x531@El%20Norte.jpg",
-        "tags": [
-            "estadio josé zorrilla",
-            "real valladolid club de fútbol",
-            "valladolid (ciudad)"
-        ],
-        "link": "https://www.elnortedecastilla.es/realvalladolid/aprovechar-balon-parado-surtiendo-efecto-20260123072744-nt.html",
-        "date": "2026-01-23 06:27:47",
-        "sentiment_score": 0.14903248101472855
-    },
-    {
-        "title": "El magistrado que redactará la sentencia de la Kitchen superará la fecha de jubilación en pleno juicio",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a1277977-eb16-4ef7-9397-0088b602efa6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fiscalía anticorrupción",
-            "pp",
-            "corrupción del pp",
-            "villarejo",
-            "caso villarejo",
-            "josé villarejo",
-            "audiencia nacional",
-            "josé manuel villarejo"
-        ],
-        "link": "https://www.lacronicabadajoz.com/nacional/2026/01/23/magistrado-redactara-sentencia-kitchen-superara-125988831.html",
-        "date": "2026-01-23 06:26:46",
-        "sentiment_score": -0.01368483155965805
-    },
-    {
-        "title": "Nuevo accidente de tren en Asturias: un convoy de cercanías choca contra un desprendimiento a la salida de un túnel",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2026/01/23/6973188a4f222.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20260123/1002606774/nuevo-accidente-tren-asturias-convoy-cercanias-choca-desprendimiento-salida-tunel-dct.html",
-        "date": "2026-01-23 06:45:23",
-        "sentiment_score": -0.903566719032824
-    },
-    {
-        "title": "Rodalies recupera la circulación en Cataluña",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/23/697313caf2ba8.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/noticias/rodalies-recupera-circulacion-cataluna-paron-provocado-accidente-mortal-gelida-20260123_3292673.html",
-        "date": "2026-01-23 06:44:24",
-        "sentiment_score": -0.15495844185352325
-    },
-    {
-        "title": "Rodalies restablece el servicio con circulaciones reducidas de dos trenes por sentido en las líneas R1 y R4",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1fee70db-03fb-4808-b58c-200bc19e14c0_16-9-aspect-ratio_default_0_x609y270.jpg",
-        "tags": [
-            "barcelona",
-            "trenes",
-            "rodalies",
-            "cataluña",
-            "renfe"
-        ],
-        "link": "https://www.laopiniondemalaga.es/economia/2026/01/23/rodalies-restablece-servicio-circulaciones-reducidas-trenes-cataluna-125989025.html",
-        "date": "2026-01-23 06:43:25",
-        "sentiment_score": -0.7248911969363689
-    },
-    {
-        "title": "Rodalies restablece por completo el servicio de cercanías en Cataluña",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/rodalies-barcelona-servicio.jpg",
-        "tags": [
-            "cercanías",
-            "adif",
-            "cataluña",
-            "transporte",
-            "maquinistas",
-            "rodalies",
-            "generalitat de cataluña",
-            "accidentes"
-        ],
-        "link": "https://theobjective.com/espana/cataluna/2026-01-23/rodalies-restablece-completo-servicio-cercanias-cataluna/",
-        "date": "2026-01-23 06:42:39",
-        "sentiment_score": -0.10866905003786087
-    },
-    {
-        "title": "Los Mossos investigan la muerte violenta de una mujer en un local de L'Hospitalet",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/1d5b6c7eb452299dca626de8174a4e23/crop/0x450/2179x1903/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/23/17691504453437.jpg",
-        "tags": [
-            "cataluña",
-            "mossos d&#039;esquadra",
-            "sucesos"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2026/01/23/6973181ffdddffdf298b4598.html",
-        "date": "2026-01-23 06:41:37",
-        "sentiment_score": -0.24892707541584969
-    },
-    {
-        "title": "José Antonio Maldonado, meteorólogo, avisa de un frente polar en medio de la borrasca Ingrid: \"En estas zonas no sería extraño que cayese nieve\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/23/69730de409f02.jpeg",
-        "tags": [
-            "herrera en cope"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/noticias/jose-antonio-maldonado-meteorologo-avisa-frente-polar-medio-borrasca-ingrid-zonas-seria-extrano-cayese-nieve-20260123_3292670.html",
-        "date": "2026-01-23 06:37:41",
-        "sentiment_score": -0.11629828810691833
-    },
-    {
-        "title": "Cuenta atrás en Can Barça: Dro Fernández vive su peor momento y el PSG aguarda la firma",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/23/2026012307312264162.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/dro-fernandez-vive-pesadilla-can-barca-cuando-cierra-salida-rumbo-psg/20260123073543371777.html",
-        "date": "2026-01-23 06:35:43",
-        "sentiment_score": -0.8589117834344506
-    },
-    {
-        "title": "Rodalies restablece por completo el servicio de cercanías en Catalunya",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/cd7a9459-9d0e-4a5b-9378-cc88e835e47d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cercanias",
-            "servicio",
-            "completo",
-            "rodalies",
-            "restablece"
-        ],
-        "link": "https://www.deia.eus/actualidad/sociedad/2026/01/23/rodalies-restablece-completo-servicio-cercanias-10606295.html",
-        "date": "2026-01-23 06:34:14",
-        "sentiment_score": -0.0021751075983047485
-    },
-    {
         "title": "Vox se mantiene fiel a Trump aunque sus últimas medidas le creen problemas en el relato",
         "image_url": "https://cdn.mnmstatic.net/cache/3f/27/media_thumb-link-4138985.webp?1769120946=",
         "tags": [
@@ -2698,5 +2549,237 @@ export default [
         "link": "https://www.europapress.es/catalunya/noticia-restablecida-circulacion-r2-sud-garraf-sitges-barcelona-ambas-vias-20260126180544.html",
         "date": "2026-01-26 17:05:44",
         "sentiment_score": -0.5017170570790768
+    },
+    {
+        "title": "«Un alumno me agredió, me llamó guarra y amenazó con matar a mi hijo»: el diario de una profesora de instituto",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/2b/media_thumb-link-4140018.webp?1769411826=",
+        "tags": [
+            "alumnos",
+            "profesores",
+            "actualidad",
+            "fiscalía de menores"
+        ],
+        "link": "https://www.meneame.net/story/alumno-agredio-llamo-guarra-amenazo-matar-hijo-diario-profesora",
+        "date": "2026-01-26 17:30:02",
+        "sentiment_score": -0.1872905194759369
+    },
+    {
+        "title": "Develan dónde se jugará la final de la Mundial FIFA 2030",
+        "image_url": "https://pxcdn.meridiano.net/012026/1769466037110.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/develan-donde-se-jugara-la-final-de-la-mundial-fifa-2030-202612618220",
+        "date": "2026-01-26 22:22:00",
+        "sentiment_score": 0.13248471170663834
+    },
+    {
+        "title": "España acogerá la final del Mundial 2030: Madrid y Barcelona pugnan por la sede",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/26/el-presidente-de-la-rfef-rafael-louzan.jpeg",
+        "tags": [
+            "deporte"
+        ],
+        "link": "https://www.huffingtonpost.es/deporte/final-mundial-2030-espana-madrid-barcelona-f202601.html",
+        "date": "2026-01-26 22:17:03",
+        "sentiment_score": -0.41226813569664955
+    },
+    {
+        "title": "La final del Mundial 2030 se disputará en España",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/df10376c-c500-4be8-991f10d264de49ac.jpg",
+        "tags": [
+            "copa del mundo",
+            "real federación española de fútbol",
+            "mundial 2030",
+            "mundial de fútbol",
+            "uruguay",
+            "marruecos",
+            "áfrica",
+            "portugal",
+            "españa",
+            "rafael louzán"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z5aa34a71-3e4d-4cb5-b33d8b47863ff937/202601/la-final-del-mundial-2030-se-disputara-en-espana",
+        "date": "2026-01-26 22:11:11",
+        "sentiment_score": 0.657699640840292
+    },
+    {
+        "title": "Trabajo asegura que el incentivo fiscal a empresas ligado al SMI impulsará la subida de salarios",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/EuropaPress_7124917_vicepresidenta_segunda_ministra_trabajo_economia_social_yolanda_diaz_rueda.jpg",
+        "tags": [
+            "economía",
+            "smi"
+        ],
+        "link": "https://www.lanzadigital.com/economia/trabajo-asegura-que-el-incentivo-fiscal-a-empresas-ligado-al-smi-impulsara-la-subida-de-salarios/",
+        "date": "2026-01-26 22:10:27",
+        "sentiment_score": -0.038935065269470215
+    },
+    {
+        "title": "El pagador de Zapatero mediaba con Venezuela y ocultaba más de 300.000 euros en 'cash'",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/0b97729c36c45af6df21589868b134ca/crop/1335x0/2194x859/f/image/jpeg/assets/multimedia/imagenes/2022/04/07/16493333774499.jpg",
+        "tags": [
+            "josé luis rodríguez zapatero",
+            "plus ultra",
+            "artículos esteban urreiztieta",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/01/26/6977a652e9cf4aaa468b4584.html",
+        "date": "2026-01-26 21:57:42",
+        "sentiment_score": -0.20235683023929596
+    },
+    {
+        "title": "Louzán confirma que la final del Mundial 2030 se disputará en España",
+        "image_url": "https://cflvdg.avoz.es/sc/lBlFUXfY1ouIX1ZoyVEGhiriki0=/768x/2026/01/26/00121769464441395490932/Foto/eup_20260126_213423086.jpg",
+        "tags": [
+            "deportes",
+            "mundial 2030",
+            "rafael louzán"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/26/louzan-confirma-final-mundial-2030-disputara-espana/00031769464381921117554.htm",
+        "date": "2026-01-26 21:54:00",
+        "sentiment_score": -0.891070588491857
+    },
+    {
+        "title": "La RFEF asegura que la final del Mundial 2030 será en España tras el bochorno de la Copa África en Marruecos",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2701007.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/la-rfef-asegura-que-la-final-del-mundial-2030-sera-en-espana-tras-el-bochorno-de-la-copa-africa-en-marruecos.html",
+        "date": "2026-01-26 21:52:07",
+        "sentiment_score": 0.1188407763838768
+    },
+    {
+        "title": "Rafael Louzán: \"España liderará el Mundial 2030 y aquí se celebrará la final\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/26/6977e0396704c.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/rafael-louzan-espana-liderara-mundial-2030-celebrara-final-20260126_3294758.html",
+        "date": "2026-01-26 21:45:39",
+        "sentiment_score": 0.021494060754776
+    },
+    {
+        "title": "Louzán confirma que la final del Mundial de fútbol 2030 se jugará en España",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0a52586d-1fba-4df9-b367-95b22bc55172_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "deportes",
+            "mundial 2030",
+            "mundial de fútbol",
+            "rfef",
+            "españa"
+        ],
+        "link": "https://www.farodevigo.es/deportes/2026/01/26/louzan-confirma-final-mundial-futbol-2030-jugara-espana-126117575.html",
+        "date": "2026-01-26 21:43:10",
+        "sentiment_score": 0.07702025026082993
+    },
+    {
+        "title": "El tremendo elogio de Flavio Briatore a Colapinto: cómo maduró y el dato que lo colocó a la par de Pierre Gasly en la F1",
+        "image_url": "https://www.infobae.com/resizer/v2/AJ3AASUMBNAD3KDVH6REQCZBNM.JPG?auth=65a7ef1543eb3df3e254ec4091e21275fbcfea9e6777baeefeaa6e2f35ff86ce&height=2250&smart=true&width=4000",
+        "tags": [
+            "franco colapinto",
+            "deportes-internacional",
+            "alpine f1 team",
+            "fórmula 1",
+            "pierre gasly",
+            "flavio briatore"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/26/el-tremendo-elogio-de-flavio-briatore-a-colapinto-como-maduro-y-el-dato-que-lo-coloco-a-la-par-de-pierre-gasly-en-la-f1/",
+        "date": "2026-01-26 22:18:47",
+        "sentiment_score": 0.8484598826617002
+    },
+    {
+        "title": "Barcelona tiene menos escuelas de alta complejidad con buenos resultados académicos que Tarragona, Lleida y Girona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5d64713b-6f02-4023-911d-caab9272ee65_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "club de educación y crianza",
+            "girona",
+            "pobreza",
+            "esade",
+            "barcelona",
+            "buena educación",
+            "tarragona",
+            "educación en catalunya",
+            "lleida",
+            "maestros y profesores",
+            "educación",
+            "colegios"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260127/escuelas-cataluna-alumnos-vulnerables-exito-escolar-informe-esade-126002886",
+        "date": "2026-01-26 22:01:01",
+        "sentiment_score": -0.04734644293785095
+    },
+    {
+        "title": "Dro Fernández abandona el Barça y ficha por el Paris Saint-Germain",
+        "image_url": "https://www.infobae.com/resizer/v2/76F6XMU2UVCT3AQ3UWYB7XEDLI.jpg?auth=9da8d161df6c75c5272fe2e5f74445db4c2adc29d69caa0deb7ff803251de5d7&height=1281&smart=true&width=1920",
+        "tags": [
+            "hansi flick",
+            "paris saint-germain",
+            "europapress",
+            "nigrán",
+            "fútbol",
+            "fc barcelona",
+            "fichaje",
+            "dro fernández",
+            "uefa youth league",
+            "japón",
+            "ed val miñor"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/26/dro-fernandez-abandona-el-barca-y-ficha-por-el-paris-saint-germain/",
+        "date": "2026-01-26 22:00:27",
+        "sentiment_score": 0.16456778347492218
+    },
+    {
+        "title": "El Ceuta recupera sus buenas sensaciones frente a la Cultural",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/26/6977e1d852566.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/ceuta-recupera-buenas-sensaciones-frente-cultural-20260126_3294760.html",
+        "date": "2026-01-26 21:53:10",
+        "sentiment_score": -0.021393656730651855
+    },
+    {
+        "title": "Puente, bajo presión: socios y oposición sitúan al ministro en el centro de la crisis ferroviaria",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/27/2026012702065759653.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/puente-presion-socios-oposicion-situan-ministro-centro-crisis-ferroviaria/20260126224758372241.html",
+        "date": "2026-01-26 21:47:58",
+        "sentiment_score": -0.9293547589331865
+    },
+    {
+        "title": "Cuatro agraciados en el sorteo de La Primitiva ganan 36.900 este lunes",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2026/01/05/loterias-kRnC-U240751657780JqG-1200x840@Hoy.jpg",
+        "tags": [
+            "primitiva"
+        ],
+        "link": "https://www.hoy.es/sociedad/cuatro-agraciados-sorteo-primitiva-ganan-36900-lunes-20260126224537-nt.html",
+        "date": "2026-01-26 21:45:40",
+        "sentiment_score": 0.0769006684422493
+    },
+    {
+        "title": "Las 5 giras de conciertos más esperadas de 2026",
+        "image_url": "https://media.elestimulo.com/uploads/2025/07/liam-oasis-1100x572.webp",
+        "tags": [
+            "conciertos",
+            "bad bunny",
+            "oasis",
+            "música"
+        ],
+        "link": "https://elestimulo.com/ub/melomania/2026-01-26/las-5-giras-de-conciertos-mas-esperadas-de-2026/",
+        "date": "2026-01-26 21:44:15",
+        "sentiment_score": 0.35199495032429695
+    },
+    {
+        "title": "Pxxr Gvng vuelve a los escenarios ocho años después y lo hará en Salobreña",
+        "image_url": "https://static.grupojoly.com/clip/d71e551e-e90b-4936-9c16-bfbdd6893617_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "música granada"
+        ],
+        "link": "https://www.granadahoy.com/ocio/pxxr-gvng-vuelve-escenarios-kaydy-cain-yung-beef-salobrena_0_2005739019.html",
+        "date": "2026-01-26 21:39:01",
+        "sentiment_score": -0.010592497885227203
     }
 ];
