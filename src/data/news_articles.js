@@ -1,346 +1,5 @@
 export default [
     {
-        "title": "El Madrid aprovecha una gran primera mitad y roba el 'average' al Mónaco",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7aee4f28-a92f-464f-9860-d0a475221fbd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real madrid,euroliga"
-        ],
-        "link": "https://www.superdeporte.es/baloncesto/2026/01/22/madrid-aprovecha-gran-primera-mitad-125985314.html",
-        "date": "2026-01-22 22:22:17",
-        "sentiment_score": 0.8246721364557743
-    },
-    {
-        "title": "Rodalies pone esta noche en marcha la R2 norte y el viernes funcionará el resto de la red",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/07f631c1588ee8888f8703331dce22a8/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/22/17691201695869.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/01/22/6972a1e621efa011748b4591.html",
-        "date": "2026-01-22 22:17:12",
-        "sentiment_score": 0.0926414430141449
-    },
-    {
-        "title": "Las Cercanías catalanas empiezan a operar de nuevo tras el caos ferroviario total de la red",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/9954f4a01689f24c9b1236baaaad93b1/crop/0x0/2048x1365/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/22/17691196753362.jpg",
-        "tags": [
-            "renfe>",
-            "empresas>",
-            "transporte y turismo>",
-            "cataluña>",
-            "artículos david casals>"
-        ],
-        "link": "https://www.expansion.com/catalunya/2026/01/22/69729fe7e5fdea707d8b45c1.html",
-        "date": "2026-01-22 22:10:29",
-        "sentiment_score": -0.2774338126182556
-    },
-    {
-        "title": "El Barça de basket extiende su alianza con la Euroliga: portazo a la NBA Europa",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/07/culemania/palco/1003742705707_15381261_1706x960.jpg",
-        "tags": [
-            "nba",
-            "fcb basket",
-            "secciones",
-            "baloncesto"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260122/barca-extiende-alianza-euroliga-portazo-nba-europa/1003742725921_0.html",
-        "date": "2026-01-22 22:06:09",
-        "sentiment_score": -0.7194610498845577
-    },
-    {
-        "title": "Rousaud prepara la recompra de Factorenergia de la mano de varios ‘family offices’",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/22/69727c2e9d093.r_d.466-270-4885.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20260122/11446971/rousaud-prepara-recompra-factorenergia-mano-family-offices.html",
-        "date": "2026-01-22 22:04:02",
-        "sentiment_score": 0.3618610054254532
-    },
-    {
-        "title": "La investigación del accidente descubre que sensores de trenes previos detectaron anomalías en el punto del carril roto",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/7c795bbc3e0bb54086ee52a89e08ab49/f/image/jpeg/assets/multimedia/imagenes/2024/01/17/17055016058889.jpg",
-        "tags": [
-            "nlpremium",
-            "artículos jaime rodríguez",
-            "artículos césar urrutia"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/01/22/69728051e9cf4a9a248b45c3.html",
-        "date": "2026-01-22 21:52:22",
-        "sentiment_score": -0.017558254301548004
-    },
-    {
-        "title": "Semaf reclama más seguridad ferroviaria tras los accidentes",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/01/22/2026012222493234028.jpg",
-        "tags": [
-            "noticias en la red"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/semaf-reclama-mas-seguridad-ferroviaria-accidentes/20260122224932439755.html",
-        "date": "2026-01-22 21:49:32",
-        "sentiment_score": -0.8352615255862474
-    },
-    {
-        "title": "Laporta convoca elecciones al FC Barcelona el 15 de marzo",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/01/22/2026012222485160739.jpg",
-        "tags": [
-            "noticias en la red"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/laporta-convoca-elecciones-fc-barcelona-15-marzo/20260122224851439749.html",
-        "date": "2026-01-22 21:48:51",
-        "sentiment_score": 0.3599059395492077
-    },
-    {
-        "title": "Rodalies recupera una línea y espera retomar el resto este viernes",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/22/69729ac1c2bc4.jpeg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/noticias/rodalies-recupera-linea-espera-retomar-resto-servicios-cercanias-cataluna-viernes-20260122_3292613.html",
-        "date": "2026-01-22 21:46:46",
-        "sentiment_score": -0.10305851697921753
-    },
-    {
-        "title": "Feijóo pide al Gobierno un diálogo leal con los maquinistas",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/01/22/2026012222461058385.jpg",
-        "tags": [
-            "noticias en la red"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/feijoo-pide-gobierno-dialogo-leal-maquinistas/20260122224611439729.html",
-        "date": "2026-01-22 21:46:11",
-        "sentiment_score": -0.894773998297751
-    },
-    {
-        "title": "El barrio de San Juanillo de Palencia reparte otro premio de lotería",
-        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2026/01/22/admonLoteriaConchi01-kwFB-U20288105232e1-758x531@El%20Norte.jpg",
-        "tags": [
-            "loterías y apuestas del estado",
-            "palencia",
-            "dos hermanas",
-            "jaén (provincia)"
-        ],
-        "link": "https://www.elnortedecastilla.es/palencia/barrio-san-juanillo-palencia-reparte-premio-loteria-20260122222646-nt.html",
-        "date": "2026-01-22 21:26:51",
-        "sentiment_score": 0.11326449364423752
-    },
-    {
-        "title": "Los 'okupas' no llegan a Soria: la única capital de provincia sin viviendas 'okupadas' en venta",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
-        "tags": [
-            "artículos daniela saltos",
-            "vivienda",
-            "okupas"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/01/23/69720461fc6c83e1568b4584.html",
-        "date": "2026-01-23 02:09:43",
-        "sentiment_score": 0.16048013418912888
-    },
-    {
-        "title": "Agenda: qué hacer hoy viernes 23 de enero en Asturias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5b4f638b-abb9-432b-b030-b95ede353956_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "festivos",
-            "exposición",
-            "asturias",
-            "horario"
-        ],
-        "link": "https://www.lne.es/asturias/2026/01/23/agenda-hoy-viernes-23-enero-125980353.html",
-        "date": "2026-01-23 02:09:42",
-        "sentiment_score": -0.06353936716914177
-    },
-    {
-        "title": "Un ministro saboteador",
-        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ministro",
-            "saboteador"
-        ],
-        "link": "https://www.malagahoy.es/opinion/articulos/ministro-saboteador_0_2005708382.html",
-        "date": "2026-01-23 02:06:47",
-        "sentiment_score": -0.542274534702301
-    },
-    {
-        "title": "Proyecto Caetra: nace una plataforma que coordina los diferentes servicios ante catástrofes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4fd7d15c-fa96-430c-99ba-dd041f1eab2e_16-9-discover-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "valencia",
-            "crisis",
-            "aplicaciones",
-            "bomberos",
-            "internet",
-            "vecinos"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260123/proyecto-caetra-nace-plataforma-coordina-125925552",
-        "date": "2026-01-23 01:59:37",
-        "sentiment_score": 0.09755560755729675
-    },
-    {
-        "title": "Crece la polémica sobre si la tardanza en detectar el Alvia accidentado costó vidas: \"Nadie sabía que había otro tren\"",
-        "image_url": "https://s3.elespanol.com/2026/01/22/actualidad/1003744100607_261050733_1706x960.jpg",
-        "tags": [
-            "gobierno de españa",
-            "fernando grande-marlaska",
-            "accidentes de tren",
-            "adif",
-            "guardia civil",
-            "observatorio de la movilidad"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20260123/crece-polemica-tardanza-detectar-alvia-accidentado-costo-vidas-nadie-sabia-tren/1003744100583_0.html",
-        "date": "2026-01-23 01:44:28",
-        "sentiment_score": -0.4422136154025793
-    },
-    {
-        "title": "El Madrid aprovecha una gran primera mitad y roba el 'average' al Mónaco",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/23/6972cab48c7d2.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.eldebate.com/deportes/baloncesto/20260123/madrid-aprovecha-gran-primera-mitad-roba-average-monaco_377336.html",
-        "date": "2026-01-23 01:11:30",
-        "sentiment_score": -0.7718134857714176
-    },
-    {
-        "title": "El Barça de Hansi Flick y el Camp Nou, los dos grandes pilares de Laporta para revalidar la presidencia",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/12/culemania/palco/1003742722647_15592604_1706x960.jpg",
-        "tags": [
-            "fc barcelona",
-            "junta directiva del barça",
-            "joan laporta",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260123/barca-hansi-flick-camp-nou-laporta-presidencia/1003742725926_0.html",
-        "date": "2026-01-23 01:06:45",
-        "sentiment_score": 0.6892186589539051
-    },
-    {
-        "title": "Real Madrid-Mónaco: Venganza, basketaverage y la sexta seguida (90-78)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1689x554:1691x552)/origin-imgresizer.eurosport.com/2026/01/23/image-9dc9b1e4-696d-4935-8940-83fbff8e300e-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.eurosport.es/baloncesto/euroliga/2025-2026/real-madrid-monaco-video-resumen-mejores-canastas-y-resultado-venganza-basketaverage-y-la-sexta-seguida-90-78-euroliga-20252026_vid60048846/video.shtml",
-        "date": "2026-01-23 01:01:28",
-        "sentiment_score": 0.42381778359413147
-    },
-    {
-        "title": "'Grito, boda y sangre': García Lorca desde los márgenes y en lengua de signos",
-        "image_url": "https://s3.elespanol.com/2026/01/20/actualidad/1003744097081_261006990_1706x960.jpg",
-        "tags": [
-            "federico garcía lorca",
-            "estrenos de teatro",
-            "cdn centro dramático nacional",
-            "teatro"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/escenarios/teatro/20260123/grito-boda-sangre-garcia-lorca-margenes-lengua-signos/1003744097012_0.html",
-        "date": "2026-01-23 00:55:00",
-        "sentiment_score": 0.3050457686185837
-    },
-    {
-        "title": "Otra figura de la Selección encendió las alarmas por una lesión: pidió el cambio a los seis minutos de haber ingresado",
-        "image_url": "https://www.infobae.com/resizer/v2/N5CAKUJKAJHVNJKXXP2ELM3Q3A.JPG?auth=4fb92f8897980dc3918520d8481bcf717daa1333b13eb75821e27fb3759d5e0c&height=1298&smart=true&width=2308",
-        "tags": [
-            "uefa europa league",
-            "deportes-argentina",
-            "real betis",
-            "selección argentina",
-            "giovani lo celso"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/23/otra-figura-de-la-seleccion-encendio-las-alarmas-por-una-lesion-pidio-el-cambio-a-los-seis-minutos-de-haber-ingresado/",
-        "date": "2026-01-23 02:15:13",
-        "sentiment_score": -0.746007164940238
-    },
-    {
-        "title": "Elecciones en el FC Barcelona: Joan Laporta anuncia que las urnas decidirán el futuro del club",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "fc barcelona",
-            "barcelona",
-            "caso negreira",
-            "elecciones en el fc barcelona",
-            "joan laporta",
-            "españa",
-            "cataluña"
-        ],
-        "link": "https://2001online.com/deportes/elecciones-en-el-fc-barcelona-joan-laporta-anuncia-que-las-urnas-decidiran-el-futuro-del-club-20261222300",
-        "date": "2026-01-23 02:13:06",
-        "sentiment_score": 0.2514621801674366
-    },
-    {
-        "title": "El ministro pícaro y el catalán impresentable",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ministro",
-            "impresentable",
-            "catalan",
-            "picaro"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/ministro-picaro-catalan-impresentable_0_2005708326.html",
-        "date": "2026-01-23 02:06:14",
-        "sentiment_score": -0.1388511210680008
-    },
-    {
-        "title": "El Calatrava de Oviedo, un edificio hecho a la medida para albergar la Agencia de Salud Pública: metros cuadrados, parking, salón de actos...",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cc6a4aef-ef27-40c9-ac28-400d478d2f0a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ministerio",
-            "salud pública",
-            "calatrava",
-            "salud"
-        ],
-        "link": "https://www.lne.es/oviedo/2026/01/23/calatrava-oviedo-edificio-hecho-medida-125974605.html",
-        "date": "2026-01-23 01:59:11",
-        "sentiment_score": -0.030313104391098022
-    },
-    {
-        "title": "El devastador temporal en Mozambique deja 124 muertos y 723.000 afectados",
-        "image_url": "https://www.cronicabalear.es/access/public/img/noticias/upload/0_1769108888.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.cronicabalear.es/mallorca/2026-01-22/el-devastador-temporal-en-mozambique-deja-124-muertos-y-723000-afectados/",
-        "date": "2026-01-23 01:57:35",
-        "sentiment_score": -0.8561134729534388
-    },
-    {
-        "title": "El último informe de Seguridad Ferroviaria pide más \"vigilancia\" por el \"control inadecuado de materiales\" de los contratistas",
-        "image_url": "https://s3.elespanol.com/2026/01/22/actualidad/1003744100454_261048901_1706x960.jpg",
-        "tags": [
-            "comisiones de investigación",
-            "renfe",
-            "accidentes de tren",
-            "adif",
-            "política",
-            "óscar puente santiago"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20260123/ultimo-informe-seguridad-ferroviaria-pide-vigilancia-control-inadecuado-materiales-contratistas/1003744100272_0.html",
-        "date": "2026-01-23 01:44:26",
-        "sentiment_score": -0.8304493948817253
-    },
-    {
-        "title": "Para tranquilidad de los viajeros en Alta velocidad: ¡por favor, ministro Puente, dimita!",
-        "image_url": "https://s3.elespanol.com/2026/01/22/actualidad/1003744099527_261037075_1706x960.jpg",
-        "tags": [
-            "columnas de opinión",
-            "opinión",
-            "óscar puente santiago",
-            "trenes"
-        ],
-        "link": "https://www.elespanol.com/invertia/opinion/20260123/tranquilidad-viajeros-alta-velocidad-favor-ministro-puente-dimita/1003744099488_13.html",
-        "date": "2026-01-23 01:40:14",
-        "sentiment_score": 0.31252139806747437
-    },
-    {
-        "title": "Golpe español a la diabetes: una nueva terapia 'reprograma' las células de la piel para que produzcan insulina",
-        "image_url": "https://s3.elespanol.com/2026/01/22/actualidad/1003744100350_261047250_1706x960.jpg",
-        "tags": [
-            "células madre",
-            "diabetes",
-            "salud"
-        ],
-        "link": "https://www.elespanol.com/ciencia/salud/20260123/golpe-espanol-diabetes-nueva-terapia-reprograma-celulas-piel-produzcan-insulina/1003744100337_0.html",
-        "date": "2026-01-23 01:10:00",
-        "sentiment_score": 0.15975134074687958
-    },
-    {
         "title": "'Eugenio Oneguin' de Chaikovski en Les Arts: amores suspendidos en un escenario giratorio",
         "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/22/697253daa56e21-09912374.jpeg",
         "tags": [
@@ -2804,5 +2463,240 @@ export default [
         "link": "https://www.laprovincia.es/sociedad/2026/01/26/suspendido-nuevo-cataluna-servicio-rodalies-126083396.html",
         "date": "2026-01-26 06:28:05",
         "sentiment_score": -0.1293625310063362
+    },
+    {
+        "title": "El Gobierno español aprobará este martes una regularización extraordinaria de migrantes tras pactarlo con Podemos",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/dd10adf9-2110-48e5-b086-45bd3059fbae_16-9-aspect-ratio_default_0_x2219y0.jpg",
+        "tags": [
+            "migrantes",
+            "gobierno",
+            "espanol",
+            "regularizacion",
+            "aprobara",
+            "martes"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/politica/2026/01/26/gobierno-espanol-aprobara-martes-regularizacion-migrantes-10620285.html",
+        "date": "2026-01-26 17:18:15",
+        "sentiment_score": 0.23676923289895058
+    },
+    {
+        "title": "Real Madrid-Unicaja y Valencia-Joventut, en cuartos de Copa",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/92b9111f-d851-437c-9a3ab7669758a4fd.jpg",
+        "tags": [
+            "valencia basket",
+            "unicaja",
+            "copa del rey",
+            "baloncesto",
+            "real madrid",
+            "ucam murcia",
+            "liga endesa",
+            "fc barcelona",
+            "badalona",
+            "murcia",
+            "gran canaria",
+            "liga acb",
+            "tenerife",
+            "baskonia",
+            "generalitat valenciana"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z189d7fa6-f56e-4b2b-a556c1180bc742fe/202601/real-madrid-unicaja-y-valencia-joventut-en-cuartos-de-copa",
+        "date": "2026-01-26 17:17:12",
+        "sentiment_score": -0.018530361354351044
+    },
+    {
+        "title": "Podemos anuncia un pacto con el PSOE para que el Gobierno apruebe un decreto de regularización de migrantes",
+        "image_url": "https://www.infobae.com/resizer/v2/DLX7PNW4H5HJHLRLM3VBOQHM4E.jpg?auth=4c2bb3555305c2dfd62eb466e28dee50cd2f371793a28eb1e6d007101fbb13ae&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/26/podemos-anuncia-un-pacto-con-el-psoe-para-que-el-gobierno-apruebe-un-decreto-de-regularizacion-de-migrantes/",
+        "date": "2026-01-26 17:16:27",
+        "sentiment_score": -0.0609126091003418
+    },
+    {
+        "title": "TCL refuerza su estrategia de expansión en España con la inauguración de sus nuevas oficinas en Madrid",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260126180356_690.jpg",
+        "tags": [
+            "portaltic",
+            "empresas"
+        ],
+        "link": "https://www.europapress.es/portaltic/empresas/noticia-tcl-refuerza-estrategia-expansion-espana-inauguracion-nuevas-oficinas-madrid-20260126180356.html",
+        "date": "2026-01-26 17:03:56",
+        "sentiment_score": 0.7406193232163787
+    },
+    {
+        "title": "Podemos anuncia un pacto con el PSOE para regularizar a las personas migrantes que están en España",
+        "image_url": "https://static1.ara.cat/clip/8cbdddce-74b6-4e08-8eab-24a61038bc1f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "irregulares",
+            "espana",
+            "pacto",
+            "regularizar",
+            "anuncia",
+            "psoe",
+            "migrantes"
+        ],
+        "link": "https://es.ara.cat/politica/anuncia-pacto-psoe-regularizar-migrantes-irregulares-espana_1_5629388.html",
+        "date": "2026-01-26 17:03:26",
+        "sentiment_score": -0.22255893051624298
+    },
+    {
+        "title": "El Ministerio de Justicia creará cinco plazas de jueces en Jerez",
+        "image_url": "https://static.grupojoly.com/clip/35e41960-d307-4a9a-a9d3-a166e19390bb_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tribunales jerez",
+            "últimas noticias jerez"
+        ],
+        "link": "https://www.diariodejerez.es/jerez/ministerio-justicia-creara-cinco-plazas-jueces-jerez_0_2005736839.html",
+        "date": "2026-01-26 17:03:16",
+        "sentiment_score": -0.18414366245269775
+    },
+    {
+        "title": "El Real Madrid quiere consolidarse también a domicilio",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260126180214_690.jpg",
+        "tags": [
+            "deportes",
+            "baloncesto"
+        ],
+        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-real-madrid-quiere-consolidarse-tambien-domicilio-20260126180214.html",
+        "date": "2026-01-26 17:02:14",
+        "sentiment_score": -0.23951636254787445
+    },
+    {
+        "title": "Sánchez regularizará a 500.000 inmigrantes ilegales mediante ‘decretazo’ para eludir al Congreso",
+        "image_url": "https://okdiario.com/img/2023/01/28/monterosanchez.jpg",
+        "tags": [
+            "pedro sánchez",
+            "españa",
+            "gobierno",
+            "podemos",
+            "irene montero"
+        ],
+        "link": "https://okdiario.com/espana/sanchez-regularizara-500-000-inmigrantes-ilegales-mediante-decretazo-eludir-congreso-16139269",
+        "date": "2026-01-26 17:01:34",
+        "sentiment_score": -0.09887023270130157
+    },
+    {
+        "title": "El Gobierno se cobra la cabeza de dos cargos medios para sofocar la tensión con la Generalitat por el caos en Rodalies",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2026/01/5819f76623d3ae45db456b7cf95bccecd2d49a92-1440x808.jpg",
+        "tags": [
+            "salvador illa",
+            "partido socialista obrero español (psoe)",
+            "gobierno de españa",
+            "adif",
+            "óscar puente",
+            "generalitat cataluña",
+            "pedro sánchez",
+            "renfe",
+            "transportes",
+            "cataluña",
+            "españa",
+            "partido de los socialistas de cataluña (psc)"
+        ],
+        "link": "https://www.elindependiente.com/espana/2026/01/26/el-gobierno-se-cobra-la-cabeza-de-dos-cargos-medios-para-intentar-sofocar-la-tension-con-la-generalitat-por-rodalies/",
+        "date": "2026-01-26 17:18:58",
+        "sentiment_score": -0.9208559840917587
+    },
+    {
+        "title": "Lamine Yamal vuelve a ser «de otra galaxia»",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/26/Clipboard-0178-kwVC-U20353730839yjF-1200x840@RC.jpg",
+        "tags": [
+            "flick",
+            "liga de fútbol profesional",
+            "f.c. barcelona",
+            "lamine yamal",
+            "copa del rey de fútbol"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-primera/lamine-yamal-vuelve-galaxia-20260126181245-ntrc.html",
+        "date": "2026-01-26 17:17:48",
+        "sentiment_score": 0.7280712351202965
+    },
+    {
+        "title": "Sheinbaum pide por carta al primer ministro surcoreano que BTS añada más paradas en México en su gira mundial de 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/2X7GQHFXIZBZ3M2SPZJLYR5OUI.jpg?auth=4cc0eccde3370fce866804f14c5359ba6d15c3d60cbb8dee474768d5aa6a0b5f&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/26/sheinbaum-pide-por-carta-al-primer-ministro-surcoreano-que-bts-anada-mas-paradas-en-mexico-en-su-gira-mundial-de-2026/",
+        "date": "2026-01-26 17:15:51",
+        "sentiment_score": 0.0776723325252533
+    },
+    {
+        "title": "Toco toco to: Rawayana le pone lugar y fecha al after",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/26125431/rawayana.-.jpg",
+        "tags": [
+            "entretenimiento",
+            "música",
+            "rawayana",
+            "¿dónde es el after?"
+        ],
+        "link": "https://www.elnacional.com/2026/01/rawayana-le-pone-lugar-y-fecha-al-after/",
+        "date": "2026-01-26 17:15:38",
+        "sentiment_score": 0.058403678238391876
+    },
+    {
+        "title": "La banda venezolana Rawayana actuará en mayo en Madrid y Barcelona",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260126181508_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-banda-venezolana-rawayana-actuara-mayo-madrid-barcelona-20260126181508.html",
+        "date": "2026-01-26 17:15:08",
+        "sentiment_score": 0.06038296967744827
+    },
+    {
+        "title": "«Nada huele tanto a rosa como el geranio”. Natasha Levin lleva a Jean-Claude a Barcelona",
+        "image_url": "https://forbes.es/wp-content/uploads/2026/01/Progetto-senza-titolo-2026-01-26T121222.872.png",
+        "tags": [
+            "barcelona",
+            "opinion",
+            "opinión",
+            "perfume"
+        ],
+        "link": "https://forbes.es/opinion/863359/nada-huele-tanto-a-rosa-como-el-geranio-natasha-levin-lleva-a-jean-claude-a-barcelona/",
+        "date": "2026-01-26 17:13:29",
+        "sentiment_score": -0.2258172631263733
+    },
+    {
+        "title": "Paneque pide cambios e inversiones en Rodalies ante una situación \"inconcebible e intolerable\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260126181318_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-paneque-pide-cambios-inversiones-rodalies-situacion-inconcebible-intolerable-20260126181318.html",
+        "date": "2026-01-26 17:13:18",
+        "sentiment_score": -0.93347152415663
+    },
+    {
+        "title": "17:00H | 26 ENE 2026 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-26-ene-2026-tarde-20260126_3294656.html",
+        "date": "2026-01-26 17:07:00",
+        "sentiment_score": -0.19163848459720612
+    },
+    {
+        "title": "Alex Cano, el madrileño de 26 años que hace la mejor croqueta de España en un restaurante de Madrid: \"La hago con las manos\"",
+        "image_url": "https://s3.elespanol.com/2026/01/26/actualidad/1003744104637_261102987_1706x960.jpg",
+        "tags": [
+            "croquetas",
+            "ocio",
+            "restaurantes"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20260126/alex-cano-madrileno-anos-hace-mejor-croqueta-espana-restaurante-madrid-hago-manos/1003744104626_0.html",
+        "date": "2026-01-26 17:06:12",
+        "sentiment_score": -0.02237217128276825
+    },
+    {
+        "title": "Restablecida la circulación de la R2 Sud entre Garraf y Sitges (Barcelona) por ambas vías",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260126180544_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-restablecida-circulacion-r2-sud-garraf-sitges-barcelona-ambas-vias-20260126180544.html",
+        "date": "2026-01-26 17:05:44",
+        "sentiment_score": -0.5017170570790768
     }
 ];
