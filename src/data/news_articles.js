@@ -1,395 +1,5 @@
 export default [
     {
-        "title": "Barcelona-Real Madrid: Alineaciones probables y datos de la Supercopa de España Femenina (19:00)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/23/image-642e909a-feca-4ccd-afb3-6b8d7497ecb7-85-2560-1440.jpeg",
-        "tags": [
-            "football"
-        ],
-        "link": "https://www.eurosport.es/futbol/barcelona-real-madrid-supercopa-espana-femenina-alineaciones-probables-previa-estadisticas-horario-como-donde-ver-television-online-streaming-hoy_sto23262455/story.shtml",
-        "date": "2026-01-23 22:16:52",
-        "sentiment_score": 0.8324591908603907
-    },
-    {
-        "title": "Bárbara Coppel y su familia disfrutan de una aventura de lujo en Escocia",
-        "image_url": "https://www.hola.com/horizon/landscape/f5902a18e149-barbaravaca.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.hola.com/us-es/celebrities/20260123879779/barbara-coppel-viaje-familiar-escocia/",
-        "date": "2026-01-23 22:16:12",
-        "sentiment_score": 0.12924206629395485
-    },
-    {
-        "title": "El Real Oviedo cierra filas y solo piensa en dar la sorpresa ante el Barcelona",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/01/23/ThiagoFernandez-RnA3ZXKkC7KPa4GRbNd9SrN-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "real oviedo"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-cierra-filas-sorpresa-barcelona-20260123210722-nt.html",
-        "date": "2026-01-23 21:55:28",
-        "sentiment_score": -0.5505336001515388
-    },
-    {
-        "title": "Baloncesto español: próximos encuentros para la semana 17 y 18 y dónde verlos gratis",
-        "image_url": "https://pxcdn.2001online.com/2001/012026/1769205382012.jpg?ch=675&cw=1200",
-        "tags": [
-            "españa",
-            "baloncesto"
-        ],
-        "link": "https://2001online.com/deportes/baloncesto-espanol-proximos-encuentros-para-la-semana-17-y-18-y-donde-verlos-gratis-202612317520",
-        "date": "2026-01-23 21:52:00",
-        "sentiment_score": 0.604394294321537
-    },
-    {
-        "title": "Las dos estrellas del Barça de basket que se exhiben en la Euroliga: 62 puntos de valoración",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/23/culemania/secciones/1003742726225_15637553_1706x960.jpg",
-        "tags": [
-            "fcb basket",
-            "kevin punter",
-            "secciones",
-            "xavi pascual"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260123/estrellas-barca-basket-exhiben-euroliga-puntos-valoracion/1003742726219_0.html",
-        "date": "2026-01-23 21:48:57",
-        "sentiment_score": 0.7002884037792683
-    },
-    {
-        "title": "VÍDEO: El segundo entrenador del Real Madrid, Antonio Rodríguez: \"Va a ser un partido esperemos de tú a tú\"",
-        "image_url": "https://www.infobae.com/resizer/v2/4GO7UEZVHJEMBCWIWVKB3MQ5DI.jpg?auth=8626a354ee2dd37e621fc522bd80f737b834d4ca55572eae367e74e059db8847&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/23/video-el-segundo-entrenador-del-real-madrid-antonio-rodriguez-va-a-ser-un-partido-esperemos-de-tu-a-tu/",
-        "date": "2026-01-23 21:30:51",
-        "sentiment_score": 0.1639833003282547
-    },
-    {
-        "title": "Roberto Martínez: \"Una selección que ya ha ganado un Mundial se puede considerar favorita\"",
-        "image_url": "https://www.infobae.com/resizer/v2/DNSRMKPDMFAHBKQSIN7RGAPTC4.jpg?auth=750d41719d6efd90cf595c1d16c69dc52d09afa570330157221e82a2e0723f0f&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/23/roberto-martinez-una-seleccion-que-ya-ha-ganado-un-mundial-se-puede-considerar-favorita/",
-        "date": "2026-01-23 21:30:16",
-        "sentiment_score": 0.5111638978123665
-    },
-    {
-        "title": "Real Madrid y FC Barcelona se enfrentan este sábado en la final de la Supercopa Femenina",
-        "image_url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/78527749001/c93169d0-4ed7-4d73-b49f-7ef29ed5e443/main/224x126/54s517ms/match/image.jpg?pubId=85707284001",
-        "tags": [
-            "sabado",
-            "barcelona",
-            "enfrentan",
-            "real",
-            "final",
-            "supercopa",
-            "femenina",
-            "este",
-            "madrid"
-        ],
-        "link": "https://www.elcomercio.es/deportes/real-madrid-barcelona-enfrentan-sabado-final-supercopa-20260123210524-vi.html",
-        "date": "2026-01-23 21:20:28",
-        "sentiment_score": 0.22057873383164406
-    },
-    {
-        "title": "VÍDEO: Caroline Weir, jugadora del Real Madrid: \"Es importante para el club, queremos ganar nuestro primer título\"",
-        "image_url": "https://www.infobae.com/resizer/v2/63KEVVWQTBFX3PWVNDHQKNNDZ4.jpg?auth=a0784344374e76a8af39af494f2d3d002303ec1aefbee9d919cc4a4a00cd2554&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/23/video-caroline-weir-jugadora-del-real-madrid-es-importante-para-el-club-queremos-ganar-nuestro-primer-titulo/",
-        "date": "2026-01-23 21:15:19",
-        "sentiment_score": 0.5513414032757282
-    },
-    {
-        "title": "Elena Batista; 'Hay gente que no brilla ni poniéndoles purpurina, pero tienen su espacio en medios'",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7818413",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5745661/elena-batista-hay-gente-no-brilla-ni-poniendoles-purpurina-pero-tienen-espacio-medios",
-        "date": "2026-01-23 22:14:53",
-        "sentiment_score": 0.48350271582603455
-    },
-    {
-        "title": "Ramón Vallès, piloto: \"Cuando hay una amenaza de bomba en el avión, es peliagudo, pero el 99 por ciento de los casos son radicalmente falsos\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/23/6973f1c720b84.png",
-        "tags": [
-            "barcelona provincia"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/noticias/ramon-valles-piloto-hay-amenaza-bomba-avion-peliagudo-99-ciento-casos-son-radicalmente-falsos-20260123_3293549.html",
-        "date": "2026-01-23 22:11:22",
-        "sentiment_score": -0.18596506118774414
-    },
-    {
-        "title": "Punter acaba con Watson y el Barça sigue escalando en la Euroliga",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/23/6973efde74734.png",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/baloncesto/20260123/11448071/asvel-villeurbanne-barca-euroliga-punter-resumen.html",
-        "date": "2026-01-23 22:09:55",
-        "sentiment_score": 0.6399825476109982
-    },
-    {
-        "title": "Punter y Shengelia impulsan a un Barça que alcanza a los líderes de la Euroliga",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5f10490e-6b19-4985-ac62-f329269c3a26_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "barça",
-            "euroliga",
-            "fc barcelona de baloncesto",
-            "baloncesto"
-        ],
-        "link": "https://www.informacion.es/deportes/2026/01/23/punter-shengelia-impulsan-barca-alcanza-126024990.html",
-        "date": "2026-01-23 22:00:53",
-        "sentiment_score": 0.2855965197086334
-    },
-    {
-        "title": "Vinicius Jr. podría ser fichado a cambio de una cifra récord: ofrecerían 1 billón de euros por su traspaso",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/vinicius-jr.jpg",
-        "tags": [
-            "futbol",
-            "real madrid cf",
-            "vinicius jr",
-            "deportes",
-            "arabia saudí",
-            "españa",
-            "titulares"
-        ],
-        "link": "https://lapatilla.com/2026/01/23/vinicius-jr-podria-ser-fichado-a-cambio-de-una-cifra-record-ofrecerian-1-billon-de-euros-por-su-traspaso/",
-        "date": "2026-01-24 02:00:39",
-        "sentiment_score": -0.27231205999851227
-    },
-    {
-        "title": "Amenaza para Cristiano Ronaldo: el récord que Kylian Mbappé busca en Champions League",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/kylian-Mbappe-real-madrid.jpg",
-        "tags": [
-            "cristiano ronaldo",
-            "deportes",
-            "futbol",
-            "champions league",
-            "kylian mbappé",
-            "titulares"
-        ],
-        "link": "https://lapatilla.com/2026/01/23/amenaza-para-cristiano-ronaldo-el-record-que-kylian-mbappe-busca-en-champions-league/",
-        "date": "2026-01-24 01:34:20",
-        "sentiment_score": -0.6735646650195122
-    },
-    {
-        "title": "El Gobierno ocultó la declaración de la ministra Tolón ante el juez por la dana",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/fb6d7adbccce048b370208c8b955a7b8/crop/2x0/1024x1022/f/image/jpeg/assets/multimedia/imagenes/2024/01/15/17053356313045.jpg",
-        "tags": [
-            "artículos juanma lamet",
-            "dana"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/01/24/6973cc20fdddff9a708b457d.html",
-        "date": "2026-01-24 01:31:48",
-        "sentiment_score": -0.19418169558048248
-    },
-    {
-        "title": "El ‘rebaño’ de Redoblones y la ‘partida’ de Mamelones firman lo mejor de la primera fase de las murgas infantiles",
-        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-23-at-23.39.38-1024x598.jpg",
-        "tags": [
-            "portada apertura",
-            "portada",
-            "santa cruz",
-            "metropolitana",
-            "tenerife"
-        ],
-        "link": "https://diariodeavisos.elespanol.com/2026/01/fase-1-murgas-infantiles-santa-cruz/",
-        "date": "2026-01-24 01:27:00",
-        "sentiment_score": 0.5401124507188797
-    },
-    {
-        "title": "El imperio de Manuel Robledo: de llevar Lizarrán a abrir un kebab en el Bernabéu y un café de especialidad a 0,70 euros",
-        "image_url": "https://s3.elespanol.com/2026/01/23/madrid/1003744101438_261060976_1706x960.jpg",
-        "tags": [
-            "estadio santiago bernabéu",
-            "hostelería y restauración",
-            "ocio"
-        ],
-        "link": "https://www.elespanol.com/madrid/ocio/20260124/imperio-manuel-robledo-llevar-lizarran-abrir-kebab-bernabeu-cafe-especialidad-euros/1003744101255_0.html",
-        "date": "2026-01-24 01:00:00",
-        "sentiment_score": 0.1450403928756714
-    },
-    {
-        "title": "Folclore, sexo y rituales paganos: Marina Abramovic lleva al Liceu su ambiciosa obra 'Balkan Erotic Epic'",
-        "image_url": "https://s3.elespanol.com/2026/01/23/actualidad/1003744101808_261065763_1706x960.jpg",
-        "tags": [
-            "liceu de barcelona",
-            "escenarios",
-            "marina abramovic"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/escenarios/20260124/folclore-sexo-rituales-paganos-marina-abramovic-lleva-liceu-ambiciosa-obra-balkan-erotic-epic/1003744100966_0.html",
-        "date": "2026-01-24 00:55:00",
-        "sentiment_score": 0.45258573442697525
-    },
-    {
-        "title": "Mariano Jabonero, secretario general de la OEI: \"Ahora la cooperación educativa es más importante que nunca\"",
-        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744034640_261051999_1706x960.jpg",
-        "tags": [
-            "objetivo 4: educación de calidad",
-            "charo izquierdo",
-            "oei iberoamérica en democracia",
-            "referentes"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/referentes/20260124/mariano-jabonero-secretario-general-oei-ahora-cooperacion-educativa-importante-nunca/1003744100708_0.html",
-        "date": "2026-01-24 00:45:00",
-        "sentiment_score": 0.7993134260177612
-    },
-    {
-        "title": "23 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/23-ene-2026-partidazo-cope-20260124_3293583.html",
-        "date": "2026-01-24 00:40:00",
-        "sentiment_score": 0.07110379636287689
-    },
-    {
-        "title": "3a PARTE | 23 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-23-ene-2026-partidazo-cope-20260124_3293582.html",
-        "date": "2026-01-24 00:30:00",
-        "sentiment_score": 0.0403421875089407
-    },
-    {
-        "title": "Ari Arias se marcha tras solo medio año y cuatro partidos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/59e14ee7-5bb2-4abe-a536-ed7ea401e2f8_16-9-discover-aspect-ratio_default_0_x465y195.jpg",
-        "tags": [
-            "costa adeje",
-            "invierno",
-            "trabajo",
-            "tenerife"
-        ],
-        "link": "https://www.eldia.es/deportes/ud-tenerife/2026/01/24/ari-arias-marcha-medio-ano-126025066.html",
-        "date": "2026-01-24 00:02:50",
-        "sentiment_score": 0.19105671346187592
-    },
-    {
-        "title": "Estos son los dos hospitales y 16 servicios de la sanidá pública asturiana asitiaos na élite nacional",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/aa88ad53-7d01-4405-b31e-a4d22fa4804e_16-9-aspect-ratio_default_0_x812y361.jpg",
-        "tags": [
-            "sanidad pública",
-            "clasificación",
-            "asturias",
-            "élite",
-            "huca"
-        ],
-        "link": "https://www.lne.es/asturias/n-asturianu/2026/01/24/son-hospitales-16-servicios-sanida-125898278.html",
-        "date": "2026-01-24 02:03:31",
-        "sentiment_score": -0.18635469675064087
-    },
-    {
-        "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
-        "tags": [
-            "tiempo en españa",
-            "noticias",
-            "españa noticias",
-            "españa sociedad",
-            "barcelona"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/24/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-barcelona/",
-        "date": "2026-01-24 02:01:00",
-        "sentiment_score": -0.05413059890270233
-    },
-    {
-        "title": "Feijóo acusa a Sánchez de “colapso” detrás de Adamuz: “el estado de las vías es el estado de la nación”",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/24/2026012404100554826.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.mundiario.com/articulo/politica/feijoo-acusa-sanchez-colapso-detras-adamuz-estado-vias-es-estado-nacion/20260124025951371894.html",
-        "date": "2026-01-24 01:59:51",
-        "sentiment_score": -0.8588108643889427
-    },
-    {
-        "title": "El PP aplaza 'sine die' la reunión Feijóo-Sánchez: \"Con 46 ataúdes no podemos hablar de la misión de paz a Ucrania que no existe\"",
-        "image_url": "https://s3.elespanol.com/2026/01/23/actualidad/1003744101928_261067518_1706x960.jpg",
-        "tags": [
-            "política",
-            "partido popular (pp)",
-            "accidentes de tren",
-            "pedro sánchez",
-            "adamuz",
-            "alberto núñez feijóo"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20260124/pp-aplaza-sine-die-reunion-feijoo-sanchez-ataudes-no-podemos-hablar-mision-paz-ucrania-existe/1003744100997_0.html",
-        "date": "2026-01-24 01:45:01",
-        "sentiment_score": -0.8332364615052938
-    },
-    {
-        "title": "El gran negocio de la compraventa de hoteles en Málaga: mueve 2.000 millones de euros en cinco años",
-        "image_url": "https://s3.elespanol.com/2025/12/19/actualidad/1003744063659_260585676_1706x960.jpg",
-        "tags": [
-            "hoteles",
-            "turismo",
-            "inversiones",
-            "costa del sol",
-            "málaga"
-        ],
-        "link": "https://www.elespanol.com/malaga/vivir/turismo/20260124/gran-negocio-compraventa-hoteles-malaga-mueve-millones-euros-anos-dl/1003744100236_0.html",
-        "date": "2026-01-24 01:45:00",
-        "sentiment_score": -0.3732627332210541
-    },
-    {
-        "title": "Los límites a la velocidad de Adif dejan la red ferroviaria a medio gas y una hora de retraso promedio en los tramos señalados",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
-        "tags": [
-            "artículos clara rojas"
-        ],
-        "link": "https://www.elmundo.es/economia/empresas/2026/01/24/69727296e85ecede068b4572.html",
-        "date": "2026-01-24 01:39:09",
-        "sentiment_score": -0.7211306095123291
-    },
-    {
-        "title": "El Barça devuelve a Goldman Sachs los primeros 45 millones del crédito del Espai Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/24/culemania/palco/1003742726244_15637837_1706x960.jpg",
-        "tags": [
-            "palco",
-            "goldman sachs",
-            "fc barcelona",
-            "espai barça",
-            "camp nou"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260124/barca-devuelve-goldman-sachs-primeros-millones-espai/1003742726239_0.html",
-        "date": "2026-01-24 01:21:30",
-        "sentiment_score": 0.6248757764697075
-    },
-    {
-        "title": "Magallanes asaltó el segundo lugar de la tabla",
-        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/01/Magallanes-1-696x392-1.jpg",
-        "tags": [
-            "round robin",
-            "magallanes",
-            "23ene",
-            "deportes"
-        ],
-        "link": "https://laverdaddemonagas.com/2026/01/23/magallanes-segundo-lugar/",
-        "date": "2026-01-24 01:04:51",
-        "sentiment_score": 0.49651922285556793
-    },
-    {
-        "title": "Oliver Sonne se perfila como refuerzo del FC Copenhague vía cesión y coincidiría en el plantel con Marcos López",
-        "image_url": "https://www.infobae.com/resizer/v2/4EIRBF2IHJD4NCF2TUNPZFUYG4.jpg?auth=56d616f9c114e9e3620dae2d6630d6f6dcd9bb67671251a23a2840a60a4ffe71&height=1080&smart=true&width=1920",
-        "tags": [
-            "selección peruana",
-            "marcos lópez",
-            "peru-deportes",
-            "burnley",
-            "oliver sonne",
-            "fc copenhague"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2026/01/24/oliver-sonne-se-perfila-como-refuerzo-del-fc-copenhague-via-cesion-y-coincidiria-en-el-plantel-con-marcos-lopez/",
-        "date": "2026-01-24 01:01:35",
-        "sentiment_score": 0.4052291810512543
-    },
-    {
         "title": "El insólito refrán madrileño que nunca conocerán el resto de españoles: sólo tiene sentido en la capital",
         "image_url": "https://okdiario.com/img/2026/01/20/madrid-calle.jpg",
         "tags": [
@@ -2828,5 +2438,239 @@ export default [
         "link": "https://www.huffingtonpost.es/sociedad/renfe-asegura-servicio-rodalies-presta-hoy-con-razonable-normalidad-f202601.html",
         "date": "2026-01-27 06:47:12",
         "sentiment_score": 0.35200123488903046
+    },
+    {
+        "title": "“Borra las conversaciones antes de salir”: las tácticas de los venezolanos por temor a que les revisen el celular",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/telefono-venezuela-2.jpg",
+        "tags": [
+            "borra",
+            "actualidad",
+            "revisen",
+            "celular",
+            "conversaciones",
+            "venezolanos",
+            "nacionales",
+            "tácticas"
+        ],
+        "link": "https://lapatilla.com/2026/01/27/borra-las-conversaciones-antes-de-salir-las-tacticas-de-los-venezolanos-por-temor-a-que-les-revisen-el-celular/",
+        "date": "2026-01-27 11:14:39",
+        "sentiment_score": -0.624516274780035
+    },
+    {
+        "title": "Las cuentas de Real Madrid, Barça, Atlético y Athletic en la última jornada de Champions.",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a748ff36-4847-4d0e-bdd5-8a3de40f4b58_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "atletico",
+            "real",
+            "cuentas",
+            "barca",
+            "madrid"
+        ],
+        "link": "https://www.noticiasdenavarra.com/deportes/2026/01/27/cuentas-real-madrid-barca-atletico-10624945.html",
+        "date": "2026-01-27 17:19:29",
+        "sentiment_score": 0.10315108299255371
+    },
+    {
+        "title": "Camarena y Dacosta piden medidas concretas para la hostelería artesana",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/11ba861f-5045-4b4c-8bbd-00a5f55ee3b0_16-9-aspect-ratio_default_1430463.jpg",
+        "tags": [
+            "jornadas gastronomicas",
+            "ricard camarena",
+            "turismo gastronómico",
+            "restauración",
+            "madrid fusión",
+            "hostelería",
+            "cultura",
+            "hosteleros",
+            "negocios",
+            "empleo",
+            "gastronomía"
+        ],
+        "link": "https://www.levante-emv.com/cultura/2026/01/27/camarena-dacosta-piden-medidas-concretas-hosteleria-artesanal-126152862.html",
+        "date": "2026-01-27 17:14:55",
+        "sentiment_score": 0.13160669803619385
+    },
+    {
+        "title": "El Athletic se encomienda a San Mamés para hacer historia en Champions",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260127180230_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-athletic-encomienda-san-mames-hacer-historia-champions-20260127180230.html",
+        "date": "2026-01-27 17:02:30",
+        "sentiment_score": 0.2770031727850437
+    },
+    {
+        "title": "Las marcas chinas ya firman uno de cada diez coches vendidos en España",
+        "image_url": "https://www.actualidadmotor.com/wp-content/uploads/2025/10/Lepas-L8-3.jpg",
+        "tags": [
+            "noticias automóviles",
+            "ventas"
+        ],
+        "link": "https://www.actualidadmotor.com/las-marcas-chinas-ya-firman-uno-de-cada-diez-coches-vendidos-en-espana/",
+        "date": "2026-01-27 17:00:44",
+        "sentiment_score": 0.4727618619799614
+    },
+    {
+        "title": "Las redes cargan contra Tebas por la marcha de Carlos Vicente al Birmingham City",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c3494801-7f70-4850-beb7-62dbfd331c41_16-9-aspect-ratio_default_0_x1126y1248.jpg",
+        "tags": [
+            "carlos",
+            "alavés",
+            "marcha",
+            "birmingham city",
+            "redes",
+            "vicente",
+            "reaccionan"
+        ],
+        "link": "https://www.noticiasdealava.eus/buzz-on/2026/01/27/redes-reaccionan-marcha-carlos-vicente-birmingham-city-alaves-10624910.html",
+        "date": "2026-01-27 17:00:26",
+        "sentiment_score": -0.002019047737121582
+    },
+    {
+        "title": "Socuéllamos refuerza su proyección nacional en FITUR con cifras turísticas récord",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/Socuellamos-refuerza-su-proyeccion-nacional-en-FITUR-con-cifras-turisticas-record-y-una-ambiciosa-estrategia-de-promocion.jpeg",
+        "tags": [
+            "socuéllamos",
+            "fitur"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/socuellamos/socuellamos-refuerza-su-proyeccion-nacional-en-fitur-con-cifras-turisticas-record/",
+        "date": "2026-01-27 17:00:24",
+        "sentiment_score": 0.08971050381660461
+    },
+    {
+        "title": "MarSenses Hotels apuesta por la sostenibilidad social y prevé alcanzar los 35 millones de facturación en 2026",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/01/20260127175732.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://cronicadecantabria.com/cr/marsenses-hotels-apuesta-por-la-sostenibilidad-social-y-prev-alcanzar-los-35-millones-de-facturacin-en-2026/",
+        "date": "2026-01-27 17:00:08",
+        "sentiment_score": 0.34524577111005783
+    },
+    {
+        "title": "La CNMC pide a la Liga F ajustar la comercialización de los derechos audiovisuales a la normativa vigente",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260127180006_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-cnmc-pide-liga-ajustar-comercializacion-derechos-audiovisuales-normativa-vigente-20260127180006.html",
+        "date": "2026-01-27 17:00:06",
+        "sentiment_score": 0.12454961985349655
+    },
+    {
+        "title": "El Real Madrid se reencuentra con su pasado por el 'top 8'",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260127175920_120.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-real-madrid-reencuentra-pasado-top-20260127175920.html",
+        "date": "2026-01-27 16:59:20",
+        "sentiment_score": 0.2640356868505478
+    },
+    {
+        "title": "MarSenses Hotels apuesta por la sostenibilidad social y prevé alcanzar los 35 millones de facturación en 2026",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260127175733_690.jpg",
+        "tags": [
+            "economía finanzas"
+        ],
+        "link": "https://www.europapress.es/economia/noticia-marsenses-hotels-apuesta-sostenibilidad-social-preve-alcanzar-35-millones-facturacion-2026-20260127175733.html",
+        "date": "2026-01-27 16:57:33",
+        "sentiment_score": 0.0954497903585434
+    },
+    {
+        "title": "El susto de las jugadoras de hockey hielo del Txuri por una intoxicación de gas por una fuga en la máquina de hielo",
+        "image_url": "https://album.mediaset.es/eimg/2026/01/27/una-imagen-del-equipo-txuri_cb55.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.telecinco.es/noticias/sociedad/20260127/jugadoras-txuri-atendidas-hospital-intoxicacion-gas-maquina-alisadora-hielo_18_018175894.html",
+        "date": "2026-01-27 17:19:50",
+        "sentiment_score": -0.7862036740407348
+    },
+    {
+        "title": "El Barça se exige un atracón de goles ante el Copenhague",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/27/Clipboard-0137-ko4F-U20375358389PS-1200x840@RC.jpg",
+        "tags": [
+            "goles",
+            "atracon",
+            "copenhague",
+            "exige",
+            "ante",
+            "barca"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-campeones/barca-exige-atracon-goles-ante-copenhague-20260127181935-ntrc.html",
+        "date": "2026-01-27 17:19:42",
+        "sentiment_score": 0.6727429144084454
+    },
+    {
+        "title": "Barcelona deberá readmitir o indemnizar a un cocinero despedido por suspender un examen de catalán",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/05/08/como-calentar-tortilla-patata-mercadona-sarten.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/barcelona-debera-readmitir-indemnizar-con-casi-60-000-euros-un-cocinero-despedido-por-suspender-un-examen-catalan_6926584_0.html",
+        "date": "2026-01-27 17:19:18",
+        "sentiment_score": -0.5404341705143452
+    },
+    {
+        "title": "La perla de la Masía de la generación 2012 que renueva con el Barça: tras los pasos de Messi",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/27/culemania/secciones/1003742727101_15647402_1706x960.jpg",
+        "tags": [
+            "secciones",
+            "barça",
+            "la masía"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260127/perla-masia-generacion-renueva-barca-pasos-messi/1003742727100_0.html",
+        "date": "2026-01-27 17:18:11",
+        "sentiment_score": 0.5328886955976486
+    },
+    {
+        "title": "Romero reprocha a Junts su postura sobre financiación: \"El concierto económico no es solidario\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260127181712_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-romero-reprocha-junts-postura-financiacion-concierto-economico-no-solidario-20260127181712.html",
+        "date": "2026-01-27 17:17:12",
+        "sentiment_score": -0.5650969669222832
+    },
+    {
+        "title": "Una ONG financiada por la UE patrocina en España una coalición vinculada a terroristas palestinos",
+        "image_url": "https://okdiario.com/img/2026/01/27/documento_circulos-11.jpg",
+        "tags": [
+            "unión europea (ue)",
+            "españa",
+            "ursula von der leyen",
+            "hamas"
+        ],
+        "link": "https://okdiario.com/espana/ong-financiada-ue-patrocina-espana-coalicion-vinculada-terroristas-palestinos-16145755",
+        "date": "2026-01-27 17:16:50",
+        "sentiment_score": -0.5494765862822533
+    },
+    {
+        "title": "SEAG cierra 2025 con un crecimiento del 41% y refuerza su peso en el mercado del alquiler",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260127181640_690.jpg",
+        "tags": [
+            "economía finanzas"
+        ],
+        "link": "https://www.europapress.es/economia/noticia-seag-cierra-2025-crecimiento-41-refuerza-peso-mercado-alquiler-20260127181640.html",
+        "date": "2026-01-27 17:16:40",
+        "sentiment_score": 0.5142844449728727
+    },
+    {
+        "title": "Actiu crece un 11,2% y supera los 100 millones de facturación",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/7aaef5bea0285e3364add7a9ed5d1b10/crop/150x100/1350x900/f/webp/assets/multimedia/imagenes/2026/01/27/17695341555496.png",
+        "tags": [
+            "empresas>",
+            "alicante>",
+            "valencia>"
+        ],
+        "link": "https://www.expansion.com/valencia/2026/01/27/6978f278e5fdeac37f8b45b1.html",
+        "date": "2026-01-27 17:16:22",
+        "sentiment_score": 0.35176796093583107
     }
 ];
