@@ -1,229 +1,5 @@
 export default [
     {
-        "title": "El insólito refrán madrileño que nunca conocerán el resto de españoles: sólo tiene sentido en la capital",
-        "image_url": "https://okdiario.com/img/2026/01/20/madrid-calle.jpg",
-        "tags": [
-            "lenguaje",
-            "historia de españa",
-            "comunidad de madrid",
-            "frases",
-            "curiosidades",
-            "castellano",
-            "palabras",
-            "español",
-            "madrid"
-        ],
-        "link": "https://okdiario.com/curiosidades/insolito-refran-madrileno-que-nunca-conoceran-resto-espanoles-solo-tiene-sentido-capital-16103819",
-        "date": "2026-01-24 06:30:13",
-        "sentiment_score": -0.4367797002196312
-    },
-    {
-        "title": "El acogedor caserón de Josie del siglo XVIII: en un pueblo de La Mancha y lo heredó de sus tías",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/casa-josie-mancha.jpeg",
-        "tags": [
-            "celebrities",
-            "cristina pedroche",
-            "gente",
-            "ciudad real",
-            "casas"
-        ],
-        "link": "https://theobjective.com/gente/2026-01-24/acogedor-caseron-josie-pueblo-mancha-tias/",
-        "date": "2026-01-24 06:30:00",
-        "sentiment_score": 0.43030617386102676
-    },
-    {
-        "title": "Cada vez mejor",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/24/SEAT%20IBIZA%20foto%202-kIlB-U2409820495010tD-1200x840@RC.jpg",
-        "tags": [
-            "tráfico",
-            "seat"
-        ],
-        "link": "https://www.leonoticias.com/motor/vez-mejor-20260124140346-ntrc.html",
-        "date": "2026-01-24 06:29:03",
-        "sentiment_score": 0.753127520903945
-    },
-    {
-        "title": "Borrasca Ingrid, en directo: Catalunya y parte de España en alerta por la nieve y temporal",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8c5a8f27-d306-4b6d-8fdf-77237e0bd6ca_16-9-discover-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "movilidad",
-            "nieve",
-            "camiones",
-            "carreteras",
-            "tráfico",
-            "logística",
-            "temporales"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260124/directo-ingrid-temporal-nieve-camiones-desabastecimiento-ultima-hora-125996196",
-        "date": "2026-01-24 06:22:00",
-        "sentiment_score": -0.3597462773323059
-    },
-    {
-        "title": "Giro radical en la ZBE de Bilbao: adiós para siempre a la circulación para los vehículos con etiqueta B",
-        "image_url": "https://okdiario.com/img/2026/01/22/giro-radical-en-la-zbe-de-bilbao-adios-para-siempre-a-la-circulacion-para-los-vehiculos-con-etiqueta-b.jpg",
-        "tags": [
-            "bilbao",
-            "emisiones co2",
-            "okd",
-            "país vasco",
-            "españa"
-        ],
-        "link": "https://okdiario.com/pais-vasco/giro-radical-zbe-bilbao-adios-siempre-circulacion-vehiculos-etiqueta-b-16120668",
-        "date": "2026-01-24 06:15:36",
-        "sentiment_score": -0.48641443252563477
-    },
-    {
-        "title": "La estación de autobuses de Badajoz cambia de cara",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4c7cc093-4d78-42ae-bb63-252647b6b262_16-9-aspect-ratio_default_0_x609y270.jpg",
-        "tags": [
-            "imagen",
-            "extremadura",
-            "obras",
-            "autobuses",
-            "badajoz",
-            "viajeros"
-        ],
-        "link": "https://www.lacronicabadajoz.com/badajoz/2026/01/24/estacion-autobuses-badajoz-cambia-cara-126027817.html",
-        "date": "2026-01-24 06:06:01",
-        "sentiment_score": 0.1885511875152588
-    },
-    {
-        "title": "Tomás Guitarte: \"Nos preocupa mucho la entrada de la extrema derecha al poder, estamos ante una situación de emergencia\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/21/tomas-guitarte-candidato-de-aragon-existe-a-las-elecciones-autonomicas-de-aragon.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/tomas-guitarte-nos-preocupa-entrada-extrema-derecha-situacion-emergencia-f202601.html",
-        "date": "2026-01-24 06:05:43",
-        "sentiment_score": -0.17346662282943726
-    },
-    {
-        "title": "Una polémica foto de la Casa del Rey une a populismos opuestos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9b5560b7-14a3-4fb6-8fa8-79d948707430_16-9-discover-aspect-ratio_default_0_x652y289.jpg",
-        "tags": [
-            "felipe vi",
-            "santiago bernabéu, estadio",
-            "donald trump",
-            "casa del rey",
-            "accidente de tren córdoba",
-            "davos",
-            "florentino pérez",
-            "entender más",
-            "taylor swift",
-            "vox",
-            "emmanuel macron"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20260124/polemica-foto-casa-rey-une-populismos-accidente-tren-125981308",
-        "date": "2026-01-24 06:00:37",
-        "sentiment_score": -0.9213177673518658
-    },
-    {
-        "title": "Así están las cuentas en la última jornada para ser cabezas de serie en la Copa del Rey 2026",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f13b0bdc-ffc1-4561-835b-3bfdb0dbb049_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unicaja",
-            "ucam",
-            "barça",
-            "valencia",
-            "joventut",
-            "baskonia",
-            "serie"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2026/01/24/cuentas-ultima-jornada-cabeza-serie-copa-126023287.html",
-        "date": "2026-01-24 06:00:35",
-        "sentiment_score": 0.2824355363845825
-    },
-    {
-        "title": "Villarreal - Real Madrid: Horario, posibles alineaciones y dónde ver el partido de LaLiga EA Sports, en directo",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/12/13/F348C551-7B62-49C2-8FCE-070280320396/kylian-mbappe_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "fútbol",
-            "deportes",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/villarreal-real-madrid-horario-posibles-alineaciones-donde-ver-partido-laliga-sports-directo_2026012469745ff1f21351044da716c7.html",
-        "date": "2026-01-24 06:00:17",
-        "sentiment_score": 0.02087768167257309
-    },
-    {
-        "title": "El servicio de Rodalies vuelve a estar suspendido este sábado en toda Cataluña",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/1623cfbba86010f6bdb35f37b59bd1c6/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/24/17692364619535.jpg",
-        "tags": [
-            "transporte y turismo",
-            "cataluña",
-            "rodalíes"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2026/01/24/69746812e4d4d871618b4598.html",
-        "date": "2026-01-24 06:35:01",
-        "sentiment_score": 0.5224284492433071
-    },
-    {
-        "title": "Así ha ganado esta provincia catalana la guerra del carburante",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/11/04/2024110409421397119.jpg",
-        "tags": [
-            "motor"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/motor/asi-ha-ganado-provincia-catalana-guerra-carburante/20260124073205999819.html",
-        "date": "2026-01-24 06:32:05",
-        "sentiment_score": 0.4265027493238449
-    },
-    {
-        "title": "Xavier Ruyra, cardiólogo: \"En la mujer, el infarto pasa más desapercibido porque cuida de ella menos que de los demás\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9700a4c5-bff2-4843-89a2-fa062236ddd4_16-9-discover-aspect-ratio_default_0_x303y134.jpg",
-        "tags": [
-            "entender más",
-            "medicina"
-        ],
-        "link": "https://www.elperiodico.com/es/sanidad/20260124/xavier-ruyra-cardiologo-mujer-infarto-125851239",
-        "date": "2026-01-24 06:00:38",
-        "sentiment_score": 0.39691193401813507
-    },
-    {
-        "title": "Ardoi, el primero de tres duros rivales",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8d14bac3-7b39-4849-90a2-a8c2e51ec8d8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "zamarat,la liga,argentina"
-        ],
-        "link": "https://www.laopiniondezamora.es/deportes/2026/01/24/ardoi-tres-duros-rivales-126023836.html",
-        "date": "2026-01-24 06:00:36",
-        "sentiment_score": 0.639370497316122
-    },
-    {
-        "title": "La inversión total en infraestructuras desciende un 63% en quince años",
-        "image_url": "https://s10.s3c.es/imag/_v0/2119x1156/b/0/1/1200x655_iStock-1021908692.jpg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.eleconomista.es/economia/noticias/13741864/01/26/la-inversion-total-en-infraestructuras-desciende-un-63-en-quince-anos.html",
-        "date": "2026-01-24 06:00:32",
-        "sentiment_score": -0.55700409039855
-    },
-    {
-        "title": "Donald Trump desea Groenlandia por lo que China ya controla: las tierras raras que impulsan el desarrollo tecnológico",
-        "image_url": "https://imagenes.businessinsider.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/01/23/69735fcec5f3e4-51440141.r_d.829-329.png",
-        "tags": [
-            "defensa y espacio"
-        ],
-        "link": "https://www.businessinsider.es/defensa-espacio/donald-trump-desea-groenlandia-por-que-china-ya-controla-las-tierras-raras-que-impulsan-desarrollo-tecnologico_6925028_0.html",
-        "date": "2026-01-24 06:00:00",
-        "sentiment_score": 0.6836617328226566
-    },
-    {
-        "title": "El camino hacia la cabina del tren tras 1.150 horas de preparación: así se forman los futuros maquinistas en Sevilla",
-        "image_url": "https://s3.elespanol.com/2023/10/15/castilla-y-leon/sociedad/802179876_236816900_1706x960.jpg",
-        "tags": [
-            "transporte ferroviario",
-            "trenes",
-            "sevilla (municipio)",
-            "sevilla",
-            "estudiantes",
-            "renfe"
-        ],
-        "link": "https://www.elespanol.com/sevilla/20260124/camino-cabina-tren-horas-preparacion-forman-futuros-maquinistas-sevilla/1003744101692_0.html",
-        "date": "2026-01-24 06:00:00",
-        "sentiment_score": -0.11580239981412888
-    },
-    {
         "title": "La verdad detrás del matrimonio de Dani Carvajal y Daphne Cañizares: \"Antes de conocer a mi marido no tuve una vida...\"",
         "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/files/fp/uploads/2026/01/20/696f9c2d78e95.r_d.1048-475-0.jpeg",
         "tags": [
@@ -2672,5 +2448,243 @@ export default [
         "link": "https://www.expansion.com/valencia/2026/01/27/6978f278e5fdeac37f8b45b1.html",
         "date": "2026-01-27 17:16:22",
         "sentiment_score": 0.35176796093583107
+    },
+    {
+        "title": "Arbeloa devuelve los piropos a Mourinho y resalta su sitio en la historia del Madrid: \"Uno di noi\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/27/image-3976d7f4-f26a-4845-bb55-39a45a6061c4-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "entertainment",
+            "lifestyle"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/arbeloa-mourinho-uno-di-noi-benfica-real-madrid_vid60050549/video.shtml",
+        "date": "2026-01-27 22:19:48",
+        "sentiment_score": -0.06411530077457428
+    },
+    {
+        "title": "El París Basketball frena la racha del Real Madrid: 98-92",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TO24ASDZZNPQZBTWQDB4MQNLSU.jpg?auth=bc5f67f4431173348befe9c7fda7296af3e7d67d7b733d14fbd9190b40605931&width=1200",
+        "tags": [
+            "sergio scariolo",
+            "real madrid baloncesto",
+            "jugadores baloncesto",
+            "euroliga",
+            "deportes",
+            "paris basketball",
+            "competiciones",
+            "baloncesto"
+        ],
+        "link": "https://elpais.com/deportes/baloncesto/2026-01-27/el-paris-basketball-frena-la-racha-del-real-madrid-98-92.html",
+        "date": "2026-01-27 22:19:07",
+        "sentiment_score": 0.2891729325056076
+    },
+    {
+        "title": "Champions League: Arbeloa y Mourinho, reencuentro con memoria en Da Luz",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/27/2026012722350689886.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/champions-league-arbeloa-mourinho-reencuentro-memoria-da-luz/20260127223301372375.html",
+        "date": "2026-01-27 21:33:01",
+        "sentiment_score": 0.041647300124168396
+    },
+    {
+        "title": "Champions League: Así marcha la tabla de goleadores antes de la última jornada",
+        "image_url": "https://i.ytimg.com/vi/Lk545O7HDjI/mqdefault.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/champions-league-asi-marcha-la-tabla-de-goleadores-antes-de-la-ultima-jornada-202612717280",
+        "date": "2026-01-27 21:28:00",
+        "sentiment_score": -0.16352096945047379
+    },
+    {
+        "title": "Kohlberg: 10 años en la isla y ni una palabra en español o mallorquín",
+        "image_url": "https://okdiario.com/img/2026/01/27/kohlberg-durante-el-acto..jpg",
+        "tags": [
+            "real mallorca",
+            "okbaleares",
+            "deportes"
+        ],
+        "link": "https://okdiario.com/baleares/kohlberg-10-anos-isla-ni-palabra-espanol-o-mallorquin-16147456",
+        "date": "2026-01-27 21:22:40",
+        "sentiment_score": -0.24236629903316498
+    },
+    {
+        "title": "'El ejército ciego' consagra a David Toscana en el Premio Alfaguara 2026",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/01/27/2026012722152768020.jpg",
+        "tags": [
+            "libros"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/libros/ejercito-ciego-consagra-david-toscana-premio-alfaguara-2026/20260127221546579091.html",
+        "date": "2026-01-27 21:15:46",
+        "sentiment_score": 0.20606298744678497
+    },
+    {
+        "title": "Mourinho elogia a Arbeloa, el nuevo técnico del Real Madrid: \"Es uno de mis niños\"",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/cb668ba/2147483647/strip/true/crop/4363x2291+0+309/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F44%2F1b%2F26d2ca7444bd8d4ec4cc2258073c%2Fa06786c8798a4a87ba6a24c246fe353f.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-01-27/mourinho-elogia-arbeloa-el-nuevo-tecnico-del-real-madrid-es-uno-de-mis-ninos",
+        "date": "2026-01-27 21:04:32",
+        "sentiment_score": 0.3501560837030411
+    },
+    {
+        "title": "El Supremo condena a dos ginecólogas por usar fórceps sin informar a la mujer: \"No hago vida normal desde el parto\"",
+        "image_url": "https://static.eldiario.es/clip/9075f3e5-336e-4887-917d-69096d8a481b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "mujer",
+            "vida",
+            "ginecologas",
+            "parto",
+            "forceps",
+            "supremo",
+            "normal",
+            "condena",
+            "no",
+            "informar"
+        ],
+        "link": "https://www.eldiario.es/sociedad/supremo-condena-ginecologas-forceps-informar-mujer-no-vida-normal-parto_1_12938400.html",
+        "date": "2026-01-27 21:03:27",
+        "sentiment_score": -0.23244072496891022
+    },
+    {
+        "title": "Rodalies, radiografía de una red de trenes exhausta por la falta de inversión crónica",
+        "image_url": "https://static.eldiario.es/clip/fb756dba-654f-4007-980c-e78e3c9f0e5b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cataluña",
+            "ignacio escolar",
+            "actualidad",
+            "economía",
+            "barcelona",
+            "noticias",
+            "política",
+            "periodismo independiente"
+        ],
+        "link": "https://www.eldiario.es/catalunya/rodalies-radiografia-red-trenes-exhausta-falta-inversion-cronica_1_12938032.html",
+        "date": "2026-01-27 21:03:26",
+        "sentiment_score": -0.10958367586135864
+    },
+    {
+        "title": "En busca de la sustituta de Graham Hansen: el Barça Femenino negocia el fichaje de una joya neerlandesa de 17 años",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/27/culemania/secciones/1003742727227_15649544_1706x960.jpg",
+        "tags": [
+            "fcbfemeni",
+            "futfem",
+            "secciones"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260127/sustituta-graham-hansen-barca-femenino-negocia-neerlandesa/1003742727211_0.html",
+        "date": "2026-01-27 22:12:44",
+        "sentiment_score": 0.1619371622800827
+    },
+    {
+        "title": "Barcelona se pone seria: a partir de febrero, hasta 300 euros de multa por esta práctica, que ya es costumbre entre los grupos de amigos",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/03/19/67da9c002bb2c.r_d.2129-2565.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20260127/1002609827/barcelona-pone-seria-partir-febrero-empezara-multar-practica-costumbre-grupos-amigos-lcl-dct.html",
+        "date": "2026-01-27 22:01:13",
+        "sentiment_score": 0.29112953692674637
+    },
+    {
+        "title": "Carlos Torres Vila: Catalunya está muy bien posicionada para liderar la adopción de la IA",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/744d3057-4249-49e2-ab98-518c6c793f3a_16-9-discover-aspect-ratio_default_0_x1181y443.jpg",
+        "tags": [
+            "empresas",
+            "barcelona",
+            "adopción",
+            "carlos torres vila",
+            "inteligencia artificial",
+            "bbva"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260127/carlos-torres-vila-catalunya-posicionada-126160420",
+        "date": "2026-01-27 21:59:59",
+        "sentiment_score": 0.8209043219685555
+    },
+    {
+        "title": "El 'shock' migratorio en el precio de la vivienda alcanza su nivel más alto de la última década por la falta de oferta disponible",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
+        "tags": [
+            "nlpremium",
+            "artículos daniela saltos"
+        ],
+        "link": "https://www.elmundo.es/economia/2026/01/27/69789e09e4d4d8cb568b4574.html",
+        "date": "2026-01-27 21:54:23",
+        "sentiment_score": 0.4370124340057373
+    },
+    {
+        "title": "Pangea, la empresa española que vende motores espaciales a la carta: \"Queremos que los ingenieros no tengan que irse fuera para desarrollar su carrera\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/8c7c9b54f00109be21cc58fafdc2e3cf/f/image/jpeg/assets/multimedia/imagenes/2024/05/22/17163900462300.jpg",
+        "tags": [
+            "nlpremium",
+            "ciencia y salud",
+            "tecnología",
+            "artículos teresa guerrero",
+            "ciencia"
+        ],
+        "link": "https://www.elmundo.es/papel/historias/2026/01/27/697891acfc6c833c3f8b458d.html",
+        "date": "2026-01-27 21:48:45",
+        "sentiment_score": 0.7962090522050858
+    },
+    {
+        "title": "El jefe de Alpine destacó la labor de Colapinto en el primer día de test de la F1 y reveló la falla que tuvo el auto",
+        "image_url": "https://www.infobae.com/resizer/v2/APK6WL6OD5BMPEJR2G6FKUDEKY.png?auth=36e70e0d10198dda3fd816c3b16b1f61360808acc85a9343c73c656bb74027b6&height=1080&smart=true&width=1920",
+        "tags": [
+            "fórmula 1",
+            "franco colapinto",
+            "deportes-internacional",
+            "alpine f1 team",
+            "steve nielsen"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/27/el-jefe-de-alpine-destaco-la-labor-de-colapinto-en-el-primer-dia-de-test-de-la-f1-y-revelo-la-falla-que-tuvo-el-auto/",
+        "date": "2026-01-27 21:39:03",
+        "sentiment_score": 0.11352342925965786
+    },
+    {
+        "title": "La crisis ferroviaria lleva al Gobierno a duplicar el gasto en mantenimiento del plan de Rodalies",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/27/697927feaddcd.r_d.2784-2211-759.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20260127/11451024/crisis-ferroviaria-lleva-gobierno-duplicar-gasto-mantenimiento-plan-rodalies.html",
+        "date": "2026-01-27 21:27:13",
+        "sentiment_score": 0.47686492651700974
+    },
+    {
+        "title": "Detenido joven de 18 años por agredir a su hijo de 11 meses",
+        "image_url": "https://elluchador.info/wp-content/uploads/2026/01/Detenido-Samuel-Martinez-por-agredir-a-un-bebe-de-11-meses-en-Anzoategui-Funcionarios-de-la-Dele.jpg",
+        "tags": [
+            "venezuela",
+            "sucesos"
+        ],
+        "link": "https://elluchador.info/?p=300899",
+        "date": "2026-01-27 21:18:00",
+        "sentiment_score": -0.7104898355901241
+    },
+    {
+        "title": "‘Sirat’ lleva el cine español a los BAFTA y refuerza su carrera internacional",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/01/27/2026012722173780103.jpg",
+        "tags": [
+            "cine"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/cine/sirat-lleva-cine-espanol-bafta-refuerza-carrera-internacional/20260127221750579094.html",
+        "date": "2026-01-27 21:17:50",
+        "sentiment_score": 0.7961562983691692
+    },
+    {
+        "title": "Representantes sindicales lideraron asamblea en Barcelona para exigir mejores salarios",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2026/01/imagen_2026-01-27_171343170.png",
+        "tags": [
+            "locales",
+            "gremios",
+            "economía"
+        ],
+        "link": "https://eltiempove.com/representantes-sindicales-lideraron-asamblea-en-barcelona-para-exigir-mejores-salarios/",
+        "date": "2026-01-27 21:15:41",
+        "sentiment_score": 0.32573866844177246
     }
 ];
