@@ -1,232 +1,5 @@
 export default [
     {
-        "title": "La verdad detrás del matrimonio de Dani Carvajal y Daphne Cañizares: \"Antes de conocer a mi marido no tuve una vida...\"",
-        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/files/fp/uploads/2026/01/20/696f9c2d78e95.r_d.1048-475-0.jpeg",
-        "tags": [
-            "trending topic"
-        ],
-        "link": "https://www.cadena100.es/trending-topic/noticias/verdad-detras-matrimonio-dani-carvajal-daphne-canizares-conocer-mi-marido-tuve-vida-20260124_144898.html",
-        "date": "2026-01-24 17:20:00",
-        "sentiment_score": -0.04834812879562378
-    },
-    {
-        "title": "La editorial Melqart resucita ‘Ibiza, puerto mediterráneo del libro’",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6d8cced8-6284-4229-a780-cc7bd1ef42e9_16-9-discover-aspect-ratio_default_0_x609y270.jpg",
-        "tags": [
-            "concursos literarios",
-            "cultura",
-            "sa nostra sala",
-            "ramon mayol"
-        ],
-        "link": "https://www.diariodeibiza.es/ibiza/2026/01/24/editorial-melqart-resucita-ibiza-encuentro-literario-126042627.html",
-        "date": "2026-01-24 17:15:16",
-        "sentiment_score": -0.11693602800369263
-    },
-    {
-        "title": "\"Soy futbolera solo por el Alavés\"",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/06320888-81a1-44f0-b76e-5fee9bda00ee_16-9-aspect-ratio_default_0_x998y85.jpg",
-        "tags": [
-            "105 aniversario",
-            "conchi olano",
-            "futbolera",
-            "alaves"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2026/01/24/futbolera-alaves-conchi-olano-105-aniversario-10611065.html",
-        "date": "2026-01-24 17:10:12",
-        "sentiment_score": 0.357491672039032
-    },
-    {
-        "title": "Barcelona - Real Madrid, en directo | Final de la Supercopa de España femenina",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/12/29/6952df25d531a.r_d.2804-2236.jpeg",
-        "tags": [
-            "f.c. barcelona"
-        ],
-        "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260124/1002607107/barcelona-real-madrid-directo-final-supercopa-espana-femenina.html",
-        "date": "2026-01-24 17:06:25",
-        "sentiment_score": 0.011716827750205994
-    },
-    {
-        "title": "La NFL regresará al Bernabéu en 2026 y 2027",
-        "image_url": "https://mundonow.com/wp-content/uploads/2026/01/e4fc74fe425436101b46a8926cc841e7e816e151-1200x800-1.jpg",
-        "tags": [
-            "deportes",
-            "futbol americano",
-            "nfl",
-            "fútbol americano"
-        ],
-        "link": "https://mundonow.com/la-nfl-regresara-al-bernabeu-en-2026-y-2027/",
-        "date": "2026-01-24 17:06:03",
-        "sentiment_score": 0.2243412882089615
-    },
-    {
-        "title": "Osasuna deja helado al Rayo",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/5bd02a6e-b499-4c3b-a5b855da6882686d.jpg",
-        "tags": [
-            "osasuna",
-            "villarreal cf",
-            "rubén garcía",
-            "sergio herrera",
-            "alavés",
-            "jon moncayola",
-            "vigo",
-            "íñigo pérez",
-            "real madrid",
-            "rayo vallecano",
-            "adamuz",
-            "budimir",
-            "jorge herrando"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zd2bbeed8-2a01-4248-a6644b55ac4cb0f9/202601/osasuna-deja-helado-al-rayo",
-        "date": "2026-01-24 16:57:43",
-        "sentiment_score": 0.34010428190231323
-    },
-    {
-        "title": "Sorpresivo Augsburg le propina al Bayern Múnich su primera derrota en la Bundesliga",
-        "image_url": "https://www.bostonherald.com/wp-content/uploads/2026/01/ALEMANIA-LIGA_15262.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.bostonherald.com/2026/01/24/sorpresivo-augsburg-le-propina-al-bayern-mnich-su-primera-derrota-en-la-bundesliga/",
-        "date": "2026-01-24 16:51:11",
-        "sentiment_score": 0.08854016661643982
-    },
-    {
-        "title": "¿Por qué defendemos a Julio Iglesias?",
-        "image_url": "https://www.alertadigital.com/wp-content/uploads/2026/01/Julio-Iglesias-1.jpg",
-        "tags": [
-            "cine y tv",
-            "julio iglesias",
-            "defendemos"
-        ],
-        "link": "https://www.alertadigital.com/2026/01/24/por-que-defendemos-a-julio-iglesias/",
-        "date": "2026-01-24 16:50:12",
-        "sentiment_score": -0.7664327686652541
-    },
-    {
-        "title": "El millonario patrimonio de Andreu Buenafuente al cumplir 61 años: un abultado colchón de empresas e inmuebles que sustentan su retirada temporal",
-        "image_url": "https://www.infobae.com/resizer/v2/XC3F6CZM5FDXLPGEYI74CKBCKI.jpg?auth=98a6828b07ea08d4acfa8bfd7e920b60b95674e039e1fed0c69b6a5db9e8bdd4&height=4000&smart=true&width=6000",
-        "tags": [
-            "famosos españa",
-            "españa-noticias",
-            "televisión españa",
-            "corazón y estilo españa",
-            "andreu buenafuente",
-            "españa-entretenimiento",
-            "gente españa",
-            "presentadores"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/24/el-millonario-patrimonio-de-andreu-buenafuente-al-cumplir-61-anos-un-abultado-colchon-de-empresas-e-inmuebles-que-sustentan-su-retirada-temporal/",
-        "date": "2026-01-24 17:16:09",
-        "sentiment_score": 0.7943354062736034
-    },
-    {
-        "title": "El Espanyol revive fantasmas del pasado en Mestalla",
-        "image_url": "https://static1.ara.cat/clip/9ac21b7c-dc9e-4e6d-b981-ba5309d40584_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pasado",
-            "fantasmas",
-            "espanyol",
-            "mestalla",
-            "revive"
-        ],
-        "link": "https://es.ara.cat/deportes/rcd-espanyol/espanyol-revive-fantasmas-pasado-mestalla_1_5627749.html",
-        "date": "2026-01-24 17:14:34",
-        "sentiment_score": -0.4573887139558792
-    },
-    {
-        "title": "Kevin Punter, designado MVP de la jornada 24 de la Euroliga",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260124181129_690.jpg",
-        "tags": [
-            "deportes",
-            "baloncesto"
-        ],
-        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-kevin-punter-designado-mvp-jornada-24-euroliga-20260124181129.html",
-        "date": "2026-01-24 17:11:29",
-        "sentiment_score": 0.5852933004498482
-    },
-    {
-        "title": "Pocos se fijan en este Seat León que es un chollo con Etiqueta ECO y consumo de mechero",
-        "image_url": "https://fotografias.lasexta.com/clipping/cmsimages02/2023/10/26/632D02D4-8CC6-4A9A-BB68-774952AD3FFF/seat-leon-hybrid_96.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "noticias motor",
-            "motor"
-        ],
-        "link": "https://www.lasexta.com/motor/noticias/pocos-fijan-este-seat-leon-que-chollo-etiqueta-eco-consumo-mechero_202601246974fcf5c48f6b4ee36c0181.html",
-        "date": "2026-01-24 17:10:13",
-        "sentiment_score": 0.25501078367233276
-    },
-    {
-        "title": "Agentes de inmigración disparan contra otra persona en Minneapolis",
-        "image_url": "https://static1.ara.cat/clip/9bdd739d-97fb-4708-b913-124f4ef591d1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "persona",
-            "disparan",
-            "minneapolis",
-            "agentes",
-            "inmigracion"
-        ],
-        "link": "https://es.ara.cat/internacional/america/agentes-inmigracion-disparan-persona-minneapolis_1_5627745.html",
-        "date": "2026-01-24 17:09:30",
-        "sentiment_score": -0.7923412825912237
-    },
-    {
-        "title": "Decenas de conductores atrapados, riesgo de aludes y 125 carreteras afectadas: la borrasca Ingrid causa estragos en España durante el sábado",
-        "image_url": "https://www.infobae.com/resizer/v2/LIL6OFKFAZFD5E7CFCMBYP6OOE.jpg?auth=1f8af45f78b682d590fda623b3823d5fb484e63ff68b862f770079778a8ef19b&height=1200&smart=true&width=1600",
-        "tags": [
-            "españa-noticias",
-            "metereología",
-            "clima",
-            "españa-sociedad",
-            "aemet",
-            "españa-no",
-            "tiempo en españa"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/24/decenas-de-conductores-atrapados-riesgo-de-aludes-y-125-carreteras-afectadas-la-borrasca-ingrid-causa-estragos-en-espana-durante-el-sabado/",
-        "date": "2026-01-24 17:04:05",
-        "sentiment_score": -0.42464810609817505
-    },
-    {
-        "title": "Guadalajara (México), distinguida en Barcelona por su liderazgo cultural: \"Es un motor del cambio social\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/24/vivir-en-barcelona/1003742726366_15638900_1706x960.jpg",
-        "tags": [
-            "universidades de barcelona",
-            "jaume collboni",
-            "vivir en barcelona",
-            "cultura"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260124/guadalajara-mexico-distinguida-barcelona-liderazgo-cultural-motor-cambio-social/1003742726365_0.html",
-        "date": "2026-01-24 17:03:44",
-        "sentiment_score": 0.5142378807067871
-    },
-    {
-        "title": "El PSG no pagará la cláusula de rescisión de Dro: Luis Enrique se apiada del Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/07/27/culemania/secciones/1003742677381_15638893_1706x960.jpg",
-        "tags": [
-            "luis enrique",
-            "deco",
-            "barça",
-            "psg",
-            "fichajes",
-            "primer equipo"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260124/psg-clausula-rescision-dro-luis-enrique-barca/1003742726361_0.html",
-        "date": "2026-01-24 17:03:36",
-        "sentiment_score": -0.1628338247537613
-    },
-    {
-        "title": "Tercer desprendimiento de tierras en las líneas de Rodalies: los técnicos trabajan en la línea R4 entre Cerdanyola y Sabadell tras un nuevo incidente",
-        "image_url": "https://gaceta.es/wp-content/uploads/2026/01/2855124466_51738484_1300x731-1-1.jpg",
-        "tags": [
-            "rodalies",
-            "adif",
-            "españa",
-            "renfe"
-        ],
-        "link": "https://gaceta.es/espana/tercer-desprendimiento-de-tierras-en-las-lineas-de-rodalies-los-tecnicos-trabajan-en-la-linea-r4-entre-cerdanyola-y-sabadell-tras-un-nuevo-incidente-20260124-1802/",
-        "date": "2026-01-24 17:02:59",
-        "sentiment_score": -0.8171917852014303
-    },
-    {
         "title": "Resumen Villarreal-Real Madrid: Mucho Mbappé en La Cerámica (0-2)",
         "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/24/image-0961f268-a366-49cd-87f9-b01e8c87bb2f-85-2560-1440.jpeg",
         "tags": [
@@ -2855,5 +2628,76 @@ export default [
         "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20260128/sindicatos-estallan-deterioro-red-tren-falta-seguridad-planean-huelgas-sector/1003744105338_0.html",
         "date": "2026-01-28 01:39:48",
         "sentiment_score": -0.6185784097760916
+    },
+    {
+        "title": "“Borra las conversaciones antes de salir”: las tácticas de los venezolanos por temor a que les revisen el celular",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/telefono-venezuela-2.jpg",
+        "tags": [
+            "borra",
+            "actualidad",
+            "revisen",
+            "celular",
+            "conversaciones",
+            "venezolanos",
+            "nacionales",
+            "tácticas"
+        ],
+        "link": "https://lapatilla.com/2026/01/27/borra-las-conversaciones-antes-de-salir-las-tacticas-de-los-venezolanos-por-temor-a-que-les-revisen-el-celular/",
+        "date": "2026-01-27 11:14:39",
+        "sentiment_score": -0.6245158761739731
+    },
+    {
+        "title": "El Real Madrid quiere sellar el billete del Top-8 de Champions en casa de Mourinho",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/938ca10d-aa69-43e7-bc15-2d72fd2b2167_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "champions",
+            "real madrid"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2026/01/28/real-madrid-quiere-sellar-billete-champions-benfica-126166057.html",
+        "date": "2026-01-28 06:47:19",
+        "sentiment_score": 0.17599833011627197
+    },
+    {
+        "title": "Las opciones de la última jornada de la Champions: 30 de los 36 equipos se juegan la clasificación",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c84ee34f-6502-4291-b12f-f716ec1ea47a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "atlético de madrid",
+            "fútbol",
+            "champions league",
+            "fc barcelona",
+            "champions",
+            "liga de campeones"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2026/01/28/programada-opciones-ultima-jornada-champions-126165964.html",
+        "date": "2026-01-28 06:45:38",
+        "sentiment_score": 0.08495701849460602
+    },
+    {
+        "title": "El precio de la gasolina en Madrid, Barcelona y otras ciudades para hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "gasolina",
+            "precio gasolina",
+            "españa-economia"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/28/el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-para-hoy/",
+        "date": "2026-01-28 06:45:57",
+        "sentiment_score": -0.006723418831825256
+    },
+    {
+        "title": "Accidente de tren en Adamuz, Córdoba, en directo | Puente expresa su \"sorpresa\" por las dudas del presidente de CIAF sobre la renovación de la vía",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/16fa625c-862d-4686-8b0a-578eb2af94c2_16-9-aspect-ratio_default_0_x838y314.jpg",
+        "tags": [
+            "accidente de tren córdoba",
+            "adif",
+            "trenes",
+            "renfe",
+            "córdoba",
+            "alta velocidad"
+        ],
+        "link": "https://www.lne.es/sucesos/2026/01/28/directo-accidente-tren-adamuz-cordoba-125819306.html",
+        "date": "2026-01-28 06:30:00",
+        "sentiment_score": -0.5442737080156803
     }
 ];
