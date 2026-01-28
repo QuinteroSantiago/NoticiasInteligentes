@@ -2686,5 +2686,174 @@ export default [
         "link": "https://eltiempove.com/representantes-sindicales-lideraron-asamblea-en-barcelona-para-exigir-mejores-salarios/",
         "date": "2026-01-27 21:15:41",
         "sentiment_score": 0.32573866844177246
+    },
+    {
+        "title": "La estación de trenes de Granada pierde más de 250.000 pasajeros en solo un año, el peor dato desde que llegó el AVE",
+        "image_url": "https://static.grupojoly.com/clip/8a0aa2e3-e21b-4700-bdca-43c292f4245e_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ave granada",
+            "infraestructuras granada",
+            "link en bio granada",
+            "tren granada",
+            "últimas noticias granada"
+        ],
+        "link": "https://www.granadahoy.com/granada/estacion-trenes-granada-pierde-pasajeros-ano-peor-dato-ave_0_2005742091.html",
+        "date": "2026-01-28 01:59:18",
+        "sentiment_score": -0.8985873060300946
+    },
+    {
+        "title": "CIMD Intermoney elimina la marca Beka tras la compra de sus principales negocios y la rebautiza como Zintra",
+        "image_url": "https://s3.elespanol.com/2025/06/26/actualidad/1003743823186_256820833_1706x960.jpg",
+        "tags": [
+            "créditos bancarios",
+            "banca",
+            "fondos de inversión",
+            "adquisiciones empresariales"
+        ],
+        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20260128/cimd-intermoney-elimina-marca-beka-compra-principales-negocios-rebautiza-zintra/1003744106201_0.html",
+        "date": "2026-01-28 01:39:49",
+        "sentiment_score": 0.1546451523900032
+    },
+    {
+        "title": "La Unidad de Emergencias que cerró Puente era clave para la seguridad ferroviaria según informes en poder de la UCO",
+        "image_url": "https://s3.elespanol.com/2026/01/27/actualidad/1003744106393_261125579_1706x1280.jpg",
+        "tags": [
+            "periodismo de investigación",
+            "óscar puente santiago",
+            "ministerio de transporte",
+            "movilidad y agenda urbana",
+            "adamuz",
+            "observatorio de la movilidad",
+            "adif",
+            "gobierno de españa",
+            "accidentes de tren"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20260128/unidad-emergencias-cerro-puente-clave-seguridad-ferroviaria-informes-poder-uco/1003744105618_0.html",
+        "date": "2026-01-28 01:39:46",
+        "sentiment_score": -0.26616068184375763
+    },
+    {
+        "title": "París-Real Madrid: La racha europea legal a su fin (98-92)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/27/image-a269724a-9268-4835-8447-7265516fe81b-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "sports",
+            "lifestyle"
+        ],
+        "link": "https://www.eurosport.es/baloncesto/euroliga/2025-2026/paris-real-madrid-video-resumen-mejores-momentos-y-resultado-fase-regular-highlights-hoy_vid60050558/video.shtml",
+        "date": "2026-01-28 01:32:36",
+        "sentiment_score": -0.25625498592853546
+    },
+    {
+        "title": "España abre una ruta de regularización migratoria, en contraste con el mundo",
+        "image_url": "https://www.infobae.com/resizer/v2/O2GFWVP6J5DUDLNHN755SOAESU.jpg?auth=a33f8d2319021251d9f52f83d54959bfe490508c45634fdfbdd426198bd7897d&height=1366&smart=true&width=2048",
+        "tags": [
+            "new york times"
+        ],
+        "link": "https://www.infobae.com/america/the-new-york-times/2026/01/28/espana-abre-una-ruta-de-regularizacion-migratoria-en-contraste-con-el-mundo/",
+        "date": "2026-01-28 01:30:18",
+        "sentiment_score": -0.01523495465517044
+    },
+    {
+        "title": "Peligro en la Champions: PSG, Real Madrid, Barcelona y Man City enfrentan riesgo de caer a playoffs",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/db248f5/2147483647/strip/true/crop/3708x1947+0+263/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F97%2F28%2F1031313e4d80a1cf0181fa51dcfe%2F16175a53171c4f0ea8c29fe4cd543df4.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-01-27/peligro-en-la-champions-psg-real-madrid-barcelona-y-man-city-enfrentan-riesgo-de-caer-playoffs",
+        "date": "2026-01-28 01:28:57",
+        "sentiment_score": 0.5638909190893173
+    },
+    {
+        "title": "La fotógrafa iraní Hoda Afshar, sobre el velo: \"Lo que rechazo es que el cuerpo de la mujer se convierta en el foco\"",
+        "image_url": "https://s3.elespanol.com/2026/01/22/actualidad/1003744100316_261114610_1706x960.jpg",
+        "tags": [
+            "irán",
+            "arte",
+            "fotografía",
+            "entrevistas",
+            "exposiciones"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20260128/fotografa-irani-hoda-afshar-velo-rechazo-cuerpo-mujer-convierta-foco/1003744100291_0.html",
+        "date": "2026-01-28 00:55:00",
+        "sentiment_score": 0.03557370603084564
+    },
+    {
+        "title": "Maldini desvela su predicción para el top 8 de la Champions con sorpresas",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/28/69794f137b2f8.webp",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/maldini-desvela-prediccion-top-8-champions-sorpresas-20260128_3295706.html",
+        "date": "2026-01-28 00:36:13",
+        "sentiment_score": -0.08494561910629272
+    },
+    {
+        "title": "De eliminar al Real Madrid en la Copa del Rey a fomentar el emprendimiento innovador en zonas rurales",
+        "image_url": "https://s3.elespanol.com/2026/01/21/actualidad/1003744098158_261020144_1706x960.jpg",
+        "tags": [
+            "albacete balompié",
+            "albacete (municipio)",
+            "innovación",
+            "talento",
+            "castilla-la mancha",
+            "despoblación",
+            "emprendimiento",
+            "castilla la mancha"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/castilla-la-mancha/20260128/eliminar-real-madrid-copa-rey-fomentar-emprendimiento-innovador-zonas-rurales/1003744098133_0.html",
+        "date": "2026-01-28 00:34:00",
+        "sentiment_score": 0.6254543624818325
+    },
+    {
+        "title": "Clima en Barcelona: temperatura y probabilidad de lluvia para este 28 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
+        "tags": [
+            "barcelona",
+            "tiempo en españa",
+            "españa sociedad",
+            "españa noticias",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/28/clima-en-barcelona-temperatura-y-probabilidad-de-lluvia-para-este-28-de-enero/",
+        "date": "2026-01-28 02:15:36",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Charlie Chan",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "charlie",
+            "chan"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/charlie-chan_0_2005747463.html",
+        "date": "2026-01-28 02:08:22",
+        "sentiment_score": -0.37507806718349457
+    },
+    {
+        "title": "Los funerales verdaderos",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "verdaderos",
+            "funerales"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/funerales-verdaderos_0_2005747393.html",
+        "date": "2026-01-28 02:06:38",
+        "sentiment_score": -0.8916198182851076
+    },
+    {
+        "title": "Los sindicatos estallan por el deterioro de la red de tren y la falta de seguridad: planean huelgas en todo el sector",
+        "image_url": "https://s3.elespanol.com/2026/01/27/actualidad/1003744106334_261123351_1706x960.jpg",
+        "tags": [
+            "movilidad",
+            "adamuz",
+            "observatorio de la movilidad",
+            "adif",
+            "accidentes de tren"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20260128/sindicatos-estallan-deterioro-red-tren-falta-seguridad-planean-huelgas-sector/1003744105338_0.html",
+        "date": "2026-01-28 01:39:48",
+        "sentiment_score": -0.6185784097760916
     }
 ];
