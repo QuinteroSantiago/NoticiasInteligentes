@@ -1,441 +1,5 @@
 export default [
     {
-        "title": "Resumen Villarreal-Real Madrid: Mucho Mbappé en La Cerámica (0-2)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/24/image-0961f268-a366-49cd-87f9-b01e8c87bb2f-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/villarreal-real-madrid-video-resumen-resultado-goles-y-mejores-momentos-del-partido-jornada-21-hoy_vid60049634/video.shtml",
-        "date": "2026-01-24 22:18:56",
-        "sentiment_score": 0.6207213327288628
-    },
-    {
-        "title": "Liga F | Derbi guipuzcoano en Zubieta",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c5d64014-c5f5-4141-8453-3ee331ac8bfc_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "zubieta",
-            "derbi",
-            "guipuzcoano",
-            "liga",
-            "f"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/femenino/2026/01/24/liga-f-derbi-guipuzcoano-zubieta-10612649.html",
-        "date": "2026-01-24 22:17:18",
-        "sentiment_score": 0.6197063066065311
-    },
-    {
-        "title": "Silencio, poder y cálculo: ¿por qué a nadie le importa un pito el “novio” del cardenal Cobo?",
-        "image_url": "https://www.alertadigital.com/wp-content/uploads/2026/01/jose-cobo.jpg",
-        "tags": [
-            "cardenal",
-            "silencio",
-            "calculo",
-            "portada",
-            "novio",
-            "poder",
-            "cobo"
-        ],
-        "link": "https://www.alertadigital.com/2026/01/24/silencio-poder-y-calculo-por-que-a-nadie-le-importa-un-pito-el-novio-del-cardenal-cobo/",
-        "date": "2026-01-24 22:16:45",
-        "sentiment_score": 0.027710169553756714
-    },
-    {
-        "title": "Barça - Real Madrid, en imágenes",
-        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/01/24/697536d6e2443.r_d.3555-2360-0.jpeg",
-        "tags": [
-            "supercopa españa"
-        ],
-        "link": "https://www.mundodeportivo.com/supercopa-espana/20260124/1002607949/barca-real-madrid-imagenes.html",
-        "date": "2026-01-24 22:16:29",
-        "sentiment_score": -0.06181476265192032
-    },
-    {
-        "title": "\"La segunda parte del Madrid me ha parecido de lo mejor de esta temporada\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2026/01/24/6975420c4845c.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/paco-gonzalez-director-juego-me-gustado-segunda-parte-madrid-villarreal-partido-monaco-20260124_3293741.html",
-        "date": "2026-01-24 22:15:29",
-        "sentiment_score": -0.004242420196533203
-    },
-    {
-        "title": "Pichichi imparable: Mbappé destroza al Villarreal y el Madrid se coloca en la cima de LaLiga",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/24/2025082423463883492.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/pichichi-liderato-mbappe-tumba-villarreal-dos-goles/20260124231301371977.html",
-        "date": "2026-01-24 22:13:01",
-        "sentiment_score": 0.7663484252989292
-    },
-    {
-        "title": "Alarma en la selección argentina por la nueva lesión que sufrió de Juan Foyth en Villarreal-Real Madrid: el gesto de Mastantuono",
-        "image_url": "https://www.infobae.com/resizer/v2/YG6VYK2K6JGWNBONO2LRW4QCKM.JPG?auth=20769b16fe94cc5c5b6747f377fc4c87784d5762579d241a0a133111c7dc76cb&height=4258&smart=true&width=7569",
-        "tags": [
-            "deportes-argentina",
-            "juan foyth",
-            "selección argentina",
-            "villareal"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/24/alarma-en-la-seleccion-argentina-por-la-nueva-lesion-que-sufrio-de-juan-foyth-en-villarreal-real-madrid-el-gesto-de-mastantuono/",
-        "date": "2026-01-24 22:11:54",
-        "sentiment_score": -0.8008160125464201
-    },
-    {
-        "title": "Arbeloa gana crédito a base de goles de Mbappé",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/24/villarreal-realmadrid-mbappe-k64C-U20319733330vLI-1200x840@RC.jpg",
-        "tags": [
-            "real madrid"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/cronica-villarreal-realmadrid-jornada21-primera-20260124174637-ntrc.html",
-        "date": "2026-01-24 22:10:40",
-        "sentiment_score": -0.2012193650007248
-    },
-    {
-        "title": "Los postes frenan a un Cádiz CF que merece mucho más (1-2)",
-        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/canal-amarillo/2026/01/24/IMG-20260124-WA0037-Rla0GyorACTINq38UtDEMTK-758x531@abc.jpg",
-        "tags": [
-            "postes",
-            "frenan",
-            "merece",
-            "cadiz"
-        ],
-        "link": "https://www.lavozdigital.es/canal-amarillo/noticias-cadiz-cf/postes-frenan-cadiz-merece-20260124230649-div.html",
-        "date": "2026-01-24 22:11:16",
-        "sentiment_score": -0.0597836971282959
-    },
-    {
-        "title": "Mbappé noquea al Villarreal y confirma la mejoría del Real Madrid, que duerme líder (0-2)",
-        "image_url": "https://cflvdg.avoz.es/sc/rg05b7BlvQcA6PJWBI0ulZUBqEs=/768x/2026/01/24/00121769290441558545572/Foto/GE25P50F1_223151.jpg",
-        "tags": [
-            "villarreal cf",
-            "real madrid",
-            "deportes"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/24/mbappe-noquea-villarreal-confirma-mejoria-real-madrid-duerme-lider-0-2/00031769290518209587750.htm",
-        "date": "2026-01-24 22:07:00",
-        "sentiment_score": -0.7782977726310492
-    },
-    {
-        "title": "Mbappé saca de un lío al Real Madrid: Álvaro Arbeloa le araña el liderato a Hansi Flick antes del Barça-Real Oviedo",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/24/culemania/real-madrid/1003742726430_15639685_1706x960.jpg",
-        "tags": [
-            "real madrid",
-            "álvaro arbeloa",
-            "la liga",
-            "kylian mbappé"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260124/mbappe-madrid-alvaro-arbeloa-hansi-barca-real-oviedo/1003742726429_0.html",
-        "date": "2026-01-24 22:03:23",
-        "sentiment_score": 0.5576541498303413
-    },
-    {
-        "title": "Barcelona moviliza terreno: así es el plan para proyectar hasta 65.000 m2 de vivienda en La Maquinista",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2022/09/10/vivir-en-barcelona/702189775_9105898_1706x960.jpg",
-        "tags": [
-            "economía",
-            "viviendas",
-            "centro comercial",
-            "sant andreu de palomar",
-            "vivienda",
-            "sant andreu"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sant-andreu/20260124/barcelona-moviliza-terreno-plan-proyectar-m2-vivienda-maquinista/1003742725659_0.html",
-        "date": "2026-01-24 22:00:00",
-        "sentiment_score": 0.2160821557044983
-    },
-    {
-        "title": "Artur Ramon, anticuario desde hace 35 años en Barcelona: “La única salida que tenemos es la exportación”",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/19/vivir-en-barcelona/1003742708913_15421651_1706x960.jpg",
-        "tags": [
-            "historia",
-            "comercio",
-            "vivir en barcelona",
-            "el gòtic",
-            "turistas"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260124/artur-ramon-anticuario-hace-anos-barcelona-unica-salida-exportacion/1003742708814_0.html",
-        "date": "2026-01-24 22:00:00",
-        "sentiment_score": 0.13837403059005737
-    },
-    {
-        "title": "Barcelona colaborará con Valencia para impulsar su reactivación cultural tras la DANA",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/15/informacion-municipal/1003742723634_15604795_1706x960.jpg",
-        "tags": [
-            "solidaridad",
-            "ayuntamiento de barcelona",
-            "subvenciones barcelona",
-            "cultura",
-            "información municipal"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260124/barcelona-colaborara-valencia-impulsar-reactivacion-cultural-dana/1003742723590_0.html",
-        "date": "2026-01-24 22:00:00",
-        "sentiment_score": 0.16991522908210754
-    },
-    {
-        "title": "El Oviedo, en busca de la sorpresa en el Camp Nou",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/01/24/211306889-kXF--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "f.c. barcelona",
-            "real oviedo",
-            "guillermo almada"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/oviedo-busca-sorpresa-camp-nou-20260124203357-nt.html",
-        "date": "2026-01-24 21:59:34",
-        "sentiment_score": -0.8554874658584595
-    },
-    {
-        "title": "Sabor en plato y copa",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/01/24/211292545-kdZB--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "copa",
-            "plato",
-            "sabor"
-        ],
-        "link": "https://www.elcomercio.es/gijon/sabor-plato-copa-20260125192436-nt.html",
-        "date": "2026-01-24 21:56:43",
-        "sentiment_score": 0.2403733730316162
-    },
-    {
-        "title": "Jorge Azcón: \"Yo quiero un Gobierno sólo con consejeros del PP y dudo de que Vox quiera remangarse y gobernar\"",
-        "image_url": "https://s3.elespanol.com/2026/01/24/actualidad/1003744102984_261083152_1706x960.jpg",
-        "tags": [
-            "pilar alegría",
-            "política",
-            "hablando sobre españa",
-            "jorge azcón",
-            "elecciones autonómicas",
-            "aragón",
-            "entrevistas"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20260125/jorge-azcon-quiero-gobierno-solo-consejeros-pp-dudo-vox-quiera-remangarse-gobernar/1003744102838_0.html",
-        "date": "2026-01-25 02:00:00",
-        "sentiment_score": -0.5971465408802032
-    },
-    {
-        "title": "Al rescate de la Ilustración, una brújula moral y racional para entender el desconcertante siglo XXI",
-        "image_url": "https://s3.elespanol.com/2026/01/23/actualidad/1003744101314_261059399_1706x960.jpg",
-        "tags": [
-            "literatura",
-            "ensayo",
-            "letras"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/letras/20260125/rescate-ilustracion-brujula-moral-racional-entender-desconcertante-siglo-xxi/1003744101297_0.html",
-        "date": "2026-01-25 01:51:49",
-        "sentiment_score": 0.5370568297803402
-    },
-    {
-        "title": "Óscar, el entrenador de fútbol y policía militar detenido por tenencia de pornografía infantil: \"No hay denuncias de padres\"",
-        "image_url": "https://s3.elespanol.com/2026/01/24/actualidad/1003744102718_261079534_1706x960.jpg",
-        "tags": [
-            "menores",
-            "extremadura",
-            "reportajes",
-            "españa",
-            "badajoz (municipio)",
-            "cáceres (provincia)",
-            "guardia civil"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260125/oscar-entrenador-futbol-policia-militar-detenido-tenencia-pornografia-infantil-no-denuncias-padres/1003744102715_0.html",
-        "date": "2026-01-25 01:39:08",
-        "sentiment_score": -0.885512669570744
-    },
-    {
-        "title": "La noche en la que Emil Jonsson volvió a nacer en el mortífero vagón 8 del Iryo: \"Un chico me cambió el sitio. Él murió y yo...\"",
-        "image_url": "https://s3.elespanol.com/2026/01/24/actualidad/1003744103002_261083467_1706x960.jpg",
-        "tags": [
-            "córdoba (municipio)",
-            "adamuz",
-            "iryo",
-            "renfe",
-            "accidentes",
-            "reportajes",
-            "sucesos"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260125/noche-emil-jonsson-volvio-nacer-mortifero-vagon-iryo-chico-cambio-sitio-murio/1003744096906_0.html",
-        "date": "2026-01-25 01:38:01",
-        "sentiment_score": -0.8996952911838889
-    },
-    {
-        "title": "Delcy impone un consejo de paz con chavistas, falsos opositores y \"extorsionadores\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/83af476d1f02dc84f55f8d2cc3f0f952/crop/25x0/2156x1421/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/24/17692793189831.jpg",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://www.elmundo.es/internacional/2026/01/25/6975068ae4d4d8d4418b457e.html",
-        "date": "2026-01-25 01:08:56",
-        "sentiment_score": -0.8586075883358717
-    },
-    {
-        "title": "El primer gol de Lucas Vázquez en Bundesliga: Combinación y definición que es puro caviar",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1148x307:1150x305)/origin-imgresizer.eurosport.com/2026/01/25/image-99896009-9968-4b0d-9c49-27cd93782c77-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/bundesliga/2025-2026/primer-gol-lucas-vazquez-bundesliga-combinacion-definicion-puro-caviar-video-hoy_vid60049639/video.shtml",
-        "date": "2026-01-25 00:34:05",
-        "sentiment_score": 0.8215714544057846
-    },
-    {
-        "title": "Los secretos de la parrilla según las cinco mujeres con más talento de España al frente de las brasas",
-        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/01/21/17689886140889.jpg",
-        "tags": [
-            "restaurantes",
-            "gastronomía",
-            "comer"
-        ],
-        "link": "https://www.elmundo.es/metropoli/gastronomia/2026/01/25/6970a2c521efa0916d8b4587.html",
-        "date": "2026-01-25 00:30:21",
-        "sentiment_score": -0.032287657260894775
-    },
-    {
-        "title": "Arbeloa promete más tras la victoria en Villarreal: \"Tenemos mucho margen de mejora\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/25/image-a1483b93-64e7-4c35-a09d-3b4b741e1abd-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/video-alvaro-arbeloa-rueda-de-prensa-victoria-real-madrid-villarreal-jornada-21-margen-mejora-equipo-futbolistas-hoy_vid60049636/video.shtml",
-        "date": "2026-01-25 00:19:32",
-        "sentiment_score": 0.8584365546703339
-    },
-    {
-        "title": "Sánchez mantiene a Puente como dique de contención de las críticas al Gobierno",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2026/01/europapress-7239554-ministro-transportes-movilidad-sostenible-oscar-puente-atiende-medios-rueda-1440x808.jpg",
-        "tags": [
-            "partido socialista obrero español (psoe)",
-            "transportes",
-            "partido popular (pp)",
-            "accidente de tren en adamuz",
-            "crónicas desde la moncloa",
-            "renfe",
-            "iryo",
-            "españa",
-            "pedro sánchez",
-            "óscar puente",
-            "gobierno de españa"
-        ],
-        "link": "https://www.elindependiente.com/espana/2026/01/25/sanchez-mantiene-a-puente-como-dique-de-contencion-de-las-criticas-al-gobierno/",
-        "date": "2026-01-25 02:14:16",
-        "sentiment_score": -0.8212764281779528
-    },
-    {
-        "title": "La emoción del jugador argentino de Alianza Lima que se llevó la camiseta de Lionel Messi: el gesto que lo conmovió",
-        "image_url": "https://www.infobae.com/resizer/v2/PQWQUOGOTJBZLG3HZXH6XONWE4.jpeg?auth=ead7cef9b359883474426967de4ee400cd1afb8b655daedbfc720656fcb8ae79&height=1152&smart=true&width=2048",
-        "tags": [
-            "alianza lima",
-            "deportes-argentina",
-            "lionel messi",
-            "alan cantero",
-            "inter miami"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/25/la-emocion-del-jugador-argentino-de-alianza-lima-que-se-llevo-la-camiseta-de-lionel-messi-el-gesto-que-lo-conmovio/",
-        "date": "2026-01-25 02:11:08",
-        "sentiment_score": 0.05313950777053833
-    },
-    {
-        "title": "Uviéu, ente les ciudaes españoles onde ye más barato arrendar una habitación: esti ye'l preciu mediu",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1af847cf-1ec5-4330-a6db-a8d82cf12124_16-9-aspect-ratio_default_0_x609y270.jpg",
-        "tags": [
-            "oviedo"
-        ],
-        "link": "https://www.lne.es/asturias/n-asturianu/2026/01/25/uvieu-ente-les-ciudaes-espanoles-125945687.html",
-        "date": "2026-01-25 02:00:16",
-        "sentiment_score": -0.10872748494148254
-    },
-    {
-        "title": "Nicki Nicole compartió sus sensaciones a menos de un mes de cantar en el Teatro Colón: “Van a ser muy felices”",
-        "image_url": "https://www.infobae.com/resizer/v2/HFXTTG62LZE4XD5MJMRBKY3ADI.png?auth=473e918f46cb050e5316c880e92e5a7c884bcdbc2d8e6a36c36621fa543b95b0&height=1080&smart=true&width=1920",
-        "tags": [
-            "espectáculo sinfónico",
-            "teatro colón",
-            "buenos aires",
-            "premios grammy",
-            "nicki nicole"
-        ],
-        "link": "https://www.infobae.com/teleshow/2026/01/25/nicki-nicole-compartio-sus-sensaciones-a-menos-de-un-mes-de-cantar-en-el-teatro-colon-van-a-ser-muy-felices/",
-        "date": "2026-01-25 01:00:46",
-        "sentiment_score": 0.7717510126531124
-    },
-    {
-        "title": "“Hasta la luna”: el divertido intercambio entre Colapinto y Gasly dentro de un auto superdeportivo de Alpine",
-        "image_url": "https://www.infobae.com/resizer/v2/ANECBB4JPBHZPPC2LJWFU4ORWM.jpg?auth=57a3592352dbab2c3b089f1d5692c5a32d02776dd030d53358708a97223cb517&height=547&smart=true&width=972",
-        "tags": [
-            "franco colapinto",
-            "f1",
-            "alpine",
-            "fórmula 1",
-            "pierre gasly"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/25/hasta-la-luna-el-divertido-intercambio-entre-colapinto-y-gasly-dentro-de-un-auto-superdeportivo-de-alpine/",
-        "date": "2026-01-25 00:59:14",
-        "sentiment_score": 0.5908731520175934
-    },
-    {
-        "title": "El descarrilamiento político de Óscar Puente",
-        "image_url": "https://s3.elespanol.com/2026/01/24/actualidad/1003744102991_261083284_1706x1280.jpg",
-        "tags": [
-            "opinión",
-            "óscar puente santiago",
-            "accidentes de tren",
-            "adamuz",
-            "pedro sánchez",
-            "carta del director",
-            "psoe (partido socialista obrero español)",
-            "gobierno de españa",
-            "pedro j. ramírez"
-        ],
-        "link": "https://www.elespanol.com/opinion/carta-del-director/20260125/descarrilamiento-politico-oscar-puente/1003744102986_20.html",
-        "date": "2026-01-25 00:52:57",
-        "sentiment_score": -0.7802797518670559
-    },
-    {
-        "title": "Adif traslada su respeto a la decisión judicial sobre el accidente de Angrois, contra la que no cabe recurso de casación",
-        "image_url": "https://www.infobae.com/resizer/v2/Q2MUIWISCZCOJP6YSWBU5GMP74.jpg?auth=1bd8abce8d0ca90dae265cae224ba5f5d301a7a111d9acf9b6e34bc044edebef&height=1280&smart=true&width=1920",
-        "tags": [
-            "a coruña",
-            "audiencia provincial de a coruña",
-            "alvia",
-            "adif",
-            "tribunal superior de xustiza de galicia",
-            "francisco garzón",
-            "accidente de angrois",
-            "europapress",
-            "sentencia judicial",
-            "santiago",
-            "andrés cortabitarte"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/23/adif-traslada-su-respeto-a-la-decision-judicial-sobre-el-accidente-de-angrois-contra-la-que-no-cabe-recurso-de-casacion/",
-        "date": "2026-01-25 00:47:27",
-        "sentiment_score": -0.7511487621814013
-    },
-    {
-        "title": "Sara R. Fuertes, la 'celestina' que une a 70 parejas al año en su agencia matrimonial: \"La gente vuelve al método tradicional\"",
-        "image_url": "https://s3.elespanol.com/2026/01/25/actualidad/1003744103127_261085455_1706x960.jpg",
-        "tags": [
-            "relaciones de pareja",
-            "valencia",
-            "amor",
-            "comunidad valenciana"
-        ],
-        "link": "https://www.elespanol.com/valencia/20260125/sara-fuertes-celestina-une-parejas-ano-agencia-matrimonial-gente-vuelve-metodo-tradicional-dl/1003744098418_0.html",
-        "date": "2026-01-25 00:47:10",
-        "sentiment_score": -0.9150559501722455
-    },
-    {
-        "title": "La fatalidad y la negligencia",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/02/26/63fb90c4cb392.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20260125/fatalidad-negligencia_377859.html",
-        "date": "2026-01-25 00:30:00",
-        "sentiment_score": -0.8720739651471376
-    },
-    {
         "title": "El histórico de la corrupción en ADIF: cargos imputados, enchufes y sospechas de mantenimiento inadecuado",
         "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/08/20/68a5f00786be1.png",
         "tags": [
@@ -2699,5 +2263,230 @@ export default [
         "link": "https://www.lne.es/sucesos/2026/01/28/directo-accidente-tren-adamuz-cordoba-125819306.html",
         "date": "2026-01-28 06:30:00",
         "sentiment_score": -0.5442737080156803
+    },
+    {
+        "title": "Delcy Rodríguez, del diálogo con EEUU a las advertencias: ¿un cambio real o un mensaje solo para audiencias chavistas?",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/f80fa2cfe9e34574be4f3682c8143529bb939217w.jpg",
+        "tags": [
+            "usa",
+            "actualidad",
+            "mensaje",
+            "delcy rodriguez",
+            "eeuu",
+            "nacionales",
+            "chavistas"
+        ],
+        "link": "https://lapatilla.com/2026/01/28/delcy-rodriguez-del-dialogo-con-eeuu-a-las-advertencias-un-cambio-real-o-un-mensaje-solo-para-audiencias-chavistas/",
+        "date": "2026-01-28 11:17:45",
+        "sentiment_score": -0.11945667862892151
+    },
+    {
+        "title": "Cuartos de final de la Copa del Rey: Mira aquí todos los juegos gratis",
+        "image_url": "https://pxcdn.meridiano.net/012026/1769621703161.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/cuartos-de-final-de-la-copa-del-rey-mira-aqui-todos-los-juegos-gratis-202612813360",
+        "date": "2026-01-28 17:36:00",
+        "sentiment_score": 0.6496203802525997
+    },
+    {
+        "title": "Regularización Ya eleva a más de 700.000 los migrantes que podrían acceder al proceso anunciado por el Gobierno",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260128183558_120.jpg",
+        "tags": [
+            "ep social",
+            "migración"
+        ],
+        "link": "https://www.europapress.es/epsocial/migracion/noticia-regularizacion-ya-eleva-mas-700000-migrantes-podrian-acceder-proceso-anunciado-gobierno-20260128183558.html",
+        "date": "2026-01-28 17:35:58",
+        "sentiment_score": 0.48752254992723465
+    },
+    {
+        "title": "Hugo Sánchez pone a Armando ‘La Hormiga’ González en la pelea rumbo al Mundial 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/IDTZ6QYJLNC63FZJLXARUWG7DQ.jpg?auth=0bbcb1f6a7de24565bb40fd626cd740a9fef7f8b3470a84508abf356b9ec16f5&height=1080&smart=true&width=1920",
+        "tags": [
+            "mexico-deportes",
+            "armando ‘la hormiga’ gonzález",
+            "mundial 2026",
+            "hugo sánchez",
+            "selección mexicana"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2026/01/28/hugo-sanchez-pone-a-armando-la-hormiga-gonzalez-en-la-pelea-rumbo-al-mundial-2026/",
+        "date": "2026-01-28 17:33:44",
+        "sentiment_score": 0.8492759298533201
+    },
+    {
+        "title": "La CNMV autoriza la segunda opa de Neinor sobre Aedas Homes",
+        "image_url": "http://img.s3wfg.com/web/img/images_uploaded/d/2/ep_archivo_-_el_consejero_delegado_de_neinor_homes_borja_garcia-egotxeaga.jpg",
+        "tags": [
+            "empresas"
+        ],
+        "link": "https://www.bolsamania.com/noticias/empresas/cnmv-autoriza-segunda-opa-neinor-sobre-aedas-homes--21566900.html",
+        "date": "2026-01-28 17:28:50",
+        "sentiment_score": 0.07491538673639297
+    },
+    {
+        "title": "La ciudad de León se posiciona como destino gastronómico \"con identidad propia\" en la Feria Madrid Fusión",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260128182847_260.jpg",
+        "tags": [
+            "castilla y león"
+        ],
+        "link": "https://www.europapress.es/castilla-y-leon/noticia-ciudad-leon-posiciona-destino-gastronomico-identidad-propia-feria-madrid-fusion-20260128182847.html",
+        "date": "2026-01-28 17:28:47",
+        "sentiment_score": 0.5036433786153793
+    },
+    {
+        "title": "Jordi Ribera: \"Portugal es un rival mucho más curtido que nosotros\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260128182802_690.jpg",
+        "tags": [
+            "balonmano",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/balonmano-00167/noticia-jordi-ribera-portugal-rival-mucho-mas-curtido-nosotros-20260128182802.html",
+        "date": "2026-01-28 17:28:02",
+        "sentiment_score": -0.9092924175783992
+    },
+    {
+        "title": "El temporal ‘Kristin’ corta carreteras, provoca desalojos por las crecidas de ríos y suspende clases",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OJLXG7WRG5JQXEAZSKETJZI7WE.jpg?auth=8d2a0de66ecba818aa641aff7fd7a31f0d9e066f6eda53d09c9ff22b0802022b&width=1200",
+        "tags": [
+            "lluvias torrenciales",
+            "españa",
+            "educación",
+            "nieve",
+            "cádiz",
+            "castilla-la mancha",
+            "castilla y león",
+            "viento",
+            "extremadura",
+            "temporales",
+            "sevilla",
+            "almería"
+        ],
+        "link": "https://elpais.com/espana/2026-01-28/el-temporal-kristin-corta-carreteras-provoca-desalojos-por-las-crecidas-de-rios-y-suspende-clases.html",
+        "date": "2026-01-28 17:26:36",
+        "sentiment_score": -0.7411067448556423
+    },
+    {
+        "title": "Champions League hoy: horario y dónde ver en directo todos los partidos de la última jornada",
+        "image_url": "https://okdiario.com/img/2026/01/27/vini.jpg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "champions league"
+        ],
+        "link": "https://okdiario.com/deportes/champions-league-hoy-horario-donde-ver-directo-todos-partidos-ultima-jornada-16143048",
+        "date": "2026-01-28 17:26:18",
+        "sentiment_score": 0.6216650567948818
+    },
+    {
+        "title": "Hasta el Community Manager del Real Madrid se ríe de Arbeloa, el ‘cono-cido’ de Piqué",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/28/culemania/culemaniacos/1003742727537_15653554_1706x960.jpg",
+        "tags": [
+            "gerard piqué",
+            "álvaro arbeloa",
+            "real madrid"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260128/community-manager-real-madrid-arbeloa-cono-cido-pique/1003742727513_0.html",
+        "date": "2026-01-28 17:24:19",
+        "sentiment_score": 0.00274050235748291
+    },
+    {
+        "title": "Unión Deportiva Almería: peligros, crisis de resultados y Rubi en la diana",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/01/union-deportiva-almeria-peligros-crisis-resultados-rubi-diana.3-750x488.jpeg",
+        "tags": [
+            "deportes",
+            "ad ceuta",
+            "futbol"
+        ],
+        "link": "https://elfarodeceuta.es/union-deportiva-almeria-peligros-crisis-resultados-rubi-diana/",
+        "date": "2026-01-28 17:23:53",
+        "sentiment_score": -0.13390468060970306
+    },
+    {
+        "title": "Sabores medievales para elegir al mejor chef joven",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3653327.jpg",
+        "tags": [
+            "ies maria àngels cardona",
+            "fundació foment del turisme de menorca",
+            "vivir en menorca",
+            "european young chef award"
+        ],
+        "link": "https://www.menorca.info/menorca/vivir-menorca/2026/01/28/2558681/sabores-medievales-para-elegir-mejor-chef-joven.html",
+        "date": "2026-01-28 17:35:27",
+        "sentiment_score": 0.836511293426156
+    },
+    {
+        "title": "La Generalitat da por cerrado el realojo del B9 de Badalona tras reubicar a las últimas 30 personas",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/25/694cf8e2e32222-38444532.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/generalitat-da-por-cerrado-realojo-b9-badalona-tras-reubicar-las-ultimas-30-personas_6927114_0.html",
+        "date": "2026-01-28 17:35:16",
+        "sentiment_score": 0.0943489521741867
+    },
+    {
+        "title": "Huelva acoge este jueves una misa funeral por las víctimas de Adamuz con presencia de los reyes",
+        "image_url": "https://www.infobae.com/resizer/v2/VB57QW5ZFVH6DICA3LT6ET33II.jpg?auth=07e9e985bbbcf718f31fdc09f02adabdfe15253f9d590440754478c605011330&height=1280&smart=true&width=1920",
+        "tags": [
+            "palacio de deportes carolina marín",
+            "córdoba",
+            "huelva",
+            "junta de andalucía",
+            "accidente de adamuz",
+            "misa funeral",
+            "letizia",
+            "felipe vi",
+            "europapress",
+            "casa real",
+            "obispado de huelva"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/28/huelva-acoge-este-jueves-una-misa-funeral-por-las-victimas-de-adamuz-con-presencia-de-los-reyes/",
+        "date": "2026-01-28 17:32:08",
+        "sentiment_score": -0.5424392446875572
+    },
+    {
+        "title": "Isdin nombra a Nigyar Makhmudova nueva presidenta no ejecutiva de su Consejo de Administración",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/28/recomendados/1003742727532_15653508_1706x960.jpg",
+        "tags": [
+            "contenido patrocinado",
+            "recomendados",
+            "empresas",
+            "cataluña"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/recomendados/20260128/isdin-nigyar-makhmudova-presidenta-ejecutiva-consejo-administracion/1003742727531_0.html",
+        "date": "2026-01-28 17:31:26",
+        "sentiment_score": 0.6490796394646168
+    },
+    {
+        "title": "Adif habilita alternativas para trenes de mercancías tras el corte en el túnel de Rubí (Barcelona)",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260128183106_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-adif-habilita-alternativas-trenes-mercancias-corte-tunel-rubi-barcelona-20260128183106.html",
+        "date": "2026-01-28 17:31:06",
+        "sentiment_score": -0.8605997655540705
+    },
+    {
+        "title": "El presidente del Senado amenaza a Sánchez con \"consecuencias jurídicas\" si no comparece por la tragedia de Adamuz",
+        "image_url": "https://www.elplural.com/uploads/s1/24/38/20/2/diseno-sin-titulo-90_7_480x270.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elplural.com/politica/espana/presidente-senado-amenaza-sanchez-consecuencias-juridicas-si-no-comparece-tragedia-adamuz_379981102",
+        "date": "2026-01-28 17:29:00",
+        "sentiment_score": -0.09501740336418152
+    },
+    {
+        "title": "El mal tiempo causa dos cancelaciones y dos desvíos de vuelos en los aeropuertos de Baleares",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260128182628_120.jpg",
+        "tags": [
+            "islas baleares"
+        ],
+        "link": "https://www.europapress.es/illes-balears/noticia-mal-tiempo-causa-dos-cancelaciones-dos-desvios-vuelos-aeropuertos-baleares-20260128182628.html",
+        "date": "2026-01-28 17:26:28",
+        "sentiment_score": -0.8499034717679024
     }
 ];
