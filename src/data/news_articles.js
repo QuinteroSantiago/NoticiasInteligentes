@@ -1,19 +1,5 @@
 export default [
     {
-        "title": "Un hombre confiesa a la Guardia Civil haber matado a un niño de trece años amigo de su hijo en Sueca",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/2a/media_thumb-link-4139721.webp?1769332506=",
-        "tags": [
-            "actualidad",
-            "13 años",
-            "niño",
-            "asesinato",
-            "sueca"
-        ],
-        "link": "https://www.meneame.net/story/hombre-confiesa-guardia-civil-haber-matado-nino-trece-anos-amigo",
-        "date": "2026-01-25 13:10:03",
-        "sentiment_score": -0.6850151401013136
-    },
-    {
         "title": "Oviedo se despide de Fitur con el stand hasta los topes y satisfacción por la \"creciente proyección internacional\" de la ciudad",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ab237c4a-1890-42e8-93ab-131e179e3c26_16-9-aspect-ratio_default_0_x1000y500.jpg",
         "tags": [
@@ -2465,5 +2451,189 @@ export default [
         "link": "https://www.leonoticias.com/deportes/futbol/liga-campeones/cronica-barcelona-copenhague-champions-jornada8-20260128193346-ntrc.html",
         "date": "2026-01-28 22:19:22",
         "sentiment_score": 0.36456628143787384
+    },
+    {
+        "title": "Gol anotado por el portero en el descuento lleva al Benfica a octavos de final en la Champions",
+        "image_url": "https://dims.apnews.com/dims4/default/7201d27/2147483647/strip/true/crop/5974x3976+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc1%2F5a%2F88d02a1463666ab33e0f28ef22cf%2Fabaf1120c2a447bf82e111a178314f54",
+        "tags": [
+            "trubin gol portero benfica real madrid octavos final",
+            "sports",
+            "send to apple news",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/trubin-gol-portero-benfica-real-madrid-octavos-final-d98f30ca8e80c4975c3e57cf817b43c3",
+        "date": "2026-01-29 02:13:12",
+        "sentiment_score": -0.3285602554678917
+    },
+    {
+        "title": "Gol anotado por el portero en el descuento lleva al Benfica a octavos de final en la Champions",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/01/BENFICA-TRUBIN_02498.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2026/01/28/gol-anotado-por-el-portero-en-el-descuento-lleva-al-benfica-a-octavos-de-final-en-la-champions/",
+        "date": "2026-01-29 02:13:11",
+        "sentiment_score": -0.27007489651441574
+    },
+    {
+        "title": "Las 84 entidades de la Iglesia que impulsan la regularización de inmigrantes junto a Sortu y el PCE: \"Esto es Evangelio\"",
+        "image_url": "https://s3.elespanol.com/2026/01/28/actualidad/1003744107961_261143023_1706x960.jpg",
+        "tags": [
+            "pce",
+            "izquierda unida",
+            "psoe (partido socialista obrero español)",
+            "iglesia católica",
+            "reportajes",
+            "erc esquerra republicana de cataluña",
+            "inmigración",
+            "conferencia episcopal",
+            "podemos",
+            "gobierno de españa"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260129/entidades-iglesia-impulsan-regularizacion-inmigrantes-junto-sortu-pce-evangelio/1003744106086_0.html",
+        "date": "2026-01-29 01:49:03",
+        "sentiment_score": 0.3788227066397667
+    },
+    {
+        "title": "Feijóo acusa a Sánchez de “regalar la residencia” y tacha de cortina de humo la regularización masiva",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/29/2026012904075195500.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/feijoo-acusa-sanchez-regalar-residencia-tacha-cortina-humo-regularizacion-masiva/20260129023845372569.html",
+        "date": "2026-01-29 01:38:45",
+        "sentiment_score": -0.4469168409705162
+    },
+    {
+        "title": "La historia oculta: James Rodríguez fue ofrecido a un club sudamericano, pero la economía del equipo no alcanzó",
+        "image_url": "https://www.infobae.com/resizer/v2/NEJWASMQOFHZPHFQYYSG2IIWNE.jpg?auth=338bd000e2bf67168d4a2e751b417279737764831d31e0d16841dc5d934ddaf6&height=1080&smart=true&width=1920",
+        "tags": [
+            "millonarios",
+            "mls",
+            "james rodríguez",
+            "colombia-deportes",
+            "barcelona de ecuador",
+            "selección colombia"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/01/29/la-historia-oculta-james-rodriguez-fue-ofrecido-a-un-club-sudamericano-pero-la-economia-del-equipo-no-alcanzo/",
+        "date": "2026-01-29 01:25:10",
+        "sentiment_score": -0.015965640544891357
+    },
+    {
+        "title": "Pedro Valle, el guardia civil en prácticas que salvó la vida a un hombre en “18 minutos”: “Creían que estaba muerto\"",
+        "image_url": "https://s3.elespanol.com/2026/01/28/actualidad/1003744107803_261141136_1706x960.jpg",
+        "tags": [
+            "sociedad",
+            "sucesos",
+            "guardia civil"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20260129/pedro-valle-guardia-civil-practicas-salvo-vida-hombre-minutos-creian-muerto/1003744107780_0.html",
+        "date": "2026-01-29 01:00:00",
+        "sentiment_score": -0.8680208064615726
+    },
+    {
+        "title": "28 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/28-ene-2026-partidazo-cope-20260129_3296638.html",
+        "date": "2026-01-29 00:39:37",
+        "sentiment_score": 0.388057641685009
+    },
+    {
+        "title": "Tarjeta roja: Álvaro Arbeloa",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/29/culemania/real-madrid/1003742727643_15654981_1706x960.jpg",
+        "tags": [
+            "el mvp y las tarjetas de la jornada",
+            "álvaro arbeloa",
+            "real madrid"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/tarjetas-jornada/20260129/tarjeta-roja-alvaro-arbeloa/1003742727642_0.html",
+        "date": "2026-01-29 00:32:59",
+        "sentiment_score": -0.9162224428728223
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 29 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa sociedad",
+            "barcelona",
+            "noticias",
+            "españa noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/29/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-29-de-enero/",
+        "date": "2026-01-29 02:15:35",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Descarrilando a España",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "descarrilando",
+            "espana"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/descarrilando-espana_0_2005757646.html",
+        "date": "2026-01-29 02:06:58",
+        "sentiment_score": -0.22315549850463867
+    },
+    {
+        "title": "Gol y asistencia de Yamal llevan al Barcelona a los octavos de final de la Liga de Campeones",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/c/be/cbebebfd-ff12-581e-bdf8-40058b2d1d3c/697ab69dc788a.image.jpg?resize=300%2C200",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://santamariatimes.com/ap/sports/gol-y-asistencia-de-yamal-llevan-al-barcelona-a-los-octavos-de-final-de-la/article_a71791d0-ce12-571e-8eff-8c56b3c14ec2.html",
+        "date": "2026-01-29 01:20:07",
+        "sentiment_score": 0.19536662101745605
+    },
+    {
+        "title": "Gol y asistencia de Yamal llevan al Barcelona a los octavos de final de la Liga de Campeones",
+        "image_url": "https://dims.apnews.com/dims4/default/ea6fd1c/2147483647/strip/true/crop/5145x3425+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd8%2F81%2F14212b1b826ef9da0f49d80e186e%2F7dfb85142239444ba313b982ee3ed943",
+        "tags": [
+            "barcelona lamine yamal copenhague champions league",
+            "sports",
+            "send to apple news",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/barcelona-lamine-yamal-copenhague-champions-league-253f105af92d97af4cc8690e937d54e6",
+        "date": "2026-01-29 01:20:07",
+        "sentiment_score": 0.7263594754040241
+    },
+    {
+        "title": "Gol y asistencia de Yamal llevan al Barcelona a los octavos de final de la Liga de Campeones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "entertainment"
+        ],
+        "link": "https://www.ctinsider.com/sports/article/gol-y-asistencia-de-yamal-llevan-al-barcelona-a-21321002.php",
+        "date": "2026-01-29 01:20:07",
+        "sentiment_score": 0.5807664729654789
+    },
+    {
+        "title": "La alta velocidad acumula más de 80 limitaciones a la velocidad \"estáticas\" desde la tragedia de Adamuz y la red convencional supera las 900",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
+        "tags": [
+            "artículos clara rojas"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2026/01/29/697a6cd7e4d4d8940d8b459e.html",
+        "date": "2026-01-29 01:19:11",
+        "sentiment_score": -0.7118827011436224
+    },
+    {
+        "title": "Tarjeta amarilla: Jules Koundé",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/29/culemania/tarjetas-jornada/1003742727644_15655002_1706x960.jpg",
+        "tags": [
+            "champions league",
+            "jules koundé",
+            "barça",
+            "el mvp y las tarjetas de la jornada"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/tarjetas-jornada/20260129/tarjeta-amarilla-jules-kounde/1003742727637_0.html",
+        "date": "2026-01-29 00:34:36",
+        "sentiment_score": -0.887822481803596
     }
 ];
