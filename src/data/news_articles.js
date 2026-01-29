@@ -1,230 +1,5 @@
 export default [
     {
-        "title": "El histórico de la corrupción en ADIF: cargos imputados, enchufes y sospechas de mantenimiento inadecuado",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/08/20/68a5f00786be1.png",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20260125/historico-corrupcion-adif-cargos-imputados-enchufes-sospechas-mantenimiento-inadecuado_377940.html",
-        "date": "2026-01-25 06:37:31",
-        "sentiment_score": -0.8388525061309338
-    },
-    {
-        "title": "¿Cómo se escribe en español, ‘póker’ o ‘póquer’? La RAE deja las cosas muy claras, aunque muchos se sorprendan",
-        "image_url": "https://okdiario.com/img/2026/01/20/cartas-poquer.jpg",
-        "tags": [
-            "palabras",
-            "español",
-            "rae",
-            "frases",
-            "idioma",
-            "curiosidades",
-            "lenguaje",
-            "real academia española (rae)",
-            "castellano"
-        ],
-        "link": "https://okdiario.com/curiosidades/como-escribe-espanol-poker-o-poquer-rae-deja-cosas-muy-claras-aunque-muchos-sorprendan-16104579",
-        "date": "2026-01-25 06:15:15",
-        "sentiment_score": -0.6030304692685604
-    },
-    {
-        "title": "'Todos los ángeles alzaron el vuelo', a los pies de los espectadores",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/23/escena-de-todos-los-angeles-alzaron-el-vuelo.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.huffingtonpost.es/opinion/todos-angeles-alzaron-vuelo-pies-espectadores-f202601.html",
-        "date": "2026-01-25 06:07:44",
-        "sentiment_score": -0.18548324704170227
-    },
-    {
-        "title": "Carlos de Burgos:",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/23/el-influencer-carlos-de-burgos.jpeg",
-        "tags": [
-            "influencers y celebrities"
-        ],
-        "link": "https://www.huffingtonpost.es/life/influencers-celebrities/carlos-burgos-influencer-en-mis-videos-intento-mantener-estimulado-usuario-frases-cortas-bloquee-favoreciendo-consumidor-ameba-quiere-aprender-f202601.html",
-        "date": "2026-01-25 06:07:02",
-        "sentiment_score": -0.4149932414293289
-    },
-    {
-        "title": "Jorge Pueyo: \"He sido en esta legislatura el único diputado aragonés que ha defendido Aragón desde Madrid\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/23/jorge-pueyo-candidato-de-la-cha-a-la-presidencia-de-aragon-en-las-elecciones-del-proximo-8-de-febrero.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/jorge-pueyo-he-sido-legislatura-unico-diputado-aragones-defendido-aragon-madrid-f202601.html",
-        "date": "2026-01-25 06:06:40",
-        "sentiment_score": -0.1776648312807083
-    },
-    {
-        "title": "Qué hacer si tu banco te coló un seguro de vida en la hipoteca sin consentimiento",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fbbf2688-c5c1-4948-b68d-dc0d925bb636_16-9-aspect-ratio_default_0_x640y283.jpg",
-        "tags": [
-            "madrid",
-            "extremadura",
-            "españa",
-            "tribunales"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres-local/2026/01/25/banco-colo-seguro-vida-hipoteca-126051285.html",
-        "date": "2026-01-25 06:01:24",
-        "sentiment_score": -0.8514632768929005
-    },
-    {
-        "title": "El Pleno de Benavente reclama a Gobierno, Junta y Diputación, más fondos para colonias felinas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bf0717d9-bd9e-49ba-981a-a104278f398f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gobierno,pp,financiación,psoe"
-        ],
-        "link": "https://www.laopiniondezamora.es/benavente/2026/01/25/pleno-benavente-reclama-gobierno-junta-126045095.html",
-        "date": "2026-01-25 06:01:18",
-        "sentiment_score": 0.27048880606889725
-    },
-    {
-        "title": "La escalada de la vivienda en Málaga en compra y alquiler supera el 55% desde 2020",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c45d7ff0-40a7-4dc3-a69c-eb440d3b60ed_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "madrid",
-            "vivienda",
-            "precios",
-            "metro"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/25/escalada-vivienda-malaga-compra-alquiler-126044250.html",
-        "date": "2026-01-25 06:01:16",
-        "sentiment_score": -0.028835222125053406
-    },
-    {
-        "title": "El AVE de Andalucía, una historia de éxito en horas bajas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cd48170b-36e5-4780-b379-cc602916b1fd_16-9-aspect-ratio_default_0_x1190y523.jpg",
-        "tags": [
-            "córdoba",
-            "ave",
-            "alta velocidad",
-            "andalucía",
-            "trenes",
-            "madrid",
-            "sevilla"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/25/ave-andalucia-historia-exito-horas-126043124.html",
-        "date": "2026-01-25 06:01:16",
-        "sentiment_score": 0.17182642221450806
-    },
-    {
-        "title": "Nathy Peluso regresa a Madrid en una de las fechas clave de su gira",
-        "image_url": "https://okdiario.com/img/2026/01/21/nathy-_11zon.png",
-        "tags": [
-            "wizink center",
-            "madrid",
-            "conciertos",
-            "cultura",
-            "okplanes"
-        ],
-        "link": "https://okdiario.com/okplanes/nathy-peluso-regresa-madrid-fechas-clave-gira-16111744",
-        "date": "2026-01-25 06:00:35",
-        "sentiment_score": 0.5772200971841812
-    },
-    {
-        "title": "Los españoles hablan: El coche particular sigue siendo el medio de transporte preferido",
-        "image_url": "https://hips.hearstapps.com/es.h-cdn.co/cades/contenidos/56547/madrid_atasco.jpg",
-        "tags": [
-            "displaytype: standard article",
-            "content-type: news",
-            "shorttitle: los españoles siguen eligiendo el coche particular",
-            "contentid: 7cc2ccd4-6df8-47e7-a31e-d4709e7455e2",
-            "locale: es"
-        ],
-        "link": "https://www.caranddriver.com/es/movilidad/sostenibilidad-ecologia/a70059274/coche-particular-transporte-preferido-2025/",
-        "date": "2026-01-25 06:30:00",
-        "sentiment_score": -0.6891162674874067
-    },
-    {
-        "title": "Cataluña amanece este domingo de nuevo sin servicio de Rodalies tras una semana de caos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ATZK7XFQIRG7NMB6ZMTI3ATEAA.jpg?auth=4cb547007f10ca48f54d5ec94130ed39f3defedd2bd2f01c30bc3b7040b1047d&width=1200",
-        "tags": [
-            "generalitat cataluña",
-            "cercanías",
-            "transportes ferroviarios especiales",
-            "fgc",
-            "sílvia paneque",
-            "albert dalmau",
-            "adif",
-            "accidentes ferrocarril",
-            "cataluña",
-            "averías",
-            "renfe"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2026-01-25/cataluna-amanece-este-domingo-de-nuevo-sin-servicio-de-rodalies-tras-una-semana-de-caos.html",
-        "date": "2026-01-25 06:29:08",
-        "sentiment_score": 0.07694501616060734
-    },
-    {
-        "title": "Plásticos y Claraboyas Matilla: luz de Almería para el mundo",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/01/20/696f46512f579.jpeg",
-        "tags": [
-            "almería"
-        ],
-        "link": "https://www.lavozdealmeria.com/almeria/437642/plasticos-claraboyas-matilla-luz-almeria-mundo.html",
-        "date": "2026-01-25 06:15:29",
-        "sentiment_score": -0.11754100769758224
-    },
-    {
-        "title": "La mucha vida pintada de Eva Armisén",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/01/24/F404C5D9-7A8B-4EB9-B52A-E4F0AB45B6F0/imagen-exposicion-que-puede-verse-reial-cercle-artistic-barcelona_69.jpg?crop=2730%2C1536%2Cx0%2Cy927&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/mucha-vida-pintada-eva-armisen_202601256975b3c5eb223406e5ae4d92.html",
-        "date": "2026-01-25 06:10:13",
-        "sentiment_score": 0.4894722178578377
-    },
-    {
-        "title": "Sorpresa en Osasuna: Víctor Muñoz destrona a Lamine Yamal con un nuevo récord",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/25/2026012507084371783.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/sorpresa-osasuna-victor-munoz-destrona-lamine-yamal-nuevo-record/20260125070942372031.html",
-        "date": "2026-01-25 06:09:42",
-        "sentiment_score": -0.41186223179101944
-    },
-    {
-        "title": "Crece el miedo a viajar en tren: «No hay que temer. Ha sido un hecho puntual»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/343a5ab3-6cb3-4d09-b65e-c7be890a6f6d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "madrid",
-            "accidente",
-            "joaquín",
-            "viajar"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/25/crece-miedo-viajar-tren-126039457.html",
-        "date": "2026-01-25 06:01:13",
-        "sentiment_score": -0.8087143255397677
-    },
-    {
-        "title": "La encrucijada del Mercosur: más competencia, menos calidad y una larga espera",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/01/11/2AAA0C72-3312-40B7-82AD-8276E36E26B0/69.jpg?crop=3543%2C1993%2Cx0%2Cy185&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/encrucijada-mercosur-mas-competencia-menos-calidad-larga-espera_202601256974a3abc48f6b4ee36bbd5f.html",
-        "date": "2026-01-25 06:00:19",
-        "sentiment_score": -0.6903037130832672
-    },
-    {
-        "title": "Freno a la llegada de turistas de negocios internacionales",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7d0fb7e8-4397-48be-ba9f-152d3e2d6c57_16-9-discover-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "hoteles",
-            "turismo",
-            "entender más"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260125/freno-llegada-turistas-negocios-internacionales-126009251",
-        "date": "2026-01-25 06:00:11",
-        "sentiment_score": 0.22407694905996323
-    },
-    {
         "title": "Un hombre confiesa a la Guardia Civil haber matado a un niño de trece años amigo de su hijo en Sueca",
         "image_url": "https://cdn.mnmstatic.net/cache/3f/2a/media_thumb-link-4139721.webp?1769332506=",
         "tags": [
@@ -2488,5 +2263,207 @@ export default [
         "link": "https://www.europapress.es/illes-balears/noticia-mal-tiempo-causa-dos-cancelaciones-dos-desvios-vuelos-aeropuertos-baleares-20260128182628.html",
         "date": "2026-01-28 17:26:28",
         "sentiment_score": -0.8499034717679024
+    },
+    {
+        "title": "El Athletic muere en la orilla",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/28/athletic-sporting-kAlG-U20401524835xNF-1200x840@RC.jpg",
+        "tags": [
+            "athletic de bilbao",
+            "champions league"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-campeones/cronica-athletic-sporting-champions-jornada8-20260128193918-ntrc.html",
+        "date": "2026-01-28 22:33:20",
+        "sentiment_score": -0.8751324191689491
+    },
+    {
+        "title": "Crónica del SL Benfica - Real Madrid: 4-2",
+        "image_url": "https://www.infobae.com/resizer/v2/BABLIMSD4FBNDBBNIUQN7SNIRM.jpg?auth=d7154616918625c419b78f9da812708018fb41af6dd146063867e1a019d139a8&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/28/cronica-del-sl-benfica-real-madrid-4-2/",
+        "date": "2026-01-28 22:31:09",
+        "sentiment_score": -0.04093273729085922
+    },
+    {
+        "title": "El Barça cumple y se asegura el top 8 de la Champions (4-1)",
+        "image_url": "https://cflvdg.avoz.es/sc/wXz3XMy4Az1qqryZGsna14g0FKU=/768x/2026/01/28/00121769637961798841499/Foto/reu_20260128_220106443.jpg",
+        "tags": [
+            "deportes",
+            "fc barcelona",
+            "champions league"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/28/barca-cumple-asegura-top-8-champions-4-1/00031769639154626458359.htm",
+        "date": "2026-01-28 22:31:00",
+        "sentiment_score": 0.34127042442560196
+    },
+    {
+        "title": "Solamente el Barcelona remonta y gana: la última jornada de Champions castiga mucho a España",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2706016.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/solamente-el-barcelona-remonta-y-gana-la-ultima-jornada-de-champions-castiga-mucho-a-espana.html",
+        "date": "2026-01-28 22:29:54",
+        "sentiment_score": -0.43630101159214973
+    },
+    {
+        "title": "El Real Madrid se queda sin 'Top 8' en la tormenta de Lisboa",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/4671edc5-bb3a-4077-b64b04a74348ee07.jpg",
+        "tags": [
+            "josé mourinho",
+            "thibaut courtois",
+            "jude bellingham",
+            "kylian mbappé",
+            "lisboa",
+            "bilbao",
+            "aurélien tchouaméni",
+            "real madrid",
+            "champions league",
+            "vinícius júnior",
+            "fede valverde",
+            "benfica"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z0c526ea4-2bb6-47fe-b019cdfdb2911ee1/202601/el-real-madrid-se-queda-sin-top-8-en-la-tormenta-de-lisboa",
+        "date": "2026-01-28 22:27:42",
+        "sentiment_score": -0.7700554132461548
+    },
+    {
+        "title": "Arbeloa no busca excusas tras quedar fuera del 'top-8' de la Champions League: \"Prefiero no hablar del árbitro; soy totalmente responsable\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/arbeloa-busca-excusas-quedar-fuera-top-8-champions-league-prefiero-hablar-arbitro-totalmente-responsable-20260128_3296601.html",
+        "date": "2026-01-28 22:27:07",
+        "sentiment_score": -0.07987934350967407
+    },
+    {
+        "title": "La empresa española que usa la IA para enseñar a los médicos a “humanizar” la relación con los pacientes, reconocida en México",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a7f0c63d-aa07-44ab-93c1-9fb98ca05a19_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "pacientes",
+            "asturias",
+            "méxico",
+            "médicos"
+        ],
+        "link": "https://www.lne.es/asturias-exterior/2026/01/28/empresa-espanola-ia-ensenar-medicos-126202963.html",
+        "date": "2026-01-28 22:27:05",
+        "sentiment_score": -0.1927202343940735
+    },
+    {
+        "title": "Mourinho y Trubin mandan al Real Madrid a la repesca de la Champions (4-2)",
+        "image_url": "https://cflvdg.avoz.es/sc/a1rBrflTVC-idxvyPWjWtAQipIk=/768x/2026/01/28/00121769637361939935636/Foto/GE29P34F4_225445.jpg",
+        "tags": [
+            "real madrid",
+            "champions league",
+            "mourinho",
+            "deportes",
+            "benfica"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/28/mourinho-trubin-mandan-real-madrid-repesca-champions-4-2/00031769638854018636895.htm",
+        "date": "2026-01-28 22:24:00",
+        "sentiment_score": -0.16147589683532715
+    },
+    {
+        "title": "Así queda la clasificación de la fase de liga de la Champions League: qué equipos pasan a octavos y quiénes juegan los playoffs",
+        "image_url": "https://okdiario.com/img/2026/01/27/gettyimages-2257482119-1-1.jpg",
+        "tags": [
+            "champions league",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://okdiario.com/deportes/asi-queda-clasificacion-fase-liga-champions-league-que-equipos-pasan-octavos-quienes-juegan-playoffs-16152156",
+        "date": "2026-01-28 22:22:35",
+        "sentiment_score": 0.06595511734485626
+    },
+    {
+        "title": "Mourinho clasifica al Benfica, saca del Top-8 al Real Madrid y retrata a Arbeloa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e12c800e-722d-4878-a004-4f8879fc315e_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "real madrid",
+            "champions league",
+            "benfica"
+        ],
+        "link": "https://www.laopiniondemalaga.es/deportes/2026/01/28/benfica-real-madrid-resumen-resultado-champions-league-futbol-126203103.html",
+        "date": "2026-01-28 22:20:55",
+        "sentiment_score": -0.2219356894493103
+    },
+    {
+        "title": "Remontada, carácter y mensaje: el Barça vuelve a creer en la Champions",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/28/2026012823310041274.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/remontada-caracter-mensaje-barca-vuelve-creer-champions/20260128233141372551.html",
+        "date": "2026-01-28 22:31:41",
+        "sentiment_score": 0.5691428780555725
+    },
+    {
+        "title": "Crónica del FC Barcelona - Copenhagen: 4-1",
+        "image_url": "https://www.infobae.com/resizer/v2/YBCLNORXA5HEDMTW37Y7VRJV2M.jpg?auth=c9eb1ff9866187684c841deb0123bd44b84b35f084cf8c45782a626e3afc1a09&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/28/cronica-del-fc-barcelona-copenhagen-4-1/",
+        "date": "2026-01-28 22:30:33",
+        "sentiment_score": -0.03269708901643753
+    },
+    {
+        "title": "Metrópolis, la puerta giratoria de Janet Sanz que los comunes subvencionaron con casi 400.000 euros",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/28/informacion-municipal/1003742727518_15653291_1706x960.jpg",
+        "tags": [
+            "janet sanz",
+            "urbanismo",
+            "información municipal",
+            "ada colau",
+            "subvenciones barcelona",
+            "ayuntamiento de barcelona",
+            "barcelona en comú"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260128/metropolis-puerta-giratoria-janet-sanz-comunes-subvencionaron-euros/1003742727387_0.html",
+        "date": "2026-01-28 22:30:00",
+        "sentiment_score": -0.11399010568857193
+    },
+    {
+        "title": "Barcelona contrata a un experto en cibercrimen tras un incremento de ataques de 'hackers' ligados a Rusia",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/28/vivir-en-barcelona/1003742727596_15654263_1706x960.jpg",
+        "tags": [
+            "jaume collboni",
+            "seguridad",
+            "estafas",
+            "contratos barcelona",
+            "ayuntamiento de barcelona",
+            "el pulso de la ciudad"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260128/barcelona-contrata-experto-cibercrimen-incremento-ataques-hackers-ligados-rusia/1003742727584_0.html",
+        "date": "2026-01-28 22:30:00",
+        "sentiment_score": -0.4811333119869232
+    },
+    {
+        "title": "El Barça bombardeó al Copenhague y se coló entre los mejores ocho de la Champions",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/fc-barcelona-vs-conpenhague.jpg",
+        "tags": [
+            "fc copenhague",
+            "deportes",
+            "champions league",
+            "fc barcelona",
+            "titulares",
+            "futbol"
+        ],
+        "link": "https://lapatilla.com/2026/01/28/el-barca-bombardeo-al-copenhague-y-se-colo-entre-los-mejores-ocho-de-la-champions/",
+        "date": "2026-01-28 22:27:59",
+        "sentiment_score": 0.49127790331840515
+    },
+    {
+        "title": "El Barça cumple y se asegura el 'top 8'",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/28/Clipboard-0237-klrF-U20401411971jaB-1200x840@RC.jpg",
+        "tags": [
+            "f.c. barcelona",
+            "champions league"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-campeones/cronica-barcelona-copenhague-champions-jornada8-20260128193346-ntrc.html",
+        "date": "2026-01-28 22:19:22",
+        "sentiment_score": 0.36456628143787384
     }
 ];
