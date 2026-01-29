@@ -1,184 +1,5 @@
 export default [
     {
-        "title": "Oviedo se despide de Fitur con el stand hasta los topes y satisfacción por la \"creciente proyección internacional\" de la ciudad",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ab237c4a-1890-42e8-93ab-131e179e3c26_16-9-aspect-ratio_default_0_x1000y500.jpg",
-        "tags": [
-            "concursos",
-            "cultura",
-            "fitur",
-            "sostenibilidad"
-        ],
-        "link": "https://www.lne.es/oviedo/2026/01/25/oviedo-despide-fitur-stand-topes-126073739.html",
-        "date": "2026-01-25 17:25:27",
-        "sentiment_score": 0.46569448709487915
-    },
-    {
-        "title": "La tijereta antológica de Lamine Yamal que confirma el liderato del Barça: un punto sobre el Real Madrid",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/25/culemania/primer-equipo/1003742726552_15641210_1706x960.jpg",
-        "tags": [
-            "barça",
-            "primer equipo",
-            "la liga"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260125/tijereta-antologica-lamine-yamal-barca-real-madrid/1003742726540_0.html",
-        "date": "2026-01-25 17:17:55",
-        "sentiment_score": 0.8361846357584
-    },
-    {
-        "title": "El Barça encuentra el camino para derrotar a un buen Oviedo y regresar al liderato de la Liga",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/01/25/69764c0cc66f9.r_d.337-527-6250.jpeg",
-        "tags": [
-            "la liga"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20260125/barca-encuentra-camino-derrotar-buen-oviedo-regresar-liderato-liga_378059.html",
-        "date": "2026-01-25 17:12:35",
-        "sentiment_score": 0.5739338472485542
-    },
-    {
-        "title": "Olmo vuelve a ser el desatascador de un Barça que 'recupera' el liderato (3-0)",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/01/25/824BDB13-2EEA-478C-9029-5963BCF080C0/dani-olmo-celebra-gol-oviedo_96.jpg?crop=3312%2C1863%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "fútbol",
-            "antena 3 noticias",
-            "deportes"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/olmo-vuelve-ser-desatascador-barca-que-recupera-liderato-30_2026012569764ef7eb223406e5aecd1a.html",
-        "date": "2026-01-25 17:12:22",
-        "sentiment_score": 0.21329516172409058
-    },
-    {
-        "title": "Fiesta en el Heliodoro de camino al ascenso",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/24440a2e-9c2c-44e5-8483-93312466d400_16-9-discover-aspect-ratio_default_0_x769y341.jpg",
-        "tags": [
-            "cd tenerife",
-            "álvaro cervera",
-            "enric gallego",
-            "jesús de miguel"
-        ],
-        "link": "https://www.eldia.es/deportes/cd-tenerife/2026/01/25/fiesta-heliodoro-camino-ascenso-126073222.html",
-        "date": "2026-01-25 17:11:43",
-        "sentiment_score": 0.02309998869895935
-    },
-    {
-        "title": "Horario y dónde ver en televisión y online streaming el Levante-Atlético de LaLiga 2025-26",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/16/image-343e996f-3977-41da-a038-7a335737906a-85-2560-1440.jpeg",
-        "tags": [
-            "la liga 2025/2026",
-            "football"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/levante-atletico-madrid-jornada-22-fecha-horario-donde-ver-television-online-streaming-hoy_sto23263069/story.shtml",
-        "date": "2026-01-25 17:06:21",
-        "sentiment_score": 0.06117977946996689
-    },
-    {
-        "title": "Esther García Llovet: \"A cierta edad miras atrás y te das cuenta de que te has pasado la vida sin hacer nada concreto\"",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/24/letraglobal/letras/1003742726340_15638541_1706x960.jpg",
-        "tags": [
-            "letras",
-            "entrevistas",
-            "libros",
-            "literatura",
-            "escritores"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/letraglobal/letras/20260125/esther-garcia-llovet-cierta-cuenta-pasado-concreto/1003742726339_0.html",
-        "date": "2026-01-25 17:00:00",
-        "sentiment_score": 0.10796110332012177
-    },
-    {
-        "title": "Efemérides: estos son los acontecimientos más importantes que se celebran hoy 25 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/OEKTSHL5KJE2BSSHJCLJH4PTK4.jpg?auth=35d0d56fc8e52a25be7c70727e508d01633c70bc3d14dd87168702e6a0a87ca9&height=3241&smart=true&width=4861",
-        "tags": [
-            "enero",
-            "efemérides",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/noticias/2025/01/25/efemerides-estos-son-los-acontecimientos-mas-importantes-que-se-celebra-hoy-25-de-enero/",
-        "date": "2026-01-25 16:55:08",
-        "sentiment_score": 0.3826625868678093
-    },
-    {
-        "title": "Don Alexander Sorloth marca el camino en un Atlético práctico y eficaz",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/25/2025042504072539700.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/don-alexander-sorloth-marca-camino-atletico-practico-eficaz/20260125175457372090.html",
-        "date": "2026-01-25 16:54:57",
-        "sentiment_score": 0.6023501306772232
-    },
-    {
-        "title": "Estas son las líneas de Rodalies que retomarán su servicio este lunes en Catalunya",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d4509b6b-0295-482f-9d2f-cd39147ffc84_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "rodalies",
-            "sílvia paneque i sureda"
-        ],
-        "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260125/lineas-rodalies-retomaran-servicio-lunes-catalunya-126075071",
-        "date": "2026-01-25 17:21:32",
-        "sentiment_score": 0.00473998486995697
-    },
-    {
-        "title": "Charles Leclerc señala las claves del 2026 en la F1 con Ferrari: “Serán los aspectos más importantes”",
-        "image_url": "https://hips.hearstapps.com/hmg-prod/images/charles-leclerc-of-scuderia-ferrari-walks-in-the-paddock-news-photo-1769361521.pjpeg",
-        "tags": [
-            "locale: es",
-            "contentid: ecc99802-f6d2-4ac4-93e9-28fd6ab955bc",
-            "content-type: news",
-            "displaytype: standard article",
-            "shorttitle: charles leclerc señala las claves del 2026"
-        ],
-        "link": "https://www.caranddriver.com/es/formula-1/a70130092/charles-leclerc-senala-claves-2026-f1-ferrari-seran-aspectos-mas-importantes/",
-        "date": "2026-01-25 17:21:00",
-        "sentiment_score": 0.02633911371231079
-    },
-    {
-        "title": "Eric Ponce, empresario catalán, desvela el negocio más rentable para invertir con poco personal y sin complicaciones: \"Yo lo consumo\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/14/6967d4783b330.png",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.cope.es/actualidad/economia/noticias/eric-ponce-empresario-catalan-desvela-negocio-rentable-invertir-poco-personal-complicaciones-consumo-20260125_3286803.html",
-        "date": "2026-01-25 17:20:27",
-        "sentiment_score": -0.06400159001350403
-    },
-    {
-        "title": "El accidente de Rodalies reabre la crisis con los maquinistas y alienta el hartazgo ciudadano",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/25/1505867852-k2MD-U20334551809gOF-1200x840@RC.jpg",
-        "tags": [
-            "salvador illa",
-            "generalitat de cataluña"
-        ],
-        "link": "https://www.elcomercio.es/sociedad/accidente-rodalies-reabre-crisis-maquinistas-alienta-hartazgo-20260125182014-ntrc.html",
-        "date": "2026-01-25 17:20:17",
-        "sentiment_score": -0.8989959880709648
-    },
-    {
-        "title": "Olmo desatasca las cañerías y Lamine Yamal deja una obra de arte",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/60958245-68b6-4d23-9199-622cc5478c0e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol",
-            "laliga ea sports",
-            "fc barcelona",
-            "real oviedo"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/deportes/2026/01/25/olmo-desatasca-canerias-lamine-yamal-126073702.html",
-        "date": "2026-01-25 17:19:52",
-        "sentiment_score": 0.2697531580924988
-    },
-    {
-        "title": "EN IMÁGENES: Barcelona - Real Oviedo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/13ace587-0ab2-4222-a4c3-d5160569b773_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "oviedo",
-            "imagenes",
-            "real",
-            "barcelona"
-        ],
-        "link": "https://www.lne.es/fotos/real-oviedo/2026/01/25/imagenes-barcelona-real-oviedo-126073469.html",
-        "date": "2026-01-25 17:15:59",
-        "sentiment_score": -0.021893784403800964
-    },
-    {
         "title": "Resultados del Quinigol de este 25 de enero",
         "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
         "tags": [
@@ -2635,5 +2456,195 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/tarjetas-jornada/20260129/tarjeta-amarilla-jules-kounde/1003742727637_0.html",
         "date": "2026-01-29 00:34:36",
         "sentiment_score": -0.887822481803596
+    },
+    {
+        "title": "'Superjueves' de manifestación en Toledo: tractores y agricultores colapsarán la ciudad",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/01/28/6979d47e78965.r_d.584-657-7294.jpeg",
+        "tags": [
+            "toledo"
+        ],
+        "link": "https://www.cope.es/emisoras/castilla-la-mancha/toledo-provincia/toledo/noticias/superjueves-manifestacion-toledo-tractores-agricultores-colapsaran-ciudad-20260129_3295917.html",
+        "date": "2026-01-29 06:37:18",
+        "sentiment_score": -0.1491146832704544
+    },
+    {
+        "title": "Durísima crítica de Mbappé: \"El último gol es una vergüenza, no salimos a jugar en Champions\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/01/29/697a9773d86003-58686003.r_d.1825-1140.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.20minutos.es/deportes/durisima-critica-mbappe-ultimo-gol-benfica-es-una-verguenza-no-salimos-jugar-un-partido-champions_6927202_0.html",
+        "date": "2026-01-29 06:31:29",
+        "sentiment_score": 0.19787739217281342
+    },
+    {
+        "title": "Pedrerol, más demoledor que nunca tras la caída del Madrid: “Vaya ridículo”",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2022/12/20/2022122011430038231.jpg",
+        "tags": [
+            "medios"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/medios/pedrerol-mas-demoledor-que-nunca-caida-madrid-vaya-ridiculo/202601290727001000635.html",
+        "date": "2026-01-29 06:27:00",
+        "sentiment_score": -0.8920056987553835
+    },
+    {
+        "title": "El destino turístico imprescindible en Madrid para vivir una experiencia inolvidable",
+        "image_url": "https://wp.emprendedores.es/wp-content/uploads/2026/01/img_172cc4019b3394d6ee33309872b01686.jpg",
+        "tags": [
+            "hide",
+            "ninja"
+        ],
+        "link": "https://emprendedores.es/noticias-de-empresa/el-destino-turistico-imprescindible-en-madrid-para-vivir-una-experiencia-inolvidable",
+        "date": "2026-01-29 06:16:00",
+        "sentiment_score": 0.7441799081861973
+    },
+    {
+        "title": "Cuándo es la huelga de médicos de Andalucía: días, duración y cómo afectará a los pacientes",
+        "image_url": "https://okdiario.com/img/2026/01/27/cuando-es-la-huelga-de-medicos-de-andalucia-dias-duracion-y-como-afectara-a-los-pacientes.jpg",
+        "tags": [
+            "sanidad",
+            "españa",
+            "andalucía",
+            "huelgas",
+            "huelga",
+            "médicos",
+            "okd"
+        ],
+        "link": "https://okdiario.com/andalucia/cuando-huelga-medicos-andalucia-dias-duracion-como-afectara-pacientes-16144751",
+        "date": "2026-01-29 06:00:59",
+        "sentiment_score": -0.47408176213502884
+    },
+    {
+        "title": "Mbappé: \"Merecemos la posición en la que estamos\"",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/29091950/Mbappe-reconocio-como-una-verguenza-encajar-hasta-en-el-descuento-Foto-Archivo.jpg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "mbappé",
+            "champions",
+            "real madrid",
+            "benfica"
+        ],
+        "link": "https://www.elnacional.com/2026/01/mbappe-merecemos-la-posicion-en-la-que-estamos/",
+        "date": "2026-01-29 06:00:00",
+        "sentiment_score": -0.4817040264606476
+    },
+    {
+        "title": "\"El Madrid se ha gastado 200 millones en este mercado, la pregunta es si este equipo es mejor que el del año pasado\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2026/01/29/697aa78e53336.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/madrid-gastado-200-millones-mercado-pregunta-equipo-mejor-ano-pasado-20260129_3296636.html",
+        "date": "2026-01-29 06:00:00",
+        "sentiment_score": -0.12448588013648987
+    },
+    {
+        "title": "El restaurante de Asturias que ha enamorado a Ferran Adrià: \"Una de las mejores comidas de los últimos años\"",
+        "image_url": "https://s3.elespanol.com/2026/01/28/cocinillas/actualidad-gastronomica/1003744108124_261145411_1706x960.jpg",
+        "tags": [
+            "estrellas michelin",
+            "actualidad gastronómica",
+            "restaurantes",
+            "asturias",
+            "ferran adrià"
+        ],
+        "link": "https://www.elespanol.com/cocinillas/actualidad-gastronomica/20260129/restaurante-asturias-enamorado-ferran-adria-mejores-comidas-ultimos-anos/1003744107602_0.html",
+        "date": "2026-01-29 05:55:00",
+        "sentiment_score": 0.6696152240037918
+    },
+    {
+        "title": "Tocar la historia con las manos: una experiencia de formación en el Archivo de la Diputación de Segovia",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2026/01/29-01-FOTO-web.jpg",
+        "tags": [
+            "segovia",
+            "uva",
+            "universidad",
+            "educación"
+        ],
+        "link": "https://eladelantado.com/tocar-la-historia-con-las-manos-una-experiencia-de-formacion-en-el-archivo-de-la-diputacion-de-segovia/",
+        "date": "2026-01-29 05:15:24",
+        "sentiment_score": 0.1327117569744587
+    },
+    {
+        "title": "Tragedias que nos pasan de cerca",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/86dc0ac8-da7f-4cd8-a0ac-bf2546005746_16-9-discover-aspect-ratio_320w_0_x600y226.webp",
+        "tags": [
+            "palabras",
+            "explosión",
+            "televisión"
+        ],
+        "link": "https://www.laopiniondemurcia.es/opinion/2026/01/29/tragedias-pasan-cerca-126199976.html",
+        "date": "2026-01-29 05:01:14",
+        "sentiment_score": -0.2502429932355881
+    },
+    {
+        "title": "Gonzalo Bernardos, economista, lanza la alerta: «Las pensiones serán...»",
+        "image_url": "https://okdiario.com/img/2026/01/27/imagen_recortada-40.jpg",
+        "tags": [
+            "jubilación",
+            "economía",
+            "pensiones",
+            "okd"
+        ],
+        "link": "https://okdiario.com/economia/gonzalo-bernardos-economista-lanza-alerta-pensiones-seran-16145593",
+        "date": "2026-01-29 06:45:34",
+        "sentiment_score": 0.10682649910449982
+    },
+    {
+        "title": "Última hora del accidente de tren en Córdoba y del servicio de Rodalies, en directo | Rodalies reabre este jueves manteniendo los 11 tramos alternativos en carretera",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KSMBIS6QJRJKRKEEQG45IW6JKA.jpg?auth=6be710e191c675ec55564c6601173509fd84500b52b101fb2e2b6849eec9abe9&width=1200",
+        "tags": [
+            "huelva",
+            "ministerio de transportes",
+            "andalucía",
+            "barcelona",
+            "adamuz",
+            "óscar puente santiago",
+            "renfe",
+            "rodalies catalunya",
+            "madrid",
+            "accidentes",
+            "adif",
+            "españa",
+            "govern cataluña",
+            "córdoba",
+            "accidentes ferrocarril",
+            "generalitat cataluña",
+            "accidente trenes adamuz"
+        ],
+        "link": "https://elpais.com/espana/2026-01-29/ultima-hora-del-accidente-de-tren-en-cordoba-y-del-servicio-de-rodalies-en-directo.html",
+        "date": "2026-01-29 06:31:34",
+        "sentiment_score": -0.5730705931782722
+    },
+    {
+        "title": "El precio más bajo de la gasolina hoy en Madrid, Barcelona y otras ciudades de España este 29 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "precio gasolina",
+            "noticias",
+            "gasolina",
+            "españa-economia"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/29/el-precio-mas-bajo-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-de-espana-este-29-de-enero/",
+        "date": "2026-01-29 06:31:18",
+        "sentiment_score": -0.07100924476981163
+    },
+    {
+        "title": "Antonio González, CEO de Sunset Hospitality Group: \"España ha creado una industria turística basada en volumen, ahora necesita una hostelería de experiencias, más 'premium'\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/740fa609-d709-46dd-a8dd-20349e399b5d_16-9-aspect-ratio_default_0_x992y240.jpg",
+        "tags": [
+            "inversiones",
+            "empresas",
+            "madrid",
+            "alicante",
+            "barcelona",
+            "hoteles",
+            "restaurantes",
+            "ibiza"
+        ],
+        "link": "https://www.lacronicabadajoz.com/economia/2026/01/29/entrevista-antonio-gonzalez-sunset-hospitality-group-modelo-turistico-espana-126208073.html",
+        "date": "2026-01-29 06:23:12",
+        "sentiment_score": -0.025491535663604736
     }
 ];
