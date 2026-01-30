@@ -1,253 +1,5 @@
 export default [
     {
-        "title": "El Gobierno español aprobará este martes una regularización extraordinaria de migrantes tras pactarlo con Podemos",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/dd10adf9-2110-48e5-b086-45bd3059fbae_16-9-aspect-ratio_default_0_x2219y0.jpg",
-        "tags": [
-            "migrantes",
-            "gobierno",
-            "espanol",
-            "regularizacion",
-            "aprobara",
-            "martes"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/politica/2026/01/26/gobierno-espanol-aprobara-martes-regularizacion-migrantes-10620285.html",
-        "date": "2026-01-26 17:18:15",
-        "sentiment_score": 0.23676923289895058
-    },
-    {
-        "title": "Real Madrid-Unicaja y Valencia-Joventut, en cuartos de Copa",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/92b9111f-d851-437c-9a3ab7669758a4fd.jpg",
-        "tags": [
-            "valencia basket",
-            "unicaja",
-            "copa del rey",
-            "baloncesto",
-            "real madrid",
-            "ucam murcia",
-            "liga endesa",
-            "fc barcelona",
-            "badalona",
-            "murcia",
-            "gran canaria",
-            "liga acb",
-            "tenerife",
-            "baskonia",
-            "generalitat valenciana"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z189d7fa6-f56e-4b2b-a556c1180bc742fe/202601/real-madrid-unicaja-y-valencia-joventut-en-cuartos-de-copa",
-        "date": "2026-01-26 17:17:12",
-        "sentiment_score": -0.018530361354351044
-    },
-    {
-        "title": "Podemos anuncia un pacto con el PSOE para que el Gobierno apruebe un decreto de regularización de migrantes",
-        "image_url": "https://www.infobae.com/resizer/v2/DLX7PNW4H5HJHLRLM3VBOQHM4E.jpg?auth=4c2bb3555305c2dfd62eb466e28dee50cd2f371793a28eb1e6d007101fbb13ae&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/26/podemos-anuncia-un-pacto-con-el-psoe-para-que-el-gobierno-apruebe-un-decreto-de-regularizacion-de-migrantes/",
-        "date": "2026-01-26 17:16:27",
-        "sentiment_score": -0.0609126091003418
-    },
-    {
-        "title": "TCL refuerza su estrategia de expansión en España con la inauguración de sus nuevas oficinas en Madrid",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260126180356_690.jpg",
-        "tags": [
-            "portaltic",
-            "empresas"
-        ],
-        "link": "https://www.europapress.es/portaltic/empresas/noticia-tcl-refuerza-estrategia-expansion-espana-inauguracion-nuevas-oficinas-madrid-20260126180356.html",
-        "date": "2026-01-26 17:03:56",
-        "sentiment_score": 0.7406193232163787
-    },
-    {
-        "title": "Podemos anuncia un pacto con el PSOE para regularizar a las personas migrantes que están en España",
-        "image_url": "https://static1.ara.cat/clip/8cbdddce-74b6-4e08-8eab-24a61038bc1f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "irregulares",
-            "espana",
-            "pacto",
-            "regularizar",
-            "anuncia",
-            "psoe",
-            "migrantes"
-        ],
-        "link": "https://es.ara.cat/politica/anuncia-pacto-psoe-regularizar-migrantes-irregulares-espana_1_5629388.html",
-        "date": "2026-01-26 17:03:26",
-        "sentiment_score": -0.22255893051624298
-    },
-    {
-        "title": "El Ministerio de Justicia creará cinco plazas de jueces en Jerez",
-        "image_url": "https://static.grupojoly.com/clip/35e41960-d307-4a9a-a9d3-a166e19390bb_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tribunales jerez",
-            "últimas noticias jerez"
-        ],
-        "link": "https://www.diariodejerez.es/jerez/ministerio-justicia-creara-cinco-plazas-jueces-jerez_0_2005736839.html",
-        "date": "2026-01-26 17:03:16",
-        "sentiment_score": -0.18414366245269775
-    },
-    {
-        "title": "El Real Madrid quiere consolidarse también a domicilio",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260126180214_690.jpg",
-        "tags": [
-            "deportes",
-            "baloncesto"
-        ],
-        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-real-madrid-quiere-consolidarse-tambien-domicilio-20260126180214.html",
-        "date": "2026-01-26 17:02:14",
-        "sentiment_score": -0.23951636254787445
-    },
-    {
-        "title": "Sánchez regularizará a 500.000 inmigrantes ilegales mediante ‘decretazo’ para eludir al Congreso",
-        "image_url": "https://okdiario.com/img/2023/01/28/monterosanchez.jpg",
-        "tags": [
-            "pedro sánchez",
-            "españa",
-            "gobierno",
-            "podemos",
-            "irene montero"
-        ],
-        "link": "https://okdiario.com/espana/sanchez-regularizara-500-000-inmigrantes-ilegales-mediante-decretazo-eludir-congreso-16139269",
-        "date": "2026-01-26 17:01:34",
-        "sentiment_score": -0.09887023270130157
-    },
-    {
-        "title": "El Gobierno se cobra la cabeza de dos cargos medios para sofocar la tensión con la Generalitat por el caos en Rodalies",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2026/01/5819f76623d3ae45db456b7cf95bccecd2d49a92-1440x808.jpg",
-        "tags": [
-            "salvador illa",
-            "partido socialista obrero español (psoe)",
-            "gobierno de españa",
-            "adif",
-            "óscar puente",
-            "generalitat cataluña",
-            "pedro sánchez",
-            "renfe",
-            "transportes",
-            "cataluña",
-            "españa",
-            "partido de los socialistas de cataluña (psc)"
-        ],
-        "link": "https://www.elindependiente.com/espana/2026/01/26/el-gobierno-se-cobra-la-cabeza-de-dos-cargos-medios-para-intentar-sofocar-la-tension-con-la-generalitat-por-rodalies/",
-        "date": "2026-01-26 17:18:58",
-        "sentiment_score": -0.9208559840917587
-    },
-    {
-        "title": "Lamine Yamal vuelve a ser «de otra galaxia»",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/26/Clipboard-0178-kwVC-U20353730839yjF-1200x840@RC.jpg",
-        "tags": [
-            "flick",
-            "liga de fútbol profesional",
-            "f.c. barcelona",
-            "lamine yamal",
-            "copa del rey de fútbol"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-primera/lamine-yamal-vuelve-galaxia-20260126181245-ntrc.html",
-        "date": "2026-01-26 17:17:48",
-        "sentiment_score": 0.7280712351202965
-    },
-    {
-        "title": "Sheinbaum pide por carta al primer ministro surcoreano que BTS añada más paradas en México en su gira mundial de 2026",
-        "image_url": "https://www.infobae.com/resizer/v2/2X7GQHFXIZBZ3M2SPZJLYR5OUI.jpg?auth=4cc0eccde3370fce866804f14c5359ba6d15c3d60cbb8dee474768d5aa6a0b5f&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/26/sheinbaum-pide-por-carta-al-primer-ministro-surcoreano-que-bts-anada-mas-paradas-en-mexico-en-su-gira-mundial-de-2026/",
-        "date": "2026-01-26 17:15:51",
-        "sentiment_score": 0.0776723325252533
-    },
-    {
-        "title": "Toco toco to: Rawayana le pone lugar y fecha al after",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/26125431/rawayana.-.jpg",
-        "tags": [
-            "entretenimiento",
-            "música",
-            "rawayana",
-            "¿dónde es el after?"
-        ],
-        "link": "https://www.elnacional.com/2026/01/rawayana-le-pone-lugar-y-fecha-al-after/",
-        "date": "2026-01-26 17:15:38",
-        "sentiment_score": 0.058403678238391876
-    },
-    {
-        "title": "La banda venezolana Rawayana actuará en mayo en Madrid y Barcelona",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260126181508_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-banda-venezolana-rawayana-actuara-mayo-madrid-barcelona-20260126181508.html",
-        "date": "2026-01-26 17:15:08",
-        "sentiment_score": 0.06038296967744827
-    },
-    {
-        "title": "«Nada huele tanto a rosa como el geranio”. Natasha Levin lleva a Jean-Claude a Barcelona",
-        "image_url": "https://forbes.es/wp-content/uploads/2026/01/Progetto-senza-titolo-2026-01-26T121222.872.png",
-        "tags": [
-            "barcelona",
-            "opinion",
-            "opinión",
-            "perfume"
-        ],
-        "link": "https://forbes.es/opinion/863359/nada-huele-tanto-a-rosa-como-el-geranio-natasha-levin-lleva-a-jean-claude-a-barcelona/",
-        "date": "2026-01-26 17:13:29",
-        "sentiment_score": -0.2258172631263733
-    },
-    {
-        "title": "Paneque pide cambios e inversiones en Rodalies ante una situación \"inconcebible e intolerable\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260126181318_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-paneque-pide-cambios-inversiones-rodalies-situacion-inconcebible-intolerable-20260126181318.html",
-        "date": "2026-01-26 17:13:18",
-        "sentiment_score": -0.93347152415663
-    },
-    {
-        "title": "17:00H | 26 ENE 2026 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-26-ene-2026-tarde-20260126_3294656.html",
-        "date": "2026-01-26 17:07:00",
-        "sentiment_score": -0.19163848459720612
-    },
-    {
-        "title": "Alex Cano, el madrileño de 26 años que hace la mejor croqueta de España en un restaurante de Madrid: \"La hago con las manos\"",
-        "image_url": "https://s3.elespanol.com/2026/01/26/actualidad/1003744104637_261102987_1706x960.jpg",
-        "tags": [
-            "croquetas",
-            "ocio",
-            "restaurantes"
-        ],
-        "link": "https://www.elespanol.com/madrid/ocio/20260126/alex-cano-madrileno-anos-hace-mejor-croqueta-espana-restaurante-madrid-hago-manos/1003744104626_0.html",
-        "date": "2026-01-26 17:06:12",
-        "sentiment_score": -0.02237217128276825
-    },
-    {
-        "title": "Restablecida la circulación de la R2 Sud entre Garraf y Sitges (Barcelona) por ambas vías",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260126180544_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-restablecida-circulacion-r2-sud-garraf-sitges-barcelona-ambas-vias-20260126180544.html",
-        "date": "2026-01-26 17:05:44",
-        "sentiment_score": -0.5017170570790768
-    },
-    {
-        "title": "«Un alumno me agredió, me llamó guarra y amenazó con matar a mi hijo»: el diario de una profesora de instituto",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/2b/media_thumb-link-4140018.webp?1769411826=",
-        "tags": [
-            "alumnos",
-            "profesores",
-            "actualidad",
-            "fiscalía de menores"
-        ],
-        "link": "https://www.meneame.net/story/alumno-agredio-llamo-guarra-amenazo-matar-hijo-diario-profesora",
-        "date": "2026-01-26 17:30:02",
-        "sentiment_score": -0.1872905194759369
-    },
-    {
         "title": "Develan dónde se jugará la final de la Mundial FIFA 2030",
         "image_url": "https://pxcdn.meridiano.net/012026/1769466037110.jpg?ch=180&cw=320",
         "tags": [
@@ -684,19 +436,6 @@ export default [
         "link": "https://www.elespanol.com/motor/20260127/nissan-bmw-mercedes-volvo-unicos-fabricantes-cumplen-reduccion-emisiones-bruselas-cierre/1003744104137_0.html",
         "date": "2026-01-27 01:39:50",
         "sentiment_score": -0.007662087678909302
-    },
-    {
-        "title": "«Un alumno me agredió, me llamó guarra y amenazó con matar a mi hijo»: el diario de una profesora de instituto",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/2b/media_thumb-link-4140018.webp?1769411826=",
-        "tags": [
-            "alumnos",
-            "profesores",
-            "actualidad",
-            "fiscalía de menores"
-        ],
-        "link": "https://www.meneame.net/story/alumno-agredio-llamo-guarra-amenazo-matar-hijo-diario-profesora",
-        "date": "2026-01-26 17:30:02",
-        "sentiment_score": -0.1872897446155548
     },
     {
         "title": "Mourinho, el oscuro deseo de Florentino: \"José, quédate en el Real Madrid. Lo mejor está por venir\"",
@@ -2930,5 +2669,277 @@ export default [
         "link": "https://www.lavanguardia.com/dinero/20260130/11448592/bocados-toque-solidaridad.html",
         "date": "2026-01-30 01:00:00",
         "sentiment_score": 0.5061946697533131
+    },
+    {
+        "title": "Ayesa, en el punto de mira por las soldaduras de la tragedia de Adamuz, gestionará los datos educativos de Baleares",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ae0a8e32-336a-497a-bff5-913f6d0cbf37_16-9-discover-aspect-ratio_default_0_x246y96.jpg",
+        "tags": [
+            "baleares",
+            "mallorca",
+            "educación"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260130/ayesa-punto-mira-soldaduras-tragedia-126252724",
+        "date": "2026-01-30 06:27:44",
+        "sentiment_score": -0.43128663301467896
+    },
+    {
+        "title": "25 años de la Cámara de Cuentas: cuando el poder no quiere ser fiscalizado, el control externo vuelve a estar en riesgo",
+        "image_url": "https://www.elplural.com/uploads/s1/24/38/86/9/camara_7_480x270.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elplural.com/politica/espana/25-anos-camara-cuentas-cuando-poder-no-quiere-ser-fiscalizado-control-externo-vuelve-estar-riesgo_380042102",
+        "date": "2026-01-30 06:13:27",
+        "sentiment_score": -0.04249131679534912
+    },
+    {
+        "title": "Elena Reinés ('Woke Up'): \"La gente que me pedía suicidarme no era anónima. Ya no tienen miedo\"",
+        "image_url": "https://www.elplural.com/uploads/s1/20/77/92/4/elena-reines-woke-up-fotografia-de-jesus-olmedo_7_480x270.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.elplural.com/sociedad/elena-reines-woke-up-la-gente-me-pedia-suicidarme-no-era-anonima-no-tienen-miedo_380043102",
+        "date": "2026-01-30 06:13:20",
+        "sentiment_score": -0.19138287007808685
+    },
+    {
+        "title": "Adif confía en retirar este viernes las limitaciones de velocidad en la línea Zamora-Medina",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4119d6e3-fe36-4ab6-9036-ed7c5508b0d3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "madrid,renfe,adif,trenes,vías"
+        ],
+        "link": "https://www.laopiniondezamora.es/zamora/2026/01/30/adif-confia-retirar-viernes-limitaciones-126241822.html",
+        "date": "2026-01-30 06:00:16",
+        "sentiment_score": -0.32506799697875977
+    },
+    {
+        "title": "Real Madrid se encontrará con Benfica en el playoff de la Champions",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/30095425/El-Real-Madrid-tendra-que-volver-a-enfrentar-al-Benfica-en-los-playoff-de-la-Champions-Foto-Archivo.jpg",
+        "tags": [
+            "playoff",
+            "fútbol",
+            "deportes",
+            "playoff de la champions",
+            "europa league",
+            "sorteo"
+        ],
+        "link": "https://www.elnacional.com/2026/01/real-madrid-se-encontrara-con-benfica-en-el-playoff-de-la-champions/",
+        "date": "2026-01-30 06:00:00",
+        "sentiment_score": 0.078215591609478
+    },
+    {
+        "title": "El Yugo Socuéllamos se encomienda a sus refuerzos ante el Getafe B",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/9585c233-0f43-4863-b051-7f8db583bd72.jpg",
+        "tags": [
+            "ud socuéllamos",
+            "fútbol",
+            "deportes",
+            "socuéllamos",
+            "segunda rfef"
+        ],
+        "link": "https://www.lanzadigital.com/deportes/futbol/segunda-rfef/el-yugo-socuellamos-se-encomienda-a-sus-refuerzos-ante-el-getafe-b/",
+        "date": "2026-01-30 06:00:00",
+        "sentiment_score": 0.13003212213516235
+    },
+    {
+        "title": "El boicot a su película no es una opción",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/99cc83d9-f26b-474a-9ddb-fc00b803c350_source-aspect-ratio_default_0.jpeg",
+        "tags": [
+            "pelicula",
+            "opcion",
+            "boicot"
+        ],
+        "link": "https://www.deia.eus/opinion/2026/01/30/boicot-pelicula-opcion-10636630.html",
+        "date": "2026-01-30 05:59:30",
+        "sentiment_score": -0.8156603015959263
+    },
+    {
+        "title": "Todo lo que hay que saber del sorteo de los playoff de la Champions League: posibles cruces, formato, hora y TV",
+        "image_url": "https://www.infobae.com/resizer/v2/OUC74BR2LRCD5IYUCD5GQCSJ7E.JPG?auth=0ee6771d54a0952a534322b531120143644b9b43b9f7738679f95db131219e45&height=3170&smart=true&width=5636",
+        "tags": [
+            "juventus",
+            "bayern múnich",
+            "galatasaray",
+            "bodo glimt",
+            "arsenal",
+            "qarabag",
+            "liverpool",
+            "deportes-argentina",
+            "psg",
+            "inter de italia",
+            "bayer leverkusen",
+            "real madrid",
+            "sporting de lisboa",
+            "tottenham",
+            "borussia dortmund",
+            "uefa champions league",
+            "atalanta",
+            "mónaco",
+            "benfica",
+            "newcastle",
+            "chelsea",
+            "deportes-internacional",
+            "manchester city",
+            "atlético de madrid",
+            "olympiacos",
+            "brujas",
+            "barcelona"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/30/todo-lo-que-hay-que-saber-del-sorteo-de-los-playoff-de-la-champions-league-posibles-cruces-formato-hora-y-tv/",
+        "date": "2026-01-30 05:14:38",
+        "sentiment_score": 0.21337172389030457
+    },
+    {
+        "title": "Las galerías gallegas van a una huelga histórica y avisan: «Si sigue el 21% de IVA cerraremos»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/76227fbe-1b08-4d2a-bf24-2598fa8048e6_16-9-aspect-ratio_default_0_x659y292.jpg",
+        "tags": [
+            "iva",
+            "portugal",
+            "galerías",
+            "paro",
+            "arte"
+        ],
+        "link": "https://www.farodevigo.es/sociedad/2026/01/30/galerias-gallegas-huelga-historica-iva-cultural-126233786.html",
+        "date": "2026-01-30 05:04:50",
+        "sentiment_score": -0.6323625594377518
+    },
+    {
+        "title": "España hoy, 30 de enero de 2026: lo que tienes que saber",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/aldama-audiencia-medios.jpg",
+        "tags": [
+            "estados unidos",
+            "gaza",
+            "españa",
+            "china",
+            "venezuela",
+            "aranceles",
+            "europa",
+            "israel",
+            "bruselas"
+        ],
+        "link": "https://theobjective.com/espana/2026-01-30/espana-30-enero-2026-noticias/",
+        "date": "2026-01-30 06:54:13",
+        "sentiment_score": -0.4927166849374771
+    },
+    {
+        "title": "España hoy, 30 d enero de 2026: lo que tienes que saber",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/aldama-audiencia-medios.jpg",
+        "tags": [
+            "israel",
+            "china",
+            "aranceles",
+            "bruselas",
+            "estados unidos",
+            "gaza",
+            "europa",
+            "españa",
+            "venezuela"
+        ],
+        "link": "https://theobjective.com/espana/2026-01-30/espana-hoy-30-d-enero-de-2026-lo-que-tienes-que-saber/",
+        "date": "2026-01-30 06:54:13",
+        "sentiment_score": -0.4927166849374771
+    },
+    {
+        "title": "Accidente de tren en Adamuz, Córdoba, en directo Familias de las víctimas prometen \"luchar desde la serenidad\" por \"la verdad de los 45 del tren\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/072955b9-4c86-4693-9daf-578a7cb41749_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "trenes",
+            "renfe",
+            "adif",
+            "córdoba",
+            "accidente de tren córdoba"
+        ],
+        "link": "https://www.elperiodico.com/es/sucesos/20260130/directo-accidente-tren-adamuz-cordoba-125819317",
+        "date": "2026-01-30 06:53:00",
+        "sentiment_score": -0.5217651091516018
+    },
+    {
+        "title": "CaixaBank cierra el 2025 con un beneficio récord de 5.891 millones",
+        "image_url": "https://static1.ara.cat/clip/e980a023-b24f-4a89-9b62-998f89edbef8_16-9-aspect-ratio_default_1055876.jpg",
+        "tags": [
+            "891",
+            "beneficio",
+            "1",
+            "2025",
+            "millones",
+            "5",
+            "8",
+            "cierra",
+            "record",
+            "euros",
+            "caixabank"
+        ],
+        "link": "https://es.ara.cat/economia/banca/caixabank-cierra-2025-beneficio-record-5-891-millones-euros-1-8_1_5633017.html",
+        "date": "2026-01-30 06:48:43",
+        "sentiment_score": 0.4184952639043331
+    },
+    {
+        "title": "Pelea por el alquiler: Más de treinta familias compiten por cada piso que sale al mercado en Valencia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/92b74a94-8018-4662-ae54-55595207a40a_16-9-discover-aspect-ratio_default_0_x1190y529.jpg",
+        "tags": [
+            "sevilla",
+            "barcelona",
+            "vivienda",
+            "valencia",
+            "alicante"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260130/pelea-alquiler-treinta-familias-compiten-vivienda-valencia-alquiler-valencia-126253339",
+        "date": "2026-01-30 06:47:02",
+        "sentiment_score": 0.15729829668998718
+    },
+    {
+        "title": "11.300 millones prometidos, 5.676 millones ejecutados: la brecha del 50% que explica el colapso de Rodalies",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f42c2085-969c-4ceb-8279-dff1aec50aad_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "infraestructuras",
+            "generalitat de cataluña",
+            "trenes",
+            "economía",
+            "rodalies",
+            "crisis",
+            "renfe",
+            "cercanías"
+        ],
+        "link": "https://www.laprovincia.es/economia/2026/01/30/inversion-ejecutada-adif-renfe-catalunya-rodalies-mitad-presupuestado-126252426.html",
+        "date": "2026-01-30 06:44:49",
+        "sentiment_score": -0.7428426183760166
+    },
+    {
+        "title": "Lo que debes saber hoy, 30 de enero, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/10/22/vivir-en-barcelona/1003742700332_15310520_1706x960.jpg",
+        "tags": [
+            "aemet (agencia estatal de meteorología)",
+            "rodalies",
+            "el tiempo",
+            "tiempo",
+            "vivir en barcelona",
+            "transports metropolitans barcelona tmb",
+            "autobús",
+            "clima",
+            "tráfico"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260130/debes-saber-hoy-enero-barcelona/1003742728041_0.html",
+        "date": "2026-01-30 06:26:31",
+        "sentiment_score": 0.5790506973862648
+    },
+    {
+        "title": "Vanesa Romero revela qué hizo con el dinero de ‘Aquí no hay quien viva’ y ‘La que se avecina’",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/04/03/2025040309421339500.jpg",
+        "tags": [
+            "famosos"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/famosos/vanesa-romero-revela-que-hizo-dinero-aqui-quien-viva-que-avecina/202601300721001000897.html",
+        "date": "2026-01-30 06:21:00",
+        "sentiment_score": -0.03456410765647888
+    },
+    {
+        "title": "Alberto Garzón: \"La clase obrera es conservadora, nunca ha votado a las formaciones radicales de izquierdas\"",
+        "image_url": "https://www.elplural.com/uploads/s1/24/38/90/9/alberto-garzon-ex-ministro-de-consumo-y-ex-coordinador-federal-de-izquierda-unida-en-una-entrevista-concedida-a-elplural-com-imagen-y-video-de-juan-carlos-lozano-2_7_480x270.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elplural.com/politica/espana/alberto-garzon-clase-obrera-conservadora_380032102",
+        "date": "2026-01-30 06:13:43",
+        "sentiment_score": -0.13028261065483093
     }
 ];
