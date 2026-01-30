@@ -1,138 +1,5 @@
 export default [
     {
-        "title": "Descubren 'códigos de barras' en sangre que identifican el cáncer con más del 90% de precisión",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260126074349_690.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-descubren-codigos-barras-sangre-identifican-cancer-mas-90-precision-20260126074349.html",
-        "date": "2026-01-26 06:43:49",
-        "sentiment_score": -0.16358963400125504
-    },
-    {
-        "title": "La chilena de Lamine ocupa todas las portadas: \"Laminazo\", \"espectacular\" y \"regalo\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "la liga 2025/2026"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/chilena-lamine-yamal-video-gol-oviedo-portadas-deporte-espana-lunes-26-enero-hoy_sto23263214/story.shtml",
-        "date": "2026-01-26 06:43:47",
-        "sentiment_score": 0.4201667159795761
-    },
-    {
-        "title": "La bailarina con discapacidad auditiva Jone San Martín reivindica la danza como lenguaje en el espectáculo 'sORDA'",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/26/6977090bcbe4f1-81863683.jpeg",
-        "tags": [
-            "capaces"
-        ],
-        "link": "https://www.20minutos.es/capaces/bailarina-con-discapacidad-auditiva-jone-san-martin-reivindica-danza-como-lenguaje-espectaculo-sorda_6925639_0.html",
-        "date": "2026-01-26 06:40:54",
-        "sentiment_score": -0.056547656655311584
-    },
-    {
-        "title": "El curioso refrán madrileño que nadie conoce en el resto de España: nació de la rivalidad entre capital y pueblos",
-        "image_url": "https://okdiario.com/img/2026/01/22/orquesta.jpg",
-        "tags": [
-            "lenguaje",
-            "frases",
-            "curiosidades",
-            "castellano",
-            "palabras",
-            "español",
-            "madrid"
-        ],
-        "link": "https://okdiario.com/curiosidades/curioso-refran-madrileno-que-nadie-conoce-resto-espana-nacio-rivalidad-capital-pueblos-16117881",
-        "date": "2026-01-26 06:30:36",
-        "sentiment_score": -0.2924070283770561
-    },
-    {
-        "title": "Así ha logrado Arbeloa resucitar al Real Madrid en 10 días: \"No puedo ir contra la naturaleza de los jugadores\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/51a33216-fae6-4b17-9cb8-0848913db7fc_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol",
-            "real madrid",
-            "álvaro arbeloa"
-        ],
-        "link": "https://www.laopiniondemalaga.es/deportes/2026/01/26/arbeloa-resucitar-real-madrid-mbappe-vinicius-126083216.html",
-        "date": "2026-01-26 06:24:23",
-        "sentiment_score": -0.2497018575668335
-    },
-    {
-        "title": "Rodalies vuelve a suspender el servicio por una incidencia en el centro de control de ADIF",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/pantalla-incidencia-rodalies.jpg",
-        "tags": [
-            "incidencia",
-            "rodalies",
-            "barcelona",
-            "adif",
-            "cataluña",
-            "transporte"
-        ],
-        "link": "https://theobjective.com/economia/transporte/2026-01-26/rodalies-suspender-servicio-incidencia-adif/",
-        "date": "2026-01-26 06:48:09",
-        "sentiment_score": -0.775668865069747
-    },
-    {
-        "title": "El portavoz de Adif, Salvador Almenar: \"No descartamos hipótesis ante el problema informático que ha cortado dos veces Rodalies\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6869a35a-321c-45cb-9f49-2467e60e7a1d_16-9-discover-aspect-ratio_default_0_x609y270.jpg",
-        "tags": [
-            "adif",
-            "rodalies",
-            "renfe"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260126/portavoz-adif-salvador-almenar-descartamos-126084351",
-        "date": "2026-01-26 06:45:03",
-        "sentiment_score": -0.3760758116841316
-    },
-    {
-        "title": "Boro, el perro del tren de Adamuz, recibe ofertas para ir a televisión",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/01/24/6975010150661.jpeg",
-        "tags": [
-            "series y tv"
-        ],
-        "link": "https://www.lavozdealmeria.com/series-y-tv/441922/boro-perro-tren-adamuz-recibe-ofertas-television.html",
-        "date": "2026-01-26 06:45:00",
-        "sentiment_score": -0.27995675057172775
-    },
-    {
-        "title": "Se va Ingrid, llega Joseph: las fuertes lluvias impiden bajar la guardia, sobre todo en Galicia",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/26/unos-ciudadanos-tratan-de-protegerse-del-temporal-en-a-coruna-el-21-de-enero-de-2026.jpeg",
-        "tags": [
-            "el tiempo"
-        ],
-        "link": "https://www.huffingtonpost.es/tiempo/se-ingrid-llegajoseph-fuertes-lluvias-impiden-bajar-guardia-sobre-galicia-f202601.html",
-        "date": "2026-01-26 06:43:56",
-        "sentiment_score": -0.49881497770547867
-    },
-    {
-        "title": "Cuál es el precio de la gasolina este 26 de enero en Madrid, Barcelona y otras ciudades",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "precio gasolina",
-            "noticias",
-            "españa-economia",
-            "gasolina"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/26/cual-es-el-precio-de-la-gasolina-este-26-de-enero-en-madrid-barcelona-y-otras-ciudades/",
-        "date": "2026-01-26 06:30:39",
-        "sentiment_score": -0.01283891499042511
-    },
-    {
-        "title": "Un fallo en un centro de control de Adif vuelve a alterar el servicio de Rodalies en Cataluña",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9a88761a-33df-4f62-a9c4-f328f3c6959b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "adif",
-            "rodalies",
-            "renfe",
-            "trenes"
-        ],
-        "link": "https://www.laprovincia.es/sociedad/2026/01/26/suspendido-nuevo-cataluna-servicio-rodalies-126083396.html",
-        "date": "2026-01-26 06:28:05",
-        "sentiment_score": -0.1293625310063362
-    },
-    {
         "title": "El Gobierno español aprobará este martes una regularización extraordinaria de migrantes tras pactarlo con Podemos",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/dd10adf9-2110-48e5-b086-45bd3059fbae_16-9-aspect-ratio_default_0_x2219y0.jpg",
         "tags": [
@@ -2685,5 +2552,206 @@ export default [
         "link": "https://www.laprovincia.es/las-palmas/2026/01/29/puertos-palmas-son-cuartos-sistema-portuario-estado-126217977.html",
         "date": "2026-01-29 17:30:42",
         "sentiment_score": 0.20363956689834595
+    },
+    {
+        "title": "Un ciudadano vestido de Batman se viraliza por sus reproches contra las redadas del ICE: «Cobardes, traidores»",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/31/media_thumb-link-4141513.webp?1769719386=",
+        "tags": [
+            "traidores",
+            "trump",
+            "batman",
+            "actualidad",
+            "ice"
+        ],
+        "link": "https://www.meneame.net/story/ciudadano-vestido-batman-viraliza-reproches-contra-redadas-ice",
+        "date": "2026-01-29 21:35:02",
+        "sentiment_score": -0.8633819837123156
+    },
+    {
+        "title": "Sorteo de playoffs de la Champions League 2025/2026: equipos, emparejamientos, formato, hora y cómo ver por TV e internet",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/01/29/sorteo-playoffs-champions-league-2025-2026-orix/",
+        "date": "2026-01-29 22:03:40",
+        "sentiment_score": 0.30453696846961975
+    },
+    {
+        "title": "La opinión sobre el Real Oviedo y el Sporting: Bienvenidos a la final del Mundial",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6567f664-4d6e-4588-9390-77dab402ea9e_16-9-aspect-ratio_default_1431181.jpg",
+        "tags": [
+            "toro",
+            "viñas",
+            "real oviedo",
+            "fichajes"
+        ],
+        "link": "https://www.lne.es/deportes/opinion/2026/01/29/opinion-real-oviedo-sporting-bienvenidos-126243765.html",
+        "date": "2026-01-29 21:42:39",
+        "sentiment_score": -0.036286860704422
+    },
+    {
+        "title": "Ignacio Cembrero: \"El príncipe heredero de Marruecos mantiene una relación muy estrecha con su madre y eso marcará su reinado\"",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2025/10/31/9800D3DB-37D3-4C04-9492-7BB719A4272C/mohamed-foto-archivo_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "la brújula",
+            "programas",
+            "ondacero"
+        ],
+        "link": "https://www.ondacero.es/programas/la-brujula/ignacio-cembrero-principe-heredero-marruecos-mantiene-relacion-muy-estrecha-madre-eso-marcara-reinado_20260129697bd2dc9243cc133c29138c.html",
+        "date": "2026-01-29 21:36:28",
+        "sentiment_score": -0.3491828888654709
+    },
+    {
+        "title": "Los seis clubes ingleses en la Champions se acercan a un premio de 600 millones de dólares",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/9d7e481/2147483647/strip/true/crop/6766x3552+0+480/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fae%2Fa2%2F07946993447aa4d8fee88011781b%2F57ccf5ca999e4df497ce04e2c0288795.jpg",
+        "tags": [
+            "business",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-01-29/los-seis-clubes-ingleses-en-la-champions-se-acercan-un-premio-de-600-millones-de-dolares",
+        "date": "2026-01-29 21:35:43",
+        "sentiment_score": 0.83801438100636
+    },
+    {
+        "title": "Arqueros goleadores han creado momentos icónicos, desde Chilavert hasta el drama de Benfica",
+        "image_url": "https://i.headtopics.com/images/2026/1/29/latimes/arqueros-goleadores-han-creado-momentos-ic-nicos-d-arqueros-goleadores-han-creado-momentos-ic-nicos-d-037AC3A3A50262C054C8E5B7F5AC9F78.webp",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://us.headtopics.com/news/arqueros-goleadores-han-creado-momentos-ic-nicos-desde-79059476",
+        "date": "2026-01-29 21:17:52",
+        "sentiment_score": -0.8779204003512859
+    },
+    {
+        "title": "Rodrygo da la cara tras la debacle del Madrid en Lisboa: \"Me dejé llevar, pido perdón\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/29/image-44162aa1-8faa-4d8b-ae66-c1016ce976f0-85-2560-1440.jpeg",
+        "tags": [
+            "football"
+        ],
+        "link": "https://www.eurosport.es/futbol/rodrygo-disculpa-twitter-companeros-aficion-arbeloa-expulsion-benfica_sto23264599/story.shtml",
+        "date": "2026-01-29 21:17:17",
+        "sentiment_score": -0.6514917239546776
+    },
+    {
+        "title": "El PP, UPN, Vox y Junts exigen en el Senado la dimisión de Puente como responsable del accidente de Adamuz",
+        "image_url": "https://www.alertadigital.com/wp-content/uploads/2026/01/puente.png",
+        "tags": [
+            "dimision",
+            "puente",
+            "pp",
+            "adamuz",
+            "upn",
+            "españa",
+            "junts",
+            "vox"
+        ],
+        "link": "https://www.alertadigital.com/2026/01/29/el-pp-upn-vox-y-junts-exigen-en-el-senado-la-dimision-de-puente-como-responsable-del-accidente-de-adamuz/",
+        "date": "2026-01-29 21:10:11",
+        "sentiment_score": -0.8090765010565519
+    },
+    {
+        "title": "Óscar Mosquera, el vecino de Santiago que pulverizó la historia de las apuestas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5c17c121-6b71-4f31-94be-60b64d8aa16f_16-9-discover-aspect-ratio_default_1431171.jpg",
+        "tags": [
+            "casas de apuestas",
+            "apuestas online",
+            "santiago",
+            "vila de cruces",
+            "apuestas"
+        ],
+        "link": "https://www.elcorreogallego.es/santiago/2026/01/29/oscar-mosquera-vecino-santiago-pulverizo-record-apuestas-espana-126243664.html",
+        "date": "2026-01-29 21:06:34",
+        "sentiment_score": 0.4817293509840965
+    },
+    {
+        "title": "Las claves de la Jornada 22 de LaLiga EA Sports 25 – 26 | El Espanyol abre la jornada ante el Alavés",
+        "image_url": "https://lagrada.org/wp-content/uploads/2026/01/LAS-CLAVES-DE-LA-JORNADA-25-26.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagrada.org/liga-jornada-22-previa-claves-resultados-clasificacion-partidos-espanyol-alaves/",
+        "date": "2026-01-29 21:00:06",
+        "sentiment_score": 0.2899883985519409
+    },
+    {
+        "title": "Rosalía actúa por sorpresa en el concierto por Palestina en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/EDSPTW5I6NBPDDD3V7VW3CWSYM.jpg?auth=57c6513741c8d2f550e1a344d28fdbf9d914a9da5097e13f53365ae95098ca08&height=1282&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/29/rosalia-actua-por-sorpresa-en-el-concierto-por-palestina-en-barcelona/",
+        "date": "2026-01-29 22:30:34",
+        "sentiment_score": -0.26741408556699753
+    },
+    {
+        "title": "TikTok desde prisión en Barcelona: móviles, drogas y sanciones mínimas destapan las grietas del sistema penitenciario",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/19/el-pulso-de-la-ciudad/1003742724458_15614977_1706x960.jpg",
+        "tags": [
+            "delincuencia",
+            "justicia",
+            "prisiones barcelona",
+            "el pulso de la ciudad"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260129/tiktok-prision-barcelona-moviles-drogas-sanciones-minimas-destapan-grietas-sistema-penitenciario/1003742724428_0.html",
+        "date": "2026-01-29 22:30:00",
+        "sentiment_score": -0.9058278370648623
+    },
+    {
+        "title": "Así se reparte la gran propiedad de vivienda en Barcelona: lo público en la periferia y lo privado en el centro",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2020/03/24/economia/477212287_10209698_1706x960.jpg",
+        "tags": [
+            "ayuntamiento de barcelona",
+            "economía",
+            "vivienda",
+            "alquiler vivienda",
+            "viviendas",
+            "empresas barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260129/reparte-gran-propiedad-vivienda-barcelona-publico-periferia-privado-centro/1003742727392_0.html",
+        "date": "2026-01-29 22:30:00",
+        "sentiment_score": 0.0022636353969573975
+    },
+    {
+        "title": "Peralada celebra la Pascua con Christie, Vox Luminis y el nuevo hallazgo de Dani Espasa",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/03/31/6609603112f2e.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.lavanguardia.com/cultura/20260129/11452799/peralada-celebra-pascua-christie-vox-luminis-nuevo-hallazgo-dani-espasa.html",
+        "date": "2026-01-29 22:09:26",
+        "sentiment_score": 0.2615032270550728
+    },
+    {
+        "title": "Instalada la primera Zona Ultra en Anzoátegui",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/01/GuamachitoFibraOpitca3-300x187.jpg",
+        "tags": [
+            "actualidad",
+            "anzoátegui"
+        ],
+        "link": "https://ultimasnoticias.com.ve/anzoateggui/instalada-la-primera-zona-ultra-en-anzoategui/",
+        "date": "2026-01-29 22:06:14",
+        "sentiment_score": 0.03094373643398285
+    },
+    {
+        "title": "Detenidos dos jóvenes en Anzoátegui y Monagas por agredir a sus parejas y a sus bebés lactantes",
+        "image_url": "https://reporteconfidencial.info/wp-content/uploads/2026/01/image-894.png",
+        "tags": [
+            "principales",
+            "nacionales"
+        ],
+        "link": "https://reporteconfidencial.info/2026/01/29/detenidos-dos-jovenes/",
+        "date": "2026-01-29 22:02:55",
+        "sentiment_score": -0.7891097571700811
+    },
+    {
+        "title": "Rosalía aparece por sorpresa en un acto solidario a favor de Palestina en el Palau Sant Jordi: \"Significa mucho para mí\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6ee34fab-e652-42f3-9e7d-39c927f53812_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rosalía,cultura,palestina,solidaridad,participación,música"
+        ],
+        "link": "https://www.laopiniondezamora.es/cultura/2026/01/29/rosalia-aparece-sorpresa-acto-solidario-palestina-palau-sant-jordi-126244971.html",
+        "date": "2026-01-29 22:02:27",
+        "sentiment_score": 0.23900257796049118
     }
 ];
