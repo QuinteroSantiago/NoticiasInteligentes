@@ -1,269 +1,5 @@
 export default [
     {
-        "title": "Resultados del Quinigol de este 25 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
-        "tags": [
-            "noticias",
-            "quinigol",
-            "españa-loterias",
-            "narrativa"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/25/resultados-del-quinigol-de-este-25-de-enero/",
-        "date": "2026-01-25 22:00:31",
-        "sentiment_score": 0.043751731514930725
-    },
-    {
-        "title": "Las 27 crisis ferroviarias de Óscar Puente en el cuestionado Ministerio de Transportes: \"Yo he venido a hacer, no a estar\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/4b0ab66c35091c52a9f988ef54ff6c02/crop/702x111/2640x2048/f/image/jpeg/assets/multimedia/imagenes/2024/12/15/17342882060591.jpg",
-        "tags": [
-            "accidente tren córdoba",
-            "nlpremium",
-            "artículos marcos iriarte"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/01/25/6970d0fee9cf4a312a8b456f.html",
-        "date": "2026-01-25 21:59:38",
-        "sentiment_score": -0.9240714777261019
-    },
-    {
-        "title": "Resultados, clasificación, crónica y resúmenes de la Jornada 21 de LaLiga EA Sports 25-26 | Se hizo justicia... divina: el Espanyol mantiene la 5a plaza pese al atraco en Mestalla",
-        "image_url": "https://lagrada.org/wp-content/uploads/2026/01/CARTEL-ASI-VA-LALIGA-25-26-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagrada.org/liga-jornada-21-resultados-clasificacion-cronica-resumen-partidos-valencia-cf-rcd-espanyol-domingo/",
-        "date": "2026-01-25 21:59:31",
-        "sentiment_score": -0.14791810512542725
-    },
-    {
-        "title": "Un joven de 24 años, herido grave por arma blanca en una pelea en Madrid",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5e179185-682a-4ce2-b2f1-3ef7a8e1fb2e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pelea",
-            "comunidad de madrid",
-            "parla"
-        ],
-        "link": "https://www.laprovincia.es/sucesos/2026/01/25/joven-24-anos-herido-grave-126079287.html",
-        "date": "2026-01-25 21:53:03",
-        "sentiment_score": -0.7783870026469231
-    },
-    {
-        "title": "Gracias, ministra",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-        "tags": [
-            "cartas"
-        ],
-        "link": "https://www.lavanguardia.com/participacion/cartas/20260125/11449170/gracias-ministra.html",
-        "date": "2026-01-25 22:11:46",
-        "sentiment_score": 0.6892844215035439
-    },
-    {
-        "title": "El tapón en la red eléctrica eleva a 350.000 las nuevas viviendas en riesgo en España: \"No podemos ni empezar las obras\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/6527acf41681b9fef92faa161ef584c9/crop/485x95/1558x1101/f/image/jpeg/assets/multimedia/imagenes/2022/11/16/16686363463923.jpg",
-        "tags": [
-            "vivienda",
-            "nlpremium",
-            "energía",
-            "artículos paula maría"
-        ],
-        "link": "https://www.elmundo.es/economia/empresas/2026/01/25/69720db5e4d4d8c0218b4594.html",
-        "date": "2026-01-25 21:58:08",
-        "sentiment_score": -0.7785031460225582
-    },
-    {
-        "title": "Alpine confirma que Christian Horner está interesado en comprar participación minoritaria",
-        "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-        "tags": [
-            "deportes",
-            "christian horner alpine f1",
-            "send to apple news",
-            "sports"
-        ],
-        "link": "https://apnews.com/article/christian-horner-alpine-f1-52a69268a31ddd31dedc47e832c9fbcf",
-        "date": "2026-01-25 21:43:14",
-        "sentiment_score": 0.15014347061514854
-    },
-    {
-        "title": "Alpine confirma que Christian Horner está interesado en comprar participación minoritaria",
-        "image_url": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.bostonherald.com/2026/01/25/alpine-confirma-que-christian-horner-est-interesado-en-comprar-participacin-minoritaria/",
-        "date": "2026-01-25 21:43:13",
-        "sentiment_score": 0.04740180820226669
-    },
-    {
-        "title": "Serbia, un 'superequipo' que esta vez sí quiere quedarse",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2026/01/25/69768df141a37.jpeg",
-        "tags": [
-            "waterpolo"
-        ],
-        "link": "https://www.mundodeportivo.com/waterpolo/20260125/1002608482/serbia-superequipo-vez-quiere-quedarse.html",
-        "date": "2026-01-25 21:41:30",
-        "sentiment_score": 0.24786847829818726
-    },
-    {
-        "title": "La calle se le tuerce a Sánchez: febrero arrancará con huelgas de maquinistas y de médicos, y protestas de los funcionarios",
-        "image_url": "https://s3.elespanol.com/2026/01/23/actualidad/1003744102290_261073201_1706x1280.jpg",
-        "tags": [
-            "médicos",
-            "política",
-            "accidentes de tren",
-            "huelgas",
-            "adamuz",
-            "elecciones"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20260126/calle-tuerce-sanchez-febrero-arrancara-huelgas-maquinistas-medicos-protestas-funcionarios/1003744099656_0.html",
-        "date": "2026-01-26 02:12:52",
-        "sentiment_score": -0.9137267358601093
-    },
-    {
-        "title": "Rick de la Torre, exjefe de la CIA en Venezuela: \"Delcy Rodríguez es temporal. Será reemplazada en el momento adecuado\"",
-        "image_url": "https://s3.elespanol.com/2026/01/16/actualidad/1003744092884_260953435_1706x960.jpg",
-        "tags": [
-            "estados unidos",
-            "cia",
-            "reportajes",
-            "porfolio"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260126/rick-torre-exjefe-cia-venezuela-delcy-rodriguez-temporal-reemplazada-momento-adecuado/1003744090675_0.html",
-        "date": "2026-01-26 01:26:06",
-        "sentiment_score": -0.8661784324795008
-    },
-    {
-        "title": "25 ENE 2026 | EL TERTULIÓN DE LOS DOMINGOS",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/25-ene-2026-tertulion-domingos-20260126_3293950.html",
-        "date": "2026-01-26 00:58:55",
-        "sentiment_score": 0.828483497723937
-    },
-    {
-        "title": "Cambiar nombres",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2021/10/20/6170345c0cba3.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20260126/cambiar-nombres_378074.html",
-        "date": "2026-01-26 00:30:00",
-        "sentiment_score": -0.08188538253307343
-    },
-    {
-        "title": "Huérfano a los 20, el suicidio de dos hermanos y el cáncer de su mujer: retrato de Reza Pahlaví, heredero al trono de Irán",
-        "image_url": "https://s3.elespanol.com/2026/01/23/actualidad/1003744101058_261056083_1706x960.jpg",
-        "tags": [
-            "suicidio",
-            "royals",
-            "monarquía",
-            "casas reales",
-            "irán"
-        ],
-        "link": "https://www.elespanol.com/corazon/casas-reales/20260126/huerfano-suicidio-hermanos-cancer-mujer-retrato-reza-pahlavi-heredero-trono-iran/1003744100935_0.html",
-        "date": "2026-01-26 00:24:51",
-        "sentiment_score": -0.5269217118620872
-    },
-    {
-        "title": "Benfica-Estrela Amadora: Mourinho advierte al Real Madrid (4-0)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1315x659:1317x657)/origin-imgresizer.eurosport.com/2026/01/25/image-729053ec-6f7b-42e8-90b4-ffaa6fec6dec-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "entertainment",
-            "lifestyle"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/primeira-liga/2025-2026/benfica-4-0-estrela-amadora-video-resumen-goles-mejores-jugadas-y-resultado-mourinho-advierte-al-real-madrid_vid60050006/video.shtml",
-        "date": "2026-01-26 00:14:53",
-        "sentiment_score": 0.4179334118962288
-    },
-    {
-        "title": "El Barça sigue líder ante un Real Madrid que mejora, en El Tertulión de los domingos",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/26/6976a4025c935.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-25-20260126_3293940.html",
-        "date": "2026-01-26 00:13:05",
-        "sentiment_score": -0.05752214789390564
-    },
-    {
-        "title": "Barcelona goleó 3-0 al Real Oviedo en el Camp Nou",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/25190301/FC-Barcelona.jpg",
-        "tags": [
-            "real oviedo",
-            "camp nou",
-            "fútbol",
-            "barcelona",
-            "deportes"
-        ],
-        "link": "https://www.elnacional.com/2026/01/barcelona-goleo-3-0-al-real-oviedo-en-el-camp-nou/",
-        "date": "2026-01-25 23:10:29",
-        "sentiment_score": 0.5976335555315018
-    },
-    {
-        "title": "Byan, la copiadísima firma de abrigos española que elige la familia real británica: \"Conocemos el largo perfecto para que un abrigo estilice\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/21ff758a3334ac32f53a99f13250539c/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/22/17691000418580.jpg",
-        "tags": [
-            "artículos charo lagares",
-            "tendencias de moda",
-            "invierno",
-            "yodona"
-        ],
-        "link": "https://www.elmundo.es/yodona/moda/2026/01/26/697252dfe85ece87558b45a1.html",
-        "date": "2026-01-25 23:08:33",
-        "sentiment_score": 0.6339676603674889
-    },
-    {
-        "title": "Un par de libros",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "par",
-            "libros"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/par-libros_0_2005730599.html",
-        "date": "2026-01-26 02:08:18",
-        "sentiment_score": -0.1116965115070343
-    },
-    {
-        "title": "El fracaso de ALIA, el buque insignia de Óscar López: 10,2 millones de inversión para conseguir 174 descargas al mes",
-        "image_url": "https://s3.elespanol.com/2026/01/08/actualidad/1003744082305_260823533_1706x960.jpg",
-        "tags": [
-            "innovación",
-            "digitalización",
-            "óscar lópez",
-            "españa",
-            "inteligencia artificial",
-            "tecnología"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/politica-digital/espana/20260126/fracaso-alia-buque-insignia-oscar-lopez-millones-inversion-conseguir-descargas-mes/1003744100921_0.html",
-        "date": "2026-01-26 02:02:08",
-        "sentiment_score": -0.3797872066497803
-    },
-    {
-        "title": "Deportes | El Elche CF regresa esta tarde al trabajo, ya con el fichaje de Lucas Cepeda y tras dos días y medio de desconexión para liberar la mente",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1732172.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-elche-cf-regresa-esta-tarde-al-trabajo-ya-con-el-fichaje-de-lucas-cepeda-y-tras-dos-dias-y-medio-de-desconexion-para-liberar-la-mente",
-        "date": "2026-01-26 02:00:07",
-        "sentiment_score": 0.42495299875736237
-    },
-    {
-        "title": "Corazones que laten más allá de las fronteras",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8ea78885-ad12-4877-92d2-b336602b8ba1_16-9-discover-aspect-ratio_default_0_x1146y619.jpg",
-        "tags": [
-            "barcelona",
-            "economía",
-            "enfermedades cardiovasculares",
-            "gaza",
-            "solidaridad"
-        ],
-        "link": "https://www.elcorreogallego.es/economia/activos/2026/01/26/corazones-laten-fronteras-126081137.html",
-        "date": "2026-01-26 01:59:49",
-        "sentiment_score": -0.8900028178468347
-    },
-    {
         "title": "Descubren 'códigos de barras' en sangre que identifican el cáncer con más del 90% de precisión",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260126074349_690.jpg",
         "tags": [
@@ -2646,5 +2382,308 @@ export default [
         "link": "https://www.lacronicabadajoz.com/economia/2026/01/29/entrevista-antonio-gonzalez-sunset-hospitality-group-modelo-turistico-espana-126208073.html",
         "date": "2026-01-29 06:23:12",
         "sentiment_score": -0.025491535663604736
+    },
+    {
+        "title": "Millones de viajeros podrían dejar de visitar EE.UU. si se implementa la nueva política de redes sociales, advierten expertos |",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/31/media_thumb-link-4141373.webp?1769696226=",
+        "tags": [
+            "otros",
+            "turísticos",
+            "usa",
+            "viajeros",
+            "sociales",
+            "destinos",
+            "actualidad",
+            "redes",
+            "política"
+        ],
+        "link": "https://www.meneame.net/story/millones-viajeros-podrian-dejar-visitar-ee-uu-implementa-nueva",
+        "date": "2026-01-29 16:05:02",
+        "sentiment_score": -0.04865662753582001
+    },
+    {
+        "title": "Corte de apelaciones dice que el fin del TPS para los venezolanos fue ilegal",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/el-7-de-noviembre-entrara-en-vig.jpg",
+        "tags": [
+            "usa",
+            "tps",
+            "nacionales",
+            "actualidad",
+            "internacionales",
+            "corte de apelaciones"
+        ],
+        "link": "https://lapatilla.com/2026/01/29/corte-de-apelaciones-dice-que-el-fin-del-tps-para-los-venezolanos-fue-ilegal/",
+        "date": "2026-01-29 11:51:54",
+        "sentiment_score": -0.8414604412391782
+    },
+    {
+        "title": "Qué dicen los ajustes de Delcy Rodríguez en el gabinete y la Fuerza Armada",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/IMG_5034.jpg",
+        "tags": [
+            "gabinete",
+            "fuerza armada",
+            "nacionales",
+            "actualidad",
+            "delcy rodríguez en"
+        ],
+        "link": "https://lapatilla.com/2026/01/29/que-dicen-los-ajustes-de-delcy-rodriguez-en-el-gabinete-y-la-fuerza-armada/",
+        "date": "2026-01-29 09:44:45",
+        "sentiment_score": 0.24247491732239723
+    },
+    {
+        "title": "El campo madrileño agredece el apoyo de Ayuso en Mercosur y le exige medidas contra la plaga de conejos",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/29/697b9a1e8fc481-39731344.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.20minutos.es/madrid/campo-madrileno-agredece-ayuso-mercosur-exige-medidas-plaga-conejos_6927546_0.html",
+        "date": "2026-01-29 17:36:38",
+        "sentiment_score": -0.7218986954540014
+    },
+    {
+        "title": "Grupo La Plana obtiene la medalla EcoVadis Oro 2025 y se sitúa entre el 5% de las empresas mejor valoradas en sostenibilidad a nivel mundial",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9b2a5f18-746b-4846-854e-8345ab68e815_16-9-aspect-ratio_default_0_x720y270.jpg",
+        "tags": [
+            "vàlencia",
+            "empresas",
+            "ética",
+            "alicante"
+        ],
+        "link": "https://www.levante-emv.com/economia/2026/01/29/grupo-plana-obtiene-medalla-ecovadis-126178945.html",
+        "date": "2026-01-29 17:30:42",
+        "sentiment_score": 0.6114210933446884
+    },
+    {
+        "title": "Real Madrid se centra en La Liga tras sorprendente derrota ante Benfica",
+        "image_url": "https://dims.apnews.com/dims4/default/233c9f5/2147483647/strip/true/crop/8640x5751+0+5/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F64%2F1c%2F650feda2daf12ed674b8310e3a8b%2Fb581ccaf5d0b47a19e8995789f145856",
+        "tags": [
+            "real madrid laliga mbappe",
+            "sports",
+            "deportes",
+            "send to apple news"
+        ],
+        "link": "https://apnews.com/article/real-madrid-laliga-mbappe-c602bb4a51d720601847158da11ae533",
+        "date": "2026-01-29 17:29:00",
+        "sentiment_score": 0.30665865540504456
+    },
+    {
+        "title": "Real Madrid se centra en La Liga tras sorprendente derrota ante Benfica",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/01/REAL_MADRID_55224.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2026/01/29/real-madrid-se-centra-en-la-liga-tras-sorprendente-derrota-ante-benfica/",
+        "date": "2026-01-29 17:28:59",
+        "sentiment_score": 0.09736448526382446
+    },
+    {
+        "title": "El Colegio de Médicos de Ceuta respalda la huelga nacional a partir del 16 de febrero",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/01/medicos-atencion-primaria-huelga-estatuto-medico-propio-005-portada-750x500.jpg?v=1768391646",
+        "tags": [
+            "manifestaciones",
+            "salud",
+            "noticias",
+            "sociedad",
+            "sanidad",
+            "colegio oficial de médicos de ceuta"
+        ],
+        "link": "https://elfarodeceuta.es/colegio-medicos-ceuta-respalda-huelga-nacional-febrero/",
+        "date": "2026-01-29 17:25:15",
+        "sentiment_score": 0.21541515737771988
+    },
+    {
+        "title": "Por qué debe dimitir Florentino Pérez",
+        "image_url": "https://www.alertadigital.com/wp-content/uploads/2021/04/florentino.jpg",
+        "tags": [
+            "dimitir",
+            "portada",
+            "florentino"
+        ],
+        "link": "https://www.alertadigital.com/2026/01/29/por-que-debe-dimitir-florentino-perez/",
+        "date": "2026-01-29 17:23:44",
+        "sentiment_score": 0.8145645409822464
+    },
+    {
+        "title": "\"El lenguaje del jazz es hacer lo que te dé la gana con la música en un escenario, y eso hacemos\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f5726a03-f117-4363-b611-7a91d6e99344_16-9-aspect-ratio_default_0_x526y624.jpg",
+        "tags": [
+            "música",
+            "humor",
+            "jazz"
+        ],
+        "link": "https://www.lne.es/gijon/2026/01/29/lenguaje-jazz-gana-musica-escenario-126234158.html",
+        "date": "2026-01-29 17:20:39",
+        "sentiment_score": 0.2701006978750229
+    },
+    {
+        "title": "Osasuna Promesas busca reencontrarse con la victoria",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/1eb6a6b5-ce23-43a8-af78-d8faae1b5bab_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "osasuna",
+            "busca",
+            "victoria",
+            "reencontrarse",
+            "promesas"
+        ],
+        "link": "https://www.noticiasdenavarra.com/futbol/2026/01/29/osasuna-promesas-busca-reencontrarse-victoria-10635542.html",
+        "date": "2026-01-29 17:20:00",
+        "sentiment_score": 0.0806267000734806
+    },
+    {
+        "title": "Mbappé y Courtois, las únicas luces en una Champions sombría del Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/Y76PKKHSOFD5DLO27LCU5DZQLQ.jpg?auth=a73a711e23ccd3285ab85467d5cd13f67fb2ac362eff841ca3bad1de92fc8d2f&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/29/mbappe-y-courtois-las-unicas-luces-en-una-champions-sombria-del-real-madrid/",
+        "date": "2026-01-29 17:16:15",
+        "sentiment_score": 0.23769956827163696
+    },
+    {
+        "title": "El líder Racing quiere afianzar en Granada su liderato en LaLiga Hypermotion",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260129181541_690.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-lider-racing-quiere-afianzar-granada-liderato-laliga-hypermotion-20260129181541.html",
+        "date": "2026-01-29 17:15:41",
+        "sentiment_score": 0.582775205373764
+    },
+    {
+        "title": "Museo Reina Sofía, Museo del Prado y Zinemaldia, mejores instituciones culturales de 2025 en España, según estudio",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260129183929_690.jpg",
+        "tags": [
+            "exposiciones",
+            "cultura"
+        ],
+        "link": "https://www.europapress.es/cultura/exposiciones-00131/noticia-museo-reina-sofia-museo-prado-zinemaldia-mejores-instituciones-culturales-2025-espana-estudio-20260129183929.html",
+        "date": "2026-01-29 17:39:29",
+        "sentiment_score": 0.4001739099621773
+    },
+    {
+        "title": "La Fundació Campaner se presenta en Madrid para reforzar la lucha contra el noma en África",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3654635.jpg",
+        "tags": [
+            "palma de mallorca",
+            "última hora",
+            "palma",
+            "fundació campaner",
+            "ultimas noticias",
+            "local"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2026/01/29/2559467/fundacio-campaner-presenta-madrid-para-reforzar-lucha-contra-noma-africa.html",
+        "date": "2026-01-29 17:39:00",
+        "sentiment_score": 0.35179121792316437
+    },
+    {
+        "title": "Puente admite que Rodalies está «muy mal» por la falta de inversión del pasado",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/rodalies-gratuidad-incidencias.jpg",
+        "tags": [
+            "rodalies",
+            "óscar puente",
+            "cataluña",
+            "inversión",
+            "transporte",
+            "cercanías"
+        ],
+        "link": "https://theobjective.com/economia/transporte/2026-01-29/puente-rodalies-muy-mal-falta-inversion/",
+        "date": "2026-01-29 17:37:06",
+        "sentiment_score": -0.8810600629076362
+    },
+    {
+        "title": "Armengol firma un convenio para que el Congreso colabore en la promoción del catalán",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/29/697b993445eff.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/20260129/armengol-firma-convenio-congreso-colabore-promocion-catalan_379792.html",
+        "date": "2026-01-29 17:36:40",
+        "sentiment_score": 0.48070909082889557
+    },
+    {
+        "title": "Paco Caballer inaugura su primera exposición en solitario con '1Up' en Filtre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9b24185d-ce4b-435f-8df2-78861aab73a3_16-9-aspect-ratio_default_0_x587y548.jpg",
+        "tags": [
+            "barcelona",
+            "premios",
+            "espacio",
+            "trabajo",
+            "cultura"
+        ],
+        "link": "https://www.levante-emv.com/cultura/2026/01/29/paco-caballer-inaugura-primera-exposicion-126231571.html",
+        "date": "2026-01-29 17:36:32",
+        "sentiment_score": 0.24881095066666603
+    },
+    {
+        "title": "Julio Manrique lleva a escena la violencia en Irlanda del Norte",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/01/29/793DBF77-5CEA-4B61-B7D9-9FD6538C2E48/69.jpg?crop=1528%2C860%2Cx0%2Cy650&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/julio-manrique-lleva-escena-violencia-irlanda-norte_20260129697b9a561817b41eb627d8be.html",
+        "date": "2026-01-29 17:35:18",
+        "sentiment_score": 0.06801038980484009
+    },
+    {
+        "title": "Las compañías de tren deben pagar indemnizaciones si no son puntuales, aunque sea por las limitaciones de Adif",
+        "image_url": "http://st1.lacerca.com/imagenes/view/1f66596424acb0caa6f20122b2614c32.jpg",
+        "tags": [
+            "noticias",
+            "castilla-la mancha"
+        ],
+        "link": "https://www.lacerca.com/noticias/castilla_la_mancha/companias-tren-pagar-indemnizaciones-son-aunque-limitaciones-adif-799746-1.html",
+        "date": "2026-01-29 17:35:00",
+        "sentiment_score": -0.6317430287599564
+    },
+    {
+        "title": "Manolo González quiere olvidarse del arbitraje para volver a ganar ante el Alavés: “Hemos hablado en el vestuario de estar al margen de todo esto”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/29/697b993f90ce0.jpeg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/rcde-espanyol/20260129/11453015/manolo-gonzalez-quiere-olvidarse-arbitraje-volver-ganar-alaves-hemos-hablado-vestuario-margen-esto.html",
+        "date": "2026-01-29 17:34:46",
+        "sentiment_score": 0.5722527764737606
+    },
+    {
+        "title": "Un hombre sobrevive dos días sin pulmones",
+        "image_url": "https://static1.ara.cat/clip/68c8161c-6f03-487e-b253-5af3c964c567_16-9-aspect-ratio_default_0_x3814y813.jpg",
+        "tags": [
+            "hombre",
+            "pulmones",
+            "sobrevive",
+            "dias"
+        ],
+        "link": "https://es.ara.cat/sociedad/salud/hombre-sobrevive-dias-pulmones_1_5632701.html",
+        "date": "2026-01-29 17:31:29",
+        "sentiment_score": -0.16077545285224915
+    },
+    {
+        "title": "Los Puertos de Las Palmas ya son los cuartos de España",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0d036358-61bd-44bc-b052-08fb7987d5a5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tráfico",
+            "mercancías",
+            "tráfico de contenedores",
+            "estadísticas",
+            "valencia",
+            "barcelona",
+            "cruceros",
+            "graneles",
+            "puerto las palmas",
+            "algeciras",
+            "economía",
+            "tráfico marítimo",
+            "puertos del estado",
+            "puertos",
+            "contenedores",
+            "autoridad portuaria de las palmas",
+            "las palmas"
+        ],
+        "link": "https://www.laprovincia.es/las-palmas/2026/01/29/puertos-palmas-son-cuartos-sistema-portuario-estado-126217977.html",
+        "date": "2026-01-29 17:30:42",
+        "sentiment_score": 0.20363956689834595
     }
 ];
