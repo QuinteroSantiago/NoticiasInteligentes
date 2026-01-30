@@ -2753,5 +2753,182 @@ export default [
         "link": "https://www.laopiniondezamora.es/cultura/2026/01/29/rosalia-aparece-sorpresa-acto-solidario-palestina-palau-sant-jordi-126244971.html",
         "date": "2026-01-29 22:02:27",
         "sentiment_score": 0.23900257796049118
+    },
+    {
+        "title": "Escándalo en Arabia: Benzema rechaza jugar luego de una baja oferta de renovación",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/SP4NKRLJKRBGDN2W344K4C3HWI.jpg?auth=de8caf8c82f95270f997c341127ee8d91f3e1cec7a197a126d6dd4aa147bf121&height=683&smart=true&width=1024",
+        "tags": [
+            "al-ittihad",
+            "karim benzema"
+        ],
+        "link": "https://www.metroworldnews.com/deportes/2026/01/30/escandalo-en-arabia-benzema-rechaza-jugar-luego-de-una-baja-oferta-de-renovacion/",
+        "date": "2026-01-30 01:53:22",
+        "sentiment_score": -0.8797809360548854
+    },
+    {
+        "title": "Real Madrid se centra en La Liga tras sorprendente derrota ante Benfica",
+        "image_url": "https://i.headtopics.com/images/2026/1/30/latimes/real-madrid-se-centra-en-la-liga-tras-sorprendente-real-madrid-se-centra-en-la-liga-tras-sorprendente-11E99CFCAA89500EF7A59FF05E6225E1.webp",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://headtopics.com/news/real-madrid-se-centra-en-la-liga-tras-sorprendente-derrota-79064627",
+        "date": "2026-01-30 01:47:06",
+        "sentiment_score": 0.1243162453174591
+    },
+    {
+        "title": "Un acto para vincular autismo y vacunación a 40 Є la entrada: la vuelta del antivacunas Pamiés indigna a médicos y familias",
+        "image_url": "https://s3.elespanol.com/2024/04/05/ciencia/salud/845426416_241291035_1706x960.jpg",
+        "tags": [
+            "autismo",
+            "vacunas",
+            "salud",
+            "pseudociencia"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20260130/acto-vincular-autismo-vacunacion-entrada-vuelta-antivacunas-pamies-indigna-medicos-familias/1003744108782_0.html",
+        "date": "2026-01-30 01:44:42",
+        "sentiment_score": -0.8891991954296827
+    },
+    {
+        "title": "Toluca Femenil presenta a exfigura del Real Madrid como su refuerzo para el Clausura 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/OTXIFAGTCNHZ5B7Z6KPZ2Z5GGU.png?auth=4f3048052635f8435633110d2b5aa784ed1f5b1ce86f4fa254da72746ad279d2&height=1080&smart=true&width=1920",
+        "tags": [
+            "chelsea",
+            "clausura 2026",
+            "toluca femenil",
+            "sofia jakobsson",
+            "patrice lair",
+            "mexico-noticias",
+            "liga mx femenil",
+            "real madrid",
+            "mexico-deportes",
+            "toluca",
+            "bayer múnich"
+        ],
+        "link": "https://www.infobae.com/mexico/2026/01/30/toluca-femenil-presenta-a-exfigura-del-real-madrid-como-su-refuerzo-para-el-clausura-2026/",
+        "date": "2026-01-30 01:38:21",
+        "sentiment_score": 0.6853056084364653
+    },
+    {
+        "title": "¿Por qué el Barça sigue con problemas económicos pese a ser el segundo club con más ingresos del mundo?",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/30/culemania/palco/1003742728040_15660635_1706x960.jpg",
+        "tags": [
+            "fc barcelona",
+            "fair play de la liga",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260130/barca-sigue-problemas-economicos-segundo-ingresos-mundo/1003742728037_0.html",
+        "date": "2026-01-30 00:52:33",
+        "sentiment_score": 0.13915947079658508
+    },
+    {
+        "title": "Tras visitar a Messi, Scaloni se reunió con los jugadores argentinos del Atlético de Madrid: su charla con Simeone y los ausentes",
+        "image_url": "https://www.infobae.com/resizer/v2/AZWSUHJ77NA7BC6RRSYHSPAYZU.jpg?auth=57bbab3882f6d0204f06889407b19a237996a2dd109fbab8656594cdc52f1cfb&height=595&smart=true&width=1058",
+        "tags": [
+            "lionel scaloni",
+            "giuliano simeone",
+            "juan musso",
+            "julián álvarez",
+            "nicolás gonzález",
+            "nahuel molina",
+            "selección argentina",
+            "thiago almada"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/30/tras-visitar-a-messi-scaloni-se-reunio-con-los-jugadores-argentinos-del-atletico-de-madrid-su-charla-con-simeone-y-los-ausentes/",
+        "date": "2026-01-30 00:43:28",
+        "sentiment_score": 0.021915078163146973
+    },
+    {
+        "title": "La empresa que crece vendiendo combustible a bajo coste",
+        "image_url": "https://phantom-expansion.uecdn.es/d796f159c38e35885ae2dfedfdc771da/crop/0x190/2048x1555/resize/2048/assets/multimedia/imagenes/2026/01/29/17696799656385.jpg",
+        "tags": [
+            "energía>",
+            "empresas>",
+            "artículos mª luisa verbo>",
+            "historias de éxito>"
+        ],
+        "link": "https://www.expansion.com/empresas/energia/2026/01/30/697b2c98e5fdea117c8b4739.html",
+        "date": "2026-01-30 00:17:58",
+        "sentiment_score": 0.5657002069056034
+    },
+    {
+        "title": "La ineficacia de los coordinadores antibullying en toda España: \"No basta con nombrar a cualquier docente para salir del paso\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3ae42760-12d2-4b88-8431-2a21a6b06a5b_16-9-aspect-ratio_default_0_x872y387.jpg",
+        "tags": [
+            "colegios",
+            "bullying",
+            "educación",
+            "familia",
+            "acoso escolar"
+        ],
+        "link": "https://www.lacronicabadajoz.com/sociedad/2026/01/30/ineficacia-coordinadores-antibullying-espana-basta-126246729.html",
+        "date": "2026-01-30 00:10:25",
+        "sentiment_score": 0.27823276817798615
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 30 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa sociedad",
+            "noticias",
+            "barcelona",
+            "españa noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/30/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-30-de-enero/",
+        "date": "2026-01-30 02:15:35",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "¡Que acudan todos vestidos de andaluces!",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "andaluces",
+            "vestidos",
+            "acudan"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/acudan-vestidos-andaluces_0_2005765803.html",
+        "date": "2026-01-30 02:08:44",
+        "sentiment_score": -0.26056569814682007
+    },
+    {
+        "title": "Deportes | Sarabia: \"Al Barça se le puede hacer daño en las transiciones\"",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1707328.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/sarabia-al-barca-se-le-puede-hacer-dano-en-las-transiciones",
+        "date": "2026-01-30 02:00:09",
+        "sentiment_score": -0.8718796009197831
+    },
+    {
+        "title": "Sorpresa en el Palau Sant Jordi: Rosalía canta ‘La Perla’ por Palestina",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/30/2026013002171397481.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.mundiario.com/articulo/cultura/sorpresa-palau-sant-jordi-rosalia-canta-perla-palestina/20260130022255372721.html",
+        "date": "2026-01-30 01:22:55",
+        "sentiment_score": -0.0036356300115585327
+    },
+    {
+        "title": "Europa como solución del problema España",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/a3f078147d7af8033dc80a754fe4f6ea/crop/90x160/1837x1324/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/30/17697356959925.jpg",
+        "tags": [
+            "opinión>",
+            "economía>"
+        ],
+        "link": "https://www.expansion.com/opinion/2026/01/30/697c032e468aeb04088b459e.html",
+        "date": "2026-01-30 01:16:16",
+        "sentiment_score": -0.9042472997680306
+    },
+    {
+        "title": "Bocados con un toque de solidaridad",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/29/697b6004066f9.r_d.2063-2111-1139.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20260130/11448592/bocados-toque-solidaridad.html",
+        "date": "2026-01-30 01:00:00",
+        "sentiment_score": 0.5061946697533131
     }
 ];
