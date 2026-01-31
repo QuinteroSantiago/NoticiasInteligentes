@@ -1,44 +1,5 @@
 export default [
     {
-        "title": "Mourinho, el oscuro deseo de Florentino: \"José, quédate en el Real Madrid. Lo mejor está por venir\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e8f73c43-c9ea-4198-89d0-4c82d5e95b10_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "josé mourinho",
-            "fútbol",
-            "real madrid",
-            "florentino pérez",
-            "álvaro arbeloa"
-        ],
-        "link": "https://www.elperiodicodearagon.com/deportes/2026/01/27/mourinho-oscuro-deseo-florentino-real-madrid-126121935.html",
-        "date": "2026-01-27 06:49:28",
-        "sentiment_score": 0.1662508100271225
-    },
-    {
-        "title": "España solo construye de media 8.600 pisos de VPO al año, frente a los 60.000 de hace 15 años",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/af02d8bb-39c9-4d27-861f-d28c6983cbd1_16-9-aspect-ratio_default_0_x640y240.jpg",
-        "tags": [
-            "sector inmobiliario",
-            "vivienda",
-            "vpo",
-            "construcción",
-            "mercado inmobiliario",
-            "vivienda protegida"
-        ],
-        "link": "https://www.laopiniondemurcia.es/economia/2026/01/27/vivienda-protegida-problema-espana-acceso-126121857.html",
-        "date": "2026-01-27 06:45:10",
-        "sentiment_score": -0.2516327500343323
-    },
-    {
-        "title": "Renfe asegura que el servicio de Rodalies se presta hoy \"con una razonable normalidad\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/27/imagen-de-archivo-de-la-estacion-de-sants-barcelona-9763.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/renfe-asegura-servicio-rodalies-presta-hoy-con-razonable-normalidad-f202601.html",
-        "date": "2026-01-27 06:47:12",
-        "sentiment_score": 0.35200123488903046
-    },
-    {
         "title": "“Borra las conversaciones antes de salir”: las tácticas de los venezolanos por temor a que les revisen el celular",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/telefono-venezuela-2.jpg",
         "tags": [
@@ -2690,5 +2651,221 @@ export default [
         "link": "https://www.europapress.es/andalucia/huelva-00354/noticia-alianza-institucional-impulsar-vinos-condado-huelva-mercados-estrategicos-20260130182543.html",
         "date": "2026-01-30 17:25:43",
         "sentiment_score": 0.5294205620884895
+    },
+    {
+        "title": "Manuela Bergerot: \"El enemigo no es el inmigrante sino esos millonarios que encontraron en Madrid un paraíso fiscal\"",
+        "image_url": "https://static.eldiario.es/clip/8bf8ab2f-acd6-4d9f-94d0-28d24dd5d931_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "encontraron",
+            "enemigo",
+            "millonarios",
+            "fiscal",
+            "madrid",
+            "inmigrante",
+            "manuela",
+            "paraiso",
+            "no",
+            "bergerot"
+        ],
+        "link": "https://www.eldiario.es/madrid/manuela-bergerot-enemigo-no-inmigrante-millonarios-encontraron-madrid-paraiso-fiscal_1_12947717.html",
+        "date": "2026-01-30 21:30:24",
+        "sentiment_score": -0.09952512383460999
+    },
+    {
+        "title": "RTVE y TV3 llegan a un acuerdo con la Liga F para emitir cuatro partidos por jornada en lo que resta de temporada",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HFBLV2BMQZELZEYRAOC6HXMRY4.jpg?auth=9f4df78c8c1a6b861ab32c43cd2e07338883127d7e5754cec86f3af230fe01be&width=1200",
+        "tags": [
+            "liga f - finetwork",
+            "tv3",
+            "entrenadores",
+            "televisión pública",
+            "televisión",
+            "dazn",
+            "deporte femenino",
+            "fútbol",
+            "televisión autonómica",
+            "deportes",
+            "futbolistas",
+            "competiciones",
+            "afe",
+            "fútbol femenino",
+            "rtve",
+            "partidos fútbol",
+            "beatriz álvarez mesa"
+        ],
+        "link": "https://elpais.com/deportes/futbol/2026-01-30/rtve-y-tv3-llegan-a-un-acuerdo-con-la-liga-f-para-emitir-cuatro-partidos-por-jornada-en-lo-que-resta-de-temporada.html",
+        "date": "2026-01-30 21:26:06",
+        "sentiment_score": -0.07980084419250488
+    },
+    {
+        "title": "Terremoto interno: la líder queda expuesta y sola tras un movimiento que la deja sin red",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/30/2026013022234038452.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.mundiario.com/articulo/opiniones/terremoto-interno-lider-queda-expuesta-sola-movimiento-que-deja-red/20260130220444372821.html",
+        "date": "2026-01-30 21:04:44",
+        "sentiment_score": -0.871058564633131
+    },
+    {
+        "title": "La jueza del 'caso Negreira' rechaza que el Real Madrid acceda a cuentas del Barcelona",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/30/la-jueza-del-caso-negreira-rechaza-que-el-real-madrid-acceda-a-cuentas-del-barcelona/",
+        "date": "2026-01-30 20:46:49",
+        "sentiment_score": -0.7316491063684225
+    },
+    {
+        "title": "\"Hay muchísima gente joven que consume prostitución, no solamente en la calle, en...\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/30/697d1522aa100.jpeg",
+        "tags": [
+            "la linterna"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/noticias/maria-jose-martinez-reinserta-trabajadoras-sexuales-hay-gente-joven-consume-prostitucion-calle-clubes-redes-sociales-20260130_3298342.html",
+        "date": "2026-01-30 20:45:33",
+        "sentiment_score": -0.06066742539405823
+    },
+    {
+        "title": "Elche-Barcelona: Alineaciones probables, estadísticas y cómo ver por TV y online (21:00)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/25/image-47c3b364-f528-4d19-a5e1-1d82d2e1144a-85-2560-1440.jpeg",
+        "tags": [
+            "la liga 2025/2026",
+            "football"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/elche-barcelona-alineaciones-probables-previa-estadisticas-horario-como-donde-ver-television-online-streaming-hoy_sto23264968/story.shtml",
+        "date": "2026-01-30 20:41:05",
+        "sentiment_score": 0.022871486842632294
+    },
+    {
+        "title": "Resultados, clasificación, crónica y resúmenes de la Jornada 22 de LaLiga EA Sports 25-26 | Otro tropiezo del Espanyol que obliga a mirar de reojo a Betis y Celta",
+        "image_url": "https://lagrada.org/wp-content/uploads/2026/01/CARTEL-ASI-VA-LALIGA-25-26.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagrada.org/liga-jornada-22-resultados-clasificacion-cronica-resumen-partidos-rcd-espanyol-lalaves-viernes/",
+        "date": "2026-01-30 20:40:13",
+        "sentiment_score": -0.047462284564971924
+    },
+    {
+        "title": "Osasuna Promesas consigue un empate que sabe a triunfo",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/59fc7087-76b8-490c-98e6-8967b18458fd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "osasuna",
+            "empate",
+            "promesas",
+            "triunfo"
+        ],
+        "link": "https://www.noticiasdenavarra.com/tajonar/2026/01/30/osasuna-promesas-empate-triunfo-10640752.html",
+        "date": "2026-01-30 20:28:37",
+        "sentiment_score": -0.1267300844192505
+    },
+    {
+        "title": "Can Yaman lanza una inesperada petición a Mediaset sobre su nueva serie internacional",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/01/30/2026013021230054302.jpg",
+        "tags": [
+            "famosos"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/famosos/can-yaman-lanza-inesperada-peticion-mediaset-nueva-serie-internacional/202601302123351001111.html",
+        "date": "2026-01-30 20:23:35",
+        "sentiment_score": -0.06825688481330872
+    },
+    {
+        "title": "Levante-Atlético de Madrid: Alineaciones probables, estadísticas y cómo ver por TV y online (18:30)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1389x160:1391x158)/origin-imgresizer.eurosport.com/2026/01/26/image-f88c588e-b919-4a9d-a0d3-17df189b27a5-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "la liga 2025/2026"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/levante-atletico-de-madrid-alineaciones-probables-previa-estadisticas-horario-como-donde-ver-television-online-streaming-hoy_sto23264978/story.shtml",
+        "date": "2026-01-30 22:21:57",
+        "sentiment_score": -0.8256294764578342
+    },
+    {
+        "title": "Rosalía irrumpe por sorpresa en el concierto por Palestina en Barcelona",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/01/rosalia-1-300x224.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://ultimasnoticias.com.ve/actualidad/rosalia-concierto-propalestina-en-barcelona/",
+        "date": "2026-01-30 22:09:47",
+        "sentiment_score": -0.10196885466575623
+    },
+    {
+        "title": "Barcelona clama por Palestina (con aparición sorpresa de Rosalía)",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2026/01/30/concierto-manifiesto-x-5914869.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/cultura/2026/01/30/barcelona-clama-por-palestina-con-aparicion-sorpresa-de-rosalia-1889995-daa.html",
+        "date": "2026-01-30 22:02:54",
+        "sentiment_score": 0.12814079225063324
+    },
+    {
+        "title": "El Espanyol es un poema",
+        "image_url": "https://static1.ara.cat/clip/506ea480-0d61-4b71-b3c9-a7be8d960274_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "poema",
+            "espanyol"
+        ],
+        "link": "https://es.ara.cat/deportes/rcd-espanyol/espanyol-poema_1_5634148.html",
+        "date": "2026-01-30 21:58:05",
+        "sentiment_score": -0.3612271547317505
+    },
+    {
+        "title": "El caos ferroviario en Cataluña paraliza el tráfico internacional de mercancías",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/22e945b91ddd3d2a0e082c05bde8496c/crop/0x0/1133x755/f/webp/assets/multimedia/imagenes/2026/01/30/17698100776418.jpg",
+        "tags": [
+            "artículos david casals>",
+            "cataluña>",
+            "renfe>",
+            "economía>",
+            "transporte y turismo>"
+        ],
+        "link": "https://www.expansion.com/economia/2026/01/30/697d26dc468aebe55f8b459f.html",
+        "date": "2026-01-30 21:56:05",
+        "sentiment_score": -0.9286829112097621
+    },
+    {
+        "title": "Renfe e Iryo no indemnizarán retrasos por las limitaciones de velocidad de Adif",
+        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2026/01/21/2026012118293797673.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodepontevedra.es/articulo/espana/renfe-indemnizaran-retrasos-limitaciones-velocidad-adif/202601302248091430649.html",
+        "date": "2026-01-30 21:48:09",
+        "sentiment_score": -0.369451068341732
+    },
+    {
+        "title": "La licitación de obras sube un 17% en Catalunya y los entes locales copan el 47% del total",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/5edc940431cfc0170e715e22dc8fc61e/crop/19x13/2048x1365/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/30/17698088469173.jpg",
+        "tags": [
+            "artículos david casals>",
+            "cataluña>",
+            "política>",
+            "inmobiliario y construcción>",
+            "economía>",
+            "transporte y turismo>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2026/01/30/697d23ee468aebae638b4576.html",
+        "date": "2026-01-30 21:35:02",
+        "sentiment_score": 0.06611954048275948
+    },
+    {
+        "title": "Josep Piñol, artista que se coló en el mercado de carbono para denunciarlo",
+        "image_url": "https://static.eldiario.es/clip/708b666d-73b7-4daa-8ee5-3ed94461cec3_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "colo",
+            "artista",
+            "pinol",
+            "denunciarlo",
+            "josep",
+            "carbono",
+            "mercado"
+        ],
+        "link": "https://www.eldiario.es/ballenablanca/economia/josep-pinol-artista-colo-mercado-carbono-denunciarlo_1_12949663.html",
+        "date": "2026-01-30 21:30:31",
+        "sentiment_score": -0.16755802929401398
     }
 ];
