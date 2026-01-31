@@ -1,443 +1,5 @@
 export default [
     {
-        "title": "Develan dónde se jugará la final de la Mundial FIFA 2030",
-        "image_url": "https://pxcdn.meridiano.net/012026/1769466037110.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/develan-donde-se-jugara-la-final-de-la-mundial-fifa-2030-202612618220",
-        "date": "2026-01-26 22:22:00",
-        "sentiment_score": 0.13248471170663834
-    },
-    {
-        "title": "España acogerá la final del Mundial 2030: Madrid y Barcelona pugnan por la sede",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/26/el-presidente-de-la-rfef-rafael-louzan.jpeg",
-        "tags": [
-            "deporte"
-        ],
-        "link": "https://www.huffingtonpost.es/deporte/final-mundial-2030-espana-madrid-barcelona-f202601.html",
-        "date": "2026-01-26 22:17:03",
-        "sentiment_score": -0.41226813569664955
-    },
-    {
-        "title": "La final del Mundial 2030 se disputará en España",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/df10376c-c500-4be8-991f10d264de49ac.jpg",
-        "tags": [
-            "copa del mundo",
-            "real federación española de fútbol",
-            "mundial 2030",
-            "mundial de fútbol",
-            "uruguay",
-            "marruecos",
-            "áfrica",
-            "portugal",
-            "españa",
-            "rafael louzán"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z5aa34a71-3e4d-4cb5-b33d8b47863ff937/202601/la-final-del-mundial-2030-se-disputara-en-espana",
-        "date": "2026-01-26 22:11:11",
-        "sentiment_score": 0.657699640840292
-    },
-    {
-        "title": "Trabajo asegura que el incentivo fiscal a empresas ligado al SMI impulsará la subida de salarios",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/EuropaPress_7124917_vicepresidenta_segunda_ministra_trabajo_economia_social_yolanda_diaz_rueda.jpg",
-        "tags": [
-            "economía",
-            "smi"
-        ],
-        "link": "https://www.lanzadigital.com/economia/trabajo-asegura-que-el-incentivo-fiscal-a-empresas-ligado-al-smi-impulsara-la-subida-de-salarios/",
-        "date": "2026-01-26 22:10:27",
-        "sentiment_score": -0.038935065269470215
-    },
-    {
-        "title": "El pagador de Zapatero mediaba con Venezuela y ocultaba más de 300.000 euros en 'cash'",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/0b97729c36c45af6df21589868b134ca/crop/1335x0/2194x859/f/image/jpeg/assets/multimedia/imagenes/2022/04/07/16493333774499.jpg",
-        "tags": [
-            "josé luis rodríguez zapatero",
-            "plus ultra",
-            "artículos esteban urreiztieta",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/01/26/6977a652e9cf4aaa468b4584.html",
-        "date": "2026-01-26 21:57:42",
-        "sentiment_score": -0.20235683023929596
-    },
-    {
-        "title": "Louzán confirma que la final del Mundial 2030 se disputará en España",
-        "image_url": "https://cflvdg.avoz.es/sc/lBlFUXfY1ouIX1ZoyVEGhiriki0=/768x/2026/01/26/00121769464441395490932/Foto/eup_20260126_213423086.jpg",
-        "tags": [
-            "deportes",
-            "mundial 2030",
-            "rafael louzán"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/26/louzan-confirma-final-mundial-2030-disputara-espana/00031769464381921117554.htm",
-        "date": "2026-01-26 21:54:00",
-        "sentiment_score": -0.891070588491857
-    },
-    {
-        "title": "La RFEF asegura que la final del Mundial 2030 será en España tras el bochorno de la Copa África en Marruecos",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2701007.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.vozpopuli.com/deportes/la-rfef-asegura-que-la-final-del-mundial-2030-sera-en-espana-tras-el-bochorno-de-la-copa-africa-en-marruecos.html",
-        "date": "2026-01-26 21:52:07",
-        "sentiment_score": 0.1188407763838768
-    },
-    {
-        "title": "Rafael Louzán: \"España liderará el Mundial 2030 y aquí se celebrará la final\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/26/6977e0396704c.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/rafael-louzan-espana-liderara-mundial-2030-celebrara-final-20260126_3294758.html",
-        "date": "2026-01-26 21:45:39",
-        "sentiment_score": 0.021494060754776
-    },
-    {
-        "title": "Louzán confirma que la final del Mundial de fútbol 2030 se jugará en España",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0a52586d-1fba-4df9-b367-95b22bc55172_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "deportes",
-            "mundial 2030",
-            "mundial de fútbol",
-            "rfef",
-            "españa"
-        ],
-        "link": "https://www.farodevigo.es/deportes/2026/01/26/louzan-confirma-final-mundial-futbol-2030-jugara-espana-126117575.html",
-        "date": "2026-01-26 21:43:10",
-        "sentiment_score": 0.07702025026082993
-    },
-    {
-        "title": "El tremendo elogio de Flavio Briatore a Colapinto: cómo maduró y el dato que lo colocó a la par de Pierre Gasly en la F1",
-        "image_url": "https://www.infobae.com/resizer/v2/AJ3AASUMBNAD3KDVH6REQCZBNM.JPG?auth=65a7ef1543eb3df3e254ec4091e21275fbcfea9e6777baeefeaa6e2f35ff86ce&height=2250&smart=true&width=4000",
-        "tags": [
-            "franco colapinto",
-            "deportes-internacional",
-            "alpine f1 team",
-            "fórmula 1",
-            "pierre gasly",
-            "flavio briatore"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/26/el-tremendo-elogio-de-flavio-briatore-a-colapinto-como-maduro-y-el-dato-que-lo-coloco-a-la-par-de-pierre-gasly-en-la-f1/",
-        "date": "2026-01-26 22:18:47",
-        "sentiment_score": 0.8484598826617002
-    },
-    {
-        "title": "Barcelona tiene menos escuelas de alta complejidad con buenos resultados académicos que Tarragona, Lleida y Girona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5d64713b-6f02-4023-911d-caab9272ee65_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "club de educación y crianza",
-            "girona",
-            "pobreza",
-            "esade",
-            "barcelona",
-            "buena educación",
-            "tarragona",
-            "educación en catalunya",
-            "lleida",
-            "maestros y profesores",
-            "educación",
-            "colegios"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260127/escuelas-cataluna-alumnos-vulnerables-exito-escolar-informe-esade-126002886",
-        "date": "2026-01-26 22:01:01",
-        "sentiment_score": -0.04734644293785095
-    },
-    {
-        "title": "Dro Fernández abandona el Barça y ficha por el Paris Saint-Germain",
-        "image_url": "https://www.infobae.com/resizer/v2/76F6XMU2UVCT3AQ3UWYB7XEDLI.jpg?auth=9da8d161df6c75c5272fe2e5f74445db4c2adc29d69caa0deb7ff803251de5d7&height=1281&smart=true&width=1920",
-        "tags": [
-            "hansi flick",
-            "paris saint-germain",
-            "europapress",
-            "nigrán",
-            "fútbol",
-            "fc barcelona",
-            "fichaje",
-            "dro fernández",
-            "uefa youth league",
-            "japón",
-            "ed val miñor"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/26/dro-fernandez-abandona-el-barca-y-ficha-por-el-paris-saint-germain/",
-        "date": "2026-01-26 22:00:27",
-        "sentiment_score": 0.16456778347492218
-    },
-    {
-        "title": "El Ceuta recupera sus buenas sensaciones frente a la Cultural",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/26/6977e1d852566.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/ceuta-recupera-buenas-sensaciones-frente-cultural-20260126_3294760.html",
-        "date": "2026-01-26 21:53:10",
-        "sentiment_score": -0.021393656730651855
-    },
-    {
-        "title": "Puente, bajo presión: socios y oposición sitúan al ministro en el centro de la crisis ferroviaria",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/27/2026012702065759653.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.mundiario.com/articulo/politica/puente-presion-socios-oposicion-situan-ministro-centro-crisis-ferroviaria/20260126224758372241.html",
-        "date": "2026-01-26 21:47:58",
-        "sentiment_score": -0.9293547589331865
-    },
-    {
-        "title": "Cuatro agraciados en el sorteo de La Primitiva ganan 36.900 este lunes",
-        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2026/01/05/loterias-kRnC-U240751657780JqG-1200x840@Hoy.jpg",
-        "tags": [
-            "primitiva"
-        ],
-        "link": "https://www.hoy.es/sociedad/cuatro-agraciados-sorteo-primitiva-ganan-36900-lunes-20260126224537-nt.html",
-        "date": "2026-01-26 21:45:40",
-        "sentiment_score": 0.0769006684422493
-    },
-    {
-        "title": "Las 5 giras de conciertos más esperadas de 2026",
-        "image_url": "https://media.elestimulo.com/uploads/2025/07/liam-oasis-1100x572.webp",
-        "tags": [
-            "conciertos",
-            "bad bunny",
-            "oasis",
-            "música"
-        ],
-        "link": "https://elestimulo.com/ub/melomania/2026-01-26/las-5-giras-de-conciertos-mas-esperadas-de-2026/",
-        "date": "2026-01-26 21:44:15",
-        "sentiment_score": 0.35199495032429695
-    },
-    {
-        "title": "Pxxr Gvng vuelve a los escenarios ocho años después y lo hará en Salobreña",
-        "image_url": "https://static.grupojoly.com/clip/d71e551e-e90b-4936-9c16-bfbdd6893617_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "música granada"
-        ],
-        "link": "https://www.granadahoy.com/ocio/pxxr-gvng-vuelve-escenarios-kaydy-cain-yung-beef-salobrena_0_2005739019.html",
-        "date": "2026-01-26 21:39:01",
-        "sentiment_score": -0.010592497885227203
-    },
-    {
-        "title": "Resultados, clasificación, crónica y resúmenes de la Jornada 21 de LaLiga EA Sports 25-26 | Así queda la clasificación",
-        "image_url": "https://lagrada.org/wp-content/uploads/2026/01/CARTEL-ASI-VA-LALIGA-25-26-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagrada.org/liga-jornada-21-resultados-clasificacion-cronica-resumen-partidos-valencia-cf-rcd-espanyol-lunes/",
-        "date": "2026-01-27 02:00:19",
-        "sentiment_score": -0.14791810512542725
-    },
-    {
-        "title": "Rita Maestre reaparece para presentar la campaña \"Te están robando Madrid\"",
-        "image_url": "https://s1.staticld.com/2026/01/26/vallecas.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.libertaddigital.com/madrid/2026-01-27/rita-maestre-reaparece-para-presentar-la-campana-te-estan-robando-madrid-7349644/",
-        "date": "2026-01-27 02:00:13",
-        "sentiment_score": -0.9183919727802277
-    },
-    {
-        "title": "De las 'wine moms' a las caras femeninas de los Panteras Negras: las estadounidenses toman las calles contra el ICE",
-        "image_url": "https://s3.elespanol.com/2026/01/26/actualidad/1003744104432_261100542_1706x960.jpg",
-        "tags": [
-            "donald trump",
-            "estados unidos",
-            "inmigración",
-            "actualidad"
-        ],
-        "link": "https://www.elespanol.com/mujer/actualidad/20260127/wine-moms-caras-femeninas-panteras-negras-estadounidenses-toman-calles-ice/1003744104422_0.html",
-        "date": "2026-01-27 01:49:12",
-        "sentiment_score": -0.7802611105144024
-    },
-    {
-        "title": "El Real Madrid de Arbeloa ya mejora al de Xabi Alonso: un cambio impulsado por los números y pocos ajustes",
-        "image_url": "https://s3.elespanol.com/2026/01/26/actualidad/1003744104351_261099645_1706x960.jpg",
-        "tags": [
-            "xabi alonso",
-            "fútbol",
-            "la liga",
-            "champions league",
-            "álvaro arbeloa",
-            "real madrid cf"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20260127/real-madrid-arbeloa-mejora-xabi-alonso-cambio-impulsado-numeros-pocos-ajustes/1003744104330_0.html",
-        "date": "2026-01-27 01:15:00",
-        "sentiment_score": 0.38993173837661743
-    },
-    {
-        "title": "Un nuevo tratamiento para los casos graves de enfermedad de Crohn llega a España: el 90% de los pacientes recuperó su vida",
-        "image_url": "https://s3.elespanol.com/2024/03/29/ciencia/salud/843676042_241122721_1706x960.jpg",
-        "tags": [
-            "enfermedad de crohn",
-            "colitis ulcerosa",
-            "salud",
-            "gastroenterología",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/ciencia/salud/20260127/nuevo-tratamiento-casos-graves-enfermedad-crohn-llega-espana-pacientes-recupero-vida/1003744104007_0.html",
-        "date": "2026-01-27 01:10:00",
-        "sentiment_score": 0.28951573371887207
-    },
-    {
-        "title": "26 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/26-ene-2026-partidazo-cope-20260127_3294788.html",
-        "date": "2026-01-27 00:50:00",
-        "sentiment_score": 0.3959643468260765
-    },
-    {
-        "title": "Crisis diplomática entre España y Nicaragua: expulsión cruzada de embajadores y acusaciones de “injerencia”",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/27/2026012703095252280.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.mundiario.com/articulo/internacional/crisis-diplomatica-entre-espana-nicaragua-expulsion-cruzada-embajadores-acusaciones/20260127013749372248.html",
-        "date": "2026-01-27 00:37:49",
-        "sentiment_score": -0.9113994166254997
-    },
-    {
-        "title": "El programa Isla Bonita Moda del Cabildo se consolida como motor económico con una repercusión mediática de 4,2 millones de euros",
-        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2026/01/IBM-1024x768.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.elperiodicodecanarias.es/el-programa-isla-bonita-moda-del-cabildo-se-consolida-como-motor-economico-con-una-repercusion-mediatica-de-42-millones-de-euros/",
-        "date": "2026-01-27 00:23:33",
-        "sentiment_score": 0.5588973239064217
-    },
-    {
-        "title": "Papeles en cinco meses para el 60% de los inmigrantes irregulares",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/100cc57e14e19b0030a2412626aad5ec/crop/1116x125/2131x1140/f/image/jpeg/assets/multimedia/imagenes/2024/10/31/17303778454999.jpg",
-        "tags": [
-            "artículos silvia lorenzo",
-            "inmigración"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/01/27/6977c725fc6c83cb678b4592.html",
-        "date": "2026-01-27 00:03:22",
-        "sentiment_score": -0.43037956207990646
-    },
-    {
-        "title": "El Cajasiete, ante Barça, Granca y Zaragoza",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a2d400db-8dc6-4da3-84c1-7a0299dd0885_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gran canaria",
-            "clasificación",
-            "infantil",
-            "zaragoza"
-        ],
-        "link": "https://www.eldia.es/deportes-canarias/2026/01/27/cajasiete-barca-granca-zaragoza-126119065.html",
-        "date": "2026-01-27 00:03:16",
-        "sentiment_score": 0.07307418435811996
-    },
-    {
-        "title": "Primeros ceses en Renfe y Adif tras otro día de caos en Rodalies que indigna al Govern",
-        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2026/01/Primeros-ceses-en-Renfe-y-Adif-tras-otro-dia-de-caos-en-Rodalies-que-indigna-al-Govern.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.elperiodicodecanarias.es/primeros-ceses-en-renfe-y-adif-tras-otro-dia-de-caos-en-rodalies-que-indigna-al-govern/",
-        "date": "2026-01-27 02:18:33",
-        "sentiment_score": -0.17301039770245552
-    },
-    {
-        "title": "Predicción del clima: estas son las temperaturas en Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
-        "tags": [
-            "barcelona",
-            "tiempo en españa",
-            "españa sociedad",
-            "españa noticias",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/27/prediccion-del-clima-estas-son-las-temperaturas-en-barcelona/",
-        "date": "2026-01-27 02:15:35",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "Con todo, Europa no está tan mal",
-        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "no",
-            "mal",
-            "europa"
-        ],
-        "link": "https://www.eldiadecordoba.es/opinion/analisis/europa-no-mal_0_2005739831.html",
-        "date": "2026-01-27 02:07:04",
-        "sentiment_score": -0.7098551616072655
-    },
-    {
-        "title": "Serrat, Dalí, García Márquez, Orson Welles... los protagonistes del Archivu Colita que van quedar pa siempre nel Niemeyer",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2e3503af-d928-41ff-8fd5-64eee4e2527c_16-9-aspect-ratio_default_0_x750y375.jpg",
-        "tags": [
-            "fotografía",
-            "joan manuel serrat",
-            "orson welles",
-            "centro niemeyer"
-        ],
-        "link": "https://www.lne.es/asturias/n-asturianu/2026/01/27/serrat-dali-garcia-marquez-orson-126047254.html",
-        "date": "2026-01-27 02:05:10",
-        "sentiment_score": -0.06180381774902344
-    },
-    {
-        "title": "Óscar Puente destituye a dos altos cargos por el caos de Rodalies pero a nadie por los 45 muertos en Córdoba",
-        "image_url": "https://s3.elespanol.com/2026/01/26/actualidad/1003744105014_261107610_1706x960.jpg",
-        "tags": [
-            "óscar puente santiago",
-            "cercanías",
-            "ministerio de transporte",
-            "adamuz",
-            "movilidad y agenda urbana",
-            "transporte ferroviario",
-            "política",
-            "adif",
-            "renfe",
-            "cataluña"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20260127/oscar-puente-destituye-altos-cargos-caos-rodalies-nadie-muertos-cordoba/1003744104991_0.html",
-        "date": "2026-01-27 01:49:24",
-        "sentiment_score": -0.8370276745408773
-    },
-    {
-        "title": "El accidente y el apagón dejan sin argumentos al Gobierno para la ‘Marca España’ más allá de la ‘macro’ en el extranjero",
-        "image_url": "https://s3.elespanol.com/2026/01/24/actualidad/1003744102721_261079583_1706x960.jpg",
-        "tags": [
-            "óscar puente santiago",
-            "adamuz",
-            "economía",
-            "accidentes de tren",
-            "marca españa",
-            "energías renovables",
-            "apagón"
-        ],
-        "link": "https://www.elespanol.com/invertia/economia/20260127/accidente-apagon-dejan-sin-argumentos-gobierno-marca-espana-alla-macro-extranjero/1003744104722_0.html",
-        "date": "2026-01-27 01:40:00",
-        "sentiment_score": -0.7205504272133112
-    },
-    {
-        "title": "Nissan, BMW, Mercedes y Volvo, únicos fabricantes que cumplen con la reducción de emisiones de Bruselas al cierre de 2025",
-        "image_url": "https://s3.elespanol.com/2025/01/03/motor/913669209_252095050_1706x960.jpg",
-        "tags": [
-            "cupra",
-            "volvo",
-            "emisiones",
-            "coche eléctrico",
-            "industria automovilística",
-            "mercedes benz",
-            "hyundai",
-            "nissan",
-            "grupo volkswagen",
-            "bmw"
-        ],
-        "link": "https://www.elespanol.com/motor/20260127/nissan-bmw-mercedes-volvo-unicos-fabricantes-cumplen-reduccion-emisiones-bruselas-cierre/1003744104137_0.html",
-        "date": "2026-01-27 01:39:50",
-        "sentiment_score": -0.007662087678909302
-    },
-    {
         "title": "Mourinho, el oscuro deseo de Florentino: \"José, quédate en el Real Madrid. Lo mejor está por venir\"",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e8f73c43-c9ea-4198-89d0-4c82d5e95b10_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2941,5 +2503,192 @@ export default [
         "link": "https://www.elplural.com/politica/espana/alberto-garzon-clase-obrera-conservadora_380032102",
         "date": "2026-01-30 06:13:43",
         "sentiment_score": -0.13028261065483093
+    },
+    {
+        "title": "Un juez frena a la Liga y permite al Getafe inscribir jugadores",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MKML3IQK7FM2PDFIN5BPIR27TM.jpg?auth=5ba498298a6683954d90f2ac276c9910a69b8cc25d1f4499a6a5833b1deeb642&width=1200",
+        "tags": [
+            "getafe cf",
+            "fichajes",
+            "futbolistas",
+            "fútbol",
+            "conflictos deportivos",
+            "laliga ea sports",
+            "deportes",
+            "entrenadores",
+            "competiciones"
+        ],
+        "link": "https://elpais.com/deportes/futbol/2026-01-30/un-juez-frena-a-la-liga-y-permite-al-getafe-inscribir-jugadores.html",
+        "date": "2026-01-30 17:31:16",
+        "sentiment_score": -0.8523443304002285
+    },
+    {
+        "title": "SEEDO reclama una Estrategia Integral para la Obesidad en Adulto con políticas públicas sobre los factores estructurales",
+        "image_url": "https://www.infobae.com/resizer/v2/BTL7BQ7PABD7LK4BGVWZ6HCAPM.jpg?auth=20909ff66a4e99846e5065ceb5814f4ad09a43d4d09f8707923649d5a268be2d&height=1440&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/30/seedo-reclama-una-estrategia-integral-para-la-obesidad-en-adulto-con-politicas-publicas-sobre-los-factores-estructurales/",
+        "date": "2026-01-30 17:31:00",
+        "sentiment_score": 0.13202876597642899
+    },
+    {
+        "title": "Horario del Levante – Atlético de Madrid: cuándo es el partido de la Liga y dónde ver por TV gratis en directo",
+        "image_url": "https://okdiario.com/img/2026/01/29/donde-ver-levante-atletico-.jpg",
+        "tags": [
+            "directo",
+            "atlético de madrid",
+            "deportes",
+            "la liga",
+            "levante unión deportiva"
+        ],
+        "link": "https://okdiario.com/deportes/horario-del-levante-atletico-madrid-cuando-partido-liga-donde-ver-tv-gratis-directo-video-16155920",
+        "date": "2026-01-30 17:30:57",
+        "sentiment_score": -0.13842467963695526
+    },
+    {
+        "title": "Hay polémica por el equipo en el que jugará el ‘influencer’ colombiano conocido por su parecido con Vinícius Junior, figura del Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/HEBVRS5AONEB3ILYYHXHGMVQYA.jpg?auth=6835adb21ff53da9e64271b353d786ac0c2cde439b2de6204b5a4eb1dc234868&height=1063&smart=true&width=1890",
+        "tags": [
+            "ricardo rincón",
+            "vini jr. colombiano",
+            "real frontera",
+            "jugador de fútbol",
+            "caso spreen",
+            "influencer colombiano",
+            "colombia-deportes",
+            "segunda división",
+            "vini jr.",
+            "fútbol de venezuela",
+            "equipo profesional",
+            "vinícius jr.",
+            "firma de contrato"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/01/30/hay-polemica-por-el-equipo-en-el-que-jugara-el-influencer-colombiano-conocido-por-su-parecido-con-vinicius-junior-figura-del-real-madrid/",
+        "date": "2026-01-30 17:26:50",
+        "sentiment_score": -0.15829984843730927
+    },
+    {
+        "title": "Flick se cansa de las remontadas",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/30/hansi-flick-kmcG-U204451515945hF-1200x840@RC.JPG",
+        "tags": [
+            "lamine yamal",
+            "f.c. barcelona"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-primera/elche-barcelona-flick-cansa-remontadas-20260130182420-ntrc.html",
+        "date": "2026-01-30 17:25:29",
+        "sentiment_score": 0.26200518012046814
+    },
+    {
+        "title": "Jesús Ramírez, tras caer en la FIBA Europe Cup: \"Estamos jodidos\"",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/10/10/2025101011172441743.jpg",
+        "tags": [
+            "basket zaragoza"
+        ],
+        "link": "https://www.aragondigital.es/articulo/basket-zaragoza/jesus-ramirez-caer-fiba-europe-cup-estamos-jodidos/20260130182441963819.html",
+        "date": "2026-01-30 17:24:41",
+        "sentiment_score": -0.2857191562652588
+    },
+    {
+        "title": "Los teatros municipales de Zaragoza reciben 171.000 espectadores, un 4,2% más y 3,7 millones de recaudación en 2025",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260130181948_120.jpg",
+        "tags": [
+            "aragón"
+        ],
+        "link": "https://www.europapress.es/aragon/noticia-teatros-municipales-zaragoza-reciben-171000-espectadores-42-mas-37-millones-recaudacion-2025-20260130181948.html",
+        "date": "2026-01-30 17:19:48",
+        "sentiment_score": 0.8093189187347889
+    },
+    {
+        "title": "La justicia abre la puerta para que el Getafe pueda inscribir sus fichajes de invierno",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "derbi",
+            "efe",
+            "empresarios",
+            "presidentes",
+            "directivos",
+            "rayo vallecano - getafe cf",
+            "liga española primera división / laliga ea sports 2025/2026"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/30/la-justicia-abre-la-puerta-para-que-el-getafe-pueda-inscribir-sus-fichajes-de-invierno/",
+        "date": "2026-01-30 17:19:41",
+        "sentiment_score": 0.3987443074584007
+    },
+    {
+        "title": "Formación en gestión hotelera y turismo, clave para garantizar la competitividad sector",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7828013",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5754206/formacion-gestion-hotelera-turismo-clave-garantizar-competitividad-sector",
+        "date": "2026-01-30 17:19:35",
+        "sentiment_score": 0.26843997091054916
+    },
+    {
+        "title": "Fernando Alonso se sube por primera vez al nuevo AMR26 de Aston Martin",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/01/30/fernando-alonso-se-sube-por-primera-vez-al-nuevo-amr26-de-aston-martin/",
+        "date": "2026-01-30 17:31:47",
+        "sentiment_score": 0.2251751869916916
+    },
+    {
+        "title": "La huelga de trenes de febrero afectará a Renfe, Ouigo, Iryo y las principales empresas de mercancías",
+        "image_url": "https://forbes.es/wp-content/uploads/2026/01/fotonoticia_20260130180423_1920-1200x675.jpg",
+        "tags": [
+            "economía",
+            "última hora"
+        ],
+        "link": "https://forbes.es/economia/866806/la-huelga-de-trenes-de-febrero-afectara-a-renfe-ouigo-iryo-y-las-principales-empresas-de-mercancias/",
+        "date": "2026-01-30 17:30:12",
+        "sentiment_score": -0.20230819284915924
+    },
+    {
+        "title": "Hasta el 80% de los pacientes con cáncer puede sufrir desnutrición",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e0984472-4666-48c0-991b-f6efbbe40811_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "salud",
+            "oncología",
+            "pi vídeos",
+            "nutrición",
+            "cáncer"
+        ],
+        "link": "https://www.laopiniondemalaga.es/videos/sociedad/2026/01/30/pacientes-cancer-sufrir-desnutricion-126279071.html",
+        "date": "2026-01-30 17:29:05",
+        "sentiment_score": -0.5656920447945595
+    },
+    {
+        "title": "La cadena hotelera Bcn Urbaness Hotels refuerza su propuesta en Barcelona",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7828051",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5754245/cadena-hotelera-bcn-urbaness-hotels-refuerza-propuesta-barcelona",
+        "date": "2026-01-30 17:28:17",
+        "sentiment_score": 0.524916373193264
+    },
+    {
+        "title": "Así es el 'spot' de los Goya: la sintonía de Tosar y Rigoberta",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/01/30/tosar-y-rigoberta-bandini-complicidad-y-admiracion-en-barcelona-para-anunciar-los-goya.r_d.617-459-5156.jpeg",
+        "tags": [
+            "ocio y cultura"
+        ],
+        "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/01/30/la-sintonia-de-luis-tosar-y-rigoberta-bandini-en-el-spot-oficial-de-los-premios-goya-2026-1889868.html",
+        "date": "2026-01-30 17:25:55",
+        "sentiment_score": 0.07011988013982773
+    },
+    {
+        "title": "Alianza institucional para impulsar los vinos del condado de Huelva en mercados estratégicos",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260130182543_690.jpg",
+        "tags": [
+            "huelva",
+            "andalucía"
+        ],
+        "link": "https://www.europapress.es/andalucia/huelva-00354/noticia-alianza-institucional-impulsar-vinos-condado-huelva-mercados-estrategicos-20260130182543.html",
+        "date": "2026-01-30 17:25:43",
+        "sentiment_score": 0.5294205620884895
     }
 ];
