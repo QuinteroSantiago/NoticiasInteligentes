@@ -1,222 +1,5 @@
 export default [
     {
-        "title": "Las cuentas de Real Madrid, Barça, Atlético y Athletic en la última jornada de Champions.",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a748ff36-4847-4d0e-bdd5-8a3de40f4b58_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "atletico",
-            "real",
-            "cuentas",
-            "barca",
-            "madrid"
-        ],
-        "link": "https://www.noticiasdenavarra.com/deportes/2026/01/27/cuentas-real-madrid-barca-atletico-10624945.html",
-        "date": "2026-01-27 17:19:29",
-        "sentiment_score": 0.10315108299255371
-    },
-    {
-        "title": "Camarena y Dacosta piden medidas concretas para la hostelería artesana",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/11ba861f-5045-4b4c-8bbd-00a5f55ee3b0_16-9-aspect-ratio_default_1430463.jpg",
-        "tags": [
-            "jornadas gastronomicas",
-            "ricard camarena",
-            "turismo gastronómico",
-            "restauración",
-            "madrid fusión",
-            "hostelería",
-            "cultura",
-            "hosteleros",
-            "negocios",
-            "empleo",
-            "gastronomía"
-        ],
-        "link": "https://www.levante-emv.com/cultura/2026/01/27/camarena-dacosta-piden-medidas-concretas-hosteleria-artesanal-126152862.html",
-        "date": "2026-01-27 17:14:55",
-        "sentiment_score": 0.13160669803619385
-    },
-    {
-        "title": "El Athletic se encomienda a San Mamés para hacer historia en Champions",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260127180230_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-athletic-encomienda-san-mames-hacer-historia-champions-20260127180230.html",
-        "date": "2026-01-27 17:02:30",
-        "sentiment_score": 0.2770031727850437
-    },
-    {
-        "title": "Las marcas chinas ya firman uno de cada diez coches vendidos en España",
-        "image_url": "https://www.actualidadmotor.com/wp-content/uploads/2025/10/Lepas-L8-3.jpg",
-        "tags": [
-            "noticias automóviles",
-            "ventas"
-        ],
-        "link": "https://www.actualidadmotor.com/las-marcas-chinas-ya-firman-uno-de-cada-diez-coches-vendidos-en-espana/",
-        "date": "2026-01-27 17:00:44",
-        "sentiment_score": 0.4727618619799614
-    },
-    {
-        "title": "Las redes cargan contra Tebas por la marcha de Carlos Vicente al Birmingham City",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c3494801-7f70-4850-beb7-62dbfd331c41_16-9-aspect-ratio_default_0_x1126y1248.jpg",
-        "tags": [
-            "carlos",
-            "alavés",
-            "marcha",
-            "birmingham city",
-            "redes",
-            "vicente",
-            "reaccionan"
-        ],
-        "link": "https://www.noticiasdealava.eus/buzz-on/2026/01/27/redes-reaccionan-marcha-carlos-vicente-birmingham-city-alaves-10624910.html",
-        "date": "2026-01-27 17:00:26",
-        "sentiment_score": -0.002019047737121582
-    },
-    {
-        "title": "Socuéllamos refuerza su proyección nacional en FITUR con cifras turísticas récord",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/Socuellamos-refuerza-su-proyeccion-nacional-en-FITUR-con-cifras-turisticas-record-y-una-ambiciosa-estrategia-de-promocion.jpeg",
-        "tags": [
-            "socuéllamos",
-            "fitur"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/socuellamos/socuellamos-refuerza-su-proyeccion-nacional-en-fitur-con-cifras-turisticas-record/",
-        "date": "2026-01-27 17:00:24",
-        "sentiment_score": 0.08971050381660461
-    },
-    {
-        "title": "MarSenses Hotels apuesta por la sostenibilidad social y prevé alcanzar los 35 millones de facturación en 2026",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/01/20260127175732.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/marsenses-hotels-apuesta-por-la-sostenibilidad-social-y-prev-alcanzar-los-35-millones-de-facturacin-en-2026/",
-        "date": "2026-01-27 17:00:08",
-        "sentiment_score": 0.34524577111005783
-    },
-    {
-        "title": "La CNMC pide a la Liga F ajustar la comercialización de los derechos audiovisuales a la normativa vigente",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260127180006_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-cnmc-pide-liga-ajustar-comercializacion-derechos-audiovisuales-normativa-vigente-20260127180006.html",
-        "date": "2026-01-27 17:00:06",
-        "sentiment_score": 0.12454961985349655
-    },
-    {
-        "title": "El Real Madrid se reencuentra con su pasado por el 'top 8'",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260127175920_120.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-real-madrid-reencuentra-pasado-top-20260127175920.html",
-        "date": "2026-01-27 16:59:20",
-        "sentiment_score": 0.2640356868505478
-    },
-    {
-        "title": "MarSenses Hotels apuesta por la sostenibilidad social y prevé alcanzar los 35 millones de facturación en 2026",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260127175733_690.jpg",
-        "tags": [
-            "economía finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/noticia-marsenses-hotels-apuesta-sostenibilidad-social-preve-alcanzar-35-millones-facturacion-2026-20260127175733.html",
-        "date": "2026-01-27 16:57:33",
-        "sentiment_score": 0.0954497903585434
-    },
-    {
-        "title": "El susto de las jugadoras de hockey hielo del Txuri por una intoxicación de gas por una fuga en la máquina de hielo",
-        "image_url": "https://album.mediaset.es/eimg/2026/01/27/una-imagen-del-equipo-txuri_cb55.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.telecinco.es/noticias/sociedad/20260127/jugadoras-txuri-atendidas-hospital-intoxicacion-gas-maquina-alisadora-hielo_18_018175894.html",
-        "date": "2026-01-27 17:19:50",
-        "sentiment_score": -0.7862036740407348
-    },
-    {
-        "title": "El Barça se exige un atracón de goles ante el Copenhague",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/27/Clipboard-0137-ko4F-U20375358389PS-1200x840@RC.jpg",
-        "tags": [
-            "goles",
-            "atracon",
-            "copenhague",
-            "exige",
-            "ante",
-            "barca"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-campeones/barca-exige-atracon-goles-ante-copenhague-20260127181935-ntrc.html",
-        "date": "2026-01-27 17:19:42",
-        "sentiment_score": 0.6727429144084454
-    },
-    {
-        "title": "Barcelona deberá readmitir o indemnizar a un cocinero despedido por suspender un examen de catalán",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/05/08/como-calentar-tortilla-patata-mercadona-sarten.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/barcelona-debera-readmitir-indemnizar-con-casi-60-000-euros-un-cocinero-despedido-por-suspender-un-examen-catalan_6926584_0.html",
-        "date": "2026-01-27 17:19:18",
-        "sentiment_score": -0.5404341705143452
-    },
-    {
-        "title": "La perla de la Masía de la generación 2012 que renueva con el Barça: tras los pasos de Messi",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/27/culemania/secciones/1003742727101_15647402_1706x960.jpg",
-        "tags": [
-            "secciones",
-            "barça",
-            "la masía"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260127/perla-masia-generacion-renueva-barca-pasos-messi/1003742727100_0.html",
-        "date": "2026-01-27 17:18:11",
-        "sentiment_score": 0.5328886955976486
-    },
-    {
-        "title": "Romero reprocha a Junts su postura sobre financiación: \"El concierto económico no es solidario\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260127181712_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-romero-reprocha-junts-postura-financiacion-concierto-economico-no-solidario-20260127181712.html",
-        "date": "2026-01-27 17:17:12",
-        "sentiment_score": -0.5650969669222832
-    },
-    {
-        "title": "Una ONG financiada por la UE patrocina en España una coalición vinculada a terroristas palestinos",
-        "image_url": "https://okdiario.com/img/2026/01/27/documento_circulos-11.jpg",
-        "tags": [
-            "unión europea (ue)",
-            "españa",
-            "ursula von der leyen",
-            "hamas"
-        ],
-        "link": "https://okdiario.com/espana/ong-financiada-ue-patrocina-espana-coalicion-vinculada-terroristas-palestinos-16145755",
-        "date": "2026-01-27 17:16:50",
-        "sentiment_score": -0.5494765862822533
-    },
-    {
-        "title": "SEAG cierra 2025 con un crecimiento del 41% y refuerza su peso en el mercado del alquiler",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260127181640_690.jpg",
-        "tags": [
-            "economía finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/noticia-seag-cierra-2025-crecimiento-41-refuerza-peso-mercado-alquiler-20260127181640.html",
-        "date": "2026-01-27 17:16:40",
-        "sentiment_score": 0.5142844449728727
-    },
-    {
-        "title": "Actiu crece un 11,2% y supera los 100 millones de facturación",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/7aaef5bea0285e3364add7a9ed5d1b10/crop/150x100/1350x900/f/webp/assets/multimedia/imagenes/2026/01/27/17695341555496.png",
-        "tags": [
-            "empresas>",
-            "alicante>",
-            "valencia>"
-        ],
-        "link": "https://www.expansion.com/valencia/2026/01/27/6978f278e5fdeac37f8b45b1.html",
-        "date": "2026-01-27 17:16:22",
-        "sentiment_score": 0.35176796093583107
-    },
-    {
         "title": "Arbeloa devuelve los piropos a Mourinho y resalta su sitio en la historia del Madrid: \"Uno di noi\"",
         "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/27/image-3976d7f4-f26a-4845-bb55-39a45a6061c4-85-2560-1440.jpeg",
         "tags": [
@@ -3092,5 +2875,251 @@ export default [
         "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260131/pablo-alvarez-moderna-haremos-inversiones-europa-espana-apoyar-crecimiento/1003744110765_0.html",
         "date": "2026-01-31 01:10:00",
         "sentiment_score": 0.33102191984653473
+    },
+    {
+        "title": "José Mourinho, icono de la locura de la nueva Champions",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/369fa92d-e0c5-493e-9ad1-df76d42b2b00_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid",
+            "josé mourinho",
+            "champions",
+            "entender más"
+        ],
+        "link": "https://www.elperiodico.com/es/gente/20260131/jose-mourinho-icono-locura-nueva-126270670",
+        "date": "2026-01-31 06:00:26",
+        "sentiment_score": 0.1293342262506485
+    },
+    {
+        "title": "El viaducto de Guadalupe: una obra de ferrocarril inacabada en la provincia de Cáceres",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7456a4d3-ad92-4e55-83b8-a6c90ac3782d_16-9-aspect-ratio_default_0_x800y400.jpg",
+        "tags": [
+            "huelva",
+            "provincia de cáceres",
+            "madrid",
+            "ferrocarril",
+            "guadalupe"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/caceres/2026/01/31/viaducto-guadalupe-ferrocarril-villuercas-historia-126262613.html",
+        "date": "2026-01-31 06:00:21",
+        "sentiment_score": 0.1334054172039032
+    },
+    {
+        "title": "Qué hacer si tu banco te coló un seguro de vida en la hipoteca sin consentimiento",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b0c9eadb-e977-4962-b648-356fb3789da2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cáceres",
+            "finanzas",
+            "españa",
+            "consumidores",
+            "juzgados"
+        ],
+        "link": "https://www.informacion.es/finanzas-personales/2026/01/31/banco-seguro-vida-hipoteca-dv-126104869.html",
+        "date": "2026-01-31 06:00:12",
+        "sentiment_score": -0.8514632768929005
+    },
+    {
+        "title": "Así anticipa la IA los cambios de precio del alquiler en 37 capitales españolas",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/26/6927247cd8aa79-39089603.jpeg",
+        "tags": [
+            "vivienda"
+        ],
+        "link": "https://www.20minutos.es/vivienda/asi-anticipa-ia-cambios-precio-alquiler-37-capitales-espanolas_6927976_0.html",
+        "date": "2026-01-31 06:00:00",
+        "sentiment_score": 0.036190539598464966
+    },
+    {
+        "title": "‘Los amigos de mis papás’ o cómo ser swinger después de los 65 años",
+        "image_url": "https://www.infobae.com/resizer/v2/WVXZYR6F65HVBM222N7S6Z5EJA.jpg?auth=904f397f4a225e6c0c5c105db24d6fb7b0c0577ed8416cde9ccbe00b64bed466&height=1080&smart=true&width=1920",
+        "tags": [
+            "los amigos de mis papás",
+            "romina tamburello",
+            "cine",
+            "penguin random house",
+            "literatura",
+            "federico actis",
+            "buenos aires",
+            "mar del plata",
+            "vera",
+            "sexualidad"
+        ],
+        "link": "https://www.infobae.com/generacion-silver/2026/01/31/los-amigos-de-mis-papas-o-como-ser-swinger-despues-de-los-65-anos/",
+        "date": "2026-01-31 05:34:16",
+        "sentiment_score": 0.10211706161499023
+    },
+    {
+        "title": "El Covirán Granada necesita volver a sonreír",
+        "image_url": "https://static.grupojoly.com/clip/8e235612-0bfa-4bda-b59f-ab83b87fa3e9_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fundación cb granada",
+            "baloncesto"
+        ],
+        "link": "https://www.granadahoy.com/coviran-granada/coviran-granada-breogan-previa-liga-endesa-acb_0_2005773528.html",
+        "date": "2026-01-31 05:30:13",
+        "sentiment_score": -0.46302686631679535
+    },
+    {
+        "title": "La falta de vivienda dispara la competencia entre las familias por encontrar un alquiler: un 12% más que en 2024",
+        "image_url": "https://s3.elespanol.com/2026/01/30/actualidad/1003744110317_261173849_1706x960.jpg",
+        "tags": [
+            "economía",
+            "vivienda",
+            "alicante (ciudad)",
+            "alicante (provincia)"
+        ],
+        "link": "https://www.elespanol.com/alicante/economia/20260131/falta-vivienda-dispara-competencia-familias-encontrar-alquiler/1003744110257_0.html",
+        "date": "2026-01-31 05:21:00",
+        "sentiment_score": 0.16563726216554642
+    },
+    {
+        "title": "Sito Alonso: \"Venir a Murcia es una de las mejores decisiones que he tomado en mi vida\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5d6e5e4c-819c-43df-85f1-3df3923d455e_16-9-aspect-ratio_default_0_x414y457.jpg",
+        "tags": [
+            "acb",
+            "copa del rey",
+            "club",
+            "ucam murcia cb",
+            "ucam"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2026/01/31/sito-alonso-venir-murcia-mejores-126282532.html",
+        "date": "2026-01-31 05:01:30",
+        "sentiment_score": -0.16650667786598206
+    },
+    {
+        "title": "Lo que se sabe del sobre que Aldama asegura que le entregó Delcy y desvelaría la presunta financiación ilegal del PSOE",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/01/29/0203AF97-DC2B-4E95-951A-5C6B28D93E43/imagen-pdvsa-incluido-informe-uco_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "noticias",
+            "ondacero",
+            "españa"
+        ],
+        "link": "https://www.ondacero.es/noticias/espana/que-sabe-que-aldama-asegura-que-entrego-delcy-desvelaria-presunta-financiacion-ilegal-psoe_20260131697d8c779243cc133c2b49a8.html",
+        "date": "2026-01-31 05:00:39",
+        "sentiment_score": -0.37150752916932106
+    },
+    {
+        "title": "Gero arte Anoeta: la racha de la Real sale de excursión",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d4e07428-9073-4d06-81d0-46a679e1d1f2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "racha",
+            "anoeta",
+            "arte",
+            "real",
+            "gero"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/01/31/gero-arte-anoeta-racha-real-10639969.html",
+        "date": "2026-01-31 05:00:21",
+        "sentiment_score": 0.5163466334342957
+    },
+    {
+        "title": "Los años de Gloria Serra en el barrio más auténtico de Barcelona: «Mi madre no se andaba con rodeos»",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/gloria-serra-infancia.jpeg",
+        "tags": [
+            "infancia",
+            "barcelona",
+            "presentadores de televisión",
+            "gente",
+            "la sexta",
+            "celebrities"
+        ],
+        "link": "https://theobjective.com/gente/2026-01-31/infancia-gloria-serra-barrio-autentico-barcelona/",
+        "date": "2026-01-31 06:30:00",
+        "sentiment_score": 0.8372290600091219
+    },
+    {
+        "title": "John Hoffman (GSMA) vincula el futuro del MWC con Barcelona: \"Si algo funciona, no lo toques\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/efba5982-568b-4210-b614-89941e7829e1_16-9-discover-aspect-ratio_default_0_x750y333.jpg",
+        "tags": [
+            "mobile world congress 2026"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260131/hoffman-gsma-vincula-futuro-mobile-world-congress-barcelona-funciona-126290310",
+        "date": "2026-01-31 06:28:31",
+        "sentiment_score": -0.1829100251197815
+    },
+    {
+        "title": "Aviso urgente del Meteocat: decretan alerta amarilla en toda Barcelona por vientos extremos",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2026/01/20/696f27b139ec7.r_d.1757-1342-1283.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20260131/1002611837/aviso-meteocat-decretan-alerta-amarilla-toda-barcelona-vientos-extremos-dct.html",
+        "date": "2026-01-31 06:23:46",
+        "sentiment_score": 0.06425169110298157
+    },
+    {
+        "title": "La red ferroviaria tendrá 24 puntos más con limitaciones temporales de velocidad en un total de 130 km la semana que viene",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/27790b76-3a6b-4f16-a4a7-26b481b18a68_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "trenes",
+            "rodalies",
+            "transportes",
+            "renfe",
+            "adif"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260131/rodalies-red-ferroviaria-24-puntos-limitaciones-velocidad-126290130",
+        "date": "2026-01-31 06:19:44",
+        "sentiment_score": -0.1612916886806488
+    },
+    {
+        "title": "Última hora de Rodalies en Catalunya, hoy en directo Horarios e incidencias en Renfe",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/272997ad-5440-4426-be9c-9bb1156ef62f_16-9-discover-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "trenes",
+            "rodalies",
+            "accidente",
+            "sucesos",
+            "renfe",
+            "accidentes de tren"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260131/rodalies-catalunya-renfe-ultima-hora-directo-125900162",
+        "date": "2026-01-31 06:16:00",
+        "sentiment_score": -0.820458434522152
+    },
+    {
+        "title": "Vida y muerte de un dueño de su destino",
+        "image_url": "https://static1.ara.cat/clip/e084c529-0300-4aca-8ad8-02713e3a815a_16-9-aspect-ratio_default_1055853.jpg",
+        "tags": [
+            "vida",
+            "dueno",
+            "muerte",
+            "destino"
+        ],
+        "link": "https://es.ara.cat/cultura/leer/vida-muerte-dueno-destino_1_5634227.html",
+        "date": "2026-01-31 06:15:26",
+        "sentiment_score": -0.19729843735694885
+    },
+    {
+        "title": "Aluvión de multas en Sevilla por invadir el carril bus: las nuevas cámaras de vigilancia cazan a más de 22.000 conductores al mes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6082a6bb-ffbe-4233-a10c-143acc984ca0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "multas,carril bus,coches,movilidad,tráfico,ayuntamiento de sevilla"
+        ],
+        "link": "https://www.elcorreoweb.es/sevilla/2026/01/31/multas-camaras-conductores-coches-carril-bus-taxi-126222617.html",
+        "date": "2026-01-31 06:01:37",
+        "sentiment_score": -0.1757620871067047
+    },
+    {
+        "title": "La falta de control presupuestario eleva el gasto un 7% y baja la inversión pública",
+        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/f/3/4/montero-modelo-financiacion-efe.jpg",
+        "tags": [
+            "economia"
+        ],
+        "link": "https://www.eleconomista.es/economia/noticias/13753521/01/26/la-falta-de-control-presupuestario-eleva-el-gasto-un-7-y-baja-la-inversion-publica.html",
+        "date": "2026-01-31 06:00:55",
+        "sentiment_score": -0.9095532083883882
+    },
+    {
+        "title": "Barcelona buena y barata: Bar Colomina, habas guisadas y bacalao a la 'llauna' para desayunar en Nou Barris",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1137c7be-eb64-4de5-a245-2404bc66b01d_16-9-discover-aspect-ratio_default_0_x1062y398.jpg",
+        "tags": [
+            "gastronomía",
+            "dónde comer hoy",
+            "bares",
+            "restaurante",
+            "mercados",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260131/bar-colomina-mercado-merce-barcelona-126217647",
+        "date": "2026-01-31 06:00:26",
+        "sentiment_score": -0.09636905789375305
     }
 ];
