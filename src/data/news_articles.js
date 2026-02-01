@@ -1,412 +1,5 @@
 export default [
     {
-        "title": "Arbeloa devuelve los piropos a Mourinho y resalta su sitio en la historia del Madrid: \"Uno di noi\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/27/image-3976d7f4-f26a-4845-bb55-39a45a6061c4-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "entertainment",
-            "lifestyle"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/arbeloa-mourinho-uno-di-noi-benfica-real-madrid_vid60050549/video.shtml",
-        "date": "2026-01-27 22:19:48",
-        "sentiment_score": -0.06411530077457428
-    },
-    {
-        "title": "El París Basketball frena la racha del Real Madrid: 98-92",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TO24ASDZZNPQZBTWQDB4MQNLSU.jpg?auth=bc5f67f4431173348befe9c7fda7296af3e7d67d7b733d14fbd9190b40605931&width=1200",
-        "tags": [
-            "sergio scariolo",
-            "real madrid baloncesto",
-            "jugadores baloncesto",
-            "euroliga",
-            "deportes",
-            "paris basketball",
-            "competiciones",
-            "baloncesto"
-        ],
-        "link": "https://elpais.com/deportes/baloncesto/2026-01-27/el-paris-basketball-frena-la-racha-del-real-madrid-98-92.html",
-        "date": "2026-01-27 22:19:07",
-        "sentiment_score": 0.2891729325056076
-    },
-    {
-        "title": "Champions League: Arbeloa y Mourinho, reencuentro con memoria en Da Luz",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/27/2026012722350689886.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/champions-league-arbeloa-mourinho-reencuentro-memoria-da-luz/20260127223301372375.html",
-        "date": "2026-01-27 21:33:01",
-        "sentiment_score": 0.041647300124168396
-    },
-    {
-        "title": "Champions League: Así marcha la tabla de goleadores antes de la última jornada",
-        "image_url": "https://i.ytimg.com/vi/Lk545O7HDjI/mqdefault.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/champions-league-asi-marcha-la-tabla-de-goleadores-antes-de-la-ultima-jornada-202612717280",
-        "date": "2026-01-27 21:28:00",
-        "sentiment_score": -0.16352096945047379
-    },
-    {
-        "title": "Kohlberg: 10 años en la isla y ni una palabra en español o mallorquín",
-        "image_url": "https://okdiario.com/img/2026/01/27/kohlberg-durante-el-acto..jpg",
-        "tags": [
-            "real mallorca",
-            "okbaleares",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/baleares/kohlberg-10-anos-isla-ni-palabra-espanol-o-mallorquin-16147456",
-        "date": "2026-01-27 21:22:40",
-        "sentiment_score": -0.24236629903316498
-    },
-    {
-        "title": "'El ejército ciego' consagra a David Toscana en el Premio Alfaguara 2026",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/01/27/2026012722152768020.jpg",
-        "tags": [
-            "libros"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/libros/ejercito-ciego-consagra-david-toscana-premio-alfaguara-2026/20260127221546579091.html",
-        "date": "2026-01-27 21:15:46",
-        "sentiment_score": 0.20606298744678497
-    },
-    {
-        "title": "Mourinho elogia a Arbeloa, el nuevo técnico del Real Madrid: \"Es uno de mis niños\"",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/cb668ba/2147483647/strip/true/crop/4363x2291+0+309/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F44%2F1b%2F26d2ca7444bd8d4ec4cc2258073c%2Fa06786c8798a4a87ba6a24c246fe353f.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-01-27/mourinho-elogia-arbeloa-el-nuevo-tecnico-del-real-madrid-es-uno-de-mis-ninos",
-        "date": "2026-01-27 21:04:32",
-        "sentiment_score": 0.3501560837030411
-    },
-    {
-        "title": "El Supremo condena a dos ginecólogas por usar fórceps sin informar a la mujer: \"No hago vida normal desde el parto\"",
-        "image_url": "https://static.eldiario.es/clip/9075f3e5-336e-4887-917d-69096d8a481b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "mujer",
-            "vida",
-            "ginecologas",
-            "parto",
-            "forceps",
-            "supremo",
-            "normal",
-            "condena",
-            "no",
-            "informar"
-        ],
-        "link": "https://www.eldiario.es/sociedad/supremo-condena-ginecologas-forceps-informar-mujer-no-vida-normal-parto_1_12938400.html",
-        "date": "2026-01-27 21:03:27",
-        "sentiment_score": -0.23244072496891022
-    },
-    {
-        "title": "Rodalies, radiografía de una red de trenes exhausta por la falta de inversión crónica",
-        "image_url": "https://static.eldiario.es/clip/fb756dba-654f-4007-980c-e78e3c9f0e5b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cataluña",
-            "ignacio escolar",
-            "actualidad",
-            "economía",
-            "barcelona",
-            "noticias",
-            "política",
-            "periodismo independiente"
-        ],
-        "link": "https://www.eldiario.es/catalunya/rodalies-radiografia-red-trenes-exhausta-falta-inversion-cronica_1_12938032.html",
-        "date": "2026-01-27 21:03:26",
-        "sentiment_score": -0.10958367586135864
-    },
-    {
-        "title": "En busca de la sustituta de Graham Hansen: el Barça Femenino negocia el fichaje de una joya neerlandesa de 17 años",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/27/culemania/secciones/1003742727227_15649544_1706x960.jpg",
-        "tags": [
-            "fcbfemeni",
-            "futfem",
-            "secciones"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260127/sustituta-graham-hansen-barca-femenino-negocia-neerlandesa/1003742727211_0.html",
-        "date": "2026-01-27 22:12:44",
-        "sentiment_score": 0.1619371622800827
-    },
-    {
-        "title": "Barcelona se pone seria: a partir de febrero, hasta 300 euros de multa por esta práctica, que ya es costumbre entre los grupos de amigos",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/03/19/67da9c002bb2c.r_d.2129-2565.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20260127/1002609827/barcelona-pone-seria-partir-febrero-empezara-multar-practica-costumbre-grupos-amigos-lcl-dct.html",
-        "date": "2026-01-27 22:01:13",
-        "sentiment_score": 0.29112953692674637
-    },
-    {
-        "title": "Carlos Torres Vila: Catalunya está muy bien posicionada para liderar la adopción de la IA",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/744d3057-4249-49e2-ab98-518c6c793f3a_16-9-discover-aspect-ratio_default_0_x1181y443.jpg",
-        "tags": [
-            "empresas",
-            "barcelona",
-            "adopción",
-            "carlos torres vila",
-            "inteligencia artificial",
-            "bbva"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260127/carlos-torres-vila-catalunya-posicionada-126160420",
-        "date": "2026-01-27 21:59:59",
-        "sentiment_score": 0.8209043219685555
-    },
-    {
-        "title": "El 'shock' migratorio en el precio de la vivienda alcanza su nivel más alto de la última década por la falta de oferta disponible",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
-        "tags": [
-            "nlpremium",
-            "artículos daniela saltos"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/01/27/69789e09e4d4d8cb568b4574.html",
-        "date": "2026-01-27 21:54:23",
-        "sentiment_score": 0.4370124340057373
-    },
-    {
-        "title": "Pangea, la empresa española que vende motores espaciales a la carta: \"Queremos que los ingenieros no tengan que irse fuera para desarrollar su carrera\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/8c7c9b54f00109be21cc58fafdc2e3cf/f/image/jpeg/assets/multimedia/imagenes/2024/05/22/17163900462300.jpg",
-        "tags": [
-            "nlpremium",
-            "ciencia y salud",
-            "tecnología",
-            "artículos teresa guerrero",
-            "ciencia"
-        ],
-        "link": "https://www.elmundo.es/papel/historias/2026/01/27/697891acfc6c833c3f8b458d.html",
-        "date": "2026-01-27 21:48:45",
-        "sentiment_score": 0.7962090522050858
-    },
-    {
-        "title": "El jefe de Alpine destacó la labor de Colapinto en el primer día de test de la F1 y reveló la falla que tuvo el auto",
-        "image_url": "https://www.infobae.com/resizer/v2/APK6WL6OD5BMPEJR2G6FKUDEKY.png?auth=36e70e0d10198dda3fd816c3b16b1f61360808acc85a9343c73c656bb74027b6&height=1080&smart=true&width=1920",
-        "tags": [
-            "fórmula 1",
-            "franco colapinto",
-            "deportes-internacional",
-            "alpine f1 team",
-            "steve nielsen"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/27/el-jefe-de-alpine-destaco-la-labor-de-colapinto-en-el-primer-dia-de-test-de-la-f1-y-revelo-la-falla-que-tuvo-el-auto/",
-        "date": "2026-01-27 21:39:03",
-        "sentiment_score": 0.11352342925965786
-    },
-    {
-        "title": "La crisis ferroviaria lleva al Gobierno a duplicar el gasto en mantenimiento del plan de Rodalies",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/27/697927feaddcd.r_d.2784-2211-759.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20260127/11451024/crisis-ferroviaria-lleva-gobierno-duplicar-gasto-mantenimiento-plan-rodalies.html",
-        "date": "2026-01-27 21:27:13",
-        "sentiment_score": 0.47686492651700974
-    },
-    {
-        "title": "Detenido joven de 18 años por agredir a su hijo de 11 meses",
-        "image_url": "https://elluchador.info/wp-content/uploads/2026/01/Detenido-Samuel-Martinez-por-agredir-a-un-bebe-de-11-meses-en-Anzoategui-Funcionarios-de-la-Dele.jpg",
-        "tags": [
-            "venezuela",
-            "sucesos"
-        ],
-        "link": "https://elluchador.info/?p=300899",
-        "date": "2026-01-27 21:18:00",
-        "sentiment_score": -0.7104898355901241
-    },
-    {
-        "title": "‘Sirat’ lleva el cine español a los BAFTA y refuerza su carrera internacional",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/01/27/2026012722173780103.jpg",
-        "tags": [
-            "cine"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/cine/sirat-lleva-cine-espanol-bafta-refuerza-carrera-internacional/20260127221750579094.html",
-        "date": "2026-01-27 21:17:50",
-        "sentiment_score": 0.7961562983691692
-    },
-    {
-        "title": "Representantes sindicales lideraron asamblea en Barcelona para exigir mejores salarios",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2026/01/imagen_2026-01-27_171343170.png",
-        "tags": [
-            "locales",
-            "gremios",
-            "economía"
-        ],
-        "link": "https://eltiempove.com/representantes-sindicales-lideraron-asamblea-en-barcelona-para-exigir-mejores-salarios/",
-        "date": "2026-01-27 21:15:41",
-        "sentiment_score": 0.32573866844177246
-    },
-    {
-        "title": "La estación de trenes de Granada pierde más de 250.000 pasajeros en solo un año, el peor dato desde que llegó el AVE",
-        "image_url": "https://static.grupojoly.com/clip/8a0aa2e3-e21b-4700-bdca-43c292f4245e_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ave granada",
-            "infraestructuras granada",
-            "link en bio granada",
-            "tren granada",
-            "últimas noticias granada"
-        ],
-        "link": "https://www.granadahoy.com/granada/estacion-trenes-granada-pierde-pasajeros-ano-peor-dato-ave_0_2005742091.html",
-        "date": "2026-01-28 01:59:18",
-        "sentiment_score": -0.8985873060300946
-    },
-    {
-        "title": "CIMD Intermoney elimina la marca Beka tras la compra de sus principales negocios y la rebautiza como Zintra",
-        "image_url": "https://s3.elespanol.com/2025/06/26/actualidad/1003743823186_256820833_1706x960.jpg",
-        "tags": [
-            "créditos bancarios",
-            "banca",
-            "fondos de inversión",
-            "adquisiciones empresariales"
-        ],
-        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20260128/cimd-intermoney-elimina-marca-beka-compra-principales-negocios-rebautiza-zintra/1003744106201_0.html",
-        "date": "2026-01-28 01:39:49",
-        "sentiment_score": 0.1546451523900032
-    },
-    {
-        "title": "La Unidad de Emergencias que cerró Puente era clave para la seguridad ferroviaria según informes en poder de la UCO",
-        "image_url": "https://s3.elespanol.com/2026/01/27/actualidad/1003744106393_261125579_1706x1280.jpg",
-        "tags": [
-            "periodismo de investigación",
-            "óscar puente santiago",
-            "ministerio de transporte",
-            "movilidad y agenda urbana",
-            "adamuz",
-            "observatorio de la movilidad",
-            "adif",
-            "gobierno de españa",
-            "accidentes de tren"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20260128/unidad-emergencias-cerro-puente-clave-seguridad-ferroviaria-informes-poder-uco/1003744105618_0.html",
-        "date": "2026-01-28 01:39:46",
-        "sentiment_score": -0.26616068184375763
-    },
-    {
-        "title": "París-Real Madrid: La racha europea legal a su fin (98-92)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/27/image-a269724a-9268-4835-8447-7265516fe81b-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "sports",
-            "lifestyle"
-        ],
-        "link": "https://www.eurosport.es/baloncesto/euroliga/2025-2026/paris-real-madrid-video-resumen-mejores-momentos-y-resultado-fase-regular-highlights-hoy_vid60050558/video.shtml",
-        "date": "2026-01-28 01:32:36",
-        "sentiment_score": -0.25625498592853546
-    },
-    {
-        "title": "España abre una ruta de regularización migratoria, en contraste con el mundo",
-        "image_url": "https://www.infobae.com/resizer/v2/O2GFWVP6J5DUDLNHN755SOAESU.jpg?auth=a33f8d2319021251d9f52f83d54959bfe490508c45634fdfbdd426198bd7897d&height=1366&smart=true&width=2048",
-        "tags": [
-            "new york times"
-        ],
-        "link": "https://www.infobae.com/america/the-new-york-times/2026/01/28/espana-abre-una-ruta-de-regularizacion-migratoria-en-contraste-con-el-mundo/",
-        "date": "2026-01-28 01:30:18",
-        "sentiment_score": -0.01523495465517044
-    },
-    {
-        "title": "Peligro en la Champions: PSG, Real Madrid, Barcelona y Man City enfrentan riesgo de caer a playoffs",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/db248f5/2147483647/strip/true/crop/3708x1947+0+263/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F97%2F28%2F1031313e4d80a1cf0181fa51dcfe%2F16175a53171c4f0ea8c29fe4cd543df4.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-01-27/peligro-en-la-champions-psg-real-madrid-barcelona-y-man-city-enfrentan-riesgo-de-caer-playoffs",
-        "date": "2026-01-28 01:28:57",
-        "sentiment_score": 0.5638909190893173
-    },
-    {
-        "title": "La fotógrafa iraní Hoda Afshar, sobre el velo: \"Lo que rechazo es que el cuerpo de la mujer se convierta en el foco\"",
-        "image_url": "https://s3.elespanol.com/2026/01/22/actualidad/1003744100316_261114610_1706x960.jpg",
-        "tags": [
-            "irán",
-            "arte",
-            "fotografía",
-            "entrevistas",
-            "exposiciones"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/arte/20260128/fotografa-irani-hoda-afshar-velo-rechazo-cuerpo-mujer-convierta-foco/1003744100291_0.html",
-        "date": "2026-01-28 00:55:00",
-        "sentiment_score": 0.03557370603084564
-    },
-    {
-        "title": "Maldini desvela su predicción para el top 8 de la Champions con sorpresas",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/28/69794f137b2f8.webp",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/maldini-desvela-prediccion-top-8-champions-sorpresas-20260128_3295706.html",
-        "date": "2026-01-28 00:36:13",
-        "sentiment_score": -0.08494561910629272
-    },
-    {
-        "title": "De eliminar al Real Madrid en la Copa del Rey a fomentar el emprendimiento innovador en zonas rurales",
-        "image_url": "https://s3.elespanol.com/2026/01/21/actualidad/1003744098158_261020144_1706x960.jpg",
-        "tags": [
-            "albacete balompié",
-            "albacete (municipio)",
-            "innovación",
-            "talento",
-            "castilla-la mancha",
-            "despoblación",
-            "emprendimiento",
-            "castilla la mancha"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/castilla-la-mancha/20260128/eliminar-real-madrid-copa-rey-fomentar-emprendimiento-innovador-zonas-rurales/1003744098133_0.html",
-        "date": "2026-01-28 00:34:00",
-        "sentiment_score": 0.6254543624818325
-    },
-    {
-        "title": "Clima en Barcelona: temperatura y probabilidad de lluvia para este 28 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
-        "tags": [
-            "barcelona",
-            "tiempo en españa",
-            "españa sociedad",
-            "españa noticias",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/28/clima-en-barcelona-temperatura-y-probabilidad-de-lluvia-para-este-28-de-enero/",
-        "date": "2026-01-28 02:15:36",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "Charlie Chan",
-        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "charlie",
-            "chan"
-        ],
-        "link": "https://www.malagahoy.es/opinion/articulos/charlie-chan_0_2005747463.html",
-        "date": "2026-01-28 02:08:22",
-        "sentiment_score": -0.37507806718349457
-    },
-    {
-        "title": "Los funerales verdaderos",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "verdaderos",
-            "funerales"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/funerales-verdaderos_0_2005747393.html",
-        "date": "2026-01-28 02:06:38",
-        "sentiment_score": -0.8916198182851076
-    },
-    {
-        "title": "Los sindicatos estallan por el deterioro de la red de tren y la falta de seguridad: planean huelgas en todo el sector",
-        "image_url": "https://s3.elespanol.com/2026/01/27/actualidad/1003744106334_261123351_1706x960.jpg",
-        "tags": [
-            "movilidad",
-            "adamuz",
-            "observatorio de la movilidad",
-            "adif",
-            "accidentes de tren"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20260128/sindicatos-estallan-deterioro-red-tren-falta-seguridad-planean-huelgas-sector/1003744105338_0.html",
-        "date": "2026-01-28 01:39:48",
-        "sentiment_score": -0.6185784097760916
-    },
-    {
         "title": "El Real Madrid quiere sellar el billete del Top-8 de Champions en casa de Mourinho",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/938ca10d-aa69-43e7-bc15-2d72fd2b2167_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -3121,5 +2714,247 @@ export default [
         "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260131/bar-colomina-mercado-merce-barcelona-126217647",
         "date": "2026-01-31 06:00:26",
         "sentiment_score": -0.09636905789375305
+    },
+    {
+        "title": "(Cró) Osasuna desaprovecha la crisis del Villarreal y el Oviedo vuelve a ganar después de cuatro meses",
+        "image_url": "https://www.infobae.com/resizer/v2/C6GQ3ZHL2RA5TNMMBA6KVX5DY4.jpg?auth=eef142ea096c5db4bbc20e120db8e4a74616564c7cd4699d1451f4f6c25a8ddd&height=1282&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/31/cro-osasuna-desaprovecha-la-crisis-del-villarreal-y-el-oviedo-vuelve-a-ganar-despues-de-cuatro-meses/",
+        "date": "2026-01-31 17:45:34",
+        "sentiment_score": -0.05123525857925415
+    },
+    {
+        "title": "Raíllo quiere probarse este domingo para la 'final' ante el Sevilla",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3656555.jpg",
+        "tags": [
+            "primera división",
+            "ultimas noticias",
+            "fútbol",
+            "real mallorca",
+            "laliga",
+            "rcd mallorca",
+            "última hora",
+            "antonio raíllo"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/01/31/2560507/raillo-probara-este-domingo-para-final-ante-sevilla.html",
+        "date": "2026-01-31 17:24:50",
+        "sentiment_score": -0.767716895788908
+    },
+    {
+        "title": "El Real Madrid no termina de recuperar a sus baluartes en defensa",
+        "image_url": "https://i.ytimg.com/vi/5zXZdXcU6us/mqdefault.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/el-real-madrid-no-termina-de-recuperar-a-sus-baluartes-en-defensa-202613113170",
+        "date": "2026-01-31 17:17:00",
+        "sentiment_score": -0.8851936794817448
+    },
+    {
+        "title": "CRÓNICA | Athletic Club de Bilbao – RCD Espanyol Fem: el infortunio se ceba con las pericas (2-1)",
+        "image_url": "https://lagrada.org/wp-content/uploads/2026/01/Once-inicial-del-Espanyol-Femenino-frente-al-Athletic-Club-de-Bilbao-jornada-18.jpg",
+        "tags": [
+            "femenino",
+            "athletic",
+            "f",
+            "jornada",
+            "bilbao",
+            "rcd",
+            "liga",
+            "espanyol femenino",
+            "club",
+            "18",
+            "espanyol"
+        ],
+        "link": "https://lagrada.org/cronica-athletic-club-bilbao-espanyol-femenino-liga-f/",
+        "date": "2026-01-31 17:15:17",
+        "sentiment_score": 0.022929832339286804
+    },
+    {
+        "title": "Osasuna padece un lamentable arbitraje en El Sadar y acaba cediendo un empate contra el Villarreal",
+        "image_url": "https://navarra.okdiario.com/media/navarra/images/2026/01/31/2026013118110055046.jpg",
+        "tags": [
+            "osasuna"
+        ],
+        "link": "https://navarra.okdiario.com/articulo/osasuna/cronica-partido-futbol-osasuna-villarreal-sadar-pamplona/20260131181430631604.html",
+        "date": "2026-01-31 17:14:30",
+        "sentiment_score": 0.28894174844026566
+    },
+    {
+        "title": "A Sellés se le acaban los milagros: el Albacete saca los colores a un Real Zaragoza que no da para más",
+        "image_url": "https://s3.elespanol.com/2026/01/31/actualidad/1003744111805_261194273_1706x960.jpg",
+        "tags": [
+            "real zaragoza",
+            "albacete balompié",
+            "segunda división"
+        ],
+        "link": "https://www.elespanol.com/aragon/deportes/real-zaragoza/20260131/selles-acaban-milagros-albacete-saca-colores-real-zaragoza-no-da/1003744111801_0.html",
+        "date": "2026-01-31 17:08:16",
+        "sentiment_score": -0.7578514739871025
+    },
+    {
+        "title": "Mastantuono no levanta cabeza y su puesto en el Real Madrid corre peligro",
+        "image_url": "https://i.ytimg.com/vi/Y6x58BQfNmo/mqdefault.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/mastantuono-no-levanta-cabeza-y-su-puesto-en-el-real-madrid-corre-peligro-20261311350",
+        "date": "2026-01-31 17:05:00",
+        "sentiment_score": -0.2996942959725857
+    },
+    {
+        "title": "El legado del \"Principito\" ovetense, el chaval que empezó vendiendo relojes en su Seat 600",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8de955ee-fc64-4dc7-a00a-b5170495ac6e_16-9-aspect-ratio_default_0_x787y408.jpg",
+        "tags": [
+            "montecerrao",
+            "plaza",
+            "seat"
+        ],
+        "link": "https://www.lne.es/oviedo/2026/01/31/legado-principito-ovetense-chaval-empezo-126282562.html",
+        "date": "2026-01-31 17:00:11",
+        "sentiment_score": -0.17801997065544128
+    },
+    {
+        "title": "El motivo por el que entrenadores y jugadores llevan un brazalete verde en la jornada 22 de Liga",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/01/31/697e323c19117.r_d.1101-709-6250.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20260131/motivo-cual-entrenadores-jugadores-llevan-brazalete-verde-jornada-22-liga_380415.html",
+        "date": "2026-01-31 16:53:31",
+        "sentiment_score": 0.3916962444782257
+    },
+    {
+        "title": "El Real Madrid encara otra sobremesa volcánica ante el Rayo",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/31/mbappe-kteG-U20456160012biG-1200x840@RC.JPG",
+        "tags": [
+            "real madrid",
+            "kylian mbappé",
+            "rayo vallecano",
+            "thibaut courtois",
+            "vinícius"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/real-madrid-encara-sobremesa-volcanica-ante-rayo-20260131173501-ntrc.html",
+        "date": "2026-01-31 16:46:58",
+        "sentiment_score": -0.5458062142133713
+    },
+    {
+        "title": "El Albacete Balompié confirma su gran momento de forma y supera con solvencia al Zaragoza en el estadio Carlos Belmonte (2-0)",
+        "image_url": "https://www.lacerca.com/imagenes/api_seo_43_thumb/2d3de61e153cae0e3673b45cdd0e36e5.jpg",
+        "tags": [
+            "noticias",
+            "albacete"
+        ],
+        "link": "https://www.lacerca.com/noticias/albacete/albacete-balompie-confirma-momento-zaragoza-carlos-belmonte-3-799983-1.html",
+        "date": "2026-01-31 17:50:00",
+        "sentiment_score": 0.7072232365608215
+    },
+    {
+        "title": "Renfe sustituye trenes por autobuses desde Alicante por nuevos cortes en la red ferroviaria",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e47a2a37-3882-4973-bcc5-1b979e1f5b40_16-9-aspect-ratio_default_0_x640y272.jpg",
+        "tags": [
+            "alicante",
+            "obras",
+            "corredor mediterráneo",
+            "renfe",
+            "estación de tren"
+        ],
+        "link": "https://www.informacion.es/alicante/2026/01/31/nuevos-cortes-ferroviaria-obligan-autobus-alicante-126302802.html",
+        "date": "2026-01-31 17:47:32",
+        "sentiment_score": -0.8038507010787725
+    },
+    {
+        "title": "Iker Sagalá: Más allá de la música",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c5d29de8-2d9a-4171-baa4-e1400b480af1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "musica"
+        ],
+        "link": "https://www.deia.eus/bizkaia/2026/01/31/musica-10642512.html",
+        "date": "2026-01-31 17:39:13",
+        "sentiment_score": -0.0674721747636795
+    },
+    {
+        "title": "El Barça B de Belletti cierra dos fichajes de lujo para sustituir las dos bajas más sensibles",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/31/culemania/secciones/1003742728423_15665302_1706x960.jpg",
+        "tags": [
+            "fichajes barça",
+            "barça b",
+            "secciones"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260131/barca-belletti-cierra-fichajes-sustituir-bajas-sensibles/1003742728411_0.html",
+        "date": "2026-01-31 17:38:04",
+        "sentiment_score": -0.7008368326351047
+    },
+    {
+        "title": "Vecinos de El Prat (Barcelona) beneficiarios de 101 viviendas sociales de cooperativa",
+        "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://es.investing.com/news/stock-market-news/vecinos-de-el-prat-barcelona-beneficiarios-de-101-viviendas-sociales-de-cooperativa-3492909",
+        "date": "2026-01-31 17:37:39",
+        "sentiment_score": 0.06965166702866554
+    },
+    {
+        "title": "El restaurante asturiano en una aldea de 20 habitantes que solo cocina productos comprados \"a 20 kilómetros a la redonda\" y que recomienda la guía Michelin: \"Te sorprenderá\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6325208b-026d-4714-b845-810b0e6f4cb1_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "asturiano",
+            "guía michelin",
+            "michelin",
+            "asturias"
+        ],
+        "link": "https://www.lne.es/videos/asturias/2026/01/31/restaurante-asturiano-aldea-20-habitantes-126303342.html",
+        "date": "2026-01-31 17:34:07",
+        "sentiment_score": 0.14881807565689087
+    },
+    {
+        "title": "Hamilton enciende la ilusión en Ferrari",
+        "image_url": "https://mundonow.com/wp-content/uploads/2025/10/35a2eefec9af23451c87efdf83aa21015d42fbec-550x367.jpg",
+        "tags": [
+            "hogar y auto"
+        ],
+        "link": "https://mundonow.com/hamilton-enciende-la-ilusion-en-ferrari/",
+        "date": "2026-01-31 17:31:10",
+        "sentiment_score": 0.8060400523245335
+    },
+    {
+        "title": "La Iglesia de Barcelona crea 'Spe Salvi', una red de detección y ayuda para prevenir suicidios: \"Los sacerdotes contarán con una guía\"",
+        "image_url": "https://album.mediaset.es/eimg/2026/01/29/catedral-de-barcelona-en-una-foto-de-archivo_4fc0.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20260131/iglesia-barcelona-crea-spe-salvi-red-deteccion-ayuda-prevenir-suicidios_18_018194166.html",
+        "date": "2026-01-31 17:30:49",
+        "sentiment_score": -0.6983637008816004
+    },
+    {
+        "title": "La curiosa boda entre dos cruceristas en el Cunqueiro ante una operación a vida o muerte",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/174c74f1-ce3c-498b-8638-56391e4935e3_16-9-aspect-ratio_default_0_x714y267.jpg",
+        "tags": [
+            "bodas",
+            "hospital álvaro cunqueiro"
+        ],
+        "link": "https://www.farodevigo.es/videos/gran-vigo/2026/01/31/boda-cruceristas-hospital-alvaro-cunqueiro-operacion-vida-muerte-126301635.html",
+        "date": "2026-01-31 17:23:50",
+        "sentiment_score": 0.29920506477355957
+    },
+    {
+        "title": "Lewandowski podría irse del Barcelona este año",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2026/01/Lewandowski-podria-irse-del-Barcelona-este-ano-elorientaldemonagas.com-31-de-enero-de-2026.jpg",
+        "tags": [
+            "monagas",
+            "deportes",
+            "venezuela",
+            "maturin"
+        ],
+        "link": "https://elorientaldemonagas.com/lewandowski-podria-irse-del-barcelona-este-ano/",
+        "date": "2026-01-31 17:15:39",
+        "sentiment_score": -0.28160202503204346
     }
 ];
