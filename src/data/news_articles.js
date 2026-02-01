@@ -1,59 +1,5 @@
 export default [
     {
-        "title": "El Real Madrid quiere sellar el billete del Top-8 de Champions en casa de Mourinho",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/938ca10d-aa69-43e7-bc15-2d72fd2b2167_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "champions",
-            "real madrid"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2026/01/28/real-madrid-quiere-sellar-billete-champions-benfica-126166057.html",
-        "date": "2026-01-28 06:47:19",
-        "sentiment_score": 0.17599833011627197
-    },
-    {
-        "title": "Las opciones de la última jornada de la Champions: 30 de los 36 equipos se juegan la clasificación",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c84ee34f-6502-4291-b12f-f716ec1ea47a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "atlético de madrid",
-            "fútbol",
-            "champions league",
-            "fc barcelona",
-            "champions",
-            "liga de campeones"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2026/01/28/programada-opciones-ultima-jornada-champions-126165964.html",
-        "date": "2026-01-28 06:45:38",
-        "sentiment_score": 0.08495701849460602
-    },
-    {
-        "title": "El precio de la gasolina en Madrid, Barcelona y otras ciudades para hoy",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "noticias",
-            "gasolina",
-            "precio gasolina",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/28/el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-para-hoy/",
-        "date": "2026-01-28 06:45:57",
-        "sentiment_score": -0.006723418831825256
-    },
-    {
-        "title": "Accidente de tren en Adamuz, Córdoba, en directo | Puente expresa su \"sorpresa\" por las dudas del presidente de CIAF sobre la renovación de la vía",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/16fa625c-862d-4686-8b0a-578eb2af94c2_16-9-aspect-ratio_default_0_x838y314.jpg",
-        "tags": [
-            "accidente de tren córdoba",
-            "adif",
-            "trenes",
-            "renfe",
-            "córdoba",
-            "alta velocidad"
-        ],
-        "link": "https://www.lne.es/sucesos/2026/01/28/directo-accidente-tren-adamuz-cordoba-125819306.html",
-        "date": "2026-01-28 06:30:00",
-        "sentiment_score": -0.5442737080156803
-    },
-    {
         "title": "Delcy Rodríguez, del diálogo con EEUU a las advertencias: ¿un cambio real o un mensaje solo para audiencias chavistas?",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/f80fa2cfe9e34574be4f3682c8143529bb939217w.jpg",
         "tags": [
@@ -2956,5 +2902,220 @@ export default [
         "link": "https://elorientaldemonagas.com/lewandowski-podria-irse-del-barcelona-este-ano/",
         "date": "2026-01-31 17:15:39",
         "sentiment_score": -0.28160202503204346
+    },
+    {
+        "title": "El Barça se gusta ante el Elche",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/31/Clipboard-0095-k5EE-U20459727462raG-1200x840@RC.jpg",
+        "tags": [
+            "f.c. barcelona",
+            "ferran torres",
+            "lamine yamal"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/barca-gusta-ante-elche-20260131230904-ntrc.html",
+        "date": "2026-01-31 22:22:04",
+        "sentiment_score": 0.15683524310588837
+    },
+    {
+        "title": "El Barça asedia al Elche y amplía el liderato",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/95ac5f9d-cf20-4427-b4a6f019e6444fdf.jpg",
+        "tags": [
+            "real madrid",
+            "champions league",
+            "álvaro rodríguez",
+            "elche cf",
+            "frenkie de jong",
+            "hansi flick",
+            "ferran torres",
+            "rayo vallecano",
+            "robert lewandowski",
+            "lamine yamal",
+            "laliga ea sports",
+            "raphinha",
+            "dani olmo",
+            "fc barcelona"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zaf696074-ffba-4109-8d209024acfda737/202601/el-barca-asedia-al-elche-y-amplia-el-liderato",
+        "date": "2026-01-31 22:17:30",
+        "sentiment_score": -0.09450411796569824
+    },
+    {
+        "title": "El Barcelona se gusta ante el Elche para reforzar el liderato en liga (1-3)",
+        "image_url": "https://cflvdg.avoz.es/sc/NSCkLgQaRGlm8QthPvLChdUl0SQ=/768x/2026/01/31/00121769895781485281141/Foto/efe_20260131_212410249.jpg",
+        "tags": [
+            "elche cf",
+            "deportes",
+            "fc barcelona"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/31/barcelona-gusta-ante-elche-reforzar-liderato-liga1-3/00031769897463322258476.htm",
+        "date": "2026-01-31 22:16:00",
+        "sentiment_score": 0.15683524310588837
+    },
+    {
+        "title": "La dedicatoria especial para Juan Foyth en el partidazo que protagonizaron Osasuna y Villarreal en Pamplona",
+        "image_url": "https://www.infobae.com/resizer/v2/YOHTTOUBYZBDJJ6QKMCLBPKKIQ.png?auth=2f98ac336cac12834963e37bdec62bb1f99533ed9fe62d87b4910d898138101c&height=881&smart=true&width=1567",
+        "tags": [
+            "la liga",
+            "gerard moreno",
+            "juan foyth",
+            "villarreal",
+            "osasuna"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/31/la-dedicatoria-especial-para-juan-foyth-en-el-partidazo-que-protagonizaron-osasuna-y-villarreal-en-pamplona/",
+        "date": "2026-01-31 22:03:50",
+        "sentiment_score": -0.7115543950349092
+    },
+    {
+        "title": "El Barcelona gana y sigue líder de la Liga Española",
+        "image_url": "https://i.ytimg.com/vi/7cNLNyeqEps/mqdefault.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/el-barcelona-gana-y-sigue-lider-de-la-liga-espanola-20261311800",
+        "date": "2026-01-31 22:01:00",
+        "sentiment_score": 0.3715811222791672
+    },
+    {
+        "title": "En Cedeño inicia temporada ciclística Caicara 2026",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/01/ciclismo1.jpg",
+        "tags": [
+            "31ene",
+            "cedeño",
+            "deportes",
+            "ciclismo"
+        ],
+        "link": "https://laverdaddemonagas.com/2026/01/31/temporada-ciclistica-caicara-2026/",
+        "date": "2026-01-31 21:59:47",
+        "sentiment_score": 0.2537603825330734
+    },
+    {
+        "title": "El Barça resiste la presión del Real Madrid con una oda al fútbol ofensivo en Elche",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/31/culemania/primer-equipo/1003742728482_15666135_1706x960.jpg",
+        "tags": [
+            "laliga",
+            "primer equipo",
+            "ferran torres",
+            "lamine yamal"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260131/barca-resiste-presion-real-madrid-ofensivo-elche/1003742728465_0.html",
+        "date": "2026-01-31 21:59:13",
+        "sentiment_score": 0.5502318069338799
+    },
+    {
+        "title": "El Barça no falla en la locura de Elche y se mantiene firme como líder de La Liga",
+        "image_url": "https://s3.elespanol.com/2026/01/31/actualidad/1003744111981_261196743_1706x960.jpg",
+        "tags": [
+            "lamine yamal",
+            "fútbol",
+            "elche cf",
+            "fc barcelona",
+            "deportes"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20260131/barca-no-falla-locura-elche-mantiene-firme-lider-liga/1003744111972_0.html",
+        "date": "2026-01-31 21:58:42",
+        "sentiment_score": 0.3292563259601593
+    },
+    {
+        "title": "Convertir la lesión de Pedri en una oportunidad: los apuntes en caliente del Elche-Barça",
+        "image_url": "https://static1.ara.cat/clip/da065647-b740-45c0-a194-387180441ab9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "oportunidad",
+            "caliente",
+            "barca",
+            "elche",
+            "lesion",
+            "pedri",
+            "apuntes",
+            "convertir"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/convertir-lesion-pedri-oportunidad-apuntes-caliente-elche-barca_1_5634796.html",
+        "date": "2026-01-31 21:58:38",
+        "sentiment_score": 0.7257935609668493
+    },
+    {
+        "title": "Resumen Elche-Barcelona: Asedio ‘de líder’ en Elche (1-3)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/31/image-fcf7636f-5101-45c8-bca5-39abbe7aac99-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/la-liga-2025-2026-elche-barcelona-video-resumen-resultado-goles-y-mejores-momentos-del-partido-jornada-22-hoy_vid60051765/video.shtml",
+        "date": "2026-01-31 22:21:28",
+        "sentiment_score": 0.30669206380844116
+    },
+    {
+        "title": "El Barcelona protege el liderato y Elche se mete en problemas",
+        "image_url": "https://static.grupojoly.com/clip/480c1dad-01ee-4b66-a95d-1e3a4f86bc29_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "elche",
+            "crónica",
+            "barça",
+            "liderato"
+        ],
+        "link": "https://www.europasur.es/deportes/liderato-barca-elche-cronica_0_2005781110.html",
+        "date": "2026-01-31 22:18:33",
+        "sentiment_score": -0.18774835765361786
+    },
+    {
+        "title": "El Barcelona protege el liderato y mete al Elche en problemas",
+        "image_url": "https://static.grupojoly.com/clip/480c1dad-01ee-4b66-a95d-1e3a4f86bc29_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "elche",
+            "crónica",
+            "barça",
+            "liderato"
+        ],
+        "link": "https://www.huelvainformacion.es/deportes/liderato-barca-elche-cronica_0_2005781112.html",
+        "date": "2026-01-31 22:18:33",
+        "sentiment_score": -0.18774835765361786
+    },
+    {
+        "title": "El Barcelona venció con contundencia al Elche y defendió su liderato en LaLiga",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/fc-barcelona-vs-elche.jpg",
+        "tags": [
+            "elche cf",
+            "españa",
+            "titulares",
+            "futbol",
+            "fc barcelona",
+            "deportes",
+            "laliga"
+        ],
+        "link": "https://lapatilla.com/2026/01/31/el-barcelona-vencio-con-contundencia-al-elche-y-defendio-su-liderato-en-laliga/",
+        "date": "2026-01-31 22:18:32",
+        "sentiment_score": 0.9032910540699959
+    },
+    {
+        "title": "El Barcelona protege el liderato y mete en problemas al Elche",
+        "image_url": "https://static.grupojoly.com/clip/480c1dad-01ee-4b66-a95d-1e3a4f86bc29_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "elche",
+            "crónica",
+            "barça",
+            "liderato"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/liderato-barca-elche-cronica_0_2005781107.html",
+        "date": "2026-01-31 22:18:32",
+        "sentiment_score": -0.18774835765361786
+    },
+    {
+        "title": "El Barça resiste en Elche y defiende el liderato de LaLiga con pegada",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/31/2026013123171492342.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/barca-resiste-elche-defiende-liderato-laliga-pegada/20260131231740372933.html",
+        "date": "2026-01-31 22:17:40",
+        "sentiment_score": -0.9034526906907558
+    },
+    {
+        "title": "Lo más viral: Daddy Yankee es homenajeado por autoridades puertorriqueñas",
+        "image_url": "https://static.wixstatic.com/media/cf263a_fc9b5bf2edee4bac8f7f7a720186b4a9~mv2.png/v1/fit/w_910,h_549,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-daddy-yankee-es-homenajeado-por-autoridades-puertorrique%C3%B1as",
+        "date": "2026-01-31 19:46:43",
+        "sentiment_score": 0.7756133712828159
     }
 ];
