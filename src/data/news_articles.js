@@ -1,214 +1,5 @@
 export default [
     {
-        "title": "Cuartos de final de la Copa del Rey: Mira aquí todos los juegos gratis",
-        "image_url": "https://pxcdn.meridiano.net/012026/1769621703161.jpg?ch=180&cw=320",
-        "tags": [
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/espanol/cuartos-de-final-de-la-copa-del-rey-mira-aqui-todos-los-juegos-gratis-202612813360",
-        "date": "2026-01-28 17:36:00",
-        "sentiment_score": 0.6496203802525997
-    },
-    {
-        "title": "Regularización Ya eleva a más de 700.000 los migrantes que podrían acceder al proceso anunciado por el Gobierno",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260128183558_120.jpg",
-        "tags": [
-            "ep social",
-            "migración"
-        ],
-        "link": "https://www.europapress.es/epsocial/migracion/noticia-regularizacion-ya-eleva-mas-700000-migrantes-podrian-acceder-proceso-anunciado-gobierno-20260128183558.html",
-        "date": "2026-01-28 17:35:58",
-        "sentiment_score": 0.48752254992723465
-    },
-    {
-        "title": "Hugo Sánchez pone a Armando ‘La Hormiga’ González en la pelea rumbo al Mundial 2026",
-        "image_url": "https://www.infobae.com/resizer/v2/IDTZ6QYJLNC63FZJLXARUWG7DQ.jpg?auth=0bbcb1f6a7de24565bb40fd626cd740a9fef7f8b3470a84508abf356b9ec16f5&height=1080&smart=true&width=1920",
-        "tags": [
-            "mexico-deportes",
-            "armando ‘la hormiga’ gonzález",
-            "mundial 2026",
-            "hugo sánchez",
-            "selección mexicana"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2026/01/28/hugo-sanchez-pone-a-armando-la-hormiga-gonzalez-en-la-pelea-rumbo-al-mundial-2026/",
-        "date": "2026-01-28 17:33:44",
-        "sentiment_score": 0.8492759298533201
-    },
-    {
-        "title": "La CNMV autoriza la segunda opa de Neinor sobre Aedas Homes",
-        "image_url": "http://img.s3wfg.com/web/img/images_uploaded/d/2/ep_archivo_-_el_consejero_delegado_de_neinor_homes_borja_garcia-egotxeaga.jpg",
-        "tags": [
-            "empresas"
-        ],
-        "link": "https://www.bolsamania.com/noticias/empresas/cnmv-autoriza-segunda-opa-neinor-sobre-aedas-homes--21566900.html",
-        "date": "2026-01-28 17:28:50",
-        "sentiment_score": 0.07491538673639297
-    },
-    {
-        "title": "La ciudad de León se posiciona como destino gastronómico \"con identidad propia\" en la Feria Madrid Fusión",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260128182847_260.jpg",
-        "tags": [
-            "castilla y león"
-        ],
-        "link": "https://www.europapress.es/castilla-y-leon/noticia-ciudad-leon-posiciona-destino-gastronomico-identidad-propia-feria-madrid-fusion-20260128182847.html",
-        "date": "2026-01-28 17:28:47",
-        "sentiment_score": 0.5036433786153793
-    },
-    {
-        "title": "Jordi Ribera: \"Portugal es un rival mucho más curtido que nosotros\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260128182802_690.jpg",
-        "tags": [
-            "balonmano",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/balonmano-00167/noticia-jordi-ribera-portugal-rival-mucho-mas-curtido-nosotros-20260128182802.html",
-        "date": "2026-01-28 17:28:02",
-        "sentiment_score": -0.9092924175783992
-    },
-    {
-        "title": "El temporal ‘Kristin’ corta carreteras, provoca desalojos por las crecidas de ríos y suspende clases",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OJLXG7WRG5JQXEAZSKETJZI7WE.jpg?auth=8d2a0de66ecba818aa641aff7fd7a31f0d9e066f6eda53d09c9ff22b0802022b&width=1200",
-        "tags": [
-            "lluvias torrenciales",
-            "españa",
-            "educación",
-            "nieve",
-            "cádiz",
-            "castilla-la mancha",
-            "castilla y león",
-            "viento",
-            "extremadura",
-            "temporales",
-            "sevilla",
-            "almería"
-        ],
-        "link": "https://elpais.com/espana/2026-01-28/el-temporal-kristin-corta-carreteras-provoca-desalojos-por-las-crecidas-de-rios-y-suspende-clases.html",
-        "date": "2026-01-28 17:26:36",
-        "sentiment_score": -0.7411067448556423
-    },
-    {
-        "title": "Champions League hoy: horario y dónde ver en directo todos los partidos de la última jornada",
-        "image_url": "https://okdiario.com/img/2026/01/27/vini.jpg",
-        "tags": [
-            "fútbol",
-            "deportes",
-            "champions league"
-        ],
-        "link": "https://okdiario.com/deportes/champions-league-hoy-horario-donde-ver-directo-todos-partidos-ultima-jornada-16143048",
-        "date": "2026-01-28 17:26:18",
-        "sentiment_score": 0.6216650567948818
-    },
-    {
-        "title": "Hasta el Community Manager del Real Madrid se ríe de Arbeloa, el ‘cono-cido’ de Piqué",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/28/culemania/culemaniacos/1003742727537_15653554_1706x960.jpg",
-        "tags": [
-            "gerard piqué",
-            "álvaro arbeloa",
-            "real madrid"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260128/community-manager-real-madrid-arbeloa-cono-cido-pique/1003742727513_0.html",
-        "date": "2026-01-28 17:24:19",
-        "sentiment_score": 0.00274050235748291
-    },
-    {
-        "title": "Unión Deportiva Almería: peligros, crisis de resultados y Rubi en la diana",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/01/union-deportiva-almeria-peligros-crisis-resultados-rubi-diana.3-750x488.jpeg",
-        "tags": [
-            "deportes",
-            "ad ceuta",
-            "futbol"
-        ],
-        "link": "https://elfarodeceuta.es/union-deportiva-almeria-peligros-crisis-resultados-rubi-diana/",
-        "date": "2026-01-28 17:23:53",
-        "sentiment_score": -0.13390468060970306
-    },
-    {
-        "title": "Sabores medievales para elegir al mejor chef joven",
-        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3653327.jpg",
-        "tags": [
-            "ies maria àngels cardona",
-            "fundació foment del turisme de menorca",
-            "vivir en menorca",
-            "european young chef award"
-        ],
-        "link": "https://www.menorca.info/menorca/vivir-menorca/2026/01/28/2558681/sabores-medievales-para-elegir-mejor-chef-joven.html",
-        "date": "2026-01-28 17:35:27",
-        "sentiment_score": 0.836511293426156
-    },
-    {
-        "title": "La Generalitat da por cerrado el realojo del B9 de Badalona tras reubicar a las últimas 30 personas",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/25/694cf8e2e32222-38444532.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/generalitat-da-por-cerrado-realojo-b9-badalona-tras-reubicar-las-ultimas-30-personas_6927114_0.html",
-        "date": "2026-01-28 17:35:16",
-        "sentiment_score": 0.0943489521741867
-    },
-    {
-        "title": "Huelva acoge este jueves una misa funeral por las víctimas de Adamuz con presencia de los reyes",
-        "image_url": "https://www.infobae.com/resizer/v2/VB57QW5ZFVH6DICA3LT6ET33II.jpg?auth=07e9e985bbbcf718f31fdc09f02adabdfe15253f9d590440754478c605011330&height=1280&smart=true&width=1920",
-        "tags": [
-            "palacio de deportes carolina marín",
-            "córdoba",
-            "huelva",
-            "junta de andalucía",
-            "accidente de adamuz",
-            "misa funeral",
-            "letizia",
-            "felipe vi",
-            "europapress",
-            "casa real",
-            "obispado de huelva"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/28/huelva-acoge-este-jueves-una-misa-funeral-por-las-victimas-de-adamuz-con-presencia-de-los-reyes/",
-        "date": "2026-01-28 17:32:08",
-        "sentiment_score": -0.5424392446875572
-    },
-    {
-        "title": "Isdin nombra a Nigyar Makhmudova nueva presidenta no ejecutiva de su Consejo de Administración",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/28/recomendados/1003742727532_15653508_1706x960.jpg",
-        "tags": [
-            "contenido patrocinado",
-            "recomendados",
-            "empresas",
-            "cataluña"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/recomendados/20260128/isdin-nigyar-makhmudova-presidenta-ejecutiva-consejo-administracion/1003742727531_0.html",
-        "date": "2026-01-28 17:31:26",
-        "sentiment_score": 0.6490796394646168
-    },
-    {
-        "title": "Adif habilita alternativas para trenes de mercancías tras el corte en el túnel de Rubí (Barcelona)",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260128183106_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-adif-habilita-alternativas-trenes-mercancias-corte-tunel-rubi-barcelona-20260128183106.html",
-        "date": "2026-01-28 17:31:06",
-        "sentiment_score": -0.8605997655540705
-    },
-    {
-        "title": "El presidente del Senado amenaza a Sánchez con \"consecuencias jurídicas\" si no comparece por la tragedia de Adamuz",
-        "image_url": "https://www.elplural.com/uploads/s1/24/38/20/2/diseno-sin-titulo-90_7_480x270.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elplural.com/politica/espana/presidente-senado-amenaza-sanchez-consecuencias-juridicas-si-no-comparece-tragedia-adamuz_379981102",
-        "date": "2026-01-28 17:29:00",
-        "sentiment_score": -0.09501740336418152
-    },
-    {
-        "title": "El mal tiempo causa dos cancelaciones y dos desvíos de vuelos en los aeropuertos de Baleares",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260128182628_120.jpg",
-        "tags": [
-            "islas baleares"
-        ],
-        "link": "https://www.europapress.es/illes-balears/noticia-mal-tiempo-causa-dos-cancelaciones-dos-desvios-vuelos-aeropuertos-baleares-20260128182628.html",
-        "date": "2026-01-28 17:26:28",
-        "sentiment_score": -0.8499034717679024
-    },
-    {
         "title": "El Athletic muere en la orilla",
         "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/28/athletic-sporting-kAlG-U20401524835xNF-1200x840@RC.jpg",
         "tags": [
@@ -3304,5 +3095,174 @@ export default [
         "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20260201/crisis-alquiler-empeora-tercio-inmobiliarias-no-capta-pisos-perder-viviendas-anos/1003744110396_0.html",
         "date": "2026-02-01 01:38:51",
         "sentiment_score": -0.6739954724907875
+    },
+    {
+        "title": "Osasuna - Villarreal, la prórroga: pregúntale a la IA",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/60877b29-9366-4223-8767-a9f1df546184_16-9-aspect-ratio_default_0_x354y706.jpg",
+        "tags": [
+            "osasuna",
+            "ia",
+            "preguntale",
+            "prorroga",
+            "villarreal"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/01/osasuna-villarreal-prorroga-preguntale-ia-10643383.html",
+        "date": "2026-02-01 06:45:22",
+        "sentiment_score": -0.9032313963398337
+    },
+    {
+        "title": "Aragón, entre Ohio y Victoria: una economía bisagra en plena ebullición",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9367a763-6947-4b5c-a395-ef4fb2639b73_16-9-discover-aspect-ratio_default_0_x645y286.jpg",
+        "tags": [
+            "aragón",
+            "zaragoza"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260201/aragon-entre-ohio-y-victoria-una-economia-bisagra-en-plena-ebullicion-126314411",
+        "date": "2026-02-01 06:28:29",
+        "sentiment_score": -0.16517867147922516
+    },
+    {
+        "title": "Paco Guerrero: de cuidar guarros a servir en los principales hoteles de lujo",
+        "image_url": "https://static.grupojoly.com/clip/478ed39c-204a-46cc-ae01-4e237bd01bcc_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias málaga"
+        ],
+        "link": "https://www.malagahoy.es/marbella/paco-guerrero-cuidar-guarros-servir_0_2005779796.html",
+        "date": "2026-02-01 06:04:26",
+        "sentiment_score": -0.002277761697769165
+    },
+    {
+        "title": "Cocido madrileño: el plato de los tres vuelcos que aspira ser Bien de Interés Cultural",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dbe319a6-7e08-4ceb-8446-819151bec4da_16-9-aspect-ratio_default_0_x609y270.jpg",
+        "tags": [
+            "bien de interés cultural",
+            "invierno",
+            "cocina",
+            "madrid"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2026/02/01/cocido-madrileno-plato-tres-vuelcos-malaga-126256029.html",
+        "date": "2026-02-01 06:02:06",
+        "sentiment_score": 0.1669318825006485
+    },
+    {
+        "title": "Carlos Martínez, candidato socialista a la Presidencia de la Junta: \"Lo del AVE de Sanabria fue un error, se resolverá en semanas\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/717ed1e9-5b88-4282-82e7-7e7bf09f26d5_16-9-aspect-ratio_default_0_x609y270.jpg",
+        "tags": [
+            "castilla y león,soria,sanabria,comunidad"
+        ],
+        "link": "https://www.laopiniondezamora.es/zamora/2026/02/01/carlos-martinez-candidato-socialista-presidencia-126307020.html",
+        "date": "2026-02-01 06:00:53",
+        "sentiment_score": -0.7118971198797226
+    },
+    {
+        "title": "Tenerife abre la carrera por el 'play off' al Baskonia",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2715e53b-29a1-4043-9f22-7a8da953767f_16-9-aspect-ratio_default_0_x728y779.jpg",
+        "tags": [
+            "off",
+            "play",
+            "carrera",
+            "tenerife",
+            "abre"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/01/tenerife-abre-carrera-play-off-10642587.html",
+        "date": "2026-02-01 06:00:49",
+        "sentiment_score": 0.21817471832036972
+    },
+    {
+        "title": "La daimieleña Elvira Pérez de Madrid sacude la pasarela sevillana We Love Flamenco con su estilo rockero",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/Elvira-Perez-de-Madrid-resized.jpg",
+        "tags": [
+            "desfile",
+            "provincia de ciudad real",
+            "flamenco",
+            "sociedad",
+            "rock",
+            "moda",
+            "daimiel"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/la-daimielena-elvira-perez-de-madrid-sacude-la-pasarela-sevillana-we-love-flamenco-con-su-estilo-rockero/",
+        "date": "2026-02-01 06:00:00",
+        "sentiment_score": 0.028649955987930298
+    },
+    {
+        "title": "Francisco Rabal revive por su centenario: una estatua a tamaño real y un año de homenajes",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/29/697bb4d8604a5.jpeg",
+        "tags": [
+            "lorca - águilas"
+        ],
+        "link": "https://www.cope.es/emisoras/region-de-murcia/murcia-provincia/lorca/noticias/francisco-rabal-revive-centenario-estatua-tamano-real-ano-homenajes-20260201_3297451.html",
+        "date": "2026-02-01 06:00:00",
+        "sentiment_score": 0.04328209161758423
+    },
+    {
+        "title": "¿Podrá el Real Madrid contra el Rayo Vallecano en el Bernabéu? Lo puedes ver en directo por menos de lo que crees",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2026/01/29/697a9deb06bce.r_d.1771-1041.jpeg",
+        "tags": [
+            "elrecomendador"
+        ],
+        "link": "https://www.mundodeportivo.com/elrecomendador/20260201/1002610917/podra-real-madrid-rayo-vallecano-bernabeu-puedes-ver-directo-crees-mkt-dasp.html",
+        "date": "2026-02-01 05:50:00",
+        "sentiment_score": -0.6395275145769119
+    },
+    {
+        "title": "El Bernabéu examinará a Mbappé y compañía tras el incendio de Lisboa",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/01/2026020106481858486.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/bernabeu-examinara-mbappe-compania-incendio-lisboa/20260201064901372948.html",
+        "date": "2026-02-01 05:49:01",
+        "sentiment_score": -0.8580763060599566
+    },
+    {
+        "title": "Roka Furadada: más de 8 millones de euros para sus cremas solares inteligentes",
+        "image_url": "https://static1.ara.cat/clip/f602a56c-f8c6-4d57-b925-0f36cd80537e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "roka",
+            "cremas",
+            "solares",
+            "euros",
+            "furadada",
+            "inteligentes",
+            "8",
+            "millones"
+        ],
+        "link": "https://es.ara.cat/economia/empresas/roka-furadada-8-millones-euros-cremas-solares-inteligentes_1_5634842.html",
+        "date": "2026-02-01 06:46:52",
+        "sentiment_score": 0.10744667053222656
+    },
+    {
+        "title": "El pueblo de Barcelona con solo 200 habitantes donde se esconden auténticos tesoros culinarios",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/06718f35-6fd0-49ba-977f-fb1b07f2b636_16-9-discover-aspect-ratio_default_0_x652y312.jpg",
+        "tags": [
+            "restaurante",
+            "gastronomía",
+            "historia",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/catalunya/20260201/pueblos-cataluna-barcelona-restaurantes-pujalt-anoia-rutas-dv-loc-126263564",
+        "date": "2026-02-01 06:41:00",
+        "sentiment_score": 0.8177997712045908
+    },
+    {
+        "title": "El plan de Puente de llevar el AVE a 350 km/h hace temblar a los expertos: \"Con esta vía es una locura\"",
+        "image_url": "https://s1.staticld.com/2026/01/30/europapress-7253415-ministro-transportes-movilidad-sostenible-oscar-puente-pleno-extraordinario.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.libertaddigital.com/espana/politica/2026-02-01/el-plan-de-puente-de-llevar-el-ave-a-350-km-h-hace-temblar-a-los-expertos-con-esta-via-es-una-locura-7351992/",
+        "date": "2026-02-01 06:36:51",
+        "sentiment_score": -0.7718789204955101
+    },
+    {
+        "title": "Vanguardias en la agonía del franquismo",
+        "image_url": "https://static.grupojoly.com/clip/0beba1b0-5ae1-45ba-93f5-9db9cbfe0b28_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "con silencio vibrante",
+            "taller sonoro"
+        ],
+        "link": "https://www.diariodealmeria.es/ocio/taller-sonoro-con-silencio-vibrante_0_2005782245.html",
+        "date": "2026-02-01 06:15:39",
+        "sentiment_score": 0.2301274761557579
     }
 ];
