@@ -1,21 +1,5 @@
 export default [
     {
-        "title": "Delcy Rodríguez, del diálogo con EEUU a las advertencias: ¿un cambio real o un mensaje solo para audiencias chavistas?",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/f80fa2cfe9e34574be4f3682c8143529bb939217w.jpg",
-        "tags": [
-            "usa",
-            "actualidad",
-            "mensaje",
-            "delcy rodriguez",
-            "eeuu",
-            "nacionales",
-            "chavistas"
-        ],
-        "link": "https://lapatilla.com/2026/01/28/delcy-rodriguez-del-dialogo-con-eeuu-a-las-advertencias-un-cambio-real-o-un-mensaje-solo-para-audiencias-chavistas/",
-        "date": "2026-01-28 11:17:45",
-        "sentiment_score": -0.11945667862892151
-    },
-    {
         "title": "Cuartos de final de la Copa del Rey: Mira aquí todos los juegos gratis",
         "image_url": "https://pxcdn.meridiano.net/012026/1769621703161.jpg?ch=180&cw=320",
         "tags": [
@@ -3117,5 +3101,208 @@ export default [
         "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-daddy-yankee-es-homenajeado-por-autoridades-puertorrique%C3%B1as",
         "date": "2026-01-31 19:46:43",
         "sentiment_score": 0.7756133712828159
+    },
+    {
+        "title": "A cuatro patas y encima de una joven inerme: las fotos del príncipe Andrés le coronan como la \"vergüenza nacional\"",
+        "image_url": "https://s3.elespanol.com/2026/01/31/actualidad/1003744111871_261195121_1706x960.jpg",
+        "tags": [
+            "europa",
+            "jeffrey epstein",
+            "estados unidos",
+            "casa real",
+            "reino unido",
+            "gran bretaña"
+        ],
+        "link": "https://www.elespanol.com/mundo/europa/20260201/patas-encima-joven-inerme-fotos-principe-andres-coronan-verguenza-nacional/1003744111864_0.html",
+        "date": "2026-02-01 02:03:37",
+        "sentiment_score": -0.8822497706860304
+    },
+    {
+        "title": "Este chef de Ciudad Real ha ganado un premio nacional",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/02/01/2026020102540738224.jpg",
+        "tags": [
+            "gourmet"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/gourmet/chef-ciudad-real-ha-ganado-premio-nacional/202602010254141001194.html",
+        "date": "2026-02-01 01:54:14",
+        "sentiment_score": 0.5094650238752365
+    },
+    {
+        "title": "24 horas en la campaña de Azcón: \"En las elecciones de Aragón se vota cómo parar al independentismo catalán\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/fb6d7adbccce048b370208c8b955a7b8/crop/2x0/1024x1022/f/image/jpeg/assets/multimedia/imagenes/2024/01/15/17053356313045.jpg",
+        "tags": [
+            "pp",
+            "pilar alegría",
+            "jorge azcón",
+            "elecciones aragón",
+            "artículos juanma lamet",
+            "vox",
+            "psoe"
+        ],
+        "link": "https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/01/697e2128e85ece63408b4570.html",
+        "date": "2026-02-01 01:14:52",
+        "sentiment_score": -0.9305886328220367
+    },
+    {
+        "title": "Las 'Silvias', las madrileñas que venden casas de lujo por 2 millones de euros en Madrid: \"El cliente rico no es caprichoso\"",
+        "image_url": "https://s3.elespanol.com/2026/01/28/actualidad/1003744107563_261138164_1706x960.jpg",
+        "tags": [
+            "lujo",
+            "sociedad",
+            "inmobiliarias",
+            "inmuebles"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20260201/silvias-madrilenas-venden-casas-lujo-millones-euros-madrid-cliente-rico-no-caprichoso/1003744107555_0.html",
+        "date": "2026-02-01 01:00:00",
+        "sentiment_score": 0.18115650117397308
+    },
+    {
+        "title": "Jordi Colomer, artista: “El turismo de monumento uniformiza las ciudades”",
+        "image_url": "https://s3.elespanol.com/2026/01/19/actualidad/1003744095688_260990288_1706x960.jpg",
+        "tags": [
+            "galerías de arte",
+            "madrid",
+            "exposiciones",
+            "entrevistas",
+            "arte"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20260201/jordi-colomer-artista-turismo-monumento-uniformiza-ciudades/1003744095637_0.html",
+        "date": "2026-02-01 00:55:00",
+        "sentiment_score": 0.01108241081237793
+    },
+    {
+        "title": "Gaza o el \"documental más duro\" del director Hernán Zin: \"La gente tiene que saber que se mata a niños\"",
+        "image_url": "https://s3.elespanol.com/2026/01/29/actualidad/1003744109228_261160095_1706x960.jpg",
+        "tags": [
+            "referentes",
+            "justicia e instituciones sólidas",
+            "franja de gaza",
+            "palestina",
+            "objetivo 16: paz",
+            "guerra"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/referentes/20260201/gaza-documental-duro-director-hernan-zin-gente-saber-mata-ninos/1003744109141_0.html",
+        "date": "2026-02-01 00:45:00",
+        "sentiment_score": -0.45895617455244064
+    },
+    {
+        "title": "Venezolanos en Madrid exigieron hechos reales tras anuncio de amnistía: \"Hasta ahora va todo muy lento\"",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/31203718/Venezolanos-Amnistia.jpg",
+        "tags": [
+            "venezolanos en madrid",
+            "ley de amnistía",
+            "delcy rodríguez",
+            "presos políticos",
+            "mundo",
+            "europa"
+        ],
+        "link": "https://www.elnacional.com/2026/01/venezolanos-en-madrid-exigieron-hechos-reales-tras-anuncio-de-amnistia/",
+        "date": "2026-02-01 00:40:59",
+        "sentiment_score": -0.7364701572805643
+    },
+    {
+        "title": "Qué fue de Eva Sannum, la modelo noruega que enamoró al joven príncipe Felipe y revolucionó la Casa Real",
+        "image_url": "https://s3.elespanol.com/2026/01/28/actualidad/1003744107846_261141623_1706x960.jpg",
+        "tags": [
+            "famosos",
+            "noruega",
+            "casa real",
+            "felipe vi",
+            "celebrities",
+            "reina letizia",
+            "familia real"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20260201/eva-sannum-modelo-noruega-enamoro-joven-principe-felipe-revoluciono-casa-real/1003744107720_0.html",
+        "date": "2026-02-01 00:33:00",
+        "sentiment_score": -0.15869194269180298
+    },
+    {
+        "title": "31 ENE 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/31-ene-2026-tramo-final-juego-20260201_3298543.html",
+        "date": "2026-02-01 00:15:00",
+        "sentiment_score": 0.2699786499142647
+    },
+    {
+        "title": "\"El juez les ha dado con las puertas en las narices\": Laporta arremete contra el Real Madrid",
+        "image_url": "https://pxcdn.2001online.com/2001/012026/1769904405928/fermin-lopez-renueva-con-barcelona.jpg?ch=675&cw=1200",
+        "tags": [
+            "caso negreira",
+            "negreira",
+            "fc barcelona",
+            "florentino pérez",
+            "joan laporta",
+            "real madrid",
+            "españa",
+            "laliga"
+        ],
+        "link": "https://2001online.com/deportes/el-juez-les-ha-dado-con-las-puertas-en-las-narices-laporta-arremete-contra-el-real-madrid-202613120450",
+        "date": "2026-02-01 00:11:30",
+        "sentiment_score": -0.6950946636497974
+    },
+    {
+        "title": "Las últimas previsiones para Barcelona: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
+        "tags": [
+            "últimas actualizaciones",
+            "clima",
+            "clima en españa",
+            "clima en barcelona"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/01/las-ultimas-previsiones-para-barcelona-temperatura-lluvias-y-viento/",
+        "date": "2026-02-01 02:16:10",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Más privilegios",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "privilegios"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/privilegios_0_2005781857.html",
+        "date": "2026-02-01 02:13:28",
+        "sentiment_score": -0.5399594157934189
+    },
+    {
+        "title": "Cercanías Bilbao firma los mejores datos del Estado",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/dd307e6c-9535-44be-a28c-584f0c18c0fa_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "bilbao",
+            "firma",
+            "datos",
+            "cercanias",
+            "mejores"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/sociedad/2026/02/01/cercanias-bilbao-firma-mejores-datos-10631321.html",
+        "date": "2026-02-01 02:06:14",
+        "sentiment_score": 0.30163902789354324
+    },
+    {
+        "title": "Flick resta importancia a las ocasiones falladas y elogia a Lamine: \"Es muy importante\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/01/image-50f1f216-e3f9-4528-95bb-c7c549a24a03-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "entertainment"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/declaraciones-flick-ocasiones-falladas-elche-barcelona-nivel-lamine-yamal_vid60051783/video.shtml",
+        "date": "2026-02-01 01:55:10",
+        "sentiment_score": 0.47988320887088776
+    },
+    {
+        "title": "La crisis del alquiler empeora: un tercio de inmobiliarias ya no capta pisos tras perder casi 130.000 viviendas en dos años",
+        "image_url": "https://s3.elespanol.com/2026/01/30/actualidad/1003744110437_261175600_1706x960.jpg",
+        "tags": [
+            "gobierno de españa",
+            "observatorio de la vivienda",
+            "ley de vivienda",
+            "alquiler de viviendas",
+            "inmobiliarias"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20260201/crisis-alquiler-empeora-tercio-inmobiliarias-no-capta-pisos-perder-viviendas-anos/1003744110396_0.html",
+        "date": "2026-02-01 01:38:51",
+        "sentiment_score": -0.6739954724907875
     }
 ];
