@@ -18,21 +18,6 @@ export default [
         "sentiment_score": -0.04865662753582001
     },
     {
-        "title": "Corte de apelaciones dice que el fin del TPS para los venezolanos fue ilegal",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/el-7-de-noviembre-entrara-en-vig.jpg",
-        "tags": [
-            "usa",
-            "tps",
-            "nacionales",
-            "actualidad",
-            "internacionales",
-            "corte de apelaciones"
-        ],
-        "link": "https://lapatilla.com/2026/01/29/corte-de-apelaciones-dice-que-el-fin-del-tps-para-los-venezolanos-fue-ilegal/",
-        "date": "2026-01-29 11:51:54",
-        "sentiment_score": -0.8414604412391782
-    },
-    {
         "title": "El campo madrileño agredece el apoyo de Ayuso en Mercosur y le exige medidas contra la plaga de conejos",
         "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/29/697b9a1e8fc481-39731344.jpeg",
         "tags": [
@@ -3136,5 +3121,202 @@ export default [
         "link": "https://www.laopiniondemurcia.es/fotos/deportes/2026/02/01/imagenes-epica-victoria-ucam-murcia-126338116.html",
         "date": "2026-02-01 22:18:15",
         "sentiment_score": -0.036103636026382446
+    },
+    {
+        "title": "Agenda: qué hacer hoy lunes 2 de febrero en Asturias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/db95451b-6fa7-405e-a6a2-0182328ccf40_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "teatro",
+            "horario",
+            "asturias",
+            "exposición"
+        ],
+        "link": "https://www.lne.es/asturias/2026/02/02/agenda-hoy-lunes-2-febrero-126334145.html",
+        "date": "2026-02-02 02:08:51",
+        "sentiment_score": 0.02486613392829895
+    },
+    {
+        "title": "Edad de Plata",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "edad",
+            "plata"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/edad-plata_0_2005795262.html",
+        "date": "2026-02-02 02:06:29",
+        "sentiment_score": -0.02788013219833374
+    },
+    {
+        "title": "Atlético de Madrid anuncia acuerdo con Atalanta por el delantero nigeriano Ademola Lookman",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/eb1470e/2147483647/strip/true/crop/2604x1367+0+184/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd5%2F23%2Fa457928343e5b5d44fe88be61327%2Fd67df8b8bc03457ea4ff9bdf49ed48df.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-01/atletico-de-madrid-anuncia-acuerdo-con-atalanta-por-el-delantero-nigeriano-ademola-lookman",
+        "date": "2026-02-02 01:52:36",
+        "sentiment_score": 0.3445834591984749
+    },
+    {
+        "title": "Orlando enviaba cientos de archivos pedófilos \"de extrema crudeza\" a Juan José, pero están en libertad: \"¡Ey! ¿Tienes más?\"",
+        "image_url": "https://s3.elespanol.com/2026/02/01/actualidad/1003744112224_261200214_1706x1280.jpg",
+        "tags": [
+            "tribunales",
+            "policía nacional",
+            "menores",
+            "comunidad valenciana",
+            "alicante (ciudad)",
+            "madrid",
+            "reportajes",
+            "alcoi-alcoy",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260202/orlando-enviaba-cientos-archivos-pedofilos-extrema-crudeza-juan-jose-libertad-ey/1003744112213_0.html",
+        "date": "2026-02-02 01:50:16",
+        "sentiment_score": -0.8155223987996578
+    },
+    {
+        "title": "El abogado de los afectados por la talidomida demanda a 15 víctimas para cobrar 1,5 millones de su indemnización",
+        "image_url": "https://s3.elespanol.com/2022/03/08/espana/tribunales/655695449_222517759_1706x960.jpg",
+        "tags": [
+            "observatorio de la sanidad",
+            "abogados",
+            "enfermedades",
+            "enfermedades raras",
+            "españa",
+            "sanidad"
+        ],
+        "link": "https://www.elespanol.com/espana/20260202/abogado-afectados-talidomida-demanda-victimas-cobrar-millones-indemnizacion/1003744094603_0.html",
+        "date": "2026-02-02 01:50:12",
+        "sentiment_score": -0.9253763612359762
+    },
+    {
+        "title": "Impensado escándalo con Cristiano Ronaldo en Arabia Saudita: el motivo por el que decidió negarse a jugar",
+        "image_url": "https://www.infobae.com/resizer/v2/QH42MXQ5VFAXRFFDEQZQHQQNMI.JPG?auth=5233b5f480764258b6cbb781535de8414cda288ce609452ea539ace56cf6af3a&height=1466&smart=true&width=2153",
+        "tags": [
+            "fondo de inversión pública de arabia saudita",
+            "liga saudita",
+            "al nassr",
+            "deportes-argentina",
+            "al hilal",
+            "cristiano ronaldo"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/02/impensado-escandalo-con-cristiano-ronaldo-en-arabia-saudita-el-motivo-por-el-que-decidio-negarse-a-jugar/",
+        "date": "2026-02-02 01:25:00",
+        "sentiment_score": -0.4243158735334873
+    },
+    {
+        "title": "Atlético de Madrid anuncia acuerdo con Atalanta por el delantero nigeriano Ademola Lookman",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2026/02/LIGA_DE_CAMPEONES_57439.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.bostonherald.com/2026/02/01/atltico-de-madrid-anuncia-acuerdo-con-atalanta-por-el-delantero-nigeriano-ademola-lookman/",
+        "date": "2026-02-02 01:24:16",
+        "sentiment_score": 0.24935432523488998
+    },
+    {
+        "title": "El Atlético cierra a Ademola Lookman y gana una batalla de fondo",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/04/2025070401435728911.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/atletico-cierra-ademola-lookman-gana-batalla-fondo/20260202022344373065.html",
+        "date": "2026-02-02 01:23:44",
+        "sentiment_score": 0.8401230257004499
+    },
+    {
+        "title": "Merino, golpe seco al Arsenal y alarma real para España de cara al Mundial",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/20/2025032023071096027.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/merino-golpe-seco-arsenal-alarma-real-espana-cara-mundial/20260202021555373064.html",
+        "date": "2026-02-02 01:15:55",
+        "sentiment_score": -0.9269913006573915
+    },
+    {
+        "title": "Una entidad catalanista ataca a un cantante ibicenco por hablar en español y Vox presenta una moción",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/02/01/697f84a972f02.jpeg",
+        "tags": [
+            "baleares"
+        ],
+        "link": "https://www.eldebate.com/espana/baleares/20260202/entidad-catalanista-ataca-cantante-ibicenco-hablar-espanol-vox-presenta-mocion_380539.html",
+        "date": "2026-02-02 02:00:00",
+        "sentiment_score": -0.7761209290474653
+    },
+    {
+        "title": "Laia Sabaté, psicóloga: \"Somos jóvenes con fobia a pasarlo mal, nuestros padres tenían claro que la vida es alegría y dolor\"",
+        "image_url": "https://s3.elespanol.com/2026/01/30/actualidad/1003744111277_261186969_1706x960.jpg",
+        "tags": [
+            "salud",
+            "psicología",
+            "salud mental"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20260202/laia-sabate-psicologa-jovenes-fobia-pasarlo-mal-padres-claro-vida-alegria-dolor/1003744111175_0.html",
+        "date": "2026-02-02 01:50:19",
+        "sentiment_score": -0.7147267609834671
+    },
+    {
+        "title": "Policías Antifascistas, el grupo lanzado por un mosso para unir a agentes de izquierdas: \"Nos ha contactado mucho guardia civil\"",
+        "image_url": "https://s3.elespanol.com/2026/01/30/actualidad/1003744111403_261189053_1706x960.jpg",
+        "tags": [
+            "policía nacional",
+            "reportajes",
+            "españa",
+            "guardia civil",
+            "policía local",
+            "mozos de escuadra (mossos d'esquadra)"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260202/policias-antifascistas-grupo-lanzado-mosso-unir-agentes-izquierdas-contactado-guardia-civil/1003744110889_0.html",
+        "date": "2026-02-02 01:50:12",
+        "sentiment_score": -0.751324076205492
+    },
+    {
+        "title": "Los exministros José Blanco y Alfonso Alonso venden Acento a Havas tras superar los 10M de facturación como lobistas",
+        "image_url": "https://s3.elespanol.com/2022/07/27/invertia/empresas/690941114_226085191_1706x960.jpg",
+        "tags": [
+            "josé blanco lópez",
+            "alfonso alonso",
+            "medios",
+            "lobby"
+        ],
+        "link": "https://www.elespanol.com/invertia/medios/20260202/exministros-jose-blanco-alfonso-alonso-venden-acento-havas-superar-facturacion-lobistas/1003744110820_0.html",
+        "date": "2026-02-02 01:40:56",
+        "sentiment_score": 0.1702319085597992
+    },
+    {
+        "title": "Andino estrenará su primera terminal de carga en Barajas el 10 de marzo y ultima acuerdos con aerolíneas",
+        "image_url": "https://s3.elespanol.com/2026/01/13/actualidad/1003744088210_260897184_1706x960.jpg",
+        "tags": [
+            "turismo",
+            "aena",
+            "aeropuerto adolfo suárez (madrid-barajas)"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/turismo/20260202/andino-estrenara-primera-terminal-carga-barajas-marzo-ultima-acuerdos-aerolineas/1003744107473_0.html",
+        "date": "2026-02-02 01:40:50",
+        "sentiment_score": 0.4276151806116104
+    },
+    {
+        "title": "El imperio de Jhosef Arias, de \"quedarse sin papeles\" a ser el chef con más restaurantes peruanos en España",
+        "image_url": "https://s3.elespanol.com/2025/05/07/actualidad/1003743745650_261175849_1706x960.jpg",
+        "tags": [
+            "restaurantes",
+            "ocio",
+            "perú"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20260202/imperio-jhosef-arias-quedarse-sin-papeles-chef-restaurantes-peruanos-espana/1003744110436_0.html",
+        "date": "2026-02-02 01:00:00",
+        "sentiment_score": 0.5538391321897507
+    },
+    {
+        "title": "01 FEB 2026 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/01-feb-2026-tertulion-domingos-20260202_3298716.html",
+        "date": "2026-02-02 00:58:16",
+        "sentiment_score": -0.3497210741043091
     }
 ];
