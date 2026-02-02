@@ -1,391 +1,5 @@
 export default [
     {
-        "title": "El Athletic muere en la orilla",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/28/athletic-sporting-kAlG-U20401524835xNF-1200x840@RC.jpg",
-        "tags": [
-            "athletic de bilbao",
-            "champions league"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-campeones/cronica-athletic-sporting-champions-jornada8-20260128193918-ntrc.html",
-        "date": "2026-01-28 22:33:20",
-        "sentiment_score": -0.8751324191689491
-    },
-    {
-        "title": "Crónica del SL Benfica - Real Madrid: 4-2",
-        "image_url": "https://www.infobae.com/resizer/v2/BABLIMSD4FBNDBBNIUQN7SNIRM.jpg?auth=d7154616918625c419b78f9da812708018fb41af6dd146063867e1a019d139a8&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/28/cronica-del-sl-benfica-real-madrid-4-2/",
-        "date": "2026-01-28 22:31:09",
-        "sentiment_score": -0.04093273729085922
-    },
-    {
-        "title": "El Barça cumple y se asegura el top 8 de la Champions (4-1)",
-        "image_url": "https://cflvdg.avoz.es/sc/wXz3XMy4Az1qqryZGsna14g0FKU=/768x/2026/01/28/00121769637961798841499/Foto/reu_20260128_220106443.jpg",
-        "tags": [
-            "deportes",
-            "fc barcelona",
-            "champions league"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/28/barca-cumple-asegura-top-8-champions-4-1/00031769639154626458359.htm",
-        "date": "2026-01-28 22:31:00",
-        "sentiment_score": 0.34127042442560196
-    },
-    {
-        "title": "Solamente el Barcelona remonta y gana: la última jornada de Champions castiga mucho a España",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2706016.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.vozpopuli.com/deportes/solamente-el-barcelona-remonta-y-gana-la-ultima-jornada-de-champions-castiga-mucho-a-espana.html",
-        "date": "2026-01-28 22:29:54",
-        "sentiment_score": -0.43630101159214973
-    },
-    {
-        "title": "El Real Madrid se queda sin 'Top 8' en la tormenta de Lisboa",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/4671edc5-bb3a-4077-b64b04a74348ee07.jpg",
-        "tags": [
-            "josé mourinho",
-            "thibaut courtois",
-            "jude bellingham",
-            "kylian mbappé",
-            "lisboa",
-            "bilbao",
-            "aurélien tchouaméni",
-            "real madrid",
-            "champions league",
-            "vinícius júnior",
-            "fede valverde",
-            "benfica"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z0c526ea4-2bb6-47fe-b019cdfdb2911ee1/202601/el-real-madrid-se-queda-sin-top-8-en-la-tormenta-de-lisboa",
-        "date": "2026-01-28 22:27:42",
-        "sentiment_score": -0.7700554132461548
-    },
-    {
-        "title": "Arbeloa no busca excusas tras quedar fuera del 'top-8' de la Champions League: \"Prefiero no hablar del árbitro; soy totalmente responsable\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/arbeloa-busca-excusas-quedar-fuera-top-8-champions-league-prefiero-hablar-arbitro-totalmente-responsable-20260128_3296601.html",
-        "date": "2026-01-28 22:27:07",
-        "sentiment_score": -0.07987934350967407
-    },
-    {
-        "title": "La empresa española que usa la IA para enseñar a los médicos a “humanizar” la relación con los pacientes, reconocida en México",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a7f0c63d-aa07-44ab-93c1-9fb98ca05a19_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "pacientes",
-            "asturias",
-            "méxico",
-            "médicos"
-        ],
-        "link": "https://www.lne.es/asturias-exterior/2026/01/28/empresa-espanola-ia-ensenar-medicos-126202963.html",
-        "date": "2026-01-28 22:27:05",
-        "sentiment_score": -0.1927202343940735
-    },
-    {
-        "title": "Mourinho y Trubin mandan al Real Madrid a la repesca de la Champions (4-2)",
-        "image_url": "https://cflvdg.avoz.es/sc/a1rBrflTVC-idxvyPWjWtAQipIk=/768x/2026/01/28/00121769637361939935636/Foto/GE29P34F4_225445.jpg",
-        "tags": [
-            "real madrid",
-            "champions league",
-            "mourinho",
-            "deportes",
-            "benfica"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/28/mourinho-trubin-mandan-real-madrid-repesca-champions-4-2/00031769638854018636895.htm",
-        "date": "2026-01-28 22:24:00",
-        "sentiment_score": -0.16147589683532715
-    },
-    {
-        "title": "Así queda la clasificación de la fase de liga de la Champions League: qué equipos pasan a octavos y quiénes juegan los playoffs",
-        "image_url": "https://okdiario.com/img/2026/01/27/gettyimages-2257482119-1-1.jpg",
-        "tags": [
-            "champions league",
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://okdiario.com/deportes/asi-queda-clasificacion-fase-liga-champions-league-que-equipos-pasan-octavos-quienes-juegan-playoffs-16152156",
-        "date": "2026-01-28 22:22:35",
-        "sentiment_score": 0.06595511734485626
-    },
-    {
-        "title": "Mourinho clasifica al Benfica, saca del Top-8 al Real Madrid y retrata a Arbeloa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e12c800e-722d-4878-a004-4f8879fc315e_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "real madrid",
-            "champions league",
-            "benfica"
-        ],
-        "link": "https://www.laopiniondemalaga.es/deportes/2026/01/28/benfica-real-madrid-resumen-resultado-champions-league-futbol-126203103.html",
-        "date": "2026-01-28 22:20:55",
-        "sentiment_score": -0.2219356894493103
-    },
-    {
-        "title": "Remontada, carácter y mensaje: el Barça vuelve a creer en la Champions",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/28/2026012823310041274.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/remontada-caracter-mensaje-barca-vuelve-creer-champions/20260128233141372551.html",
-        "date": "2026-01-28 22:31:41",
-        "sentiment_score": 0.5691428780555725
-    },
-    {
-        "title": "Crónica del FC Barcelona - Copenhagen: 4-1",
-        "image_url": "https://www.infobae.com/resizer/v2/YBCLNORXA5HEDMTW37Y7VRJV2M.jpg?auth=c9eb1ff9866187684c841deb0123bd44b84b35f084cf8c45782a626e3afc1a09&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/28/cronica-del-fc-barcelona-copenhagen-4-1/",
-        "date": "2026-01-28 22:30:33",
-        "sentiment_score": -0.03269708901643753
-    },
-    {
-        "title": "Metrópolis, la puerta giratoria de Janet Sanz que los comunes subvencionaron con casi 400.000 euros",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/28/informacion-municipal/1003742727518_15653291_1706x960.jpg",
-        "tags": [
-            "janet sanz",
-            "urbanismo",
-            "información municipal",
-            "ada colau",
-            "subvenciones barcelona",
-            "ayuntamiento de barcelona",
-            "barcelona en comú"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260128/metropolis-puerta-giratoria-janet-sanz-comunes-subvencionaron-euros/1003742727387_0.html",
-        "date": "2026-01-28 22:30:00",
-        "sentiment_score": -0.11399010568857193
-    },
-    {
-        "title": "Barcelona contrata a un experto en cibercrimen tras un incremento de ataques de 'hackers' ligados a Rusia",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/28/vivir-en-barcelona/1003742727596_15654263_1706x960.jpg",
-        "tags": [
-            "jaume collboni",
-            "seguridad",
-            "estafas",
-            "contratos barcelona",
-            "ayuntamiento de barcelona",
-            "el pulso de la ciudad"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260128/barcelona-contrata-experto-cibercrimen-incremento-ataques-hackers-ligados-rusia/1003742727584_0.html",
-        "date": "2026-01-28 22:30:00",
-        "sentiment_score": -0.4811333119869232
-    },
-    {
-        "title": "El Barça bombardeó al Copenhague y se coló entre los mejores ocho de la Champions",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/fc-barcelona-vs-conpenhague.jpg",
-        "tags": [
-            "fc copenhague",
-            "deportes",
-            "champions league",
-            "fc barcelona",
-            "titulares",
-            "futbol"
-        ],
-        "link": "https://lapatilla.com/2026/01/28/el-barca-bombardeo-al-copenhague-y-se-colo-entre-los-mejores-ocho-de-la-champions/",
-        "date": "2026-01-28 22:27:59",
-        "sentiment_score": 0.49127790331840515
-    },
-    {
-        "title": "El Barça cumple y se asegura el 'top 8'",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/28/Clipboard-0237-klrF-U20401411971jaB-1200x840@RC.jpg",
-        "tags": [
-            "f.c. barcelona",
-            "champions league"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-campeones/cronica-barcelona-copenhague-champions-jornada8-20260128193346-ntrc.html",
-        "date": "2026-01-28 22:19:22",
-        "sentiment_score": 0.36456628143787384
-    },
-    {
-        "title": "Gol anotado por el portero en el descuento lleva al Benfica a octavos de final en la Champions",
-        "image_url": "https://dims.apnews.com/dims4/default/7201d27/2147483647/strip/true/crop/5974x3976+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc1%2F5a%2F88d02a1463666ab33e0f28ef22cf%2Fabaf1120c2a447bf82e111a178314f54",
-        "tags": [
-            "trubin gol portero benfica real madrid octavos final",
-            "sports",
-            "send to apple news",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/trubin-gol-portero-benfica-real-madrid-octavos-final-d98f30ca8e80c4975c3e57cf817b43c3",
-        "date": "2026-01-29 02:13:12",
-        "sentiment_score": -0.3285602554678917
-    },
-    {
-        "title": "Gol anotado por el portero en el descuento lleva al Benfica a octavos de final en la Champions",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/01/BENFICA-TRUBIN_02498.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2026/01/28/gol-anotado-por-el-portero-en-el-descuento-lleva-al-benfica-a-octavos-de-final-en-la-champions/",
-        "date": "2026-01-29 02:13:11",
-        "sentiment_score": -0.27007489651441574
-    },
-    {
-        "title": "Las 84 entidades de la Iglesia que impulsan la regularización de inmigrantes junto a Sortu y el PCE: \"Esto es Evangelio\"",
-        "image_url": "https://s3.elespanol.com/2026/01/28/actualidad/1003744107961_261143023_1706x960.jpg",
-        "tags": [
-            "pce",
-            "izquierda unida",
-            "psoe (partido socialista obrero español)",
-            "iglesia católica",
-            "reportajes",
-            "erc esquerra republicana de cataluña",
-            "inmigración",
-            "conferencia episcopal",
-            "podemos",
-            "gobierno de españa"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260129/entidades-iglesia-impulsan-regularizacion-inmigrantes-junto-sortu-pce-evangelio/1003744106086_0.html",
-        "date": "2026-01-29 01:49:03",
-        "sentiment_score": 0.3788227066397667
-    },
-    {
-        "title": "Feijóo acusa a Sánchez de “regalar la residencia” y tacha de cortina de humo la regularización masiva",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/29/2026012904075195500.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.mundiario.com/articulo/politica/feijoo-acusa-sanchez-regalar-residencia-tacha-cortina-humo-regularizacion-masiva/20260129023845372569.html",
-        "date": "2026-01-29 01:38:45",
-        "sentiment_score": -0.4469168409705162
-    },
-    {
-        "title": "La historia oculta: James Rodríguez fue ofrecido a un club sudamericano, pero la economía del equipo no alcanzó",
-        "image_url": "https://www.infobae.com/resizer/v2/NEJWASMQOFHZPHFQYYSG2IIWNE.jpg?auth=338bd000e2bf67168d4a2e751b417279737764831d31e0d16841dc5d934ddaf6&height=1080&smart=true&width=1920",
-        "tags": [
-            "millonarios",
-            "mls",
-            "james rodríguez",
-            "colombia-deportes",
-            "barcelona de ecuador",
-            "selección colombia"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/01/29/la-historia-oculta-james-rodriguez-fue-ofrecido-a-un-club-sudamericano-pero-la-economia-del-equipo-no-alcanzo/",
-        "date": "2026-01-29 01:25:10",
-        "sentiment_score": -0.015965640544891357
-    },
-    {
-        "title": "Pedro Valle, el guardia civil en prácticas que salvó la vida a un hombre en “18 minutos”: “Creían que estaba muerto\"",
-        "image_url": "https://s3.elespanol.com/2026/01/28/actualidad/1003744107803_261141136_1706x960.jpg",
-        "tags": [
-            "sociedad",
-            "sucesos",
-            "guardia civil"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20260129/pedro-valle-guardia-civil-practicas-salvo-vida-hombre-minutos-creian-muerto/1003744107780_0.html",
-        "date": "2026-01-29 01:00:00",
-        "sentiment_score": -0.8680208064615726
-    },
-    {
-        "title": "28 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/28-ene-2026-partidazo-cope-20260129_3296638.html",
-        "date": "2026-01-29 00:39:37",
-        "sentiment_score": 0.388057641685009
-    },
-    {
-        "title": "Tarjeta roja: Álvaro Arbeloa",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/29/culemania/real-madrid/1003742727643_15654981_1706x960.jpg",
-        "tags": [
-            "el mvp y las tarjetas de la jornada",
-            "álvaro arbeloa",
-            "real madrid"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/tarjetas-jornada/20260129/tarjeta-roja-alvaro-arbeloa/1003742727642_0.html",
-        "date": "2026-01-29 00:32:59",
-        "sentiment_score": -0.9162224428728223
-    },
-    {
-        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 29 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa sociedad",
-            "barcelona",
-            "noticias",
-            "españa noticias",
-            "tiempo en españa"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/29/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-29-de-enero/",
-        "date": "2026-01-29 02:15:35",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "Descarrilando a España",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "descarrilando",
-            "espana"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/descarrilando-espana_0_2005757646.html",
-        "date": "2026-01-29 02:06:58",
-        "sentiment_score": -0.22315549850463867
-    },
-    {
-        "title": "Gol y asistencia de Yamal llevan al Barcelona a los octavos de final de la Liga de Campeones",
-        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/c/be/cbebebfd-ff12-581e-bdf8-40058b2d1d3c/697ab69dc788a.image.jpg?resize=300%2C200",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://santamariatimes.com/ap/sports/gol-y-asistencia-de-yamal-llevan-al-barcelona-a-los-octavos-de-final-de-la/article_a71791d0-ce12-571e-8eff-8c56b3c14ec2.html",
-        "date": "2026-01-29 01:20:07",
-        "sentiment_score": 0.19536662101745605
-    },
-    {
-        "title": "Gol y asistencia de Yamal llevan al Barcelona a los octavos de final de la Liga de Campeones",
-        "image_url": "https://dims.apnews.com/dims4/default/ea6fd1c/2147483647/strip/true/crop/5145x3425+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd8%2F81%2F14212b1b826ef9da0f49d80e186e%2F7dfb85142239444ba313b982ee3ed943",
-        "tags": [
-            "barcelona lamine yamal copenhague champions league",
-            "sports",
-            "send to apple news",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/barcelona-lamine-yamal-copenhague-champions-league-253f105af92d97af4cc8690e937d54e6",
-        "date": "2026-01-29 01:20:07",
-        "sentiment_score": 0.7263594754040241
-    },
-    {
-        "title": "Gol y asistencia de Yamal llevan al Barcelona a los octavos de final de la Liga de Campeones",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top",
-            "entertainment"
-        ],
-        "link": "https://www.ctinsider.com/sports/article/gol-y-asistencia-de-yamal-llevan-al-barcelona-a-21321002.php",
-        "date": "2026-01-29 01:20:07",
-        "sentiment_score": 0.5807664729654789
-    },
-    {
-        "title": "La alta velocidad acumula más de 80 limitaciones a la velocidad \"estáticas\" desde la tragedia de Adamuz y la red convencional supera las 900",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
-        "tags": [
-            "artículos clara rojas"
-        ],
-        "link": "https://www.elmundo.es/economia/empresas/2026/01/29/697a6cd7e4d4d8940d8b459e.html",
-        "date": "2026-01-29 01:19:11",
-        "sentiment_score": -0.7118827011436224
-    },
-    {
-        "title": "Tarjeta amarilla: Jules Koundé",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/29/culemania/tarjetas-jornada/1003742727644_15655002_1706x960.jpg",
-        "tags": [
-            "champions league",
-            "jules koundé",
-            "barça",
-            "el mvp y las tarjetas de la jornada"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/tarjetas-jornada/20260129/tarjeta-amarilla-jules-kounde/1003742727637_0.html",
-        "date": "2026-01-29 00:34:36",
-        "sentiment_score": -0.887822481803596
-    },
-    {
         "title": "'Superjueves' de manifestación en Toledo: tractores y agricultores colapsarán la ciudad",
         "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/01/28/6979d47e78965.r_d.584-657-7294.jpeg",
         "tags": [
@@ -466,45 +80,6 @@ export default [
         "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/madrid-gastado-200-millones-mercado-pregunta-equipo-mejor-ano-pasado-20260129_3296636.html",
         "date": "2026-01-29 06:00:00",
         "sentiment_score": -0.12448588013648987
-    },
-    {
-        "title": "El restaurante de Asturias que ha enamorado a Ferran Adrià: \"Una de las mejores comidas de los últimos años\"",
-        "image_url": "https://s3.elespanol.com/2026/01/28/cocinillas/actualidad-gastronomica/1003744108124_261145411_1706x960.jpg",
-        "tags": [
-            "estrellas michelin",
-            "actualidad gastronómica",
-            "restaurantes",
-            "asturias",
-            "ferran adrià"
-        ],
-        "link": "https://www.elespanol.com/cocinillas/actualidad-gastronomica/20260129/restaurante-asturias-enamorado-ferran-adria-mejores-comidas-ultimos-anos/1003744107602_0.html",
-        "date": "2026-01-29 05:55:00",
-        "sentiment_score": 0.6696152240037918
-    },
-    {
-        "title": "Tocar la historia con las manos: una experiencia de formación en el Archivo de la Diputación de Segovia",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2026/01/29-01-FOTO-web.jpg",
-        "tags": [
-            "segovia",
-            "uva",
-            "universidad",
-            "educación"
-        ],
-        "link": "https://eladelantado.com/tocar-la-historia-con-las-manos-una-experiencia-de-formacion-en-el-archivo-de-la-diputacion-de-segovia/",
-        "date": "2026-01-29 05:15:24",
-        "sentiment_score": 0.1327117569744587
-    },
-    {
-        "title": "Tragedias que nos pasan de cerca",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/86dc0ac8-da7f-4cd8-a0ac-bf2546005746_16-9-discover-aspect-ratio_320w_0_x600y226.webp",
-        "tags": [
-            "palabras",
-            "explosión",
-            "televisión"
-        ],
-        "link": "https://www.laopiniondemurcia.es/opinion/2026/01/29/tragedias-pasan-cerca-126199976.html",
-        "date": "2026-01-29 05:01:14",
-        "sentiment_score": -0.2502429932355881
     },
     {
         "title": "Gonzalo Bernardos, economista, lanza la alerta: «Las pensiones serán...»",
@@ -3264,5 +2839,214 @@ export default [
         "link": "https://www.diariodealmeria.es/ocio/taller-sonoro-con-silencio-vibrante_0_2005782245.html",
         "date": "2026-02-01 06:15:39",
         "sentiment_score": 0.2301274761557579
+    },
+    {
+        "title": "San Siro: Explora la historia del mítico estadio que abrirá los Juegos Olímpicos de Invierno 2026 con el desfile de la delegación mexicana",
+        "image_url": "https://www.infobae.com/resizer/v2/J4TAMKL5YJDNTD4MO5GG7E6ATA.jpg?auth=29f8882a18b44b677e0c47d64ab84a26701273e6ccca461e86149fae7ccaea9a&height=4671&smart=true&width=7007",
+        "tags": [
+            "san siro",
+            "ceremonia de inauguración",
+            "juegos olímpicos de invierno",
+            "milán-cortina 2026",
+            "mexico-deportes"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2026/02/01/san-siro-explora-la-historia-del-mitico-estadio-que-abrira-los-juegos-olimpicos-de-invierno-2026-con-el-desfile-de-la-delegacion-mexicana/",
+        "date": "2026-02-01 17:53:37",
+        "sentiment_score": 0.1709473952651024
+    },
+    {
+        "title": "Arbeloa ya calienta el Valencia-Madrid: \"Jugarán el partido del año en su casa\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9923bdaf-774e-45a1-8c93-c53ad5937bd4_16-9-aspect-ratio_default_0_x684y303.jpg",
+        "tags": [
+            "valencia cf,el valencia,madrid,real madrid,vinícius,mestalla,rayo vallecano"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2026/02/01/arbeloa-calienta-valencia-madrid-jugaran-ano-126332603.html",
+        "date": "2026-02-01 17:51:54",
+        "sentiment_score": 0.09674228727817535
+    },
+    {
+        "title": "El Real Madrid no tiene piedad ante el Zaragoza y reafirma su liderato en la Liga Endesa",
+        "image_url": "https://s3.elespanol.com/2026/02/01/actualidad/1003744112295_261201128_1706x960.jpg",
+        "tags": [
+            "real madrid baloncesto",
+            "liga endesa",
+            "baloncesto",
+            "casademont zaragoza"
+        ],
+        "link": "https://www.elespanol.com/deportes/baloncesto/20260201/real-madrid-no-piedad-zaragoza-reafirma-liderato-liga-endesa/1003744112293_0.html",
+        "date": "2026-02-01 17:46:39",
+        "sentiment_score": 0.7159346044063568
+    },
+    {
+        "title": "Un penalti en el minuto 100 y dos expulsiones: las polémicas del Real Madrid - Rayo Vallecano",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/02/01/697f87e657efe8-65906516.r_d.1329-812.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/un-penalti-minuto-100-dos-expulsiones-las-polemicas-real-madrid-rayo-vallecano_6928472_0.html",
+        "date": "2026-02-01 17:37:39",
+        "sentiment_score": -0.8964631836861372
+    },
+    {
+        "title": "Horario y dónde ver en televisión y online streaming el Atlético de Madrid-Betis de LaLiga 2025-26",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/20/image-75106917-3d17-4325-9b73-84aad9c9b798-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "la liga 2025/2026"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/atletico-de-madrid-betis-jornada-23-fecha-horario-donde-ver-television-online-streaming-hoy_sto23265586/story.shtml",
+        "date": "2026-02-01 17:29:00",
+        "sentiment_score": 0.5074648894369602
+    },
+    {
+        "title": "Arbeloa frena las críticas a su plantilla: \"Fueron campeones de Europa hace un año y medio\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/01/image-58d33f78-da0c-4289-89f2-251128859e61-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/arbeloa-frena-criticas-plantilla-real-madrid-campeones-europa-hace-ano-medio-rayo-vallecano_vid60052084/video.shtml",
+        "date": "2026-02-01 17:28:54",
+        "sentiment_score": -0.1380721926689148
+    },
+    {
+        "title": "Alexia reparte cartas y asistencias antes de visitar el Madrid",
+        "image_url": "https://static1.ara.cat/clip/b9df4ff7-347c-43ed-8e7d-60ec71e6a96a_16-9-aspect-ratio_default_1055908.jpg",
+        "tags": [
+            "reparte",
+            "asistencias",
+            "visitar",
+            "alexia",
+            "cartas",
+            "madrid"
+        ],
+        "link": "https://es.ara.cat/deportes/barca-femenino/alexia-reparte-cartas-asistencias-visitar-madrid_1_5635176.html",
+        "date": "2026-02-01 17:27:11",
+        "sentiment_score": -0.10458770394325256
+    },
+    {
+        "title": "Álvaro Arbeloa: \"Ha sido una victoria de alma\"",
+        "image_url": "https://www.infobae.com/resizer/v2/7SPYXCYVINBQ3C4V43OC23UMWY.jpg?auth=7b58f7a82451fc7631d2eb0be9fb504148bec642936cf2722ab68f81dcacfdd7&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/01/alvaro-arbeloa-ha-sido-una-victoria-de-alma/",
+        "date": "2026-02-01 17:15:37",
+        "sentiment_score": 0.8978384118527174
+    },
+    {
+        "title": "Cuatro personas mueren en las carreteras este enero",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/22/697161975b738.r_d.3218-3592-0.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20260201/11455074/cuatro-personas-mueren-carreteras-enero.html",
+        "date": "2026-02-01 17:55:48",
+        "sentiment_score": -0.5774578731507063
+    },
+    {
+        "title": "El teleférico de Barcelona suspende el servicio hasta marzo por trabajos de mantenimiento",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/02/26/vivir-en-barcelona/835676469_12507739_1706x960.jpg",
+        "tags": [
+            "movilidad",
+            "transports metropolitans barcelona tmb",
+            "transporte"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/movilidad/20260201/teleferico-barcelona-suspende-servicio-marzo-trabajos-mantenimiento/1003742728577_0.html",
+        "date": "2026-02-01 17:53:21",
+        "sentiment_score": 0.5152339786291122
+    },
+    {
+        "title": "Una empresa lanza un proyecto de vivienda impresa en 3D: construyen un edificio con 3 operarios en tan solo 5 días",
+        "image_url": "https://s3.elespanol.com/2025/12/19/omicrono/tecnologia/1003744062993_260576458_1706x960.jpg",
+        "tags": [
+            "sociedad",
+            "edificios",
+            "impresión 3d",
+            "construcción",
+            "soft"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20260201/empresa-lanza-proyecto-vivienda-impresa-construyen-edificio-operarios-solo-dias/1003744089668_0.html",
+        "date": "2026-02-01 17:42:20",
+        "sentiment_score": 0.6316752545535564
+    },
+    {
+        "title": "María Izquierdo, socióloga, sobre los matrimonios forzados: \"En España existe una falsa percepción de que aquí no existe\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/01/697f8fb552a42.jpeg",
+        "tags": [
+            "fin de semana"
+        ],
+        "link": "https://www.cope.es/programas/fin-de-semana/noticias/maria-izquierdo-sociologa-sobre-matrimonios-forzados-espana-existe-falsa-percepcion-existe-20260201_3298652.html",
+        "date": "2026-02-01 17:42:00",
+        "sentiment_score": -0.2797435075044632
+    },
+    {
+        "title": "Animalistas denuncian el \"abandono\" que sufren los perros de caza",
+        "image_url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/78527749001/34013fb7-d8f2-48da-ad78-1cc3297a47b7/main/1920x1080/45s557ms/match/image.jpg?pubId=85707284001",
+        "tags": [
+            "denuncian",
+            "sufren",
+            "caza",
+            "perros",
+            "abandono",
+            "animalistas"
+        ],
+        "link": "https://www.elcomercio.es/sociedad/animalistas-denuncian-abandono-sufren-perros-caza-20260201172516-vi.html",
+        "date": "2026-02-01 17:35:32",
+        "sentiment_score": 0.04106447845697403
+    },
+    {
+        "title": "Adif avanza en el plan de contingencias de Rodalies con obras urgentes para normalizar el servicio",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/44434543-5140-4ef6-ab46-3e3ee5a195fa_alta-libre-aspect-ratio_default_0_x1130y424.jpg",
+        "tags": [
+            "rodalies",
+            "renfe",
+            "adif"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260201/adif-avanza-plan-contingencias-rodalies-126332527",
+        "date": "2026-02-01 17:09:52",
+        "sentiment_score": -0.17669964581727982
+    },
+    {
+        "title": "Horario y dónde ver en televisión y online streaming el Barcelona-Mallorca de LaLiga 2025-26",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1571x321:1573x319)/origin-imgresizer.eurosport.com/2026/01/25/image-43d91c4a-c2a6-4411-a191-31b3286a3ef4-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "la liga 2025/2026"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/barcelona-mallorca-jornada-23-fecha-horario-donde-ver-television-online-streaming-hoy_sto23265577/story.shtml",
+        "date": "2026-02-01 17:08:44",
+        "sentiment_score": 0.06179169565439224
+    },
+    {
+        "title": "Sirera (PP) carga contra Collboni por los descubiertos en el metro de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/18/el-pulso-de-la-ciudad/1003742717305_15527909_1706x960.jpg",
+        "tags": [
+            "pp",
+            "política",
+            "sindicatos",
+            "información municipal",
+            "daniel sirera",
+            "trabajadores",
+            "jaume collboni",
+            "metro barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260201/sirera-pp-carga-collboni-descubiertos-metro-barcelona/1003742728570_0.html",
+        "date": "2026-02-01 17:06:24",
+        "sentiment_score": -0.8425492495298386
+    },
+    {
+        "title": "Éric García y Laia Martret, los últimos primos que triunfan en el Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/29/culemania/historias-del-barca/1003742727976_15659748_1706x960.jpg",
+        "tags": [
+            "éric garcía",
+            "barça",
+            "historias del barça",
+            "fc barcelona",
+            "barça femenino"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/historias-del-barca/20260201/eric-garcia-laia-martret-ultimos-triunfan-barca/1003742652795_0.html",
+        "date": "2026-02-01 17:04:31",
+        "sentiment_score": 0.4614766985177994
     }
 ];
