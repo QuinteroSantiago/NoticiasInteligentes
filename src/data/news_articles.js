@@ -1,156 +1,5 @@
 export default [
     {
-        "title": "'Superjueves' de manifestación en Toledo: tractores y agricultores colapsarán la ciudad",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/01/28/6979d47e78965.r_d.584-657-7294.jpeg",
-        "tags": [
-            "toledo"
-        ],
-        "link": "https://www.cope.es/emisoras/castilla-la-mancha/toledo-provincia/toledo/noticias/superjueves-manifestacion-toledo-tractores-agricultores-colapsaran-ciudad-20260129_3295917.html",
-        "date": "2026-01-29 06:37:18",
-        "sentiment_score": -0.1491146832704544
-    },
-    {
-        "title": "Durísima crítica de Mbappé: \"El último gol es una vergüenza, no salimos a jugar en Champions\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/01/29/697a9773d86003-58686003.r_d.1825-1140.jpeg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.20minutos.es/deportes/durisima-critica-mbappe-ultimo-gol-benfica-es-una-verguenza-no-salimos-jugar-un-partido-champions_6927202_0.html",
-        "date": "2026-01-29 06:31:29",
-        "sentiment_score": 0.19787739217281342
-    },
-    {
-        "title": "Pedrerol, más demoledor que nunca tras la caída del Madrid: “Vaya ridículo”",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2022/12/20/2022122011430038231.jpg",
-        "tags": [
-            "medios"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/medios/pedrerol-mas-demoledor-que-nunca-caida-madrid-vaya-ridiculo/202601290727001000635.html",
-        "date": "2026-01-29 06:27:00",
-        "sentiment_score": -0.8920056987553835
-    },
-    {
-        "title": "El destino turístico imprescindible en Madrid para vivir una experiencia inolvidable",
-        "image_url": "https://wp.emprendedores.es/wp-content/uploads/2026/01/img_172cc4019b3394d6ee33309872b01686.jpg",
-        "tags": [
-            "hide",
-            "ninja"
-        ],
-        "link": "https://emprendedores.es/noticias-de-empresa/el-destino-turistico-imprescindible-en-madrid-para-vivir-una-experiencia-inolvidable",
-        "date": "2026-01-29 06:16:00",
-        "sentiment_score": 0.7441799081861973
-    },
-    {
-        "title": "Cuándo es la huelga de médicos de Andalucía: días, duración y cómo afectará a los pacientes",
-        "image_url": "https://okdiario.com/img/2026/01/27/cuando-es-la-huelga-de-medicos-de-andalucia-dias-duracion-y-como-afectara-a-los-pacientes.jpg",
-        "tags": [
-            "sanidad",
-            "españa",
-            "andalucía",
-            "huelgas",
-            "huelga",
-            "médicos",
-            "okd"
-        ],
-        "link": "https://okdiario.com/andalucia/cuando-huelga-medicos-andalucia-dias-duracion-como-afectara-pacientes-16144751",
-        "date": "2026-01-29 06:00:59",
-        "sentiment_score": -0.47408176213502884
-    },
-    {
-        "title": "Mbappé: \"Merecemos la posición en la que estamos\"",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/29091950/Mbappe-reconocio-como-una-verguenza-encajar-hasta-en-el-descuento-Foto-Archivo.jpg",
-        "tags": [
-            "fútbol",
-            "deportes",
-            "mbappé",
-            "champions",
-            "real madrid",
-            "benfica"
-        ],
-        "link": "https://www.elnacional.com/2026/01/mbappe-merecemos-la-posicion-en-la-que-estamos/",
-        "date": "2026-01-29 06:00:00",
-        "sentiment_score": -0.4817040264606476
-    },
-    {
-        "title": "\"El Madrid se ha gastado 200 millones en este mercado, la pregunta es si este equipo es mejor que el del año pasado\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2026/01/29/697aa78e53336.jpeg",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/madrid-gastado-200-millones-mercado-pregunta-equipo-mejor-ano-pasado-20260129_3296636.html",
-        "date": "2026-01-29 06:00:00",
-        "sentiment_score": -0.12448588013648987
-    },
-    {
-        "title": "Gonzalo Bernardos, economista, lanza la alerta: «Las pensiones serán...»",
-        "image_url": "https://okdiario.com/img/2026/01/27/imagen_recortada-40.jpg",
-        "tags": [
-            "jubilación",
-            "economía",
-            "pensiones",
-            "okd"
-        ],
-        "link": "https://okdiario.com/economia/gonzalo-bernardos-economista-lanza-alerta-pensiones-seran-16145593",
-        "date": "2026-01-29 06:45:34",
-        "sentiment_score": 0.10682649910449982
-    },
-    {
-        "title": "Última hora del accidente de tren en Córdoba y del servicio de Rodalies, en directo | Rodalies reabre este jueves manteniendo los 11 tramos alternativos en carretera",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KSMBIS6QJRJKRKEEQG45IW6JKA.jpg?auth=6be710e191c675ec55564c6601173509fd84500b52b101fb2e2b6849eec9abe9&width=1200",
-        "tags": [
-            "huelva",
-            "ministerio de transportes",
-            "andalucía",
-            "barcelona",
-            "adamuz",
-            "óscar puente santiago",
-            "renfe",
-            "rodalies catalunya",
-            "madrid",
-            "accidentes",
-            "adif",
-            "españa",
-            "govern cataluña",
-            "córdoba",
-            "accidentes ferrocarril",
-            "generalitat cataluña",
-            "accidente trenes adamuz"
-        ],
-        "link": "https://elpais.com/espana/2026-01-29/ultima-hora-del-accidente-de-tren-en-cordoba-y-del-servicio-de-rodalies-en-directo.html",
-        "date": "2026-01-29 06:31:34",
-        "sentiment_score": -0.5730705931782722
-    },
-    {
-        "title": "El precio más bajo de la gasolina hoy en Madrid, Barcelona y otras ciudades de España este 29 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "precio gasolina",
-            "noticias",
-            "gasolina",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/29/el-precio-mas-bajo-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-de-espana-este-29-de-enero/",
-        "date": "2026-01-29 06:31:18",
-        "sentiment_score": -0.07100924476981163
-    },
-    {
-        "title": "Antonio González, CEO de Sunset Hospitality Group: \"España ha creado una industria turística basada en volumen, ahora necesita una hostelería de experiencias, más 'premium'\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/740fa609-d709-46dd-a8dd-20349e399b5d_16-9-aspect-ratio_default_0_x992y240.jpg",
-        "tags": [
-            "inversiones",
-            "empresas",
-            "madrid",
-            "alicante",
-            "barcelona",
-            "hoteles",
-            "restaurantes",
-            "ibiza"
-        ],
-        "link": "https://www.lacronicabadajoz.com/economia/2026/01/29/entrevista-antonio-gonzalez-sunset-hospitality-group-modelo-turistico-espana-126208073.html",
-        "date": "2026-01-29 06:23:12",
-        "sentiment_score": -0.025491535663604736
-    },
-    {
         "title": "Millones de viajeros podrían dejar de visitar EE.UU. si se implementa la nueva política de redes sociales, advierten expertos |",
         "image_url": "https://cdn.mnmstatic.net/cache/3f/31/media_thumb-link-4141373.webp?1769696226=",
         "tags": [
@@ -182,20 +31,6 @@ export default [
         "link": "https://lapatilla.com/2026/01/29/corte-de-apelaciones-dice-que-el-fin-del-tps-para-los-venezolanos-fue-ilegal/",
         "date": "2026-01-29 11:51:54",
         "sentiment_score": -0.8414604412391782
-    },
-    {
-        "title": "Qué dicen los ajustes de Delcy Rodríguez en el gabinete y la Fuerza Armada",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/IMG_5034.jpg",
-        "tags": [
-            "gabinete",
-            "fuerza armada",
-            "nacionales",
-            "actualidad",
-            "delcy rodríguez en"
-        ],
-        "link": "https://lapatilla.com/2026/01/29/que-dicen-los-ajustes-de-delcy-rodriguez-en-el-gabinete-y-la-fuerza-armada/",
-        "date": "2026-01-29 09:44:45",
-        "sentiment_score": 0.24247491732239723
     },
     {
         "title": "El campo madrileño agredece el apoyo de Ayuso en Mercosur y le exige medidas contra la plaga de conejos",
@@ -3048,5 +2883,258 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/historias-del-barca/20260201/eric-garcia-laia-martret-ultimos-triunfan-barca/1003742652795_0.html",
         "date": "2026-02-01 17:04:31",
         "sentiment_score": 0.4614766985177994
+    },
+    {
+        "title": "Comprueba los resultados del Quinigol del 1 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
+        "tags": [
+            "narrativa",
+            "quinigol resultados fútbol",
+            "loterías de españa",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/espana/2026/02/01/comprueba-los-resultados-del-quinigol-del-1-de-febrero/",
+        "date": "2026-02-01 22:00:27",
+        "sentiment_score": 0.1734202764928341
+    },
+    {
+        "title": "La revancha de YouTube, cómo recuperó el liderazgo y se convirtió en la nueva televisión: \"Si fuera un canal, sería el más consumido por los jóvenes españoles... menores de 54 años\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/c29f8f814240f8a96a7305a5e3442d7b/crop/0x314/3072x3386/f/image/jpeg/assets/multimedia/imagenes/2022/03/25/16482001648195.jpg",
+        "tags": [
+            "artículos sara polo",
+            "nlpremium",
+            "medios",
+            "redes sociales",
+            "youtube",
+            "cultura"
+        ],
+        "link": "https://www.elmundo.es/cultura/2026/02/01/697ccb8ce4d4d8d8158b456f.html",
+        "date": "2026-02-01 21:55:41",
+        "sentiment_score": 0.288245365023613
+    },
+    {
+        "title": "Susi Moreno",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/02/01/211713877-kdF--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "gijón"
+        ],
+        "link": "https://www.elcomercio.es/gijon/susi-moreno-gijon-cimadevilla-20260202212533-nt.html",
+        "date": "2026-02-01 21:55:24",
+        "sentiment_score": -0.11178196221590042
+    },
+    {
+        "title": "El stage del Atlético de Madrid en Llaranes",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/02/01/211723383-k2ED--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "fútbol",
+            "luis aragonés",
+            "atlético de madrid",
+            "deportes avilés",
+            "sporting de gijón"
+        ],
+        "link": "https://www.elcomercio.es/aviles/stage-atletico-madrid-llaranes-20260202212830-nt.html",
+        "date": "2026-02-01 21:55:12",
+        "sentiment_score": 0.02898242324590683
+    },
+    {
+        "title": "La estrella internacional por la que el Atlético de Madrid pagó casi USD 50 millones para que compita con Julián Álvarez",
+        "image_url": "https://www.infobae.com/resizer/v2/WHNDIYNOX5HCBDBK4GIOMECGMA.jpg?auth=50314f9c26088883c3b3da25d5d5feabaf01b18c2513ab2a1b106cd5796075d6&height=1280&smart=true&width=1920",
+        "tags": [
+            "atalanta",
+            "atlético de madrid",
+            "diego simeone",
+            "deportes-argentina",
+            "julián álvarez",
+            "ademola lookman"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/01/la-estrella-internacional-por-la-que-el-atletico-de-madrid-pago-casi-usd-50-millones-para-que-compita-con-julian-alvarez/",
+        "date": "2026-02-01 21:54:23",
+        "sentiment_score": 0.17667077481746674
+    },
+    {
+        "title": "El Real Madrid aprovecha el empate de la Real Sociedad para coger aire en la segunda plaza de la Liga F",
+        "image_url": "https://www.infobae.com/resizer/v2/NSYLBMTBTFD6TNIWYT756SGC7A.jpg?auth=0f136ec97878b1b5f14f6524ab7bdb6be432d159ea2a5e8e35493b773c38d2f4&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/01/el-real-madrid-aprovecha-el-empate-de-la-real-sociedad-para-coger-aire-en-la-segunda-plaza-de-la-liga-f/",
+        "date": "2026-02-01 21:30:16",
+        "sentiment_score": -0.17996308207511902
+    },
+    {
+        "title": "Las fotos del Real Madrid-Rayo Vallecano",
+        "image_url": "https://static.grupojoly.com/clip/29c36140-631f-417a-bb2e-b9d148294bc3_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fotos",
+            "madrid",
+            "rayo",
+            "vallecano",
+            "real"
+        ],
+        "link": "https://www.diariodealmeria.es/deportes/fotos-real-madrid-rayo-vallecano_3_2005790109.html",
+        "date": "2026-02-01 21:05:56",
+        "sentiment_score": 0.4558671712875366
+    },
+    {
+        "title": "No dicen \"vergüenza ajena\", sino \"vergüenza española\": una kazaja afincada en España revela lo que piensan de nosotros a 6.000 kilómetros",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/30/spian-sprinkles-creadora-de-contenido-kazaja-habla-sobre-espana.png",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/no-dicen-verguenza-ajena-verguenza-espanola-kazaja-afincada-espana-revela-piensan-6000-kilometros-f202602.html",
+        "date": "2026-02-01 21:00:48",
+        "sentiment_score": -0.24714592099189758
+    },
+    {
+        "title": "Arbeloa pierde a Bellingham por una lesión muscular",
+        "image_url": "https://www.infobae.com/resizer/v2/2GX5UPJEIZHQ3FH6BB6QDHJP6U.jpg?auth=e9116e57498d7fe856922192e435db1d8ecf3497a7cc92c8cd3e4d63b2fbefc4&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/01/arbeloa-pierde-a-bellingham-por-una-lesion-muscular/",
+        "date": "2026-02-01 21:00:34",
+        "sentiment_score": -0.7588351685553789
+    },
+    {
+        "title": "Iñaki Urdangarin: \"He sido el eslabón más débil. Atacarme a mí era mucho más fácil que hacerlo al otro lado\"",
+        "image_url": "https://s3.elespanol.com/2026/02/01/actualidad/1003744112218_261200162_1706x960.jpg",
+        "tags": [
+            "iñaki urdangarín",
+            "caso urdangarin",
+            "televisión",
+            "famosos",
+            "caso nóos",
+            "cristina de borbón y grecia"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20260201/inaki-urdangarin-eslabon-debil-atacarme-facil-hacerlo-lado/1003744112196_0.html",
+        "date": "2026-02-01 22:42:00",
+        "sentiment_score": -0.5278473421931267
+    },
+    {
+        "title": "Un ecosistema único en España con una facturación superior a los 5.000 millones",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/01/26/Lead-ecosistema-agencia1200x840-U10350424921fsC-U20302531318AMG-1200x840@Ideal.jpg",
+        "tags": [
+            "escuela andaluza de salud pública",
+            "pts",
+            "agencia estatal de salud pública",
+            "granada"
+        ],
+        "link": "https://www.ideal.es/granada/ecosistema-unico-espana-facturacion-superior-5000-millones-20260202134721-nt.html",
+        "date": "2026-02-01 22:39:05",
+        "sentiment_score": 0.7011511921882629
+    },
+    {
+        "title": "El genial aceite de oliva virgen extra que llega a los bufés de los hoteles",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2026/02/02/alma-luna-desayuno-U20452624890TgF-U2044099345455F-1200x840@Ideal.jpg",
+        "tags": [
+            "italia",
+            "españa",
+            "investigación",
+            "aceite de oliva",
+            "sostenibilidad",
+            "solidaridad"
+        ],
+        "link": "https://www.ideal.es/economia/factoria-de-empresas/genial-aceite-oliva-virgen-extra-llega-bufes-20260202233010-nt.html",
+        "date": "2026-02-01 22:30:14",
+        "sentiment_score": 0.41316384449601173
+    },
+    {
+        "title": "Miquel, tostador de café de un negocio histórico de La Barceloneta: \"Seguimos siendo una tienda de barrio\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/27/actualidad/1003742727190_15648993_1706x960.jpg",
+        "tags": [
+            "comercios tradicionales",
+            "tiendas",
+            "comercio",
+            "comercios emblemáticos de barcelona",
+            "vivir en barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260201/miquel-tostador-cafe-negocio-historico-barceloneta-seguimos-tienda-barrio/1003742727123_0.html",
+        "date": "2026-02-01 22:30:00",
+        "sentiment_score": 0.06743788719177246
+    },
+    {
+        "title": "Los supermercados asiáticos toman los ejes ‘prime’ de Barcelona: DayDay Go abre junto a la centenaria Bolibar en Rambla Catalunya",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/28/actualidad/1003742727492_15662447_1706x960.jpg",
+        "tags": [
+            "paseo de gràcia",
+            "comercio",
+            "rambla catalunya",
+            "eixample",
+            "economía",
+            "supermercados"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/eixample/20260201/supermercados-asiaticos-toman-ejes-prime-barcelona-dayday-go-abre-junto-centenaria-bolibar-rambla-catalunya/1003742728183_0.html",
+        "date": "2026-02-01 22:30:00",
+        "sentiment_score": -0.11129571497440338
+    },
+    {
+        "title": "Dos empresas se reparten la atención domiciliaria en Barcelona: un pastel de 180 millones",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2020/11/02/informacion-municipal/532956715_10095726_1706x960.jpg",
+        "tags": [
+            "información municipal",
+            "ayuntamiento de barcelona",
+            "empresas barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260201/empresas-reparten-atencion-domiciliaria-barcelona-pastel-millones/1003742728174_0.html",
+        "date": "2026-02-01 22:30:00",
+        "sentiment_score": -0.5488154403865337
+    },
+    {
+        "title": "Llega a Granada la gran óptica con precios universitarios",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/02/02/optica-granada-kC-U20440924043IDH-1200x840@Ideal.jpg",
+        "tags": [
+            "andalucía",
+            "general optica",
+            "precios",
+            "granada",
+            "cádiz (provincia)"
+        ],
+        "link": "https://www.ideal.es/economia/factoria-de-empresas/llega-granada-gran-optica-precios-universitarios-20260202232957-nt.html",
+        "date": "2026-02-01 22:30:00",
+        "sentiment_score": 0.4503254648298025
+    },
+    {
+        "title": "En un epílogo para el infarto, Argentina perdió ante Brasil la final de la Copa América de futsal",
+        "image_url": "https://www.infobae.com/resizer/v2/O5VLDUW4SZCY5G36GMZ3ITRJZU.jpg?auth=4ad32dee255119f17f6bf82a1c1850931be5caf9163ed84a0ddff90279f3aa87&height=1280&smart=true&width=1920",
+        "tags": [
+            "selección de brasil",
+            "selección argentina",
+            "copa américa de futsal"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/01/en-un-epilogo-para-el-infarto-argentina-perdio-ante-brasil-la-final-de-la-copa-america-de-futsal/",
+        "date": "2026-02-01 22:24:58",
+        "sentiment_score": 0.12229159474372864
+    },
+    {
+        "title": "La industria audiovisual se cita en Barcelona para un ISE 2026 centrado en IA y ciberseguridad",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/01/business/1003742728620_15667621_1706x960.jpg",
+        "tags": [
+            "ise",
+            "barcelona",
+            "fira de barcelona",
+            "business",
+            "ciberseguridad",
+            "cataluña"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20260201/industria-audiovisual-barcelona-ise-centrado-ia-ciberseguridad/1003742728619_0.html",
+        "date": "2026-02-01 22:19:35",
+        "sentiment_score": 0.3017989583313465
+    },
+    {
+        "title": "Todas las imágenes de la épica victoria del UCAM Murcia frente al Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9586da45-18d9-41ef-a28b-6bfb9f0ec8e9_16-9-aspect-ratio_default_0_x348y154.jpg",
+        "tags": [
+            "victoria",
+            "deportes",
+            "imagenes",
+            "murcia",
+            "epica",
+            "barcelona",
+            "ucam murcia",
+            "ucam"
+        ],
+        "link": "https://www.laopiniondemurcia.es/fotos/deportes/2026/02/01/imagenes-epica-victoria-ucam-murcia-126338116.html",
+        "date": "2026-02-01 22:18:15",
+        "sentiment_score": -0.036103636026382446
     }
 ];
