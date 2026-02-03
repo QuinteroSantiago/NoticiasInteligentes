@@ -1,657 +1,5 @@
 export default [
     {
-        "title": "Millones de viajeros podrían dejar de visitar EE.UU. si se implementa la nueva política de redes sociales, advierten expertos |",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/31/media_thumb-link-4141373.webp?1769696226=",
-        "tags": [
-            "otros",
-            "turísticos",
-            "usa",
-            "viajeros",
-            "sociales",
-            "destinos",
-            "actualidad",
-            "redes",
-            "política"
-        ],
-        "link": "https://www.meneame.net/story/millones-viajeros-podrian-dejar-visitar-ee-uu-implementa-nueva",
-        "date": "2026-01-29 16:05:02",
-        "sentiment_score": -0.04865662753582001
-    },
-    {
-        "title": "El campo madrileño agredece el apoyo de Ayuso en Mercosur y le exige medidas contra la plaga de conejos",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/29/697b9a1e8fc481-39731344.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.20minutos.es/madrid/campo-madrileno-agredece-ayuso-mercosur-exige-medidas-plaga-conejos_6927546_0.html",
-        "date": "2026-01-29 17:36:38",
-        "sentiment_score": -0.7218986954540014
-    },
-    {
-        "title": "Grupo La Plana obtiene la medalla EcoVadis Oro 2025 y se sitúa entre el 5% de las empresas mejor valoradas en sostenibilidad a nivel mundial",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9b2a5f18-746b-4846-854e-8345ab68e815_16-9-aspect-ratio_default_0_x720y270.jpg",
-        "tags": [
-            "vàlencia",
-            "empresas",
-            "ética",
-            "alicante"
-        ],
-        "link": "https://www.levante-emv.com/economia/2026/01/29/grupo-plana-obtiene-medalla-ecovadis-126178945.html",
-        "date": "2026-01-29 17:30:42",
-        "sentiment_score": 0.6114210933446884
-    },
-    {
-        "title": "Real Madrid se centra en La Liga tras sorprendente derrota ante Benfica",
-        "image_url": "https://dims.apnews.com/dims4/default/233c9f5/2147483647/strip/true/crop/8640x5751+0+5/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F64%2F1c%2F650feda2daf12ed674b8310e3a8b%2Fb581ccaf5d0b47a19e8995789f145856",
-        "tags": [
-            "real madrid laliga mbappe",
-            "sports",
-            "deportes",
-            "send to apple news"
-        ],
-        "link": "https://apnews.com/article/real-madrid-laliga-mbappe-c602bb4a51d720601847158da11ae533",
-        "date": "2026-01-29 17:29:00",
-        "sentiment_score": 0.30665865540504456
-    },
-    {
-        "title": "Real Madrid se centra en La Liga tras sorprendente derrota ante Benfica",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/01/REAL_MADRID_55224.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2026/01/29/real-madrid-se-centra-en-la-liga-tras-sorprendente-derrota-ante-benfica/",
-        "date": "2026-01-29 17:28:59",
-        "sentiment_score": 0.09736448526382446
-    },
-    {
-        "title": "El Colegio de Médicos de Ceuta respalda la huelga nacional a partir del 16 de febrero",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/01/medicos-atencion-primaria-huelga-estatuto-medico-propio-005-portada-750x500.jpg?v=1768391646",
-        "tags": [
-            "manifestaciones",
-            "salud",
-            "noticias",
-            "sociedad",
-            "sanidad",
-            "colegio oficial de médicos de ceuta"
-        ],
-        "link": "https://elfarodeceuta.es/colegio-medicos-ceuta-respalda-huelga-nacional-febrero/",
-        "date": "2026-01-29 17:25:15",
-        "sentiment_score": 0.21541515737771988
-    },
-    {
-        "title": "Por qué debe dimitir Florentino Pérez",
-        "image_url": "https://www.alertadigital.com/wp-content/uploads/2021/04/florentino.jpg",
-        "tags": [
-            "dimitir",
-            "portada",
-            "florentino"
-        ],
-        "link": "https://www.alertadigital.com/2026/01/29/por-que-debe-dimitir-florentino-perez/",
-        "date": "2026-01-29 17:23:44",
-        "sentiment_score": 0.8145645409822464
-    },
-    {
-        "title": "\"El lenguaje del jazz es hacer lo que te dé la gana con la música en un escenario, y eso hacemos\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f5726a03-f117-4363-b611-7a91d6e99344_16-9-aspect-ratio_default_0_x526y624.jpg",
-        "tags": [
-            "música",
-            "humor",
-            "jazz"
-        ],
-        "link": "https://www.lne.es/gijon/2026/01/29/lenguaje-jazz-gana-musica-escenario-126234158.html",
-        "date": "2026-01-29 17:20:39",
-        "sentiment_score": 0.2701006978750229
-    },
-    {
-        "title": "Osasuna Promesas busca reencontrarse con la victoria",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/1eb6a6b5-ce23-43a8-af78-d8faae1b5bab_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "osasuna",
-            "busca",
-            "victoria",
-            "reencontrarse",
-            "promesas"
-        ],
-        "link": "https://www.noticiasdenavarra.com/futbol/2026/01/29/osasuna-promesas-busca-reencontrarse-victoria-10635542.html",
-        "date": "2026-01-29 17:20:00",
-        "sentiment_score": 0.0806267000734806
-    },
-    {
-        "title": "Mbappé y Courtois, las únicas luces en una Champions sombría del Real Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/Y76PKKHSOFD5DLO27LCU5DZQLQ.jpg?auth=a73a711e23ccd3285ab85467d5cd13f67fb2ac362eff841ca3bad1de92fc8d2f&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/29/mbappe-y-courtois-las-unicas-luces-en-una-champions-sombria-del-real-madrid/",
-        "date": "2026-01-29 17:16:15",
-        "sentiment_score": 0.23769956827163696
-    },
-    {
-        "title": "El líder Racing quiere afianzar en Granada su liderato en LaLiga Hypermotion",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260129181541_690.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-lider-racing-quiere-afianzar-granada-liderato-laliga-hypermotion-20260129181541.html",
-        "date": "2026-01-29 17:15:41",
-        "sentiment_score": 0.582775205373764
-    },
-    {
-        "title": "Museo Reina Sofía, Museo del Prado y Zinemaldia, mejores instituciones culturales de 2025 en España, según estudio",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260129183929_690.jpg",
-        "tags": [
-            "exposiciones",
-            "cultura"
-        ],
-        "link": "https://www.europapress.es/cultura/exposiciones-00131/noticia-museo-reina-sofia-museo-prado-zinemaldia-mejores-instituciones-culturales-2025-espana-estudio-20260129183929.html",
-        "date": "2026-01-29 17:39:29",
-        "sentiment_score": 0.4001739099621773
-    },
-    {
-        "title": "La Fundació Campaner se presenta en Madrid para reforzar la lucha contra el noma en África",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3654635.jpg",
-        "tags": [
-            "palma de mallorca",
-            "última hora",
-            "palma",
-            "fundació campaner",
-            "ultimas noticias",
-            "local"
-        ],
-        "link": "https://www.ultimahora.es/noticias/local/2026/01/29/2559467/fundacio-campaner-presenta-madrid-para-reforzar-lucha-contra-noma-africa.html",
-        "date": "2026-01-29 17:39:00",
-        "sentiment_score": 0.35179121792316437
-    },
-    {
-        "title": "Puente admite que Rodalies está «muy mal» por la falta de inversión del pasado",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/rodalies-gratuidad-incidencias.jpg",
-        "tags": [
-            "rodalies",
-            "óscar puente",
-            "cataluña",
-            "inversión",
-            "transporte",
-            "cercanías"
-        ],
-        "link": "https://theobjective.com/economia/transporte/2026-01-29/puente-rodalies-muy-mal-falta-inversion/",
-        "date": "2026-01-29 17:37:06",
-        "sentiment_score": -0.8810600629076362
-    },
-    {
-        "title": "Armengol firma un convenio para que el Congreso colabore en la promoción del catalán",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/29/697b993445eff.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/20260129/armengol-firma-convenio-congreso-colabore-promocion-catalan_379792.html",
-        "date": "2026-01-29 17:36:40",
-        "sentiment_score": 0.48070909082889557
-    },
-    {
-        "title": "Paco Caballer inaugura su primera exposición en solitario con '1Up' en Filtre",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9b24185d-ce4b-435f-8df2-78861aab73a3_16-9-aspect-ratio_default_0_x587y548.jpg",
-        "tags": [
-            "barcelona",
-            "premios",
-            "espacio",
-            "trabajo",
-            "cultura"
-        ],
-        "link": "https://www.levante-emv.com/cultura/2026/01/29/paco-caballer-inaugura-primera-exposicion-126231571.html",
-        "date": "2026-01-29 17:36:32",
-        "sentiment_score": 0.24881095066666603
-    },
-    {
-        "title": "Julio Manrique lleva a escena la violencia en Irlanda del Norte",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/01/29/793DBF77-5CEA-4B61-B7D9-9FD6538C2E48/69.jpg?crop=1528%2C860%2Cx0%2Cy650&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/julio-manrique-lleva-escena-violencia-irlanda-norte_20260129697b9a561817b41eb627d8be.html",
-        "date": "2026-01-29 17:35:18",
-        "sentiment_score": 0.06801038980484009
-    },
-    {
-        "title": "Las compañías de tren deben pagar indemnizaciones si no son puntuales, aunque sea por las limitaciones de Adif",
-        "image_url": "http://st1.lacerca.com/imagenes/view/1f66596424acb0caa6f20122b2614c32.jpg",
-        "tags": [
-            "noticias",
-            "castilla-la mancha"
-        ],
-        "link": "https://www.lacerca.com/noticias/castilla_la_mancha/companias-tren-pagar-indemnizaciones-son-aunque-limitaciones-adif-799746-1.html",
-        "date": "2026-01-29 17:35:00",
-        "sentiment_score": -0.6317430287599564
-    },
-    {
-        "title": "Manolo González quiere olvidarse del arbitraje para volver a ganar ante el Alavés: “Hemos hablado en el vestuario de estar al margen de todo esto”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/29/697b993f90ce0.jpeg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/rcde-espanyol/20260129/11453015/manolo-gonzalez-quiere-olvidarse-arbitraje-volver-ganar-alaves-hemos-hablado-vestuario-margen-esto.html",
-        "date": "2026-01-29 17:34:46",
-        "sentiment_score": 0.5722527764737606
-    },
-    {
-        "title": "Un hombre sobrevive dos días sin pulmones",
-        "image_url": "https://static1.ara.cat/clip/68c8161c-6f03-487e-b253-5af3c964c567_16-9-aspect-ratio_default_0_x3814y813.jpg",
-        "tags": [
-            "hombre",
-            "pulmones",
-            "sobrevive",
-            "dias"
-        ],
-        "link": "https://es.ara.cat/sociedad/salud/hombre-sobrevive-dias-pulmones_1_5632701.html",
-        "date": "2026-01-29 17:31:29",
-        "sentiment_score": -0.16077545285224915
-    },
-    {
-        "title": "Los Puertos de Las Palmas ya son los cuartos de España",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0d036358-61bd-44bc-b052-08fb7987d5a5_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tráfico",
-            "mercancías",
-            "tráfico de contenedores",
-            "estadísticas",
-            "valencia",
-            "barcelona",
-            "cruceros",
-            "graneles",
-            "puerto las palmas",
-            "algeciras",
-            "economía",
-            "tráfico marítimo",
-            "puertos del estado",
-            "puertos",
-            "contenedores",
-            "autoridad portuaria de las palmas",
-            "las palmas"
-        ],
-        "link": "https://www.laprovincia.es/las-palmas/2026/01/29/puertos-palmas-son-cuartos-sistema-portuario-estado-126217977.html",
-        "date": "2026-01-29 17:30:42",
-        "sentiment_score": 0.20363956689834595
-    },
-    {
-        "title": "Un ciudadano vestido de Batman se viraliza por sus reproches contra las redadas del ICE: «Cobardes, traidores»",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/31/media_thumb-link-4141513.webp?1769719386=",
-        "tags": [
-            "traidores",
-            "trump",
-            "batman",
-            "actualidad",
-            "ice"
-        ],
-        "link": "https://www.meneame.net/story/ciudadano-vestido-batman-viraliza-reproches-contra-redadas-ice",
-        "date": "2026-01-29 21:35:02",
-        "sentiment_score": -0.8633819837123156
-    },
-    {
-        "title": "Sorteo de playoffs de la Champions League 2025/2026: equipos, emparejamientos, formato, hora y cómo ver por TV e internet",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2026/01/29/sorteo-playoffs-champions-league-2025-2026-orix/",
-        "date": "2026-01-29 22:03:40",
-        "sentiment_score": 0.30453696846961975
-    },
-    {
-        "title": "La opinión sobre el Real Oviedo y el Sporting: Bienvenidos a la final del Mundial",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6567f664-4d6e-4588-9390-77dab402ea9e_16-9-aspect-ratio_default_1431181.jpg",
-        "tags": [
-            "toro",
-            "viñas",
-            "real oviedo",
-            "fichajes"
-        ],
-        "link": "https://www.lne.es/deportes/opinion/2026/01/29/opinion-real-oviedo-sporting-bienvenidos-126243765.html",
-        "date": "2026-01-29 21:42:39",
-        "sentiment_score": -0.036286860704422
-    },
-    {
-        "title": "Ignacio Cembrero: \"El príncipe heredero de Marruecos mantiene una relación muy estrecha con su madre y eso marcará su reinado\"",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2025/10/31/9800D3DB-37D3-4C04-9492-7BB719A4272C/mohamed-foto-archivo_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "la brújula",
-            "programas",
-            "ondacero"
-        ],
-        "link": "https://www.ondacero.es/programas/la-brujula/ignacio-cembrero-principe-heredero-marruecos-mantiene-relacion-muy-estrecha-madre-eso-marcara-reinado_20260129697bd2dc9243cc133c29138c.html",
-        "date": "2026-01-29 21:36:28",
-        "sentiment_score": -0.3491828888654709
-    },
-    {
-        "title": "Los seis clubes ingleses en la Champions se acercan a un premio de 600 millones de dólares",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/9d7e481/2147483647/strip/true/crop/6766x3552+0+480/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fae%2Fa2%2F07946993447aa4d8fee88011781b%2F57ccf5ca999e4df497ce04e2c0288795.jpg",
-        "tags": [
-            "business",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-01-29/los-seis-clubes-ingleses-en-la-champions-se-acercan-un-premio-de-600-millones-de-dolares",
-        "date": "2026-01-29 21:35:43",
-        "sentiment_score": 0.83801438100636
-    },
-    {
-        "title": "Arqueros goleadores han creado momentos icónicos, desde Chilavert hasta el drama de Benfica",
-        "image_url": "https://i.headtopics.com/images/2026/1/29/latimes/arqueros-goleadores-han-creado-momentos-ic-nicos-d-arqueros-goleadores-han-creado-momentos-ic-nicos-d-037AC3A3A50262C054C8E5B7F5AC9F78.webp",
-        "tags": [
-            "united states news"
-        ],
-        "link": "https://us.headtopics.com/news/arqueros-goleadores-han-creado-momentos-ic-nicos-desde-79059476",
-        "date": "2026-01-29 21:17:52",
-        "sentiment_score": -0.8779204003512859
-    },
-    {
-        "title": "Rodrygo da la cara tras la debacle del Madrid en Lisboa: \"Me dejé llevar, pido perdón\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/29/image-44162aa1-8faa-4d8b-ae66-c1016ce976f0-85-2560-1440.jpeg",
-        "tags": [
-            "football"
-        ],
-        "link": "https://www.eurosport.es/futbol/rodrygo-disculpa-twitter-companeros-aficion-arbeloa-expulsion-benfica_sto23264599/story.shtml",
-        "date": "2026-01-29 21:17:17",
-        "sentiment_score": -0.6514917239546776
-    },
-    {
-        "title": "El PP, UPN, Vox y Junts exigen en el Senado la dimisión de Puente como responsable del accidente de Adamuz",
-        "image_url": "https://www.alertadigital.com/wp-content/uploads/2026/01/puente.png",
-        "tags": [
-            "dimision",
-            "puente",
-            "pp",
-            "adamuz",
-            "upn",
-            "españa",
-            "junts",
-            "vox"
-        ],
-        "link": "https://www.alertadigital.com/2026/01/29/el-pp-upn-vox-y-junts-exigen-en-el-senado-la-dimision-de-puente-como-responsable-del-accidente-de-adamuz/",
-        "date": "2026-01-29 21:10:11",
-        "sentiment_score": -0.8090765010565519
-    },
-    {
-        "title": "Óscar Mosquera, el vecino de Santiago que pulverizó la historia de las apuestas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5c17c121-6b71-4f31-94be-60b64d8aa16f_16-9-discover-aspect-ratio_default_1431171.jpg",
-        "tags": [
-            "casas de apuestas",
-            "apuestas online",
-            "santiago",
-            "vila de cruces",
-            "apuestas"
-        ],
-        "link": "https://www.elcorreogallego.es/santiago/2026/01/29/oscar-mosquera-vecino-santiago-pulverizo-record-apuestas-espana-126243664.html",
-        "date": "2026-01-29 21:06:34",
-        "sentiment_score": 0.4817293509840965
-    },
-    {
-        "title": "Las claves de la Jornada 22 de LaLiga EA Sports 25 – 26 | El Espanyol abre la jornada ante el Alavés",
-        "image_url": "https://lagrada.org/wp-content/uploads/2026/01/LAS-CLAVES-DE-LA-JORNADA-25-26.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagrada.org/liga-jornada-22-previa-claves-resultados-clasificacion-partidos-espanyol-alaves/",
-        "date": "2026-01-29 21:00:06",
-        "sentiment_score": 0.2899883985519409
-    },
-    {
-        "title": "Rosalía actúa por sorpresa en el concierto por Palestina en Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/EDSPTW5I6NBPDDD3V7VW3CWSYM.jpg?auth=57c6513741c8d2f550e1a344d28fdbf9d914a9da5097e13f53365ae95098ca08&height=1282&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/29/rosalia-actua-por-sorpresa-en-el-concierto-por-palestina-en-barcelona/",
-        "date": "2026-01-29 22:30:34",
-        "sentiment_score": -0.26741408556699753
-    },
-    {
-        "title": "TikTok desde prisión en Barcelona: móviles, drogas y sanciones mínimas destapan las grietas del sistema penitenciario",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/19/el-pulso-de-la-ciudad/1003742724458_15614977_1706x960.jpg",
-        "tags": [
-            "delincuencia",
-            "justicia",
-            "prisiones barcelona",
-            "el pulso de la ciudad"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260129/tiktok-prision-barcelona-moviles-drogas-sanciones-minimas-destapan-grietas-sistema-penitenciario/1003742724428_0.html",
-        "date": "2026-01-29 22:30:00",
-        "sentiment_score": -0.9058278370648623
-    },
-    {
-        "title": "Así se reparte la gran propiedad de vivienda en Barcelona: lo público en la periferia y lo privado en el centro",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2020/03/24/economia/477212287_10209698_1706x960.jpg",
-        "tags": [
-            "ayuntamiento de barcelona",
-            "economía",
-            "vivienda",
-            "alquiler vivienda",
-            "viviendas",
-            "empresas barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260129/reparte-gran-propiedad-vivienda-barcelona-publico-periferia-privado-centro/1003742727392_0.html",
-        "date": "2026-01-29 22:30:00",
-        "sentiment_score": 0.0022636353969573975
-    },
-    {
-        "title": "Peralada celebra la Pascua con Christie, Vox Luminis y el nuevo hallazgo de Dani Espasa",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/03/31/6609603112f2e.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.lavanguardia.com/cultura/20260129/11452799/peralada-celebra-pascua-christie-vox-luminis-nuevo-hallazgo-dani-espasa.html",
-        "date": "2026-01-29 22:09:26",
-        "sentiment_score": 0.2615032270550728
-    },
-    {
-        "title": "Instalada la primera Zona Ultra en Anzoátegui",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/01/GuamachitoFibraOpitca3-300x187.jpg",
-        "tags": [
-            "actualidad",
-            "anzoátegui"
-        ],
-        "link": "https://ultimasnoticias.com.ve/anzoateggui/instalada-la-primera-zona-ultra-en-anzoategui/",
-        "date": "2026-01-29 22:06:14",
-        "sentiment_score": 0.03094373643398285
-    },
-    {
-        "title": "Detenidos dos jóvenes en Anzoátegui y Monagas por agredir a sus parejas y a sus bebés lactantes",
-        "image_url": "https://reporteconfidencial.info/wp-content/uploads/2026/01/image-894.png",
-        "tags": [
-            "principales",
-            "nacionales"
-        ],
-        "link": "https://reporteconfidencial.info/2026/01/29/detenidos-dos-jovenes/",
-        "date": "2026-01-29 22:02:55",
-        "sentiment_score": -0.7891097571700811
-    },
-    {
-        "title": "Rosalía aparece por sorpresa en un acto solidario a favor de Palestina en el Palau Sant Jordi: \"Significa mucho para mí\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6ee34fab-e652-42f3-9e7d-39c927f53812_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "rosalía,cultura,palestina,solidaridad,participación,música"
-        ],
-        "link": "https://www.laopiniondezamora.es/cultura/2026/01/29/rosalia-aparece-sorpresa-acto-solidario-palestina-palau-sant-jordi-126244971.html",
-        "date": "2026-01-29 22:02:27",
-        "sentiment_score": 0.23900257796049118
-    },
-    {
-        "title": "Escándalo en Arabia: Benzema rechaza jugar luego de una baja oferta de renovación",
-        "image_url": "https://www.metroworldnews.com/resizer/v2/SP4NKRLJKRBGDN2W344K4C3HWI.jpg?auth=de8caf8c82f95270f997c341127ee8d91f3e1cec7a197a126d6dd4aa147bf121&height=683&smart=true&width=1024",
-        "tags": [
-            "al-ittihad",
-            "karim benzema"
-        ],
-        "link": "https://www.metroworldnews.com/deportes/2026/01/30/escandalo-en-arabia-benzema-rechaza-jugar-luego-de-una-baja-oferta-de-renovacion/",
-        "date": "2026-01-30 01:53:22",
-        "sentiment_score": -0.8797809360548854
-    },
-    {
-        "title": "Real Madrid se centra en La Liga tras sorprendente derrota ante Benfica",
-        "image_url": "https://i.headtopics.com/images/2026/1/30/latimes/real-madrid-se-centra-en-la-liga-tras-sorprendente-real-madrid-se-centra-en-la-liga-tras-sorprendente-11E99CFCAA89500EF7A59FF05E6225E1.webp",
-        "tags": [
-            "united states news"
-        ],
-        "link": "https://headtopics.com/news/real-madrid-se-centra-en-la-liga-tras-sorprendente-derrota-79064627",
-        "date": "2026-01-30 01:47:06",
-        "sentiment_score": 0.1243162453174591
-    },
-    {
-        "title": "Un acto para vincular autismo y vacunación a 40 Є la entrada: la vuelta del antivacunas Pamiés indigna a médicos y familias",
-        "image_url": "https://s3.elespanol.com/2024/04/05/ciencia/salud/845426416_241291035_1706x960.jpg",
-        "tags": [
-            "autismo",
-            "vacunas",
-            "salud",
-            "pseudociencia"
-        ],
-        "link": "https://www.elespanol.com/ciencia/salud/20260130/acto-vincular-autismo-vacunacion-entrada-vuelta-antivacunas-pamies-indigna-medicos-familias/1003744108782_0.html",
-        "date": "2026-01-30 01:44:42",
-        "sentiment_score": -0.8891991954296827
-    },
-    {
-        "title": "Toluca Femenil presenta a exfigura del Real Madrid como su refuerzo para el Clausura 2026",
-        "image_url": "https://www.infobae.com/resizer/v2/OTXIFAGTCNHZ5B7Z6KPZ2Z5GGU.png?auth=4f3048052635f8435633110d2b5aa784ed1f5b1ce86f4fa254da72746ad279d2&height=1080&smart=true&width=1920",
-        "tags": [
-            "chelsea",
-            "clausura 2026",
-            "toluca femenil",
-            "sofia jakobsson",
-            "patrice lair",
-            "mexico-noticias",
-            "liga mx femenil",
-            "real madrid",
-            "mexico-deportes",
-            "toluca",
-            "bayer múnich"
-        ],
-        "link": "https://www.infobae.com/mexico/2026/01/30/toluca-femenil-presenta-a-exfigura-del-real-madrid-como-su-refuerzo-para-el-clausura-2026/",
-        "date": "2026-01-30 01:38:21",
-        "sentiment_score": 0.6853056084364653
-    },
-    {
-        "title": "¿Por qué el Barça sigue con problemas económicos pese a ser el segundo club con más ingresos del mundo?",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/30/culemania/palco/1003742728040_15660635_1706x960.jpg",
-        "tags": [
-            "fc barcelona",
-            "fair play de la liga",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260130/barca-sigue-problemas-economicos-segundo-ingresos-mundo/1003742728037_0.html",
-        "date": "2026-01-30 00:52:33",
-        "sentiment_score": 0.13915947079658508
-    },
-    {
-        "title": "Tras visitar a Messi, Scaloni se reunió con los jugadores argentinos del Atlético de Madrid: su charla con Simeone y los ausentes",
-        "image_url": "https://www.infobae.com/resizer/v2/AZWSUHJ77NA7BC6RRSYHSPAYZU.jpg?auth=57bbab3882f6d0204f06889407b19a237996a2dd109fbab8656594cdc52f1cfb&height=595&smart=true&width=1058",
-        "tags": [
-            "lionel scaloni",
-            "giuliano simeone",
-            "juan musso",
-            "julián álvarez",
-            "nicolás gonzález",
-            "nahuel molina",
-            "selección argentina",
-            "thiago almada"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/30/tras-visitar-a-messi-scaloni-se-reunio-con-los-jugadores-argentinos-del-atletico-de-madrid-su-charla-con-simeone-y-los-ausentes/",
-        "date": "2026-01-30 00:43:28",
-        "sentiment_score": 0.021915078163146973
-    },
-    {
-        "title": "La empresa que crece vendiendo combustible a bajo coste",
-        "image_url": "https://phantom-expansion.uecdn.es/d796f159c38e35885ae2dfedfdc771da/crop/0x190/2048x1555/resize/2048/assets/multimedia/imagenes/2026/01/29/17696799656385.jpg",
-        "tags": [
-            "energía>",
-            "empresas>",
-            "artículos mª luisa verbo>",
-            "historias de éxito>"
-        ],
-        "link": "https://www.expansion.com/empresas/energia/2026/01/30/697b2c98e5fdea117c8b4739.html",
-        "date": "2026-01-30 00:17:58",
-        "sentiment_score": 0.5657002069056034
-    },
-    {
-        "title": "La ineficacia de los coordinadores antibullying en toda España: \"No basta con nombrar a cualquier docente para salir del paso\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3ae42760-12d2-4b88-8431-2a21a6b06a5b_16-9-aspect-ratio_default_0_x872y387.jpg",
-        "tags": [
-            "colegios",
-            "bullying",
-            "educación",
-            "familia",
-            "acoso escolar"
-        ],
-        "link": "https://www.lacronicabadajoz.com/sociedad/2026/01/30/ineficacia-coordinadores-antibullying-espana-basta-126246729.html",
-        "date": "2026-01-30 00:10:25",
-        "sentiment_score": 0.27823276817798615
-    },
-    {
-        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 30 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa sociedad",
-            "noticias",
-            "barcelona",
-            "españa noticias",
-            "tiempo en españa"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/30/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-30-de-enero/",
-        "date": "2026-01-30 02:15:35",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "¡Que acudan todos vestidos de andaluces!",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "andaluces",
-            "vestidos",
-            "acudan"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/acudan-vestidos-andaluces_0_2005765803.html",
-        "date": "2026-01-30 02:08:44",
-        "sentiment_score": -0.26056569814682007
-    },
-    {
-        "title": "Deportes | Sarabia: \"Al Barça se le puede hacer daño en las transiciones\"",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1707328.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/sarabia-al-barca-se-le-puede-hacer-dano-en-las-transiciones",
-        "date": "2026-01-30 02:00:09",
-        "sentiment_score": -0.8718796009197831
-    },
-    {
-        "title": "Sorpresa en el Palau Sant Jordi: Rosalía canta ‘La Perla’ por Palestina",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/30/2026013002171397481.jpg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.mundiario.com/articulo/cultura/sorpresa-palau-sant-jordi-rosalia-canta-perla-palestina/20260130022255372721.html",
-        "date": "2026-01-30 01:22:55",
-        "sentiment_score": -0.0036356300115585327
-    },
-    {
-        "title": "Europa como solución del problema España",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/a3f078147d7af8033dc80a754fe4f6ea/crop/90x160/1837x1324/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/30/17697356959925.jpg",
-        "tags": [
-            "opinión>",
-            "economía>"
-        ],
-        "link": "https://www.expansion.com/opinion/2026/01/30/697c032e468aeb04088b459e.html",
-        "date": "2026-01-30 01:16:16",
-        "sentiment_score": -0.9042472997680306
-    },
-    {
-        "title": "Bocados con un toque de solidaridad",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/29/697b6004066f9.r_d.2063-2111-1139.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20260130/11448592/bocados-toque-solidaridad.html",
-        "date": "2026-01-30 01:00:00",
-        "sentiment_score": 0.5061946697533131
-    },
-    {
         "title": "Ayesa, en el punto de mira por las soldaduras de la tragedia de Adamuz, gestionará los datos educativos de Baleares",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ae0a8e32-336a-497a-bff5-913f6d0cbf37_16-9-discover-aspect-ratio_default_0_x246y96.jpg",
         "tags": [
@@ -733,56 +81,6 @@ export default [
         "link": "https://www.deia.eus/opinion/2026/01/30/boicot-pelicula-opcion-10636630.html",
         "date": "2026-01-30 05:59:30",
         "sentiment_score": -0.8156603015959263
-    },
-    {
-        "title": "Todo lo que hay que saber del sorteo de los playoff de la Champions League: posibles cruces, formato, hora y TV",
-        "image_url": "https://www.infobae.com/resizer/v2/OUC74BR2LRCD5IYUCD5GQCSJ7E.JPG?auth=0ee6771d54a0952a534322b531120143644b9b43b9f7738679f95db131219e45&height=3170&smart=true&width=5636",
-        "tags": [
-            "juventus",
-            "bayern múnich",
-            "galatasaray",
-            "bodo glimt",
-            "arsenal",
-            "qarabag",
-            "liverpool",
-            "deportes-argentina",
-            "psg",
-            "inter de italia",
-            "bayer leverkusen",
-            "real madrid",
-            "sporting de lisboa",
-            "tottenham",
-            "borussia dortmund",
-            "uefa champions league",
-            "atalanta",
-            "mónaco",
-            "benfica",
-            "newcastle",
-            "chelsea",
-            "deportes-internacional",
-            "manchester city",
-            "atlético de madrid",
-            "olympiacos",
-            "brujas",
-            "barcelona"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/30/todo-lo-que-hay-que-saber-del-sorteo-de-los-playoff-de-la-champions-league-posibles-cruces-formato-hora-y-tv/",
-        "date": "2026-01-30 05:14:38",
-        "sentiment_score": 0.21337172389030457
-    },
-    {
-        "title": "Las galerías gallegas van a una huelga histórica y avisan: «Si sigue el 21% de IVA cerraremos»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/76227fbe-1b08-4d2a-bf24-2598fa8048e6_16-9-aspect-ratio_default_0_x659y292.jpg",
-        "tags": [
-            "iva",
-            "portugal",
-            "galerías",
-            "paro",
-            "arte"
-        ],
-        "link": "https://www.farodevigo.es/sociedad/2026/01/30/galerias-gallegas-huelga-historica-iva-cultural-126233786.html",
-        "date": "2026-01-30 05:04:50",
-        "sentiment_score": -0.6323625594377518
     },
     {
         "title": "España hoy, 30 de enero de 2026: lo que tienes que saber",
@@ -3318,5 +2616,227 @@ export default [
         "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/01-feb-2026-tertulion-domingos-20260202_3298716.html",
         "date": "2026-02-02 00:58:16",
         "sentiment_score": -0.3497210741043091
+    },
+    {
+        "title": "¿Qué sigue para Liam Ramos, de cinco años, y su padre tras su liberación de la custodia federal?",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/Screenshot_10.jpg",
+        "tags": [
+            "usa",
+            "actualidad",
+            "cinco años",
+            "internacionales",
+            "ice",
+            "liam ramos",
+            "padre"
+        ],
+        "link": "https://lapatilla.com/2026/02/02/que-sigue-para-liam-ramos-de-cinco-anos-y-su-padre-tras-su-liberacion-de-la-custodia-federal/",
+        "date": "2026-02-02 14:15:58",
+        "sentiment_score": -0.22471657767891884
+    },
+    {
+        "title": "Las fotos del festejo de cumpleaños de Julián Álvarez junto a su familia: “De pocas palabras y gran corazón”",
+        "image_url": "https://www.infobae.com/resizer/v2/HASL7LH3KBC3HCHYDUWCKRC7NM.png?auth=08891a228034ccf084470e8cc3ff6257a607961436e8198326f57be5dc221632&height=1080&smart=true&width=1920",
+        "tags": [
+            "julián álvarez",
+            "selección argentina",
+            "atlético madrid",
+            "deportes-internacional",
+            "deportes-argentina",
+            "liga de españa"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/02/las-fotos-del-festejo-de-cumpleanos-de-julian-alvarez-junto-a-su-familia-de-pocas-palabras-y-gran-corazon/",
+        "date": "2026-02-02 17:42:18",
+        "sentiment_score": 0.14164506644010544
+    },
+    {
+        "title": "El Gobierno canario acusa al Estado de montar \"bronca\" con el 'decreto Canarias' con fines partidistas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ca915106-3a63-41f2-87ab-e0340fdccc25_16-9-aspect-ratio_default_0_x947y385.jpg",
+        "tags": [
+            "gobierno",
+            "psoe",
+            "canarias",
+            "pedro sánchez",
+            "cc"
+        ],
+        "link": "https://www.laprovincia.es/canarias/2026/02/02/gobierno-canario-acusa-montar-bronca-126374269.html",
+        "date": "2026-02-02 17:40:02",
+        "sentiment_score": 0.15356162190437317
+    },
+    {
+        "title": "Valverde aboga por adaptar la formación de las Escuelas Familiares Agrarias al sector agroalimentario",
+        "image_url": "http://st1.lacerca.com/imagenes/view/714c954df2c24826c2c7d4a52ad9335f.jpg",
+        "tags": [
+            "ciudad real",
+            "noticias"
+        ],
+        "link": "https://www.lacerca.com/noticias/ciudad_real/valverde-aboga-adaptar-formacion-escuelas-familiares-agrarias-agroalimentario-800190-1.html",
+        "date": "2026-02-02 17:39:00",
+        "sentiment_score": 0.09824538230895996
+    },
+    {
+        "title": "Deportes | El Atlético de Madrid, solución millonaria para Rodrigo Mendoza: si se cumplen los objetivos, el Elche CF ingresará los 20 millones de su cláusula",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1689389.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-atletico-de-madrid-solucion-millonaria-para-el-elche-cf-y-rodrigo-mendoza-si-se-cumplen-los-objetivos-la-entidad-franjiverde-puede-ingresar-los-20-millones-de-su-clausula",
+        "date": "2026-02-02 17:34:11",
+        "sentiment_score": 0.6217698119580746
+    },
+    {
+        "title": "Previa del Albacete - FC Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/FOC73BYFQFHP7HC7OVAOKRWC7E.jpg?auth=ef2044d1efb2c62d025dcc5f2ae7bb487e75fab74de001b997d19a158e68bd36&height=1279&smart=true&width=1920",
+        "tags": [
+            "fútbol",
+            "fc barcelona",
+            "carlos belmonte",
+            "alberto gonzález",
+            "real madrid",
+            "copa del rey",
+            "albacete",
+            "albacete balompié",
+            "laliga hypermotion",
+            "europapress",
+            "hansi flick"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/02/previa-del-albacete-fc-barcelona/",
+        "date": "2026-02-02 17:32:22",
+        "sentiment_score": 0.6917159520089626
+    },
+    {
+        "title": "El Real Oviedo traspasa a Josip Brekalo al Hertha de Berlín",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260202183136_120.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-real-oviedo-traspasa-josip-brekalo-hertha-berlin-20260202183136.html",
+        "date": "2026-02-02 17:31:36",
+        "sentiment_score": -0.76134511269629
+    },
+    {
+        "title": "Cristiano Ronaldo no juega con Al Nassr y estaría descontento con política de fichajes",
+        "image_url": "https://dims.apnews.com/dims4/default/f099dd7/2147483647/strip/true/crop/5462x3636+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4c%2F8e%2F9075097901473a195e671b87f00c%2F23e2b51b33e3419eb1c73b167abfcd96",
+        "tags": [
+            "cristiano ronaldo al nassr arabia",
+            "sports",
+            "send to apple news",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/cristiano-ronaldo-al-nassr-arabia-a19decb6ccb1fad26905e5dfd46fee6c",
+        "date": "2026-02-02 17:27:57",
+        "sentiment_score": -0.7171310782432556
+    },
+    {
+        "title": "Cristiano Ronaldo no juega con Al Nassr y estaría descontento con política de fichajes",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/02/CRISTIANO_RONALDO_09353.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2026/02/02/cristiano-ronaldo-no-juega-con-al-nassr-y-estara-descontento-con-poltica-de-fichajes/",
+        "date": "2026-02-02 17:27:56",
+        "sentiment_score": -0.7046421896666288
+    },
+    {
+        "title": "Raphinha entre algodones",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/02/6980a21d29bd6.jpeg",
+        "tags": [
+            "esports cope"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/raphinha-algodones-20260202_3299428.html",
+        "date": "2026-02-02 17:25:36",
+        "sentiment_score": 0.003366529941558838
+    },
+    {
+        "title": "Identificado el espectador que tiró un plátano a Vinícius en el Carlos Belmonte",
+        "image_url": "https://www.clm24.es/media/clm24/images/2026/01/16/2026011609342570473.jpg",
+        "tags": [
+            "albacete"
+        ],
+        "link": "https://www.clm24.es/articulo/albacete/identificado-espectador-que-tiro-platano-vinicius-carlos-belmonte/20260202181857470157.html",
+        "date": "2026-02-02 17:18:57",
+        "sentiment_score": -0.8835841044783592
+    },
+    {
+        "title": "Tasis, el padre del género negro en catalán",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/02/6980db2188bb4.r_d.4076-2907-705.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.lavanguardia.com/cultura/20260202/11456047/bcnegra-barcelona-tasis-padre-genero-negro-catalan.html",
+        "date": "2026-02-02 17:42:59",
+        "sentiment_score": 0.23611948639154434
+    },
+    {
+        "title": "Denuncian que trabajadores del Razetti cumplieron ocho meses sin transporte nocturno los domingos",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "salud",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/denuncian-que-trabajadores-del-razetti-cumplieron-ocho-meses-sin-transporte-nocturno-los-domingos/",
+        "date": "2026-02-02 17:41:08",
+        "sentiment_score": -0.10917830467224121
+    },
+    {
+        "title": "La Fageda incorpora a Mireia Sáenz de Buruaga como nueva directora de Comunicación y de Relaciones Institucionales",
+        "image_url": "https://images.ecestaticos.com/GZGhnGmiFV7_KkhPBLzdD0O7SHc=/0x0:1200x798/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F47c%2Fea1%2Fa60%2F47cea1a60e5edba68b9f6786aeaaf624.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elconfidencial.com/empresas/2026-02-02/la-fageda-comunicacion-mireia-saenz-1hms_4295650/",
+        "date": "2026-02-02 17:41:00",
+        "sentiment_score": 0.6435072720050812
+    },
+    {
+        "title": "¿Quieres acercarte a la Fontana di Trevi? Son dos euros",
+        "image_url": "https://static1.ara.cat/clip/9229ecb2-0e73-465d-80ee-8ea85cb9ecef_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "trevi",
+            "euros",
+            "fontana",
+            "di",
+            "acercarte",
+            "quieres",
+            "son"
+        ],
+        "link": "https://es.ara.cat/cultura/patrimonio/quieres-acercarte-fontana-di-trevi-son-euros_1_5636252.html",
+        "date": "2026-02-02 17:40:07",
+        "sentiment_score": -0.3089713901281357
+    },
+    {
+        "title": "Enero deja una sorpresa en las hipotecas variables tras el último dato del euríbor",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2021/01/01/2021010100000065698.png",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/dinero/enero-deja-sorpresa-hipotecas-variables-ultimo-dato-euribor/202602021838031001408.html",
+        "date": "2026-02-02 17:38:03",
+        "sentiment_score": 0.0763130635023117
+    },
+    {
+        "title": "Vivienda pide retirar de las plataformas 13.726 pisos turísticos ilegales en Canarias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6ec98d81-4e65-4fd1-a820-ba9f1a161b64_16-9-aspect-ratio_default_0_x1100y489.jpg",
+        "tags": [
+            "comunidades autónomas",
+            "canarias",
+            "vivienda",
+            "viviendas",
+            "pisos turísticos"
+        ],
+        "link": "https://www.laprovincia.es/canarias/2026/02/02/vivienda-pide-retirar-plataformas-13-126374058.html",
+        "date": "2026-02-02 17:35:39",
+        "sentiment_score": -0.4994406271725893
+    },
+    {
+        "title": "Óscar Puente acude mañana al Congreso para dar cuenta por los accidentes en los trenes",
+        "image_url": "https://forbes.es/wp-content/uploads/2026/02/fotonoticia_20260202180901_1920-1200x675.jpg",
+        "tags": [
+            "economía",
+            "última hora"
+        ],
+        "link": "https://forbes.es/economia/867684/oscar-puente-acude-manana-al-congreso-para-dar-cuenta-por-los-accidentes-en-los-trenes/",
+        "date": "2026-02-02 17:35:09",
+        "sentiment_score": -0.76592131331563
     }
 ];
