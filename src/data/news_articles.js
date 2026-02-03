@@ -1,192 +1,5 @@
 export default [
     {
-        "title": "Un juez frena a la Liga y permite al Getafe inscribir jugadores",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MKML3IQK7FM2PDFIN5BPIR27TM.jpg?auth=5ba498298a6683954d90f2ac276c9910a69b8cc25d1f4499a6a5833b1deeb642&width=1200",
-        "tags": [
-            "getafe cf",
-            "fichajes",
-            "futbolistas",
-            "fútbol",
-            "conflictos deportivos",
-            "laliga ea sports",
-            "deportes",
-            "entrenadores",
-            "competiciones"
-        ],
-        "link": "https://elpais.com/deportes/futbol/2026-01-30/un-juez-frena-a-la-liga-y-permite-al-getafe-inscribir-jugadores.html",
-        "date": "2026-01-30 17:31:16",
-        "sentiment_score": -0.8523443304002285
-    },
-    {
-        "title": "SEEDO reclama una Estrategia Integral para la Obesidad en Adulto con políticas públicas sobre los factores estructurales",
-        "image_url": "https://www.infobae.com/resizer/v2/BTL7BQ7PABD7LK4BGVWZ6HCAPM.jpg?auth=20909ff66a4e99846e5065ceb5814f4ad09a43d4d09f8707923649d5a268be2d&height=1440&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/30/seedo-reclama-una-estrategia-integral-para-la-obesidad-en-adulto-con-politicas-publicas-sobre-los-factores-estructurales/",
-        "date": "2026-01-30 17:31:00",
-        "sentiment_score": 0.13202876597642899
-    },
-    {
-        "title": "Horario del Levante – Atlético de Madrid: cuándo es el partido de la Liga y dónde ver por TV gratis en directo",
-        "image_url": "https://okdiario.com/img/2026/01/29/donde-ver-levante-atletico-.jpg",
-        "tags": [
-            "directo",
-            "atlético de madrid",
-            "deportes",
-            "la liga",
-            "levante unión deportiva"
-        ],
-        "link": "https://okdiario.com/deportes/horario-del-levante-atletico-madrid-cuando-partido-liga-donde-ver-tv-gratis-directo-video-16155920",
-        "date": "2026-01-30 17:30:57",
-        "sentiment_score": -0.13842467963695526
-    },
-    {
-        "title": "Hay polémica por el equipo en el que jugará el ‘influencer’ colombiano conocido por su parecido con Vinícius Junior, figura del Real Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/HEBVRS5AONEB3ILYYHXHGMVQYA.jpg?auth=6835adb21ff53da9e64271b353d786ac0c2cde439b2de6204b5a4eb1dc234868&height=1063&smart=true&width=1890",
-        "tags": [
-            "ricardo rincón",
-            "vini jr. colombiano",
-            "real frontera",
-            "jugador de fútbol",
-            "caso spreen",
-            "influencer colombiano",
-            "colombia-deportes",
-            "segunda división",
-            "vini jr.",
-            "fútbol de venezuela",
-            "equipo profesional",
-            "vinícius jr.",
-            "firma de contrato"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/01/30/hay-polemica-por-el-equipo-en-el-que-jugara-el-influencer-colombiano-conocido-por-su-parecido-con-vinicius-junior-figura-del-real-madrid/",
-        "date": "2026-01-30 17:26:50",
-        "sentiment_score": -0.15829984843730927
-    },
-    {
-        "title": "Flick se cansa de las remontadas",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/30/hansi-flick-kmcG-U204451515945hF-1200x840@RC.JPG",
-        "tags": [
-            "lamine yamal",
-            "f.c. barcelona"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-primera/elche-barcelona-flick-cansa-remontadas-20260130182420-ntrc.html",
-        "date": "2026-01-30 17:25:29",
-        "sentiment_score": 0.26200518012046814
-    },
-    {
-        "title": "Jesús Ramírez, tras caer en la FIBA Europe Cup: \"Estamos jodidos\"",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/10/10/2025101011172441743.jpg",
-        "tags": [
-            "basket zaragoza"
-        ],
-        "link": "https://www.aragondigital.es/articulo/basket-zaragoza/jesus-ramirez-caer-fiba-europe-cup-estamos-jodidos/20260130182441963819.html",
-        "date": "2026-01-30 17:24:41",
-        "sentiment_score": -0.2857191562652588
-    },
-    {
-        "title": "Los teatros municipales de Zaragoza reciben 171.000 espectadores, un 4,2% más y 3,7 millones de recaudación en 2025",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260130181948_120.jpg",
-        "tags": [
-            "aragón"
-        ],
-        "link": "https://www.europapress.es/aragon/noticia-teatros-municipales-zaragoza-reciben-171000-espectadores-42-mas-37-millones-recaudacion-2025-20260130181948.html",
-        "date": "2026-01-30 17:19:48",
-        "sentiment_score": 0.8093189187347889
-    },
-    {
-        "title": "La justicia abre la puerta para que el Getafe pueda inscribir sus fichajes de invierno",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "derbi",
-            "efe",
-            "empresarios",
-            "presidentes",
-            "directivos",
-            "rayo vallecano - getafe cf",
-            "liga española primera división / laliga ea sports 2025/2026"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/30/la-justicia-abre-la-puerta-para-que-el-getafe-pueda-inscribir-sus-fichajes-de-invierno/",
-        "date": "2026-01-30 17:19:41",
-        "sentiment_score": 0.3987443074584007
-    },
-    {
-        "title": "Formación en gestión hotelera y turismo, clave para garantizar la competitividad sector",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7828013",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5754206/formacion-gestion-hotelera-turismo-clave-garantizar-competitividad-sector",
-        "date": "2026-01-30 17:19:35",
-        "sentiment_score": 0.26843997091054916
-    },
-    {
-        "title": "Fernando Alonso se sube por primera vez al nuevo AMR26 de Aston Martin",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/30/fernando-alonso-se-sube-por-primera-vez-al-nuevo-amr26-de-aston-martin/",
-        "date": "2026-01-30 17:31:47",
-        "sentiment_score": 0.2251751869916916
-    },
-    {
-        "title": "La huelga de trenes de febrero afectará a Renfe, Ouigo, Iryo y las principales empresas de mercancías",
-        "image_url": "https://forbes.es/wp-content/uploads/2026/01/fotonoticia_20260130180423_1920-1200x675.jpg",
-        "tags": [
-            "economía",
-            "última hora"
-        ],
-        "link": "https://forbes.es/economia/866806/la-huelga-de-trenes-de-febrero-afectara-a-renfe-ouigo-iryo-y-las-principales-empresas-de-mercancias/",
-        "date": "2026-01-30 17:30:12",
-        "sentiment_score": -0.20230819284915924
-    },
-    {
-        "title": "Hasta el 80% de los pacientes con cáncer puede sufrir desnutrición",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e0984472-4666-48c0-991b-f6efbbe40811_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "salud",
-            "oncología",
-            "pi vídeos",
-            "nutrición",
-            "cáncer"
-        ],
-        "link": "https://www.laopiniondemalaga.es/videos/sociedad/2026/01/30/pacientes-cancer-sufrir-desnutricion-126279071.html",
-        "date": "2026-01-30 17:29:05",
-        "sentiment_score": -0.5656920447945595
-    },
-    {
-        "title": "La cadena hotelera Bcn Urbaness Hotels refuerza su propuesta en Barcelona",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7828051",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5754245/cadena-hotelera-bcn-urbaness-hotels-refuerza-propuesta-barcelona",
-        "date": "2026-01-30 17:28:17",
-        "sentiment_score": 0.524916373193264
-    },
-    {
-        "title": "Así es el 'spot' de los Goya: la sintonía de Tosar y Rigoberta",
-        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/01/30/tosar-y-rigoberta-bandini-complicidad-y-admiracion-en-barcelona-para-anunciar-los-goya.r_d.617-459-5156.jpeg",
-        "tags": [
-            "ocio y cultura"
-        ],
-        "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/01/30/la-sintonia-de-luis-tosar-y-rigoberta-bandini-en-el-spot-oficial-de-los-premios-goya-2026-1889868.html",
-        "date": "2026-01-30 17:25:55",
-        "sentiment_score": 0.07011988013982773
-    },
-    {
-        "title": "Alianza institucional para impulsar los vinos del condado de Huelva en mercados estratégicos",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260130182543_690.jpg",
-        "tags": [
-            "huelva",
-            "andalucía"
-        ],
-        "link": "https://www.europapress.es/andalucia/huelva-00354/noticia-alianza-institucional-impulsar-vinos-condado-huelva-mercados-estrategicos-20260130182543.html",
-        "date": "2026-01-30 17:25:43",
-        "sentiment_score": 0.5294205620884895
-    },
-    {
         "title": "Manuela Bergerot: \"El enemigo no es el inmigrante sino esos millonarios que encontraron en Madrid un paraíso fiscal\"",
         "image_url": "https://static.eldiario.es/clip/8bf8ab2f-acd6-4d9f-94d0-28d24dd5d931_16-9-discover-aspect-ratio_default_0.jpg",
         "tags": [
@@ -3036,5 +2849,245 @@ export default [
         "link": "https://apnews.com/article/ter-stegen-lesion-girona-alemania-barcelona-3d2159865280bf13d3420a5619b53b63",
         "date": "2026-02-03 01:32:29",
         "sentiment_score": -0.7506537679582834
+    },
+    {
+        "title": "Así fue el cumpleaños de Felipe VI en Zarzuela: comida familiar junto a sus hijas entre actos institucionales",
+        "image_url": "https://www.infobae.com/resizer/v2/W5BQ7XGTYFCTHPXMOHVRHKUTJM.jpg?auth=5976e92dc3efa5f2a56bf27f3aad0e043d1d5797f1892ce8c96314f6fd636fe8&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-entretenimiento",
+            "casas reales",
+            "realeza",
+            "felipe vi",
+            "corazón y estilo españa",
+            "españa-noticias",
+            "casa real españa"
+        ],
+        "link": "https://www.infobae.com/espana/2026/02/03/asi-fue-el-cumpleanos-de-felipe-vi-en-zarzuela-comida-familiar-junto-a-sus-hijas-entre-actos-institucionales/",
+        "date": "2026-02-03 07:01:37",
+        "sentiment_score": 0.08457054942846298
+    },
+    {
+        "title": "El PP pide a Bruselas investigar el uso de fondos europeos en la línea AVE Madrid-Sevilla",
+        "image_url": "https://www.madridactual.es/images/stories/noticias/agencias/ep/2026/01/afectados-accidente-adamuz-ano-pedir-indemnizaciones-seguros.jpg",
+        "tags": [
+            "política nacional"
+        ],
+        "link": "https://www.madridactual.es/nacional/politica-nacional/pp-pide-comision-europea-investigar-fondos-feder-ave-20260203-8082770.html",
+        "date": "2026-02-03 07:00:52",
+        "sentiment_score": 0.06091899052262306
+    },
+    {
+        "title": "Conciertos de febrero en Santiago: de Los Lobos a James Rodhes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fb4c5208-d8bc-494c-ad49-975ee4df57af_16-9-discover-aspect-ratio_default_0_x378y148.jpg",
+        "tags": [
+            "entradas",
+            "compostela",
+            "cultura",
+            "sala capitol",
+            "música",
+            "jazz",
+            "conciertos",
+            "concierto"
+        ],
+        "link": "https://www.elcorreogallego.es/santiago/2026/02/03/conciertos-febrero-santiago-lobos-james-musica-126373407.html",
+        "date": "2026-02-03 06:58:02",
+        "sentiment_score": -0.923518855124712
+    },
+    {
+        "title": "Nueva jornada de restricciones en Rodalies: Barcelona mantiene 11 tramos con servicios alternativos por carretera",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/10/24/vivir-en-barcelona/804431186_11433292_1706x960.jpg",
+        "tags": [
+            "ave barcelona",
+            "autobús",
+            "movilidad",
+            "rodalies",
+            "sants",
+            "renfe barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/movilidad/20260203/nueva-jornada-restricciones-rodalies-barcelona-mantiene-tramos-servicios-alternativos-carretera/1003742728918_0.html",
+        "date": "2026-02-03 06:44:59",
+        "sentiment_score": -0.6214766446501017
+    },
+    {
+        "title": "Un Celta acorazado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/544936f5-7e47-4118-933a-3465d266b309_16-9-aspect-ratio_default_0_x739y287.jpg",
+        "tags": [
+            "goles",
+            "villarreal",
+            "getafe",
+            "curso"
+        ],
+        "link": "https://www.farodevigo.es/celta-de-vigo/2026/02/03/celta-acorazado-126381787.html",
+        "date": "2026-02-03 06:29:22",
+        "sentiment_score": -0.10701313614845276
+    },
+    {
+        "title": "Nominados a los Goya, a favor de Uclés en su polémica con Pérez Reverte",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/EuropaPress_7261730_susana_abaitua_nominada_mejor_actriz_protagonista_fantasma_batalla_posa-scaled.jpg",
+        "tags": [
+            "arturo pérez-reverte",
+            "cultura",
+            "goya"
+        ],
+        "link": "https://www.lanzadigital.com/cultura/nominados-a-los-goya-a-favor-de-ucles-en-su-polemica-con-perez-reverte/",
+        "date": "2026-02-03 06:20:05",
+        "sentiment_score": -0.1302202045917511
+    },
+    {
+        "title": "Las comunidades autónomas que ofrecen tarifa cero a los autónomos en 2026",
+        "image_url": "https://imagenes.businessinsider.es/files/image_1920_1080/uploads/imagenes/2026/02/02/6980b81525c182-92069133.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.businessinsider.es/economia/comunidades-autonomas-que-ofrecen-tarifa-cero-los-autonomos-2026_6928758_0.html",
+        "date": "2026-02-03 06:20:00",
+        "sentiment_score": 0.4022112302482128
+    },
+    {
+        "title": "La Princesa se suma a La Paz o el Infanta Leonor y se levanta contra la privatización sanitaria de Ayuso: \"Años de paciencia\"",
+        "image_url": "https://www.elplural.com/uploads/s1/24/42/89/2/la-presidenta-de-la-comunidad-de-madrid-isabel-diaz-ayuso-ep_7_480x270.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elplural.com/autonomias/madrid/princesa-suma-paz-infanta-leonor-levanta-contra-privatizacion-sanitaria-ayuso-anos-paciencia_380360102",
+        "date": "2026-02-03 06:19:50",
+        "sentiment_score": -0.07051095366477966
+    },
+    {
+        "title": "Sergio Ramos presume de lujo extremo mientras decide su futuro deportivo",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/26/2026012604415998806.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/sergio-ramos-presume-lujo-extremo-mientras-decide-futuro-deportivo/20260203071338373210.html",
+        "date": "2026-02-03 06:13:38",
+        "sentiment_score": 0.007613018155097961
+    },
+    {
+        "title": "\"El panorama es desolador; me fui unos meses fuera y a la vuelta tenía claro que quería terminar esa etapa de compartir piso\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/02/27/67c0b58f4e8a4.jpeg",
+        "tags": [
+            "herrera en cope"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/audios/panorama-desolador-me-meses-fuera-vuelta-tenia-claro-queria-terminar-etapa-compartir-piso-20260203_3298739.html",
+        "date": "2026-02-03 06:11:41",
+        "sentiment_score": -0.17451998591423035
+    },
+    {
+        "title": "TresorAntic refuerza su expansión en Cataluña con la feria TresorAntic Tortosa 2026",
+        "image_url": "https://castellondiario.com/wp-content/uploads/2026/02/tresorantic-refuerza-su-expansion-en-cataluna-con-la-feria-tresorantic-tortosa-2026.jpg",
+        "tags": [
+            "feria",
+            "actualidad"
+        ],
+        "link": "https://castellondiario.com/tresorantic-refuerza-su-expansion-en-cataluna-con-la-feria-tresorantic-tortosa-2026/",
+        "date": "2026-02-03 07:05:32",
+        "sentiment_score": 0.1842067837715149
+    },
+    {
+        "title": "Una nueva incidencia en el Centro de Tráfico de Adif paraliza Rodalies unos minutos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RQEA473WWRMNRMRU5FMYF4MXDA.jpg?auth=1f242654a127e698905a9920434c6b46be0411555c2644b512d82af29fcd1327&width=1200",
+        "tags": [
+            "transporte ferroviario",
+            "rodalies catalunya",
+            "cataluña",
+            "transporte"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2026-02-03/una-nueva-incidencia-en-el-centro-de-trafico-de-adif-paraliza-rodalies-unos-minutos.html",
+        "date": "2026-02-03 07:02:32",
+        "sentiment_score": -0.09461238980293274
+    },
+    {
+        "title": "Barcelona, una ciudad convertida en una película de género negro",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/02/03/059AB5BF-6998-45C2-BFD8-5734BBD2AED6/escena-cronica-sentimental-rojo_69.jpg?crop=2712%2C1526%2Cx0%2Cy253&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/barcelona-ciudad-convertida-pelicula-genero-negro_2026020369819cff1817b41eb62fbb8d.html",
+        "date": "2026-02-03 07:00:15",
+        "sentiment_score": -0.0649355798959732
+    },
+    {
+        "title": "El Peugeot 208 toma el mando del mercado español y prepara su salto deportivo eléctrico",
+        "image_url": "https://www.actualidadmotor.com/wp-content/uploads/2025/09/Peugeot-brand-logo.jpg",
+        "tags": [
+            "eléctricos",
+            "utilitario",
+            "ventas"
+        ],
+        "link": "https://www.actualidadmotor.com/el-peugeot-208-toma-el-mando-del-mercado-espanol-y-prepara-su-salto-deportivo-electrico/",
+        "date": "2026-02-03 07:00:00",
+        "sentiment_score": 0.36182511784136295
+    },
+    {
+        "title": "Una incidencia en los sistemas de señalización causa nuevos retrasos en Rodalies",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/02/02/6980736658c06.jpeg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.lavanguardia.com/local/catalunya/20260203/11456324/incidencia-sistemas-senalizacion-causa-nuevos-retrasos-rodalies.html",
+        "date": "2026-02-03 06:58:34",
+        "sentiment_score": 0.06729793548583984
+    },
+    {
+        "title": "Una nueva incidencia de Adif paraliza por completo el servicio de Rodalies en Barcelona",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2019/01/30/FAD28DA4-6350-464F-BB55-83DE95E9C088/70.jpg?crop=1200%2C675%2Cx0%2Cy112&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "sociedad",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/sociedad/nueva-incidencia-adif-paraliza-completo-servicio-rodalies-barcelona_2026020369819baa9243cc133c3079c3.html",
+        "date": "2026-02-03 06:54:34",
+        "sentiment_score": -0.24688218906521797
+    },
+    {
+        "title": "España hoy, 3 de enero de 2026: lo que tienes que saber",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/PLUS_ultra_sv.jpg",
+        "tags": [
+            "israel",
+            "bruselas",
+            "españa",
+            "venezuela",
+            "china",
+            "aranceles",
+            "gaza",
+            "europa",
+            "estados unidos"
+        ],
+        "link": "https://theobjective.com/espana/2026-02-03/espana-hoy-3-de-enero-de-2026-lo-que-tienes-que-saber/",
+        "date": "2026-02-03 06:47:47",
+        "sentiment_score": -0.6964535992592573
+    },
+    {
+        "title": "Revolución agrícola en España: usan lana de oveja para mejorar el suelo de olivares y resistir mejor las sequías",
+        "image_url": "https://okdiario.com/img/2026/01/30/oveja.jpg",
+        "tags": [
+            "naturaleza",
+            "ovejas",
+            "ciencia",
+            "científicos",
+            "descubrimientos",
+            "agricultura",
+            "agricultores",
+            "animales"
+        ],
+        "link": "https://okdiario.com/ciencia/revolucion-agricola-espana-usan-lana-oveja-mejorar-suelo-olivares-resistir-mejor-sequias-16168210",
+        "date": "2026-02-03 06:45:44",
+        "sentiment_score": 0.30685535073280334
+    },
+    {
+        "title": "Dana, verdad y utilización",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2026/02/02/1506320101-kvSD-U20490677595xsC-758x531@El%20Norte.jpg",
+        "tags": [
+            "gabriel rufián",
+            "caso koldo",
+            "dana",
+            "alberto núñez feijóo",
+            "investigación"
+        ],
+        "link": "https://www.elnortedecastilla.es/opinion/el-norte-dana-verdad-utilizacion-20260203212940-nt.html",
+        "date": "2026-02-03 06:41:35",
+        "sentiment_score": -0.9110843148082495
     }
 ];
