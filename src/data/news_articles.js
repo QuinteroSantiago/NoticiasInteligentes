@@ -2868,5 +2868,173 @@ export default [
         "link": "https://www.elmundo.es/economia/2026/02/02/6980e4d1e9cf4aaf6b8b45a5.html",
         "date": "2026-02-02 21:41:33",
         "sentiment_score": -0.897801217623055
+    },
+    {
+        "title": "Benzema se une a este equipo de Arabia Saudita para retar a Cristiano Ronaldo y su Al Nassr",
+        "image_url": "https://pxcdn.meridiano.net/022026/1770086371920.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "sports",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/benzema-se-une-a-este-equipo-de-arabia-saudita-para-retar-a-cristiano-ronaldo-y-su-al-nassr-20262222310",
+        "date": "2026-02-03 02:31:00",
+        "sentiment_score": 0.5099022909998894
+    },
+    {
+        "title": "El comisionado de la NFL Roger Goodell dice que ampliar la temporada a 18 juegos 'no es seguro'",
+        "image_url": "https://dims.apnews.com/dims4/default/25eacd3/2147483647/strip/true/crop/5880x3914+0+4/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F77%2Fdf%2Fece37d34c3d0d4a75ecb97132094%2F0af39d44010a4f5c952f1c83f7531db2",
+        "tags": [
+            "send to apple news",
+            "deportes",
+            "calendario 18 juegos partidos internacionales paris mexico",
+            "sports"
+        ],
+        "link": "https://apnews.com/article/calendario-18-juegos-partidos-internacionales-paris-mexico-53c73e23ca242d49510588131601e8c6",
+        "date": "2026-02-03 02:07:04",
+        "sentiment_score": -0.30745210498571396
+    },
+    {
+        "title": "El comisionado de la NFL Roger Goodell dice que ampliar la temporada a 18 juegos ‘no es seguro’",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2026/02/SUPER_BOWL-GOODELL_06033.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.bostonherald.com/2026/02/02/el-comisionado-de-la-nfl-roger-goodell-dice-que-ampliar-la-temporada-a-18-juegos-no-es-seguro/",
+        "date": "2026-02-03 02:07:03",
+        "sentiment_score": -0.24599231779575348
+    },
+    {
+        "title": "Cerró el mercado de fichajes en Europa: los cinco movimientos más destacados",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/02/02/fichajes-mercado-europa-mas-destacados-orix/",
+        "date": "2026-02-03 02:03:41",
+        "sentiment_score": 0.18100669980049133
+    },
+    {
+        "title": "Benzema se une a Al Hilal, el gran rival del Al Nassr de Cristiano Ronaldo",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/d1239f3/2147483647/strip/true/crop/3048x1600+0+216/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F17%2F4c%2F210829ac4a39acae29b42a79c799%2F3c0d392ad77f45c3ab797730841076b2.jpg",
+        "tags": [
+            "top",
+            "sports"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-02/benzema-se-une-al-hilal-el-gran-rival-del-al-nassr-de-cristiano-ronaldo",
+        "date": "2026-02-03 01:33:36",
+        "sentiment_score": -0.934879582375288
+    },
+    {
+        "title": "Máxima tensión con Cristiano Ronaldo en Arabia: de la polémica medida de protesta a la decisión de Benzema que lo enfureció",
+        "image_url": "https://www.infobae.com/resizer/v2/L6KZKAQHKRDMNDSE7K6RD4IQOY.JPG?auth=76d92061335d0eeff134c170f1cbf2156fe8e9e773a5f54512f2ef27c1d98fa3&height=1043&smart=true&width=1461",
+        "tags": [
+            "al hilal",
+            "deportes-argentina",
+            "karim benzema",
+            "saudi pro league",
+            "cristiano ronaldo",
+            "al ittihad",
+            "al nassr"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/03/maxima-tension-con-cristiano-ronaldo-en-arabia-de-la-polemica-medida-de-protesta-a-la-decision-de-benzema-que-lo-enfurecio/",
+        "date": "2026-02-03 01:32:33",
+        "sentiment_score": -0.15540005266666412
+    },
+    {
+        "title": "02 FEB 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/02-feb-2026-partidazo-cope-20260203_3299566.html",
+        "date": "2026-02-03 00:50:00",
+        "sentiment_score": -0.018268056213855743
+    },
+    {
+        "title": "Madrid, la comunidad con más inmigrantes: son 1,18 millones, el 15% de la población y la mayoría son venezolanos",
+        "image_url": "https://s3.elespanol.com/2026/02/02/actualidad/1003744113909_261221551_1706x960.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "extranjeros",
+            "inmigrantes",
+            "inmigración",
+            "sociedad",
+            "inmigración ilegal"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20260203/madrid-comunidad-inmigrantes-millones-poblacion-mayoria-venezolanos/1003744113717_0.html",
+        "date": "2026-02-03 00:12:34",
+        "sentiment_score": 0.21205918490886688
+    },
+    {
+        "title": "Predicción del clima en Barcelona para antes de salir de casa este 3 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
+        "tags": [
+            "últimas actualizaciones",
+            "clima",
+            "clima en españa",
+            "clima en barcelona"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/03/prediccion-del-clima-en-barcelona-para-antes-de-salir-de-casa-este-3-de-febrero/",
+        "date": "2026-02-03 02:15:40",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Lezama",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lezama"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/lezama_0_2005801976.html",
+        "date": "2026-02-03 02:08:35",
+        "sentiment_score": -0.03733694553375244
+    },
+    {
+        "title": "“Nvidia está en el centro de todo y va con mucha ventaja”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/02/6980b44da53eb.r_d.697-393-0.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20260203/11455863/nvidia-chips-jensen-huang-libros-economia.html",
+        "date": "2026-02-03 02:00:00",
+        "sentiment_score": 0.6888735368847847
+    },
+    {
+        "title": "Las incógnitas sobre Adamuz y el mantenimiento fuerzan a Renfe a aplazar su 'gran compra' de 2.000M en trenes AVE",
+        "image_url": "https://s3.elespanol.com/2026/02/02/actualidad/1003744114012_261223255_1706x1280.jpg",
+        "tags": [
+            "trenes",
+            "alstom",
+            "renfe",
+            "empresas",
+            "adif",
+            "talgo"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/20260203/incognitas-adamuz-mantenimiento-fuerzan-renfe-aplazar-gran-compra-trenes-ave/1003744113758_0.html",
+        "date": "2026-02-03 01:48:15",
+        "sentiment_score": 0.06966838985681534
+    },
+    {
+        "title": "El portero Ter Stegen se lesiona el muslo en su segundo partido con Girona",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/02/GIRONA-TER_STEGEN_71883.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2026/02/02/el-portero-ter-stegen-se-lesiona-el-muslo-en-su-segundo-partido-con-girona/",
+        "date": "2026-02-03 01:32:29",
+        "sentiment_score": -0.5005992278456688
+    },
+    {
+        "title": "El portero Ter Stegen se lesiona el muslo en su segundo partido con Girona",
+        "image_url": "https://dims.apnews.com/dims4/default/2bd0136/2147483647/strip/true/crop/1793x1193+0+1/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbe%2Fcc%2F084b1a29212a69fa6892ce6c9dae%2Fb108c58579444a489f3c8c71032a80ac",
+        "tags": [
+            "sports",
+            "send to apple news",
+            "ter stegen lesion girona alemania barcelona",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/ter-stegen-lesion-girona-alemania-barcelona-3d2159865280bf13d3420a5619b53b63",
+        "date": "2026-02-03 01:32:29",
+        "sentiment_score": -0.7506537679582834
     }
 ];
