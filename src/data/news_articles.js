@@ -1,227 +1,5 @@
 export default [
     {
-        "title": "Ayesa, en el punto de mira por las soldaduras de la tragedia de Adamuz, gestionará los datos educativos de Baleares",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ae0a8e32-336a-497a-bff5-913f6d0cbf37_16-9-discover-aspect-ratio_default_0_x246y96.jpg",
-        "tags": [
-            "baleares",
-            "mallorca",
-            "educación"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260130/ayesa-punto-mira-soldaduras-tragedia-126252724",
-        "date": "2026-01-30 06:27:44",
-        "sentiment_score": -0.43128663301467896
-    },
-    {
-        "title": "25 años de la Cámara de Cuentas: cuando el poder no quiere ser fiscalizado, el control externo vuelve a estar en riesgo",
-        "image_url": "https://www.elplural.com/uploads/s1/24/38/86/9/camara_7_480x270.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elplural.com/politica/espana/25-anos-camara-cuentas-cuando-poder-no-quiere-ser-fiscalizado-control-externo-vuelve-estar-riesgo_380042102",
-        "date": "2026-01-30 06:13:27",
-        "sentiment_score": -0.04249131679534912
-    },
-    {
-        "title": "Elena Reinés ('Woke Up'): \"La gente que me pedía suicidarme no era anónima. Ya no tienen miedo\"",
-        "image_url": "https://www.elplural.com/uploads/s1/20/77/92/4/elena-reines-woke-up-fotografia-de-jesus-olmedo_7_480x270.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.elplural.com/sociedad/elena-reines-woke-up-la-gente-me-pedia-suicidarme-no-era-anonima-no-tienen-miedo_380043102",
-        "date": "2026-01-30 06:13:20",
-        "sentiment_score": -0.19138287007808685
-    },
-    {
-        "title": "Adif confía en retirar este viernes las limitaciones de velocidad en la línea Zamora-Medina",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4119d6e3-fe36-4ab6-9036-ed7c5508b0d3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "madrid,renfe,adif,trenes,vías"
-        ],
-        "link": "https://www.laopiniondezamora.es/zamora/2026/01/30/adif-confia-retirar-viernes-limitaciones-126241822.html",
-        "date": "2026-01-30 06:00:16",
-        "sentiment_score": -0.32506799697875977
-    },
-    {
-        "title": "Real Madrid se encontrará con Benfica en el playoff de la Champions",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/30095425/El-Real-Madrid-tendra-que-volver-a-enfrentar-al-Benfica-en-los-playoff-de-la-Champions-Foto-Archivo.jpg",
-        "tags": [
-            "playoff",
-            "fútbol",
-            "deportes",
-            "playoff de la champions",
-            "europa league",
-            "sorteo"
-        ],
-        "link": "https://www.elnacional.com/2026/01/real-madrid-se-encontrara-con-benfica-en-el-playoff-de-la-champions/",
-        "date": "2026-01-30 06:00:00",
-        "sentiment_score": 0.078215591609478
-    },
-    {
-        "title": "El Yugo Socuéllamos se encomienda a sus refuerzos ante el Getafe B",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/9585c233-0f43-4863-b051-7f8db583bd72.jpg",
-        "tags": [
-            "ud socuéllamos",
-            "fútbol",
-            "deportes",
-            "socuéllamos",
-            "segunda rfef"
-        ],
-        "link": "https://www.lanzadigital.com/deportes/futbol/segunda-rfef/el-yugo-socuellamos-se-encomienda-a-sus-refuerzos-ante-el-getafe-b/",
-        "date": "2026-01-30 06:00:00",
-        "sentiment_score": 0.13003212213516235
-    },
-    {
-        "title": "El boicot a su película no es una opción",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/99cc83d9-f26b-474a-9ddb-fc00b803c350_source-aspect-ratio_default_0.jpeg",
-        "tags": [
-            "pelicula",
-            "opcion",
-            "boicot"
-        ],
-        "link": "https://www.deia.eus/opinion/2026/01/30/boicot-pelicula-opcion-10636630.html",
-        "date": "2026-01-30 05:59:30",
-        "sentiment_score": -0.8156603015959263
-    },
-    {
-        "title": "España hoy, 30 de enero de 2026: lo que tienes que saber",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/aldama-audiencia-medios.jpg",
-        "tags": [
-            "estados unidos",
-            "gaza",
-            "españa",
-            "china",
-            "venezuela",
-            "aranceles",
-            "europa",
-            "israel",
-            "bruselas"
-        ],
-        "link": "https://theobjective.com/espana/2026-01-30/espana-30-enero-2026-noticias/",
-        "date": "2026-01-30 06:54:13",
-        "sentiment_score": -0.4927166849374771
-    },
-    {
-        "title": "España hoy, 30 d enero de 2026: lo que tienes que saber",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/aldama-audiencia-medios.jpg",
-        "tags": [
-            "israel",
-            "china",
-            "aranceles",
-            "bruselas",
-            "estados unidos",
-            "gaza",
-            "europa",
-            "españa",
-            "venezuela"
-        ],
-        "link": "https://theobjective.com/espana/2026-01-30/espana-hoy-30-d-enero-de-2026-lo-que-tienes-que-saber/",
-        "date": "2026-01-30 06:54:13",
-        "sentiment_score": -0.4927166849374771
-    },
-    {
-        "title": "Accidente de tren en Adamuz, Córdoba, en directo Familias de las víctimas prometen \"luchar desde la serenidad\" por \"la verdad de los 45 del tren\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/072955b9-4c86-4693-9daf-578a7cb41749_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "trenes",
-            "renfe",
-            "adif",
-            "córdoba",
-            "accidente de tren córdoba"
-        ],
-        "link": "https://www.elperiodico.com/es/sucesos/20260130/directo-accidente-tren-adamuz-cordoba-125819317",
-        "date": "2026-01-30 06:53:00",
-        "sentiment_score": -0.5217651091516018
-    },
-    {
-        "title": "CaixaBank cierra el 2025 con un beneficio récord de 5.891 millones",
-        "image_url": "https://static1.ara.cat/clip/e980a023-b24f-4a89-9b62-998f89edbef8_16-9-aspect-ratio_default_1055876.jpg",
-        "tags": [
-            "891",
-            "beneficio",
-            "1",
-            "2025",
-            "millones",
-            "5",
-            "8",
-            "cierra",
-            "record",
-            "euros",
-            "caixabank"
-        ],
-        "link": "https://es.ara.cat/economia/banca/caixabank-cierra-2025-beneficio-record-5-891-millones-euros-1-8_1_5633017.html",
-        "date": "2026-01-30 06:48:43",
-        "sentiment_score": 0.4184952639043331
-    },
-    {
-        "title": "Pelea por el alquiler: Más de treinta familias compiten por cada piso que sale al mercado en Valencia",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/92b74a94-8018-4662-ae54-55595207a40a_16-9-discover-aspect-ratio_default_0_x1190y529.jpg",
-        "tags": [
-            "sevilla",
-            "barcelona",
-            "vivienda",
-            "valencia",
-            "alicante"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260130/pelea-alquiler-treinta-familias-compiten-vivienda-valencia-alquiler-valencia-126253339",
-        "date": "2026-01-30 06:47:02",
-        "sentiment_score": 0.15729829668998718
-    },
-    {
-        "title": "11.300 millones prometidos, 5.676 millones ejecutados: la brecha del 50% que explica el colapso de Rodalies",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f42c2085-969c-4ceb-8279-dff1aec50aad_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "infraestructuras",
-            "generalitat de cataluña",
-            "trenes",
-            "economía",
-            "rodalies",
-            "crisis",
-            "renfe",
-            "cercanías"
-        ],
-        "link": "https://www.laprovincia.es/economia/2026/01/30/inversion-ejecutada-adif-renfe-catalunya-rodalies-mitad-presupuestado-126252426.html",
-        "date": "2026-01-30 06:44:49",
-        "sentiment_score": -0.7428426183760166
-    },
-    {
-        "title": "Lo que debes saber hoy, 30 de enero, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/10/22/vivir-en-barcelona/1003742700332_15310520_1706x960.jpg",
-        "tags": [
-            "aemet (agencia estatal de meteorología)",
-            "rodalies",
-            "el tiempo",
-            "tiempo",
-            "vivir en barcelona",
-            "transports metropolitans barcelona tmb",
-            "autobús",
-            "clima",
-            "tráfico"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260130/debes-saber-hoy-enero-barcelona/1003742728041_0.html",
-        "date": "2026-01-30 06:26:31",
-        "sentiment_score": 0.5790506973862648
-    },
-    {
-        "title": "Vanesa Romero revela qué hizo con el dinero de ‘Aquí no hay quien viva’ y ‘La que se avecina’",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/04/03/2025040309421339500.jpg",
-        "tags": [
-            "famosos"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/famosos/vanesa-romero-revela-que-hizo-dinero-aqui-quien-viva-que-avecina/202601300721001000897.html",
-        "date": "2026-01-30 06:21:00",
-        "sentiment_score": -0.03456410765647888
-    },
-    {
-        "title": "Alberto Garzón: \"La clase obrera es conservadora, nunca ha votado a las formaciones radicales de izquierdas\"",
-        "image_url": "https://www.elplural.com/uploads/s1/24/38/90/9/alberto-garzon-ex-ministro-de-consumo-y-ex-coordinador-federal-de-izquierda-unida-en-una-entrevista-concedida-a-elplural-com-imagen-y-video-de-juan-carlos-lozano-2_7_480x270.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elplural.com/politica/espana/alberto-garzon-clase-obrera-conservadora_380032102",
-        "date": "2026-01-30 06:13:43",
-        "sentiment_score": -0.13028261065483093
-    },
-    {
         "title": "Un juez frena a la Liga y permite al Getafe inscribir jugadores",
         "image_url": "https://imagenes.elpais.com/resizer/v2/MKML3IQK7FM2PDFIN5BPIR27TM.jpg?auth=5ba498298a6683954d90f2ac276c9910a69b8cc25d1f4499a6a5833b1deeb642&width=1200",
         "tags": [
@@ -2838,5 +2616,257 @@ export default [
         "link": "https://forbes.es/economia/867684/oscar-puente-acude-manana-al-congreso-para-dar-cuenta-por-los-accidentes-en-los-trenes/",
         "date": "2026-02-02 17:35:09",
         "sentiment_score": -0.76592131331563
+    },
+    {
+        "title": "¿Qué sigue para Liam Ramos, de cinco años, y su padre tras su liberación de la custodia federal?",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/Screenshot_10.jpg",
+        "tags": [
+            "usa",
+            "actualidad",
+            "cinco años",
+            "internacionales",
+            "ice",
+            "liam ramos",
+            "padre"
+        ],
+        "link": "https://lapatilla.com/2026/02/02/que-sigue-para-liam-ramos-de-cinco-anos-y-su-padre-tras-su-liberacion-de-la-custodia-federal/",
+        "date": "2026-02-02 14:15:58",
+        "sentiment_score": -0.22471680119633675
+    },
+    {
+        "title": "Galerías del Tresillo convirtió un sofá gigante en el fenómeno emocional del año",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7831637",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5757135/galerias-tresillo-convirtio-sofa-gigante-fenomeno-emocional-ano",
+        "date": "2026-02-02 22:32:56",
+        "sentiment_score": -0.019660882651805878
+    },
+    {
+        "title": "Sexto fichaje del Real Zaragoza: Mawuli Mensah completa el centro del campo blanquillo",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/02/02/2026020222534553580.jpg",
+        "tags": [
+            "real zaragoza"
+        ],
+        "link": "https://www.aragondigital.es/articulo/real-zaragoza/real-zaragoza-refuerza-centro-campo-fichaje-mawuli-mensah/20260202225432964376.html",
+        "date": "2026-02-02 21:54:32",
+        "sentiment_score": 0.34620922431349754
+    },
+    {
+        "title": "Se confirma el bombazo: Al-Hilal ficha a Benzema hasta 2027",
+        "image_url": "https://okdiario.com/img/2026/02/02/imagen_recortada-2026-02-02t224144.383.jpg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "karim benzema"
+        ],
+        "link": "https://okdiario.com/deportes/confirma-bombazo-hilal-ficha-benzema-hasta-2027-16178850",
+        "date": "2026-02-02 21:42:51",
+        "sentiment_score": -0.27661551535129547
+    },
+    {
+        "title": "IELTS o Cambridge: qué certificado de inglés escoger en 2026",
+        "image_url": "https://www.elboletin.com/wp-content/uploads/2026/02/estudiantes-discutiendo-certificados-ingles.jpg",
+        "tags": [
+            "marco común europeo",
+            "empleabilidad",
+            "certificaciones",
+            "examenes",
+            "international house",
+            "nacional",
+            "estudiantes",
+            "profesionales",
+            "preparación",
+            "ingles",
+            "universidades"
+        ],
+        "link": "https://www.elboletin.com/ielts-o-cambridge-que-certificado-de-ingles-escoger-en-2026/",
+        "date": "2026-02-02 21:37:50",
+        "sentiment_score": 0.6955548375844955
+    },
+    {
+        "title": "Directo | Mercado de fichajes: El Atlético de Madrid inscribe a Obed Vargas",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/02/69810d28e6598.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/al-minuto/atletico-madrid-inscribe-obed-vargas-20260202_3299499.html",
+        "date": "2026-02-02 21:34:59",
+        "sentiment_score": 0.03980021923780441
+    },
+    {
+        "title": "El Atlético de Madrid se refuerza con Obed Vargas y Ademola Lookman en el cierre del mercado",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/02/ATL201TICO_DE_MADRID_31577.jpg",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2026/02/02/el-atltico-de-madrid-se-refuerza-con-obed-vargas-y-ademola-lookman-en-el-cierre-del-mercado/",
+        "date": "2026-02-02 21:32:41",
+        "sentiment_score": 0.5215230658650398
+    },
+    {
+        "title": "El Atlético de Madrid se refuerza con Obed Vargas y Ademola Lookman en el cierre del mercado",
+        "image_url": "https://dims.apnews.com/dims4/default/be890a6/2147483647/strip/true/crop/3562x2373+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0a%2Fd7%2F52bf3483e8732055e5793f0ebe81%2Fb1b471367cff421287b51d02231f5119",
+        "tags": [
+            "deportes",
+            "send to apple news",
+            "sports",
+            "atletico madrid obed vargas lookman"
+        ],
+        "link": "https://apnews.com/article/atletico-madrid-obed-vargas-lookman-1fa2dcf1f291705104d50b6af5e1b141",
+        "date": "2026-02-02 21:32:41",
+        "sentiment_score": 0.08851758763194084
+    },
+    {
+        "title": "Benzema deja el Al-Ittihad para fichar por el Al-Hilal",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/02/698116c10d1ca.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/benzema-deja-ittihad-fichar-hilal-20260202_3299514.html",
+        "date": "2026-02-02 21:28:29",
+        "sentiment_score": -0.0927867591381073
+    },
+    {
+        "title": "Pau Sans debuta por todo lo alto en Polonia: gol y victoria",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/02/02/2026020222174947559.jpg",
+        "tags": [
+            "real zaragoza"
+        ],
+        "link": "https://www.aragondigital.es/articulo/real-zaragoza/pau-sans-debuta-todo-alto-polonia-gol-victoria/20260202221923964374.html",
+        "date": "2026-02-02 21:19:23",
+        "sentiment_score": 0.7436280995607376
+    },
+    {
+        "title": "Varios nominados a los Goya muestran su apoyo a Uclés en su polémica con Pérez-Reverte: \"No todos perdieron igual la Guerra\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/04/08/fotografo-jorge-paris-hernandez-previsiones-20m-tema-david-ucles-2.r_d.950-640.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.20minutos.es/cultura/varios-nominados-los-goya-muestran-su-apoyo-ucles-su-polemica-con-perez-reverte-no-todos-perdieron-igual-guerra_6929015_0.html",
+        "date": "2026-02-02 21:11:09",
+        "sentiment_score": 0.028441578149795532
+    },
+    {
+        "title": "La nueva Ley de Movilidad Sostenible convierte los Planes de Movilidad al Trabajo en una palanca estratégica para las empresas",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7831635",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5757134/nueva-ley-movilidad-sostenible-convierte-planes-movilidad-trabajo-palanca-estrategica-empresas",
+        "date": "2026-02-02 22:33:05",
+        "sentiment_score": 0.5230425111949444
+    },
+    {
+        "title": "El CE Europa, a un paso de recuperar la gestión del Camp de l'Àliga de Barcelona tras más de diez años",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/25/gracia/1003742710713_15445669_1706x960.jpg",
+        "tags": [
+            "fútbol",
+            "gràcia",
+            "deportes",
+            "la vila de gràcia",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gracia/20260202/ce-europa-paso-recuperar-gestion-camp-laliga-barcelona-anos/1003742719416_0.html",
+        "date": "2026-02-02 22:30:00",
+        "sentiment_score": 0.7971890196204185
+    },
+    {
+        "title": "Sant Adrià revolucionará el polígono Montsolís: fin al caos logístico y apuesta por la industria 4.0",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/02/gran-barcelona/1003742728694_15668507_1706x960.jpg",
+        "tags": [
+            "sant adrià de besòs",
+            "urbanismo",
+            "filo cañete",
+            "gran barcelona",
+            "obras"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260202/sant-adria-revolucionara-poligono-montsolis-fin-caos-logistico-apuesta-industria/1003742727716_0.html",
+        "date": "2026-02-02 22:30:00",
+        "sentiment_score": -0.8769307257607579
+    },
+    {
+        "title": "Nominados a los Goya se posicionan contra las políticas migratorias de Donald Trump",
+        "image_url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/78527749001/0d7e0a43-48b6-4ff6-8474-7b0883dcec26/main/224x126/39s637ms/match/image.jpg?pubId=85707284001",
+        "tags": [
+            "donald",
+            "nominados",
+            "goya",
+            "politicas",
+            "contra",
+            "posicionan",
+            "migratorias",
+            "trump"
+        ],
+        "link": "https://www.elcomercio.es/culturas/nominados-goya-posicionan-politicas-migratorias-donald-trump-20260202220518-vi.html",
+        "date": "2026-02-02 22:06:11",
+        "sentiment_score": 0.5464739706367254
+    },
+    {
+        "title": "Los nominados a los Goya se posicionan sobre algunos de los temas polémicos del momento",
+        "image_url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/78527749001/f718be4b-b2c4-4a53-b602-27f9c80c09bf/main/1920x1080/39s637ms/match/image.jpg?pubId=85707284001",
+        "tags": [
+            "nominados",
+            "goya",
+            "sobre",
+            "posicionan",
+            "momento",
+            "algunos",
+            "polemicos",
+            "temas"
+        ],
+        "link": "https://www.elcomercio.es/gente-estilo/nominados-goya-posicionan-sobre-temas-polemicos-momento-20260202220512-vi.html",
+        "date": "2026-02-02 22:05:59",
+        "sentiment_score": 0.5464739706367254
+    },
+    {
+        "title": "Reconocimiento al papel transformador de las empresas en la sociedad",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6b374fe3-b3f7-4c58-855e-29c4076a6bd6_16-9-discover-aspect-ratio_default_0_x850y319.jpg",
+        "tags": [
+            "el periódico",
+            "barcelona",
+            "empresa del año",
+            "empresas",
+            "innovación"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260202/reconocimiento-papel-transformador-empresas-sociedad-126369018",
+        "date": "2026-02-02 21:59:55",
+        "sentiment_score": 0.5897288024425507
+    },
+    {
+        "title": "Así queda el mercado de fichajes en el Real Zaragoza: llegadas y salidas",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/files/fp/uploads/imagenes/2026/02/02/larios-selles.r_d.419-190.jpeg",
+        "tags": [
+            "real zaragoza"
+        ],
+        "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/02/02/asi-queda-mercado-fichajes-real-zaragoza-llegadas-salidas-1890661.html",
+        "date": "2026-02-02 21:58:19",
+        "sentiment_score": 0.45699017494916916
+    },
+    {
+        "title": "Nominados a los Goya se posicionan contra las políticas migratorias de Donald Trump",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260202225221_120.jpg",
+        "tags": [
+            "vídeos culturaocio",
+            "cultura y ocio"
+        ],
+        "link": "https://www.culturaocio.com/videos/video-nominados-goya-posicionan-contra-politicas-migratorias-donald-trump-20260202225221.html",
+        "date": "2026-02-02 21:52:21",
+        "sentiment_score": -0.19820590317249298
+    },
+    {
+        "title": "Adif elimina trenes y sigue sin controlar la situación mientras arrecian las protestas internas: \"Ahora tratan de apaciguarnos\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/8ece551b3dfdc088dab5e019d976868d/f/image/jpeg/assets/multimedia/imagenes/2026/01/23/17691660669334.jpg",
+        "tags": [
+            "artículos césar urrutia",
+            "artículos clara rojas",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/economia/2026/02/02/6980e4d1e9cf4aaf6b8b45a5.html",
+        "date": "2026-02-02 21:41:33",
+        "sentiment_score": -0.897801217623055
     }
 ];
