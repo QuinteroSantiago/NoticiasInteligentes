@@ -1,247 +1,5 @@
 export default [
     {
-        "title": "(Cró) Osasuna desaprovecha la crisis del Villarreal y el Oviedo vuelve a ganar después de cuatro meses",
-        "image_url": "https://www.infobae.com/resizer/v2/C6GQ3ZHL2RA5TNMMBA6KVX5DY4.jpg?auth=eef142ea096c5db4bbc20e120db8e4a74616564c7cd4699d1451f4f6c25a8ddd&height=1282&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/31/cro-osasuna-desaprovecha-la-crisis-del-villarreal-y-el-oviedo-vuelve-a-ganar-despues-de-cuatro-meses/",
-        "date": "2026-01-31 17:45:34",
-        "sentiment_score": -0.05123525857925415
-    },
-    {
-        "title": "Raíllo quiere probarse este domingo para la 'final' ante el Sevilla",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3656555.jpg",
-        "tags": [
-            "primera división",
-            "ultimas noticias",
-            "fútbol",
-            "real mallorca",
-            "laliga",
-            "rcd mallorca",
-            "última hora",
-            "antonio raíllo"
-        ],
-        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/01/31/2560507/raillo-probara-este-domingo-para-final-ante-sevilla.html",
-        "date": "2026-01-31 17:24:50",
-        "sentiment_score": -0.767716895788908
-    },
-    {
-        "title": "El Real Madrid no termina de recuperar a sus baluartes en defensa",
-        "image_url": "https://i.ytimg.com/vi/5zXZdXcU6us/mqdefault.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-internacional/el-real-madrid-no-termina-de-recuperar-a-sus-baluartes-en-defensa-202613113170",
-        "date": "2026-01-31 17:17:00",
-        "sentiment_score": -0.8851936794817448
-    },
-    {
-        "title": "CRÓNICA | Athletic Club de Bilbao – RCD Espanyol Fem: el infortunio se ceba con las pericas (2-1)",
-        "image_url": "https://lagrada.org/wp-content/uploads/2026/01/Once-inicial-del-Espanyol-Femenino-frente-al-Athletic-Club-de-Bilbao-jornada-18.jpg",
-        "tags": [
-            "femenino",
-            "athletic",
-            "f",
-            "jornada",
-            "bilbao",
-            "rcd",
-            "liga",
-            "espanyol femenino",
-            "club",
-            "18",
-            "espanyol"
-        ],
-        "link": "https://lagrada.org/cronica-athletic-club-bilbao-espanyol-femenino-liga-f/",
-        "date": "2026-01-31 17:15:17",
-        "sentiment_score": 0.022929832339286804
-    },
-    {
-        "title": "Osasuna padece un lamentable arbitraje en El Sadar y acaba cediendo un empate contra el Villarreal",
-        "image_url": "https://navarra.okdiario.com/media/navarra/images/2026/01/31/2026013118110055046.jpg",
-        "tags": [
-            "osasuna"
-        ],
-        "link": "https://navarra.okdiario.com/articulo/osasuna/cronica-partido-futbol-osasuna-villarreal-sadar-pamplona/20260131181430631604.html",
-        "date": "2026-01-31 17:14:30",
-        "sentiment_score": 0.28894174844026566
-    },
-    {
-        "title": "A Sellés se le acaban los milagros: el Albacete saca los colores a un Real Zaragoza que no da para más",
-        "image_url": "https://s3.elespanol.com/2026/01/31/actualidad/1003744111805_261194273_1706x960.jpg",
-        "tags": [
-            "real zaragoza",
-            "albacete balompié",
-            "segunda división"
-        ],
-        "link": "https://www.elespanol.com/aragon/deportes/real-zaragoza/20260131/selles-acaban-milagros-albacete-saca-colores-real-zaragoza-no-da/1003744111801_0.html",
-        "date": "2026-01-31 17:08:16",
-        "sentiment_score": -0.7578514739871025
-    },
-    {
-        "title": "Mastantuono no levanta cabeza y su puesto en el Real Madrid corre peligro",
-        "image_url": "https://i.ytimg.com/vi/Y6x58BQfNmo/mqdefault.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-internacional/mastantuono-no-levanta-cabeza-y-su-puesto-en-el-real-madrid-corre-peligro-20261311350",
-        "date": "2026-01-31 17:05:00",
-        "sentiment_score": -0.2996942959725857
-    },
-    {
-        "title": "El legado del \"Principito\" ovetense, el chaval que empezó vendiendo relojes en su Seat 600",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8de955ee-fc64-4dc7-a00a-b5170495ac6e_16-9-aspect-ratio_default_0_x787y408.jpg",
-        "tags": [
-            "montecerrao",
-            "plaza",
-            "seat"
-        ],
-        "link": "https://www.lne.es/oviedo/2026/01/31/legado-principito-ovetense-chaval-empezo-126282562.html",
-        "date": "2026-01-31 17:00:11",
-        "sentiment_score": -0.17801997065544128
-    },
-    {
-        "title": "El motivo por el que entrenadores y jugadores llevan un brazalete verde en la jornada 22 de Liga",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/01/31/697e323c19117.r_d.1101-709-6250.jpeg",
-        "tags": [
-            "la liga"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20260131/motivo-cual-entrenadores-jugadores-llevan-brazalete-verde-jornada-22-liga_380415.html",
-        "date": "2026-01-31 16:53:31",
-        "sentiment_score": 0.3916962444782257
-    },
-    {
-        "title": "El Real Madrid encara otra sobremesa volcánica ante el Rayo",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/31/mbappe-kteG-U20456160012biG-1200x840@RC.JPG",
-        "tags": [
-            "real madrid",
-            "kylian mbappé",
-            "rayo vallecano",
-            "thibaut courtois",
-            "vinícius"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/real-madrid-encara-sobremesa-volcanica-ante-rayo-20260131173501-ntrc.html",
-        "date": "2026-01-31 16:46:58",
-        "sentiment_score": -0.5458062142133713
-    },
-    {
-        "title": "El Albacete Balompié confirma su gran momento de forma y supera con solvencia al Zaragoza en el estadio Carlos Belmonte (2-0)",
-        "image_url": "https://www.lacerca.com/imagenes/api_seo_43_thumb/2d3de61e153cae0e3673b45cdd0e36e5.jpg",
-        "tags": [
-            "noticias",
-            "albacete"
-        ],
-        "link": "https://www.lacerca.com/noticias/albacete/albacete-balompie-confirma-momento-zaragoza-carlos-belmonte-3-799983-1.html",
-        "date": "2026-01-31 17:50:00",
-        "sentiment_score": 0.7072232365608215
-    },
-    {
-        "title": "Renfe sustituye trenes por autobuses desde Alicante por nuevos cortes en la red ferroviaria",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e47a2a37-3882-4973-bcc5-1b979e1f5b40_16-9-aspect-ratio_default_0_x640y272.jpg",
-        "tags": [
-            "alicante",
-            "obras",
-            "corredor mediterráneo",
-            "renfe",
-            "estación de tren"
-        ],
-        "link": "https://www.informacion.es/alicante/2026/01/31/nuevos-cortes-ferroviaria-obligan-autobus-alicante-126302802.html",
-        "date": "2026-01-31 17:47:32",
-        "sentiment_score": -0.8038507010787725
-    },
-    {
-        "title": "Iker Sagalá: Más allá de la música",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c5d29de8-2d9a-4171-baa4-e1400b480af1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "musica"
-        ],
-        "link": "https://www.deia.eus/bizkaia/2026/01/31/musica-10642512.html",
-        "date": "2026-01-31 17:39:13",
-        "sentiment_score": -0.0674721747636795
-    },
-    {
-        "title": "El Barça B de Belletti cierra dos fichajes de lujo para sustituir las dos bajas más sensibles",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/31/culemania/secciones/1003742728423_15665302_1706x960.jpg",
-        "tags": [
-            "fichajes barça",
-            "barça b",
-            "secciones"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260131/barca-belletti-cierra-fichajes-sustituir-bajas-sensibles/1003742728411_0.html",
-        "date": "2026-01-31 17:38:04",
-        "sentiment_score": -0.7008368326351047
-    },
-    {
-        "title": "Vecinos de El Prat (Barcelona) beneficiarios de 101 viviendas sociales de cooperativa",
-        "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://es.investing.com/news/stock-market-news/vecinos-de-el-prat-barcelona-beneficiarios-de-101-viviendas-sociales-de-cooperativa-3492909",
-        "date": "2026-01-31 17:37:39",
-        "sentiment_score": 0.06965166702866554
-    },
-    {
-        "title": "El restaurante asturiano en una aldea de 20 habitantes que solo cocina productos comprados \"a 20 kilómetros a la redonda\" y que recomienda la guía Michelin: \"Te sorprenderá\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6325208b-026d-4714-b845-810b0e6f4cb1_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "asturiano",
-            "guía michelin",
-            "michelin",
-            "asturias"
-        ],
-        "link": "https://www.lne.es/videos/asturias/2026/01/31/restaurante-asturiano-aldea-20-habitantes-126303342.html",
-        "date": "2026-01-31 17:34:07",
-        "sentiment_score": 0.14881807565689087
-    },
-    {
-        "title": "Hamilton enciende la ilusión en Ferrari",
-        "image_url": "https://mundonow.com/wp-content/uploads/2025/10/35a2eefec9af23451c87efdf83aa21015d42fbec-550x367.jpg",
-        "tags": [
-            "hogar y auto"
-        ],
-        "link": "https://mundonow.com/hamilton-enciende-la-ilusion-en-ferrari/",
-        "date": "2026-01-31 17:31:10",
-        "sentiment_score": 0.8060400523245335
-    },
-    {
-        "title": "La Iglesia de Barcelona crea 'Spe Salvi', una red de detección y ayuda para prevenir suicidios: \"Los sacerdotes contarán con una guía\"",
-        "image_url": "https://album.mediaset.es/eimg/2026/01/29/catedral-de-barcelona-en-una-foto-de-archivo_4fc0.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.telecinco.es/noticias/catalunya/20260131/iglesia-barcelona-crea-spe-salvi-red-deteccion-ayuda-prevenir-suicidios_18_018194166.html",
-        "date": "2026-01-31 17:30:49",
-        "sentiment_score": -0.6983637008816004
-    },
-    {
-        "title": "La curiosa boda entre dos cruceristas en el Cunqueiro ante una operación a vida o muerte",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/174c74f1-ce3c-498b-8638-56391e4935e3_16-9-aspect-ratio_default_0_x714y267.jpg",
-        "tags": [
-            "bodas",
-            "hospital álvaro cunqueiro"
-        ],
-        "link": "https://www.farodevigo.es/videos/gran-vigo/2026/01/31/boda-cruceristas-hospital-alvaro-cunqueiro-operacion-vida-muerte-126301635.html",
-        "date": "2026-01-31 17:23:50",
-        "sentiment_score": 0.29920506477355957
-    },
-    {
-        "title": "Lewandowski podría irse del Barcelona este año",
-        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2026/01/Lewandowski-podria-irse-del-Barcelona-este-ano-elorientaldemonagas.com-31-de-enero-de-2026.jpg",
-        "tags": [
-            "monagas",
-            "deportes",
-            "venezuela",
-            "maturin"
-        ],
-        "link": "https://elorientaldemonagas.com/lewandowski-podria-irse-del-barcelona-este-ano/",
-        "date": "2026-01-31 17:15:39",
-        "sentiment_score": -0.28160202503204346
-    },
-    {
         "title": "El Barça se gusta ante el Elche",
         "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/31/Clipboard-0095-k5EE-U20459727462raG-1200x840@RC.jpg",
         "tags": [
@@ -2937,5 +2695,200 @@ export default [
         "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20260204/adif-centro-caos-ferroviario-incidencias-vias-aumentan-solo-semana/1003744114650_0.html",
         "date": "2026-02-04 01:17:41",
         "sentiment_score": -0.023928165435791016
+    },
+    {
+        "title": "Un informe revela que el Parlamento incumple la Constitución al actuar como «simple buzón» de las peticiones ciudadanas",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260204070249.jpg?fit=1920%2C1081&ssl=1",
+        "tags": [
+            "política"
+        ],
+        "link": "https://cronicadecantabria.com/cr/un-informe-revela-que-el-parlamento-incumple-la-constitucin-al-actuar-como-simple-buzn-de-las-peticiones-ciudadanas/",
+        "date": "2026-02-04 07:00:06",
+        "sentiment_score": -0.4523473270237446
+    },
+    {
+        "title": "Blanca, tras mudarse a Madrid: \"Un piso que debería costar 800 te lo ponen a 1600 porque cuentan con que van a entrar dos salarios de personas que ganan bien\"",
+        "image_url": "https://imagenes.cope.es/files/webp_328_184/uploads/2025/02/06/67a4ee1b83c0a.png",
+        "tags": [
+            "herrera en cope"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/audios/blanca-mudarse-madrid-piso-deberia-costar-800-te-ponen-1600-cuentan-entrar-dos-salarios-personas-ganan-20260204_3300502.html",
+        "date": "2026-02-04 06:55:34",
+        "sentiment_score": -0.15055102109909058
+    },
+    {
+        "title": "Multas a caseros y alta velocidad relativa",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/static/ESPEspanol/img/elespanol_amp-1706x960.png?hash=924e",
+        "tags": [
+            "primeras planas",
+            "multa",
+            "cataluña"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260204/multas-caseros-alta-velocidad-relativa/1003742729311_0.html",
+        "date": "2026-02-04 06:55:23",
+        "sentiment_score": -0.7639547102153301
+    },
+    {
+        "title": "Marta García Aller señala la importancia de limitar el acceso de menores a redes sociales: \"Un debate que trasciende la izquierda y la derecha\"",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2025/11/05/B6BE1F4E-50BF-48F5-86DA-4563F1B046EA/marta-garcia-aller_96.jpg?crop=6000%2C3375%2Cx0%2Cy163&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "sociedad",
+            "noticias",
+            "ondacero"
+        ],
+        "link": "https://www.ondacero.es/noticias/sociedad/marta-garcia-aller-senala-importancia-limitar-acceso-menores-redes-sociales-debate-que-trasciende-izquierda-derecha_202602046982eca82f00a04688f69c23.html",
+        "date": "2026-02-04 06:52:24",
+        "sentiment_score": -0.2773429825901985
+    },
+    {
+        "title": "Primer encontronazo del vestuario del Real Madrid con Arbeloa mientras Florentino se aferra a Pintus",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f5b0f867-3b6d-4db8-bd46-d6b526cb8e5a_16-9-discover-aspect-ratio_default_0_x474y209.jpg",
+        "tags": [
+            "álvaro arbeloa",
+            "xabi alonso",
+            "real madrid"
+        ],
+        "link": "https://www.elcorreogallego.es/deportes/2026/02/04/arbeloa-pintus-real-madrid-encontronazo-vestuario-126423073.html",
+        "date": "2026-02-04 06:29:19",
+        "sentiment_score": -0.6143325641751289
+    },
+    {
+        "title": "La batalla por la final del Mundial 2030 sigue muy abierta: Madrid contra Barcelona... aunque Marruecos no se rinde",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/03/69824791e7c460-19378056.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/batalla-por-final-mundial-2030-sigue-muy-abierta-madrid-contra-barcelona-aunque-marruecos-no-se-rinde_6929568_0.html",
+        "date": "2026-02-04 06:27:42",
+        "sentiment_score": 0.7785362154245377
+    },
+    {
+        "title": "Mantener la tradición para alimentar el sueño del Real Oviedo",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/02/04/real-oviedo-rayo-vallecano-jean-fracois-hernandez-dely-valdes-kfGE-RVdLLiw8naz4tM02P4E8BjP-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "luis aragonés",
+            "rayo vallecano",
+            "real oviedo"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/rayo-vallecano-real-oviedo-primera-division-estadisticas-20260203070621-nt.html",
+        "date": "2026-02-04 06:08:26",
+        "sentiment_score": -0.5840500965714455
+    },
+    {
+        "title": "La Consejería catalana de Salud consolida la biopsia líquida como prueba diagnóstica de precisión en el cáncer de pulmón",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260204074404.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "sanidad"
+        ],
+        "link": "https://cronicadecantabria.com/cr/la-consejera-catalana-de-salud-consolida-la-biopsia-lquida-como-prueba-diagnstica-de-precisin-en-el-cncer-de-pulmn/",
+        "date": "2026-02-04 07:00:07",
+        "sentiment_score": -0.07057012617588043
+    },
+    {
+        "title": "El patrimonio que hace sonreír a Manolo García: vende cuadros en Barcelona y sus derechos de autor",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/manolo-garcia-patrimonio.jpeg",
+        "tags": [
+            "cantantes",
+            "barcelona",
+            "patrimonio",
+            "gente",
+            "celebrities"
+        ],
+        "link": "https://theobjective.com/gente/2026-02-04/patrimonio-sonreir-manolo-garcia-cuadros-derechos/",
+        "date": "2026-02-04 07:00:00",
+        "sentiment_score": 0.8878563530743122
+    },
+    {
+        "title": "Año Nuevo Chino 2026: Cuándo es, qué animal lo representa y cuál es su significado",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260204075956_690.jpg",
+        "tags": [
+            "desconecta",
+            "curiosity"
+        ],
+        "link": "https://www.europapress.es/desconecta/curiosity/noticia-ano-nuevo-chino-2026-cuando-animal-representa-cual-significado-20260204075956.html",
+        "date": "2026-02-04 06:59:56",
+        "sentiment_score": 0.7549809738993645
+    },
+    {
+        "title": "Un Rey cercano en Cataluña: Felipe VI protagoniza el Premio Princesa de Gerona Social 2026",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2026/02/04/6982eb603638c.jpeg",
+        "tags": [
+            "casa real"
+        ],
+        "link": "https://www.eldebate.com/espana/casa-real/20260204/rey-cercano-cataluna-felipe-vi-protagoniza-premio-princesa-gerona-social-2026_381466.html",
+        "date": "2026-02-04 06:47:42",
+        "sentiment_score": 0.10873310267925262
+    },
+    {
+        "title": "Lo que debes saber hoy, 4 de febrero, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/10/26/vivir-en-barcelona/1003742701393_15325193_1706x960.jpg",
+        "tags": [
+            "rodalies",
+            "tráfico",
+            "el tiempo",
+            "vivir en barcelona",
+            "transports metropolitans barcelona tmb",
+            "autobús"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260204/debes-saber-hoy-febrero-barcelona/1003742729310_0.html",
+        "date": "2026-02-04 06:47:19",
+        "sentiment_score": -0.9133553616702557
+    },
+    {
+        "title": "La gasolina más barata y más cara de Madrid, Barcelona y otras ciudades de España este 4 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "precio de la gasolina en españa hoy",
+            "precio de la gasolina en españa",
+            "españa-economia",
+            "madrid y otras ciudades",
+            "últimas actualizaciones",
+            "precio de la gasonila en barcelona"
+        ],
+        "link": "https://www.infobae.com/espana/2026/02/04/la-gasolina-mas-barata-y-mas-cara-de-madrid-barcelona-y-otras-ciudades-de-espana-este-4-de-febrero/",
+        "date": "2026-02-04 06:46:50",
+        "sentiment_score": 0.010696455836296082
+    },
+    {
+        "title": "Suena raro, pero la ciencia avala: el material que ha pasado de ser un residuo a aumentar la productividad agrícola",
+        "image_url": "https://okdiario.com/img/2026/01/30/oveja-mirando.jpg",
+        "tags": [
+            "naturaleza",
+            "ovejas",
+            "ciencia",
+            "curiosidades",
+            "científicos",
+            "descubrimientos",
+            "agricultura",
+            "agricultores"
+        ],
+        "link": "https://okdiario.com/ciencia/suena-raro-pero-ciencia-avala-material-que-pasado-ser-residuo-aumentar-productividad-agricola-16168288",
+        "date": "2026-02-04 06:45:16",
+        "sentiment_score": 0.21556393802165985
+    },
+    {
+        "title": "La almeriense que pinta el sufrimiento infantil en Gaza: 1.000 metros para no olvidar a Hind",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/files/fp/uploads/2026/02/03/698254393dba0.r_d.1023-750-5859.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.lavozdealmeria.com/vivir/cultura/451604/1-000-metros-olvidar-hind-almeriense-pinta-sufrimiento-infantil-gaza.html",
+        "date": "2026-02-04 06:38:45",
+        "sentiment_score": -0.32520199567079544
+    },
+    {
+        "title": "Falta de normas, asignaciones forzosas y diferencia entre comunidades: el complicado arranque de los tribunales de instancia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4c5a3620-71e6-4303-a6d2-6528c9ba14c0_16-9-aspect-ratio_default_0_x463y1321.jpg",
+        "tags": [
+            "tribunales",
+            "justicia",
+            "juzgados",
+            "política",
+            "jueces",
+            "funcionarios"
+        ],
+        "link": "https://www.lacronicabadajoz.com/nacional/2026/02/04/falta-normas-asignaciones-forzosas-diferencia-territorios-dificil-arranque-tribunales-instancia-126423222.html",
+        "date": "2026-02-04 06:30:39",
+        "sentiment_score": -0.04017728567123413
     }
 ];
