@@ -1,168 +1,5 @@
 export default [
     {
-        "title": "José Mourinho, icono de la locura de la nueva Champions",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/369fa92d-e0c5-493e-9ad1-df76d42b2b00_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real madrid",
-            "josé mourinho",
-            "champions",
-            "entender más"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20260131/jose-mourinho-icono-locura-nueva-126270670",
-        "date": "2026-01-31 06:00:26",
-        "sentiment_score": 0.1293342262506485
-    },
-    {
-        "title": "El viaducto de Guadalupe: una obra de ferrocarril inacabada en la provincia de Cáceres",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7456a4d3-ad92-4e55-83b8-a6c90ac3782d_16-9-aspect-ratio_default_0_x800y400.jpg",
-        "tags": [
-            "huelva",
-            "provincia de cáceres",
-            "madrid",
-            "ferrocarril",
-            "guadalupe"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres/2026/01/31/viaducto-guadalupe-ferrocarril-villuercas-historia-126262613.html",
-        "date": "2026-01-31 06:00:21",
-        "sentiment_score": 0.1334054172039032
-    },
-    {
-        "title": "Qué hacer si tu banco te coló un seguro de vida en la hipoteca sin consentimiento",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b0c9eadb-e977-4962-b648-356fb3789da2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cáceres",
-            "finanzas",
-            "españa",
-            "consumidores",
-            "juzgados"
-        ],
-        "link": "https://www.informacion.es/finanzas-personales/2026/01/31/banco-seguro-vida-hipoteca-dv-126104869.html",
-        "date": "2026-01-31 06:00:12",
-        "sentiment_score": -0.8514632768929005
-    },
-    {
-        "title": "Así anticipa la IA los cambios de precio del alquiler en 37 capitales españolas",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/26/6927247cd8aa79-39089603.jpeg",
-        "tags": [
-            "vivienda"
-        ],
-        "link": "https://www.20minutos.es/vivienda/asi-anticipa-ia-cambios-precio-alquiler-37-capitales-espanolas_6927976_0.html",
-        "date": "2026-01-31 06:00:00",
-        "sentiment_score": 0.036190539598464966
-    },
-    {
-        "title": "Los años de Gloria Serra en el barrio más auténtico de Barcelona: «Mi madre no se andaba con rodeos»",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/gloria-serra-infancia.jpeg",
-        "tags": [
-            "infancia",
-            "barcelona",
-            "presentadores de televisión",
-            "gente",
-            "la sexta",
-            "celebrities"
-        ],
-        "link": "https://theobjective.com/gente/2026-01-31/infancia-gloria-serra-barrio-autentico-barcelona/",
-        "date": "2026-01-31 06:30:00",
-        "sentiment_score": 0.8372290600091219
-    },
-    {
-        "title": "John Hoffman (GSMA) vincula el futuro del MWC con Barcelona: \"Si algo funciona, no lo toques\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/efba5982-568b-4210-b614-89941e7829e1_16-9-discover-aspect-ratio_default_0_x750y333.jpg",
-        "tags": [
-            "mobile world congress 2026"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260131/hoffman-gsma-vincula-futuro-mobile-world-congress-barcelona-funciona-126290310",
-        "date": "2026-01-31 06:28:31",
-        "sentiment_score": -0.1829100251197815
-    },
-    {
-        "title": "Aviso urgente del Meteocat: decretan alerta amarilla en toda Barcelona por vientos extremos",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2026/01/20/696f27b139ec7.r_d.1757-1342-1283.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20260131/1002611837/aviso-meteocat-decretan-alerta-amarilla-toda-barcelona-vientos-extremos-dct.html",
-        "date": "2026-01-31 06:23:46",
-        "sentiment_score": 0.06425169110298157
-    },
-    {
-        "title": "La red ferroviaria tendrá 24 puntos más con limitaciones temporales de velocidad en un total de 130 km la semana que viene",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/27790b76-3a6b-4f16-a4a7-26b481b18a68_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "trenes",
-            "rodalies",
-            "transportes",
-            "renfe",
-            "adif"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260131/rodalies-red-ferroviaria-24-puntos-limitaciones-velocidad-126290130",
-        "date": "2026-01-31 06:19:44",
-        "sentiment_score": -0.1612916886806488
-    },
-    {
-        "title": "Última hora de Rodalies en Catalunya, hoy en directo Horarios e incidencias en Renfe",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/272997ad-5440-4426-be9c-9bb1156ef62f_16-9-discover-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "trenes",
-            "rodalies",
-            "accidente",
-            "sucesos",
-            "renfe",
-            "accidentes de tren"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260131/rodalies-catalunya-renfe-ultima-hora-directo-125900162",
-        "date": "2026-01-31 06:16:00",
-        "sentiment_score": -0.820458434522152
-    },
-    {
-        "title": "Vida y muerte de un dueño de su destino",
-        "image_url": "https://static1.ara.cat/clip/e084c529-0300-4aca-8ad8-02713e3a815a_16-9-aspect-ratio_default_1055853.jpg",
-        "tags": [
-            "vida",
-            "dueno",
-            "muerte",
-            "destino"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/vida-muerte-dueno-destino_1_5634227.html",
-        "date": "2026-01-31 06:15:26",
-        "sentiment_score": -0.19729843735694885
-    },
-    {
-        "title": "Aluvión de multas en Sevilla por invadir el carril bus: las nuevas cámaras de vigilancia cazan a más de 22.000 conductores al mes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6082a6bb-ffbe-4233-a10c-143acc984ca0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "multas,carril bus,coches,movilidad,tráfico,ayuntamiento de sevilla"
-        ],
-        "link": "https://www.elcorreoweb.es/sevilla/2026/01/31/multas-camaras-conductores-coches-carril-bus-taxi-126222617.html",
-        "date": "2026-01-31 06:01:37",
-        "sentiment_score": -0.1757620871067047
-    },
-    {
-        "title": "La falta de control presupuestario eleva el gasto un 7% y baja la inversión pública",
-        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/f/3/4/montero-modelo-financiacion-efe.jpg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.eleconomista.es/economia/noticias/13753521/01/26/la-falta-de-control-presupuestario-eleva-el-gasto-un-7-y-baja-la-inversion-publica.html",
-        "date": "2026-01-31 06:00:55",
-        "sentiment_score": -0.9095532083883882
-    },
-    {
-        "title": "Barcelona buena y barata: Bar Colomina, habas guisadas y bacalao a la 'llauna' para desayunar en Nou Barris",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1137c7be-eb64-4de5-a245-2404bc66b01d_16-9-discover-aspect-ratio_default_0_x1062y398.jpg",
-        "tags": [
-            "gastronomía",
-            "dónde comer hoy",
-            "bares",
-            "restaurante",
-            "mercados",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260131/bar-colomina-mercado-merce-barcelona-126217647",
-        "date": "2026-01-31 06:00:26",
-        "sentiment_score": -0.09636905789375305
-    },
-    {
         "title": "(Cró) Osasuna desaprovecha la crisis del Villarreal y el Oviedo vuelve a ganar después de cuatro meses",
         "image_url": "https://www.infobae.com/resizer/v2/C6GQ3ZHL2RA5TNMMBA6KVX5DY4.jpg?auth=eef142ea096c5db4bbc20e120db8e4a74616564c7cd4699d1451f4f6c25a8ddd&height=1282&smart=true&width=1920",
         "tags": [
@@ -2709,5 +2546,154 @@ export default [
         "link": "https://www.elperiodicomediterraneo.com/espana/2026/02/03/pp-denuncia-uso-politica-sanidad-archivo-cribaje-cancer-mama-andalucia-126411947.html",
         "date": "2026-02-03 17:32:23",
         "sentiment_score": -0.3504955917596817
+    },
+    {
+        "title": "El Barcelona, a semifinales con susto final en Albacete (1-2)",
+        "image_url": "https://static.grupojoly.com/clip/8f877014-f4b6-46ca-a0f9-cf39d02b1058_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "susto",
+            "semifinales",
+            "albacete",
+            "barcelona",
+            "final"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/barcelona-semifinales-susto-final-albacete_0_2005809068.html",
+        "date": "2026-02-03 22:36:41",
+        "sentiment_score": 0.6335257962346077
+    },
+    {
+        "title": "Una canasta final de Grant amarga al Madrid en Atenas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f2e83ae2-8bb6-401c-8630-adb93e23f16a_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2026/02/03/canasta-final-grant-amarga-madrid-126420619.html",
+        "date": "2026-02-03 22:35:33",
+        "sentiment_score": 0.6642137318849564
+    },
+    {
+        "title": "El Barça despierta a un gran Albacete del sueño copero",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/02/03/2026020323172864159.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/deportes/barca-despierta-gran-albacete-sueno-copero/20260203233124440363.html",
+        "date": "2026-02-03 22:31:24",
+        "sentiment_score": 0.2091561257839203
+    },
+    {
+        "title": "El área metropolitana de Barcelona cierra un 2025 negro: 47 personas perdieron la vida en su trabajo",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/05/02/sucesos/1003742654233_14521546_1706x960.jpg",
+        "tags": [
+            "sindicatos",
+            "empleo",
+            "gran barcelona",
+            "accidentes",
+            "trabajadores",
+            "seguridad",
+            "precariedad laboral"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260203/area-metropolitana-barcelona-cierra-negro-personas-perdieron-vida-trabajo/1003742728701_0.html",
+        "date": "2026-02-03 22:30:00",
+        "sentiment_score": -0.779644712805748
+    },
+    {
+        "title": "El Barça no falla en Albacete y sigue en modo aspirante a todo",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/03/2026020323291640449.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/barca-falla-albacete-sigue-modo-aspirante-todo/20260203232950373277.html",
+        "date": "2026-02-03 22:29:50",
+        "sentiment_score": 0.5463902503252029
+    },
+    {
+        "title": "Lamine Yamal y Ronald Araujo encaminaron al Barcelona a semifinales de la Copa del Rey",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/ff7c0ef2ac6f564d4985a53a907f335ed8a94f40w.jpg",
+        "tags": [
+            "copa del rey",
+            "clasificacion",
+            "titulares",
+            "semifinales",
+            "barcelona",
+            "victoria",
+            "deportes"
+        ],
+        "link": "https://lapatilla.com/2026/02/03/lamine-yamal-y-ronald-araujo-encaminaron-al-barcelona-a-semifinales-de-la-copa-del-rey/",
+        "date": "2026-02-03 22:25:46",
+        "sentiment_score": 0.36461105197668076
+    },
+    {
+        "title": "Flick no se conforma: «Tenemos que definir mejor»",
+        "image_url": "https://okdiario.com/img/2026/02/03/imagen_recortada.jpg",
+        "tags": [
+            "fc barcelona",
+            "copa del rey",
+            "barcelona",
+            "albacete balompié",
+            "deportes",
+            "hansi flick"
+        ],
+        "link": "https://okdiario.com/deportes/flick-no-conforma-tenemos-que-definir-mejor-16185625",
+        "date": "2026-02-03 22:24:55",
+        "sentiment_score": 0.18369442224502563
+    },
+    {
+        "title": "Resumen Albacete-Barcelona: A semifinales con sufrimiento final (1-2)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/03/image-05c0ce68-744c-4497-96a9-6c3c9f87506e-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.eurosport.es/futbol/copa-del-rey/2025-2026/copa-del-rey-2025-2026-albacete-barcelona-video-resumen-resultado-goles-mejores-momentos-cuartos-de-final-hoy_vid60052309/video.shtml",
+        "date": "2026-02-03 22:24:12",
+        "sentiment_score": 0.17815136909484863
+    },
+    {
+        "title": "El Barcelona esquiva otro 'albacetazo'",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/20b5fb70-de57-4c7d-a93b24ee85497f73.jpg",
+        "tags": [
+            "lamine yamal",
+            "ronald araujo",
+            "frenkie de jong",
+            "dani olmo",
+            "fc barcelona",
+            "hansi flick",
+            "real madrid",
+            "estadio carlos belmonte",
+            "robert lewandowski",
+            "ferran torres",
+            "albacete balompié"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z9de53ac2-df40-4fe5-a6f8ff48fe33d312/202602/el-barca-esquiva-otro-albacetazo",
+        "date": "2026-02-03 22:22:51",
+        "sentiment_score": 0.737810805439949
+    },
+    {
+        "title": "Panam Sports confirma cambio de fecha para los Juegos Panamericanos Lima 2027 por la saturación del calendario deportivo",
+        "image_url": "https://www.infobae.com/resizer/v2/FQS5MJDUPRCLJNUZXWCZ64CUUQ.jpg?auth=9f5756fe5ab4720488912a6e7fc8ea81382c2923d0b3383e7f650421f26c28c5&height=1080&smart=true&width=1920",
+        "tags": [
+            "juegos panamericanos lima 2027",
+            "juegos panamericanos",
+            "peru-deportes"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/02/03/panam-sports-confirma-cambio-de-fecha-para-los-juegos-panamericanos-lima-2027-por-la-saturacion-del-calendario-deportivo/",
+        "date": "2026-02-03 22:20:43",
+        "sentiment_score": 0.08490723744034767
+    },
+    {
+        "title": "El Albacete rozó el milagro en el descuento: así fueron los últimos minutos de vértigo para el Barcelona",
+        "image_url": "https://okdiario.com/img/2026/02/03/imagen_recortada-2026-02-03t231911.340.jpg",
+        "tags": [
+            "fútbol",
+            "fc barcelona",
+            "copa del rey",
+            "barcelona",
+            "albacete balompié",
+            "deportes"
+        ],
+        "link": "https://okdiario.com/deportes/albacete-rozo-milagro-descuento-asi-fueron-ultimos-minutos-vertigo-barcelona-16185553",
+        "date": "2026-02-03 22:19:54",
+        "sentiment_score": 0.3835098594427109
     }
 ];
