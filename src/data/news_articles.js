@@ -1,480 +1,5 @@
 export default [
     {
-        "title": "Manuela Bergerot: \"El enemigo no es el inmigrante sino esos millonarios que encontraron en Madrid un paraíso fiscal\"",
-        "image_url": "https://static.eldiario.es/clip/8bf8ab2f-acd6-4d9f-94d0-28d24dd5d931_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "encontraron",
-            "enemigo",
-            "millonarios",
-            "fiscal",
-            "madrid",
-            "inmigrante",
-            "manuela",
-            "paraiso",
-            "no",
-            "bergerot"
-        ],
-        "link": "https://www.eldiario.es/madrid/manuela-bergerot-enemigo-no-inmigrante-millonarios-encontraron-madrid-paraiso-fiscal_1_12947717.html",
-        "date": "2026-01-30 21:30:24",
-        "sentiment_score": -0.09952512383460999
-    },
-    {
-        "title": "RTVE y TV3 llegan a un acuerdo con la Liga F para emitir cuatro partidos por jornada en lo que resta de temporada",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HFBLV2BMQZELZEYRAOC6HXMRY4.jpg?auth=9f4df78c8c1a6b861ab32c43cd2e07338883127d7e5754cec86f3af230fe01be&width=1200",
-        "tags": [
-            "liga f - finetwork",
-            "tv3",
-            "entrenadores",
-            "televisión pública",
-            "televisión",
-            "dazn",
-            "deporte femenino",
-            "fútbol",
-            "televisión autonómica",
-            "deportes",
-            "futbolistas",
-            "competiciones",
-            "afe",
-            "fútbol femenino",
-            "rtve",
-            "partidos fútbol",
-            "beatriz álvarez mesa"
-        ],
-        "link": "https://elpais.com/deportes/futbol/2026-01-30/rtve-y-tv3-llegan-a-un-acuerdo-con-la-liga-f-para-emitir-cuatro-partidos-por-jornada-en-lo-que-resta-de-temporada.html",
-        "date": "2026-01-30 21:26:06",
-        "sentiment_score": -0.07980084419250488
-    },
-    {
-        "title": "Terremoto interno: la líder queda expuesta y sola tras un movimiento que la deja sin red",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/30/2026013022234038452.jpg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.mundiario.com/articulo/opiniones/terremoto-interno-lider-queda-expuesta-sola-movimiento-que-deja-red/20260130220444372821.html",
-        "date": "2026-01-30 21:04:44",
-        "sentiment_score": -0.871058564633131
-    },
-    {
-        "title": "La jueza del 'caso Negreira' rechaza que el Real Madrid acceda a cuentas del Barcelona",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/01/30/la-jueza-del-caso-negreira-rechaza-que-el-real-madrid-acceda-a-cuentas-del-barcelona/",
-        "date": "2026-01-30 20:46:49",
-        "sentiment_score": -0.7316491063684225
-    },
-    {
-        "title": "\"Hay muchísima gente joven que consume prostitución, no solamente en la calle, en...\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/30/697d1522aa100.jpeg",
-        "tags": [
-            "la linterna"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna/noticias/maria-jose-martinez-reinserta-trabajadoras-sexuales-hay-gente-joven-consume-prostitucion-calle-clubes-redes-sociales-20260130_3298342.html",
-        "date": "2026-01-30 20:45:33",
-        "sentiment_score": -0.06066742539405823
-    },
-    {
-        "title": "Elche-Barcelona: Alineaciones probables, estadísticas y cómo ver por TV y online (21:00)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/25/image-47c3b364-f528-4d19-a5e1-1d82d2e1144a-85-2560-1440.jpeg",
-        "tags": [
-            "la liga 2025/2026",
-            "football"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/elche-barcelona-alineaciones-probables-previa-estadisticas-horario-como-donde-ver-television-online-streaming-hoy_sto23264968/story.shtml",
-        "date": "2026-01-30 20:41:05",
-        "sentiment_score": 0.022871486842632294
-    },
-    {
-        "title": "Resultados, clasificación, crónica y resúmenes de la Jornada 22 de LaLiga EA Sports 25-26 | Otro tropiezo del Espanyol que obliga a mirar de reojo a Betis y Celta",
-        "image_url": "https://lagrada.org/wp-content/uploads/2026/01/CARTEL-ASI-VA-LALIGA-25-26.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagrada.org/liga-jornada-22-resultados-clasificacion-cronica-resumen-partidos-rcd-espanyol-lalaves-viernes/",
-        "date": "2026-01-30 20:40:13",
-        "sentiment_score": -0.047462284564971924
-    },
-    {
-        "title": "Osasuna Promesas consigue un empate que sabe a triunfo",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/59fc7087-76b8-490c-98e6-8967b18458fd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "osasuna",
-            "empate",
-            "promesas",
-            "triunfo"
-        ],
-        "link": "https://www.noticiasdenavarra.com/tajonar/2026/01/30/osasuna-promesas-empate-triunfo-10640752.html",
-        "date": "2026-01-30 20:28:37",
-        "sentiment_score": -0.1267300844192505
-    },
-    {
-        "title": "Can Yaman lanza una inesperada petición a Mediaset sobre su nueva serie internacional",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/01/30/2026013021230054302.jpg",
-        "tags": [
-            "famosos"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/famosos/can-yaman-lanza-inesperada-peticion-mediaset-nueva-serie-internacional/202601302123351001111.html",
-        "date": "2026-01-30 20:23:35",
-        "sentiment_score": -0.06825688481330872
-    },
-    {
-        "title": "Levante-Atlético de Madrid: Alineaciones probables, estadísticas y cómo ver por TV y online (18:30)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1389x160:1391x158)/origin-imgresizer.eurosport.com/2026/01/26/image-f88c588e-b919-4a9d-a0d3-17df189b27a5-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "la liga 2025/2026"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/levante-atletico-de-madrid-alineaciones-probables-previa-estadisticas-horario-como-donde-ver-television-online-streaming-hoy_sto23264978/story.shtml",
-        "date": "2026-01-30 22:21:57",
-        "sentiment_score": -0.8256294764578342
-    },
-    {
-        "title": "Rosalía irrumpe por sorpresa en el concierto por Palestina en Barcelona",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/01/rosalia-1-300x224.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://ultimasnoticias.com.ve/actualidad/rosalia-concierto-propalestina-en-barcelona/",
-        "date": "2026-01-30 22:09:47",
-        "sentiment_score": -0.10196885466575623
-    },
-    {
-        "title": "Barcelona clama por Palestina (con aparición sorpresa de Rosalía)",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2026/01/30/concierto-manifiesto-x-5914869.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/cultura/2026/01/30/barcelona-clama-por-palestina-con-aparicion-sorpresa-de-rosalia-1889995-daa.html",
-        "date": "2026-01-30 22:02:54",
-        "sentiment_score": 0.12814079225063324
-    },
-    {
-        "title": "El Espanyol es un poema",
-        "image_url": "https://static1.ara.cat/clip/506ea480-0d61-4b71-b3c9-a7be8d960274_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "poema",
-            "espanyol"
-        ],
-        "link": "https://es.ara.cat/deportes/rcd-espanyol/espanyol-poema_1_5634148.html",
-        "date": "2026-01-30 21:58:05",
-        "sentiment_score": -0.3612271547317505
-    },
-    {
-        "title": "El caos ferroviario en Cataluña paraliza el tráfico internacional de mercancías",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/22e945b91ddd3d2a0e082c05bde8496c/crop/0x0/1133x755/f/webp/assets/multimedia/imagenes/2026/01/30/17698100776418.jpg",
-        "tags": [
-            "artículos david casals>",
-            "cataluña>",
-            "renfe>",
-            "economía>",
-            "transporte y turismo>"
-        ],
-        "link": "https://www.expansion.com/economia/2026/01/30/697d26dc468aebe55f8b459f.html",
-        "date": "2026-01-30 21:56:05",
-        "sentiment_score": -0.9286829112097621
-    },
-    {
-        "title": "Renfe e Iryo no indemnizarán retrasos por las limitaciones de velocidad de Adif",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2026/01/21/2026012118293797673.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/espana/renfe-indemnizaran-retrasos-limitaciones-velocidad-adif/202601302248091430649.html",
-        "date": "2026-01-30 21:48:09",
-        "sentiment_score": -0.369451068341732
-    },
-    {
-        "title": "La licitación de obras sube un 17% en Catalunya y los entes locales copan el 47% del total",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/5edc940431cfc0170e715e22dc8fc61e/crop/19x13/2048x1365/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/30/17698088469173.jpg",
-        "tags": [
-            "artículos david casals>",
-            "cataluña>",
-            "política>",
-            "inmobiliario y construcción>",
-            "economía>",
-            "transporte y turismo>"
-        ],
-        "link": "https://www.expansion.com/catalunya/2026/01/30/697d23ee468aebae638b4576.html",
-        "date": "2026-01-30 21:35:02",
-        "sentiment_score": 0.06611954048275948
-    },
-    {
-        "title": "Josep Piñol, artista que se coló en el mercado de carbono para denunciarlo",
-        "image_url": "https://static.eldiario.es/clip/708b666d-73b7-4daa-8ee5-3ed94461cec3_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "colo",
-            "artista",
-            "pinol",
-            "denunciarlo",
-            "josep",
-            "carbono",
-            "mercado"
-        ],
-        "link": "https://www.eldiario.es/ballenablanca/economia/josep-pinol-artista-colo-mercado-carbono-denunciarlo_1_12949663.html",
-        "date": "2026-01-30 21:30:31",
-        "sentiment_score": -0.16755802929401398
-    },
-    {
-        "title": "Koldo García pide al juez que le permita disponer de 2.000 € para el economato de la cárcel y para gastos domésticos",
-        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027172_261183400_1706x960.jpg",
-        "tags": [
-            "tribunales",
-            "audiencia nacional",
-            "corrupción",
-            "josé luis ábalos",
-            "tribunal supremo",
-            "guardia civil",
-            "koldo garcía izaguirre"
-        ],
-        "link": "https://www.elespanol.com/espana/tribunales/20260131/koldo-garcia-pide-juez-permita-disponer-eur-economato-carcel-gastos-domesticos/1003744111002_0.html",
-        "date": "2026-01-31 01:46:24",
-        "sentiment_score": -0.6989659499377012
-    },
-    {
-        "title": "Moha llegó en patera, Ashley vivía en la calle, Ana es niñera... así son los 500.000 migrantes que dan las \"gracias a Sánchez\"",
-        "image_url": "https://s3.elespanol.com/2026/01/30/madrid/1003744111281_261187054_1706x960.jpg",
-        "tags": [
-            "inmigración",
-            "sociedad",
-            "gobierno de españa"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20260131/moha-llego-patera-ashley-vivia-calle-ana-ninera-migrantes-dan-gracias-sanchez/1003744106241_0.html",
-        "date": "2026-01-31 01:00:00",
-        "sentiment_score": 0.5306154936552048
-    },
-    {
-        "title": "Esther García Llovet, escritora: \"Cada lector de cualquier libro encuentra lo que quiere. Y lo que no quiere también\"",
-        "image_url": "https://s3.elespanol.com/2026/01/10/actualidad/1003744084877_260855859_1706x1280.jpg",
-        "tags": [
-            "letras",
-            "entrevistas",
-            "escritores",
-            "novela",
-            "libros",
-            "esto es lo último"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/letras/20260131/esther-garcia-llovet-escritora-lector-cualquier-libro-encuentra-quiere-no/1003744084867_0.html",
-        "date": "2026-01-31 00:55:00",
-        "sentiment_score": -0.15301968157291412
-    },
-    {
-        "title": "La odisea de Mariano Barbacid, 'purgado' en el CNIO y referente contra el cáncer de pancreas: \"Es exigente pero jamás grita\"",
-        "image_url": "https://s3.elespanol.com/2026/01/30/actualidad/1003744111444_261189681_1706x960.jpg",
-        "tags": [
-            "investigación médica",
-            "cnio",
-            "salud",
-            "mariano barbacid",
-            "cáncer de páncreas"
-        ],
-        "link": "https://www.elespanol.com/ciencia/salud/20260131/odisea-mariano-barbacid-purgado-cnio-referente-cancer-pancreas-exigente-jamas-grita/1003744111181_0.html",
-        "date": "2026-01-31 00:40:15",
-        "sentiment_score": 0.4516539201140404
-    },
-    {
-        "title": "30 ENE 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/30-ene-2026-partidazo-cope-20260131_3298384.html",
-        "date": "2026-01-31 00:40:00",
-        "sentiment_score": 0.2531398981809616
-    },
-    {
-        "title": "Dentro del universo virtual de Securitas: así se diseña la seguridad más allá del vigilante, como tecnología y negocio",
-        "image_url": "https://s3.elespanol.com/2026/01/29/actualidad/1003744108907_261155038_1706x960.jpg",
-        "tags": [
-            "gran empresa",
-            "seguridad",
-            "digitalización",
-            "innovación",
-            "realidad virtual"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20260131/dentro-universo-virtual-securitas-disena-seguridad-alla-vigilante-tecnologia-negocio/1003744108662_0.html",
-        "date": "2026-01-31 00:34:00",
-        "sentiment_score": 0.23696327954530716
-    },
-    {
-        "title": "Sergio Ramos se asocia con el 'rey del asfalto' para su negocio de aviación: el octogenario millonario en el que confía",
-        "image_url": "https://s3.elespanol.com/2026/01/30/actualidad/1003744111172_261185587_1706x960.jpg",
-        "tags": [
-            "negocios",
-            "pilar rubio",
-            "sergio ramos",
-            "empresas",
-            "famosos"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20260131/sergio-ramos-asocia-rey-asfalto-negocio-aviacion-octogenario-millonario-confia/1003744111097_0.html",
-        "date": "2026-01-31 00:33:00",
-        "sentiment_score": 0.28008973598480225
-    },
-    {
-        "title": "El Barça de Laporta se adentra en el sector inmobiliario: urbanización de lujo en Dubai y cuatro rascacielos en Abu Dabi",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/31/culemania/palco/1003742728346_15664452_1706x960.jpg",
-        "tags": [
-            "fc barcelona",
-            "dubái",
-            "oriente medio",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260131/barca-laporta-inmobiliario-urbanizacion-dubai-abu-dabi/1003742728339_0.html",
-        "date": "2026-01-31 00:23:56",
-        "sentiment_score": 0.328659500926733
-    },
-    {
-        "title": "La UEFA pasa de A22, ignora al Real Madrid y destroza a la Superliga con su reinvención de la Champions League",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/12/13/culemania/palco/816928523_15465462_1706x960.jpg",
-        "tags": [
-            "joan laporta",
-            "superliga",
-            "real madrid",
-            "florentino pérez",
-            "uefa",
-            "palco",
-            "champions league"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260131/uefa-a22-real-madrid-superliga-champions-league/1003742728012_0.html",
-        "date": "2026-01-30 23:07:32",
-        "sentiment_score": -0.5272716209292412
-    },
-    {
-        "title": "Los precios también se disparan en los desarrollos del sureste, que iban a ser la gran bolsa de viviendas asequibles de Madrid",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/4ad79444640b09782a1f827dcc7a7d83/f/image/jpeg/assets/multimedia/imagenes/2022/03/28/16484797084044.jpg",
-        "tags": [
-            "artículos ana del barrio"
-        ],
-        "link": "https://www.elmundo.es/madrid/2026/01/31/697cf62ce9cf4aed468b4584.html",
-        "date": "2026-01-30 23:04:09",
-        "sentiment_score": -0.03182627260684967
-    },
-    {
-        "title": "¿Cómo estará el clima en Barcelona?",
-        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
-        "tags": [
-            "últimas actualizaciones",
-            "clima",
-            "clima en españa",
-            "clima en barcelona"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/01/31/como-estara-el-clima-en-barcelona/",
-        "date": "2026-01-31 02:16:19",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "Guardiola alza la voz por Palestina y cede el foco en Manchester",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/03/2025030304015942739.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/guardiola-alza-voz-palestina-cede-foco-manchester/20260131030921372854.html",
-        "date": "2026-01-31 02:09:21",
-        "sentiment_score": -0.4264901205897331
-    },
-    {
-        "title": "La importancia de la red ferroviaria",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ferroviaria",
-            "red",
-            "importancia"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/importancia-red-ferroviaria_0_2005776123.html",
-        "date": "2026-01-31 02:08:25",
-        "sentiment_score": 0.016517579555511475
-    },
-    {
-        "title": "La teunolóxica asturiana Izertis, en plena espansión, zarra una ampliación de capital de 54 millones",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1877ba60-3793-4d90-95b3-34094eacb947_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tic"
-        ],
-        "link": "https://www.lne.es/asturias/n-asturianu/2026/01/31/teunoloxica-asturiana-izertis-plena-espansion-126242634.html",
-        "date": "2026-01-31 02:05:31",
-        "sentiment_score": -0.04254421591758728
-    },
-    {
-        "title": "Las claves del ilusionante AMR26 de Fernando Alonso tras su debut: la apuesta radical de Newey en busca del Mundial",
-        "image_url": "https://s3.elespanol.com/2026/01/30/actualidad/1003744111242_261186451_1706x960.jpg",
-        "tags": [
-            "f1",
-            "aston martin f1",
-            "adrian newey",
-            "fernando alonso"
-        ],
-        "link": "https://www.elespanol.com/deportes/motor/f1/20260131/claves-ilusionante-amr26-fernando-alonso-debut-apuesta-radical-newey-busca-mundial/1003744110682_0.html",
-        "date": "2026-01-31 01:46:20",
-        "sentiment_score": 0.16518010199069977
-    },
-    {
-        "title": "Adif intensifica las tareas de mantenimiento en la línea de alta velocidad que más preocupa: Madrid-Barcelona",
-        "image_url": "https://s3.elespanol.com/2026/01/30/actualidad/1003744110846_261181025_1706x960.jpg",
-        "tags": [
-            "observatorio de la movilidad",
-            "adif",
-            "renfe",
-            "movilidad"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20260131/adif-intensifica-tareas-mantenimiento-linea-alta-velocidad-preocupa-madrid-barcelona/1003744110574_0.html",
-        "date": "2026-01-31 01:44:39",
-        "sentiment_score": -0.7492134515196085
-    },
-    {
-        "title": "Alberto y Ascen: el mismo cielo plomizo, renovación de luto eterno",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/01/30/6DA7AC70-DB4C-4899-81BB-3198662313B4/69.jpg?crop=6000%2C3375%2Cx0%2Cy0&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "andalucía",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/andalucia/alberto-ascen-mismo-cielo-plomizo-renovacion-luto-eterno_20260131697d5cc82f00a04688ef2dc5.html",
-        "date": "2026-01-31 01:37:11",
-        "sentiment_score": -0.11140033602714539
-    },
-    {
-        "title": "'Baumgartner': una despedida sencilla del gran Paul Auster",
-        "image_url": "https://static.grupojoly.com/clip/581c2b5c-bcdc-4b9c-b39d-3c6c240eaa90_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "despedida",
-            "auster",
-            "paul",
-            "estanteria",
-            "mata",
-            "baumgartner",
-            "gran",
-            "sencilla"
-        ],
-        "link": "https://www.europasur.es/ocio/baumgartner-despedida-sencilla-gran-paul-auster-estanteria-mata_0_2005764818.html",
-        "date": "2026-01-31 01:24:19",
-        "sentiment_score": 0.4963812008500099
-    },
-    {
-        "title": "Quian Quiroga, neurocientífico: \"Memorizar demasiado atenta contra la inteligencia, te detiene en detalles irrelevantes\"",
-        "image_url": "https://s3.elespanol.com/2026/01/29/actualidad/1003744109591_261164928_1706x960.jpg",
-        "tags": [
-            "inteligencia artificial",
-            "neurociencia",
-            "ciencia",
-            "cerebro"
-        ],
-        "link": "https://www.elespanol.com/ciencia/20260131/quian-quiroga-neurocientifico-memorizar-demasiado-atenta-inteligencia-detiene-detalles-irrelevantes/1003744107783_0.html",
-        "date": "2026-01-31 01:10:00",
-        "sentiment_score": 0.03171035647392273
-    },
-    {
-        "title": "Pablo Álvarez (Moderna): \"Haremos más inversiones en Europa y en España para apoyar nuestro crecimiento\"",
-        "image_url": "https://s3.elespanol.com/2026/01/30/actualidad/1003744111396_261188937_1706x1140.jpg",
-        "tags": [
-            "sanidad - industria",
-            "observatorio de la sanidad",
-            "industria farmacéutica",
-            "vacuna de moderna"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260131/pablo-alvarez-moderna-haremos-inversiones-europa-espana-apoyar-crecimiento/1003744110765_0.html",
-        "date": "2026-01-31 01:10:00",
-        "sentiment_score": 0.33102191984653473
-    },
-    {
         "title": "José Mourinho, icono de la locura de la nueva Champions",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/369fa92d-e0c5-493e-9ad1-df76d42b2b00_16-9-discover-aspect-ratio_default_0.jpg",
         "tags": [
@@ -524,89 +49,6 @@ export default [
         "link": "https://www.20minutos.es/vivienda/asi-anticipa-ia-cambios-precio-alquiler-37-capitales-espanolas_6927976_0.html",
         "date": "2026-01-31 06:00:00",
         "sentiment_score": 0.036190539598464966
-    },
-    {
-        "title": "‘Los amigos de mis papás’ o cómo ser swinger después de los 65 años",
-        "image_url": "https://www.infobae.com/resizer/v2/WVXZYR6F65HVBM222N7S6Z5EJA.jpg?auth=904f397f4a225e6c0c5c105db24d6fb7b0c0577ed8416cde9ccbe00b64bed466&height=1080&smart=true&width=1920",
-        "tags": [
-            "los amigos de mis papás",
-            "romina tamburello",
-            "cine",
-            "penguin random house",
-            "literatura",
-            "federico actis",
-            "buenos aires",
-            "mar del plata",
-            "vera",
-            "sexualidad"
-        ],
-        "link": "https://www.infobae.com/generacion-silver/2026/01/31/los-amigos-de-mis-papas-o-como-ser-swinger-despues-de-los-65-anos/",
-        "date": "2026-01-31 05:34:16",
-        "sentiment_score": 0.10211706161499023
-    },
-    {
-        "title": "El Covirán Granada necesita volver a sonreír",
-        "image_url": "https://static.grupojoly.com/clip/8e235612-0bfa-4bda-b59f-ab83b87fa3e9_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fundación cb granada",
-            "baloncesto"
-        ],
-        "link": "https://www.granadahoy.com/coviran-granada/coviran-granada-breogan-previa-liga-endesa-acb_0_2005773528.html",
-        "date": "2026-01-31 05:30:13",
-        "sentiment_score": -0.46302686631679535
-    },
-    {
-        "title": "La falta de vivienda dispara la competencia entre las familias por encontrar un alquiler: un 12% más que en 2024",
-        "image_url": "https://s3.elespanol.com/2026/01/30/actualidad/1003744110317_261173849_1706x960.jpg",
-        "tags": [
-            "economía",
-            "vivienda",
-            "alicante (ciudad)",
-            "alicante (provincia)"
-        ],
-        "link": "https://www.elespanol.com/alicante/economia/20260131/falta-vivienda-dispara-competencia-familias-encontrar-alquiler/1003744110257_0.html",
-        "date": "2026-01-31 05:21:00",
-        "sentiment_score": 0.16563726216554642
-    },
-    {
-        "title": "Sito Alonso: \"Venir a Murcia es una de las mejores decisiones que he tomado en mi vida\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5d6e5e4c-819c-43df-85f1-3df3923d455e_16-9-aspect-ratio_default_0_x414y457.jpg",
-        "tags": [
-            "acb",
-            "copa del rey",
-            "club",
-            "ucam murcia cb",
-            "ucam"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2026/01/31/sito-alonso-venir-murcia-mejores-126282532.html",
-        "date": "2026-01-31 05:01:30",
-        "sentiment_score": -0.16650667786598206
-    },
-    {
-        "title": "Lo que se sabe del sobre que Aldama asegura que le entregó Delcy y desvelaría la presunta financiación ilegal del PSOE",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/01/29/0203AF97-DC2B-4E95-951A-5C6B28D93E43/imagen-pdvsa-incluido-informe-uco_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "noticias",
-            "ondacero",
-            "españa"
-        ],
-        "link": "https://www.ondacero.es/noticias/espana/que-sabe-que-aldama-asegura-que-entrego-delcy-desvelaria-presunta-financiacion-ilegal-psoe_20260131697d8c779243cc133c2b49a8.html",
-        "date": "2026-01-31 05:00:39",
-        "sentiment_score": -0.37150752916932106
-    },
-    {
-        "title": "Gero arte Anoeta: la racha de la Real sale de excursión",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d4e07428-9073-4d06-81d0-46a679e1d1f2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "racha",
-            "anoeta",
-            "arte",
-            "real",
-            "gero"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/01/31/gero-arte-anoeta-racha-real-10639969.html",
-        "date": "2026-01-31 05:00:21",
-        "sentiment_score": 0.5163466334342957
     },
     {
         "title": "Los años de Gloria Serra en el barrio más auténtico de Barcelona: «Mi madre no se andaba con rodeos»",
@@ -3089,5 +2531,183 @@ export default [
         "link": "https://www.elnortedecastilla.es/opinion/el-norte-dana-verdad-utilizacion-20260203212940-nt.html",
         "date": "2026-02-03 06:41:35",
         "sentiment_score": -0.9110843148082495
+    },
+    {
+        "title": "El petróleo venezolano es clave para el plan de Trump en relación con Rusia, pero hay un problema con eso",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/POZO-PETROLERO-VENEZOLANO.jpg",
+        "tags": [
+            "rusia",
+            "eeuu",
+            "actualidad",
+            "internacionales",
+            "nacionales",
+            "usa",
+            "petróleo venezolano"
+        ],
+        "link": "https://lapatilla.com/2026/02/03/el-petroleo-venezolano-es-clave-para-el-plan-de-trump-en-relacion-con-rusia-pero-hay-un-problema-con-eso/",
+        "date": "2026-02-03 14:04:46",
+        "sentiment_score": 0.2063562199473381
+    },
+    {
+        "title": "(Previa) El Atlético se agarra a la Copa de la Reina para salir de su crisis ante un amenazante Athletic",
+        "image_url": "https://www.infobae.com/resizer/v2/JXIYXLB2KBGSLHNT6JDALBTQMI.jpg?auth=6e24b893e176a7d5b476d821a65bf1263c5f130a32820bf84325a724ce8418d2&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/03/previa-el-atletico-se-agarra-a-la-copa-de-la-reina-para-salir-de-su-crisis-ante-un-amenazante-athletic/",
+        "date": "2026-02-03 17:31:31",
+        "sentiment_score": -0.31325044482946396
+    },
+    {
+        "title": "Ademola Lookman: \"Es una bendición estar aquí\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/03/69822f7109922.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/ademola-lookman-presentado-jugador-atletico-madrid-bendicion-20260203_3300321.html",
+        "date": "2026-02-03 17:28:21",
+        "sentiment_score": 0.24482208490371704
+    },
+    {
+        "title": "Alavés y Real Sociedad sueñan confirmar sus mejorías en la Copa del Rey",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260203182722_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-alaves-real-sociedad-suenan-confirmar-mejorias-copa-rey-20260203182722.html",
+        "date": "2026-02-03 17:27:22",
+        "sentiment_score": 0.44910410791635513
+    },
+    {
+        "title": "Una triple combinación terapéutica mejora los resultados en un tipo de cáncer de mama",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/28/6929a3f6ad9a45-89619141.jpeg",
+        "tags": [
+            "salud"
+        ],
+        "link": "https://www.20minutos.es/salud/una-triple-combinacion-terapeutica-mejora-los-resultados-un-tipo-cancer-mama-segun-un-estudio_6929501_0.html",
+        "date": "2026-02-03 17:25:22",
+        "sentiment_score": 0.0021536871790885925
+    },
+    {
+        "title": "96,8 millones de turistas y una pregunta incómoda: ¿puede España soportarlo?",
+        "image_url": "https://static.merca2.es/wp-content/uploads/2026/02/Record-turistico.webp",
+        "tags": [
+            "turismo",
+            "últimas noticias",
+            "lo más compartido"
+        ],
+        "link": "https://www.merca2.es/2026/02/03/millones-turistas-pregunta-incomoda-puede-espana-soportarlo-2348914/",
+        "date": "2026-02-03 17:22:00",
+        "sentiment_score": -0.5520293414592743
+    },
+    {
+        "title": "Lookman: \"Voy a intentar marcar la diferencia en esos momentos críticos en el juego\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260203182115_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-lookman-voy-intentar-marcar-diferencia-momentos-criticos-juego-20260203182115.html",
+        "date": "2026-02-03 17:21:15",
+        "sentiment_score": 0.2878147065639496
+    },
+    {
+        "title": "TVE retira por sorpresa 'La revuelta' este martes: el contenido que ocupará su lugar",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/02/03/2026020318185468584.jpg",
+        "tags": [
+            "medios"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/medios/tve-retira-sorpresa-revuelta-martes-contenido-que-ocupara-lugar/202602031819271001667.html",
+        "date": "2026-02-03 17:19:27",
+        "sentiment_score": 0.19721823930740356
+    },
+    {
+        "title": "Lamine Yamal, Vinícius y Galarreta lideran el once ideal de EP Deportes de la jornada 22 de LaLiga EA Sports",
+        "image_url": "https://www.infobae.com/resizer/v2/CCB2KNQSHBHQNFANCMJW2PRILM.jpg?auth=ba0b27f9d2fc087e8dd878af221ad952ba0f9afbc315d2632731741e97343ab2&height=1191&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/03/lamine-yamal-vinicius-y-galarreta-lideran-el-once-ideal-de-ep-deportes-de-la-jornada-22-de-laliga-ea-sports/",
+        "date": "2026-02-03 17:16:44",
+        "sentiment_score": 0.42553338035941124
+    },
+    {
+        "title": "Antonio Mancebo, piloto de combate del Ejército: \"Despegamos de Madrid, nos vamos a un área que está en Teruel y ahí nos pegamos con cuatro aviones de Madrid contra cuatro aviones de Sevilla\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2026/01/07/695e37696a37b.r_d.657-362-3384.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20260203/1002614049/antonio-mancebo-piloto-combate-ejercito-despegamos-madrid-area-esta-teruel-pegamos-cuatro-aviones-madrid-cuatro-aviones-sevilla-dct.html",
+        "date": "2026-02-03 17:10:59",
+        "sentiment_score": 0.019068121910095215
+    },
+    {
+        "title": "Inti de Oro: la cocina peruana también es cocina de invierno",
+        "image_url": "https://www.diariosigloxxi.com/images/20537",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5758572/inti-oro-cocina-peruana-tambien-cocina-invierno",
+        "date": "2026-02-03 17:10:46",
+        "sentiment_score": 0.3277392089366913
+    },
+    {
+        "title": "El salón ISE de Barcelona consolida el desembarco de la IA en el sector audiovisual",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "business"
+        ],
+        "link": "https://es.investing.com/news/economy-news/el-salon-ise-de-barcelona-consolida-el-desembarco-de-la-ia-en-el-sector-audiovisual-3497077",
+        "date": "2026-02-03 17:39:05",
+        "sentiment_score": -0.07211998105049133
+    },
+    {
+        "title": "Epstein tenía un facilitador de chicas en Barcelona",
+        "image_url": "https://static1.ara.cat/clip/7583bc64-20c1-4bd7-aaca-d6d4d8430702_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tenia",
+            "epstein",
+            "chicas",
+            "facilitador",
+            "barcelona"
+        ],
+        "link": "https://es.ara.cat/internacional/estados-unidos/epstein-tenia-facilitador-chicas-barcelona_1_5637234.html",
+        "date": "2026-02-03 17:38:02",
+        "sentiment_score": -0.26071545481681824
+    },
+    {
+        "title": "El ISE crea una fundación para apoyar proyectos locales y consolidar su legado a largo plazo",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/03/economia/1003742729168_15673959_1706x960.jpg",
+        "tags": [
+            "fira de barcelona",
+            "economía",
+            "ise",
+            "congresos barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260203/ise-crea-fundacion-apoyar-proyectos-locales-consolidar-legado-largo-plazo/1003742729153_0.html",
+        "date": "2026-02-03 17:33:50",
+        "sentiment_score": -0.9145682416856289
+    },
+    {
+        "title": "Cuatro bodegas llevan sus vinos bajo el sello de 'Sabores Almería' a la Barcelona Wine Week",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260203183246_690.jpg",
+        "tags": [
+            "diputación de almería",
+            "especiales monográficos"
+        ],
+        "link": "https://www.europapress.es/andalucia/diputacion-almeria-01014/noticia-cuatro-bodegas-llevan-vinos-sello-sabores-almeria-barcelona-wine-week-20260203183246.html",
+        "date": "2026-02-03 17:32:46",
+        "sentiment_score": 0.3937175013124943
+    },
+    {
+        "title": "El PP señala un \"uso político\" de la sanidad tras el archivo de las denuncias por el cribado de cáncer en Andalucía",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a90493d1-fd88-48af-826e-b3db6c029845_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "andalucía,sanidad pública,cáncer,pp"
+        ],
+        "link": "https://www.elperiodicomediterraneo.com/espana/2026/02/03/pp-denuncia-uso-politica-sanidad-archivo-cribaje-cancer-mama-andalucia-126411947.html",
+        "date": "2026-02-03 17:32:23",
+        "sentiment_score": -0.3504955917596817
     }
 ];
