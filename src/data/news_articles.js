@@ -2695,5 +2695,247 @@ export default [
         "link": "https://okdiario.com/deportes/albacete-rozo-milagro-descuento-asi-fueron-ultimos-minutos-vertigo-barcelona-16185553",
         "date": "2026-02-03 22:19:54",
         "sentiment_score": 0.3835098594427109
+    },
+    {
+        "title": "Así son las becas en línea del Miami Institute para artistas colombianos: formación internacional en arte y audiovisual",
+        "image_url": "https://www.infobae.com/resizer/v2/7NLCY7MT35G4DMWPPQC2DJ7CXQ.webp?auth=c6e502e128e1880c01d44bbbfc979a34e8996d51c11250454ee96024874f4e31&height=333&smart=true&width=500",
+        "tags": [
+            "miami",
+            "becas icetex",
+            "miami institute",
+            "colombia-servicios",
+            "formación online",
+            "becas para colombianos",
+            "colombia-noticias",
+            "becas audiovisuales"
+        ],
+        "link": "https://www.infobae.com/colombia/2026/02/04/asi-son-las-becas-en-linea-del-miami-institute-para-artistas-colombianos-formacion-internacional-en-arte-y-audiovisual/",
+        "date": "2026-02-04 02:26:35",
+        "sentiment_score": 0.03961681202054024
+    },
+    {
+        "title": "Yamal anota y Barcelona vence a Albacete para avanzar a semifinales de la Copa",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/4ec47f0/2147483647/strip/true/crop/2360x1239+0+168/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fba%2F7c%2F71a8b820493f8f9a0d51f58ea0e7%2F5cad1d459fd44fe68f67cd91d1425f57.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-03/yamal-anota-y-barcelona-vence-albacete-para-avanzar-semifinales-de-la-copa",
+        "date": "2026-02-04 02:21:43",
+        "sentiment_score": 0.16062146425247192
+    },
+    {
+        "title": "Educación actualiza el acceso a la Inspección con preguntas breves de todo el temario",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/03/educacion-actualiza-el-acceso-a-la-inspeccion-con-preguntas-breves-de-todo-el-temario/",
+        "date": "2026-02-04 02:16:32",
+        "sentiment_score": 0.32977936789393425
+    },
+    {
+        "title": "El Atlético de Madrid se refuerza con Obed Vargas y Ademola Lookman en el cierre del mercado",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/2179733/2147483647/strip/true/crop/3562x1870+0+252/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fea%2Fb8%2F825ed59d43c89e904014ce19a80b%2Fb1b471367cff421287b51d02231f5119.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-03/el-atletico-de-madrid-se-refuerza-con-obed-vargas-y-ademola-lookman-en-el-cierre-del-mercado",
+        "date": "2026-02-04 01:41:29",
+        "sentiment_score": 0.059983886778354645
+    },
+    {
+        "title": "España quiere ser protagonista de la defensa europea gracias a un mayor músculo industrial, inversión sostenida y talento",
+        "image_url": "https://s3.elespanol.com/2026/02/03/actualidad/1003744115502_261240490_1706x960.jpg",
+        "tags": [
+            "psoe (partido socialista obrero español)",
+            "defensa - política de defensa",
+            "i observatorio de defensa (2026)",
+            "sumar",
+            "partido popular (pp)",
+            "indra"
+        ],
+        "link": "https://www.elespanol.com/eventos/2026/observatorio-defensa/20260204/espana-quiere-protagonista-defensa-europea-gracias-mayor-musculo-industrial-inversion-sostenida-talento/1003744115391_0.html",
+        "date": "2026-02-04 01:28:34",
+        "sentiment_score": 0.5764260925352573
+    },
+    {
+        "title": "La vida alegre de Santos Cerdán en libertad provisional en Milagro: de la cárcel al casino y a cenar fuera a diario",
+        "image_url": "https://s3.elespanol.com/2026/02/03/actualidad/1003744115603_261241797_1706x960.jpg",
+        "tags": [
+            "psoe (partido socialista obrero español)",
+            "corrupción",
+            "navarra",
+            "santos cerdán",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260204/vida-alegre-santos-cerdan-libertad-provisional-milagro-carcel-casino-cenar-diario/1003744115437_0.html",
+        "date": "2026-02-04 01:16:11",
+        "sentiment_score": -0.6684234701097012
+    },
+    {
+        "title": "Cuando el salario mínimo no llega al bolsillo",
+        "image_url": "https://s3.elespanol.com/2025/12/09/actualidad/1003744048554_260392918_1706x960.jpg",
+        "tags": [
+            "opinión",
+            "ugt",
+            "tribunas",
+            "tribunas de opinión",
+            "smi (salario mínimo interprofesional)"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20260204/salario-minimo-no-llega-bolsillo/1003744115362_12.html",
+        "date": "2026-02-04 01:08:24",
+        "sentiment_score": -0.436231404542923
+    },
+    {
+        "title": "Real Madrid estaría pensando en pagar 100 millones de euros por este campeón del mundo",
+        "image_url": "https://pxcdn.meridiano.net/022026/1770166817856.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/real-madrid-estaria-pensando-en-pagar-100-millones-de-euros-por-este-campeon-del-mundo-2026232100",
+        "date": "2026-02-04 01:00:00",
+        "sentiment_score": 0.27376309037208557
+    },
+    {
+        "title": "Casi 1.000 menores han sido reubicados a la península \"sin ningún problema de convivencia\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/03/casi-1000-menores-han-sido-reubicados-a-la-peninsula-sin-ningun-problema-de-convivencia/",
+        "date": "2026-02-04 00:30:53",
+        "sentiment_score": -0.009775370359420776
+    },
+    {
+        "title": "Lola Lasurt baila las noticias espeluznantes de la época de la Covid en el Centro CondeDuque de Madrid",
+        "image_url": "https://s3.elespanol.com/2026/01/26/actualidad/1003744104818_261105201_1706x960.jpg",
+        "tags": [
+            "madrid",
+            "centro cultural conde duque",
+            "ec-critica-arte",
+            "exposiciones",
+            "arte"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20260204/lola-lasurt-baila-noticias-espeluznantes-epoca-covid-centro-condeduque-madrid/1003744104797_0.html",
+        "date": "2026-02-04 00:14:46",
+        "sentiment_score": 0.7431747242808342
+    },
+    {
+        "title": "El ferrocarril español, al límite: crisis operativa, accidentes mortales y el pulso con Puente",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/23/2025072319101225177.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.mundiario.com/articulo/sociedad/ferrocarril-espanol-limite-crisis-operativa-accidentes-mortales-pulso-puentea/20260204031613373297.html",
+        "date": "2026-02-04 02:16:13",
+        "sentiment_score": -0.9165715640410781
+    },
+    {
+        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 4 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima en españa",
+            "clima",
+            "clima en barcelona",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/04/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-4-de-febrero/",
+        "date": "2026-02-04 02:15:41",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "El socio de Plus Ultra en Guinea transportó un contenedor lleno de armas desde Algeciras con un permiso especial de Aduanas",
+        "image_url": "https://s3.elespanol.com/2026/02/03/actualidad/1003744115712_261243165_1706x960.jpg",
+        "tags": [
+            "tribunales",
+            "guinea ecuatorial",
+            "periodismo de investigación",
+            "josé luis ábalos",
+            "teodoro obiang nguema",
+            "udef",
+            "plus ultra líneas aéreas",
+            "koldo garcía izaguirre",
+            "gobierno de españa",
+            "caso koldo"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20260204/socio-plus-ultra-guinea-transporto-contenedor-lleno-armas-algeciras-permiso-especial-aduanas/1003744098489_0.html",
+        "date": "2026-02-04 02:09:51",
+        "sentiment_score": -0.6322464570403099
+    },
+    {
+        "title": "El AVE nunca fue socialmente rentable: estaba escrito",
+        "image_url": "https://s3.elespanol.com/2025/01/21/actualidad/918168601_252489921_1706x960.jpg",
+        "tags": [
+            "opinión",
+            "tecnología",
+            "innovación",
+            "columnas de opinión",
+            "ave"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/opinion/20260204/ave-nunca-socialmente-rentable-escrito/1003744113174_13.html",
+        "date": "2026-02-04 02:06:55",
+        "sentiment_score": -0.4687884636223316
+    },
+    {
+        "title": "Una provincia aislada",
+        "image_url": "https://static.grupojoly.com/clip/f35d753c-21a7-43c6-9615-858f39a8648a_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "provincia",
+            "aislada"
+        ],
+        "link": "https://www.diariodecadiz.es/opinion/articulos/provincia-aislada_0_2005809421.html",
+        "date": "2026-02-04 02:05:26",
+        "sentiment_score": -0.8336928375065327
+    },
+    {
+        "title": "El ranking de les meyores universidaes d'Europa dexa a la d'Uviéu nesta posición: meyoró, pero hai 24 españoles perriba",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1340ef7c-8594-4257-a11e-f3ac27dae868_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "europa",
+            "universidad de oviedo",
+            "universidad",
+            "barcelona"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2026/02/04/ranking-les-meyores-universidaes-deuropa-126336058.html",
+        "date": "2026-02-04 02:05:25",
+        "sentiment_score": -0.19854611158370972
+    },
+    {
+        "title": "Puente admite el descontrol ferroviario y pide disculpas, pero resiste la ofensiva del PP tras Adamuz",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/04/2026020403105935753.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/puente-admite-descontrol-ferroviario-pide-disculpas-resiste-ofensiva-pp-adamuz/20260204022845373292.html",
+        "date": "2026-02-04 01:28:45",
+        "sentiment_score": -0.891306004486978
+    },
+    {
+        "title": "Ter Stegen podría volver a Barcelona antes de lo esperado por esta sensible razón",
+        "image_url": "https://pxcdn.meridiano.net/022026/1770165649229.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/ter-stegen-podria-volver-a-barcelona-antes-de-lo-esperado-por-esta-sensible-razon-20262321220",
+        "date": "2026-02-04 01:22:00",
+        "sentiment_score": 0.018704883754253387
+    },
+    {
+        "title": "Adif, en el centro del caos ferroviario: las incidencias en las vías aumentan un 7% en sólo una semana",
+        "image_url": "https://s3.elespanol.com/2026/02/03/actualidad/1003744114733_261230917_1706x960.jpg",
+        "tags": [
+            "estación de atocha",
+            "adif",
+            "accidentes",
+            "observatorio de la movilidad",
+            "renfe",
+            "accidentes de tren"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20260204/adif-centro-caos-ferroviario-incidencias-vias-aumentan-solo-semana/1003744114650_0.html",
+        "date": "2026-02-04 01:17:41",
+        "sentiment_score": -0.023928165435791016
     }
 ];
