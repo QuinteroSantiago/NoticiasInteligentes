@@ -1,174 +1,5 @@
 export default [
     {
-        "title": "Osasuna - Villarreal, la prórroga: pregúntale a la IA",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/60877b29-9366-4223-8767-a9f1df546184_16-9-aspect-ratio_default_0_x354y706.jpg",
-        "tags": [
-            "osasuna",
-            "ia",
-            "preguntale",
-            "prorroga",
-            "villarreal"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/01/osasuna-villarreal-prorroga-preguntale-ia-10643383.html",
-        "date": "2026-02-01 06:45:22",
-        "sentiment_score": -0.9032313963398337
-    },
-    {
-        "title": "Aragón, entre Ohio y Victoria: una economía bisagra en plena ebullición",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9367a763-6947-4b5c-a395-ef4fb2639b73_16-9-discover-aspect-ratio_default_0_x645y286.jpg",
-        "tags": [
-            "aragón",
-            "zaragoza"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260201/aragon-entre-ohio-y-victoria-una-economia-bisagra-en-plena-ebullicion-126314411",
-        "date": "2026-02-01 06:28:29",
-        "sentiment_score": -0.16517867147922516
-    },
-    {
-        "title": "Paco Guerrero: de cuidar guarros a servir en los principales hoteles de lujo",
-        "image_url": "https://static.grupojoly.com/clip/478ed39c-204a-46cc-ae01-4e237bd01bcc_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias málaga"
-        ],
-        "link": "https://www.malagahoy.es/marbella/paco-guerrero-cuidar-guarros-servir_0_2005779796.html",
-        "date": "2026-02-01 06:04:26",
-        "sentiment_score": -0.002277761697769165
-    },
-    {
-        "title": "Cocido madrileño: el plato de los tres vuelcos que aspira ser Bien de Interés Cultural",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dbe319a6-7e08-4ceb-8446-819151bec4da_16-9-aspect-ratio_default_0_x609y270.jpg",
-        "tags": [
-            "bien de interés cultural",
-            "invierno",
-            "cocina",
-            "madrid"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2026/02/01/cocido-madrileno-plato-tres-vuelcos-malaga-126256029.html",
-        "date": "2026-02-01 06:02:06",
-        "sentiment_score": 0.1669318825006485
-    },
-    {
-        "title": "Carlos Martínez, candidato socialista a la Presidencia de la Junta: \"Lo del AVE de Sanabria fue un error, se resolverá en semanas\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/717ed1e9-5b88-4282-82e7-7e7bf09f26d5_16-9-aspect-ratio_default_0_x609y270.jpg",
-        "tags": [
-            "castilla y león,soria,sanabria,comunidad"
-        ],
-        "link": "https://www.laopiniondezamora.es/zamora/2026/02/01/carlos-martinez-candidato-socialista-presidencia-126307020.html",
-        "date": "2026-02-01 06:00:53",
-        "sentiment_score": -0.7118971198797226
-    },
-    {
-        "title": "Tenerife abre la carrera por el 'play off' al Baskonia",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2715e53b-29a1-4043-9f22-7a8da953767f_16-9-aspect-ratio_default_0_x728y779.jpg",
-        "tags": [
-            "off",
-            "play",
-            "carrera",
-            "tenerife",
-            "abre"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/01/tenerife-abre-carrera-play-off-10642587.html",
-        "date": "2026-02-01 06:00:49",
-        "sentiment_score": 0.21817471832036972
-    },
-    {
-        "title": "La daimieleña Elvira Pérez de Madrid sacude la pasarela sevillana We Love Flamenco con su estilo rockero",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/Elvira-Perez-de-Madrid-resized.jpg",
-        "tags": [
-            "desfile",
-            "provincia de ciudad real",
-            "flamenco",
-            "sociedad",
-            "rock",
-            "moda",
-            "daimiel"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/la-daimielena-elvira-perez-de-madrid-sacude-la-pasarela-sevillana-we-love-flamenco-con-su-estilo-rockero/",
-        "date": "2026-02-01 06:00:00",
-        "sentiment_score": 0.028649955987930298
-    },
-    {
-        "title": "Francisco Rabal revive por su centenario: una estatua a tamaño real y un año de homenajes",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/29/697bb4d8604a5.jpeg",
-        "tags": [
-            "lorca - águilas"
-        ],
-        "link": "https://www.cope.es/emisoras/region-de-murcia/murcia-provincia/lorca/noticias/francisco-rabal-revive-centenario-estatua-tamano-real-ano-homenajes-20260201_3297451.html",
-        "date": "2026-02-01 06:00:00",
-        "sentiment_score": 0.04328209161758423
-    },
-    {
-        "title": "¿Podrá el Real Madrid contra el Rayo Vallecano en el Bernabéu? Lo puedes ver en directo por menos de lo que crees",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2026/01/29/697a9deb06bce.r_d.1771-1041.jpeg",
-        "tags": [
-            "elrecomendador"
-        ],
-        "link": "https://www.mundodeportivo.com/elrecomendador/20260201/1002610917/podra-real-madrid-rayo-vallecano-bernabeu-puedes-ver-directo-crees-mkt-dasp.html",
-        "date": "2026-02-01 05:50:00",
-        "sentiment_score": -0.6395275145769119
-    },
-    {
-        "title": "El Bernabéu examinará a Mbappé y compañía tras el incendio de Lisboa",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/01/2026020106481858486.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/bernabeu-examinara-mbappe-compania-incendio-lisboa/20260201064901372948.html",
-        "date": "2026-02-01 05:49:01",
-        "sentiment_score": -0.8580763060599566
-    },
-    {
-        "title": "Roka Furadada: más de 8 millones de euros para sus cremas solares inteligentes",
-        "image_url": "https://static1.ara.cat/clip/f602a56c-f8c6-4d57-b925-0f36cd80537e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "roka",
-            "cremas",
-            "solares",
-            "euros",
-            "furadada",
-            "inteligentes",
-            "8",
-            "millones"
-        ],
-        "link": "https://es.ara.cat/economia/empresas/roka-furadada-8-millones-euros-cremas-solares-inteligentes_1_5634842.html",
-        "date": "2026-02-01 06:46:52",
-        "sentiment_score": 0.10744667053222656
-    },
-    {
-        "title": "El pueblo de Barcelona con solo 200 habitantes donde se esconden auténticos tesoros culinarios",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/06718f35-6fd0-49ba-977f-fb1b07f2b636_16-9-discover-aspect-ratio_default_0_x652y312.jpg",
-        "tags": [
-            "restaurante",
-            "gastronomía",
-            "historia",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/catalunya/20260201/pueblos-cataluna-barcelona-restaurantes-pujalt-anoia-rutas-dv-loc-126263564",
-        "date": "2026-02-01 06:41:00",
-        "sentiment_score": 0.8177997712045908
-    },
-    {
-        "title": "El plan de Puente de llevar el AVE a 350 km/h hace temblar a los expertos: \"Con esta vía es una locura\"",
-        "image_url": "https://s1.staticld.com/2026/01/30/europapress-7253415-ministro-transportes-movilidad-sostenible-oscar-puente-pleno-extraordinario.jpg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.libertaddigital.com/espana/politica/2026-02-01/el-plan-de-puente-de-llevar-el-ave-a-350-km-h-hace-temblar-a-los-expertos-con-esta-via-es-una-locura-7351992/",
-        "date": "2026-02-01 06:36:51",
-        "sentiment_score": -0.7718789204955101
-    },
-    {
-        "title": "Vanguardias en la agonía del franquismo",
-        "image_url": "https://static.grupojoly.com/clip/0beba1b0-5ae1-45ba-93f5-9db9cbfe0b28_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "con silencio vibrante",
-            "taller sonoro"
-        ],
-        "link": "https://www.diariodealmeria.es/ocio/taller-sonoro-con-silencio-vibrante_0_2005782245.html",
-        "date": "2026-02-01 06:15:39",
-        "sentiment_score": 0.2301274761557579
-    },
-    {
         "title": "San Siro: Explora la historia del mítico estadio que abrirá los Juegos Olímpicos de Invierno 2026 con el desfile de la delegación mexicana",
         "image_url": "https://www.infobae.com/resizer/v2/J4TAMKL5YJDNTD4MO5GG7E6ATA.jpg?auth=29f8882a18b44b677e0c47d64ab84a26701273e6ccca461e86149fae7ccaea9a&height=4671&smart=true&width=7007",
         "tags": [
@@ -2691,5 +2522,291 @@ export default [
         "link": "https://www.lanzadigital.com/nacional/termina-sin-acuerdo-la-reunion-de-puente-y-sindicatos-por-la-huelga-pero-volveran-a-reunirse-este-jueves/",
         "date": "2026-02-04 17:01:53",
         "sentiment_score": -0.014581382274627686
+    },
+    {
+        "title": "El petróleo venezolano es clave para el plan de Trump en relación con Rusia, pero hay un problema con eso",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/POZO-PETROLERO-VENEZOLANO.jpg",
+        "tags": [
+            "rusia",
+            "eeuu",
+            "actualidad",
+            "internacionales",
+            "nacionales",
+            "usa",
+            "petróleo venezolano"
+        ],
+        "link": "https://lapatilla.com/2026/02/03/el-petroleo-venezolano-es-clave-para-el-plan-de-trump-en-relacion-con-rusia-pero-hay-un-problema-con-eso/",
+        "date": "2026-02-03 14:04:46",
+        "sentiment_score": 0.20635651051998138
+    },
+    {
+        "title": "¿Cuándo se enfrentarán Álvaro Fidalgo y Obed Vargas?: Esta sería la fecha",
+        "image_url": "https://www.infobae.com/resizer/v2/N2R2L7GSZBGHROE4WNQ32AQEUA.png?auth=6773fe7ed13cb7786190647fa7e6de4934d2adc297daaab32b5b5fbf7661d2bf&height=900&smart=true&width=1600",
+        "tags": [
+            "real betis",
+            "atlético de madrid",
+            "obed vargas",
+            "álvaro fidalgo",
+            "mexico-noticias",
+            "mexico-deportes"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2026/02/04/cuando-se-enfrentaran-alvaro-fidalgo-y-obed-vargas-esta-seria-la-fecha/",
+        "date": "2026-02-04 22:30:00",
+        "sentiment_score": 0.4206448644399643
+    },
+    {
+        "title": "Endrick sigue brillando en el Lyon: quinto gol en cinco partidos para guiar al Olympique a cuartos de Copa",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/02/04/6983be43b655c4-39619338.r_d.1224-876.png",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/endrick-sigue-brillando-lyon-quinto-gol-cinco-partidos-guiar-olympique-cuartos-copa_6930179_0.html",
+        "date": "2026-02-04 22:28:09",
+        "sentiment_score": 0.8764766789972782
+    },
+    {
+        "title": "Endrick vuelve a brillar y clasifica al Olympique de Lyon a los cuartos de final de la Copa de Francia",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/04/6983c6bbdeca9.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/endrick-vuelve-brillar-clasifica-olympique-lyon-cuartos-final-copa-francia-20260204_3301353.html",
+        "date": "2026-02-04 22:24:51",
+        "sentiment_score": -0.13324353098869324
+    },
+    {
+        "title": "El sorteo de las semifinales de Copa, este viernes",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/459862c3-7ecd-4d2a-a379-5d12b89c8f99_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rey",
+            "real",
+            "fecha",
+            "semifinal",
+            "sorteo",
+            "sociedad",
+            "copa"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/02/04/fecha-sorteo-semifinal-copa-rey-real-sociedad-10658698.html",
+        "date": "2026-02-04 22:02:39",
+        "sentiment_score": 0.1686316281557083
+    },
+    {
+        "title": "La Real logra otro éxito: tercera semifinal de Copa consecutiva",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/540048d4-1a33-403b-8811-829ef12ee250_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "logra",
+            "real",
+            "semifinal",
+            "tercera",
+            "exito"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/02/04/real-logra-exito-tercera-semifinal-10659874.html",
+        "date": "2026-02-04 21:59:19",
+        "sentiment_score": 0.8440230935811996
+    },
+    {
+        "title": "La Guardia Civil apunta a un presunto soborno de 4 millones desde Forestalia a un ex consejero con el PSOE en Aragón",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/d898fd73c0107760555f9dc0f9ab2dea/crop/34x0/411x377/f/image/jpeg/assets/multimedia/imagenes/2022/03/08/16467684465115.jpg",
+        "tags": [
+            "artículos quico alsedo",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/02/04/69839c88fdddff72518b4594.html",
+        "date": "2026-02-04 21:54:23",
+        "sentiment_score": -0.47245603799819946
+    },
+    {
+        "title": "El Real Oviedo busca más invitados a luchar por la salvación",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/02/04/211895738-kcXE--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real",
+            "busca",
+            "salvacion",
+            "luchar",
+            "oviedo",
+            "invitados"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-busca-invitados-luchar-salvacion-20260204220022-nt.html",
+        "date": "2026-02-04 21:00:25",
+        "sentiment_score": -0.7278704456984997
+    },
+    {
+        "title": "El Senado reprueba al ministro Óscar Puente y exige su dimisión por la crisis ferroviaria: “Esto no es mala suerte, es negligencia”",
+        "image_url": "https://www.alertadigital.com/wp-content/uploads/2026/02/puente5.webp",
+        "tags": [
+            "españa",
+            "senado",
+            "negligencia",
+            "reprueba",
+            "puente",
+            "crisis",
+            "ferroviaria"
+        ],
+        "link": "https://www.alertadigital.com/2026/02/04/el-senado-reprueba-al-ministro-oscar-puente-y-exige-su-dimision-por-la-crisis-ferroviaria-esto-no-es-mala-suerte-es-negligencia/",
+        "date": "2026-02-04 20:35:48",
+        "sentiment_score": -0.8546112179756165
+    },
+    {
+        "title": "En aviso rojo por crecidas el río Henares en Guadalajara: alertan de posibles inundaciones de zonas habitadas",
+        "image_url": "https://s3.elespanol.com/2025/03/09/eldigitalcastillalamancha/region/guadalajara/929917179_253758109_1706x960.jpg",
+        "tags": [
+            "lluvias",
+            "región",
+            "guadalajara (provincia)",
+            "castilla-la mancha"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/20260204/aviso-rojo-crecidas-rio-henares-guadalajara-avisan-posibles-inundaciones-zonas-habitadas/1003744117291_0.html",
+        "date": "2026-02-04 20:28:17",
+        "sentiment_score": -0.6928737591952085
+    },
+    {
+        "title": "El presidente de Portugal valora aplazar su visita a España, donde se reunirá con el Rey, debido a la borrasca Leonardo",
+        "image_url": "https://www.infobae.com/resizer/v2/PGMWIKHSI5EPFDDMLDIMQRAG6Y.jpg?auth=6a184995fe6643e801f0c8f400ee5810332704272e93133a44d97b7fd4786a4b&height=1282&smart=true&width=1920",
+        "tags": [
+            "agencia estatal de meteorología",
+            "europa press",
+            "aemet",
+            "palacio real",
+            "portugal",
+            "felipe vi",
+            "elecciones portuguesas",
+            "borrasca leonardo",
+            "marcelo rebelo de sousa",
+            "europapress",
+            "españa"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/04/el-presidente-de-portugal-valora-aplazar-su-visita-a-espana-donde-se-reunira-con-el-rey-debido-a-la-borrasca-leonardo/",
+        "date": "2026-02-04 20:17:32",
+        "sentiment_score": -0.6741959527134895
+    },
+    {
+        "title": "La fiebre de Tacos Galos se desata en Barcelona y el área metropolitana: “Vendimos más de 700.000 en 2025\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/04/vivir-en-barcelona/1003742729532_15678424_1706x960.jpg",
+        "tags": [
+            "cornellà de llobregat",
+            "mataró",
+            "gastro",
+            "l'hospitalet de llobregat",
+            "comercio",
+            "terrassa",
+            "el raval",
+            "santa coloma de gramenet",
+            "el poblenou",
+            "gastronomía"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gastro/20260204/fiebre-tacos-galos-desata-barcelona-area-metropolitana-vendimos/1003742729416_0.html",
+        "date": "2026-02-04 22:30:00",
+        "sentiment_score": 0.45153413712978363
+    },
+    {
+        "title": "Renfe anula un centenar de trenes en Burgos por la huelga",
+        "image_url": "https://www.diariodeburgos.es/media/img/2026/bd61eb25-76d6-45db-8a9181d3e6348fae.jpg",
+        "tags": [
+            "renfe",
+            "ccoo",
+            "paro",
+            "país vasco",
+            "vigo",
+            "barcelona",
+            "adamuz",
+            "óscar puente",
+            "estación rosa manzano",
+            "diario de burgos",
+            "huelga",
+            "madrid",
+            "ave",
+            "burgos",
+            "ugt"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z34e81c21-29de-411d-ab5435a8918a89c0/202602/renfe-anula-un-centenar-de-trenes-en-burgos-por-la-huelga",
+        "date": "2026-02-04 22:28:36",
+        "sentiment_score": -0.779190331697464
+    },
+    {
+        "title": "Copa del Rey: Revisa todos los goles y resultados de la jornada del martes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/copa-del-rey-revisa-todos-los-goles-y-resultados-de-la-jornada-del-martes-20262418240",
+        "date": "2026-02-04 22:24:00",
+        "sentiment_score": 0.1615516059100628
+    },
+    {
+        "title": "El sexto pasaporte para la semifinal copera se esfuma para el Deportivo Alavés",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/dfd59a93-a8a9-4c30-80ae-d2915ac804a0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sexto",
+            "semifinal",
+            "pasaporte",
+            "esfuma",
+            "deportivo alavés",
+            "semifinales copa del rey",
+            "real sociedad",
+            "copera"
+        ],
+        "link": "https://www.noticiasdealava.eus/deportes/2026/02/04/sexto-pasaporte-semifinal-copera-esfuma-deportivo-alaves-real-sociedad-semifinales-copa-del-rey-10660582.html",
+        "date": "2026-02-04 22:05:38",
+        "sentiment_score": 0.701820857822895
+    },
+    {
+        "title": "El Cacereño ficha para su medular a un campeón de la Champions juvenil con el Barça",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2026/02/04/Kaptoum-Rgfv07pLz4487EkB4wZCSBI-1200x840@Hoy.jpg",
+        "tags": [
+            "campeon",
+            "ficha",
+            "medular",
+            "cacereno",
+            "barca",
+            "champions",
+            "juvenil"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/primera-rfef/cacereno-ficha-medular-campeon-champions-juvenil-barca-20260204225228-nt.html",
+        "date": "2026-02-04 21:58:42",
+        "sentiment_score": 0.08346934616565704
+    },
+    {
+        "title": "El ingenio mirobrigense brilla en las nuevas coplas del Carnaval del Toro",
+        "image_url": "https://s2.ppllstatics.com/lagacetadesalamanca/www/multimedia/2026/02/04/DSC_0503-U84167262024tNL-758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "carnaval del toro",
+            "ciudad rodrigo y comarca",
+            "ciudad rodrigo"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/provincia/ingenio-mirobrigense-brilla-nuevas-coplas-carnaval-toro-20260204224434-ga.html",
+        "date": "2026-02-04 21:58:08",
+        "sentiment_score": 0.7942440323531628
+    },
+    {
+        "title": "Xavi Vilajoana y Víctor Font no dan tregua a Laporta: \"Transparencia radical como valor democrático\"",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/04/culemania/palco/1003742729663_15680273_1706x960.jpg",
+        "tags": [
+            "palco",
+            "xavier vilajoana",
+            "víctor font",
+            "joan laporta",
+            "elecciones barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260204/xavi-vilajoana-victor-font-laporta-transparencia-democratico/1003742729661_0.html",
+        "date": "2026-02-04 21:56:50",
+        "sentiment_score": -0.929502135142684
+    },
+    {
+        "title": "María Rodríguez Soto, actriz: \"Hay momentos en que la maternidad me hace sentir muy culpable\"",
+        "image_url": "https://static.eldiario.es/clip/0c7c3fe2-82eb-4efd-829b-d394edcc1677_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cataluña",
+            "política",
+            "barcelona",
+            "noticias",
+            "periodismo independiente",
+            "ignacio escolar",
+            "economía",
+            "actualidad"
+        ],
+        "link": "https://www.eldiario.es/catalunya/maria-rodriguez-soto-actriz-hay-momentos-maternidad-sentir-culpable_1_12962856.html",
+        "date": "2026-02-04 21:49:02",
+        "sentiment_score": -0.06930592656135559
     }
 ];
