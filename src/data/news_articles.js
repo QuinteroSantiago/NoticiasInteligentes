@@ -1,214 +1,5 @@
 export default [
     {
-        "title": "San Siro: Explora la historia del mítico estadio que abrirá los Juegos Olímpicos de Invierno 2026 con el desfile de la delegación mexicana",
-        "image_url": "https://www.infobae.com/resizer/v2/J4TAMKL5YJDNTD4MO5GG7E6ATA.jpg?auth=29f8882a18b44b677e0c47d64ab84a26701273e6ccca461e86149fae7ccaea9a&height=4671&smart=true&width=7007",
-        "tags": [
-            "san siro",
-            "ceremonia de inauguración",
-            "juegos olímpicos de invierno",
-            "milán-cortina 2026",
-            "mexico-deportes"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2026/02/01/san-siro-explora-la-historia-del-mitico-estadio-que-abrira-los-juegos-olimpicos-de-invierno-2026-con-el-desfile-de-la-delegacion-mexicana/",
-        "date": "2026-02-01 17:53:37",
-        "sentiment_score": 0.1709473952651024
-    },
-    {
-        "title": "Arbeloa ya calienta el Valencia-Madrid: \"Jugarán el partido del año en su casa\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9923bdaf-774e-45a1-8c93-c53ad5937bd4_16-9-aspect-ratio_default_0_x684y303.jpg",
-        "tags": [
-            "valencia cf,el valencia,madrid,real madrid,vinícius,mestalla,rayo vallecano"
-        ],
-        "link": "https://www.superdeporte.es/valencia-cf/2026/02/01/arbeloa-calienta-valencia-madrid-jugaran-ano-126332603.html",
-        "date": "2026-02-01 17:51:54",
-        "sentiment_score": 0.09674228727817535
-    },
-    {
-        "title": "El Real Madrid no tiene piedad ante el Zaragoza y reafirma su liderato en la Liga Endesa",
-        "image_url": "https://s3.elespanol.com/2026/02/01/actualidad/1003744112295_261201128_1706x960.jpg",
-        "tags": [
-            "real madrid baloncesto",
-            "liga endesa",
-            "baloncesto",
-            "casademont zaragoza"
-        ],
-        "link": "https://www.elespanol.com/deportes/baloncesto/20260201/real-madrid-no-piedad-zaragoza-reafirma-liderato-liga-endesa/1003744112293_0.html",
-        "date": "2026-02-01 17:46:39",
-        "sentiment_score": 0.7159346044063568
-    },
-    {
-        "title": "Un penalti en el minuto 100 y dos expulsiones: las polémicas del Real Madrid - Rayo Vallecano",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/02/01/697f87e657efe8-65906516.r_d.1329-812.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/un-penalti-minuto-100-dos-expulsiones-las-polemicas-real-madrid-rayo-vallecano_6928472_0.html",
-        "date": "2026-02-01 17:37:39",
-        "sentiment_score": -0.8964631836861372
-    },
-    {
-        "title": "Horario y dónde ver en televisión y online streaming el Atlético de Madrid-Betis de LaLiga 2025-26",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/20/image-75106917-3d17-4325-9b73-84aad9c9b798-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "la liga 2025/2026"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/atletico-de-madrid-betis-jornada-23-fecha-horario-donde-ver-television-online-streaming-hoy_sto23265586/story.shtml",
-        "date": "2026-02-01 17:29:00",
-        "sentiment_score": 0.5074648894369602
-    },
-    {
-        "title": "Arbeloa frena las críticas a su plantilla: \"Fueron campeones de Europa hace un año y medio\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/01/image-58d33f78-da0c-4289-89f2-251128859e61-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/arbeloa-frena-criticas-plantilla-real-madrid-campeones-europa-hace-ano-medio-rayo-vallecano_vid60052084/video.shtml",
-        "date": "2026-02-01 17:28:54",
-        "sentiment_score": -0.1380721926689148
-    },
-    {
-        "title": "Alexia reparte cartas y asistencias antes de visitar el Madrid",
-        "image_url": "https://static1.ara.cat/clip/b9df4ff7-347c-43ed-8e7d-60ec71e6a96a_16-9-aspect-ratio_default_1055908.jpg",
-        "tags": [
-            "reparte",
-            "asistencias",
-            "visitar",
-            "alexia",
-            "cartas",
-            "madrid"
-        ],
-        "link": "https://es.ara.cat/deportes/barca-femenino/alexia-reparte-cartas-asistencias-visitar-madrid_1_5635176.html",
-        "date": "2026-02-01 17:27:11",
-        "sentiment_score": -0.10458770394325256
-    },
-    {
-        "title": "Álvaro Arbeloa: \"Ha sido una victoria de alma\"",
-        "image_url": "https://www.infobae.com/resizer/v2/7SPYXCYVINBQ3C4V43OC23UMWY.jpg?auth=7b58f7a82451fc7631d2eb0be9fb504148bec642936cf2722ab68f81dcacfdd7&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/01/alvaro-arbeloa-ha-sido-una-victoria-de-alma/",
-        "date": "2026-02-01 17:15:37",
-        "sentiment_score": 0.8978384118527174
-    },
-    {
-        "title": "Cuatro personas mueren en las carreteras este enero",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/22/697161975b738.r_d.3218-3592-0.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20260201/11455074/cuatro-personas-mueren-carreteras-enero.html",
-        "date": "2026-02-01 17:55:48",
-        "sentiment_score": -0.5774578731507063
-    },
-    {
-        "title": "El teleférico de Barcelona suspende el servicio hasta marzo por trabajos de mantenimiento",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/02/26/vivir-en-barcelona/835676469_12507739_1706x960.jpg",
-        "tags": [
-            "movilidad",
-            "transports metropolitans barcelona tmb",
-            "transporte"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/movilidad/20260201/teleferico-barcelona-suspende-servicio-marzo-trabajos-mantenimiento/1003742728577_0.html",
-        "date": "2026-02-01 17:53:21",
-        "sentiment_score": 0.5152339786291122
-    },
-    {
-        "title": "Una empresa lanza un proyecto de vivienda impresa en 3D: construyen un edificio con 3 operarios en tan solo 5 días",
-        "image_url": "https://s3.elespanol.com/2025/12/19/omicrono/tecnologia/1003744062993_260576458_1706x960.jpg",
-        "tags": [
-            "sociedad",
-            "edificios",
-            "impresión 3d",
-            "construcción",
-            "soft"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20260201/empresa-lanza-proyecto-vivienda-impresa-construyen-edificio-operarios-solo-dias/1003744089668_0.html",
-        "date": "2026-02-01 17:42:20",
-        "sentiment_score": 0.6316752545535564
-    },
-    {
-        "title": "María Izquierdo, socióloga, sobre los matrimonios forzados: \"En España existe una falsa percepción de que aquí no existe\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/01/697f8fb552a42.jpeg",
-        "tags": [
-            "fin de semana"
-        ],
-        "link": "https://www.cope.es/programas/fin-de-semana/noticias/maria-izquierdo-sociologa-sobre-matrimonios-forzados-espana-existe-falsa-percepcion-existe-20260201_3298652.html",
-        "date": "2026-02-01 17:42:00",
-        "sentiment_score": -0.2797435075044632
-    },
-    {
-        "title": "Animalistas denuncian el \"abandono\" que sufren los perros de caza",
-        "image_url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/78527749001/34013fb7-d8f2-48da-ad78-1cc3297a47b7/main/1920x1080/45s557ms/match/image.jpg?pubId=85707284001",
-        "tags": [
-            "denuncian",
-            "sufren",
-            "caza",
-            "perros",
-            "abandono",
-            "animalistas"
-        ],
-        "link": "https://www.elcomercio.es/sociedad/animalistas-denuncian-abandono-sufren-perros-caza-20260201172516-vi.html",
-        "date": "2026-02-01 17:35:32",
-        "sentiment_score": 0.04106447845697403
-    },
-    {
-        "title": "Adif avanza en el plan de contingencias de Rodalies con obras urgentes para normalizar el servicio",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/44434543-5140-4ef6-ab46-3e3ee5a195fa_alta-libre-aspect-ratio_default_0_x1130y424.jpg",
-        "tags": [
-            "rodalies",
-            "renfe",
-            "adif"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260201/adif-avanza-plan-contingencias-rodalies-126332527",
-        "date": "2026-02-01 17:09:52",
-        "sentiment_score": -0.17669964581727982
-    },
-    {
-        "title": "Horario y dónde ver en televisión y online streaming el Barcelona-Mallorca de LaLiga 2025-26",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1571x321:1573x319)/origin-imgresizer.eurosport.com/2026/01/25/image-43d91c4a-c2a6-4411-a191-31b3286a3ef4-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "la liga 2025/2026"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/barcelona-mallorca-jornada-23-fecha-horario-donde-ver-television-online-streaming-hoy_sto23265577/story.shtml",
-        "date": "2026-02-01 17:08:44",
-        "sentiment_score": 0.06179169565439224
-    },
-    {
-        "title": "Sirera (PP) carga contra Collboni por los descubiertos en el metro de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/18/el-pulso-de-la-ciudad/1003742717305_15527909_1706x960.jpg",
-        "tags": [
-            "pp",
-            "política",
-            "sindicatos",
-            "información municipal",
-            "daniel sirera",
-            "trabajadores",
-            "jaume collboni",
-            "metro barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260201/sirera-pp-carga-collboni-descubiertos-metro-barcelona/1003742728570_0.html",
-        "date": "2026-02-01 17:06:24",
-        "sentiment_score": -0.8425492495298386
-    },
-    {
-        "title": "Éric García y Laia Martret, los últimos primos que triunfan en el Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/29/culemania/historias-del-barca/1003742727976_15659748_1706x960.jpg",
-        "tags": [
-            "éric garcía",
-            "barça",
-            "historias del barça",
-            "fc barcelona",
-            "barça femenino"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/historias-del-barca/20260201/eric-garcia-laia-martret-ultimos-triunfan-barca/1003742652795_0.html",
-        "date": "2026-02-01 17:04:31",
-        "sentiment_score": 0.4614766985177994
-    },
-    {
         "title": "Comprueba los resultados del Quinigol del 1 de febrero",
         "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
         "tags": [
@@ -3025,5 +2816,50 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260205/laporta-cartera-potenciar-masia-triplica-fichajes-bartomeu/1003742729664_0.html",
         "date": "2026-02-05 00:11:59",
         "sentiment_score": 0.39755306392908096
+    },
+    {
+        "title": "Adif recibió 4.350 millones de fondos europeos, casi lo mismo que el resto de grandes perceptores juntos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6baffb44-5a21-4b1c-b1cb-ed6208ed93e8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tren,ferroviario,infraestructuras,adif,fondos europeos"
+        ],
+        "link": "https://www.laopiniondezamora.es/economia/2026/02/05/adif-fondos-europeos-126464782.html",
+        "date": "2026-02-05 06:53:01",
+        "sentiment_score": -0.10625632107257843
+    },
+    {
+        "title": "¿Puede Trent Alexander-Arnold cambiar el rumbo del equipo del Madrid de Arbeloa?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/24/2025112411331099388.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/puede-trent-alexander-arnold-cambiar-rumbo-equipo-madrid-arbeloa/20260205075149373493.html",
+        "date": "2026-02-05 06:51:49",
+        "sentiment_score": 0.12539315968751907
+    },
+    {
+        "title": "Barcelona, la provincia con más operaciones contra el yihadismo: 159 terroristas detenidos desde 2012",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2d092755-2603-4506-9afc-b94c3a386415_16-9-aspect-ratio_default_0_x400y177.jpg",
+        "tags": [
+            "yihadismo",
+            "mossos d'esquadra",
+            "policía nacional",
+            "terroristas",
+            "terrorismo islámico",
+            "guardia civil"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/espana/2026/02/05/barcelona-principal-escenario-lucha-antiyihadista-126464313.html",
+        "date": "2026-02-05 06:42:52",
+        "sentiment_score": -0.6059179902076721
+    },
+    {
+        "title": "Rodalies ofrece ofrece este jueves «la misma oferta ferroviaria» que el miércoles",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260205075500.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://cronicadecantabria.com/cr/rodalies-ofrece-ofrece-este-jueves-la-misma-oferta-ferroviaria-que-el-mircoles/",
+        "date": "2026-02-05 07:00:06",
+        "sentiment_score": 0.17196373641490936
     }
 ];
