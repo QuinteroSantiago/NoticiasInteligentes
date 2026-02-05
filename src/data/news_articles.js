@@ -2808,5 +2808,222 @@ export default [
         "link": "https://www.eldiario.es/catalunya/maria-rodriguez-soto-actriz-hay-momentos-maternidad-sentir-culpable_1_12962856.html",
         "date": "2026-02-04 21:49:02",
         "sentiment_score": -0.06930592656135559
+    },
+    {
+        "title": "El brasileño Endrick anota de nuevo y Lyon avanza a cuartos de final de la Copa de Francia",
+        "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "copa francia endrick lyon lens",
+            "send to apple news",
+            "deportes",
+            "sports"
+        ],
+        "link": "https://apnews.com/article/copa-francia-endrick-lyon-lens-4e7a69d06859b13b15e2b1bc0951d4c3",
+        "date": "2026-02-05 01:02:45",
+        "sentiment_score": 0.2889302596449852
+    },
+    {
+        "title": "El brasileño Endrick anota de nuevo y Lyon avanza a cuartos de final de la Copa de Francia",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.bostonherald.com/2026/02/04/el-brasileo-endrick-anota-de-nuevo-y-lyon-avanza-a-cuartos-de-final-de-la-copa-de-francia/",
+        "date": "2026-02-05 01:02:44",
+        "sentiment_score": 0.21765343844890594
+    },
+    {
+        "title": "Los italianos llegan a Madrid, Alcobendas es para los chinos y la 'Prospe' es el barrio 'low cost': informe de la vivienda de lujo",
+        "image_url": "https://s3.elespanol.com/2024/02/13/reportajes/832427535_239938821_1706x960.jpg",
+        "tags": [
+            "madrid",
+            "sociedad",
+            "comunidad de madrid",
+            "lujo",
+            "sector inmobiliario"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20260205/italianos-llegan-madrid-alcobendas-chinos-prospe-barrio-low-cost-informe-vivienda-lujo/1003744116382_0.html",
+        "date": "2026-02-05 01:00:00",
+        "sentiment_score": 0.11611493676900864
+    },
+    {
+        "title": "04 FEB 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/04-feb-2026-partidazo-cope-20260205_3301382.html",
+        "date": "2026-02-05 00:40:19",
+        "sentiment_score": 0.3482517674565315
+    },
+    {
+        "title": "3a PARTE | 04 FEB 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-04-feb-2026-partidazo-cope-20260205_3301381.html",
+        "date": "2026-02-05 00:38:52",
+        "sentiment_score": -0.6169709265232086
+    },
+    {
+        "title": "David Broncano, un hombre corriente con un patrimonio millonario: su vida sencilla junto a su pareja, Silvia Alonso",
+        "image_url": "https://s3.elespanol.com/2026/02/04/actualidad/1003744116916_261257800_1706x960.jpg",
+        "tags": [
+            "casas de famosos",
+            "patrimonio personal",
+            "rtve (radiotelevisión española)",
+            "famosos",
+            "david broncano"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20260205/david-broncano-hombre-corriente-patrimonio-millonario-vida-sencilla-junto-pareja-silvia-alonso/1003744116635_0.html",
+        "date": "2026-02-05 00:33:00",
+        "sentiment_score": 0.018683262169361115
+    },
+    {
+        "title": "Francisco, el conde detenido en guerra con Olivia de Borbón por el Ducado de Sevilla: un linaje amenazado por la ambición",
+        "image_url": "https://s3.elespanol.com/2026/02/04/actualidad/1003744116226_261249391_1706x960.jpg",
+        "tags": [
+            "titulos nobiliarios",
+            "detenciones",
+            "herencias",
+            "familia",
+            "famosos"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20260205/francisco-conde-detenido-guerra-olivia-borbon-ducado-sevilla-linaje-amenazado-ambicion/1003744116193_0.html",
+        "date": "2026-02-05 00:33:00",
+        "sentiment_score": -0.5758510045707226
+    },
+    {
+        "title": "Laporta cruza todas las fronteras de la mano del Barça: el ‘mapa mundi’ de sus relaciones comerciales e institucionales",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/05/culemania/palco/1003742729673_15680472_1706x960.jpg",
+        "tags": [
+            "china",
+            "palco",
+            "joan laporta",
+            "junta directiva del barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260205/laporta-cruza-fronteras-barca-relaciones-comerciales-institucionales/1003742729577_0.html",
+        "date": "2026-02-05 00:19:25",
+        "sentiment_score": 0.16076401621103287
+    },
+    {
+        "title": "“Vamos cabalgando”: la reacción de Sánchez a la ira de tecno oligarcas",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/02/96.jpg",
+        "tags": [
+            "actualidad",
+            "mundo"
+        ],
+        "link": "https://ultimasnoticias.com.ve/actualidad/vamos-cabalgando-la-reaccion-de-sanchez-a-la-ira-de-tecno-oligarcas/",
+        "date": "2026-02-05 00:10:50",
+        "sentiment_score": -0.18819259107112885
+    },
+    {
+        "title": "Luis Vidal: \"Los aeropuertos son las catedrales del siglo XXI\"",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/da9bec49bb83328260afb8c4fa4f4216/crop/0x27/1823x1242/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/04/17702319573881.jpg",
+        "tags": [
+            "artículos rebeca arroyo>",
+            "transporte y turismo>",
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2026/02/05/69839a75468aeb98138b4588.html",
+        "date": "2026-02-05 00:01:10",
+        "sentiment_score": 0.2805394232273102
+    },
+    {
+        "title": "Pronóstico del clima en Barcelona este jueves: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima",
+            "clima en españa",
+            "últimas actualizaciones",
+            "clima en barcelona"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/05/pronostico-del-clima-en-barcelona-este-jueves-temperatura-lluvias-y-viento/",
+        "date": "2026-02-05 02:15:36",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Palladium pone su pica en Vietnam",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/31/697e6247dfdf7.r_d.1272-1668-2243.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20260205/11454652/palladium-vietnam-hotelera-asia.html",
+        "date": "2026-02-05 02:00:00",
+        "sentiment_score": 0.7630470674484968
+    },
+    {
+        "title": "De paneles transparentes a 3D sin gafas: he visto las pantallas que comenzarán a inundar todos los carteles de tu ciudad",
+        "image_url": "https://s3.elespanol.com/2026/02/04/omicrono/tecnologia/1003744115952_261246056_1706x960.jpg",
+        "tags": [
+            "sector audiovisual",
+            "samsung",
+            "retail",
+            "tecnología",
+            "tecnología 3d"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20260205/paneles-transparentes-sin-gafas-visto-pantallas-comenzaran-inundar-carteles-ciudad/1003744114716_0.html",
+        "date": "2026-02-05 01:44:34",
+        "sentiment_score": 0.8116840301081538
+    },
+    {
+        "title": "Teodor Currentzis vuelve a España con 'El anillo sin palabras', un despliegue de paganismo wagneriano",
+        "image_url": "https://s3.elespanol.com/2026/02/03/actualidad/1003744114967_261233812_1706x960.jpg",
+        "tags": [
+            "música clásica",
+            "música"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20260205/teodor-currentzis-vuelve-espana-anillo-sin-palabras-despliegue-paganismo-wagneriano/1003744114748_0.html",
+        "date": "2026-02-05 00:55:00",
+        "sentiment_score": -0.07218509912490845
+    },
+    {
+        "title": "Realizan el primer trasplante de cara con donante que recibió la eutanasia",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/02/Trasplante-de-cara-de-una-donante-que-recibio-eutanasia-1024x576.png",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://ultimasnoticias.com.ve/ciencia/realizan-el-primer-trasplante-de-cara-con-donante-que-recibio-la-eutanasia/",
+        "date": "2026-02-05 00:39:02",
+        "sentiment_score": -0.45865434408187866
+    },
+    {
+        "title": "España, el país que olvidó que sabía inventar",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2026/02/04/69837baec63c5.jpeg",
+        "tags": [
+            "en primera línea"
+        ],
+        "link": "https://www.eldebate.com/opinion/en-primera-linea/20260205/espana-pais-olvido-sabia-inventar_381820.html",
+        "date": "2026-02-05 00:30:00",
+        "sentiment_score": -0.64154252409935
+    },
+    {
+        "title": "El Spotify Camp Nou prepara una subida de los abonos del 30% y ventajas para los socios más fieles",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/22/culemania/primer-equipo/1003742709938_15436079_1706x960.jpg",
+        "tags": [
+            "espai barça",
+            "camp nou",
+            "joan laporta",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260205/spotify-camp-nou-prepara-subida-abonos-ventajas/1003742729494_0.html",
+        "date": "2026-02-05 00:16:08",
+        "sentiment_score": 0.6485349461436272
+    },
+    {
+        "title": "Laporta tira de cartera para potenciar la Masía: triplica los fichajes de Bartomeu en el filial",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/04/culemania/palco/1003742729665_15680294_1706x960.jpg",
+        "tags": [
+            "barça b",
+            "la masía",
+            "fichajes barça",
+            "josep maria bartomeu",
+            "palco",
+            "joan laporta"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260205/laporta-cartera-potenciar-masia-triplica-fichajes-bartomeu/1003742729664_0.html",
+        "date": "2026-02-05 00:11:59",
+        "sentiment_score": 0.39755306392908096
     }
 ];
