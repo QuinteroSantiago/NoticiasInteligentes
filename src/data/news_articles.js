@@ -1,423 +1,5 @@
 export default [
     {
-        "title": "El Barça se gusta ante el Elche",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/01/31/Clipboard-0095-k5EE-U20459727462raG-1200x840@RC.jpg",
-        "tags": [
-            "f.c. barcelona",
-            "ferran torres",
-            "lamine yamal"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/barca-gusta-ante-elche-20260131230904-ntrc.html",
-        "date": "2026-01-31 22:22:04",
-        "sentiment_score": 0.15683524310588837
-    },
-    {
-        "title": "El Barça asedia al Elche y amplía el liderato",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/95ac5f9d-cf20-4427-b4a6f019e6444fdf.jpg",
-        "tags": [
-            "real madrid",
-            "champions league",
-            "álvaro rodríguez",
-            "elche cf",
-            "frenkie de jong",
-            "hansi flick",
-            "ferran torres",
-            "rayo vallecano",
-            "robert lewandowski",
-            "lamine yamal",
-            "laliga ea sports",
-            "raphinha",
-            "dani olmo",
-            "fc barcelona"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zaf696074-ffba-4109-8d209024acfda737/202601/el-barca-asedia-al-elche-y-amplia-el-liderato",
-        "date": "2026-01-31 22:17:30",
-        "sentiment_score": -0.09450411796569824
-    },
-    {
-        "title": "El Barcelona se gusta ante el Elche para reforzar el liderato en liga (1-3)",
-        "image_url": "https://cflvdg.avoz.es/sc/NSCkLgQaRGlm8QthPvLChdUl0SQ=/768x/2026/01/31/00121769895781485281141/Foto/efe_20260131_212410249.jpg",
-        "tags": [
-            "elche cf",
-            "deportes",
-            "fc barcelona"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/31/barcelona-gusta-ante-elche-reforzar-liderato-liga1-3/00031769897463322258476.htm",
-        "date": "2026-01-31 22:16:00",
-        "sentiment_score": 0.15683524310588837
-    },
-    {
-        "title": "La dedicatoria especial para Juan Foyth en el partidazo que protagonizaron Osasuna y Villarreal en Pamplona",
-        "image_url": "https://www.infobae.com/resizer/v2/YOHTTOUBYZBDJJ6QKMCLBPKKIQ.png?auth=2f98ac336cac12834963e37bdec62bb1f99533ed9fe62d87b4910d898138101c&height=881&smart=true&width=1567",
-        "tags": [
-            "la liga",
-            "gerard moreno",
-            "juan foyth",
-            "villarreal",
-            "osasuna"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/01/31/la-dedicatoria-especial-para-juan-foyth-en-el-partidazo-que-protagonizaron-osasuna-y-villarreal-en-pamplona/",
-        "date": "2026-01-31 22:03:50",
-        "sentiment_score": -0.7115543950349092
-    },
-    {
-        "title": "El Barcelona gana y sigue líder de la Liga Española",
-        "image_url": "https://i.ytimg.com/vi/7cNLNyeqEps/mqdefault.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-internacional/el-barcelona-gana-y-sigue-lider-de-la-liga-espanola-20261311800",
-        "date": "2026-01-31 22:01:00",
-        "sentiment_score": 0.3715811222791672
-    },
-    {
-        "title": "En Cedeño inicia temporada ciclística Caicara 2026",
-        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/01/ciclismo1.jpg",
-        "tags": [
-            "31ene",
-            "cedeño",
-            "deportes",
-            "ciclismo"
-        ],
-        "link": "https://laverdaddemonagas.com/2026/01/31/temporada-ciclistica-caicara-2026/",
-        "date": "2026-01-31 21:59:47",
-        "sentiment_score": 0.2537603825330734
-    },
-    {
-        "title": "El Barça resiste la presión del Real Madrid con una oda al fútbol ofensivo en Elche",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/31/culemania/primer-equipo/1003742728482_15666135_1706x960.jpg",
-        "tags": [
-            "laliga",
-            "primer equipo",
-            "ferran torres",
-            "lamine yamal"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260131/barca-resiste-presion-real-madrid-ofensivo-elche/1003742728465_0.html",
-        "date": "2026-01-31 21:59:13",
-        "sentiment_score": 0.5502318069338799
-    },
-    {
-        "title": "El Barça no falla en la locura de Elche y se mantiene firme como líder de La Liga",
-        "image_url": "https://s3.elespanol.com/2026/01/31/actualidad/1003744111981_261196743_1706x960.jpg",
-        "tags": [
-            "lamine yamal",
-            "fútbol",
-            "elche cf",
-            "fc barcelona",
-            "deportes"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20260131/barca-no-falla-locura-elche-mantiene-firme-lider-liga/1003744111972_0.html",
-        "date": "2026-01-31 21:58:42",
-        "sentiment_score": 0.3292563259601593
-    },
-    {
-        "title": "Convertir la lesión de Pedri en una oportunidad: los apuntes en caliente del Elche-Barça",
-        "image_url": "https://static1.ara.cat/clip/da065647-b740-45c0-a194-387180441ab9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "oportunidad",
-            "caliente",
-            "barca",
-            "elche",
-            "lesion",
-            "pedri",
-            "apuntes",
-            "convertir"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/convertir-lesion-pedri-oportunidad-apuntes-caliente-elche-barca_1_5634796.html",
-        "date": "2026-01-31 21:58:38",
-        "sentiment_score": 0.7257935609668493
-    },
-    {
-        "title": "Resumen Elche-Barcelona: Asedio ‘de líder’ en Elche (1-3)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/31/image-fcf7636f-5101-45c8-bca5-39abbe7aac99-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/la-liga-2025-2026-elche-barcelona-video-resumen-resultado-goles-y-mejores-momentos-del-partido-jornada-22-hoy_vid60051765/video.shtml",
-        "date": "2026-01-31 22:21:28",
-        "sentiment_score": 0.30669206380844116
-    },
-    {
-        "title": "El Barcelona protege el liderato y Elche se mete en problemas",
-        "image_url": "https://static.grupojoly.com/clip/480c1dad-01ee-4b66-a95d-1e3a4f86bc29_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "elche",
-            "crónica",
-            "barça",
-            "liderato"
-        ],
-        "link": "https://www.europasur.es/deportes/liderato-barca-elche-cronica_0_2005781110.html",
-        "date": "2026-01-31 22:18:33",
-        "sentiment_score": -0.18774835765361786
-    },
-    {
-        "title": "El Barcelona protege el liderato y mete al Elche en problemas",
-        "image_url": "https://static.grupojoly.com/clip/480c1dad-01ee-4b66-a95d-1e3a4f86bc29_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "elche",
-            "crónica",
-            "barça",
-            "liderato"
-        ],
-        "link": "https://www.huelvainformacion.es/deportes/liderato-barca-elche-cronica_0_2005781112.html",
-        "date": "2026-01-31 22:18:33",
-        "sentiment_score": -0.18774835765361786
-    },
-    {
-        "title": "El Barcelona venció con contundencia al Elche y defendió su liderato en LaLiga",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/fc-barcelona-vs-elche.jpg",
-        "tags": [
-            "elche cf",
-            "españa",
-            "titulares",
-            "futbol",
-            "fc barcelona",
-            "deportes",
-            "laliga"
-        ],
-        "link": "https://lapatilla.com/2026/01/31/el-barcelona-vencio-con-contundencia-al-elche-y-defendio-su-liderato-en-laliga/",
-        "date": "2026-01-31 22:18:32",
-        "sentiment_score": 0.9032910540699959
-    },
-    {
-        "title": "El Barcelona protege el liderato y mete en problemas al Elche",
-        "image_url": "https://static.grupojoly.com/clip/480c1dad-01ee-4b66-a95d-1e3a4f86bc29_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "elche",
-            "crónica",
-            "barça",
-            "liderato"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/liderato-barca-elche-cronica_0_2005781107.html",
-        "date": "2026-01-31 22:18:32",
-        "sentiment_score": -0.18774835765361786
-    },
-    {
-        "title": "El Barça resiste en Elche y defiende el liderato de LaLiga con pegada",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/31/2026013123171492342.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/barca-resiste-elche-defiende-liderato-laliga-pegada/20260131231740372933.html",
-        "date": "2026-01-31 22:17:40",
-        "sentiment_score": -0.9034526906907558
-    },
-    {
-        "title": "Lo más viral: Daddy Yankee es homenajeado por autoridades puertorriqueñas",
-        "image_url": "https://static.wixstatic.com/media/cf263a_fc9b5bf2edee4bac8f7f7a720186b4a9~mv2.png/v1/fit/w_910,h_549,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-daddy-yankee-es-homenajeado-por-autoridades-puertorrique%C3%B1as",
-        "date": "2026-01-31 19:46:43",
-        "sentiment_score": 0.7756133712828159
-    },
-    {
-        "title": "A cuatro patas y encima de una joven inerme: las fotos del príncipe Andrés le coronan como la \"vergüenza nacional\"",
-        "image_url": "https://s3.elespanol.com/2026/01/31/actualidad/1003744111871_261195121_1706x960.jpg",
-        "tags": [
-            "europa",
-            "jeffrey epstein",
-            "estados unidos",
-            "casa real",
-            "reino unido",
-            "gran bretaña"
-        ],
-        "link": "https://www.elespanol.com/mundo/europa/20260201/patas-encima-joven-inerme-fotos-principe-andres-coronan-verguenza-nacional/1003744111864_0.html",
-        "date": "2026-02-01 02:03:37",
-        "sentiment_score": -0.8822497706860304
-    },
-    {
-        "title": "Este chef de Ciudad Real ha ganado un premio nacional",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/02/01/2026020102540738224.jpg",
-        "tags": [
-            "gourmet"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/gourmet/chef-ciudad-real-ha-ganado-premio-nacional/202602010254141001194.html",
-        "date": "2026-02-01 01:54:14",
-        "sentiment_score": 0.5094650238752365
-    },
-    {
-        "title": "24 horas en la campaña de Azcón: \"En las elecciones de Aragón se vota cómo parar al independentismo catalán\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/fb6d7adbccce048b370208c8b955a7b8/crop/2x0/1024x1022/f/image/jpeg/assets/multimedia/imagenes/2024/01/15/17053356313045.jpg",
-        "tags": [
-            "pp",
-            "pilar alegría",
-            "jorge azcón",
-            "elecciones aragón",
-            "artículos juanma lamet",
-            "vox",
-            "psoe"
-        ],
-        "link": "https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/01/697e2128e85ece63408b4570.html",
-        "date": "2026-02-01 01:14:52",
-        "sentiment_score": -0.9305886328220367
-    },
-    {
-        "title": "Las 'Silvias', las madrileñas que venden casas de lujo por 2 millones de euros en Madrid: \"El cliente rico no es caprichoso\"",
-        "image_url": "https://s3.elespanol.com/2026/01/28/actualidad/1003744107563_261138164_1706x960.jpg",
-        "tags": [
-            "lujo",
-            "sociedad",
-            "inmobiliarias",
-            "inmuebles"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20260201/silvias-madrilenas-venden-casas-lujo-millones-euros-madrid-cliente-rico-no-caprichoso/1003744107555_0.html",
-        "date": "2026-02-01 01:00:00",
-        "sentiment_score": 0.18115650117397308
-    },
-    {
-        "title": "Jordi Colomer, artista: “El turismo de monumento uniformiza las ciudades”",
-        "image_url": "https://s3.elespanol.com/2026/01/19/actualidad/1003744095688_260990288_1706x960.jpg",
-        "tags": [
-            "galerías de arte",
-            "madrid",
-            "exposiciones",
-            "entrevistas",
-            "arte"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/arte/20260201/jordi-colomer-artista-turismo-monumento-uniformiza-ciudades/1003744095637_0.html",
-        "date": "2026-02-01 00:55:00",
-        "sentiment_score": 0.01108241081237793
-    },
-    {
-        "title": "Gaza o el \"documental más duro\" del director Hernán Zin: \"La gente tiene que saber que se mata a niños\"",
-        "image_url": "https://s3.elespanol.com/2026/01/29/actualidad/1003744109228_261160095_1706x960.jpg",
-        "tags": [
-            "referentes",
-            "justicia e instituciones sólidas",
-            "franja de gaza",
-            "palestina",
-            "objetivo 16: paz",
-            "guerra"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/referentes/20260201/gaza-documental-duro-director-hernan-zin-gente-saber-mata-ninos/1003744109141_0.html",
-        "date": "2026-02-01 00:45:00",
-        "sentiment_score": -0.45895617455244064
-    },
-    {
-        "title": "Venezolanos en Madrid exigieron hechos reales tras anuncio de amnistía: \"Hasta ahora va todo muy lento\"",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/31203718/Venezolanos-Amnistia.jpg",
-        "tags": [
-            "venezolanos en madrid",
-            "ley de amnistía",
-            "delcy rodríguez",
-            "presos políticos",
-            "mundo",
-            "europa"
-        ],
-        "link": "https://www.elnacional.com/2026/01/venezolanos-en-madrid-exigieron-hechos-reales-tras-anuncio-de-amnistia/",
-        "date": "2026-02-01 00:40:59",
-        "sentiment_score": -0.7364701572805643
-    },
-    {
-        "title": "Qué fue de Eva Sannum, la modelo noruega que enamoró al joven príncipe Felipe y revolucionó la Casa Real",
-        "image_url": "https://s3.elespanol.com/2026/01/28/actualidad/1003744107846_261141623_1706x960.jpg",
-        "tags": [
-            "famosos",
-            "noruega",
-            "casa real",
-            "felipe vi",
-            "celebrities",
-            "reina letizia",
-            "familia real"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20260201/eva-sannum-modelo-noruega-enamoro-joven-principe-felipe-revoluciono-casa-real/1003744107720_0.html",
-        "date": "2026-02-01 00:33:00",
-        "sentiment_score": -0.15869194269180298
-    },
-    {
-        "title": "31 ENE 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/31-ene-2026-tramo-final-juego-20260201_3298543.html",
-        "date": "2026-02-01 00:15:00",
-        "sentiment_score": 0.2699786499142647
-    },
-    {
-        "title": "\"El juez les ha dado con las puertas en las narices\": Laporta arremete contra el Real Madrid",
-        "image_url": "https://pxcdn.2001online.com/2001/012026/1769904405928/fermin-lopez-renueva-con-barcelona.jpg?ch=675&cw=1200",
-        "tags": [
-            "caso negreira",
-            "negreira",
-            "fc barcelona",
-            "florentino pérez",
-            "joan laporta",
-            "real madrid",
-            "españa",
-            "laliga"
-        ],
-        "link": "https://2001online.com/deportes/el-juez-les-ha-dado-con-las-puertas-en-las-narices-laporta-arremete-contra-el-real-madrid-202613120450",
-        "date": "2026-02-01 00:11:30",
-        "sentiment_score": -0.6950946636497974
-    },
-    {
-        "title": "Las últimas previsiones para Barcelona: temperatura, lluvias y viento",
-        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
-        "tags": [
-            "últimas actualizaciones",
-            "clima",
-            "clima en españa",
-            "clima en barcelona"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/01/las-ultimas-previsiones-para-barcelona-temperatura-lluvias-y-viento/",
-        "date": "2026-02-01 02:16:10",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "Más privilegios",
-        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "privilegios"
-        ],
-        "link": "https://www.malagahoy.es/opinion/articulos/privilegios_0_2005781857.html",
-        "date": "2026-02-01 02:13:28",
-        "sentiment_score": -0.5399594157934189
-    },
-    {
-        "title": "Cercanías Bilbao firma los mejores datos del Estado",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/dd307e6c-9535-44be-a28c-584f0c18c0fa_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "bilbao",
-            "firma",
-            "datos",
-            "cercanias",
-            "mejores"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/sociedad/2026/02/01/cercanias-bilbao-firma-mejores-datos-10631321.html",
-        "date": "2026-02-01 02:06:14",
-        "sentiment_score": 0.30163902789354324
-    },
-    {
-        "title": "Flick resta importancia a las ocasiones falladas y elogia a Lamine: \"Es muy importante\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/01/image-50f1f216-e3f9-4528-95bb-c7c549a24a03-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "entertainment"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/declaraciones-flick-ocasiones-falladas-elche-barcelona-nivel-lamine-yamal_vid60051783/video.shtml",
-        "date": "2026-02-01 01:55:10",
-        "sentiment_score": 0.47988320887088776
-    },
-    {
-        "title": "La crisis del alquiler empeora: un tercio de inmobiliarias ya no capta pisos tras perder casi 130.000 viviendas en dos años",
-        "image_url": "https://s3.elespanol.com/2026/01/30/actualidad/1003744110437_261175600_1706x960.jpg",
-        "tags": [
-            "gobierno de españa",
-            "observatorio de la vivienda",
-            "ley de vivienda",
-            "alquiler de viviendas",
-            "inmobiliarias"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20260201/crisis-alquiler-empeora-tercio-inmobiliarias-no-capta-pisos-perder-viviendas-anos/1003744110396_0.html",
-        "date": "2026-02-01 01:38:51",
-        "sentiment_score": -0.6739954724907875
-    },
-    {
         "title": "Osasuna - Villarreal, la prórroga: pregúntale a la IA",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/60877b29-9366-4223-8767-a9f1df546184_16-9-aspect-ratio_default_0_x354y706.jpg",
         "tags": [
@@ -2890,5 +2472,224 @@ export default [
         "link": "https://www.lacronicabadajoz.com/nacional/2026/02/04/falta-normas-asignaciones-forzosas-diferencia-territorios-dificil-arranque-tribunales-instancia-126423222.html",
         "date": "2026-02-04 06:30:39",
         "sentiment_score": -0.04017728567123413
+    },
+    {
+        "title": "Al Atlético de Madrid le urge poner otra cara en La Cartuja",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260204184313_120.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-atletico-madrid-le-urge-poner-otra-cara-cartuja-20260204184313.html",
+        "date": "2026-02-04 17:43:13",
+        "sentiment_score": 0.19962294399738312
+    },
+    {
+        "title": "La estampita de la Copa",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2ce200a0-cf61-4983-b696-70b6a43850ff_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "copa",
+            "estampita"
+        ],
+        "link": "https://www.noticiasdenavarra.com/futbol/2026/02/04/estampita-copa-10659475.html",
+        "date": "2026-02-04 17:34:29",
+        "sentiment_score": -0.09118422865867615
+    },
+    {
+        "title": "El Instituto Coordenadas señala a las entidades que impulsan el avance oncológico en España",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/02177616-2c8e-4e04-a38c-e012845e3870_16-9-aspect-ratio_default_0_x440y165.jpg",
+        "tags": [
+            "hospital",
+            "càncer"
+        ],
+        "link": "https://www.regio7.cat/comunicacio-empresarial/2026/02/04/instituto-coordenadas-senala-entidades-impulsan-126452453.html",
+        "date": "2026-02-04 17:28:34",
+        "sentiment_score": -0.02070993185043335
+    },
+    {
+        "title": "El Real Madrid busca ante el peligroso Dubai detener otra mala racha",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260204181247_690.jpg",
+        "tags": [
+            "baloncesto",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-real-madrid-busca-peligroso-dubai-detener-otra-mala-racha-20260204181247.html",
+        "date": "2026-02-04 17:12:47",
+        "sentiment_score": -0.7332811914384365
+    },
+    {
+        "title": "17:00H | 04 FEB 2026 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-04-feb-2026-tarde-20260204_3301233.html",
+        "date": "2026-02-04 17:05:00",
+        "sentiment_score": -0.3839559257030487
+    },
+    {
+        "title": "¿Por qué Unai Vencedor no jugará ante el Athletic?",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/aeb85f0d-d2b4-448f-8d38-64474929210c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "athletic",
+            "jugara",
+            "unai",
+            "vencedor"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/02/04/unai-vencedor-jugara-athletic-10659301.html",
+        "date": "2026-02-04 17:04:39",
+        "sentiment_score": -0.659486060962081
+    },
+    {
+        "title": "Álex Gomes, jugador del Real Zaragoza, en la primera selección del Fútbol Draft 2026",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3083a477-1640-45f2-8998-a077cdb12d1a_16-9-aspect-ratio_default_0_x580y257.jpg",
+        "tags": [
+            "real zaragoza",
+            "real madrid",
+            "betis",
+            "barcelona",
+            "fútbol",
+            "real sociedad",
+            "villarreal"
+        ],
+        "link": "https://www.elperiodicodearagon.com/real-zaragoza/2026/02/04/alex-gomes-jugador-real-zaragoza-real-zaragoza-126450193.html",
+        "date": "2026-02-04 17:04:32",
+        "sentiment_score": 0.20862574130296707
+    },
+    {
+        "title": "C-LM en alerta por la borrasca Leonardo: vigilancia de ríos y servicios",
+        "image_url": "https://www.clm24.es/media/clm24/images/2026/02/04/2026020417585616778.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.clm24.es/articulo/sociedad/c-lm-alerta-borrasca-leonardo-vigilancia-rios-servicios/20260204180034470291.html",
+        "date": "2026-02-04 17:00:34",
+        "sentiment_score": 0.1489161029458046
+    },
+    {
+        "title": "Rafael Catalá: \"Fortalecer la democracia exige potenciar una sociedad civil activa, corresponsable y comprometida con el interés general\"",
+        "image_url": "https://www.diariosigloxxi.com/images/20537",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5760045/rafael-catala-fortalecer-democracia-exige-potenciar-sociedad-civil-activa-corresponsable-comprometida-interes-general",
+        "date": "2026-02-04 16:46:49",
+        "sentiment_score": 0.25506988167762756
+    },
+    {
+        "title": "EEUU propone a sus socios formar un bloque comercial para minerales críticos como contrapeso de China",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260204173803_120.jpg",
+        "tags": [
+            "macroeconomía",
+            "economía finanzas"
+        ],
+        "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-eeuu-propone-socios-formar-bloque-comercial-minerales-criticos-contrapeso-china-20260204173803.html",
+        "date": "2026-02-04 16:38:03",
+        "sentiment_score": 0.40431321412324905
+    },
+    {
+        "title": "A la venta los billetes para viajar en verano desde el aeropuerto de León: precios y destinos",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/29/12/05/8/aeropuerto.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lanuevacronica.com/actualidad/venta-billetes-viajar-en-verano-aeropuerto-leon-precios-destinos_190552_102.html",
+        "date": "2026-02-04 17:28:25",
+        "sentiment_score": 0.397522509098053
+    },
+    {
+        "title": "Torres se reúne con los delegados del Gobierno en las CCAA para seguir la situación de las zonas afectadas por lluvias",
+        "image_url": "http://st1.lacerca.com/imagenes/view/86adec3236a7f44f47e41dc86f29ceaa.jpg",
+        "tags": [
+            "castilla-la mancha",
+            "noticias"
+        ],
+        "link": "https://www.lacerca.com/noticias/castilla_la_mancha/torres-delegados-gobierno-ccaa-situacion-zonas-afectadas-lluvias-800537-1.html",
+        "date": "2026-02-04 17:27:00",
+        "sentiment_score": -0.3490522541105747
+    },
+    {
+        "title": "Vueling refuerza los vuelos entre Barcelona y Madrid ante el caos ferroviario con una limitación en el precio",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/02/26/movilidad/835676613_12512245_1706x960.jpg",
+        "tags": [
+            "economía",
+            "aeropuerto barcelona",
+            "vuelos",
+            "ave barcelona",
+            "vueling"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260204/vueling-refuerza-vuelos-barcelona-madrid-caos-ferroviario-limitacion-precio/1003742729565_0.html",
+        "date": "2026-02-04 17:13:05",
+        "sentiment_score": 0.25085348077118397
+    },
+    {
+        "title": "Un seguidor de Vito Quiles detenido en Barcelona por amenazas al responsable de FACUA",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/06/22/6857bcf01112f.r_d.1631-1261-0.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20260204/11457861/un-seguidor-de-vito-quiles-detenido-en-barcelona-por-amenazas-al-responsable-de-facua-asd-epm.html",
+        "date": "2026-02-04 17:11:02",
+        "sentiment_score": -0.7047156430780888
+    },
+    {
+        "title": "Un seguidor de Vito Quiles detenido en Vallirana (Barcelona) por amenazas al responsable de FACUA",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/06/22/6857bcf01112f.r_d.1631-1261-0.jpeg",
+        "tags": [
+            "l'h y baix llobregat"
+        ],
+        "link": "https://www.lavanguardia.com/local/baix-llobregat/20260204/11457861/un-seguidor-de-vito-quiles-detenido-en-barcelona-por-amenazas-al-responsable-de-facua-asd-epm.html",
+        "date": "2026-02-04 17:11:02",
+        "sentiment_score": -0.7047156430780888
+    },
+    {
+        "title": "La Terminal T4 del Aeropuerto de Madrid-Barajas celebra 20 años de servicio a 980 millones de pasajeros",
+        "image_url": "https://melillahoy.es/wp-content/uploads/2026/02/Barajas-T4-aniversario-2026-03.jpg",
+        "tags": [
+            "viajeros",
+            "arquitectura",
+            "aena",
+            "infraestructura",
+            "turismo",
+            "pasajeros",
+            "terminal t4",
+            "transportes",
+            "adolfo suárez madrid-barajas",
+            "aeropuerto",
+            "sostenibilidad",
+            "madrid",
+            "tecnología",
+            "nacional",
+            "aeronáutica",
+            "transporte público",
+            "transporte",
+            "economia",
+            "iberia",
+            "plan barajas"
+        ],
+        "link": "https://melillahoy.es/la-terminal-t4-del-aeropuerto-de-madrid-barajas-celebra-20-anos-de-servicio-a-980-millones-de-pasajeros/",
+        "date": "2026-02-04 17:09:04",
+        "sentiment_score": 0.39664987847208977
+    },
+    {
+        "title": "Adiós a esta mítica perfumería de Barcelona: cierra todas sus tiendas en la capital catalana",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2026/02/04/698378578b0a1.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20260204/1002614727/adios-mitica-perfumeria-barcelona-cierra-todas-tiendas-capital-catalana-lcl-dct.html",
+        "date": "2026-02-04 17:08:52",
+        "sentiment_score": -0.2313809022307396
+    },
+    {
+        "title": "Termina sin acuerdo la reunión de Puente y sindicatos por la huelga, pero volverán a reunirse este jueves",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/EuropaPress_7265293_reunion_ministerio_transportes_sindicatos-scaled.jpg",
+        "tags": [
+            "renfe",
+            "nacional"
+        ],
+        "link": "https://www.lanzadigital.com/nacional/termina-sin-acuerdo-la-reunion-de-puente-y-sindicatos-por-la-huelga-pero-volveran-a-reunirse-este-jueves/",
+        "date": "2026-02-04 17:01:53",
+        "sentiment_score": -0.014581382274627686
     }
 ];
