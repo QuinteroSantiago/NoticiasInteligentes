@@ -1,211 +1,5 @@
 export default [
     {
-        "title": "Las fotos del festejo de cumpleaños de Julián Álvarez junto a su familia: “De pocas palabras y gran corazón”",
-        "image_url": "https://www.infobae.com/resizer/v2/HASL7LH3KBC3HCHYDUWCKRC7NM.png?auth=08891a228034ccf084470e8cc3ff6257a607961436e8198326f57be5dc221632&height=1080&smart=true&width=1920",
-        "tags": [
-            "julián álvarez",
-            "selección argentina",
-            "atlético madrid",
-            "deportes-internacional",
-            "deportes-argentina",
-            "liga de españa"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/02/las-fotos-del-festejo-de-cumpleanos-de-julian-alvarez-junto-a-su-familia-de-pocas-palabras-y-gran-corazon/",
-        "date": "2026-02-02 17:42:18",
-        "sentiment_score": 0.14164506644010544
-    },
-    {
-        "title": "El Gobierno canario acusa al Estado de montar \"bronca\" con el 'decreto Canarias' con fines partidistas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ca915106-3a63-41f2-87ab-e0340fdccc25_16-9-aspect-ratio_default_0_x947y385.jpg",
-        "tags": [
-            "gobierno",
-            "psoe",
-            "canarias",
-            "pedro sánchez",
-            "cc"
-        ],
-        "link": "https://www.laprovincia.es/canarias/2026/02/02/gobierno-canario-acusa-montar-bronca-126374269.html",
-        "date": "2026-02-02 17:40:02",
-        "sentiment_score": 0.15356162190437317
-    },
-    {
-        "title": "Valverde aboga por adaptar la formación de las Escuelas Familiares Agrarias al sector agroalimentario",
-        "image_url": "http://st1.lacerca.com/imagenes/view/714c954df2c24826c2c7d4a52ad9335f.jpg",
-        "tags": [
-            "ciudad real",
-            "noticias"
-        ],
-        "link": "https://www.lacerca.com/noticias/ciudad_real/valverde-aboga-adaptar-formacion-escuelas-familiares-agrarias-agroalimentario-800190-1.html",
-        "date": "2026-02-02 17:39:00",
-        "sentiment_score": 0.09824538230895996
-    },
-    {
-        "title": "Deportes | El Atlético de Madrid, solución millonaria para Rodrigo Mendoza: si se cumplen los objetivos, el Elche CF ingresará los 20 millones de su cláusula",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1689389.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-atletico-de-madrid-solucion-millonaria-para-el-elche-cf-y-rodrigo-mendoza-si-se-cumplen-los-objetivos-la-entidad-franjiverde-puede-ingresar-los-20-millones-de-su-clausula",
-        "date": "2026-02-02 17:34:11",
-        "sentiment_score": 0.6217698119580746
-    },
-    {
-        "title": "Previa del Albacete - FC Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/FOC73BYFQFHP7HC7OVAOKRWC7E.jpg?auth=ef2044d1efb2c62d025dcc5f2ae7bb487e75fab74de001b997d19a158e68bd36&height=1279&smart=true&width=1920",
-        "tags": [
-            "fútbol",
-            "fc barcelona",
-            "carlos belmonte",
-            "alberto gonzález",
-            "real madrid",
-            "copa del rey",
-            "albacete",
-            "albacete balompié",
-            "laliga hypermotion",
-            "europapress",
-            "hansi flick"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/02/previa-del-albacete-fc-barcelona/",
-        "date": "2026-02-02 17:32:22",
-        "sentiment_score": 0.6917159520089626
-    },
-    {
-        "title": "El Real Oviedo traspasa a Josip Brekalo al Hertha de Berlín",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260202183136_120.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-real-oviedo-traspasa-josip-brekalo-hertha-berlin-20260202183136.html",
-        "date": "2026-02-02 17:31:36",
-        "sentiment_score": -0.76134511269629
-    },
-    {
-        "title": "Cristiano Ronaldo no juega con Al Nassr y estaría descontento con política de fichajes",
-        "image_url": "https://dims.apnews.com/dims4/default/f099dd7/2147483647/strip/true/crop/5462x3636+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4c%2F8e%2F9075097901473a195e671b87f00c%2F23e2b51b33e3419eb1c73b167abfcd96",
-        "tags": [
-            "cristiano ronaldo al nassr arabia",
-            "sports",
-            "send to apple news",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/cristiano-ronaldo-al-nassr-arabia-a19decb6ccb1fad26905e5dfd46fee6c",
-        "date": "2026-02-02 17:27:57",
-        "sentiment_score": -0.7171310782432556
-    },
-    {
-        "title": "Cristiano Ronaldo no juega con Al Nassr y estaría descontento con política de fichajes",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/02/CRISTIANO_RONALDO_09353.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2026/02/02/cristiano-ronaldo-no-juega-con-al-nassr-y-estara-descontento-con-poltica-de-fichajes/",
-        "date": "2026-02-02 17:27:56",
-        "sentiment_score": -0.7046421896666288
-    },
-    {
-        "title": "Raphinha entre algodones",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/02/6980a21d29bd6.jpeg",
-        "tags": [
-            "esports cope"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/raphinha-algodones-20260202_3299428.html",
-        "date": "2026-02-02 17:25:36",
-        "sentiment_score": 0.003366529941558838
-    },
-    {
-        "title": "Identificado el espectador que tiró un plátano a Vinícius en el Carlos Belmonte",
-        "image_url": "https://www.clm24.es/media/clm24/images/2026/01/16/2026011609342570473.jpg",
-        "tags": [
-            "albacete"
-        ],
-        "link": "https://www.clm24.es/articulo/albacete/identificado-espectador-que-tiro-platano-vinicius-carlos-belmonte/20260202181857470157.html",
-        "date": "2026-02-02 17:18:57",
-        "sentiment_score": -0.8835841044783592
-    },
-    {
-        "title": "Tasis, el padre del género negro en catalán",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/02/6980db2188bb4.r_d.4076-2907-705.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.lavanguardia.com/cultura/20260202/11456047/bcnegra-barcelona-tasis-padre-genero-negro-catalan.html",
-        "date": "2026-02-02 17:42:59",
-        "sentiment_score": 0.23611948639154434
-    },
-    {
-        "title": "Denuncian que trabajadores del Razetti cumplieron ocho meses sin transporte nocturno los domingos",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "salud",
-            "locales"
-        ],
-        "link": "https://eltiempove.com/denuncian-que-trabajadores-del-razetti-cumplieron-ocho-meses-sin-transporte-nocturno-los-domingos/",
-        "date": "2026-02-02 17:41:08",
-        "sentiment_score": -0.10917830467224121
-    },
-    {
-        "title": "La Fageda incorpora a Mireia Sáenz de Buruaga como nueva directora de Comunicación y de Relaciones Institucionales",
-        "image_url": "https://images.ecestaticos.com/GZGhnGmiFV7_KkhPBLzdD0O7SHc=/0x0:1200x798/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F47c%2Fea1%2Fa60%2F47cea1a60e5edba68b9f6786aeaaf624.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elconfidencial.com/empresas/2026-02-02/la-fageda-comunicacion-mireia-saenz-1hms_4295650/",
-        "date": "2026-02-02 17:41:00",
-        "sentiment_score": 0.6435072720050812
-    },
-    {
-        "title": "¿Quieres acercarte a la Fontana di Trevi? Son dos euros",
-        "image_url": "https://static1.ara.cat/clip/9229ecb2-0e73-465d-80ee-8ea85cb9ecef_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "trevi",
-            "euros",
-            "fontana",
-            "di",
-            "acercarte",
-            "quieres",
-            "son"
-        ],
-        "link": "https://es.ara.cat/cultura/patrimonio/quieres-acercarte-fontana-di-trevi-son-euros_1_5636252.html",
-        "date": "2026-02-02 17:40:07",
-        "sentiment_score": -0.3089713901281357
-    },
-    {
-        "title": "Enero deja una sorpresa en las hipotecas variables tras el último dato del euríbor",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2021/01/01/2021010100000065698.png",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/dinero/enero-deja-sorpresa-hipotecas-variables-ultimo-dato-euribor/202602021838031001408.html",
-        "date": "2026-02-02 17:38:03",
-        "sentiment_score": 0.0763130635023117
-    },
-    {
-        "title": "Vivienda pide retirar de las plataformas 13.726 pisos turísticos ilegales en Canarias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6ec98d81-4e65-4fd1-a820-ba9f1a161b64_16-9-aspect-ratio_default_0_x1100y489.jpg",
-        "tags": [
-            "comunidades autónomas",
-            "canarias",
-            "vivienda",
-            "viviendas",
-            "pisos turísticos"
-        ],
-        "link": "https://www.laprovincia.es/canarias/2026/02/02/vivienda-pide-retirar-plataformas-13-126374058.html",
-        "date": "2026-02-02 17:35:39",
-        "sentiment_score": -0.4994406271725893
-    },
-    {
-        "title": "Óscar Puente acude mañana al Congreso para dar cuenta por los accidentes en los trenes",
-        "image_url": "https://forbes.es/wp-content/uploads/2026/02/fotonoticia_20260202180901_1920-1200x675.jpg",
-        "tags": [
-            "economía",
-            "última hora"
-        ],
-        "link": "https://forbes.es/economia/867684/oscar-puente-acude-manana-al-congreso-para-dar-cuenta-por-los-accidentes-en-los-trenes/",
-        "date": "2026-02-02 17:35:09",
-        "sentiment_score": -0.76592131331563
-    },
-    {
         "title": "Galerías del Tresillo convirtió un sofá gigante en el fenómeno emocional del año",
         "image_url": "https://www.diariosigloxxi.com/images/showid/7831637",
         "tags": [
@@ -2989,5 +2783,181 @@ export default [
         "link": "https://www.elespanol.com/madrid/sociedad/20260206/borja-ramon-conserjes-deciden-restaurantes-museos-shows-llenan-turistas-madrid/1003744118719_0.html",
         "date": "2026-02-06 01:00:00",
         "sentiment_score": 0.5576446950435638
+    },
+    {
+        "title": "El Rey y el presidente de Portugal deciden posponer la visita de este viernes después de hablar por teléfono",
+        "image_url": "https://www.infobae.com/resizer/v2/I5C6NBUHLFCLFBZERCT6DNLBIU.jpg?auth=649cba1af703d64f913bb204485ad42913cc215e3df554c062b7e6567139aa1a&height=1282&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/06/el-rey-y-el-presidente-de-portugal-deciden-posponer-la-visita-de-este-viernes-despues-de-hablar-por-telefono/",
+        "date": "2026-02-06 06:45:20",
+        "sentiment_score": 0.03928976505994797
+    },
+    {
+        "title": "Ferran Font, sobre alquilar piso completo o habitación: “Se comparte no por elección, sino por necesidad económica”",
+        "image_url": "https://s3.elespanol.com/2026/02/02/actualidad/1003744112793_261208263_1706x960.jpg",
+        "tags": [
+            "alquiler de viviendas",
+            "soft",
+            "sociedad",
+            "vivienda"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20260206/ferran-font-alquilar-piso-completo-habitacion-comparte-no-eleccion-necesidad-economica/1003744112755_0.html",
+        "date": "2026-02-06 06:42:43",
+        "sentiment_score": -0.8532456876710057
+    },
+    {
+        "title": "«En este mundo digital tan variopinto hay canción protesta para rato»",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2026/02/05/IMG_1477-kJ7E-U20542398801AAG-758x531@El%20Norte.jpg",
+        "tags": [
+            "palencia"
+        ],
+        "link": "https://www.elnortedecastilla.es/palencia/mundo-digital-variopinto-cancion-protesta-rato-20260206223739-nt.html",
+        "date": "2026-02-06 06:29:45",
+        "sentiment_score": 0.13250301778316498
+    },
+    {
+        "title": "Tal día como HOY: 6 de febrero",
+        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2026/02/02/maxi-kZ0-U2101431510613HKC-1200x840@Hoy.jpg",
+        "tags": [
+            "cumpleaños de hoy"
+        ],
+        "link": "https://www.hoy.es/sociedad/dia-hoy-febrero-20260206174553-nt.html",
+        "date": "2026-02-06 06:23:08",
+        "sentiment_score": -0.0067031122744083405
+    },
+    {
+        "title": "Marta Ortega, con los Reyes, en la reunión del patronato de la Galería de las Colecciones Reales",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fdef8854-bf8a-4ad5-93cd-efe0a56b9245_alta-libre-aspect-ratio_default_0_x348y154.jpg",
+        "tags": [
+            "felipe vi",
+            "inditex",
+            "marta ortega"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260206/marta-ortega-reyes-reunion-patronato-126497573",
+        "date": "2026-02-06 06:22:33",
+        "sentiment_score": -0.037568509578704834
+    },
+    {
+        "title": "Más allá de Móstoles: el otro caso de presunto acoso sexual que el PP de Madrid silenció",
+        "image_url": "https://www.elplural.com/uploads/s1/20/39/47/6/almeida-1_7_480x270.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elplural.com/politica/espana/mas-alla-mostoles-caso-presunto-acoso-sexual-pp-madrid-silencio_380640102",
+        "date": "2026-02-06 06:17:28",
+        "sentiment_score": -0.1736493706703186
+    },
+    {
+        "title": "Desde Madrid contra Aragón",
+        "image_url": "https://www.elplural.com/uploads/s1/24/46/29/4/azcon-1_7_480x270.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elplural.com/politica/espana/madrid-contra-aragon_380650102",
+        "date": "2026-02-06 06:17:12",
+        "sentiment_score": -0.07735419273376465
+    },
+    {
+        "title": "Real decreto-ley ómnibus",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "omnibus",
+            "decreto",
+            "ley",
+            "real"
+        ],
+        "link": "https://www.deia.eus/opinion/tribuna-abierta/2026/02/06/real-decreto-ley-omnibus-10665562.html",
+        "date": "2026-02-06 06:00:41",
+        "sentiment_score": 0.19123046100139618
+    },
+    {
+        "title": "Querido diario",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c5b01c6c-0b28-4ffe-aa10-89cf2bc7ad59_16-9-aspect-ratio_default_0_x384y144.jpg",
+        "tags": [
+            "museos",
+            "filosofía",
+            "memoria",
+            "velocidad"
+        ],
+        "link": "https://www.laopiniondemalaga.es/opinion/2026/02/06/querido-diario-126494158.html",
+        "date": "2026-02-06 06:00:17",
+        "sentiment_score": -0.24302063882350922
+    },
+    {
+        "title": "Nos colamos en el rodaje de 'Salvador', el nuevo drama neonazi de Netflix con Luis Tosar y Claudia Salas",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/03/6981fa5e741ca2-25570424.jpeg",
+        "tags": [
+            "series"
+        ],
+        "link": "https://www.20minutos.es/cinemania/series/nos-colamos-rodaje-salvador-nuevo-drama-neonazi-netflix-con-luis-tosar-claudia-salas_6925214_0.html",
+        "date": "2026-02-06 06:00:00",
+        "sentiment_score": -0.20990661531686783
+    },
+    {
+        "title": "Nuevo desprendimiento en la red de Rodalies: interrumpida la R4 entre Martorell y Barcelona",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/03/6981aecef093c.r_d.970-859.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20260206/nuevo-desprendimiento-red-rodalies-interrumpida-r4-entre-martorell-barcelona_382335.html",
+        "date": "2026-02-06 06:57:22",
+        "sentiment_score": -0.7574912216514349
+    },
+    {
+        "title": "Puente se reúne por tercera vez con los sindicatos ferroviarios para evitar la huelga",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ab4cd69e-0dc0-4374-a757-99a167538556_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "puente",
+            "vez",
+            "tercera",
+            "reune",
+            "sindicatos"
+        ],
+        "link": "https://www.deia.eus/actualidad/sociedad/2026/02/06/puente-reune-tercera-vez-sindicatos-10666044.html",
+        "date": "2026-02-06 06:49:26",
+        "sentiment_score": 0.16233272105455399
+    },
+    {
+        "title": "Rodalies comienza este viernes con un nuevo tramo cortado en la R4 por el desprendimiento en Sant Feliu",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Y45LS5EMLFE7VIUAAC7VBYCY2Y.jpg?auth=4b643a3bed26b1cccff0551e35ef2be899285116d525ed4a795fcac5a0312213&width=1200",
+        "tags": [
+            "generalitat cataluña",
+            "cataluña",
+            "óscar puente santiago",
+            "adif",
+            "renfe",
+            "ministerio de transportes",
+            "sílvia paneque",
+            "cercanías",
+            "obras mantenimiento"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2026-02-06/rodalies-comienza-este-viernes-con-un-nuevo-tramo-cortado-en-la-r4-por-el-desprendimiento-en-sant-feliu.html",
+        "date": "2026-02-06 06:43:38",
+        "sentiment_score": -0.30928437784314156
+    },
+    {
+        "title": "Iñaki Urdangarin: \"La cárcel fue una maravillosa lección de honestidad\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4798335f-818f-4cb5-a09a-7bbdb347b8ad_16-9-aspect-ratio_default_0_x626y234.jpg",
+        "tags": [
+            "balonmano",
+            "libros",
+            "casa real",
+            "iñaki urdangarin"
+        ],
+        "link": "https://www.informacion.es/vida-y-estilo/gente/2026/02/06/inaki-urdangarin-carcel-maravillosa-leccion-honestidad-libro-memorias-126510157.html",
+        "date": "2026-02-06 06:30:52",
+        "sentiment_score": -0.559689536690712
+    },
+    {
+        "title": "Los líderes nacionales de los partidos arropan este viernes a sus candidatos en Aragón en el cierre de campaña",
+        "image_url": "https://www.infobae.com/resizer/v2/OU3Z4IV3HZAZRFRKKZU4EDXCAE.jpg?auth=4b7b5c16305b7d25158b83c19112eb2b1077425878714b5a621baaa56dfeea92&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/06/los-lideres-nacionales-de-los-partidos-arropan-este-viernes-a-sus-candidatos-en-aragon-en-el-cierre-de-campana/",
+        "date": "2026-02-06 06:30:35",
+        "sentiment_score": 0.039078839123249054
     }
 ];
