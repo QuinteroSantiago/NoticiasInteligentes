@@ -1,455 +1,5 @@
 export default [
     {
-        "title": "Comprueba los resultados del Quinigol del 1 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
-        "tags": [
-            "narrativa",
-            "quinigol resultados fútbol",
-            "loterías de españa",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/espana/2026/02/01/comprueba-los-resultados-del-quinigol-del-1-de-febrero/",
-        "date": "2026-02-01 22:00:27",
-        "sentiment_score": 0.1734202764928341
-    },
-    {
-        "title": "La revancha de YouTube, cómo recuperó el liderazgo y se convirtió en la nueva televisión: \"Si fuera un canal, sería el más consumido por los jóvenes españoles... menores de 54 años\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/c29f8f814240f8a96a7305a5e3442d7b/crop/0x314/3072x3386/f/image/jpeg/assets/multimedia/imagenes/2022/03/25/16482001648195.jpg",
-        "tags": [
-            "artículos sara polo",
-            "nlpremium",
-            "medios",
-            "redes sociales",
-            "youtube",
-            "cultura"
-        ],
-        "link": "https://www.elmundo.es/cultura/2026/02/01/697ccb8ce4d4d8d8158b456f.html",
-        "date": "2026-02-01 21:55:41",
-        "sentiment_score": 0.288245365023613
-    },
-    {
-        "title": "Susi Moreno",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/02/01/211713877-kdF--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "gijón"
-        ],
-        "link": "https://www.elcomercio.es/gijon/susi-moreno-gijon-cimadevilla-20260202212533-nt.html",
-        "date": "2026-02-01 21:55:24",
-        "sentiment_score": -0.11178196221590042
-    },
-    {
-        "title": "El stage del Atlético de Madrid en Llaranes",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/02/01/211723383-k2ED--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "fútbol",
-            "luis aragonés",
-            "atlético de madrid",
-            "deportes avilés",
-            "sporting de gijón"
-        ],
-        "link": "https://www.elcomercio.es/aviles/stage-atletico-madrid-llaranes-20260202212830-nt.html",
-        "date": "2026-02-01 21:55:12",
-        "sentiment_score": 0.02898242324590683
-    },
-    {
-        "title": "La estrella internacional por la que el Atlético de Madrid pagó casi USD 50 millones para que compita con Julián Álvarez",
-        "image_url": "https://www.infobae.com/resizer/v2/WHNDIYNOX5HCBDBK4GIOMECGMA.jpg?auth=50314f9c26088883c3b3da25d5d5feabaf01b18c2513ab2a1b106cd5796075d6&height=1280&smart=true&width=1920",
-        "tags": [
-            "atalanta",
-            "atlético de madrid",
-            "diego simeone",
-            "deportes-argentina",
-            "julián álvarez",
-            "ademola lookman"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/01/la-estrella-internacional-por-la-que-el-atletico-de-madrid-pago-casi-usd-50-millones-para-que-compita-con-julian-alvarez/",
-        "date": "2026-02-01 21:54:23",
-        "sentiment_score": 0.17667077481746674
-    },
-    {
-        "title": "El Real Madrid aprovecha el empate de la Real Sociedad para coger aire en la segunda plaza de la Liga F",
-        "image_url": "https://www.infobae.com/resizer/v2/NSYLBMTBTFD6TNIWYT756SGC7A.jpg?auth=0f136ec97878b1b5f14f6524ab7bdb6be432d159ea2a5e8e35493b773c38d2f4&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/01/el-real-madrid-aprovecha-el-empate-de-la-real-sociedad-para-coger-aire-en-la-segunda-plaza-de-la-liga-f/",
-        "date": "2026-02-01 21:30:16",
-        "sentiment_score": -0.17996308207511902
-    },
-    {
-        "title": "Las fotos del Real Madrid-Rayo Vallecano",
-        "image_url": "https://static.grupojoly.com/clip/29c36140-631f-417a-bb2e-b9d148294bc3_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fotos",
-            "madrid",
-            "rayo",
-            "vallecano",
-            "real"
-        ],
-        "link": "https://www.diariodealmeria.es/deportes/fotos-real-madrid-rayo-vallecano_3_2005790109.html",
-        "date": "2026-02-01 21:05:56",
-        "sentiment_score": 0.4558671712875366
-    },
-    {
-        "title": "No dicen \"vergüenza ajena\", sino \"vergüenza española\": una kazaja afincada en España revela lo que piensan de nosotros a 6.000 kilómetros",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/01/30/spian-sprinkles-creadora-de-contenido-kazaja-habla-sobre-espana.png",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/no-dicen-verguenza-ajena-verguenza-espanola-kazaja-afincada-espana-revela-piensan-6000-kilometros-f202602.html",
-        "date": "2026-02-01 21:00:48",
-        "sentiment_score": -0.24714592099189758
-    },
-    {
-        "title": "Arbeloa pierde a Bellingham por una lesión muscular",
-        "image_url": "https://www.infobae.com/resizer/v2/2GX5UPJEIZHQ3FH6BB6QDHJP6U.jpg?auth=e9116e57498d7fe856922192e435db1d8ecf3497a7cc92c8cd3e4d63b2fbefc4&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/01/arbeloa-pierde-a-bellingham-por-una-lesion-muscular/",
-        "date": "2026-02-01 21:00:34",
-        "sentiment_score": -0.7588351685553789
-    },
-    {
-        "title": "Iñaki Urdangarin: \"He sido el eslabón más débil. Atacarme a mí era mucho más fácil que hacerlo al otro lado\"",
-        "image_url": "https://s3.elespanol.com/2026/02/01/actualidad/1003744112218_261200162_1706x960.jpg",
-        "tags": [
-            "iñaki urdangarín",
-            "caso urdangarin",
-            "televisión",
-            "famosos",
-            "caso nóos",
-            "cristina de borbón y grecia"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20260201/inaki-urdangarin-eslabon-debil-atacarme-facil-hacerlo-lado/1003744112196_0.html",
-        "date": "2026-02-01 22:42:00",
-        "sentiment_score": -0.5278473421931267
-    },
-    {
-        "title": "Un ecosistema único en España con una facturación superior a los 5.000 millones",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/01/26/Lead-ecosistema-agencia1200x840-U10350424921fsC-U20302531318AMG-1200x840@Ideal.jpg",
-        "tags": [
-            "escuela andaluza de salud pública",
-            "pts",
-            "agencia estatal de salud pública",
-            "granada"
-        ],
-        "link": "https://www.ideal.es/granada/ecosistema-unico-espana-facturacion-superior-5000-millones-20260202134721-nt.html",
-        "date": "2026-02-01 22:39:05",
-        "sentiment_score": 0.7011511921882629
-    },
-    {
-        "title": "El genial aceite de oliva virgen extra que llega a los bufés de los hoteles",
-        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2026/02/02/alma-luna-desayuno-U20452624890TgF-U2044099345455F-1200x840@Ideal.jpg",
-        "tags": [
-            "italia",
-            "españa",
-            "investigación",
-            "aceite de oliva",
-            "sostenibilidad",
-            "solidaridad"
-        ],
-        "link": "https://www.ideal.es/economia/factoria-de-empresas/genial-aceite-oliva-virgen-extra-llega-bufes-20260202233010-nt.html",
-        "date": "2026-02-01 22:30:14",
-        "sentiment_score": 0.41316384449601173
-    },
-    {
-        "title": "Miquel, tostador de café de un negocio histórico de La Barceloneta: \"Seguimos siendo una tienda de barrio\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/27/actualidad/1003742727190_15648993_1706x960.jpg",
-        "tags": [
-            "comercios tradicionales",
-            "tiendas",
-            "comercio",
-            "comercios emblemáticos de barcelona",
-            "vivir en barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260201/miquel-tostador-cafe-negocio-historico-barceloneta-seguimos-tienda-barrio/1003742727123_0.html",
-        "date": "2026-02-01 22:30:00",
-        "sentiment_score": 0.06743788719177246
-    },
-    {
-        "title": "Los supermercados asiáticos toman los ejes ‘prime’ de Barcelona: DayDay Go abre junto a la centenaria Bolibar en Rambla Catalunya",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/28/actualidad/1003742727492_15662447_1706x960.jpg",
-        "tags": [
-            "paseo de gràcia",
-            "comercio",
-            "rambla catalunya",
-            "eixample",
-            "economía",
-            "supermercados"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/eixample/20260201/supermercados-asiaticos-toman-ejes-prime-barcelona-dayday-go-abre-junto-centenaria-bolibar-rambla-catalunya/1003742728183_0.html",
-        "date": "2026-02-01 22:30:00",
-        "sentiment_score": -0.11129571497440338
-    },
-    {
-        "title": "Dos empresas se reparten la atención domiciliaria en Barcelona: un pastel de 180 millones",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2020/11/02/informacion-municipal/532956715_10095726_1706x960.jpg",
-        "tags": [
-            "información municipal",
-            "ayuntamiento de barcelona",
-            "empresas barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260201/empresas-reparten-atencion-domiciliaria-barcelona-pastel-millones/1003742728174_0.html",
-        "date": "2026-02-01 22:30:00",
-        "sentiment_score": -0.5488154403865337
-    },
-    {
-        "title": "Llega a Granada la gran óptica con precios universitarios",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/02/02/optica-granada-kC-U20440924043IDH-1200x840@Ideal.jpg",
-        "tags": [
-            "andalucía",
-            "general optica",
-            "precios",
-            "granada",
-            "cádiz (provincia)"
-        ],
-        "link": "https://www.ideal.es/economia/factoria-de-empresas/llega-granada-gran-optica-precios-universitarios-20260202232957-nt.html",
-        "date": "2026-02-01 22:30:00",
-        "sentiment_score": 0.4503254648298025
-    },
-    {
-        "title": "En un epílogo para el infarto, Argentina perdió ante Brasil la final de la Copa América de futsal",
-        "image_url": "https://www.infobae.com/resizer/v2/O5VLDUW4SZCY5G36GMZ3ITRJZU.jpg?auth=4ad32dee255119f17f6bf82a1c1850931be5caf9163ed84a0ddff90279f3aa87&height=1280&smart=true&width=1920",
-        "tags": [
-            "selección de brasil",
-            "selección argentina",
-            "copa américa de futsal"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/01/en-un-epilogo-para-el-infarto-argentina-perdio-ante-brasil-la-final-de-la-copa-america-de-futsal/",
-        "date": "2026-02-01 22:24:58",
-        "sentiment_score": 0.12229159474372864
-    },
-    {
-        "title": "La industria audiovisual se cita en Barcelona para un ISE 2026 centrado en IA y ciberseguridad",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/01/business/1003742728620_15667621_1706x960.jpg",
-        "tags": [
-            "ise",
-            "barcelona",
-            "fira de barcelona",
-            "business",
-            "ciberseguridad",
-            "cataluña"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/business/20260201/industria-audiovisual-barcelona-ise-centrado-ia-ciberseguridad/1003742728619_0.html",
-        "date": "2026-02-01 22:19:35",
-        "sentiment_score": 0.3017989583313465
-    },
-    {
-        "title": "Todas las imágenes de la épica victoria del UCAM Murcia frente al Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9586da45-18d9-41ef-a28b-6bfb9f0ec8e9_16-9-aspect-ratio_default_0_x348y154.jpg",
-        "tags": [
-            "victoria",
-            "deportes",
-            "imagenes",
-            "murcia",
-            "epica",
-            "barcelona",
-            "ucam murcia",
-            "ucam"
-        ],
-        "link": "https://www.laopiniondemurcia.es/fotos/deportes/2026/02/01/imagenes-epica-victoria-ucam-murcia-126338116.html",
-        "date": "2026-02-01 22:18:15",
-        "sentiment_score": -0.036103636026382446
-    },
-    {
-        "title": "Agenda: qué hacer hoy lunes 2 de febrero en Asturias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/db95451b-6fa7-405e-a6a2-0182328ccf40_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "teatro",
-            "horario",
-            "asturias",
-            "exposición"
-        ],
-        "link": "https://www.lne.es/asturias/2026/02/02/agenda-hoy-lunes-2-febrero-126334145.html",
-        "date": "2026-02-02 02:08:51",
-        "sentiment_score": 0.02486613392829895
-    },
-    {
-        "title": "Edad de Plata",
-        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "edad",
-            "plata"
-        ],
-        "link": "https://www.diariodejerez.es/opinion/articulos/edad-plata_0_2005795262.html",
-        "date": "2026-02-02 02:06:29",
-        "sentiment_score": -0.02788013219833374
-    },
-    {
-        "title": "Atlético de Madrid anuncia acuerdo con Atalanta por el delantero nigeriano Ademola Lookman",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/eb1470e/2147483647/strip/true/crop/2604x1367+0+184/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd5%2F23%2Fa457928343e5b5d44fe88be61327%2Fd67df8b8bc03457ea4ff9bdf49ed48df.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-01/atletico-de-madrid-anuncia-acuerdo-con-atalanta-por-el-delantero-nigeriano-ademola-lookman",
-        "date": "2026-02-02 01:52:36",
-        "sentiment_score": 0.3445834591984749
-    },
-    {
-        "title": "Orlando enviaba cientos de archivos pedófilos \"de extrema crudeza\" a Juan José, pero están en libertad: \"¡Ey! ¿Tienes más?\"",
-        "image_url": "https://s3.elespanol.com/2026/02/01/actualidad/1003744112224_261200214_1706x1280.jpg",
-        "tags": [
-            "tribunales",
-            "policía nacional",
-            "menores",
-            "comunidad valenciana",
-            "alicante (ciudad)",
-            "madrid",
-            "reportajes",
-            "alcoi-alcoy",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260202/orlando-enviaba-cientos-archivos-pedofilos-extrema-crudeza-juan-jose-libertad-ey/1003744112213_0.html",
-        "date": "2026-02-02 01:50:16",
-        "sentiment_score": -0.8155223987996578
-    },
-    {
-        "title": "El abogado de los afectados por la talidomida demanda a 15 víctimas para cobrar 1,5 millones de su indemnización",
-        "image_url": "https://s3.elespanol.com/2022/03/08/espana/tribunales/655695449_222517759_1706x960.jpg",
-        "tags": [
-            "observatorio de la sanidad",
-            "abogados",
-            "enfermedades",
-            "enfermedades raras",
-            "españa",
-            "sanidad"
-        ],
-        "link": "https://www.elespanol.com/espana/20260202/abogado-afectados-talidomida-demanda-victimas-cobrar-millones-indemnizacion/1003744094603_0.html",
-        "date": "2026-02-02 01:50:12",
-        "sentiment_score": -0.9253763612359762
-    },
-    {
-        "title": "Impensado escándalo con Cristiano Ronaldo en Arabia Saudita: el motivo por el que decidió negarse a jugar",
-        "image_url": "https://www.infobae.com/resizer/v2/QH42MXQ5VFAXRFFDEQZQHQQNMI.JPG?auth=5233b5f480764258b6cbb781535de8414cda288ce609452ea539ace56cf6af3a&height=1466&smart=true&width=2153",
-        "tags": [
-            "fondo de inversión pública de arabia saudita",
-            "liga saudita",
-            "al nassr",
-            "deportes-argentina",
-            "al hilal",
-            "cristiano ronaldo"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/02/impensado-escandalo-con-cristiano-ronaldo-en-arabia-saudita-el-motivo-por-el-que-decidio-negarse-a-jugar/",
-        "date": "2026-02-02 01:25:00",
-        "sentiment_score": -0.4243158735334873
-    },
-    {
-        "title": "Atlético de Madrid anuncia acuerdo con Atalanta por el delantero nigeriano Ademola Lookman",
-        "image_url": "https://www.bostonherald.com/wp-content/uploads/2026/02/LIGA_DE_CAMPEONES_57439.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.bostonherald.com/2026/02/01/atltico-de-madrid-anuncia-acuerdo-con-atalanta-por-el-delantero-nigeriano-ademola-lookman/",
-        "date": "2026-02-02 01:24:16",
-        "sentiment_score": 0.24935432523488998
-    },
-    {
-        "title": "El Atlético cierra a Ademola Lookman y gana una batalla de fondo",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/04/2025070401435728911.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/atletico-cierra-ademola-lookman-gana-batalla-fondo/20260202022344373065.html",
-        "date": "2026-02-02 01:23:44",
-        "sentiment_score": 0.8401230257004499
-    },
-    {
-        "title": "Merino, golpe seco al Arsenal y alarma real para España de cara al Mundial",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/20/2025032023071096027.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/merino-golpe-seco-arsenal-alarma-real-espana-cara-mundial/20260202021555373064.html",
-        "date": "2026-02-02 01:15:55",
-        "sentiment_score": -0.9269913006573915
-    },
-    {
-        "title": "Una entidad catalanista ataca a un cantante ibicenco por hablar en español y Vox presenta una moción",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/02/01/697f84a972f02.jpeg",
-        "tags": [
-            "baleares"
-        ],
-        "link": "https://www.eldebate.com/espana/baleares/20260202/entidad-catalanista-ataca-cantante-ibicenco-hablar-espanol-vox-presenta-mocion_380539.html",
-        "date": "2026-02-02 02:00:00",
-        "sentiment_score": -0.7761209290474653
-    },
-    {
-        "title": "Laia Sabaté, psicóloga: \"Somos jóvenes con fobia a pasarlo mal, nuestros padres tenían claro que la vida es alegría y dolor\"",
-        "image_url": "https://s3.elespanol.com/2026/01/30/actualidad/1003744111277_261186969_1706x960.jpg",
-        "tags": [
-            "salud",
-            "psicología",
-            "salud mental"
-        ],
-        "link": "https://www.elespanol.com/ciencia/salud/20260202/laia-sabate-psicologa-jovenes-fobia-pasarlo-mal-padres-claro-vida-alegria-dolor/1003744111175_0.html",
-        "date": "2026-02-02 01:50:19",
-        "sentiment_score": -0.7147267609834671
-    },
-    {
-        "title": "Policías Antifascistas, el grupo lanzado por un mosso para unir a agentes de izquierdas: \"Nos ha contactado mucho guardia civil\"",
-        "image_url": "https://s3.elespanol.com/2026/01/30/actualidad/1003744111403_261189053_1706x960.jpg",
-        "tags": [
-            "policía nacional",
-            "reportajes",
-            "españa",
-            "guardia civil",
-            "policía local",
-            "mozos de escuadra (mossos d'esquadra)"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260202/policias-antifascistas-grupo-lanzado-mosso-unir-agentes-izquierdas-contactado-guardia-civil/1003744110889_0.html",
-        "date": "2026-02-02 01:50:12",
-        "sentiment_score": -0.751324076205492
-    },
-    {
-        "title": "Los exministros José Blanco y Alfonso Alonso venden Acento a Havas tras superar los 10M de facturación como lobistas",
-        "image_url": "https://s3.elespanol.com/2022/07/27/invertia/empresas/690941114_226085191_1706x960.jpg",
-        "tags": [
-            "josé blanco lópez",
-            "alfonso alonso",
-            "medios",
-            "lobby"
-        ],
-        "link": "https://www.elespanol.com/invertia/medios/20260202/exministros-jose-blanco-alfonso-alonso-venden-acento-havas-superar-facturacion-lobistas/1003744110820_0.html",
-        "date": "2026-02-02 01:40:56",
-        "sentiment_score": 0.1702319085597992
-    },
-    {
-        "title": "Andino estrenará su primera terminal de carga en Barajas el 10 de marzo y ultima acuerdos con aerolíneas",
-        "image_url": "https://s3.elespanol.com/2026/01/13/actualidad/1003744088210_260897184_1706x960.jpg",
-        "tags": [
-            "turismo",
-            "aena",
-            "aeropuerto adolfo suárez (madrid-barajas)"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/turismo/20260202/andino-estrenara-primera-terminal-carga-barajas-marzo-ultima-acuerdos-aerolineas/1003744107473_0.html",
-        "date": "2026-02-02 01:40:50",
-        "sentiment_score": 0.4276151806116104
-    },
-    {
-        "title": "El imperio de Jhosef Arias, de \"quedarse sin papeles\" a ser el chef con más restaurantes peruanos en España",
-        "image_url": "https://s3.elespanol.com/2025/05/07/actualidad/1003743745650_261175849_1706x960.jpg",
-        "tags": [
-            "restaurantes",
-            "ocio",
-            "perú"
-        ],
-        "link": "https://www.elespanol.com/madrid/ocio/20260202/imperio-jhosef-arias-quedarse-sin-papeles-chef-restaurantes-peruanos-espana/1003744110436_0.html",
-        "date": "2026-02-02 01:00:00",
-        "sentiment_score": 0.5538391321897507
-    },
-    {
-        "title": "01 FEB 2026 | EL TERTULIÓN DE LOS DOMINGOS",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/01-feb-2026-tertulion-domingos-20260202_3298716.html",
-        "date": "2026-02-02 00:58:16",
-        "sentiment_score": -0.3497210741043091
-    },
-    {
         "title": "¿Qué sigue para Liam Ramos, de cinco años, y su padre tras su liberación de la custodia federal?",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/Screenshot_10.jpg",
         "tags": [
@@ -2861,5 +2411,260 @@ export default [
         "link": "https://cronicadecantabria.com/cr/rodalies-ofrece-ofrece-este-jueves-la-misma-oferta-ferroviaria-que-el-mircoles/",
         "date": "2026-02-05 07:00:06",
         "sentiment_score": 0.17196373641490936
+    },
+    {
+        "title": "¿Qué ocurrió entre Jeffrey Epstein y Astrid Gil-Casares?",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/3a/media_thumb-link-4143688.webp?1770250986=",
+        "tags": [
+            "astrid gil-casares armada",
+            "epstein",
+            "actualidad"
+        ],
+        "link": "https://www.meneame.net/story/ocurrio-entre-jeffrey-epstein-astrid-gil-casares",
+        "date": "2026-02-05 08:10:03",
+        "sentiment_score": -0.8398223854601383
+    },
+    {
+        "title": "Los árbitros del Unicaja - Morabanc Andorra",
+        "image_url": "https://static.grupojoly.com/clip/04d9beea-3aa9-4276-862c-04040803db9d_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unicaja baloncesto"
+        ],
+        "link": "https://www.malagahoy.es/unicaja/arbitros-unicaja-morabanc-andorra_0_2005824954.html",
+        "date": "2026-02-05 17:40:49",
+        "sentiment_score": 0.19076506793498993
+    },
+    {
+        "title": "Un herido muy grave en una explosión de gas en Usera",
+        "image_url": "https://s1.staticld.com/2026/02/05/explosion-usera.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.libertaddigital.com/madrid/2026-02-05/explosion-de-gas-en-usera-un-hombre-de-52-anos-con-quemaduras-de-segundo-y-tercer-grado-7355053/",
+        "date": "2026-02-05 17:38:50",
+        "sentiment_score": -0.7864626310765743
+    },
+    {
+        "title": "Y el domingo en Mestalla, un Real Madrid al límite",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/495e8a86-1708-4278-bbd4-d3e7a42c9a93_16-9-aspect-ratio_default_0_x450y199.jpg",
+        "tags": [
+            "valencia,mestalla,madrid,real madrid,la liga,vinicius jr,jude bellingham,kylian mbappé,álvaro arbeloa,florentino pérez,liga,dudas,descenso,fc barcelona,entrenador,arda güler,fede valverde"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2026/02/05/domingo-mestalla-real-madrid-limite-126491710.html",
+        "date": "2026-02-05 17:35:06",
+        "sentiment_score": -0.25466570258140564
+    },
+    {
+        "title": "La mala racha de resultados que el Villarreal quiere romper",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/710459e7-6398-42c5-af82-5f2d3ea8e4c6_16-9-aspect-ratio_default_0_x600y234.jpg",
+        "tags": [
+            "villarreal cf,villarreal,marcelino garcía toral,laliga,champions league,copa del rey,partidos,futbol,competición,barcelona,real madrid,goles,espanyol,levante ud,valencia cf,aficionado,la cerámica,betis,osasuna,racing de santander"
+        ],
+        "link": "https://www.superdeporte.es/villarreal-cf/2026/02/05/mala-racha-resultados-villarreal-quiere-marcelino-laliga-champions-league-126486382.html",
+        "date": "2026-02-05 17:34:46",
+        "sentiment_score": 0.3972630649805069
+    },
+    {
+        "title": "El Instituto Coordenadas señala a las entidades que impulsan el avance oncológico en España",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/A1-1412688068-2-1200x675.jpg",
+        "tags": [
+            "servimedia",
+            "lom",
+            "actualidad"
+        ],
+        "link": "https://theobjective.com/actualidad/2026-02-05/el-instituto-coordenadas-avance-oncologico-espana/",
+        "date": "2026-02-05 17:32:26",
+        "sentiment_score": 0.4197356440126896
+    },
+    {
+        "title": "Quien fue 'La Chata', la protagonista del cuadro de Sorolla que ha sido recuperado tras cinco décadas desaparecido",
+        "image_url": "https://static.eldiario.es/clip/2accaec7-0d8c-417f-a632-c5b90c29ff4b_16-9-discover-aspect-ratio_default_1135907.jpg",
+        "tags": [
+            "la chata",
+            "cinco",
+            "protagonista",
+            "fue",
+            "cuadro",
+            "quien",
+            "decadas",
+            "desaparecido",
+            "pm",
+            "recuperado",
+            "sorolla"
+        ],
+        "link": "https://www.eldiario.es/spin/quien-fue-la-chata-protagonista-cuadro-sorolla-recuperado-cinco-decadas-desaparecido-pm_1_12967184.html",
+        "date": "2026-02-05 17:30:18",
+        "sentiment_score": -0.10252779722213745
+    },
+    {
+        "title": "41 datos de Cristiano Ronaldo en su cumpleaños 41: el astro portugués celebra cerca del récord de los 1.000 goles",
+        "image_url": "https://www.infobae.com/resizer/v2/U5PEMDKI6NBFDI43G2O4LHSWDM.webp?auth=a3611c9a9d61e9dc9d0ec4984cf1c3646328cd59e57cabded13dd9da6ee9c651&height=2010&smart=true&width=2680",
+        "tags": [
+            "cumpleaños de cristiano ronaldo",
+            "colombia-deportes",
+            "cristiano ronaldo",
+            "selección portugal"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/05/41-datos-de-cristiano-ronaldo-en-su-cumpleanos-41-el-astro-portugues-celebra-cerca-del-record-de-los-1000-goles/",
+        "date": "2026-02-05 17:29:02",
+        "sentiment_score": 0.685018002986908
+    },
+    {
+        "title": "Mueren dos personas al estrellarse un helicóptero durante una persecución tras un tiroteo en Arizona",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2026/02/05/ambulance-kkcB-U20550697018euG-1200x840@diario_abc.jpg",
+        "tags": [
+            "helicoptero",
+            "personas",
+            "tiroteo",
+            "persecucion",
+            "dos",
+            "arizona",
+            "estrellarse",
+            "tras",
+            "mueren"
+        ],
+        "link": "https://www.abc.es/internacional/mueren-dos-personas-estrellarse-helicoptero-persecucion-tras-20260205182318-nt.html",
+        "date": "2026-02-05 17:23:23",
+        "sentiment_score": -0.7023419663310051
+    },
+    {
+        "title": "Madrid muestra correos de la edil de Móstoles en los que habla de «discriminación laboral»",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/ayusso.jpg",
+        "tags": [
+            "isabel díaz ayuso",
+            "acoso sexual",
+            "madrid",
+            "correo electrónico",
+            "móstoles",
+            "pp (partido popular)",
+            "comunidad de madrid"
+        ],
+        "link": "https://theobjective.com/espana/madrid/2026-02-05/madrid-correos-edil-mostoles-ayuso/",
+        "date": "2026-02-05 17:19:53",
+        "sentiment_score": 0.04806078225374222
+    },
+    {
+        "title": "Ábalos y Koldo tendrán que comparecer presencialmente ante el Tribunal Supremo",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/19/47B01F4D-FF19-4197-8EC5-5BD35090A695/jose-luis-abalos-koldo-garcia_70.jpg?crop=690%2C388%2Cx0%2Cy34&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "antena 3 noticias",
+            "españa"
+        ],
+        "link": "https://www.antena3.com/noticias/espana/abalos-koldo-tendran-que-comparecer-presencialmente-tribunal-supremo_202602056984cef22f00a04688f96f08.html",
+        "date": "2026-02-05 17:10:10",
+        "sentiment_score": -0.5593506209552288
+    },
+    {
+        "title": "La Global Sumud Flotilla anuncia su misión más grande a Gaza para el 29 de marzo",
+        "image_url": "https://www.laizquierdadiario.com/IMG/logo/global_bien-ca083.jpg?1770313394=",
+        "tags": [
+            "gaza",
+            "israel",
+            "estado de israel",
+            "palestina",
+            "global sumud flotilla",
+            "franja de gaza"
+        ],
+        "link": "https://www.laizquierdadiario.com/La-Global-Sumud-Flotilla-anuncia-su-mision-mas-grande-a-Gaza-para-el-29-de-marzo",
+        "date": "2026-02-05 17:44:06",
+        "sentiment_score": 0.03891552984714508
+    },
+    {
+        "title": "Un año para impulsar la obra de Blai Bonet, Clementina Arderiu y Josep M. Castellet",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/05/6984d52eea5c2.r_d.647-245-4412.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.lavanguardia.com/cultura/20260205/11458954/homenaje-literatura-ano-blai-bonet-clementina-arderiu-josep-castellet-alcover.html",
+        "date": "2026-02-05 17:42:45",
+        "sentiment_score": 0.06347425282001495
+    },
+    {
+        "title": "La Audiencia de Madrid pide reabrir la causa por la filtración de fotos de DNI de 33 jueces soberanistas en 'La Razón'",
+        "image_url": "https://static1.ara.cat/clip/cd53429c-20be-4962-a23b-cbb84a55f488_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "soberanistas",
+            "pide",
+            "madrid",
+            "dni",
+            "reabrir",
+            "causa",
+            "filtracion",
+            "audiencia",
+            "fotos",
+            "razon",
+            "jueces",
+            "33"
+        ],
+        "link": "https://es.ara.cat/politica/audiencia-madrid-pide-reabrir-causa-filtracion-fotos-dni-33-jueces-soberanistas-razon_1_5639575.html",
+        "date": "2026-02-05 17:41:32",
+        "sentiment_score": -0.30296365171670914
+    },
+    {
+        "title": "El Hércules inaugura Can Dragó con la esperanza de dormir en play-off",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9d40931c-f234-4aa1-bc3f-b3aa1724af2c_16-9-aspect-ratio_default_0_x720y640.jpg",
+        "tags": [
+            "hércules cf",
+            "europa",
+            "hércules",
+            "estilo",
+            "goles"
+        ],
+        "link": "https://www.informacion.es/hercules-cf/2026/02/05/hercules-inaugura-can-drago-esperanza-126489845.html",
+        "date": "2026-02-05 17:40:48",
+        "sentiment_score": 0.43983812630176544
+    },
+    {
+        "title": "El hongo melena de león conquista cocinas y laboratorios por sus propiedades neuronales",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/05/6984c932aa92a.jpeg",
+        "tags": [
+            "salud y bienestar"
+        ],
+        "link": "https://www.cope.es/actualidad/salud-bienestar/noticias/hongo-melena-leon-conquista-cocinas-laboratorios-propiedades-neuronales-20260205_3302118.html",
+        "date": "2026-02-05 17:37:36",
+        "sentiment_score": -0.055370181798934937
+    },
+    {
+        "title": "La Navidad deja 4.100 millones en Madrid: suizos y estadounidenses superan los 40 € por compra, pero los madrileños lideran el gasto",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/09/69382072261c02-01279254.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.20minutos.es/madrid/navidad-trae-4-100-millones-capital-los-suizos-estadounidenses-superan-los-40e-por-compra-pero-los-madrilenos-lideran-gasto_6930572_0.html",
+        "date": "2026-02-05 17:33:00",
+        "sentiment_score": -0.49256566166877747
+    },
+    {
+        "title": "Los gastos diarios se ‘comen’ el 66% del salario, cerca de 22.000 euros al año: “En 2026, el margen para ahorrar desaparece”",
+        "image_url": "https://www.infobae.com/resizer/v2/MXACFPRJQQVCFBFYEHLBGT4ZBM.jpg?auth=594625c574939be86e0d4f3d4ed9ecbb2926ea4c83be0830ded96cf4ff698ba5&height=528&smart=true&width=800",
+        "tags": [
+            "vivienda",
+            "consumo españa",
+            "españa-noticias",
+            "precios españa",
+            "ahorro",
+            "españa-economia",
+            "alquiler"
+        ],
+        "link": "https://www.infobae.com/espana/2026/02/05/los-gastos-diarios-se-comen-el-66-del-salario-cerca-de-22000-euros-al-ano-en-2026-el-margen-para-ahorrar-desaparece/",
+        "date": "2026-02-05 17:32:44",
+        "sentiment_score": -0.8230226654559374
+    },
+    {
+        "title": "La Flotilla Global Sumud anuncia una nueva misión hacia Gaza a finales de marzo",
+        "image_url": "https://static.infolibre.es/clip/7267159f-8dd4-4458-b265-2c89446020ed_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "la invasión de gaza",
+            "israel",
+            "ayuda humanitaria",
+            "barcelona",
+            "internacional",
+            "gaza",
+            "barcos",
+            "palestina"
+        ],
+        "link": "https://www.infolibre.es/internacional/flotilla-global-sumud-anuncia-nueva-mision-gaza-finales-marzo_1_2140646.html",
+        "date": "2026-02-05 17:32:16",
+        "sentiment_score": -0.13790540397167206
     }
 ];
