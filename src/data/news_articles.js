@@ -2666,5 +2666,122 @@ export default [
         "link": "https://www.infolibre.es/internacional/flotilla-global-sumud-anuncia-nueva-mision-gaza-finales-marzo_1_2140646.html",
         "date": "2026-02-05 17:32:16",
         "sentiment_score": -0.13790540397167206
+    },
+    {
+        "title": "Resumen Real Madrid-Barcelona: Paseo en la casa blanca hacia semifinales (0-4)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/05/image-60b8f1fd-42e2-4966-815b-5b7ed6218d1a-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.eurosport.es/futbol/copa-de-la-reina/2025-2026/real-madrid-barcelona-video-resumen-resultado-goles-cuartos-alexia-pajor-salma-highlights_vid60052678/video.shtml",
+        "date": "2026-02-05 22:36:24",
+        "sentiment_score": 0.4745073765516281
+    },
+    {
+        "title": "Estos son los cuatro equipos que llegan a las semifinales de la Copa del Rey y las fechas de los encuentros",
+        "image_url": "https://www.infobae.com/resizer/v2/Z2QQOXED4NCR5JOKJ5EHQHNKU4.jpg?auth=401047fd043e7d4b8d3246d6b2d9ffcbfbcb0992587834550a7119cc002e06e1&height=1080&smart=true&width=1920",
+        "tags": [
+            "real sociedad",
+            "fútbol españa",
+            "fc barcelona",
+            "españa-deportes",
+            "españa-noticias",
+            "copa del rey",
+            "fútbol",
+            "atlético de madrid",
+            "athletic club"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/02/05/estos-son-los-cuatro-equipos-que-llegan-a-las-semifinales-de-la-copa-del-rey-y-las-fechas-de-los-encuentros/",
+        "date": "2026-02-05 22:33:58",
+        "sentiment_score": -0.028612196445465088
+    },
+    {
+        "title": "Andalucía se fractura: la urgencia de un proyecto para Andalucía Oriental",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "proyecto",
+            "fractura",
+            "andalucia",
+            "urgencia",
+            "oriental"
+        ],
+        "link": "https://www.ideal.es/opinion/granada-futuro-andalucia-fractura-urgencia-proyecto-andalucia-oriental-20260206200256-nt.html",
+        "date": "2026-02-05 22:29:26",
+        "sentiment_score": -0.4056336134672165
+    },
+    {
+        "title": "El Barcelona avanza a semifinales con otra goleada al Real Madrid",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/05/6985174d0f894.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/barcelona-avanza-semifinales-goleada-real-madrid-20260205_3302265.html",
+        "date": "2026-02-05 22:26:23",
+        "sentiment_score": -0.03294679522514343
+    },
+    {
+        "title": "Dubái-Real Madrid: Musa desangra y ejecuta a los de Scariolo en otra salida de pesadilla (93-85)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/05/image-3dc984be-538e-4b73-8cda-9de1531fec05-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.eurosport.es/baloncesto/euroliga/2025-2026/dubai-real-madrid-resumen-highlights-mejores-jugadas-partido-jornada-27_vid60052677/video.shtml",
+        "date": "2026-02-05 22:26:21",
+        "sentiment_score": -0.3821805566549301
+    },
+    {
+        "title": "La Real ya conoce a todos sus posibles rivales en la Copa",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/75656f0f-dff3-4135-92bf-108dd7a1933f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "posibles",
+            "real",
+            "copa",
+            "rivales",
+            "conoce"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/02/05/real-conoce-posibles-rivales-copa-10665780.html",
+        "date": "2026-02-05 22:13:02",
+        "sentiment_score": 0.09699138253927231
+    },
+    {
+        "title": "Goleada agridulce del Barça ante el Real Madrid por la grave lesión de Laia Aleixandri",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/34216de5-a476-4da2-ae77-cbef7a1cd889_16-9-aspect-ratio_default_0_x936y416.jpg",
+        "tags": [
+            "real madrid femenino",
+            "fc barcelona femenino",
+            "fútbol femenino",
+            "deporte femenino"
+        ],
+        "link": "https://www.laopiniondemalaga.es/deportes/2026/02/05/goleada-agridulce-barca-real-madrid-126504336.html",
+        "date": "2026-02-05 22:12:41",
+        "sentiment_score": -0.700578436255455
+    },
+    {
+        "title": "Perfumerías San Remo 'fuerza' a sus trabajadores a un ERTE hasta negociar su despido",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/04/vivir-en-barcelona/1003742729528_15678340_1706x960.jpg",
+        "tags": [
+            "economía",
+            "sindicatos",
+            "trabajadores",
+            "empresas barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260205/perfumerias-san-remo-fuerza-trabajadores-erte-negociar-despido/1003742729828_0.html",
+        "date": "2026-02-05 22:30:00",
+        "sentiment_score": -0.020151287317276
+    },
+    {
+        "title": "Marc Colell, escritor ganador del Premio Café Gijón: «Nunca sé exactamente por qué escribo, ni qué me obliga a hacerlo»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/550652b0-068f-4ae0-adb7-46899867f0d7_16-9-aspect-ratio_default_0_x937y418.jpg",
+        "tags": [
+            "café",
+            "orgullo",
+            "argentina",
+            "barcelona"
+        ],
+        "link": "https://www.lne.es/gijon/2026/02/05/marc-colell-escritor-ganador-premio-126504052.html",
+        "date": "2026-02-05 22:09:07",
+        "sentiment_score": -0.06036922335624695
     }
 ];
