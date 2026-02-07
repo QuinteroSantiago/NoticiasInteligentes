@@ -1,21 +1,5 @@
 export default [
     {
-        "title": "El petróleo venezolano es clave para el plan de Trump en relación con Rusia, pero hay un problema con eso",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/POZO-PETROLERO-VENEZOLANO.jpg",
-        "tags": [
-            "rusia",
-            "eeuu",
-            "actualidad",
-            "internacionales",
-            "nacionales",
-            "usa",
-            "petróleo venezolano"
-        ],
-        "link": "https://lapatilla.com/2026/02/03/el-petroleo-venezolano-es-clave-para-el-plan-de-trump-en-relacion-con-rusia-pero-hay-un-problema-con-eso/",
-        "date": "2026-02-03 14:04:46",
-        "sentiment_score": 0.2063562199473381
-    },
-    {
         "title": "(Previa) El Atlético se agarra a la Copa de la Reina para salir de su crisis ante un amenazante Athletic",
         "image_url": "https://www.infobae.com/resizer/v2/JXIYXLB2KBGSLHNT6JDALBTQMI.jpg?auth=6e24b893e176a7d5b476d821a65bf1263c5f130a32820bf84325a724ce8418d2&height=1280&smart=true&width=1920",
         "tags": [
@@ -981,22 +965,6 @@ export default [
         "link": "https://www.lanzadigital.com/nacional/termina-sin-acuerdo-la-reunion-de-puente-y-sindicatos-por-la-huelga-pero-volveran-a-reunirse-este-jueves/",
         "date": "2026-02-04 17:01:53",
         "sentiment_score": -0.014581382274627686
-    },
-    {
-        "title": "El petróleo venezolano es clave para el plan de Trump en relación con Rusia, pero hay un problema con eso",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/POZO-PETROLERO-VENEZOLANO.jpg",
-        "tags": [
-            "rusia",
-            "eeuu",
-            "actualidad",
-            "internacionales",
-            "nacionales",
-            "usa",
-            "petróleo venezolano"
-        ],
-        "link": "https://lapatilla.com/2026/02/03/el-petroleo-venezolano-es-clave-para-el-plan-de-trump-en-relacion-con-rusia-pero-hay-un-problema-con-eso/",
-        "date": "2026-02-03 14:04:46",
-        "sentiment_score": 0.20635651051998138
     },
     {
         "title": "¿Cuándo se enfrentarán Álvaro Fidalgo y Obed Vargas?: Esta sería la fecha",
@@ -2818,5 +2786,246 @@ export default [
         "link": "https://eltiempove.com/realizaron-la-instalacion-del-comite-ejecutivo-seccional-anzoategui-de-accion-democratica/",
         "date": "2026-02-06 21:31:39",
         "sentiment_score": 0.11053896695375443
+    },
+    {
+        "title": "Jorge Bustos: \"He sido tertuliano toda mi vida y ahora los odio porque se alargan y necesito controlar el tiempo\"",
+        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744120237_261299049_1706x960.jpg",
+        "tags": [
+            "carlos herrera",
+            "radio",
+            "cadena cope",
+            "medios de comunicación",
+            "medios"
+        ],
+        "link": "https://www.elespanol.com/invertia/medios/20260207/jorge-bustos-tertuliano-toda-vida-ahora-odio-alargan-necesito-controlar-tiempo/1003744119649_0.html",
+        "date": "2026-02-07 01:38:41",
+        "sentiment_score": 0.044349104166030884
+    },
+    {
+        "title": "El temporal mantiene cerradas 99 carreteras, 85 por las intensas lluvias y 14 por nieve",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/07/el-temporal-mantiene-cerradas-99-carreteras-85-por-las-intensas-lluvias-y-14-por-nieve/",
+        "date": "2026-02-07 01:30:55",
+        "sentiment_score": -0.7503957897424698
+    },
+    {
+        "title": "Los 167.000 alumnos y 418 centros de FP en jaque tras el anuncio de Pedro Sánchez de regular los \"chiringuitos\"",
+        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744120503_261302880_1706x960.jpg",
+        "tags": [
+            "formación profesional",
+            "madrid",
+            "comunidad de madrid",
+            "sociedad"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20260207/alumnos-centros-fp-jaque-anuncio-pedro-sanchez-regular-chiringuitos/1003744120405_0.html",
+        "date": "2026-02-07 01:00:00",
+        "sentiment_score": 0.4306170791387558
+    },
+    {
+        "title": "El Carné Joven madrileño suma casi 79.000 usuarios en un año y alcanza al 54% de la población juvenil",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2026/02/06/joven_1-RaOtHAjC3DKB0CjndioWkXJ-1200x840@diario_abc.png",
+        "tags": [
+            "madrid",
+            "españa"
+        ],
+        "link": "https://www.abc.es/espana/madrid/carne-joven-madrileno-suma-79000-usuarios-ano-20260206015414-nt.html",
+        "date": "2026-02-07 00:54:14",
+        "sentiment_score": 0.5652317032217979
+    },
+    {
+        "title": "Ronaldo se pierde su segundo partido con Al-Nassr en medio de informes de descontento con el club",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/f72d4d0/2147483647/strip/true/crop/5462x2868+0+387/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd6%2F9d%2F7ef5e1024474b0a0b580e7966e35%2F23e2b51b33e3419eb1c73b167abfcd96.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-06/ronaldo-se-pierde-su-segundo-partido-con-al-nassr-en-medio-de-informes-de-descontento-con-el-club",
+        "date": "2026-02-07 00:43:25",
+        "sentiment_score": -0.8896999508142471
+    },
+    {
+        "title": "Todo preparado para la 40a edición de la Gala Nacional de Piragüismo, este sábado, en Gijón",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3b72fd86-a711-4b63-8875-02585f4b4d5f_16-9-aspect-ratio_default_0_x770y938.jpg",
+        "tags": [
+            "federación",
+            "piragüismo",
+            "policía nacional",
+            "árbitros"
+        ],
+        "link": "https://www.lne.es/oriente/2026/02/07/preparado-40a-edicion-gala-nacional-126545830.html",
+        "date": "2026-02-07 00:09:26",
+        "sentiment_score": 0.0848345085978508
+    },
+    {
+        "title": "Pendientes de la borrasca Marta: Aemet eleva los avisos y riesgo de desbordamiento",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/07/698672c606fdc.jpeg",
+        "tags": [
+            "andalucía"
+        ],
+        "link": "https://www.cope.es/emisoras/andalucia/al-minuto/ultima-hora-borrasca-marta-aemet-eleva-avisos-lluvia-viento-riesgo-desbordamiento-rios-20260207_3303178.html",
+        "date": "2026-02-07 00:05:00",
+        "sentiment_score": -0.14409373700618744
+    },
+    {
+        "title": "Racha histórica al alcance y cuenta pendiente con el Bilbao Athletic",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e6566482-022a-47e8-9724-a7008331d235_16-9-discover-aspect-ratio_default_0_x872y387.jpg",
+        "tags": [
+            "enric gallego",
+            "cd tenerife",
+            "jesús de miguel",
+            "álvaro cervera",
+            "athletic club"
+        ],
+        "link": "https://www.eldia.es/deportes/cd-tenerife/2026/02/07/racha-historica-alcance-cuenta-pendiente-126540323.html",
+        "date": "2026-02-06 23:59:10",
+        "sentiment_score": -0.036465853452682495
+    },
+    {
+        "title": "Frenkie de Jong 2026: el arquitecto silencioso que Flick convirtió en imprescindible",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/17/2025021706330031070.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/frenkie-jong-2026-arquitecto-silencioso-que-flick-convirtio-imprescindible/20260207005744373713.html",
+        "date": "2026-02-06 23:57:44",
+        "sentiment_score": 0.4802684038877487
+    },
+    {
+        "title": "Los intereses comunes que evitan la ruptura definitiva entre Joan Laporta y Florentino Pérez",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/05/31/culemania/primer-equipo/767933298_15663485_1706x960.jpg",
+        "tags": [
+            "joan laporta",
+            "real madrid",
+            "la liga",
+            "javier tebas",
+            "fcb basket",
+            "camp nou",
+            "florentino pérez",
+            "barça",
+            "nba",
+            "estadio santiago bernabéu"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260207/intereses-comunes-definitiva-joan-laporta-florentino-perez/1003742728261_0.html",
+        "date": "2026-02-06 23:35:52",
+        "sentiment_score": -0.27016130089759827
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 7 de febrero en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima en españa",
+            "clima",
+            "últimas actualizaciones",
+            "clima en barcelona"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/07/clima-las-temperaturas-que-predominaran-este-7-de-febrero-en-barcelona/",
+        "date": "2026-02-07 02:15:37",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Huelga de maquinistas del 9 al 11 de febrero: qué trenes paran y qué servicios habrá",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/22/2026012219335672992.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.mundiario.com/articulo/economia/huelga-maquinistas-9-11-febrero-que-trenes-paran-que-servicios-habra/20260207030132373716.html",
+        "date": "2026-02-07 02:01:32",
+        "sentiment_score": -0.9128714548423886
+    },
+    {
+        "title": "El mejor momento para ser joven",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/6527acf41681b9fef92faa161ef584c9/crop/485x95/1558x1101/f/image/jpeg/assets/multimedia/imagenes/2022/11/16/16686363463923.jpg",
+        "tags": [
+            "future makers",
+            "artículos paula maría"
+        ],
+        "link": "https://www.elmundo.es/economia/2026/02/07/69860693e85eced6148b45ba.html",
+        "date": "2026-02-07 01:57:56",
+        "sentiment_score": -0.07876379787921906
+    },
+    {
+        "title": "El cierre de las redes enciende a los jóvenes: del \"es normal, somos menores\" de Álex al \"sólo ahí puedo ser yo\" de Sebas",
+        "image_url": "https://s3.elespanol.com/2026/02/06/reportajes/1003744120508_261302946_1706x960.jpg",
+        "tags": [
+            "redes sociales",
+            "internet",
+            "adicciones",
+            "reportajes-newsletter",
+            "tiktok",
+            "pedro sánchez",
+            "reportajes",
+            "menores",
+            "porfolio"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260207/cierre-redes-enciende-jovenes-normal-menores-alex-solo-ahi-puedo-sebas/1003744119580_0.html",
+        "date": "2026-02-07 00:40:00",
+        "sentiment_score": 0.02588517963886261
+    },
+    {
+        "title": "El salón del audiovisual ISE vive su edición más inteligente y masiva con nueva fundación a la vista para afianzar su legado.",
+        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744119245_261286322_1706x960.jpg",
+        "tags": [
+            "imagen y sonido",
+            "eventos tecnologia e innovación",
+            "inteligencia artificial",
+            "tecnología",
+            "gran empresa",
+            "sector audiovisual",
+            "digitalización",
+            "innovación"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20260207/salon-audiovisual-ise-vive-edicion-inteligente-masiva-nueva-fundacion-vista-afianzar-legado/1003744119214_0.html",
+        "date": "2026-02-07 00:34:00",
+        "sentiment_score": 0.5268262587487698
+    },
+    {
+        "title": "Laporta expande el modelo de fútbol de la Masía: 10 nuevas Barça Academy y 56 países con campus",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/03/25/culemania/secciones/842675915_12679463_1706x960.jpg",
+        "tags": [
+            "fc barcelona",
+            "palco",
+            "la masía"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260207/laporta-expande-modelo-futbol-masia-barca-academy/1003742730478_0.html",
+        "date": "2026-02-07 00:24:39",
+        "sentiment_score": 0.36879826709628105
+    },
+    {
+        "title": "Isabel Coixet: \"Eso de que la enfermedad nos hace mejores es casi tan falso como que leer nos hace mejores\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/e6254ddced7937c2244bbb4651a0e03c/crop/0x24/1181x1205/f/image/jpeg/assets/multimedia/imagenes/2021/05/31/16224775184865.jpg",
+        "tags": [
+            "artículos luis martínez",
+            "cine",
+            "cultura",
+            "críticas de cine"
+        ],
+        "link": "https://www.elmundo.es/la-lectura/2026/02/07/697cd50bfdddff5e4f8b45a1.html",
+        "date": "2026-02-07 00:21:31",
+        "sentiment_score": 0.2183956801891327
+    },
+    {
+        "title": "Los consulados afrontan una escalada de atenciones por la regularización",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2026/02/06/consuladomarruecos-kq9D--758x531@El%20Correo.jpg",
+        "tags": [
+            "españa",
+            "bilbao",
+            "venezuela"
+        ],
+        "link": "https://www.elcorreo.com/bizkaia/consulados-afrontan-escalada-atenciones-regularizacion-20260206011112-nt.html",
+        "date": "2026-02-07 00:11:15",
+        "sentiment_score": 0.16093755513429642
+    },
+    {
+        "title": "Principales titulares de los periódicos para el sábado 7 de febrero",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/06/principales-titulares-de-los-periodicos-para-el-sabado-7-de-febrero/",
+        "date": "2026-02-06 23:45:33",
+        "sentiment_score": 0.003541223704814911
     }
 ];
