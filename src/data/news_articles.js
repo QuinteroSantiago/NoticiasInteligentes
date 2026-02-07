@@ -1,245 +1,5 @@
 export default [
     {
-        "title": "Así fue el cumpleaños de Felipe VI en Zarzuela: comida familiar junto a sus hijas entre actos institucionales",
-        "image_url": "https://www.infobae.com/resizer/v2/W5BQ7XGTYFCTHPXMOHVRHKUTJM.jpg?auth=5976e92dc3efa5f2a56bf27f3aad0e043d1d5797f1892ce8c96314f6fd636fe8&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-entretenimiento",
-            "casas reales",
-            "realeza",
-            "felipe vi",
-            "corazón y estilo españa",
-            "españa-noticias",
-            "casa real españa"
-        ],
-        "link": "https://www.infobae.com/espana/2026/02/03/asi-fue-el-cumpleanos-de-felipe-vi-en-zarzuela-comida-familiar-junto-a-sus-hijas-entre-actos-institucionales/",
-        "date": "2026-02-03 07:01:37",
-        "sentiment_score": 0.08457054942846298
-    },
-    {
-        "title": "El PP pide a Bruselas investigar el uso de fondos europeos en la línea AVE Madrid-Sevilla",
-        "image_url": "https://www.madridactual.es/images/stories/noticias/agencias/ep/2026/01/afectados-accidente-adamuz-ano-pedir-indemnizaciones-seguros.jpg",
-        "tags": [
-            "política nacional"
-        ],
-        "link": "https://www.madridactual.es/nacional/politica-nacional/pp-pide-comision-europea-investigar-fondos-feder-ave-20260203-8082770.html",
-        "date": "2026-02-03 07:00:52",
-        "sentiment_score": 0.06091899052262306
-    },
-    {
-        "title": "Conciertos de febrero en Santiago: de Los Lobos a James Rodhes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fb4c5208-d8bc-494c-ad49-975ee4df57af_16-9-discover-aspect-ratio_default_0_x378y148.jpg",
-        "tags": [
-            "entradas",
-            "compostela",
-            "cultura",
-            "sala capitol",
-            "música",
-            "jazz",
-            "conciertos",
-            "concierto"
-        ],
-        "link": "https://www.elcorreogallego.es/santiago/2026/02/03/conciertos-febrero-santiago-lobos-james-musica-126373407.html",
-        "date": "2026-02-03 06:58:02",
-        "sentiment_score": -0.923518855124712
-    },
-    {
-        "title": "Nueva jornada de restricciones en Rodalies: Barcelona mantiene 11 tramos con servicios alternativos por carretera",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/10/24/vivir-en-barcelona/804431186_11433292_1706x960.jpg",
-        "tags": [
-            "ave barcelona",
-            "autobús",
-            "movilidad",
-            "rodalies",
-            "sants",
-            "renfe barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/movilidad/20260203/nueva-jornada-restricciones-rodalies-barcelona-mantiene-tramos-servicios-alternativos-carretera/1003742728918_0.html",
-        "date": "2026-02-03 06:44:59",
-        "sentiment_score": -0.6214766446501017
-    },
-    {
-        "title": "Un Celta acorazado",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/544936f5-7e47-4118-933a-3465d266b309_16-9-aspect-ratio_default_0_x739y287.jpg",
-        "tags": [
-            "goles",
-            "villarreal",
-            "getafe",
-            "curso"
-        ],
-        "link": "https://www.farodevigo.es/celta-de-vigo/2026/02/03/celta-acorazado-126381787.html",
-        "date": "2026-02-03 06:29:22",
-        "sentiment_score": -0.10701313614845276
-    },
-    {
-        "title": "Nominados a los Goya, a favor de Uclés en su polémica con Pérez Reverte",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/EuropaPress_7261730_susana_abaitua_nominada_mejor_actriz_protagonista_fantasma_batalla_posa-scaled.jpg",
-        "tags": [
-            "arturo pérez-reverte",
-            "cultura",
-            "goya"
-        ],
-        "link": "https://www.lanzadigital.com/cultura/nominados-a-los-goya-a-favor-de-ucles-en-su-polemica-con-perez-reverte/",
-        "date": "2026-02-03 06:20:05",
-        "sentiment_score": -0.1302202045917511
-    },
-    {
-        "title": "Las comunidades autónomas que ofrecen tarifa cero a los autónomos en 2026",
-        "image_url": "https://imagenes.businessinsider.es/files/image_1920_1080/uploads/imagenes/2026/02/02/6980b81525c182-92069133.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.businessinsider.es/economia/comunidades-autonomas-que-ofrecen-tarifa-cero-los-autonomos-2026_6928758_0.html",
-        "date": "2026-02-03 06:20:00",
-        "sentiment_score": 0.4022112302482128
-    },
-    {
-        "title": "La Princesa se suma a La Paz o el Infanta Leonor y se levanta contra la privatización sanitaria de Ayuso: \"Años de paciencia\"",
-        "image_url": "https://www.elplural.com/uploads/s1/24/42/89/2/la-presidenta-de-la-comunidad-de-madrid-isabel-diaz-ayuso-ep_7_480x270.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elplural.com/autonomias/madrid/princesa-suma-paz-infanta-leonor-levanta-contra-privatizacion-sanitaria-ayuso-anos-paciencia_380360102",
-        "date": "2026-02-03 06:19:50",
-        "sentiment_score": -0.07051095366477966
-    },
-    {
-        "title": "Sergio Ramos presume de lujo extremo mientras decide su futuro deportivo",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/26/2026012604415998806.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/sergio-ramos-presume-lujo-extremo-mientras-decide-futuro-deportivo/20260203071338373210.html",
-        "date": "2026-02-03 06:13:38",
-        "sentiment_score": 0.007613018155097961
-    },
-    {
-        "title": "\"El panorama es desolador; me fui unos meses fuera y a la vuelta tenía claro que quería terminar esa etapa de compartir piso\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/02/27/67c0b58f4e8a4.jpeg",
-        "tags": [
-            "herrera en cope"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/audios/panorama-desolador-me-meses-fuera-vuelta-tenia-claro-queria-terminar-etapa-compartir-piso-20260203_3298739.html",
-        "date": "2026-02-03 06:11:41",
-        "sentiment_score": -0.17451998591423035
-    },
-    {
-        "title": "TresorAntic refuerza su expansión en Cataluña con la feria TresorAntic Tortosa 2026",
-        "image_url": "https://castellondiario.com/wp-content/uploads/2026/02/tresorantic-refuerza-su-expansion-en-cataluna-con-la-feria-tresorantic-tortosa-2026.jpg",
-        "tags": [
-            "feria",
-            "actualidad"
-        ],
-        "link": "https://castellondiario.com/tresorantic-refuerza-su-expansion-en-cataluna-con-la-feria-tresorantic-tortosa-2026/",
-        "date": "2026-02-03 07:05:32",
-        "sentiment_score": 0.1842067837715149
-    },
-    {
-        "title": "Una nueva incidencia en el Centro de Tráfico de Adif paraliza Rodalies unos minutos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RQEA473WWRMNRMRU5FMYF4MXDA.jpg?auth=1f242654a127e698905a9920434c6b46be0411555c2644b512d82af29fcd1327&width=1200",
-        "tags": [
-            "transporte ferroviario",
-            "rodalies catalunya",
-            "cataluña",
-            "transporte"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2026-02-03/una-nueva-incidencia-en-el-centro-de-trafico-de-adif-paraliza-rodalies-unos-minutos.html",
-        "date": "2026-02-03 07:02:32",
-        "sentiment_score": -0.09461238980293274
-    },
-    {
-        "title": "Barcelona, una ciudad convertida en una película de género negro",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/02/03/059AB5BF-6998-45C2-BFD8-5734BBD2AED6/escena-cronica-sentimental-rojo_69.jpg?crop=2712%2C1526%2Cx0%2Cy253&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/barcelona-ciudad-convertida-pelicula-genero-negro_2026020369819cff1817b41eb62fbb8d.html",
-        "date": "2026-02-03 07:00:15",
-        "sentiment_score": -0.0649355798959732
-    },
-    {
-        "title": "El Peugeot 208 toma el mando del mercado español y prepara su salto deportivo eléctrico",
-        "image_url": "https://www.actualidadmotor.com/wp-content/uploads/2025/09/Peugeot-brand-logo.jpg",
-        "tags": [
-            "eléctricos",
-            "utilitario",
-            "ventas"
-        ],
-        "link": "https://www.actualidadmotor.com/el-peugeot-208-toma-el-mando-del-mercado-espanol-y-prepara-su-salto-deportivo-electrico/",
-        "date": "2026-02-03 07:00:00",
-        "sentiment_score": 0.36182511784136295
-    },
-    {
-        "title": "Una incidencia en los sistemas de señalización causa nuevos retrasos en Rodalies",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/02/02/6980736658c06.jpeg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.lavanguardia.com/local/catalunya/20260203/11456324/incidencia-sistemas-senalizacion-causa-nuevos-retrasos-rodalies.html",
-        "date": "2026-02-03 06:58:34",
-        "sentiment_score": 0.06729793548583984
-    },
-    {
-        "title": "Una nueva incidencia de Adif paraliza por completo el servicio de Rodalies en Barcelona",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2019/01/30/FAD28DA4-6350-464F-BB55-83DE95E9C088/70.jpg?crop=1200%2C675%2Cx0%2Cy112&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "sociedad",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/sociedad/nueva-incidencia-adif-paraliza-completo-servicio-rodalies-barcelona_2026020369819baa9243cc133c3079c3.html",
-        "date": "2026-02-03 06:54:34",
-        "sentiment_score": -0.24688218906521797
-    },
-    {
-        "title": "España hoy, 3 de enero de 2026: lo que tienes que saber",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/PLUS_ultra_sv.jpg",
-        "tags": [
-            "israel",
-            "bruselas",
-            "españa",
-            "venezuela",
-            "china",
-            "aranceles",
-            "gaza",
-            "europa",
-            "estados unidos"
-        ],
-        "link": "https://theobjective.com/espana/2026-02-03/espana-hoy-3-de-enero-de-2026-lo-que-tienes-que-saber/",
-        "date": "2026-02-03 06:47:47",
-        "sentiment_score": -0.6964535992592573
-    },
-    {
-        "title": "Revolución agrícola en España: usan lana de oveja para mejorar el suelo de olivares y resistir mejor las sequías",
-        "image_url": "https://okdiario.com/img/2026/01/30/oveja.jpg",
-        "tags": [
-            "naturaleza",
-            "ovejas",
-            "ciencia",
-            "científicos",
-            "descubrimientos",
-            "agricultura",
-            "agricultores",
-            "animales"
-        ],
-        "link": "https://okdiario.com/ciencia/revolucion-agricola-espana-usan-lana-oveja-mejorar-suelo-olivares-resistir-mejor-sequias-16168210",
-        "date": "2026-02-03 06:45:44",
-        "sentiment_score": 0.30685535073280334
-    },
-    {
-        "title": "Dana, verdad y utilización",
-        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2026/02/02/1506320101-kvSD-U20490677595xsC-758x531@El%20Norte.jpg",
-        "tags": [
-            "gabriel rufián",
-            "caso koldo",
-            "dana",
-            "alberto núñez feijóo",
-            "investigación"
-        ],
-        "link": "https://www.elnortedecastilla.es/opinion/el-norte-dana-verdad-utilizacion-20260203212940-nt.html",
-        "date": "2026-02-03 06:41:35",
-        "sentiment_score": -0.9110843148082495
-    },
-    {
         "title": "El petróleo venezolano es clave para el plan de Trump en relación con Rusia, pero hay un problema con eso",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/POZO-PETROLERO-VENEZOLANO.jpg",
         "tags": [
@@ -2830,5 +2590,233 @@ export default [
         "link": "https://www.elperiodico.com/es/economia/20260206/cataluna-ayudas-industria-metal-afectaciones-bloqueo-trenes-mercancias-126536668",
         "date": "2026-02-06 17:11:56",
         "sentiment_score": -0.8972193291410804
+    },
+    {
+        "title": "El equipo de Vox preguntó sobre si Azcón los colocaría tras salir del Gobierno",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/3c/media_thumb-link-4144230.webp?1770383226=",
+        "tags": [
+            "vox",
+            "actualidad",
+            "gobierno",
+            "azcón",
+            "salir",
+            "aragón"
+        ],
+        "link": "https://www.meneame.net/story/equipo-vox-pregunto-sobre-azcon-colocaria-tras-salir-gobierno",
+        "date": "2026-02-06 14:45:03",
+        "sentiment_score": 0.02551361918449402
+    },
+    {
+        "title": "Minnesota United ficha al colombiano James Rodríguez para la MLS con contrato a corto plazo",
+        "image_url": "https://i.headtopics.com/images/2026/2/6/latimes/minnesota-united-ficha-al-colombiano-james-rodr-gu-minnesota-united-ficha-al-colombiano-james-rodr-gu-D11425A1A6A572A030F1D076426E55B1.webp",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://us.headtopics.com/news/minnesota-united-ficha-al-colombiano-james-rodr-guez-para-79422110",
+        "date": "2026-02-06 22:06:55",
+        "sentiment_score": 0.5605922006070614
+    },
+    {
+        "title": "La escuela de Zaragoza de los 24 países y una decena con orígenes sólo españoles: \"Aquí funciona la fuerza del equipo\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/91bb3bada9f31695a868b9a67342276c/crop/717x297/2171x1751/f/image/jpeg/assets/multimedia/imagenes/2025/05/19/17476804195945.jpg",
+        "tags": [
+            "pilar alegría",
+            "aragón",
+            "educación infantil",
+            "jorge azcón",
+            "artículos olga r. sanmartín",
+            "educación",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/02/06/69863276e85eceb7658b458e.html",
+        "date": "2026-02-06 21:52:14",
+        "sentiment_score": 0.2688564583659172
+    },
+    {
+        "title": "María Hervás: \"Es más difícil mantener en su sitio la cabeza que la silueta\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/30a58a5c17fced99255e9c410242becd/crop/138x0/1892x2339/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/03/17701235014049.jpg",
+        "tags": [
+            "nlpremium",
+            "yodona",
+            "actrices",
+            "actualidad"
+        ],
+        "link": "https://www.elmundo.es/yodona/actualidad/2026/02/06/6981f107e85ece0b698b45bc.html",
+        "date": "2026-02-06 21:49:53",
+        "sentiment_score": 0.44550973922014236
+    },
+    {
+        "title": "La electricidad distribuida por Iberdrola creció un 7,5% en 2025 alcanzando récords en GWh",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/Iberdrola-Australia-RU.jpg",
+        "tags": [
+            "economía",
+            "electricidad",
+            "iberdrola"
+        ],
+        "link": "https://theobjective.com/economia/2026-02-06/iberdrola-electricidad-distribuida-mayor-demanda/",
+        "date": "2026-02-06 21:41:44",
+        "sentiment_score": 0.4554141517728567
+    },
+    {
+        "title": "Sam Rose: \"El ataque de Israel a nuestra sede es como si un Estado estuviera incendiando la Carta de Naciones Unidas\"",
+        "image_url": "https://static.eldiario.es/clip/10269380-1c6a-4915-a258-91ce7cb18b79_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "estuviera",
+            "sam",
+            "israel",
+            "incendiando",
+            "carta",
+            "unidas",
+            "rose",
+            "ataque",
+            "sede",
+            "si",
+            "naciones"
+        ],
+        "link": "https://www.eldiario.es/internacional/sam-rose-ataque-israel-sede-si-estuviera-incendiando-carta-naciones-unidas_128_12970210.html",
+        "date": "2026-02-06 21:05:03",
+        "sentiment_score": -0.39828117191791534
+    },
+    {
+        "title": "Mbappé envía un agente judicial al PSG para reclamar el pago de 5,9 millones de euros",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f1415d2f-35c2-47f1-a2a6-3ec2ac2ab49d_16-9-aspect-ratio_default_0_x917y0.jpg",
+        "tags": [
+            "mbappe",
+            "agente",
+            "psg",
+            "judicial",
+            "envia"
+        ],
+        "link": "https://www.noticiasdenavarra.com/futbol/2026/02/06/mbappe-envia-agente-judicial-psg-10670186.html",
+        "date": "2026-02-06 20:43:48",
+        "sentiment_score": -0.030036821961402893
+    },
+    {
+        "title": "Attaoui bate el récord de Europa y se queda a un paso del récord del mundo",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/02/06/2026020621232375421.jpg",
+        "tags": [
+            "otros deportes"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/otros-deportes/attaoui-bate-record-europa-queda-paso-record-mundo/20260206212550579744.html",
+        "date": "2026-02-06 20:25:50",
+        "sentiment_score": 0.7917977571487427
+    },
+    {
+        "title": "Malas noticias para el Real Madrid: Rodrygo fuera de acción",
+        "image_url": "https://pxcdn.meridiano.net/022026/1770409168506.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/malas-noticias-para-el-real-madrid-rodrygo-fuera-de-accion-20262616200",
+        "date": "2026-02-06 20:20:00",
+        "sentiment_score": -0.7705597542226315
+    },
+    {
+        "title": "Víctima de los elementos en el Buesa Arena",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b76a0f66-155a-43ed-a5fd-39c9cf43f56b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "arena",
+            "buesa",
+            "victima",
+            "elementos"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/06/victima-elementos-buesa-arena-10670599.html",
+        "date": "2026-02-06 22:18:48",
+        "sentiment_score": 0.5125114917755127
+    },
+    {
+        "title": "El Barça revive en Vitoria gracias al triple y a la defensa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a1a18dbf-0c10-44a3-91a0-27eacb16ab95_16-9-aspect-ratio_default_0_x703y312.jpg",
+        "tags": [
+            "fc barcelona de baloncesto",
+            "baloncesto",
+            "euroliga",
+            "baskonia",
+            "barça"
+        ],
+        "link": "https://www.lne.es/deportes/2026/02/06/barca-revive-vitoria-gracias-triple-126543787.html",
+        "date": "2026-02-06 22:00:32",
+        "sentiment_score": -0.8230497762560844
+    },
+    {
+        "title": "Dos décadas de liderazgo cardiovascular: «La estrategia futura pasa por la captación y retención de talento»",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/02/06/todos-R9xolpNVFgTsY8fCdWHz2kI-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "huca"
+        ],
+        "link": "https://www.elcomercio.es/asturias/dos-decadas-liderazgo-cardiovascular-estrategia-futura-pasa-20260206212639-nt.html",
+        "date": "2026-02-06 21:57:03",
+        "sentiment_score": 0.7578861936926842
+    },
+    {
+        "title": "Comienzan los preparativos para la visita del papa León XIV a Canarias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d948c6a6-730c-4030-bafe-4ff9963db516_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "león",
+            "madrid",
+            "barcelona",
+            "canarias",
+            "españa"
+        ],
+        "link": "https://www.laprovincia.es/canarias/2026/02/06/comienzan-preparativos-visita-papa-leon-126543508.html",
+        "date": "2026-02-06 21:52:20",
+        "sentiment_score": 0.1526403147727251
+    },
+    {
+        "title": "El Baskonia se desinfla ante el Barça",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/23217ae9-5f6f-48a2-a95e-99ed4841d89e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "baskonia",
+            "barca",
+            "desinfla"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/06/baskonia-desinfla-barca-10669639.html",
+        "date": "2026-02-06 21:50:47",
+        "sentiment_score": -0.617933489382267
+    },
+    {
+        "title": "Marc Janeras (manifestación usuarios de Rodalies): \"El ministro Óscar Puente es un propagandista y está alejado de la realidad\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/c5ec876da0e694d95968b36a655485c8/crop/102x26/940x867/f/image/jpeg/assets/multimedia/imagenes/2023/04/17/16817425449512.jpg",
+        "tags": [
+            "artículos gerard melgar",
+            "gobierno de españa",
+            "política",
+            "transporte y turismo",
+            "renfe",
+            "generalitat de cataluña",
+            "nlpremium",
+            "óscar puente",
+            "rodalíes",
+            "barcelona"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2026/02/06/698642cee4d4d885028b459c.html",
+        "date": "2026-02-06 21:50:42",
+        "sentiment_score": -0.9198178322985768
+    },
+    {
+        "title": "Dos noticias amargas aguan el triunfo del Barça",
+        "image_url": "https://static1.ara.cat/clip/8e5a5dd1-7dfb-4699-866c-e69316c44cb4_16-9-aspect-ratio_default_1056050.jpg",
+        "tags": [
+            "noticias",
+            "triunfo",
+            "amargas",
+            "barca",
+            "aguan"
+        ],
+        "link": "https://es.ara.cat/deportes/baloncesto/noticias-amargas-aguan-triunfo-barca_1_5641018.html",
+        "date": "2026-02-06 21:39:44",
+        "sentiment_score": -0.18273642659187317
+    },
+    {
+        "title": "Realizaron la instalación del Comité Ejecutivo Seccional Anzoátegui de Acción Democrática",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "locales",
+            "política"
+        ],
+        "link": "https://eltiempove.com/realizaron-la-instalacion-del-comite-ejecutivo-seccional-anzoategui-de-accion-democratica/",
+        "date": "2026-02-06 21:31:39",
+        "sentiment_score": 0.11053896695375443
     }
 ];
