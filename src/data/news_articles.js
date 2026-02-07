@@ -1,167 +1,5 @@
 export default [
     {
-        "title": "(Previa) El Atlético se agarra a la Copa de la Reina para salir de su crisis ante un amenazante Athletic",
-        "image_url": "https://www.infobae.com/resizer/v2/JXIYXLB2KBGSLHNT6JDALBTQMI.jpg?auth=6e24b893e176a7d5b476d821a65bf1263c5f130a32820bf84325a724ce8418d2&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/03/previa-el-atletico-se-agarra-a-la-copa-de-la-reina-para-salir-de-su-crisis-ante-un-amenazante-athletic/",
-        "date": "2026-02-03 17:31:31",
-        "sentiment_score": -0.31325044482946396
-    },
-    {
-        "title": "Ademola Lookman: \"Es una bendición estar aquí\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/03/69822f7109922.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/ademola-lookman-presentado-jugador-atletico-madrid-bendicion-20260203_3300321.html",
-        "date": "2026-02-03 17:28:21",
-        "sentiment_score": 0.24482208490371704
-    },
-    {
-        "title": "Alavés y Real Sociedad sueñan confirmar sus mejorías en la Copa del Rey",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260203182722_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-alaves-real-sociedad-suenan-confirmar-mejorias-copa-rey-20260203182722.html",
-        "date": "2026-02-03 17:27:22",
-        "sentiment_score": 0.44910410791635513
-    },
-    {
-        "title": "Una triple combinación terapéutica mejora los resultados en un tipo de cáncer de mama",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/28/6929a3f6ad9a45-89619141.jpeg",
-        "tags": [
-            "salud"
-        ],
-        "link": "https://www.20minutos.es/salud/una-triple-combinacion-terapeutica-mejora-los-resultados-un-tipo-cancer-mama-segun-un-estudio_6929501_0.html",
-        "date": "2026-02-03 17:25:22",
-        "sentiment_score": 0.0021536871790885925
-    },
-    {
-        "title": "96,8 millones de turistas y una pregunta incómoda: ¿puede España soportarlo?",
-        "image_url": "https://static.merca2.es/wp-content/uploads/2026/02/Record-turistico.webp",
-        "tags": [
-            "turismo",
-            "últimas noticias",
-            "lo más compartido"
-        ],
-        "link": "https://www.merca2.es/2026/02/03/millones-turistas-pregunta-incomoda-puede-espana-soportarlo-2348914/",
-        "date": "2026-02-03 17:22:00",
-        "sentiment_score": -0.5520293414592743
-    },
-    {
-        "title": "Lookman: \"Voy a intentar marcar la diferencia en esos momentos críticos en el juego\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260203182115_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-lookman-voy-intentar-marcar-diferencia-momentos-criticos-juego-20260203182115.html",
-        "date": "2026-02-03 17:21:15",
-        "sentiment_score": 0.2878147065639496
-    },
-    {
-        "title": "TVE retira por sorpresa 'La revuelta' este martes: el contenido que ocupará su lugar",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/02/03/2026020318185468584.jpg",
-        "tags": [
-            "medios"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/medios/tve-retira-sorpresa-revuelta-martes-contenido-que-ocupara-lugar/202602031819271001667.html",
-        "date": "2026-02-03 17:19:27",
-        "sentiment_score": 0.19721823930740356
-    },
-    {
-        "title": "Lamine Yamal, Vinícius y Galarreta lideran el once ideal de EP Deportes de la jornada 22 de LaLiga EA Sports",
-        "image_url": "https://www.infobae.com/resizer/v2/CCB2KNQSHBHQNFANCMJW2PRILM.jpg?auth=ba0b27f9d2fc087e8dd878af221ad952ba0f9afbc315d2632731741e97343ab2&height=1191&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/03/lamine-yamal-vinicius-y-galarreta-lideran-el-once-ideal-de-ep-deportes-de-la-jornada-22-de-laliga-ea-sports/",
-        "date": "2026-02-03 17:16:44",
-        "sentiment_score": 0.42553338035941124
-    },
-    {
-        "title": "Antonio Mancebo, piloto de combate del Ejército: \"Despegamos de Madrid, nos vamos a un área que está en Teruel y ahí nos pegamos con cuatro aviones de Madrid contra cuatro aviones de Sevilla\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2026/01/07/695e37696a37b.r_d.657-362-3384.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20260203/1002614049/antonio-mancebo-piloto-combate-ejercito-despegamos-madrid-area-esta-teruel-pegamos-cuatro-aviones-madrid-cuatro-aviones-sevilla-dct.html",
-        "date": "2026-02-03 17:10:59",
-        "sentiment_score": 0.019068121910095215
-    },
-    {
-        "title": "Inti de Oro: la cocina peruana también es cocina de invierno",
-        "image_url": "https://www.diariosigloxxi.com/images/20537",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5758572/inti-oro-cocina-peruana-tambien-cocina-invierno",
-        "date": "2026-02-03 17:10:46",
-        "sentiment_score": 0.3277392089366913
-    },
-    {
-        "title": "El salón ISE de Barcelona consolida el desembarco de la IA en el sector audiovisual",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "business"
-        ],
-        "link": "https://es.investing.com/news/economy-news/el-salon-ise-de-barcelona-consolida-el-desembarco-de-la-ia-en-el-sector-audiovisual-3497077",
-        "date": "2026-02-03 17:39:05",
-        "sentiment_score": -0.07211998105049133
-    },
-    {
-        "title": "Epstein tenía un facilitador de chicas en Barcelona",
-        "image_url": "https://static1.ara.cat/clip/7583bc64-20c1-4bd7-aaca-d6d4d8430702_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tenia",
-            "epstein",
-            "chicas",
-            "facilitador",
-            "barcelona"
-        ],
-        "link": "https://es.ara.cat/internacional/estados-unidos/epstein-tenia-facilitador-chicas-barcelona_1_5637234.html",
-        "date": "2026-02-03 17:38:02",
-        "sentiment_score": -0.26071545481681824
-    },
-    {
-        "title": "El ISE crea una fundación para apoyar proyectos locales y consolidar su legado a largo plazo",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/03/economia/1003742729168_15673959_1706x960.jpg",
-        "tags": [
-            "fira de barcelona",
-            "economía",
-            "ise",
-            "congresos barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260203/ise-crea-fundacion-apoyar-proyectos-locales-consolidar-legado-largo-plazo/1003742729153_0.html",
-        "date": "2026-02-03 17:33:50",
-        "sentiment_score": -0.9145682416856289
-    },
-    {
-        "title": "Cuatro bodegas llevan sus vinos bajo el sello de 'Sabores Almería' a la Barcelona Wine Week",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260203183246_690.jpg",
-        "tags": [
-            "diputación de almería",
-            "especiales monográficos"
-        ],
-        "link": "https://www.europapress.es/andalucia/diputacion-almeria-01014/noticia-cuatro-bodegas-llevan-vinos-sello-sabores-almeria-barcelona-wine-week-20260203183246.html",
-        "date": "2026-02-03 17:32:46",
-        "sentiment_score": 0.3937175013124943
-    },
-    {
-        "title": "El PP señala un \"uso político\" de la sanidad tras el archivo de las denuncias por el cribado de cáncer en Andalucía",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a90493d1-fd88-48af-826e-b3db6c029845_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "andalucía,sanidad pública,cáncer,pp"
-        ],
-        "link": "https://www.elperiodicomediterraneo.com/espana/2026/02/03/pp-denuncia-uso-politica-sanidad-archivo-cribaje-cancer-mama-andalucia-126411947.html",
-        "date": "2026-02-03 17:32:23",
-        "sentiment_score": -0.3504955917596817
-    },
-    {
         "title": "El Barcelona, a semifinales con susto final en Albacete (1-2)",
         "image_url": "https://static.grupojoly.com/clip/8f877014-f4b6-46ca-a0f9-cf39d02b1058_source-aspect-ratio_default_0.jpg",
         "tags": [
@@ -3027,5 +2865,217 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2026/02/06/principales-titulares-de-los-periodicos-para-el-sabado-7-de-febrero/",
         "date": "2026-02-06 23:45:33",
         "sentiment_score": 0.003541223704814911
+    },
+    {
+        "title": "Daniel Díaz, empresario de 30 años, descorcha una verdad incómoda en el enoturismo: \"Ocultar los precios es un error\"",
+        "image_url": "https://s3.elespanol.com/2026/01/29/actualidad/1003744108956_261155754_1706x960.jpg",
+        "tags": [
+            "soft",
+            "bodegas",
+            "consumo",
+            "vino",
+            "españa",
+            "sociedad"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20260207/daniel-diaz-empresario-anos-descorcha-verdad-incomoda-enoturismo-ocultar-precios-error/1003744108941_0.html",
+        "date": "2026-02-07 06:34:16",
+        "sentiment_score": 0.44184666499495506
+    },
+    {
+        "title": "Alarma por un nuevo timo: Facua alerta del último fraude que simula ofertas de Yoigo",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/lidl-liquidacion-4.jpg",
+        "tags": [
+            "sociedad",
+            "telefonía",
+            "consumo",
+            "telecomunicaciones",
+            "estafas",
+            "ofertas",
+            "facua",
+            "compañías"
+        ],
+        "link": "https://theobjective.com/economia/consumo/2026-02-07/alarma-por-un-nuevo-timo-facua-alerta-del-ultimo-fraude-que-simulan-ofertas-de-yoigo/",
+        "date": "2026-02-07 06:30:00",
+        "sentiment_score": -0.8434519171714783
+    },
+    {
+        "title": "El boom del chef privado en Madrid: ¿se gana más que en un restaurante?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ca2fe9d8-ac27-4e84-8f91-696486e4d07b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "chef",
+            "gastronomía",
+            "madrid",
+            "restaurantes",
+            "cocineros"
+        ],
+        "link": "https://www.epe.es/es/madrid/20260207/chef-privado-despega-madrid-compensa-cocinar-a-domicilio-moda-negocio-rentable-126378827",
+        "date": "2026-02-07 06:22:37",
+        "sentiment_score": 0.09268241375684738
+    },
+    {
+        "title": "Altas y bajas del mercado NBA 2026 con una estrella que no se mueve",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/07/2026020706522342275.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/mercado-nba-2026-estrella-que-muevemovimientos-sorpresa-bajas-que-nadie-esperaba/20260207070414373727.html",
+        "date": "2026-02-07 06:04:14",
+        "sentiment_score": -0.17847466468811035
+    },
+    {
+        "title": "Los once dones de doña Isabel",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6b3fccb2-ec85-4479-aa0f-643f30abcc54_16-9-aspect-ratio_default_0_x600y250.jpg",
+        "tags": [
+            "madrid",
+            "víctimas",
+            "comunidad de madrid",
+            "presidente del gobierno"
+        ],
+        "link": "https://www.laopiniondemalaga.es/opinion/2026/02/07/once-dones-dona-isabel-126534408.html",
+        "date": "2026-02-07 06:00:38",
+        "sentiment_score": -0.723688580095768
+    },
+    {
+        "title": "Orejas tiesas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "orejas",
+            "tiesas"
+        ],
+        "link": "https://www.deia.eus/opinion/rojo-sobre-blanco/2026/02/07/orejas-tiesas-10669807.html",
+        "date": "2026-02-07 06:00:35",
+        "sentiment_score": -0.13276800513267517
+    },
+    {
+        "title": "En directo | Badajoz vuelve a cortar el Puente de la Autonomía por el caudal del Guadiana",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b7c78395-910b-4238-91d8-8743244a5530_alta-libre-aspect-ratio_default_0_x960y360.jpg",
+        "tags": [
+            "borrasca",
+            "temporal"
+        ],
+        "link": "https://www.diariodemallorca.es/sociedad/2026/02/07/sigue-directo-incidencias-borrasca-marta-126499918.html",
+        "date": "2026-02-07 06:00:00",
+        "sentiment_score": -0.43799128383398056
+    },
+    {
+        "title": "En directo | Badajoz mantiene cerrado el Puente de la Autonomía por el temporal",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b7c78395-910b-4238-91d8-8743244a5530_16-9-aspect-ratio_default_0_x960y360.jpg",
+        "tags": [
+            "inundación",
+            "borrasca",
+            "temporal"
+        ],
+        "link": "https://www.informacion.es/sociedad/2026/02/07/sigue-directo-incidencias-borrasca-marta-126499924.html",
+        "date": "2026-02-07 06:00:00",
+        "sentiment_score": -0.4869232848286629
+    },
+    {
+        "title": "Una muerte en Carnaval por un maletín de dinero que no existía",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2026/02/06/escenacrimen-RV6gsIALI1J7KExDXTq6zJJ-1200x840@Hoy.jpg",
+        "tags": [
+            "badajoz",
+            "audiencia provincial de badajoz",
+            "guardia civil",
+            "carnaval",
+            "las vaguadas"
+        ],
+        "link": "https://www.hoy.es/extremadura/cronica-negra/muerte-carnaval-maletin-dinero-existia-20260207175716-nt.html",
+        "date": "2026-02-07 06:45:02",
+        "sentiment_score": -0.8289106898009777
+    },
+    {
+        "title": "El caos ferroviario impulsa el autobús: las empresas amplían en Andalucía y el Govern pide refuerzos por el parón de Rodalies",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/10/07/68e53170d0bb3.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/nacional/caos-ferroviario-impulsa-autobus-las-empresas-amplian-andalucia-govern-pide-refuerzos-por-paron-rodalies_6928943_0.html",
+        "date": "2026-02-07 06:43:52",
+        "sentiment_score": -0.8395393714308739
+    },
+    {
+        "title": "Previsión AEMET: Barcelona con nubes, lluvias débiles y viento moderado hoy",
+        "image_url": "https://okdiario.com/img/2026/02/07/lluvia-en-barcelona.-europa-press.jpg",
+        "tags": [
+            "tiempo",
+            "okd",
+            "agencia estatal de meteorología (aemet)",
+            "previsión del tiempo",
+            "cataluña",
+            "españa"
+        ],
+        "link": "https://okdiario.com/cataluna/prevision-aemet-barcelona-con-nubes-lluvias-debiles-y-viento-moderado-hoy-16204595",
+        "date": "2026-02-07 06:20:49",
+        "sentiment_score": -0.395480215549469
+    },
+    {
+        "title": "Rearme: el riesgo para la colaboración científica en el Mediterráneo",
+        "image_url": "https://static1.ara.cat/clip/b63f3941-8e02-4a51-a30f-1ec9c2f03c62_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "colaboracion",
+            "mediterraneo",
+            "rearme",
+            "riesgo",
+            "cientifica"
+        ],
+        "link": "https://es.ara.cat/economia/rearme-riesgo-colaboracion-cientifica-mediterraneo_1_5641070.html",
+        "date": "2026-02-07 06:00:53",
+        "sentiment_score": 0.4061935469508171
+    },
+    {
+        "title": "Destinos europeos con mucho que celebrar en 2026",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/049866f5-09f2-433b-b13f-0d6294f15e82_16-9-aspect-ratio_default_0_x2608y2244.jpg",
+        "tags": [
+            "celebrar",
+            "europeos",
+            "2026",
+            "destinos",
+            "mucho"
+        ],
+        "link": "https://www.deia.eus/viajes/2026/02/07/destinos-europeos-mucho-celebrar-2026-10670739.html",
+        "date": "2026-02-07 06:00:41",
+        "sentiment_score": -0.2520790547132492
+    },
+    {
+        "title": "Nueva pugna en la banda derecha del Alavés",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/dcbea954-e920-4034-8d7f-dbc83584598a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "calebe",
+            "alavés",
+            "nueva",
+            "banda",
+            "pugna",
+            "derecha",
+            "laliga",
+            "vicente"
+        ],
+        "link": "https://www.noticiasdealava.eus/alaves/2026/02/07/nueva-pugna-banda-derecha-alaves-laliga-vicente-calebe-10669339.html",
+        "date": "2026-02-07 06:00:35",
+        "sentiment_score": -0.18682488799095154
+    },
+    {
+        "title": "Adrian Newey analiza el Aston Martin de la normativa de la FIA de 2026 para Fernando Alonso: \"No es agresivo\"",
+        "image_url": "https://hips.hearstapps.com/hmg-prod/images/newey-6984e6dbc9669.jpg",
+        "tags": [
+            "shorttitle: adrian newey analiza el aston martin f1 de 2026",
+            "locale: es",
+            "content-type: news",
+            "contentid: df23cebd-e038-4a3c-b38f-d0f3b7662e36",
+            "collection: noticias f1",
+            "displaytype: standard article"
+        ],
+        "link": "https://www.caranddriver.com/es/formula-1/a70259585/adrian-newey-analiza-aston-martin-fia-2026-fernando-alonso-no-agresivo/",
+        "date": "2026-02-07 06:00:00",
+        "sentiment_score": 0.050373561680316925
+    },
+    {
+        "title": "El restaurante de carretera que conquista a los esquiadores: cocina tradicional catalana y casera cerca de Andorra",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/01/697f75ad350d00-90647691.png",
+        "tags": [
+            "restaurantes"
+        ],
+        "link": "https://www.20minutos.es/gastronomia/restaurantes/restaurante-carretera-conquista-esquiadores-cocina-tradicional-catalana-casera-cerca-andorra_6928459_0.html",
+        "date": "2026-02-07 06:00:00",
+        "sentiment_score": -0.0027537792921066284
     }
 ];
