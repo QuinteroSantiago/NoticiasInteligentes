@@ -1,409 +1,5 @@
 export default [
     {
-        "title": "Galerías del Tresillo convirtió un sofá gigante en el fenómeno emocional del año",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7831637",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5757135/galerias-tresillo-convirtio-sofa-gigante-fenomeno-emocional-ano",
-        "date": "2026-02-02 22:32:56",
-        "sentiment_score": -0.019660882651805878
-    },
-    {
-        "title": "Sexto fichaje del Real Zaragoza: Mawuli Mensah completa el centro del campo blanquillo",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/02/02/2026020222534553580.jpg",
-        "tags": [
-            "real zaragoza"
-        ],
-        "link": "https://www.aragondigital.es/articulo/real-zaragoza/real-zaragoza-refuerza-centro-campo-fichaje-mawuli-mensah/20260202225432964376.html",
-        "date": "2026-02-02 21:54:32",
-        "sentiment_score": 0.34620922431349754
-    },
-    {
-        "title": "Se confirma el bombazo: Al-Hilal ficha a Benzema hasta 2027",
-        "image_url": "https://okdiario.com/img/2026/02/02/imagen_recortada-2026-02-02t224144.383.jpg",
-        "tags": [
-            "fútbol",
-            "deportes",
-            "karim benzema"
-        ],
-        "link": "https://okdiario.com/deportes/confirma-bombazo-hilal-ficha-benzema-hasta-2027-16178850",
-        "date": "2026-02-02 21:42:51",
-        "sentiment_score": -0.27661551535129547
-    },
-    {
-        "title": "IELTS o Cambridge: qué certificado de inglés escoger en 2026",
-        "image_url": "https://www.elboletin.com/wp-content/uploads/2026/02/estudiantes-discutiendo-certificados-ingles.jpg",
-        "tags": [
-            "marco común europeo",
-            "empleabilidad",
-            "certificaciones",
-            "examenes",
-            "international house",
-            "nacional",
-            "estudiantes",
-            "profesionales",
-            "preparación",
-            "ingles",
-            "universidades"
-        ],
-        "link": "https://www.elboletin.com/ielts-o-cambridge-que-certificado-de-ingles-escoger-en-2026/",
-        "date": "2026-02-02 21:37:50",
-        "sentiment_score": 0.6955548375844955
-    },
-    {
-        "title": "Directo | Mercado de fichajes: El Atlético de Madrid inscribe a Obed Vargas",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/02/69810d28e6598.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/al-minuto/atletico-madrid-inscribe-obed-vargas-20260202_3299499.html",
-        "date": "2026-02-02 21:34:59",
-        "sentiment_score": 0.03980021923780441
-    },
-    {
-        "title": "El Atlético de Madrid se refuerza con Obed Vargas y Ademola Lookman en el cierre del mercado",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/02/ATL201TICO_DE_MADRID_31577.jpg",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2026/02/02/el-atltico-de-madrid-se-refuerza-con-obed-vargas-y-ademola-lookman-en-el-cierre-del-mercado/",
-        "date": "2026-02-02 21:32:41",
-        "sentiment_score": 0.5215230658650398
-    },
-    {
-        "title": "El Atlético de Madrid se refuerza con Obed Vargas y Ademola Lookman en el cierre del mercado",
-        "image_url": "https://dims.apnews.com/dims4/default/be890a6/2147483647/strip/true/crop/3562x2373+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0a%2Fd7%2F52bf3483e8732055e5793f0ebe81%2Fb1b471367cff421287b51d02231f5119",
-        "tags": [
-            "deportes",
-            "send to apple news",
-            "sports",
-            "atletico madrid obed vargas lookman"
-        ],
-        "link": "https://apnews.com/article/atletico-madrid-obed-vargas-lookman-1fa2dcf1f291705104d50b6af5e1b141",
-        "date": "2026-02-02 21:32:41",
-        "sentiment_score": 0.08851758763194084
-    },
-    {
-        "title": "Benzema deja el Al-Ittihad para fichar por el Al-Hilal",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/02/698116c10d1ca.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/benzema-deja-ittihad-fichar-hilal-20260202_3299514.html",
-        "date": "2026-02-02 21:28:29",
-        "sentiment_score": -0.0927867591381073
-    },
-    {
-        "title": "Pau Sans debuta por todo lo alto en Polonia: gol y victoria",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/02/02/2026020222174947559.jpg",
-        "tags": [
-            "real zaragoza"
-        ],
-        "link": "https://www.aragondigital.es/articulo/real-zaragoza/pau-sans-debuta-todo-alto-polonia-gol-victoria/20260202221923964374.html",
-        "date": "2026-02-02 21:19:23",
-        "sentiment_score": 0.7436280995607376
-    },
-    {
-        "title": "Varios nominados a los Goya muestran su apoyo a Uclés en su polémica con Pérez-Reverte: \"No todos perdieron igual la Guerra\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/04/08/fotografo-jorge-paris-hernandez-previsiones-20m-tema-david-ucles-2.r_d.950-640.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.20minutos.es/cultura/varios-nominados-los-goya-muestran-su-apoyo-ucles-su-polemica-con-perez-reverte-no-todos-perdieron-igual-guerra_6929015_0.html",
-        "date": "2026-02-02 21:11:09",
-        "sentiment_score": 0.028441578149795532
-    },
-    {
-        "title": "La nueva Ley de Movilidad Sostenible convierte los Planes de Movilidad al Trabajo en una palanca estratégica para las empresas",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7831635",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5757134/nueva-ley-movilidad-sostenible-convierte-planes-movilidad-trabajo-palanca-estrategica-empresas",
-        "date": "2026-02-02 22:33:05",
-        "sentiment_score": 0.5230425111949444
-    },
-    {
-        "title": "El CE Europa, a un paso de recuperar la gestión del Camp de l'Àliga de Barcelona tras más de diez años",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/25/gracia/1003742710713_15445669_1706x960.jpg",
-        "tags": [
-            "fútbol",
-            "gràcia",
-            "deportes",
-            "la vila de gràcia",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gracia/20260202/ce-europa-paso-recuperar-gestion-camp-laliga-barcelona-anos/1003742719416_0.html",
-        "date": "2026-02-02 22:30:00",
-        "sentiment_score": 0.7971890196204185
-    },
-    {
-        "title": "Sant Adrià revolucionará el polígono Montsolís: fin al caos logístico y apuesta por la industria 4.0",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/02/gran-barcelona/1003742728694_15668507_1706x960.jpg",
-        "tags": [
-            "sant adrià de besòs",
-            "urbanismo",
-            "filo cañete",
-            "gran barcelona",
-            "obras"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260202/sant-adria-revolucionara-poligono-montsolis-fin-caos-logistico-apuesta-industria/1003742727716_0.html",
-        "date": "2026-02-02 22:30:00",
-        "sentiment_score": -0.8769307257607579
-    },
-    {
-        "title": "Nominados a los Goya se posicionan contra las políticas migratorias de Donald Trump",
-        "image_url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/78527749001/0d7e0a43-48b6-4ff6-8474-7b0883dcec26/main/224x126/39s637ms/match/image.jpg?pubId=85707284001",
-        "tags": [
-            "donald",
-            "nominados",
-            "goya",
-            "politicas",
-            "contra",
-            "posicionan",
-            "migratorias",
-            "trump"
-        ],
-        "link": "https://www.elcomercio.es/culturas/nominados-goya-posicionan-politicas-migratorias-donald-trump-20260202220518-vi.html",
-        "date": "2026-02-02 22:06:11",
-        "sentiment_score": 0.5464739706367254
-    },
-    {
-        "title": "Los nominados a los Goya se posicionan sobre algunos de los temas polémicos del momento",
-        "image_url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/78527749001/f718be4b-b2c4-4a53-b602-27f9c80c09bf/main/1920x1080/39s637ms/match/image.jpg?pubId=85707284001",
-        "tags": [
-            "nominados",
-            "goya",
-            "sobre",
-            "posicionan",
-            "momento",
-            "algunos",
-            "polemicos",
-            "temas"
-        ],
-        "link": "https://www.elcomercio.es/gente-estilo/nominados-goya-posicionan-sobre-temas-polemicos-momento-20260202220512-vi.html",
-        "date": "2026-02-02 22:05:59",
-        "sentiment_score": 0.5464739706367254
-    },
-    {
-        "title": "Reconocimiento al papel transformador de las empresas en la sociedad",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6b374fe3-b3f7-4c58-855e-29c4076a6bd6_16-9-discover-aspect-ratio_default_0_x850y319.jpg",
-        "tags": [
-            "el periódico",
-            "barcelona",
-            "empresa del año",
-            "empresas",
-            "innovación"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260202/reconocimiento-papel-transformador-empresas-sociedad-126369018",
-        "date": "2026-02-02 21:59:55",
-        "sentiment_score": 0.5897288024425507
-    },
-    {
-        "title": "Así queda el mercado de fichajes en el Real Zaragoza: llegadas y salidas",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/files/fp/uploads/imagenes/2026/02/02/larios-selles.r_d.419-190.jpeg",
-        "tags": [
-            "real zaragoza"
-        ],
-        "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/02/02/asi-queda-mercado-fichajes-real-zaragoza-llegadas-salidas-1890661.html",
-        "date": "2026-02-02 21:58:19",
-        "sentiment_score": 0.45699017494916916
-    },
-    {
-        "title": "Nominados a los Goya se posicionan contra las políticas migratorias de Donald Trump",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260202225221_120.jpg",
-        "tags": [
-            "vídeos culturaocio",
-            "cultura y ocio"
-        ],
-        "link": "https://www.culturaocio.com/videos/video-nominados-goya-posicionan-contra-politicas-migratorias-donald-trump-20260202225221.html",
-        "date": "2026-02-02 21:52:21",
-        "sentiment_score": -0.19820590317249298
-    },
-    {
-        "title": "Adif elimina trenes y sigue sin controlar la situación mientras arrecian las protestas internas: \"Ahora tratan de apaciguarnos\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/8ece551b3dfdc088dab5e019d976868d/f/image/jpeg/assets/multimedia/imagenes/2026/01/23/17691660669334.jpg",
-        "tags": [
-            "artículos césar urrutia",
-            "artículos clara rojas",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/02/02/6980e4d1e9cf4aaf6b8b45a5.html",
-        "date": "2026-02-02 21:41:33",
-        "sentiment_score": -0.897801217623055
-    },
-    {
-        "title": "Benzema se une a este equipo de Arabia Saudita para retar a Cristiano Ronaldo y su Al Nassr",
-        "image_url": "https://pxcdn.meridiano.net/022026/1770086371920.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "sports",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/benzema-se-une-a-este-equipo-de-arabia-saudita-para-retar-a-cristiano-ronaldo-y-su-al-nassr-20262222310",
-        "date": "2026-02-03 02:31:00",
-        "sentiment_score": 0.5099022909998894
-    },
-    {
-        "title": "El comisionado de la NFL Roger Goodell dice que ampliar la temporada a 18 juegos 'no es seguro'",
-        "image_url": "https://dims.apnews.com/dims4/default/25eacd3/2147483647/strip/true/crop/5880x3914+0+4/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F77%2Fdf%2Fece37d34c3d0d4a75ecb97132094%2F0af39d44010a4f5c952f1c83f7531db2",
-        "tags": [
-            "send to apple news",
-            "deportes",
-            "calendario 18 juegos partidos internacionales paris mexico",
-            "sports"
-        ],
-        "link": "https://apnews.com/article/calendario-18-juegos-partidos-internacionales-paris-mexico-53c73e23ca242d49510588131601e8c6",
-        "date": "2026-02-03 02:07:04",
-        "sentiment_score": -0.30745210498571396
-    },
-    {
-        "title": "El comisionado de la NFL Roger Goodell dice que ampliar la temporada a 18 juegos ‘no es seguro’",
-        "image_url": "https://www.bostonherald.com/wp-content/uploads/2026/02/SUPER_BOWL-GOODELL_06033.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.bostonherald.com/2026/02/02/el-comisionado-de-la-nfl-roger-goodell-dice-que-ampliar-la-temporada-a-18-juegos-no-es-seguro/",
-        "date": "2026-02-03 02:07:03",
-        "sentiment_score": -0.24599231779575348
-    },
-    {
-        "title": "Cerró el mercado de fichajes en Europa: los cinco movimientos más destacados",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2026/02/02/fichajes-mercado-europa-mas-destacados-orix/",
-        "date": "2026-02-03 02:03:41",
-        "sentiment_score": 0.18100669980049133
-    },
-    {
-        "title": "Benzema se une a Al Hilal, el gran rival del Al Nassr de Cristiano Ronaldo",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/d1239f3/2147483647/strip/true/crop/3048x1600+0+216/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F17%2F4c%2F210829ac4a39acae29b42a79c799%2F3c0d392ad77f45c3ab797730841076b2.jpg",
-        "tags": [
-            "top",
-            "sports"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-02/benzema-se-une-al-hilal-el-gran-rival-del-al-nassr-de-cristiano-ronaldo",
-        "date": "2026-02-03 01:33:36",
-        "sentiment_score": -0.934879582375288
-    },
-    {
-        "title": "Máxima tensión con Cristiano Ronaldo en Arabia: de la polémica medida de protesta a la decisión de Benzema que lo enfureció",
-        "image_url": "https://www.infobae.com/resizer/v2/L6KZKAQHKRDMNDSE7K6RD4IQOY.JPG?auth=76d92061335d0eeff134c170f1cbf2156fe8e9e773a5f54512f2ef27c1d98fa3&height=1043&smart=true&width=1461",
-        "tags": [
-            "al hilal",
-            "deportes-argentina",
-            "karim benzema",
-            "saudi pro league",
-            "cristiano ronaldo",
-            "al ittihad",
-            "al nassr"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/03/maxima-tension-con-cristiano-ronaldo-en-arabia-de-la-polemica-medida-de-protesta-a-la-decision-de-benzema-que-lo-enfurecio/",
-        "date": "2026-02-03 01:32:33",
-        "sentiment_score": -0.15540005266666412
-    },
-    {
-        "title": "02 FEB 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/02-feb-2026-partidazo-cope-20260203_3299566.html",
-        "date": "2026-02-03 00:50:00",
-        "sentiment_score": -0.018268056213855743
-    },
-    {
-        "title": "Madrid, la comunidad con más inmigrantes: son 1,18 millones, el 15% de la población y la mayoría son venezolanos",
-        "image_url": "https://s3.elespanol.com/2026/02/02/actualidad/1003744113909_261221551_1706x960.jpg",
-        "tags": [
-            "comunidad de madrid",
-            "extranjeros",
-            "inmigrantes",
-            "inmigración",
-            "sociedad",
-            "inmigración ilegal"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20260203/madrid-comunidad-inmigrantes-millones-poblacion-mayoria-venezolanos/1003744113717_0.html",
-        "date": "2026-02-03 00:12:34",
-        "sentiment_score": 0.21205918490886688
-    },
-    {
-        "title": "Predicción del clima en Barcelona para antes de salir de casa este 3 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
-        "tags": [
-            "últimas actualizaciones",
-            "clima",
-            "clima en españa",
-            "clima en barcelona"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/03/prediccion-del-clima-en-barcelona-para-antes-de-salir-de-casa-este-3-de-febrero/",
-        "date": "2026-02-03 02:15:40",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "Lezama",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "lezama"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/lezama_0_2005801976.html",
-        "date": "2026-02-03 02:08:35",
-        "sentiment_score": -0.03733694553375244
-    },
-    {
-        "title": "“Nvidia está en el centro de todo y va con mucha ventaja”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/02/6980b44da53eb.r_d.697-393-0.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20260203/11455863/nvidia-chips-jensen-huang-libros-economia.html",
-        "date": "2026-02-03 02:00:00",
-        "sentiment_score": 0.6888735368847847
-    },
-    {
-        "title": "Las incógnitas sobre Adamuz y el mantenimiento fuerzan a Renfe a aplazar su 'gran compra' de 2.000M en trenes AVE",
-        "image_url": "https://s3.elespanol.com/2026/02/02/actualidad/1003744114012_261223255_1706x1280.jpg",
-        "tags": [
-            "trenes",
-            "alstom",
-            "renfe",
-            "empresas",
-            "adif",
-            "talgo"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/20260203/incognitas-adamuz-mantenimiento-fuerzan-renfe-aplazar-gran-compra-trenes-ave/1003744113758_0.html",
-        "date": "2026-02-03 01:48:15",
-        "sentiment_score": 0.06966838985681534
-    },
-    {
-        "title": "El portero Ter Stegen se lesiona el muslo en su segundo partido con Girona",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/02/GIRONA-TER_STEGEN_71883.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2026/02/02/el-portero-ter-stegen-se-lesiona-el-muslo-en-su-segundo-partido-con-girona/",
-        "date": "2026-02-03 01:32:29",
-        "sentiment_score": -0.5005992278456688
-    },
-    {
-        "title": "El portero Ter Stegen se lesiona el muslo en su segundo partido con Girona",
-        "image_url": "https://dims.apnews.com/dims4/default/2bd0136/2147483647/strip/true/crop/1793x1193+0+1/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbe%2Fcc%2F084b1a29212a69fa6892ce6c9dae%2Fb108c58579444a489f3c8c71032a80ac",
-        "tags": [
-            "sports",
-            "send to apple news",
-            "ter stegen lesion girona alemania barcelona",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/ter-stegen-lesion-girona-alemania-barcelona-3d2159865280bf13d3420a5619b53b63",
-        "date": "2026-02-03 01:32:29",
-        "sentiment_score": -0.7506537679582834
-    },
-    {
         "title": "Así fue el cumpleaños de Felipe VI en Zarzuela: comida familiar junto a sus hijas entre actos institucionales",
         "image_url": "https://www.infobae.com/resizer/v2/W5BQ7XGTYFCTHPXMOHVRHKUTJM.jpg?auth=5976e92dc3efa5f2a56bf27f3aad0e043d1d5797f1892ce8c96314f6fd636fe8&height=1080&smart=true&width=1920",
         "tags": [
@@ -2959,5 +2555,280 @@ export default [
         "link": "https://www.infobae.com/espana/agencias/2026/02/06/los-lideres-nacionales-de-los-partidos-arropan-este-viernes-a-sus-candidatos-en-aragon-en-el-cierre-de-campana/",
         "date": "2026-02-06 06:30:35",
         "sentiment_score": 0.039078839123249054
+    },
+    {
+        "title": "El equipo de Vox preguntó sobre si Azcón los colocaría tras salir del Gobierno",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/3c/media_thumb-link-4144230.webp?1770383226=",
+        "tags": [
+            "vox",
+            "actualidad",
+            "gobierno",
+            "azcón",
+            "salir",
+            "aragón"
+        ],
+        "link": "https://www.meneame.net/story/equipo-vox-pregunto-sobre-azcon-colocaria-tras-salir-gobierno",
+        "date": "2026-02-06 14:45:03",
+        "sentiment_score": 0.025513865053653717
+    },
+    {
+        "title": "¿Qué ocurrió entre Jeffrey Epstein y Astrid Gil-Casares?",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/3a/media_thumb-link-4143688.webp?1770250986=",
+        "tags": [
+            "astrid gil-casares armada",
+            "epstein",
+            "actualidad"
+        ],
+        "link": "https://www.meneame.net/story/ocurrio-entre-jeffrey-epstein-astrid-gil-casares",
+        "date": "2026-02-05 08:10:03",
+        "sentiment_score": -0.8398221172392368
+    },
+    {
+        "title": "La publicación de Malacara en la que compara, con sarcasmo, el agua caída en Grazalema con la capacidad del Santiago Bernabéu",
+        "image_url": "https://static.grupojoly.com/clip/a32319a6-434f-479a-8031-3a7471bcd174_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "qué ver en sevilla",
+            "últimas noticias sevilla",
+            "qué hacer en sevilla"
+        ],
+        "link": "https://www.diariodesevilla.es/vivirensevilla/publicacion-malacara-lluvia-grazalema-bernabeu_0_2005830200.html",
+        "date": "2026-02-06 17:33:04",
+        "sentiment_score": -0.804453993216157
+    },
+    {
+        "title": "La pintora que desafió el arte y las reglas sociales y fue clave en la Generación del 27",
+        "image_url": "https://static.eldiario.es/clip/de581032-29f1-46de-a687-397ed0f9bb63_16-9-discover-aspect-ratio_default_1135999.jpg",
+        "tags": [
+            "maruja mallo",
+            "pintora",
+            "sociales",
+            "generacion",
+            "pm",
+            "clave",
+            "reglas",
+            "arte",
+            "27",
+            "desafio"
+        ],
+        "link": "https://www.eldiario.es/spin/pintora-desafio-arte-reglas-sociales-clave-generacion-27-maruja-mallo-pm_1_12969335.html",
+        "date": "2026-02-06 17:31:01",
+        "sentiment_score": 0.043044060468673706
+    },
+    {
+        "title": "La Bañeza disfraza su ayuntamiento como previa a los Carnavales",
+        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2026/02/06/decoracion%20carnaval-kblB-U20573538987ltF-1200x840@Leonoticias.jpg",
+        "tags": [
+            "carnaval"
+        ],
+        "link": "https://www.leonoticias.com/labaneza/baneza-disfraza-ayuntamiento-previa-carnavales-20260206181946-nt.html",
+        "date": "2026-02-06 17:19:51",
+        "sentiment_score": 0.30013345181941986
+    },
+    {
+        "title": "El 38 por ciento de los candidatos a los Premios Goya son mujeres",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/06/el-38-por-ciento-de-los-candidatos-a-los-premios-goya-son-mujeres/",
+        "date": "2026-02-06 17:18:08",
+        "sentiment_score": -0.0756387710571289
+    },
+    {
+        "title": "Muere a los cien años el ganadero Antonio Egea Colás",
+        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2026/02/06/egea1-R5Sn4SS2urgXVEj1xIc55pJ-1200x840@Hoy.jpg",
+        "tags": [
+            "extremadura",
+            "san vicente de alcántara",
+            "alburquerque (badajoz)",
+            "badajoz"
+        ],
+        "link": "https://www.hoy.es/extremadura/muere-cien-anos-ganadero-antonio-egea-colas-20260206173244-nt.html",
+        "date": "2026-02-06 17:15:16",
+        "sentiment_score": 0.1916934847831726
+    },
+    {
+        "title": "Carmen Machi, reconocida con el Premio a la Trayectoria Jesús Hermida de la Academia de la Televisión",
+        "image_url": "https://www.elplural.com/uploads/s1/24/48/81/2/carmen-machi_7_480x270.jpeg",
+        "tags": [
+            "extratele"
+        ],
+        "link": "https://www.elplural.com/extratele/carmen-machi-premio-trayectoria-jesus-hermida-academia-television_380848102",
+        "date": "2026-02-06 17:11:14",
+        "sentiment_score": 0.055108457803726196
+    },
+    {
+        "title": "Brooklyn Beckham da un paso más en la guerra con su familia y se borra un significativo tatuaje",
+        "image_url": "https://okdiario.com/look/img/2026/02/06/fotojet-2026-02-06t123746.825.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://okdiario.com/look/actualidad/brooklyn-beckham-da-paso-mas-guerra-familia-borra-significativo-tatuaje-2486085",
+        "date": "2026-02-06 17:10:49",
+        "sentiment_score": -0.331946462392807
+    },
+    {
+        "title": "Estalló el escándalo con Cristiano Ronaldo en Arabia Saudita tras su ‘huelga’: El duro comunicado de la liga",
+        "image_url": "https://noticiasaldiayalahora.co/wp-content/uploads/2026/02/Cristiano-Ronaldo-777x437.png",
+        "tags": [
+            "cristiano ronaldo",
+            "deportes"
+        ],
+        "link": "https://noticiasaldiayalahora.co/deportes/estallo-el-escandalo-con-cristiano-ronaldo-en-arabia-saudita-tras-su-huelga-el-duro-comunicado-de-la-liga/",
+        "date": "2026-02-06 17:10:00",
+        "sentiment_score": -0.10358287394046783
+    },
+    {
+        "title": "El Clásico de Leyendas llega a Costa Rica: Barça y Real Madrid reviven su rivalidad histórica",
+        "image_url": "https://www.infobae.com/resizer/v2/7TVHZPIKPNH6PGJI33Y5RCWGLQ.jpg?auth=098d8d2dae2265c2cda8782ebac77ce2e7e4f39503821144702b415ad1449f68&height=2263&smart=true&width=3327",
+        "tags": [
+            "el clásico",
+            "costa rica",
+            "barcelona",
+            "deportes",
+            "real madrid"
+        ],
+        "link": "https://www.infobae.com/costa-rica/2026/02/06/el-clasico-de-leyendas-llega-a-costa-rica-barca-y-real-madrid-reviven-su-rivalidad-historica/",
+        "date": "2026-02-06 17:07:18",
+        "sentiment_score": 0.23251844942569733
+    },
+    {
+        "title": "El Campeonato nacional de Esgrima se celebra este fin de semana en Almagro con casi 200 participantes",
+        "image_url": "http://st1.lacerca.com/imagenes/view/714c954df2c24826c2c7d4a52ad9335f.jpg",
+        "tags": [
+            "noticias",
+            "ciudad real"
+        ],
+        "link": "https://www.lacerca.com/noticias/ciudad_real/campeonato-nacional-esgrima-celebra-semana-almagro-200-participantes-800910-1.html",
+        "date": "2026-02-06 17:07:00",
+        "sentiment_score": 0.5459608044475317
+    },
+    {
+        "title": "Adif ha solucionado 12 de las 91 deficiencias graves detectadas en la red de Rodalies",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1cd39db2-4f2c-426b-8c33-5a8dd63da3fe_alta-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ministerio de transportes",
+            "adif",
+            "rodalies",
+            "infraestructuras",
+            "sílvia paneque i sureda",
+            "trenes",
+            "óscar puente santiago",
+            "conselleria de territori",
+            "movilidad",
+            "transportes",
+            "renfe"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260206/adif-repara-puntos-criticos-rodalies-deficiencias-126529719",
+        "date": "2026-02-06 17:31:35",
+        "sentiment_score": -0.7582755126059055
+    },
+    {
+        "title": "ADDA Simfònica y Josep Vicent arrancan el año con \"sold out\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7858101e-ba49-4c9d-8b08-c96f38ce6a4a_16-9-aspect-ratio_default_0_x710y314.jpg",
+        "tags": [
+            "adda simfònica",
+            "entradas",
+            "conciertos",
+            "cultura",
+            "josep vicent",
+            "adda",
+            "público"
+        ],
+        "link": "https://www.informacion.es/cultura/2026/02/06/adda-simfonica-josep-vicent-arrancan-alicante-sold-out-126533524.html",
+        "date": "2026-02-06 17:31:29",
+        "sentiment_score": -0.09390076994895935
+    },
+    {
+        "title": "Golpe al narcotráfico en Galicia: más de 125 puntos de droga desmantelados y 280 detenidos en 2025",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/02/06/6985ef32c0069.jpeg",
+        "tags": [
+            "galicia"
+        ],
+        "link": "https://www.eldebate.com/espana/galicia/20260206/golpe-narcotrafico-galicia-125-puntos-droga-desmantelados-280-detenidos-2025_382571.html",
+        "date": "2026-02-06 17:30:00",
+        "sentiment_score": -0.8065076936036348
+    },
+    {
+        "title": "El salón audiovisual ISE bate récord en la edición de 2026: más de 90.000 asistentes",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/01/30/economia/828927251_12340526_1706x960.jpg",
+        "tags": [
+            "inteligencia artificial",
+            "congresos barcelona",
+            "economía",
+            "fira de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260206/salon-audiovisual-ise-bate-record-edicion-asistentes/1003742730391_0.html",
+        "date": "2026-02-06 17:21:59",
+        "sentiment_score": 0.6844260990619659
+    },
+    {
+        "title": "Condena firme por el caso Abde: prisión para la cúpula del Hércules de Alicante por alzamiento de bienes",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2024/02/09/65c63f7572730.png",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20260206/condena-firme-caso-abde-prision-cupula-hercules-alicante-alzamiento-bienes_382687.html",
+        "date": "2026-02-06 17:17:30",
+        "sentiment_score": -0.8392839096486568
+    },
+    {
+        "title": "Hace 16 años ganó un Goya con 13 años y hoy vive entre rodajes, viñedos y un trabajo “normal”",
+        "image_url": "https://es.gizmodo.com/app/uploads/2026/02/Gizmodo-80-1-1024x683.jpg",
+        "tags": [
+            "io9"
+        ],
+        "link": "https://es.gizmodo.com/hace-16-anos-gano-un-goya-con-13-anos-y-hoy-vive-entre-rodajes-vinedos-y-un-trabajo-normal-2000219015",
+        "date": "2026-02-06 17:15:07",
+        "sentiment_score": -0.06539052724838257
+    },
+    {
+        "title": "El Super Bowl supera a la Champions: más mexicanos han disputado la final de la NFL",
+        "image_url": "https://www.infobae.com/resizer/v2/WRBG5334EFHJLMYRXRGZR272LY.png?auth=7fb23f008cd3b9cef0a66d2dad775391413c8484cb9e094e73d52d8a51532d25&height=610&smart=true&width=980",
+        "tags": [
+            "mexico-deportes",
+            "super bowl lx",
+            "super bowl 2026",
+            "champions league",
+            "mexico-noticias"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2026/02/06/el-super-bowl-supera-a-la-champions-mas-mexicanos-han-disputado-la-final-de-la-nfl/",
+        "date": "2026-02-06 17:15:06",
+        "sentiment_score": 0.08170850574970245
+    },
+    {
+        "title": "Las autocaravanas y campers se posicionan como una alternativa de vivienda convencional",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b96c3c39-03eb-48ad-be83-a65d67029420_16-9-aspect-ratio_default_0_x960y360.jpg",
+        "tags": [
+            "caravanas",
+            "fira alacant",
+            "autocaravanas",
+            "campers",
+            "vivienda"
+        ],
+        "link": "https://www.informacion.es/economia/2026/02/06/autocaravanas-campers-posicionan-alternativa-vivienda-126527140.html",
+        "date": "2026-02-06 17:13:26",
+        "sentiment_score": 0.3027627468109131
+    },
+    {
+        "title": "La Sagrada Familia acoge la presentación de 'El Camino de Gaudí', un proyecto que une León y Cantabria",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/31/66/21/8/fotografia-presentacion-sagrada-familia-2-1.jpeg",
+        "tags": [
+            "lnc culturas"
+        ],
+        "link": "https://www.lanuevacronica.com/lnc-culturas/sagrada-familia-acoge-presentacion-el-camino-gaudi-proyecto-une-leon-cantabria_190717_102.html",
+        "date": "2026-02-06 17:13:15",
+        "sentiment_score": 0.5091878212988377
+    },
+    {
+        "title": "La Generalitat ultima ayudas a industrias afectadas por los cortes de trenes de mercancías",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2020aa1f-8700-43a6-9c23-7642badc03f4_alta-libre-aspect-ratio_default_0_x960y360.jpg",
+        "tags": [
+            "empresas",
+            "rodalies"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260206/cataluna-ayudas-industria-metal-afectaciones-bloqueo-trenes-mercancias-126536668",
+        "date": "2026-02-06 17:11:56",
+        "sentiment_score": -0.8972193291410804
     }
 ];
