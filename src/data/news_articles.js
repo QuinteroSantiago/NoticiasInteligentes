@@ -1,224 +1,5 @@
 export default [
     {
-        "title": "Al Atlético de Madrid le urge poner otra cara en La Cartuja",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260204184313_120.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-atletico-madrid-le-urge-poner-otra-cara-cartuja-20260204184313.html",
-        "date": "2026-02-04 17:43:13",
-        "sentiment_score": 0.19962294399738312
-    },
-    {
-        "title": "La estampita de la Copa",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2ce200a0-cf61-4983-b696-70b6a43850ff_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "copa",
-            "estampita"
-        ],
-        "link": "https://www.noticiasdenavarra.com/futbol/2026/02/04/estampita-copa-10659475.html",
-        "date": "2026-02-04 17:34:29",
-        "sentiment_score": -0.09118422865867615
-    },
-    {
-        "title": "El Instituto Coordenadas señala a las entidades que impulsan el avance oncológico en España",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/02177616-2c8e-4e04-a38c-e012845e3870_16-9-aspect-ratio_default_0_x440y165.jpg",
-        "tags": [
-            "hospital",
-            "càncer"
-        ],
-        "link": "https://www.regio7.cat/comunicacio-empresarial/2026/02/04/instituto-coordenadas-senala-entidades-impulsan-126452453.html",
-        "date": "2026-02-04 17:28:34",
-        "sentiment_score": -0.02070993185043335
-    },
-    {
-        "title": "El Real Madrid busca ante el peligroso Dubai detener otra mala racha",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260204181247_690.jpg",
-        "tags": [
-            "baloncesto",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-real-madrid-busca-peligroso-dubai-detener-otra-mala-racha-20260204181247.html",
-        "date": "2026-02-04 17:12:47",
-        "sentiment_score": -0.7332811914384365
-    },
-    {
-        "title": "17:00H | 04 FEB 2026 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-04-feb-2026-tarde-20260204_3301233.html",
-        "date": "2026-02-04 17:05:00",
-        "sentiment_score": -0.3839559257030487
-    },
-    {
-        "title": "¿Por qué Unai Vencedor no jugará ante el Athletic?",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/aeb85f0d-d2b4-448f-8d38-64474929210c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "athletic",
-            "jugara",
-            "unai",
-            "vencedor"
-        ],
-        "link": "https://www.deia.eus/athletic/2026/02/04/unai-vencedor-jugara-athletic-10659301.html",
-        "date": "2026-02-04 17:04:39",
-        "sentiment_score": -0.659486060962081
-    },
-    {
-        "title": "Álex Gomes, jugador del Real Zaragoza, en la primera selección del Fútbol Draft 2026",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3083a477-1640-45f2-8998-a077cdb12d1a_16-9-aspect-ratio_default_0_x580y257.jpg",
-        "tags": [
-            "real zaragoza",
-            "real madrid",
-            "betis",
-            "barcelona",
-            "fútbol",
-            "real sociedad",
-            "villarreal"
-        ],
-        "link": "https://www.elperiodicodearagon.com/real-zaragoza/2026/02/04/alex-gomes-jugador-real-zaragoza-real-zaragoza-126450193.html",
-        "date": "2026-02-04 17:04:32",
-        "sentiment_score": 0.20862574130296707
-    },
-    {
-        "title": "C-LM en alerta por la borrasca Leonardo: vigilancia de ríos y servicios",
-        "image_url": "https://www.clm24.es/media/clm24/images/2026/02/04/2026020417585616778.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.clm24.es/articulo/sociedad/c-lm-alerta-borrasca-leonardo-vigilancia-rios-servicios/20260204180034470291.html",
-        "date": "2026-02-04 17:00:34",
-        "sentiment_score": 0.1489161029458046
-    },
-    {
-        "title": "Rafael Catalá: \"Fortalecer la democracia exige potenciar una sociedad civil activa, corresponsable y comprometida con el interés general\"",
-        "image_url": "https://www.diariosigloxxi.com/images/20537",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5760045/rafael-catala-fortalecer-democracia-exige-potenciar-sociedad-civil-activa-corresponsable-comprometida-interes-general",
-        "date": "2026-02-04 16:46:49",
-        "sentiment_score": 0.25506988167762756
-    },
-    {
-        "title": "EEUU propone a sus socios formar un bloque comercial para minerales críticos como contrapeso de China",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260204173803_120.jpg",
-        "tags": [
-            "macroeconomía",
-            "economía finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-eeuu-propone-socios-formar-bloque-comercial-minerales-criticos-contrapeso-china-20260204173803.html",
-        "date": "2026-02-04 16:38:03",
-        "sentiment_score": 0.40431321412324905
-    },
-    {
-        "title": "A la venta los billetes para viajar en verano desde el aeropuerto de León: precios y destinos",
-        "image_url": "https://www.lanuevacronica.com/uploads/s1/29/12/05/8/aeropuerto.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.lanuevacronica.com/actualidad/venta-billetes-viajar-en-verano-aeropuerto-leon-precios-destinos_190552_102.html",
-        "date": "2026-02-04 17:28:25",
-        "sentiment_score": 0.397522509098053
-    },
-    {
-        "title": "Torres se reúne con los delegados del Gobierno en las CCAA para seguir la situación de las zonas afectadas por lluvias",
-        "image_url": "http://st1.lacerca.com/imagenes/view/86adec3236a7f44f47e41dc86f29ceaa.jpg",
-        "tags": [
-            "castilla-la mancha",
-            "noticias"
-        ],
-        "link": "https://www.lacerca.com/noticias/castilla_la_mancha/torres-delegados-gobierno-ccaa-situacion-zonas-afectadas-lluvias-800537-1.html",
-        "date": "2026-02-04 17:27:00",
-        "sentiment_score": -0.3490522541105747
-    },
-    {
-        "title": "Vueling refuerza los vuelos entre Barcelona y Madrid ante el caos ferroviario con una limitación en el precio",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/02/26/movilidad/835676613_12512245_1706x960.jpg",
-        "tags": [
-            "economía",
-            "aeropuerto barcelona",
-            "vuelos",
-            "ave barcelona",
-            "vueling"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260204/vueling-refuerza-vuelos-barcelona-madrid-caos-ferroviario-limitacion-precio/1003742729565_0.html",
-        "date": "2026-02-04 17:13:05",
-        "sentiment_score": 0.25085348077118397
-    },
-    {
-        "title": "Un seguidor de Vito Quiles detenido en Barcelona por amenazas al responsable de FACUA",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/06/22/6857bcf01112f.r_d.1631-1261-0.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20260204/11457861/un-seguidor-de-vito-quiles-detenido-en-barcelona-por-amenazas-al-responsable-de-facua-asd-epm.html",
-        "date": "2026-02-04 17:11:02",
-        "sentiment_score": -0.7047156430780888
-    },
-    {
-        "title": "Un seguidor de Vito Quiles detenido en Vallirana (Barcelona) por amenazas al responsable de FACUA",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/06/22/6857bcf01112f.r_d.1631-1261-0.jpeg",
-        "tags": [
-            "l'h y baix llobregat"
-        ],
-        "link": "https://www.lavanguardia.com/local/baix-llobregat/20260204/11457861/un-seguidor-de-vito-quiles-detenido-en-barcelona-por-amenazas-al-responsable-de-facua-asd-epm.html",
-        "date": "2026-02-04 17:11:02",
-        "sentiment_score": -0.7047156430780888
-    },
-    {
-        "title": "La Terminal T4 del Aeropuerto de Madrid-Barajas celebra 20 años de servicio a 980 millones de pasajeros",
-        "image_url": "https://melillahoy.es/wp-content/uploads/2026/02/Barajas-T4-aniversario-2026-03.jpg",
-        "tags": [
-            "viajeros",
-            "arquitectura",
-            "aena",
-            "infraestructura",
-            "turismo",
-            "pasajeros",
-            "terminal t4",
-            "transportes",
-            "adolfo suárez madrid-barajas",
-            "aeropuerto",
-            "sostenibilidad",
-            "madrid",
-            "tecnología",
-            "nacional",
-            "aeronáutica",
-            "transporte público",
-            "transporte",
-            "economia",
-            "iberia",
-            "plan barajas"
-        ],
-        "link": "https://melillahoy.es/la-terminal-t4-del-aeropuerto-de-madrid-barajas-celebra-20-anos-de-servicio-a-980-millones-de-pasajeros/",
-        "date": "2026-02-04 17:09:04",
-        "sentiment_score": 0.39664987847208977
-    },
-    {
-        "title": "Adiós a esta mítica perfumería de Barcelona: cierra todas sus tiendas en la capital catalana",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2026/02/04/698378578b0a1.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20260204/1002614727/adios-mitica-perfumeria-barcelona-cierra-todas-tiendas-capital-catalana-lcl-dct.html",
-        "date": "2026-02-04 17:08:52",
-        "sentiment_score": -0.2313809022307396
-    },
-    {
-        "title": "Termina sin acuerdo la reunión de Puente y sindicatos por la huelga, pero volverán a reunirse este jueves",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/EuropaPress_7265293_reunion_ministerio_transportes_sindicatos-scaled.jpg",
-        "tags": [
-            "renfe",
-            "nacional"
-        ],
-        "link": "https://www.lanzadigital.com/nacional/termina-sin-acuerdo-la-reunion-de-puente-y-sindicatos-por-la-huelga-pero-volveran-a-reunirse-este-jueves/",
-        "date": "2026-02-04 17:01:53",
-        "sentiment_score": -0.014581382274627686
-    },
-    {
         "title": "¿Cuándo se enfrentarán Álvaro Fidalgo y Obed Vargas?: Esta sería la fecha",
         "image_url": "https://www.infobae.com/resizer/v2/N2R2L7GSZBGHROE4WNQ32AQEUA.png?auth=6773fe7ed13cb7786190647fa7e6de4934d2adc297daaab32b5b5fbf7661d2bf&height=900&smart=true&width=1600",
         "tags": [
@@ -3095,5 +2876,214 @@ export default [
         "link": "https://www.europasur.es/algeciras/algeciras-teatro-malhechores_0_2005826680.html",
         "date": "2026-02-08 01:45:25",
         "sentiment_score": -0.8965080417692661
+    },
+    {
+        "title": "El fichaje estrella del Depor se estrena: Riki frente al Albacete, destino cruel",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/08/2026020807310917307.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/fichaje-estrella-depor-estrena-riki-frente-albacete-destino-cruel/20260208073600373833.html",
+        "date": "2026-02-08 06:36:00",
+        "sentiment_score": 0.09643105790019035
+    },
+    {
+        "title": "La infancia de Jaime Cantizano en un barrio obrero de Jerez: «Siempre fui un adulto en miniatura»",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/infancia-jaime-cantizano.jpeg",
+        "tags": [
+            "celebrities",
+            "jerez",
+            "presentadores de televisión",
+            "jaime cantizano",
+            "gente",
+            "onda cero"
+        ],
+        "link": "https://theobjective.com/gente/2026-02-08/infancia-jaime-cantizano-barrio-obrero-jerez/",
+        "date": "2026-02-08 06:30:00",
+        "sentiment_score": 0.15727168321609497
+    },
+    {
+        "title": "Lasse Rouhiainen: \"Muchas empresas ya usan la IA para contar con segundas opiniones\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/91780631-d65b-41b0-82ce-b57679261f5f_alta-libre-aspect-ratio_default_0_x750y314.jpg",
+        "tags": [
+            "inteligencia artificial",
+            "finlandia",
+            "empresas"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260208/lasse-rouhiainen-uso-ia-empresas-contar-segunda-opinion-126576205",
+        "date": "2026-02-08 06:09:43",
+        "sentiment_score": -0.026821475476026535
+    },
+    {
+        "title": "Extremadura, segunda región en el alza de compraventa de vivienda: +5,2%",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9748f7b6-3ba9-4b65-8174-430af2f45a56_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "extremadura",
+            "estadística",
+            "compraventa",
+            "españa",
+            "vivienda"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/08/extremadura-segunda-region-alza-compraventa-126575370.html",
+        "date": "2026-02-08 06:01:26",
+        "sentiment_score": 0.2986820414662361
+    },
+    {
+        "title": "Mateos, ante su año decisivo en Cáceres: suelo para crecer y aeródromo para conectar",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c705eac2-3a0e-48ee-a27c-038402d88f35_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "aeródromo",
+            "cáceres",
+            "ayuntamiento de cáceres",
+            "charca musia",
+            "suelo industrial",
+            "capellanías",
+            "rafa mateos",
+            "ayuntamiento",
+            "infraestructuras",
+            "industrialización"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/fotos/caceres-local/2026/02/08/mateos-ano-decisivo-suelo-crecer-aerodromo-conectar-126497122.html",
+        "date": "2026-02-08 06:01:03",
+        "sentiment_score": 0.580833375453949
+    },
+    {
+        "title": "Planes de retorno: la carestía de la vida empuja a la emigración rumana a volver a su país",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/Asociacion-Rumana-de-CIudad-Real-ER_-1-de-1-4-1299x730.jpg",
+        "tags": [
+            "rumanía",
+            "ciudad real",
+            "emigración"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/ciudad-real/la-carestia-de-la-vida-empuja-a-la-emigracion-rumana-a-volver-a-su-pais/",
+        "date": "2026-02-08 06:00:00",
+        "sentiment_score": -0.07210388779640198
+    },
+    {
+        "title": "El fútbol brasileño exhibe músculo financiero: el fichaje de Paquetá por 42 millones lo demuestra",
+        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/0/6/7/paqueta-reuters.jpg",
+        "tags": [
+            "economia"
+        ],
+        "link": "https://www.eleconomista.es/economia/noticias/13763385/02/26/el-futbol-brasileno-exhibe-musculo-financiero-el-fichaje-de-paqueta-por-42-millones-lo-demuestra.html",
+        "date": "2026-02-08 05:45:31",
+        "sentiment_score": 0.04116636514663696
+    },
+    {
+        "title": "Los granadinos se asoman al Genil y al Darro",
+        "image_url": "https://static.grupojoly.com/clip/3a9330ab-a153-458a-8a6b-e6cbbd56375c_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sucesos granada",
+            "tiempo en granada",
+            "últimas noticias granada"
+        ],
+        "link": "https://www.granadahoy.com/granada/granadinos-asoman-genil-darro-crecida-borrasca-leonardo_0_2005829509.html",
+        "date": "2026-02-08 05:31:06",
+        "sentiment_score": 0.08840397000312805
+    },
+    {
+        "title": "El paro de los trabajadores ferroviarios podría afectar a varios trenes de alta velocidad en Ciudad Real",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2023/08/EuropaPress_1289889_imagen_tren_renfe-599x316.jpg",
+        "tags": [
+            "puertollano",
+            "ciudad real",
+            "provincia de ciudad real",
+            "transportes"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/el-paro-de-los-trabajadores-ferroviarios-podria-afectar-a-varios-trenes-de-alta-velocidad-en-ciudad-real/",
+        "date": "2026-02-08 05:30:00",
+        "sentiment_score": -0.12756167352199554
+    },
+    {
+        "title": "Las cinco claves para seguir la ceremonia de los premios Gaudí que se entregan esta noche",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/08/las-cinco-claves-para-seguir-la-ceremonia-de-los-premios-gaudi-que-se-entregan-esta-noche/",
+        "date": "2026-02-08 06:45:52",
+        "sentiment_score": 0.47381614334881306
+    },
+    {
+        "title": "“Éramos dos niños y vimos a muchos morir de hambre y de sed en la patera”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/07/69878224d5150.r_d.2666-1620-827.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.lavanguardia.com/vida/20260208/11460541/dos-ninos-vimos-morir-hambre-sed-patera.html",
+        "date": "2026-02-08 06:39:45",
+        "sentiment_score": -0.642887756228447
+    },
+    {
+        "title": "Pleno de alto voltaje con comparecencia sobre trenes y cara a cara Sánchez-Feijóo",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/08/pleno-de-alto-voltaje-con-comparecencia-sobre-trenes-y-cara-a-cara-sanchez-feijoo/",
+        "date": "2026-02-08 06:30:20",
+        "sentiment_score": 0.1924521028995514
+    },
+    {
+        "title": "Entre precios elevados y pisos vacíos: el gran desafío social de España",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7483abe5-5664-4d17-883b-30972d5468c9_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "españa",
+            "jóvenes",
+            "madrid",
+            "vivienda",
+            "extremadura"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/08/precios-elevados-pisos-vacios-gran-126447845.html",
+        "date": "2026-02-08 06:15:00",
+        "sentiment_score": -0.46649933606386185
+    },
+    {
+        "title": "Kongsberg anticipa desde Alicante el futuro del barco eléctrico y autónomo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3615ab0f-69c2-4658-b973-0c5129650435_alta-libre-aspect-ratio_default_0_x789y350.jpg",
+        "tags": [
+            "pesca",
+            "noruega"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260208/kongsberg-anticipa-alicante-futuro-barco-electrico-autonomo-126576088",
+        "date": "2026-02-08 06:08:25",
+        "sentiment_score": 0.5956595912575722
+    },
+    {
+        "title": "Tirso de Molina y Extremadura",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/61b71940-ef66-4e6b-a0cb-eeb0170b7885_16-9-aspect-ratio_default_0_x600y266.jpg",
+        "tags": [
+            "extremadura",
+            "disturbios",
+            "iglesia",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/08/tirso-molina-extremadura-126446892.html",
+        "date": "2026-02-08 06:05:49",
+        "sentiment_score": -0.003607720136642456
+    },
+    {
+        "title": "La atrocidad o su narración",
+        "image_url": "https://static.grupojoly.com/clip/0b75709d-fbdd-4a41-8c85-0992a0690ce3_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "atrocidad",
+            "narracion"
+        ],
+        "link": "https://www.europasur.es/ocio/atrocidad-narracion_0_2005844133.html",
+        "date": "2026-02-08 06:02:25",
+        "sentiment_score": 0.4496901333332062
+    },
+    {
+        "title": "Un pueblo de Cáceres, en el epicentro de la presunta estafa de las 52 chaquetas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e2de9cbe-7347-430c-bc9e-77ccec41db69_16-9-aspect-ratio_default_0_x640y283.jpg",
+        "tags": [
+            "juzgado de instrucción",
+            "gavà",
+            "barcelona",
+            "tribunal supremo"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/caceres-local/2026/02/08/pueblo-caceres-epicentro-estafa-chaquetas-126496067.html",
+        "date": "2026-02-08 06:01:03",
+        "sentiment_score": -0.8380015436559916
     }
 ];
