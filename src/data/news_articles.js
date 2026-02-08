@@ -2914,5 +2914,186 @@ export default [
         "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-estos-artistas-estrenaron-nueva-canci%C3%B3n",
         "date": "2026-02-07 20:11:32",
         "sentiment_score": 0.6570404097437859
+    },
+    {
+        "title": "El lento despertar de la realidad inmersiva y por qué cambiará el futuro del consumo audiovisual",
+        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744119359_261287648_1706x960.jpg",
+        "tags": [
+            "tecnología",
+            "realidad virtual",
+            "empresas",
+            "transformación digital",
+            "innovación"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/empresas/20260208/lento-despertar-realidad-inmersiva-cambiara-futuro-consumo-audiovisual/1003744116289_0.html",
+        "date": "2026-02-08 02:09:41",
+        "sentiment_score": 0.6913193054497242
+    },
+    {
+        "title": "El lado más criollo de Andrés Borregales: los gustos del pateador venezolano",
+        "image_url": "https://pxcdn.2001online.com/2001/022026/1770517101478/andy-borregales-new-england-patriots_ox43medmscau1kdgume3fbmzm.png?ch=675&cw=1200",
+        "tags": [
+            "super bowl lx",
+            "new england patriots",
+            "super bowl",
+            "nfl",
+            "andrés borregales",
+            "real madrid",
+            "bad bunny",
+            "eeuu",
+            "ice",
+            "mollejitas con arroz"
+        ],
+        "link": "https://2001online.com/deportes/el-lado-mas-criollo-de-andres-borregales-los-gustos-del-pateador-venezolano-20262722400",
+        "date": "2026-02-08 02:04:32",
+        "sentiment_score": -0.8314898312091827
+    },
+    {
+        "title": "Ronaldinho Gaucho y Guti pusieron la magia en juego de leyendas de Real Madrid y Barcelona",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/08/ronaldinho-gaucho-y-guti-pusieron-la-magia-en-juego-de-leyendas-de-real-madrid-y-barcelona/",
+        "date": "2026-02-08 02:00:15",
+        "sentiment_score": 0.6240959912538528
+    },
+    {
+        "title": "Cariocas gana por segundo año consecutivo el Primer Premio de Interpretación del concurso de comparsas del Carnaval de Santa Cruz 2026",
+        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2026/02/Cariocas-1024x680.jpeg",
+        "tags": [
+            "portada local",
+            "portada apertura 1",
+            "metropolitana",
+            "santa cruz",
+            "tenerife"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2026/02/cariocas-gana-concurso-comparsas-santa-cruz-2026/",
+        "date": "2026-02-08 01:59:39",
+        "sentiment_score": 0.8122281227260828
+    },
+    {
+        "title": "Los Moreno, los seis primos detrás de la mejor pastelería de Madrid que empezó hace 95 años por un décimo de lotería",
+        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744120138_261297666_1706x960.jpg",
+        "tags": [
+            "ocio",
+            "pasteleros",
+            "pastelerías"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20260208/moreno-primos-detras-mejor-pasteleria-madrid-empezo-hace-anos-decimo-loteria/1003744117221_0.html",
+        "date": "2026-02-08 01:41:59",
+        "sentiment_score": 0.48709045350551605
+    },
+    {
+        "title": "Ismael Serrano: \"Ahora la izquierda abronca a quien piensa un poco diferente; exigen una adhesión inquebrantable\"",
+        "image_url": "https://s3.elespanol.com/2026/02/06/reportajes/1003744120562_261303792_1706x960.jpg",
+        "tags": [
+            "reportajes-newsletter",
+            "reportajes",
+            "porfolio",
+            "música",
+            "ismael serrano"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260208/ismael-serrano-ahora-izquierda-abronca-piensa-diferente-exigen-adhesion-inquebrantable/1003744120466_0.html",
+        "date": "2026-02-08 01:23:53",
+        "sentiment_score": -0.8799394564703107
+    },
+    {
+        "title": "Muere José Tudela y España pierde al jurista más apasionado de su unidad y diversidad",
+        "image_url": "https://images.ecestaticos.com/Z3reEjwLr1mnIwvfKOUt2yyeqzw=/0x0:2272x1516/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe98%2F542%2F90e%2Fe9854290e07c262ef7c5fff155fcd1f2.jpg",
+        "tags": [
+            "food",
+            "top"
+        ],
+        "link": "https://www.elconfidencial.com/espana/aragon/2026-02-08/jose-tudela-aranda-fundacion-gimenez-1hms_4299409/",
+        "date": "2026-02-08 01:11:00",
+        "sentiment_score": 0.5851892530918121
+    },
+    {
+        "title": "Jhon Arias recibe emotiva bienvenida de Richard Ríos en Palmeiras: “¡Estamos juntos en esto!“",
+        "image_url": "https://www.infobae.com/resizer/v2/I6WAMTLYBZHBDKUDQQLWI62GLQ.jpg?auth=5a082e2bbd70d2c2044d785067ffa4deeae590439187552ffa53b5733753c159&height=540&smart=true&width=960",
+        "tags": [
+            "palmeiras",
+            "jhon arias",
+            "colombia-deportes",
+            "benfica",
+            "richard rios"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/08/jhon-arias-recibe-emotiva-bienvenida-de-richard-rios-en-palmeiras-estamos-juntos-en-esto/",
+        "date": "2026-02-08 01:08:09",
+        "sentiment_score": 0.6070985570549965
+    },
+    {
+        "title": "Yangel vuelve a jugar 106 días después",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2b3bbe4b-c56e-4669-85e5-3382e3675c1c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "jugar",
+            "dias",
+            "yangel",
+            "106",
+            "vuelve"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/02/08/yangel-vuelve-jugar-106-dias-10672927.html",
+        "date": "2026-02-08 00:22:18",
+        "sentiment_score": 0.12985901534557343
+    },
+    {
+        "title": "07 FEB 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/07-feb-2026-tramo-final-juego-20260208_3303349.html",
+        "date": "2026-02-08 00:15:00",
+        "sentiment_score": 0.17759084701538086
+    },
+    {
+        "title": "Lista para jugar en las 'grandes ligas' de la fotónica: así acelera Wooptix, la primera inversión de la SETT, un año después",
+        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744119388_261294068_1706x960.jpg",
+        "tags": [
+            "tecnología",
+            "microelectrónica",
+            "emprendedores",
+            "startups",
+            "wake up spain",
+            "startup"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20260208/lista-jugar-grandes-ligas-fotonica-acelera-wooptix-primera-inversion-sett-ano-despues/1003744119354_0.html",
+        "date": "2026-02-08 02:10:02",
+        "sentiment_score": 0.5273264199495316
+    },
+    {
+        "title": "Aragón vota sin alegría",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "aragon",
+            "vota",
+            "alegria"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/aragon-vota-alegria_0_2005843336.html",
+        "date": "2026-02-08 02:09:12",
+        "sentiment_score": -0.1667487919330597
+    },
+    {
+        "title": "Aragón vota sin alegría",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "alegria",
+            "aragon",
+            "vota"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/aragon-vota-alegria_0_2005843321.html",
+        "date": "2026-02-08 02:09:06",
+        "sentiment_score": -0.45869968831539154
+    },
+    {
+        "title": "Algeciras es un teatro para malhechores",
+        "image_url": "https://static.grupojoly.com/clip/fa9aced1-73a6-48bd-9760-9149096e70c0_source-aspect-ratio_default_0_x982y0.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/algeciras/algeciras-teatro-malhechores_0_2005826680.html",
+        "date": "2026-02-08 01:45:25",
+        "sentiment_score": -0.8965080417692661
     }
 ];
