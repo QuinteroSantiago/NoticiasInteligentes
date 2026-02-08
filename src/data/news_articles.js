@@ -1,396 +1,5 @@
 export default [
     {
-        "title": "El Barcelona, a semifinales con susto final en Albacete (1-2)",
-        "image_url": "https://static.grupojoly.com/clip/8f877014-f4b6-46ca-a0f9-cf39d02b1058_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "susto",
-            "semifinales",
-            "albacete",
-            "barcelona",
-            "final"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/barcelona-semifinales-susto-final-albacete_0_2005809068.html",
-        "date": "2026-02-03 22:36:41",
-        "sentiment_score": 0.6335257962346077
-    },
-    {
-        "title": "Una canasta final de Grant amarga al Madrid en Atenas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f2e83ae2-8bb6-401c-8630-adb93e23f16a_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.levante-emv.com/deportes/2026/02/03/canasta-final-grant-amarga-madrid-126420619.html",
-        "date": "2026-02-03 22:35:33",
-        "sentiment_score": 0.6642137318849564
-    },
-    {
-        "title": "El Barça despierta a un gran Albacete del sueño copero",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/02/03/2026020323172864159.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/deportes/barca-despierta-gran-albacete-sueno-copero/20260203233124440363.html",
-        "date": "2026-02-03 22:31:24",
-        "sentiment_score": 0.2091561257839203
-    },
-    {
-        "title": "El área metropolitana de Barcelona cierra un 2025 negro: 47 personas perdieron la vida en su trabajo",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/05/02/sucesos/1003742654233_14521546_1706x960.jpg",
-        "tags": [
-            "sindicatos",
-            "empleo",
-            "gran barcelona",
-            "accidentes",
-            "trabajadores",
-            "seguridad",
-            "precariedad laboral"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260203/area-metropolitana-barcelona-cierra-negro-personas-perdieron-vida-trabajo/1003742728701_0.html",
-        "date": "2026-02-03 22:30:00",
-        "sentiment_score": -0.779644712805748
-    },
-    {
-        "title": "El Barça no falla en Albacete y sigue en modo aspirante a todo",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/03/2026020323291640449.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/barca-falla-albacete-sigue-modo-aspirante-todo/20260203232950373277.html",
-        "date": "2026-02-03 22:29:50",
-        "sentiment_score": 0.5463902503252029
-    },
-    {
-        "title": "Lamine Yamal y Ronald Araujo encaminaron al Barcelona a semifinales de la Copa del Rey",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/ff7c0ef2ac6f564d4985a53a907f335ed8a94f40w.jpg",
-        "tags": [
-            "copa del rey",
-            "clasificacion",
-            "titulares",
-            "semifinales",
-            "barcelona",
-            "victoria",
-            "deportes"
-        ],
-        "link": "https://lapatilla.com/2026/02/03/lamine-yamal-y-ronald-araujo-encaminaron-al-barcelona-a-semifinales-de-la-copa-del-rey/",
-        "date": "2026-02-03 22:25:46",
-        "sentiment_score": 0.36461105197668076
-    },
-    {
-        "title": "Flick no se conforma: «Tenemos que definir mejor»",
-        "image_url": "https://okdiario.com/img/2026/02/03/imagen_recortada.jpg",
-        "tags": [
-            "fc barcelona",
-            "copa del rey",
-            "barcelona",
-            "albacete balompié",
-            "deportes",
-            "hansi flick"
-        ],
-        "link": "https://okdiario.com/deportes/flick-no-conforma-tenemos-que-definir-mejor-16185625",
-        "date": "2026-02-03 22:24:55",
-        "sentiment_score": 0.18369442224502563
-    },
-    {
-        "title": "Resumen Albacete-Barcelona: A semifinales con sufrimiento final (1-2)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/03/image-05c0ce68-744c-4497-96a9-6c3c9f87506e-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.eurosport.es/futbol/copa-del-rey/2025-2026/copa-del-rey-2025-2026-albacete-barcelona-video-resumen-resultado-goles-mejores-momentos-cuartos-de-final-hoy_vid60052309/video.shtml",
-        "date": "2026-02-03 22:24:12",
-        "sentiment_score": 0.17815136909484863
-    },
-    {
-        "title": "El Barcelona esquiva otro 'albacetazo'",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/20b5fb70-de57-4c7d-a93b24ee85497f73.jpg",
-        "tags": [
-            "lamine yamal",
-            "ronald araujo",
-            "frenkie de jong",
-            "dani olmo",
-            "fc barcelona",
-            "hansi flick",
-            "real madrid",
-            "estadio carlos belmonte",
-            "robert lewandowski",
-            "ferran torres",
-            "albacete balompié"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z9de53ac2-df40-4fe5-a6f8ff48fe33d312/202602/el-barca-esquiva-otro-albacetazo",
-        "date": "2026-02-03 22:22:51",
-        "sentiment_score": 0.737810805439949
-    },
-    {
-        "title": "Panam Sports confirma cambio de fecha para los Juegos Panamericanos Lima 2027 por la saturación del calendario deportivo",
-        "image_url": "https://www.infobae.com/resizer/v2/FQS5MJDUPRCLJNUZXWCZ64CUUQ.jpg?auth=9f5756fe5ab4720488912a6e7fc8ea81382c2923d0b3383e7f650421f26c28c5&height=1080&smart=true&width=1920",
-        "tags": [
-            "juegos panamericanos lima 2027",
-            "juegos panamericanos",
-            "peru-deportes"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2026/02/03/panam-sports-confirma-cambio-de-fecha-para-los-juegos-panamericanos-lima-2027-por-la-saturacion-del-calendario-deportivo/",
-        "date": "2026-02-03 22:20:43",
-        "sentiment_score": 0.08490723744034767
-    },
-    {
-        "title": "El Albacete rozó el milagro en el descuento: así fueron los últimos minutos de vértigo para el Barcelona",
-        "image_url": "https://okdiario.com/img/2026/02/03/imagen_recortada-2026-02-03t231911.340.jpg",
-        "tags": [
-            "fútbol",
-            "fc barcelona",
-            "copa del rey",
-            "barcelona",
-            "albacete balompié",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/albacete-rozo-milagro-descuento-asi-fueron-ultimos-minutos-vertigo-barcelona-16185553",
-        "date": "2026-02-03 22:19:54",
-        "sentiment_score": 0.3835098594427109
-    },
-    {
-        "title": "Así son las becas en línea del Miami Institute para artistas colombianos: formación internacional en arte y audiovisual",
-        "image_url": "https://www.infobae.com/resizer/v2/7NLCY7MT35G4DMWPPQC2DJ7CXQ.webp?auth=c6e502e128e1880c01d44bbbfc979a34e8996d51c11250454ee96024874f4e31&height=333&smart=true&width=500",
-        "tags": [
-            "miami",
-            "becas icetex",
-            "miami institute",
-            "colombia-servicios",
-            "formación online",
-            "becas para colombianos",
-            "colombia-noticias",
-            "becas audiovisuales"
-        ],
-        "link": "https://www.infobae.com/colombia/2026/02/04/asi-son-las-becas-en-linea-del-miami-institute-para-artistas-colombianos-formacion-internacional-en-arte-y-audiovisual/",
-        "date": "2026-02-04 02:26:35",
-        "sentiment_score": 0.03961681202054024
-    },
-    {
-        "title": "Yamal anota y Barcelona vence a Albacete para avanzar a semifinales de la Copa",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/4ec47f0/2147483647/strip/true/crop/2360x1239+0+168/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fba%2F7c%2F71a8b820493f8f9a0d51f58ea0e7%2F5cad1d459fd44fe68f67cd91d1425f57.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-03/yamal-anota-y-barcelona-vence-albacete-para-avanzar-semifinales-de-la-copa",
-        "date": "2026-02-04 02:21:43",
-        "sentiment_score": 0.16062146425247192
-    },
-    {
-        "title": "Educación actualiza el acceso a la Inspección con preguntas breves de todo el temario",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/03/educacion-actualiza-el-acceso-a-la-inspeccion-con-preguntas-breves-de-todo-el-temario/",
-        "date": "2026-02-04 02:16:32",
-        "sentiment_score": 0.32977936789393425
-    },
-    {
-        "title": "El Atlético de Madrid se refuerza con Obed Vargas y Ademola Lookman en el cierre del mercado",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/2179733/2147483647/strip/true/crop/3562x1870+0+252/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fea%2Fb8%2F825ed59d43c89e904014ce19a80b%2Fb1b471367cff421287b51d02231f5119.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-03/el-atletico-de-madrid-se-refuerza-con-obed-vargas-y-ademola-lookman-en-el-cierre-del-mercado",
-        "date": "2026-02-04 01:41:29",
-        "sentiment_score": 0.059983886778354645
-    },
-    {
-        "title": "España quiere ser protagonista de la defensa europea gracias a un mayor músculo industrial, inversión sostenida y talento",
-        "image_url": "https://s3.elespanol.com/2026/02/03/actualidad/1003744115502_261240490_1706x960.jpg",
-        "tags": [
-            "psoe (partido socialista obrero español)",
-            "defensa - política de defensa",
-            "i observatorio de defensa (2026)",
-            "sumar",
-            "partido popular (pp)",
-            "indra"
-        ],
-        "link": "https://www.elespanol.com/eventos/2026/observatorio-defensa/20260204/espana-quiere-protagonista-defensa-europea-gracias-mayor-musculo-industrial-inversion-sostenida-talento/1003744115391_0.html",
-        "date": "2026-02-04 01:28:34",
-        "sentiment_score": 0.5764260925352573
-    },
-    {
-        "title": "La vida alegre de Santos Cerdán en libertad provisional en Milagro: de la cárcel al casino y a cenar fuera a diario",
-        "image_url": "https://s3.elespanol.com/2026/02/03/actualidad/1003744115603_261241797_1706x960.jpg",
-        "tags": [
-            "psoe (partido socialista obrero español)",
-            "corrupción",
-            "navarra",
-            "santos cerdán",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260204/vida-alegre-santos-cerdan-libertad-provisional-milagro-carcel-casino-cenar-diario/1003744115437_0.html",
-        "date": "2026-02-04 01:16:11",
-        "sentiment_score": -0.6684234701097012
-    },
-    {
-        "title": "Cuando el salario mínimo no llega al bolsillo",
-        "image_url": "https://s3.elespanol.com/2025/12/09/actualidad/1003744048554_260392918_1706x960.jpg",
-        "tags": [
-            "opinión",
-            "ugt",
-            "tribunas",
-            "tribunas de opinión",
-            "smi (salario mínimo interprofesional)"
-        ],
-        "link": "https://www.elespanol.com/opinion/tribunas/20260204/salario-minimo-no-llega-bolsillo/1003744115362_12.html",
-        "date": "2026-02-04 01:08:24",
-        "sentiment_score": -0.436231404542923
-    },
-    {
-        "title": "Real Madrid estaría pensando en pagar 100 millones de euros por este campeón del mundo",
-        "image_url": "https://pxcdn.meridiano.net/022026/1770166817856.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/real-madrid-estaria-pensando-en-pagar-100-millones-de-euros-por-este-campeon-del-mundo-2026232100",
-        "date": "2026-02-04 01:00:00",
-        "sentiment_score": 0.27376309037208557
-    },
-    {
-        "title": "Casi 1.000 menores han sido reubicados a la península \"sin ningún problema de convivencia\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/03/casi-1000-menores-han-sido-reubicados-a-la-peninsula-sin-ningun-problema-de-convivencia/",
-        "date": "2026-02-04 00:30:53",
-        "sentiment_score": -0.009775370359420776
-    },
-    {
-        "title": "Lola Lasurt baila las noticias espeluznantes de la época de la Covid en el Centro CondeDuque de Madrid",
-        "image_url": "https://s3.elespanol.com/2026/01/26/actualidad/1003744104818_261105201_1706x960.jpg",
-        "tags": [
-            "madrid",
-            "centro cultural conde duque",
-            "ec-critica-arte",
-            "exposiciones",
-            "arte"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/arte/20260204/lola-lasurt-baila-noticias-espeluznantes-epoca-covid-centro-condeduque-madrid/1003744104797_0.html",
-        "date": "2026-02-04 00:14:46",
-        "sentiment_score": 0.7431747242808342
-    },
-    {
-        "title": "El ferrocarril español, al límite: crisis operativa, accidentes mortales y el pulso con Puente",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/23/2025072319101225177.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.mundiario.com/articulo/sociedad/ferrocarril-espanol-limite-crisis-operativa-accidentes-mortales-pulso-puentea/20260204031613373297.html",
-        "date": "2026-02-04 02:16:13",
-        "sentiment_score": -0.9165715640410781
-    },
-    {
-        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 4 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima en españa",
-            "clima",
-            "clima en barcelona",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/04/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-4-de-febrero/",
-        "date": "2026-02-04 02:15:41",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "El socio de Plus Ultra en Guinea transportó un contenedor lleno de armas desde Algeciras con un permiso especial de Aduanas",
-        "image_url": "https://s3.elespanol.com/2026/02/03/actualidad/1003744115712_261243165_1706x960.jpg",
-        "tags": [
-            "tribunales",
-            "guinea ecuatorial",
-            "periodismo de investigación",
-            "josé luis ábalos",
-            "teodoro obiang nguema",
-            "udef",
-            "plus ultra líneas aéreas",
-            "koldo garcía izaguirre",
-            "gobierno de españa",
-            "caso koldo"
-        ],
-        "link": "https://www.elespanol.com/espana/tribunales/20260204/socio-plus-ultra-guinea-transporto-contenedor-lleno-armas-algeciras-permiso-especial-aduanas/1003744098489_0.html",
-        "date": "2026-02-04 02:09:51",
-        "sentiment_score": -0.6322464570403099
-    },
-    {
-        "title": "El AVE nunca fue socialmente rentable: estaba escrito",
-        "image_url": "https://s3.elespanol.com/2025/01/21/actualidad/918168601_252489921_1706x960.jpg",
-        "tags": [
-            "opinión",
-            "tecnología",
-            "innovación",
-            "columnas de opinión",
-            "ave"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/opinion/20260204/ave-nunca-socialmente-rentable-escrito/1003744113174_13.html",
-        "date": "2026-02-04 02:06:55",
-        "sentiment_score": -0.4687884636223316
-    },
-    {
-        "title": "Una provincia aislada",
-        "image_url": "https://static.grupojoly.com/clip/f35d753c-21a7-43c6-9615-858f39a8648a_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "provincia",
-            "aislada"
-        ],
-        "link": "https://www.diariodecadiz.es/opinion/articulos/provincia-aislada_0_2005809421.html",
-        "date": "2026-02-04 02:05:26",
-        "sentiment_score": -0.8336928375065327
-    },
-    {
-        "title": "El ranking de les meyores universidaes d'Europa dexa a la d'Uviéu nesta posición: meyoró, pero hai 24 españoles perriba",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1340ef7c-8594-4257-a11e-f3ac27dae868_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "europa",
-            "universidad de oviedo",
-            "universidad",
-            "barcelona"
-        ],
-        "link": "https://www.lne.es/asturias/n-asturianu/2026/02/04/ranking-les-meyores-universidaes-deuropa-126336058.html",
-        "date": "2026-02-04 02:05:25",
-        "sentiment_score": -0.19854611158370972
-    },
-    {
-        "title": "Puente admite el descontrol ferroviario y pide disculpas, pero resiste la ofensiva del PP tras Adamuz",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/04/2026020403105935753.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.mundiario.com/articulo/politica/puente-admite-descontrol-ferroviario-pide-disculpas-resiste-ofensiva-pp-adamuz/20260204022845373292.html",
-        "date": "2026-02-04 01:28:45",
-        "sentiment_score": -0.891306004486978
-    },
-    {
-        "title": "Ter Stegen podría volver a Barcelona antes de lo esperado por esta sensible razón",
-        "image_url": "https://pxcdn.meridiano.net/022026/1770165649229.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/ter-stegen-podria-volver-a-barcelona-antes-de-lo-esperado-por-esta-sensible-razon-20262321220",
-        "date": "2026-02-04 01:22:00",
-        "sentiment_score": 0.018704883754253387
-    },
-    {
-        "title": "Adif, en el centro del caos ferroviario: las incidencias en las vías aumentan un 7% en sólo una semana",
-        "image_url": "https://s3.elespanol.com/2026/02/03/actualidad/1003744114733_261230917_1706x960.jpg",
-        "tags": [
-            "estación de atocha",
-            "adif",
-            "accidentes",
-            "observatorio de la movilidad",
-            "renfe",
-            "accidentes de tren"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20260204/adif-centro-caos-ferroviario-incidencias-vias-aumentan-solo-semana/1003744114650_0.html",
-        "date": "2026-02-04 01:17:41",
-        "sentiment_score": -0.023928165435791016
-    },
-    {
         "title": "Un informe revela que el Parlamento incumple la Constitución al actuar como «simple buzón» de las peticiones ciudadanas",
         "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260204070249.jpg?fit=1920%2C1081&ssl=1",
         "tags": [
@@ -3077,5 +2686,162 @@ export default [
         "link": "https://www.20minutos.es/gastronomia/restaurantes/restaurante-carretera-conquista-esquiadores-cocina-tradicional-catalana-casera-cerca-andorra_6928459_0.html",
         "date": "2026-02-07 06:00:00",
         "sentiment_score": -0.0027537792921066284
+    },
+    {
+        "title": "Yamal se redime de un fallo con un gol en la victoria del líder Barcelona 3-0 sobre Mallorca",
+        "image_url": "https://dims.apnews.com/dims4/default/46dd26c/2147483647/strip/true/crop/4284x2852+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F77%2F9c%2Fe03d8fcb9a55f5b5dc02595ce804%2Fa977325afd3b46c88d127f5844fb9300",
+        "tags": [
+            "barcelona la liga mallorca sociedad",
+            "send to apple news",
+            "deportes",
+            "sports"
+        ],
+        "link": "https://apnews.com/article/barcelona-la-liga-mallorca-sociedad-cba5ed5cae2e34bacaedbac7e0174e74",
+        "date": "2026-02-07 17:42:16",
+        "sentiment_score": -0.16350485384464264
+    },
+    {
+        "title": "Yamal se redime de un fallo con un gol en la victoria del líder Barcelona 3-0 sobre Mallorca",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2026/02/ESPA209A-LIGA_74412.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2026/02/07/yamal-se-redime-de-un-fallo-con-un-gol-en-la-victoria-del-lder-barcelona-3-0-sobre-mallorca/",
+        "date": "2026-02-07 17:42:15",
+        "sentiment_score": -0.27688221633434296
+    },
+    {
+        "title": "El Barça desarma al Mallorca y sigue luciendo liderato",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2026/02/07/698778089bfb5.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/deportes/futbol/2026/02/07/barca-desarma-mallorca-sigue-luciendo-liderato-809403-31.html",
+        "date": "2026-02-07 17:38:17",
+        "sentiment_score": 0.5410788729786873
+    },
+    {
+        "title": "El Barça mete la directa al frente de la Liga",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/02/07/barcelona-mallorca-cronica-kMZG-U20575043888aLI-1200x840@RC.jpg",
+        "tags": [
+            "f.c. barcelona"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-primera/cronica-barcelona-mallorca-jornada23-primera-20260207190853-ntrc.html",
+        "date": "2026-02-07 17:35:55",
+        "sentiment_score": 0.7584112696349621
+    },
+    {
+        "title": "Atlético de Madrid – Betis: horario y canal de televisión para ver gratis en directo y en streaming el partido de Liga",
+        "image_url": "https://okdiario.com/img/2026/02/07/donde-ver-atletico-de-madrid-betis_.jpg",
+        "tags": [
+            "real betis balompié",
+            "atlético de madrid",
+            "la liga",
+            "directo",
+            "deportes"
+        ],
+        "link": "https://okdiario.com/deportes/atletico-madrid-betis-horario-canal-television-ver-gratis-directo-streaming-partido-liga-video-16205448",
+        "date": "2026-02-07 17:30:21",
+        "sentiment_score": -0.2413661628961563
+    },
+    {
+        "title": "Julen Jon Guerrero vuelve a cambiar de equipo",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5fe95f14-053e-46c6-ba45-6c06bea4c3a5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "recala",
+            "getafe",
+            "julen",
+            "jon",
+            "guerrero",
+            "filial"
+        ],
+        "link": "https://www.deia.eus/futbol/2026/02/07/julen-jon-guerrero-recala-filial-getafe-10672203.html",
+        "date": "2026-02-07 17:29:51",
+        "sentiment_score": 0.2693520337343216
+    },
+    {
+        "title": "Barcelona es el último gran equipo en abandonar el proyecto de la Superliga Europea",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/02/BARCELONA_SUPER_LIGA_03064.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2026/02/07/barcelona-es-el-ltimo-gran-equipo-en-abandonar-el-proyecto-de-la-superliga-europea/",
+        "date": "2026-02-07 17:29:13",
+        "sentiment_score": -0.023115873336791992
+    },
+    {
+        "title": "8.000 personas se manifiestan en Barcelona por Rodalies, 30.000 según convocantes",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260207185303_120.jpg",
+        "tags": [
+            "vídeos"
+        ],
+        "link": "https://www.europapress.es/videos/video-8000-personas-manifiestan-barcelona-rodalies-30000-convocantes-20260207185303.html",
+        "date": "2026-02-07 17:53:03",
+        "sentiment_score": -0.22364625334739685
+    },
+    {
+        "title": "Manifestación en Barcelona por el caos ferroviario: \"El colapso de Rodalies son horas perdidas de nuestras vidas\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/c5ec876da0e694d95968b36a655485c8/crop/102x26/940x867/f/image/jpeg/assets/multimedia/imagenes/2023/04/17/16817425449512.jpg",
+        "tags": [
+            "renfe",
+            "política",
+            "artículos gerard melgar",
+            "rodalíes",
+            "barcelona"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2026/02/07/69876cf5fc6c83b4788b458f.html",
+        "date": "2026-02-07 17:51:54",
+        "sentiment_score": -0.8072795122861862
+    },
+    {
+        "title": "Rodalies retoma el servicio de la R13, R14, y RT1, que usan unos 4.000 viajeros al día",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/07/rodalies-retoma-el-servicio-de-la-r13-r14-y-rt1-que-usan-unos-4000-viajeros-al-dia/",
+        "date": "2026-02-07 17:49:42",
+        "sentiment_score": 0.18536704033613205
+    },
+    {
+        "title": "ERC, Junts, Comuns y la CUP exigen soluciones a las deficiencias de Rodalies",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/07/erc-junts-comuns-y-la-cup-exigen-soluciones-a-las-deficiencias-de-rodalies/",
+        "date": "2026-02-07 17:49:09",
+        "sentiment_score": -0.331242673099041
+    },
+    {
+        "title": "Marc Casadó: \"Sabíamos que el Mallorca iba a ser un equipo difícil\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/07/marc-casado-sabiamos-que-el-mallorca-iba-a-ser-un-equipo-dificil/",
+        "date": "2026-02-07 17:47:26",
+        "sentiment_score": -0.6372144035995007
+    },
+    {
+        "title": "Liceo-Barcelona: un nuevo clásico al calor de Riazor",
+        "image_url": "https://cflvdg.avoz.es/sc/O9vXAGGRhq0dW2zJGFz_k8-ygnk=/768x/2026/02/07/00121770483241374209688/Foto/H_20251106_225813000.jpg",
+        "tags": [
+            "deportes",
+            "hc liceo"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/02/07/liceo-barcelona-nuevo-clasico-calor-riazor/00031770485854666587822.htm",
+        "date": "2026-02-07 17:45:00",
+        "sentiment_score": 0.711695671081543
+    },
+    {
+        "title": "\"Nos hacen falta 30.000 profesionales para continuar dando servicio, además, la edad media de los que están en activo está en 55 años\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2026/02/05/6983d9f2ae087.jpeg",
+        "tags": [
+            "clases de economía"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/clases-de-economia/audios/falta-30-000-profesionales-continuar-dando-servicio-edad-media-activo-55-anos-20260207_3301371.html",
+        "date": "2026-02-07 17:39:06",
+        "sentiment_score": -0.17687608301639557
     }
 ];
