@@ -1,62 +1,5 @@
 export default [
     {
-        "title": "Adif recibió 4.350 millones de fondos europeos, casi lo mismo que el resto de grandes perceptores juntos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6baffb44-5a21-4b1c-b1cb-ed6208ed93e8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tren,ferroviario,infraestructuras,adif,fondos europeos"
-        ],
-        "link": "https://www.laopiniondezamora.es/economia/2026/02/05/adif-fondos-europeos-126464782.html",
-        "date": "2026-02-05 06:53:01",
-        "sentiment_score": -0.10625632107257843
-    },
-    {
-        "title": "¿Puede Trent Alexander-Arnold cambiar el rumbo del equipo del Madrid de Arbeloa?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/24/2025112411331099388.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/puede-trent-alexander-arnold-cambiar-rumbo-equipo-madrid-arbeloa/20260205075149373493.html",
-        "date": "2026-02-05 06:51:49",
-        "sentiment_score": 0.12539315968751907
-    },
-    {
-        "title": "Barcelona, la provincia con más operaciones contra el yihadismo: 159 terroristas detenidos desde 2012",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2d092755-2603-4506-9afc-b94c3a386415_16-9-aspect-ratio_default_0_x400y177.jpg",
-        "tags": [
-            "yihadismo",
-            "mossos d'esquadra",
-            "policía nacional",
-            "terroristas",
-            "terrorismo islámico",
-            "guardia civil"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/espana/2026/02/05/barcelona-principal-escenario-lucha-antiyihadista-126464313.html",
-        "date": "2026-02-05 06:42:52",
-        "sentiment_score": -0.6059179902076721
-    },
-    {
-        "title": "Rodalies ofrece ofrece este jueves «la misma oferta ferroviaria» que el miércoles",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260205075500.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/rodalies-ofrece-ofrece-este-jueves-la-misma-oferta-ferroviaria-que-el-mircoles/",
-        "date": "2026-02-05 07:00:06",
-        "sentiment_score": 0.17196373641490936
-    },
-    {
-        "title": "¿Qué ocurrió entre Jeffrey Epstein y Astrid Gil-Casares?",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/3a/media_thumb-link-4143688.webp?1770250986=",
-        "tags": [
-            "astrid gil-casares armada",
-            "epstein",
-            "actualidad"
-        ],
-        "link": "https://www.meneame.net/story/ocurrio-entre-jeffrey-epstein-astrid-gil-casares",
-        "date": "2026-02-05 08:10:03",
-        "sentiment_score": -0.8398223854601383
-    },
-    {
         "title": "Los árbitros del Unicaja - Morabanc Andorra",
         "image_url": "https://static.grupojoly.com/clip/04d9beea-3aa9-4276-862c-04040803db9d_facebook-aspect-ratio_default_0.jpg",
         "tags": [
@@ -844,18 +787,6 @@ export default [
         "link": "https://www.meneame.net/story/equipo-vox-pregunto-sobre-azcon-colocaria-tras-salir-gobierno",
         "date": "2026-02-06 14:45:03",
         "sentiment_score": 0.025513865053653717
-    },
-    {
-        "title": "¿Qué ocurrió entre Jeffrey Epstein y Astrid Gil-Casares?",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/3a/media_thumb-link-4143688.webp?1770250986=",
-        "tags": [
-            "astrid gil-casares armada",
-            "epstein",
-            "actualidad"
-        ],
-        "link": "https://www.meneame.net/story/ocurrio-entre-jeffrey-epstein-astrid-gil-casares",
-        "date": "2026-02-05 08:10:03",
-        "sentiment_score": -0.8398221172392368
     },
     {
         "title": "La publicación de Malacara en la que compara, con sarcasmo, el agua caída en Grazalema con la capacidad del Santiago Bernabéu",
@@ -2803,5 +2734,159 @@ export default [
         "link": "https://www.informe21.com/post/semana-deportiva-la-nave-turca-se-compone-gan%C3%A1ndole-a-argentina",
         "date": "2026-02-08 14:00:17",
         "sentiment_score": 0.3682019114494324
+    },
+    {
+        "title": "Las fotos del Valencia-Real Madrid",
+        "image_url": "https://static.grupojoly.com/clip/b29a4c51-ea0a-48f9-bb5a-ec942bf9e6f2_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "laliga",
+            "real madrid"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/fotos-valencia-real-madrid_3_2005850867.html",
+        "date": "2026-02-08 22:43:16",
+        "sentiment_score": 0.22897198796272278
+    },
+    {
+        "title": "Azcón celebra la victoria \"clara, nítida e inequívoca\": \"Sólo el PP puede gobernar\"",
+        "image_url": "https://static.grupojoly.com/clip/2e681931-7e06-43e9-9e99-f5e0007b66ac_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "azcon",
+            "clara",
+            "victoria",
+            "nitida",
+            "celebra"
+        ],
+        "link": "https://www.diariodejerez.es/espana/azcon-celebra-victoria-clara-nitida_0_2005850918.html",
+        "date": "2026-02-08 22:40:28",
+        "sentiment_score": 0.41882166266441345
+    },
+    {
+        "title": "¿Escándalo en el VAR? La imagen sospechosa que desata la frustración del Atleti",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/08/2026020823351442175.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/fuera-juego-puntera-frame-sospechoso-polemico-gol-anulado-atletico/20260208233635373948.html",
+        "date": "2026-02-08 22:36:35",
+        "sentiment_score": -0.6548616159707308
+    },
+    {
+        "title": "El Madrid hurga en la herida de Corberán",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/02/08/69890b97a9f4b.r_d.1813-296-4479.jpeg",
+        "tags": [
+            "deportes cope valencia"
+        ],
+        "link": "https://www.cope.es/emisoras/comunidad-valenciana/valencia-provincia/valencia/deportes-cope-valencia/noticias/madrid-hurga-herida-corberan-20260208_3303537.html",
+        "date": "2026-02-08 22:32:10",
+        "sentiment_score": -0.0509793758392334
+    },
+    {
+        "title": "El Surne Bilbao se instala en su tercera mejor racha de todos los tiempos",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2026/02/08/1506589318-kAqC--758x531@El%20Correo.jpg",
+        "tags": [
+            "miribilla",
+            "liga acb",
+            "tyggvi hlinason",
+            "jaume ponsarnau",
+            "bilbao basket",
+            "baskonia"
+        ],
+        "link": "https://www.elcorreo.com/bilbaobasket/surne-bilbao-instala-tercera-mejor-racha-tiempos-20260208205708-nt.html",
+        "date": "2026-02-08 22:31:11",
+        "sentiment_score": 0.38142241537570953
+    },
+    {
+        "title": "Crónica del Valencia CF - Real Madrid, 0-2",
+        "image_url": "https://www.infobae.com/resizer/v2/6ROUOLAO5VB67E7RI22C6DSR5U.jpg?auth=d15e018fce90b6a269566b6142b348b4c31b51088931d41b0d3c4ed99747ac18&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/08/cronica-del-valencia-cf-real-madrid-0-2/",
+        "date": "2026-02-08 22:30:37",
+        "sentiment_score": -0.09412254393100739
+    },
+    {
+        "title": "Vox dobla sus escaños ante el hundimiento del PSOE",
+        "image_url": "https://static.grupojoly.com/clip/f0f25f07-722e-49f2-aa86-64fd24897b7f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "hundimiento",
+            "vox",
+            "psoe",
+            "dobla",
+            "escanos"
+        ],
+        "link": "https://www.diariodejerez.es/espana/vox-dobla-escanos-hundimiento-psoe_0_2005850747.html",
+        "date": "2026-02-08 22:30:35",
+        "sentiment_score": -0.9400777202099562
+    },
+    {
+        "title": "El Real Madrid gana al Valencia con orden y pegada",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/08/valencia-realmadrid-cronica-knFD-U20575111602Db-1200x840@RC.jpg",
+        "tags": [
+            "real madrid",
+            "valencia club de fútbol"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/cronica-valencia-realmadrid-jornada23-primera-20260208191245-ntrc.html",
+        "date": "2026-02-08 22:30:10",
+        "sentiment_score": 0.8194185644388199
+    },
+    {
+        "title": "Funeral en el PAR: \"Ahora que la gente aplauda cuando llegue el trasvase\"",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/02/08/2026020823272331263.jpg",
+        "tags": [
+            "elecciones de aragón 2026"
+        ],
+        "link": "https://www.aragondigital.es/articulo/elecciones-aragon-2026/funeral-par-ahora-que-gente-aplauda-cuando-llegue-trasvase/20260208233003965880.html",
+        "date": "2026-02-08 22:30:03",
+        "sentiment_score": -0.8827120792120695
+    },
+    {
+        "title": "La revolución cultural de los creadores de Mystery Man",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2026/02/06/mysteri.jpg",
+        "tags": [
+            "granada capital europea de la cultura 2031",
+            "montillana",
+            "granada (provincia)",
+            "catedral de granada"
+        ],
+        "link": "https://www.ideal.es/economia/factoria-de-empresas/revolucion-cultural-creadores-mystery-man-20260209105239-nt.html",
+        "date": "2026-02-08 22:50:48",
+        "sentiment_score": 0.8206060323864222
+    },
+    {
+        "title": "Santa Coloma proyecta el 'Besòs Central': la metamorfosis del Molinet y Safaretjos para liderar el norte metropolitano",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/11/24/gran-barcelona/903669680_13767164_1706x960.png",
+        "tags": [
+            "mireia gonzález",
+            "santa coloma de gramenet",
+            "besòs",
+            "gran barcelona",
+            "urbanismo"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260208/santa-coloma-proyecta-besos-central-metamorfosis-molinet-safaretjos-liderar-norte-metropolitano/1003742728966_0.html",
+        "date": "2026-02-08 22:30:00",
+        "sentiment_score": 0.4673066511750221
+    },
+    {
+        "title": "LaLiga: Real Madrid gana un sufrido partido a Valencia y se mantiene cerca de Barcelona",
+        "image_url": "https://pxcdn.meridiano.net/022026/1770588614502.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/laliga-valencia-vs-real-madrid-por-la-fecha-23-en-vivo-20262815470",
+        "date": "2026-02-08 22:30:00",
+        "sentiment_score": 0.30210021138191223
+    },
+    {
+        "title": "Resumen Valencia-Real Madrid: Victoria sin brillo ante un rival tocado (0-2)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/08/image-43f64833-a831-4bd4-887b-05627a800416-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/valencnia-real-madrid-video-resumen-resultado-goles-mejores-momentos_vid60053844/video.shtml",
+        "date": "2026-02-08 22:26:24",
+        "sentiment_score": -0.870715232565999
     }
 ];
