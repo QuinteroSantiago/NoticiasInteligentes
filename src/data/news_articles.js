@@ -1,248 +1,5 @@
 export default [
     {
-        "title": "Los árbitros del Unicaja - Morabanc Andorra",
-        "image_url": "https://static.grupojoly.com/clip/04d9beea-3aa9-4276-862c-04040803db9d_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unicaja baloncesto"
-        ],
-        "link": "https://www.malagahoy.es/unicaja/arbitros-unicaja-morabanc-andorra_0_2005824954.html",
-        "date": "2026-02-05 17:40:49",
-        "sentiment_score": 0.19076506793498993
-    },
-    {
-        "title": "Un herido muy grave en una explosión de gas en Usera",
-        "image_url": "https://s1.staticld.com/2026/02/05/explosion-usera.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.libertaddigital.com/madrid/2026-02-05/explosion-de-gas-en-usera-un-hombre-de-52-anos-con-quemaduras-de-segundo-y-tercer-grado-7355053/",
-        "date": "2026-02-05 17:38:50",
-        "sentiment_score": -0.7864626310765743
-    },
-    {
-        "title": "Y el domingo en Mestalla, un Real Madrid al límite",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/495e8a86-1708-4278-bbd4-d3e7a42c9a93_16-9-aspect-ratio_default_0_x450y199.jpg",
-        "tags": [
-            "valencia,mestalla,madrid,real madrid,la liga,vinicius jr,jude bellingham,kylian mbappé,álvaro arbeloa,florentino pérez,liga,dudas,descenso,fc barcelona,entrenador,arda güler,fede valverde"
-        ],
-        "link": "https://www.superdeporte.es/valencia-cf/2026/02/05/domingo-mestalla-real-madrid-limite-126491710.html",
-        "date": "2026-02-05 17:35:06",
-        "sentiment_score": -0.25466570258140564
-    },
-    {
-        "title": "La mala racha de resultados que el Villarreal quiere romper",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/710459e7-6398-42c5-af82-5f2d3ea8e4c6_16-9-aspect-ratio_default_0_x600y234.jpg",
-        "tags": [
-            "villarreal cf,villarreal,marcelino garcía toral,laliga,champions league,copa del rey,partidos,futbol,competición,barcelona,real madrid,goles,espanyol,levante ud,valencia cf,aficionado,la cerámica,betis,osasuna,racing de santander"
-        ],
-        "link": "https://www.superdeporte.es/villarreal-cf/2026/02/05/mala-racha-resultados-villarreal-quiere-marcelino-laliga-champions-league-126486382.html",
-        "date": "2026-02-05 17:34:46",
-        "sentiment_score": 0.3972630649805069
-    },
-    {
-        "title": "El Instituto Coordenadas señala a las entidades que impulsan el avance oncológico en España",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/A1-1412688068-2-1200x675.jpg",
-        "tags": [
-            "servimedia",
-            "lom",
-            "actualidad"
-        ],
-        "link": "https://theobjective.com/actualidad/2026-02-05/el-instituto-coordenadas-avance-oncologico-espana/",
-        "date": "2026-02-05 17:32:26",
-        "sentiment_score": 0.4197356440126896
-    },
-    {
-        "title": "Quien fue 'La Chata', la protagonista del cuadro de Sorolla que ha sido recuperado tras cinco décadas desaparecido",
-        "image_url": "https://static.eldiario.es/clip/2accaec7-0d8c-417f-a632-c5b90c29ff4b_16-9-discover-aspect-ratio_default_1135907.jpg",
-        "tags": [
-            "la chata",
-            "cinco",
-            "protagonista",
-            "fue",
-            "cuadro",
-            "quien",
-            "decadas",
-            "desaparecido",
-            "pm",
-            "recuperado",
-            "sorolla"
-        ],
-        "link": "https://www.eldiario.es/spin/quien-fue-la-chata-protagonista-cuadro-sorolla-recuperado-cinco-decadas-desaparecido-pm_1_12967184.html",
-        "date": "2026-02-05 17:30:18",
-        "sentiment_score": -0.10252779722213745
-    },
-    {
-        "title": "41 datos de Cristiano Ronaldo en su cumpleaños 41: el astro portugués celebra cerca del récord de los 1.000 goles",
-        "image_url": "https://www.infobae.com/resizer/v2/U5PEMDKI6NBFDI43G2O4LHSWDM.webp?auth=a3611c9a9d61e9dc9d0ec4984cf1c3646328cd59e57cabded13dd9da6ee9c651&height=2010&smart=true&width=2680",
-        "tags": [
-            "cumpleaños de cristiano ronaldo",
-            "colombia-deportes",
-            "cristiano ronaldo",
-            "selección portugal"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/05/41-datos-de-cristiano-ronaldo-en-su-cumpleanos-41-el-astro-portugues-celebra-cerca-del-record-de-los-1000-goles/",
-        "date": "2026-02-05 17:29:02",
-        "sentiment_score": 0.685018002986908
-    },
-    {
-        "title": "Mueren dos personas al estrellarse un helicóptero durante una persecución tras un tiroteo en Arizona",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2026/02/05/ambulance-kkcB-U20550697018euG-1200x840@diario_abc.jpg",
-        "tags": [
-            "helicoptero",
-            "personas",
-            "tiroteo",
-            "persecucion",
-            "dos",
-            "arizona",
-            "estrellarse",
-            "tras",
-            "mueren"
-        ],
-        "link": "https://www.abc.es/internacional/mueren-dos-personas-estrellarse-helicoptero-persecucion-tras-20260205182318-nt.html",
-        "date": "2026-02-05 17:23:23",
-        "sentiment_score": -0.7023419663310051
-    },
-    {
-        "title": "Madrid muestra correos de la edil de Móstoles en los que habla de «discriminación laboral»",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/ayusso.jpg",
-        "tags": [
-            "isabel díaz ayuso",
-            "acoso sexual",
-            "madrid",
-            "correo electrónico",
-            "móstoles",
-            "pp (partido popular)",
-            "comunidad de madrid"
-        ],
-        "link": "https://theobjective.com/espana/madrid/2026-02-05/madrid-correos-edil-mostoles-ayuso/",
-        "date": "2026-02-05 17:19:53",
-        "sentiment_score": 0.04806078225374222
-    },
-    {
-        "title": "Ábalos y Koldo tendrán que comparecer presencialmente ante el Tribunal Supremo",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/19/47B01F4D-FF19-4197-8EC5-5BD35090A695/jose-luis-abalos-koldo-garcia_70.jpg?crop=690%2C388%2Cx0%2Cy34&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "antena 3 noticias",
-            "españa"
-        ],
-        "link": "https://www.antena3.com/noticias/espana/abalos-koldo-tendran-que-comparecer-presencialmente-tribunal-supremo_202602056984cef22f00a04688f96f08.html",
-        "date": "2026-02-05 17:10:10",
-        "sentiment_score": -0.5593506209552288
-    },
-    {
-        "title": "La Global Sumud Flotilla anuncia su misión más grande a Gaza para el 29 de marzo",
-        "image_url": "https://www.laizquierdadiario.com/IMG/logo/global_bien-ca083.jpg?1770313394=",
-        "tags": [
-            "gaza",
-            "israel",
-            "estado de israel",
-            "palestina",
-            "global sumud flotilla",
-            "franja de gaza"
-        ],
-        "link": "https://www.laizquierdadiario.com/La-Global-Sumud-Flotilla-anuncia-su-mision-mas-grande-a-Gaza-para-el-29-de-marzo",
-        "date": "2026-02-05 17:44:06",
-        "sentiment_score": 0.03891552984714508
-    },
-    {
-        "title": "Un año para impulsar la obra de Blai Bonet, Clementina Arderiu y Josep M. Castellet",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/05/6984d52eea5c2.r_d.647-245-4412.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.lavanguardia.com/cultura/20260205/11458954/homenaje-literatura-ano-blai-bonet-clementina-arderiu-josep-castellet-alcover.html",
-        "date": "2026-02-05 17:42:45",
-        "sentiment_score": 0.06347425282001495
-    },
-    {
-        "title": "La Audiencia de Madrid pide reabrir la causa por la filtración de fotos de DNI de 33 jueces soberanistas en 'La Razón'",
-        "image_url": "https://static1.ara.cat/clip/cd53429c-20be-4962-a23b-cbb84a55f488_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "soberanistas",
-            "pide",
-            "madrid",
-            "dni",
-            "reabrir",
-            "causa",
-            "filtracion",
-            "audiencia",
-            "fotos",
-            "razon",
-            "jueces",
-            "33"
-        ],
-        "link": "https://es.ara.cat/politica/audiencia-madrid-pide-reabrir-causa-filtracion-fotos-dni-33-jueces-soberanistas-razon_1_5639575.html",
-        "date": "2026-02-05 17:41:32",
-        "sentiment_score": -0.30296365171670914
-    },
-    {
-        "title": "El Hércules inaugura Can Dragó con la esperanza de dormir en play-off",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9d40931c-f234-4aa1-bc3f-b3aa1724af2c_16-9-aspect-ratio_default_0_x720y640.jpg",
-        "tags": [
-            "hércules cf",
-            "europa",
-            "hércules",
-            "estilo",
-            "goles"
-        ],
-        "link": "https://www.informacion.es/hercules-cf/2026/02/05/hercules-inaugura-can-drago-esperanza-126489845.html",
-        "date": "2026-02-05 17:40:48",
-        "sentiment_score": 0.43983812630176544
-    },
-    {
-        "title": "El hongo melena de león conquista cocinas y laboratorios por sus propiedades neuronales",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/05/6984c932aa92a.jpeg",
-        "tags": [
-            "salud y bienestar"
-        ],
-        "link": "https://www.cope.es/actualidad/salud-bienestar/noticias/hongo-melena-leon-conquista-cocinas-laboratorios-propiedades-neuronales-20260205_3302118.html",
-        "date": "2026-02-05 17:37:36",
-        "sentiment_score": -0.055370181798934937
-    },
-    {
-        "title": "La Navidad deja 4.100 millones en Madrid: suizos y estadounidenses superan los 40 € por compra, pero los madrileños lideran el gasto",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/09/69382072261c02-01279254.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.20minutos.es/madrid/navidad-trae-4-100-millones-capital-los-suizos-estadounidenses-superan-los-40e-por-compra-pero-los-madrilenos-lideran-gasto_6930572_0.html",
-        "date": "2026-02-05 17:33:00",
-        "sentiment_score": -0.49256566166877747
-    },
-    {
-        "title": "Los gastos diarios se ‘comen’ el 66% del salario, cerca de 22.000 euros al año: “En 2026, el margen para ahorrar desaparece”",
-        "image_url": "https://www.infobae.com/resizer/v2/MXACFPRJQQVCFBFYEHLBGT4ZBM.jpg?auth=594625c574939be86e0d4f3d4ed9ecbb2926ea4c83be0830ded96cf4ff698ba5&height=528&smart=true&width=800",
-        "tags": [
-            "vivienda",
-            "consumo españa",
-            "españa-noticias",
-            "precios españa",
-            "ahorro",
-            "españa-economia",
-            "alquiler"
-        ],
-        "link": "https://www.infobae.com/espana/2026/02/05/los-gastos-diarios-se-comen-el-66-del-salario-cerca-de-22000-euros-al-ano-en-2026-el-margen-para-ahorrar-desaparece/",
-        "date": "2026-02-05 17:32:44",
-        "sentiment_score": -0.8230226654559374
-    },
-    {
-        "title": "La Flotilla Global Sumud anuncia una nueva misión hacia Gaza a finales de marzo",
-        "image_url": "https://static.infolibre.es/clip/7267159f-8dd4-4458-b265-2c89446020ed_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "la invasión de gaza",
-            "israel",
-            "ayuda humanitaria",
-            "barcelona",
-            "internacional",
-            "gaza",
-            "barcos",
-            "palestina"
-        ],
-        "link": "https://www.infolibre.es/internacional/flotilla-global-sumud-anuncia-nueva-mision-gaza-finales-marzo_1_2140646.html",
-        "date": "2026-02-05 17:32:16",
-        "sentiment_score": -0.13790540397167206
-    },
-    {
         "title": "Resumen Real Madrid-Barcelona: Paseo en la casa blanca hacia semifinales (0-4)",
         "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/05/image-60b8f1fd-42e2-4966-815b-5b7ed6218d1a-85-2560-1440.jpeg",
         "tags": [
@@ -3110,5 +2867,228 @@ export default [
         "link": "https://es.ara.cat/cultura/cine/mario-casas-hablando-catalan-nuevo-discurso-eduard-sola-mejores-momentos-premios-gaudi_1_5642594.html",
         "date": "2026-02-09 00:08:14",
         "sentiment_score": 0.34544436633586884
+    },
+    {
+        "title": "La oferta de alquiler se desploma en Euskadi con una caída de más del 25%",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/236d539c-cd24-4478-8437-a2e958455f86_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "desploma",
+            "caida",
+            "euskadi",
+            "oferta",
+            "alquiler"
+        ],
+        "link": "https://www.deia.eus/economia/2026/02/09/oferta-alquiler-desploma-euskadi-caida-10676579.html",
+        "date": "2026-02-09 07:00:52",
+        "sentiment_score": -0.11127074062824249
+    },
+    {
+        "title": "Lo mejor y lo peor del Athletic-Levante",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/81874197-5461-4581-b192-37e2fa6776b4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "athletic",
+            "mejor",
+            "levante",
+            "peor"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/02/09/mejor-peor-athletic-levante-10675526.html",
+        "date": "2026-02-09 07:00:51",
+        "sentiment_score": -0.23010216653347015
+    },
+    {
+        "title": "Las disoluciones del Arma de Artillería",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/02/CANONES-ARTILLEROS-750x394.jpg",
+        "tags": [
+            "colaboraciones",
+            "opinión"
+        ],
+        "link": "https://elfarodeceuta.es/disoluciones-arma-artilleria/",
+        "date": "2026-02-09 06:31:28",
+        "sentiment_score": 0.20434772968292236
+    },
+    {
+        "title": "06:00H | 09 FEB 2026 | Herrera en COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "herrera en cope"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/06-00h-09-feb-2026-herrera-cope-20260209_3303586.html",
+        "date": "2026-02-09 06:07:00",
+        "sentiment_score": -0.18796241283416748
+    },
+    {
+        "title": "Osasuna: lo que es vivir sin Boyomo",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9692d3e9-6b1a-4f26-9e62-4d3d30ddf134_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "vivir",
+            "boyomo",
+            "osasuna"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/09/osasuna-vivir-boyomo-10675472.html",
+        "date": "2026-02-09 06:06:53",
+        "sentiment_score": -0.15472456812858582
+    },
+    {
+        "title": "El Hostal Bahía cambia de dueño",
+        "image_url": "https://static.grupojoly.com/clip/0f93fdb0-1861-433a-944a-67ee89a860be_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias cádiz",
+            "hoteles de cádiz"
+        ],
+        "link": "https://www.diariodecadiz.es/cadiz/hostal-bahia-cambia-dueno_0_2005813184.html",
+        "date": "2026-02-09 06:01:12",
+        "sentiment_score": 0.4061128683388233
+    },
+    {
+        "title": "Emprender con impacto: así es la cantera de startups de La Nave",
+        "image_url": "https://imagenes.businessinsider.es/files/image_1920_1080/uploads/imagenes/2026/02/03/6981be2f323344-53196011.jpeg",
+        "tags": [
+            "branded"
+        ],
+        "link": "https://www.businessinsider.es/bc/nave-cantera-startups_6929166_5.html",
+        "date": "2026-02-09 06:00:00",
+        "sentiment_score": 0.6063383966684341
+    },
+    {
+        "title": "\"A finales de 2025 había 23.000 viviendas a la venta con los okupas dentro y la ciudad española donde más se da este fenómeno es Girona; en la lista no está Madrid\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/10/21/68f73702f00c1.png",
+        "tags": [
+            "economía de bolsillo con pilar garcía de la granja"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/economia-de-bolsillo/noticias/finales-2025-habia-23-000-viviendas-venta-okupas-ciudad-espanola-da-fenomeno-girona-lista-madrid-20260209_3299730.html",
+        "date": "2026-02-09 05:38:05",
+        "sentiment_score": -0.12574808299541473
+    },
+    {
+        "title": "Tailandia opta por el pragmatismo y concede la victoria al conservador Bhumjaithai",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2026/02/09/tailandia-k78B-U20605786809PlG-1200x840@diario_abc.jpg",
+        "tags": [
+            "monarquía",
+            "tailandia",
+            "elecciones",
+            "uh abc",
+            "camboya",
+            "nacionalismo"
+        ],
+        "link": "https://www.abc.es/internacional/tailandia-opta-pragmatismo-concede-victoria-conservador-bhumjaithai-20260209063358-nt.html",
+        "date": "2026-02-09 05:34:00",
+        "sentiment_score": -0.04503071308135986
+    },
+    {
+        "title": "Huelga de maquinistas en Renfe: Tres trenes suspendidos en La Rioja",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/07/06/668990b7e8aa3.jpeg",
+        "tags": [
+            "logroño"
+        ],
+        "link": "https://www.cope.es/emisoras/la-rioja/la-rioja-provincia/logrono/noticias/huelga-maquinistas-renfe-tres-trenes-suspendidos-rioja-20260209_3303626.html",
+        "date": "2026-02-09 07:22:54",
+        "sentiment_score": -0.043442606925964355
+    },
+    {
+        "title": "La huelga ferroviaria avanza entre el recorte de servicios y frecuencias, a la espera de una reunión con el Ministerio de Transporte",
+        "image_url": "https://www.infobae.com/resizer/v2/HGDTSR6IYZGU3P4YOLCDZI276Y.jpeg?auth=f43c2dc3a3bffd9a63a7911cb2f81da8f3b54d493b3fdfa5eda4f19fd6942dfa&height=911&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "adif",
+            "trenes españa",
+            "óscar puente",
+            "huelgas",
+            "barcelona",
+            "españa-sociedad",
+            "sindicatos españa",
+            "renfe",
+            "ministerio de transportes",
+            "madrid",
+            "transporte"
+        ],
+        "link": "https://www.infobae.com/espana/2026/02/09/la-huelga-ferroviaria-avanza-entre-el-recorte-de-servicios-y-frecuencias-a-la-espera-de-una-reunion-con-el-ministerio-de-transporte/",
+        "date": "2026-02-09 07:22:43",
+        "sentiment_score": -0.31043846532702446
+    },
+    {
+        "title": "San Valentín 2019: catorce planes para celebrar el 14 de febrero en Madrid, Barcelona y otras ciudades",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QQGOOV4IMNEE7KSYGYMFWGXOBY.jpg?auth=78890895dd5b82389453370148beaf40c454f07d1ab198b735efbac9de9cc243&width=1200",
+        "tags": [
+            "comunidad de madrid",
+            "ocio",
+            "conciertos",
+            "jazz",
+            "madrid",
+            "agenda cultural",
+            "teatro",
+            "agenda"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-02-14/5-planes-gratis-en-madrid-del-14-al-21-de-febrero-conciertos-para-celebrar-el-amor.html",
+        "date": "2026-02-09 07:20:07",
+        "sentiment_score": 0.23691832646727562
+    },
+    {
+        "title": "Escasez de trenes en las estaciones durante las primeras horas de la huelga",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/audios/escasez-trenes-estaciones-cataluna-primeras-horas-huelga-20260209_3303623.html",
+        "date": "2026-02-09 07:19:43",
+        "sentiment_score": -0.0418950617313385
+    },
+    {
+        "title": "Huelga en Renfe: estos son los trenes de Cercanías y AVE que funcionarán en Málaga",
+        "image_url": "https://s3.elespanol.com/2022/12/23/malaga/728187620_229734248_1706x960.jpg",
+        "tags": [
+            "renfe",
+            "ministerio de transporte",
+            "movilidad y agenda urbana",
+            "málaga",
+            "málaga (provincia)"
+        ],
+        "link": "https://www.elespanol.com/malaga/20260209/huelga-renfe-trenes-cercanias-ave-funcionaran-malaga/1003744121885_0.html",
+        "date": "2026-02-09 07:18:05",
+        "sentiment_score": -0.39296308904886246
+    },
+    {
+        "title": "Arranca la huelga de trenes con 350 servicios de alta velocidad cancelados y los Cercanías al 50%",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/66b7ebde-fd15-4172-925c-2afbb71bed66_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "huelga",
+            "servicios",
+            "arranca",
+            "350",
+            "trenes"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/sociedad/2026/02/09/arranca-huelga-trenes-350-servicios-10676603.html",
+        "date": "2026-02-09 07:12:25",
+        "sentiment_score": -0.2565041407942772
+    },
+    {
+        "title": "Arranca la huelga del ferrocarril: 350 trenes de alta velocidad cancelados y Cercanías al 50%",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/huelga-trenes-alta-velocidad-cercanias.jpg",
+        "tags": [
+            "adif",
+            "ouigo",
+            "iryo",
+            "trenes",
+            "transporte",
+            "renfe",
+            "huelgas"
+        ],
+        "link": "https://theobjective.com/economia/transporte/2026-02-09/huelga-trenes-alta-velocidad-cancelados-cercanias/",
+        "date": "2026-02-09 07:11:52",
+        "sentiment_score": 0.18728524446487427
+    },
+    {
+        "title": "La huelga de maquinistas empieza con menos trenes de los previstos por los servicios mínimos",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/09/vida/1003742730827_15695637_1706x960.jpg",
+        "tags": [
+            "renfe",
+            "cataluña",
+            "rodalies",
+            "huelga",
+            "trenes",
+            "vida"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20260209/huelga-maquinistas-empieza-trenes-previstos-servicios-minimos/1003742730826_0.html",
+        "date": "2026-02-09 07:01:37",
+        "sentiment_score": -0.4391596280038357
     }
 ];
