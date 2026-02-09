@@ -2888,5 +2888,227 @@ export default [
         "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/valencnia-real-madrid-video-resumen-resultado-goles-mejores-momentos_vid60053844/video.shtml",
         "date": "2026-02-08 22:26:24",
         "sentiment_score": -0.870715232565999
+    },
+    {
+        "title": "Corberán se queda solo ante el peligro: el Valencia cae, la grada se vacía y el miedo crece",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/09/2026020903385429709.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/corberan-queda-solo-peligro-valencia-cae-grada-vacia-miedo-crece/20260209034115373990.html",
+        "date": "2026-02-09 02:41:15",
+        "sentiment_score": -0.9064058503136039
+    },
+    {
+        "title": "Pepe Tudela",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tudela",
+            "pepe"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/pepe-tudela_0_2005853028.html",
+        "date": "2026-02-09 02:08:51",
+        "sentiment_score": 0.005239605903625488
+    },
+    {
+        "title": "Cecilia, la directora del mejor colegio de Madrid, con 1.317 alumnos: \"Hay que conocer el nombre de alumnos y padres\"",
+        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744119326_261302243_1706x960.jpg",
+        "tags": [
+            "sociedad",
+            "comunidad de madrid",
+            "madrid",
+            "colegios",
+            "educación"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20260209/cecilia-directora-mejor-colegio-madrid-alumnos-conocer-nombre-padres/1003744118609_0.html",
+        "date": "2026-02-09 01:48:41",
+        "sentiment_score": 0.6941849328577518
+    },
+    {
+        "title": "Grandes empresas animan al Rey a visitar a Trump tras la llegada de su nuevo embajador pero el viaje depende del aval de Sánchez",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/80283fe1561e3ee4af600d95e3ffac69/crop/752x0/2795x2048/f/image/jpeg/assets/multimedia/imagenes/2023/11/25/17009128717476.jpg",
+        "tags": [
+            "artículos carlos segovia"
+        ],
+        "link": "https://www.elmundo.es/economia/2026/02/09/6988d32ffc6c837b5f8b457c.html",
+        "date": "2026-02-09 01:40:38",
+        "sentiment_score": 0.4223257601261139
+    },
+    {
+        "title": "08 FEB 2026 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/08-feb-2026-tertulion-domingos-20260209_3303576.html",
+        "date": "2026-02-09 00:55:21",
+        "sentiment_score": 0.19371920824050903
+    },
+    {
+        "title": "La precarización se asoma al transporte sanitario: los salarios bajos y congelados se suman a las ambulancias obsoletas",
+        "image_url": "https://s3.elespanol.com/2026/02/07/actualidad/1003744120814_261307145_1706x960.jpg",
+        "tags": [
+            "sanidad - profesiones",
+            "transporte por carretera",
+            "observatorio de la sanidad",
+            "transporte público"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260209/precarizacion-asoma-transporte-sanitario-salarios-bajos-congelados-suman-ambulancias-obsoletas/1003744120302_0.html",
+        "date": "2026-02-09 00:43:39",
+        "sentiment_score": -0.8528876509517431
+    },
+    {
+        "title": "¿Por qué David Jiménez desplazó a Carvajal y a Trent Alexander-Arnold ante el Valencia?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/09/2026020901404581581.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/que-david-jimenez-desplazo-carvajal-trent-alexander-arnold-valencia/20260209014059373973.html",
+        "date": "2026-02-09 00:40:59",
+        "sentiment_score": 0.776547085493803
+    },
+    {
+        "title": "Profesionales colombianos podrán postularse a becas que cubren hasta el 60% en maestrías de alta demanda en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/HADAOMQOLBB3XOSOA6LFHMNMJM.jpg?auth=47ac7562878e2c96d97011bb0aaf0029e751f5e0ca631068678f3ef537fbd952&height=1080&smart=true&width=1920",
+        "tags": [
+            "becas para colombianos",
+            "eae business school barcelona",
+            "becas de maestría",
+            "colombia-noticias",
+            "becas icetex",
+            "becas en españa",
+            "colombia-servicios"
+        ],
+        "link": "https://www.infobae.com/colombia/2026/02/09/profesionales-colombianos-podran-postularse-a-becas-que-cubren-hasta-el-60-en-maestrias-de-alta-demanda-en-barcelona/",
+        "date": "2026-02-09 02:34:01",
+        "sentiment_score": 0.16887595877051353
+    },
+    {
+        "title": "'Sirat' se hace con 8 premios Gaudí en una gala en la que 'Frontera' y 'Sorda' se reivindican y 'Romería' se va casi de vacío",
+        "image_url": "https://static.eldiario.es/clip/691de928-2c5b-4c91-81f0-7df3f68c8163_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "periodismo independiente",
+            "economía",
+            "actualidad",
+            "barcelona",
+            "noticias",
+            "cataluña",
+            "política",
+            "ignacio escolar"
+        ],
+        "link": "https://www.eldiario.es/catalunya/sirat-8-premios-gaudi-gala-frontera-sorda-reivindican-romeria-vacio_1_12973600.html",
+        "date": "2026-02-09 01:57:28",
+        "sentiment_score": 0.06269994378089905
+    },
+    {
+        "title": "Rubén Barrera, el madrileño que regresa a casa con el show más grande del mundo: \"Es una cima de la que no quiero bajar\"",
+        "image_url": "https://s3.elespanol.com/2026/02/05/actualidad/1003744118206_261273528_1706x960.jpg",
+        "tags": [
+            "patinaje sobre hielo",
+            "ocio",
+            "wizink center",
+            "comunidad de madrid",
+            "soft",
+            "madrid",
+            "espectáculos",
+            "disney"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20260209/ruben-barrera-madrileno-regresa-casa-show-grande-mundo-cima-no-quiero-bajar-trt/1003744118142_0.html",
+        "date": "2026-02-09 01:49:30",
+        "sentiment_score": 0.01115696132183075
+    },
+    {
+        "title": "Guerra total entre el CGPJ y Justicia para cubrir las 500 nuevas plazas judiciales",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/d9754f9e1c9ec2c05cc471eb1d5216d6/crop/519x0/2567x2048/f/image/jpeg/assets/multimedia/imagenes/2022/03/09/16468205674169.jpg",
+        "tags": [
+            "tribunal supremo",
+            "consejo general del poder judicial",
+            "félix bolaños",
+            "felipe vi",
+            "artículos ángela martialay"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/02/09/6988d6b4e4d4d8302c8b4585.html",
+        "date": "2026-02-09 01:40:40",
+        "sentiment_score": -0.869006329216063
+    },
+    {
+        "title": "Arranca la huelga contra el caos ferroviario de Óscar Puente: más de 1,5 millones de viajeros diarios afectados",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
+        "tags": [
+            "artículos clara rojas"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2026/02/09/69872224fdddff597e8b46bf.html",
+        "date": "2026-02-09 01:40:38",
+        "sentiment_score": -0.5177813209593296
+    },
+    {
+        "title": "Los consulados de Marruecos abren los fines de semana para ayudar a regularizar a sus ciudadanos en España",
+        "image_url": "https://s3.elespanol.com/2026/02/03/actualidad/1003744115040_261234934_1706x960.jpg",
+        "tags": [
+            "espana-newsletter",
+            "inmigración",
+            "españa",
+            "pedro sánchez",
+            "marruecos",
+            "argelia"
+        ],
+        "link": "https://www.elespanol.com/espana/20260209/consulados-marruecos-abren-fines-semana-ayudar-regularizar-ciudadanos-espana/1003744114339_0.html",
+        "date": "2026-02-09 01:15:48",
+        "sentiment_score": -0.8273066971451044
+    },
+    {
+        "title": "Baker Tilly explora compras para facturar 100 millones",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/3db52cca4ada763cb2295f632483e9bd/crop/10x24/1892x1279/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/06/17704043731187.jpg",
+        "tags": [
+            "auditoría>",
+            "consultoría>",
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/empresas/2026/02/09/69863a66468aeb0e558b4571.html",
+        "date": "2026-02-09 00:55:55",
+        "sentiment_score": 0.695226950570941
+    },
+    {
+        "title": "'Gilbert', el corto con acento malagueño que nació en un taller de desempleados y ahora está nominado a un Goya",
+        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744120639_261305070_1706x960.jpg",
+        "tags": [
+            "premios goya",
+            "cultura",
+            "málaga (provincia)"
+        ],
+        "link": "https://www.elespanol.com/malaga/cultura/20260209/gilbert-corto-acento-malagueno-nacio-taller-desempleados-ahora-nominado-goya-dl/1003744120634_0.html",
+        "date": "2026-02-09 00:47:42",
+        "sentiment_score": 0.34152862429618835
+    },
+    {
+        "title": "La pelea por el liderato y el partido aplazado en Vallecas, en El Tertulión",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/09/6989252d7a91e.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-08-20260209_3303570.html",
+        "date": "2026-02-09 00:21:03",
+        "sentiment_score": 0.017777949571609497
+    },
+    {
+        "title": "Mario Casas hablando catalán y el nuevo discurso de Eduard Sola, los mejores momentos de los premios Gaudí",
+        "image_url": "https://static1.ara.cat/clip/d6ad6727-fdd9-4a70-a373-87ee8875b8f7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "discurso",
+            "premios",
+            "gaudi",
+            "mejores",
+            "eduard",
+            "sola",
+            "hablando",
+            "casas",
+            "momentos",
+            "catalan",
+            "nuevo",
+            "mario"
+        ],
+        "link": "https://es.ara.cat/cultura/cine/mario-casas-hablando-catalan-nuevo-discurso-eduard-sola-mejores-momentos-premios-gaudi_1_5642594.html",
+        "date": "2026-02-09 00:08:14",
+        "sentiment_score": 0.34544436633586884
     }
 ];
