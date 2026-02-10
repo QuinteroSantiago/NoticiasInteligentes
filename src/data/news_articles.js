@@ -1,145 +1,5 @@
 export default [
     {
-        "title": "El Rey y el presidente de Portugal deciden posponer la visita de este viernes después de hablar por teléfono",
-        "image_url": "https://www.infobae.com/resizer/v2/I5C6NBUHLFCLFBZERCT6DNLBIU.jpg?auth=649cba1af703d64f913bb204485ad42913cc215e3df554c062b7e6567139aa1a&height=1282&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/06/el-rey-y-el-presidente-de-portugal-deciden-posponer-la-visita-de-este-viernes-despues-de-hablar-por-telefono/",
-        "date": "2026-02-06 06:45:20",
-        "sentiment_score": 0.03928976505994797
-    },
-    {
-        "title": "Ferran Font, sobre alquilar piso completo o habitación: “Se comparte no por elección, sino por necesidad económica”",
-        "image_url": "https://s3.elespanol.com/2026/02/02/actualidad/1003744112793_261208263_1706x960.jpg",
-        "tags": [
-            "alquiler de viviendas",
-            "soft",
-            "sociedad",
-            "vivienda"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20260206/ferran-font-alquilar-piso-completo-habitacion-comparte-no-eleccion-necesidad-economica/1003744112755_0.html",
-        "date": "2026-02-06 06:42:43",
-        "sentiment_score": -0.8532456876710057
-    },
-    {
-        "title": "«En este mundo digital tan variopinto hay canción protesta para rato»",
-        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2026/02/05/IMG_1477-kJ7E-U20542398801AAG-758x531@El%20Norte.jpg",
-        "tags": [
-            "palencia"
-        ],
-        "link": "https://www.elnortedecastilla.es/palencia/mundo-digital-variopinto-cancion-protesta-rato-20260206223739-nt.html",
-        "date": "2026-02-06 06:29:45",
-        "sentiment_score": 0.13250301778316498
-    },
-    {
-        "title": "Tal día como HOY: 6 de febrero",
-        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2026/02/02/maxi-kZ0-U2101431510613HKC-1200x840@Hoy.jpg",
-        "tags": [
-            "cumpleaños de hoy"
-        ],
-        "link": "https://www.hoy.es/sociedad/dia-hoy-febrero-20260206174553-nt.html",
-        "date": "2026-02-06 06:23:08",
-        "sentiment_score": -0.0067031122744083405
-    },
-    {
-        "title": "Marta Ortega, con los Reyes, en la reunión del patronato de la Galería de las Colecciones Reales",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fdef8854-bf8a-4ad5-93cd-efe0a56b9245_alta-libre-aspect-ratio_default_0_x348y154.jpg",
-        "tags": [
-            "felipe vi",
-            "inditex",
-            "marta ortega"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260206/marta-ortega-reyes-reunion-patronato-126497573",
-        "date": "2026-02-06 06:22:33",
-        "sentiment_score": -0.037568509578704834
-    },
-    {
-        "title": "Más allá de Móstoles: el otro caso de presunto acoso sexual que el PP de Madrid silenció",
-        "image_url": "https://www.elplural.com/uploads/s1/20/39/47/6/almeida-1_7_480x270.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elplural.com/politica/espana/mas-alla-mostoles-caso-presunto-acoso-sexual-pp-madrid-silencio_380640102",
-        "date": "2026-02-06 06:17:28",
-        "sentiment_score": -0.1736493706703186
-    },
-    {
-        "title": "Desde Madrid contra Aragón",
-        "image_url": "https://www.elplural.com/uploads/s1/24/46/29/4/azcon-1_7_480x270.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elplural.com/politica/espana/madrid-contra-aragon_380650102",
-        "date": "2026-02-06 06:17:12",
-        "sentiment_score": -0.07735419273376465
-    },
-    {
-        "title": "Nuevo desprendimiento en la red de Rodalies: interrumpida la R4 entre Martorell y Barcelona",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/03/6981aecef093c.r_d.970-859.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20260206/nuevo-desprendimiento-red-rodalies-interrumpida-r4-entre-martorell-barcelona_382335.html",
-        "date": "2026-02-06 06:57:22",
-        "sentiment_score": -0.7574912216514349
-    },
-    {
-        "title": "Puente se reúne por tercera vez con los sindicatos ferroviarios para evitar la huelga",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ab4cd69e-0dc0-4374-a757-99a167538556_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "puente",
-            "vez",
-            "tercera",
-            "reune",
-            "sindicatos"
-        ],
-        "link": "https://www.deia.eus/actualidad/sociedad/2026/02/06/puente-reune-tercera-vez-sindicatos-10666044.html",
-        "date": "2026-02-06 06:49:26",
-        "sentiment_score": 0.16233272105455399
-    },
-    {
-        "title": "Rodalies comienza este viernes con un nuevo tramo cortado en la R4 por el desprendimiento en Sant Feliu",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Y45LS5EMLFE7VIUAAC7VBYCY2Y.jpg?auth=4b643a3bed26b1cccff0551e35ef2be899285116d525ed4a795fcac5a0312213&width=1200",
-        "tags": [
-            "generalitat cataluña",
-            "cataluña",
-            "óscar puente santiago",
-            "adif",
-            "renfe",
-            "ministerio de transportes",
-            "sílvia paneque",
-            "cercanías",
-            "obras mantenimiento"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2026-02-06/rodalies-comienza-este-viernes-con-un-nuevo-tramo-cortado-en-la-r4-por-el-desprendimiento-en-sant-feliu.html",
-        "date": "2026-02-06 06:43:38",
-        "sentiment_score": -0.30928437784314156
-    },
-    {
-        "title": "Iñaki Urdangarin: \"La cárcel fue una maravillosa lección de honestidad\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4798335f-818f-4cb5-a09a-7bbdb347b8ad_16-9-aspect-ratio_default_0_x626y234.jpg",
-        "tags": [
-            "balonmano",
-            "libros",
-            "casa real",
-            "iñaki urdangarin"
-        ],
-        "link": "https://www.informacion.es/vida-y-estilo/gente/2026/02/06/inaki-urdangarin-carcel-maravillosa-leccion-honestidad-libro-memorias-126510157.html",
-        "date": "2026-02-06 06:30:52",
-        "sentiment_score": -0.559689536690712
-    },
-    {
-        "title": "Los líderes nacionales de los partidos arropan este viernes a sus candidatos en Aragón en el cierre de campaña",
-        "image_url": "https://www.infobae.com/resizer/v2/OU3Z4IV3HZAZRFRKKZU4EDXCAE.jpg?auth=4b7b5c16305b7d25158b83c19112eb2b1077425878714b5a621baaa56dfeea92&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/06/los-lideres-nacionales-de-los-partidos-arropan-este-viernes-a-sus-candidatos-en-aragon-en-el-cierre-de-campana/",
-        "date": "2026-02-06 06:30:35",
-        "sentiment_score": 0.039078839123249054
-    },
-    {
         "title": "El equipo de Vox preguntó sobre si Azcón los colocaría tras salir del Gobierno",
         "image_url": "https://cdn.mnmstatic.net/cache/3f/3c/media_thumb-link-4144230.webp?1770383226=",
         "tags": [
@@ -2931,5 +2791,285 @@ export default [
         "link": "https://www.informacion.es/opinion/2026/02/09/guerra-mercedes-126637038.html",
         "date": "2026-02-09 17:47:38",
         "sentiment_score": -0.10924899578094482
+    },
+    {
+        "title": "Detenido un concejal del PP de Tudela de Duero por amenazar a su pareja con una pistola",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/40/media_thumb-link-4145238.webp?1770662646=",
+        "tags": [
+            "violencia",
+            "pp",
+            "valladolid",
+            "actualidad",
+            "tudela"
+        ],
+        "link": "https://www.meneame.net/story/detenido-concejal-pp-tudela-duero-amenazar-pareja-pistola",
+        "date": "2026-02-09 22:30:03",
+        "sentiment_score": -0.7507816608995199
+    },
+    {
+        "title": "El Villarreal aprovecha (4-1) el mal momento del Espanyol y vuelve a la senda de la victoria en Liga",
+        "image_url": "https://www.infobae.com/resizer/v2/4NGKHXCUGJFHDOE75SXZKPF7ZM.jpg?auth=4de397b71ba4022efb2f76248dc10bc972c84f223f56d8c52ac1c54059391e15&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/09/el-villarreal-aprovecha-4-1-el-mal-momento-del-espanyol-y-vuelve-a-la-senda-de-la-victoria-en-liga/",
+        "date": "2026-02-09 22:30:33",
+        "sentiment_score": 0.3693610802292824
+    },
+    {
+        "title": "Omar Pérez recibió alta médica tras infarto que lo tuvo al borde de la muerte: “Agradecerles de corazón”",
+        "image_url": "https://www.infobae.com/resizer/v2/WUDW4N6V3JEATHTK5DG7TZ33QU.jpg?auth=c3779bc57a71ad5d6580e4374d07fefe5ae3890da77b090a49d7f5524d948494&height=405&smart=true&width=720",
+        "tags": [
+            "argentino",
+            "boca juniors",
+            "colombia-deportes",
+            "recuperación",
+            "comunicado",
+            "infarto",
+            "omar pérez",
+            "santa fe"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/09/omar-perez-recibio-alta-medica-tras-infarto-que-lo-tuvo-al-borde-de-la-muerte-agradecerles-de-corazon/",
+        "date": "2026-02-09 22:11:18",
+        "sentiment_score": 0.4197854585945606
+    },
+    {
+        "title": "La Fórmula 1 dispara los precios del alquiler temporal en Valdebebas y alrededores: \"Están ofreciendo 10.000 euros al mes por arrendar un piso en la zona\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/4ad79444640b09782a1f827dcc7a7d83/f/image/jpeg/assets/multimedia/imagenes/2022/03/28/16484797084044.jpg",
+        "tags": [
+            "artículos ana del barrio",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/madrid/2026/02/09/698a2f20fc6c837a1a8b45a9.html",
+        "date": "2026-02-09 21:50:59",
+        "sentiment_score": 0.16380538046360016
+    },
+    {
+        "title": "El misterio de Fede Vico en el Pontevedra CF: el jugador que llegó el sábado y deja el club el lunes",
+        "image_url": "https://cflvdg.avoz.es/sc/lPPwpF5uc8ad5J1T5ZW5BUjudwc=/768x/2026/02/06/00121770415322182424298/Foto/L21E8037.jpg",
+        "tags": [
+            "pontevedra cf",
+            "pontevedra ciudad"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/pontevedra/pontevedra/2026/02/09/misterio-fede-vico-pontevedra-cf-jugador-llego-viernes-deja-club-lunes/00031770671777514799538.htm",
+        "date": "2026-02-09 21:43:00",
+        "sentiment_score": -0.6347185131162405
+    },
+    {
+        "title": "¿Cuándo son las semifinales de la Copa del Rey? Fechas y horarios de Venezuela",
+        "image_url": "https://pxcdn.meridiano.net/022026/1770671790575.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/cuando-son-las-semifinales-de-la-copa-del-rey-fechas-y-horarios-de-venezuela-20262917190",
+        "date": "2026-02-09 21:19:00",
+        "sentiment_score": 0.5453526824712753
+    },
+    {
+        "title": "La carrera presidencial del Barça, decantada hacia Joan Laporta",
+        "image_url": "https://cflvdg.avoz.es/sc/KZh_-0NTVDnxjA1qGPrmKR7qoa8=/768x/2026/02/09/00121770670561974497425/Foto/efe_20260209_145458523.jpg",
+        "tags": [
+            "joan laporta",
+            "deportes",
+            "fc barcelona"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/02/09/carrera-presidencial-barca-decantada-joan-laporta/00031770670488858746449.htm",
+        "date": "2026-02-09 20:57:00",
+        "sentiment_score": 0.6882099881768227
+    },
+    {
+        "title": "El día que Bad Bunny actuó en Alicante por 20 €: el triunfador en la Super Bowl menciona la ciudad en dos temas",
+        "image_url": "https://s3.elespanol.com/2022/12/07/alicante/cultura/musica/724187976_229300666_1706x960.jpg",
+        "tags": [
+            "super bowl",
+            "discotecas",
+            "alicante (provincia)",
+            "comunitat valenciana",
+            "alicante (ciudad)",
+            "música",
+            "bad bunny",
+            "conciertos música"
+        ],
+        "link": "https://www.elespanol.com/alicante/cultura/musica/20260209/dia-bad-bunny-actuo-alicante-eur-triunfador-super-bowl-menciona-ciudad-temas/1003744123324_0.html",
+        "date": "2026-02-09 20:52:31",
+        "sentiment_score": 0.1570502370595932
+    },
+    {
+        "title": "Semifinales de la Copa del Rey: Calendario de juegos, fechas y horarios de Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/022026/1770669113350.jpg?ch=675&cw=1200",
+        "tags": [
+            "meridianotv",
+            "copa del rey"
+        ],
+        "link": "https://2001online.com/deportes/semifinales-de-la-copa-del-rey-calendario-de-juegos-fechas-y-horarios-de-venezuela-20262916280",
+        "date": "2026-02-09 20:28:00",
+        "sentiment_score": 0.5453526824712753
+    },
+    {
+        "title": "Juan Gato, y lo que diferencia la queja de Griezmann de la de Koke sobre el estado del césped del Metropolitano: \"¿Excusa o denuncia?\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/juan-gato-diferencia-queja-griezmann-koke-sobre-cesped-metropolitano-excusa-denuncia-20260209_3304350.html",
+        "date": "2026-02-09 20:03:11",
+        "sentiment_score": -0.21523438394069672
+    },
+    {
+        "title": "Los expertos se marcan el objetivo de cero fluido para evitar la ceguera irreversible en patologías de la retina",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/02/09/2026020920233444587.jpg",
+        "tags": [
+            "cuidarse"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/cuidate/expertos-marcan-objetivo-cero-fluido-evitar-ceguera-irreversible-patologias-retina/202602092024071002833.html",
+        "date": "2026-02-09 19:24:07",
+        "sentiment_score": -0.7367455922067165
+    },
+    {
+        "title": "“Obsesión”: la revelación de un ex compañero de Messi en el Barcelona sobre su nivel de exigencia",
+        "image_url": "https://www.infobae.com/resizer/v2/KYXMAWZWKFCCTNVRPN2ZX6ZFYA.jpg?auth=7069ed82c5ad5e6221b044416dfaf4c6bbc7bfd0222015c660b0ca9ce8695593&height=1079&smart=true&width=1920",
+        "tags": [
+            "samuel umtiti",
+            "paris saint-germain",
+            "lionel messi",
+            "barcelona",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/09/obsesion-la-revelacion-de-un-ex-companero-de-messi-en-el-barcelona-sobre-su-nivel-de-exigencia/",
+        "date": "2026-02-09 22:42:39",
+        "sentiment_score": 0.6910196915268898
+    },
+    {
+        "title": "Al menos 12 anzoatiguenses aún están detenidos por razones políticas (+Fotos)",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "venezuela al día",
+            "locales",
+            "política"
+        ],
+        "link": "https://eltiempove.com/al-menos-12-anzoatiguenses-aun-estan-detenidos-por-razones-politicas-fotos/",
+        "date": "2026-02-09 22:41:57",
+        "sentiment_score": -0.3229774311184883
+    },
+    {
+        "title": "¿Cómo gobernar la Gran Barcelona? La apuesta “público-social-privada” para gestionar el agua, la vivienda o la movilidad",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/09/actualidad/1003742731028_15698074_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "vivir en barcelona",
+            "movilidad",
+            "vivienda",
+            "barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260209/gobernar-gran-barcelona-apuesta-publico-social-privada-gestionar-agua-vivienda-movilidad/1003742729495_0.html",
+        "date": "2026-02-09 22:30:00",
+        "sentiment_score": 0.3388612922281027
+    },
+    {
+        "title": "Trabajo sanciona con más de 130.000 euros a un popular restaurante de sushi de Viladecans por contratar a extranjeros sin papeles",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/04/gran-barcelona/1003742729453_15677427_1706x960.jpg",
+        "tags": [
+            "baix llobregat",
+            "viladecans",
+            "restaurantes barcelona",
+            "gran barcelona",
+            "bares y restaurantes"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260209/trabajo-sanciona-euros-popular-restaurante-sushi-viladecans-contratar-extranjeros-sin-papeles/1003742691503_0.html",
+        "date": "2026-02-09 22:30:00",
+        "sentiment_score": -0.7496379278600216
+    },
+    {
+        "title": "“Quien más contamina, más paga”: cuenta atrás para la nueva ‘tasa inteligente de residuos’ en Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2022/02/19/el-pulso-de-la-ciudad/651444856_9736808_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "vivir en barcelona",
+            "cambio climático",
+            "barcelona",
+            "zona de bajas emisiones de barcelona (zbe)",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260209/contamina-paga-cuenta-nueva-tasa-inteligente-residuos-barcelona/1003742730895_0.html",
+        "date": "2026-02-09 22:30:00",
+        "sentiment_score": 0.4234872907400131
+    },
+    {
+        "title": "Mañueco anuncia un nuevo Comité Técnico para controlar y prevenir la peste porcina",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/Manueco-reunion-Opas-2.jpg",
+        "tags": [
+            "castilla y león",
+            "caza",
+            "cerdos",
+            "fondos europeos",
+            "ganadería",
+            "mañueco",
+            "agricultura",
+            "peste porcina",
+            "junta de castilla y león",
+            "animales",
+            "medio ambiente"
+        ],
+        "link": "https://theobjective.com/espana/castilla-y-leon/2026-02-09/manueco-comite-tecnico-control-prevencion-peste-porcina/",
+        "date": "2026-02-09 22:24:21",
+        "sentiment_score": 0.1977551206946373
+    },
+    {
+        "title": "Dos menores detenidos y uno investigado por dar una paliza a una pareja en Barcelona",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/Catalun%CC%83a-Mossos.jpg",
+        "tags": [
+            "barcelona",
+            "pelea",
+            "sucesos",
+            "menores de edad",
+            "víctimas",
+            "paliza",
+            "investigación",
+            "mossos d'esquadra"
+        ],
+        "link": "https://theobjective.com/sociedad/suceso/2026-02-09/menores-detenidos-investigado-por-pareja-argentona-barcelona/",
+        "date": "2026-02-09 22:18:08",
+        "sentiment_score": -0.716171259060502
+    },
+    {
+        "title": "Puente enmienda su gestión de mantenimiento de las vías y riega de millones el sector ferroviario para frenar la huelga",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/834f7d0e435f875dad7f1bccd91d8ffd/f/webp/assets/multimedia/imagenes/2026/02/09/17706653383595.jpg",
+        "tags": [
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/economia/2026/02/09/698a365a21efa0cb1f8b4594.html",
+        "date": "2026-02-09 21:53:23",
+        "sentiment_score": 0.07383805513381958
+    },
+    {
+        "title": "El Espanyol vive un infierno de 20 minutos en Villarreal",
+        "image_url": "https://static1.ara.cat/clip/61147bb1-812b-4ae1-bffd-050da2faa12b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "minutos",
+            "20",
+            "villarreal",
+            "infierno",
+            "vive",
+            "espanyol"
+        ],
+        "link": "https://es.ara.cat/deportes/rcd-espanyol/espanyol-vive-infierno-20-minutos-villarreal_1_5643632.html",
+        "date": "2026-02-09 21:52:48",
+        "sentiment_score": -0.5118922293186188
+    },
+    {
+        "title": "Kiran Desai: \"La fundación de Bill Gates me envió a escribir sobre el comercio sexual de niñas en la India. Es todo espeluznante\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6d11ecde-75fa-4db3-89ed-d0809df9bebd_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "historia",
+            "estados unidos",
+            "entrevista",
+            "bill gates",
+            "india",
+            "comercio"
+        ],
+        "link": "https://www.laopiniondemalaga.es/cultura-espectaculos/2026/02/09/kiran-desai-fundacion-bill-gates-126643547.html",
+        "date": "2026-02-09 21:47:12",
+        "sentiment_score": -0.5454262495040894
     }
 ];
