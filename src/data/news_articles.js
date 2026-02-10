@@ -1,360 +1,5 @@
 export default [
     {
-        "title": "Resumen Real Madrid-Barcelona: Paseo en la casa blanca hacia semifinales (0-4)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/05/image-60b8f1fd-42e2-4966-815b-5b7ed6218d1a-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.eurosport.es/futbol/copa-de-la-reina/2025-2026/real-madrid-barcelona-video-resumen-resultado-goles-cuartos-alexia-pajor-salma-highlights_vid60052678/video.shtml",
-        "date": "2026-02-05 22:36:24",
-        "sentiment_score": 0.4745073765516281
-    },
-    {
-        "title": "Estos son los cuatro equipos que llegan a las semifinales de la Copa del Rey y las fechas de los encuentros",
-        "image_url": "https://www.infobae.com/resizer/v2/Z2QQOXED4NCR5JOKJ5EHQHNKU4.jpg?auth=401047fd043e7d4b8d3246d6b2d9ffcbfbcb0992587834550a7119cc002e06e1&height=1080&smart=true&width=1920",
-        "tags": [
-            "real sociedad",
-            "fútbol españa",
-            "fc barcelona",
-            "españa-deportes",
-            "españa-noticias",
-            "copa del rey",
-            "fútbol",
-            "atlético de madrid",
-            "athletic club"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/02/05/estos-son-los-cuatro-equipos-que-llegan-a-las-semifinales-de-la-copa-del-rey-y-las-fechas-de-los-encuentros/",
-        "date": "2026-02-05 22:33:58",
-        "sentiment_score": -0.028612196445465088
-    },
-    {
-        "title": "Andalucía se fractura: la urgencia de un proyecto para Andalucía Oriental",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "proyecto",
-            "fractura",
-            "andalucia",
-            "urgencia",
-            "oriental"
-        ],
-        "link": "https://www.ideal.es/opinion/granada-futuro-andalucia-fractura-urgencia-proyecto-andalucia-oriental-20260206200256-nt.html",
-        "date": "2026-02-05 22:29:26",
-        "sentiment_score": -0.4056336134672165
-    },
-    {
-        "title": "El Barcelona avanza a semifinales con otra goleada al Real Madrid",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/05/6985174d0f894.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/barcelona-avanza-semifinales-goleada-real-madrid-20260205_3302265.html",
-        "date": "2026-02-05 22:26:23",
-        "sentiment_score": -0.03294679522514343
-    },
-    {
-        "title": "Dubái-Real Madrid: Musa desangra y ejecuta a los de Scariolo en otra salida de pesadilla (93-85)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/05/image-3dc984be-538e-4b73-8cda-9de1531fec05-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.eurosport.es/baloncesto/euroliga/2025-2026/dubai-real-madrid-resumen-highlights-mejores-jugadas-partido-jornada-27_vid60052677/video.shtml",
-        "date": "2026-02-05 22:26:21",
-        "sentiment_score": -0.3821805566549301
-    },
-    {
-        "title": "La Real ya conoce a todos sus posibles rivales en la Copa",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/75656f0f-dff3-4135-92bf-108dd7a1933f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "posibles",
-            "real",
-            "copa",
-            "rivales",
-            "conoce"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/02/05/real-conoce-posibles-rivales-copa-10665780.html",
-        "date": "2026-02-05 22:13:02",
-        "sentiment_score": 0.09699138253927231
-    },
-    {
-        "title": "Goleada agridulce del Barça ante el Real Madrid por la grave lesión de Laia Aleixandri",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/34216de5-a476-4da2-ae77-cbef7a1cd889_16-9-aspect-ratio_default_0_x936y416.jpg",
-        "tags": [
-            "real madrid femenino",
-            "fc barcelona femenino",
-            "fútbol femenino",
-            "deporte femenino"
-        ],
-        "link": "https://www.laopiniondemalaga.es/deportes/2026/02/05/goleada-agridulce-barca-real-madrid-126504336.html",
-        "date": "2026-02-05 22:12:41",
-        "sentiment_score": -0.700578436255455
-    },
-    {
-        "title": "Perfumerías San Remo 'fuerza' a sus trabajadores a un ERTE hasta negociar su despido",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/04/vivir-en-barcelona/1003742729528_15678340_1706x960.jpg",
-        "tags": [
-            "economía",
-            "sindicatos",
-            "trabajadores",
-            "empresas barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260205/perfumerias-san-remo-fuerza-trabajadores-erte-negociar-despido/1003742729828_0.html",
-        "date": "2026-02-05 22:30:00",
-        "sentiment_score": -0.020151287317276
-    },
-    {
-        "title": "Marc Colell, escritor ganador del Premio Café Gijón: «Nunca sé exactamente por qué escribo, ni qué me obliga a hacerlo»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/550652b0-068f-4ae0-adb7-46899867f0d7_16-9-aspect-ratio_default_0_x937y418.jpg",
-        "tags": [
-            "café",
-            "orgullo",
-            "argentina",
-            "barcelona"
-        ],
-        "link": "https://www.lne.es/gijon/2026/02/05/marc-colell-escritor-ganador-premio-126504052.html",
-        "date": "2026-02-05 22:09:07",
-        "sentiment_score": -0.06036922335624695
-    },
-    {
-        "title": "Vinícius y Bellingham se perderán la visita del Real Madrid a Valencia en La Liga",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/0828d55/2147483647/strip/true/crop/8123x4265+0+576/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa2%2F30%2F795a20be4a49963aa2e37f13ad01%2F3d696482f28f49ddbf03e63d4b400cdc.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-05/vinicius-y-bellingham-se-perderan-la-visita-del-real-madrid-valencia-en-la-liga",
-        "date": "2026-02-06 02:27:18",
-        "sentiment_score": -0.6326382178813219
-    },
-    {
-        "title": "El PSOE arrebata al PP la iniciativa en las denuncias por acoso con el caso de Móstoles el día de la declaración de Salazar",
-        "image_url": "https://s3.elespanol.com/2026/02/05/actualidad/1003744118833_261283269_1706x960.jpg",
-        "tags": [
-            "móstoles",
-            "comunidad de madrid",
-            "política",
-            "psoe (partido socialista obrero español)",
-            "espana-newsletter",
-            "óscar lópez",
-            "pp madrid",
-            "francisco salazar"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20260206/psoe-arrebata-pp-iniciativa-denuncias-acoso-caso-mostoles-dia-declaracion-salazar/1003744118970_0.html",
-        "date": "2026-02-06 01:45:25",
-        "sentiment_score": -0.852634759619832
-    },
-    {
-        "title": "Iba a ser titular, pero no tuvo minutos: la razón detrás de la ausencia de Julián Álvarez en la goleada del Atlético de Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/XBHGPIRQTRFAFGW5NSNQ7G2NLM.JPG?auth=5721849a7f72b768fad637244dbe18fb5d471de2bf7d81c43beeed347005227b&height=1726&smart=true&width=2590",
-        "tags": [
-            "sevilla",
-            "atlético de madrid",
-            "julián álvarez",
-            "copa del rey",
-            "real betis",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/06/iba-a-ser-titular-pero-no-tuvo-minutos-la-razon-detras-de-la-ausencia-de-julian-alvarez-en-la-goleada-del-atletico-de-madrid/",
-        "date": "2026-02-06 01:38:16",
-        "sentiment_score": 0.31916606426239014
-    },
-    {
-        "title": "El móvil y la impaciencia, los grandes enemigos del peatón en la ciudad",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/10/2025061000474219580.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.mundiario.com/articulo/sociedad/movil-impaciencia-grandes-enemigos-peaton-ciudad/20260206021859373601.html",
-        "date": "2026-02-06 01:18:59",
-        "sentiment_score": -0.8594817277044058
-    },
-    {
-        "title": "Argentina anuncia la firma de un acuerdo comercial con Estados Unidos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2026/02/06/eeuu-k50C-U20558352564nsH-1200x840@diario_abc.jpg",
-        "tags": [
-            "nicolás maduro",
-            "estados unidos",
-            "javier milei",
-            "argentina",
-            "china",
-            "brasil"
-        ],
-        "link": "https://www.abc.es/economia/argentina-anuncia-firma-acuerdo-comercial-estados-unidos-20260206015841-nt.html",
-        "date": "2026-02-06 00:58:47",
-        "sentiment_score": -0.008059769868850708
-    },
-    {
-        "title": "La tragedia de los saltadores BASE, el deporte letal que inspira 'La fiera': \"Si paras, aparece el miedo\"",
-        "image_url": "https://s3.elespanol.com/2026/02/05/actualidad/1003744118843_261281538_1706x960.jpg",
-        "tags": [
-            "entrevistas",
-            "estrenos de cine",
-            "cine"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/cine/20260206/tragedia-saltadores-base-deporte-letal-inspira-fiera-paras-aparece-miedo/1003744118823_0.html",
-        "date": "2026-02-06 00:55:00",
-        "sentiment_score": 0.2520294636487961
-    },
-    {
-        "title": "Del Vaticano a Greenwich: la historia de los observatorios y la carrera por comprender el firmamento",
-        "image_url": "https://s3.elespanol.com/2026/02/03/actualidad/1003744115224_261237050_1706x960.jpg",
-        "tags": [
-            "astronomía",
-            "ciencia",
-            "entre dos aguas"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/ciencia/entre_2_aguas/20260206/vaticano-greenwich-historia-observatorios-carrera-comprender-firmamento/1003744105391_12.html",
-        "date": "2026-02-06 00:55:00",
-        "sentiment_score": 0.30834634602069855
-    },
-    {
-        "title": "Don Felipe celebra el 50o aniversario de 'Club Siglo XXI' junto a Borja Thyssen, Paloma Segrelles o Susanna Griso",
-        "image_url": "https://www.infobae.com/resizer/v2/6RTYKJEBKRDKDITT3EC6PEO6JE.jpg?auth=af2e657596082cd12b7516f5f88ca1287b2504d0644f212a3090b4cce18648b6&height=1440&smart=true&width=1920",
-        "tags": [
-            "hotel nh collection eurobuilding",
-            "club siglo xxi",
-            "madrid",
-            "susanna griso",
-            "aniversario",
-            "familia real",
-            "paz padilla",
-            "europapress",
-            "borja thyssen",
-            "felipe vi",
-            "paloma segrelles"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/06/don-felipe-celebra-el-50-aniversario-de-club-siglo-xxi-junto-a-borja-thyssen-paloma-segrelles-o-susanna-griso/",
-        "date": "2026-02-06 00:45:31",
-        "sentiment_score": 0.6502101570367813
-    },
-    {
-        "title": "El secreto para vivir más y mejor de una experta en longevidad: \"Tener vínculos sanos es fundamental para la salud mental\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/83d77a0b65963cd57e73866233e383df/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/29/17696946831344.jpg",
-        "tags": [
-            "medicina",
-            "longevidad",
-            "estilo de vida",
-            "bienestar",
-            "artículos cristina galafate",
-            "medicina estética"
-        ],
-        "link": "https://www.elmundo.es/yodona/vida-saludable/2026/02/06/697b66ecfc6c83fe6e8b459f.html",
-        "date": "2026-02-06 00:44:42",
-        "sentiment_score": 0.21839475259184837
-    },
-    {
-        "title": "El sugerente comentario de Mastantuono al repasar junto a Davoo Xeneize su golazo a Boca en el Superclásico",
-        "image_url": "https://www.infobae.com/resizer/v2/4S7LFODHYBHPFMKU3H2AAB34FE.jpg?auth=476287670d362bfe6b35ed5b796a0d8717fbcfb726ab02be75b43a8283078304&height=1080&smart=true&width=1920",
-        "tags": [
-            "superclásico",
-            "davoo xeneize",
-            "franco mastantuono",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/06/el-sugerente-comentario-de-mastantuono-al-repasar-junto-a-davoo-xeneize-su-golazo-a-boca-en-el-superclasico/",
-        "date": "2026-02-06 00:43:15",
-        "sentiment_score": -0.02478913962841034
-    },
-    {
-        "title": "Economía fortalece los acuerdos para la internacionalización de clústers y asociaciones empresariales de Canarias",
-        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2026/02/Firma-del-convenio.jpg-1024x682.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.elperiodicodecanarias.es/economia-fortalece-los-acuerdos-para-la-internacionalizacion-de-clusters-y-asociaciones-empresariales-de-canarias/",
-        "date": "2026-02-06 02:37:01",
-        "sentiment_score": 0.004600793123245239
-    },
-    {
-        "title": "España: el pronóstico del tiempo para Barcelona este 6 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima en españa",
-            "últimas actualizaciones",
-            "clima en barcelona",
-            "clima"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/06/espana-el-pronostico-del-tiempo-para-barcelona-este-6-de-febrero/",
-        "date": "2026-02-06 02:00:52",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "REPAR ARTE consolida su cobertura de manitas 24horas en Barcelona e incorpora apoyo de albañil 24 horas en Barcelona",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7836803",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5761819/repar-arte-consolida-cobertura-manitas-24horas-barcelona-e-incorpora-apoyo-albanil-24-horas-barcelona",
-        "date": "2026-02-06 01:52:35",
-        "sentiment_score": 0.5727577358484268
-    },
-    {
-        "title": "Los trabajadores se empobrecen desde 2018: se duplican los que no pueden calentar la casa y un 47% más paga tarde los recibos",
-        "image_url": "https://s3.elespanol.com/2026/02/05/actualidad/1003744118159_261272910_1706x960.jpg",
-        "tags": [
-            "empleo",
-            "trabajo",
-            "economía",
-            "pobreza"
-        ],
-        "link": "https://www.elespanol.com/invertia/economia/20260206/trabajadores-empobrecen-duplican-no-pueden-calentar-casa-paga-tarde-recibos/1003744118104_0.html",
-        "date": "2026-02-06 01:40:10",
-        "sentiment_score": -0.6248697340488434
-    },
-    {
-        "title": "Volkswagen Group España prevé tener un 2026 \"bueno\" gracias al lanzamiento de la familia de eléctricos urbanos",
-        "image_url": "https://s3.elespanol.com/2026/02/05/actualidad/1003744118668_261279014_1706x960.jpg",
-        "tags": [
-            "audi",
-            "coche eléctrico",
-            "motor",
-            "industria automovilística",
-            "volkswagen",
-            "concesionarios",
-            "skoda",
-            "grupo volkswagen"
-        ],
-        "link": "https://www.elespanol.com/motor/20260206/volkswagen-group-espana-preve-tener-bueno-gracias-lanzamiento-familia-electricos-urbanos/1003744118595_0.html",
-        "date": "2026-02-06 01:40:07",
-        "sentiment_score": 0.5421195030212402
-    },
-    {
-        "title": "Las votaciones de Mejor Servicio del Año 2026 finalizan el 20 de febrero",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7836793",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5761815/votaciones-mejor-servicio-ano-2026-finalizan-20-febrero",
-        "date": "2026-02-06 01:37:13",
-        "sentiment_score": 0.7336900439113379
-    },
-    {
-        "title": "Una prueba en sangre menstrual permite detectar el virus del papiloma",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/84dc6cb6365690647353d4588a274e61/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/05/17703114398166.jpg",
-        "tags": [
-            "salud",
-            "ciencia y salud"
-        ],
-        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2026/02/06/6984a1f8e4d4d810788b459b.html",
-        "date": "2026-02-06 01:24:49",
-        "sentiment_score": 0.023977771401405334
-    },
-    {
-        "title": "Borja, Ramón y los más de 100 conserjes que deciden qué restaurantes, museos y shows llenan los turistas en Madrid",
-        "image_url": "https://s3.elespanol.com/2026/02/05/actualidad/1003744118822_261281253_1706x960.jpg",
-        "tags": [
-            "restaurantes",
-            "hoteles",
-            "sociedad"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20260206/borja-ramon-conserjes-deciden-restaurantes-museos-shows-llenan-turistas-madrid/1003744118719_0.html",
-        "date": "2026-02-06 01:00:00",
-        "sentiment_score": 0.5576446950435638
-    },
-    {
         "title": "El Rey y el presidente de Portugal deciden posponer la visita de este viernes después de hablar por teléfono",
         "image_url": "https://www.infobae.com/resizer/v2/I5C6NBUHLFCLFBZERCT6DNLBIU.jpg?auth=649cba1af703d64f913bb204485ad42913cc215e3df554c062b7e6567139aa1a&height=1282&smart=true&width=1920",
         "tags": [
@@ -428,42 +73,6 @@ export default [
         "link": "https://www.elplural.com/politica/espana/madrid-contra-aragon_380650102",
         "date": "2026-02-06 06:17:12",
         "sentiment_score": -0.07735419273376465
-    },
-    {
-        "title": "Real decreto-ley ómnibus",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "omnibus",
-            "decreto",
-            "ley",
-            "real"
-        ],
-        "link": "https://www.deia.eus/opinion/tribuna-abierta/2026/02/06/real-decreto-ley-omnibus-10665562.html",
-        "date": "2026-02-06 06:00:41",
-        "sentiment_score": 0.19123046100139618
-    },
-    {
-        "title": "Querido diario",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c5b01c6c-0b28-4ffe-aa10-89cf2bc7ad59_16-9-aspect-ratio_default_0_x384y144.jpg",
-        "tags": [
-            "museos",
-            "filosofía",
-            "memoria",
-            "velocidad"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2026/02/06/querido-diario-126494158.html",
-        "date": "2026-02-06 06:00:17",
-        "sentiment_score": -0.24302063882350922
-    },
-    {
-        "title": "Nos colamos en el rodaje de 'Salvador', el nuevo drama neonazi de Netflix con Luis Tosar y Claudia Salas",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/03/6981fa5e741ca2-25570424.jpeg",
-        "tags": [
-            "series"
-        ],
-        "link": "https://www.20minutos.es/cinemania/series/nos-colamos-rodaje-salvador-nuevo-drama-neonazi-netflix-con-luis-tosar-claudia-salas_6925214_0.html",
-        "date": "2026-02-06 06:00:00",
-        "sentiment_score": -0.20990661531686783
     },
     {
         "title": "Nuevo desprendimiento en la red de Rodalies: interrumpida la R4 entre Martorell y Barcelona",
@@ -3090,5 +2699,237 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/vida/20260209/huelga-maquinistas-empieza-trenes-previstos-servicios-minimos/1003742730826_0.html",
         "date": "2026-02-09 07:01:37",
         "sentiment_score": -0.4391596280038357
+    },
+    {
+        "title": "Todo lo que necesitas saber sobre el caso de Juan Pablo Guanipa en cinco claves",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/7e33eca8b06400c034e25cb3586a6b165a4f2929w.jpg",
+        "tags": [
+            "actualidad",
+            "derechos humanos",
+            "nacionales",
+            "presos políticos",
+            "juan pablo guanipa"
+        ],
+        "link": "https://lapatilla.com/2026/02/09/todo-lo-que-necesitas-saber-sobre-el-caso-de-juan-pablo-guanipa-en-cinco-claves/",
+        "date": "2026-02-09 14:21:40",
+        "sentiment_score": -0.6814668253064156
+    },
+    {
+        "title": "Trump llama a la presentación de Bad Bunny en el Halftime Show del Super Bowl 2026 \"la peor de la historia\"",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/Screenshot_66.jpg",
+        "tags": [
+            "titulares",
+            "deportes",
+            "internacionales",
+            "donald trump",
+            "bad bunny",
+            "usa",
+            "super bowl"
+        ],
+        "link": "https://lapatilla.com/2026/02/09/trump-llama-a-la-presentacion-de-bad-bunny-en-el-halftime-show-del-super-bowl-2026-la-peor-de-la-historia/",
+        "date": "2026-02-09 10:10:52",
+        "sentiment_score": -0.13517183810472488
+    },
+    {
+        "title": "Guruzeta, a la altura de Mbappé y Kane",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/47f0eb38-cd22-4db2-a117-3cef86fb39aa_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "mbappe",
+            "altura",
+            "kane",
+            "guruzeta"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/02/09/guruzeta-altura-mbappe-kane-10679779.html",
+        "date": "2026-02-09 18:02:38",
+        "sentiment_score": 0.16984370350837708
+    },
+    {
+        "title": "La polémica acción entre Hugo González y una superestrella de la NBA en la peor noche de los Celtics",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/09/698a1988662c8.r_d.2591-1100-2000.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20260209/polemica-accion-entre-hugo-gonzalez-superestrella-nba-peor-noche-celtics_383549.html",
+        "date": "2026-02-09 17:43:04",
+        "sentiment_score": -0.828783804550767
+    },
+    {
+        "title": "Sucic no tiene nada grave y confía en volver ante el Oviedo",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c9fb38a8-3474-495b-beec-3fee8890d8bd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "volver",
+            "sucic",
+            "grave",
+            "oviedo",
+            "confia"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/02/09/sucic-grave-confia-volver-oviedo-10679955.html",
+        "date": "2026-02-09 17:39:56",
+        "sentiment_score": -0.6649575121700764
+    },
+    {
+        "title": "Antonio de la Torre se rodea de vecinos reales en el thriller rural más extraño del cine español reciente",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/941f808f-4036-4fbf-be3e-f93f58bd08bb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cine español,rural,movistar plus,caza,comedia,historia,arévalo"
+        ],
+        "link": "https://www.laopiniondezamora.es/vida-y-estilo/2026/02/09/antonio-torre-rodea-vecinos-reales-126636293.html",
+        "date": "2026-02-09 17:37:12",
+        "sentiment_score": -0.6492503397166729
+    },
+    {
+        "title": "Grecia y Turquía se enzarzan por avisos marítimos por unos ejercicios navales griegos en el mar Egeo",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260209183346_690.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-grecia-turquia-enzarzan-avisos-maritimos-ejercicios-navales-griegos-mar-egeo-20260209183346.html",
+        "date": "2026-02-09 17:33:46",
+        "sentiment_score": -0.09776884317398071
+    },
+    {
+        "title": "Julián Álvarez y una sequía centenaria, su peor racha en Europa",
+        "image_url": "https://www.infobae.com/resizer/v2/UWELIUIHTREUXDNL7R2POGGI7M.jpg?auth=1fae28adc0234865bc918ba1013b0e29aba0db7c0975f1f5511bcc76dcb4c78e&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/09/julian-alvarez-y-una-sequia-centenaria-su-peor-racha-en-europa/",
+        "date": "2026-02-09 17:31:26",
+        "sentiment_score": -0.9370573498308659
+    },
+    {
+        "title": "Indra renueva por 5 años el mantenimiento y operación tecnológicos del 'AVE a La Meca' por 130 millones",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260209182253_120.jpg",
+        "tags": [
+            "economía finanzas"
+        ],
+        "link": "https://www.europapress.es/economia/noticia-indra-renueva-anos-mantenimiento-operacion-tecnologicos-ave-meca-130-millones-20260209182253.html",
+        "date": "2026-02-09 17:22:53",
+        "sentiment_score": 0.21871540695428848
+    },
+    {
+        "title": "Los empresarios exigirán en Bruselas inversiones estratégicas para Asturias en el Corredor Atlántico",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/02/09/reunion-fade-fele-ceg-R8x6iiX9NM8bZsRMWPOuX0I-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "asturias",
+            "fade",
+            "corredor atlántico",
+            "autopista del huerna"
+        ],
+        "link": "https://www.elcomercio.es/asturias/empresarios-exigiran-bruselas-inversiones-estrategicas-asturias-corredor-20260209181955-nt.html",
+        "date": "2026-02-09 17:19:57",
+        "sentiment_score": -0.7716719061136246
+    },
+    {
+        "title": "El Congreso niega a Ábalos la indemnización por ser incompatible con su jubilación",
+        "image_url": "https://okdiario.com/img/2026/01/06/abalos-congreso.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://okdiario.com/espana/congreso-niega-abalos-indemnizacion-ser-incompatible-jubilacion-16215526",
+        "date": "2026-02-09 17:05:16",
+        "sentiment_score": -0.8073427174240351
+    },
+    {
+        "title": "El Real Zaragoza muestra su malestar con la expulsión de El Yamiq: \"No comprendemos cómo el VAR no fue capaz de llamar al árbitro\"",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/10/21/2025102116144140354.jpg",
+        "tags": [
+            "real zaragoza"
+        ],
+        "link": "https://www.aragondigital.es/articulo/real-zaragoza/real-zaragoza-muestra-malestar-expulsion-yamiq-comprendemos-como-var-fue-capaz-llamar-arbitro/20260209180356966068.html",
+        "date": "2026-02-09 17:03:56",
+        "sentiment_score": -0.2855326756834984
+    },
+    {
+        "title": "Farmacias de guardia en Zaragoza este martes, 10 de febrero",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/01/28/2025012809545873611.jpg",
+        "tags": [
+            "zaragoza"
+        ],
+        "link": "https://www.aragondigital.es/articulo/zaragoza/farmacias-guardia-zaragoza-martes-10-febrero/20260209190000965932.html",
+        "date": "2026-02-09 18:00:00",
+        "sentiment_score": 0.01851319521665573
+    },
+    {
+        "title": "El Gobierno dice que es pronto para saber el origen del brote de peste porcina y niega que escapara del laboratorio",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/09/698a1e9b0265a.r_d.3376-1218-2003.jpeg",
+        "tags": [
+            "campo y caza"
+        ],
+        "link": "https://www.eldebate.com/campo-y-caza/20260209/gobierno-dice-pronto-saber-origen-brote-peste-porcina-niega-escapara-laboratorio_383560.html",
+        "date": "2026-02-09 17:55:27",
+        "sentiment_score": -0.7709929328411818
+    },
+    {
+        "title": "La reina del flow, el grupo salido de la famosa serie, actuará este verano en Pamplona",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2026/02/09/698a1ea5b1500.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/cultura-ocio/cultura/2026/02/09/reina-flow-grupo-salido-famosa-serie-actuara-verano-pamplona-809620-104.html",
+        "date": "2026-02-09 17:55:02",
+        "sentiment_score": 0.38665228523314
+    },
+    {
+        "title": "El Fòrum Gastronòmic de Girona reivindica la escudella ante el ramen",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/02/09/698a1c62a4eb6.jpeg",
+        "tags": [
+            "al día"
+        ],
+        "link": "https://www.lavanguardia.com/comer/al-dia/20260209/11462048/forum-gastronomic-girona-reivindica-escudella-ramen.html",
+        "date": "2026-02-09 17:53:36",
+        "sentiment_score": 0.06420984491705894
+    },
+    {
+        "title": "McLaren desvela su nuevo Fórmula 1 para el flamante campeón Lando Norris",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/02/09/698a17a31f3531-39498871.r_d.640-400.png",
+        "tags": [
+            "f1"
+        ],
+        "link": "https://www.20minutos.es/deportes/deportes_motor/formula-1/mclaren-desvela-su-nuevo-formula-1-para-flamante-campeon-lando-norris_6931939_0.html",
+        "date": "2026-02-09 17:52:18",
+        "sentiment_score": 0.5279147326946259
+    },
+    {
+        "title": "Surrealista debate en un ayuntamiento catalán por una canción de Carnaval",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/09/BCCD5008-7CBF-48FB-8120-CF01EBD23863/escudo-bandera-santa-margarida-els-monjos_69.jpg?crop=750%2C422%2Cx0%2Cy70&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/surrealista-debate-ayuntamiento-catalan-cancion-carnaval_20260209698a1e432f00a046880200d1.html",
+        "date": "2026-02-09 17:49:55",
+        "sentiment_score": -0.8053705841302872
+    },
+    {
+        "title": "Agricultura descarta el laboratorio de Barcelona como origen del brote de peste porcina",
+        "image_url": "https://static.eldiario.es/clip/18890b4a-1682-4311-ba17-62836dea68bb_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "cataluña",
+            "periodismo independiente",
+            "noticias",
+            "ignacio escolar",
+            "política",
+            "economía",
+            "actualidad"
+        ],
+        "link": "https://www.eldiario.es/catalunya/agricultura-descarta-laboratorio-barcelona-origen-brote-peste-porcina_1_12976472.html",
+        "date": "2026-02-09 17:48:42",
+        "sentiment_score": -0.13984717428684235
+    },
+    {
+        "title": "La guerra de Mercedes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7e6aa312-179b-4709-ba5f-68d32f36685f_16-9-aspect-ratio_default_0_x588y261.jpg",
+        "tags": [
+            "guerra",
+            "memoria democrática",
+            "madrid",
+            "guerra civil",
+            "españa"
+        ],
+        "link": "https://www.informacion.es/opinion/2026/02/09/guerra-mercedes-126637038.html",
+        "date": "2026-02-09 17:47:38",
+        "sentiment_score": -0.10924899578094482
     }
 ];
