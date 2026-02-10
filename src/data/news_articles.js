@@ -1,253 +1,5 @@
 export default [
     {
-        "title": "La publicación de Malacara en la que compara, con sarcasmo, el agua caída en Grazalema con la capacidad del Santiago Bernabéu",
-        "image_url": "https://static.grupojoly.com/clip/a32319a6-434f-479a-8031-3a7471bcd174_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "qué ver en sevilla",
-            "últimas noticias sevilla",
-            "qué hacer en sevilla"
-        ],
-        "link": "https://www.diariodesevilla.es/vivirensevilla/publicacion-malacara-lluvia-grazalema-bernabeu_0_2005830200.html",
-        "date": "2026-02-06 17:33:04",
-        "sentiment_score": -0.804453993216157
-    },
-    {
-        "title": "La pintora que desafió el arte y las reglas sociales y fue clave en la Generación del 27",
-        "image_url": "https://static.eldiario.es/clip/de581032-29f1-46de-a687-397ed0f9bb63_16-9-discover-aspect-ratio_default_1135999.jpg",
-        "tags": [
-            "maruja mallo",
-            "pintora",
-            "sociales",
-            "generacion",
-            "pm",
-            "clave",
-            "reglas",
-            "arte",
-            "27",
-            "desafio"
-        ],
-        "link": "https://www.eldiario.es/spin/pintora-desafio-arte-reglas-sociales-clave-generacion-27-maruja-mallo-pm_1_12969335.html",
-        "date": "2026-02-06 17:31:01",
-        "sentiment_score": 0.043044060468673706
-    },
-    {
-        "title": "La Bañeza disfraza su ayuntamiento como previa a los Carnavales",
-        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2026/02/06/decoracion%20carnaval-kblB-U20573538987ltF-1200x840@Leonoticias.jpg",
-        "tags": [
-            "carnaval"
-        ],
-        "link": "https://www.leonoticias.com/labaneza/baneza-disfraza-ayuntamiento-previa-carnavales-20260206181946-nt.html",
-        "date": "2026-02-06 17:19:51",
-        "sentiment_score": 0.30013345181941986
-    },
-    {
-        "title": "El 38 por ciento de los candidatos a los Premios Goya son mujeres",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/06/el-38-por-ciento-de-los-candidatos-a-los-premios-goya-son-mujeres/",
-        "date": "2026-02-06 17:18:08",
-        "sentiment_score": -0.0756387710571289
-    },
-    {
-        "title": "Muere a los cien años el ganadero Antonio Egea Colás",
-        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2026/02/06/egea1-R5Sn4SS2urgXVEj1xIc55pJ-1200x840@Hoy.jpg",
-        "tags": [
-            "extremadura",
-            "san vicente de alcántara",
-            "alburquerque (badajoz)",
-            "badajoz"
-        ],
-        "link": "https://www.hoy.es/extremadura/muere-cien-anos-ganadero-antonio-egea-colas-20260206173244-nt.html",
-        "date": "2026-02-06 17:15:16",
-        "sentiment_score": 0.1916934847831726
-    },
-    {
-        "title": "Carmen Machi, reconocida con el Premio a la Trayectoria Jesús Hermida de la Academia de la Televisión",
-        "image_url": "https://www.elplural.com/uploads/s1/24/48/81/2/carmen-machi_7_480x270.jpeg",
-        "tags": [
-            "extratele"
-        ],
-        "link": "https://www.elplural.com/extratele/carmen-machi-premio-trayectoria-jesus-hermida-academia-television_380848102",
-        "date": "2026-02-06 17:11:14",
-        "sentiment_score": 0.055108457803726196
-    },
-    {
-        "title": "Brooklyn Beckham da un paso más en la guerra con su familia y se borra un significativo tatuaje",
-        "image_url": "https://okdiario.com/look/img/2026/02/06/fotojet-2026-02-06t123746.825.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://okdiario.com/look/actualidad/brooklyn-beckham-da-paso-mas-guerra-familia-borra-significativo-tatuaje-2486085",
-        "date": "2026-02-06 17:10:49",
-        "sentiment_score": -0.331946462392807
-    },
-    {
-        "title": "Estalló el escándalo con Cristiano Ronaldo en Arabia Saudita tras su ‘huelga’: El duro comunicado de la liga",
-        "image_url": "https://noticiasaldiayalahora.co/wp-content/uploads/2026/02/Cristiano-Ronaldo-777x437.png",
-        "tags": [
-            "cristiano ronaldo",
-            "deportes"
-        ],
-        "link": "https://noticiasaldiayalahora.co/deportes/estallo-el-escandalo-con-cristiano-ronaldo-en-arabia-saudita-tras-su-huelga-el-duro-comunicado-de-la-liga/",
-        "date": "2026-02-06 17:10:00",
-        "sentiment_score": -0.10358287394046783
-    },
-    {
-        "title": "El Clásico de Leyendas llega a Costa Rica: Barça y Real Madrid reviven su rivalidad histórica",
-        "image_url": "https://www.infobae.com/resizer/v2/7TVHZPIKPNH6PGJI33Y5RCWGLQ.jpg?auth=098d8d2dae2265c2cda8782ebac77ce2e7e4f39503821144702b415ad1449f68&height=2263&smart=true&width=3327",
-        "tags": [
-            "el clásico",
-            "costa rica",
-            "barcelona",
-            "deportes",
-            "real madrid"
-        ],
-        "link": "https://www.infobae.com/costa-rica/2026/02/06/el-clasico-de-leyendas-llega-a-costa-rica-barca-y-real-madrid-reviven-su-rivalidad-historica/",
-        "date": "2026-02-06 17:07:18",
-        "sentiment_score": 0.23251844942569733
-    },
-    {
-        "title": "El Campeonato nacional de Esgrima se celebra este fin de semana en Almagro con casi 200 participantes",
-        "image_url": "http://st1.lacerca.com/imagenes/view/714c954df2c24826c2c7d4a52ad9335f.jpg",
-        "tags": [
-            "noticias",
-            "ciudad real"
-        ],
-        "link": "https://www.lacerca.com/noticias/ciudad_real/campeonato-nacional-esgrima-celebra-semana-almagro-200-participantes-800910-1.html",
-        "date": "2026-02-06 17:07:00",
-        "sentiment_score": 0.5459608044475317
-    },
-    {
-        "title": "Adif ha solucionado 12 de las 91 deficiencias graves detectadas en la red de Rodalies",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1cd39db2-4f2c-426b-8c33-5a8dd63da3fe_alta-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ministerio de transportes",
-            "adif",
-            "rodalies",
-            "infraestructuras",
-            "sílvia paneque i sureda",
-            "trenes",
-            "óscar puente santiago",
-            "conselleria de territori",
-            "movilidad",
-            "transportes",
-            "renfe"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260206/adif-repara-puntos-criticos-rodalies-deficiencias-126529719",
-        "date": "2026-02-06 17:31:35",
-        "sentiment_score": -0.7582755126059055
-    },
-    {
-        "title": "ADDA Simfònica y Josep Vicent arrancan el año con \"sold out\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7858101e-ba49-4c9d-8b08-c96f38ce6a4a_16-9-aspect-ratio_default_0_x710y314.jpg",
-        "tags": [
-            "adda simfònica",
-            "entradas",
-            "conciertos",
-            "cultura",
-            "josep vicent",
-            "adda",
-            "público"
-        ],
-        "link": "https://www.informacion.es/cultura/2026/02/06/adda-simfonica-josep-vicent-arrancan-alicante-sold-out-126533524.html",
-        "date": "2026-02-06 17:31:29",
-        "sentiment_score": -0.09390076994895935
-    },
-    {
-        "title": "Golpe al narcotráfico en Galicia: más de 125 puntos de droga desmantelados y 280 detenidos en 2025",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/02/06/6985ef32c0069.jpeg",
-        "tags": [
-            "galicia"
-        ],
-        "link": "https://www.eldebate.com/espana/galicia/20260206/golpe-narcotrafico-galicia-125-puntos-droga-desmantelados-280-detenidos-2025_382571.html",
-        "date": "2026-02-06 17:30:00",
-        "sentiment_score": -0.8065076936036348
-    },
-    {
-        "title": "El salón audiovisual ISE bate récord en la edición de 2026: más de 90.000 asistentes",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/01/30/economia/828927251_12340526_1706x960.jpg",
-        "tags": [
-            "inteligencia artificial",
-            "congresos barcelona",
-            "economía",
-            "fira de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260206/salon-audiovisual-ise-bate-record-edicion-asistentes/1003742730391_0.html",
-        "date": "2026-02-06 17:21:59",
-        "sentiment_score": 0.6844260990619659
-    },
-    {
-        "title": "Condena firme por el caso Abde: prisión para la cúpula del Hércules de Alicante por alzamiento de bienes",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2024/02/09/65c63f7572730.png",
-        "tags": [
-            "c. valenciana"
-        ],
-        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20260206/condena-firme-caso-abde-prision-cupula-hercules-alicante-alzamiento-bienes_382687.html",
-        "date": "2026-02-06 17:17:30",
-        "sentiment_score": -0.8392839096486568
-    },
-    {
-        "title": "Hace 16 años ganó un Goya con 13 años y hoy vive entre rodajes, viñedos y un trabajo “normal”",
-        "image_url": "https://es.gizmodo.com/app/uploads/2026/02/Gizmodo-80-1-1024x683.jpg",
-        "tags": [
-            "io9"
-        ],
-        "link": "https://es.gizmodo.com/hace-16-anos-gano-un-goya-con-13-anos-y-hoy-vive-entre-rodajes-vinedos-y-un-trabajo-normal-2000219015",
-        "date": "2026-02-06 17:15:07",
-        "sentiment_score": -0.06539052724838257
-    },
-    {
-        "title": "El Super Bowl supera a la Champions: más mexicanos han disputado la final de la NFL",
-        "image_url": "https://www.infobae.com/resizer/v2/WRBG5334EFHJLMYRXRGZR272LY.png?auth=7fb23f008cd3b9cef0a66d2dad775391413c8484cb9e094e73d52d8a51532d25&height=610&smart=true&width=980",
-        "tags": [
-            "mexico-deportes",
-            "super bowl lx",
-            "super bowl 2026",
-            "champions league",
-            "mexico-noticias"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2026/02/06/el-super-bowl-supera-a-la-champions-mas-mexicanos-han-disputado-la-final-de-la-nfl/",
-        "date": "2026-02-06 17:15:06",
-        "sentiment_score": 0.08170850574970245
-    },
-    {
-        "title": "Las autocaravanas y campers se posicionan como una alternativa de vivienda convencional",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b96c3c39-03eb-48ad-be83-a65d67029420_16-9-aspect-ratio_default_0_x960y360.jpg",
-        "tags": [
-            "caravanas",
-            "fira alacant",
-            "autocaravanas",
-            "campers",
-            "vivienda"
-        ],
-        "link": "https://www.informacion.es/economia/2026/02/06/autocaravanas-campers-posicionan-alternativa-vivienda-126527140.html",
-        "date": "2026-02-06 17:13:26",
-        "sentiment_score": 0.3027627468109131
-    },
-    {
-        "title": "La Sagrada Familia acoge la presentación de 'El Camino de Gaudí', un proyecto que une León y Cantabria",
-        "image_url": "https://www.lanuevacronica.com/uploads/s1/31/66/21/8/fotografia-presentacion-sagrada-familia-2-1.jpeg",
-        "tags": [
-            "lnc culturas"
-        ],
-        "link": "https://www.lanuevacronica.com/lnc-culturas/sagrada-familia-acoge-presentacion-el-camino-gaudi-proyecto-une-leon-cantabria_190717_102.html",
-        "date": "2026-02-06 17:13:15",
-        "sentiment_score": 0.5091878212988377
-    },
-    {
-        "title": "La Generalitat ultima ayudas a industrias afectadas por los cortes de trenes de mercancías",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2020aa1f-8700-43a6-9c23-7642badc03f4_alta-libre-aspect-ratio_default_0_x960y360.jpg",
-        "tags": [
-            "empresas",
-            "rodalies"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260206/cataluna-ayudas-industria-metal-afectaciones-bloqueo-trenes-mercancias-126536668",
-        "date": "2026-02-06 17:11:56",
-        "sentiment_score": -0.8972193291410804
-    },
-    {
         "title": "Minnesota United ficha al colombiano James Rodríguez para la MLS con contrato a corto plazo",
         "image_url": "https://i.headtopics.com/images/2026/2/6/latimes/minnesota-united-ficha-al-colombiano-james-rodr-gu-minnesota-united-ficha-al-colombiano-james-rodr-gu-D11425A1A6A572A030F1D076426E55B1.webp",
         "tags": [
@@ -3239,5 +2991,265 @@ export default [
         "link": "https://www.europasur.es/algeciras/entrevista-noelia-sabarea-bailaora-paco-lucia-corazon-pensamiento_0_2005690374.html",
         "date": "2026-02-10 01:40:05",
         "sentiment_score": 0.22171340137720108
+    },
+    {
+        "title": "La CEME reitera que no existen “garantías ni seguridad jurídica” en la aduana comercial “esté o no abierta”",
+        "image_url": "https://melillahoy.es/wp-content/uploads/2026/02/aduana-camion-melilla.jpg",
+        "tags": [
+            "josé manuel albares",
+            "ceme-ceoe",
+            "frontera",
+            "relaciones españa - marruecos",
+            "aduana comercial",
+            "relaciones internacionales",
+            "- ceme (confederación de empresarios de melilla)",
+            "aduana",
+            "enrique alcoba"
+        ],
+        "link": "https://melillahoy.es/la-ceme-reitera-que-no-existen-garantias-ni-seguridad-juridica-en-la-aduana-comercial-este-o-no-abierta/",
+        "date": "2026-02-10 07:11:57",
+        "sentiment_score": -0.48747581243515015
+    },
+    {
+        "title": "¿Cuántos juzgados se necesitan en la provincia? Gobierno, Junta y TSJA no se ponen de acuerdo",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/02/09/698a4ce0ee563.jpeg",
+        "tags": [
+            "almería"
+        ],
+        "link": "https://www.lavozdealmeria.com/almeria/457755/cuantos-juzgados-necesitan-provincia-gobierno-junta-tsja-ponen-acuerdo.html",
+        "date": "2026-02-10 06:33:15",
+        "sentiment_score": -0.7626514527946711
+    },
+    {
+        "title": "Lo de Rufián y Delgado: qué es, hacia dónde va y con quién cuentan",
+        "image_url": "https://www.elplural.com/uploads/s1/24/50/68/9/delgado-1_7_480x270.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elplural.com/politica/espana/rufian-delgado-es-hacia-donde-va-quien-cuentan_381020102",
+        "date": "2026-02-10 06:08:35",
+        "sentiment_score": -0.05868406593799591
+    },
+    {
+        "title": "Veinticuatro horas en Madrid",
+        "image_url": "https://s3.elespanol.com/2026/02/09/actualidad/1003744123150_261336660_1706x960.jpg",
+        "tags": [
+            "estados unidos",
+            "donald trump",
+            "opinión",
+            "el ágora"
+        ],
+        "link": "https://www.elespanol.com/malaga/opinion/20260210/veinticuatro-horas-madrid/1003744123146_13.html",
+        "date": "2026-02-10 05:50:00",
+        "sentiment_score": -0.10355319455265999
+    },
+    {
+        "title": "El Real Oviedo espera la decisión de la Federación Española de Fútbol mientras se arma para dar batalla",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/02/10/alfredo-canteli-javier-tebas-kXdD--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "liga de fútbol profesional",
+            "federacion española de futbol",
+            "pachuca",
+            "real oviedo"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-federacion-espanola-futbol-rayo-vallecano-20260210064732-nt.html",
+        "date": "2026-02-10 05:47:54",
+        "sentiment_score": 0.04388647899031639
+    },
+    {
+        "title": "La vivienda como inversión en 2025 resultó menos rentable, en torno al 6,5%",
+        "image_url": "https://www.estrategiasdeinversion.com/uploads/noticias_redaccion/native/alquileres_obsesion_de_la_fed_en_eeuu.jpg",
+        "tags": [
+            "actualidad - finanzas personales"
+        ],
+        "link": "https://www.estrategiasdeinversion.com/actualidad/finanzas-personales/la-vivienda-como-inversion-en-2025-resulto-menos-n-887931",
+        "date": "2026-02-10 05:40:00",
+        "sentiment_score": 0.16213922202587128
+    },
+    {
+        "title": "El caso Epstein deja a Starmer al borde del abismo: por qué piden que dimita como primer ministro",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/02/09/787F49B1-5EDA-4A0E-B25C-8280AFF94D23/primer-ministro-britanico-keir-starmer_96.jpg?crop=1920%2C1080%2Cx0%2Cy41&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "ondacero",
+            "noticias",
+            "mundo"
+        ],
+        "link": "https://www.ondacero.es/noticias/mundo/caso-epstein-deja-starmer-borde-abismo-que-piden-que-dimita-como-primer-ministro_20260210698ac2662f00a0468802ff3e.html",
+        "date": "2026-02-10 05:30:14",
+        "sentiment_score": -0.7615092750638723
+    },
+    {
+        "title": "El PP resta importancia a la pérdida de escaños en Aragón y se centra en desgastar a Sánchez",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/02/09/48378085-1CD1-4E6D-99B4-212FB4C1AAEF/resta-importancia-perdida-escanos-aragon-centra-desgastar-sanchez_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "españa",
+            "ondacero",
+            "noticias"
+        ],
+        "link": "https://www.ondacero.es/noticias/espana/resta-importancia-perdida-escanos-aragon-centra-desgastar-sanchez_20260210698ac00d9243cc133c3ec38f.html",
+        "date": "2026-02-10 05:20:13",
+        "sentiment_score": -0.7665563486516476
+    },
+    {
+        "title": "El árbitro detenido por agredir a una prostituta en Gijón negó haber estado en el piso, pero fue grabado por una cámara",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/02/09/arbitro-tarjeta-roja-k8xG-RDpDK5coaunj4quSlS8mWxL-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "oviedo",
+            "segunda división",
+            "gijón",
+            "delitos sexuales",
+            "el llano"
+        ],
+        "link": "https://www.elcomercio.es/gijon/arbitro-asturiano-agresion-prostituta-gijon-grabado-camara-20260209211609-nt.html",
+        "date": "2026-02-10 05:11:37",
+        "sentiment_score": -0.2521558105945587
+    },
+    {
+        "title": "Así es la galería oculta que hay bajo el túnel de la M-30: “Es de película”",
+        "image_url": "https://www.infobae.com/resizer/v2/OU44RWHK5BEFXI7DS2IDZK7AEY.jpg?auth=76eb10f63f247ec690c8c037de8543ed89d7b2479af6f5a691f96d9a3f45c935&height=1080&smart=true&width=1920",
+        "tags": [
+            "comunidad de madrid",
+            "m-30",
+            "madrid",
+            "tráfico españa",
+            "tráfico",
+            "dgt",
+            "coches",
+            "españa-noticias",
+            "españa-sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/viajes/2026/02/10/asi-es-la-galeria-oculta-que-hay-bajo-el-tunel-de-la-m-30-es-de-pelicula/",
+        "date": "2026-02-10 05:11:03",
+        "sentiment_score": -0.048063963651657104
+    },
+    {
+        "title": "La vida en los pueblos más envejecidos de León: «Solo hay dos calles asfaltadas»",
+        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2026/02/09/pueblo-provincia-leon-kDBB-U20621279881jNG-1200x840@Leonoticias.JPG",
+        "tags": [
+            "asfaltadas",
+            "calles",
+            "pueblos",
+            "leon",
+            "solo",
+            "dos",
+            "envejecidos",
+            "vida"
+        ],
+        "link": "https://www.leonoticias.com/comarcas/vida-pueblos-envejecidos-leon-solo-dos-calles-20260210191225-nt.html",
+        "date": "2026-02-10 07:12:46",
+        "sentiment_score": -0.16079245507717133
+    },
+    {
+        "title": "Desalojo en el mayor asentamiento de Barcelona para acabar con una plaga de ratas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HWENQSLFIRGFFGQQUSEAGAM474.JPG?auth=6a210dcc0b4f624226ee674889fcb70a39d6a972a4e9b166f13775641b8fe3e9&width=1200",
+        "tags": [
+            "barcelona",
+            "desalojos",
+            "personas sin hogar",
+            "chabolas",
+            "inmigración",
+            "migrantes",
+            "pobreza",
+            "plagas",
+            "salud pública",
+            "consorcio zona franca barcelona",
+            "inmigración irregular",
+            "limpieza urbana",
+            "cataluña",
+            "ayuntamiento barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2026-02-10/desalojo-en-el-mayor-asentamiento-de-barcelona-para-acabar-con-una-plaga-de-ratas.html",
+        "date": "2026-02-10 07:08:30",
+        "sentiment_score": 0.22739227861166
+    },
+    {
+        "title": "El vídeo de la aparatosa caída viral de Shakira en pleno concierto: \"Soy de caucho\"",
+        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/uploads/2026/02/10/698ad735308b9.jpeg",
+        "tags": [
+            "música"
+        ],
+        "link": "https://www.cadena100.es/musica/noticias/video-aparatosa-caida-viral-shakira-pleno-concierto-caucho-20260210_145884.html",
+        "date": "2026-02-10 07:03:14",
+        "sentiment_score": -0.12343178689479828
+    },
+    {
+        "title": "Submer adquiere Radian Arc para proporcionar una infraestructura de IA integral, desde los core datacenters hasta el edge compute",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/5/b2/5b229a21-a420-5a98-b6b5-4d074bf2b890/698adc8095e75.image.jpg?resize=300%2C192",
+        "tags": [
+            "national_business"
+        ],
+        "link": "https://www.joplinglobe.com/region/national_business/submer-adquiere-radian-arc-para-proporcionar-una-infraestructura-de-ia-integral-desde-los-core-datacenters/article_c93efec3-b2cb-5c39-b6f1-87608ad95a20.html",
+        "date": "2026-02-10 07:02:52",
+        "sentiment_score": -0.054720308631658554
+    },
+    {
+        "title": "La merluza se expande y cría cada vez más cerca de Asturias: la investigación pionera de la bióloga marina Cristina García",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b3ca0d44-b0e2-4e90-b04c-f42f168394bb_16-9-aspect-ratio_default_0_x800y300.jpg",
+        "tags": [
+            "talento exterior",
+            "áreas",
+            "asturias",
+            "oceanográfico",
+            "mar",
+            "la coruña"
+        ],
+        "link": "https://www.lne.es/asturias-exterior/2026/02/10/merluza-expande-cria-vez-cerca-126641385.html",
+        "date": "2026-02-10 07:00:48",
+        "sentiment_score": -0.04714643955230713
+    },
+    {
+        "title": "El cambio climático podría eliminar hasta el 50% de las zonas de pastoreo en 2100",
+        "image_url": "https://www.elboletin.com/wp-content/uploads/2026/02/pastoreo-en-venezuela.jpg",
+        "tags": [
+            "calentamiento global",
+            "agricultura",
+            "el boletin 2030",
+            "africa",
+            "ganadería",
+            "pastoreo",
+            "biodiversidad",
+            "cambio climatico"
+        ],
+        "link": "https://www.elboletin.com/el-cambio-climatico-podria-eliminar-hasta-el-50-de-las-zonas-de-pastoreo-en-2100/",
+        "date": "2026-02-10 07:00:27",
+        "sentiment_score": -0.254266619682312
+    },
+    {
+        "title": "Barcelona levanta un asentamiento en la Zona Franca por una plaga de ratas",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/10/698ad56c5333b9-70960969.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/barcelona-levanta-un-asentamiento-zona-franca-por-una-plaga-ratas_6931912_0.html",
+        "date": "2026-02-10 07:00:06",
+        "sentiment_score": -0.21665211766958237
+    },
+    {
+        "title": "Operativo policial: los Mossos desmantelan una red de tráfico de hachís en Badalona y Sant Adrià",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/10/gran-barcelona/1003742731182_15700286_1706x960.jpg",
+        "tags": [
+            "mossos d'esquadra",
+            "drogas",
+            "gran barcelona",
+            "consumo drogas",
+            "sucesos"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260210/operativo-policial-mossos-desmantelan-red-trafico-hachis-badalona-sant-adria/1003742731181_0.html",
+        "date": "2026-02-10 06:57:27",
+        "sentiment_score": -0.03528614342212677
+    },
+    {
+        "title": "Un fallo informático en Extranjería atasca expedientes de residencia y trabajo de miles de inmigrantes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a69d673f-4421-4799-8b92-5787cdb3501f_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "inmigración",
+            "justicia",
+            "españa",
+            "administraciones públicas",
+            "policía nacional"
+        ],
+        "link": "https://www.laopiniondemurcia.es/nacional/2026/02/10/extranjeria-fallo-informatico-paralizados-expedientes-regularizacon-trabajo-residencia-inmigrantes-espana-126649346.html",
+        "date": "2026-02-10 06:49:23",
+        "sentiment_score": -0.4834366887807846
     }
 ];
