@@ -1,459 +1,5 @@
 export default [
     {
-        "title": "Minnesota United ficha al colombiano James Rodríguez para la MLS con contrato a corto plazo",
-        "image_url": "https://i.headtopics.com/images/2026/2/6/latimes/minnesota-united-ficha-al-colombiano-james-rodr-gu-minnesota-united-ficha-al-colombiano-james-rodr-gu-D11425A1A6A572A030F1D076426E55B1.webp",
-        "tags": [
-            "united states news"
-        ],
-        "link": "https://us.headtopics.com/news/minnesota-united-ficha-al-colombiano-james-rodr-guez-para-79422110",
-        "date": "2026-02-06 22:06:55",
-        "sentiment_score": 0.5605922006070614
-    },
-    {
-        "title": "La escuela de Zaragoza de los 24 países y una decena con orígenes sólo españoles: \"Aquí funciona la fuerza del equipo\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/91bb3bada9f31695a868b9a67342276c/crop/717x297/2171x1751/f/image/jpeg/assets/multimedia/imagenes/2025/05/19/17476804195945.jpg",
-        "tags": [
-            "pilar alegría",
-            "aragón",
-            "educación infantil",
-            "jorge azcón",
-            "artículos olga r. sanmartín",
-            "educación",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/02/06/69863276e85eceb7658b458e.html",
-        "date": "2026-02-06 21:52:14",
-        "sentiment_score": 0.2688564583659172
-    },
-    {
-        "title": "María Hervás: \"Es más difícil mantener en su sitio la cabeza que la silueta\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/30a58a5c17fced99255e9c410242becd/crop/138x0/1892x2339/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/03/17701235014049.jpg",
-        "tags": [
-            "nlpremium",
-            "yodona",
-            "actrices",
-            "actualidad"
-        ],
-        "link": "https://www.elmundo.es/yodona/actualidad/2026/02/06/6981f107e85ece0b698b45bc.html",
-        "date": "2026-02-06 21:49:53",
-        "sentiment_score": 0.44550973922014236
-    },
-    {
-        "title": "La electricidad distribuida por Iberdrola creció un 7,5% en 2025 alcanzando récords en GWh",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/Iberdrola-Australia-RU.jpg",
-        "tags": [
-            "economía",
-            "electricidad",
-            "iberdrola"
-        ],
-        "link": "https://theobjective.com/economia/2026-02-06/iberdrola-electricidad-distribuida-mayor-demanda/",
-        "date": "2026-02-06 21:41:44",
-        "sentiment_score": 0.4554141517728567
-    },
-    {
-        "title": "Sam Rose: \"El ataque de Israel a nuestra sede es como si un Estado estuviera incendiando la Carta de Naciones Unidas\"",
-        "image_url": "https://static.eldiario.es/clip/10269380-1c6a-4915-a258-91ce7cb18b79_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "estuviera",
-            "sam",
-            "israel",
-            "incendiando",
-            "carta",
-            "unidas",
-            "rose",
-            "ataque",
-            "sede",
-            "si",
-            "naciones"
-        ],
-        "link": "https://www.eldiario.es/internacional/sam-rose-ataque-israel-sede-si-estuviera-incendiando-carta-naciones-unidas_128_12970210.html",
-        "date": "2026-02-06 21:05:03",
-        "sentiment_score": -0.39828117191791534
-    },
-    {
-        "title": "Mbappé envía un agente judicial al PSG para reclamar el pago de 5,9 millones de euros",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f1415d2f-35c2-47f1-a2a6-3ec2ac2ab49d_16-9-aspect-ratio_default_0_x917y0.jpg",
-        "tags": [
-            "mbappe",
-            "agente",
-            "psg",
-            "judicial",
-            "envia"
-        ],
-        "link": "https://www.noticiasdenavarra.com/futbol/2026/02/06/mbappe-envia-agente-judicial-psg-10670186.html",
-        "date": "2026-02-06 20:43:48",
-        "sentiment_score": -0.030036821961402893
-    },
-    {
-        "title": "Attaoui bate el récord de Europa y se queda a un paso del récord del mundo",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/02/06/2026020621232375421.jpg",
-        "tags": [
-            "otros deportes"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/otros-deportes/attaoui-bate-record-europa-queda-paso-record-mundo/20260206212550579744.html",
-        "date": "2026-02-06 20:25:50",
-        "sentiment_score": 0.7917977571487427
-    },
-    {
-        "title": "Malas noticias para el Real Madrid: Rodrygo fuera de acción",
-        "image_url": "https://pxcdn.meridiano.net/022026/1770409168506.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/malas-noticias-para-el-real-madrid-rodrygo-fuera-de-accion-20262616200",
-        "date": "2026-02-06 20:20:00",
-        "sentiment_score": -0.7705597542226315
-    },
-    {
-        "title": "Víctima de los elementos en el Buesa Arena",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b76a0f66-155a-43ed-a5fd-39c9cf43f56b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "arena",
-            "buesa",
-            "victima",
-            "elementos"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/06/victima-elementos-buesa-arena-10670599.html",
-        "date": "2026-02-06 22:18:48",
-        "sentiment_score": 0.5125114917755127
-    },
-    {
-        "title": "El Barça revive en Vitoria gracias al triple y a la defensa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a1a18dbf-0c10-44a3-91a0-27eacb16ab95_16-9-aspect-ratio_default_0_x703y312.jpg",
-        "tags": [
-            "fc barcelona de baloncesto",
-            "baloncesto",
-            "euroliga",
-            "baskonia",
-            "barça"
-        ],
-        "link": "https://www.lne.es/deportes/2026/02/06/barca-revive-vitoria-gracias-triple-126543787.html",
-        "date": "2026-02-06 22:00:32",
-        "sentiment_score": -0.8230497762560844
-    },
-    {
-        "title": "Dos décadas de liderazgo cardiovascular: «La estrategia futura pasa por la captación y retención de talento»",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/02/06/todos-R9xolpNVFgTsY8fCdWHz2kI-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "huca"
-        ],
-        "link": "https://www.elcomercio.es/asturias/dos-decadas-liderazgo-cardiovascular-estrategia-futura-pasa-20260206212639-nt.html",
-        "date": "2026-02-06 21:57:03",
-        "sentiment_score": 0.7578861936926842
-    },
-    {
-        "title": "Comienzan los preparativos para la visita del papa León XIV a Canarias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d948c6a6-730c-4030-bafe-4ff9963db516_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "león",
-            "madrid",
-            "barcelona",
-            "canarias",
-            "españa"
-        ],
-        "link": "https://www.laprovincia.es/canarias/2026/02/06/comienzan-preparativos-visita-papa-leon-126543508.html",
-        "date": "2026-02-06 21:52:20",
-        "sentiment_score": 0.1526403147727251
-    },
-    {
-        "title": "El Baskonia se desinfla ante el Barça",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/23217ae9-5f6f-48a2-a95e-99ed4841d89e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "baskonia",
-            "barca",
-            "desinfla"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/06/baskonia-desinfla-barca-10669639.html",
-        "date": "2026-02-06 21:50:47",
-        "sentiment_score": -0.617933489382267
-    },
-    {
-        "title": "Marc Janeras (manifestación usuarios de Rodalies): \"El ministro Óscar Puente es un propagandista y está alejado de la realidad\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/c5ec876da0e694d95968b36a655485c8/crop/102x26/940x867/f/image/jpeg/assets/multimedia/imagenes/2023/04/17/16817425449512.jpg",
-        "tags": [
-            "artículos gerard melgar",
-            "gobierno de españa",
-            "política",
-            "transporte y turismo",
-            "renfe",
-            "generalitat de cataluña",
-            "nlpremium",
-            "óscar puente",
-            "rodalíes",
-            "barcelona"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2026/02/06/698642cee4d4d885028b459c.html",
-        "date": "2026-02-06 21:50:42",
-        "sentiment_score": -0.9198178322985768
-    },
-    {
-        "title": "Dos noticias amargas aguan el triunfo del Barça",
-        "image_url": "https://static1.ara.cat/clip/8e5a5dd1-7dfb-4699-866c-e69316c44cb4_16-9-aspect-ratio_default_1056050.jpg",
-        "tags": [
-            "noticias",
-            "triunfo",
-            "amargas",
-            "barca",
-            "aguan"
-        ],
-        "link": "https://es.ara.cat/deportes/baloncesto/noticias-amargas-aguan-triunfo-barca_1_5641018.html",
-        "date": "2026-02-06 21:39:44",
-        "sentiment_score": -0.18273642659187317
-    },
-    {
-        "title": "Realizaron la instalación del Comité Ejecutivo Seccional Anzoátegui de Acción Democrática",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "locales",
-            "política"
-        ],
-        "link": "https://eltiempove.com/realizaron-la-instalacion-del-comite-ejecutivo-seccional-anzoategui-de-accion-democratica/",
-        "date": "2026-02-06 21:31:39",
-        "sentiment_score": 0.11053896695375443
-    },
-    {
-        "title": "Jorge Bustos: \"He sido tertuliano toda mi vida y ahora los odio porque se alargan y necesito controlar el tiempo\"",
-        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744120237_261299049_1706x960.jpg",
-        "tags": [
-            "carlos herrera",
-            "radio",
-            "cadena cope",
-            "medios de comunicación",
-            "medios"
-        ],
-        "link": "https://www.elespanol.com/invertia/medios/20260207/jorge-bustos-tertuliano-toda-vida-ahora-odio-alargan-necesito-controlar-tiempo/1003744119649_0.html",
-        "date": "2026-02-07 01:38:41",
-        "sentiment_score": 0.044349104166030884
-    },
-    {
-        "title": "El temporal mantiene cerradas 99 carreteras, 85 por las intensas lluvias y 14 por nieve",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/07/el-temporal-mantiene-cerradas-99-carreteras-85-por-las-intensas-lluvias-y-14-por-nieve/",
-        "date": "2026-02-07 01:30:55",
-        "sentiment_score": -0.7503957897424698
-    },
-    {
-        "title": "Los 167.000 alumnos y 418 centros de FP en jaque tras el anuncio de Pedro Sánchez de regular los \"chiringuitos\"",
-        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744120503_261302880_1706x960.jpg",
-        "tags": [
-            "formación profesional",
-            "madrid",
-            "comunidad de madrid",
-            "sociedad"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20260207/alumnos-centros-fp-jaque-anuncio-pedro-sanchez-regular-chiringuitos/1003744120405_0.html",
-        "date": "2026-02-07 01:00:00",
-        "sentiment_score": 0.4306170791387558
-    },
-    {
-        "title": "El Carné Joven madrileño suma casi 79.000 usuarios en un año y alcanza al 54% de la población juvenil",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2026/02/06/joven_1-RaOtHAjC3DKB0CjndioWkXJ-1200x840@diario_abc.png",
-        "tags": [
-            "madrid",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/madrid/carne-joven-madrileno-suma-79000-usuarios-ano-20260206015414-nt.html",
-        "date": "2026-02-07 00:54:14",
-        "sentiment_score": 0.5652317032217979
-    },
-    {
-        "title": "Ronaldo se pierde su segundo partido con Al-Nassr en medio de informes de descontento con el club",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/f72d4d0/2147483647/strip/true/crop/5462x2868+0+387/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd6%2F9d%2F7ef5e1024474b0a0b580e7966e35%2F23e2b51b33e3419eb1c73b167abfcd96.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-06/ronaldo-se-pierde-su-segundo-partido-con-al-nassr-en-medio-de-informes-de-descontento-con-el-club",
-        "date": "2026-02-07 00:43:25",
-        "sentiment_score": -0.8896999508142471
-    },
-    {
-        "title": "Todo preparado para la 40a edición de la Gala Nacional de Piragüismo, este sábado, en Gijón",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3b72fd86-a711-4b63-8875-02585f4b4d5f_16-9-aspect-ratio_default_0_x770y938.jpg",
-        "tags": [
-            "federación",
-            "piragüismo",
-            "policía nacional",
-            "árbitros"
-        ],
-        "link": "https://www.lne.es/oriente/2026/02/07/preparado-40a-edicion-gala-nacional-126545830.html",
-        "date": "2026-02-07 00:09:26",
-        "sentiment_score": 0.0848345085978508
-    },
-    {
-        "title": "Pendientes de la borrasca Marta: Aemet eleva los avisos y riesgo de desbordamiento",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/07/698672c606fdc.jpeg",
-        "tags": [
-            "andalucía"
-        ],
-        "link": "https://www.cope.es/emisoras/andalucia/al-minuto/ultima-hora-borrasca-marta-aemet-eleva-avisos-lluvia-viento-riesgo-desbordamiento-rios-20260207_3303178.html",
-        "date": "2026-02-07 00:05:00",
-        "sentiment_score": -0.14409373700618744
-    },
-    {
-        "title": "Racha histórica al alcance y cuenta pendiente con el Bilbao Athletic",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e6566482-022a-47e8-9724-a7008331d235_16-9-discover-aspect-ratio_default_0_x872y387.jpg",
-        "tags": [
-            "enric gallego",
-            "cd tenerife",
-            "jesús de miguel",
-            "álvaro cervera",
-            "athletic club"
-        ],
-        "link": "https://www.eldia.es/deportes/cd-tenerife/2026/02/07/racha-historica-alcance-cuenta-pendiente-126540323.html",
-        "date": "2026-02-06 23:59:10",
-        "sentiment_score": -0.036465853452682495
-    },
-    {
-        "title": "Frenkie de Jong 2026: el arquitecto silencioso que Flick convirtió en imprescindible",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/17/2025021706330031070.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/frenkie-jong-2026-arquitecto-silencioso-que-flick-convirtio-imprescindible/20260207005744373713.html",
-        "date": "2026-02-06 23:57:44",
-        "sentiment_score": 0.4802684038877487
-    },
-    {
-        "title": "Los intereses comunes que evitan la ruptura definitiva entre Joan Laporta y Florentino Pérez",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/05/31/culemania/primer-equipo/767933298_15663485_1706x960.jpg",
-        "tags": [
-            "joan laporta",
-            "real madrid",
-            "la liga",
-            "javier tebas",
-            "fcb basket",
-            "camp nou",
-            "florentino pérez",
-            "barça",
-            "nba",
-            "estadio santiago bernabéu"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260207/intereses-comunes-definitiva-joan-laporta-florentino-perez/1003742728261_0.html",
-        "date": "2026-02-06 23:35:52",
-        "sentiment_score": -0.27016130089759827
-    },
-    {
-        "title": "Clima: las temperaturas que predominarán este 7 de febrero en Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima en españa",
-            "clima",
-            "últimas actualizaciones",
-            "clima en barcelona"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/07/clima-las-temperaturas-que-predominaran-este-7-de-febrero-en-barcelona/",
-        "date": "2026-02-07 02:15:37",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "Huelga de maquinistas del 9 al 11 de febrero: qué trenes paran y qué servicios habrá",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/22/2026012219335672992.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.mundiario.com/articulo/economia/huelga-maquinistas-9-11-febrero-que-trenes-paran-que-servicios-habra/20260207030132373716.html",
-        "date": "2026-02-07 02:01:32",
-        "sentiment_score": -0.9128714548423886
-    },
-    {
-        "title": "El mejor momento para ser joven",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/6527acf41681b9fef92faa161ef584c9/crop/485x95/1558x1101/f/image/jpeg/assets/multimedia/imagenes/2022/11/16/16686363463923.jpg",
-        "tags": [
-            "future makers",
-            "artículos paula maría"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/02/07/69860693e85eced6148b45ba.html",
-        "date": "2026-02-07 01:57:56",
-        "sentiment_score": -0.07876379787921906
-    },
-    {
-        "title": "El cierre de las redes enciende a los jóvenes: del \"es normal, somos menores\" de Álex al \"sólo ahí puedo ser yo\" de Sebas",
-        "image_url": "https://s3.elespanol.com/2026/02/06/reportajes/1003744120508_261302946_1706x960.jpg",
-        "tags": [
-            "redes sociales",
-            "internet",
-            "adicciones",
-            "reportajes-newsletter",
-            "tiktok",
-            "pedro sánchez",
-            "reportajes",
-            "menores",
-            "porfolio"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260207/cierre-redes-enciende-jovenes-normal-menores-alex-solo-ahi-puedo-sebas/1003744119580_0.html",
-        "date": "2026-02-07 00:40:00",
-        "sentiment_score": 0.02588517963886261
-    },
-    {
-        "title": "El salón del audiovisual ISE vive su edición más inteligente y masiva con nueva fundación a la vista para afianzar su legado.",
-        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744119245_261286322_1706x960.jpg",
-        "tags": [
-            "imagen y sonido",
-            "eventos tecnologia e innovación",
-            "inteligencia artificial",
-            "tecnología",
-            "gran empresa",
-            "sector audiovisual",
-            "digitalización",
-            "innovación"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20260207/salon-audiovisual-ise-vive-edicion-inteligente-masiva-nueva-fundacion-vista-afianzar-legado/1003744119214_0.html",
-        "date": "2026-02-07 00:34:00",
-        "sentiment_score": 0.5268262587487698
-    },
-    {
-        "title": "Laporta expande el modelo de fútbol de la Masía: 10 nuevas Barça Academy y 56 países con campus",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/03/25/culemania/secciones/842675915_12679463_1706x960.jpg",
-        "tags": [
-            "fc barcelona",
-            "palco",
-            "la masía"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260207/laporta-expande-modelo-futbol-masia-barca-academy/1003742730478_0.html",
-        "date": "2026-02-07 00:24:39",
-        "sentiment_score": 0.36879826709628105
-    },
-    {
-        "title": "Isabel Coixet: \"Eso de que la enfermedad nos hace mejores es casi tan falso como que leer nos hace mejores\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/e6254ddced7937c2244bbb4651a0e03c/crop/0x24/1181x1205/f/image/jpeg/assets/multimedia/imagenes/2021/05/31/16224775184865.jpg",
-        "tags": [
-            "artículos luis martínez",
-            "cine",
-            "cultura",
-            "críticas de cine"
-        ],
-        "link": "https://www.elmundo.es/la-lectura/2026/02/07/697cd50bfdddff5e4f8b45a1.html",
-        "date": "2026-02-07 00:21:31",
-        "sentiment_score": 0.2183956801891327
-    },
-    {
-        "title": "Los consulados afrontan una escalada de atenciones por la regularización",
-        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2026/02/06/consuladomarruecos-kq9D--758x531@El%20Correo.jpg",
-        "tags": [
-            "españa",
-            "bilbao",
-            "venezuela"
-        ],
-        "link": "https://www.elcorreo.com/bizkaia/consulados-afrontan-escalada-atenciones-regularizacion-20260206011112-nt.html",
-        "date": "2026-02-07 00:11:15",
-        "sentiment_score": 0.16093755513429642
-    },
-    {
-        "title": "Principales titulares de los periódicos para el sábado 7 de febrero",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/06/principales-titulares-de-los-periodicos-para-el-sabado-7-de-febrero/",
-        "date": "2026-02-06 23:45:33",
-        "sentiment_score": 0.003541223704814911
-    },
-    {
         "title": "Daniel Díaz, empresario de 30 años, descorcha una verdad incómoda en el enoturismo: \"Ocultar los precios es un error\"",
         "image_url": "https://s3.elespanol.com/2026/01/29/actualidad/1003744108956_261155754_1706x960.jpg",
         "tags": [
@@ -510,53 +56,6 @@ export default [
         "sentiment_score": -0.17847466468811035
     },
     {
-        "title": "Los once dones de doña Isabel",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6b3fccb2-ec85-4479-aa0f-643f30abcc54_16-9-aspect-ratio_default_0_x600y250.jpg",
-        "tags": [
-            "madrid",
-            "víctimas",
-            "comunidad de madrid",
-            "presidente del gobierno"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2026/02/07/once-dones-dona-isabel-126534408.html",
-        "date": "2026-02-07 06:00:38",
-        "sentiment_score": -0.723688580095768
-    },
-    {
-        "title": "Orejas tiesas",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "orejas",
-            "tiesas"
-        ],
-        "link": "https://www.deia.eus/opinion/rojo-sobre-blanco/2026/02/07/orejas-tiesas-10669807.html",
-        "date": "2026-02-07 06:00:35",
-        "sentiment_score": -0.13276800513267517
-    },
-    {
-        "title": "En directo | Badajoz vuelve a cortar el Puente de la Autonomía por el caudal del Guadiana",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b7c78395-910b-4238-91d8-8743244a5530_alta-libre-aspect-ratio_default_0_x960y360.jpg",
-        "tags": [
-            "borrasca",
-            "temporal"
-        ],
-        "link": "https://www.diariodemallorca.es/sociedad/2026/02/07/sigue-directo-incidencias-borrasca-marta-126499918.html",
-        "date": "2026-02-07 06:00:00",
-        "sentiment_score": -0.43799128383398056
-    },
-    {
-        "title": "En directo | Badajoz mantiene cerrado el Puente de la Autonomía por el temporal",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b7c78395-910b-4238-91d8-8743244a5530_16-9-aspect-ratio_default_0_x960y360.jpg",
-        "tags": [
-            "inundación",
-            "borrasca",
-            "temporal"
-        ],
-        "link": "https://www.informacion.es/sociedad/2026/02/07/sigue-directo-incidencias-borrasca-marta-126499924.html",
-        "date": "2026-02-07 06:00:00",
-        "sentiment_score": -0.4869232848286629
-    },
-    {
         "title": "Una muerte en Carnaval por un maletín de dinero que no existía",
         "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2026/02/06/escenacrimen-RV6gsIALI1J7KExDXTq6zJJ-1200x840@Hoy.jpg",
         "tags": [
@@ -594,76 +93,6 @@ export default [
         "link": "https://okdiario.com/cataluna/prevision-aemet-barcelona-con-nubes-lluvias-debiles-y-viento-moderado-hoy-16204595",
         "date": "2026-02-07 06:20:49",
         "sentiment_score": -0.395480215549469
-    },
-    {
-        "title": "Rearme: el riesgo para la colaboración científica en el Mediterráneo",
-        "image_url": "https://static1.ara.cat/clip/b63f3941-8e02-4a51-a30f-1ec9c2f03c62_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "colaboracion",
-            "mediterraneo",
-            "rearme",
-            "riesgo",
-            "cientifica"
-        ],
-        "link": "https://es.ara.cat/economia/rearme-riesgo-colaboracion-cientifica-mediterraneo_1_5641070.html",
-        "date": "2026-02-07 06:00:53",
-        "sentiment_score": 0.4061935469508171
-    },
-    {
-        "title": "Destinos europeos con mucho que celebrar en 2026",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/049866f5-09f2-433b-b13f-0d6294f15e82_16-9-aspect-ratio_default_0_x2608y2244.jpg",
-        "tags": [
-            "celebrar",
-            "europeos",
-            "2026",
-            "destinos",
-            "mucho"
-        ],
-        "link": "https://www.deia.eus/viajes/2026/02/07/destinos-europeos-mucho-celebrar-2026-10670739.html",
-        "date": "2026-02-07 06:00:41",
-        "sentiment_score": -0.2520790547132492
-    },
-    {
-        "title": "Nueva pugna en la banda derecha del Alavés",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/dcbea954-e920-4034-8d7f-dbc83584598a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "calebe",
-            "alavés",
-            "nueva",
-            "banda",
-            "pugna",
-            "derecha",
-            "laliga",
-            "vicente"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2026/02/07/nueva-pugna-banda-derecha-alaves-laliga-vicente-calebe-10669339.html",
-        "date": "2026-02-07 06:00:35",
-        "sentiment_score": -0.18682488799095154
-    },
-    {
-        "title": "Adrian Newey analiza el Aston Martin de la normativa de la FIA de 2026 para Fernando Alonso: \"No es agresivo\"",
-        "image_url": "https://hips.hearstapps.com/hmg-prod/images/newey-6984e6dbc9669.jpg",
-        "tags": [
-            "shorttitle: adrian newey analiza el aston martin f1 de 2026",
-            "locale: es",
-            "content-type: news",
-            "contentid: df23cebd-e038-4a3c-b38f-d0f3b7662e36",
-            "collection: noticias f1",
-            "displaytype: standard article"
-        ],
-        "link": "https://www.caranddriver.com/es/formula-1/a70259585/adrian-newey-analiza-aston-martin-fia-2026-fernando-alonso-no-agresivo/",
-        "date": "2026-02-07 06:00:00",
-        "sentiment_score": 0.050373561680316925
-    },
-    {
-        "title": "El restaurante de carretera que conquista a los esquiadores: cocina tradicional catalana y casera cerca de Andorra",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/01/697f75ad350d00-90647691.png",
-        "tags": [
-            "restaurantes"
-        ],
-        "link": "https://www.20minutos.es/gastronomia/restaurantes/restaurante-carretera-conquista-esquiadores-cocina-tradicional-catalana-casera-cerca-andorra_6928459_0.html",
-        "date": "2026-02-07 06:00:00",
-        "sentiment_score": -0.0027537792921066284
     },
     {
         "title": "Yamal se redime de un fallo con un gol en la victoria del líder Barcelona 3-0 sobre Mallorca",
@@ -3251,5 +2680,191 @@ export default [
         "link": "https://www.laopiniondemurcia.es/nacional/2026/02/10/extranjeria-fallo-informatico-paralizados-expedientes-regularizacon-trabajo-residencia-inmigrantes-espana-126649346.html",
         "date": "2026-02-10 06:49:23",
         "sentiment_score": -0.4834366887807846
+    },
+    {
+        "title": "Eclipse solar de \"anillo de fuego\": cuándo es y dónde se podrá ver",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/Screenshot_91.jpg",
+        "tags": [
+            "ciencia",
+            "eclipse solar",
+            "titulares"
+        ],
+        "link": "https://lapatilla.com/2026/02/10/eclipse-solar-de-anillo-de-fuego-cuando-es-y-donde-se-podra-ver/",
+        "date": "2026-02-10 13:10:06",
+        "sentiment_score": -0.025666460394859314
+    },
+    {
+        "title": "Cae una trama de trabajadores de empresas de mantenimiento que robaron toneladas de material ferroviario",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/40/media_thumb-link-4145279.webp?1770671286=",
+        "tags": [
+            "cobre",
+            "material ferroviario",
+            "actualidad",
+            "robo",
+            "adif",
+            "ferratum"
+        ],
+        "link": "https://www.meneame.net/story/cae-trama-trabajadores-empresas-mantenimiento-robaron-toneladas",
+        "date": "2026-02-10 09:35:03",
+        "sentiment_score": -0.6220288313925266
+    },
+    {
+        "title": "Lamine Yamal se centra en el campo",
+        "image_url": "https://okdiario.com/img/2026/02/10/lamine-yamal-se-centra-interior-1.jpg",
+        "tags": [
+            "deportes",
+            "lamine yamal",
+            "fc barcelona",
+            "barcelona"
+        ],
+        "link": "https://okdiario.com/deportes/lamine-yamal-centra-campo-16219660",
+        "date": "2026-02-10 18:00:49",
+        "sentiment_score": 0.32388993352651596
+    },
+    {
+        "title": "Las palabras de Carlo Costanzia que reavivan los rumores de un segundo hijo con Alejandra Rubio",
+        "image_url": "https://okdiario.com/look/img/2026/02/10/u597302_013-1.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://okdiario.com/look/actualidad/palabras-carlo-costanzia-reavivan-rumores-segundo-hijo-alejandra-rubio-2488140",
+        "date": "2026-02-10 18:00:31",
+        "sentiment_score": -0.039789244532585144
+    },
+    {
+        "title": "¡Sin fichajes en enero! El Real Madrid rechazó a figura del Manchester City",
+        "image_url": "https://i.ytimg.com/vi/i7B_AWooejA/mqdefault.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/sin-fichajes-en-enero-el-real-madrid-rechazo-a-figura-del-manchester-city-202621013550",
+        "date": "2026-02-10 17:55:00",
+        "sentiment_score": -0.8401649240404367
+    },
+    {
+        "title": "Matarazzo desafía a San Mamés: \"No vamos a ir con el freno de mano\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/10/698b6daaad085.jpeg",
+        "tags": [
+            "deportes gipuzkoa"
+        ],
+        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-guipuzcoa/noticias/matarazzo-desafia-san-mames-freno-mano-20260210_3305226.html",
+        "date": "2026-02-10 17:51:13",
+        "sentiment_score": -0.08425047993659973
+    },
+    {
+        "title": "El director de la RAE, elegido académico de número de la Real Academia de Jurisprudencia y Legislación de España",
+        "image_url": "https://static.grupojoly.com/clip/800b8059-1c91-4287-839d-52094944bfed_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "director",
+            "rae",
+            "numero",
+            "elegido",
+            "academico"
+        ],
+        "link": "https://www.diariodejerez.es/ocio/director-rae-elegido-academico-numero_0_2005870967.html",
+        "date": "2026-02-10 17:46:03",
+        "sentiment_score": 0.20677505433559418
+    },
+    {
+        "title": "Audrey Pascual cierra con dos platas y el Globo de Cristal de Gigante la Copa del Mundo de Esquí Paralímpico",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260210184459_690.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/noticia-audrey-pascual-cierra-dos-platas-globo-cristal-gigante-copa-mundo-esqui-paralimpico-20260210184459.html",
+        "date": "2026-02-10 17:44:59",
+        "sentiment_score": 0.7148892655968666
+    },
+    {
+        "title": "Aragón insta al Ministerio a derogar por duplicidad el registro nacional de Viviendas de Uso Turístico",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260210184217_690.jpg",
+        "tags": [
+            "aragón"
+        ],
+        "link": "https://www.europapress.es/aragon/noticia-aragon-insta-ministerio-derogar-duplicidad-registro-nacional-viviendas-uso-turistico-20260210184217.html",
+        "date": "2026-02-10 17:42:17",
+        "sentiment_score": -0.8683540718629956
+    },
+    {
+        "title": "Juan Conde, experto económico: “No es el momento ideal para comprar un piso, a no ser que encuentres esto: una oportunidad que no puedes dejar pasar”",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/17/691ba0de65b0f.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.cope.es/actualidad/economia/noticias/juan-conde-experto-economico-momento-ideal-comprar-piso-encuentres-esto-oportunidad-puedes-dejar-pasar-20260210_3305222.html",
+        "date": "2026-02-10 17:40:30",
+        "sentiment_score": -0.08497683703899384
+    },
+    {
+        "title": "Cuáles son las políticas que Vox exige para investir a Guardiola en Extremadura: la derogación de la ley LGTBI y revisar la inmigración",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2025/12/13/4EF056DC-697E-4A62-BC3E-4F6AA39E25CF/lider-vox-santiago-abascal-acto-extremadura_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "noticias",
+            "ondacero",
+            "españa"
+        ],
+        "link": "https://www.ondacero.es/noticias/espana/cuales-son-politicas-que-vox-exige-investir-guardiola-extremadura-derogacion-ley-lgtbi-revisar-inmigracion_20260210698b6d322f00a04688045562.html",
+        "date": "2026-02-10 17:38:58",
+        "sentiment_score": -0.6551452167332172
+    },
+    {
+        "title": "El Foro Español de Pacientes celebra como \"un paso decisivo\" el Anteproyecto de Ley de Organizaciones de Pacientes",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260210183857_690.jpg",
+        "tags": [
+            "actualidad",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/actualidad/noticia-foro-espanol-pacientes-celebra-paso-decisivo-anteproyecto-ley-organizaciones-pacientes-20260210183857.html",
+        "date": "2026-02-10 17:38:57",
+        "sentiment_score": 0.6595544889569283
+    },
+    {
+        "title": "Luna Ki, participante del Benidorm Fest: lanza una 'Bomba de amor' sin el autotune que la acorraló en la primera edición",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/50ead6d2-edbf-4b8e-aec5-99fdd7494273_16-9-aspect-ratio_default_0_x1085y474.jpg",
+        "tags": [
+            "benidorm fest",
+            "rtve",
+            "música",
+            "eurovisión"
+        ],
+        "link": "https://www.lacronicabadajoz.com/cultura/2026/02/10/arma-luna-ki-ganar-benidorm-fest-lanza-bomba-amor-autotune-126680775.html",
+        "date": "2026-02-10 18:00:48",
+        "sentiment_score": 0.45970501005649567
+    },
+    {
+        "title": "El Estado registró 11.543 convenios vigentes en 2025 con otras administraciones y entes privados, un 5,8% más",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260210183330.jpg?fit=1920%2C1079&ssl=1",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://cronicadecantabria.com/cr/el-estado-registr-11-543-convenios-vigentes-en-2025-con-otras-administraciones-y-entes-privados-un-58-ms/",
+        "date": "2026-02-10 18:00:05",
+        "sentiment_score": 0.0017655938863754272
+    },
+    {
+        "title": "Un estudio liderado por el CSIC identifica una variante genética asociada a un mayor riesgo de padecer Covid-19 grave",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260210181146.jpg?fit=1280%2C853&ssl=1",
+        "tags": [
+            "sanidad"
+        ],
+        "link": "https://cronicadecantabria.com/cr/un-estudio-liderado-por-el-csic-identifica-una-variante-gentica-asociada-a-un-mayor-riesgo-de-padecer-covid-19-grave/",
+        "date": "2026-02-10 18:00:03",
+        "sentiment_score": -0.5655683986842632
+    },
+    {
+        "title": "La bonanza hotelera en Benidorm se topa con un 3,6 % de destrucción de empleo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/59adf8b4-2bc4-4f5f-9bdd-87b6076b4571_16-9-aspect-ratio_default_0_x750y325.jpg",
+        "tags": [
+            "camping",
+            "hosbec",
+            "empleo",
+            "apartamentos",
+            "hoteles",
+            "pernoctaciones"
+        ],
+        "link": "https://www.informacion.es/economia/2026/02/10/bonanza-hotelera-benidorm-topa-destruccion-empleo-2025-126669560.html",
+        "date": "2026-02-10 17:59:18",
+        "sentiment_score": 0.37629444897174835
     }
 ];
