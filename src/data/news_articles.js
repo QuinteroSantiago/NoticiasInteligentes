@@ -1,162 +1,5 @@
 export default [
     {
-        "title": "Yamal se redime de un fallo con un gol en la victoria del líder Barcelona 3-0 sobre Mallorca",
-        "image_url": "https://dims.apnews.com/dims4/default/46dd26c/2147483647/strip/true/crop/4284x2852+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F77%2F9c%2Fe03d8fcb9a55f5b5dc02595ce804%2Fa977325afd3b46c88d127f5844fb9300",
-        "tags": [
-            "barcelona la liga mallorca sociedad",
-            "send to apple news",
-            "deportes",
-            "sports"
-        ],
-        "link": "https://apnews.com/article/barcelona-la-liga-mallorca-sociedad-cba5ed5cae2e34bacaedbac7e0174e74",
-        "date": "2026-02-07 17:42:16",
-        "sentiment_score": -0.16350485384464264
-    },
-    {
-        "title": "Yamal se redime de un fallo con un gol en la victoria del líder Barcelona 3-0 sobre Mallorca",
-        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2026/02/ESPA209A-LIGA_74412.jpg?strip=all&w=1400px",
-        "tags": [
-            "en español"
-        ],
-        "link": "https://www.chicagotribune.com/2026/02/07/yamal-se-redime-de-un-fallo-con-un-gol-en-la-victoria-del-lder-barcelona-3-0-sobre-mallorca/",
-        "date": "2026-02-07 17:42:15",
-        "sentiment_score": -0.27688221633434296
-    },
-    {
-        "title": "El Barça desarma al Mallorca y sigue luciendo liderato",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2026/02/07/698778089bfb5.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/deportes/futbol/2026/02/07/barca-desarma-mallorca-sigue-luciendo-liderato-809403-31.html",
-        "date": "2026-02-07 17:38:17",
-        "sentiment_score": 0.5410788729786873
-    },
-    {
-        "title": "El Barça mete la directa al frente de la Liga",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/02/07/barcelona-mallorca-cronica-kMZG-U20575043888aLI-1200x840@RC.jpg",
-        "tags": [
-            "f.c. barcelona"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-primera/cronica-barcelona-mallorca-jornada23-primera-20260207190853-ntrc.html",
-        "date": "2026-02-07 17:35:55",
-        "sentiment_score": 0.7584112696349621
-    },
-    {
-        "title": "Atlético de Madrid – Betis: horario y canal de televisión para ver gratis en directo y en streaming el partido de Liga",
-        "image_url": "https://okdiario.com/img/2026/02/07/donde-ver-atletico-de-madrid-betis_.jpg",
-        "tags": [
-            "real betis balompié",
-            "atlético de madrid",
-            "la liga",
-            "directo",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/atletico-madrid-betis-horario-canal-television-ver-gratis-directo-streaming-partido-liga-video-16205448",
-        "date": "2026-02-07 17:30:21",
-        "sentiment_score": -0.2413661628961563
-    },
-    {
-        "title": "Julen Jon Guerrero vuelve a cambiar de equipo",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5fe95f14-053e-46c6-ba45-6c06bea4c3a5_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "recala",
-            "getafe",
-            "julen",
-            "jon",
-            "guerrero",
-            "filial"
-        ],
-        "link": "https://www.deia.eus/futbol/2026/02/07/julen-jon-guerrero-recala-filial-getafe-10672203.html",
-        "date": "2026-02-07 17:29:51",
-        "sentiment_score": 0.2693520337343216
-    },
-    {
-        "title": "Barcelona es el último gran equipo en abandonar el proyecto de la Superliga Europea",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/02/BARCELONA_SUPER_LIGA_03064.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2026/02/07/barcelona-es-el-ltimo-gran-equipo-en-abandonar-el-proyecto-de-la-superliga-europea/",
-        "date": "2026-02-07 17:29:13",
-        "sentiment_score": -0.023115873336791992
-    },
-    {
-        "title": "8.000 personas se manifiestan en Barcelona por Rodalies, 30.000 según convocantes",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260207185303_120.jpg",
-        "tags": [
-            "vídeos"
-        ],
-        "link": "https://www.europapress.es/videos/video-8000-personas-manifiestan-barcelona-rodalies-30000-convocantes-20260207185303.html",
-        "date": "2026-02-07 17:53:03",
-        "sentiment_score": -0.22364625334739685
-    },
-    {
-        "title": "Manifestación en Barcelona por el caos ferroviario: \"El colapso de Rodalies son horas perdidas de nuestras vidas\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/c5ec876da0e694d95968b36a655485c8/crop/102x26/940x867/f/image/jpeg/assets/multimedia/imagenes/2023/04/17/16817425449512.jpg",
-        "tags": [
-            "renfe",
-            "política",
-            "artículos gerard melgar",
-            "rodalíes",
-            "barcelona"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2026/02/07/69876cf5fc6c83b4788b458f.html",
-        "date": "2026-02-07 17:51:54",
-        "sentiment_score": -0.8072795122861862
-    },
-    {
-        "title": "Rodalies retoma el servicio de la R13, R14, y RT1, que usan unos 4.000 viajeros al día",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/07/rodalies-retoma-el-servicio-de-la-r13-r14-y-rt1-que-usan-unos-4000-viajeros-al-dia/",
-        "date": "2026-02-07 17:49:42",
-        "sentiment_score": 0.18536704033613205
-    },
-    {
-        "title": "ERC, Junts, Comuns y la CUP exigen soluciones a las deficiencias de Rodalies",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/07/erc-junts-comuns-y-la-cup-exigen-soluciones-a-las-deficiencias-de-rodalies/",
-        "date": "2026-02-07 17:49:09",
-        "sentiment_score": -0.331242673099041
-    },
-    {
-        "title": "Marc Casadó: \"Sabíamos que el Mallorca iba a ser un equipo difícil\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/07/marc-casado-sabiamos-que-el-mallorca-iba-a-ser-un-equipo-dificil/",
-        "date": "2026-02-07 17:47:26",
-        "sentiment_score": -0.6372144035995007
-    },
-    {
-        "title": "Liceo-Barcelona: un nuevo clásico al calor de Riazor",
-        "image_url": "https://cflvdg.avoz.es/sc/O9vXAGGRhq0dW2zJGFz_k8-ygnk=/768x/2026/02/07/00121770483241374209688/Foto/H_20251106_225813000.jpg",
-        "tags": [
-            "deportes",
-            "hc liceo"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/02/07/liceo-barcelona-nuevo-clasico-calor-riazor/00031770485854666587822.htm",
-        "date": "2026-02-07 17:45:00",
-        "sentiment_score": 0.711695671081543
-    },
-    {
-        "title": "\"Nos hacen falta 30.000 profesionales para continuar dando servicio, además, la edad media de los que están en activo está en 55 años\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2026/02/05/6983d9f2ae087.jpeg",
-        "tags": [
-            "clases de economía"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna/clases-de-economia/audios/falta-30-000-profesionales-continuar-dando-servicio-edad-media-activo-55-anos-20260207_3301371.html",
-        "date": "2026-02-07 17:39:06",
-        "sentiment_score": -0.17687608301639557
-    },
-    {
         "title": "0-1. Frenazo de Endrick: expulsión y sequía ante el Nantes",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
         "tags": [
@@ -3241,5 +3084,177 @@ export default [
         "link": "https://www.infobae.com/teleshow/2026/02/11/se-conocio-el-nombre-del-hijo-del-chino-darin-y-ursula-corbero/",
         "date": "2026-02-11 00:34:46",
         "sentiment_score": 0.25680986046791077
+    },
+    {
+        "title": "'Hasta aquí': por qué aprender a poner límites puede ser la mejor inversión en tu salud mental",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260211080346_690.jpg",
+        "tags": [
+            "infosalus.com",
+            "investigación"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-aqui-aprender-poner-limites-puede-ser-mejor-inversion-salud-mental-20260211080346.html",
+        "date": "2026-02-11 07:03:46",
+        "sentiment_score": -0.8664262471720576
+    },
+    {
+        "title": "Esta preciosa catedral es la primera en ser nombrada Patrimonio de la Humanidad",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/09/A4D9486F-AD86-4F91-B6B5-91080FD2A5CC/catedral-burgos_69.jpg?crop=2000%2C1125%2Cx0%2Cy71&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "castilla y león",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/castilla-y-leon/esta-preciosa-catedral-primera-ser-nombrada-patrimonio-humanidad_20260211698c29021817b41eb64074be.html",
+        "date": "2026-02-11 07:00:18",
+        "sentiment_score": 0.8678757753223181
+    },
+    {
+        "title": "Los temporales cercan la pesca de bajura y el pastoreo de carne en Lugo",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2026/02/11/2026021101203741917.jpg",
+        "tags": [
+            "terra e mar"
+        ],
+        "link": "https://www.elprogreso.es/articulo/terra-mar/temporales-cercan-pesca-bajura-pastoreo-carne/202602110756111944958.html",
+        "date": "2026-02-11 06:56:11",
+        "sentiment_score": -0.8784467466175556
+    },
+    {
+        "title": "Alquilar en Lanzarote, Fuerteventura y Gran Canaria requiere el 38% de ingresos y comprar, el 27%",
+        "image_url": "https://www.lavozdelanzarote.com/uploads/s1/34/87/47/1/mg-1414_3_400x229.jpeg",
+        "tags": [
+            "vivienda"
+        ],
+        "link": "https://www.lavozdelanzarote.com/ekonomus/vivienda/alquilar-en-lanzarote-fuerteventura-gran-canaria-requiere-38-ingresos-comprar-27_241230_102.html",
+        "date": "2026-02-11 06:47:37",
+        "sentiment_score": 0.3928775005042553
+    },
+    {
+        "title": "El curioso refrán invernal que sólo escuchas en Castilla y León pero que tendría sentido en más regiones españolas",
+        "image_url": "https://okdiario.com/img/2026/02/09/burgos.jpg",
+        "tags": [
+            "español",
+            "burgos",
+            "castellano",
+            "curiosidades",
+            "palabras",
+            "frases",
+            "lenguaje"
+        ],
+        "link": "https://okdiario.com/curiosidades/curioso-refran-invernal-que-solo-escuchas-castilla-leon-pero-que-tendria-sentido-mas-regiones-espanolas-16217281",
+        "date": "2026-02-11 06:45:32",
+        "sentiment_score": -0.22780904173851013
+    },
+    {
+        "title": "Ayuso pide el fin de «narcoestados de ultraizquierda» y ve en Venezuela la «herida más importante» por curar",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/EuropaPress_7279323_presidenta_comunidad_madrid_isabel_diaz_ayuso_presenta_primera_estrategia-scaled.jpg",
+        "tags": [
+            "nacional",
+            "isabel díaz ayuso"
+        ],
+        "link": "https://www.lanzadigital.com/nacional/ayuso-pide-el-fin-de-narcoestados-de-ultraizquierda-y-ve-en-venezuela-la-herida-mas-importante-por-curar/",
+        "date": "2026-02-11 06:31:43",
+        "sentiment_score": -0.027190595865249634
+    },
+    {
+        "title": "Madrid presentó la primera Estrategia de Drones",
+        "image_url": "https://actualidadaeroespacial.com/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "díaz ayuso",
+            "estrategia",
+            "madrid",
+            "drones",
+            "industria"
+        ],
+        "link": "https://actualidadaeroespacial.com/madrid-presento-la-primera-estrategia-de-drones/",
+        "date": "2026-02-11 06:31:13",
+        "sentiment_score": 0.6951106451451778
+    },
+    {
+        "title": "Modesto Barragán, elegido el mejor presentador autonómico",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/02/10/698af81f18ac7.jpeg",
+        "tags": [
+            "series y tv"
+        ],
+        "link": "https://www.lavozdealmeria.com/series-y-tv/457889/modesto-barragan-elegido-mejor-presentador-autonomico.html",
+        "date": "2026-02-11 06:30:00",
+        "sentiment_score": -0.02549031376838684
+    },
+    {
+        "title": "Deco: \"Lamine tiene una ventaja sobre los demás, es muy inteligente, ha aprendido mucho en la vida\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9124d8ec-61c0-493d-aaf3-4080e308eb15_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "fútbol",
+            "entrevistas",
+            "fc barcelona"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2026/02/11/deco-lamine-ventaja-inteligente-aprendido-126691759.html",
+        "date": "2026-02-11 06:19:54",
+        "sentiment_score": 0.07896111160516739
+    },
+    {
+        "title": "Sánchez y Feijóo afrontan su primer duelo en el Congreso tras los accidentes de tren y los comicios en Aragón",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d2752d0e-0d4d-4afd-bcbc-bb848368b8bc_16-9-aspect-ratio_default_0_x644y0.jpg",
+        "tags": [
+            "feijoo",
+            "primer",
+            "afrontan",
+            "duelo",
+            "sanchez"
+        ],
+        "link": "https://www.deia.eus/politica/2026/02/11/sanchez-feijoo-afrontan-primer-duelo-10685322.html",
+        "date": "2026-02-11 07:11:33",
+        "sentiment_score": -0.38085491210222244
+    },
+    {
+        "title": "Un ex jugador del Barça se hace viral: aparece sin camiseta cosiendo en casa",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/30/2025103021484811334.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/ex-jugador-barca-hace-viral-aparece-camiseta-cosiendo-casa/20260211080939374311.html",
+        "date": "2026-02-11 07:09:39",
+        "sentiment_score": 0.49659527093172073
+    },
+    {
+        "title": "Aviso del Meteocat: alerta amarilla por vientos en toda Barcelona de hasta 80 km/h",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2026/02/07/6987406cdfff0.r_d.2712-2517.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20260211/1002618613/aviso-meteocat-alerta-amarilla-vientos-toda-barcelona-80-km-h-dct.html",
+        "date": "2026-02-11 07:03:37",
+        "sentiment_score": -0.7044519558548927
+    },
+    {
+        "title": "España hoy, 11 de febrero de 2026: lo que tienes que saber",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/tren-afectado-via-irun.jpg",
+        "tags": [
+            "estados unidos",
+            "europa",
+            "venezuela",
+            "gaza",
+            "bruselas",
+            "israel",
+            "aranceles",
+            "españa",
+            "china"
+        ],
+        "link": "https://theobjective.com/espana/2026-02-11/espana-hoy-11-de-febrero-de-2026-lo-que-tienes-que-saber/",
+        "date": "2026-02-11 07:02:39",
+        "sentiment_score": -0.5776998810470104
+    },
+    {
+        "title": "En directo desde el Congreso: El accidente de Adamuz, eje de la comparecencia de Sánchez con un PP crítico y Vox al alza",
+        "image_url": "https://static.grupojoly.com/clip/d2b81d1b-fbd1-41d1-babf-1fb10d6e056a_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "video-ext",
+            "congreso",
+            "directo",
+            "accidente",
+            "eje",
+            "adamuz"
+        ],
+        "link": "https://www.malagahoy.es/espana/video-ext-directo-congreso-accidente-adamuz-eje_7_2005875218.html",
+        "date": "2026-02-11 06:59:38",
+        "sentiment_score": -0.7983031645417213
     }
 ];
