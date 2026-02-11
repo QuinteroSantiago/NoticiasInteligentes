@@ -3006,5 +3006,240 @@ export default [
         "link": "https://www.laprovincia.es/sucesos/2026/02/10/falso-amor-virtual-libano-lleva-agencia-viajes-malaga-estafa-126686442.html",
         "date": "2026-02-10 21:47:44",
         "sentiment_score": -0.6649361476302147
+    },
+    {
+        "title": "Real Mallorca: la solución está en casa",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3668575.jpg",
+        "tags": [
+            "última hora",
+            "primera división",
+            "fútbol",
+            "ultimas noticias",
+            "laliga",
+            "rcd mallorca",
+            "liga ea sports",
+            "real mallorca"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/02/11/2567145/real-mallorca-solucion-esta-casa.html",
+        "date": "2026-02-11 02:48:01",
+        "sentiment_score": 0.291926771402359
+    },
+    {
+        "title": "«Normalizamos que cada uno se refugie en su pantalla del móvil en el momento del día que debería ser compartido»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3668695.jpg",
+        "tags": [
+            "última hora",
+            "parejas estables",
+            "san valentín",
+            "sociedad",
+            "tendencias",
+            "psicología"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2026/02/11/2563857/normalizamos-cada-uno-refugie-pantalla-del-movil-momento-del-dia-deberia-ser-compartido.html",
+        "date": "2026-02-11 02:48:01",
+        "sentiment_score": -0.1204017847776413
+    },
+    {
+        "title": "Agenda: qué hacer hoy miércoles 11 de febrero en Asturias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5197afa0-4d04-45c5-a444-52188525452b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "asturias",
+            "horario",
+            "exposición",
+            "casa de cultura"
+        ],
+        "link": "https://www.lne.es/asturias/2026/02/11/agenda-hoy-miercoles-11-febrero-126682254.html",
+        "date": "2026-02-11 02:32:20",
+        "sentiment_score": -0.04386317729949951
+    },
+    {
+        "title": "EE UU rebaja el tono con España en la OTAN: reconoce “grandes progresos” en defensa",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/07/2026010700024434530.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/ee-uu-rebaja-tono-espana-otan-reconoce-grandes-progresos-defensa/20260211031927374294.html",
+        "date": "2026-02-11 02:19:27",
+        "sentiment_score": -0.5537777245044708
+    },
+    {
+        "title": "Luis Javier Suárez elegiría su próximo destino y el Real Madrid podría ser una opción: así lo analizan desde España",
+        "image_url": "https://www.infobae.com/resizer/v2/TUBKR2G73NFUHL5XH5WDK7FD7A.JPG?auth=af6955ae1348b0c685483b8286a2c7de16d64231f43ae5c5b7c5465fc4cf6f4b&height=2100&smart=true&width=3000",
+        "tags": [
+            "liga portugal",
+            "delantero",
+            "españa",
+            "luis javier suárez",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/11/luis-javier-suarez-elegiria-su-proximo-destino-y-el-real-madrid-podria-ser-una-opcion-asi-lo-analizan-desde-espana/",
+        "date": "2026-02-11 00:46:53",
+        "sentiment_score": 0.8209774531424046
+    },
+    {
+        "title": "La presidenta del CSIC, Eloísa del Pino: \"El sistema científico reproduce estereotipos e impide el ascenso de las mujeres\"",
+        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744119914_261294380_1706x960.jpg",
+        "tags": [
+            "tecnología",
+            "csic",
+            "mujeres",
+            "investigación",
+            "entrevistas",
+            "ciencia"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/investigacion/20260211/presidenta-csic-eloisa-pino-sistema-cientifico-reproduce-estereotipos-impide-ascenso-mujeres/1003744119866_0.html",
+        "date": "2026-02-11 00:34:00",
+        "sentiment_score": 0.17546580731868744
+    },
+    {
+        "title": "El Real Madrid se conjura en una cena a la que acude toda la plantilla",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/02/11/698bca58d5f30.r_d.587-320-7350.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/real-madrid-conjura-cena-acude-toda-plantilla-20260211_3305331.html",
+        "date": "2026-02-11 00:16:35",
+        "sentiment_score": -0.13021908700466156
+    },
+    {
+        "title": "Los futbolistas del Real Madrid refuerzan su unión con una cena privada en la capital",
+        "image_url": "https://www.infobae.com/resizer/v2/DWVIOFN4OJGG7DEP4T4BTOBJMQ.jpg?auth=e8d0af4274cd4a0687bfa94b4e7e4bca3d6f940d30f7c18d6c396e4c30dde3bc&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-noticias",
+            "españa-deportes",
+            "vinícius júnior",
+            "real madrid",
+            "vini jr",
+            "la liga",
+            "fútbol",
+            "fútbol españa"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/02/11/los-futbolistas-del-real-madrid-refuerzan-su-union-con-una-cena-privada-en-la-capital/",
+        "date": "2026-02-11 00:13:51",
+        "sentiment_score": 0.5163472853600979
+    },
+    {
+        "title": "Cuadro, tarta y gimnasio",
+        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2026/02/11/212198943.jpg",
+        "tags": [
+            "gimnasio",
+            "tarta",
+            "cuadro"
+        ],
+        "link": "https://www.hoy.es/extremadura/cuadro-tarta-gimnasio-20260211093308-nt.html",
+        "date": "2026-02-11 00:00:00",
+        "sentiment_score": -0.7601955886930227
+    },
+    {
+        "title": "Así es Júlia Pericas, la bailarina española que ha acompañado a Bad Bunny en la Super Bowl: nacida en Cataluña y amante de Mallorca",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3668885.jpg",
+        "tags": [
+            "bad bunny",
+            "audiencias-um",
+            "ia-news",
+            "sociedad",
+            "super bowl"
+        ],
+        "link": "https://www.menorca.info/actualidad/sociedad/2026/02/11/2567297/asi-julia-pericas-bailarina-espanola-acompanado-bad-bunny-super-bowl-nacida-cataluna-amante-mallorca.html",
+        "date": "2026-02-11 02:48:01",
+        "sentiment_score": 0.13173788785934448
+    },
+    {
+        "title": "“Cómo me hacen trabajar”: el hilarante ida y vuelta de Franco Colapinto con Alpine antes de los tests de F1",
+        "image_url": "https://www.infobae.com/resizer/v2/RA5PD5W6FRGFJBC2HJV7AUFKM4.jfif?auth=c5c13224ba2618d96a31d77099987e39ddfc737c2d19647bfd67fe4a7c1b9c0e&height=908&smart=true&width=1536",
+        "tags": [
+            "fórmula 1",
+            "pierre gasly",
+            "deportes-internacional",
+            "deportes-argentina",
+            "franco colapinto",
+            "alpine f1 team"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/11/como-me-hacen-trabajar-el-hilarante-ida-y-vuelta-de-franco-colapinto-con-alpine-antes-de-los-tests-de-f1/",
+        "date": "2026-02-11 02:05:56",
+        "sentiment_score": -0.7418349646031857
+    },
+    {
+        "title": "Casintra acelera su transformación como operador logistico integral",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/79e9c33f-9b31-4005-ab46-d35573d63dac_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "crecimiento",
+            "el musel",
+            "manuel",
+            "transporte"
+        ],
+        "link": "https://www.lne.es/asturias/2026/02/11/casintra-acelera-transformacion-operador-logistico-126658256.html",
+        "date": "2026-02-11 02:00:49",
+        "sentiment_score": 0.7204032354056835
+    },
+    {
+        "title": "El banco digital para pymes RiverBank incorpora a un directivo del Santander para crecer en España",
+        "image_url": "https://s3.elespanol.com/2026/02/10/actualidad/1003744125002_261359752_1706x960.jpg",
+        "tags": [
+            "banca",
+            "banco santander",
+            "pymes"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/banca/20260211/banco-digital-pymes-riverbank-incorpora-directivo-santander-crecer-espana/1003744124746_0.html",
+        "date": "2026-02-11 01:40:20",
+        "sentiment_score": 0.20941171050071716
+    },
+    {
+        "title": "Insurama ficha a su nuevo CEO en McKinsey para ser la mayor 'insurtech' de Iberia y Latam",
+        "image_url": "https://s3.elespanol.com/2026/02/10/actualidad/1003744124792_261356914_1706x960.jpg",
+        "tags": [
+            "seguros",
+            "fintech",
+            "observatorio seguros",
+            "latinoamérica"
+        ],
+        "link": "https://www.elespanol.com/observatorio-seguros/20260211/insurama-ficha-nuevo-ceo-mckinsey-mayor-insurtech-iberia-latam/1003744124787_0.html",
+        "date": "2026-02-11 01:40:14",
+        "sentiment_score": 0.5057840719819069
+    },
+    {
+        "title": "Deportes | Demasiado castigo para el Eón",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1775874.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/demasiado-castigo-para-el-eon",
+        "date": "2026-02-11 01:08:04",
+        "sentiment_score": -0.9307676386088133
+    },
+    {
+        "title": "Deportes | Crece la presión social alrededor del Hércules CF, sus dirigentes... y los políticos",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1236511.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/crece-la-presion-social-alrededor-del-hercules-cf-sus-dirigentes-y-los-politicos",
+        "date": "2026-02-11 00:45:29",
+        "sentiment_score": 0.25608281046152115
+    },
+    {
+        "title": "El Barça Immersive Tour gana 300.000 visitantes en 2025: el nuevo Museo superará los 40 millones de ingresos anuales",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/10/culemania/palco/1003742731503_15704224_1706x960.jpg",
+        "tags": [
+            "palco",
+            "camp nou",
+            "fc barcelona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260211/barca-immersive-tour-visitantes-museo-superara-millones/1003742731501_0.html",
+        "date": "2026-02-11 00:41:16",
+        "sentiment_score": 0.35860276222229004
+    },
+    {
+        "title": "Se conoció el nombre del hijo del Chino Darín y Úrsula Corberó",
+        "image_url": "https://www.infobae.com/resizer/v2/LFUF63T26NGV3C6L62E6SAWZSE.jpg?auth=36ddae721bd3bf62c3a1f89fde08fa9edc708c24f7d838839733591c09a278a3&height=1440&smart=true&width=1920",
+        "tags": [
+            "ricardo darín",
+            "chino darín",
+            "úrsula corberó",
+            "dante darín"
+        ],
+        "link": "https://www.infobae.com/teleshow/2026/02/11/se-conocio-el-nombre-del-hijo-del-chino-darin-y-ursula-corbero/",
+        "date": "2026-02-11 00:34:46",
+        "sentiment_score": 0.25680986046791077
     }
 ];
