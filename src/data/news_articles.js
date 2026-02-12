@@ -1,452 +1,5 @@
 export default [
     {
-        "title": "0-1. Frenazo de Endrick: expulsión y sequía ante el Nantes",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/07/0-1-frenazo-de-endrick-expulsion-y-sequia-ante-el-nantes/",
-        "date": "2026-02-07 22:18:18",
-        "sentiment_score": -0.843442359007895
-    },
-    {
-        "title": "Laporta escenifica la entrega del mando del Barça a Rafa Yuste: comienza la carrera electoral",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/07/culemania/palco/1003742730633_15693044_1706x960.jpg",
-        "tags": [
-            "camp nou",
-            "palco",
-            "hansi flick",
-            "elecciones barça",
-            "joan laporta"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260207/laporta-escenifica-barca-rafa-yuste-comienza-electoral/1003742730632_0.html",
-        "date": "2026-02-07 21:59:18",
-        "sentiment_score": 0.40791160613298416
-    },
-    {
-        "title": "Todos los estadios que han acogido al menos una final de la Champions League",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/31/culemania/palco/1003742703381_15350208_1706x960.jpg",
-        "tags": [
-            "camp nou",
-            "barça",
-            "palco",
-            "estadio santiago bernabéu",
-            "champions league"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260207/estadios-acogido-final-champions-league/1003742729215_0.html",
-        "date": "2026-02-07 21:58:05",
-        "sentiment_score": 0.5480369329452515
-    },
-    {
-        "title": "El Real Oviedo estalla tras la suspensión del partido en Vallecas: «Esta es una situación vergonzosa»",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/02/07/212090701-kp7F--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "rayo vallecano",
-            "real oviedo"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-estalla-tras-suspension-partido-vallecas-20260207200150-nt.html",
-        "date": "2026-02-07 21:54:37",
-        "sentiment_score": -0.8673720844089985
-    },
-    {
-        "title": "Ulpiano, el pionero que cuidaba las vías originales del AVE: \"Debimos hacerlo bien si la velocidad se ha mantenido durante 34 años. Inicialmente no había ninguna 'vibración'\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/6e0a55bcc39fd19d607381046a3d42e8/crop/482x0/2530x2048/f/image/jpeg/assets/multimedia/imagenes/2026/01/16/17685747244394.jpg",
-        "tags": [
-            "renfe",
-            "nlpremium",
-            "artículos angélica reinosa"
-        ],
-        "link": "https://www.elmundo.es/cronica/2026/02/07/69863495e4d4d862318b45a6.html",
-        "date": "2026-02-07 21:53:09",
-        "sentiment_score": -0.8963053310289979
-    },
-    {
-        "title": "Muere Manolín Bueno, una de las grandes leyendas del Real Madrid, a los 86 años",
-        "image_url": "https://album.mediaset.es/eimg/2026/02/07/muere-manolin-bueno-una-de-las-grandes-leyendas-del-real-madrid-a-los-86-anos_1e8f.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.telecinco.es/noticias/deportes/20260207/muere-manolin-bueno-grandes-leyendas-real-madrid_18_018285763.html",
-        "date": "2026-02-07 21:49:47",
-        "sentiment_score": -0.8785416670143604
-    },
-    {
-        "title": "Fallece Manolín Bueno, una de las grandes leyendas del Real Madrid",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/07/fallece-manolin-bueno-una-de-las-grandes-leyendas-del-real-madrid/",
-        "date": "2026-02-07 21:45:14",
-        "sentiment_score": -0.01270332932472229
-    },
-    {
-        "title": "El Covirán Granada busca en Madrid la madre de todas las sorpresas",
-        "image_url": "https://static.grupojoly.com/clip/e0c26025-468b-4613-a3b5-a4e525ab52e7_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fundación cb granada"
-        ],
-        "link": "https://www.granadahoy.com/coviran-granada/coviran-granada-busca-madrid-madre_0_2005837628.html",
-        "date": "2026-02-07 21:35:08",
-        "sentiment_score": -0.6615094635635614
-    },
-    {
-        "title": "Barcelona golea al Mallorca y amplía su ventaja en la cima de La Liga",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "deportes",
-            "noticias 24",
-            "noticias24carabobo",
-            "barcelona fútbol club",
-            "noticias 24 horas carabobo",
-            "noticias24carabobo en google news",
-            "la liga",
-            "noticias hoy",
-            "la liga de españa",
-            "noticias de carabobo",
-            "barcelona",
-            "noticias de sucesos",
-            "noticias de hoy valencia",
-            "noticias de valencia",
-            "copa de la liga",
-            "actualidad",
-            "news",
-            "barcelona fc",
-            "noticias de venezuela",
-            "lamine yamal"
-        ],
-        "link": "https://noticias24carabobo.com/barcelona-golea-al-mallorca-amplia-ventaja-la-liga/",
-        "date": "2026-02-07 21:21:16",
-        "sentiment_score": 0.578637383878231
-    },
-    {
-        "title": "LaLiga: Así está la tabla de posiciones tras la victoria de Barcelona",
-        "image_url": "https://pxcdn.meridiano.net/022026/1770499101057.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/laliga-asi-esta-la-tabla-de-posiciones-tras-la-victoria-de-barcelona-20262717190",
-        "date": "2026-02-07 21:19:00",
-        "sentiment_score": 0.748898334801197
-    },
-    {
-        "title": "20 años en el podio de los aeropuertos",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/268c1d18-65e3-40dc-83fb7094a313868f.jpg",
-        "tags": [
-            "arquitectura",
-            "estética",
-            "iberia",
-            "aeropuertos",
-            "comunidad de madrid",
-            "madrid",
-            "eta",
-            "barcelona",
-            "españa",
-            "pib",
-            "aeropuerto de barajas",
-            "alemania",
-            "adolfo suárez",
-            "aena",
-            "tráfico",
-            "países bajos"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zbaa8d44f-b8dc-4481-a65fe4c02d062ee2/202602/20-anos-en-el-podio-de-los-aeropuertos",
-        "date": "2026-02-07 22:05:18",
-        "sentiment_score": 0.6985131092369556
-    },
-    {
-        "title": "Robert Lewandowski en este top histórico de goleadores de Barcelona",
-        "image_url": "https://i.ytimg.com/vi/b9gZvH5PgV4/mqdefault.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/robert-lewandowski-en-este-top-historico-de-goleadores-de-barcelona-2026271820",
-        "date": "2026-02-07 22:02:00",
-        "sentiment_score": 0.19601468741893768
-    },
-    {
-        "title": "El Cercle d'Economia plantea una reconversión del modelo turístico catalán: \"Hay riesgo de acabar con la gallina de los huevos de oro\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/64931d72-3217-497a-ab12-ca9478a53959_alta-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cercle d'economia",
-            "pib",
-            "empresas",
-            "aeropuerto de barcelona",
-            "barcelona",
-            "precios",
-            "impuestos",
-            "turismo"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260208/cercle-deconomia-plantea-reconversion-modelo-126560139",
-        "date": "2026-02-07 22:00:55",
-        "sentiment_score": -0.012634962797164917
-    },
-    {
-        "title": "La franja 'aragonesista' de Teruel, el gran botín electoral en el 8-F: una tierra expoliada y con hospitales nuevos cerrados",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/75d9e163daab9520a2d5d04197036668/crop/606x55/2446x1894/f/image/jpeg/assets/multimedia/imagenes/2026/01/19/17687986239658.jpg",
-        "tags": [
-            "jorge azcón",
-            "vox",
-            "pilar alegría",
-            "artículos candela ibáñez",
-            "psoe",
-            "teruel existe",
-            "nlpremium",
-            "pp",
-            "elecciones aragón"
-        ],
-        "link": "https://www.elmundo.es/elecciones/elecciones-aragon/2026/02/07/69877d8c21efa0e3368b456d.html",
-        "date": "2026-02-07 21:53:43",
-        "sentiment_score": -0.7635112814605236
-    },
-    {
-        "title": "Habla uno de los 30 maquinistas auscultadores de Adif que llevan más de dos años cobrando sin trabajar: \"Siete meses en casa y 2.500 en la nómina... ahora están mano sobre mano en una sala de ocho a cuatro\"",
-        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/02/07/17704898634945.jpg",
-        "tags": [
-            "nlpremium",
-            "economía",
-            "administrador de infraestructuras ferroviarias"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/02/07/698644b7e85eced6148b45ca.html",
-        "date": "2026-02-07 21:53:31",
-        "sentiment_score": -0.6189512312412262
-    },
-    {
-        "title": "Hansi Flick, sobre la sustitución de Lamine Yamal: \"Le he preguntado y me ha dicho que sí\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/02/07/6987b210b67bf9-40610634.r_d.964-583.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/hansi-flick-sobre-sustitucion-lamine-yamal-le-he-preguntado-por-cambiar-me-ha-dicho-que-si_6931348_0.html",
-        "date": "2026-02-07 21:51:55",
-        "sentiment_score": 0.35811159014701843
-    },
-    {
-        "title": "Dika Mem, entre cuatro y seis semanas de baja por lesión miofascial en los isquiotibiales",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/07/dika-mem-entre-cuatro-y-seis-semanas-de-baja-por-lesion-miofascial-en-los-isquiotibiales/",
-        "date": "2026-02-07 21:46:12",
-        "sentiment_score": -0.5882560834288597
-    },
-    {
-        "title": "Teruel honra al amor y recuerda la urgencia de decir te quiero a las personas amadas",
-        "image_url": "https://www.diariodeteruel.es/uploads/diariodeteruel/contenidos/87059_260208-06-01.jpg",
-        "tags": [
-            "teruel"
-        ],
-        "link": "https://www.diariodeteruel.es/teruel/teruel-honra-al-amor-y-recuerda-la-urgencia-de-decir-te-quiero-a-las-personas-amadas",
-        "date": "2026-02-07 21:42:00",
-        "sentiment_score": 0.44102825596928596
-    },
-    {
-        "title": "LaLiga: Así marcha la tabla de goleadores tras el golazo de Lamine Yamal",
-        "image_url": "https://i.ytimg.com/vi/KwRap0OTtlM/mqdefault.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/laliga-asi-marcha-la-tabla-de-goleadores-tras-el-golazo-de-lamine-yamal-20262717400",
-        "date": "2026-02-07 21:40:00",
-        "sentiment_score": 0.42397359758615494
-    },
-    {
-        "title": "Lo más viral: Estos artistas estrenaron nueva canción",
-        "image_url": "https://static.wixstatic.com/media/cf263a_9febaa125ecc4688b03baa8d3e5e9d50~mv2.png/v1/fit/w_933,h_543,al_c,q_80/file.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-estos-artistas-estrenaron-nueva-canci%C3%B3n",
-        "date": "2026-02-07 20:11:32",
-        "sentiment_score": 0.6570404097437859
-    },
-    {
-        "title": "El lento despertar de la realidad inmersiva y por qué cambiará el futuro del consumo audiovisual",
-        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744119359_261287648_1706x960.jpg",
-        "tags": [
-            "tecnología",
-            "realidad virtual",
-            "empresas",
-            "transformación digital",
-            "innovación"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/empresas/20260208/lento-despertar-realidad-inmersiva-cambiara-futuro-consumo-audiovisual/1003744116289_0.html",
-        "date": "2026-02-08 02:09:41",
-        "sentiment_score": 0.6913193054497242
-    },
-    {
-        "title": "El lado más criollo de Andrés Borregales: los gustos del pateador venezolano",
-        "image_url": "https://pxcdn.2001online.com/2001/022026/1770517101478/andy-borregales-new-england-patriots_ox43medmscau1kdgume3fbmzm.png?ch=675&cw=1200",
-        "tags": [
-            "super bowl lx",
-            "new england patriots",
-            "super bowl",
-            "nfl",
-            "andrés borregales",
-            "real madrid",
-            "bad bunny",
-            "eeuu",
-            "ice",
-            "mollejitas con arroz"
-        ],
-        "link": "https://2001online.com/deportes/el-lado-mas-criollo-de-andres-borregales-los-gustos-del-pateador-venezolano-20262722400",
-        "date": "2026-02-08 02:04:32",
-        "sentiment_score": -0.8314898312091827
-    },
-    {
-        "title": "Ronaldinho Gaucho y Guti pusieron la magia en juego de leyendas de Real Madrid y Barcelona",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/08/ronaldinho-gaucho-y-guti-pusieron-la-magia-en-juego-de-leyendas-de-real-madrid-y-barcelona/",
-        "date": "2026-02-08 02:00:15",
-        "sentiment_score": 0.6240959912538528
-    },
-    {
-        "title": "Cariocas gana por segundo año consecutivo el Primer Premio de Interpretación del concurso de comparsas del Carnaval de Santa Cruz 2026",
-        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2026/02/Cariocas-1024x680.jpeg",
-        "tags": [
-            "portada local",
-            "portada apertura 1",
-            "metropolitana",
-            "santa cruz",
-            "tenerife"
-        ],
-        "link": "https://diariodeavisos.elespanol.com/2026/02/cariocas-gana-concurso-comparsas-santa-cruz-2026/",
-        "date": "2026-02-08 01:59:39",
-        "sentiment_score": 0.8122281227260828
-    },
-    {
-        "title": "Los Moreno, los seis primos detrás de la mejor pastelería de Madrid que empezó hace 95 años por un décimo de lotería",
-        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744120138_261297666_1706x960.jpg",
-        "tags": [
-            "ocio",
-            "pasteleros",
-            "pastelerías"
-        ],
-        "link": "https://www.elespanol.com/madrid/ocio/20260208/moreno-primos-detras-mejor-pasteleria-madrid-empezo-hace-anos-decimo-loteria/1003744117221_0.html",
-        "date": "2026-02-08 01:41:59",
-        "sentiment_score": 0.48709045350551605
-    },
-    {
-        "title": "Ismael Serrano: \"Ahora la izquierda abronca a quien piensa un poco diferente; exigen una adhesión inquebrantable\"",
-        "image_url": "https://s3.elespanol.com/2026/02/06/reportajes/1003744120562_261303792_1706x960.jpg",
-        "tags": [
-            "reportajes-newsletter",
-            "reportajes",
-            "porfolio",
-            "música",
-            "ismael serrano"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260208/ismael-serrano-ahora-izquierda-abronca-piensa-diferente-exigen-adhesion-inquebrantable/1003744120466_0.html",
-        "date": "2026-02-08 01:23:53",
-        "sentiment_score": -0.8799394564703107
-    },
-    {
-        "title": "Muere José Tudela y España pierde al jurista más apasionado de su unidad y diversidad",
-        "image_url": "https://images.ecestaticos.com/Z3reEjwLr1mnIwvfKOUt2yyeqzw=/0x0:2272x1516/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe98%2F542%2F90e%2Fe9854290e07c262ef7c5fff155fcd1f2.jpg",
-        "tags": [
-            "food",
-            "top"
-        ],
-        "link": "https://www.elconfidencial.com/espana/aragon/2026-02-08/jose-tudela-aranda-fundacion-gimenez-1hms_4299409/",
-        "date": "2026-02-08 01:11:00",
-        "sentiment_score": 0.5851892530918121
-    },
-    {
-        "title": "Jhon Arias recibe emotiva bienvenida de Richard Ríos en Palmeiras: “¡Estamos juntos en esto!“",
-        "image_url": "https://www.infobae.com/resizer/v2/I6WAMTLYBZHBDKUDQQLWI62GLQ.jpg?auth=5a082e2bbd70d2c2044d785067ffa4deeae590439187552ffa53b5733753c159&height=540&smart=true&width=960",
-        "tags": [
-            "palmeiras",
-            "jhon arias",
-            "colombia-deportes",
-            "benfica",
-            "richard rios"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/08/jhon-arias-recibe-emotiva-bienvenida-de-richard-rios-en-palmeiras-estamos-juntos-en-esto/",
-        "date": "2026-02-08 01:08:09",
-        "sentiment_score": 0.6070985570549965
-    },
-    {
-        "title": "Yangel vuelve a jugar 106 días después",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2b3bbe4b-c56e-4669-85e5-3382e3675c1c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "jugar",
-            "dias",
-            "yangel",
-            "106",
-            "vuelve"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/02/08/yangel-vuelve-jugar-106-dias-10672927.html",
-        "date": "2026-02-08 00:22:18",
-        "sentiment_score": 0.12985901534557343
-    },
-    {
-        "title": "07 FEB 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/07-feb-2026-tramo-final-juego-20260208_3303349.html",
-        "date": "2026-02-08 00:15:00",
-        "sentiment_score": 0.17759084701538086
-    },
-    {
-        "title": "Lista para jugar en las 'grandes ligas' de la fotónica: así acelera Wooptix, la primera inversión de la SETT, un año después",
-        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744119388_261294068_1706x960.jpg",
-        "tags": [
-            "tecnología",
-            "microelectrónica",
-            "emprendedores",
-            "startups",
-            "wake up spain",
-            "startup"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20260208/lista-jugar-grandes-ligas-fotonica-acelera-wooptix-primera-inversion-sett-ano-despues/1003744119354_0.html",
-        "date": "2026-02-08 02:10:02",
-        "sentiment_score": 0.5273264199495316
-    },
-    {
-        "title": "Aragón vota sin alegría",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "aragon",
-            "vota",
-            "alegria"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/aragon-vota-alegria_0_2005843336.html",
-        "date": "2026-02-08 02:09:12",
-        "sentiment_score": -0.1667487919330597
-    },
-    {
-        "title": "Aragón vota sin alegría",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "alegria",
-            "aragon",
-            "vota"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/aragon-vota-alegria_0_2005843321.html",
-        "date": "2026-02-08 02:09:06",
-        "sentiment_score": -0.45869968831539154
-    },
-    {
-        "title": "Algeciras es un teatro para malhechores",
-        "image_url": "https://static.grupojoly.com/clip/fa9aced1-73a6-48bd-9760-9149096e70c0_source-aspect-ratio_default_0_x982y0.jpg",
-        "tags": [
-            "últimas noticias campo de gibraltar"
-        ],
-        "link": "https://www.europasur.es/algeciras/algeciras-teatro-malhechores_0_2005826680.html",
-        "date": "2026-02-08 01:45:25",
-        "sentiment_score": -0.8965080417692661
-    },
-    {
         "title": "El fichaje estrella del Depor se estrena: Riki frente al Albacete, destino cruel",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/08/2026020807310917307.jpg",
         "tags": [
@@ -527,41 +80,6 @@ export default [
         "link": "https://www.lanzadigital.com/provincia/ciudad-real/la-carestia-de-la-vida-empuja-a-la-emigracion-rumana-a-volver-a-su-pais/",
         "date": "2026-02-08 06:00:00",
         "sentiment_score": -0.07210388779640198
-    },
-    {
-        "title": "El fútbol brasileño exhibe músculo financiero: el fichaje de Paquetá por 42 millones lo demuestra",
-        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/0/6/7/paqueta-reuters.jpg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.eleconomista.es/economia/noticias/13763385/02/26/el-futbol-brasileno-exhibe-musculo-financiero-el-fichaje-de-paqueta-por-42-millones-lo-demuestra.html",
-        "date": "2026-02-08 05:45:31",
-        "sentiment_score": 0.04116636514663696
-    },
-    {
-        "title": "Los granadinos se asoman al Genil y al Darro",
-        "image_url": "https://static.grupojoly.com/clip/3a9330ab-a153-458a-8a6b-e6cbbd56375c_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sucesos granada",
-            "tiempo en granada",
-            "últimas noticias granada"
-        ],
-        "link": "https://www.granadahoy.com/granada/granadinos-asoman-genil-darro-crecida-borrasca-leonardo_0_2005829509.html",
-        "date": "2026-02-08 05:31:06",
-        "sentiment_score": 0.08840397000312805
-    },
-    {
-        "title": "El paro de los trabajadores ferroviarios podría afectar a varios trenes de alta velocidad en Ciudad Real",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2023/08/EuropaPress_1289889_imagen_tren_renfe-599x316.jpg",
-        "tags": [
-            "puertollano",
-            "ciudad real",
-            "provincia de ciudad real",
-            "transportes"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/el-paro-de-los-trabajadores-ferroviarios-podria-afectar-a-varios-trenes-de-alta-velocidad-en-ciudad-real/",
-        "date": "2026-02-08 05:30:00",
-        "sentiment_score": -0.12756167352199554
     },
     {
         "title": "Las cinco claves para seguir la ceremonia de los premios Gaudí que se entregan esta noche",
@@ -3256,5 +2774,201 @@ export default [
         "link": "https://www.malagahoy.es/espana/video-ext-directo-congreso-accidente-adamuz-eje_7_2005875218.html",
         "date": "2026-02-11 06:59:38",
         "sentiment_score": -0.7983031645417213
+    },
+    {
+        "title": "Sanzol retrata el duelo por un hermano, “teatro de difuntos para dar fuerza a los vivos”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/13ef2485-0105-40e9-b6d2-0ac15cb752be_16-9-aspect-ratio_default_0_x870y693.jpg",
+        "tags": [
+            "teatro",
+            "hermano",
+            "sanzol",
+            "duelo",
+            "retrata"
+        ],
+        "link": "https://www.noticiasdenavarra.com/cultura/2026/02/11/sanzol-retrata-duelo-hermano-teatro-10689070.html",
+        "date": "2026-02-11 17:56:48",
+        "sentiment_score": -0.7001674845814705
+    },
+    {
+        "title": "Álvaro Martín recibe el Premio Nacional del Deporte 2024",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2026/02/11/1506790303-RO9pW0NWLY0A3qdFOrJdghI-1200x840@Hoy.jpg",
+        "tags": [
+            "martin",
+            "deporte",
+            "nacional",
+            "recibe",
+            "premio",
+            "alvaro",
+            "2024"
+        ],
+        "link": "https://www.hoy.es/deportes/mas-deportes/alvaro-martin-recibe-premio-nacional-deporte-2024-20260211184332-nt.html",
+        "date": "2026-02-11 17:55:24",
+        "sentiment_score": 0.36898890882730484
+    },
+    {
+        "title": "La Unidad Militar de Emergencias llega a Ciudad Real ante el desbordamiento del río Bullaque",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/11/IMG_9564-kLJ-U20661213110L4H-1200x840@RC.jpg",
+        "tags": [
+            "protección civil",
+            "inundaciones",
+            "ciudad real (provincia)",
+            "castilla-la mancha"
+        ],
+        "link": "https://www.ideal.es/sociedad/unidad-militar-emergencias-llega-ciudad-real-ante-20260211185044-ntrc.html",
+        "date": "2026-02-11 17:50:46",
+        "sentiment_score": -0.8114386647939682
+    },
+    {
+        "title": "El FC Barcelona visitará San Mamés el domingo 8 de marzo y el Real Madrid jugará en Vigo un día antes",
+        "image_url": "https://www.infobae.com/resizer/v2/QEHATGFBG5CGLG4Y3K5VE46XXY.jpg?auth=c322d532f616e6d09b5aac6948c8e8012ae6b41e7ea1c82f6e3bb6e20229d2ea&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/11/el-fc-barcelona-visitara-san-mames-el-domingo-8-de-marzo-y-el-real-madrid-jugara-en-vigo-un-dia-antes/",
+        "date": "2026-02-11 17:46:44",
+        "sentiment_score": 0.01756683737039566
+    },
+    {
+        "title": "El Real Madrid alcanza un acuerdo con la UEFA y entierra el proyecto de la Superliga",
+        "image_url": "https://s10.s3c.es/imag/_v0/6000x4000/c/c/9/1200x655_florentino_madrid.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.eleconomista.es/actualidad/noticias/13772803/02/26/el-real-madrid-alcanza-un-acuerdo-con-la-uefa-y-entierra-el-proyecto-de-la-superliga.html",
+        "date": "2026-02-11 17:42:42",
+        "sentiment_score": 0.3525438830256462
+    },
+    {
+        "title": "La revelación de la Premier League que se pone a tiro del Real Madrid en pleno divorcio de Carvajal con Arbeloa",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/10/culemania/real-madrid/1003742731471_15703831_1706x960.jpg",
+        "tags": [
+            "dani carvajal",
+            "premier league",
+            "fichajes real madrid",
+            "real madrid"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260211/revelacion-premier-league-real-madrid-carvajal-arbeloa/1003742731782_0.html",
+        "date": "2026-02-11 17:42:34",
+        "sentiment_score": -0.9422066723927855
+    },
+    {
+        "title": "El Plan Alternativo de la línea de tren Madrid-Andalucía tras el accidente se amplía hasta el 16 de febrero",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/EuropaPress_7237031_renfe_ajusta_levemente_horarios_plan_alternativo_transporte-1.jpg",
+        "tags": [
+            "nacional",
+            "andalucía"
+        ],
+        "link": "https://www.lanzadigital.com/nacional/el-plan-alternativo-de-la-linea-de-tren-madrid-andalucia-tras-el-accidente-se-amplia-hasta-el-16-de-febrero/",
+        "date": "2026-02-11 17:41:45",
+        "sentiment_score": -0.20585833489894867
+    },
+    {
+        "title": "Fiscalía y Abogacía apoyan amnistiar a Puigdemont ante la negativa de la Justicia española",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/11/fiscalia-y-abogacia-apoyan-amnistiar-a-puigdemont-ante-la-negativa-de-la-justicia-espanola/",
+        "date": "2026-02-11 17:34:26",
+        "sentiment_score": -0.7329437732696533
+    },
+    {
+        "title": "Alcaldes de Junts y del PSC pugnan en el Congreso por la ley de la multirreincidencia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UOB2XACFE5AN5CR4ZZBD3LXHGE.jpg?auth=e66e584e65a3526a04ea1c461dceb7e839f8575f128aab63df2ff8ce2505bd5f&width=1200",
+        "tags": [
+            "barcelona",
+            "psc",
+            "congreso diputados",
+            "juntsxcat",
+            "delincuencia",
+            "sabadell (barcelona)",
+            "cataluña",
+            "alcaldía"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2026-02-11/alcaldes-de-junts-y-del-psc-pugnan-en-el-congreso-por-la-ley-de-la-multirreincidencia.html",
+        "date": "2026-02-11 17:55:18",
+        "sentiment_score": -0.48528842628002167
+    },
+    {
+        "title": "Los premios Ciutat de Barcelona reivindican la cultura y la ciencia en \"tiempos convulsos\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e86118ac-ba01-4ff9-9e83-b76e9abe0817_alta-libre-aspect-ratio_default_0_x960y426.jpg",
+        "tags": [
+            "barcelona",
+            "premis ciutat de barcelona",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20260211/ayuntamiento-de-barcelona-concejal-marce-entrega-premios-ciutat-de-barcelona-126728086",
+        "date": "2026-02-11 17:55:04",
+        "sentiment_score": -0.7254379913210869
+    },
+    {
+        "title": "El fuerte viento deja varias incidencias en Carballo",
+        "image_url": "https://cflvdg.avoz.es/sc/z71XI1FtE7QvBbbxyR6EqTon2zY=/768x/2026/02/11/00121770832441674179310/Foto/asdadaulo.jpg",
+        "tags": [
+            "sucesos",
+            "carballo municipio"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/carballo/carballo/2026/02/11/fuerte-viento-deja-varias-incidencias-carballo/00031770830658289645984.htm",
+        "date": "2026-02-11 17:55:01",
+        "sentiment_score": -0.6547567956149578
+    },
+    {
+        "title": "El mal tiempo obliga a desviar y a cancelar vuelos tanto en Peinador como en Alvedro",
+        "image_url": "https://www.galiciapress.es/images/285310",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.galiciapress.es/articulo/ultima-hora/2026-02-11/5768961-mal-tiempo-obliga-desviar-cancelar-vuelos-tanto-peinador-como-alvedro",
+        "date": "2026-02-11 17:54:04",
+        "sentiment_score": -0.8867856776341796
+    },
+    {
+        "title": "Pubill: “Empezar en casa nos va a ir bien”",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/11/pubill-empezar-en-casa-nos-va-a-ir-bien/",
+        "date": "2026-02-11 17:45:36",
+        "sentiment_score": 0.7224955223500729
+    },
+    {
+        "title": "Un exsoldado marroquí inicia una huelga de hambre en Barcelona para exigir asilo",
+        "image_url": "https://album.mediaset.es/eimg/2026/02/11/europapress-7278497-tiendas-campana-desalojo-asentamiento-zona-franca-10-febrero-2026-barcelona_fb50.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20260211/exsoldado-marroqui-inicia-huelga-barcelona_18_018324867.html",
+        "date": "2026-02-11 17:44:36",
+        "sentiment_score": -0.0997977927327156
+    },
+    {
+        "title": "«Sí, quiero» a los 88 años: la historia de amor entre Pep y Mercedes en la Llar d’Ancians Palma que acaba en boda",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3670451.jpg",
+        "tags": [
+            "ceremonia",
+            "llar d'ancians",
+            "palma",
+            "bodas en mallorca",
+            "imas",
+            "tendencias",
+            "sociedad",
+            "boda",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2026/02/11/2568431/quiero-anos-historia-amor-entre-pep-mercedes-acaba-boda-llar-ancians-palma.html",
+        "date": "2026-02-11 17:44:00",
+        "sentiment_score": -0.06507569551467896
+    },
+    {
+        "title": "AP institute y AeroS reúnen a altos cargos de Defensa, Industria y grandes compañías para facilitar la entrada de empresas en el sector",
+        "image_url": "https://www.economiadigital.es/wp-content/uploads/2026/02/Diseno-sin-titulo-53-1000x665.jpg",
+        "tags": [
+            "hemeroteca"
+        ],
+        "link": "https://www.economiadigital.es/hemeroteca/ap-institute-aeros-defensa-industria-companias.html",
+        "date": "2026-02-11 17:43:19",
+        "sentiment_score": 0.1283950563520193
     }
 ];
