@@ -195,16 +195,6 @@ export default [
         "sentiment_score": -0.18775388598442078
     },
     {
-        "title": "Semana deportiva: La nave turca continúa escalando al derrotar a Cuba",
-        "image_url": "https://static.wixstatic.com/media/cf263a_7495a41e2b8e4ea9b7fd895ca8ede5d3~mv2.png/v1/fit/w_979,h_653,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/semana-deportiva-la-nave-turca-se-compone-gan%C3%A1ndole-a-argentina",
-        "date": "2026-02-08 14:00:17",
-        "sentiment_score": 0.3682019114494324
-    },
-    {
         "title": "Las fotos del Valencia-Real Madrid",
         "image_url": "https://static.grupojoly.com/clip/b29a4c51-ea0a-48f9-bb5a-ec942bf9e6f2_source-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2956,5 +2946,234 @@ export default [
         "link": "https://www.lavanguardia.com/deportes/20260211/11464080/copa-del-rey-real-sociedad-athletic-bilbao-turrientes-ventaja-semifinales.html",
         "date": "2026-02-11 22:03:17",
         "sentiment_score": 0.5459725260734558
+    },
+    {
+        "title": "La filosa reflexión de un legendario entrenador cuando le compararon a Cristiano Ronaldo con Messi y Maradona",
+        "image_url": "https://www.infobae.com/resizer/v2/5CFBFDPR3NB3VBK6QJP4GGE2LE.jpg?auth=702e3c638f3e51e8eca45d57ed8dc393e6c4d2418715ea20e44d6c5a3260d614&height=1080&smart=true&width=1920",
+        "tags": [
+            "deportes-argentina",
+            "fabio capello",
+            "lionel messi",
+            "cristiano ronaldo",
+            "ronaldo nazario",
+            "diego maradona"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/12/la-filosa-reflexion-de-un-legendario-entrenador-cuando-le-compararon-a-cristiano-ronaldo-con-messi-y-maradona/",
+        "date": "2026-02-12 02:32:28",
+        "sentiment_score": 0.42862898111343384
+    },
+    {
+        "title": "Echan a De Zerbi... y el Marsella entra en modo urgencia para el tramo final de la temporada",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/21/2026012105403391790.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/echan-zerbi-marsella-entra-modo-urgencia-tramo-final-temporada/20260212032530374412.html",
+        "date": "2026-02-12 02:25:30",
+        "sentiment_score": 0.11796596646308899
+    },
+    {
+        "title": "Laporta y una palanca millonaria cortesía de Arabia Saudí: ¿se viene una venta sorpresiva?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/08/2025050808360726078.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/laporta-palanca-millonaria-cortesia-arabia-saudi-viene-venta-sorpresiva/20260212031315374410.html",
+        "date": "2026-02-12 02:13:15",
+        "sentiment_score": 0.3071867600083351
+    },
+    {
+        "title": "Sánchez rebosa satisfacción",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rebosa",
+            "sanchez",
+            "satisfaccion"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/sanchez-rebosa-satisfaccion_0_2005884038.html",
+        "date": "2026-02-12 02:09:05",
+        "sentiment_score": -0.5778694897890091
+    },
+    {
+        "title": "Hijos de la luz",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "luz",
+            "hijos"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/hijos-luz_0_2005884033.html",
+        "date": "2026-02-12 02:09:03",
+        "sentiment_score": -0.4644029587507248
+    },
+    {
+        "title": "La Juventus luchará contra los grandes de la Premier por el fichaje de Tonali",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/12/2026021203012938259.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/juventus-luchara-grandes-premier-fichaje-tonali/20260212030337374409.html",
+        "date": "2026-02-12 02:03:37",
+        "sentiment_score": 0.6834732741117477
+    },
+    {
+        "title": "Linda Caicedo lideró al Real Madrid en la Champions femenina: gol y asistencia ante el París FC",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "real madrid",
+            "colombia-espn",
+            "parís fc",
+            "colombia-deportes",
+            "real madrid femenino",
+            "champions league femenina",
+            "linda caicedo gol",
+            "linda caicedo"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/12/linda-caicedo-lidero-al-real-madrid-en-la-champions-femenina-gol-y-asistencia-ante-el-paris-fc/",
+        "date": "2026-02-12 01:56:28",
+        "sentiment_score": 0.6996575966477394
+    },
+    {
+        "title": "¿El Real Madrid se fija en un talento de la Liga MX valorado en 80 millones?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/12/2026021202524048476.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/real-madrid-fija-talento-liga-mx-valorado-80-millones/20260212025358374404.html",
+        "date": "2026-02-12 01:53:58",
+        "sentiment_score": 0.0069380104541778564
+    },
+    {
+        "title": "La UEFA, los clubes europeos y el Real Madrid anuncian acuerdo que acaba con la Superliga",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "pandemia global",
+            "la final de la uefa champions league y la europa league ha sido pospuesta",
+            "coronavirus covid- 19",
+            "pandemia del coronavirus (covid-19 )",
+            "efe",
+            "logotipo",
+            "logo",
+            "enfermedades",
+            "paises",
+            "suiza",
+            "confinamiento"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/11/la-uefa-los-clubes-europeos-y-el-real-madrid-anuncian-acuerdo-que-acaba-con-la-superliga/",
+        "date": "2026-02-12 01:49:30",
+        "sentiment_score": 0.06518344581127167
+    },
+    {
+        "title": "Adiós a la Superliga, bienvenida la paz entre el Real Madrid y la Uefa",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/12/2026021202235181485.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/adios-superliga-saludos-paz-entre-madrid-uefa/20260212022929374398.html",
+        "date": "2026-02-12 01:29:29",
+        "sentiment_score": 0.3332514464855194
+    },
+    {
+        "title": "Estrategia del FC Barcelona: ¿por qué los jugadores usan lentes rojos?",
+        "image_url": "https://pxcdn.2001online.com/2001/022026/1770865493283/0e249562-2ef6-4853-a89f-7c1f70479605_alta-libre-aspect-ratio_default_0_x600y225.jpg?ch=675&cw=1200",
+        "tags": [
+            "atlético madrid",
+            "barcelona",
+            "españa",
+            "fc barcelona",
+            "laliga",
+            "copa",
+            "copa del rey",
+            "lamine yamal",
+            "ferran torres"
+        ],
+        "link": "https://2001online.com/deportes/estrategia-del-fc-barcelona-por-que-los-jugadores-usan-lentes-rojos-202621123300",
+        "date": "2026-02-12 02:34:38",
+        "sentiment_score": 0.4672910813242197
+    },
+    {
+        "title": "11 FEB 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/11-feb-2026-partidazo-cope-20260212_3306248.html",
+        "date": "2026-02-12 00:43:00",
+        "sentiment_score": 0.05406884849071503
+    },
+    {
+        "title": "El Real Madrid y la UEFA firman la paz definitiva: la Superliga llega a su fin",
+        "image_url": "https://pxcdn.2001online.com/2001/022026/1770855752025/florentino-ceferin.jpg?ch=675&cw=1200",
+        "tags": [
+            "florentino pérez",
+            "superliga europea",
+            "nasser al khelaifi",
+            "real madrid",
+            "superliga",
+            "laliga",
+            "fc barcelona",
+            "uefa"
+        ],
+        "link": "https://2001online.com/deportes/el-real-madrid-y-la-uefa-firman-la-paz-definitiva-la-superliga-llega-a-su-fin-202621120450",
+        "date": "2026-02-12 00:04:44",
+        "sentiment_score": 0.3675772026181221
+    },
+    {
+        "title": "World: los escáneres de iris del fundador de ChatGPT regresan a Barcelona",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/516f189a205d4d6c842aef29486ed0a1/crop/0x0/1095x730/f/webp/assets/multimedia/imagenes/2026/02/11/17708252045980.jpg",
+        "tags": [
+            "economía digital>",
+            "artículos marta juste>",
+            "tecnología>"
+        ],
+        "link": "https://www.expansion.com/economia-digital/companias/2026/02/12/698ca5ba468aeb8c208b48a4.html",
+        "date": "2026-02-11 23:55:21",
+        "sentiment_score": 0.6469188760966063
+    },
+    {
+        "title": "Jueves 12 de febrero de 2026 (23.30 GMT)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/11/jueves-12-de-febrero-de-2026-2330-gmt/",
+        "date": "2026-02-11 23:45:56",
+        "sentiment_score": -0.004436008632183075
+    },
+    {
+        "title": "Los retrasos se disparan tras Adamuz: solo el 50% de los AVE llegaron puntuales en enero",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/11/retrasos-tren-kWmH-U20648752858LTF-1200x840@RC.jpg",
+        "tags": [
+            "renfe",
+            "adif",
+            "ave",
+            "accidente ferroviario adamuz",
+            "ouigo"
+        ],
+        "link": "https://www.eldiariomontanes.es/economia/retrasos-ave-puntualidad-renfe-accidente-adamuz-20260211120449-ntrc.html",
+        "date": "2026-02-11 23:39:50",
+        "sentiment_score": -0.7422521226108074
+    },
+    {
+        "title": "Xavi Vilajoana se postula como la alternativa real contra Laporta: \"Ya tengo pensado lo que le diré, será divertido\"",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/11/culemania/palco/1003742731880_15709250_1706x960.jpg",
+        "tags": [
+            "xavier vilajoana",
+            "joan laporta",
+            "palco",
+            "elecciones barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260212/xavi-vilajoana-postula-alternativa-laporta-pensado-divertido/1003742731821_0.html",
+        "date": "2026-02-11 23:36:10",
+        "sentiment_score": 0.0921512246131897
+    },
+    {
+        "title": "\"Ecuador en dictadura\", denuncia el correísmo tras encarcelamiento de alcalde de Guayaquil",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/11/ecuador-en-dictadura-denuncia-el-correismo-tras-encarcelamiento-de-alcalde-de-guayaquil/",
+        "date": "2026-02-11 23:31:32",
+        "sentiment_score": -0.8476167358458042
     }
 ];
