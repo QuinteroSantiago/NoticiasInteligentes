@@ -1,179 +1,5 @@
 export default [
     {
-        "title": "El fichaje estrella del Depor se estrena: Riki frente al Albacete, destino cruel",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/08/2026020807310917307.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/fichaje-estrella-depor-estrena-riki-frente-albacete-destino-cruel/20260208073600373833.html",
-        "date": "2026-02-08 06:36:00",
-        "sentiment_score": 0.09643105790019035
-    },
-    {
-        "title": "La infancia de Jaime Cantizano en un barrio obrero de Jerez: «Siempre fui un adulto en miniatura»",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/infancia-jaime-cantizano.jpeg",
-        "tags": [
-            "celebrities",
-            "jerez",
-            "presentadores de televisión",
-            "jaime cantizano",
-            "gente",
-            "onda cero"
-        ],
-        "link": "https://theobjective.com/gente/2026-02-08/infancia-jaime-cantizano-barrio-obrero-jerez/",
-        "date": "2026-02-08 06:30:00",
-        "sentiment_score": 0.15727168321609497
-    },
-    {
-        "title": "Lasse Rouhiainen: \"Muchas empresas ya usan la IA para contar con segundas opiniones\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/91780631-d65b-41b0-82ce-b57679261f5f_alta-libre-aspect-ratio_default_0_x750y314.jpg",
-        "tags": [
-            "inteligencia artificial",
-            "finlandia",
-            "empresas"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260208/lasse-rouhiainen-uso-ia-empresas-contar-segunda-opinion-126576205",
-        "date": "2026-02-08 06:09:43",
-        "sentiment_score": -0.026821475476026535
-    },
-    {
-        "title": "Extremadura, segunda región en el alza de compraventa de vivienda: +5,2%",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9748f7b6-3ba9-4b65-8174-430af2f45a56_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "extremadura",
-            "estadística",
-            "compraventa",
-            "españa",
-            "vivienda"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/08/extremadura-segunda-region-alza-compraventa-126575370.html",
-        "date": "2026-02-08 06:01:26",
-        "sentiment_score": 0.2986820414662361
-    },
-    {
-        "title": "Mateos, ante su año decisivo en Cáceres: suelo para crecer y aeródromo para conectar",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c705eac2-3a0e-48ee-a27c-038402d88f35_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "aeródromo",
-            "cáceres",
-            "ayuntamiento de cáceres",
-            "charca musia",
-            "suelo industrial",
-            "capellanías",
-            "rafa mateos",
-            "ayuntamiento",
-            "infraestructuras",
-            "industrialización"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/fotos/caceres-local/2026/02/08/mateos-ano-decisivo-suelo-crecer-aerodromo-conectar-126497122.html",
-        "date": "2026-02-08 06:01:03",
-        "sentiment_score": 0.580833375453949
-    },
-    {
-        "title": "Planes de retorno: la carestía de la vida empuja a la emigración rumana a volver a su país",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/Asociacion-Rumana-de-CIudad-Real-ER_-1-de-1-4-1299x730.jpg",
-        "tags": [
-            "rumanía",
-            "ciudad real",
-            "emigración"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/ciudad-real/la-carestia-de-la-vida-empuja-a-la-emigracion-rumana-a-volver-a-su-pais/",
-        "date": "2026-02-08 06:00:00",
-        "sentiment_score": -0.07210388779640198
-    },
-    {
-        "title": "Las cinco claves para seguir la ceremonia de los premios Gaudí que se entregan esta noche",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/08/las-cinco-claves-para-seguir-la-ceremonia-de-los-premios-gaudi-que-se-entregan-esta-noche/",
-        "date": "2026-02-08 06:45:52",
-        "sentiment_score": 0.47381614334881306
-    },
-    {
-        "title": "“Éramos dos niños y vimos a muchos morir de hambre y de sed en la patera”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/07/69878224d5150.r_d.2666-1620-827.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.lavanguardia.com/vida/20260208/11460541/dos-ninos-vimos-morir-hambre-sed-patera.html",
-        "date": "2026-02-08 06:39:45",
-        "sentiment_score": -0.642887756228447
-    },
-    {
-        "title": "Pleno de alto voltaje con comparecencia sobre trenes y cara a cara Sánchez-Feijóo",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/08/pleno-de-alto-voltaje-con-comparecencia-sobre-trenes-y-cara-a-cara-sanchez-feijoo/",
-        "date": "2026-02-08 06:30:20",
-        "sentiment_score": 0.1924521028995514
-    },
-    {
-        "title": "Entre precios elevados y pisos vacíos: el gran desafío social de España",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7483abe5-5664-4d17-883b-30972d5468c9_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "españa",
-            "jóvenes",
-            "madrid",
-            "vivienda",
-            "extremadura"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/08/precios-elevados-pisos-vacios-gran-126447845.html",
-        "date": "2026-02-08 06:15:00",
-        "sentiment_score": -0.46649933606386185
-    },
-    {
-        "title": "Kongsberg anticipa desde Alicante el futuro del barco eléctrico y autónomo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3615ab0f-69c2-4658-b973-0c5129650435_alta-libre-aspect-ratio_default_0_x789y350.jpg",
-        "tags": [
-            "pesca",
-            "noruega"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260208/kongsberg-anticipa-alicante-futuro-barco-electrico-autonomo-126576088",
-        "date": "2026-02-08 06:08:25",
-        "sentiment_score": 0.5956595912575722
-    },
-    {
-        "title": "Tirso de Molina y Extremadura",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/61b71940-ef66-4e6b-a0cb-eeb0170b7885_16-9-aspect-ratio_default_0_x600y266.jpg",
-        "tags": [
-            "extremadura",
-            "disturbios",
-            "iglesia",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/08/tirso-molina-extremadura-126446892.html",
-        "date": "2026-02-08 06:05:49",
-        "sentiment_score": -0.003607720136642456
-    },
-    {
-        "title": "La atrocidad o su narración",
-        "image_url": "https://static.grupojoly.com/clip/0b75709d-fbdd-4a41-8c85-0992a0690ce3_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "atrocidad",
-            "narracion"
-        ],
-        "link": "https://www.europasur.es/ocio/atrocidad-narracion_0_2005844133.html",
-        "date": "2026-02-08 06:02:25",
-        "sentiment_score": 0.4496901333332062
-    },
-    {
-        "title": "Un pueblo de Cáceres, en el epicentro de la presunta estafa de las 52 chaquetas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e2de9cbe-7347-430c-bc9e-77ccec41db69_16-9-aspect-ratio_default_0_x640y283.jpg",
-        "tags": [
-            "juzgado de instrucción",
-            "gavà",
-            "barcelona",
-            "tribunal supremo"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres-local/2026/02/08/pueblo-caceres-epicentro-estafa-chaquetas-126496067.html",
-        "date": "2026-02-08 06:01:03",
-        "sentiment_score": -0.8380015436559916
-    },
-    {
         "title": "Cazorla vuelve a pronunciarse por redes sociales: el dardo a LaLiga del capitán del Real Oviedo",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8b335d3a-5e08-4bcc-a820-58ec5af30fb6_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2970,5 +2796,165 @@ export default [
         "link": "https://www.economiadigital.es/hemeroteca/ap-institute-aeros-defensa-industria-companias.html",
         "date": "2026-02-11 17:43:19",
         "sentiment_score": 0.1283950563520193
+    },
+    {
+        "title": "El Real Madrid remonta en París para acercar el Clásico",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/2701a3ed-7340-4a97-87b40096b220948e.jpg",
+        "tags": [
+            "champions league",
+            "parís",
+            "fc barcelona",
+            "real madrid"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z1ee842df-4b97-4de3-adfaf975c20570ab/202602/el-real-madrid-remonta-en-paris-para-acercar-el-clasico",
+        "date": "2026-02-11 22:33:50",
+        "sentiment_score": -0.44371821731328964
+    },
+    {
+        "title": "Matarazzo, el mejor revulsivo",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/db73ffa9-d519-445b-80ee-607b6522d470_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "matarazzo",
+            "mejor",
+            "revulsivo"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/02/11/matarazzo-mejor-revulsivo-10690137.html",
+        "date": "2026-02-11 22:29:57",
+        "sentiment_score": 0.46999967098236084
+    },
+    {
+        "title": "La reunión con el CTA reafirma a los árbitros en las jugadas que no comparte el Pucela",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2026/02/11/1506632552-kaGB-U20665158728iOD-758x531@El%20Norte.jpg",
+        "tags": [
+            "real valladolid club de fútbol"
+        ],
+        "link": "https://www.elnortedecastilla.es/realvalladolid/reunion-cta-reafirma-arbitros-jugadas-comparte-pucela-20260211232145-nt.html",
+        "date": "2026-02-11 22:21:50",
+        "sentiment_score": 0.4509766027331352
+    },
+    {
+        "title": "Messi confirmó que sufrió una lesión y se postergó el amistoso del Inter Miami en Puerto Rico: cuándo se jugará",
+        "image_url": "https://www.infobae.com/resizer/v2/Q7ZQJYLB2JGWNO5KF2KVKFEQ64.JPG?auth=53f38b27fa2321d4e487eb945a96db36ed29481a50a76418ae1414b062839631&height=1503&smart=true&width=2673",
+        "tags": [
+            "lionel messi",
+            "independiente del valle",
+            "deportes-argentina",
+            "inter miami",
+            "deportes-internacional",
+            "puerto rico"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/11/messi-confirmo-que-sufrio-una-lesion-y-se-postergo-el-amistoso-del-inter-miami-en-puerto-rico-cuando-se-jugara/",
+        "date": "2026-02-11 22:20:45",
+        "sentiment_score": -0.11250060424208641
+    },
+    {
+        "title": "2-3. El Real Madrid remonta y acaricia los cuartos",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "liga de campeones",
+            "deportistas",
+            "mujer",
+            "efe",
+            "real madrid y paris fc"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/11/2-3-el-real-madrid-remonta-y-acaricia-los-cuartos/",
+        "date": "2026-02-11 22:17:44",
+        "sentiment_score": 0.8587619736790657
+    },
+    {
+        "title": "Maanum anota dos veces y Arsenal golea 4-0 al Leuven en la ida del playoff de la Champions femenina",
+        "image_url": "https://dims.apnews.com/dims4/default/769f665/2147483647/strip/true/crop/5350x3561+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb4%2Fd2%2F4bd5572f2d8d9667ac3bd75875f7%2F674a23b985e740418ea84749be09afe3",
+        "tags": [
+            "deportes",
+            "sports",
+            "liga campeones mujeres arsenal real madrid",
+            "send to apple news"
+        ],
+        "link": "https://apnews.com/article/liga-campeones-mujeres-arsenal-real-madrid-b6db9003316b7a410e328f57affcb302",
+        "date": "2026-02-11 22:15:27",
+        "sentiment_score": 0.70505216345191
+    },
+    {
+        "title": "Maanum anota 2 veces y Arsenal golea 4-0 al Leuven en la ida del playoff de la Champions femenina",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/02/CAMPEONES-MUJERES_49056.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2026/02/11/maanum-anota-2-veces-y-arsenal-golea-4-0-al-leuven-en-la-ida-del-playoff-de-la-champions-femenina/",
+        "date": "2026-02-11 22:15:27",
+        "sentiment_score": 0.5529844462871552
+    },
+    {
+        "title": "Natalia de ‘Aquí no hay quien viva’ te da mil vueltas: por que ahora es una de las mentes matemáticas más brillantes del país",
+        "image_url": "https://static.merca2.es/wp-content/uploads/2022/01/Sofia-Nieto-Natalia-Cuesta.jpg",
+        "tags": [
+            "últimas noticias",
+            "merca2 tv"
+        ],
+        "link": "https://www.merca2.es/2026/02/11/natalia-aqui-no-hay-quien-viva-2351067/",
+        "date": "2026-02-11 22:00:00",
+        "sentiment_score": -0.0718456506729126
+    },
+    {
+        "title": "Acuerdo histórico entre UEFA y Real Madrid por la Superliga",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/02/11/2026021122435041832.jpg",
+        "tags": [
+            "noticias en la red"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/acuerdo-historico-entre-uefa-real-madrid-superliga/20260211224350441096.html",
+        "date": "2026-02-11 21:43:50",
+        "sentiment_score": 0.336611345410347
+    },
+    {
+        "title": "Una lesión de Messi lleva a posponer el partido del Inter Miami en Puerto Rico",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/11/una-lesion-de-messi-lleva-a-posponer-el-partido-del-inter-miami-en-puerto-rico/",
+        "date": "2026-02-11 22:37:00",
+        "sentiment_score": -0.6849652417004108
+    },
+    {
+        "title": "Por lesión de Messi posponen el partido del Inter Miami en Puerto Rico",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/11/por-lesion-de-messi-posponen-el-partido-del-inter-miami-en-puerto-rico/",
+        "date": "2026-02-11 22:33:17",
+        "sentiment_score": -0.5177841689437628
+    },
+    {
+        "title": "¡Recuerdas los vuelos directos! La red aérea entre EEUU y Venezuela conectó a estas diez ciudades sin escalas en su mejor época",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "#eeuu",
+            "vuelos",
+            "#venezuela"
+        ],
+        "link": "https://2001online.com/usa/internacionales/recuerda-los-vuelos-directos-la-red-aerea-entre-eeuu-y-venezuela-conecto-a-estas-diez-ciudades-sin-escalas-en-su-mejor-epoca-202621118220",
+        "date": "2026-02-11 22:22:00",
+        "sentiment_score": 0.28024888038635254
+    },
+    {
+        "title": "Tres meses después del brote de peste porcina, el origen del virus sigue sin aclararse: \"Hay muchos focos y eso es lo que lo hace muy difícil\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/11/698cd425a4140.jpeg",
+        "tags": [
+            "la linterna"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/noticias/tres-meses-brote-peste-porcina-origen-virus-sigue-aclararse-hay-focos-dificil-20260211_3306143.html",
+        "date": "2026-02-11 22:20:26",
+        "sentiment_score": -0.2466583400964737
+    },
+    {
+        "title": "Turrientes pone en ventaja a una Real Sociedad más atrevida que el Athletic",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/11/698cf647770f7.r_d.788-577-2923.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/20260211/11464080/copa-del-rey-real-sociedad-athletic-bilbao-turrientes-ventaja-semifinales.html",
+        "date": "2026-02-11 22:03:17",
+        "sentiment_score": 0.5459725260734558
     }
 ];
