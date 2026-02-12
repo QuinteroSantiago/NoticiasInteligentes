@@ -1,200 +1,5 @@
 export default [
     {
-        "title": "Cazorla vuelve a pronunciarse por redes sociales: el dardo a LaLiga del capitán del Real Oviedo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8b335d3a-5e08-4bcc-a820-58ec5af30fb6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pronunciarse",
-            "vuelve",
-            "redes",
-            "cazorla",
-            "sociales"
-        ],
-        "link": "https://www.lne.es/real-oviedo/2026/02/08/cazorla-vuelve-pronunciarse-redes-sociales-126592764.html",
-        "date": "2026-02-08 17:40:23",
-        "sentiment_score": -0.9315378488972783
-    },
-    {
-        "title": "Unicaja: El gen competitivo permanece a la espera de las sensaciones",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/17a5ae73-248a-420d-81a4-5ca16d652e4f_16-9-aspect-ratio_default_0_x870y361.jpg",
-        "tags": [
-            "acb",
-            "baloncesto",
-            "unicaja",
-            "ucam",
-            "valencia basket"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2026/02/08/unicaja-numeros-temporada-sensaciones-acb-bcl-126590477.html",
-        "date": "2026-02-08 17:23:09",
-        "sentiment_score": -0.8429721631109715
-    },
-    {
-        "title": "Primera diana de Raúl Dacosta con la camiseta del Racing de Ferrol",
-        "image_url": "https://cflvdg.avoz.es/sc/BVx8phG72Bz2-Gu3AxRVkkm-Fsk=/768x/2026/02/08/00121770570302544506212/Foto/f_20260207_204218000.jpg",
-        "tags": [
-            "cd lugo",
-            "fútbol gallego",
-            "opa racing",
-            "racing de ferrol"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/oparacing/2026/02/09/primera-diana-raul-dacosta/0003_202602F9P23993.htm",
-        "date": "2026-02-08 17:14:00",
-        "sentiment_score": -0.6935458667576313
-    },
-    {
-        "title": "La Real Sociedad se resarce de la eliminación copera (2-0)",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9c6ec8d0-f7f4-4b61-96ec-16d8e9138225_16-9-aspect-ratio_default_0_x585y644.jpg",
-        "tags": [
-            "copera",
-            "eliminacion",
-            "sociedad",
-            "real",
-            "resarce"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/femenino/2026/02/08/real-sociedad-resarce-eliminacion-copera-10675157.html",
-        "date": "2026-02-08 17:11:34",
-        "sentiment_score": 0.7915846481919289
-    },
-    {
-        "title": "Nueva ayuda del Gobierno de hasta 7.500 euros para la compra de coches eléctricos para autónomos en España: requisitos y cómo solicitar",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/08/plan-auto-ayudas-kSh-U20564853773mPD-1200x840@diario_abc.jpg",
-        "tags": [
-            "coches eléctricos"
-        ],
-        "link": "https://www.leonoticias.com/motor/nueva-ayuda-gobierno-7500-euros-compra-coches-20260208180000-ntrc.html",
-        "date": "2026-02-08 17:00:14",
-        "sentiment_score": 0.7716825008392334
-    },
-    {
-        "title": "Así es viajar en un Tesla que se conduce solo: más ágil y natural que muchos conductores humanos",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/06/6985c01e599b46-14062655.png",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.20minutos.es/motor/actualidad/asi-viajar-tesla-que-conduce-solo-mas-agil-natural-que-muchos-conductores-humanos_6930829_0.html",
-        "date": "2026-02-08 17:00:00",
-        "sentiment_score": -0.4892152473330498
-    },
-    {
-        "title": "Tierra, agua y aire: convocados los II Premios Luz Verde a las mejores iniciativas ambientales",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/02b41895-8b1b-45d4-85ac-90a124722632_16-9-aspect-ratio_default_0_x1139y827.jpg",
-        "tags": [
-            "tierra",
-            "luz",
-            "premios",
-            "onda cero",
-            "medio ambiente"
-        ],
-        "link": "https://www.informacion.es/medio-ambiente/2026/02/08/tierra-agua-aire-convocados-ii-126591065.html",
-        "date": "2026-02-08 16:44:01",
-        "sentiment_score": 0.7026952691376209
-    },
-    {
-        "title": "Los servicios mínimos de Cercanías de Cantabria serán del 75% en hora punta y 50% el resto",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260208180150.jpg?fit=1500%2C1000&ssl=1",
-        "tags": [
-            "cantabria"
-        ],
-        "link": "https://cronicadecantabria.com/cr/los-servicios-mnimos-de-cercanas-de-cantabria-sern-del-75-en-hora-punta-y-50-el-resto/",
-        "date": "2026-02-08 18:00:03",
-        "sentiment_score": 0.06505227833986282
-    },
-    {
-        "title": "Víctor del Árbol regresa al Club de Lectura con su sicario sin nombre: \"La literatura se banaliza si se centra únicamente en el entretenimiento\"",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2026/02/07/69870ceaa5dbd.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/cultura-ocio/cultura/2026/02/08/victor-arbol-regresa-club-lectura-sicario-nombre-dnexclusivo-809365-104.html",
-        "date": "2026-02-08 18:00:00",
-        "sentiment_score": -0.6455945894122124
-    },
-    {
-        "title": "Servicios mínimos por la huelga ferroviaria: cuántos trenes circulan en cada momento del día",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/02/08/6988b6fcdee94.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.eldebate.com/economia/20260208/servicios-minimos-huelga-ferroviaria-cuantos-trenes-circulan-cada-momento-dia_383069.html",
-        "date": "2026-02-08 17:49:38",
-        "sentiment_score": -0.008424486964941025
-    },
-    {
-        "title": "Rubi, sincero: “Tuvimos que remar y sufrir”",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/02/08/6988cb6450e61.jpeg",
-        "tags": [
-            "ud almería"
-        ],
-        "link": "https://www.lavozdealmeria.com/ud-almeria/456437/rubi-sincero-tuvimos-remar-sufrir.html",
-        "date": "2026-02-08 17:44:07",
-        "sentiment_score": 0.7781247980892658
-    },
-    {
-        "title": "Los 12 canteranos del Barça de Hansi Flick curtidos en la Masía: de Tommy Marqués a Dani Olmo",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/07/culemania/primer-equipo/1003742730602_15692555_1706x960.jpg",
-        "tags": [
-            "barça",
-            "lamine yamal",
-            "primer equipo",
-            "la masía",
-            "pau cubarsí",
-            "marc bernal"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260208/barca-hansi-flick-masia-tommy-marques-dani/1003742730721_0.html",
-        "date": "2026-02-08 17:34:23",
-        "sentiment_score": 0.015761837363243103
-    },
-    {
-        "title": "Marina Muñoz y Jarno Pousada se imponen en el Duatlón de Soria",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/08/D2DB1311-BD08-4DEF-B02F-5153A72BF35D/podio-masculino-duatlon-soria_69.jpg?crop=5760%2C3240%2Cx0%2Cy312&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "castilla y león"
-        ],
-        "link": "https://www.larazon.es/castilla-y-leon/marina-munoz-jarno-pousada-imponen-duatlon-soria_202602086988c8269243cc133c3b5769.html",
-        "date": "2026-02-08 17:30:14",
-        "sentiment_score": 0.27966981567442417
-    },
-    {
-        "title": "Javier Inés, fotógrafo de la noche barcelonesa de finales de los 80 y los 90, se instala en Pollença",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/50e68299-0467-4e0a-94eb-db54785fabc7_alta-libre-aspect-ratio_default_0_x574y680.jpg",
-        "tags": [
-            "barcelona",
-            "moda",
-            "fotografía",
-            "domingo",
-            "exposición",
-            "cultura",
-            "zaragoza"
-        ],
-        "link": "https://www.diariodemallorca.es/cultura/2026/02/08/javier-ines-fotografo-noche-barcelonesa-126592062.html",
-        "date": "2026-02-08 17:15:48",
-        "sentiment_score": 0.37605167739093304
-    },
-    {
-        "title": "Diputación de Albacete impulsa la proyección nacional e internacional de los vinos de la Denominación de Origen Almansa",
-        "image_url": "http://st1.lacerca.com/imagenes/view/86adec3236a7f44f47e41dc86f29ceaa.jpg",
-        "tags": [
-            "albacete",
-            "noticias"
-        ],
-        "link": "https://www.lacerca.com/noticias/albacete/diputacion-albacete-nacional-internacional-vinos-denominacion-origen-almansa-801033-1.html",
-        "date": "2026-02-08 17:04:00",
-        "sentiment_score": 0.5226894989609718
-    },
-    {
-        "title": "Un Betis herido se toma la revancha ante el Atlético, que se despide de LaLiga",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/845e7166-5e90-44d4-b715-5c7024035397_16-9-aspect-ratio_default_0_x1000y445.jpg",
-        "tags": [
-            "fútbol",
-            "laliga ea sports",
-            "atlético de madrid",
-            "real betis"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2026/02/08/betis-herido-toma-revancha-atletico-despide-laliga-126591725.html",
-        "date": "2026-02-08 17:01:11",
-        "sentiment_score": -0.18775388598442078
-    },
-    {
         "title": "Las fotos del Valencia-Real Madrid",
         "image_url": "https://static.grupojoly.com/clip/b29a4c51-ea0a-48f9-bb5a-ec942bf9e6f2_source-aspect-ratio_default_0.jpg",
         "tags": [
@@ -3175,5 +2980,199 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2026/02/11/ecuador-en-dictadura-denuncia-el-correismo-tras-encarcelamiento-de-alcalde-de-guayaquil/",
         "date": "2026-02-11 23:31:32",
         "sentiment_score": -0.8476167358458042
+    },
+    {
+        "title": "07:00H | 12 FEB 2026 | Herrera en COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "herrera en cope"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/07-00h-12-feb-2026-herrera-cope-20260212_3306300.html",
+        "date": "2026-02-12 07:07:00",
+        "sentiment_score": -0.11468425393104553
+    },
+    {
+        "title": "Ni gorro ni ‘balaclava’: Alexandra Pereira tiene el accesorio de marca madrileña capaz de salvar cualquier look",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/Alexandra-Pereira-accesorio-marca-espan%CC%83ola-salvar-look.jpg",
+        "tags": [
+            "look",
+            "marca españa",
+            "tendencias",
+            "moda",
+            "madrid",
+            "gente",
+            "accesorios"
+        ],
+        "link": "https://theobjective.com/lifestyle/moda/2026-02-12/alexandra-pereira-accesorio-marca-madrilena-capaz-salvar-cualquier-look/",
+        "date": "2026-02-12 07:00:00",
+        "sentiment_score": 0.8617887087166309
+    },
+    {
+        "title": "Ábalos, Koldo García y Aldama comparecen por primera vez en el Supremo ante el tribunal que los juzgará",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7ffd1802-d5e6-4f7b-93a9-b4c4c51e92e0_16-9-aspect-ratio_default_0_x341y155.jpg",
+        "tags": [
+            "comparecen",
+            "aldama",
+            "koldo",
+            "abalos",
+            "garcia"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/politica/2026/02/12/abalos-koldo-garcia-aldama-comparecen-10690340.html",
+        "date": "2026-02-12 06:31:43",
+        "sentiment_score": -0.6208292581140995
+    },
+    {
+        "title": "El Supremo escucha hoy las alegaciones de Ábalos, Koldo y Aldama antes del juicio de las mascarillas",
+        "image_url": "https://www.infobae.com/resizer/v2/GBZ4RLFCMJEKVL7DBWGTG5SPVE.jpg?auth=76c67feb9f478769dc55b3940bd85b2a00da64cc1c8f6f28990e1427d6199b3d&height=1274&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/12/el-supremo-escucha-hoy-las-alegaciones-de-abalos-koldo-y-aldama-antes-del-juicio-de-las-mascarillas/",
+        "date": "2026-02-12 06:30:51",
+        "sentiment_score": -0.1141294613480568
+    },
+    {
+        "title": "Carles Puigdemont manda, Pedro Sánchez obedece: la amnistía que humilla a la Justicia",
+        "image_url": "https://edatv.news/filesedc/uploads/image/post/2026/02/espana-en-ruinas-sanchez-hunde-salarios-dispara-precios-y-convierte-a-los-espanoles-en-los-mas-pobres-de-europa-16_1600_1067.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://edatv.news/politica/carles-puigdemont-manda-pedro-sanchez-obedece-amnistia-que-humilla-justicia",
+        "date": "2026-02-12 06:30:00",
+        "sentiment_score": -0.9007254373282194
+    },
+    {
+        "title": "Antonio Banderas, sobre sus inicios: \"Mi nombre artístico fue idea de Pedro Almodóvar, me dijo que el mío era de torero\"",
+        "image_url": "https://s3.elespanol.com/2026/01/26/corazon/bluper/1003744104615_261102720_1706x960.jpg",
+        "tags": [
+            "vivir",
+            "málaga",
+            "antonio banderas",
+            "málaga (provincia)",
+            "pedro almodóvar"
+        ],
+        "link": "https://www.elespanol.com/malaga/vivir/20260212/antonio-banderas-inicios-nombre-artistico-idea-pedro-almodovar-dijo-torero-trt/1003744126105_0.html",
+        "date": "2026-02-12 06:28:51",
+        "sentiment_score": 0.1967860907316208
+    },
+    {
+        "title": "Arbeloa cumple un mes al timón del Titanic",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7db264a1-1ff3-4235-bec9-ae9b7b898302_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "real madrid",
+            "fútbol",
+            "álvaro arbeloa"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2026/02/12/arbeloa-cumple-mes-real-madrid-futbol-titanic-126738536.html",
+        "date": "2026-02-12 06:25:45",
+        "sentiment_score": -0.14550602436065674
+    },
+    {
+        "title": "La infanta Cristina se blinda ante las memorias de Iñaki Urdangarin: sin perdón y centrada en su mudanza",
+        "image_url": "https://s1.ppllstatics.com/mujerhoy/www/multimedia/2026/02/11/infanta-cristina-R1LAmKmuWM7bhDgooHHRU3L-758x758@Mujer%20Hoy.jpg",
+        "tags": [
+            "cristina de borbón y grecia"
+        ],
+        "link": "https://www.mujerhoy.com/celebrities/realeza/infanta-cristina-reaccion-memorias-inaki-urdangarin-mudanza-20260212134937-nt.html",
+        "date": "2026-02-12 07:10:49",
+        "sentiment_score": -0.19385859370231628
+    },
+    {
+        "title": "El Grupo Godó sufre un ciberataque",
+        "image_url": "https://static1.ara.cat/clip/8df8c3f1-268d-4852-a4b7-5228b223ac63_16-9-aspect-ratio_default_0.png",
+        "tags": [
+            "grupo",
+            "sufre",
+            "ciberataque",
+            "godo"
+        ],
+        "link": "https://es.ara.cat/media/grupo-godo-sufre-ciberataque_1_5646117.html",
+        "date": "2026-02-12 07:10:41",
+        "sentiment_score": -0.7982220435515046
+    },
+    {
+        "title": "Adif limita temporalmente la velocidad en Rodalies a 80 km/h y hay tramos cortados por caída de árboles",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260212074804.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "política"
+        ],
+        "link": "https://cronicadecantabria.com/cr/adif-limita-temporalmente-la-velocidad-en-rodalies-a-80-km-h-y-hay-tramos-cortados-por-cada-de-rboles/",
+        "date": "2026-02-12 07:00:05",
+        "sentiment_score": -0.7460847832262516
+    },
+    {
+        "title": "Giménez-Salinas Abogados refuerza su práctica en resolución de conflictos mercantiles para empresas y socios",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7845551",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5769361/gimenez-salinas-abogados-refuerza-practica-resolucion-conflictos-mercantiles-empresas-socios",
+        "date": "2026-02-12 07:00:00",
+        "sentiment_score": 0.5612600259482861
+    },
+    {
+        "title": "La ola de cierres de tiendas en Barcelona reabre el debate sobre limitar el alquiler de locales",
+        "image_url": "https://static1.ara.cat/clip/8a511701-3267-47df-a3cb-7f9af9c8f03a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cierres",
+            "locales",
+            "debate",
+            "ola",
+            "barcelona",
+            "limitar",
+            "reabre",
+            "alquiler",
+            "tiendas"
+        ],
+        "link": "https://es.ara.cat/sociedad/barcelona/ola-cierres-tiendas-barcelona-reabre-debate-limitar-alquiler-locales_1_5645992.html",
+        "date": "2026-02-12 06:48:22",
+        "sentiment_score": -0.4194798916578293
+    },
+    {
+        "title": "Adif limita temporalmente la velocidad en Rodalies a 80 km/h y hay tramos cortados por caída de árboles",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260212074349_690.jpg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-adif-limita-temporalmente-velocidad-rodalies-80-km-todo-servicio-jueves-20260212074349.html",
+        "date": "2026-02-12 06:48:04",
+        "sentiment_score": -0.6091776825487614
+    },
+    {
+        "title": "Árboles en la vía, cortes y retrasos constantes en Rodalies por el temporal de viento",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ca4b56a6-4ee7-4bac-8eed-21ee70bbacd3_alta-libre-aspect-ratio_default_0_x1000y500.jpg",
+        "tags": [
+            "adif",
+            "renfe",
+            "trenes",
+            "rodalies"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260212/arboles-via-cortes-retrasos-constantes-rodalies-viento-nils-suspendido-cancelado-trenes-renfe-126740101",
+        "date": "2026-02-12 06:46:40",
+        "sentiment_score": -0.18818660080432892
+    },
+    {
+        "title": "MAPA Así va evolucionando el temporal de viento en Catalunya: las rachas van a más esta mañana",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0124d6dd-1ee7-42ad-ab58-9c3a974c8cec_alta-libre-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "servei meteorològic de catalunya (meteocat)",
+            "temporales",
+            "previsión meteorológica",
+            "tiempo"
+        ],
+        "link": "https://www.elperiodico.com/es/tiempo/20260212/meteocat-viento-barcelona-cataluna-evolucion-rachas-126738538",
+        "date": "2026-02-12 06:46:24",
+        "sentiment_score": -0.2405301034450531
+    },
+    {
+        "title": "Renfe informa de que los trenes circulan en Cataluña, aunque con diversas restricciones",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/12/renfe-informa-de-que-los-trenes-circulan-en-cataluna-aunque-con-diversas-restricciones/",
+        "date": "2026-02-12 06:45:42",
+        "sentiment_score": -0.04224932938814163
     }
 ];
