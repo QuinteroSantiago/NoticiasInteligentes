@@ -1,207 +1,5 @@
 export default [
     {
-        "title": "Guruzeta, a la altura de Mbappé y Kane",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/47f0eb38-cd22-4db2-a117-3cef86fb39aa_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "mbappe",
-            "altura",
-            "kane",
-            "guruzeta"
-        ],
-        "link": "https://www.deia.eus/athletic/2026/02/09/guruzeta-altura-mbappe-kane-10679779.html",
-        "date": "2026-02-09 18:02:38",
-        "sentiment_score": 0.16984370350837708
-    },
-    {
-        "title": "La polémica acción entre Hugo González y una superestrella de la NBA en la peor noche de los Celtics",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/09/698a1988662c8.r_d.2591-1100-2000.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.eldebate.com/deportes/baloncesto/20260209/polemica-accion-entre-hugo-gonzalez-superestrella-nba-peor-noche-celtics_383549.html",
-        "date": "2026-02-09 17:43:04",
-        "sentiment_score": -0.828783804550767
-    },
-    {
-        "title": "Sucic no tiene nada grave y confía en volver ante el Oviedo",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c9fb38a8-3474-495b-beec-3fee8890d8bd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "volver",
-            "sucic",
-            "grave",
-            "oviedo",
-            "confia"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/02/09/sucic-grave-confia-volver-oviedo-10679955.html",
-        "date": "2026-02-09 17:39:56",
-        "sentiment_score": -0.6649575121700764
-    },
-    {
-        "title": "Antonio de la Torre se rodea de vecinos reales en el thriller rural más extraño del cine español reciente",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/941f808f-4036-4fbf-be3e-f93f58bd08bb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cine español,rural,movistar plus,caza,comedia,historia,arévalo"
-        ],
-        "link": "https://www.laopiniondezamora.es/vida-y-estilo/2026/02/09/antonio-torre-rodea-vecinos-reales-126636293.html",
-        "date": "2026-02-09 17:37:12",
-        "sentiment_score": -0.6492503397166729
-    },
-    {
-        "title": "Grecia y Turquía se enzarzan por avisos marítimos por unos ejercicios navales griegos en el mar Egeo",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260209183346_690.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.europapress.es/internacional/noticia-grecia-turquia-enzarzan-avisos-maritimos-ejercicios-navales-griegos-mar-egeo-20260209183346.html",
-        "date": "2026-02-09 17:33:46",
-        "sentiment_score": -0.09776884317398071
-    },
-    {
-        "title": "Julián Álvarez y una sequía centenaria, su peor racha en Europa",
-        "image_url": "https://www.infobae.com/resizer/v2/UWELIUIHTREUXDNL7R2POGGI7M.jpg?auth=1fae28adc0234865bc918ba1013b0e29aba0db7c0975f1f5511bcc76dcb4c78e&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/09/julian-alvarez-y-una-sequia-centenaria-su-peor-racha-en-europa/",
-        "date": "2026-02-09 17:31:26",
-        "sentiment_score": -0.9370573498308659
-    },
-    {
-        "title": "Indra renueva por 5 años el mantenimiento y operación tecnológicos del 'AVE a La Meca' por 130 millones",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260209182253_120.jpg",
-        "tags": [
-            "economía finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/noticia-indra-renueva-anos-mantenimiento-operacion-tecnologicos-ave-meca-130-millones-20260209182253.html",
-        "date": "2026-02-09 17:22:53",
-        "sentiment_score": 0.21871540695428848
-    },
-    {
-        "title": "Los empresarios exigirán en Bruselas inversiones estratégicas para Asturias en el Corredor Atlántico",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/02/09/reunion-fade-fele-ceg-R8x6iiX9NM8bZsRMWPOuX0I-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "asturias",
-            "fade",
-            "corredor atlántico",
-            "autopista del huerna"
-        ],
-        "link": "https://www.elcomercio.es/asturias/empresarios-exigiran-bruselas-inversiones-estrategicas-asturias-corredor-20260209181955-nt.html",
-        "date": "2026-02-09 17:19:57",
-        "sentiment_score": -0.7716719061136246
-    },
-    {
-        "title": "El Congreso niega a Ábalos la indemnización por ser incompatible con su jubilación",
-        "image_url": "https://okdiario.com/img/2026/01/06/abalos-congreso.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://okdiario.com/espana/congreso-niega-abalos-indemnizacion-ser-incompatible-jubilacion-16215526",
-        "date": "2026-02-09 17:05:16",
-        "sentiment_score": -0.8073427174240351
-    },
-    {
-        "title": "El Real Zaragoza muestra su malestar con la expulsión de El Yamiq: \"No comprendemos cómo el VAR no fue capaz de llamar al árbitro\"",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/10/21/2025102116144140354.jpg",
-        "tags": [
-            "real zaragoza"
-        ],
-        "link": "https://www.aragondigital.es/articulo/real-zaragoza/real-zaragoza-muestra-malestar-expulsion-yamiq-comprendemos-como-var-fue-capaz-llamar-arbitro/20260209180356966068.html",
-        "date": "2026-02-09 17:03:56",
-        "sentiment_score": -0.2855326756834984
-    },
-    {
-        "title": "Farmacias de guardia en Zaragoza este martes, 10 de febrero",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/01/28/2025012809545873611.jpg",
-        "tags": [
-            "zaragoza"
-        ],
-        "link": "https://www.aragondigital.es/articulo/zaragoza/farmacias-guardia-zaragoza-martes-10-febrero/20260209190000965932.html",
-        "date": "2026-02-09 18:00:00",
-        "sentiment_score": 0.01851319521665573
-    },
-    {
-        "title": "El Gobierno dice que es pronto para saber el origen del brote de peste porcina y niega que escapara del laboratorio",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/09/698a1e9b0265a.r_d.3376-1218-2003.jpeg",
-        "tags": [
-            "campo y caza"
-        ],
-        "link": "https://www.eldebate.com/campo-y-caza/20260209/gobierno-dice-pronto-saber-origen-brote-peste-porcina-niega-escapara-laboratorio_383560.html",
-        "date": "2026-02-09 17:55:27",
-        "sentiment_score": -0.7709929328411818
-    },
-    {
-        "title": "La reina del flow, el grupo salido de la famosa serie, actuará este verano en Pamplona",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2026/02/09/698a1ea5b1500.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/cultura-ocio/cultura/2026/02/09/reina-flow-grupo-salido-famosa-serie-actuara-verano-pamplona-809620-104.html",
-        "date": "2026-02-09 17:55:02",
-        "sentiment_score": 0.38665228523314
-    },
-    {
-        "title": "El Fòrum Gastronòmic de Girona reivindica la escudella ante el ramen",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/02/09/698a1c62a4eb6.jpeg",
-        "tags": [
-            "al día"
-        ],
-        "link": "https://www.lavanguardia.com/comer/al-dia/20260209/11462048/forum-gastronomic-girona-reivindica-escudella-ramen.html",
-        "date": "2026-02-09 17:53:36",
-        "sentiment_score": 0.06420984491705894
-    },
-    {
-        "title": "McLaren desvela su nuevo Fórmula 1 para el flamante campeón Lando Norris",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/02/09/698a17a31f3531-39498871.r_d.640-400.png",
-        "tags": [
-            "f1"
-        ],
-        "link": "https://www.20minutos.es/deportes/deportes_motor/formula-1/mclaren-desvela-su-nuevo-formula-1-para-flamante-campeon-lando-norris_6931939_0.html",
-        "date": "2026-02-09 17:52:18",
-        "sentiment_score": 0.5279147326946259
-    },
-    {
-        "title": "Surrealista debate en un ayuntamiento catalán por una canción de Carnaval",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/09/BCCD5008-7CBF-48FB-8120-CF01EBD23863/escudo-bandera-santa-margarida-els-monjos_69.jpg?crop=750%2C422%2Cx0%2Cy70&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/surrealista-debate-ayuntamiento-catalan-cancion-carnaval_20260209698a1e432f00a046880200d1.html",
-        "date": "2026-02-09 17:49:55",
-        "sentiment_score": -0.8053705841302872
-    },
-    {
-        "title": "Agricultura descarta el laboratorio de Barcelona como origen del brote de peste porcina",
-        "image_url": "https://static.eldiario.es/clip/18890b4a-1682-4311-ba17-62836dea68bb_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "cataluña",
-            "periodismo independiente",
-            "noticias",
-            "ignacio escolar",
-            "política",
-            "economía",
-            "actualidad"
-        ],
-        "link": "https://www.eldiario.es/catalunya/agricultura-descarta-laboratorio-barcelona-origen-brote-peste-porcina_1_12976472.html",
-        "date": "2026-02-09 17:48:42",
-        "sentiment_score": -0.13984717428684235
-    },
-    {
-        "title": "La guerra de Mercedes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7e6aa312-179b-4709-ba5f-68d32f36685f_16-9-aspect-ratio_default_0_x588y261.jpg",
-        "tags": [
-            "guerra",
-            "memoria democrática",
-            "madrid",
-            "guerra civil",
-            "españa"
-        ],
-        "link": "https://www.informacion.es/opinion/2026/02/09/guerra-mercedes-126637038.html",
-        "date": "2026-02-09 17:47:38",
-        "sentiment_score": -0.10924899578094482
-    },
-    {
         "title": "Detenido un concejal del PP de Tudela de Duero por amenazar a su pareja con una pistola",
         "image_url": "https://cdn.mnmstatic.net/cache/3f/40/media_thumb-link-4145238.webp?1770662646=",
         "tags": [
@@ -3151,5 +2949,185 @@ export default [
         "link": "https://www.mundiario.com/articulo/politica/psoe-lleva-contraria-socios-izquierdas-tender-puentes-junts/20260213015002374565.html",
         "date": "2026-02-13 00:50:02",
         "sentiment_score": -0.24843749403953552
+    },
+    {
+        "title": "Santi Santamaría, in memoriam (1957-2011)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ed7f15a7-ed64-4ce1-9f6d-23a5577e6710_16-9-aspect-ratio_default_0_x468y339.jpg",
+        "tags": [
+            "deuda",
+            "restauración",
+            "memoriam",
+            "santamaria",
+            "arco",
+            "1957",
+            "santi",
+            "in",
+            "felicidad",
+            "tecnología"
+        ],
+        "link": "https://www.informacion.es/blog/rincon-gastronomico/2026/02/13/santi-santamaria-in-memoriam-1957-126773649.html",
+        "date": "2026-02-13 07:01:00",
+        "sentiment_score": -0.8601549509912729
+    },
+    {
+        "title": "El gran autoengaño del Partido Popular: echar a Sánchez no basta si todo sigue igual",
+        "image_url": "https://edatv.news/filesedc/uploads/image/post/2026/02/whatsapp-image-2026-02-11-at-101359-1770803595136_1600_1067.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://edatv.news/opinion/gran-autoengano-del-partido-popular-echar-sanchez-no-basta-todo-sigue-igual",
+        "date": "2026-02-13 07:00:00",
+        "sentiment_score": -0.32396867871284485
+    },
+    {
+        "title": "\"Habrá mejoras importantes en metástasis cerebral en 10 años\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e4fa96c0-fec5-4a17-928e-ba25ff36982b_alta-libre-aspect-ratio_default_0_x609y266.jpg",
+        "tags": [
+            "metastasis",
+            "cerebro",
+            "investigación",
+            "cáncer"
+        ],
+        "link": "https://www.diariodemallorca.es/sociedad/2026/02/13/habra-mejoras-importantes-metastasis-cerebral-126788212.html",
+        "date": "2026-02-13 06:54:18",
+        "sentiment_score": 0.21607016026973724
+    },
+    {
+        "title": "El temporal de lluvia mantiene 66 carreteras cortadas, 50 de ellas sólo en Andalucía",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/02/13/la-carretera-cc-428-en-el-tramo-que-une-las-localidades-cacerenas-de-berzocana-y-logrosan-permanece-completamente-cortada-al-trafico-tras-producirse-un-desprendimiento-de-la-calzada.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/el-temporal-lluvia-mantiene-66-carreteras-cortadas-50-solo-andaluciabr-f202602.html",
+        "date": "2026-02-13 06:50:31",
+        "sentiment_score": -0.7807737346738577
+    },
+    {
+        "title": "Bilbao mira a Europa para impulsar la movilidad ciclista",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ab4c2a63-eb29-403b-a3b2-17432de27fa6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "europa",
+            "mira",
+            "bilbao",
+            "movilidad",
+            "copenhague",
+            "amsterdam",
+            "paris",
+            "impulsar"
+        ],
+        "link": "https://www.deia.eus/bilbao/2026/02/13/bilbao-mira-europa-impulsar-movilidad-paris-amsterdam-copenhague-10694176.html",
+        "date": "2026-02-13 07:00:44",
+        "sentiment_score": 0.2543509304523468
+    },
+    {
+        "title": "Salut informa que fallece una mujer de 46 años herida crítica por la ventada en Barcelona",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260213074815_690.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-salut-informa-fallece-mujer-46-anos-herida-critica-ventada-barcelona-20260213074815.html",
+        "date": "2026-02-13 06:48:15",
+        "sentiment_score": -0.8104090932756662
+    },
+    {
+        "title": "\"Síndrome del Ventorro\" y fatiga empresarial",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/13/actualidad/1003742732297_15713998_1706x960.jpg",
+        "tags": [
+            "tarragona",
+            "justicia",
+            "barcelona",
+            "teletrabajo",
+            "viento",
+            "temporal",
+            "delitos",
+            "girona",
+            "empresas",
+            "eh bildu"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260213/sindrome-ventorro-fatiga-empresarial/1003742732296_0.html",
+        "date": "2026-02-13 06:40:54",
+        "sentiment_score": -0.9278640449047089
+    },
+    {
+        "title": "Resumen Barcelona-París: La crisis culé no cesa en una exhibición de los franceses (74-85)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/12/image-e1d4ed31-2178-45ab-bd79-006be652a5a0-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://espanol.eurosport.com/baloncesto/euroliga/2025-2026/barcelona-paris-video-resumen-resultado-y-mejores-momentos-del-partido-jornada-28-hoy_vid60055436/video.shtml",
+        "date": "2026-02-13 06:30:51",
+        "sentiment_score": -0.7628166563808918
+    },
+    {
+        "title": "\"¡Qué baño!\" y \"vendaval\", la goleada del Atlético al Barça en las portadas de este viernes",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
+        "tags": [
+            "copa del rey mapfre 2025/2026",
+            "football"
+        ],
+        "link": "https://www.eurosport.es/futbol/copa-del-rey/2025-2026/portadas-prensa-deportiva-principales-medios-naciones-internacionales-hoy-febrero_sto23270164/story.shtml",
+        "date": "2026-02-13 06:30:45",
+        "sentiment_score": 0.15151434391736984
+    },
+    {
+        "title": "Muere la mujer que estaba en estado crítico tras caerle el techo de una nave en Barcelona por el temporal",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/12/698e165b2690c2-72186994.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.20minutos.es/cataluna/muere-una-mujer-46-anos-que-estaba-estado-critico-tras-caerle-parte-un-techo-una-nave-barcelona-por-viento_6933667_0.html",
+        "date": "2026-02-13 06:27:09",
+        "sentiment_score": -0.7374589927494526
+    },
+    {
+        "title": "¿Quieres conocer a Dzodic y Álex Muñoz?",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/02/12/698e332026aea.jpeg",
+        "tags": [
+            "jugadores"
+        ],
+        "link": "https://www.lavozdealmeria.com/ud-almeria/jugadores/461533/quieres-conocer-dzodic-alex-munoz.html",
+        "date": "2026-02-13 06:17:19",
+        "sentiment_score": 0.2013160102069378
+    },
+    {
+        "title": "Aitaren acoge la imposición de antifaces a Farolín y Zarambolas",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/651c9774-ed7e-4ece-abad-13d460afbfa1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "imposicion",
+            "farolin",
+            "zarambolas",
+            "antifaces",
+            "aitaren"
+        ],
+        "link": "https://www.deia.eus/bizkaia/vida-social/2026/02/13/aitaren-imposicion-antifaces-farolin-zarambolas-10695070.html",
+        "date": "2026-02-13 06:08:02",
+        "sentiment_score": -0.01364290714263916
+    },
+    {
+        "title": "06:00H | 13 FEB 2026 | Herrera en COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "herrera en cope"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/06-00h-13-feb-2026-herrera-cope-20260213_3307138.html",
+        "date": "2026-02-13 06:04:00",
+        "sentiment_score": -0.2580816447734833
+    },
+    {
+        "title": "Un once casi de carrerilla en el Alavés",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/0be2dd6e-2a45-47ed-b3fc-540474671d6f_16-9-aspect-ratio_default_0_x1114y257.jpg",
+        "tags": [
+            "once",
+            "coudet",
+            "laliga",
+            "deportivo alavés",
+            "alavés",
+            "carrerilla"
+        ],
+        "link": "https://www.noticiasdealava.eus/alaves/2026/02/13/once-carrerilla-alaves-laliga-deportivo-alaves-coudet-10694221.html",
+        "date": "2026-02-13 06:01:00",
+        "sentiment_score": -0.2782575860619545
     }
 ];
