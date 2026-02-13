@@ -1,203 +1,5 @@
 export default [
     {
-        "title": "La oferta de alquiler se desploma en Euskadi con una caída de más del 25%",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/236d539c-cd24-4478-8437-a2e958455f86_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "desploma",
-            "caida",
-            "euskadi",
-            "oferta",
-            "alquiler"
-        ],
-        "link": "https://www.deia.eus/economia/2026/02/09/oferta-alquiler-desploma-euskadi-caida-10676579.html",
-        "date": "2026-02-09 07:00:52",
-        "sentiment_score": -0.11127074062824249
-    },
-    {
-        "title": "Lo mejor y lo peor del Athletic-Levante",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/81874197-5461-4581-b192-37e2fa6776b4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "athletic",
-            "mejor",
-            "levante",
-            "peor"
-        ],
-        "link": "https://www.deia.eus/athletic/2026/02/09/mejor-peor-athletic-levante-10675526.html",
-        "date": "2026-02-09 07:00:51",
-        "sentiment_score": -0.23010216653347015
-    },
-    {
-        "title": "Las disoluciones del Arma de Artillería",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/02/CANONES-ARTILLEROS-750x394.jpg",
-        "tags": [
-            "colaboraciones",
-            "opinión"
-        ],
-        "link": "https://elfarodeceuta.es/disoluciones-arma-artilleria/",
-        "date": "2026-02-09 06:31:28",
-        "sentiment_score": 0.20434772968292236
-    },
-    {
-        "title": "06:00H | 09 FEB 2026 | Herrera en COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "herrera en cope"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/06-00h-09-feb-2026-herrera-cope-20260209_3303586.html",
-        "date": "2026-02-09 06:07:00",
-        "sentiment_score": -0.18796241283416748
-    },
-    {
-        "title": "Osasuna: lo que es vivir sin Boyomo",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9692d3e9-6b1a-4f26-9e62-4d3d30ddf134_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "vivir",
-            "boyomo",
-            "osasuna"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/09/osasuna-vivir-boyomo-10675472.html",
-        "date": "2026-02-09 06:06:53",
-        "sentiment_score": -0.15472456812858582
-    },
-    {
-        "title": "El Hostal Bahía cambia de dueño",
-        "image_url": "https://static.grupojoly.com/clip/0f93fdb0-1861-433a-944a-67ee89a860be_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias cádiz",
-            "hoteles de cádiz"
-        ],
-        "link": "https://www.diariodecadiz.es/cadiz/hostal-bahia-cambia-dueno_0_2005813184.html",
-        "date": "2026-02-09 06:01:12",
-        "sentiment_score": 0.4061128683388233
-    },
-    {
-        "title": "Emprender con impacto: así es la cantera de startups de La Nave",
-        "image_url": "https://imagenes.businessinsider.es/files/image_1920_1080/uploads/imagenes/2026/02/03/6981be2f323344-53196011.jpeg",
-        "tags": [
-            "branded"
-        ],
-        "link": "https://www.businessinsider.es/bc/nave-cantera-startups_6929166_5.html",
-        "date": "2026-02-09 06:00:00",
-        "sentiment_score": 0.6063383966684341
-    },
-    {
-        "title": "Huelga de maquinistas en Renfe: Tres trenes suspendidos en La Rioja",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/07/06/668990b7e8aa3.jpeg",
-        "tags": [
-            "logroño"
-        ],
-        "link": "https://www.cope.es/emisoras/la-rioja/la-rioja-provincia/logrono/noticias/huelga-maquinistas-renfe-tres-trenes-suspendidos-rioja-20260209_3303626.html",
-        "date": "2026-02-09 07:22:54",
-        "sentiment_score": -0.043442606925964355
-    },
-    {
-        "title": "La huelga ferroviaria avanza entre el recorte de servicios y frecuencias, a la espera de una reunión con el Ministerio de Transporte",
-        "image_url": "https://www.infobae.com/resizer/v2/HGDTSR6IYZGU3P4YOLCDZI276Y.jpeg?auth=f43c2dc3a3bffd9a63a7911cb2f81da8f3b54d493b3fdfa5eda4f19fd6942dfa&height=911&smart=true&width=1200",
-        "tags": [
-            "españa-noticias",
-            "adif",
-            "trenes españa",
-            "óscar puente",
-            "huelgas",
-            "barcelona",
-            "españa-sociedad",
-            "sindicatos españa",
-            "renfe",
-            "ministerio de transportes",
-            "madrid",
-            "transporte"
-        ],
-        "link": "https://www.infobae.com/espana/2026/02/09/la-huelga-ferroviaria-avanza-entre-el-recorte-de-servicios-y-frecuencias-a-la-espera-de-una-reunion-con-el-ministerio-de-transporte/",
-        "date": "2026-02-09 07:22:43",
-        "sentiment_score": -0.31043846532702446
-    },
-    {
-        "title": "San Valentín 2019: catorce planes para celebrar el 14 de febrero en Madrid, Barcelona y otras ciudades",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QQGOOV4IMNEE7KSYGYMFWGXOBY.jpg?auth=78890895dd5b82389453370148beaf40c454f07d1ab198b735efbac9de9cc243&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "ocio",
-            "conciertos",
-            "jazz",
-            "madrid",
-            "agenda cultural",
-            "teatro",
-            "agenda"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-02-14/5-planes-gratis-en-madrid-del-14-al-21-de-febrero-conciertos-para-celebrar-el-amor.html",
-        "date": "2026-02-09 07:20:07",
-        "sentiment_score": 0.23691832646727562
-    },
-    {
-        "title": "Escasez de trenes en las estaciones durante las primeras horas de la huelga",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/audios/escasez-trenes-estaciones-cataluna-primeras-horas-huelga-20260209_3303623.html",
-        "date": "2026-02-09 07:19:43",
-        "sentiment_score": -0.0418950617313385
-    },
-    {
-        "title": "Huelga en Renfe: estos son los trenes de Cercanías y AVE que funcionarán en Málaga",
-        "image_url": "https://s3.elespanol.com/2022/12/23/malaga/728187620_229734248_1706x960.jpg",
-        "tags": [
-            "renfe",
-            "ministerio de transporte",
-            "movilidad y agenda urbana",
-            "málaga",
-            "málaga (provincia)"
-        ],
-        "link": "https://www.elespanol.com/malaga/20260209/huelga-renfe-trenes-cercanias-ave-funcionaran-malaga/1003744121885_0.html",
-        "date": "2026-02-09 07:18:05",
-        "sentiment_score": -0.39296308904886246
-    },
-    {
-        "title": "Arranca la huelga de trenes con 350 servicios de alta velocidad cancelados y los Cercanías al 50%",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/66b7ebde-fd15-4172-925c-2afbb71bed66_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "huelga",
-            "servicios",
-            "arranca",
-            "350",
-            "trenes"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/sociedad/2026/02/09/arranca-huelga-trenes-350-servicios-10676603.html",
-        "date": "2026-02-09 07:12:25",
-        "sentiment_score": -0.2565041407942772
-    },
-    {
-        "title": "Arranca la huelga del ferrocarril: 350 trenes de alta velocidad cancelados y Cercanías al 50%",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/huelga-trenes-alta-velocidad-cercanias.jpg",
-        "tags": [
-            "adif",
-            "ouigo",
-            "iryo",
-            "trenes",
-            "transporte",
-            "renfe",
-            "huelgas"
-        ],
-        "link": "https://theobjective.com/economia/transporte/2026-02-09/huelga-trenes-alta-velocidad-cancelados-cercanias/",
-        "date": "2026-02-09 07:11:52",
-        "sentiment_score": 0.18728524446487427
-    },
-    {
-        "title": "La huelga de maquinistas empieza con menos trenes de los previstos por los servicios mínimos",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/09/vida/1003742730827_15695637_1706x960.jpg",
-        "tags": [
-            "renfe",
-            "cataluña",
-            "rodalies",
-            "huelga",
-            "trenes",
-            "vida"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/vida/20260209/huelga-maquinistas-empieza-trenes-previstos-servicios-minimos/1003742730826_0.html",
-        "date": "2026-02-09 07:01:37",
-        "sentiment_score": -0.4391596280038357
-    },
-    {
         "title": "Todo lo que necesitas saber sobre el caso de Juan Pablo Guanipa en cinco claves",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/7e33eca8b06400c034e25cb3586a6b165a4f2929w.jpg",
         "tags": [
@@ -210,22 +12,6 @@ export default [
         "link": "https://lapatilla.com/2026/02/09/todo-lo-que-necesitas-saber-sobre-el-caso-de-juan-pablo-guanipa-en-cinco-claves/",
         "date": "2026-02-09 14:21:40",
         "sentiment_score": -0.6814668253064156
-    },
-    {
-        "title": "Trump llama a la presentación de Bad Bunny en el Halftime Show del Super Bowl 2026 \"la peor de la historia\"",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/Screenshot_66.jpg",
-        "tags": [
-            "titulares",
-            "deportes",
-            "internacionales",
-            "donald trump",
-            "bad bunny",
-            "usa",
-            "super bowl"
-        ],
-        "link": "https://lapatilla.com/2026/02/09/trump-llama-a-la-presentacion-de-bad-bunny-en-el-halftime-show-del-super-bowl-2026-la-peor-de-la-historia/",
-        "date": "2026-02-09 10:10:52",
-        "sentiment_score": -0.13517183810472488
     },
     {
         "title": "Guruzeta, a la altura de Mbappé y Kane",
@@ -2981,5 +2767,165 @@ export default [
         "link": "https://www.leonoticias.com/leon/plasticos-vias-temporal-retrasan-llegada-alvia-barcelonaleon-20260212182846-nt.html",
         "date": "2026-02-12 17:31:12",
         "sentiment_score": -0.8358358517289162
+    },
+    {
+        "title": "Vallecas se queda sin derbi: LaLiga traslada el Rayo-Atlético a Butarque",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/11/2025111104045950291.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/vallecas-queda-derbi-laliga-traslada-rayo-atletico-butarque/20260212233621374550.html",
+        "date": "2026-02-12 22:36:21",
+        "sentiment_score": -0.2541560158133507
+    },
+    {
+        "title": "Sánchez evita reprochar a Meloni su exclusión de la cumbre",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/02/12/2026021223330941977.jpg",
+        "tags": [
+            "noticias en la red"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/sanchez-evita-reprochar-meloni-exclusion-cumbre/20260212233309441249.html",
+        "date": "2026-02-12 22:33:09",
+        "sentiment_score": -0.08057403564453125
+    },
+    {
+        "title": "García-Page critica a Ferraz por los resultados del PSOE",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/02/12/2026021223324848497.jpg",
+        "tags": [
+            "noticias en la red"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/garcia-page-critica-ferraz-resultados-psoe/20260212233248441247.html",
+        "date": "2026-02-12 22:32:48",
+        "sentiment_score": -0.8868590639904141
+    },
+    {
+        "title": "El Rayo - Atlético se jugará finalmente en Butarque",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/110cc5cb-1728-4465-8b6c-1ed260a3a59f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "atlético de madrid",
+            "fútbol",
+            "rayo vallecano",
+            "laliga"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2026/02/12/rayo-atletico-jugara-finalmente-butarque-126779944.html",
+        "date": "2026-02-12 22:27:54",
+        "sentiment_score": -0.8476880360394716
+    },
+    {
+        "title": "Íñigo Henríquez de Luna: de linaje noble a líder en Vox",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/02/12/2026021223255270201.jpg",
+        "tags": [
+            "noticias en la red"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/inigo-henriquez-luna-linaje-noble-lider-vox/20260212232553441227.html",
+        "date": "2026-02-12 22:25:53",
+        "sentiment_score": 0.21765294671058655
+    },
+    {
+        "title": "María Dolores Gimeno: primera coronel de la Guardia Civil",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/02/12/2026021223253837830.jpg",
+        "tags": [
+            "noticias en la red"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/maria-dolores-gimeno-primera-coronel-guardia-civil/20260212232538441225.html",
+        "date": "2026-02-12 22:25:38",
+        "sentiment_score": 0.653493121266365
+    },
+    {
+        "title": "Xavi Pascual: \"Vamos sobreviviendo cómo podemos\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/12/xavi-pascual-vamos-sobreviviendo-como-podemos/",
+        "date": "2026-02-12 22:35:59",
+        "sentiment_score": 0.5874143876135349
+    },
+    {
+        "title": "La polémica: El gol anulado a Cubarsí tras siete minutos de revisión y sin el uso del semiautomático",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/12/image-c8ad7392-04e8-44ba-afc1-0f214631381c-85-2560-1440.jpeg",
+        "tags": [
+            "copa del rey mapfre 2025/2026",
+            "football"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/copa-del-rey/2025-2026/polemica-gol-anulado-cubarsi-fuera-de-juego-saot-atletico-barcelona-roja-eric_sto23270127/story.shtml",
+        "date": "2026-02-12 22:31:29",
+        "sentiment_score": -0.398423932492733
+    },
+    {
+        "title": "Atlético de Madrid destrozó al Barcelona y se acercó a la final de la Copa del Rey",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/db145f684fd5dbf7bdf6c250825711dd90a17752w.jpg",
+        "tags": [
+            "barcelona",
+            "atletico de madrid",
+            "deportes",
+            "titulares",
+            "copa del rey"
+        ],
+        "link": "https://lapatilla.com/2026/02/12/atletico-de-madrid-destrozo-al-barcelona-y-se-acerco-a-la-final-de-la-copa-del-rey/",
+        "date": "2026-02-12 22:30:48",
+        "sentiment_score": 0.6751096323132515
+    },
+    {
+        "title": "Crónica del Atlético de Madrid - FC Barcelona: 4-0",
+        "image_url": "https://www.infobae.com/resizer/v2/OZWSVDZ7XZECNLTAYAQWD752TQ.jpg?auth=6b6f68780d373c3db1cbddb6441dc73c3d7c3fa41dfa106d6c23c7eec35721f4&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/12/cronica-del-atletico-de-madrid-fc-barcelona-4-0/",
+        "date": "2026-02-12 22:30:40",
+        "sentiment_score": -0.056971482932567596
+    },
+    {
+        "title": "Orange cierra en plaza Catalunya y se traslada a la antigua tienda de Vodafone en Portal de l’Àngel",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/12/actualidad/1003742732064_15712768_1706x960.jpg",
+        "tags": [
+            "portal de l’àngel",
+            "economía",
+            "empresas barcelona",
+            "comercio",
+            "plaza catalunya"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260212/orange-cierra-plaza-catalunya-traslada-antigua-tienda-vodafone-portal-langel/1003742732072_0.html",
+        "date": "2026-02-12 22:30:00",
+        "sentiment_score": 0.45679591596126556
+    },
+    {
+        "title": "El Barça se atasca sin Punter y cae en el Palau ante el París (74-85)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f08245df-d238-4ffc-837a-82d09dccc139_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "baloncesto",
+            "euroliga",
+            "fc barcelona de baloncesto"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/deportes/2026/02/12/barca-atasca-punter-cae-palau-paris-126779850.html",
+        "date": "2026-02-12 22:24:35",
+        "sentiment_score": -0.8618000894784927
+    },
+    {
+        "title": "El Atlético de Madrid brilla en el Metropolitano y aplasta al FC Barcelona con una amplia goleada en Copa del Rey",
+        "image_url": "https://www.infobae.com/resizer/v2/4WA7ZYU5ZFCO5HJ3ZCDM4RD2DY.jpg?auth=c41e474280f94764a2ed54cee17121e5b12839e831be273aa83ccdc0fb0c1dd8&height=1282&smart=true&width=1920",
+        "tags": [
+            "atlético de madrid",
+            "fútbol",
+            "fútbol españa",
+            "españa-noticias",
+            "fc barcelona",
+            "españa-deportes",
+            "copa del rey"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/02/12/atletico-de-madrid-brilla-en-el-metropolitano-y-aplasta-al-fc-barcelona-con-una-amplia-goleada-en-copa-del-rey/",
+        "date": "2026-02-12 22:23:47",
+        "sentiment_score": 0.6297088228166103
+    },
+    {
+        "title": "El Atlético culmina la goleada y enfila la final (4-0)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/12/el-atletico-culmina-la-goleada-y-enfila-la-final-4-0/",
+        "date": "2026-02-12 22:21:11",
+        "sentiment_score": 0.5816403962671757
     }
 ];
