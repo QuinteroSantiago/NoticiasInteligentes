@@ -1,381 +1,5 @@
 export default [
     {
-        "title": "Las fotos del Valencia-Real Madrid",
-        "image_url": "https://static.grupojoly.com/clip/b29a4c51-ea0a-48f9-bb5a-ec942bf9e6f2_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "laliga",
-            "real madrid"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/fotos-valencia-real-madrid_3_2005850867.html",
-        "date": "2026-02-08 22:43:16",
-        "sentiment_score": 0.22897198796272278
-    },
-    {
-        "title": "Azcón celebra la victoria \"clara, nítida e inequívoca\": \"Sólo el PP puede gobernar\"",
-        "image_url": "https://static.grupojoly.com/clip/2e681931-7e06-43e9-9e99-f5e0007b66ac_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "azcon",
-            "clara",
-            "victoria",
-            "nitida",
-            "celebra"
-        ],
-        "link": "https://www.diariodejerez.es/espana/azcon-celebra-victoria-clara-nitida_0_2005850918.html",
-        "date": "2026-02-08 22:40:28",
-        "sentiment_score": 0.41882166266441345
-    },
-    {
-        "title": "¿Escándalo en el VAR? La imagen sospechosa que desata la frustración del Atleti",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/08/2026020823351442175.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/fuera-juego-puntera-frame-sospechoso-polemico-gol-anulado-atletico/20260208233635373948.html",
-        "date": "2026-02-08 22:36:35",
-        "sentiment_score": -0.6548616159707308
-    },
-    {
-        "title": "El Madrid hurga en la herida de Corberán",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/02/08/69890b97a9f4b.r_d.1813-296-4479.jpeg",
-        "tags": [
-            "deportes cope valencia"
-        ],
-        "link": "https://www.cope.es/emisoras/comunidad-valenciana/valencia-provincia/valencia/deportes-cope-valencia/noticias/madrid-hurga-herida-corberan-20260208_3303537.html",
-        "date": "2026-02-08 22:32:10",
-        "sentiment_score": -0.0509793758392334
-    },
-    {
-        "title": "El Surne Bilbao se instala en su tercera mejor racha de todos los tiempos",
-        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2026/02/08/1506589318-kAqC--758x531@El%20Correo.jpg",
-        "tags": [
-            "miribilla",
-            "liga acb",
-            "tyggvi hlinason",
-            "jaume ponsarnau",
-            "bilbao basket",
-            "baskonia"
-        ],
-        "link": "https://www.elcorreo.com/bilbaobasket/surne-bilbao-instala-tercera-mejor-racha-tiempos-20260208205708-nt.html",
-        "date": "2026-02-08 22:31:11",
-        "sentiment_score": 0.38142241537570953
-    },
-    {
-        "title": "Crónica del Valencia CF - Real Madrid, 0-2",
-        "image_url": "https://www.infobae.com/resizer/v2/6ROUOLAO5VB67E7RI22C6DSR5U.jpg?auth=d15e018fce90b6a269566b6142b348b4c31b51088931d41b0d3c4ed99747ac18&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/08/cronica-del-valencia-cf-real-madrid-0-2/",
-        "date": "2026-02-08 22:30:37",
-        "sentiment_score": -0.09412254393100739
-    },
-    {
-        "title": "Vox dobla sus escaños ante el hundimiento del PSOE",
-        "image_url": "https://static.grupojoly.com/clip/f0f25f07-722e-49f2-aa86-64fd24897b7f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "hundimiento",
-            "vox",
-            "psoe",
-            "dobla",
-            "escanos"
-        ],
-        "link": "https://www.diariodejerez.es/espana/vox-dobla-escanos-hundimiento-psoe_0_2005850747.html",
-        "date": "2026-02-08 22:30:35",
-        "sentiment_score": -0.9400777202099562
-    },
-    {
-        "title": "El Real Madrid gana al Valencia con orden y pegada",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/08/valencia-realmadrid-cronica-knFD-U20575111602Db-1200x840@RC.jpg",
-        "tags": [
-            "real madrid",
-            "valencia club de fútbol"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/cronica-valencia-realmadrid-jornada23-primera-20260208191245-ntrc.html",
-        "date": "2026-02-08 22:30:10",
-        "sentiment_score": 0.8194185644388199
-    },
-    {
-        "title": "Funeral en el PAR: \"Ahora que la gente aplauda cuando llegue el trasvase\"",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/02/08/2026020823272331263.jpg",
-        "tags": [
-            "elecciones de aragón 2026"
-        ],
-        "link": "https://www.aragondigital.es/articulo/elecciones-aragon-2026/funeral-par-ahora-que-gente-aplauda-cuando-llegue-trasvase/20260208233003965880.html",
-        "date": "2026-02-08 22:30:03",
-        "sentiment_score": -0.8827120792120695
-    },
-    {
-        "title": "La revolución cultural de los creadores de Mystery Man",
-        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2026/02/06/mysteri.jpg",
-        "tags": [
-            "granada capital europea de la cultura 2031",
-            "montillana",
-            "granada (provincia)",
-            "catedral de granada"
-        ],
-        "link": "https://www.ideal.es/economia/factoria-de-empresas/revolucion-cultural-creadores-mystery-man-20260209105239-nt.html",
-        "date": "2026-02-08 22:50:48",
-        "sentiment_score": 0.8206060323864222
-    },
-    {
-        "title": "Santa Coloma proyecta el 'Besòs Central': la metamorfosis del Molinet y Safaretjos para liderar el norte metropolitano",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/11/24/gran-barcelona/903669680_13767164_1706x960.png",
-        "tags": [
-            "mireia gonzález",
-            "santa coloma de gramenet",
-            "besòs",
-            "gran barcelona",
-            "urbanismo"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260208/santa-coloma-proyecta-besos-central-metamorfosis-molinet-safaretjos-liderar-norte-metropolitano/1003742728966_0.html",
-        "date": "2026-02-08 22:30:00",
-        "sentiment_score": 0.4673066511750221
-    },
-    {
-        "title": "LaLiga: Real Madrid gana un sufrido partido a Valencia y se mantiene cerca de Barcelona",
-        "image_url": "https://pxcdn.meridiano.net/022026/1770588614502.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/laliga-valencia-vs-real-madrid-por-la-fecha-23-en-vivo-20262815470",
-        "date": "2026-02-08 22:30:00",
-        "sentiment_score": 0.30210021138191223
-    },
-    {
-        "title": "Resumen Valencia-Real Madrid: Victoria sin brillo ante un rival tocado (0-2)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/08/image-43f64833-a831-4bd4-887b-05627a800416-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/valencnia-real-madrid-video-resumen-resultado-goles-mejores-momentos_vid60053844/video.shtml",
-        "date": "2026-02-08 22:26:24",
-        "sentiment_score": -0.870715232565999
-    },
-    {
-        "title": "Corberán se queda solo ante el peligro: el Valencia cae, la grada se vacía y el miedo crece",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/09/2026020903385429709.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/corberan-queda-solo-peligro-valencia-cae-grada-vacia-miedo-crece/20260209034115373990.html",
-        "date": "2026-02-09 02:41:15",
-        "sentiment_score": -0.9064058503136039
-    },
-    {
-        "title": "Pepe Tudela",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tudela",
-            "pepe"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/pepe-tudela_0_2005853028.html",
-        "date": "2026-02-09 02:08:51",
-        "sentiment_score": 0.005239605903625488
-    },
-    {
-        "title": "Cecilia, la directora del mejor colegio de Madrid, con 1.317 alumnos: \"Hay que conocer el nombre de alumnos y padres\"",
-        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744119326_261302243_1706x960.jpg",
-        "tags": [
-            "sociedad",
-            "comunidad de madrid",
-            "madrid",
-            "colegios",
-            "educación"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20260209/cecilia-directora-mejor-colegio-madrid-alumnos-conocer-nombre-padres/1003744118609_0.html",
-        "date": "2026-02-09 01:48:41",
-        "sentiment_score": 0.6941849328577518
-    },
-    {
-        "title": "Grandes empresas animan al Rey a visitar a Trump tras la llegada de su nuevo embajador pero el viaje depende del aval de Sánchez",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/80283fe1561e3ee4af600d95e3ffac69/crop/752x0/2795x2048/f/image/jpeg/assets/multimedia/imagenes/2023/11/25/17009128717476.jpg",
-        "tags": [
-            "artículos carlos segovia"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/02/09/6988d32ffc6c837b5f8b457c.html",
-        "date": "2026-02-09 01:40:38",
-        "sentiment_score": 0.4223257601261139
-    },
-    {
-        "title": "08 FEB 2026 | EL TERTULIÓN DE LOS DOMINGOS",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/08-feb-2026-tertulion-domingos-20260209_3303576.html",
-        "date": "2026-02-09 00:55:21",
-        "sentiment_score": 0.19371920824050903
-    },
-    {
-        "title": "La precarización se asoma al transporte sanitario: los salarios bajos y congelados se suman a las ambulancias obsoletas",
-        "image_url": "https://s3.elespanol.com/2026/02/07/actualidad/1003744120814_261307145_1706x960.jpg",
-        "tags": [
-            "sanidad - profesiones",
-            "transporte por carretera",
-            "observatorio de la sanidad",
-            "transporte público"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260209/precarizacion-asoma-transporte-sanitario-salarios-bajos-congelados-suman-ambulancias-obsoletas/1003744120302_0.html",
-        "date": "2026-02-09 00:43:39",
-        "sentiment_score": -0.8528876509517431
-    },
-    {
-        "title": "¿Por qué David Jiménez desplazó a Carvajal y a Trent Alexander-Arnold ante el Valencia?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/09/2026020901404581581.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/que-david-jimenez-desplazo-carvajal-trent-alexander-arnold-valencia/20260209014059373973.html",
-        "date": "2026-02-09 00:40:59",
-        "sentiment_score": 0.776547085493803
-    },
-    {
-        "title": "Profesionales colombianos podrán postularse a becas que cubren hasta el 60% en maestrías de alta demanda en Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/HADAOMQOLBB3XOSOA6LFHMNMJM.jpg?auth=47ac7562878e2c96d97011bb0aaf0029e751f5e0ca631068678f3ef537fbd952&height=1080&smart=true&width=1920",
-        "tags": [
-            "becas para colombianos",
-            "eae business school barcelona",
-            "becas de maestría",
-            "colombia-noticias",
-            "becas icetex",
-            "becas en españa",
-            "colombia-servicios"
-        ],
-        "link": "https://www.infobae.com/colombia/2026/02/09/profesionales-colombianos-podran-postularse-a-becas-que-cubren-hasta-el-60-en-maestrias-de-alta-demanda-en-barcelona/",
-        "date": "2026-02-09 02:34:01",
-        "sentiment_score": 0.16887595877051353
-    },
-    {
-        "title": "'Sirat' se hace con 8 premios Gaudí en una gala en la que 'Frontera' y 'Sorda' se reivindican y 'Romería' se va casi de vacío",
-        "image_url": "https://static.eldiario.es/clip/691de928-2c5b-4c91-81f0-7df3f68c8163_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "periodismo independiente",
-            "economía",
-            "actualidad",
-            "barcelona",
-            "noticias",
-            "cataluña",
-            "política",
-            "ignacio escolar"
-        ],
-        "link": "https://www.eldiario.es/catalunya/sirat-8-premios-gaudi-gala-frontera-sorda-reivindican-romeria-vacio_1_12973600.html",
-        "date": "2026-02-09 01:57:28",
-        "sentiment_score": 0.06269994378089905
-    },
-    {
-        "title": "Rubén Barrera, el madrileño que regresa a casa con el show más grande del mundo: \"Es una cima de la que no quiero bajar\"",
-        "image_url": "https://s3.elespanol.com/2026/02/05/actualidad/1003744118206_261273528_1706x960.jpg",
-        "tags": [
-            "patinaje sobre hielo",
-            "ocio",
-            "wizink center",
-            "comunidad de madrid",
-            "soft",
-            "madrid",
-            "espectáculos",
-            "disney"
-        ],
-        "link": "https://www.elespanol.com/madrid/ocio/20260209/ruben-barrera-madrileno-regresa-casa-show-grande-mundo-cima-no-quiero-bajar-trt/1003744118142_0.html",
-        "date": "2026-02-09 01:49:30",
-        "sentiment_score": 0.01115696132183075
-    },
-    {
-        "title": "Guerra total entre el CGPJ y Justicia para cubrir las 500 nuevas plazas judiciales",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/d9754f9e1c9ec2c05cc471eb1d5216d6/crop/519x0/2567x2048/f/image/jpeg/assets/multimedia/imagenes/2022/03/09/16468205674169.jpg",
-        "tags": [
-            "tribunal supremo",
-            "consejo general del poder judicial",
-            "félix bolaños",
-            "felipe vi",
-            "artículos ángela martialay"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/02/09/6988d6b4e4d4d8302c8b4585.html",
-        "date": "2026-02-09 01:40:40",
-        "sentiment_score": -0.869006329216063
-    },
-    {
-        "title": "Arranca la huelga contra el caos ferroviario de Óscar Puente: más de 1,5 millones de viajeros diarios afectados",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
-        "tags": [
-            "artículos clara rojas"
-        ],
-        "link": "https://www.elmundo.es/economia/empresas/2026/02/09/69872224fdddff597e8b46bf.html",
-        "date": "2026-02-09 01:40:38",
-        "sentiment_score": -0.5177813209593296
-    },
-    {
-        "title": "Los consulados de Marruecos abren los fines de semana para ayudar a regularizar a sus ciudadanos en España",
-        "image_url": "https://s3.elespanol.com/2026/02/03/actualidad/1003744115040_261234934_1706x960.jpg",
-        "tags": [
-            "espana-newsletter",
-            "inmigración",
-            "españa",
-            "pedro sánchez",
-            "marruecos",
-            "argelia"
-        ],
-        "link": "https://www.elespanol.com/espana/20260209/consulados-marruecos-abren-fines-semana-ayudar-regularizar-ciudadanos-espana/1003744114339_0.html",
-        "date": "2026-02-09 01:15:48",
-        "sentiment_score": -0.8273066971451044
-    },
-    {
-        "title": "Baker Tilly explora compras para facturar 100 millones",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/3db52cca4ada763cb2295f632483e9bd/crop/10x24/1892x1279/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/06/17704043731187.jpg",
-        "tags": [
-            "auditoría>",
-            "consultoría>",
-            "empresas>"
-        ],
-        "link": "https://www.expansion.com/empresas/2026/02/09/69863a66468aeb0e558b4571.html",
-        "date": "2026-02-09 00:55:55",
-        "sentiment_score": 0.695226950570941
-    },
-    {
-        "title": "'Gilbert', el corto con acento malagueño que nació en un taller de desempleados y ahora está nominado a un Goya",
-        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744120639_261305070_1706x960.jpg",
-        "tags": [
-            "premios goya",
-            "cultura",
-            "málaga (provincia)"
-        ],
-        "link": "https://www.elespanol.com/malaga/cultura/20260209/gilbert-corto-acento-malagueno-nacio-taller-desempleados-ahora-nominado-goya-dl/1003744120634_0.html",
-        "date": "2026-02-09 00:47:42",
-        "sentiment_score": 0.34152862429618835
-    },
-    {
-        "title": "La pelea por el liderato y el partido aplazado en Vallecas, en El Tertulión",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/09/6989252d7a91e.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-08-20260209_3303570.html",
-        "date": "2026-02-09 00:21:03",
-        "sentiment_score": 0.017777949571609497
-    },
-    {
-        "title": "Mario Casas hablando catalán y el nuevo discurso de Eduard Sola, los mejores momentos de los premios Gaudí",
-        "image_url": "https://static1.ara.cat/clip/d6ad6727-fdd9-4a70-a373-87ee8875b8f7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "discurso",
-            "premios",
-            "gaudi",
-            "mejores",
-            "eduard",
-            "sola",
-            "hablando",
-            "casas",
-            "momentos",
-            "catalan",
-            "nuevo",
-            "mario"
-        ],
-        "link": "https://es.ara.cat/cultura/cine/mario-casas-hablando-catalan-nuevo-discurso-eduard-sola-mejores-momentos-premios-gaudi_1_5642594.html",
-        "date": "2026-02-09 00:08:14",
-        "sentiment_score": 0.34544436633586884
-    },
-    {
         "title": "La oferta de alquiler se desploma en Euskadi con una caída de más del 25%",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/236d539c-cd24-4478-8437-a2e958455f86_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -455,31 +79,6 @@ export default [
         "link": "https://www.businessinsider.es/bc/nave-cantera-startups_6929166_5.html",
         "date": "2026-02-09 06:00:00",
         "sentiment_score": 0.6063383966684341
-    },
-    {
-        "title": "\"A finales de 2025 había 23.000 viviendas a la venta con los okupas dentro y la ciudad española donde más se da este fenómeno es Girona; en la lista no está Madrid\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/10/21/68f73702f00c1.png",
-        "tags": [
-            "economía de bolsillo con pilar garcía de la granja"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/economia-de-bolsillo/noticias/finales-2025-habia-23-000-viviendas-venta-okupas-ciudad-espanola-da-fenomeno-girona-lista-madrid-20260209_3299730.html",
-        "date": "2026-02-09 05:38:05",
-        "sentiment_score": -0.12574808299541473
-    },
-    {
-        "title": "Tailandia opta por el pragmatismo y concede la victoria al conservador Bhumjaithai",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2026/02/09/tailandia-k78B-U20605786809PlG-1200x840@diario_abc.jpg",
-        "tags": [
-            "monarquía",
-            "tailandia",
-            "elecciones",
-            "uh abc",
-            "camboya",
-            "nacionalismo"
-        ],
-        "link": "https://www.abc.es/internacional/tailandia-opta-pragmatismo-concede-victoria-conservador-bhumjaithai-20260209063358-nt.html",
-        "date": "2026-02-09 05:34:00",
-        "sentiment_score": -0.04503071308135986
     },
     {
         "title": "Huelga de maquinistas en Renfe: Tres trenes suspendidos en La Rioja",
@@ -3174,5 +2773,213 @@ export default [
         "link": "https://www.infobae.com/espana/agencias/2026/02/12/renfe-informa-de-que-los-trenes-circulan-en-cataluna-aunque-con-diversas-restricciones/",
         "date": "2026-02-12 06:45:42",
         "sentiment_score": -0.04224932938814163
+    },
+    {
+        "title": "Arda Güler niega que sufra acoso laboral de sus compañeros y dice que el Real Madrid es su \"familia\"",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/02/12/4208045A-F2F4-4D6F-A6A9-B214834391BE/arda-guler-entrenamiento-real-madrid_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "deportes",
+            "antena 3 noticias",
+            "fútbol"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/arda-guler-niega-que-sufra-acoso-laboral-sus-companeros-dice-que-real-madrid-familia_20260212698e12fd9243cc133c44ca80.html",
+        "date": "2026-02-12 17:50:53",
+        "sentiment_score": -0.5526609793305397
+    },
+    {
+        "title": "Interior destaca que suministrar combustible a las narcolanchas se castigará con cárcel",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/12/interior-destaca-que-suministrar-combustible-a-las-narcolanchas-se-castigara-con-carcel/",
+        "date": "2026-02-12 17:48:16",
+        "sentiment_score": -0.8313467055559158
+    },
+    {
+        "title": "FAES carga contra Albares por sugerir nexos de Aznar con Epstein",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/02/12/2026021218372628275.jpg",
+        "tags": [
+            "noticias en la red"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/faes-amenaza-albares-sugerir-nexos-aznar-epstein/20260212183913441170.html",
+        "date": "2026-02-12 17:39:13",
+        "sentiment_score": -0.8969220593571663
+    },
+    {
+        "title": "Dónde ver Barcelona vs Atlético Madrid en Perú HOY: canal tv online del partido por semifinales ida de la Copa del Rey 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/75YML6TG3ZAGFOUQUTHM2QBJHI.png?auth=c02606c2e14d68a6f8c940da3b6da728c42eeb3cc6daaf088d7fca1f6f90ffd3&height=1080&smart=true&width=1920",
+        "tags": [
+            "peru-deportes",
+            "copa del rey",
+            "fc barcelona",
+            "atlético madrid"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/02/12/donde-ver-barcelona-vs-atletico-madrid-en-vivo-hoy-canal-tv-online-partido-semifinales-ida-copa-del-rey-2026/",
+        "date": "2026-02-12 17:39:05",
+        "sentiment_score": 0.5637390799820423
+    },
+    {
+        "title": "El alquiler mensual de una vivienda en Málaga es 400 euros más caro del precio razonable",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744043798_260330986_1706x960.jpg",
+        "tags": [
+            "alquiler de viviendas",
+            "vivienda málaga",
+            "economía"
+        ],
+        "link": "https://www.elespanol.com/malaga/economia/20260212/alquiler-mensual-vivienda-malaga-euros-caro-precio-razonable/1003744128151_0.html",
+        "date": "2026-02-12 17:36:15",
+        "sentiment_score": -0.43246544897556305
+    },
+    {
+        "title": "Thomas Partey, contra las cuerdas: cinco cargos de violación y otro de agresión sexual",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/12/2026021218293610803.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/thomas-partey-cuerdas-cinco-cargos-violacion-agresion-sexual/20260212183131374504.html",
+        "date": "2026-02-12 17:31:31",
+        "sentiment_score": -0.7623264994472265
+    },
+    {
+        "title": "Jaime de Marichalar, rotundo y molesto, se desmarca de su hermano Álvaro por sus ataques a Iñaki Urdangarin",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260212182816_690.jpg",
+        "tags": [
+            "chance",
+            "gente"
+        ],
+        "link": "https://www.europapress.es/chance/gente/noticia-jaime-marichalar-rotundo-molesto-desmarca-hermano-alvaro-ataques-inaki-urdangarin-20260212182816.html",
+        "date": "2026-02-12 17:28:16",
+        "sentiment_score": -0.7051567770540714
+    },
+    {
+        "title": "Cesce obtiene el nivel de 'Excelencia A' en la certificación efr por su liderazgo y compromiso",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260212182545_690.jpg",
+        "tags": [
+            "economía finanzas"
+        ],
+        "link": "https://www.europapress.es/economia/noticia-cesce-obtiene-nivel-excelencia-certificacion-efr-liderazgo-compromiso-20260212182545.html",
+        "date": "2026-02-12 17:25:45",
+        "sentiment_score": 0.7268984746187925
+    },
+    {
+        "title": "Santiago vive un fin de semana para no quedarse en casa: conciertos, Carnaval, San Valentín y mucho más",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a818017d-f66a-4612-80e4-052239be3851_16-9-discover-aspect-ratio_default_0_x609y270.jpg",
+        "tags": [
+            "conciertos",
+            "entroido",
+            "planes",
+            "san valentin",
+            "carnaval",
+            "música",
+            "santiago",
+            "ocio"
+        ],
+        "link": "https://www.elcorreogallego.es/santiago/2026/02/12/planes-fin-semana-santiago-compostela-musica-carnaval-126763121.html",
+        "date": "2026-02-12 17:18:36",
+        "sentiment_score": 0.827364637516439
+    },
+    {
+        "title": "Güler niega que sufra acoso en el Real Madrid: \"Siempre he considerado este lugar como una familia y me siento feliz de compartir vestuario con mis compañeros\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/12/698e09af6fdbf.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/gueler-niega-sufra-acoso-real-madrid-siempre-he-considerado-lugar-familia-me-siento-feliz-compartir-vestuario-mis-companeros-20260212_3306992.html",
+        "date": "2026-02-12 17:17:05",
+        "sentiment_score": 0.031584858894348145
+    },
+    {
+        "title": "Odyssey Hotel Group quiere alcanzar los ocho hoteles en España en 2028",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2b012f08-9cb5-42fd-b93a-46ff623ed17c_alta-libre-aspect-ratio_default_0_x668y297.jpg",
+        "tags": [
+            "turismo",
+            "hoteles"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260212/odyssey-hotel-group-quiere-alcanzar-ocho-hoteles-espana-2028-126774163",
+        "date": "2026-02-12 17:52:10",
+        "sentiment_score": 0.06602621078491211
+    },
+    {
+        "title": "El Parlament pide cesar a Puente y Paneque por Rodalies con el voto de Junts, ERC, PP, Vox y CUP",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260212185039_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-parlament-pide-cesar-puente-paneque-rodalies-voto-junts-erc-pp-vox-cup-20260212185039.html",
+        "date": "2026-02-12 17:50:39",
+        "sentiment_score": -0.4980754889547825
+    },
+    {
+        "title": "Deportes | Aarón Gutiérrez causa baja indefinida en el Horneo EÓN por motivos personales",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1777510.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/aaron-gutierrez-causa-baja-indefinida-en-el-horneo-eon-por-motivos-personales",
+        "date": "2026-02-12 17:38:02",
+        "sentiment_score": -0.7491032965481281
+    },
+    {
+        "title": "La borrasca 'Oriana' pondrá en aviso mañana a España por viento, olas, lluvia y nieve, con Galicia en nivel naranja",
+        "image_url": "https://www.galiciapress.es/images/showid2/7846973?w=640&zc=4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.galiciapress.es/articulo/ultima-hora/2026-02-12/5770511-borrasca-oriana-pondra-aviso-manana-espana-viento-olas-lluvia-nieve-galicia-nivel-naranja",
+        "date": "2026-02-12 17:36:07",
+        "sentiment_score": -0.2301950380206108
+    },
+    {
+        "title": "Según un estudio, estimular el cerebro desde la infancia, puede retrasar el Alzheimer incluso en fases avanzadas",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/12/698e007a36902.jpeg",
+        "tags": [
+            "salud y bienestar"
+        ],
+        "link": "https://www.cope.es/actualidad/salud-bienestar/noticias/estudio-estimular-cerebro-infancia-retrasar-alzheimer-fases-avanzadas-20260212_3306971.html",
+        "date": "2026-02-12 17:34:34",
+        "sentiment_score": -0.04679858684539795
+    },
+    {
+        "title": "José Luis Guerín: \"Cuando se utiliza la realidad de manera instrumental para ilustrar un discurso previo, la realidad se empobrece muchísimo\"",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/05/actualidad/1003742729895_15682953_1706x960.jpg",
+        "tags": [
+            "creación",
+            "barcelona",
+            "entrevistas",
+            "cineastas",
+            "cine",
+            "cultura",
+            "películas"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/creacion/20260212/jose-luis-guerin-utiliza-realidad-instrumental-empobrece-muchisimo/1003742732025_0.html",
+        "date": "2026-02-12 17:34:31",
+        "sentiment_score": 0.5157578885555267
+    },
+    {
+        "title": "Collboni hace balance del \"episodio excepcional\" por la borrasca Nils: once heridos en Barcelona, uno de ellos crítico",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/12/vivir-en-barcelona/1003742731889_15709376_1706x960.jpg",
+        "tags": [
+            "clima",
+            "ayuntamiento de barcelona",
+            "jaume collboni",
+            "vivir en barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260212/collboni-hace-balance-episodio-excepcional-borrasca-nils-once-heridos-barcelona-critico/1003742732191_0.html",
+        "date": "2026-02-12 17:31:38",
+        "sentiment_score": -0.8431468196213245
+    },
+    {
+        "title": "Plásticos en las vías y el temporal retrasan la llegada del Alvia Barcelona-León más de seis horas",
+        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2026/02/12/leonoticiasAVE-k69-U150598503561hRG-1968x1216@Leonoticias-kR9E-U20680683523FH-1200x840@Leonoticias.jpg",
+        "tags": [
+            "barcelona (provincia)",
+            "león (capital)",
+            "renfe",
+            "adif"
+        ],
+        "link": "https://www.leonoticias.com/leon/plasticos-vias-temporal-retrasan-llegada-alvia-barcelonaleon-20260212182846-nt.html",
+        "date": "2026-02-12 17:31:12",
+        "sentiment_score": -0.8358358517289162
     }
 ];
