@@ -1,19 +1,5 @@
 export default [
     {
-        "title": "Todo lo que necesitas saber sobre el caso de Juan Pablo Guanipa en cinco claves",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/7e33eca8b06400c034e25cb3586a6b165a4f2929w.jpg",
-        "tags": [
-            "actualidad",
-            "derechos humanos",
-            "nacionales",
-            "presos políticos",
-            "juan pablo guanipa"
-        ],
-        "link": "https://lapatilla.com/2026/02/09/todo-lo-que-necesitas-saber-sobre-el-caso-de-juan-pablo-guanipa-en-cinco-claves/",
-        "date": "2026-02-09 14:21:40",
-        "sentiment_score": -0.6814668253064156
-    },
-    {
         "title": "Guruzeta, a la altura de Mbappé y Kane",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/47f0eb38-cd22-4db2-a117-3cef86fb39aa_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2927,5 +2913,243 @@ export default [
         "link": "https://www.infobae.com/espana/agencias/2026/02/12/el-atletico-culmina-la-goleada-y-enfila-la-final-4-0/",
         "date": "2026-02-12 22:21:11",
         "sentiment_score": 0.5816403962671757
+    },
+    {
+        "title": "Matarazzo respira: buenas noticias para la Real Sociedad antes de visitar el Bernabéu",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/25/2025042517281270590.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/matarazzo-respira-buenas-noticias-real-sociedad-antes-visitar-bernabeu/20260213030818374570.html",
+        "date": "2026-02-13 02:08:18",
+        "sentiment_score": 0.6012405566871166
+    },
+    {
+        "title": "Nomura nombra como jefe de renta fija a un histórico de la banca americana en España",
+        "image_url": "https://s3.elespanol.com/2026/02/11/actualidad/1003744126509_261377747_1706x960.jpg",
+        "tags": [
+            "fondos de inversión",
+            "renta fija",
+            "banca"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/banca/20260213/nomura-nombra-jefe-renta-fija-historico-banca-americana-espana/1003744126506_0.html",
+        "date": "2026-02-13 01:45:11",
+        "sentiment_score": 0.04076894745230675
+    },
+    {
+        "title": "Canarias: El Archipiélago Abandonado",
+        "image_url": "https://s3.elespanol.com/2026/02/10/actualidad/1003744124132_261347894_1706x960.jpg",
+        "tags": [
+            "defensa - opinión",
+            "observatorio de la defensa",
+            "marruecos",
+            "islas canarias",
+            "otan"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20260213/canarias-archipielago-abandonado/1003744122780_12.html",
+        "date": "2026-02-13 01:45:04",
+        "sentiment_score": -0.8900060970336199
+    },
+    {
+        "title": "GMV se erige como centinela de las telecomunicaciones de la UE tras montar un nuevo centro de control de ubicación secreta",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045042_261398171_1706x960.jpg",
+        "tags": [
+            "defensa - espacio",
+            "espacio",
+            "observatorio de la defensa",
+            "unión europea (ue)",
+            "satélites espaciales",
+            "telecomunicaciones",
+            "industria de defensa"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20260213/gmv-erige-centinela-telecomunicaciones-ue-montar-nuevo-centro-control-ubicacion-secreta/1003744127712_0.html",
+        "date": "2026-02-13 01:10:00",
+        "sentiment_score": -0.22337889671325684
+    },
+    {
+        "title": "Tomás estudia el primer grado universitario sin profesores y para crear una empresa: \"Hablo con CEOs y ministros\"",
+        "image_url": "https://s3.elespanol.com/2026/02/09/madrid/sociedad/1003744123038_261335257_1706x960.jpg",
+        "tags": [
+            "sociedad",
+            "educación",
+            "universidad"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20260213/tomas-estudia-primer-grado-universitario-sin-profesores-crear-empresa-hablo-ceos-ministros/1003744122431_0.html",
+        "date": "2026-02-13 01:00:00",
+        "sentiment_score": 0.23078928887844086
+    },
+    {
+        "title": "Atlético de Madrid destrozó al Barcelona y quedó a un paso de la final",
+        "image_url": "https://elclarinweb.com/2026/02/12/atletico-de-madrid-destrozo-al-barcelona/%3Cimg",
+        "tags": [
+            "actualidad",
+            "deportes"
+        ],
+        "link": "https://elclarinweb.com/2026/02/12/atletico-de-madrid-destrozo-al-barcelona/",
+        "date": "2026-02-13 00:47:18",
+        "sentiment_score": 0.07258656620979309
+    },
+    {
+        "title": "12 FEB 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/12-feb-2026-partidazo-cope-20260213_3307125.html",
+        "date": "2026-02-13 00:39:13",
+        "sentiment_score": 0.21535802632570267
+    },
+    {
+        "title": "3a PARTE | 12 FEB 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-12-feb-2026-partidazo-cope-20260213_3307124.html",
+        "date": "2026-02-13 00:38:54",
+        "sentiment_score": -0.000551760196685791
+    },
+    {
+        "title": "La reacción del Cholo Simeone tras el gol de Julián Álvarez con el que cortó una sequía de 65 días sin gritar: “Lo necesitaba”",
+        "image_url": "https://www.infobae.com/resizer/v2/AZ6SJXXDUZEG3DHRZ4THVTOXQI.JPG?auth=0a8f5f4c5a34f77a6018e17733590e0899a7e0d68d3761c62e4e1ac9145dd10f&height=1353&smart=true&width=2029",
+        "tags": [
+            "atlético de madrid",
+            "diego simeone",
+            "julián álvarez",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/13/la-reaccion-del-cholo-simeone-tras-el-gol-de-julian-alvarez-con-el-que-corto-una-sequia-de-65-dias-sin-gritar-lo-necesitaba/",
+        "date": "2026-02-13 00:30:45",
+        "sentiment_score": 0.5658447816967964
+    },
+    {
+        "title": "¿Por qué los nómadas digitales eligen Canarias?",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/50bcd96f8ada37657e5e5fe57b7dd720/crop/0x0/1800x1200/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/12/17709203961944.png",
+        "tags": [
+            "casas>",
+            "directivos>",
+            "estilo de vida>",
+            "artículos álvaro pérez-alberca>"
+        ],
+        "link": "https://www.expansion.com/directivos/estilo-vida/casas/2026/02/13/698e1a6c468aebf0258b4846.html",
+        "date": "2026-02-12 23:59:47",
+        "sentiment_score": 0.5663904920220375
+    },
+    {
+        "title": "Copa del Rey: El Atlético de Madrid humilla al Barcelona y se alista para la vuelta",
+        "image_url": "https://pxcdn.meridiano.net/022026/1770933599478.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/copa-del-rey-atletico-de-madrid-vs-barcelona-en-vivo-20262121550",
+        "date": "2026-02-13 02:18:00",
+        "sentiment_score": 0.15148182213306427
+    },
+    {
+        "title": "Viernes, 13 de febrero de 2026 (02:00 GMT)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/13/viernes-13-de-febrero-de-2026-0200-gmt/",
+        "date": "2026-02-13 02:15:55",
+        "sentiment_score": -0.011611085385084152
+    },
+    {
+        "title": "No digamos que fue un sueño",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sueno",
+            "digamos",
+            "no"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/no-digamos-sueno_0_2005893268.html",
+        "date": "2026-02-13 02:06:22",
+        "sentiment_score": 0.13559043407440186
+    },
+    {
+        "title": "Razones para la esperanza",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "esperanza",
+            "razones"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/razones-esperanza_0_2005893221.html",
+        "date": "2026-02-13 02:05:57",
+        "sentiment_score": -0.22273384034633636
+    },
+    {
+        "title": "Funcionarios de prisiones temen una avalancha de presos ante la nueva ley para los multirreincidentes",
+        "image_url": "https://s3.elespanol.com/2026/02/12/actualidad/1003744128333_261401149_1706x960.jpg",
+        "tags": [
+            "jueces",
+            "barcelona",
+            "reportajes",
+            "delincuencia",
+            "mozos de escuadra (mossos d'esquadra)",
+            "cataluña",
+            "juzgados",
+            "detenciones",
+            "policía nacional"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260213/funcionarios-prisiones-temen-avalancha-presos-nueva-ley-multirreincidentes/1003744127514_0.html",
+        "date": "2026-02-13 01:50:12",
+        "sentiment_score": -0.823820848017931
+    },
+    {
+        "title": "'El Coletas' le \"daba palizas a su exmujer\" y cuando se echó de novia a Salma la secuestró 2 años: \"Se ponía rabioso\"",
+        "image_url": "https://s3.elespanol.com/2026/02/13/actualidad/1003744128495_261403548_1706x960.jpg",
+        "tags": [
+            "murcia (municipio)",
+            "reportajes",
+            "marruecos",
+            "secuestros",
+            "violencia de género",
+            "personas desaparecidas",
+            "policía nacional"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260213/coletas-daba-palizas-exmujer-echo-novia-salma-secuestro-anos-ponia-rabioso/1003744128442_0.html",
+        "date": "2026-02-13 01:45:13",
+        "sentiment_score": -0.79283282533288
+    },
+    {
+        "title": "Carlos Rivera lanza 'Sin despedida' junto a Alejandro Fernández y adelanta su nuevo disco",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "artistas",
+            "las vegas 2025",
+            "26 edicion premios grammy latinos",
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/13/carlos-rivera-lanza-sin-despedida-junto-a-alejandro-fernandez-y-adelanta-su-nuevo-disco/",
+        "date": "2026-02-13 01:17:39",
+        "sentiment_score": 0.274739358574152
+    },
+    {
+        "title": "Delcy Rodríguez y Chris Wright visitaron PetroPiar",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2026/02/24MG__3818_P-scaled-1-730x524.jpeg",
+        "tags": [
+            "visita",
+            "eeuu",
+            "petropiar",
+            "venezuela",
+            "petrolera",
+            "economía",
+            "recorrido"
+        ],
+        "link": "https://primicia.com.ve/economia/delcy-rodriguez-y-chris-wright-visitaron-petropiar/",
+        "date": "2026-02-13 01:12:45",
+        "sentiment_score": 0.017607778310775757
+    },
+    {
+        "title": "El PSOE lleva la contraria a sus socios de izquierdas para tender puentes con Junts",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/13/2025111306580812869.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/psoe-lleva-contraria-socios-izquierdas-tender-puentes-junts/20260213015002374565.html",
+        "date": "2026-02-13 00:50:02",
+        "sentiment_score": -0.24843749403953552
     }
 ];
