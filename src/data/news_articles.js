@@ -1,17 +1,5 @@
 export default [
     {
-        "title": "Eclipse solar de \"anillo de fuego\": cuándo es y dónde se podrá ver",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/Screenshot_91.jpg",
-        "tags": [
-            "ciencia",
-            "eclipse solar",
-            "titulares"
-        ],
-        "link": "https://lapatilla.com/2026/02/10/eclipse-solar-de-anillo-de-fuego-cuando-es-y-donde-se-podra-ver/",
-        "date": "2026-02-10 13:10:06",
-        "sentiment_score": -0.025666460394859314
-    },
-    {
         "title": "Lamine Yamal se centra en el campo",
         "image_url": "https://okdiario.com/img/2026/02/10/lamine-yamal-se-centra-interior-1.jpg",
         "tags": [
@@ -2802,5 +2790,184 @@ export default [
         "link": "https://www.informacion.es/opinion/2026/02/13/comunicacion-estupido-126820743.html",
         "date": "2026-02-13 21:00:25",
         "sentiment_score": -0.22923994064331055
+    },
+    {
+        "title": "Sísifo revive en la izquierda radical",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sisifo",
+            "revive",
+            "izquierda",
+            "radical"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/sisifo-revive-izquierda-radical_0_2005901345.html",
+        "date": "2026-02-14 02:08:53",
+        "sentiment_score": -0.31266987323760986
+    },
+    {
+        "title": "Año Nuevo Chino: Mastantuono se vuelve viral por imitar el estilo de Messi",
+        "image_url": "https://pxcdn.2001online.com/2001/022026/1771025898290/17570836623774.jpg?ch=675&cw=1200",
+        "tags": [
+            "madrid",
+            "argentina",
+            "real madrid",
+            "año nuevo chino",
+            "lionel messi",
+            "china",
+            "franco mastantuono"
+        ],
+        "link": "https://2001online.com/deportes/ano-nuevo-chino-mastantuono-se-vuelve-viral-por-imitar-el-estilo-de-messi-202621322300",
+        "date": "2026-02-14 01:34:15",
+        "sentiment_score": 0.6499852687120438
+    },
+    {
+        "title": "'El Anodino', el jefe narco de la Udef, cayó por buscar sus propios contenedores con cocaína en las bases policiales para protegerlos",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/d898fd73c0107760555f9dc0f9ab2dea/crop/34x0/411x377/f/image/jpeg/assets/multimedia/imagenes/2022/03/08/16467684465115.jpg",
+        "tags": [
+            "audiencia nacional",
+            "artículos quico alsedo",
+            "udef"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/02/14/698cde0ee85ece3a078b45c0.html",
+        "date": "2026-02-14 01:27:21",
+        "sentiment_score": -0.5574864149093628
+    },
+    {
+        "title": "Rufián, el \"matón verbal\" que cambió el paro y un desahucio en Barcelona por el Congreso: tejió su fama en bares y TikTok",
+        "image_url": "https://s3.elespanol.com/2026/02/11/actualidad/1003744125137_261361327_1706x960.jpg",
+        "tags": [
+            "congreso de los diputados",
+            "reportajes-newsletter",
+            "gabriel rufián",
+            "sumar",
+            "porfolio",
+            "erc esquerra republicana de cataluña",
+            "izquierda unida",
+            "psoe (partido socialista obrero español)",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260214/rufian-maton-verbal-cambio-paro-desahucio-barcelona-congreso-tejio-fama-bares-tiktok/1003744124898_0.html",
+        "date": "2026-02-14 00:40:00",
+        "sentiment_score": 0.2760845124721527
+    },
+    {
+        "title": "Vuelos demorados y cancelados en el AICM este 13 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/CMVDXZ7HBNDMZAW7GUGISD32D4.jpg?auth=fd780efd04da6bc6657766960a77be0fdc35bc06a966a2e995d067f0537c0450&height=1080&smart=true&width=1920",
+        "tags": [
+            "vuelos afectados aicm",
+            "últimas actualizaciones",
+            "vuelos afectados en méxico"
+        ],
+        "link": "https://www.infobae.com/mexico/2026/02/14/vuelos-demorados-y-cancelados-en-el-aicm-este-13-de-febrero/",
+        "date": "2026-02-14 00:33:10",
+        "sentiment_score": 0.01603182777762413
+    },
+    {
+        "title": "Cuando cambias a Felipe González por Rufián",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/07/14/64b18d111df7c.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20260214/cuando-cambias-felipe-gonzalez-rufian_385217.html",
+        "date": "2026-02-14 00:30:00",
+        "sentiment_score": -0.157192662358284
+    },
+    {
+        "title": "Pronóstico del clima en Barcelona este 14 de febrero: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima",
+            "últimas actualizaciones",
+            "clima en españa",
+            "clima en barcelona"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/14/pronostico-del-clima-en-barcelona-este-14-de-febrero-temperatura-lluvias-y-viento/",
+        "date": "2026-02-14 02:15:58",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Griezmann",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "griezmann"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/articulos/griezmann_0_2005901199.html",
+        "date": "2026-02-14 02:06:22",
+        "sentiment_score": -0.02847236394882202
+    },
+    {
+        "title": "Los artífices detrás de la innovadora cafetería que agita Carabanchel: \"Nos gustaría ser el Mahou del café de Madrid\"",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/02/11/17708221521043.jpg",
+        "tags": [
+            "gastronomía",
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/metropoli/2026/02/14/698c99d2fdddffe8638b45c6.html",
+        "date": "2026-02-14 01:25:56",
+        "sentiment_score": 0.4613773450255394
+    },
+    {
+        "title": "Jordi Sánchez, de OBK, vuelve tras 12 años de silencio: \"Hace 10 años casi no existía y ahora hago 80 conciertos al año\"",
+        "image_url": "https://s3.elespanol.com/2026/02/13/actualidad/1003744129561_261416704_1706x960.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "cantantes",
+            "sociedad",
+            "entrevistas",
+            "madrid"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20260214/jordi-sanchez-obk-vuelve-anos-silencio-hace-no-existia-ahora-hago-conciertos-ano/1003744127992_0.html",
+        "date": "2026-02-14 01:00:00",
+        "sentiment_score": 0.22793486714363098
+    },
+    {
+        "title": "13 FEB 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/13-feb-2026-partidazo-cope-20260214_3307998.html",
+        "date": "2026-02-14 00:40:00",
+        "sentiment_score": 0.31619417667388916
+    },
+    {
+        "title": "Los tormentos de 'El Coletas' a Salma en su casa de Murcia: la ataba en el baño cuando se iba y le rompía dientes a martillazos",
+        "image_url": "https://s3.elespanol.com/2026/02/13/actualidad/1003744129922_261421964_1706x960.jpg",
+        "tags": [
+            "eta",
+            "marruecos",
+            "violencia de género",
+            "mujeres",
+            "murcia (municipio)",
+            "reportajes-newsletter",
+            "primavera",
+            "relaciones de pareja",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260214/tormentos-coletas-salma-casa-murcia-ataba-bano-iba-rompia-dientes-martillazos/1003744129916_0.html",
+        "date": "2026-02-14 00:40:00",
+        "sentiment_score": -0.7979212701320648
+    },
+    {
+        "title": "La cruda realidad de Marina Garrido, la número 1 de enfermería: \"Gano 1.200 euros al mes y estamos mal cuidados\"",
+        "image_url": "https://s3.elespanol.com/2025/02/06/actualidad/922168249_252899146_1706x960.jpg",
+        "tags": [
+            "enfermería",
+            "salud",
+            "vivir"
+        ],
+        "link": "https://www.elespanol.com/malaga/vivir/20260214/cruda-realidad-marina-garrido-numero-enfermeria-gano-euros-mes-mal-cuidados/1003744129133_0.html",
+        "date": "2026-02-14 00:40:00",
+        "sentiment_score": 0.5431288480758667
+    },
+    {
+        "title": "SuperRufián",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/02/13/698f56fa84b27.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.lavanguardia.com/politica/20260214/11466398/superrufian.html",
+        "date": "2026-02-14 00:04:21",
+        "sentiment_score": -0.021038800477981567
     }
 ];
