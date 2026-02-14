@@ -1,164 +1,5 @@
 export default [
     {
-        "title": "Lamine Yamal se centra en el campo",
-        "image_url": "https://okdiario.com/img/2026/02/10/lamine-yamal-se-centra-interior-1.jpg",
-        "tags": [
-            "deportes",
-            "lamine yamal",
-            "fc barcelona",
-            "barcelona"
-        ],
-        "link": "https://okdiario.com/deportes/lamine-yamal-centra-campo-16219660",
-        "date": "2026-02-10 18:00:49",
-        "sentiment_score": 0.32388993352651596
-    },
-    {
-        "title": "Las palabras de Carlo Costanzia que reavivan los rumores de un segundo hijo con Alejandra Rubio",
-        "image_url": "https://okdiario.com/look/img/2026/02/10/u597302_013-1.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://okdiario.com/look/actualidad/palabras-carlo-costanzia-reavivan-rumores-segundo-hijo-alejandra-rubio-2488140",
-        "date": "2026-02-10 18:00:31",
-        "sentiment_score": -0.039789244532585144
-    },
-    {
-        "title": "¡Sin fichajes en enero! El Real Madrid rechazó a figura del Manchester City",
-        "image_url": "https://i.ytimg.com/vi/i7B_AWooejA/mqdefault.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-internacional/sin-fichajes-en-enero-el-real-madrid-rechazo-a-figura-del-manchester-city-202621013550",
-        "date": "2026-02-10 17:55:00",
-        "sentiment_score": -0.8401649240404367
-    },
-    {
-        "title": "Matarazzo desafía a San Mamés: \"No vamos a ir con el freno de mano\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/10/698b6daaad085.jpeg",
-        "tags": [
-            "deportes gipuzkoa"
-        ],
-        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-guipuzcoa/noticias/matarazzo-desafia-san-mames-freno-mano-20260210_3305226.html",
-        "date": "2026-02-10 17:51:13",
-        "sentiment_score": -0.08425047993659973
-    },
-    {
-        "title": "El director de la RAE, elegido académico de número de la Real Academia de Jurisprudencia y Legislación de España",
-        "image_url": "https://static.grupojoly.com/clip/800b8059-1c91-4287-839d-52094944bfed_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "director",
-            "rae",
-            "numero",
-            "elegido",
-            "academico"
-        ],
-        "link": "https://www.diariodejerez.es/ocio/director-rae-elegido-academico-numero_0_2005870967.html",
-        "date": "2026-02-10 17:46:03",
-        "sentiment_score": 0.20677505433559418
-    },
-    {
-        "title": "Audrey Pascual cierra con dos platas y el Globo de Cristal de Gigante la Copa del Mundo de Esquí Paralímpico",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260210184459_690.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/noticia-audrey-pascual-cierra-dos-platas-globo-cristal-gigante-copa-mundo-esqui-paralimpico-20260210184459.html",
-        "date": "2026-02-10 17:44:59",
-        "sentiment_score": 0.7148892655968666
-    },
-    {
-        "title": "Aragón insta al Ministerio a derogar por duplicidad el registro nacional de Viviendas de Uso Turístico",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260210184217_690.jpg",
-        "tags": [
-            "aragón"
-        ],
-        "link": "https://www.europapress.es/aragon/noticia-aragon-insta-ministerio-derogar-duplicidad-registro-nacional-viviendas-uso-turistico-20260210184217.html",
-        "date": "2026-02-10 17:42:17",
-        "sentiment_score": -0.8683540718629956
-    },
-    {
-        "title": "Juan Conde, experto económico: “No es el momento ideal para comprar un piso, a no ser que encuentres esto: una oportunidad que no puedes dejar pasar”",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/17/691ba0de65b0f.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.cope.es/actualidad/economia/noticias/juan-conde-experto-economico-momento-ideal-comprar-piso-encuentres-esto-oportunidad-puedes-dejar-pasar-20260210_3305222.html",
-        "date": "2026-02-10 17:40:30",
-        "sentiment_score": -0.08497683703899384
-    },
-    {
-        "title": "Cuáles son las políticas que Vox exige para investir a Guardiola en Extremadura: la derogación de la ley LGTBI y revisar la inmigración",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2025/12/13/4EF056DC-697E-4A62-BC3E-4F6AA39E25CF/lider-vox-santiago-abascal-acto-extremadura_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "noticias",
-            "ondacero",
-            "españa"
-        ],
-        "link": "https://www.ondacero.es/noticias/espana/cuales-son-politicas-que-vox-exige-investir-guardiola-extremadura-derogacion-ley-lgtbi-revisar-inmigracion_20260210698b6d322f00a04688045562.html",
-        "date": "2026-02-10 17:38:58",
-        "sentiment_score": -0.6551452167332172
-    },
-    {
-        "title": "El Foro Español de Pacientes celebra como \"un paso decisivo\" el Anteproyecto de Ley de Organizaciones de Pacientes",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260210183857_690.jpg",
-        "tags": [
-            "actualidad",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/actualidad/noticia-foro-espanol-pacientes-celebra-paso-decisivo-anteproyecto-ley-organizaciones-pacientes-20260210183857.html",
-        "date": "2026-02-10 17:38:57",
-        "sentiment_score": 0.6595544889569283
-    },
-    {
-        "title": "Luna Ki, participante del Benidorm Fest: lanza una 'Bomba de amor' sin el autotune que la acorraló en la primera edición",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/50ead6d2-edbf-4b8e-aec5-99fdd7494273_16-9-aspect-ratio_default_0_x1085y474.jpg",
-        "tags": [
-            "benidorm fest",
-            "rtve",
-            "música",
-            "eurovisión"
-        ],
-        "link": "https://www.lacronicabadajoz.com/cultura/2026/02/10/arma-luna-ki-ganar-benidorm-fest-lanza-bomba-amor-autotune-126680775.html",
-        "date": "2026-02-10 18:00:48",
-        "sentiment_score": 0.45970501005649567
-    },
-    {
-        "title": "El Estado registró 11.543 convenios vigentes en 2025 con otras administraciones y entes privados, un 5,8% más",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260210183330.jpg?fit=1920%2C1079&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/el-estado-registr-11-543-convenios-vigentes-en-2025-con-otras-administraciones-y-entes-privados-un-58-ms/",
-        "date": "2026-02-10 18:00:05",
-        "sentiment_score": 0.0017655938863754272
-    },
-    {
-        "title": "Un estudio liderado por el CSIC identifica una variante genética asociada a un mayor riesgo de padecer Covid-19 grave",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260210181146.jpg?fit=1280%2C853&ssl=1",
-        "tags": [
-            "sanidad"
-        ],
-        "link": "https://cronicadecantabria.com/cr/un-estudio-liderado-por-el-csic-identifica-una-variante-gentica-asociada-a-un-mayor-riesgo-de-padecer-covid-19-grave/",
-        "date": "2026-02-10 18:00:03",
-        "sentiment_score": -0.5655683986842632
-    },
-    {
-        "title": "La bonanza hotelera en Benidorm se topa con un 3,6 % de destrucción de empleo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/59adf8b4-2bc4-4f5f-9bdd-87b6076b4571_16-9-aspect-ratio_default_0_x750y325.jpg",
-        "tags": [
-            "camping",
-            "hosbec",
-            "empleo",
-            "apartamentos",
-            "hoteles",
-            "pernoctaciones"
-        ],
-        "link": "https://www.informacion.es/economia/2026/02/10/bonanza-hotelera-benidorm-topa-destruccion-empleo-2025-126669560.html",
-        "date": "2026-02-10 17:59:18",
-        "sentiment_score": 0.37629444897174835
-    },
-    {
         "title": "Alcaldes del entorno entregan una carta dirigida a Pedro Sánchez para evitar el cierre de la central nuclear",
         "image_url": "https://s2.ppllstatics.com/hoy/navalmoral/multimedia/2026/02/10/Alcaldes%20de%20CNA%20en%20Madrid%201-klkE-U20644745693UOG-1200x840@Hoy.jpeg",
         "tags": [
@@ -2969,5 +2810,167 @@ export default [
         "link": "https://www.lavanguardia.com/politica/20260214/11466398/superrufian.html",
         "date": "2026-02-14 00:04:21",
         "sentiment_score": -0.021038800477981567
+    },
+    {
+        "title": "Un renqueante Thierry, un reconvertido o un canterano, opciones de Corberán en el lateral",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/12/un-renqueante-thierry-un-reconvertido-o-un-canterano-opciones-de-corberan-en-el-lateral/",
+        "date": "2026-02-14 06:46:56",
+        "sentiment_score": -0.8341902904212475
+    },
+    {
+        "title": "Real Valladolid y Granada: Desde Platko a Pacheta",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2026/02/14/PlatCheta-kBqB-U20708233957AxB-758x531@El%20Norte.jpg",
+        "tags": [
+            "granada",
+            "miguel ángel portugal",
+            "real valladolid club de fútbol",
+            "estadio josé zorrilla"
+        ],
+        "link": "https://www.elnortedecastilla.es/realvalladolid/real-valladolid-granada-platko-pacheta-20260214074539-nt.html",
+        "date": "2026-02-14 06:45:45",
+        "sentiment_score": 0.03693580627441406
+    },
+    {
+        "title": "La borrasca Oriana activa avisos en toda España, con nivel 'rojo' en Castellón por fuertes vientos",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/d20f3626079b7939af2fd23ec874d996/f/webp/assets/multimedia/imagenes/2026/02/14/17710510564776.jpg",
+        "tags": [
+            "el tiempo"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/02/14/6990186921efa01b2c8b458d.html",
+        "date": "2026-02-14 06:38:52",
+        "sentiment_score": -0.6262030862271786
+    },
+    {
+        "title": "Blanca Soroa: «Si estoy mucho tiempo en las redes sociales me duele la cabeza»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/12/blanca-soroa-kO5E-U20676133781sIF-1200x840@RC.jpg",
+        "tags": [
+            "alauda ruiz de azúa",
+            "premios goya"
+        ],
+        "link": "https://www.elcomercio.es/pantallas/cine/blanca-soroa-tiempo-redes-sociales-duele-cabeza-20260212071915-ntrc.html",
+        "date": "2026-02-14 06:34:35",
+        "sentiment_score": 0.7986012510955334
+    },
+    {
+        "title": "Horario y dónde ver por televisión el Unicaja-Real Madrid de la jornada 20 de la Liga Endesa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d0e2249d-f0e5-4569-8e7c-73ef60325b7f_16-9-aspect-ratio_default_0_x480y213.jpg",
+        "tags": [
+            "horario",
+            "la liga",
+            "televisión",
+            "real madrid",
+            "unicaja"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2026/02/14/horario-ver-television-unicaja-real-madrid-liga-126824212.html",
+        "date": "2026-02-14 06:30:49",
+        "sentiment_score": 0.19566147774457932
+    },
+    {
+        "title": "Una experta en educación, sobre cómo Leonor accederá a la universidad en septiembre: «Competirá en igualdad de condiciones»",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/LEONOR_UNIVERSIDAD_MO_01.jpg",
+        "tags": [
+            "reino unido",
+            "celebrities",
+            "princesa leonor",
+            "universidades",
+            "casa real española",
+            "familia real española",
+            "gente",
+            "educación"
+        ],
+        "link": "https://theobjective.com/gente/2026-02-14/experta-educacion-leonor-accedera-universidad-septiembre/",
+        "date": "2026-02-14 06:30:00",
+        "sentiment_score": 0.07035022228956223
+    },
+    {
+        "title": "Elche - Osasuna, el análisis | 'El VAR y la cortina de Herrera'",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c503a46b-5588-44f4-ac8d-1013d6ed2e86_16-9-aspect-ratio_default_0_x667y929.jpg",
+        "tags": [
+            "elche",
+            "osasuna",
+            "var",
+            "analisis",
+            "cortina"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/14/elche-osasuna-analisis-var-cortina-10699578.html",
+        "date": "2026-02-14 06:23:08",
+        "sentiment_score": -0.25950539112091064
+    },
+    {
+        "title": "Resumen Partizan-Real Madrid: Ejercicio de supervivencia para volver a ganar en Europa (73-77)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/13/image-49fc26c8-f2e9-42d1-b35f-0252e1b71c91-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.eurosport.es/baloncesto/euroliga/2025-2026/partizan-real-madrid-video-resumen-resultado-y-mejores-momentos-del-partido-jornada-28-hoy_vid60055918/video.shtml",
+        "date": "2026-02-14 06:21:47",
+        "sentiment_score": 0.4083629697561264
+    },
+    {
+        "title": "El 65% de las incidencias ferroviarias registradas en Segovia afectan a la alta velocidad",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2026/02/10/1503145632-khD-U20630710818NkE-758x531@El%20Norte.jpg",
+        "tags": [
+            "segovia",
+            "ave"
+        ],
+        "link": "https://www.elnortedecastilla.es/segovia/incidencias-ferroviarias-registradas-segovia-afectan-alta-velocidad-20260214074245-nt.html",
+        "date": "2026-02-14 06:42:48",
+        "sentiment_score": -0.7500274367630482
+    },
+    {
+        "title": "AEMET prevé en Barcelona un día de nubes, heladas débiles y viento moderado del noroeste",
+        "image_url": "https://okdiario.com/img/2026/01/12/viento-barcelona-interior.jpg",
+        "tags": [
+            "okd",
+            "agencia estatal de meteorología (aemet)",
+            "tiempo",
+            "previsión del tiempo",
+            "españa",
+            "cataluña"
+        ],
+        "link": "https://okdiario.com/cataluna/aemet-preve-en-barcelona-un-dia-de-nubes-heladas-debiles-y-viento-moderado-del-noroeste-16243840",
+        "date": "2026-02-14 06:19:34",
+        "sentiment_score": 0.023943841457366943
+    },
+    {
+        "title": "Borrasca Oriana, en directo: aviso por fuertes lluvias y viento en Catalunya, alerta roja en la Comunitat Valenciana y última hora de la AEMET en el resto de España",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/95420748-c12e-4439-895b-03e1cbdbed49_alta-libre-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "lluvias",
+            "nieve",
+            "tiempo"
+        ],
+        "link": "https://www.elperiodico.com/es/tiempo/20260214/borrasca-oriana-lluvia-viento-cataluna-espana-aemet-ultima-hora-directo-126809639",
+        "date": "2026-02-14 06:09:00",
+        "sentiment_score": -0.9265166716650128
+    },
+    {
+        "title": "Ceferin, Al Khelaifi y Florentino: la cumbre que cambió la guerra del fútbol",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/28/2025052808072963892.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/ceferin-khelaifi-florentino-cumbre-que-cambio-guerra-futbol/20260214070511374712.html",
+        "date": "2026-02-14 06:05:11",
+        "sentiment_score": -0.3463604561984539
+    },
+    {
+        "title": "Así comienza ‘La ciudad de las luces muertas’, la novela de David Uclés",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/855b2441-f666-4881-aafa-e6dc95b07872_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "luces",
+            "muertas",
+            "novela",
+            "comienza",
+            "ciudad"
+        ],
+        "link": "https://www.deia.eus/tendencias/2026/02/14/comienza-ciudad-luces-muertas-novela-10699567.html",
+        "date": "2026-02-14 06:01:11",
+        "sentiment_score": -0.8418736085295677
     }
 ];
