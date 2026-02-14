@@ -1,483 +1,5 @@
 export default [
     {
-        "title": "Detenido un concejal del PP de Tudela de Duero por amenazar a su pareja con una pistola",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/40/media_thumb-link-4145238.webp?1770662646=",
-        "tags": [
-            "violencia",
-            "pp",
-            "valladolid",
-            "actualidad",
-            "tudela"
-        ],
-        "link": "https://www.meneame.net/story/detenido-concejal-pp-tudela-duero-amenazar-pareja-pistola",
-        "date": "2026-02-09 22:30:03",
-        "sentiment_score": -0.7507816608995199
-    },
-    {
-        "title": "El Villarreal aprovecha (4-1) el mal momento del Espanyol y vuelve a la senda de la victoria en Liga",
-        "image_url": "https://www.infobae.com/resizer/v2/4NGKHXCUGJFHDOE75SXZKPF7ZM.jpg?auth=4de397b71ba4022efb2f76248dc10bc972c84f223f56d8c52ac1c54059391e15&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/09/el-villarreal-aprovecha-4-1-el-mal-momento-del-espanyol-y-vuelve-a-la-senda-de-la-victoria-en-liga/",
-        "date": "2026-02-09 22:30:33",
-        "sentiment_score": 0.3693610802292824
-    },
-    {
-        "title": "Omar Pérez recibió alta médica tras infarto que lo tuvo al borde de la muerte: “Agradecerles de corazón”",
-        "image_url": "https://www.infobae.com/resizer/v2/WUDW4N6V3JEATHTK5DG7TZ33QU.jpg?auth=c3779bc57a71ad5d6580e4374d07fefe5ae3890da77b090a49d7f5524d948494&height=405&smart=true&width=720",
-        "tags": [
-            "argentino",
-            "boca juniors",
-            "colombia-deportes",
-            "recuperación",
-            "comunicado",
-            "infarto",
-            "omar pérez",
-            "santa fe"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/09/omar-perez-recibio-alta-medica-tras-infarto-que-lo-tuvo-al-borde-de-la-muerte-agradecerles-de-corazon/",
-        "date": "2026-02-09 22:11:18",
-        "sentiment_score": 0.4197854585945606
-    },
-    {
-        "title": "La Fórmula 1 dispara los precios del alquiler temporal en Valdebebas y alrededores: \"Están ofreciendo 10.000 euros al mes por arrendar un piso en la zona\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/4ad79444640b09782a1f827dcc7a7d83/f/image/jpeg/assets/multimedia/imagenes/2022/03/28/16484797084044.jpg",
-        "tags": [
-            "artículos ana del barrio",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/madrid/2026/02/09/698a2f20fc6c837a1a8b45a9.html",
-        "date": "2026-02-09 21:50:59",
-        "sentiment_score": 0.16380538046360016
-    },
-    {
-        "title": "El misterio de Fede Vico en el Pontevedra CF: el jugador que llegó el sábado y deja el club el lunes",
-        "image_url": "https://cflvdg.avoz.es/sc/lPPwpF5uc8ad5J1T5ZW5BUjudwc=/768x/2026/02/06/00121770415322182424298/Foto/L21E8037.jpg",
-        "tags": [
-            "pontevedra cf",
-            "pontevedra ciudad"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/pontevedra/pontevedra/2026/02/09/misterio-fede-vico-pontevedra-cf-jugador-llego-viernes-deja-club-lunes/00031770671777514799538.htm",
-        "date": "2026-02-09 21:43:00",
-        "sentiment_score": -0.6347185131162405
-    },
-    {
-        "title": "¿Cuándo son las semifinales de la Copa del Rey? Fechas y horarios de Venezuela",
-        "image_url": "https://pxcdn.meridiano.net/022026/1770671790575.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/cuando-son-las-semifinales-de-la-copa-del-rey-fechas-y-horarios-de-venezuela-20262917190",
-        "date": "2026-02-09 21:19:00",
-        "sentiment_score": 0.5453526824712753
-    },
-    {
-        "title": "La carrera presidencial del Barça, decantada hacia Joan Laporta",
-        "image_url": "https://cflvdg.avoz.es/sc/KZh_-0NTVDnxjA1qGPrmKR7qoa8=/768x/2026/02/09/00121770670561974497425/Foto/efe_20260209_145458523.jpg",
-        "tags": [
-            "joan laporta",
-            "deportes",
-            "fc barcelona"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/02/09/carrera-presidencial-barca-decantada-joan-laporta/00031770670488858746449.htm",
-        "date": "2026-02-09 20:57:00",
-        "sentiment_score": 0.6882099881768227
-    },
-    {
-        "title": "El día que Bad Bunny actuó en Alicante por 20 €: el triunfador en la Super Bowl menciona la ciudad en dos temas",
-        "image_url": "https://s3.elespanol.com/2022/12/07/alicante/cultura/musica/724187976_229300666_1706x960.jpg",
-        "tags": [
-            "super bowl",
-            "discotecas",
-            "alicante (provincia)",
-            "comunitat valenciana",
-            "alicante (ciudad)",
-            "música",
-            "bad bunny",
-            "conciertos música"
-        ],
-        "link": "https://www.elespanol.com/alicante/cultura/musica/20260209/dia-bad-bunny-actuo-alicante-eur-triunfador-super-bowl-menciona-ciudad-temas/1003744123324_0.html",
-        "date": "2026-02-09 20:52:31",
-        "sentiment_score": 0.1570502370595932
-    },
-    {
-        "title": "Semifinales de la Copa del Rey: Calendario de juegos, fechas y horarios de Venezuela",
-        "image_url": "https://pxcdn.2001online.com/2001/022026/1770669113350.jpg?ch=675&cw=1200",
-        "tags": [
-            "meridianotv",
-            "copa del rey"
-        ],
-        "link": "https://2001online.com/deportes/semifinales-de-la-copa-del-rey-calendario-de-juegos-fechas-y-horarios-de-venezuela-20262916280",
-        "date": "2026-02-09 20:28:00",
-        "sentiment_score": 0.5453526824712753
-    },
-    {
-        "title": "Juan Gato, y lo que diferencia la queja de Griezmann de la de Koke sobre el estado del césped del Metropolitano: \"¿Excusa o denuncia?\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/juan-gato-diferencia-queja-griezmann-koke-sobre-cesped-metropolitano-excusa-denuncia-20260209_3304350.html",
-        "date": "2026-02-09 20:03:11",
-        "sentiment_score": -0.21523438394069672
-    },
-    {
-        "title": "Los expertos se marcan el objetivo de cero fluido para evitar la ceguera irreversible en patologías de la retina",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/02/09/2026020920233444587.jpg",
-        "tags": [
-            "cuidarse"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/cuidate/expertos-marcan-objetivo-cero-fluido-evitar-ceguera-irreversible-patologias-retina/202602092024071002833.html",
-        "date": "2026-02-09 19:24:07",
-        "sentiment_score": -0.7367455922067165
-    },
-    {
-        "title": "“Obsesión”: la revelación de un ex compañero de Messi en el Barcelona sobre su nivel de exigencia",
-        "image_url": "https://www.infobae.com/resizer/v2/KYXMAWZWKFCCTNVRPN2ZX6ZFYA.jpg?auth=7069ed82c5ad5e6221b044416dfaf4c6bbc7bfd0222015c660b0ca9ce8695593&height=1079&smart=true&width=1920",
-        "tags": [
-            "samuel umtiti",
-            "paris saint-germain",
-            "lionel messi",
-            "barcelona",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/09/obsesion-la-revelacion-de-un-ex-companero-de-messi-en-el-barcelona-sobre-su-nivel-de-exigencia/",
-        "date": "2026-02-09 22:42:39",
-        "sentiment_score": 0.6910196915268898
-    },
-    {
-        "title": "Al menos 12 anzoatiguenses aún están detenidos por razones políticas (+Fotos)",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "venezuela al día",
-            "locales",
-            "política"
-        ],
-        "link": "https://eltiempove.com/al-menos-12-anzoatiguenses-aun-estan-detenidos-por-razones-politicas-fotos/",
-        "date": "2026-02-09 22:41:57",
-        "sentiment_score": -0.3229774311184883
-    },
-    {
-        "title": "¿Cómo gobernar la Gran Barcelona? La apuesta “público-social-privada” para gestionar el agua, la vivienda o la movilidad",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/09/actualidad/1003742731028_15698074_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "vivir en barcelona",
-            "movilidad",
-            "vivienda",
-            "barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260209/gobernar-gran-barcelona-apuesta-publico-social-privada-gestionar-agua-vivienda-movilidad/1003742729495_0.html",
-        "date": "2026-02-09 22:30:00",
-        "sentiment_score": 0.3388612922281027
-    },
-    {
-        "title": "Trabajo sanciona con más de 130.000 euros a un popular restaurante de sushi de Viladecans por contratar a extranjeros sin papeles",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/04/gran-barcelona/1003742729453_15677427_1706x960.jpg",
-        "tags": [
-            "baix llobregat",
-            "viladecans",
-            "restaurantes barcelona",
-            "gran barcelona",
-            "bares y restaurantes"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260209/trabajo-sanciona-euros-popular-restaurante-sushi-viladecans-contratar-extranjeros-sin-papeles/1003742691503_0.html",
-        "date": "2026-02-09 22:30:00",
-        "sentiment_score": -0.7496379278600216
-    },
-    {
-        "title": "“Quien más contamina, más paga”: cuenta atrás para la nueva ‘tasa inteligente de residuos’ en Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2022/02/19/el-pulso-de-la-ciudad/651444856_9736808_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "vivir en barcelona",
-            "cambio climático",
-            "barcelona",
-            "zona de bajas emisiones de barcelona (zbe)",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260209/contamina-paga-cuenta-nueva-tasa-inteligente-residuos-barcelona/1003742730895_0.html",
-        "date": "2026-02-09 22:30:00",
-        "sentiment_score": 0.4234872907400131
-    },
-    {
-        "title": "Mañueco anuncia un nuevo Comité Técnico para controlar y prevenir la peste porcina",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/Manueco-reunion-Opas-2.jpg",
-        "tags": [
-            "castilla y león",
-            "caza",
-            "cerdos",
-            "fondos europeos",
-            "ganadería",
-            "mañueco",
-            "agricultura",
-            "peste porcina",
-            "junta de castilla y león",
-            "animales",
-            "medio ambiente"
-        ],
-        "link": "https://theobjective.com/espana/castilla-y-leon/2026-02-09/manueco-comite-tecnico-control-prevencion-peste-porcina/",
-        "date": "2026-02-09 22:24:21",
-        "sentiment_score": 0.1977551206946373
-    },
-    {
-        "title": "Dos menores detenidos y uno investigado por dar una paliza a una pareja en Barcelona",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/Catalun%CC%83a-Mossos.jpg",
-        "tags": [
-            "barcelona",
-            "pelea",
-            "sucesos",
-            "menores de edad",
-            "víctimas",
-            "paliza",
-            "investigación",
-            "mossos d'esquadra"
-        ],
-        "link": "https://theobjective.com/sociedad/suceso/2026-02-09/menores-detenidos-investigado-por-pareja-argentona-barcelona/",
-        "date": "2026-02-09 22:18:08",
-        "sentiment_score": -0.716171259060502
-    },
-    {
-        "title": "Puente enmienda su gestión de mantenimiento de las vías y riega de millones el sector ferroviario para frenar la huelga",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/834f7d0e435f875dad7f1bccd91d8ffd/f/webp/assets/multimedia/imagenes/2026/02/09/17706653383595.jpg",
-        "tags": [
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/02/09/698a365a21efa0cb1f8b4594.html",
-        "date": "2026-02-09 21:53:23",
-        "sentiment_score": 0.07383805513381958
-    },
-    {
-        "title": "El Espanyol vive un infierno de 20 minutos en Villarreal",
-        "image_url": "https://static1.ara.cat/clip/61147bb1-812b-4ae1-bffd-050da2faa12b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "minutos",
-            "20",
-            "villarreal",
-            "infierno",
-            "vive",
-            "espanyol"
-        ],
-        "link": "https://es.ara.cat/deportes/rcd-espanyol/espanyol-vive-infierno-20-minutos-villarreal_1_5643632.html",
-        "date": "2026-02-09 21:52:48",
-        "sentiment_score": -0.5118922293186188
-    },
-    {
-        "title": "Kiran Desai: \"La fundación de Bill Gates me envió a escribir sobre el comercio sexual de niñas en la India. Es todo espeluznante\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6d11ecde-75fa-4db3-89ed-d0809df9bebd_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "historia",
-            "estados unidos",
-            "entrevista",
-            "bill gates",
-            "india",
-            "comercio"
-        ],
-        "link": "https://www.laopiniondemalaga.es/cultura-espectaculos/2026/02/09/kiran-desai-fundacion-bill-gates-126643547.html",
-        "date": "2026-02-09 21:47:12",
-        "sentiment_score": -0.5454262495040894
-    },
-    {
-        "title": "El dilema de Arrasate en defensa de cara al Betis",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3667829.jpg",
-        "tags": [
-            "antonio raíllo",
-            "ultimas noticias",
-            "rcd mallorca",
-            "última hora",
-            "real mallorca",
-            "laliga",
-            "fútbol",
-            "primera división"
-        ],
-        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/02/10/2566737/dilema-arrasate-defensa-cara-betis.html",
-        "date": "2026-02-10 02:48:01",
-        "sentiment_score": 0.06845563650131226
-    },
-    {
-        "title": "Horario y dónde ver el Real Mallorca-Real Betis",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3668209.jpg",
-        "tags": [
-            "real betis",
-            "ultimas noticias",
-            "son moix",
-            "rcd mallorca",
-            "liga ea sports",
-            "horario y donde ver",
-            "última hora",
-            "real mallorca",
-            "laliga",
-            "fútbol",
-            "primera división"
-        ],
-        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/02/10/2566913/horario-donde-ver-real-mallorca-real-betis.html",
-        "date": "2026-02-10 02:48:01",
-        "sentiment_score": 0.001991450786590576
-    },
-    {
-        "title": "Deportes | La permanencia del Elche CF pasa por el Martínez Valero",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1693824.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/la-permanencia-del-elche-cf-pasa-por-el-martinez-valero",
-        "date": "2026-02-10 02:30:03",
-        "sentiment_score": 0.032553788274526596
-    },
-    {
-        "title": "Martín Palermo reveló cuándo empezó su distanciamiento con Riquelme en Boca: “Cambió la relación”",
-        "image_url": "https://www.infobae.com/resizer/v2/DAQNI7RN7VFJNMBNPW6CZPEFEI.jpg?auth=79a9d3ad377dad7aed8323ab85eb9412950be6515ad5cd73bbf4fe1fe6c1ff8e&height=298&smart=true&width=530",
-        "tags": [
-            "boca juniors",
-            "deportes-argentina",
-            "martín palermo",
-            "juan román riquelme"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/10/martin-palermo-revelo-cuando-empezo-su-distanciamiento-con-riquelme-en-boca-cambio-la-relacion/",
-        "date": "2026-02-10 02:17:27",
-        "sentiment_score": -0.1850677877664566
-    },
-    {
-        "title": "Pueyo, el émulo de Labordeta que se jacta de contradecir al PSOE desde la Chunta: \"Aragón nos ha premiado por ello\"",
-        "image_url": "https://s3.elespanol.com/2026/02/09/actualidad/1003744123085_261335898_1706x960.jpg",
-        "tags": [
-            "pilar alegría",
-            "vox",
-            "psoe (partido socialista obrero español)",
-            "reportajes",
-            "jorge azcón",
-            "aragón",
-            "elecciones autonómicas"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260210/pueyo-emulo-labordeta-jacta-contradecir-psoe-chunta-aragon-premiado/1003744122662_0.html",
-        "date": "2026-02-10 01:51:45",
-        "sentiment_score": -0.1354394406080246
-    },
-    {
-        "title": "Brookfield ultima comprar Fidere a Blackstone por unos 1.200 millones",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/ec4b1004ee996fc61639163ca7ef6f57/crop/0x1/1495x998/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/09/17706663420455.jpg",
-        "tags": [
-            "artículos rebeca arroyo>",
-            "empresas>",
-            "mercado inmobiliario>",
-            "inmobiliario y construcción>"
-        ],
-        "link": "https://www.expansion.com/inmobiliario/mercado/2026/02/10/698a39e2468aebdc0a8b45a4.html",
-        "date": "2026-02-10 01:21:47",
-        "sentiment_score": 0.4759110305458307
-    },
-    {
-        "title": "¿Qué van a hacer Feijóo y Abascal?",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/15/666cc4387ad74.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20260210/hacer-feijoo-abascal_383518.html",
-        "date": "2026-02-10 00:30:00",
-        "sentiment_score": -0.1450544074177742
-    },
-    {
-        "title": "Zorrilla y su amante Leila",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2026/02/09/698a15fe15808.jpeg",
-        "tags": [
-            "en primera línea"
-        ],
-        "link": "https://www.eldebate.com/opinion/en-primera-linea/20260210/zorrilla-amante-leila_383527.html",
-        "date": "2026-02-10 00:30:00",
-        "sentiment_score": -0.31289197504520416
-    },
-    {
-        "title": "Nuestra bandera franquista",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20260210/nuestra-bandera-franquista_383574.html",
-        "date": "2026-02-10 00:30:00",
-        "sentiment_score": -0.07603473961353302
-    },
-    {
-        "title": "La historia viral del equipaje de Carlos, perdido por media España: \"Iberia, mi maleta va hacia Alicante\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/bb7a140548345d6bddad71569884cb8a/f/image/jpeg/assets/multimedia/imagenes/2022/05/03/16515702585114.jpg",
-        "tags": [
-            "artículos ana maría ortiz"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/02/10/698a2790e85ecec37e8b45ab.html",
-        "date": "2026-02-10 00:28:38",
-        "sentiment_score": -0.7403406966477633
-    },
-    {
-        "title": "Gil Pratsobrerroca: «Nadie sabe en realidad qué cara tienen los escritores»",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3668019.jpg",
-        "tags": [
-            "febrer negre",
-            "cultura en mallorca",
-            "embat llibres",
-            "cultura"
-        ],
-        "link": "https://www.ultimahora.es/noticias/cultura/2026/02/10/2566825/gil-pratsobrerroca-nadie-sabe-realidad-cara-tienen-escritores.html",
-        "date": "2026-02-10 02:48:01",
-        "sentiment_score": 0.01466485857963562
-    },
-    {
-        "title": "Clima en España: la predicción del tiempo para Barcelona este 10 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima",
-            "clima en españa",
-            "clima en barcelona",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/10/clima-en-espana-la-prediccion-del-tiempo-para-barcelona-este-10-de-febrero/",
-        "date": "2026-02-10 02:01:17",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "El virus que no deja rastro: ¿cómo llegó la peste porcina africana a Barcelona?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/10/2026021002572053327.jpg",
-        "tags": [
-            "ciencia y tecnología"
-        ],
-        "link": "https://www.mundiario.com/articulo/tecnologia-ciencia/virus-que-deja-rastro-como-llego-peste-porcina-africana-barcelona/20260210030017374099.html",
-        "date": "2026-02-10 02:00:17",
-        "sentiment_score": -0.9002226535230875
-    },
-    {
-        "title": "Huelga ferroviaria en España de los tres principales sindicatos del país paraliza la movilidad",
-        "image_url": "https://s.france24.com/media/display/fd1b7b0c-0620-11f1-9c72-005056a97e36/w:1024/p:16x9/ES-20260209-150753-150941-CS.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.france24.com/es/video/20260210-huelga-ferroviaria-en-espa%C3%B1a-de-los-tres-principales-sindicatos-del-pa%C3%ADs-paraliza-la-movilidad",
-        "date": "2026-02-10 01:59:26",
-        "sentiment_score": -0.13618189096450806
-    },
-    {
-        "title": "Dimas Gimeno, en busca de la rentabilidad de Wow: estudia fusionar filiales para acabar con las pérdidas",
-        "image_url": "https://s3.elespanol.com/2025/10/09/actualidad/1003743962237_259269695_1706x960.jpg",
-        "tags": [
-            "wow concept",
-            "sector textil",
-            "distribución"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20260210/dimas-gimeno-busca-rentabilidad-wow-estudia-fusionar-filiales-acabar-perdidas/1003744122179_0.html",
-        "date": "2026-02-10 01:44:16",
-        "sentiment_score": 0.55987448990345
-    },
-    {
-        "title": "\"Llevo a Paco de Lucía en el corazón, en el pensamiento y en el alma\"",
-        "image_url": "https://static.grupojoly.com/clip/f0a3f948-f340-4fdc-b879-38a3326f8566_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias campo de gibraltar"
-        ],
-        "link": "https://www.europasur.es/algeciras/entrevista-noelia-sabarea-bailaora-paco-lucia-corazon-pensamiento_0_2005690374.html",
-        "date": "2026-02-10 01:40:05",
-        "sentiment_score": 0.22171340137720108
-    },
-    {
         "title": "La CEME reitera que no existen “garantías ni seguridad jurídica” en la aduana comercial “esté o no abierta”",
         "image_url": "https://melillahoy.es/wp-content/uploads/2026/02/aduana-camion-melilla.jpg",
         "tags": [
@@ -550,62 +72,6 @@ export default [
         "link": "https://www.estrategiasdeinversion.com/actualidad/finanzas-personales/la-vivienda-como-inversion-en-2025-resulto-menos-n-887931",
         "date": "2026-02-10 05:40:00",
         "sentiment_score": 0.16213922202587128
-    },
-    {
-        "title": "El caso Epstein deja a Starmer al borde del abismo: por qué piden que dimita como primer ministro",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/02/09/787F49B1-5EDA-4A0E-B25C-8280AFF94D23/primer-ministro-britanico-keir-starmer_96.jpg?crop=1920%2C1080%2Cx0%2Cy41&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "ondacero",
-            "noticias",
-            "mundo"
-        ],
-        "link": "https://www.ondacero.es/noticias/mundo/caso-epstein-deja-starmer-borde-abismo-que-piden-que-dimita-como-primer-ministro_20260210698ac2662f00a0468802ff3e.html",
-        "date": "2026-02-10 05:30:14",
-        "sentiment_score": -0.7615092750638723
-    },
-    {
-        "title": "El PP resta importancia a la pérdida de escaños en Aragón y se centra en desgastar a Sánchez",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/02/09/48378085-1CD1-4E6D-99B4-212FB4C1AAEF/resta-importancia-perdida-escanos-aragon-centra-desgastar-sanchez_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "españa",
-            "ondacero",
-            "noticias"
-        ],
-        "link": "https://www.ondacero.es/noticias/espana/resta-importancia-perdida-escanos-aragon-centra-desgastar-sanchez_20260210698ac00d9243cc133c3ec38f.html",
-        "date": "2026-02-10 05:20:13",
-        "sentiment_score": -0.7665563486516476
-    },
-    {
-        "title": "El árbitro detenido por agredir a una prostituta en Gijón negó haber estado en el piso, pero fue grabado por una cámara",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/02/09/arbitro-tarjeta-roja-k8xG-RDpDK5coaunj4quSlS8mWxL-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "oviedo",
-            "segunda división",
-            "gijón",
-            "delitos sexuales",
-            "el llano"
-        ],
-        "link": "https://www.elcomercio.es/gijon/arbitro-asturiano-agresion-prostituta-gijon-grabado-camara-20260209211609-nt.html",
-        "date": "2026-02-10 05:11:37",
-        "sentiment_score": -0.2521558105945587
-    },
-    {
-        "title": "Así es la galería oculta que hay bajo el túnel de la M-30: “Es de película”",
-        "image_url": "https://www.infobae.com/resizer/v2/OU44RWHK5BEFXI7DS2IDZK7AEY.jpg?auth=76eb10f63f247ec690c8c037de8543ed89d7b2479af6f5a691f96d9a3f45c935&height=1080&smart=true&width=1920",
-        "tags": [
-            "comunidad de madrid",
-            "m-30",
-            "madrid",
-            "tráfico españa",
-            "tráfico",
-            "dgt",
-            "coches",
-            "españa-noticias",
-            "españa-sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/viajes/2026/02/10/asi-es-la-galeria-oculta-que-hay-bajo-el-tunel-de-la-m-30-es-de-pelicula/",
-        "date": "2026-02-10 05:11:03",
-        "sentiment_score": -0.048063963651657104
     },
     {
         "title": "La vida en los pueblos más envejecidos de León: «Solo hay dos calles asfaltadas»",
@@ -3129,5 +2595,219 @@ export default [
         "link": "https://www.noticiasdealava.eus/alaves/2026/02/13/once-carrerilla-alaves-laliga-deportivo-alaves-coudet-10694221.html",
         "date": "2026-02-13 06:01:00",
         "sentiment_score": -0.2782575860619545
+    },
+    {
+        "title": "La familia Vañó, los ‘reyes’ del oro líquido, se va de boda: los detalles del ‘sí, quiero’ que reunirá al mundo de la aristocracia y la empresa en su imponente castillo",
+        "image_url": "https://www.hola.com/horizon/landscape/30e796280ad7-image00001.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "actualidad",
+            "contenido sensible",
+            "bodas"
+        ],
+        "link": "https://www.hola.com/actualidad/20260213883671/familia-vano-reyes-oro-liquido-boda-detalles-aristocracia-empresa-castillo/",
+        "date": "2026-02-13 17:35:31",
+        "sentiment_score": 0.07687459141016006
+    },
+    {
+        "title": "El resurgir de Griezmann, el ‘viejo rockero’ de Simeone que lideró la goleada al Barça",
+        "image_url": "https://okdiario.com/img/2026/02/13/gettyimages-2261306044-1.jpg",
+        "tags": [
+            "atlético de madrid",
+            "antoine griezmann",
+            "deportes",
+            "diego pablo 'cholo' simeone",
+            "copa del rey"
+        ],
+        "link": "https://okdiario.com/deportes/resurgir-griezmann-viejo-rockero-simeone-que-lidero-goleada-barca-16239500",
+        "date": "2026-02-13 17:30:01",
+        "sentiment_score": 0.567269891500473
+    },
+    {
+        "title": "Cultural Leonesa-Real Zaragoza: una auténtica final por aferrarse a la salvación",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/01/04/2026010422230852789.jpg",
+        "tags": [
+            "real zaragoza"
+        ],
+        "link": "https://www.aragondigital.es/articulo/real-zaragoza/cultural-leonesa-real-zaragoza-autentica-final-aferrarse-salvacion/20260213183000967015.html",
+        "date": "2026-02-13 17:30:00",
+        "sentiment_score": 0.5329060256481171
+    },
+    {
+        "title": "Juanma Castaño, sobre los jugadores del Barça: \"Es lamentable que no hagan declaraciones cuando más tienen que explicar, pero esto pasa en el Real Madrid y hasta los clubes más pequeños\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/files/fp/uploads/2026/02/13/698e5e8ea9d1f.r_d.973-322-4427.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/juanma-castano-sobre-jugadores-barca-lamentable-hagan-declaraciones-explicar-esto-pasa-real-madrid-clubes-pequenos-20260213_3307115.html",
+        "date": "2026-02-13 17:23:33",
+        "sentiment_score": -0.15650129318237305
+    },
+    {
+        "title": "El embajador de Trump llega a Madrid tras año y medio con la Embajada vacante",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KM5W7ZOUB5MKRPLVXARDHNEJME.jpg?auth=0a071231457a0d0abd2cb4746f9eef98518126788acd1bad5b4edf2cdb9a63eb&width=1200",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2026-02-13/el-embajador-de-trump-llega-a-madrid-tras-ano-y-medio-con-la-embajada-vacante.html",
+        "date": "2026-02-13 17:21:01",
+        "sentiment_score": 0.302792489528656
+    },
+    {
+        "title": "Ibon Navarro y Sergio Scariolo, la historia del Unicaja frente a frente",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/036b01f8-4b12-4558-937f-54f56b49e13a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unicaja",
+            "real madrid",
+            "ibon navarro",
+            "sergio scariolo",
+            "copa del rey",
+            "scariolo"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2026/02/13/ibon-navarro-sergio-scariolo-historia-unicaja-126814217.html",
+        "date": "2026-02-13 17:16:39",
+        "sentiment_score": 0.49584612250328064
+    },
+    {
+        "title": "El arte de pausar: rutas de bienestar y desconexión para un San Valentín inolvidable",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260213181535_120.jpg",
+        "tags": [
+            "hoteles",
+            "turismo"
+        ],
+        "link": "https://www.europapress.es/turismo/hoteles/noticia-arte-pausar-rutas-bienestar-desconexion-san-valentin-inolvidable-20260213181535.html",
+        "date": "2026-02-13 17:15:35",
+        "sentiment_score": 0.4128432720899582
+    },
+    {
+        "title": "Reale Foundation continúa con su colaboración con la Fundación Atapuerca",
+        "image_url": "https://s3.ppllstatics.com/burgosconecta/www/multimedia/2026/02/13/reale-kqrC-U20700005923M8H-1200x840@Burgosconecta.jpg",
+        "tags": [
+            "atapuerca"
+        ],
+        "link": "https://www.leonoticias.com/culturas/reale-foundation-continua-colaboracion-fundacion-atapuerca-20260213181507-nt.html",
+        "date": "2026-02-13 17:15:11",
+        "sentiment_score": 0.5002292562276125
+    },
+    {
+        "title": "Exdirectivo del Fenerbahçe confesó conflicto que tuvo Jhon Jáder Durán en su paso por Turquía: “Tiene serios problemas mentales”",
+        "image_url": "https://www.infobae.com/resizer/v2/OY4XANLLSZE55CBVL3CDQFVWIQ.JPG?auth=bcbdc8f59bb708598f6c8adb3df5a9cd0b1ef1b9d8d447cf7b9f4e2ed24aff9c&height=542&smart=true&width=800",
+        "tags": [
+            "fenerbahçe",
+            "jhon jáder durán",
+            "zenit fc",
+            "serhat pekmezci",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/america/mundo/2026/02/13/exdirectivo-del-fenerbahce-confeso-conflicto-que-tuvo-jhon-jader-duran-en-su-paso-por-turquia-tiene-serios-problemas-mentales/",
+        "date": "2026-02-13 17:09:49",
+        "sentiment_score": 0.3850105255842209
+    },
+    {
+        "title": "Rubiales afirma que Tebas \"quería matarle\" y que ofreció un puesto para obtener información contra él",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260213180700_260.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.europapress.es/madrid/noticia-rubiales-afirma-tebas-queria-matarle-ofrecio-puesto-obtener-informacion-contra-20260213180700.html",
+        "date": "2026-02-13 17:07:00",
+        "sentiment_score": -0.4620734602212906
+    },
+    {
+        "title": "Detectados casos de Peste Porcina Africana (PPA) en Cataluña fuera de la 'zona cero'",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/8b1465ea4e75e5b67b7fd306830b909c/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/13/17710039942520.jpg",
+        "tags": [
+            "distribución>",
+            "sociedad>",
+            "economía>",
+            "cataluña>",
+            "artículos david casals>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2026/02/13/698f5fd1e5fdea79608b458e.html",
+        "date": "2026-02-13 17:37:09",
+        "sentiment_score": -0.5821993201971054
+    },
+    {
+        "title": "De los campamentos de refugiados en Argelia al Hospital Vega Baja: un médico saharaui publica en \"The Lancet\" una realidad olvidada",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/706337f7-7da2-401b-9678-265f4023c70a_16-9-aspect-ratio_default_0_x540y381.jpg",
+        "tags": [
+            "refugiados",
+            "violencia",
+            "sanidad",
+            "salud",
+            "vega baja",
+            "sáhara occidental",
+            "ética",
+            "médicos"
+        ],
+        "link": "https://www.informacion.es/vega-baja/2026/02/13/campamentos-refugiados-argelia-hospital-vega-126712747.html",
+        "date": "2026-02-13 17:28:24",
+        "sentiment_score": 0.6380580216646194
+    },
+    {
+        "title": "Una policía, atrapada entre el autobús y las bengalas en el Metropolitano: su caballo también sufre quemaduras",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/02/13/7F1F0FE4-F641-49AA-AB74-D75ECCBE3D93/policia-atrapada-autobus-bengalas-metropolitano-caballo-tambien-sufre-quemaduras_70.jpg?crop=853%2C480%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "deportes",
+            "antena 3 noticias",
+            "fútbol"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/policia-atrapada-autobus-bengalas-metropolitano-caballo-tambien-sufre-quemaduras_20260213698f5f219243cc133c471641.html",
+        "date": "2026-02-13 17:28:01",
+        "sentiment_score": -0.7510902490466833
+    },
+    {
+        "title": "La borrasca 'Oriana' bloquea el corredor aéreo entre Asturias y Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/15/sucesos/1003742723429_15602052_1706x960.jpg",
+        "tags": [
+            "el prat de llobregat",
+            "aeropuerto barcelona",
+            "vivir en barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260213/borrasca-oriana-bloquea-corredor-aereo-asturias-barcelona/1003742732514_0.html",
+        "date": "2026-02-13 17:25:26",
+        "sentiment_score": -0.7982525713741779
+    },
+    {
+        "title": "10.000 euros de multa a una inmobiliaria catalana por negarle un piso a un hombre por su origen marroquí",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/13/C27808BD-44C5-453E-93D0-7D0A1A2632B9/10000-euros-multa-inmobiliaria-catalana-negarle-piso-hombre-origen-marroqui_69.jpg?crop=1900%2C1069%2Cx0%2Cy0&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/10000-euros-multa-inmobiliaria-catalana-negarle-piso-hombre-origen-marroqui-b50m_20260213698f5de72f00a046880b678e.html",
+        "date": "2026-02-13 17:22:49",
+        "sentiment_score": -0.8879270516335964
+    },
+    {
+        "title": "Colau pide \"revisar las narrativas\" dentro de la izquierda para \"ganar poder\"",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/202602/13/media/cortadas/colau-pide-revisar-narrativas-dentro-izquierda-ganar-20260213171505-vi--224x126.jpg",
+        "tags": [
+            "pide",
+            "dentro",
+            "revisar",
+            "poder",
+            "para",
+            "narrativas",
+            "izquierda",
+            "ganar",
+            "colau"
+        ],
+        "link": "https://www.elcomercio.es/sociedad/sucesos/colau-pide-revisar-narrativas-dentro-izquierda-ganar-20260213171505-vi.html",
+        "date": "2026-02-13 17:20:48",
+        "sentiment_score": -0.03525223582983017
+    },
+    {
+        "title": "Mercedes refuerza su candidatura; dudas para Aston Martin y Ferrari",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d4a96f9e-a256-4a7d-b19a-7f99da5cd282_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "aston martin",
+            "fórmula 1",
+            "fernando alonso",
+            "mclaren",
+            "lewis hamilton"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2026/02/13/mercedes-refuerza-candidatura-dudas-aston-martin-ferrari-126815934.html",
+        "date": "2026-02-13 17:20:46",
+        "sentiment_score": -0.19799627363681793
     }
 ];
