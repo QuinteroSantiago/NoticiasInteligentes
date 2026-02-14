@@ -1,209 +1,5 @@
 export default [
     {
-        "title": "La CEME reitera que no existen “garantías ni seguridad jurídica” en la aduana comercial “esté o no abierta”",
-        "image_url": "https://melillahoy.es/wp-content/uploads/2026/02/aduana-camion-melilla.jpg",
-        "tags": [
-            "josé manuel albares",
-            "ceme-ceoe",
-            "frontera",
-            "relaciones españa - marruecos",
-            "aduana comercial",
-            "relaciones internacionales",
-            "- ceme (confederación de empresarios de melilla)",
-            "aduana",
-            "enrique alcoba"
-        ],
-        "link": "https://melillahoy.es/la-ceme-reitera-que-no-existen-garantias-ni-seguridad-juridica-en-la-aduana-comercial-este-o-no-abierta/",
-        "date": "2026-02-10 07:11:57",
-        "sentiment_score": -0.48747581243515015
-    },
-    {
-        "title": "¿Cuántos juzgados se necesitan en la provincia? Gobierno, Junta y TSJA no se ponen de acuerdo",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/02/09/698a4ce0ee563.jpeg",
-        "tags": [
-            "almería"
-        ],
-        "link": "https://www.lavozdealmeria.com/almeria/457755/cuantos-juzgados-necesitan-provincia-gobierno-junta-tsja-ponen-acuerdo.html",
-        "date": "2026-02-10 06:33:15",
-        "sentiment_score": -0.7626514527946711
-    },
-    {
-        "title": "Lo de Rufián y Delgado: qué es, hacia dónde va y con quién cuentan",
-        "image_url": "https://www.elplural.com/uploads/s1/24/50/68/9/delgado-1_7_480x270.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elplural.com/politica/espana/rufian-delgado-es-hacia-donde-va-quien-cuentan_381020102",
-        "date": "2026-02-10 06:08:35",
-        "sentiment_score": -0.05868406593799591
-    },
-    {
-        "title": "Veinticuatro horas en Madrid",
-        "image_url": "https://s3.elespanol.com/2026/02/09/actualidad/1003744123150_261336660_1706x960.jpg",
-        "tags": [
-            "estados unidos",
-            "donald trump",
-            "opinión",
-            "el ágora"
-        ],
-        "link": "https://www.elespanol.com/malaga/opinion/20260210/veinticuatro-horas-madrid/1003744123146_13.html",
-        "date": "2026-02-10 05:50:00",
-        "sentiment_score": -0.10355319455265999
-    },
-    {
-        "title": "El Real Oviedo espera la decisión de la Federación Española de Fútbol mientras se arma para dar batalla",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/02/10/alfredo-canteli-javier-tebas-kXdD--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "liga de fútbol profesional",
-            "federacion española de futbol",
-            "pachuca",
-            "real oviedo"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-federacion-espanola-futbol-rayo-vallecano-20260210064732-nt.html",
-        "date": "2026-02-10 05:47:54",
-        "sentiment_score": 0.04388647899031639
-    },
-    {
-        "title": "La vivienda como inversión en 2025 resultó menos rentable, en torno al 6,5%",
-        "image_url": "https://www.estrategiasdeinversion.com/uploads/noticias_redaccion/native/alquileres_obsesion_de_la_fed_en_eeuu.jpg",
-        "tags": [
-            "actualidad - finanzas personales"
-        ],
-        "link": "https://www.estrategiasdeinversion.com/actualidad/finanzas-personales/la-vivienda-como-inversion-en-2025-resulto-menos-n-887931",
-        "date": "2026-02-10 05:40:00",
-        "sentiment_score": 0.16213922202587128
-    },
-    {
-        "title": "La vida en los pueblos más envejecidos de León: «Solo hay dos calles asfaltadas»",
-        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2026/02/09/pueblo-provincia-leon-kDBB-U20621279881jNG-1200x840@Leonoticias.JPG",
-        "tags": [
-            "asfaltadas",
-            "calles",
-            "pueblos",
-            "leon",
-            "solo",
-            "dos",
-            "envejecidos",
-            "vida"
-        ],
-        "link": "https://www.leonoticias.com/comarcas/vida-pueblos-envejecidos-leon-solo-dos-calles-20260210191225-nt.html",
-        "date": "2026-02-10 07:12:46",
-        "sentiment_score": -0.16079245507717133
-    },
-    {
-        "title": "Desalojo en el mayor asentamiento de Barcelona para acabar con una plaga de ratas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HWENQSLFIRGFFGQQUSEAGAM474.JPG?auth=6a210dcc0b4f624226ee674889fcb70a39d6a972a4e9b166f13775641b8fe3e9&width=1200",
-        "tags": [
-            "barcelona",
-            "desalojos",
-            "personas sin hogar",
-            "chabolas",
-            "inmigración",
-            "migrantes",
-            "pobreza",
-            "plagas",
-            "salud pública",
-            "consorcio zona franca barcelona",
-            "inmigración irregular",
-            "limpieza urbana",
-            "cataluña",
-            "ayuntamiento barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2026-02-10/desalojo-en-el-mayor-asentamiento-de-barcelona-para-acabar-con-una-plaga-de-ratas.html",
-        "date": "2026-02-10 07:08:30",
-        "sentiment_score": 0.22739227861166
-    },
-    {
-        "title": "El vídeo de la aparatosa caída viral de Shakira en pleno concierto: \"Soy de caucho\"",
-        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/uploads/2026/02/10/698ad735308b9.jpeg",
-        "tags": [
-            "música"
-        ],
-        "link": "https://www.cadena100.es/musica/noticias/video-aparatosa-caida-viral-shakira-pleno-concierto-caucho-20260210_145884.html",
-        "date": "2026-02-10 07:03:14",
-        "sentiment_score": -0.12343178689479828
-    },
-    {
-        "title": "Submer adquiere Radian Arc para proporcionar una infraestructura de IA integral, desde los core datacenters hasta el edge compute",
-        "image_url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/5/b2/5b229a21-a420-5a98-b6b5-4d074bf2b890/698adc8095e75.image.jpg?resize=300%2C192",
-        "tags": [
-            "national_business"
-        ],
-        "link": "https://www.joplinglobe.com/region/national_business/submer-adquiere-radian-arc-para-proporcionar-una-infraestructura-de-ia-integral-desde-los-core-datacenters/article_c93efec3-b2cb-5c39-b6f1-87608ad95a20.html",
-        "date": "2026-02-10 07:02:52",
-        "sentiment_score": -0.054720308631658554
-    },
-    {
-        "title": "La merluza se expande y cría cada vez más cerca de Asturias: la investigación pionera de la bióloga marina Cristina García",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b3ca0d44-b0e2-4e90-b04c-f42f168394bb_16-9-aspect-ratio_default_0_x800y300.jpg",
-        "tags": [
-            "talento exterior",
-            "áreas",
-            "asturias",
-            "oceanográfico",
-            "mar",
-            "la coruña"
-        ],
-        "link": "https://www.lne.es/asturias-exterior/2026/02/10/merluza-expande-cria-vez-cerca-126641385.html",
-        "date": "2026-02-10 07:00:48",
-        "sentiment_score": -0.04714643955230713
-    },
-    {
-        "title": "El cambio climático podría eliminar hasta el 50% de las zonas de pastoreo en 2100",
-        "image_url": "https://www.elboletin.com/wp-content/uploads/2026/02/pastoreo-en-venezuela.jpg",
-        "tags": [
-            "calentamiento global",
-            "agricultura",
-            "el boletin 2030",
-            "africa",
-            "ganadería",
-            "pastoreo",
-            "biodiversidad",
-            "cambio climatico"
-        ],
-        "link": "https://www.elboletin.com/el-cambio-climatico-podria-eliminar-hasta-el-50-de-las-zonas-de-pastoreo-en-2100/",
-        "date": "2026-02-10 07:00:27",
-        "sentiment_score": -0.254266619682312
-    },
-    {
-        "title": "Barcelona levanta un asentamiento en la Zona Franca por una plaga de ratas",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/10/698ad56c5333b9-70960969.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/barcelona-levanta-un-asentamiento-zona-franca-por-una-plaga-ratas_6931912_0.html",
-        "date": "2026-02-10 07:00:06",
-        "sentiment_score": -0.21665211766958237
-    },
-    {
-        "title": "Operativo policial: los Mossos desmantelan una red de tráfico de hachís en Badalona y Sant Adrià",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/10/gran-barcelona/1003742731182_15700286_1706x960.jpg",
-        "tags": [
-            "mossos d'esquadra",
-            "drogas",
-            "gran barcelona",
-            "consumo drogas",
-            "sucesos"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260210/operativo-policial-mossos-desmantelan-red-trafico-hachis-badalona-sant-adria/1003742731181_0.html",
-        "date": "2026-02-10 06:57:27",
-        "sentiment_score": -0.03528614342212677
-    },
-    {
-        "title": "Un fallo informático en Extranjería atasca expedientes de residencia y trabajo de miles de inmigrantes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a69d673f-4421-4799-8b92-5787cdb3501f_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "inmigración",
-            "justicia",
-            "españa",
-            "administraciones públicas",
-            "policía nacional"
-        ],
-        "link": "https://www.laopiniondemurcia.es/nacional/2026/02/10/extranjeria-fallo-informatico-paralizados-expedientes-regularizacon-trabajo-residencia-inmigrantes-espana-126649346.html",
-        "date": "2026-02-10 06:49:23",
-        "sentiment_score": -0.4834366887807846
-    },
-    {
         "title": "Eclipse solar de \"anillo de fuego\": cuándo es y dónde se podrá ver",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/Screenshot_91.jpg",
         "tags": [
@@ -214,21 +10,6 @@ export default [
         "link": "https://lapatilla.com/2026/02/10/eclipse-solar-de-anillo-de-fuego-cuando-es-y-donde-se-podra-ver/",
         "date": "2026-02-10 13:10:06",
         "sentiment_score": -0.025666460394859314
-    },
-    {
-        "title": "Cae una trama de trabajadores de empresas de mantenimiento que robaron toneladas de material ferroviario",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/40/media_thumb-link-4145279.webp?1770671286=",
-        "tags": [
-            "cobre",
-            "material ferroviario",
-            "actualidad",
-            "robo",
-            "adif",
-            "ferratum"
-        ],
-        "link": "https://www.meneame.net/story/cae-trama-trabajadores-empresas-mantenimiento-robaron-toneladas",
-        "date": "2026-02-10 09:35:03",
-        "sentiment_score": -0.6220288313925266
     },
     {
         "title": "Lamine Yamal se centra en el campo",
@@ -2809,5 +2590,217 @@ export default [
         "link": "https://www.lacronicabadajoz.com/deportes/2026/02/13/mercedes-refuerza-candidatura-dudas-aston-martin-ferrari-126815934.html",
         "date": "2026-02-13 17:20:46",
         "sentiment_score": -0.19799627363681793
+    },
+    {
+        "title": "Scariolo: \"Pasamos una crisis y nos mantuvimos firmes para salir de una mala racha\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/13/scariolo-pasamos-una-crisis-y-nos-mantuvimos-firmes-para-salir-de-una-mala-racha/",
+        "date": "2026-02-13 22:18:20",
+        "sentiment_score": -0.18637292087078094
+    },
+    {
+        "title": "Crónica del Partizán - Real Madrid, 73-77",
+        "image_url": "https://www.infobae.com/resizer/v2/TQ6XBJYSKRFJNMKBA5DMSJ6W3A.jpg?auth=40994e6c43a3ca19b2854565dafda229dc89f1c65849584aee88e06cb80215f3&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/13/cronica-del-partizan-real-madrid-73-77/",
+        "date": "2026-02-13 22:15:20",
+        "sentiment_score": -0.1354183629155159
+    },
+    {
+        "title": "Modrić salva al AC Milan con gol tardío de la victoria 2-1 ante Pisa",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/02/SERIE_A_53553.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2026/02/13/modri-salva-al-ac-milan-con-gol-tardo-de-la-victoria-2-1-ante-pisa/",
+        "date": "2026-02-13 22:14:27",
+        "sentiment_score": 0.3260096162557602
+    },
+    {
+        "title": "Modrić salva al AC Milan con gol tardío de la victoria 2-1 ante Pisa",
+        "image_url": "https://dims.apnews.com/dims4/default/734e889/2147483647/strip/true/crop/3842x2557+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2Fff%2F2bca3f5cd93998dfd22118cf38b1%2F6bf9ff29554d4fcf9e8a7289b2582081",
+        "tags": [
+            "italia ac milan pisa serie a",
+            "sports",
+            "deportes",
+            "send to apple news"
+        ],
+        "link": "https://apnews.com/article/italia-ac-milan-pisa-serie-a-9e0ce421950683d7209f7338815e440d",
+        "date": "2026-02-13 22:14:27",
+        "sentiment_score": 0.47472142428159714
+    },
+    {
+        "title": "El Real Madrid gana en Belgrado con sus dos caras",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/6634e312-ced2-430d-bfb51a45fd450d43.jpg",
+        "tags": [
+            "sergio scariolo",
+            "euroliga",
+            "real madrid",
+            "joan peñarroya",
+            "serbia"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zabb23f5e-8f7e-4ab5-86e287b08b276fb6/202602/el-real-madrid-gana-en-belgrado-con-sus-dos-caras",
+        "date": "2026-02-13 21:54:06",
+        "sentiment_score": -0.4164803922176361
+    },
+    {
+        "title": "Osasuna frena su escalada y se agarra a Sergio Herrera para salvar los muebles ante el Elche",
+        "image_url": "https://navarra.okdiario.com/media/navarra/images/2026/02/13/2026021323020313240.jpg",
+        "tags": [
+            "osasuna"
+        ],
+        "link": "https://navarra.okdiario.com/articulo/osasuna/cronica-partido-futbol-elche-osasuna-estadio-martinez-valero/20260213225259632903.html",
+        "date": "2026-02-13 21:52:59",
+        "sentiment_score": 0.12330521643161774
+    },
+    {
+        "title": "El Partizan de Peñarroya llevó al límite a un Madrid que salió vivo del Belgrado Arena",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b1b2aca4-6caf-4a8c-a940-86fd08b7706e_16-9-aspect-ratio_default_0_x1000y430.jpg",
+        "tags": [
+            "baloncesto,euroliga,real madrid de baloncesto"
+        ],
+        "link": "https://www.superdeporte.es/baloncesto/2026/02/13/partizan-penarroya-llevo-limite-madrid-126823118.html",
+        "date": "2026-02-13 21:51:03",
+        "sentiment_score": 0.11666864156723022
+    },
+    {
+        "title": "Catela regresa a las pistas y el Barça celebra también el debut del argentino Lucas Granda",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/13/catela-regresa-a-las-pistas-y-el-barca-celebra-tambien-el-debut-del-argentino-lucas-granda/",
+        "date": "2026-02-13 22:18:03",
+        "sentiment_score": 0.5323719717562199
+    },
+    {
+        "title": "El Barça no descarta el regreso de la Grada para buscar la remontada contra el Atlético",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/11/26/culemania/culemaniacos/904169696_13776066_1706x960.jpg",
+        "tags": [
+            "rafa yuste",
+            "atlético de madrid",
+            "palco",
+            "grada d’animació",
+            "elecciones barça",
+            "camp nou",
+            "copa del rey"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260213/barca-descarta-regreso-grada-buscar-remontada-atletico/1003742732582_0.html",
+        "date": "2026-02-13 22:12:29",
+        "sentiment_score": -0.11964873969554901
+    },
+    {
+        "title": "Nuevo ejercicio de inconsistencia átras",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b4c644f2-6a7c-44ba-964c-cf6d3095ac59_16-9-aspect-ratio_default_0_x956y340.jpg",
+        "tags": [
+            "euroliga",
+            "defensa",
+            "mónaco",
+            "ejercicio",
+            "baskonia"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/13/ejercicio-baskonia-euroliga-defensa-monaco-10699390.html",
+        "date": "2026-02-13 22:12:27",
+        "sentiment_score": 0.11894264817237854
+    },
+    {
+        "title": "Los socios del Barça recogen firmas contra la 'prohibición' del voto por correo en las elecciones a la presidencia",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/13/culemania/palco/1003742732544_15716958_1706x960.jpg",
+        "tags": [
+            "elecciones barça",
+            "palco",
+            "fc barcelona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260213/socios-barca-recogen-firmas-prohibicion-elecciones-presidencia/1003742732291_0.html",
+        "date": "2026-02-13 22:12:26",
+        "sentiment_score": 0.12100928276777267
+    },
+    {
+        "title": "22:00H | 13 FEB 2026 | La Linterna",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la linterna"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/horas-completas/22-00h-13-feb-2026-linterna-20260213_3307976.html",
+        "date": "2026-02-13 22:04:00",
+        "sentiment_score": -0.3287218064069748
+    },
+    {
+        "title": "Bajan hasta 2.808 los desalojados en Andalucía y 700 emergencias gestionadas este viernes",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/ultima-hora-temporal-andalucia.jpg",
+        "tags": [
+            "sociedad",
+            "temporales",
+            "junta de andalucía",
+            "andalucía",
+            "lluvias"
+        ],
+        "link": "https://theobjective.com/sociedad/2026-02-13/2808-desalojados-andalucia-700-emergencias/",
+        "date": "2026-02-13 22:01:35",
+        "sentiment_score": -0.7802212219685316
+    },
+    {
+        "title": "El lamento de 'La Gioconda' en la oscuridad veneciana vuelve al Liceu",
+        "image_url": "https://static1.ara.cat/clip/3824f79d-4fe8-4477-a0af-269881de103d_16-9-aspect-ratio_default_0_x3175y3064.jpg",
+        "tags": [
+            "gioconda",
+            "oscuridad",
+            "veneciana",
+            "liceu",
+            "lamento",
+            "vuelve"
+        ],
+        "link": "https://es.ara.cat/cultura/opera/lamento-gioconda-oscuridad-veneciana-vuelve-liceu_1_5648357.html",
+        "date": "2026-02-13 21:33:03",
+        "sentiment_score": -0.06470993161201477
+    },
+    {
+        "title": "Polémica por el alcance de una inversión en la línea R7 de Rodalies",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/e1301f67ae7dbf51ac0c01d88608834a/crop/0x354/2048x1720/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/13/17710178128559.jpg",
+        "tags": [
+            "artículos david casals>",
+            "renfe>",
+            "transporte y turismo>",
+            "cataluña>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2026/02/13/698f967a468aeb33668b45a9.html",
+        "date": "2026-02-13 21:26:42",
+        "sentiment_score": 0.05079470947384834
+    },
+    {
+        "title": "Comparsas, diversión y color marcan inicio del Carnaval en las regiones",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/02/Anzoategui-Carnavales-Pedagogicos-1-300x225.jpg",
+        "tags": [
+            "cojedes",
+            "pulso regional",
+            "anzoátegui",
+            "actualidad",
+            "nueva esparta",
+            "miranda",
+            "guárico",
+            "carabobo"
+        ],
+        "link": "https://ultimasnoticias.com.ve/pulso-regional/comparsas-diversion-y-color-marcan-inicio-del-carnaval-en-las-regiones/",
+        "date": "2026-02-13 21:09:12",
+        "sentiment_score": 0.009048476815223694
+    },
+    {
+        "title": "Es la comunicación, estúpido",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3cf9f471-cb16-4964-8563-b789dced463e_16-9-aspect-ratio_default_0_x787y350.jpg",
+        "tags": [
+            "psoe",
+            "podemos",
+            "ave",
+            "política",
+            "pp"
+        ],
+        "link": "https://www.informacion.es/opinion/2026/02/13/comunicacion-estupido-126820743.html",
+        "date": "2026-02-13 21:00:25",
+        "sentiment_score": -0.22923994064331055
     }
 ];
