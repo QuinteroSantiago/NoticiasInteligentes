@@ -2779,5 +2779,232 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260214/vinicius-jr-barca-escandalo-real-madrid-bernabeu/1003742732729_0.html",
         "date": "2026-02-14 21:57:36",
         "sentiment_score": -0.7872554119676352
+    },
+    {
+        "title": "El grito del campo",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "campo",
+            "grito"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/editorial/grito-campo_0_2005910522.html",
+        "date": "2026-02-15 02:08:03",
+        "sentiment_score": -0.06803697347640991
+    },
+    {
+        "title": "James Rodríguez no se guardó nada y envió duro mensaje a sus críticos: “Piensan que me lastimarán”",
+        "image_url": "https://www.infobae.com/resizer/v2/I2OF4QWB3ZCEZFSO6FHJ3XTP74.jpg?auth=05368fff145c6c77031e998721af5b5cf8d456e96f5fa15205736d0ec06daca6&height=860&smart=true&width=1632",
+        "tags": [
+            "mls",
+            "james rodríguez",
+            "selección colombia",
+            "james rodríguez mls",
+            "james rodríguez minnesota",
+            "minnesota united",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/15/james-rodriguez-no-se-guardo-nada-y-envio-duro-mensaje-a-sus-criticos-piensan-que-me-lastimaran/",
+        "date": "2026-02-15 01:21:41",
+        "sentiment_score": -0.06603853404521942
+    },
+    {
+        "title": "Levante vs. Valencia: ¡Sálvese quien pueda!",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e4731d21-962a-4d7f-95a0-d3b087fe9edf_16-9-aspect-ratio_default_0_x450y200.jpg",
+        "tags": [
+            "levante,valencia,valencia cf,derbi,orriols,hugo duro,mestalla,levante ud,derbis,laliga,luís castro,carlos corberán,pepelu,carlos álvarez,etta eyong,iván romero,unai núñez,fichajes,canteranos,nacho pérez,descenso"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2026/02/15/levante-vs-valencia-salvese-pueda-derbi-laliga-126849887.html",
+        "date": "2026-02-15 00:57:53",
+        "sentiment_score": -0.09196329116821289
+    },
+    {
+        "title": "Alerta por aumento de motos eléctricas sin control: 9 de cada 10 circulan sin registro y el mercado formal se desploma",
+        "image_url": "https://www.infobae.com/resizer/v2/TLYTAOMQLRDWFHIHLERFQR6FMI.JPG?auth=afea602fc666a53802f2a0f14f2142dbd53a91f3c8b93e627b4ac890209b5b9b&height=1671&smart=true&width=2500",
+        "tags": [
+            "andi",
+            "colombia-noticias",
+            "motos eléctricas",
+            "motos en colombia",
+            "movilidad en colombia",
+            "runt",
+            "registro de motos"
+        ],
+        "link": "https://www.infobae.com/colombia/2026/02/15/alerta-por-aumento-de-motos-electricas-sin-control-9-de-cada-10-circulan-sin-registro-y-el-mercado-formal-se-desploma/",
+        "date": "2026-02-15 00:50:42",
+        "sentiment_score": -0.8893424104899168
+    },
+    {
+        "title": "Belén Rueda: \"A los hombres no les dicen que qué feos están por ser más viejos, sino que pasan a ser 'señores interesantes'\"",
+        "image_url": "https://s3.elespanol.com/2026/02/13/reportajes/1003744129690_261418797_1706x960.jpg",
+        "tags": [
+            "porfolio",
+            "reportajes-newsletter",
+            "entrevistas",
+            "cine",
+            "belén rueda",
+            "reportajes",
+            "actrices"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260215/belen-rueda-hombres-no-dicen-feos-viejos-pasan-senores-interesantes/1003744129591_0.html",
+        "date": "2026-02-15 00:48:16",
+        "sentiment_score": -0.6866576448082924
+    },
+    {
+        "title": "¿Por qué acudir a la farmacia a por los complementos?: \"Elegimos el mejor en cada caso\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/5a19a728cfde6aae1d86d950713a5e4c/crop/0x0/1200x800/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/13/17710074994860.jpg",
+        "tags": [
+            "ciencia-y-salud/salud"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2026/02/15/698f6e70e85ece1d718b4598.html",
+        "date": "2026-02-15 00:42:09",
+        "sentiment_score": -0.08060072362422943
+    },
+    {
+        "title": "14 FEB 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/14-feb-2026-tramo-final-juego-20260215_3308166.html",
+        "date": "2026-02-15 00:11:47",
+        "sentiment_score": -0.014911338686943054
+    },
+    {
+        "title": "1a PARTE | 14 FEB 2026 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/1a-parte-03-feb-2026-juego-20260215_3308158.html",
+        "date": "2026-02-14 23:42:51",
+        "sentiment_score": 0.39220574870705605
+    },
+    {
+        "title": "El Real Madrid asume el liderato: Vinicius brilla en la goleada ante la Real Sociedad",
+        "image_url": "https://pxcdn.2001online.com/2001/022026/1771114864513/504_sport_Media365-Sport-News_c83_e3a_2518ed2536bb3944a417a05a90_liga-j24-le-real-madrid-leader-provisoire-apres-son-succes-contre-la-real-sociedad_vinicius-real-real-sociedad-1024x536.jpg?ch=675&cw=1200",
+        "tags": [
+            "fc barcelona",
+            "real sociedad",
+            "españa",
+            "real madrid",
+            "vinicius jr",
+            "laliga"
+        ],
+        "link": "https://2001online.com/deportes/el-real-madrid-asume-el-liderato-vinicius-brilla-en-la-goleada-ante-la-real-sociedad-202621420270",
+        "date": "2026-02-14 23:34:18",
+        "sentiment_score": 0.5477380976080894
+    },
+    {
+        "title": "Courtois: \"Hemos hecho un gran partido\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/14/courtois-hemos-hecho-un-gran-partido/",
+        "date": "2026-02-14 23:30:55",
+        "sentiment_score": 0.8839263878762722
+    },
+    {
+        "title": "Liberal en redes sociales, social-demócrata en subvenciones",
+        "image_url": "https://s3.elespanol.com/2026/02/13/actualidad/1003744129619_261417700_1706x960.jpg",
+        "tags": [
+            "tribunas de opinión",
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20260215/liberal-redes-sociales-social-democrata-subvenciones/1003744129535_12.html",
+        "date": "2026-02-15 02:19:18",
+        "sentiment_score": -0.1936362348496914
+    },
+    {
+        "title": "El tapón verde de Cataluña: por cada parque eólico construido se han rechazado cuatro, el doble que en España",
+        "image_url": "https://s3.elespanol.com/2026/01/15/actualidad/1003744091467_260936081_1706x960.jpg",
+        "tags": [
+            "energía eólica",
+            "cataluña",
+            "energía - renovables",
+            "observatorio de la energía"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20260215/tapon-verde-cataluna-parque-eolico-construido-rechazado-doble-espana/1003744128250_0.html",
+        "date": "2026-02-15 02:16:15",
+        "sentiment_score": -0.3612241819500923
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 15 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima en barcelona",
+            "clima",
+            "clima en españa",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/15/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-15-de-febrero/",
+        "date": "2026-02-15 02:15:37",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "La vida ejemplar de Juan Francisco, el mostoleño de 92 años que vende un millón y medio de leche a toda España",
+        "image_url": "https://s3.elespanol.com/2026/02/13/actualidad/1003744129825_261420796_1706x960.jpg",
+        "tags": [
+            "madrid comunidad",
+            "empresas",
+            "leche",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20260215/vida-ejemplar-juan-francisco-mostoleno-anos-vende-millon-medio-leche-toda-espana/1003744124870_0.html",
+        "date": "2026-02-15 01:22:22",
+        "sentiment_score": 0.418209258466959
+    },
+    {
+        "title": "China despliega su diplomacia ideológica en España mientras Sánchez ultima su cuarta visita para abril: \"Estamos dispuestos a reforzar aún más la cooperación con los partidos españoles\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/e6b7b34b4a16dd622051972c296ece73/crop/0x104/596x699/f/image/jpeg/assets/multimedia/imagenes/2022/05/03/16515910186356.jpg",
+        "tags": [
+            "josé luis rodríguez zapatero",
+            "xi jinping",
+            "pp",
+            "pedro sánchez",
+            "china",
+            "artículos lucas de la cal"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/02/15/6990694b21efa027578b45bb.html",
+        "date": "2026-02-15 01:10:05",
+        "sentiment_score": 0.1875021606683731
+    },
+    {
+        "title": "Yulimar Rojas regresa a la cima mundial tras lograr un salto de 14.95 metros",
+        "image_url": "https://meridadigital.com.ve/wp-content/uploads/2026/02/foto-cortesia-108153-1-150x150.jpeg",
+        "tags": [
+            "destacadas",
+            "deportes"
+        ],
+        "link": "https://meridadigital.com.ve/yulimar-rojas-regresa-a-la-cima-mundial-tras-lograr-un-salto-de-14-95-metros",
+        "date": "2026-02-15 01:00:01",
+        "sentiment_score": 0.07492899149656296
+    },
+    {
+        "title": "Discoteca Vampis, en Tenerife: la leyenda que se niega a morir",
+        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2026/02/vampis-2-1024x683.jpg",
+        "tags": [
+            "tenerife",
+            "portada apertura 3",
+            "norte",
+            "portada local",
+            "portada",
+            "puerto de la cruz"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2026/02/discoteca-vampis-la-leyenda-que-se-niega-a-morir/",
+        "date": "2026-02-15 00:00:00",
+        "sentiment_score": 0.5954006910324097
+    },
+    {
+        "title": "Estos son algunos de los disfraces más originales de la primera salida del Carnaval de Día",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/daabf03b-c1c7-4451-9c84-548df7545181_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "carnaval de día",
+            "carnaval de las palmas",
+            "disfraces"
+        ],
+        "link": "https://www.laprovincia.es/carnaval-de-las-palmas/2026/02/15/son-disfraces-originales-primera-salida-126849474.html",
+        "date": "2026-02-14 23:45:12",
+        "sentiment_score": 0.643535178154707
     }
 ];
