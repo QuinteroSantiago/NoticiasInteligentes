@@ -1,475 +1,5 @@
 export default [
     {
-        "title": "Alcaldes del entorno entregan una carta dirigida a Pedro Sánchez para evitar el cierre de la central nuclear",
-        "image_url": "https://s2.ppllstatics.com/hoy/navalmoral/multimedia/2026/02/10/Alcaldes%20de%20CNA%20en%20Madrid%201-klkE-U20644745693UOG-1200x840@Hoy.jpeg",
-        "tags": [
-            "bruselas",
-            "almaraz",
-            "pedro sánchez",
-            "navalmoral de la mata",
-            "extremadura"
-        ],
-        "link": "https://navalmoral.hoy.es/alcaldes-entorno-entregan-carta-dirigida-pedro-sanchez-20260210234355-nt.html",
-        "date": "2026-02-10 22:44:00",
-        "sentiment_score": -0.1829308122396469
-    },
-    {
-        "title": "\"Es verdad que Santiago Abascal coincidió en Nuevas Generaciones con Azcón, pero esto va de vamos a ir desgastando porque seguimos subiendo y nos están votando\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2026/02/10/698bac6a03b8a.jpeg",
-        "tags": [
-            "la linterna"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna/audios/verdad-santiago-abascal-coincidio-nuevas-generaciones-azcon-esto-desgastando-seguimos-subiendo-votando-20260210_3305302.html",
-        "date": "2026-02-10 22:13:56",
-        "sentiment_score": -0.12451690435409546
-    },
-    {
-        "title": "Los misiles rusos congelan Ucrania: \"Ni perdón ni rendición\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/fd93c2c8191f8846da1ddc8115aa5147/f/image/jpeg/assets/multimedia/imagenes/2022/05/03/16516018976559.jpg",
-        "tags": [
-            "europa",
-            "rusia",
-            "nlpremium",
-            "guerra ucrania rusia",
-            "ucrania",
-            "artículos alberto rojas"
-        ],
-        "link": "https://www.elmundo.es/internacional/2026/02/10/698b4347fc6c8324238b45b0.html",
-        "date": "2026-02-10 21:58:49",
-        "sentiment_score": -0.94321034476161
-    },
-    {
-        "title": "Vida de Miguel, cuando el cerebro del hijo se olvida de respirar al dormir: \"De bebé había que atarle para que no se quitase la intubación\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/90e26ffa675aeebb56a7fe4ba9b7e3f1/crop/344x161/2296x2114/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529602497028.jpg",
-        "tags": [
-            "salud",
-            "nlpremium",
-            "enfermedades raras",
-            "artículos pedro simón",
-            "infancia",
-            "granada"
-        ],
-        "link": "https://www.elmundo.es/papel/historias/2026/02/10/6985ca59e9cf4a3d188b45ea.html",
-        "date": "2026-02-10 21:58:26",
-        "sentiment_score": -0.7287112046033144
-    },
-    {
-        "title": "Reunión Real Valladolid-LaLiga este miércoles en Madrid",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2026/02/10/1506632169-kyC-U20642354437Ff-758x531@El%20Norte.jpg",
-        "tags": [
-            "real valladolid club de fútbol"
-        ],
-        "link": "https://www.elnortedecastilla.es/realvalladolid/reunion-real-valladolidlaliga-miercoles-madrid-20260210200219-nt.html",
-        "date": "2026-02-10 21:14:45",
-        "sentiment_score": -0.7645720858126879
-    },
-    {
-        "title": "La camiseta que Bad Bunny regaló a los empleados de Zara se convierte en artículo de lujo: hasta 25.000 euros en reventa",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/02/10/6D9F0281-35B3-431E-9F40-9B07AA3FF2E7/bad-bunny-actuacion-super-bowl-2026_70.jpg?crop=1024%2C576%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "ondacero",
-            "noticias",
-            "sociedad"
-        ],
-        "link": "https://www.ondacero.es/noticias/sociedad/camiseta-que-bad-bunny-regalo-empleados-zara-convierte-articulo-lujo-25000-euros-reventa_20260210698b9e8b2f00a0468804aced.html",
-        "date": "2026-02-10 21:09:31",
-        "sentiment_score": -0.28394271433353424
-    },
-    {
-        "title": "Rafa Nadal: \"Alcaraz ya es una leyenda de nuestro deporte, está llevando el tenis a otro nivel\"",
-        "image_url": "https://static.grupojoly.com/clip/8a15d75d-9a53-4db7-a9bf-68cc49c5ffaf_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "carlos alcaraz",
-            "tenis"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/rafa-nadal-alcaraz-leyenda-deporte_0_2005872339.html",
-        "date": "2026-02-10 21:09:20",
-        "sentiment_score": 0.28600771725177765
-    },
-    {
-        "title": "200 aficionados del Real Oviedo ya han reclamado los gastos del viaje a Madrid",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/02/10/Oviedo-RMd7IV8MZipIOIlrtprjCPJ-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "gastos",
-            "aficionados",
-            "200",
-            "madrid",
-            "oviedo",
-            "reclamado",
-            "viaje",
-            "real"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/200-aficionados-real-oviedo-reclamado-gastos-viaje-20260210213501-nt.html",
-        "date": "2026-02-10 20:35:04",
-        "sentiment_score": -0.7136795781552792
-    },
-    {
-        "title": "Entre Penélope y Mesalina: La Europa de las reinas infieles",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/10/letraglobal/ideas/1003742731399_15702903_1706x960.jpg",
-        "tags": [
-            "ideas",
-            "literatura",
-            "filosofia"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/letraglobal/ideas/20260210/penelope-mesalina-europa-reinas-infieles/1003742731397_0.html",
-        "date": "2026-02-10 20:28:30",
-        "sentiment_score": -0.17060834169387817
-    },
-    {
-        "title": "Llegan dos potentes motobombas desde Madrid para hacer frente a las graves inundaciones en Talavera",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/02/10/698b8f2fd7add.r_d.684-1008-7167.jpeg",
-        "tags": [
-            "talavera de la reina"
-        ],
-        "link": "https://www.cope.es/emisoras/castilla-la-mancha/toledo-provincia/talavera/noticias/llegan-dos-potentes-motobombas-madrid-frente-graves-inundaciones-talavera-20260210_3305284.html",
-        "date": "2026-02-10 20:28:03",
-        "sentiment_score": -0.04047134518623352
-    },
-    {
-        "title": "Alarma en la Zona Franca: los vecinos denuncian \"espectáculos sexuales explícitos\" en un polémico club",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/07/sants-montjuic/1003742730517_15691582_1706x960.jpg",
-        "tags": [
-            "ocio nocturno",
-            "guardia urbana",
-            "sants - montjuïc",
-            "incivismo",
-            "mossos d'esquadra",
-            "discotecas"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sants-montjuic/20260210/alarma-zona-franca-vecinos-denuncian-espectaculos-sexuales-explicitos-polemico-club/1003742730136_0.html",
-        "date": "2026-02-10 22:30:00",
-        "sentiment_score": -0.6545496731996536
-    },
-    {
-        "title": "El mercado de la misera de Sant Pau continua pese al refuerzo de la Guardia Urbana: \"Seguimos igual\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/04/08/eixample/1003742647351_14391115_1706x960.jpg",
-        "tags": [
-            "guardia urbana",
-            "el raval",
-            "delincuencia",
-            "seguridad",
-            "el pulso de la ciudad",
-            "robos",
-            "sant antoni"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260210/mercado-misera-sant-pau-continua-pese-refuerzo-guardia-urbana-seguimos-igual/1003742730264_0.html",
-        "date": "2026-02-10 22:30:00",
-        "sentiment_score": -0.12703953683376312
-    },
-    {
-        "title": "Así se configurará el parque de vivienda protegida de la Gran Barcelona con el horizonte 2050",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/28/gran-barcelona/1003742719421_15554166_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "viviendas",
-            "área metropolitana de barcelona (amb)",
-            "vivienda",
-            "urbanismo"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260210/configurara-parque-vivienda-protegida-gran-barcelona-horizonte/1003742731338_0.html",
-        "date": "2026-02-10 22:30:00",
-        "sentiment_score": 0.5280558988451958
-    },
-    {
-        "title": "Los constructores avalan el plan urbanístico metropolitano: “La reducción de suelo debe compensarse con más densidad y altura”",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/09/26/economia/888921157_13495774_1706x960.jpg",
-        "tags": [
-            "l'hospitalet de llobregat",
-            "gran barcelona",
-            "viviendas",
-            "área metropolitana de barcelona (amb)",
-            "vivienda",
-            "urbanismo"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260210/constructores-avalan-plan-urbanistico-metropolitano-reduccion-suelo-debe-compensarse-densidad-altura/1003742731382_0.html",
-        "date": "2026-02-10 22:30:00",
-        "sentiment_score": 0.5030135810375214
-    },
-    {
-        "title": "Pachu Peña recordó en Infobae en Vivo el sketch junto a Leo Messi que se hizo viral y la reacción del astro: “¿Se habrá enojado?”",
-        "image_url": "https://www.infobae.com/resizer/v2/CJQA2VM6HFG55GRYFSEGMWDQM4.jpg?auth=67753119e3bae860eb862102245392584db5d48309ac845faeb2c67a118025c5&height=1080&smart=true&width=1920",
-        "tags": [
-            "pachu peña",
-            "lionel messi",
-            "infobae en vivo"
-        ],
-        "link": "https://www.infobae.com/teleshow/2026/02/10/pachu-pena-recordo-en-infobae-en-vivo-el-sketch-junto-a-leo-messi-que-se-hizo-viral-y-la-reaccion-del-astro-se-habra-enojado/",
-        "date": "2026-02-10 22:20:06",
-        "sentiment_score": 0.5154883228242397
-    },
-    {
-        "title": "Una frase, once años y un hijo: la historia de Úrsula Corberó y Chino Darín",
-        "image_url": "https://es.gizmodo.com/app/uploads/2026/02/Gizmodo-89-2-1024x683.jpg",
-        "tags": [
-            "io9"
-        ],
-        "link": "https://es.gizmodo.com/una-frase-once-anos-y-un-hijo-la-historia-de-ursula-corbero-y-chino-darin-2000219915",
-        "date": "2026-02-10 22:15:23",
-        "sentiment_score": 0.20339273661375046
-    },
-    {
-        "title": "El Girona-Barcelona de LaLiga, en directo con el Plan HBO Max DAZN - Abónate aquí",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/10/image-c4ee02bf-f7fd-49bf-aca5-c11edb519988-85-2560-1440.jpeg",
-        "tags": [
-            "la liga 2025/2026",
-            "football"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/girona-barcelona-jornada-24-temporada-2025-2026-partido-laliga-enlace-como-ver-television-online-streaming-plan-hbo-max-dazn-suscripcion-horario-fecha_sto23269213/story.shtml",
-        "date": "2026-02-10 22:14:38",
-        "sentiment_score": 0.1244887039065361
-    },
-    {
-        "title": "Un falso amor virtual en Líbano lleva a una agencia de viajes de Málaga a estafar 100.000 € a 55 clientes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/305d93bd-0f2d-47e5-9181-1002c9221caf_16-9-aspect-ratio_default_0_x626y234.jpg",
-        "tags": [
-            "dinero",
-            "viajes",
-            "málaga",
-            "agencias de viajes",
-            "vacaciones",
-            "policía nacional",
-            "investigación"
-        ],
-        "link": "https://www.laprovincia.es/sucesos/2026/02/10/falso-amor-virtual-libano-lleva-agencia-viajes-malaga-estafa-126686442.html",
-        "date": "2026-02-10 21:47:44",
-        "sentiment_score": -0.6649361476302147
-    },
-    {
-        "title": "Real Mallorca: la solución está en casa",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3668575.jpg",
-        "tags": [
-            "última hora",
-            "primera división",
-            "fútbol",
-            "ultimas noticias",
-            "laliga",
-            "rcd mallorca",
-            "liga ea sports",
-            "real mallorca"
-        ],
-        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/02/11/2567145/real-mallorca-solucion-esta-casa.html",
-        "date": "2026-02-11 02:48:01",
-        "sentiment_score": 0.291926771402359
-    },
-    {
-        "title": "«Normalizamos que cada uno se refugie en su pantalla del móvil en el momento del día que debería ser compartido»",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3668695.jpg",
-        "tags": [
-            "última hora",
-            "parejas estables",
-            "san valentín",
-            "sociedad",
-            "tendencias",
-            "psicología"
-        ],
-        "link": "https://www.ultimahora.es/noticias/sociedad/2026/02/11/2563857/normalizamos-cada-uno-refugie-pantalla-del-movil-momento-del-dia-deberia-ser-compartido.html",
-        "date": "2026-02-11 02:48:01",
-        "sentiment_score": -0.1204017847776413
-    },
-    {
-        "title": "Agenda: qué hacer hoy miércoles 11 de febrero en Asturias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5197afa0-4d04-45c5-a444-52188525452b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "asturias",
-            "horario",
-            "exposición",
-            "casa de cultura"
-        ],
-        "link": "https://www.lne.es/asturias/2026/02/11/agenda-hoy-miercoles-11-febrero-126682254.html",
-        "date": "2026-02-11 02:32:20",
-        "sentiment_score": -0.04386317729949951
-    },
-    {
-        "title": "EE UU rebaja el tono con España en la OTAN: reconoce “grandes progresos” en defensa",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/07/2026010700024434530.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.mundiario.com/articulo/politica/ee-uu-rebaja-tono-espana-otan-reconoce-grandes-progresos-defensa/20260211031927374294.html",
-        "date": "2026-02-11 02:19:27",
-        "sentiment_score": -0.5537777245044708
-    },
-    {
-        "title": "Luis Javier Suárez elegiría su próximo destino y el Real Madrid podría ser una opción: así lo analizan desde España",
-        "image_url": "https://www.infobae.com/resizer/v2/TUBKR2G73NFUHL5XH5WDK7FD7A.JPG?auth=af6955ae1348b0c685483b8286a2c7de16d64231f43ae5c5b7c5465fc4cf6f4b&height=2100&smart=true&width=3000",
-        "tags": [
-            "liga portugal",
-            "delantero",
-            "españa",
-            "luis javier suárez",
-            "colombia-deportes"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/11/luis-javier-suarez-elegiria-su-proximo-destino-y-el-real-madrid-podria-ser-una-opcion-asi-lo-analizan-desde-espana/",
-        "date": "2026-02-11 00:46:53",
-        "sentiment_score": 0.8209774531424046
-    },
-    {
-        "title": "La presidenta del CSIC, Eloísa del Pino: \"El sistema científico reproduce estereotipos e impide el ascenso de las mujeres\"",
-        "image_url": "https://s3.elespanol.com/2026/02/06/actualidad/1003744119914_261294380_1706x960.jpg",
-        "tags": [
-            "tecnología",
-            "csic",
-            "mujeres",
-            "investigación",
-            "entrevistas",
-            "ciencia"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/investigacion/20260211/presidenta-csic-eloisa-pino-sistema-cientifico-reproduce-estereotipos-impide-ascenso-mujeres/1003744119866_0.html",
-        "date": "2026-02-11 00:34:00",
-        "sentiment_score": 0.17546580731868744
-    },
-    {
-        "title": "El Real Madrid se conjura en una cena a la que acude toda la plantilla",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/02/11/698bca58d5f30.r_d.587-320-7350.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/real-madrid-conjura-cena-acude-toda-plantilla-20260211_3305331.html",
-        "date": "2026-02-11 00:16:35",
-        "sentiment_score": -0.13021908700466156
-    },
-    {
-        "title": "Los futbolistas del Real Madrid refuerzan su unión con una cena privada en la capital",
-        "image_url": "https://www.infobae.com/resizer/v2/DWVIOFN4OJGG7DEP4T4BTOBJMQ.jpg?auth=e8d0af4274cd4a0687bfa94b4e7e4bca3d6f940d30f7c18d6c396e4c30dde3bc&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-noticias",
-            "españa-deportes",
-            "vinícius júnior",
-            "real madrid",
-            "vini jr",
-            "la liga",
-            "fútbol",
-            "fútbol españa"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/02/11/los-futbolistas-del-real-madrid-refuerzan-su-union-con-una-cena-privada-en-la-capital/",
-        "date": "2026-02-11 00:13:51",
-        "sentiment_score": 0.5163472853600979
-    },
-    {
-        "title": "Cuadro, tarta y gimnasio",
-        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2026/02/11/212198943.jpg",
-        "tags": [
-            "gimnasio",
-            "tarta",
-            "cuadro"
-        ],
-        "link": "https://www.hoy.es/extremadura/cuadro-tarta-gimnasio-20260211093308-nt.html",
-        "date": "2026-02-11 00:00:00",
-        "sentiment_score": -0.7601955886930227
-    },
-    {
-        "title": "Así es Júlia Pericas, la bailarina española que ha acompañado a Bad Bunny en la Super Bowl: nacida en Cataluña y amante de Mallorca",
-        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3668885.jpg",
-        "tags": [
-            "bad bunny",
-            "audiencias-um",
-            "ia-news",
-            "sociedad",
-            "super bowl"
-        ],
-        "link": "https://www.menorca.info/actualidad/sociedad/2026/02/11/2567297/asi-julia-pericas-bailarina-espanola-acompanado-bad-bunny-super-bowl-nacida-cataluna-amante-mallorca.html",
-        "date": "2026-02-11 02:48:01",
-        "sentiment_score": 0.13173788785934448
-    },
-    {
-        "title": "“Cómo me hacen trabajar”: el hilarante ida y vuelta de Franco Colapinto con Alpine antes de los tests de F1",
-        "image_url": "https://www.infobae.com/resizer/v2/RA5PD5W6FRGFJBC2HJV7AUFKM4.jfif?auth=c5c13224ba2618d96a31d77099987e39ddfc737c2d19647bfd67fe4a7c1b9c0e&height=908&smart=true&width=1536",
-        "tags": [
-            "fórmula 1",
-            "pierre gasly",
-            "deportes-internacional",
-            "deportes-argentina",
-            "franco colapinto",
-            "alpine f1 team"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/11/como-me-hacen-trabajar-el-hilarante-ida-y-vuelta-de-franco-colapinto-con-alpine-antes-de-los-tests-de-f1/",
-        "date": "2026-02-11 02:05:56",
-        "sentiment_score": -0.7418349646031857
-    },
-    {
-        "title": "Casintra acelera su transformación como operador logistico integral",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/79e9c33f-9b31-4005-ab46-d35573d63dac_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "crecimiento",
-            "el musel",
-            "manuel",
-            "transporte"
-        ],
-        "link": "https://www.lne.es/asturias/2026/02/11/casintra-acelera-transformacion-operador-logistico-126658256.html",
-        "date": "2026-02-11 02:00:49",
-        "sentiment_score": 0.7204032354056835
-    },
-    {
-        "title": "El banco digital para pymes RiverBank incorpora a un directivo del Santander para crecer en España",
-        "image_url": "https://s3.elespanol.com/2026/02/10/actualidad/1003744125002_261359752_1706x960.jpg",
-        "tags": [
-            "banca",
-            "banco santander",
-            "pymes"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/banca/20260211/banco-digital-pymes-riverbank-incorpora-directivo-santander-crecer-espana/1003744124746_0.html",
-        "date": "2026-02-11 01:40:20",
-        "sentiment_score": 0.20941171050071716
-    },
-    {
-        "title": "Insurama ficha a su nuevo CEO en McKinsey para ser la mayor 'insurtech' de Iberia y Latam",
-        "image_url": "https://s3.elespanol.com/2026/02/10/actualidad/1003744124792_261356914_1706x960.jpg",
-        "tags": [
-            "seguros",
-            "fintech",
-            "observatorio seguros",
-            "latinoamérica"
-        ],
-        "link": "https://www.elespanol.com/observatorio-seguros/20260211/insurama-ficha-nuevo-ceo-mckinsey-mayor-insurtech-iberia-latam/1003744124787_0.html",
-        "date": "2026-02-11 01:40:14",
-        "sentiment_score": 0.5057840719819069
-    },
-    {
-        "title": "Deportes | Demasiado castigo para el Eón",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1775874.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/demasiado-castigo-para-el-eon",
-        "date": "2026-02-11 01:08:04",
-        "sentiment_score": -0.9307676386088133
-    },
-    {
-        "title": "Deportes | Crece la presión social alrededor del Hércules CF, sus dirigentes... y los políticos",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1236511.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/crece-la-presion-social-alrededor-del-hercules-cf-sus-dirigentes-y-los-politicos",
-        "date": "2026-02-11 00:45:29",
-        "sentiment_score": 0.25608281046152115
-    },
-    {
-        "title": "El Barça Immersive Tour gana 300.000 visitantes en 2025: el nuevo Museo superará los 40 millones de ingresos anuales",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/10/culemania/palco/1003742731503_15704224_1706x960.jpg",
-        "tags": [
-            "palco",
-            "camp nou",
-            "fc barcelona"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260211/barca-immersive-tour-visitantes-museo-superara-millones/1003742731501_0.html",
-        "date": "2026-02-11 00:41:16",
-        "sentiment_score": 0.35860276222229004
-    },
-    {
-        "title": "Se conoció el nombre del hijo del Chino Darín y Úrsula Corberó",
-        "image_url": "https://www.infobae.com/resizer/v2/LFUF63T26NGV3C6L62E6SAWZSE.jpg?auth=36ddae721bd3bf62c3a1f89fde08fa9edc708c24f7d838839733591c09a278a3&height=1440&smart=true&width=1920",
-        "tags": [
-            "ricardo darín",
-            "chino darín",
-            "úrsula corberó",
-            "dante darín"
-        ],
-        "link": "https://www.infobae.com/teleshow/2026/02/11/se-conocio-el-nombre-del-hijo-del-chino-darin-y-ursula-corbero/",
-        "date": "2026-02-11 00:34:46",
-        "sentiment_score": 0.25680986046791077
-    },
-    {
         "title": "'Hasta aquí': por qué aprender a poner límites puede ser la mejor inversión en tu salud mental",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260211080346_690.jpg",
         "tags": [
@@ -2972,5 +2502,244 @@ export default [
         "link": "https://www.deia.eus/tendencias/2026/02/14/comienza-ciudad-luces-muertas-novela-10699567.html",
         "date": "2026-02-14 06:01:11",
         "sentiment_score": -0.8418736085295677
+    },
+    {
+        "title": "Álvaro Fidalgo luce la bandera de México en su uniforme con el Betis",
+        "image_url": "https://www.infobae.com/resizer/v2/WREGET7NQRGW3MD7ZYNNMNWGFE.jpg?auth=312f48878b2974c71746de08cb2e26ed3979edf5959135fed5c4907dc3bd014b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "selección mexicana mundial 2026",
+            "mexico-deportes",
+            "mexico-noticias",
+            "laliga",
+            "real betis",
+            "álvaro fidalgo"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2026/02/14/alvaro-fidalgo-luce-la-bandera-de-mexico-en-su-uniforme-con-el-betis/",
+        "date": "2026-02-14 17:47:51",
+        "sentiment_score": -0.3255857676267624
+    },
+    {
+        "title": "Paco González, sobre el comunicado del Barça en contra del arbitraje: \"El peor momento para sacarlo después del baño de la primera parte del otro día\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/paco-gonzalez-sobre-comunicado-barca-arbitraje-peor-momento-sacarlo-bano-primera-parte-dia-20260214_3308122.html",
+        "date": "2026-02-14 17:47:19",
+        "sentiment_score": -0.17409144341945648
+    },
+    {
+        "title": "Diego Ortega, reelegido Secretario General de la Asociación de Presidentes de Plazas de Toros de España",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/1_Junta-Directiva-reelegida.jpg",
+        "tags": [
+            "toros",
+            "diego ortega",
+            "reelección",
+            "junta directiva",
+            "alcázar de san juan"
+        ],
+        "link": "https://www.lanzadigital.com/toros/diego-ortega-reelegido-secretario-general-de-la-asociacion-de-presidentes-de-plazas-de-toros-de-espana/",
+        "date": "2026-02-14 17:41:18",
+        "sentiment_score": 0.08293601870536804
+    },
+    {
+        "title": "Morata desperdicia una nueva oportunidad para allanar su camino rumbo al Mundial",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/14/2026021418343685706.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/morata-desperdicia-medias-oportunidad-allanar-camino-rumbo-mundial/20260214183628374759.html",
+        "date": "2026-02-14 17:36:28",
+        "sentiment_score": -0.8703745314851403
+    },
+    {
+        "title": "Osasuna alcanza la media de sus seis anteriores temporadas en Primera",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/bd4ad8a1-b4ea-48b2-9700-d74e46ad9a2a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "seis",
+            "conference",
+            "lisci",
+            "anteriores",
+            "media",
+            "arrasate",
+            "moreno",
+            "osasuna",
+            "alcanza",
+            "liga"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/14/osasuna-alcanza-media-seis-anteriores-lisci-arrasate-moreno-liga-conference-10701260.html",
+        "date": "2026-02-14 17:36:06",
+        "sentiment_score": 0.6295039728283882
+    },
+    {
+        "title": "(Previa) Un alicaído Elche busca reaccionar en el Martínez Valero frente al pujante Osasuna",
+        "image_url": "https://www.infobae.com/resizer/v2/GMQIDYY5IVF6TDO7UG33KJUT54.jpg?auth=d2d997654c344f3cc0efe415fea666f3fa2b544d273e64a55327393d0b591f84&height=1280&smart=true&width=1920",
+        "tags": [
+            "jornada 24",
+            "laliga",
+            "rafa mir",
+            "el sadar",
+            "elche cf",
+            "martínez valero",
+            "alessio lisci",
+            "eder sarabia",
+            "ca osasuna",
+            "europapress",
+            "fútbol"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/12/previa-un-alicaido-elche-busca-reaccionar-en-el-martinez-valero-frente-al-pujante-osasuna/",
+        "date": "2026-02-14 17:01:27",
+        "sentiment_score": 0.31439269334077835
+    },
+    {
+        "title": "El Barcelona se estanca con las licencias del Camp Nou después de tres meses caóticos",
+        "image_url": "https://okdiario.com/img/2026/02/14/el-camp-nou-en-obras.-europa-press.jpg",
+        "tags": [
+            "barcelona",
+            "joan laporta",
+            "camp nou",
+            "fc barcelona",
+            "deportes"
+        ],
+        "link": "https://okdiario.com/deportes/barcelona-estanca-licencias-del-camp-nou-despues-tres-meses-caoticos-16245255",
+        "date": "2026-02-14 17:00:19",
+        "sentiment_score": -0.6004447042942047
+    },
+    {
+        "title": "Luis Enrique señala a Dembélé tras el batacazo del PSG ante el Rennes: «No permitiré....»",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/05/6932ba2337084.r_d.839-434-6250.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.eldebate.com/deportes/20260214/luis-enrique-senala-dembele-batacazo-psg-ante-rennes-no-permitire_385373.html",
+        "date": "2026-02-14 16:59:53",
+        "sentiment_score": -0.49107639491558075
+    },
+    {
+        "title": "El Bilbao Athletic, derrotado tras una polémica decisión arbitral",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/804097b2-4f97-4e27-9f1f-2db6f2c4370c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "bilbao",
+            "castilla",
+            "polemica",
+            "athletic",
+            "derrota"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/02/14/derrota-polemica-bilbao-athletic-castilla-10701089.html",
+        "date": "2026-02-14 16:56:08",
+        "sentiment_score": -0.8977823760360479
+    },
+    {
+        "title": "Trinitarios de Antequera acercan la realidad de las cárceles en una charla en Almodóvar del Campo",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/Los-padres-Antonio-Jimenez-y-Vicente-Elipe-junto-a-Isabel-Fernandez-al-inicio-del-acto.jpg",
+        "tags": [
+            "almodóvar del campo",
+            "san juan bautista de la concepción",
+            "ayuntamiento de almodóvar del campo",
+            "provincia de ciudad real",
+            "día grande"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/trinitarios-de-antequera-acercan-la-realidad-de-las-carceles-en-una-charla-en-almodovar-del-campo/",
+        "date": "2026-02-14 16:49:15",
+        "sentiment_score": -0.007536381483078003
+    },
+    {
+        "title": "En busca del sustituto de Jules Koundé: el Barça blinda el futuro de una joya de 18 años de la Masía",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/29/culemania/primer-equipo/1003742727639_15718483_1706x960.jpg",
+        "tags": [
+            "la masía",
+            "secciones",
+            "barça b"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260214/sustituto-jules-kounde-barca-blinda-futuro-masia/1003742732692_0.html",
+        "date": "2026-02-14 17:36:23",
+        "sentiment_score": 0.48496103286743164
+    },
+    {
+        "title": "Fernando Alonso, ¿un año más en el infierno?: a qué puede aspirar el Aston Martin en 2026",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/02/14/C90A11BC-F7C2-46CC-BBEA-96A62A7BC173/fernando-alonso-lawrence-stroll-adrian-newey_98.jpg?crop=3264%2C1836%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "deportes",
+            "motor",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/motor/fernando-alonso-ano-mas-infierno-que-puede-aspirar-aston-martin-2026_202602146990afc91817b41eb64802c8.html",
+        "date": "2026-02-14 17:24:25",
+        "sentiment_score": -0.8998808227479458
+    },
+    {
+        "title": "‘La desbandá’, de Enrique Brinkmann",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/02/13/698f4e01ec5a0.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavozdealmeria.com/opinion/462463/desbanda-enrique-brinkmann.html",
+        "date": "2026-02-14 17:20:36",
+        "sentiment_score": -0.4637167304754257
+    },
+    {
+        "title": "La palabra que se utiliza en Barcelona para referirse a los abuelos y que deberían utilizar el resto",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/09/19/vivir-en-barcelona/1003742690279_15718474_1706x960.jpg",
+        "tags": [
+            "historia",
+            "vivir en barcelona",
+            "curiosidades"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260214/palabra-utiliza-barcelona-referirse-abuelos-deberian-utilizar-resto/1003742732690_0.html",
+        "date": "2026-02-14 17:17:18",
+        "sentiment_score": 0.11853291094303131
+    },
+    {
+        "title": "El Barcelona pide ahora sanciones para los árbitros tras pagar a Negreira 17 años años sin consecuencias",
+        "image_url": "https://okdiario.com/img/2026/02/14/imagen_recortada-2026-02-14t180427.809.jpg",
+        "tags": [
+            "fc barcelona",
+            "arbitros",
+            "barcelona",
+            "fútbol",
+            "deportes",
+            "real federación española de fútbol (rfef)",
+            "caso negreira"
+        ],
+        "link": "https://okdiario.com/deportes/barcelona-pide-ahora-sanciones-arbitros-pagar-negreira-17-anos-anos-sin-consecuencias-16245595",
+        "date": "2026-02-14 17:13:57",
+        "sentiment_score": -0.9030229039490223
+    },
+    {
+        "title": "El Barça echa el freno a las renovaciones en la Masía para evitar otro 'caso Dro': modificación de las cláusulas",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/16/culemania/secciones/1003742707947_15718468_1706x960.jpg",
+        "tags": [
+            "barça b",
+            "la masía",
+            "fichajes barça",
+            "barça",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260214/barca-renovaciones-masia-evitar-dro-modificacion-clausulas/1003742732686_0.html",
+        "date": "2026-02-14 17:13:07",
+        "sentiment_score": 0.054380834102630615
+    },
+    {
+        "title": "La Real Sociedad gana por primera vez el Campeonato de España de clubes en pista cubierta",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/14/la-real-sociedad-gana-por-primera-vez-el-campeonato-de-espana-de-clubes-en-pista-cubierta/",
+        "date": "2026-02-14 17:03:23",
+        "sentiment_score": 0.5222979858517647
+    },
+    {
+        "title": "Nosotros, los majaderos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6a1c3044-8e40-4da8-8dbe-ca85983e550d_16-9-aspect-ratio_default_0_x1079y520.jpg",
+        "tags": [
+            "valencia",
+            "agua",
+            "fútbol",
+            "el valencia"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2026/02/14/levante-valencia-derbi-126831508.html",
+        "date": "2026-02-14 17:01:00",
+        "sentiment_score": -0.1486186385154724
     }
 ];
