@@ -1,201 +1,5 @@
 export default [
     {
-        "title": "Sanzol retrata el duelo por un hermano, “teatro de difuntos para dar fuerza a los vivos”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/13ef2485-0105-40e9-b6d2-0ac15cb752be_16-9-aspect-ratio_default_0_x870y693.jpg",
-        "tags": [
-            "teatro",
-            "hermano",
-            "sanzol",
-            "duelo",
-            "retrata"
-        ],
-        "link": "https://www.noticiasdenavarra.com/cultura/2026/02/11/sanzol-retrata-duelo-hermano-teatro-10689070.html",
-        "date": "2026-02-11 17:56:48",
-        "sentiment_score": -0.7001674845814705
-    },
-    {
-        "title": "Álvaro Martín recibe el Premio Nacional del Deporte 2024",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2026/02/11/1506790303-RO9pW0NWLY0A3qdFOrJdghI-1200x840@Hoy.jpg",
-        "tags": [
-            "martin",
-            "deporte",
-            "nacional",
-            "recibe",
-            "premio",
-            "alvaro",
-            "2024"
-        ],
-        "link": "https://www.hoy.es/deportes/mas-deportes/alvaro-martin-recibe-premio-nacional-deporte-2024-20260211184332-nt.html",
-        "date": "2026-02-11 17:55:24",
-        "sentiment_score": 0.36898890882730484
-    },
-    {
-        "title": "La Unidad Militar de Emergencias llega a Ciudad Real ante el desbordamiento del río Bullaque",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/11/IMG_9564-kLJ-U20661213110L4H-1200x840@RC.jpg",
-        "tags": [
-            "protección civil",
-            "inundaciones",
-            "ciudad real (provincia)",
-            "castilla-la mancha"
-        ],
-        "link": "https://www.ideal.es/sociedad/unidad-militar-emergencias-llega-ciudad-real-ante-20260211185044-ntrc.html",
-        "date": "2026-02-11 17:50:46",
-        "sentiment_score": -0.8114386647939682
-    },
-    {
-        "title": "El FC Barcelona visitará San Mamés el domingo 8 de marzo y el Real Madrid jugará en Vigo un día antes",
-        "image_url": "https://www.infobae.com/resizer/v2/QEHATGFBG5CGLG4Y3K5VE46XXY.jpg?auth=c322d532f616e6d09b5aac6948c8e8012ae6b41e7ea1c82f6e3bb6e20229d2ea&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/11/el-fc-barcelona-visitara-san-mames-el-domingo-8-de-marzo-y-el-real-madrid-jugara-en-vigo-un-dia-antes/",
-        "date": "2026-02-11 17:46:44",
-        "sentiment_score": 0.01756683737039566
-    },
-    {
-        "title": "El Real Madrid alcanza un acuerdo con la UEFA y entierra el proyecto de la Superliga",
-        "image_url": "https://s10.s3c.es/imag/_v0/6000x4000/c/c/9/1200x655_florentino_madrid.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.eleconomista.es/actualidad/noticias/13772803/02/26/el-real-madrid-alcanza-un-acuerdo-con-la-uefa-y-entierra-el-proyecto-de-la-superliga.html",
-        "date": "2026-02-11 17:42:42",
-        "sentiment_score": 0.3525438830256462
-    },
-    {
-        "title": "La revelación de la Premier League que se pone a tiro del Real Madrid en pleno divorcio de Carvajal con Arbeloa",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/10/culemania/real-madrid/1003742731471_15703831_1706x960.jpg",
-        "tags": [
-            "dani carvajal",
-            "premier league",
-            "fichajes real madrid",
-            "real madrid"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260211/revelacion-premier-league-real-madrid-carvajal-arbeloa/1003742731782_0.html",
-        "date": "2026-02-11 17:42:34",
-        "sentiment_score": -0.9422066723927855
-    },
-    {
-        "title": "El Plan Alternativo de la línea de tren Madrid-Andalucía tras el accidente se amplía hasta el 16 de febrero",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/EuropaPress_7237031_renfe_ajusta_levemente_horarios_plan_alternativo_transporte-1.jpg",
-        "tags": [
-            "nacional",
-            "andalucía"
-        ],
-        "link": "https://www.lanzadigital.com/nacional/el-plan-alternativo-de-la-linea-de-tren-madrid-andalucia-tras-el-accidente-se-amplia-hasta-el-16-de-febrero/",
-        "date": "2026-02-11 17:41:45",
-        "sentiment_score": -0.20585833489894867
-    },
-    {
-        "title": "Fiscalía y Abogacía apoyan amnistiar a Puigdemont ante la negativa de la Justicia española",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/11/fiscalia-y-abogacia-apoyan-amnistiar-a-puigdemont-ante-la-negativa-de-la-justicia-espanola/",
-        "date": "2026-02-11 17:34:26",
-        "sentiment_score": -0.7329437732696533
-    },
-    {
-        "title": "Alcaldes de Junts y del PSC pugnan en el Congreso por la ley de la multirreincidencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UOB2XACFE5AN5CR4ZZBD3LXHGE.jpg?auth=e66e584e65a3526a04ea1c461dceb7e839f8575f128aab63df2ff8ce2505bd5f&width=1200",
-        "tags": [
-            "barcelona",
-            "psc",
-            "congreso diputados",
-            "juntsxcat",
-            "delincuencia",
-            "sabadell (barcelona)",
-            "cataluña",
-            "alcaldía"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2026-02-11/alcaldes-de-junts-y-del-psc-pugnan-en-el-congreso-por-la-ley-de-la-multirreincidencia.html",
-        "date": "2026-02-11 17:55:18",
-        "sentiment_score": -0.48528842628002167
-    },
-    {
-        "title": "Los premios Ciutat de Barcelona reivindican la cultura y la ciencia en \"tiempos convulsos\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e86118ac-ba01-4ff9-9e83-b76e9abe0817_alta-libre-aspect-ratio_default_0_x960y426.jpg",
-        "tags": [
-            "barcelona",
-            "premis ciutat de barcelona",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20260211/ayuntamiento-de-barcelona-concejal-marce-entrega-premios-ciutat-de-barcelona-126728086",
-        "date": "2026-02-11 17:55:04",
-        "sentiment_score": -0.7254379913210869
-    },
-    {
-        "title": "El fuerte viento deja varias incidencias en Carballo",
-        "image_url": "https://cflvdg.avoz.es/sc/z71XI1FtE7QvBbbxyR6EqTon2zY=/768x/2026/02/11/00121770832441674179310/Foto/asdadaulo.jpg",
-        "tags": [
-            "sucesos",
-            "carballo municipio"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/carballo/carballo/2026/02/11/fuerte-viento-deja-varias-incidencias-carballo/00031770830658289645984.htm",
-        "date": "2026-02-11 17:55:01",
-        "sentiment_score": -0.6547567956149578
-    },
-    {
-        "title": "El mal tiempo obliga a desviar y a cancelar vuelos tanto en Peinador como en Alvedro",
-        "image_url": "https://www.galiciapress.es/images/285310",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.galiciapress.es/articulo/ultima-hora/2026-02-11/5768961-mal-tiempo-obliga-desviar-cancelar-vuelos-tanto-peinador-como-alvedro",
-        "date": "2026-02-11 17:54:04",
-        "sentiment_score": -0.8867856776341796
-    },
-    {
-        "title": "Pubill: “Empezar en casa nos va a ir bien”",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/11/pubill-empezar-en-casa-nos-va-a-ir-bien/",
-        "date": "2026-02-11 17:45:36",
-        "sentiment_score": 0.7224955223500729
-    },
-    {
-        "title": "Un exsoldado marroquí inicia una huelga de hambre en Barcelona para exigir asilo",
-        "image_url": "https://album.mediaset.es/eimg/2026/02/11/europapress-7278497-tiendas-campana-desalojo-asentamiento-zona-franca-10-febrero-2026-barcelona_fb50.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.telecinco.es/noticias/catalunya/20260211/exsoldado-marroqui-inicia-huelga-barcelona_18_018324867.html",
-        "date": "2026-02-11 17:44:36",
-        "sentiment_score": -0.0997977927327156
-    },
-    {
-        "title": "«Sí, quiero» a los 88 años: la historia de amor entre Pep y Mercedes en la Llar d’Ancians Palma que acaba en boda",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3670451.jpg",
-        "tags": [
-            "ceremonia",
-            "llar d'ancians",
-            "palma",
-            "bodas en mallorca",
-            "imas",
-            "tendencias",
-            "sociedad",
-            "boda",
-            "última hora"
-        ],
-        "link": "https://www.ultimahora.es/noticias/sociedad/2026/02/11/2568431/quiero-anos-historia-amor-entre-pep-mercedes-acaba-boda-llar-ancians-palma.html",
-        "date": "2026-02-11 17:44:00",
-        "sentiment_score": -0.06507569551467896
-    },
-    {
-        "title": "AP institute y AeroS reúnen a altos cargos de Defensa, Industria y grandes compañías para facilitar la entrada de empresas en el sector",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2026/02/Diseno-sin-titulo-53-1000x665.jpg",
-        "tags": [
-            "hemeroteca"
-        ],
-        "link": "https://www.economiadigital.es/hemeroteca/ap-institute-aeros-defensa-industria-companias.html",
-        "date": "2026-02-11 17:43:19",
-        "sentiment_score": 0.1283950563520193
-    },
-    {
         "title": "El Real Madrid remonta en París para acercar el Clásico",
         "image_url": "https://www.latribunadetoledo.es/media/img/2026/2701a3ed-7340-4a97-87b40096b220948e.jpg",
         "tags": [
@@ -3006,5 +2810,238 @@ export default [
         "link": "https://www.laprovincia.es/carnaval-de-las-palmas/2026/02/15/son-disfraces-originales-primera-salida-126849474.html",
         "date": "2026-02-14 23:45:12",
         "sentiment_score": 0.643535178154707
+    },
+    {
+        "title": "Vox también busca el 'sorpasso' en Cantabria",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2026/02/15/PORTADA%20DESKTOP%20VOX%20CANTABRIA%202026.png",
+        "tags": [
+            "santiago abascal",
+            "vox cantabria",
+            "leticia díaz",
+            "cantabria (provincia)",
+            "vox",
+            "laura velasco"
+        ],
+        "link": "https://www.eldiariomontanes.es/cantabria/vox-busca-sorpasso-cantabria-20260215164317-nt.html",
+        "date": "2026-02-15 06:38:25",
+        "sentiment_score": -0.2617496848106384
+    },
+    {
+        "title": "\"Líderes (provisionales)\" y \"el Madrid enamora\", la victoria blanca en la prensa de este domingo",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "la liga 2025/2026"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/portadas-prensa-deportiva-principales-medios-naciones-internacionales-hoy-domingo-15-febrero_sto23271041/story.shtml",
+        "date": "2026-02-15 06:24:45",
+        "sentiment_score": 0.151334710419178
+    },
+    {
+        "title": "El pelotazo del Real Murcia con los marcadores del Bernabéu",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/01/18/696ca23f86f6d.jpeg",
+        "tags": [
+            "ud almería"
+        ],
+        "link": "https://www.lavozdealmeria.com/ud-almeria/436179/odisea-real-murcia-marcadores-bernabeu.html",
+        "date": "2026-02-15 06:20:30",
+        "sentiment_score": 0.49935078620910645
+    },
+    {
+        "title": "Repsol: “El hidrógeno verde será rentable solo si la electricidad baja de 15 euros”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/14/6990b4590e606.r_d.2416-1262-0.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20260215/11466597/repsol-hidrogeno-sera-rentable-electricidad-baja-15-euros.html",
+        "date": "2026-02-15 06:18:27",
+        "sentiment_score": -0.5624055843800306
+    },
+    {
+        "title": "Luka Doncic elige entre Boca y River... y sorprende: “Real Madrid”",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/01/2025120107301242914.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/luka-doncic-elige-entre-boca-river-sorprende-real-madrid/20260215071625374829.html",
+        "date": "2026-02-15 06:16:25",
+        "sentiment_score": 0.5511963777244091
+    },
+    {
+        "title": "Trent Alexander-Arnold y el renacer blanco: un guante al servicio de Arbeloa",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/15/2026021506584980600.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/trent-alexander-arnold-renacer-blanco-guante-servicio-arbeloa/20260215070615374828.html",
+        "date": "2026-02-15 06:06:15",
+        "sentiment_score": 0.8251342885196209
+    },
+    {
+        "title": "Doña Sofía y el ‘birretazo’",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/955aeaca-dff6-479f-90d8-6c119d6a8422_16-9-aspect-ratio_default_0_x606y234.jpg",
+        "tags": [
+            "universidad",
+            "comunidad",
+            "ulpgc",
+            "la reina"
+        ],
+        "link": "https://www.laprovincia.es/opinion/2026/02/15/dona-sofia-birretazo-126850342.html",
+        "date": "2026-02-15 06:01:09",
+        "sentiment_score": -0.8686370942741632
+    },
+    {
+        "title": "Unicaja-Real Madrid: la Liga Endesa, antes que la Copa del Rey",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a3cc9f63-b9de-438d-b96a-98053ccba4b6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "endesa",
+            "copa del rey",
+            "ibon navarro",
+            "valencia",
+            "real madrid",
+            "la liga",
+            "unicaja"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2026/02/15/unicaja-real-madrid-liga-copa-previa-126848431.html",
+        "date": "2026-02-15 06:01:07",
+        "sentiment_score": -0.7513743825256824
+    },
+    {
+        "title": "Semana copera",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/11a93cef-4605-4227-be31-220ed4a67107_16-9-aspect-ratio_default_0_x1000y407.jpg",
+        "tags": [
+            "competición",
+            "baskonia",
+            "unicaja",
+            "real madrid"
+        ],
+        "link": "https://www.laopiniondemalaga.es/opinion/2026/02/15/semana-copera-analisis-copa-rey-2026-126840213.html",
+        "date": "2026-02-15 06:00:58",
+        "sentiment_score": 0.743497222661972
+    },
+    {
+        "title": "AEMET prevé nubes altas y viento fuerte en Barcelona con descenso de temperaturas mínimas",
+        "image_url": "https://okdiario.com/img/2026/02/15/el-tiempo-despues-de-la-tormenta.-europa-press.jpg",
+        "tags": [
+            "españa",
+            "cataluña",
+            "okd",
+            "previsión del tiempo",
+            "tiempo",
+            "agencia estatal de meteorología (aemet)"
+        ],
+        "link": "https://okdiario.com/cataluna/aemet-preve-nubes-altas-y-viento-fuerte-en-barcelona-con-descenso-de-temperaturas-minimas-16247260",
+        "date": "2026-02-15 06:25:26",
+        "sentiment_score": 0.14950332045555115
+    },
+    {
+        "title": "Los extranjeros ya protagonizan la mitad de las compras de vivienda en barrios como la Barceloneta",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/07/23/62dc3233950bc.r_d.623-614-3459.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20260215/11466914/extranjeros-protagonizan-mitad-compras-vivienda-barrios-barceloneta.html",
+        "date": "2026-02-15 06:18:40",
+        "sentiment_score": 0.004972979426383972
+    },
+    {
+        "title": "Bad Rufián o Gabriel Bunny",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/02/14/el-politico-gabriel-rufian-y-el-cantante-bad-bunny.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.huffingtonpost.es/opinion/bad-rufian-gabriel-bunny-f202602.html",
+        "date": "2026-02-15 06:11:04",
+        "sentiment_score": -0.7093039378523827
+    },
+    {
+        "title": "Nadal, Gasol o Gerard Piqué: así invierten los grandes exdeportistas españoles",
+        "image_url": "https://s10.s3c.es/imag/_v0/6349x3353/d/8/9/1200x655_imagen.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.eleconomista.es/actualidad/noticias/13746073/01/26/nadal-gasol-o-gerard-pique-asi-invierten-los-grandes-exdeportistas-espanoles.html",
+        "date": "2026-02-15 06:00:29",
+        "sentiment_score": 0.44003481417894363
+    },
+    {
+        "title": "Las brujas y los brujos de Paul Urkijo en los Goya",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/addebecf-96cb-42b3-b49c-d64788c41314_16-9-aspect-ratio_default_0_x2351y999.jpg",
+        "tags": [
+            "paul",
+            "alava",
+            "premios",
+            "gasteiz",
+            "urkijo",
+            "goya",
+            "araba",
+            "barcelona",
+            "gala",
+            "gaua",
+            "brujos",
+            "vitoria",
+            "brujas",
+            "cine"
+        ],
+        "link": "https://www.noticiasdealava.eus/cultura/2026/02/15/brujas-brujos-paul-urkijo-goya-cine-premios-gaua-gala-barcelona-vitoria-gasteiz-alava-araba-10672726.html",
+        "date": "2026-02-15 06:00:21",
+        "sentiment_score": 0.09830179810523987
+    },
+    {
+        "title": "“No me sorprendería que, en este contexto del aniversario, el Estado reconozca que el 3M fue una barbaridad”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/fdfa4992-312a-4a01-94d1-36b1196ee60c_16-9-aspect-ratio_default_0_x961y304.jpg",
+        "tags": [
+            "gogora",
+            "contexto",
+            "aniversario",
+            "reconozca",
+            "3",
+            "alberto",
+            "marzo",
+            "1976",
+            "barbaridad",
+            "alava",
+            "gasteiz",
+            "estado",
+            "fue",
+            "sorprenderia",
+            "alonso",
+            "araba",
+            "vitoria"
+        ],
+        "link": "https://www.noticiasdealava.eus/gasteiz/2026/02/15/alberto-alonso-gogora-sorprenderia-contexto-aniversario-estado-reconozca-3-marzo-1976-fue-barbaridad-vitoria-gasteiz-alava-araba-10680674.html",
+        "date": "2026-02-15 06:00:21",
+        "sentiment_score": 0.4565006121993065
+    },
+    {
+        "title": "Abdón Pedrajas Littler refuerza su estructura con la promoción de Teresa Trigueros y Patricia Madrona a asociadas principales",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2026/02/teresa-triguero-3.jpg",
+        "tags": [
+            "znoticia portada3",
+            "actualidad",
+            "asociadas principales",
+            "patricia madrona",
+            "abdón pedrajas littler",
+            "derecho laboral",
+            "noticias jurídicas",
+            "teresa trigueros",
+            "app",
+            "despachos laboralistas",
+            "despachos y abogados",
+            "promociones internas"
+        ],
+        "link": "https://www.economistjurist.es/actualidad-juridica/abdon-pedrajas-littler-refuerza-su-estructura-con-la-promocion-de-teresa-trigueros-y-patricia-madrona-a-asociadas-principales/",
+        "date": "2026-02-15 06:00:11",
+        "sentiment_score": -0.07180282473564148
+    },
+    {
+        "title": "La DGT lo confirma: aparcar en doble fila cuando dejas a tus hijos al colegio puede costarte hasta 200 euros",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/06/nino-silla-infantil-coche.jpeg",
+        "tags": [
+            "movilidad"
+        ],
+        "link": "https://www.20minutos.es/motor/movilidad/dgt-confirma-aparcar-doble-fila-dejas-hijos-colegio-puede-costarte-200-euros_6931030_0.html",
+        "date": "2026-02-15 06:00:00",
+        "sentiment_score": -0.7669427786022425
     }
 ];
