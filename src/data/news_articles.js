@@ -1,177 +1,5 @@
 export default [
     {
-        "title": "'Hasta aquí': por qué aprender a poner límites puede ser la mejor inversión en tu salud mental",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260211080346_690.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-aqui-aprender-poner-limites-puede-ser-mejor-inversion-salud-mental-20260211080346.html",
-        "date": "2026-02-11 07:03:46",
-        "sentiment_score": -0.8664262471720576
-    },
-    {
-        "title": "Esta preciosa catedral es la primera en ser nombrada Patrimonio de la Humanidad",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/09/A4D9486F-AD86-4F91-B6B5-91080FD2A5CC/catedral-burgos_69.jpg?crop=2000%2C1125%2Cx0%2Cy71&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "castilla y león",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/castilla-y-leon/esta-preciosa-catedral-primera-ser-nombrada-patrimonio-humanidad_20260211698c29021817b41eb64074be.html",
-        "date": "2026-02-11 07:00:18",
-        "sentiment_score": 0.8678757753223181
-    },
-    {
-        "title": "Los temporales cercan la pesca de bajura y el pastoreo de carne en Lugo",
-        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2026/02/11/2026021101203741917.jpg",
-        "tags": [
-            "terra e mar"
-        ],
-        "link": "https://www.elprogreso.es/articulo/terra-mar/temporales-cercan-pesca-bajura-pastoreo-carne/202602110756111944958.html",
-        "date": "2026-02-11 06:56:11",
-        "sentiment_score": -0.8784467466175556
-    },
-    {
-        "title": "Alquilar en Lanzarote, Fuerteventura y Gran Canaria requiere el 38% de ingresos y comprar, el 27%",
-        "image_url": "https://www.lavozdelanzarote.com/uploads/s1/34/87/47/1/mg-1414_3_400x229.jpeg",
-        "tags": [
-            "vivienda"
-        ],
-        "link": "https://www.lavozdelanzarote.com/ekonomus/vivienda/alquilar-en-lanzarote-fuerteventura-gran-canaria-requiere-38-ingresos-comprar-27_241230_102.html",
-        "date": "2026-02-11 06:47:37",
-        "sentiment_score": 0.3928775005042553
-    },
-    {
-        "title": "El curioso refrán invernal que sólo escuchas en Castilla y León pero que tendría sentido en más regiones españolas",
-        "image_url": "https://okdiario.com/img/2026/02/09/burgos.jpg",
-        "tags": [
-            "español",
-            "burgos",
-            "castellano",
-            "curiosidades",
-            "palabras",
-            "frases",
-            "lenguaje"
-        ],
-        "link": "https://okdiario.com/curiosidades/curioso-refran-invernal-que-solo-escuchas-castilla-leon-pero-que-tendria-sentido-mas-regiones-espanolas-16217281",
-        "date": "2026-02-11 06:45:32",
-        "sentiment_score": -0.22780904173851013
-    },
-    {
-        "title": "Ayuso pide el fin de «narcoestados de ultraizquierda» y ve en Venezuela la «herida más importante» por curar",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/EuropaPress_7279323_presidenta_comunidad_madrid_isabel_diaz_ayuso_presenta_primera_estrategia-scaled.jpg",
-        "tags": [
-            "nacional",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://www.lanzadigital.com/nacional/ayuso-pide-el-fin-de-narcoestados-de-ultraizquierda-y-ve-en-venezuela-la-herida-mas-importante-por-curar/",
-        "date": "2026-02-11 06:31:43",
-        "sentiment_score": -0.027190595865249634
-    },
-    {
-        "title": "Madrid presentó la primera Estrategia de Drones",
-        "image_url": "https://actualidadaeroespacial.com/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "díaz ayuso",
-            "estrategia",
-            "madrid",
-            "drones",
-            "industria"
-        ],
-        "link": "https://actualidadaeroespacial.com/madrid-presento-la-primera-estrategia-de-drones/",
-        "date": "2026-02-11 06:31:13",
-        "sentiment_score": 0.6951106451451778
-    },
-    {
-        "title": "Modesto Barragán, elegido el mejor presentador autonómico",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/02/10/698af81f18ac7.jpeg",
-        "tags": [
-            "series y tv"
-        ],
-        "link": "https://www.lavozdealmeria.com/series-y-tv/457889/modesto-barragan-elegido-mejor-presentador-autonomico.html",
-        "date": "2026-02-11 06:30:00",
-        "sentiment_score": -0.02549031376838684
-    },
-    {
-        "title": "Deco: \"Lamine tiene una ventaja sobre los demás, es muy inteligente, ha aprendido mucho en la vida\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9124d8ec-61c0-493d-aaf3-4080e308eb15_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "fútbol",
-            "entrevistas",
-            "fc barcelona"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2026/02/11/deco-lamine-ventaja-inteligente-aprendido-126691759.html",
-        "date": "2026-02-11 06:19:54",
-        "sentiment_score": 0.07896111160516739
-    },
-    {
-        "title": "Sánchez y Feijóo afrontan su primer duelo en el Congreso tras los accidentes de tren y los comicios en Aragón",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d2752d0e-0d4d-4afd-bcbc-bb848368b8bc_16-9-aspect-ratio_default_0_x644y0.jpg",
-        "tags": [
-            "feijoo",
-            "primer",
-            "afrontan",
-            "duelo",
-            "sanchez"
-        ],
-        "link": "https://www.deia.eus/politica/2026/02/11/sanchez-feijoo-afrontan-primer-duelo-10685322.html",
-        "date": "2026-02-11 07:11:33",
-        "sentiment_score": -0.38085491210222244
-    },
-    {
-        "title": "Un ex jugador del Barça se hace viral: aparece sin camiseta cosiendo en casa",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/30/2025103021484811334.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/ex-jugador-barca-hace-viral-aparece-camiseta-cosiendo-casa/20260211080939374311.html",
-        "date": "2026-02-11 07:09:39",
-        "sentiment_score": 0.49659527093172073
-    },
-    {
-        "title": "Aviso del Meteocat: alerta amarilla por vientos en toda Barcelona de hasta 80 km/h",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2026/02/07/6987406cdfff0.r_d.2712-2517.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20260211/1002618613/aviso-meteocat-alerta-amarilla-vientos-toda-barcelona-80-km-h-dct.html",
-        "date": "2026-02-11 07:03:37",
-        "sentiment_score": -0.7044519558548927
-    },
-    {
-        "title": "España hoy, 11 de febrero de 2026: lo que tienes que saber",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/tren-afectado-via-irun.jpg",
-        "tags": [
-            "estados unidos",
-            "europa",
-            "venezuela",
-            "gaza",
-            "bruselas",
-            "israel",
-            "aranceles",
-            "españa",
-            "china"
-        ],
-        "link": "https://theobjective.com/espana/2026-02-11/espana-hoy-11-de-febrero-de-2026-lo-que-tienes-que-saber/",
-        "date": "2026-02-11 07:02:39",
-        "sentiment_score": -0.5776998810470104
-    },
-    {
-        "title": "En directo desde el Congreso: El accidente de Adamuz, eje de la comparecencia de Sánchez con un PP crítico y Vox al alza",
-        "image_url": "https://static.grupojoly.com/clip/d2b81d1b-fbd1-41d1-babf-1fb10d6e056a_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "video-ext",
-            "congreso",
-            "directo",
-            "accidente",
-            "eje",
-            "adamuz"
-        ],
-        "link": "https://www.malagahoy.es/espana/video-ext-directo-congreso-accidente-adamuz-eje_7_2005875218.html",
-        "date": "2026-02-11 06:59:38",
-        "sentiment_score": -0.7983031645417213
-    },
-    {
         "title": "Sanzol retrata el duelo por un hermano, “teatro de difuntos para dar fuerza a los vivos”",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/13ef2485-0105-40e9-b6d2-0ac15cb752be_16-9-aspect-ratio_default_0_x870y693.jpg",
         "tags": [
@@ -2741,5 +2569,215 @@ export default [
         "link": "https://www.levante-emv.com/opinion/2026/02/14/levante-valencia-derbi-126831508.html",
         "date": "2026-02-14 17:01:00",
         "sentiment_score": -0.1486186385154724
+    },
+    {
+        "title": "El Real Madrid se impone a la Real Sociedad con un gran Vinicius y pone fin al ‘efecto Matarazzo’",
+        "image_url": "https://www.infobae.com/resizer/v2/LNMQGREARFHTHE2ULSFSSXTK54.JPG?auth=35861fba1d8b5ac2b216744e011f8307b47b064473bd6d11c53e11bcb70b42f5&height=2466&smart=true&width=3506",
+        "tags": [
+            "españa deportes",
+            "real madrid",
+            "fútbol",
+            "fútbol españa",
+            "vinicius",
+            "españa noticias",
+            "laliga"
+        ],
+        "link": "https://www.infobae.com/espana/2026/02/14/el-real-madrid-se-impone-a-la-real-sociedad-con-un-gran-vinicius-y-pone-fin-al-efecto-matarazzo/",
+        "date": "2026-02-14 22:23:50",
+        "sentiment_score": 0.5280426889657974
+    },
+    {
+        "title": "Mujeres que inspiran a romper barreras",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/02/15/mujeres-RNHRMNwWY4aizi998yfTQ3I-1200x840@Ideal.jpeg",
+        "tags": [
+            "industria",
+            "trabajo",
+            "empleo",
+            "mujeres",
+            "universidad de almería",
+            "almería"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/mujeres-inspiran-romper-barreras-20260215130516-nt.html",
+        "date": "2026-02-14 22:23:18",
+        "sentiment_score": -0.47447875142097473
+    },
+    {
+        "title": "22:00 | 14 FEB 2026 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-14-feb-2026-juego-20260214_3308151.html",
+        "date": "2026-02-14 22:21:27",
+        "sentiment_score": 0.04443637281656265
+    },
+    {
+        "title": "4-1. Vinícius fulmina el 'efecto Matarazzo'",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/14/4-1-vinicius-fulmina-el-efecto-matarazzo/",
+        "date": "2026-02-14 22:16:00",
+        "sentiment_score": 0.19278085231781006
+    },
+    {
+        "title": "La Real cae ante el Real Madrid con dos penaltis polémicos (4-1)",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/983b75d9-16f4-4ebb-bebd-e74610b3dc85_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "penaltis",
+            "madrid",
+            "real",
+            "cae"
+        ],
+        "link": "https://www.noticiasdenavarra.com/futbol/2026/02/14/real-cae-real-madrid-penaltis-10702158.html",
+        "date": "2026-02-14 22:15:44",
+        "sentiment_score": -0.14840632677078247
+    },
+    {
+        "title": "El Real Madrid se pasea ante la Real Sociedad para acabar con su racha y dormir líder de LaLiga",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2741566.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/el-real-madrid-se-pasea-ante-la-real-sociedad-para-acabar-con-su-racha-y-dormir-lider-de-laliga.html",
+        "date": "2026-02-14 22:11:29",
+        "sentiment_score": 0.48682136088609695
+    },
+    {
+        "title": "Vinícius fulmina el 'efecto Matarazzo'",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/e289e41b-48e3-4e99-80ded11fc66ce906.jpg",
+        "tags": [
+            "fede valverde",
+            "eduardo camavinga",
+            "vinícius júnior",
+            "champions league",
+            "san mamés",
+            "kylian mbappé",
+            "santiago bernabéu",
+            "thibaut courtois",
+            "aurélien tchouaméni",
+            "real sociedad",
+            "real madrid",
+            "josé mourinho"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z13cc64fd-037c-4e49-befadaf4c7bb4ba2/202602/vinicius-fulmina-el-efecto-matarazzo",
+        "date": "2026-02-14 22:09:58",
+        "sentiment_score": 0.2699923813343048
+    },
+    {
+        "title": "El Madrid presiona el liderato del Barça tras una sólida victoria ante la Real Sociedad",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/14/2026021423075388584.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/madrid-presiona-liderato-barca-solida-victoria-real-sociedad/20260214230821374795.html",
+        "date": "2026-02-14 22:08:21",
+        "sentiment_score": 0.7253315076231956
+    },
+    {
+        "title": "El Real Madrid golea a la Real Sociedad y duerme líder (4-1)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/14/el-real-madrid-golea-a-la-real-sociedad-y-duerme-lider-4-1/",
+        "date": "2026-02-14 22:00:52",
+        "sentiment_score": 0.6526172608137131
+    },
+    {
+        "title": "Los penaltis de Vinícius, el oportunismo de Gonzalo y las dudas de Huijsen",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/14/los-penaltis-de-vinicius-el-oportunismo-de-gonzalo-y-las-dudas-de-huijsen/",
+        "date": "2026-02-14 22:00:36",
+        "sentiment_score": -0.7685913555324078
+    },
+    {
+        "title": "Incógnita despejada: Dua Lipa con Callum Turner en la alfombra roja de 'Rosebush Pruning'",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/14/incognita-despejada-dua-lipa-con-callum-turner-en-la-alfombra-roja-de-rosebush-pruning/",
+        "date": "2026-02-14 22:20:23",
+        "sentiment_score": -0.5899609513580799
+    },
+    {
+        "title": "Entregan nueva etapa recuperada del Centro Histórico de Barcelona",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/02/Anzoategui-225x300.jpg",
+        "tags": [
+            "actualidad",
+            "anzoátegui"
+        ],
+        "link": "https://ultimasnoticias.com.ve/actualidad/entregan-nueva-etapa-recuperada-del-centro-historico-de-barcelona/",
+        "date": "2026-02-14 22:19:20",
+        "sentiment_score": -0.03677937388420105
+    },
+    {
+        "title": "La licencia 1C del Spotify Camp Nou apunta a mediados de marzo: el Ayuntamiento retrasa los plazos",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/23/culemania/palco/1003742709946_15436226_1706x960.jpg",
+        "tags": [
+            "palco",
+            "fc barcelona",
+            "camp nou",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260214/licencia-spotify-camp-nou-mediados-ayuntamiento-retrasa/1003742732719_0.html",
+        "date": "2026-02-14 22:14:30",
+        "sentiment_score": -0.44335975497961044
+    },
+    {
+        "title": "El directivo de Laporta que triunfa en el sector inmobiliario y factura más de tres millones de euros con cuatro sociedades",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/14/culemania/palco/1003742732705_15718604_1706x960.jpg",
+        "tags": [
+            "joan laporta",
+            "palco",
+            "elecciones barça",
+            "junta directiva del barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260214/directivo-laporta-triunfa-inmobiliario-factura-millones-sociedades/1003742732702_0.html",
+        "date": "2026-02-14 22:14:29",
+        "sentiment_score": 0.7816131189465523
+    },
+    {
+        "title": "El alto precio que pagó el Barça con el viejo Camp Nou alumbra a Laporta: tres Ligas en 25 años",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/13/culemania/palco/1003742732500_15716443_1706x960.jpg",
+        "tags": [
+            "palco",
+            "laliga",
+            "joan laporta",
+            "espai barça",
+            "camp nou",
+            "copa del rey"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260214/precio-barca-camp-nou-alumbra-laporta-ligas/1003742732443_0.html",
+        "date": "2026-02-14 22:14:28",
+        "sentiment_score": -0.24822058528661728
+    },
+    {
+        "title": "Así va la lucha por la salvación: El Getafe de Bordalás añade dramatismo al derbi de València",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c9283b67-31b8-40c4-95b2-2cc2c274aeed_16-9-aspect-ratio_default_0_x450y203.jpg",
+        "tags": [
+            "derbi,valencia,getafe,levante,betis,orriols,oviedo,levante ud,valencia cf,carlos corberán,luís castro,entrenadores,puntos,victorias,derrotas,rayo,atlético,barcelona,descenso,laliga,ciutat de valència"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2026/02/14/lucha-salvacion-getafe-bordalas-anade-126847801.html",
+        "date": "2026-02-14 22:09:33",
+        "sentiment_score": 0.23668091744184494
+    },
+    {
+        "title": "Vinicius Jr se inventa dos penaltis para arañarle el liderato al Barça: escándalo arbitral del Real Madrid en el Bernabéu",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/14/culemania/real-madrid/1003742732739_15719114_1706x960.jpg",
+        "tags": [
+            "álvaro arbeloa",
+            "vinicius",
+            "real madrid",
+            "kylian mbappé"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260214/vinicius-jr-barca-escandalo-real-madrid-bernabeu/1003742732729_0.html",
+        "date": "2026-02-14 21:57:36",
+        "sentiment_score": -0.7872554119676352
     }
 ];
