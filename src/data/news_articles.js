@@ -1,394 +1,5 @@
 export default [
     {
-        "title": "El Real Madrid remonta en París para acercar el Clásico",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/2701a3ed-7340-4a97-87b40096b220948e.jpg",
-        "tags": [
-            "champions league",
-            "parís",
-            "fc barcelona",
-            "real madrid"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z1ee842df-4b97-4de3-adfaf975c20570ab/202602/el-real-madrid-remonta-en-paris-para-acercar-el-clasico",
-        "date": "2026-02-11 22:33:50",
-        "sentiment_score": -0.44371821731328964
-    },
-    {
-        "title": "Matarazzo, el mejor revulsivo",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/db73ffa9-d519-445b-80ee-607b6522d470_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "matarazzo",
-            "mejor",
-            "revulsivo"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/02/11/matarazzo-mejor-revulsivo-10690137.html",
-        "date": "2026-02-11 22:29:57",
-        "sentiment_score": 0.46999967098236084
-    },
-    {
-        "title": "La reunión con el CTA reafirma a los árbitros en las jugadas que no comparte el Pucela",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2026/02/11/1506632552-kaGB-U20665158728iOD-758x531@El%20Norte.jpg",
-        "tags": [
-            "real valladolid club de fútbol"
-        ],
-        "link": "https://www.elnortedecastilla.es/realvalladolid/reunion-cta-reafirma-arbitros-jugadas-comparte-pucela-20260211232145-nt.html",
-        "date": "2026-02-11 22:21:50",
-        "sentiment_score": 0.4509766027331352
-    },
-    {
-        "title": "Messi confirmó que sufrió una lesión y se postergó el amistoso del Inter Miami en Puerto Rico: cuándo se jugará",
-        "image_url": "https://www.infobae.com/resizer/v2/Q7ZQJYLB2JGWNO5KF2KVKFEQ64.JPG?auth=53f38b27fa2321d4e487eb945a96db36ed29481a50a76418ae1414b062839631&height=1503&smart=true&width=2673",
-        "tags": [
-            "lionel messi",
-            "independiente del valle",
-            "deportes-argentina",
-            "inter miami",
-            "deportes-internacional",
-            "puerto rico"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/11/messi-confirmo-que-sufrio-una-lesion-y-se-postergo-el-amistoso-del-inter-miami-en-puerto-rico-cuando-se-jugara/",
-        "date": "2026-02-11 22:20:45",
-        "sentiment_score": -0.11250060424208641
-    },
-    {
-        "title": "2-3. El Real Madrid remonta y acaricia los cuartos",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "liga de campeones",
-            "deportistas",
-            "mujer",
-            "efe",
-            "real madrid y paris fc"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/11/2-3-el-real-madrid-remonta-y-acaricia-los-cuartos/",
-        "date": "2026-02-11 22:17:44",
-        "sentiment_score": 0.8587619736790657
-    },
-    {
-        "title": "Maanum anota dos veces y Arsenal golea 4-0 al Leuven en la ida del playoff de la Champions femenina",
-        "image_url": "https://dims.apnews.com/dims4/default/769f665/2147483647/strip/true/crop/5350x3561+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb4%2Fd2%2F4bd5572f2d8d9667ac3bd75875f7%2F674a23b985e740418ea84749be09afe3",
-        "tags": [
-            "deportes",
-            "sports",
-            "liga campeones mujeres arsenal real madrid",
-            "send to apple news"
-        ],
-        "link": "https://apnews.com/article/liga-campeones-mujeres-arsenal-real-madrid-b6db9003316b7a410e328f57affcb302",
-        "date": "2026-02-11 22:15:27",
-        "sentiment_score": 0.70505216345191
-    },
-    {
-        "title": "Maanum anota 2 veces y Arsenal golea 4-0 al Leuven en la ida del playoff de la Champions femenina",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/02/CAMPEONES-MUJERES_49056.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2026/02/11/maanum-anota-2-veces-y-arsenal-golea-4-0-al-leuven-en-la-ida-del-playoff-de-la-champions-femenina/",
-        "date": "2026-02-11 22:15:27",
-        "sentiment_score": 0.5529844462871552
-    },
-    {
-        "title": "Natalia de ‘Aquí no hay quien viva’ te da mil vueltas: por que ahora es una de las mentes matemáticas más brillantes del país",
-        "image_url": "https://static.merca2.es/wp-content/uploads/2022/01/Sofia-Nieto-Natalia-Cuesta.jpg",
-        "tags": [
-            "últimas noticias",
-            "merca2 tv"
-        ],
-        "link": "https://www.merca2.es/2026/02/11/natalia-aqui-no-hay-quien-viva-2351067/",
-        "date": "2026-02-11 22:00:00",
-        "sentiment_score": -0.0718456506729126
-    },
-    {
-        "title": "Acuerdo histórico entre UEFA y Real Madrid por la Superliga",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/02/11/2026021122435041832.jpg",
-        "tags": [
-            "noticias en la red"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/acuerdo-historico-entre-uefa-real-madrid-superliga/20260211224350441096.html",
-        "date": "2026-02-11 21:43:50",
-        "sentiment_score": 0.336611345410347
-    },
-    {
-        "title": "Una lesión de Messi lleva a posponer el partido del Inter Miami en Puerto Rico",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/11/una-lesion-de-messi-lleva-a-posponer-el-partido-del-inter-miami-en-puerto-rico/",
-        "date": "2026-02-11 22:37:00",
-        "sentiment_score": -0.6849652417004108
-    },
-    {
-        "title": "Por lesión de Messi posponen el partido del Inter Miami en Puerto Rico",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/11/por-lesion-de-messi-posponen-el-partido-del-inter-miami-en-puerto-rico/",
-        "date": "2026-02-11 22:33:17",
-        "sentiment_score": -0.5177841689437628
-    },
-    {
-        "title": "¡Recuerdas los vuelos directos! La red aérea entre EEUU y Venezuela conectó a estas diez ciudades sin escalas en su mejor época",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "#eeuu",
-            "vuelos",
-            "#venezuela"
-        ],
-        "link": "https://2001online.com/usa/internacionales/recuerda-los-vuelos-directos-la-red-aerea-entre-eeuu-y-venezuela-conecto-a-estas-diez-ciudades-sin-escalas-en-su-mejor-epoca-202621118220",
-        "date": "2026-02-11 22:22:00",
-        "sentiment_score": 0.28024888038635254
-    },
-    {
-        "title": "Tres meses después del brote de peste porcina, el origen del virus sigue sin aclararse: \"Hay muchos focos y eso es lo que lo hace muy difícil\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/11/698cd425a4140.jpeg",
-        "tags": [
-            "la linterna"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna/noticias/tres-meses-brote-peste-porcina-origen-virus-sigue-aclararse-hay-focos-dificil-20260211_3306143.html",
-        "date": "2026-02-11 22:20:26",
-        "sentiment_score": -0.2466583400964737
-    },
-    {
-        "title": "Turrientes pone en ventaja a una Real Sociedad más atrevida que el Athletic",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/11/698cf647770f7.r_d.788-577-2923.jpeg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/20260211/11464080/copa-del-rey-real-sociedad-athletic-bilbao-turrientes-ventaja-semifinales.html",
-        "date": "2026-02-11 22:03:17",
-        "sentiment_score": 0.5459725260734558
-    },
-    {
-        "title": "La filosa reflexión de un legendario entrenador cuando le compararon a Cristiano Ronaldo con Messi y Maradona",
-        "image_url": "https://www.infobae.com/resizer/v2/5CFBFDPR3NB3VBK6QJP4GGE2LE.jpg?auth=702e3c638f3e51e8eca45d57ed8dc393e6c4d2418715ea20e44d6c5a3260d614&height=1080&smart=true&width=1920",
-        "tags": [
-            "deportes-argentina",
-            "fabio capello",
-            "lionel messi",
-            "cristiano ronaldo",
-            "ronaldo nazario",
-            "diego maradona"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/12/la-filosa-reflexion-de-un-legendario-entrenador-cuando-le-compararon-a-cristiano-ronaldo-con-messi-y-maradona/",
-        "date": "2026-02-12 02:32:28",
-        "sentiment_score": 0.42862898111343384
-    },
-    {
-        "title": "Echan a De Zerbi... y el Marsella entra en modo urgencia para el tramo final de la temporada",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/21/2026012105403391790.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/echan-zerbi-marsella-entra-modo-urgencia-tramo-final-temporada/20260212032530374412.html",
-        "date": "2026-02-12 02:25:30",
-        "sentiment_score": 0.11796596646308899
-    },
-    {
-        "title": "Laporta y una palanca millonaria cortesía de Arabia Saudí: ¿se viene una venta sorpresiva?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/08/2025050808360726078.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/laporta-palanca-millonaria-cortesia-arabia-saudi-viene-venta-sorpresiva/20260212031315374410.html",
-        "date": "2026-02-12 02:13:15",
-        "sentiment_score": 0.3071867600083351
-    },
-    {
-        "title": "Sánchez rebosa satisfacción",
-        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "rebosa",
-            "sanchez",
-            "satisfaccion"
-        ],
-        "link": "https://www.diariodejerez.es/opinion/articulos/sanchez-rebosa-satisfaccion_0_2005884038.html",
-        "date": "2026-02-12 02:09:05",
-        "sentiment_score": -0.5778694897890091
-    },
-    {
-        "title": "Hijos de la luz",
-        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "luz",
-            "hijos"
-        ],
-        "link": "https://www.diariodejerez.es/opinion/articulos/hijos-luz_0_2005884033.html",
-        "date": "2026-02-12 02:09:03",
-        "sentiment_score": -0.4644029587507248
-    },
-    {
-        "title": "La Juventus luchará contra los grandes de la Premier por el fichaje de Tonali",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/12/2026021203012938259.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/juventus-luchara-grandes-premier-fichaje-tonali/20260212030337374409.html",
-        "date": "2026-02-12 02:03:37",
-        "sentiment_score": 0.6834732741117477
-    },
-    {
-        "title": "Linda Caicedo lideró al Real Madrid en la Champions femenina: gol y asistencia ante el París FC",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "real madrid",
-            "colombia-espn",
-            "parís fc",
-            "colombia-deportes",
-            "real madrid femenino",
-            "champions league femenina",
-            "linda caicedo gol",
-            "linda caicedo"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/12/linda-caicedo-lidero-al-real-madrid-en-la-champions-femenina-gol-y-asistencia-ante-el-paris-fc/",
-        "date": "2026-02-12 01:56:28",
-        "sentiment_score": 0.6996575966477394
-    },
-    {
-        "title": "¿El Real Madrid se fija en un talento de la Liga MX valorado en 80 millones?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/12/2026021202524048476.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/real-madrid-fija-talento-liga-mx-valorado-80-millones/20260212025358374404.html",
-        "date": "2026-02-12 01:53:58",
-        "sentiment_score": 0.0069380104541778564
-    },
-    {
-        "title": "La UEFA, los clubes europeos y el Real Madrid anuncian acuerdo que acaba con la Superliga",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "pandemia global",
-            "la final de la uefa champions league y la europa league ha sido pospuesta",
-            "coronavirus covid- 19",
-            "pandemia del coronavirus (covid-19 )",
-            "efe",
-            "logotipo",
-            "logo",
-            "enfermedades",
-            "paises",
-            "suiza",
-            "confinamiento"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/11/la-uefa-los-clubes-europeos-y-el-real-madrid-anuncian-acuerdo-que-acaba-con-la-superliga/",
-        "date": "2026-02-12 01:49:30",
-        "sentiment_score": 0.06518344581127167
-    },
-    {
-        "title": "Adiós a la Superliga, bienvenida la paz entre el Real Madrid y la Uefa",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/12/2026021202235181485.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/adios-superliga-saludos-paz-entre-madrid-uefa/20260212022929374398.html",
-        "date": "2026-02-12 01:29:29",
-        "sentiment_score": 0.3332514464855194
-    },
-    {
-        "title": "Estrategia del FC Barcelona: ¿por qué los jugadores usan lentes rojos?",
-        "image_url": "https://pxcdn.2001online.com/2001/022026/1770865493283/0e249562-2ef6-4853-a89f-7c1f70479605_alta-libre-aspect-ratio_default_0_x600y225.jpg?ch=675&cw=1200",
-        "tags": [
-            "atlético madrid",
-            "barcelona",
-            "españa",
-            "fc barcelona",
-            "laliga",
-            "copa",
-            "copa del rey",
-            "lamine yamal",
-            "ferran torres"
-        ],
-        "link": "https://2001online.com/deportes/estrategia-del-fc-barcelona-por-que-los-jugadores-usan-lentes-rojos-202621123300",
-        "date": "2026-02-12 02:34:38",
-        "sentiment_score": 0.4672910813242197
-    },
-    {
-        "title": "11 FEB 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/11-feb-2026-partidazo-cope-20260212_3306248.html",
-        "date": "2026-02-12 00:43:00",
-        "sentiment_score": 0.05406884849071503
-    },
-    {
-        "title": "El Real Madrid y la UEFA firman la paz definitiva: la Superliga llega a su fin",
-        "image_url": "https://pxcdn.2001online.com/2001/022026/1770855752025/florentino-ceferin.jpg?ch=675&cw=1200",
-        "tags": [
-            "florentino pérez",
-            "superliga europea",
-            "nasser al khelaifi",
-            "real madrid",
-            "superliga",
-            "laliga",
-            "fc barcelona",
-            "uefa"
-        ],
-        "link": "https://2001online.com/deportes/el-real-madrid-y-la-uefa-firman-la-paz-definitiva-la-superliga-llega-a-su-fin-202621120450",
-        "date": "2026-02-12 00:04:44",
-        "sentiment_score": 0.3675772026181221
-    },
-    {
-        "title": "World: los escáneres de iris del fundador de ChatGPT regresan a Barcelona",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/516f189a205d4d6c842aef29486ed0a1/crop/0x0/1095x730/f/webp/assets/multimedia/imagenes/2026/02/11/17708252045980.jpg",
-        "tags": [
-            "economía digital>",
-            "artículos marta juste>",
-            "tecnología>"
-        ],
-        "link": "https://www.expansion.com/economia-digital/companias/2026/02/12/698ca5ba468aeb8c208b48a4.html",
-        "date": "2026-02-11 23:55:21",
-        "sentiment_score": 0.6469188760966063
-    },
-    {
-        "title": "Jueves 12 de febrero de 2026 (23.30 GMT)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/11/jueves-12-de-febrero-de-2026-2330-gmt/",
-        "date": "2026-02-11 23:45:56",
-        "sentiment_score": -0.004436008632183075
-    },
-    {
-        "title": "Los retrasos se disparan tras Adamuz: solo el 50% de los AVE llegaron puntuales en enero",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/11/retrasos-tren-kWmH-U20648752858LTF-1200x840@RC.jpg",
-        "tags": [
-            "renfe",
-            "adif",
-            "ave",
-            "accidente ferroviario adamuz",
-            "ouigo"
-        ],
-        "link": "https://www.eldiariomontanes.es/economia/retrasos-ave-puntualidad-renfe-accidente-adamuz-20260211120449-ntrc.html",
-        "date": "2026-02-11 23:39:50",
-        "sentiment_score": -0.7422521226108074
-    },
-    {
-        "title": "Xavi Vilajoana se postula como la alternativa real contra Laporta: \"Ya tengo pensado lo que le diré, será divertido\"",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/11/culemania/palco/1003742731880_15709250_1706x960.jpg",
-        "tags": [
-            "xavier vilajoana",
-            "joan laporta",
-            "palco",
-            "elecciones barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260212/xavi-vilajoana-postula-alternativa-laporta-pensado-divertido/1003742731821_0.html",
-        "date": "2026-02-11 23:36:10",
-        "sentiment_score": 0.0921512246131897
-    },
-    {
-        "title": "\"Ecuador en dictadura\", denuncia el correísmo tras encarcelamiento de alcalde de Guayaquil",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/11/ecuador-en-dictadura-denuncia-el-correismo-tras-encarcelamiento-de-alcalde-de-guayaquil/",
-        "date": "2026-02-11 23:31:32",
-        "sentiment_score": -0.8476167358458042
-    },
-    {
         "title": "07:00H | 12 FEB 2026 | Herrera en COPE",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -3043,5 +2654,139 @@ export default [
         "link": "https://www.20minutos.es/motor/movilidad/dgt-confirma-aparcar-doble-fila-dejas-hijos-colegio-puede-costarte-200-euros_6931030_0.html",
         "date": "2026-02-15 06:00:00",
         "sentiment_score": -0.7669427786022425
+    },
+    {
+        "title": "¿Cuántas relaciones sexuales tiene cada mes? Cómo preguntar en las encuestas para que la gente no mienta",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/16/encuestas-kPqH-U20649949518r6D-1200x840@RC.jpg",
+        "tags": [
+            "encuestas"
+        ],
+        "link": "https://www.eldiariomontanes.es/vivir/relaciones-humanas/cuantas-relaciones-sexuales-mes-preguntar-encuestas-gente-20260216120719-ntrc.html",
+        "date": "2026-02-15 17:57:31",
+        "sentiment_score": 0.1829470917582512
+    },
+    {
+        "title": "Vizcaíno Casas, el escritor olvidado que vendía millones de libros: \"Mi padre volverá a ser leído cuando España deje de hablar de Franco\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a526c0ce-e7b6-4d57-88bd-ed1c602a353f_16-9-aspect-ratio_default_0_x1082y555.jpg",
+        "tags": [
+            "libros",
+            "literatura"
+        ],
+        "link": "https://www.laopiniondemalaga.es/cultura-espectaculos/2026/02/15/vizcaino-casas-escritor-olvidado-vendia-126869396.html",
+        "date": "2026-02-15 17:56:33",
+        "sentiment_score": -0.2590581923723221
+    },
+    {
+        "title": "El Mobile World Congress abordará las redes inteligentes y la soberanía digital",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2020/02/05/20200205153047322.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/actualidad/2026/02/15/el-mobile-world-congress-abordara-las-redes-inteligentes-y-la-soberania-digital-1894463-daa.html",
+        "date": "2026-02-15 17:55:51",
+        "sentiment_score": -0.090995192527771
+    },
+    {
+        "title": "¿Es Antonio Gaudí?",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/15/gaudi-kxZC-RmTciXb5syZAcC8mEjhrS7I-1200x840@RC.jpeg",
+        "tags": [
+            "antonio",
+            "gaudi"
+        ],
+        "link": "https://www.hoy.es/culturas/antonio-gaudi-20260215185421-ntrc.html",
+        "date": "2026-02-15 17:54:26",
+        "sentiment_score": 0.17077041417360306
+    },
+    {
+        "title": "La polémica designación arbitral tras el comunicado del Barça contra los árbitros: la Liga, en riesgo",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/12/culemania/primer-equipo/1003742732274_15720717_1706x960.jpg",
+        "tags": [
+            "barça",
+            "primer equipo",
+            "árbitros"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260215/polemica-designacion-arbitral-comunicado-barca-arbitros-liga/1003742732860_0.html",
+        "date": "2026-02-15 17:50:55",
+        "sentiment_score": 0.034214675426483154
+    },
+    {
+        "title": "Elena Muiños: \"Queremos que más niñas sepan lo que hacemos\"",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/202602/15/media/cortadas/elena-muinos-queremos-ninas-sepan-hacemos-20260215173506-vi.jpg",
+        "tags": [
+            "elena",
+            "sepan",
+            "hacemos",
+            "queremos",
+            "muinos",
+            "ninas"
+        ],
+        "link": "https://www.elcomercio.es/culturas/elena-muinos-queremos-ninas-sepan-hacemos-20260215173506-vi.html",
+        "date": "2026-02-15 17:50:21",
+        "sentiment_score": -0.16613555699586868
+    },
+    {
+        "title": "Osasuna, en el sándwich de Mourinho",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f6ab1cfa-eed0-45e9-b7dd-8a5ea89a6685_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "primera division",
+            "real madrid",
+            "mourinho",
+            "osasuna",
+            "sandwich",
+            "laliga",
+            "liga de campeones"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/15/osasuna-sandwich-mourinho-real-madrid-laliga-primera-division-liga-de-campeones-10704500.html",
+        "date": "2026-02-15 17:49:35",
+        "sentiment_score": 0.07247185707092285
+    },
+    {
+        "title": "Simeone contradice a Oblak: «No estoy de acuerdo con que hayamos tirado la Liga»",
+        "image_url": "https://okdiario.com/img/2025/12/02/imagen_recortada-2025-12-02t232422.557.jpg",
+        "tags": [
+            "fútbol",
+            "atlético de madrid",
+            "deportes",
+            "la liga",
+            "diego pablo 'cholo' simeone"
+        ],
+        "link": "https://okdiario.com/deportes/simeone-contradice-oblak-no-estoy-acuerdo-que-hayamos-tirado-liga-16249124",
+        "date": "2026-02-15 17:48:00",
+        "sentiment_score": -0.8416191730648279
+    },
+    {
+        "title": "Café de Quito se reivindica como referente de producción sostenible en Coffee Fest Madrid",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/15/cafe-de-quito-se-reivindica-como-referente-de-produccion-sostenible-en-coffee-fest-madrid/",
+        "date": "2026-02-15 17:47:00",
+        "sentiment_score": 0.4606820344924927
+    },
+    {
+        "title": "El ‘refugio’ favorito de Susana Griso a una hora de Barcelona: calles empedradas y comercios de proximidad",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/15/vivir-en-barcelona/1003742732862_15720721_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "recomendaciones",
+            "vivir en barcelona",
+            "curiosidades",
+            "famosos barcelona",
+            "excursiones barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260215/refugio-favorito-susana-griso-hora-barcelona-calles-empedradas-comercios-proximidad/1003742732857_0.html",
+        "date": "2026-02-15 17:45:51",
+        "sentiment_score": -0.12872374802827835
+    },
+    {
+        "title": "Semana Deportiva: La reina del Salto vuelve a hacer de las suyas",
+        "image_url": "https://static.wixstatic.com/media/335561_736c356638a545a6bb36d423861aadc6~mv2.png/v1/fit/w_623,h_408,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/semana-deportiva-15",
+        "date": "2026-02-15 14:00:21",
+        "sentiment_score": 0.6238640137016773
     }
 ];
