@@ -2753,5 +2753,258 @@ export default [
         "link": "https://www.infobae.com/espana/agencias/2026/02/15/el-atletico-malgasta-la-euforia-en-una-liga-que-descuelga-a-levante-y-oviedo/",
         "date": "2026-02-15 22:00:21",
         "sentiment_score": -0.9011038411408663
+    },
+    {
+        "title": "Más allá del 'copia y pega': el reto de enseñar a pensar en la era de la IA",
+        "image_url": "https://s3.elespanol.com/2026/02/13/actualidad/1003744128736_261406050_1706x960.jpg",
+        "tags": [
+            "educación",
+            "inteligencia artificial",
+            "digitalización",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/politica-digital/espana/20260216/alla-copia-pega-reto-ensenar-pensar-ia/1003744128704_0.html",
+        "date": "2026-02-16 01:54:05",
+        "sentiment_score": 0.625252727419138
+    },
+    {
+        "title": "Endrick se desata en Francia: mejor jugador del mes y aviso al Real Madrid",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/05/2026020507173587112.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/endrick-desata-francia-mejor-jugador-mes-aviso-real-madrid/20260216025003374914.html",
+        "date": "2026-02-16 01:50:03",
+        "sentiment_score": 0.47470274567604065
+    },
+    {
+        "title": "Más allá del Bernabéu: Vinicius revela cómo gestiona la presión, su dieta y su vida en Madrid",
+        "image_url": "https://pxcdn.meridiano.net/022026/1771205736547.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/mas-alla-del-bernabeu-vinicius-revela-como-gestiona-la-presion-su-dieta-y-su-vida-en-madrid-202621521150",
+        "date": "2026-02-16 01:15:00",
+        "sentiment_score": 0.8389559052884579
+    },
+    {
+        "title": "David Casasús, el reportero que 'apatrulla la ciudad' sin ver: \"En 15 días desapareció todo como en una peli de terror\"",
+        "image_url": "https://s3.elespanol.com/2026/02/12/madrid/1003744128418_261402202_1706x960.jpg",
+        "tags": [
+            "ceguera",
+            "enfermedades",
+            "madrid total",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/madrid/20260216/david-casasus-reportero-apatrulla-ciudad-sin-ver-dias-desaparecio-peli-terror-dl/1003744127866_0.html",
+        "date": "2026-02-16 01:01:17",
+        "sentiment_score": -0.767948791384697
+    },
+    {
+        "title": "Empieza la huelga indefinida de médicos con los servicios mínimos más altos y sin noticias de Sanidad",
+        "image_url": "https://s3.elespanol.com/2025/10/03/invertia/observatorios/sanidad/1003743953625_259156670_1706x960.jpg",
+        "tags": [
+            "sanidad - medicina",
+            "huelgas",
+            "sanidad - actualidad sanitaria",
+            "observatorio de la sanidad"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260216/empieza-huelga-indefinida-medicos-servicios-minimos-altos-sin-noticias-sanidad/1003744129840_0.html",
+        "date": "2026-02-16 00:30:13",
+        "sentiment_score": 0.37094475887715816
+    },
+    {
+        "title": "La charla de Flick con el árbitro y la racha de Arbeloa, en El Tertulión",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/15/69924c6be8662.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-15-20260216_3308323.html",
+        "date": "2026-02-16 00:25:04",
+        "sentiment_score": -0.022222965955734253
+    },
+    {
+        "title": "Ernesto Pereda, catedrático de la ULL: “Rechacé el proyecto que iba a ser financiado por Epstein en cuanto sospeché del origen del dinero”",
+        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2026/02/RS728303_SM-Ernesto-Pereda-02-scr-1024x683.jpg",
+        "tags": [
+            "sociedad",
+            "portada apertura 1",
+            "portada"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2026/02/ernesto-pereda-ull-rechace-epstein-dinero/",
+        "date": "2026-02-16 00:13:07",
+        "sentiment_score": -0.7160466052591801
+    },
+    {
+        "title": "Joel Stradling, director de la división de seguridad europea de IDC: «Las empresas tendrán que controlar la proliferación de agentes. Eso requiere inversión»",
+        "image_url": "https://revistabyte.es/wp-content/uploads/2026/02/joel-stradling-director-de-la-division-de-seguridad-europea-de-idc.webp",
+        "tags": [
+            "idc",
+            "ia",
+            "seguridad",
+            "entrevistas tic"
+        ],
+        "link": "https://revistabyte.es/entrevistas/joel-stradling/",
+        "date": "2026-02-16 00:05:00",
+        "sentiment_score": 0.12350613623857498
+    },
+    {
+        "title": "El Atlético es goleado por el Rayo y se olvida de la Liga",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/02/15195143/Atletico.jpg",
+        "tags": [
+            "fútbol",
+            "la liga",
+            "rayo vallecano",
+            "atlético de madrid",
+            "deportes"
+        ],
+        "link": "https://www.elnacional.com/2026/02/el-atletico-es-goleado-por-el-rayo-y-se-olvida-de-la-liga/",
+        "date": "2026-02-15 23:52:07",
+        "sentiment_score": -0.08264832198619843
+    },
+    {
+        "title": "Michael Ignatieff: «El orden internacional está en ruinas; España debe aumentar su gasto en defensa»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/15/retrato-ignatieff-kX4H-U20695823971SQB-1200x840@RC.jpg",
+        "tags": [
+            "internacional",
+            "defensa",
+            "debe",
+            "orden",
+            "aumentar",
+            "espana",
+            "ruinas",
+            "gasto",
+            "ignatieff",
+            "michael"
+        ],
+        "link": "https://www.eldiariomontanes.es/internacional/europa/michael-ignatieff-orden-internacional-ruinas-espana-debe-20260215151752-ntrc.html",
+        "date": "2026-02-15 23:22:43",
+        "sentiment_score": 0.3924916014075279
+    },
+    {
+        "title": "Yulimar Rojas reapareció en grande y clasificó al Mundial bajo techo",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/02/yulimar-rojas.jpg",
+        "tags": [
+            "destacado",
+            "15feb",
+            "mundial",
+            "deportes"
+        ],
+        "link": "https://laverdaddemonagas.com/2026/02/15/yulimar-rojas-reaparecio-en-grande/",
+        "date": "2026-02-16 02:32:48",
+        "sentiment_score": 0.7624090239405632
+    },
+    {
+        "title": "El golazo de Mateo Messi en la Academia del Inter Miami que le arrancó una sonrisa a su papá Lionel",
+        "image_url": "https://www.infobae.com/resizer/v2/2LJELII355FXTA2N2VNSM3RTYY.jpg?auth=08463c5b0044512863ac386af7427aa040ec8db63bd34e5fd610167c1c7fdc94&height=352&smart=true&width=623",
+        "tags": [
+            "deportes-internacional",
+            "lionel messi",
+            "inter miami",
+            "mateo messi",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/16/el-golazo-de-mateo-messi-en-la-academia-del-inter-miami-que-le-arranco-una-sonrisa-a-su-papa-lionel/",
+        "date": "2026-02-16 02:22:28",
+        "sentiment_score": 0.7914851401001215
+    },
+    {
+        "title": "El récord de Messi, Suárez y Neymar en el Barcelona que amenazan Luis Díaz junto a Harry Kane y Michael Olise en Bayern Múnich",
+        "image_url": "https://www.infobae.com/resizer/v2/AGRZMFNGZ5BYVJZGSLXBZSZKX4.JPG?auth=884d5d17a1e5e66975d6302acf23c5c9ae3821f3962b5c4851464fab6c9d70ef&height=2627&smart=true&width=3864",
+        "tags": [
+            "fc barcelona",
+            "bayern múnich",
+            "harry kane",
+            "lionel messi",
+            "neymar jr",
+            "luis suárez",
+            "colombia-deportes",
+            "michael olise",
+            "luis díaz"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/16/el-record-de-messi-suarez-y-neymar-en-el-barcelona-que-amenazan-luis-diaz-junto-a-harry-kane-y-michael-olise-en-bayern-munich/",
+        "date": "2026-02-16 02:15:27",
+        "sentiment_score": 0.8370490614324808
+    },
+    {
+        "title": "La clase media",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "clase",
+            "media"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/clase-media_0_2005918842.html",
+        "date": "2026-02-16 02:08:47",
+        "sentiment_score": -0.15275193750858307
+    },
+    {
+        "title": "Mafalda Soto, la emprendedora que tras una década en África creó una cosmética contra el cáncer de piel en el albinismo",
+        "image_url": "https://s3.elespanol.com/2026/02/15/actualidad/1003744131415_261444272_1706x960.jpg",
+        "tags": [
+            "ong",
+            "albinismo",
+            "startups",
+            "tecnología",
+            "cosmética",
+            "mujeres",
+            "innovación",
+            "áfrica"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20260216/mafalda-soto-emprendedora-decada-africa-creo-cosmetica-cancer-piel-albinismo/1003744129410_0.html",
+        "date": "2026-02-16 01:39:02",
+        "sentiment_score": 0.5764792189002037
+    },
+    {
+        "title": "El ayuno intermitente no está a la altura de su fama para perder peso",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "interior supermercado",
+            "gente",
+            "efe",
+            "seccion de carniceria"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/16/el-ayuno-intermitente-no-esta-a-la-altura-de-su-fama-para-perder-peso/",
+        "date": "2026-02-16 01:17:43",
+        "sentiment_score": -0.8192108627408743
+    },
+    {
+        "title": "José Ángel Saiz: «En Andalucía hay motivos para recibir al Papa, pero en otros sitios también»",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/13/CC218D04-B387-470D-B7B2-F164BF5E2B10/arzobispo-sevilla-jose-angel-saiz-meneses_69.jpg?crop=5568%2C3132%2Cx0%2Cy298&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "andalucía",
+            "sevilla",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/andalucia/sevilla/jose-angel-saiz-andalucia-hay-motivos-recibir-papa-pero-otros-sitios-tambien_2026021669926ba92f00a046880f2967.html",
+        "date": "2026-02-16 00:58:17",
+        "sentiment_score": -0.09230872988700867
+    },
+    {
+        "title": "Algeciras marca distancias con Rufián tras sus declaraciones en el Congreso: \"Necesitamos trabajo, no un salvador”",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/15/0CFD176D-6C44-43AD-A776-ADFF60592198/portavoz-erc-congreso-gabriel-rufian-foto-archivo_69.jpg?crop=1972%2C1109%2Cx72%2Cy0&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cádiz",
+            "andalucía",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/andalucia/cadiz/algeciras-marca-distancias-rufian-sus-declaraciones-congreso-necesitamos-trabajo-salvador_2026021669926b851817b41eb64a332b.html",
+        "date": "2026-02-16 00:57:41",
+        "sentiment_score": 0.06258067488670349
+    },
+    {
+        "title": "No blanqueemos las redes sociales opacas",
+        "image_url": "https://s3.elespanol.com/2025/11/07/omicrono/tecnologia/1003744004791_259817887_1706x960.jpg",
+        "tags": [
+            "redes sociales",
+            "elon musk",
+            "tribunas de opinión",
+            "pedro sánchez",
+            "opinión",
+            "tribunas"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20260216/no-blanqueemos-redes-sociales-opacas/1003744125671_12.html",
+        "date": "2026-02-16 00:46:45",
+        "sentiment_score": -0.39998945593833923
     }
 ];
