@@ -1,199 +1,5 @@
 export default [
     {
-        "title": "07:00H | 12 FEB 2026 | Herrera en COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "herrera en cope"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/07-00h-12-feb-2026-herrera-cope-20260212_3306300.html",
-        "date": "2026-02-12 07:07:00",
-        "sentiment_score": -0.11468425393104553
-    },
-    {
-        "title": "Ni gorro ni ‘balaclava’: Alexandra Pereira tiene el accesorio de marca madrileña capaz de salvar cualquier look",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/Alexandra-Pereira-accesorio-marca-espan%CC%83ola-salvar-look.jpg",
-        "tags": [
-            "look",
-            "marca españa",
-            "tendencias",
-            "moda",
-            "madrid",
-            "gente",
-            "accesorios"
-        ],
-        "link": "https://theobjective.com/lifestyle/moda/2026-02-12/alexandra-pereira-accesorio-marca-madrilena-capaz-salvar-cualquier-look/",
-        "date": "2026-02-12 07:00:00",
-        "sentiment_score": 0.8617887087166309
-    },
-    {
-        "title": "Ábalos, Koldo García y Aldama comparecen por primera vez en el Supremo ante el tribunal que los juzgará",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7ffd1802-d5e6-4f7b-93a9-b4c4c51e92e0_16-9-aspect-ratio_default_0_x341y155.jpg",
-        "tags": [
-            "comparecen",
-            "aldama",
-            "koldo",
-            "abalos",
-            "garcia"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/politica/2026/02/12/abalos-koldo-garcia-aldama-comparecen-10690340.html",
-        "date": "2026-02-12 06:31:43",
-        "sentiment_score": -0.6208292581140995
-    },
-    {
-        "title": "El Supremo escucha hoy las alegaciones de Ábalos, Koldo y Aldama antes del juicio de las mascarillas",
-        "image_url": "https://www.infobae.com/resizer/v2/GBZ4RLFCMJEKVL7DBWGTG5SPVE.jpg?auth=76c67feb9f478769dc55b3940bd85b2a00da64cc1c8f6f28990e1427d6199b3d&height=1274&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/12/el-supremo-escucha-hoy-las-alegaciones-de-abalos-koldo-y-aldama-antes-del-juicio-de-las-mascarillas/",
-        "date": "2026-02-12 06:30:51",
-        "sentiment_score": -0.1141294613480568
-    },
-    {
-        "title": "Carles Puigdemont manda, Pedro Sánchez obedece: la amnistía que humilla a la Justicia",
-        "image_url": "https://edatv.news/filesedc/uploads/image/post/2026/02/espana-en-ruinas-sanchez-hunde-salarios-dispara-precios-y-convierte-a-los-espanoles-en-los-mas-pobres-de-europa-16_1600_1067.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://edatv.news/politica/carles-puigdemont-manda-pedro-sanchez-obedece-amnistia-que-humilla-justicia",
-        "date": "2026-02-12 06:30:00",
-        "sentiment_score": -0.9007254373282194
-    },
-    {
-        "title": "Antonio Banderas, sobre sus inicios: \"Mi nombre artístico fue idea de Pedro Almodóvar, me dijo que el mío era de torero\"",
-        "image_url": "https://s3.elespanol.com/2026/01/26/corazon/bluper/1003744104615_261102720_1706x960.jpg",
-        "tags": [
-            "vivir",
-            "málaga",
-            "antonio banderas",
-            "málaga (provincia)",
-            "pedro almodóvar"
-        ],
-        "link": "https://www.elespanol.com/malaga/vivir/20260212/antonio-banderas-inicios-nombre-artistico-idea-pedro-almodovar-dijo-torero-trt/1003744126105_0.html",
-        "date": "2026-02-12 06:28:51",
-        "sentiment_score": 0.1967860907316208
-    },
-    {
-        "title": "Arbeloa cumple un mes al timón del Titanic",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7db264a1-1ff3-4235-bec9-ae9b7b898302_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "real madrid",
-            "fútbol",
-            "álvaro arbeloa"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2026/02/12/arbeloa-cumple-mes-real-madrid-futbol-titanic-126738536.html",
-        "date": "2026-02-12 06:25:45",
-        "sentiment_score": -0.14550602436065674
-    },
-    {
-        "title": "La infanta Cristina se blinda ante las memorias de Iñaki Urdangarin: sin perdón y centrada en su mudanza",
-        "image_url": "https://s1.ppllstatics.com/mujerhoy/www/multimedia/2026/02/11/infanta-cristina-R1LAmKmuWM7bhDgooHHRU3L-758x758@Mujer%20Hoy.jpg",
-        "tags": [
-            "cristina de borbón y grecia"
-        ],
-        "link": "https://www.mujerhoy.com/celebrities/realeza/infanta-cristina-reaccion-memorias-inaki-urdangarin-mudanza-20260212134937-nt.html",
-        "date": "2026-02-12 07:10:49",
-        "sentiment_score": -0.19385859370231628
-    },
-    {
-        "title": "El Grupo Godó sufre un ciberataque",
-        "image_url": "https://static1.ara.cat/clip/8df8c3f1-268d-4852-a4b7-5228b223ac63_16-9-aspect-ratio_default_0.png",
-        "tags": [
-            "grupo",
-            "sufre",
-            "ciberataque",
-            "godo"
-        ],
-        "link": "https://es.ara.cat/media/grupo-godo-sufre-ciberataque_1_5646117.html",
-        "date": "2026-02-12 07:10:41",
-        "sentiment_score": -0.7982220435515046
-    },
-    {
-        "title": "Adif limita temporalmente la velocidad en Rodalies a 80 km/h y hay tramos cortados por caída de árboles",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260212074804.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "política"
-        ],
-        "link": "https://cronicadecantabria.com/cr/adif-limita-temporalmente-la-velocidad-en-rodalies-a-80-km-h-y-hay-tramos-cortados-por-cada-de-rboles/",
-        "date": "2026-02-12 07:00:05",
-        "sentiment_score": -0.7460847832262516
-    },
-    {
-        "title": "Giménez-Salinas Abogados refuerza su práctica en resolución de conflictos mercantiles para empresas y socios",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7845551",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5769361/gimenez-salinas-abogados-refuerza-practica-resolucion-conflictos-mercantiles-empresas-socios",
-        "date": "2026-02-12 07:00:00",
-        "sentiment_score": 0.5612600259482861
-    },
-    {
-        "title": "La ola de cierres de tiendas en Barcelona reabre el debate sobre limitar el alquiler de locales",
-        "image_url": "https://static1.ara.cat/clip/8a511701-3267-47df-a3cb-7f9af9c8f03a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cierres",
-            "locales",
-            "debate",
-            "ola",
-            "barcelona",
-            "limitar",
-            "reabre",
-            "alquiler",
-            "tiendas"
-        ],
-        "link": "https://es.ara.cat/sociedad/barcelona/ola-cierres-tiendas-barcelona-reabre-debate-limitar-alquiler-locales_1_5645992.html",
-        "date": "2026-02-12 06:48:22",
-        "sentiment_score": -0.4194798916578293
-    },
-    {
-        "title": "Adif limita temporalmente la velocidad en Rodalies a 80 km/h y hay tramos cortados por caída de árboles",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260212074349_690.jpg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-adif-limita-temporalmente-velocidad-rodalies-80-km-todo-servicio-jueves-20260212074349.html",
-        "date": "2026-02-12 06:48:04",
-        "sentiment_score": -0.6091776825487614
-    },
-    {
-        "title": "Árboles en la vía, cortes y retrasos constantes en Rodalies por el temporal de viento",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ca4b56a6-4ee7-4bac-8eed-21ee70bbacd3_alta-libre-aspect-ratio_default_0_x1000y500.jpg",
-        "tags": [
-            "adif",
-            "renfe",
-            "trenes",
-            "rodalies"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260212/arboles-via-cortes-retrasos-constantes-rodalies-viento-nils-suspendido-cancelado-trenes-renfe-126740101",
-        "date": "2026-02-12 06:46:40",
-        "sentiment_score": -0.18818660080432892
-    },
-    {
-        "title": "MAPA Así va evolucionando el temporal de viento en Catalunya: las rachas van a más esta mañana",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0124d6dd-1ee7-42ad-ab58-9c3a974c8cec_alta-libre-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "servei meteorològic de catalunya (meteocat)",
-            "temporales",
-            "previsión meteorológica",
-            "tiempo"
-        ],
-        "link": "https://www.elperiodico.com/es/tiempo/20260212/meteocat-viento-barcelona-cataluna-evolucion-rachas-126738538",
-        "date": "2026-02-12 06:46:24",
-        "sentiment_score": -0.2405301034450531
-    },
-    {
-        "title": "Renfe informa de que los trenes circulan en Cataluña, aunque con diversas restricciones",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/12/renfe-informa-de-que-los-trenes-circulan-en-cataluna-aunque-con-diversas-restricciones/",
-        "date": "2026-02-12 06:45:42",
-        "sentiment_score": -0.04224932938814163
-    },
-    {
         "title": "Arda Güler niega que sufra acoso laboral de sus compañeros y dice que el Real Madrid es su \"familia\"",
         "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/02/12/4208045A-F2F4-4D6F-A6A9-B214834391BE/arda-guler-entrenamiento-real-madrid_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
         "tags": [
@@ -2788,5 +2594,164 @@ export default [
         "link": "https://www.informe21.com/post/semana-deportiva-15",
         "date": "2026-02-15 14:00:21",
         "sentiment_score": 0.6238640137016773
+    },
+    {
+        "title": "El último pájaro espino del Ateneo",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/15/2026021522264653594.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.mundiario.com/articulo/opiniones/ultimo-pajaro-espino-ateneo/20260215234503374885.html",
+        "date": "2026-02-15 22:45:03",
+        "sentiment_score": -0.604634054005146
+    },
+    {
+        "title": "Abde y Bakambu dejan al Mallorca en descenso y permiten al Betis soñar con la Champions",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1e22f071-0839-451d-80cc-f44c1178747b_16-9-aspect-ratio_default_0_x1200y533.jpg",
+        "tags": [
+            "laliga",
+            "rcd mallorca",
+            "real betis",
+            "fútbol"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2026/02/15/abde-bakambu-dejan-mallorca-descenso-126875907.html",
+        "date": "2026-02-15 22:32:47",
+        "sentiment_score": 0.6493618115782738
+    },
+    {
+        "title": "El protagonista de la jornada 24: la precisión de Trent",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/15/el-protagonista-de-la-jornada-24-la-precision-de-trent/",
+        "date": "2026-02-15 22:32:28",
+        "sentiment_score": 0.10220623761415482
+    },
+    {
+        "title": "El Castellón, nuevo líder de la Segunda División española",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/15/el-castellon-nuevo-lider-de-la-segunda-division-espanola/",
+        "date": "2026-02-15 22:19:10",
+        "sentiment_score": 0.321289986371994
+    },
+    {
+        "title": "Yulimar Rojas aseguró su boleto para el Mundial de Atletismo 2026",
+        "image_url": "https://www.turimiquire.net/wp-content/uploads/2026/02/yulimar-rojas-aseguro-su-boleto-para-el-mundial-de-atletismo-2026.jpg",
+        "tags": [
+            "el pizarrón noticias"
+        ],
+        "link": "https://www.turimiquire.net/2026/02/15/yulimar-rojas-aseguro-su-boleto-para-el-mundial-de-atletismo-2026/",
+        "date": "2026-02-15 22:42:37",
+        "sentiment_score": 0.7990317847579718
+    },
+    {
+        "title": "¿Es posible para los jóvenes profesionales ahorrar o invertir?",
+        "image_url": "https://images.theconversation.com/files/716868/original/file-20260206-56-v4rnrj.png?auto=format&fit=clip&ixlib=rb-4.1.0&q=45&w=754",
+        "tags": [
+            "capital humano",
+            "tipos de interés",
+            "toma de decisiones",
+            "homo economicus",
+            "jóvenes",
+            "diversificación",
+            "rentabilidad",
+            "ahorro",
+            "vivienda",
+            "inversión"
+        ],
+        "link": "https://theconversation.com/es-posible-para-los-jovenes-profesionales-ahorrar-o-invertir-275245",
+        "date": "2026-02-15 22:27:50",
+        "sentiment_score": 0.7086974121630192
+    },
+    {
+        "title": "“Me pegaste embarazada”: Nare se rompe al recibir la llamada de Özkan",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/02/15/FFF9228C-580B-4951-A171-D056F6900245/nare_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "antena3",
+            "en tierra lejana",
+            "series"
+        ],
+        "link": "https://www.antena3.com/series/tierra-lejana/pegaste-embarazada-nare-rompe-recibir-llamada-ozkan_20260215699247a99243cc133c4aa5dd.html",
+        "date": "2026-02-15 22:24:41",
+        "sentiment_score": -0.8547084368765354
+    },
+    {
+        "title": "Una asociación deportiva ‘dinamizará’ a los mayores del Eixample por 4,5 millones",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/03/22/informacion-municipal/567953216_9995693_1706x960.jpg",
+        "tags": [
+            "barcelona",
+            "la dreta de l'eixample",
+            "vivir en barcelona",
+            "deportes",
+            "la nova esquerra de l'eixample"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260215/asociacion-deportiva-dinamizara-mayores-eixample-millones/1003742730897_0.html",
+        "date": "2026-02-15 22:15:00",
+        "sentiment_score": 0.16953837871551514
+    },
+    {
+        "title": "Barcelona ordena revisar ocho cementerios municipales por riesgo de desprendimientos",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/10/01/vivir-en-barcelona/1003742693535_15697749_1706x960.jpg",
+        "tags": [
+            "b:sm",
+            "cementerios",
+            "contratos barcelona",
+            "el pulso de la ciudad",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260215/barcelona-ordena-revisar-cementerios-municipales-riesgo-desprendimientos/1003742730999_0.html",
+        "date": "2026-02-15 22:15:00",
+        "sentiment_score": -0.9258423494175076
+    },
+    {
+        "title": "Pere Navarro (Zona Franca): \"Estamos construyendo unas Naciones Unidas de industria 4.0 en Barcelona\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/03/vivir-en-barcelona/1003742729072_15672689_1706x960.jpg",
+        "tags": [
+            "empresas barcelona",
+            "entrevistas barcelona",
+            "economía",
+            "investigación",
+            "tecnología",
+            "consorci de la zona franca",
+            "vivienda"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260215/pere-navarro-zona-franca-construyendo-naciones-unidas-industria-barcelona/1003742729394_0.html",
+        "date": "2026-02-15 22:15:00",
+        "sentiment_score": 0.07380345463752747
+    },
+    {
+        "title": "Yulimar Rojas clasificó al Mundial Indoor 2026 con un salto récord",
+        "image_url": "https://pxcdn.meridiano.net/022026/1771192883861.jpg?ch=180&cw=320",
+        "tags": [
+            "sports",
+            "top"
+        ],
+        "link": "https://meridiano.net/otros-deportes/atletismo/yulimar-rojas-clasifico-al-mundial-indoor-2026-con-un-salto-record-20262151810",
+        "date": "2026-02-15 22:01:00",
+        "sentiment_score": 0.14683474972844124
+    },
+    {
+        "title": "MuriqI reduce distancias; Borja Iglesias, Oyarzabal y Vinícius pisan el acelerador",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/15/muriqi-reduce-distancias-borja-iglesias-oyarzabal-y-vinicius-pisan-el-acelerador/",
+        "date": "2026-02-15 22:00:38",
+        "sentiment_score": 0.06326417624950409
+    },
+    {
+        "title": "El Atlético malgasta la euforia en una Liga que descuelga a Levante y Oviedo",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/15/el-atletico-malgasta-la-euforia-en-una-liga-que-descuelga-a-levante-y-oviedo/",
+        "date": "2026-02-15 22:00:21",
+        "sentiment_score": -0.9011038411408663
     }
 ];
