@@ -1,213 +1,5 @@
 export default [
     {
-        "title": "Arda Güler niega que sufra acoso laboral de sus compañeros y dice que el Real Madrid es su \"familia\"",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/02/12/4208045A-F2F4-4D6F-A6A9-B214834391BE/arda-guler-entrenamiento-real-madrid_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "deportes",
-            "antena 3 noticias",
-            "fútbol"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/arda-guler-niega-que-sufra-acoso-laboral-sus-companeros-dice-que-real-madrid-familia_20260212698e12fd9243cc133c44ca80.html",
-        "date": "2026-02-12 17:50:53",
-        "sentiment_score": -0.5526609793305397
-    },
-    {
-        "title": "Interior destaca que suministrar combustible a las narcolanchas se castigará con cárcel",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/12/interior-destaca-que-suministrar-combustible-a-las-narcolanchas-se-castigara-con-carcel/",
-        "date": "2026-02-12 17:48:16",
-        "sentiment_score": -0.8313467055559158
-    },
-    {
-        "title": "FAES carga contra Albares por sugerir nexos de Aznar con Epstein",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/02/12/2026021218372628275.jpg",
-        "tags": [
-            "noticias en la red"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/faes-amenaza-albares-sugerir-nexos-aznar-epstein/20260212183913441170.html",
-        "date": "2026-02-12 17:39:13",
-        "sentiment_score": -0.8969220593571663
-    },
-    {
-        "title": "Dónde ver Barcelona vs Atlético Madrid en Perú HOY: canal tv online del partido por semifinales ida de la Copa del Rey 2026",
-        "image_url": "https://www.infobae.com/resizer/v2/75YML6TG3ZAGFOUQUTHM2QBJHI.png?auth=c02606c2e14d68a6f8c940da3b6da728c42eeb3cc6daaf088d7fca1f6f90ffd3&height=1080&smart=true&width=1920",
-        "tags": [
-            "peru-deportes",
-            "copa del rey",
-            "fc barcelona",
-            "atlético madrid"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2026/02/12/donde-ver-barcelona-vs-atletico-madrid-en-vivo-hoy-canal-tv-online-partido-semifinales-ida-copa-del-rey-2026/",
-        "date": "2026-02-12 17:39:05",
-        "sentiment_score": 0.5637390799820423
-    },
-    {
-        "title": "El alquiler mensual de una vivienda en Málaga es 400 euros más caro del precio razonable",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744043798_260330986_1706x960.jpg",
-        "tags": [
-            "alquiler de viviendas",
-            "vivienda málaga",
-            "economía"
-        ],
-        "link": "https://www.elespanol.com/malaga/economia/20260212/alquiler-mensual-vivienda-malaga-euros-caro-precio-razonable/1003744128151_0.html",
-        "date": "2026-02-12 17:36:15",
-        "sentiment_score": -0.43246544897556305
-    },
-    {
-        "title": "Thomas Partey, contra las cuerdas: cinco cargos de violación y otro de agresión sexual",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/12/2026021218293610803.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/thomas-partey-cuerdas-cinco-cargos-violacion-agresion-sexual/20260212183131374504.html",
-        "date": "2026-02-12 17:31:31",
-        "sentiment_score": -0.7623264994472265
-    },
-    {
-        "title": "Jaime de Marichalar, rotundo y molesto, se desmarca de su hermano Álvaro por sus ataques a Iñaki Urdangarin",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260212182816_690.jpg",
-        "tags": [
-            "chance",
-            "gente"
-        ],
-        "link": "https://www.europapress.es/chance/gente/noticia-jaime-marichalar-rotundo-molesto-desmarca-hermano-alvaro-ataques-inaki-urdangarin-20260212182816.html",
-        "date": "2026-02-12 17:28:16",
-        "sentiment_score": -0.7051567770540714
-    },
-    {
-        "title": "Cesce obtiene el nivel de 'Excelencia A' en la certificación efr por su liderazgo y compromiso",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260212182545_690.jpg",
-        "tags": [
-            "economía finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/noticia-cesce-obtiene-nivel-excelencia-certificacion-efr-liderazgo-compromiso-20260212182545.html",
-        "date": "2026-02-12 17:25:45",
-        "sentiment_score": 0.7268984746187925
-    },
-    {
-        "title": "Santiago vive un fin de semana para no quedarse en casa: conciertos, Carnaval, San Valentín y mucho más",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a818017d-f66a-4612-80e4-052239be3851_16-9-discover-aspect-ratio_default_0_x609y270.jpg",
-        "tags": [
-            "conciertos",
-            "entroido",
-            "planes",
-            "san valentin",
-            "carnaval",
-            "música",
-            "santiago",
-            "ocio"
-        ],
-        "link": "https://www.elcorreogallego.es/santiago/2026/02/12/planes-fin-semana-santiago-compostela-musica-carnaval-126763121.html",
-        "date": "2026-02-12 17:18:36",
-        "sentiment_score": 0.827364637516439
-    },
-    {
-        "title": "Güler niega que sufra acoso en el Real Madrid: \"Siempre he considerado este lugar como una familia y me siento feliz de compartir vestuario con mis compañeros\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/12/698e09af6fdbf.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/gueler-niega-sufra-acoso-real-madrid-siempre-he-considerado-lugar-familia-me-siento-feliz-compartir-vestuario-mis-companeros-20260212_3306992.html",
-        "date": "2026-02-12 17:17:05",
-        "sentiment_score": 0.031584858894348145
-    },
-    {
-        "title": "Odyssey Hotel Group quiere alcanzar los ocho hoteles en España en 2028",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2b012f08-9cb5-42fd-b93a-46ff623ed17c_alta-libre-aspect-ratio_default_0_x668y297.jpg",
-        "tags": [
-            "turismo",
-            "hoteles"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260212/odyssey-hotel-group-quiere-alcanzar-ocho-hoteles-espana-2028-126774163",
-        "date": "2026-02-12 17:52:10",
-        "sentiment_score": 0.06602621078491211
-    },
-    {
-        "title": "El Parlament pide cesar a Puente y Paneque por Rodalies con el voto de Junts, ERC, PP, Vox y CUP",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260212185039_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-parlament-pide-cesar-puente-paneque-rodalies-voto-junts-erc-pp-vox-cup-20260212185039.html",
-        "date": "2026-02-12 17:50:39",
-        "sentiment_score": -0.4980754889547825
-    },
-    {
-        "title": "Deportes | Aarón Gutiérrez causa baja indefinida en el Horneo EÓN por motivos personales",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1777510.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/aaron-gutierrez-causa-baja-indefinida-en-el-horneo-eon-por-motivos-personales",
-        "date": "2026-02-12 17:38:02",
-        "sentiment_score": -0.7491032965481281
-    },
-    {
-        "title": "La borrasca 'Oriana' pondrá en aviso mañana a España por viento, olas, lluvia y nieve, con Galicia en nivel naranja",
-        "image_url": "https://www.galiciapress.es/images/showid2/7846973?w=640&zc=4",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.galiciapress.es/articulo/ultima-hora/2026-02-12/5770511-borrasca-oriana-pondra-aviso-manana-espana-viento-olas-lluvia-nieve-galicia-nivel-naranja",
-        "date": "2026-02-12 17:36:07",
-        "sentiment_score": -0.2301950380206108
-    },
-    {
-        "title": "Según un estudio, estimular el cerebro desde la infancia, puede retrasar el Alzheimer incluso en fases avanzadas",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/12/698e007a36902.jpeg",
-        "tags": [
-            "salud y bienestar"
-        ],
-        "link": "https://www.cope.es/actualidad/salud-bienestar/noticias/estudio-estimular-cerebro-infancia-retrasar-alzheimer-fases-avanzadas-20260212_3306971.html",
-        "date": "2026-02-12 17:34:34",
-        "sentiment_score": -0.04679858684539795
-    },
-    {
-        "title": "José Luis Guerín: \"Cuando se utiliza la realidad de manera instrumental para ilustrar un discurso previo, la realidad se empobrece muchísimo\"",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/05/actualidad/1003742729895_15682953_1706x960.jpg",
-        "tags": [
-            "creación",
-            "barcelona",
-            "entrevistas",
-            "cineastas",
-            "cine",
-            "cultura",
-            "películas"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/creacion/20260212/jose-luis-guerin-utiliza-realidad-instrumental-empobrece-muchisimo/1003742732025_0.html",
-        "date": "2026-02-12 17:34:31",
-        "sentiment_score": 0.5157578885555267
-    },
-    {
-        "title": "Collboni hace balance del \"episodio excepcional\" por la borrasca Nils: once heridos en Barcelona, uno de ellos crítico",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/12/vivir-en-barcelona/1003742731889_15709376_1706x960.jpg",
-        "tags": [
-            "clima",
-            "ayuntamiento de barcelona",
-            "jaume collboni",
-            "vivir en barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260212/collboni-hace-balance-episodio-excepcional-borrasca-nils-once-heridos-barcelona-critico/1003742732191_0.html",
-        "date": "2026-02-12 17:31:38",
-        "sentiment_score": -0.8431468196213245
-    },
-    {
-        "title": "Plásticos en las vías y el temporal retrasan la llegada del Alvia Barcelona-León más de seis horas",
-        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2026/02/12/leonoticiasAVE-k69-U150598503561hRG-1968x1216@Leonoticias-kR9E-U20680683523FH-1200x840@Leonoticias.jpg",
-        "tags": [
-            "barcelona (provincia)",
-            "león (capital)",
-            "renfe",
-            "adif"
-        ],
-        "link": "https://www.leonoticias.com/leon/plasticos-vias-temporal-retrasan-llegada-alvia-barcelonaleon-20260212182846-nt.html",
-        "date": "2026-02-12 17:31:12",
-        "sentiment_score": -0.8358358517289162
-    },
-    {
         "title": "Vallecas se queda sin derbi: LaLiga traslada el Rayo-Atlético a Butarque",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/11/2025111104045950291.jpg",
         "tags": [
@@ -3006,5 +2798,204 @@ export default [
         "link": "https://www.elespanol.com/opinion/tribunas/20260216/no-blanqueemos-redes-sociales-opacas/1003744125671_12.html",
         "date": "2026-02-16 00:46:45",
         "sentiment_score": -0.39998945593833923
+    },
+    {
+        "title": "Lamine Yamal sacude al Barça con un enigmático mensaje en Instagram",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/16/2025071602150652830.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/lamine-yamal-sacude-barca-enigmatico-mensaje-instagram/20260216074608374926.html",
+        "date": "2026-02-16 06:46:08",
+        "sentiment_score": 0.4026377201080322
+    },
+    {
+        "title": "Agenda Informativa de Europa Press para este lunes, 16 de febrero (1)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/16/agenda-informativa-de-europa-press-para-este-lunes-16-de-febrero-1/",
+        "date": "2026-02-16 06:45:53",
+        "sentiment_score": 0.02771790698170662
+    },
+    {
+        "title": "Agenda Informativa de Europa Press para este lunes, 16 de febrero (y 3)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/16/agenda-informativa-de-europa-press-para-este-lunes-16-de-febrero-y-3/",
+        "date": "2026-02-16 06:45:20",
+        "sentiment_score": 0.042926570400595665
+    },
+    {
+        "title": "Pablo Hasél sigue considerándose un preso político tras cinco años en prisión",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/16/pablo-hasel-sigue-considerandose-un-preso-politico-tras-cinco-anos-en-prision/",
+        "date": "2026-02-16 06:15:25",
+        "sentiment_score": -0.7632875256240368
+    },
+    {
+        "title": "El milano real repunta, con Extremadura como uno de sus principales bastiones",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/10920371-aab4-44a4-a416-fe08c9fd240f_16-9-aspect-ratio_default_0_x1024y455.jpg",
+        "tags": [
+            "españa",
+            "seo",
+            "historia",
+            "población",
+            "extremadura"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/16/milano-real-repunta-extremadura-principales-bastiones-126879221.html",
+        "date": "2026-02-16 06:01:19",
+        "sentiment_score": -0.6145935766398907
+    },
+    {
+        "title": "El colegio de Cáceres que ha ganado un premio a la innovación a nivel nacional",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ffafbc87-00b6-4bd8-8adb-d4b854b507bb_16-9-aspect-ratio_default_0_x320y160.jpg",
+        "tags": [
+            "extremadura",
+            "colegio",
+            "educación",
+            "españa"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/caceres-local/2026/02/16/colegio-caceres-premio-innovacion-espana-126817881.html",
+        "date": "2026-02-16 06:01:00",
+        "sentiment_score": 0.6202636919915676
+    },
+    {
+        "title": "La gira más íntima de Marwán, a punto de agotar entradas para el Teatro Apolo",
+        "image_url": "https://static.grupojoly.com/clip/4ecebcd6-a26a-4f92-9c50-390c746ff6ae_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "noticias almería"
+        ],
+        "link": "https://www.diariodealmeria.es/ocio/gira-intima-marwan-punto-agotar_0_2005915552.html",
+        "date": "2026-02-16 05:51:00",
+        "sentiment_score": 0.11587690003216267
+    },
+    {
+        "title": "Lindsey Vonn desafía al dolor y lanza un mensaje brutal: “volveré a la cima”",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/31/2026013103253935762.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/lindsey-vonn-desafia-dolor-lanza-mensaje-brutal-volvere-cima/20260216063448374923.html",
+        "date": "2026-02-16 05:34:48",
+        "sentiment_score": 0.39688731729984283
+    },
+    {
+        "title": "\"La subida de impuestos a los caseros que suban el alquiler a sus inquilinos afectará a los pequeños propietarios, los grandes tenedores no tributan por IRPF\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2026/02/12/698d9dd34689a.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.cope.es/actualidad/economia/audios/subida-impuestos-caseros-suban-alquiler-inquilinos-afectara-pequenos-propietarios-grandes-tenedores-tributan-irpf-20260216_3307981.html",
+        "date": "2026-02-16 05:30:00",
+        "sentiment_score": -0.14905968308448792
+    },
+    {
+        "title": "Pedro Ponce (30) revoluciona el audiovisual con la Huella de Armstrong: \"Sueño con que Alicante sea un plató andante\"",
+        "image_url": "https://s3.elespanol.com/2026/02/12/actualidad/1003744127580_261391150_1706x960.jpg",
+        "tags": [
+            "alicante (provincia)",
+            "sector audiovisual",
+            "emprendedores",
+            "alicante (ciudad)",
+            "economía"
+        ],
+        "link": "https://www.elespanol.com/alicante/economia/20260216/pedro-ponce-revoluciona-audiovisual-huella-armstrong-sueno-alicante-plato-andante-trt/1003744127234_0.html",
+        "date": "2026-02-16 05:20:00",
+        "sentiment_score": 0.7194707356393337
+    },
+    {
+        "title": "El retorno de Illa y la fuga de jueces",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/16/primeras-planas/1003742732907_15721401_1706x960.jpg",
+        "tags": [
+            "salvador illa",
+            "cataluña",
+            "primeras planas"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260216/retorno-illa-fuga-jueces/1003742732905_0.html",
+        "date": "2026-02-16 06:55:30",
+        "sentiment_score": -0.17783460021018982
+    },
+    {
+        "title": "El Rayo se da un festín en el derbi del ‘destierro’",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/8e94ef53-2ef0-4aea-a856-7e1bc7d472cc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "atletico",
+            "festin",
+            "rayo",
+            "derbi",
+            "destierro"
+        ],
+        "link": "https://www.deia.eus/futbol/2026/02/16/rayo-festin-atletico-derbi-destierro-10705603.html",
+        "date": "2026-02-16 06:53:39",
+        "sentiment_score": -0.04423278570175171
+    },
+    {
+        "title": "Escogido el proyecto de la plataforma marina del Fòrum que culminará el frente litoral",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/16/6992bdaf09435.r_d.380-214-5907.jpeg",
+        "tags": [
+            "barcelona+"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/barcelona-plus/20260216/11467326/escogido-proyecto-plataforma-marina-forum-culminara-frente-litoral.html",
+        "date": "2026-02-16 06:50:43",
+        "sentiment_score": 0.4903561659157276
+    },
+    {
+        "title": "Renfe inicia el servicio en Cataluña a medio gas: límites de velocidad en 200 puntos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LM2T7ZEYHFI3BBFVY4AFC4JJHE.jpg?auth=7a749f9a96ce5b2e02719b2c9caaa2be5d495c44a724789f20c6a49a228b9962&width=1200",
+        "tags": [
+            "sílvia paneque",
+            "adif",
+            "renfe",
+            "rodalies catalunya",
+            "trenes",
+            "cataluña",
+            "averías",
+            "generalitat cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2026-02-16/renfe-inicia-el-servicio-en-cataluna-a-medio-gas-limites-de-velocidad-en-200-puntos.html",
+        "date": "2026-02-16 06:46:44",
+        "sentiment_score": 0.20267799496650696
+    },
+    {
+        "title": "Mercadona te soluciona las canas por 4 euros",
+        "image_url": "https://static.merca2.es/wp-content/uploads/2026/02/mercadona.webp",
+        "tags": [
+            "consumo",
+            "últimas noticias"
+        ],
+        "link": "https://www.merca2.es/2026/02/16/mercadona-soluciona-canas-2352426/",
+        "date": "2026-02-16 06:45:00",
+        "sentiment_score": -0.7293161563575268
+    },
+    {
+        "title": "Renfe inicia el servicio en Cataluña a medio gas, con límites de velocidad en 200 puntos",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/16/renfe-inicia-el-servicio-en-cataluna-a-medio-gas-con-limites-de-velocidad-en-200-puntos/",
+        "date": "2026-02-16 06:30:35",
+        "sentiment_score": 0.18615331500768661
+    },
+    {
+        "title": "Illa se reincorpora este lunes \"de forma progresiva\" a sus responsabilidades",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/97c19af5-be58-4205-bb0d-c31d958ed66e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "progresiva",
+            "reincorpora",
+            "illa",
+            "forma",
+            "lunes"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/politica/2026/02/16/illa-reincorpora-lunes-forma-progresiva-10705562.html",
+        "date": "2026-02-16 06:19:20",
+        "sentiment_score": -0.006176114082336426
     }
 ];
