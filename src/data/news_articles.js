@@ -1,403 +1,5 @@
 export default [
     {
-        "title": "Vallecas se queda sin derbi: LaLiga traslada el Rayo-Atlético a Butarque",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/11/2025111104045950291.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/vallecas-queda-derbi-laliga-traslada-rayo-atletico-butarque/20260212233621374550.html",
-        "date": "2026-02-12 22:36:21",
-        "sentiment_score": -0.2541560158133507
-    },
-    {
-        "title": "Sánchez evita reprochar a Meloni su exclusión de la cumbre",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/02/12/2026021223330941977.jpg",
-        "tags": [
-            "noticias en la red"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/sanchez-evita-reprochar-meloni-exclusion-cumbre/20260212233309441249.html",
-        "date": "2026-02-12 22:33:09",
-        "sentiment_score": -0.08057403564453125
-    },
-    {
-        "title": "García-Page critica a Ferraz por los resultados del PSOE",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/02/12/2026021223324848497.jpg",
-        "tags": [
-            "noticias en la red"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/garcia-page-critica-ferraz-resultados-psoe/20260212233248441247.html",
-        "date": "2026-02-12 22:32:48",
-        "sentiment_score": -0.8868590639904141
-    },
-    {
-        "title": "El Rayo - Atlético se jugará finalmente en Butarque",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/110cc5cb-1728-4465-8b6c-1ed260a3a59f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "atlético de madrid",
-            "fútbol",
-            "rayo vallecano",
-            "laliga"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2026/02/12/rayo-atletico-jugara-finalmente-butarque-126779944.html",
-        "date": "2026-02-12 22:27:54",
-        "sentiment_score": -0.8476880360394716
-    },
-    {
-        "title": "Íñigo Henríquez de Luna: de linaje noble a líder en Vox",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/02/12/2026021223255270201.jpg",
-        "tags": [
-            "noticias en la red"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/inigo-henriquez-luna-linaje-noble-lider-vox/20260212232553441227.html",
-        "date": "2026-02-12 22:25:53",
-        "sentiment_score": 0.21765294671058655
-    },
-    {
-        "title": "María Dolores Gimeno: primera coronel de la Guardia Civil",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/02/12/2026021223253837830.jpg",
-        "tags": [
-            "noticias en la red"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/maria-dolores-gimeno-primera-coronel-guardia-civil/20260212232538441225.html",
-        "date": "2026-02-12 22:25:38",
-        "sentiment_score": 0.653493121266365
-    },
-    {
-        "title": "Xavi Pascual: \"Vamos sobreviviendo cómo podemos\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/12/xavi-pascual-vamos-sobreviviendo-como-podemos/",
-        "date": "2026-02-12 22:35:59",
-        "sentiment_score": 0.5874143876135349
-    },
-    {
-        "title": "La polémica: El gol anulado a Cubarsí tras siete minutos de revisión y sin el uso del semiautomático",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/12/image-c8ad7392-04e8-44ba-afc1-0f214631381c-85-2560-1440.jpeg",
-        "tags": [
-            "copa del rey mapfre 2025/2026",
-            "football"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/copa-del-rey/2025-2026/polemica-gol-anulado-cubarsi-fuera-de-juego-saot-atletico-barcelona-roja-eric_sto23270127/story.shtml",
-        "date": "2026-02-12 22:31:29",
-        "sentiment_score": -0.398423932492733
-    },
-    {
-        "title": "Atlético de Madrid destrozó al Barcelona y se acercó a la final de la Copa del Rey",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/db145f684fd5dbf7bdf6c250825711dd90a17752w.jpg",
-        "tags": [
-            "barcelona",
-            "atletico de madrid",
-            "deportes",
-            "titulares",
-            "copa del rey"
-        ],
-        "link": "https://lapatilla.com/2026/02/12/atletico-de-madrid-destrozo-al-barcelona-y-se-acerco-a-la-final-de-la-copa-del-rey/",
-        "date": "2026-02-12 22:30:48",
-        "sentiment_score": 0.6751096323132515
-    },
-    {
-        "title": "Crónica del Atlético de Madrid - FC Barcelona: 4-0",
-        "image_url": "https://www.infobae.com/resizer/v2/OZWSVDZ7XZECNLTAYAQWD752TQ.jpg?auth=6b6f68780d373c3db1cbddb6441dc73c3d7c3fa41dfa106d6c23c7eec35721f4&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/12/cronica-del-atletico-de-madrid-fc-barcelona-4-0/",
-        "date": "2026-02-12 22:30:40",
-        "sentiment_score": -0.056971482932567596
-    },
-    {
-        "title": "Orange cierra en plaza Catalunya y se traslada a la antigua tienda de Vodafone en Portal de l’Àngel",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/12/actualidad/1003742732064_15712768_1706x960.jpg",
-        "tags": [
-            "portal de l’àngel",
-            "economía",
-            "empresas barcelona",
-            "comercio",
-            "plaza catalunya"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260212/orange-cierra-plaza-catalunya-traslada-antigua-tienda-vodafone-portal-langel/1003742732072_0.html",
-        "date": "2026-02-12 22:30:00",
-        "sentiment_score": 0.45679591596126556
-    },
-    {
-        "title": "El Barça se atasca sin Punter y cae en el Palau ante el París (74-85)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f08245df-d238-4ffc-837a-82d09dccc139_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "baloncesto",
-            "euroliga",
-            "fc barcelona de baloncesto"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/deportes/2026/02/12/barca-atasca-punter-cae-palau-paris-126779850.html",
-        "date": "2026-02-12 22:24:35",
-        "sentiment_score": -0.8618000894784927
-    },
-    {
-        "title": "El Atlético de Madrid brilla en el Metropolitano y aplasta al FC Barcelona con una amplia goleada en Copa del Rey",
-        "image_url": "https://www.infobae.com/resizer/v2/4WA7ZYU5ZFCO5HJ3ZCDM4RD2DY.jpg?auth=c41e474280f94764a2ed54cee17121e5b12839e831be273aa83ccdc0fb0c1dd8&height=1282&smart=true&width=1920",
-        "tags": [
-            "atlético de madrid",
-            "fútbol",
-            "fútbol españa",
-            "españa-noticias",
-            "fc barcelona",
-            "españa-deportes",
-            "copa del rey"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/02/12/atletico-de-madrid-brilla-en-el-metropolitano-y-aplasta-al-fc-barcelona-con-una-amplia-goleada-en-copa-del-rey/",
-        "date": "2026-02-12 22:23:47",
-        "sentiment_score": 0.6297088228166103
-    },
-    {
-        "title": "El Atlético culmina la goleada y enfila la final (4-0)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/12/el-atletico-culmina-la-goleada-y-enfila-la-final-4-0/",
-        "date": "2026-02-12 22:21:11",
-        "sentiment_score": 0.5816403962671757
-    },
-    {
-        "title": "Matarazzo respira: buenas noticias para la Real Sociedad antes de visitar el Bernabéu",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/25/2025042517281270590.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/matarazzo-respira-buenas-noticias-real-sociedad-antes-visitar-bernabeu/20260213030818374570.html",
-        "date": "2026-02-13 02:08:18",
-        "sentiment_score": 0.6012405566871166
-    },
-    {
-        "title": "Nomura nombra como jefe de renta fija a un histórico de la banca americana en España",
-        "image_url": "https://s3.elespanol.com/2026/02/11/actualidad/1003744126509_261377747_1706x960.jpg",
-        "tags": [
-            "fondos de inversión",
-            "renta fija",
-            "banca"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/banca/20260213/nomura-nombra-jefe-renta-fija-historico-banca-americana-espana/1003744126506_0.html",
-        "date": "2026-02-13 01:45:11",
-        "sentiment_score": 0.04076894745230675
-    },
-    {
-        "title": "Canarias: El Archipiélago Abandonado",
-        "image_url": "https://s3.elespanol.com/2026/02/10/actualidad/1003744124132_261347894_1706x960.jpg",
-        "tags": [
-            "defensa - opinión",
-            "observatorio de la defensa",
-            "marruecos",
-            "islas canarias",
-            "otan"
-        ],
-        "link": "https://www.elespanol.com/observatorio-defensa/20260213/canarias-archipielago-abandonado/1003744122780_12.html",
-        "date": "2026-02-13 01:45:04",
-        "sentiment_score": -0.8900060970336199
-    },
-    {
-        "title": "GMV se erige como centinela de las telecomunicaciones de la UE tras montar un nuevo centro de control de ubicación secreta",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045042_261398171_1706x960.jpg",
-        "tags": [
-            "defensa - espacio",
-            "espacio",
-            "observatorio de la defensa",
-            "unión europea (ue)",
-            "satélites espaciales",
-            "telecomunicaciones",
-            "industria de defensa"
-        ],
-        "link": "https://www.elespanol.com/observatorio-defensa/20260213/gmv-erige-centinela-telecomunicaciones-ue-montar-nuevo-centro-control-ubicacion-secreta/1003744127712_0.html",
-        "date": "2026-02-13 01:10:00",
-        "sentiment_score": -0.22337889671325684
-    },
-    {
-        "title": "Tomás estudia el primer grado universitario sin profesores y para crear una empresa: \"Hablo con CEOs y ministros\"",
-        "image_url": "https://s3.elespanol.com/2026/02/09/madrid/sociedad/1003744123038_261335257_1706x960.jpg",
-        "tags": [
-            "sociedad",
-            "educación",
-            "universidad"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20260213/tomas-estudia-primer-grado-universitario-sin-profesores-crear-empresa-hablo-ceos-ministros/1003744122431_0.html",
-        "date": "2026-02-13 01:00:00",
-        "sentiment_score": 0.23078928887844086
-    },
-    {
-        "title": "Atlético de Madrid destrozó al Barcelona y quedó a un paso de la final",
-        "image_url": "https://elclarinweb.com/2026/02/12/atletico-de-madrid-destrozo-al-barcelona/%3Cimg",
-        "tags": [
-            "actualidad",
-            "deportes"
-        ],
-        "link": "https://elclarinweb.com/2026/02/12/atletico-de-madrid-destrozo-al-barcelona/",
-        "date": "2026-02-13 00:47:18",
-        "sentiment_score": 0.07258656620979309
-    },
-    {
-        "title": "12 FEB 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/12-feb-2026-partidazo-cope-20260213_3307125.html",
-        "date": "2026-02-13 00:39:13",
-        "sentiment_score": 0.21535802632570267
-    },
-    {
-        "title": "3a PARTE | 12 FEB 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-12-feb-2026-partidazo-cope-20260213_3307124.html",
-        "date": "2026-02-13 00:38:54",
-        "sentiment_score": -0.000551760196685791
-    },
-    {
-        "title": "La reacción del Cholo Simeone tras el gol de Julián Álvarez con el que cortó una sequía de 65 días sin gritar: “Lo necesitaba”",
-        "image_url": "https://www.infobae.com/resizer/v2/AZ6SJXXDUZEG3DHRZ4THVTOXQI.JPG?auth=0a8f5f4c5a34f77a6018e17733590e0899a7e0d68d3761c62e4e1ac9145dd10f&height=1353&smart=true&width=2029",
-        "tags": [
-            "atlético de madrid",
-            "diego simeone",
-            "julián álvarez",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/13/la-reaccion-del-cholo-simeone-tras-el-gol-de-julian-alvarez-con-el-que-corto-una-sequia-de-65-dias-sin-gritar-lo-necesitaba/",
-        "date": "2026-02-13 00:30:45",
-        "sentiment_score": 0.5658447816967964
-    },
-    {
-        "title": "¿Por qué los nómadas digitales eligen Canarias?",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/50bcd96f8ada37657e5e5fe57b7dd720/crop/0x0/1800x1200/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/12/17709203961944.png",
-        "tags": [
-            "casas>",
-            "directivos>",
-            "estilo de vida>",
-            "artículos álvaro pérez-alberca>"
-        ],
-        "link": "https://www.expansion.com/directivos/estilo-vida/casas/2026/02/13/698e1a6c468aebf0258b4846.html",
-        "date": "2026-02-12 23:59:47",
-        "sentiment_score": 0.5663904920220375
-    },
-    {
-        "title": "Copa del Rey: El Atlético de Madrid humilla al Barcelona y se alista para la vuelta",
-        "image_url": "https://pxcdn.meridiano.net/022026/1770933599478.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/copa-del-rey-atletico-de-madrid-vs-barcelona-en-vivo-20262121550",
-        "date": "2026-02-13 02:18:00",
-        "sentiment_score": 0.15148182213306427
-    },
-    {
-        "title": "Viernes, 13 de febrero de 2026 (02:00 GMT)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/13/viernes-13-de-febrero-de-2026-0200-gmt/",
-        "date": "2026-02-13 02:15:55",
-        "sentiment_score": -0.011611085385084152
-    },
-    {
-        "title": "No digamos que fue un sueño",
-        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sueno",
-            "digamos",
-            "no"
-        ],
-        "link": "https://www.granadahoy.com/opinion/articulos/no-digamos-sueno_0_2005893268.html",
-        "date": "2026-02-13 02:06:22",
-        "sentiment_score": 0.13559043407440186
-    },
-    {
-        "title": "Razones para la esperanza",
-        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "esperanza",
-            "razones"
-        ],
-        "link": "https://www.diariodejerez.es/opinion/articulos/razones-esperanza_0_2005893221.html",
-        "date": "2026-02-13 02:05:57",
-        "sentiment_score": -0.22273384034633636
-    },
-    {
-        "title": "Funcionarios de prisiones temen una avalancha de presos ante la nueva ley para los multirreincidentes",
-        "image_url": "https://s3.elespanol.com/2026/02/12/actualidad/1003744128333_261401149_1706x960.jpg",
-        "tags": [
-            "jueces",
-            "barcelona",
-            "reportajes",
-            "delincuencia",
-            "mozos de escuadra (mossos d'esquadra)",
-            "cataluña",
-            "juzgados",
-            "detenciones",
-            "policía nacional"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260213/funcionarios-prisiones-temen-avalancha-presos-nueva-ley-multirreincidentes/1003744127514_0.html",
-        "date": "2026-02-13 01:50:12",
-        "sentiment_score": -0.823820848017931
-    },
-    {
-        "title": "'El Coletas' le \"daba palizas a su exmujer\" y cuando se echó de novia a Salma la secuestró 2 años: \"Se ponía rabioso\"",
-        "image_url": "https://s3.elespanol.com/2026/02/13/actualidad/1003744128495_261403548_1706x960.jpg",
-        "tags": [
-            "murcia (municipio)",
-            "reportajes",
-            "marruecos",
-            "secuestros",
-            "violencia de género",
-            "personas desaparecidas",
-            "policía nacional"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260213/coletas-daba-palizas-exmujer-echo-novia-salma-secuestro-anos-ponia-rabioso/1003744128442_0.html",
-        "date": "2026-02-13 01:45:13",
-        "sentiment_score": -0.79283282533288
-    },
-    {
-        "title": "Carlos Rivera lanza 'Sin despedida' junto a Alejandro Fernández y adelanta su nuevo disco",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "artistas",
-            "las vegas 2025",
-            "26 edicion premios grammy latinos",
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/13/carlos-rivera-lanza-sin-despedida-junto-a-alejandro-fernandez-y-adelanta-su-nuevo-disco/",
-        "date": "2026-02-13 01:17:39",
-        "sentiment_score": 0.274739358574152
-    },
-    {
-        "title": "Delcy Rodríguez y Chris Wright visitaron PetroPiar",
-        "image_url": "https://primicia.com.ve/wp-content/uploads/2026/02/24MG__3818_P-scaled-1-730x524.jpeg",
-        "tags": [
-            "visita",
-            "eeuu",
-            "petropiar",
-            "venezuela",
-            "petrolera",
-            "economía",
-            "recorrido"
-        ],
-        "link": "https://primicia.com.ve/economia/delcy-rodriguez-y-chris-wright-visitaron-petropiar/",
-        "date": "2026-02-13 01:12:45",
-        "sentiment_score": 0.017607778310775757
-    },
-    {
-        "title": "El PSOE lleva la contraria a sus socios de izquierdas para tender puentes con Junts",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/13/2025111306580812869.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.mundiario.com/articulo/politica/psoe-lleva-contraria-socios-izquierdas-tender-puentes-junts/20260213015002374565.html",
-        "date": "2026-02-13 00:50:02",
-        "sentiment_score": -0.24843749403953552
-    },
-    {
         "title": "Santi Santamaría, in memoriam (1957-2011)",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ed7f15a7-ed64-4ce1-9f6d-23a5577e6710_16-9-aspect-ratio_default_0_x468y339.jpg",
         "tags": [
@@ -2997,5 +2599,162 @@ export default [
         "link": "https://www.noticiasdegipuzkoa.eus/politica/2026/02/16/illa-reincorpora-lunes-forma-progresiva-10705562.html",
         "date": "2026-02-16 06:19:20",
         "sentiment_score": -0.006176114082336426
+    },
+    {
+        "title": "Los médicos no pueden más",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "línea editorial"
+        ],
+        "link": "https://www.cope.es/actualidad/linea-editorial/audios/medicos-20260216_3309022.html",
+        "date": "2026-02-16 17:50:54",
+        "sentiment_score": -0.35168346762657166
+    },
+    {
+        "title": "El enemigo del 'pueblo', poderoso",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/b796a8b2-7f2c-4551-b963b6ee69ac263f.jpeg",
+        "tags": [
+            "madrid",
+            "conciertos",
+            "teatro real",
+            "rae",
+            "inversiones",
+            "londres",
+            "ópera",
+            "infecciones",
+            "teatro",
+            "viena",
+            "los ángeles",
+            "españa"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zf8e0d1f7-18f3-454b-99f6deea7fac7685/202602/el-enemigo-del-pueblo-poderoso",
+        "date": "2026-02-16 17:50:11",
+        "sentiment_score": -0.5770877748727798
+    },
+    {
+        "title": "Un estudio plantea que la gestación en los neandertales pudo ser más difícil que en nuestra especie y sitúa ahí una pieza de su extinción",
+        "image_url": "https://static.eldiario.es/clip/7911ebf1-b986-4d8d-ac8e-a662e8707004_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "pm",
+            "pieza",
+            "plantea",
+            "neandertales",
+            "pudo",
+            "situa",
+            "gestacion",
+            "especie",
+            "estudio",
+            "extincion",
+            "dificil"
+        ],
+        "link": "https://www.eldiario.es/spin/estudio-plantea-gestacion-neandertales-pudo-dificil-especie-situa-pieza-extincion-pm_1_12995218.html",
+        "date": "2026-02-16 17:46:32",
+        "sentiment_score": -0.24141035974025726
+    },
+    {
+        "title": "Los pilotos de Balears, reconocidos en la Gala del Automovilismo",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3677071.jpg",
+        "tags": [
+            "automovilismo",
+            "otros deportes",
+            "vela",
+            "ciclismo",
+            "deporte balear",
+            "voleibol",
+            "tenis",
+            "golf"
+        ],
+        "link": "https://www.ultimahora.es/deportes/otros-deportes/2026/02/16/2571593/pilotos-balears-reconocidos-gala-del-automovilismo.html",
+        "date": "2026-02-16 17:44:27",
+        "sentiment_score": 0.7229834236204624
+    },
+    {
+        "title": "El estamento arbitral admite su error con Vinicius y enciende la indignación en la Real Sociedad",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/16/69925fc3ade8f.jpeg",
+        "tags": [
+            "deportes gipuzkoa"
+        ],
+        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-guipuzcoa/noticias/estamento-arbitral-admite-error-vinicius-enciende-indignacion-real-sociedad-20260216_3309021.html",
+        "date": "2026-02-16 17:42:46",
+        "sentiment_score": -0.15105301141738892
+    },
+    {
+        "title": "Previa del Benfica - Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/XYVRHRGCLZDKHPY3FNCDQSQL5M.jpg?auth=8825e8d26d6a97e26b3dbb06e55b35a2296495731ea66f78deaee4f492f596b4&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/16/previa-del-benfica-real-madrid/",
+        "date": "2026-02-16 17:32:00",
+        "sentiment_score": -0.03699766844511032
+    },
+    {
+        "title": "(Pre) El PSG quiere golpear primero en Mónaco y Galatasaray y Dortmund hacer valer el factor campo",
+        "image_url": "https://www.infobae.com/resizer/v2/JRI6QATWZBCD3IK7NWOYUAEYAE.jpg?auth=54c385b3b1cc16e503d039644fedd53c7c1c53f7062ff57393f9710b6bc9eb3f&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/16/pre-el-psg-quiere-golpear-primero-en-monaco-y-galatasaray-y-dortmund-hacer-valer-el-factor-campo/",
+        "date": "2026-02-16 17:31:43",
+        "sentiment_score": -0.2634919807314873
+    },
+    {
+        "title": "Ricky Rubio: \"No he vuelto por el rendimiento, lo he hecho para disfrutar del baloncesto\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/51e25490-7038-4541-a6e9-bad140041ce5_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "baloncesto,ricky rubio,copa del rey de baloncesto"
+        ],
+        "link": "https://www.laopiniondezamora.es/deportes/2026/02/16/ricky-rubio-copa-rey-baloncesto-126908390.html",
+        "date": "2026-02-16 17:30:24",
+        "sentiment_score": 0.1100299060344696
+    },
+    {
+        "title": "Detenido en Alicante el sospechoso de intentar matar a su expareja y a la madre de ella en Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/18610dd4-fced-4af3-90d9-5b8bc54ea22e_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "mossos d'esquadra",
+            "violencia machista",
+            "violencia de género",
+            "alicante"
+        ],
+        "link": "https://www.eldia.es/sucesos/2026/02/16/detenido-alicante-sospechoso-matar-expareja-126909267.html",
+        "date": "2026-02-16 17:50:44",
+        "sentiment_score": -0.7734672352671623
+    },
+    {
+        "title": "Detenido en Onil el joven huido tras intentar matar a su pareja y a su suegra en Calella",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/16/detenido-en-onil-el-joven-huido-tras-intentar-matar-a-su-pareja-y-a-su-suegra-en-calella/",
+        "date": "2026-02-16 17:49:09",
+        "sentiment_score": -0.7804502975195646
+    },
+    {
+        "title": "Las siamesas mauritanas que separó Sant Joan de Déu hace 2 años hacen \"vida normal\" en su país",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260216184733_120.jpg",
+        "tags": [
+            "investigación",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-siamesas-mauritanas-separo-sant-joan-deu-hace-anos-hacen-vida-normal-pais-20260216184733.html",
+        "date": "2026-02-16 17:47:33",
+        "sentiment_score": -0.3146451637148857
+    },
+    {
+        "title": "Detenido un marroquí tras dejar en muerte cerebral a su pareja y en estado crítico a su suegra en Calella (Barcelona)",
+        "image_url": "https://gaceta.es/wp-content/uploads/2026/02/MOSSOS.jpg",
+        "tags": [
+            "barcelona",
+            "inseguridad",
+            "españa",
+            "inmigración ilegal",
+            "inmigración"
+        ],
+        "link": "https://gaceta.es/espana/detenido-un-marroqui-tras-dejar-en-muerte-cerebral-a-su-pareja-y-en-estado-critico-a-su-suegra-en-calella-barcelona-20260216-1847/",
+        "date": "2026-02-16 17:47:24",
+        "sentiment_score": -0.8546986998990178
     }
 ];
