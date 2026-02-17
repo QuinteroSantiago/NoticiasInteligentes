@@ -2725,5 +2725,206 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260216/santa-coloma-ultima-comisaria-elite-policia-local-bunker-tecnologico-pionero-metros-cuadrados/1003742730218_0.html",
         "date": "2026-02-16 22:30:00",
         "sentiment_score": 0.4819609485566616
+    },
+    {
+        "title": "El Girona asalta Montilivi y arrebata el liderato al Barça",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/02/17/2026021703294414343.webp",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/futbol/girona-asalta-montilivi-arrebata-liderato-barca/20260217033015580194.html",
+        "date": "2026-02-17 02:30:15",
+        "sentiment_score": 0.8705715518444777
+    },
+    {
+        "title": "Benfica vs. Real Madrid, por los playoffs de la Champions League: previa, formaciones, hora y cómo ver por TV e internet",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/02/16/benfica-real-madrid-playoffs-champions-league-orix/",
+        "date": "2026-02-17 02:03:46",
+        "sentiment_score": 0.3245493918657303
+    },
+    {
+        "title": "Guía para saber si se puede llevar burka en España, qué invocan los países que lo prohíben y qué dice Europa",
+        "image_url": "https://s3.elespanol.com/2026/02/16/actualidad/1003744132990_261463144_1706x960.jpg",
+        "tags": [
+            "tedh tribunal europeo de derechos humanos",
+            "tribunal supremo",
+            "tribunal constitucional",
+            "religión",
+            "tribunales",
+            "congreso de los diputados",
+            "burka",
+            "senado",
+            "libertad religiosa"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20260217/burka-religion-tedh_tribunal_europeo_de_derechos_humanos-tribunal_supremo-tribunal_constitucional-senado-congreso_de_los_diputados-libertad_religiosa-tribunales/1003744132712_0.html",
+        "date": "2026-02-17 01:55:43",
+        "sentiment_score": -0.4538439139723778
+    },
+    {
+        "title": "Por qué la Constitución de 1978 es incomparable con la de 1876",
+        "image_url": "https://s3.elespanol.com/2022/11/25/curiosidades/espana-pueblos/721188110_228998941_1706x960.jpg",
+        "tags": [
+            "congreso de los diputados",
+            "tribunas",
+            "reformas constitucionales",
+            "espana-newsletter",
+            "historia",
+            "gobierno de españa",
+            "constitución española"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20260217/constitucion-incomparable/1003744132954_12.html",
+        "date": "2026-02-17 01:55:32",
+        "sentiment_score": -0.7668566517531872
+    },
+    {
+        "title": "La jugada polémica que dejó sin puntos a Barcelona ante Girona",
+        "image_url": "https://pxcdn.meridiano.net/022026/1771291108760.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/la-jugada-polemica-que-dejo-sin-puntos-a-barcelona-ante-girona-202621621190",
+        "date": "2026-02-17 01:19:00",
+        "sentiment_score": 0.15836220979690552
+    },
+    {
+        "title": "16 FEB 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/16-feb-2026-partidazo-cope-20260217_3309111.html",
+        "date": "2026-02-17 00:50:00",
+        "sentiment_score": -0.47149910777807236
+    },
+    {
+        "title": "«Digo lo que pienso en cada momento»",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/02/17/imag-keQF-U20742557412XyD-1200x840@RC.jpg",
+        "tags": [
+            "ángela molina",
+            "series de televisión",
+            "telecinco"
+        ],
+        "link": "https://www.ideal.es/pantallas/series/digo-pienso-momento-20260217010801-ntrc.html",
+        "date": "2026-02-17 00:08:04",
+        "sentiment_score": 0.07598459720611572
+    },
+    {
+        "title": "Lamine Yamal erró un penal y el Barcelona se «pincha» en LaLiga: Real Madrid, nuevo líder",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/02/16/barcelona-girona-lamine-yamal-penal-orix/",
+        "date": "2026-02-17 00:03:46",
+        "sentiment_score": 0.04394814372062683
+    },
+    {
+        "title": "Las fotos del Girona-Barcelona",
+        "image_url": "https://static.grupojoly.com/clip/8dcdb935-4b4c-4830-8107-e737c2bd2202_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fc barcelona",
+            "laliga"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/fotos-girona-barcelona_3_2005927187.html",
+        "date": "2026-02-16 23:48:07",
+        "sentiment_score": -0.24218687415122986
+    },
+    {
+        "title": "¿Se puede insultar al jefe en redes sociales?",
+        "image_url": "https://revistabyte.es/wp-content/uploads/2026/02/redes-sociales.webp",
+        "tags": [
+            "legalidad tic",
+            "redes sociales"
+        ],
+        "link": "https://revistabyte.es/legalidad-tic/insultar-jefe-en-redes-sociales/",
+        "date": "2026-02-16 23:35:00",
+        "sentiment_score": 0.04969344288110733
+    },
+    {
+        "title": "Ander Mirambell: «Los deportes de invierno están en una segunda división en España»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/02/11/mirambell-U20650737435dnE-1200x838@diario_abc.jpg",
+        "tags": [
+            "juegos olímpicos invierno",
+            "deportes"
+        ],
+        "link": "https://www.abc.es/deportes/juegos-olimpicos-invierno/ander-mirambell-deportes-invierno-segunda-division-espana-20260211031753-nt.html",
+        "date": "2026-02-17 02:17:53",
+        "sentiment_score": -0.10503163933753967
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 17 de febrero en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima",
+            "clima en barcelona",
+            "clima en españa",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/17/clima-las-temperaturas-que-predominaran-este-17-de-febrero-en-barcelona/",
+        "date": "2026-02-17 02:15:57",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Martes, 17 de febrero de 2026 (02:00 GMT)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/17/martes-17-de-febrero-de-2026-0200-gmt/",
+        "date": "2026-02-17 02:15:15",
+        "sentiment_score": -0.006093934178352356
+    },
+    {
+        "title": "Paraíso de incívicos",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "paraiso",
+            "incivicos"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/paraiso-incivicos_0_2005927850.html",
+        "date": "2026-02-17 02:08:52",
+        "sentiment_score": -0.8754102941602468
+    },
+    {
+        "title": "El puente del Centenario y el pito del sereno",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sereno",
+            "centenario",
+            "pito",
+            "puente"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/puente-centenario-pito-sereno_0_2005927795.html",
+        "date": "2026-02-17 02:08:25",
+        "sentiment_score": -0.6868769153952599
+    },
+    {
+        "title": "\"La próxima gran frontera gastronómica\": 'Vogue' se rinde a la nueva ola de jóvenes chefs que revoluciona Castilla y León",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/02/16/hombre-sirviendo-cochinillo-en-un-restaurante-de-castilla-y-leon.jpeg",
+        "tags": [
+            "viajes"
+        ],
+        "link": "https://www.huffingtonpost.es/life/viajes/la-proxima-gran-frontera-gastronomica-vogue-rinde-nueva-ola-jovenes-chefs-revoluciona-castilla-leon-f202602.html",
+        "date": "2026-02-17 02:00:00",
+        "sentiment_score": 0.005876511335372925
+    },
+    {
+        "title": "Malas noticias si eres alérgico: la temporada de polen dura ya 100 días más que hace 25 años con el viento como factor clave",
+        "image_url": "https://s3.elespanol.com/2026/02/16/ciencia/salud/1003744132823_261460892_1706x960.jpg",
+        "tags": [
+            "alergias",
+            "primavera",
+            "salud",
+            "cambio climático",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20260217/malas-noticias-alergico-temporada-polen-dura-dias-hace-anos-viento-factor-clave/1003744131950_0.html",
+        "date": "2026-02-17 01:55:24",
+        "sentiment_score": -0.009436473250389099
     }
 ];
