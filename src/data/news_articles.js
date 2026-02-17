@@ -1,219 +1,5 @@
 export default [
     {
-        "title": "La familia Vañó, los ‘reyes’ del oro líquido, se va de boda: los detalles del ‘sí, quiero’ que reunirá al mundo de la aristocracia y la empresa en su imponente castillo",
-        "image_url": "https://www.hola.com/horizon/landscape/30e796280ad7-image00001.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "actualidad",
-            "contenido sensible",
-            "bodas"
-        ],
-        "link": "https://www.hola.com/actualidad/20260213883671/familia-vano-reyes-oro-liquido-boda-detalles-aristocracia-empresa-castillo/",
-        "date": "2026-02-13 17:35:31",
-        "sentiment_score": 0.07687459141016006
-    },
-    {
-        "title": "El resurgir de Griezmann, el ‘viejo rockero’ de Simeone que lideró la goleada al Barça",
-        "image_url": "https://okdiario.com/img/2026/02/13/gettyimages-2261306044-1.jpg",
-        "tags": [
-            "atlético de madrid",
-            "antoine griezmann",
-            "deportes",
-            "diego pablo 'cholo' simeone",
-            "copa del rey"
-        ],
-        "link": "https://okdiario.com/deportes/resurgir-griezmann-viejo-rockero-simeone-que-lidero-goleada-barca-16239500",
-        "date": "2026-02-13 17:30:01",
-        "sentiment_score": 0.567269891500473
-    },
-    {
-        "title": "Cultural Leonesa-Real Zaragoza: una auténtica final por aferrarse a la salvación",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/01/04/2026010422230852789.jpg",
-        "tags": [
-            "real zaragoza"
-        ],
-        "link": "https://www.aragondigital.es/articulo/real-zaragoza/cultural-leonesa-real-zaragoza-autentica-final-aferrarse-salvacion/20260213183000967015.html",
-        "date": "2026-02-13 17:30:00",
-        "sentiment_score": 0.5329060256481171
-    },
-    {
-        "title": "Juanma Castaño, sobre los jugadores del Barça: \"Es lamentable que no hagan declaraciones cuando más tienen que explicar, pero esto pasa en el Real Madrid y hasta los clubes más pequeños\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/files/fp/uploads/2026/02/13/698e5e8ea9d1f.r_d.973-322-4427.jpeg",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/juanma-castano-sobre-jugadores-barca-lamentable-hagan-declaraciones-explicar-esto-pasa-real-madrid-clubes-pequenos-20260213_3307115.html",
-        "date": "2026-02-13 17:23:33",
-        "sentiment_score": -0.15650129318237305
-    },
-    {
-        "title": "El embajador de Trump llega a Madrid tras año y medio con la Embajada vacante",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KM5W7ZOUB5MKRPLVXARDHNEJME.jpg?auth=0a071231457a0d0abd2cb4746f9eef98518126788acd1bad5b4edf2cdb9a63eb&width=1200",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2026-02-13/el-embajador-de-trump-llega-a-madrid-tras-ano-y-medio-con-la-embajada-vacante.html",
-        "date": "2026-02-13 17:21:01",
-        "sentiment_score": 0.302792489528656
-    },
-    {
-        "title": "Ibon Navarro y Sergio Scariolo, la historia del Unicaja frente a frente",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/036b01f8-4b12-4558-937f-54f56b49e13a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unicaja",
-            "real madrid",
-            "ibon navarro",
-            "sergio scariolo",
-            "copa del rey",
-            "scariolo"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2026/02/13/ibon-navarro-sergio-scariolo-historia-unicaja-126814217.html",
-        "date": "2026-02-13 17:16:39",
-        "sentiment_score": 0.49584612250328064
-    },
-    {
-        "title": "El arte de pausar: rutas de bienestar y desconexión para un San Valentín inolvidable",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260213181535_120.jpg",
-        "tags": [
-            "hoteles",
-            "turismo"
-        ],
-        "link": "https://www.europapress.es/turismo/hoteles/noticia-arte-pausar-rutas-bienestar-desconexion-san-valentin-inolvidable-20260213181535.html",
-        "date": "2026-02-13 17:15:35",
-        "sentiment_score": 0.4128432720899582
-    },
-    {
-        "title": "Reale Foundation continúa con su colaboración con la Fundación Atapuerca",
-        "image_url": "https://s3.ppllstatics.com/burgosconecta/www/multimedia/2026/02/13/reale-kqrC-U20700005923M8H-1200x840@Burgosconecta.jpg",
-        "tags": [
-            "atapuerca"
-        ],
-        "link": "https://www.leonoticias.com/culturas/reale-foundation-continua-colaboracion-fundacion-atapuerca-20260213181507-nt.html",
-        "date": "2026-02-13 17:15:11",
-        "sentiment_score": 0.5002292562276125
-    },
-    {
-        "title": "Exdirectivo del Fenerbahçe confesó conflicto que tuvo Jhon Jáder Durán en su paso por Turquía: “Tiene serios problemas mentales”",
-        "image_url": "https://www.infobae.com/resizer/v2/OY4XANLLSZE55CBVL3CDQFVWIQ.JPG?auth=bcbdc8f59bb708598f6c8adb3df5a9cd0b1ef1b9d8d447cf7b9f4e2ed24aff9c&height=542&smart=true&width=800",
-        "tags": [
-            "fenerbahçe",
-            "jhon jáder durán",
-            "zenit fc",
-            "serhat pekmezci",
-            "colombia-deportes"
-        ],
-        "link": "https://www.infobae.com/america/mundo/2026/02/13/exdirectivo-del-fenerbahce-confeso-conflicto-que-tuvo-jhon-jader-duran-en-su-paso-por-turquia-tiene-serios-problemas-mentales/",
-        "date": "2026-02-13 17:09:49",
-        "sentiment_score": 0.3850105255842209
-    },
-    {
-        "title": "Rubiales afirma que Tebas \"quería matarle\" y que ofreció un puesto para obtener información contra él",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260213180700_260.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.europapress.es/madrid/noticia-rubiales-afirma-tebas-queria-matarle-ofrecio-puesto-obtener-informacion-contra-20260213180700.html",
-        "date": "2026-02-13 17:07:00",
-        "sentiment_score": -0.4620734602212906
-    },
-    {
-        "title": "Detectados casos de Peste Porcina Africana (PPA) en Cataluña fuera de la 'zona cero'",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/8b1465ea4e75e5b67b7fd306830b909c/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/13/17710039942520.jpg",
-        "tags": [
-            "distribución>",
-            "sociedad>",
-            "economía>",
-            "cataluña>",
-            "artículos david casals>"
-        ],
-        "link": "https://www.expansion.com/catalunya/2026/02/13/698f5fd1e5fdea79608b458e.html",
-        "date": "2026-02-13 17:37:09",
-        "sentiment_score": -0.5821993201971054
-    },
-    {
-        "title": "De los campamentos de refugiados en Argelia al Hospital Vega Baja: un médico saharaui publica en \"The Lancet\" una realidad olvidada",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/706337f7-7da2-401b-9678-265f4023c70a_16-9-aspect-ratio_default_0_x540y381.jpg",
-        "tags": [
-            "refugiados",
-            "violencia",
-            "sanidad",
-            "salud",
-            "vega baja",
-            "sáhara occidental",
-            "ética",
-            "médicos"
-        ],
-        "link": "https://www.informacion.es/vega-baja/2026/02/13/campamentos-refugiados-argelia-hospital-vega-126712747.html",
-        "date": "2026-02-13 17:28:24",
-        "sentiment_score": 0.6380580216646194
-    },
-    {
-        "title": "Una policía, atrapada entre el autobús y las bengalas en el Metropolitano: su caballo también sufre quemaduras",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/02/13/7F1F0FE4-F641-49AA-AB74-D75ECCBE3D93/policia-atrapada-autobus-bengalas-metropolitano-caballo-tambien-sufre-quemaduras_70.jpg?crop=853%2C480%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "deportes",
-            "antena 3 noticias",
-            "fútbol"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/policia-atrapada-autobus-bengalas-metropolitano-caballo-tambien-sufre-quemaduras_20260213698f5f219243cc133c471641.html",
-        "date": "2026-02-13 17:28:01",
-        "sentiment_score": -0.7510902490466833
-    },
-    {
-        "title": "La borrasca 'Oriana' bloquea el corredor aéreo entre Asturias y Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/15/sucesos/1003742723429_15602052_1706x960.jpg",
-        "tags": [
-            "el prat de llobregat",
-            "aeropuerto barcelona",
-            "vivir en barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260213/borrasca-oriana-bloquea-corredor-aereo-asturias-barcelona/1003742732514_0.html",
-        "date": "2026-02-13 17:25:26",
-        "sentiment_score": -0.7982525713741779
-    },
-    {
-        "title": "10.000 euros de multa a una inmobiliaria catalana por negarle un piso a un hombre por su origen marroquí",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/13/C27808BD-44C5-453E-93D0-7D0A1A2632B9/10000-euros-multa-inmobiliaria-catalana-negarle-piso-hombre-origen-marroqui_69.jpg?crop=1900%2C1069%2Cx0%2Cy0&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/10000-euros-multa-inmobiliaria-catalana-negarle-piso-hombre-origen-marroqui-b50m_20260213698f5de72f00a046880b678e.html",
-        "date": "2026-02-13 17:22:49",
-        "sentiment_score": -0.8879270516335964
-    },
-    {
-        "title": "Colau pide \"revisar las narrativas\" dentro de la izquierda para \"ganar poder\"",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/202602/13/media/cortadas/colau-pide-revisar-narrativas-dentro-izquierda-ganar-20260213171505-vi--224x126.jpg",
-        "tags": [
-            "pide",
-            "dentro",
-            "revisar",
-            "poder",
-            "para",
-            "narrativas",
-            "izquierda",
-            "ganar",
-            "colau"
-        ],
-        "link": "https://www.elcomercio.es/sociedad/sucesos/colau-pide-revisar-narrativas-dentro-izquierda-ganar-20260213171505-vi.html",
-        "date": "2026-02-13 17:20:48",
-        "sentiment_score": -0.03525223582983017
-    },
-    {
-        "title": "Mercedes refuerza su candidatura; dudas para Aston Martin y Ferrari",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d4a96f9e-a256-4a7d-b19a-7f99da5cd282_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "aston martin",
-            "fórmula 1",
-            "fernando alonso",
-            "mclaren",
-            "lewis hamilton"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2026/02/13/mercedes-refuerza-candidatura-dudas-aston-martin-ferrari-126815934.html",
-        "date": "2026-02-13 17:20:46",
-        "sentiment_score": -0.19799627363681793
-    },
-    {
         "title": "Scariolo: \"Pasamos una crisis y nos mantuvimos firmes para salir de una mala racha\"",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
         "tags": [
@@ -2926,5 +2712,225 @@ export default [
         "link": "https://www.elespanol.com/ciencia/salud/20260217/malas-noticias-alergico-temporada-polen-dura-dias-hace-anos-viento-factor-clave/1003744131950_0.html",
         "date": "2026-02-17 01:55:24",
         "sentiment_score": -0.009436473250389099
+    },
+    {
+        "title": "Las portadas atizan al Barça y previenen al Madrid: \"¡Desesperante!\", \"Pisotón\" y \"Líder en Lisboa\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
+        "tags": [
+            "la liga 2025/2026",
+            "football"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/portadas-prensa-deportiva-martes-17-febrero-pinchazo-barca-previa-madrid-champions-marca-as-mundo-deportivo-sport-hoy_sto23271947/story.shtml",
+        "date": "2026-02-17 06:31:05",
+        "sentiment_score": -0.736177671700716
+    },
+    {
+        "title": "El Real Madrid y su déficit físico en la Champions",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/17/Clipboard-0219-k6DH-U20742382586wAF-1200x840@RC.jpg",
+        "tags": [
+            "champions",
+            "deficit",
+            "real",
+            "madrid",
+            "fisico"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-campeones/real-madrid-deficit-fisico-champions-20260217070756-ntrc.html",
+        "date": "2026-02-17 06:08:01",
+        "sentiment_score": -0.6986896023154259
+    },
+    {
+        "title": "06:00H | 17 FEB 2026 | Herrera en COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "herrera en cope"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/06-00h-17-feb-2026-herrera-cope-20260217_3309123.html",
+        "date": "2026-02-17 06:04:00",
+        "sentiment_score": -0.3230108469724655
+    },
+    {
+        "title": "Dromo, en Badajoz, consigue dos Soles Repsol y otros tres restaurantes extremeños se estrenan con un Sol",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/31653aeb-ec78-4646-bf3d-6e0ba8fa226f_16-9-aspect-ratio_default_0_x960y480.jpg",
+        "tags": [
+            "extremadura",
+            "restaurantes",
+            "repsol",
+            "tendencias",
+            "españa"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/17/dromo-badajoz-soles-repsol-tres-126920459.html",
+        "date": "2026-02-17 06:01:29",
+        "sentiment_score": 0.5391947329044342
+    },
+    {
+        "title": "Plataformas extremeñas se unen a un movimiento nacional contra las privatizaciones y la falta de recursos en la sanidad pública",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fafd72db-5a31-498c-82a1-704bf8b0894d_16-9-aspect-ratio_default_0_x1000y499.jpg",
+        "tags": [
+            "público",
+            "empresas",
+            "extremadura",
+            "sanidad pública",
+            "salud",
+            "sanidad",
+            "españa"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/17/plataformas-extremenas-unen-movimiento-nacional-126920444.html",
+        "date": "2026-02-17 06:01:26",
+        "sentiment_score": 0.3821723908185959
+    },
+    {
+        "title": "Benfica - Real Madrid: Horario, posibles onces y dónde ver el partido de playoffs de la Champions League, en directo",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/02/16/695ED79A-D735-4FAC-BAF7-6C3B6B5E80AF/vinicius-accion-benfica_98.jpg?crop=3957%2C2226%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/benfica-real-madrid-horario-posibles-onces-donde-ver-partido-playoffs-champions-league-directo_20260217699403f39243cc133c4d6b51.html",
+        "date": "2026-02-17 06:00:19",
+        "sentiment_score": 0.02389489859342575
+    },
+    {
+        "title": "Manolo Lama, sobre la derrota del Barça en Girona: \"Flick se ha vuelto loco\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/16/69939f3e07436.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/manolo-lama-sobre-derrota-barca-girona-flick-vuelto-loco-20260217_3309094.html",
+        "date": "2026-02-17 06:00:00",
+        "sentiment_score": -0.2195274829864502
+    },
+    {
+        "title": "José Mourinho, el arcángel de Concha Espina",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/31232490-32d5-415b-b0d0-f9c2165a2778_16-9-aspect-ratio_default_0_x440y165.jpg",
+        "tags": [
+            "florentino pérez",
+            "real madrid",
+            "miel, limón & vinagre"
+        ],
+        "link": "https://www.lacronicabadajoz.com/opinion/2026/02/17/jose-mourinho-arcangel-concha-espina-126920322.html",
+        "date": "2026-02-17 05:50:52",
+        "sentiment_score": -0.09611530601978302
+    },
+    {
+        "title": "La asombrosa historia del grumete canario de «Moby Dick»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e1f3239a-d42b-43bd-8e9d-0a6c25c58acf_16-9-discover-aspect-ratio_default_0_x465y178.jpg",
+        "tags": [
+            "familia",
+            "manuel",
+            "las palmas",
+            "canarias",
+            "santa catalina",
+            "turistas",
+            "turismo"
+        ],
+        "link": "https://www.eldia.es/cultura/2026/02/17/asombrosa-historia-grumete-canario-moby-126906847.html",
+        "date": "2026-02-17 07:00:00",
+        "sentiment_score": -0.15491396188735962
+    },
+    {
+        "title": "Renfe e Iryo reestablecen el servicio del AVE entre Madrid y Andalucía tras terminar los trabajos de reparación por la tragedia de Adamuz",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/20/696f35e88618e4-63693139.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/nacional/renfe-reestablece-servicio-ave-entre-madrid-andalucia-tras-terminar-los-trabajos-reparacion-por-tragedia-adamuz_6934985_0.html",
+        "date": "2026-02-17 06:37:47",
+        "sentiment_score": -0.26735182106494904
+    },
+    {
+        "title": "La alta velocidad entre Madrid y Andalucía se recupera este martes: vuelve el AVE e Iryo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1788b0ae-7cc5-4a1a-aa88-c0bfb7ca048e_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "ave,alta velocidad"
+        ],
+        "link": "https://www.elcorreoweb.es/andalucia/2026/02/17/alta-velocidad-madrid-andalucia-recupera-ave-renfe-iryo-126920787.html",
+        "date": "2026-02-17 06:37:02",
+        "sentiment_score": -0.6478331796824932
+    },
+    {
+        "title": "Renfe e Iryo restablecen el servicio de trenes de alta velocidad entre Madrid y Andalucía",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/renfe-restablece-alta-velocidad-madrid-andalucia.jpg",
+        "tags": [
+            "madrid",
+            "transporte",
+            "andalucía",
+            "alta velocidad",
+            "trenes",
+            "accidentes de tren",
+            "renfe"
+        ],
+        "link": "https://theobjective.com/economia/transporte/2026-02-17/renfe-restablece-alta-velocidad-madrid-andalucia/",
+        "date": "2026-02-17 06:36:18",
+        "sentiment_score": 0.236374132335186
+    },
+    {
+        "title": "Mueren cinco adolescentes en el incendio de un trastero en un edificio de viviendas en Manlleu",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2026/02/17/69940c3bbe6c3.jpeg",
+        "tags": [
+            "sucesos"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/sucesos/2026/02/17/mueren-cinco-adolescentes-incendio-trastero-edificio-viviendas-manlleu-810467-122.html",
+        "date": "2026-02-17 06:35:56",
+        "sentiment_score": -0.8231540136039257
+    },
+    {
+        "title": "Borja Vilaseca: «El ego es un parásito psíquico que nos tiene secuestrados»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3677383.jpg",
+        "tags": [
+            "sociedad",
+            "última hora",
+            "tendencias"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2026/02/17/2571747/borja-vilaseca-ego-parasito-psiquico-nos-tiene-secuestrados.html",
+        "date": "2026-02-17 06:30:00",
+        "sentiment_score": -0.068926140666008
+    },
+    {
+        "title": "AEMET prevé cielo nublado y lluvias débiles en Barcelona, con viento moderado a fuerte",
+        "image_url": "https://okdiario.com/img/2026/02/17/lluvia-en-barcelona.-europa-press.jpg",
+        "tags": [
+            "previsión del tiempo",
+            "okd",
+            "cataluña",
+            "agencia estatal de meteorología (aemet)",
+            "españa",
+            "tiempo"
+        ],
+        "link": "https://okdiario.com/cataluna/aemet-preve-cielo-nublado-y-lluvias-debiles-en-barcelona-con-viento-moderado-a-fuerte-16256479",
+        "date": "2026-02-17 06:25:40",
+        "sentiment_score": 0.013990968465805054
+    },
+    {
+        "title": "Renfe restablece el servicio de alta velocidad entre Madrid y Andalucía casi un mes después del accidente de Adamuz",
+        "image_url": "https://images.ecestaticos.com/pWIY-6h_0HwaC9MFDGQihn9-me4=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F069%2F70d%2F85f%2F06970d85f66e6e73e7dbc1498554fa52.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.elconfidencial.com/espana/2026-02-17/renfe-madrid-andalucia-accidente-1tps_4304471/",
+        "date": "2026-02-17 06:23:00",
+        "sentiment_score": -0.8010370805859566
+    },
+    {
+        "title": "Gisèle Pelicot publica sus memorias en una veintena de lenguas",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/10/09/68e77cea8aac7.jpeg",
+        "tags": [
+            "libros"
+        ],
+        "link": "https://www.20minutos.es/libros/gisele-pelicot-simbolo-mundial-contra-violencia-sexual-publica-sus-memorias-una-veintena-lenguas_6934981_0.html",
+        "date": "2026-02-17 06:21:32",
+        "sentiment_score": 0.2288858238607645
+    },
+    {
+        "title": "Los fallecidos en el incendio de Manlleu (Barcelona) son cinco adolescentes",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/02/17/B6671EBF-B969-4B41-9BC5-396DD26F6956/69.jpg?crop=6904%2C3884%2Cx0%2Cy359&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/fallecidos-incendio-manlleu-barcelona-son-cinco-adolescentes_202602176994082a1817b41eb64cdbe6.html",
+        "date": "2026-02-17 06:18:18",
+        "sentiment_score": -0.28086521103978157
     }
 ];
