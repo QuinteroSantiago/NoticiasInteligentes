@@ -1,396 +1,5 @@
 export default [
     {
-        "title": "Scariolo: \"Pasamos una crisis y nos mantuvimos firmes para salir de una mala racha\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/13/scariolo-pasamos-una-crisis-y-nos-mantuvimos-firmes-para-salir-de-una-mala-racha/",
-        "date": "2026-02-13 22:18:20",
-        "sentiment_score": -0.18637292087078094
-    },
-    {
-        "title": "Crónica del Partizán - Real Madrid, 73-77",
-        "image_url": "https://www.infobae.com/resizer/v2/TQ6XBJYSKRFJNMKBA5DMSJ6W3A.jpg?auth=40994e6c43a3ca19b2854565dafda229dc89f1c65849584aee88e06cb80215f3&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/13/cronica-del-partizan-real-madrid-73-77/",
-        "date": "2026-02-13 22:15:20",
-        "sentiment_score": -0.1354183629155159
-    },
-    {
-        "title": "Modrić salva al AC Milan con gol tardío de la victoria 2-1 ante Pisa",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/02/SERIE_A_53553.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2026/02/13/modri-salva-al-ac-milan-con-gol-tardo-de-la-victoria-2-1-ante-pisa/",
-        "date": "2026-02-13 22:14:27",
-        "sentiment_score": 0.3260096162557602
-    },
-    {
-        "title": "Modrić salva al AC Milan con gol tardío de la victoria 2-1 ante Pisa",
-        "image_url": "https://dims.apnews.com/dims4/default/734e889/2147483647/strip/true/crop/3842x2557+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2Fff%2F2bca3f5cd93998dfd22118cf38b1%2F6bf9ff29554d4fcf9e8a7289b2582081",
-        "tags": [
-            "italia ac milan pisa serie a",
-            "sports",
-            "deportes",
-            "send to apple news"
-        ],
-        "link": "https://apnews.com/article/italia-ac-milan-pisa-serie-a-9e0ce421950683d7209f7338815e440d",
-        "date": "2026-02-13 22:14:27",
-        "sentiment_score": 0.47472142428159714
-    },
-    {
-        "title": "El Real Madrid gana en Belgrado con sus dos caras",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/6634e312-ced2-430d-bfb51a45fd450d43.jpg",
-        "tags": [
-            "sergio scariolo",
-            "euroliga",
-            "real madrid",
-            "joan peñarroya",
-            "serbia"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zabb23f5e-8f7e-4ab5-86e287b08b276fb6/202602/el-real-madrid-gana-en-belgrado-con-sus-dos-caras",
-        "date": "2026-02-13 21:54:06",
-        "sentiment_score": -0.4164803922176361
-    },
-    {
-        "title": "Osasuna frena su escalada y se agarra a Sergio Herrera para salvar los muebles ante el Elche",
-        "image_url": "https://navarra.okdiario.com/media/navarra/images/2026/02/13/2026021323020313240.jpg",
-        "tags": [
-            "osasuna"
-        ],
-        "link": "https://navarra.okdiario.com/articulo/osasuna/cronica-partido-futbol-elche-osasuna-estadio-martinez-valero/20260213225259632903.html",
-        "date": "2026-02-13 21:52:59",
-        "sentiment_score": 0.12330521643161774
-    },
-    {
-        "title": "El Partizan de Peñarroya llevó al límite a un Madrid que salió vivo del Belgrado Arena",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b1b2aca4-6caf-4a8c-a940-86fd08b7706e_16-9-aspect-ratio_default_0_x1000y430.jpg",
-        "tags": [
-            "baloncesto,euroliga,real madrid de baloncesto"
-        ],
-        "link": "https://www.superdeporte.es/baloncesto/2026/02/13/partizan-penarroya-llevo-limite-madrid-126823118.html",
-        "date": "2026-02-13 21:51:03",
-        "sentiment_score": 0.11666864156723022
-    },
-    {
-        "title": "Catela regresa a las pistas y el Barça celebra también el debut del argentino Lucas Granda",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/13/catela-regresa-a-las-pistas-y-el-barca-celebra-tambien-el-debut-del-argentino-lucas-granda/",
-        "date": "2026-02-13 22:18:03",
-        "sentiment_score": 0.5323719717562199
-    },
-    {
-        "title": "El Barça no descarta el regreso de la Grada para buscar la remontada contra el Atlético",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/11/26/culemania/culemaniacos/904169696_13776066_1706x960.jpg",
-        "tags": [
-            "rafa yuste",
-            "atlético de madrid",
-            "palco",
-            "grada d’animació",
-            "elecciones barça",
-            "camp nou",
-            "copa del rey"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260213/barca-descarta-regreso-grada-buscar-remontada-atletico/1003742732582_0.html",
-        "date": "2026-02-13 22:12:29",
-        "sentiment_score": -0.11964873969554901
-    },
-    {
-        "title": "Nuevo ejercicio de inconsistencia átras",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b4c644f2-6a7c-44ba-964c-cf6d3095ac59_16-9-aspect-ratio_default_0_x956y340.jpg",
-        "tags": [
-            "euroliga",
-            "defensa",
-            "mónaco",
-            "ejercicio",
-            "baskonia"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/13/ejercicio-baskonia-euroliga-defensa-monaco-10699390.html",
-        "date": "2026-02-13 22:12:27",
-        "sentiment_score": 0.11894264817237854
-    },
-    {
-        "title": "Los socios del Barça recogen firmas contra la 'prohibición' del voto por correo en las elecciones a la presidencia",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/13/culemania/palco/1003742732544_15716958_1706x960.jpg",
-        "tags": [
-            "elecciones barça",
-            "palco",
-            "fc barcelona"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260213/socios-barca-recogen-firmas-prohibicion-elecciones-presidencia/1003742732291_0.html",
-        "date": "2026-02-13 22:12:26",
-        "sentiment_score": 0.12100928276777267
-    },
-    {
-        "title": "22:00H | 13 FEB 2026 | La Linterna",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la linterna"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna/horas-completas/22-00h-13-feb-2026-linterna-20260213_3307976.html",
-        "date": "2026-02-13 22:04:00",
-        "sentiment_score": -0.3287218064069748
-    },
-    {
-        "title": "Bajan hasta 2.808 los desalojados en Andalucía y 700 emergencias gestionadas este viernes",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/ultima-hora-temporal-andalucia.jpg",
-        "tags": [
-            "sociedad",
-            "temporales",
-            "junta de andalucía",
-            "andalucía",
-            "lluvias"
-        ],
-        "link": "https://theobjective.com/sociedad/2026-02-13/2808-desalojados-andalucia-700-emergencias/",
-        "date": "2026-02-13 22:01:35",
-        "sentiment_score": -0.7802212219685316
-    },
-    {
-        "title": "El lamento de 'La Gioconda' en la oscuridad veneciana vuelve al Liceu",
-        "image_url": "https://static1.ara.cat/clip/3824f79d-4fe8-4477-a0af-269881de103d_16-9-aspect-ratio_default_0_x3175y3064.jpg",
-        "tags": [
-            "gioconda",
-            "oscuridad",
-            "veneciana",
-            "liceu",
-            "lamento",
-            "vuelve"
-        ],
-        "link": "https://es.ara.cat/cultura/opera/lamento-gioconda-oscuridad-veneciana-vuelve-liceu_1_5648357.html",
-        "date": "2026-02-13 21:33:03",
-        "sentiment_score": -0.06470993161201477
-    },
-    {
-        "title": "Polémica por el alcance de una inversión en la línea R7 de Rodalies",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/e1301f67ae7dbf51ac0c01d88608834a/crop/0x354/2048x1720/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/13/17710178128559.jpg",
-        "tags": [
-            "artículos david casals>",
-            "renfe>",
-            "transporte y turismo>",
-            "cataluña>"
-        ],
-        "link": "https://www.expansion.com/catalunya/2026/02/13/698f967a468aeb33668b45a9.html",
-        "date": "2026-02-13 21:26:42",
-        "sentiment_score": 0.05079470947384834
-    },
-    {
-        "title": "Comparsas, diversión y color marcan inicio del Carnaval en las regiones",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/02/Anzoategui-Carnavales-Pedagogicos-1-300x225.jpg",
-        "tags": [
-            "cojedes",
-            "pulso regional",
-            "anzoátegui",
-            "actualidad",
-            "nueva esparta",
-            "miranda",
-            "guárico",
-            "carabobo"
-        ],
-        "link": "https://ultimasnoticias.com.ve/pulso-regional/comparsas-diversion-y-color-marcan-inicio-del-carnaval-en-las-regiones/",
-        "date": "2026-02-13 21:09:12",
-        "sentiment_score": 0.009048476815223694
-    },
-    {
-        "title": "Es la comunicación, estúpido",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3cf9f471-cb16-4964-8563-b789dced463e_16-9-aspect-ratio_default_0_x787y350.jpg",
-        "tags": [
-            "psoe",
-            "podemos",
-            "ave",
-            "política",
-            "pp"
-        ],
-        "link": "https://www.informacion.es/opinion/2026/02/13/comunicacion-estupido-126820743.html",
-        "date": "2026-02-13 21:00:25",
-        "sentiment_score": -0.22923994064331055
-    },
-    {
-        "title": "Sísifo revive en la izquierda radical",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sisifo",
-            "revive",
-            "izquierda",
-            "radical"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/sisifo-revive-izquierda-radical_0_2005901345.html",
-        "date": "2026-02-14 02:08:53",
-        "sentiment_score": -0.31266987323760986
-    },
-    {
-        "title": "Año Nuevo Chino: Mastantuono se vuelve viral por imitar el estilo de Messi",
-        "image_url": "https://pxcdn.2001online.com/2001/022026/1771025898290/17570836623774.jpg?ch=675&cw=1200",
-        "tags": [
-            "madrid",
-            "argentina",
-            "real madrid",
-            "año nuevo chino",
-            "lionel messi",
-            "china",
-            "franco mastantuono"
-        ],
-        "link": "https://2001online.com/deportes/ano-nuevo-chino-mastantuono-se-vuelve-viral-por-imitar-el-estilo-de-messi-202621322300",
-        "date": "2026-02-14 01:34:15",
-        "sentiment_score": 0.6499852687120438
-    },
-    {
-        "title": "'El Anodino', el jefe narco de la Udef, cayó por buscar sus propios contenedores con cocaína en las bases policiales para protegerlos",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/d898fd73c0107760555f9dc0f9ab2dea/crop/34x0/411x377/f/image/jpeg/assets/multimedia/imagenes/2022/03/08/16467684465115.jpg",
-        "tags": [
-            "audiencia nacional",
-            "artículos quico alsedo",
-            "udef"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/02/14/698cde0ee85ece3a078b45c0.html",
-        "date": "2026-02-14 01:27:21",
-        "sentiment_score": -0.5574864149093628
-    },
-    {
-        "title": "Rufián, el \"matón verbal\" que cambió el paro y un desahucio en Barcelona por el Congreso: tejió su fama en bares y TikTok",
-        "image_url": "https://s3.elespanol.com/2026/02/11/actualidad/1003744125137_261361327_1706x960.jpg",
-        "tags": [
-            "congreso de los diputados",
-            "reportajes-newsletter",
-            "gabriel rufián",
-            "sumar",
-            "porfolio",
-            "erc esquerra republicana de cataluña",
-            "izquierda unida",
-            "psoe (partido socialista obrero español)",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260214/rufian-maton-verbal-cambio-paro-desahucio-barcelona-congreso-tejio-fama-bares-tiktok/1003744124898_0.html",
-        "date": "2026-02-14 00:40:00",
-        "sentiment_score": 0.2760845124721527
-    },
-    {
-        "title": "Vuelos demorados y cancelados en el AICM este 13 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/CMVDXZ7HBNDMZAW7GUGISD32D4.jpg?auth=fd780efd04da6bc6657766960a77be0fdc35bc06a966a2e995d067f0537c0450&height=1080&smart=true&width=1920",
-        "tags": [
-            "vuelos afectados aicm",
-            "últimas actualizaciones",
-            "vuelos afectados en méxico"
-        ],
-        "link": "https://www.infobae.com/mexico/2026/02/14/vuelos-demorados-y-cancelados-en-el-aicm-este-13-de-febrero/",
-        "date": "2026-02-14 00:33:10",
-        "sentiment_score": 0.01603182777762413
-    },
-    {
-        "title": "Cuando cambias a Felipe González por Rufián",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/07/14/64b18d111df7c.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20260214/cuando-cambias-felipe-gonzalez-rufian_385217.html",
-        "date": "2026-02-14 00:30:00",
-        "sentiment_score": -0.157192662358284
-    },
-    {
-        "title": "Pronóstico del clima en Barcelona este 14 de febrero: temperatura, lluvias y viento",
-        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima",
-            "últimas actualizaciones",
-            "clima en españa",
-            "clima en barcelona"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/14/pronostico-del-clima-en-barcelona-este-14-de-febrero-temperatura-lluvias-y-viento/",
-        "date": "2026-02-14 02:15:58",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "Griezmann",
-        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "griezmann"
-        ],
-        "link": "https://www.eldiadecordoba.es/opinion/articulos/griezmann_0_2005901199.html",
-        "date": "2026-02-14 02:06:22",
-        "sentiment_score": -0.02847236394882202
-    },
-    {
-        "title": "Los artífices detrás de la innovadora cafetería que agita Carabanchel: \"Nos gustaría ser el Mahou del café de Madrid\"",
-        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/02/11/17708221521043.jpg",
-        "tags": [
-            "gastronomía",
-            "madrid"
-        ],
-        "link": "https://www.elmundo.es/metropoli/2026/02/14/698c99d2fdddffe8638b45c6.html",
-        "date": "2026-02-14 01:25:56",
-        "sentiment_score": 0.4613773450255394
-    },
-    {
-        "title": "Jordi Sánchez, de OBK, vuelve tras 12 años de silencio: \"Hace 10 años casi no existía y ahora hago 80 conciertos al año\"",
-        "image_url": "https://s3.elespanol.com/2026/02/13/actualidad/1003744129561_261416704_1706x960.jpg",
-        "tags": [
-            "comunidad de madrid",
-            "cantantes",
-            "sociedad",
-            "entrevistas",
-            "madrid"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20260214/jordi-sanchez-obk-vuelve-anos-silencio-hace-no-existia-ahora-hago-conciertos-ano/1003744127992_0.html",
-        "date": "2026-02-14 01:00:00",
-        "sentiment_score": 0.22793486714363098
-    },
-    {
-        "title": "13 FEB 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/13-feb-2026-partidazo-cope-20260214_3307998.html",
-        "date": "2026-02-14 00:40:00",
-        "sentiment_score": 0.31619417667388916
-    },
-    {
-        "title": "Los tormentos de 'El Coletas' a Salma en su casa de Murcia: la ataba en el baño cuando se iba y le rompía dientes a martillazos",
-        "image_url": "https://s3.elespanol.com/2026/02/13/actualidad/1003744129922_261421964_1706x960.jpg",
-        "tags": [
-            "eta",
-            "marruecos",
-            "violencia de género",
-            "mujeres",
-            "murcia (municipio)",
-            "reportajes-newsletter",
-            "primavera",
-            "relaciones de pareja",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260214/tormentos-coletas-salma-casa-murcia-ataba-bano-iba-rompia-dientes-martillazos/1003744129916_0.html",
-        "date": "2026-02-14 00:40:00",
-        "sentiment_score": -0.7979212701320648
-    },
-    {
-        "title": "La cruda realidad de Marina Garrido, la número 1 de enfermería: \"Gano 1.200 euros al mes y estamos mal cuidados\"",
-        "image_url": "https://s3.elespanol.com/2025/02/06/actualidad/922168249_252899146_1706x960.jpg",
-        "tags": [
-            "enfermería",
-            "salud",
-            "vivir"
-        ],
-        "link": "https://www.elespanol.com/malaga/vivir/20260214/cruda-realidad-marina-garrido-numero-enfermeria-gano-euros-mes-mal-cuidados/1003744129133_0.html",
-        "date": "2026-02-14 00:40:00",
-        "sentiment_score": 0.5431288480758667
-    },
-    {
-        "title": "SuperRufián",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/02/13/698f56fa84b27.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.lavanguardia.com/politica/20260214/11466398/superrufian.html",
-        "date": "2026-02-14 00:04:21",
-        "sentiment_score": -0.021038800477981567
-    },
-    {
         "title": "Un renqueante Thierry, un reconvertido o un canterano, opciones de Corberán en el lateral",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
         "tags": [
@@ -2932,5 +2541,187 @@ export default [
         "link": "https://www.larazon.es/cataluna/fallecidos-incendio-manlleu-barcelona-son-cinco-adolescentes_202602176994082a1817b41eb64cdbe6.html",
         "date": "2026-02-17 06:18:18",
         "sentiment_score": -0.28086521103978157
+    },
+    {
+        "title": "El significativo gesto de Carlota Ruiz, mujer de Álvaro Arbeloa, antes del trascendental Benfica-Real Madrid de Champions",
+        "image_url": "https://www.hola.com/horizon/landscape/12585514fa32-carlota.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "alvaro arbeloa",
+            "carlota ruiz",
+            "actualidad"
+        ],
+        "link": "https://www.hola.com/actualidad/20260217884435/benfica-real-madrid-champions-arbeloa-mujer-carlota-ruiz-mensaje/",
+        "date": "2026-02-17 17:51:31",
+        "sentiment_score": 0.7305884007364511
+    },
+    {
+        "title": "La indignación crece en la Real Sociedad: el club se divide entre la protesta y el silencio ante los errores arbitrales",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/10/6939e5b197f1d.jpeg",
+        "tags": [
+            "deportes gipuzkoa"
+        ],
+        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-guipuzcoa/noticias/indignacion-crece-real-sociedad-club-divide-protesta-silencio-errores-arbitrales-20260217_3309853.html",
+        "date": "2026-02-17 17:47:57",
+        "sentiment_score": -0.1030440628528595
+    },
+    {
+        "title": "¿El heredero del '9'? Mira las estadísticas de Gonzalo con el Real Madrid",
+        "image_url": "https://i.ytimg.com/vi/DIiV9KapDLI/mqdefault.jpg",
+        "tags": [
+            "lifestyle",
+            "entertainment",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/el-heredero-del-9-mira-las-estadisticas-de-gonzalo-con-el-real-madrid-202621713440",
+        "date": "2026-02-17 17:44:00",
+        "sentiment_score": 0.8647483959794044
+    },
+    {
+        "title": "Por qué la hipotermia inadvertida en mayores puede desarrollarse incluso dentro de casa",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260217183548_690.jpg",
+        "tags": [
+            "mayores",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/mayores/noticia-hipotermia-inadvertida-mayores-puede-desarrollarse-incluso-dentro-casa-20260217183548.html",
+        "date": "2026-02-17 17:35:48",
+        "sentiment_score": -0.5206699408590794
+    },
+    {
+        "title": "Casi un 27% de los beneficiarios del bono social eléctrico son familias numerosas",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/77d1e93b-edfe-4fb5-9899-79ec64350496_16-9-aspect-ratio_default_0_x569y302.jpg",
+        "tags": [
+            "beneficiarios",
+            "electrico",
+            "27",
+            "social",
+            "bono"
+        ],
+        "link": "https://www.deia.eus/economia/2026/02/17/27-beneficiarios-bono-social-electrico-10713533.html",
+        "date": "2026-02-17 17:28:37",
+        "sentiment_score": 0.38126834481954575
+    },
+    {
+        "title": "La tremenda provocación del Benfica al Real Madrid: Robin Hood roba la corona a los millonarios Vinicius y Mbappé",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/29/culemania/real-madrid/1003742727675_15655179_1706x960.jpg",
+        "tags": [
+            "real madrid",
+            "champions league"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260217/benfica-real-madrid-robin-hood-vinicius-mbappe/1003742733550_0.html",
+        "date": "2026-02-17 17:26:17",
+        "sentiment_score": -0.37797506153583527
+    },
+    {
+        "title": "El Gobierno destina 7.000 millones a paliar los efectos del temporal en Andalucía y Extremadura",
+        "image_url": "http://st1.lacerca.com/imagenes/view/1f66596424acb0caa6f20122b2614c32.jpg",
+        "tags": [
+            "españa",
+            "noticias"
+        ],
+        "link": "https://www.lacerca.com/noticias/espana/gobierno-7-000-millones-paliar-temporal-andalucia-extremadura-802386-1.html",
+        "date": "2026-02-17 17:25:00",
+        "sentiment_score": -0.1952838897705078
+    },
+    {
+        "title": "La tragedia golpea el instituto de los menores fallecidos en un incendio en Barcelona: \"Estamos todos rotos, no hemos podido hacer clase\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ba4b9df5-e342-4391-b21a-eb3f003170a0_16-9-aspect-ratio_default_0_x609y270.jpg",
+        "tags": [
+            "mossos d'esquadra",
+            "incendios",
+            "barcelona"
+        ],
+        "link": "https://www.lne.es/sucesos/2026/02/17/victimas-incendio-barcelona-manlleu-instituto-126953071.html",
+        "date": "2026-02-17 17:51:45",
+        "sentiment_score": -0.5341684818267822
+    },
+    {
+        "title": "Cataluña ordena una \"reducción drástica\" de jabalíes tras un nuevo brote de PPA fuera del radio inicial",
+        "image_url": "https://s1.staticld.com/2025/12/05/jabali.jpg",
+        "tags": [
+            "salud"
+        ],
+        "link": "https://www.libertaddigital.com/ciencia-tecnologia/salud/2026-02-17/cataluna-ordena-una-reduccion-drastica-de-jabalies-tras-un-nuevo-brote-de-ppa-fuera-del-radio-inicial-7361273/",
+        "date": "2026-02-17 17:50:20",
+        "sentiment_score": -0.7028834689408541
+    },
+    {
+        "title": "EEUU destruye otras tres lanchas en el Pacífico y el Caribe y mata a 11 personas",
+        "image_url": "https://static.infolibre.es/clip/30e51d45-eda9-4bc7-a947-14c3c6e718b2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "estados unidos",
+            "internacional",
+            "caribe",
+            "donald trump"
+        ],
+        "link": "https://www.infolibre.es/internacional/eeuu-destruye-tres-lanchas-pacifico-caribe-mata-11-personas_1_2147183.html",
+        "date": "2026-02-17 17:47:29",
+        "sentiment_score": -0.29035069048404694
+    },
+    {
+        "title": "Simeone: \"El equipo es de todos y no de diez\"",
+        "image_url": "https://www.infobae.com/resizer/v2/3TI3MEFCE5ENDOA3SLPN7UAXG4.jpg?auth=28f37b427c06ce8e6f14826ba1af7e6b02160d3c7e4b312a5f64b01fc6b3563c&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/17/simeone-el-equipo-es-de-todos-y-no-de-diez/",
+        "date": "2026-02-17 17:45:34",
+        "sentiment_score": -0.07011771202087402
+    },
+    {
+        "title": "El 87% de los inversores mantendrá o elevará su inversión en las residencias de estudiantes en 2026, según JLL",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260217184330_690.jpg",
+        "tags": [
+            "economía finanzas"
+        ],
+        "link": "https://www.europapress.es/economia/noticia-87-inversores-mantendra-elevara-inversion-residencias-estudiantes-2026-jll-20260217184330.html",
+        "date": "2026-02-17 17:43:30",
+        "sentiment_score": 0.3198516368865967
+    },
+    {
+        "title": "El incendio del trastero de Manlleu en el que murieron cinco menores pudo ser provocado por la quema \"accidental\" de un colchón",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/17/699416cb9ca990-95347491.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/incendio-trastero-manlleu-que-murieron-cinco-menores-pudo-ser-provocado-por-quema-accidental-un-colchon_6935281_0.html",
+        "date": "2026-02-17 17:39:49",
+        "sentiment_score": -0.7972102835774422
+    },
+    {
+        "title": "Más de 450 extranjeros de fuera de la UE eligen Extremadura para cursar sus estudios",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/433b5d4c-e4e8-498d-aea0-fc8bed922602_16-9-aspect-ratio_default_0_x1200y532.jpg",
+        "tags": [
+            "españa",
+            "estudiantes",
+            "extremadura",
+            "estadística",
+            "crecimiento",
+            "ue"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/17/450-extranjeros-fuera-ue-eligen-126952576.html",
+        "date": "2026-02-17 17:38:47",
+        "sentiment_score": 0.028721295297145844
+    },
+    {
+        "title": "Koke: \"Aunque mucha gente se pensaba que ya estaba acabado por la edad, siento que puedo aportar\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260217183412_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-koke-mucha-gente-pensaba-ya-estaba-acabado-edad-siento-puedo-aportar-20260217183412.html",
+        "date": "2026-02-17 17:34:12",
+        "sentiment_score": -0.7798879519104958
+    },
+    {
+        "title": "Simeone: \"Mañana será decisiva la contundencia, será un partido difícil”",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/27/6978aa06ac52c.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/simeone-manana-sera-decisiva-contundencia-sera-partido-dificil-20260217_3309848.html",
+        "date": "2026-02-17 17:31:47",
+        "sentiment_score": 0.05793231725692749
     }
 ];
