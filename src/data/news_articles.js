@@ -1,244 +1,5 @@
 export default [
     {
-        "title": "Álvaro Fidalgo luce la bandera de México en su uniforme con el Betis",
-        "image_url": "https://www.infobae.com/resizer/v2/WREGET7NQRGW3MD7ZYNNMNWGFE.jpg?auth=312f48878b2974c71746de08cb2e26ed3979edf5959135fed5c4907dc3bd014b&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "selección mexicana mundial 2026",
-            "mexico-deportes",
-            "mexico-noticias",
-            "laliga",
-            "real betis",
-            "álvaro fidalgo"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2026/02/14/alvaro-fidalgo-luce-la-bandera-de-mexico-en-su-uniforme-con-el-betis/",
-        "date": "2026-02-14 17:47:51",
-        "sentiment_score": -0.3255857676267624
-    },
-    {
-        "title": "Paco González, sobre el comunicado del Barça en contra del arbitraje: \"El peor momento para sacarlo después del baño de la primera parte del otro día\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/paco-gonzalez-sobre-comunicado-barca-arbitraje-peor-momento-sacarlo-bano-primera-parte-dia-20260214_3308122.html",
-        "date": "2026-02-14 17:47:19",
-        "sentiment_score": -0.17409144341945648
-    },
-    {
-        "title": "Diego Ortega, reelegido Secretario General de la Asociación de Presidentes de Plazas de Toros de España",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/1_Junta-Directiva-reelegida.jpg",
-        "tags": [
-            "toros",
-            "diego ortega",
-            "reelección",
-            "junta directiva",
-            "alcázar de san juan"
-        ],
-        "link": "https://www.lanzadigital.com/toros/diego-ortega-reelegido-secretario-general-de-la-asociacion-de-presidentes-de-plazas-de-toros-de-espana/",
-        "date": "2026-02-14 17:41:18",
-        "sentiment_score": 0.08293601870536804
-    },
-    {
-        "title": "Morata desperdicia una nueva oportunidad para allanar su camino rumbo al Mundial",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/14/2026021418343685706.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/morata-desperdicia-medias-oportunidad-allanar-camino-rumbo-mundial/20260214183628374759.html",
-        "date": "2026-02-14 17:36:28",
-        "sentiment_score": -0.8703745314851403
-    },
-    {
-        "title": "Osasuna alcanza la media de sus seis anteriores temporadas en Primera",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/bd4ad8a1-b4ea-48b2-9700-d74e46ad9a2a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "seis",
-            "conference",
-            "lisci",
-            "anteriores",
-            "media",
-            "arrasate",
-            "moreno",
-            "osasuna",
-            "alcanza",
-            "liga"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/14/osasuna-alcanza-media-seis-anteriores-lisci-arrasate-moreno-liga-conference-10701260.html",
-        "date": "2026-02-14 17:36:06",
-        "sentiment_score": 0.6295039728283882
-    },
-    {
-        "title": "(Previa) Un alicaído Elche busca reaccionar en el Martínez Valero frente al pujante Osasuna",
-        "image_url": "https://www.infobae.com/resizer/v2/GMQIDYY5IVF6TDO7UG33KJUT54.jpg?auth=d2d997654c344f3cc0efe415fea666f3fa2b544d273e64a55327393d0b591f84&height=1280&smart=true&width=1920",
-        "tags": [
-            "jornada 24",
-            "laliga",
-            "rafa mir",
-            "el sadar",
-            "elche cf",
-            "martínez valero",
-            "alessio lisci",
-            "eder sarabia",
-            "ca osasuna",
-            "europapress",
-            "fútbol"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/12/previa-un-alicaido-elche-busca-reaccionar-en-el-martinez-valero-frente-al-pujante-osasuna/",
-        "date": "2026-02-14 17:01:27",
-        "sentiment_score": 0.31439269334077835
-    },
-    {
-        "title": "El Barcelona se estanca con las licencias del Camp Nou después de tres meses caóticos",
-        "image_url": "https://okdiario.com/img/2026/02/14/el-camp-nou-en-obras.-europa-press.jpg",
-        "tags": [
-            "barcelona",
-            "joan laporta",
-            "camp nou",
-            "fc barcelona",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/barcelona-estanca-licencias-del-camp-nou-despues-tres-meses-caoticos-16245255",
-        "date": "2026-02-14 17:00:19",
-        "sentiment_score": -0.6004447042942047
-    },
-    {
-        "title": "Luis Enrique señala a Dembélé tras el batacazo del PSG ante el Rennes: «No permitiré....»",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/05/6932ba2337084.r_d.839-434-6250.jpeg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.eldebate.com/deportes/20260214/luis-enrique-senala-dembele-batacazo-psg-ante-rennes-no-permitire_385373.html",
-        "date": "2026-02-14 16:59:53",
-        "sentiment_score": -0.49107639491558075
-    },
-    {
-        "title": "El Bilbao Athletic, derrotado tras una polémica decisión arbitral",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/804097b2-4f97-4e27-9f1f-2db6f2c4370c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "bilbao",
-            "castilla",
-            "polemica",
-            "athletic",
-            "derrota"
-        ],
-        "link": "https://www.deia.eus/athletic/2026/02/14/derrota-polemica-bilbao-athletic-castilla-10701089.html",
-        "date": "2026-02-14 16:56:08",
-        "sentiment_score": -0.8977823760360479
-    },
-    {
-        "title": "Trinitarios de Antequera acercan la realidad de las cárceles en una charla en Almodóvar del Campo",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/Los-padres-Antonio-Jimenez-y-Vicente-Elipe-junto-a-Isabel-Fernandez-al-inicio-del-acto.jpg",
-        "tags": [
-            "almodóvar del campo",
-            "san juan bautista de la concepción",
-            "ayuntamiento de almodóvar del campo",
-            "provincia de ciudad real",
-            "día grande"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/trinitarios-de-antequera-acercan-la-realidad-de-las-carceles-en-una-charla-en-almodovar-del-campo/",
-        "date": "2026-02-14 16:49:15",
-        "sentiment_score": -0.007536381483078003
-    },
-    {
-        "title": "En busca del sustituto de Jules Koundé: el Barça blinda el futuro de una joya de 18 años de la Masía",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/29/culemania/primer-equipo/1003742727639_15718483_1706x960.jpg",
-        "tags": [
-            "la masía",
-            "secciones",
-            "barça b"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260214/sustituto-jules-kounde-barca-blinda-futuro-masia/1003742732692_0.html",
-        "date": "2026-02-14 17:36:23",
-        "sentiment_score": 0.48496103286743164
-    },
-    {
-        "title": "Fernando Alonso, ¿un año más en el infierno?: a qué puede aspirar el Aston Martin en 2026",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/02/14/C90A11BC-F7C2-46CC-BBEA-96A62A7BC173/fernando-alonso-lawrence-stroll-adrian-newey_98.jpg?crop=3264%2C1836%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "deportes",
-            "motor",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/motor/fernando-alonso-ano-mas-infierno-que-puede-aspirar-aston-martin-2026_202602146990afc91817b41eb64802c8.html",
-        "date": "2026-02-14 17:24:25",
-        "sentiment_score": -0.8998808227479458
-    },
-    {
-        "title": "‘La desbandá’, de Enrique Brinkmann",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/02/13/698f4e01ec5a0.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.lavozdealmeria.com/opinion/462463/desbanda-enrique-brinkmann.html",
-        "date": "2026-02-14 17:20:36",
-        "sentiment_score": -0.4637167304754257
-    },
-    {
-        "title": "La palabra que se utiliza en Barcelona para referirse a los abuelos y que deberían utilizar el resto",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/09/19/vivir-en-barcelona/1003742690279_15718474_1706x960.jpg",
-        "tags": [
-            "historia",
-            "vivir en barcelona",
-            "curiosidades"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260214/palabra-utiliza-barcelona-referirse-abuelos-deberian-utilizar-resto/1003742732690_0.html",
-        "date": "2026-02-14 17:17:18",
-        "sentiment_score": 0.11853291094303131
-    },
-    {
-        "title": "El Barcelona pide ahora sanciones para los árbitros tras pagar a Negreira 17 años años sin consecuencias",
-        "image_url": "https://okdiario.com/img/2026/02/14/imagen_recortada-2026-02-14t180427.809.jpg",
-        "tags": [
-            "fc barcelona",
-            "arbitros",
-            "barcelona",
-            "fútbol",
-            "deportes",
-            "real federación española de fútbol (rfef)",
-            "caso negreira"
-        ],
-        "link": "https://okdiario.com/deportes/barcelona-pide-ahora-sanciones-arbitros-pagar-negreira-17-anos-anos-sin-consecuencias-16245595",
-        "date": "2026-02-14 17:13:57",
-        "sentiment_score": -0.9030229039490223
-    },
-    {
-        "title": "El Barça echa el freno a las renovaciones en la Masía para evitar otro 'caso Dro': modificación de las cláusulas",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/16/culemania/secciones/1003742707947_15718468_1706x960.jpg",
-        "tags": [
-            "barça b",
-            "la masía",
-            "fichajes barça",
-            "barça",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260214/barca-renovaciones-masia-evitar-dro-modificacion-clausulas/1003742732686_0.html",
-        "date": "2026-02-14 17:13:07",
-        "sentiment_score": 0.054380834102630615
-    },
-    {
-        "title": "La Real Sociedad gana por primera vez el Campeonato de España de clubes en pista cubierta",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/14/la-real-sociedad-gana-por-primera-vez-el-campeonato-de-espana-de-clubes-en-pista-cubierta/",
-        "date": "2026-02-14 17:03:23",
-        "sentiment_score": 0.5222979858517647
-    },
-    {
-        "title": "Nosotros, los majaderos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6a1c3044-8e40-4da8-8dbe-ca85983e550d_16-9-aspect-ratio_default_0_x1079y520.jpg",
-        "tags": [
-            "valencia",
-            "agua",
-            "fútbol",
-            "el valencia"
-        ],
-        "link": "https://www.levante-emv.com/opinion/2026/02/14/levante-valencia-derbi-126831508.html",
-        "date": "2026-02-14 17:01:00",
-        "sentiment_score": -0.1486186385154724
-    },
-    {
         "title": "El Real Madrid se impone a la Real Sociedad con un gran Vinicius y pone fin al ‘efecto Matarazzo’",
         "image_url": "https://www.infobae.com/resizer/v2/LNMQGREARFHTHE2ULSFSSXTK54.JPG?auth=35861fba1d8b5ac2b216744e011f8307b47b064473bd6d11c53e11bcb70b42f5&height=2466&smart=true&width=3506",
         "tags": [
@@ -3081,5 +2842,75 @@ export default [
         "link": "https://www.telecinco.es/television/20260217/universo-calleja-jesus-calla-ante-camaras-salir-operacion-medico-cuenta-como-ha-ido_18_018381735.html",
         "date": "2026-02-17 23:57:21",
         "sentiment_score": -0.6057866141200066
+    },
+    {
+        "title": "\"Todos los días vuelvo al tren y a aquella noche\": las víctimas del accidente de Adamuz se organizan un mes después",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6a03cee0-3ffc-4e1e-bf4d-de74d1648458_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "accidente de tren córdoba",
+            "alvia",
+            "huelva",
+            "víctimas",
+            "accidentes de tren"
+        ],
+        "link": "https://www.farodevigo.es/sociedad/2026/02/18/dias-vuelvo-tren-noche-victimas-accidente-adamuz-126968334.html",
+        "date": "2026-02-18 07:00:49",
+        "sentiment_score": -0.3414949029684067
+    },
+    {
+        "title": "«Ibiza está especialmente mal»: llega el catedrático que pide derogar el 90% de la Ley de Vivienda",
+        "image_url": "https://lavozdeibiza.com/wp-content/uploads/2026/02/Sergio-Nassarre-Aznar.jpg",
+        "tags": [
+            "ibiza",
+            "actualidad",
+            "consell de ibiza",
+            "actualidad 2",
+            "colegio de arquitectos de ibiza y formentera",
+            "crisis de la vivienda",
+            "ley de vivienda"
+        ],
+        "link": "https://lavozdeibiza.com/actualidad/ibiza-esta-especialmente-mal-llega-el-catedratico-que-pide-derogar-el-90-de-la-ley-de-vivienda/",
+        "date": "2026-02-18 06:59:14",
+        "sentiment_score": -0.8175628837198019
+    },
+    {
+        "title": "Defensa a ultranza de Mbappé a Vinícius tras los insultos: llamó \"puto racista\" a Prestianni hasta 4 veces",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/17/6994edbaac2534-84184266.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/defensa-ultranza-mbappe-vinicius-tras-los-insultos-llamo-puto-racista-prestianni-hasta-cuatro-veces_6935507_0.html",
+        "date": "2026-02-18 06:58:57",
+        "sentiment_score": -0.9032986741513014
+    },
+    {
+        "title": "Dónde ver el Brujas - Atlético: día y hora de la ida de dieciseisavos de final de la Champions",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/02/16/6992e52639328.jpeg",
+        "tags": [
+            "cultura y ocio"
+        ],
+        "link": "https://www.lavanguardia.com/comprar/cultura-ocio/20260218/11467441/donde-ver-brujas-atletico-madrid-dia-hora-ida-partido-dieciseisavos-final-champions-league-mkt-movi.html",
+        "date": "2026-02-18 06:50:00",
+        "sentiment_score": -0.1571761667728424
+    },
+    {
+        "title": "La queja del Barça sobre el VAR y la victoria polémica del Real Madrid, protagonistas de las portadas deportivas",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/02/18/699558bd6125f.jpeg",
+        "tags": [
+            "vaya mundo"
+        ],
+        "link": "https://www.mundodeportivo.com/vaya-mundo/20260218/1004130768/queja-barca-sobre-var-victoria-polemica-real-madrid-protagonistas-portadas-deportivas-galeria-dct.html",
+        "date": "2026-02-18 06:48:42",
+        "sentiment_score": 0.215789794921875
+    },
+    {
+        "title": "La jueza del caso Plus Ultra ve incompatible que la abogada del Estado que defendió a la SEPI sea ahora letrada de un investigado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cc175702-3eb9-4990-988b-9d5594426486_16-9-aspect-ratio_default_0_x960y360.jpg",
+        "tags": [
+            "abogacía del estado,abogados,letrados,josé luis rodríguez zapatero,zapatero,nicolás maduro,rescate,sepi"
+        ],
+        "link": "https://www.elcorreoweb.es/espana/2026/02/18/jueza-plus-ultra-sepi-seoane-julio-martinez-zapatero-126967914.html",
+        "date": "2026-02-18 06:37:01",
+        "sentiment_score": -0.5937995426356792
     }
 ];
