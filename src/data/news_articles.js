@@ -1,167 +1,5 @@
 export default [
     {
-        "title": "Un renqueante Thierry, un reconvertido o un canterano, opciones de Corberán en el lateral",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/12/un-renqueante-thierry-un-reconvertido-o-un-canterano-opciones-de-corberan-en-el-lateral/",
-        "date": "2026-02-14 06:46:56",
-        "sentiment_score": -0.8341902904212475
-    },
-    {
-        "title": "Real Valladolid y Granada: Desde Platko a Pacheta",
-        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2026/02/14/PlatCheta-kBqB-U20708233957AxB-758x531@El%20Norte.jpg",
-        "tags": [
-            "granada",
-            "miguel ángel portugal",
-            "real valladolid club de fútbol",
-            "estadio josé zorrilla"
-        ],
-        "link": "https://www.elnortedecastilla.es/realvalladolid/real-valladolid-granada-platko-pacheta-20260214074539-nt.html",
-        "date": "2026-02-14 06:45:45",
-        "sentiment_score": 0.03693580627441406
-    },
-    {
-        "title": "La borrasca Oriana activa avisos en toda España, con nivel 'rojo' en Castellón por fuertes vientos",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/d20f3626079b7939af2fd23ec874d996/f/webp/assets/multimedia/imagenes/2026/02/14/17710510564776.jpg",
-        "tags": [
-            "el tiempo"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/02/14/6990186921efa01b2c8b458d.html",
-        "date": "2026-02-14 06:38:52",
-        "sentiment_score": -0.6262030862271786
-    },
-    {
-        "title": "Blanca Soroa: «Si estoy mucho tiempo en las redes sociales me duele la cabeza»",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/12/blanca-soroa-kO5E-U20676133781sIF-1200x840@RC.jpg",
-        "tags": [
-            "alauda ruiz de azúa",
-            "premios goya"
-        ],
-        "link": "https://www.elcomercio.es/pantallas/cine/blanca-soroa-tiempo-redes-sociales-duele-cabeza-20260212071915-ntrc.html",
-        "date": "2026-02-14 06:34:35",
-        "sentiment_score": 0.7986012510955334
-    },
-    {
-        "title": "Horario y dónde ver por televisión el Unicaja-Real Madrid de la jornada 20 de la Liga Endesa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d0e2249d-f0e5-4569-8e7c-73ef60325b7f_16-9-aspect-ratio_default_0_x480y213.jpg",
-        "tags": [
-            "horario",
-            "la liga",
-            "televisión",
-            "real madrid",
-            "unicaja"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2026/02/14/horario-ver-television-unicaja-real-madrid-liga-126824212.html",
-        "date": "2026-02-14 06:30:49",
-        "sentiment_score": 0.19566147774457932
-    },
-    {
-        "title": "Una experta en educación, sobre cómo Leonor accederá a la universidad en septiembre: «Competirá en igualdad de condiciones»",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/LEONOR_UNIVERSIDAD_MO_01.jpg",
-        "tags": [
-            "reino unido",
-            "celebrities",
-            "princesa leonor",
-            "universidades",
-            "casa real española",
-            "familia real española",
-            "gente",
-            "educación"
-        ],
-        "link": "https://theobjective.com/gente/2026-02-14/experta-educacion-leonor-accedera-universidad-septiembre/",
-        "date": "2026-02-14 06:30:00",
-        "sentiment_score": 0.07035022228956223
-    },
-    {
-        "title": "Elche - Osasuna, el análisis | 'El VAR y la cortina de Herrera'",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c503a46b-5588-44f4-ac8d-1013d6ed2e86_16-9-aspect-ratio_default_0_x667y929.jpg",
-        "tags": [
-            "elche",
-            "osasuna",
-            "var",
-            "analisis",
-            "cortina"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/14/elche-osasuna-analisis-var-cortina-10699578.html",
-        "date": "2026-02-14 06:23:08",
-        "sentiment_score": -0.25950539112091064
-    },
-    {
-        "title": "Resumen Partizan-Real Madrid: Ejercicio de supervivencia para volver a ganar en Europa (73-77)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/13/image-49fc26c8-f2e9-42d1-b35f-0252e1b71c91-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.eurosport.es/baloncesto/euroliga/2025-2026/partizan-real-madrid-video-resumen-resultado-y-mejores-momentos-del-partido-jornada-28-hoy_vid60055918/video.shtml",
-        "date": "2026-02-14 06:21:47",
-        "sentiment_score": 0.4083629697561264
-    },
-    {
-        "title": "El 65% de las incidencias ferroviarias registradas en Segovia afectan a la alta velocidad",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2026/02/10/1503145632-khD-U20630710818NkE-758x531@El%20Norte.jpg",
-        "tags": [
-            "segovia",
-            "ave"
-        ],
-        "link": "https://www.elnortedecastilla.es/segovia/incidencias-ferroviarias-registradas-segovia-afectan-alta-velocidad-20260214074245-nt.html",
-        "date": "2026-02-14 06:42:48",
-        "sentiment_score": -0.7500274367630482
-    },
-    {
-        "title": "AEMET prevé en Barcelona un día de nubes, heladas débiles y viento moderado del noroeste",
-        "image_url": "https://okdiario.com/img/2026/01/12/viento-barcelona-interior.jpg",
-        "tags": [
-            "okd",
-            "agencia estatal de meteorología (aemet)",
-            "tiempo",
-            "previsión del tiempo",
-            "españa",
-            "cataluña"
-        ],
-        "link": "https://okdiario.com/cataluna/aemet-preve-en-barcelona-un-dia-de-nubes-heladas-debiles-y-viento-moderado-del-noroeste-16243840",
-        "date": "2026-02-14 06:19:34",
-        "sentiment_score": 0.023943841457366943
-    },
-    {
-        "title": "Borrasca Oriana, en directo: aviso por fuertes lluvias y viento en Catalunya, alerta roja en la Comunitat Valenciana y última hora de la AEMET en el resto de España",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/95420748-c12e-4439-895b-03e1cbdbed49_alta-libre-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "lluvias",
-            "nieve",
-            "tiempo"
-        ],
-        "link": "https://www.elperiodico.com/es/tiempo/20260214/borrasca-oriana-lluvia-viento-cataluna-espana-aemet-ultima-hora-directo-126809639",
-        "date": "2026-02-14 06:09:00",
-        "sentiment_score": -0.9265166716650128
-    },
-    {
-        "title": "Ceferin, Al Khelaifi y Florentino: la cumbre que cambió la guerra del fútbol",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/28/2025052808072963892.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/ceferin-khelaifi-florentino-cumbre-que-cambio-guerra-futbol/20260214070511374712.html",
-        "date": "2026-02-14 06:05:11",
-        "sentiment_score": -0.3463604561984539
-    },
-    {
-        "title": "Así comienza ‘La ciudad de las luces muertas’, la novela de David Uclés",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/855b2441-f666-4881-aafa-e6dc95b07872_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "luces",
-            "muertas",
-            "novela",
-            "comienza",
-            "ciudad"
-        ],
-        "link": "https://www.deia.eus/tendencias/2026/02/14/comienza-ciudad-luces-muertas-novela-10699567.html",
-        "date": "2026-02-14 06:01:11",
-        "sentiment_score": -0.8418736085295677
-    },
-    {
         "title": "Álvaro Fidalgo luce la bandera de México en su uniforme con el Betis",
         "image_url": "https://www.infobae.com/resizer/v2/WREGET7NQRGW3MD7ZYNNMNWGFE.jpg?auth=312f48878b2974c71746de08cb2e26ed3979edf5959135fed5c4907dc3bd014b&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -2723,5 +2561,265 @@ export default [
         "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/simeone-manana-sera-decisiva-contundencia-sera-partido-dificil-20260217_3309848.html",
         "date": "2026-02-17 17:31:47",
         "sentiment_score": 0.05793231725692749
+    },
+    {
+        "title": "El Congreso de Perú destituye al presidente José Jerí",
+        "image_url": "https://static.wixstatic.com/media/335561_b0c03d8ce6474d01a9c53f8e270ccb6e~mv2.jpg/v1/fit/w_960,h_640,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/el-congreso-de-per%C3%BA-destituye-al-presidente-jos%C3%A9-jer%C3%AD",
+        "date": "2026-02-17 21:48:32",
+        "sentiment_score": 0.09426109865307808
+    },
+    {
+        "title": "Cañizares, tras los presuntos insultos racistas a Vinícius: \"Puede evitar muchas cosas de las que sucede, siendo víctima igualmente de todo esto\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/17/6994ed66552ed.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/canizares-presuntos-insultos-racistas-vinicius-evitar-muchas-cosas-sucede-siendo-victima-igualmente-esto-20260217_3309921.html",
+        "date": "2026-02-17 22:38:22",
+        "sentiment_score": -0.3630611300468445
+    },
+    {
+        "title": "Mourinho no dirigirá al Benfica en el Bernabéu en Champions",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/30/2026013013070771239.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/mourinho-dirigira-benfica-bernabeu-champions/20260217233438375167.html",
+        "date": "2026-02-17 22:34:38",
+        "sentiment_score": -0.7628824058920145
+    },
+    {
+        "title": "Ricardo Díaz, catedrático de Ingeniería Química y Materiales: \"Poniendo todo el dinero que se tiene que poner, no creo que en menos de dos años lleguemos al nivel de excelencia\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/17/6994e88c75e46.jpeg",
+        "tags": [
+            "el cascabel"
+        ],
+        "link": "https://www.cope.es/trecetv/programas/el-cascabel/noticias/ricardo-diaz-catedratico-ingenieria-quimica-materiales-poniendo-dinero-poner-creo-dos-anos-lleguemos-nivel-excelencia-20260217_3309909.html",
+        "date": "2026-02-17 22:34:30",
+        "sentiment_score": -0.16871123015880585
+    },
+    {
+        "title": "La 'gesta' del Valencia Basket de ganar el título como debutante seguirá siendo única",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/16/la-gesta-del-valencia-basket-de-ganar-el-titulo-como-debutante-seguira-siendo-unica/",
+        "date": "2026-02-17 22:30:58",
+        "sentiment_score": 0.7361492030322552
+    },
+    {
+        "title": "Crónica del Benfica - Real Madrid: 0-1",
+        "image_url": "https://www.infobae.com/resizer/v2/XBGYCQXN4RA3JN7DFYKTP6OAAM.jpg?auth=dc6cb6339dcc9ea5048599d2c8f1d7a8b904f7a6df98d3c920c41d9d40ea1680&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/17/cronica-del-benfica-real-madrid-0-1/",
+        "date": "2026-02-17 22:30:37",
+        "sentiment_score": -0.08248788863420486
+    },
+    {
+        "title": "El Madrid gana el primer asalto en Lisboa tras un duelo bronco (0-1)",
+        "image_url": "https://cflvdg.avoz.es/sc/ipI8LNWhH6tiCG_cdhaZyZrGnT0=/768x/2026/02/17/00121771365241554980735/Foto/reu_20260217_212636571.jpg",
+        "tags": [
+            "benfica",
+            "champions league",
+            "real madrid",
+            "deportes"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/02/17/madrid-gana-primer-asalto-lisboa-tras-duelo-bronco-0-1/00031771366983683361404.htm",
+        "date": "2026-02-17 22:30:00",
+        "sentiment_score": 0.673746719956398
+    },
+    {
+        "title": "Vinicius enciende la luz para encarrilar el pase del Real Madrid a octavos",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/17/vinicius-gesto-victoria-keU-U20734442777iEI-1200x840@RC.jpg",
+        "tags": [
+            "madrid",
+            "cronica",
+            "benficareal"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-campeones/cronica-benfica-realmadrid-champions-playoff-20260217190004-ntrc.html",
+        "date": "2026-02-17 22:27:09",
+        "sentiment_score": -0.6599496752023697
+    },
+    {
+        "title": "Laporta cambia el \"Estimem\" por el \"Defensem el Barça\" y señala a 4 'enemigos públicos' del barcelonismo",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/17/culemania/palco/1003742733490_15728417_1706x960.jpg",
+        "tags": [
+            "joan laporta",
+            "elecciones barça",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260217/laporta-estimem-defensem-barca-enemigos-publicos-barcelonismo/1003742733605_0.html",
+        "date": "2026-02-17 22:26:07",
+        "sentiment_score": -0.1356033906340599
+    },
+    {
+        "title": "Richard Ríos volvió a jugar con el Benfica y protagonizó polémica jugada con Vinicius Jr. en la Champions League",
+        "image_url": "https://www.infobae.com/resizer/v2/OO5W7RGGUZBRJPBN46SAILU5YU.JPG?auth=e7e45ca4b75a8b61204c0a9d29177e714c95b16b7cd84870ba8a59103db7964e&height=2058&smart=true&width=2789",
+        "tags": [
+            "colombia-deportes",
+            "benfica",
+            "real madrid",
+            "vinicius jr.",
+            "champions league",
+            "richard ríos"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/17/richard-rios-volvio-a-jugar-con-el-benfica-y-protagonizo-polemica-jugada-con-vinicius-jr-en-la-champions-league/",
+        "date": "2026-02-17 22:24:22",
+        "sentiment_score": -0.524289533495903
+    },
+    {
+        "title": "Vinícius selló victoria del Real Madrid sobre Benfica en un partido lleno de tensión y polémica",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/e671b3a8b7c3e06d2e31410088b84340d6e97f75w.jpg",
+        "tags": [
+            "champions league",
+            "titulares",
+            "vinicius jr",
+            "deportes",
+            "real madrid",
+            "benfica"
+        ],
+        "link": "https://lapatilla.com/2026/02/17/vinicius-sello-victoria-del-real-madrid-sobre-benfica-en-un-partido-lleno-de-tension-y-polemica/",
+        "date": "2026-02-17 22:21:12",
+        "sentiment_score": 0.8307430725544691
+    },
+    {
+        "title": "Retrasos generalizados y demoras de hasta dos horas en el primer día de la línea Madrid-Andalucía",
+        "image_url": "https://www.infobae.com/resizer/v2/V3MSEDBLYVAEBFUQIY57PJLB4U.jpg?auth=bd3beddba3a0e84b3e1f4571871bb9e342c656446e7d51a9a9d3b2d58f508f57&height=1280&smart=true&width=1920",
+        "tags": [
+            "españa-noticias",
+            "españa-nacional",
+            "renfe",
+            "trenes",
+            "transportes españa",
+            "ave"
+        ],
+        "link": "https://www.infobae.com/espana/2026/02/17/retrasos-generalizados-y-demoras-de-hasta-dos-horas-en-el-primer-dia-de-la-linea-madrid-andalucia/",
+        "date": "2026-02-17 22:36:17",
+        "sentiment_score": -0.7155343629419804
+    },
+    {
+        "title": "Cerco al mundo de la noche en L’Hospitalet: precintan 16 bares musicales conflictivos en menos de un año",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/16/sucesos/1003742733019_15722588_1706x960.jpg",
+        "tags": [
+            "sucesos",
+            "mossos d'esquadra",
+            "david quirós",
+            "gran barcelona",
+            "bares y restaurantes",
+            "guardia urbana",
+            "l'hospitalet de llobregat"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260217/cerco-mundo-noche-lhospitalet-precintan-bares-musicales-conflictivos-ano/1003742733014_0.html",
+        "date": "2026-02-17 22:31:17",
+        "sentiment_score": -0.023270726203918457
+    },
+    {
+        "title": "Ricky Rubio vuelve a la Copa 15 años después",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/16/ricky-rubio-vuelve-a-la-copa-15-anos-despues/",
+        "date": "2026-02-17 22:30:14",
+        "sentiment_score": -0.041849419474601746
+    },
+    {
+        "title": "Beatriz, víctima de un olvidado campo de fútbol de Barcelona: “No he recuperado la movilidad que tenía antes”",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/17/vivir-en-barcelona/1003742733588_15729577_1706x960.jpg",
+        "tags": [
+            "el pulso de la ciudad",
+            "sant andreu de palomar",
+            "pp",
+            "la verneda i la pau",
+            "ayuntamiento de barcelona",
+            "generalitat de catalunya",
+            "daniel sirera",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260217/beatriz-victima-olvidado-campo-futbol-barcelona-no-recuperado-movilidad/1003742733577_0.html",
+        "date": "2026-02-17 22:30:00",
+        "sentiment_score": -0.9397854898124933
+    },
+    {
+        "title": "Betevé compra un “asistente de IA” al grupo independentista Minoria Absoluta",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2020/02/05/economia/465213475_9327662_1706x960.jpg",
+        "tags": [
+            "empresas barcelona",
+            "vivir en barcelona",
+            "barcelona",
+            "independentismo",
+            "televisión",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260217/beteve-compra-asistente-ia-grupo-independentista-minoria-absoluta/1003742733385_0.html",
+        "date": "2026-02-17 22:30:00",
+        "sentiment_score": 0.6399277895689011
+    },
+    {
+        "title": "Victoria vecinal en Sant Andreu: el nuevo tanatorio se inaugurará este trimestre junto a La Maquinista tras años de protestas",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/17/sant-andreu/1003742733488_15728375_1706x960.jpg",
+        "tags": [
+            "vivienda",
+            "sant andreu de palomar",
+            "baró de viver",
+            "tanatorios barcelona",
+            "sant andreu"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sant-andreu/20260217/victoria-vecinal-sant-andreu-nuevo-tanatorio-inaugurara-trimestre-junto-maquinista-anos-protestas/1003742730035_0.html",
+        "date": "2026-02-17 22:30:00",
+        "sentiment_score": -0.03433710336685181
+    },
+    {
+        "title": "El Corte Inglés recauda más de 340.000 euros para la medicina personalizada contra el cáncer de mama",
+        "image_url": "https://melillahoy.es/wp-content/uploads/2026/02/donacion-cancer-mama-eci-2026.jpg",
+        "tags": [
+            "hospitales",
+            "ensayos clínicos",
+            "proyectos",
+            "solidaridad",
+            "tratamiento",
+            "campañas",
+            "farmacéuticas",
+            "medicina",
+            "el corte inglés",
+            "compromiso social",
+            "empresas",
+            "enfermedades",
+            "oncología",
+            "salud",
+            "donaciones",
+            "terapias",
+            "investigación",
+            "colaboraciones",
+            "responsabilidad social",
+            "sanidad",
+            "cáncer"
+        ],
+        "link": "https://melillahoy.es/la-campana-solidaria-de-el-corte-ingles-recauda-mas-de-340-000-euros-para-la-medicina-personalizada-contra-el-cancer-de-mama/",
+        "date": "2026-02-17 22:29:01",
+        "sentiment_score": 0.28514862060546875
+    },
+    {
+        "title": "El nuevo cine catalán conquista Berlín: \"Algo está cambiando\", según Variety",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/17/vida/1003742733629_15730061_1706x960.jpg",
+        "tags": [
+            "películas",
+            "cultura",
+            "creación",
+            "cine",
+            "cataluña",
+            "festivales"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/creacion/20260217/nuevo-cine-catalan-conquista-berlin-cambiando-variety-trt/1003742733620_0.html",
+        "date": "2026-02-17 22:28:20",
+        "sentiment_score": 0.05454018712043762
     }
 ];
