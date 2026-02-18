@@ -2821,5 +2821,265 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/creacion/20260217/nuevo-cine-catalan-conquista-berlin-cambiando-variety-trt/1003742733620_0.html",
         "date": "2026-02-17 22:28:20",
         "sentiment_score": 0.05454018712043762
+    },
+    {
+        "title": "El descargo de Prestianni luego de que Vinícius lo denunciara por insultos racistas: “Malinterpretó lo que cree haber escuchado”",
+        "image_url": "https://www.infobae.com/resizer/v2/DI36EXCCDZDTJAH74JEHAFGB2M.jpg?auth=35cae026d2c790ca10b3a8b75421fe5c930b3ccde7eb9e8fc8f158903b879b36&height=1080&smart=true&width=1920",
+        "tags": [
+            "champions league",
+            "vinicius",
+            "prestianni",
+            "deportes-internacional",
+            "real madrid",
+            "benfica",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/18/el-descargo-de-prestianni-luego-de-que-vinicius-lo-denunciara-por-insultos-racistas-malinterpreto-lo-que-cree-haber-escuchado/",
+        "date": "2026-02-18 02:24:44",
+        "sentiment_score": -0.666148891672492
+    },
+    {
+        "title": "Luis Javier Suárez figura entre los delanteros más veloces de la Champions League: no es el único colombiano",
+        "image_url": "https://www.infobae.com/resizer/v2/6WELEJ7NHZD5NGFAAVJI3MDQJE.jpg?auth=248c2d2a4fa2ca7c10e4fe796cc880cd5c1c6a1f7dc12a6871b243883234d371&height=862&smart=true&width=1584",
+        "tags": [
+            "observatorio de fútbol cies",
+            "luis javier suárez",
+            "uefa champions league",
+            "velocidad máxima",
+            "colombia-deportes",
+            "colombia",
+            "ranking de jugadores"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/18/luis-javier-suarez-figura-entre-los-delanteros-mas-veloces-de-la-champions-league-no-es-el-unico-colombiano/",
+        "date": "2026-02-18 02:16:52",
+        "sentiment_score": 0.13163726776838303
+    },
+    {
+        "title": "¿Qué pasó entre Prestianni y Vinícius en el Benfica vs. Real Madrid y por qué se habla de racismo en la Champions?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/02/17/vinicius-prestianni-benfica-real-madrid-presunto-racismo-orix/",
+        "date": "2026-02-18 02:03:39",
+        "sentiment_score": -0.8163781762123108
+    },
+    {
+        "title": "Champions League: José Mourinho lanza un dardo al árbitro por su expulsión",
+        "image_url": "https://pxcdn.meridiano.net/022026/1771379387339.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/liga-de-campeones/champions-league-jose-mourinho-lanza-un-dardo-al-arbitro-por-su-expulsion-202621721470",
+        "date": "2026-02-18 01:47:00",
+        "sentiment_score": -0.8227378316223621
+    },
+    {
+        "title": "Vinícius rompe su silencio tras el partido de Champions con un comunicado: “Los racistas son cobardes”",
+        "image_url": "https://www.infobae.com/resizer/v2/N6NIXOYX5ZE5FI7UXQ7QHFK25I.jpg?auth=955c378fb048909e5f3112da9491c34a61343629ed75664ae9387567ca7fe720&height=1080&smart=true&width=1920",
+        "tags": [
+            "fútbol",
+            "racismo",
+            "españa-deportes",
+            "españa-noticias",
+            "champions league",
+            "real madrid",
+            "fútbol españa",
+            "vinícius júnior"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/02/18/vinicius-rompe-su-silencio-tras-el-partido-de-champions-con-un-comunicado-los-racistas-son-cobardes/",
+        "date": "2026-02-18 01:36:02",
+        "sentiment_score": -0.7055249772965908
+    },
+    {
+        "title": "¿Qué pasó entre Prestianni y Vinícius en el Benfica vs. Real Madrid y por qué se habla de racismo en la Champions?",
+        "image_url": "https://ktvz.b-cdn.net/2026/02/638007225_1574276107754296_4346084738388088497_n-375x225.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://ktvz.com/cnn-spanish/2026/02/17/que-paso-entre-prestianni-y-vinicius-en-el-benfica-vs-real-madrid-y-por-que-se-habla-de-racismo-en-la-champions/",
+        "date": "2026-02-18 01:22:14",
+        "sentiment_score": -0.6569554544985294
+    },
+    {
+        "title": "Álvaro Fidalgo hace llorar a aficionado tras regalarle su playera",
+        "image_url": "https://www.infobae.com/resizer/v2/ORTKT7KSJZBA7HUR7FYD7T5X5I.png?auth=1a0dbcb98dbde8915c29c25fbc9e603a5f601466f7af8ca4e64726379c544608&height=900&smart=true&width=1600",
+        "tags": [
+            "álvaro fidalgo",
+            "laliga",
+            "real betis",
+            "mexico-noticias",
+            "mexico-deportes",
+            "club américa"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2026/02/18/alvaro-fidalgo-hace-llorar-a-aficionado-tras-regalarle-su-playera/",
+        "date": "2026-02-18 01:17:45",
+        "sentiment_score": -0.8468143865466118
+    },
+    {
+        "title": "La sanción podría recibir Prestianni si se confirma el insulto racista a Vinícius: qué dice el protocolo de la UEFA",
+        "image_url": "https://www.infobae.com/resizer/v2/OFLRKCOFH5G6NG5MSXZHXDOGKA.jpg?auth=610b1a809d9285e435de995e0e556e5522d9d0a3f15f9ce92aee16796e885891&height=1080&smart=true&width=1920",
+        "tags": [
+            "vinícius júnior",
+            "champions league",
+            "real madrid",
+            "benfica",
+            "deportes-argentina",
+            "gianluca prestianni"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/18/la-sancion-podria-recibir-prestianni-si-se-confirma-el-insulto-racista-a-vinicius-que-dice-el-protocolo-de-la-uefa/",
+        "date": "2026-02-18 01:14:29",
+        "sentiment_score": -0.06888193637132645
+    },
+    {
+        "title": "Seguridad extrema en El Atazar, la gran presa de Madrid: 130 metros de altura, miles de datos y un muro 'vivo' que se estira y encoge",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/51ded3774df26a5e18ce81351c21152a/crop/0x0/3024x3024/f/image/jpeg/assets/multimedia/imagenes/2022/01/31/16436433363550.jpg",
+        "tags": [
+            "artículos vicente coll"
+        ],
+        "link": "https://www.elmundo.es/madrid/2026/02/18/6994bb4521efa06b038b459c.html",
+        "date": "2026-02-18 01:05:25",
+        "sentiment_score": -0.6699871867895126
+    },
+    {
+        "title": "Insultos racistas contra Vinicius Jr. empaña juego de playoff de la Liga de Campeones",
+        "image_url": "https://noticiasaldiayalahora.co/wp-content/uploads/2026/02/Vinicius-Jr-777x437.webp",
+        "tags": [
+            "deportes",
+            "racismo",
+            "vinicius jr.",
+            "benfica",
+            "uefa",
+            "real madrid",
+            "liga de campeones"
+        ],
+        "link": "https://noticiasaldiayalahora.co/deportes/insultos-racistas-contra-vinicius-jr-empana-juego-de-playoff-de-la-liga-de-campeones/",
+        "date": "2026-02-18 00:57:32",
+        "sentiment_score": -0.6363438703119755
+    },
+    {
+        "title": "Loic Meillard, nuevo campeón olímpico de eslalon; Salarich acaba decimonoveno",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/16/loic-meillard-nuevo-campeon-olimpico-de-eslalon-salarich-acaba-decimonoveno/",
+        "date": "2026-02-18 02:16:50",
+        "sentiment_score": 0.11967271566390991
+    },
+    {
+        "title": "España: las predicciones del tiempo en Barcelona este 18 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima",
+            "clima en españa",
+            "clima en barcelona",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/18/espana-las-predicciones-del-tiempo-en-barcelona-este-18-de-febrero/",
+        "date": "2026-02-18 02:15:35",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Meliá, Minor, Sercotel y Axel se apoyan en el negocio de las franquicias para crecer",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/b1649a22ff7a6d1062a75728aa73ca19/crop/0x0/660x440/f/webp/assets/multimedia/imagenes/2026/02/17/17713586735423.jpg",
+        "tags": [
+            "transporte y turismo>",
+            "empresas>",
+            "artículos rebeca arroyo>"
+        ],
+        "link": "https://www.expansion.com/empresas/transporte/2026/02/18/6994ccb1468aeba7648b45be.html",
+        "date": "2026-02-18 01:34:38",
+        "sentiment_score": 0.6201561316847801
+    },
+    {
+        "title": "Ravalear, la tragedia de la especulación inmobiliaria en el Raval de Barcelona contada en carne propia",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/e6254ddced7937c2244bbb4651a0e03c/crop/0x24/1181x1205/f/image/jpeg/assets/multimedia/imagenes/2021/05/31/16224775184865.jpg",
+        "tags": [
+            "series",
+            "críticas de cine",
+            "cultura",
+            "barcelona",
+            "artículos luis martínez",
+            "televisión",
+            "cine",
+            "festival de berlín",
+            "cataluña"
+        ],
+        "link": "https://www.elmundo.es/cultura/cine/2026/02/18/69949566e4d4d823128b4592.html",
+        "date": "2026-02-18 01:05:25",
+        "sentiment_score": -0.07795880734920502
+    },
+    {
+        "title": "Logicor crecerá un 25% en España con nuevos desarrollos",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/df3637402bdd5cfeb09a26e0a18fab59/crop/0x205/1992x1533/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/17/17713579849293.jpg",
+        "tags": [
+            "empresas>",
+            "artículos rebeca arroyo>",
+            "mercado inmobiliario>",
+            "inmobiliario y construcción>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2026/02/18/6994c8e1e5fdea67398b459d.html",
+        "date": "2026-02-18 00:24:08",
+        "sentiment_score": 0.5150895826518536
+    },
+    {
+        "title": "Barcelona bajo la peste porcina: nuevos casos fuera del cordón de seguridad exigen acción inmediata",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/29/2025112912280969803.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.mundiario.com/articulo/sociedad/peste-porcina-africana-expande-barcelona-obliga-reforzar-control-sanitario-ambiental/20260218011859375170.html",
+        "date": "2026-02-18 00:18:59",
+        "sentiment_score": -0.9112040754407644
+    },
+    {
+        "title": "La Paz alargará la ida por el Porvenir y recortará la vuelta el Domingo de Ramos 2026",
+        "image_url": "https://static.grupojoly.com/clip/a6e0c27f-2f9f-4411-9579-0616087f3692_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ida",
+            "recortara",
+            "porvenir",
+            "alargara",
+            "paz"
+        ],
+        "link": "https://www.diariodesevilla.es/semana_santa/paz-alargara-ida-porvenir-recortara_0_2005936778.html",
+        "date": "2026-02-18 00:09:05",
+        "sentiment_score": -0.1267673522233963
+    },
+    {
+        "title": "El infantil canarista, sin nada que perder en la Minicopa Endesa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f3d7141a-3442-45c5-9be1-a57753054332_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "endesa",
+            "infantil",
+            "gran canaria",
+            "minicopa"
+        ],
+        "link": "https://www.eldia.es/deportes/cb-canarias/2026/02/18/infantil-canarista-perder-minicopa-endesa-126963221.html",
+        "date": "2026-02-18 00:00:59",
+        "sentiment_score": 0.8239475823938847
+    },
+    {
+        "title": "Cómo mejorar la gestión del agua y sus infraestructuras con la IA",
+        "image_url": "https://s10.s3c.es/imag/_v0/3120x1703/c/a/e/1200x655_Ainhoa_Lete_Siemens_1.JPG",
+        "tags": [
+            "tecnologia"
+        ],
+        "link": "https://www.eleconomista.es/tecnologia/noticias/13780441/02/26/como-mejorar-la-gestion-del-agua-y-sus-infraestructuras-con-la-ia.html",
+        "date": "2026-02-18 00:00:06",
+        "sentiment_score": -0.07629293203353882
+    },
+    {
+        "title": "Jesús Calleja habla ante las cámaras de 'Universo Calleja' al salir de la operación y el médico cuenta cómo ha ido",
+        "image_url": "https://album.mediaset.es/eimg/2026/02/17/callejamedico_fcff.png",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.telecinco.es/television/20260217/universo-calleja-jesus-calla-ante-camaras-salir-operacion-medico-cuenta-como-ha-ido_18_018381735.html",
+        "date": "2026-02-17 23:57:21",
+        "sentiment_score": -0.6057866141200066
     }
 ];
