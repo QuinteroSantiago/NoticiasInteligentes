@@ -1,129 +1,5 @@
 export default [
     {
-        "title": "¿Cuántas relaciones sexuales tiene cada mes? Cómo preguntar en las encuestas para que la gente no mienta",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/16/encuestas-kPqH-U20649949518r6D-1200x840@RC.jpg",
-        "tags": [
-            "encuestas"
-        ],
-        "link": "https://www.eldiariomontanes.es/vivir/relaciones-humanas/cuantas-relaciones-sexuales-mes-preguntar-encuestas-gente-20260216120719-ntrc.html",
-        "date": "2026-02-15 17:57:31",
-        "sentiment_score": 0.1829470917582512
-    },
-    {
-        "title": "Vizcaíno Casas, el escritor olvidado que vendía millones de libros: \"Mi padre volverá a ser leído cuando España deje de hablar de Franco\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a526c0ce-e7b6-4d57-88bd-ed1c602a353f_16-9-aspect-ratio_default_0_x1082y555.jpg",
-        "tags": [
-            "libros",
-            "literatura"
-        ],
-        "link": "https://www.laopiniondemalaga.es/cultura-espectaculos/2026/02/15/vizcaino-casas-escritor-olvidado-vendia-126869396.html",
-        "date": "2026-02-15 17:56:33",
-        "sentiment_score": -0.2590581923723221
-    },
-    {
-        "title": "El Mobile World Congress abordará las redes inteligentes y la soberanía digital",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2020/02/05/20200205153047322.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/actualidad/2026/02/15/el-mobile-world-congress-abordara-las-redes-inteligentes-y-la-soberania-digital-1894463-daa.html",
-        "date": "2026-02-15 17:55:51",
-        "sentiment_score": -0.090995192527771
-    },
-    {
-        "title": "¿Es Antonio Gaudí?",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/15/gaudi-kxZC-RmTciXb5syZAcC8mEjhrS7I-1200x840@RC.jpeg",
-        "tags": [
-            "antonio",
-            "gaudi"
-        ],
-        "link": "https://www.hoy.es/culturas/antonio-gaudi-20260215185421-ntrc.html",
-        "date": "2026-02-15 17:54:26",
-        "sentiment_score": 0.17077041417360306
-    },
-    {
-        "title": "La polémica designación arbitral tras el comunicado del Barça contra los árbitros: la Liga, en riesgo",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/12/culemania/primer-equipo/1003742732274_15720717_1706x960.jpg",
-        "tags": [
-            "barça",
-            "primer equipo",
-            "árbitros"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260215/polemica-designacion-arbitral-comunicado-barca-arbitros-liga/1003742732860_0.html",
-        "date": "2026-02-15 17:50:55",
-        "sentiment_score": 0.034214675426483154
-    },
-    {
-        "title": "Elena Muiños: \"Queremos que más niñas sepan lo que hacemos\"",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/202602/15/media/cortadas/elena-muinos-queremos-ninas-sepan-hacemos-20260215173506-vi.jpg",
-        "tags": [
-            "elena",
-            "sepan",
-            "hacemos",
-            "queremos",
-            "muinos",
-            "ninas"
-        ],
-        "link": "https://www.elcomercio.es/culturas/elena-muinos-queremos-ninas-sepan-hacemos-20260215173506-vi.html",
-        "date": "2026-02-15 17:50:21",
-        "sentiment_score": -0.16613555699586868
-    },
-    {
-        "title": "Osasuna, en el sándwich de Mourinho",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f6ab1cfa-eed0-45e9-b7dd-8a5ea89a6685_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "primera division",
-            "real madrid",
-            "mourinho",
-            "osasuna",
-            "sandwich",
-            "laliga",
-            "liga de campeones"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/15/osasuna-sandwich-mourinho-real-madrid-laliga-primera-division-liga-de-campeones-10704500.html",
-        "date": "2026-02-15 17:49:35",
-        "sentiment_score": 0.07247185707092285
-    },
-    {
-        "title": "Simeone contradice a Oblak: «No estoy de acuerdo con que hayamos tirado la Liga»",
-        "image_url": "https://okdiario.com/img/2025/12/02/imagen_recortada-2025-12-02t232422.557.jpg",
-        "tags": [
-            "fútbol",
-            "atlético de madrid",
-            "deportes",
-            "la liga",
-            "diego pablo 'cholo' simeone"
-        ],
-        "link": "https://okdiario.com/deportes/simeone-contradice-oblak-no-estoy-acuerdo-que-hayamos-tirado-liga-16249124",
-        "date": "2026-02-15 17:48:00",
-        "sentiment_score": -0.8416191730648279
-    },
-    {
-        "title": "Café de Quito se reivindica como referente de producción sostenible en Coffee Fest Madrid",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/15/cafe-de-quito-se-reivindica-como-referente-de-produccion-sostenible-en-coffee-fest-madrid/",
-        "date": "2026-02-15 17:47:00",
-        "sentiment_score": 0.4606820344924927
-    },
-    {
-        "title": "El ‘refugio’ favorito de Susana Griso a una hora de Barcelona: calles empedradas y comercios de proximidad",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/15/vivir-en-barcelona/1003742732862_15720721_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "recomendaciones",
-            "vivir en barcelona",
-            "curiosidades",
-            "famosos barcelona",
-            "excursiones barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260215/refugio-favorito-susana-griso-hora-barcelona-calles-empedradas-comercios-proximidad/1003742732857_0.html",
-        "date": "2026-02-15 17:45:51",
-        "sentiment_score": -0.12872374802827835
-    },
-    {
         "title": "El último pájaro espino del Ateneo",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/15/2026021522264653594.jpg",
         "tags": [
@@ -2906,5 +2782,233 @@ export default [
         "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-18-feb-2026-partidazo-cope-20260219_3310829.html",
         "date": "2026-02-19 00:39:46",
         "sentiment_score": 0.09823504090309143
+    },
+    {
+        "title": "El Congreso de Perú destituye al presidente José Jerí",
+        "image_url": "https://static.wixstatic.com/media/335561_b0c03d8ce6474d01a9c53f8e270ccb6e~mv2.jpg/v1/fit/w_960,h_640,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/el-congreso-de-per%C3%BA-destituye-al-presidente-jos%C3%A9-jer%C3%AD",
+        "date": "2026-02-17 21:48:32",
+        "sentiment_score": 0.09426100924611092
+    },
+    {
+        "title": "La escuela taurina de La Algaba no consigue ningún alumno en 2026: «Se hace un llamamiento para seguir fomentado la tauromaquia»",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/4a/media_thumb-link-4147962.webp?1771343526=",
+        "tags": [
+            "actualidad",
+            "sevilla",
+            "ayuntamientos",
+            "arte de cúchares"
+        ],
+        "link": "https://www.meneame.net/story/escuela-taurina-algaba-no-consigue-ningun-alumno-2026-hace",
+        "date": "2026-02-18 07:35:03",
+        "sentiment_score": 0.0032936781644821167
+    },
+    {
+        "title": "El motor híbrido ultraeficiente de Renault y Repsol que irrumpe en Europa",
+        "image_url": "https://www.actualidadmotor.com/wp-content/uploads/2021/03/2-2021-New-Logo-Renault.jpeg",
+        "tags": [
+            "híbridos",
+            "noticias automóviles",
+            "técnica"
+        ],
+        "link": "https://www.actualidadmotor.com/el-motor-hibrido-ultraeficiente-de-renault-y-repsol-que-irrumpe-en-europa/",
+        "date": "2026-02-19 07:00:55",
+        "sentiment_score": 0.39594234339892864
+    },
+    {
+        "title": "Horario y dónde ver en TV el Real Madrid-Unicaja de la Copa del Rey",
+        "image_url": "https://static.grupojoly.com/clip/d35d6944-333f-4a4c-af40-13defd8478ca_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unicaja baloncesto"
+        ],
+        "link": "https://www.malagahoy.es/unicaja/horario-donde-ver-tv-real-madrid-unicaja-copa-rey_0_2005944417.html",
+        "date": "2026-02-19 07:00:38",
+        "sentiment_score": 0.15989209711551666
+    },
+    {
+        "title": "La Policía Local inspecciona viviendas protegidas en Alicante para verificar su ocupación real",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/514bd823-d73a-4b49-a182-c65ce0a31b63_16-9-aspect-ratio_default_0_x603y265.jpg",
+        "tags": [
+            "policía local",
+            "viviendas",
+            "vpo",
+            "alicante"
+        ],
+        "link": "https://www.laopiniondemalaga.es/videos/nacional/2026/02/19/policia-local-inspecciona-viviendas-protegidas-127012028.html",
+        "date": "2026-02-19 07:00:10",
+        "sentiment_score": -0.1762198731303215
+    },
+    {
+        "title": "El racismo contra Vinicius llega a los despachos: en España no se creyó a Diakhaby y UEFA ya castigó sin grabación probatoria",
+        "image_url": "https://s3.elespanol.com/2026/02/18/actualidad/1003744135632_261497173_1706x960.jpg",
+        "tags": [
+            "vinícius júnior",
+            "champions league",
+            "benfica",
+            "real madrid cf",
+            "fútbol"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20260219/racismo-vinicius-llega-despachos-espana-no-creyo-diakhaby-uefa-castigo-sin-grabacion-probatoria/1003744135367_0.html",
+        "date": "2026-02-19 07:00:00",
+        "sentiment_score": -0.8783855885267258
+    },
+    {
+        "title": "Page, en 'El Hormiguero': del panorama de Feijóo en Madrid a los \"mamporrazos\" de Rufián",
+        "image_url": "https://www.elplural.com/uploads/s1/24/61/83/6/emiliano-garcia-page-en-el-hormiguero-flickr_7_480x270.jpeg",
+        "tags": [
+            "extratele"
+        ],
+        "link": "https://www.elplural.com/extratele/page-hormiguero-panorama-feijoo-madrid-mamporrazos-rufian_381906102",
+        "date": "2026-02-19 06:54:41",
+        "sentiment_score": -0.08998677134513855
+    },
+    {
+        "title": "¿Podrá Endrick hacerse un hueco en el once del Real Madrid tras brillar en Lyon?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/25/2026012519570028755.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/podra-endrick-hacerse-hueco-once-real-madrid-brillar-lyon/20260219073537375342.html",
+        "date": "2026-02-19 06:35:37",
+        "sentiment_score": -0.7127967290580273
+    },
+    {
+        "title": "Más de 1.200 estudiantes de Ingeniería Civil participan desde este jueves en A Coruña en un encuentro estatal",
+        "image_url": "https://www.galiciapress.es/images/285310",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.galiciapress.es/articulo/ultima-hora/2026-02-19/5777659-1200-estudiantes-ingenieria-civil-participan-desde-jueves-coruna-encuentro-estatal",
+        "date": "2026-02-19 06:30:03",
+        "sentiment_score": 0.0934467688202858
+    },
+    {
+        "title": "Temporal en Andalucía: 7.000 millones de Sánchez frente a solo 1.780 de Moreno Bonilla",
+        "image_url": "https://www.elplural.com/uploads/s1/24/58/43/3/presidente-junta-andalucia-juanma-moreno-interviene-segunda-ultima-jornada_7_480x270.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.elplural.com/opinion/temporal-andalucia-7000-millones-sanchez-frente-solo-1780-moreno-bonilla_381904102",
+        "date": "2026-02-19 06:10:33",
+        "sentiment_score": -0.04328379034996033
+    },
+    {
+        "title": "El colangiocarcinoma no espera: el 20 % de los pacientes no llega ni a recibir tratamiento",
+        "image_url": "https://efesalud.com/wp-content/uploads/2026/02/colangiocarcinoma-tratamiento-persona-playa.webp",
+        "tags": [
+            "actualidad",
+            "diagnóstico",
+            "cáncer",
+            "enfermedades",
+            "investigación"
+        ],
+        "link": "https://efesalud.com/colangiocarcinoma-tratamiento-investigacion-diagnostico-apoyo-atuvibi/",
+        "date": "2026-02-19 06:10:00",
+        "sentiment_score": -0.8810232859104872
+    },
+    {
+        "title": "La Puerta de Tannhäuser en Cáceres presenta 'Historias originales de la vida real'",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5069d393-4ca4-45d7-b271-9c50758fd95a_16-9-aspect-ratio_default_0_x1306y546.jpg",
+        "tags": [
+            "agenda cultural de cáceres",
+            "justicia",
+            "madrid",
+            "extremadura",
+            "universidad de extremadura"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/caceres-local/2026/02/19/puerta-tannhauser-caceres-presenta-historias-126977597.html",
+        "date": "2026-02-19 06:05:04",
+        "sentiment_score": 0.06557758525013924
+    },
+    {
+        "title": "El señor de Gladys ya tiene su Escudo",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/02/19/699649ec8054a.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavozdealmeria.com/opinion/467305/senor-gladys-escudo.html",
+        "date": "2026-02-19 07:00:24",
+        "sentiment_score": 0.37155239284038544
+    },
+    {
+        "title": "Úrsula Corberó publica la primera imagen de su hijo Dante, nada más nacer, en brazos de Chino Darín: \"Hola, papi\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/19/6996afd278a714-44701459.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.20minutos.es/gente/ursula-corbero-publica-primera-imagen-su-hijo-dante-nada-mas-nacer-brazos-chino-darin-hola-papi_6936108_0.html",
+        "date": "2026-02-19 06:50:02",
+        "sentiment_score": 0.5164692476391792
+    },
+    {
+        "title": "El beneficio para las mujeres de la transición energética: \"Está creando oportunidades reales\" para las jóvenes",
+        "image_url": "https://s3.elespanol.com/2026/02/18/actualidad/1003744136231_261503865_1706x960.jpg",
+        "tags": [
+            "objetivo 7: energía asequible y no contaminante",
+            "historias",
+            "objetivo 5: igualdad de género"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20260219/beneficio-mujeres-transicion-energetica-creando-oportunidades-reales-jovenes/1003744136186_0.html",
+        "date": "2026-02-19 06:30:00",
+        "sentiment_score": 0.15291588008403778
+    },
+    {
+        "title": "Lo que debes saber hoy, 19 de febrero, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/14/vivir-en-barcelona/1003742732711_15718649_1706x960.jpg",
+        "tags": [
+            "clima",
+            "vivir en barcelona",
+            "aemet (agencia estatal de meteorología)",
+            "tráfico",
+            "rodalies",
+            "coches",
+            "gran barcelona",
+            "renfe barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260219/debes-saber-hoy-febrero-barcelona/1003742734182_0.html",
+        "date": "2026-02-19 06:26:41",
+        "sentiment_score": 0.04476819932460785
+    },
+    {
+        "title": "Alberto, panadero, cambia Barcelona por un pueblo de 500 habitantes en Cuenca: \"Me veo aquí en 15 años\"",
+        "image_url": "https://s3.elespanol.com/2026/02/18/sociedad/1003744135804_261498772_1706x960.jpg",
+        "tags": [
+            "despoblación",
+            "sociedad",
+            "panaderías",
+            "barcelona"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20260219/alberto-panadero-cambia-barcelona-pueblo-habitantes-cuenca-veo-anos/1003744135664_0.html",
+        "date": "2026-02-19 06:24:32",
+        "sentiment_score": -0.2917613312602043
+    },
+    {
+        "title": "La joven de Torrelavega asesinada en Coruña señaló a su agresor antes de morir: «¡Fue Lois, fue Lois!»",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/02/19/Clipboard-0018.png",
+        "tags": [
+            "torrelavega",
+            "la coruña",
+            "policía nacional"
+        ],
+        "link": "https://www.ideal.es/sociedad/joven-torrelavega-asesinada-coruna-senalo-agresor-morir-20260219072111-ntrc.html",
+        "date": "2026-02-19 06:21:16",
+        "sentiment_score": -0.8267071042209864
+    },
+    {
+        "title": "Marlaska quiere una mujer como nueva DAO de la Policía Nacional",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ad06bce8-1a49-4525-a7ae-fa793f94f2ff_16-9-aspect-ratio_default_0_x450y199.jpg",
+        "tags": [
+            "fernando grande-marlaska",
+            "policía nacional",
+            "agresiones sexuales",
+            "ministerio del interior"
+        ],
+        "link": "https://www.laprovincia.es/espana/2026/02/19/marlaska-quiere-mujer-nueva-dao-policia-127011211.html",
+        "date": "2026-02-19 06:13:26",
+        "sentiment_score": -0.521727554500103
     }
 ];
