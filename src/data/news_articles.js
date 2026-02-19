@@ -1,238 +1,5 @@
 export default [
     {
-        "title": "Vox también busca el 'sorpasso' en Cantabria",
-        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2026/02/15/PORTADA%20DESKTOP%20VOX%20CANTABRIA%202026.png",
-        "tags": [
-            "santiago abascal",
-            "vox cantabria",
-            "leticia díaz",
-            "cantabria (provincia)",
-            "vox",
-            "laura velasco"
-        ],
-        "link": "https://www.eldiariomontanes.es/cantabria/vox-busca-sorpasso-cantabria-20260215164317-nt.html",
-        "date": "2026-02-15 06:38:25",
-        "sentiment_score": -0.2617496848106384
-    },
-    {
-        "title": "\"Líderes (provisionales)\" y \"el Madrid enamora\", la victoria blanca en la prensa de este domingo",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "la liga 2025/2026"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/portadas-prensa-deportiva-principales-medios-naciones-internacionales-hoy-domingo-15-febrero_sto23271041/story.shtml",
-        "date": "2026-02-15 06:24:45",
-        "sentiment_score": 0.151334710419178
-    },
-    {
-        "title": "El pelotazo del Real Murcia con los marcadores del Bernabéu",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/01/18/696ca23f86f6d.jpeg",
-        "tags": [
-            "ud almería"
-        ],
-        "link": "https://www.lavozdealmeria.com/ud-almeria/436179/odisea-real-murcia-marcadores-bernabeu.html",
-        "date": "2026-02-15 06:20:30",
-        "sentiment_score": 0.49935078620910645
-    },
-    {
-        "title": "Repsol: “El hidrógeno verde será rentable solo si la electricidad baja de 15 euros”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/14/6990b4590e606.r_d.2416-1262-0.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.lavanguardia.com/economia/20260215/11466597/repsol-hidrogeno-sera-rentable-electricidad-baja-15-euros.html",
-        "date": "2026-02-15 06:18:27",
-        "sentiment_score": -0.5624055843800306
-    },
-    {
-        "title": "Luka Doncic elige entre Boca y River... y sorprende: “Real Madrid”",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/01/2025120107301242914.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/luka-doncic-elige-entre-boca-river-sorprende-real-madrid/20260215071625374829.html",
-        "date": "2026-02-15 06:16:25",
-        "sentiment_score": 0.5511963777244091
-    },
-    {
-        "title": "Trent Alexander-Arnold y el renacer blanco: un guante al servicio de Arbeloa",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/15/2026021506584980600.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/trent-alexander-arnold-renacer-blanco-guante-servicio-arbeloa/20260215070615374828.html",
-        "date": "2026-02-15 06:06:15",
-        "sentiment_score": 0.8251342885196209
-    },
-    {
-        "title": "Doña Sofía y el ‘birretazo’",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/955aeaca-dff6-479f-90d8-6c119d6a8422_16-9-aspect-ratio_default_0_x606y234.jpg",
-        "tags": [
-            "universidad",
-            "comunidad",
-            "ulpgc",
-            "la reina"
-        ],
-        "link": "https://www.laprovincia.es/opinion/2026/02/15/dona-sofia-birretazo-126850342.html",
-        "date": "2026-02-15 06:01:09",
-        "sentiment_score": -0.8686370942741632
-    },
-    {
-        "title": "Unicaja-Real Madrid: la Liga Endesa, antes que la Copa del Rey",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a3cc9f63-b9de-438d-b96a-98053ccba4b6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "endesa",
-            "copa del rey",
-            "ibon navarro",
-            "valencia",
-            "real madrid",
-            "la liga",
-            "unicaja"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2026/02/15/unicaja-real-madrid-liga-copa-previa-126848431.html",
-        "date": "2026-02-15 06:01:07",
-        "sentiment_score": -0.7513743825256824
-    },
-    {
-        "title": "Semana copera",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/11a93cef-4605-4227-be31-220ed4a67107_16-9-aspect-ratio_default_0_x1000y407.jpg",
-        "tags": [
-            "competición",
-            "baskonia",
-            "unicaja",
-            "real madrid"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2026/02/15/semana-copera-analisis-copa-rey-2026-126840213.html",
-        "date": "2026-02-15 06:00:58",
-        "sentiment_score": 0.743497222661972
-    },
-    {
-        "title": "AEMET prevé nubes altas y viento fuerte en Barcelona con descenso de temperaturas mínimas",
-        "image_url": "https://okdiario.com/img/2026/02/15/el-tiempo-despues-de-la-tormenta.-europa-press.jpg",
-        "tags": [
-            "españa",
-            "cataluña",
-            "okd",
-            "previsión del tiempo",
-            "tiempo",
-            "agencia estatal de meteorología (aemet)"
-        ],
-        "link": "https://okdiario.com/cataluna/aemet-preve-nubes-altas-y-viento-fuerte-en-barcelona-con-descenso-de-temperaturas-minimas-16247260",
-        "date": "2026-02-15 06:25:26",
-        "sentiment_score": 0.14950332045555115
-    },
-    {
-        "title": "Los extranjeros ya protagonizan la mitad de las compras de vivienda en barrios como la Barceloneta",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/07/23/62dc3233950bc.r_d.623-614-3459.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20260215/11466914/extranjeros-protagonizan-mitad-compras-vivienda-barrios-barceloneta.html",
-        "date": "2026-02-15 06:18:40",
-        "sentiment_score": 0.004972979426383972
-    },
-    {
-        "title": "Bad Rufián o Gabriel Bunny",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/02/14/el-politico-gabriel-rufian-y-el-cantante-bad-bunny.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.huffingtonpost.es/opinion/bad-rufian-gabriel-bunny-f202602.html",
-        "date": "2026-02-15 06:11:04",
-        "sentiment_score": -0.7093039378523827
-    },
-    {
-        "title": "Nadal, Gasol o Gerard Piqué: así invierten los grandes exdeportistas españoles",
-        "image_url": "https://s10.s3c.es/imag/_v0/6349x3353/d/8/9/1200x655_imagen.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.eleconomista.es/actualidad/noticias/13746073/01/26/nadal-gasol-o-gerard-pique-asi-invierten-los-grandes-exdeportistas-espanoles.html",
-        "date": "2026-02-15 06:00:29",
-        "sentiment_score": 0.44003481417894363
-    },
-    {
-        "title": "Las brujas y los brujos de Paul Urkijo en los Goya",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/addebecf-96cb-42b3-b49c-d64788c41314_16-9-aspect-ratio_default_0_x2351y999.jpg",
-        "tags": [
-            "paul",
-            "alava",
-            "premios",
-            "gasteiz",
-            "urkijo",
-            "goya",
-            "araba",
-            "barcelona",
-            "gala",
-            "gaua",
-            "brujos",
-            "vitoria",
-            "brujas",
-            "cine"
-        ],
-        "link": "https://www.noticiasdealava.eus/cultura/2026/02/15/brujas-brujos-paul-urkijo-goya-cine-premios-gaua-gala-barcelona-vitoria-gasteiz-alava-araba-10672726.html",
-        "date": "2026-02-15 06:00:21",
-        "sentiment_score": 0.09830179810523987
-    },
-    {
-        "title": "“No me sorprendería que, en este contexto del aniversario, el Estado reconozca que el 3M fue una barbaridad”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/fdfa4992-312a-4a01-94d1-36b1196ee60c_16-9-aspect-ratio_default_0_x961y304.jpg",
-        "tags": [
-            "gogora",
-            "contexto",
-            "aniversario",
-            "reconozca",
-            "3",
-            "alberto",
-            "marzo",
-            "1976",
-            "barbaridad",
-            "alava",
-            "gasteiz",
-            "estado",
-            "fue",
-            "sorprenderia",
-            "alonso",
-            "araba",
-            "vitoria"
-        ],
-        "link": "https://www.noticiasdealava.eus/gasteiz/2026/02/15/alberto-alonso-gogora-sorprenderia-contexto-aniversario-estado-reconozca-3-marzo-1976-fue-barbaridad-vitoria-gasteiz-alava-araba-10680674.html",
-        "date": "2026-02-15 06:00:21",
-        "sentiment_score": 0.4565006121993065
-    },
-    {
-        "title": "Abdón Pedrajas Littler refuerza su estructura con la promoción de Teresa Trigueros y Patricia Madrona a asociadas principales",
-        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2026/02/teresa-triguero-3.jpg",
-        "tags": [
-            "znoticia portada3",
-            "actualidad",
-            "asociadas principales",
-            "patricia madrona",
-            "abdón pedrajas littler",
-            "derecho laboral",
-            "noticias jurídicas",
-            "teresa trigueros",
-            "app",
-            "despachos laboralistas",
-            "despachos y abogados",
-            "promociones internas"
-        ],
-        "link": "https://www.economistjurist.es/actualidad-juridica/abdon-pedrajas-littler-refuerza-su-estructura-con-la-promocion-de-teresa-trigueros-y-patricia-madrona-a-asociadas-principales/",
-        "date": "2026-02-15 06:00:11",
-        "sentiment_score": -0.07180282473564148
-    },
-    {
-        "title": "La DGT lo confirma: aparcar en doble fila cuando dejas a tus hijos al colegio puede costarte hasta 200 euros",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/06/nino-silla-infantil-coche.jpeg",
-        "tags": [
-            "movilidad"
-        ],
-        "link": "https://www.20minutos.es/motor/movilidad/dgt-confirma-aparcar-doble-fila-dejas-hijos-colegio-puede-costarte-200-euros_6931030_0.html",
-        "date": "2026-02-15 06:00:00",
-        "sentiment_score": -0.7669427786022425
-    },
-    {
         "title": "¿Cuántas relaciones sexuales tiene cada mes? Cómo preguntar en las encuestas para que la gente no mienta",
         "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/16/encuestas-kPqH-U20649949518r6D-1200x840@RC.jpg",
         "tags": [
@@ -2706,5 +2473,240 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/vida/20260218/ultima-borrasca-pedro-directo-cataluna-fuertes-vientos/1003742734079_10.html",
         "date": "2026-02-18 17:31:24",
         "sentiment_score": -0.8774554906412959
+    },
+    {
+        "title": "La lectura de labios de la pelea entre Vinícius Júnior y Prestianni: el insulto del brasileño en el inicio del conflicto",
+        "image_url": "https://www.infobae.com/resizer/v2/ZEQXNIDZ6ZATRE4ZNLLKEYUYBU.jpg?auth=737fdc2dd8c45175aa4208d7df3451ad5ff464a8d92874bf3a6886c14697a63b&height=1080&smart=true&width=1920",
+        "tags": [
+            "uefa champions league",
+            "real madrid",
+            "deportes-argentina",
+            "vinícius júnior",
+            "gianluca prestianni",
+            "benfica"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/18/la-lectura-de-labios-de-la-pelea-entre-vinicius-junior-y-prestianni-el-insulto-del-brasileno-en-el-inicio-del-conflicto/",
+        "date": "2026-02-18 22:40:36",
+        "sentiment_score": -0.745129557326436
+    },
+    {
+        "title": "La UEFA y el presidente de la FIFA hablaron tras la denuncia de Vinícius contra Prestianni en el Benfica vs. Real Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/02/18/uefa-infantino-fifa-vinicius-prestianni-champions-orix/",
+        "date": "2026-02-18 22:03:46",
+        "sentiment_score": -0.4427318349480629
+    },
+    {
+        "title": "Los excesos del DAO de Marlaska eran un clamor: \"A Jota le costaba subirse la bragueta\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/21a7d4d604607618375878d4a659c10a/crop/482x0/2530x2048/f/image/jpeg/assets/multimedia/imagenes/2026/02/18/17714449479605.jpg",
+        "tags": [
+            "policía nacional",
+            "artículos gema peñalosa",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/02/18/6996092cfdddff05158b45a8.html",
+        "date": "2026-02-18 21:56:52",
+        "sentiment_score": -0.6126231737434864
+    },
+    {
+        "title": "Gol de Mikautadze afianza a Villarreal en 3er puesto de La Liga de España al vencer 1-0 a Levante",
+        "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "sports",
+            "villarreal levante la liga barcelona real madrid",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/villarreal-levante-la-liga-barcelona-real-madrid-e567aec746ff584b284f614c69bcda28",
+        "date": "2026-02-18 21:56:33",
+        "sentiment_score": 0.627749890089035
+    },
+    {
+        "title": "Gol de Mikautadze afianza a Villarreal en 3er puesto de La Liga de España al vencer 1-0 a Levante",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.bostonherald.com/2026/02/18/gol-de-mikautadze-afianza-a-villarreal-en-3er-puesto-de-la-liga-de-espaa-al-vencer-1-0-a-levante/",
+        "date": "2026-02-18 21:56:32",
+        "sentiment_score": 0.5890615433454514
+    },
+    {
+        "title": "Cuba debe más de 300 millones de euros a las empresas españolas",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/18/2026021822380114068.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.mundiario.com/articulo/economia/cuba-debe-mas-300-millones-euros-empresas-espanolas/20260218223925375283.html",
+        "date": "2026-02-18 21:39:25",
+        "sentiment_score": -0.8628454441204667
+    },
+    {
+        "title": "Gobierno de Portugal interviene en el caso Vinicius y Prestianni",
+        "image_url": "https://pxcdn.meridiano.net/022026/1771449967247.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/gobierno-de-portugal-interviene-en-el-caso-vinicius-y-prestianni-202621817260",
+        "date": "2026-02-18 21:26:00",
+        "sentiment_score": 0.24364691227674484
+    },
+    {
+        "title": "Del \"absentismo\" a los trabajadores \"repetidores\": el lenguaje que culpabiliza a quienes están de baja médica",
+        "image_url": "https://static.eldiario.es/clip/1a2a75c2-c142-4fc7-a551-a57568bb0f1e_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lenguaje",
+            "absentismo",
+            "baja",
+            "culpabiliza",
+            "repetidores",
+            "trabajadores",
+            "medica"
+        ],
+        "link": "https://www.eldiario.es/economia/absentismo-trabajadores-repetidores-lenguaje-culpabiliza-baja-medica_1_12998403.html",
+        "date": "2026-02-18 21:24:31",
+        "sentiment_score": -0.2421523630619049
+    },
+    {
+        "title": "Muere en A Coruña Félix Rodríguez Montenegro, exprofesor de Maristas",
+        "image_url": "https://cflvdg.avoz.es/sc/RZOu-V1kySalPLcOvvFxGHOjVWA=/768x/2026/02/18/00121771453622190710114/Foto/O05E1016.jpg",
+        "tags": [
+            "tui",
+            "a coruña ciudad"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/coruna/coruna/2026/02/19/educacion-muere-83-anos-religioso-marista-felix-rodriguez-montenegro/0003_202602H19C2996.htm",
+        "date": "2026-02-18 22:41:00",
+        "sentiment_score": 0.05507046729326248
+    },
+    {
+        "title": "Page responde a la dirección del PSOE: “Si hiciéramos autocrítica no haría falta la crítica”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TIFSOOVT7VAVLPYCY2TS4DBSWQ.jpg?auth=dfeac2c90c129c316417773b3f20e4ac3fc39b3f32722fb268807cd2b3af53ba&width=1200",
+        "tags": [
+            "pedro sánchez",
+            "castilla-la mancha",
+            "pp",
+            "socialismo",
+            "psoe",
+            "españa",
+            "barones psoe",
+            "emiliano garcía-page",
+            "rebeca torró",
+            "vox"
+        ],
+        "link": "https://elpais.com/espana/2026-02-18/page-responde-a-la-direccion-del-psoe-si-hicieramos-autocritica-no-haria-falta-la-critica.html",
+        "date": "2026-02-18 22:40:43",
+        "sentiment_score": -0.8702805675566196
+    },
+    {
+        "title": "República Dominicana: Abinader recibirá nueva licencia de conducir en histórico proceso de modernización",
+        "image_url": "https://www.infobae.com/resizer/v2/SHNTMZULYVECRNR664SP5NHA5E.jpg?auth=a1892288e1591827a7be5c432cc478b27b8524d94387fe81b09059b52fb49298&height=960&smart=true&width=1440",
+        "tags": [
+            "instituto nacional de tránsito",
+            "república dominicana",
+            "modernización tecnológica",
+            "licencia de conducir",
+            "expansión de cobertura",
+            "luis abinader"
+        ],
+        "link": "https://www.infobae.com/republica-dominicana/2026/02/18/republica-dominicana-abinader-recibira-nueva-licencia-de-conducir-en-historico-proceso-de-modernizacion/",
+        "date": "2026-02-18 22:32:39",
+        "sentiment_score": 0.5338032376021147
+    },
+    {
+        "title": "Crónica del Club Brujas - Atlético de Madrid: 3-3",
+        "image_url": "https://www.infobae.com/resizer/v2/KHE6VFWVOBHNVAQXSFQQSSDOKE.jpg?auth=6ce39513b7a0003f71dc2efa4c84374b98505c59b4f2f55ef2074e4b8e5bb7a8&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/18/cronica-del-club-brujas-atletico-de-madrid-3-3/",
+        "date": "2026-02-18 22:30:55",
+        "sentiment_score": -0.0887366458773613
+    },
+    {
+        "title": "MediaMarkt cierra su tienda más icónica del centro de Barcelona para allanar su traslado a El Triangle",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/18/vivir-en-barcelona/1003742734129_15734854_1706x960.jpg",
+        "tags": [
+            "empresas barcelona",
+            "economía",
+            "tecnología",
+            "comercio"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260218/mediamarkt-cierra-tienda-iconica-centro-barcelona-allanar-traslado-triangle/1003742734092_0.html",
+        "date": "2026-02-18 22:30:00",
+        "sentiment_score": -0.8606920661404729
+    },
+    {
+        "title": "Barcelona protegerá el césped del Estadi Olímpic para los conciertos de 2026 tras la salida del Barça",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/11/vivir-en-barcelona/1003742731608_15705388_1706x960.jpg",
+        "tags": [
+            "contratos barcelona",
+            "vivir en barcelona",
+            "conciertos",
+            "barça",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260218/barcelona-protegera-cesped-estadi-olimpic-conciertos-salida-barca/1003742731484_0.html",
+        "date": "2026-02-18 22:30:00",
+        "sentiment_score": 0.4149581640958786
+    },
+    {
+        "title": "Illa cuenta cómo vivió su enfermedad: mucho dolor, fentanilo y primera vez en su vida durmiendo en un hospital",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GCJR5AD6WFJQPL2AD7SH7QNJSM.jpg?auth=53832bd2556e46497186a130addd6ac26b4e34e22d8773984433a7758b21d497&width=1200",
+        "tags": [
+            "govern cataluña",
+            "psc",
+            "cataluña",
+            "presidencia autonómica",
+            "políticos",
+            "salvador illa",
+            "generalitat cataluña",
+            "enfermedades",
+            "política"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2026-02-18/illa-cuenta-como-vivio-su-enfermedad-mucho-dolor-fentanilo-y-primera-vez-en-su-vida-durmiendo-en-un-hospital.html",
+        "date": "2026-02-18 22:24:35",
+        "sentiment_score": 0.28637681528925896
+    },
+    {
+        "title": "Junqueras y Puigdemont se reunieron en Bélgica para hablar de financiación",
+        "image_url": "https://static1.ara.cat/clip/a1c64e92-60e4-4a40-b422-49404b3497b1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "puigdemont",
+            "financiacion",
+            "hablar",
+            "junqueras",
+            "reunieron",
+            "belgica"
+        ],
+        "link": "https://es.ara.cat/politica/junqueras-puigdemont-reunieron-belgica-hablar-financiacion_1_5653024.html",
+        "date": "2026-02-18 22:16:59",
+        "sentiment_score": -0.057730719447135925
+    },
+    {
+        "title": "«El Watusi es como buscar a Dios en un 'after hours'»",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/02/18/212668738-kCIF--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "hours",
+            "after",
+            "watusi",
+            "dios",
+            "buscar"
+        ],
+        "link": "https://www.elcomercio.es/aviles/ivan-morales-dramaturgo-watusi-buscar-dios-after-20260219225353-nt.html",
+        "date": "2026-02-18 22:16:00",
+        "sentiment_score": -0.1442049890756607
+    },
+    {
+        "title": "Maersk centraliza la retirada de flexitanks en Algeciras, Valencia y Barcelona con un recargo de 695 euros",
+        "image_url": "https://static.grupojoly.com/clip/9fe340c4-cce9-46e8-9906-35a3ca88de25_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "puerto de algeciras"
+        ],
+        "link": "https://www.europasur.es/maritimas/maersk-flexitanks-algeciras-valencia-barcelona-695-euros_0_2005946370.html",
+        "date": "2026-02-18 22:14:29",
+        "sentiment_score": -0.009084820747375488
     }
 ];
