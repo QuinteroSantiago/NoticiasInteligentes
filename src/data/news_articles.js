@@ -1,442 +1,5 @@
 export default [
     {
-        "title": "El Real Madrid se impone a la Real Sociedad con un gran Vinicius y pone fin al ‘efecto Matarazzo’",
-        "image_url": "https://www.infobae.com/resizer/v2/LNMQGREARFHTHE2ULSFSSXTK54.JPG?auth=35861fba1d8b5ac2b216744e011f8307b47b064473bd6d11c53e11bcb70b42f5&height=2466&smart=true&width=3506",
-        "tags": [
-            "españa deportes",
-            "real madrid",
-            "fútbol",
-            "fútbol españa",
-            "vinicius",
-            "españa noticias",
-            "laliga"
-        ],
-        "link": "https://www.infobae.com/espana/2026/02/14/el-real-madrid-se-impone-a-la-real-sociedad-con-un-gran-vinicius-y-pone-fin-al-efecto-matarazzo/",
-        "date": "2026-02-14 22:23:50",
-        "sentiment_score": 0.5280426889657974
-    },
-    {
-        "title": "Mujeres que inspiran a romper barreras",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/02/15/mujeres-RNHRMNwWY4aizi998yfTQ3I-1200x840@Ideal.jpeg",
-        "tags": [
-            "industria",
-            "trabajo",
-            "empleo",
-            "mujeres",
-            "universidad de almería",
-            "almería"
-        ],
-        "link": "https://www.ideal.es/almeria/almeria/mujeres-inspiran-romper-barreras-20260215130516-nt.html",
-        "date": "2026-02-14 22:23:18",
-        "sentiment_score": -0.47447875142097473
-    },
-    {
-        "title": "22:00 | 14 FEB 2026 | TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-14-feb-2026-juego-20260214_3308151.html",
-        "date": "2026-02-14 22:21:27",
-        "sentiment_score": 0.04443637281656265
-    },
-    {
-        "title": "4-1. Vinícius fulmina el 'efecto Matarazzo'",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/14/4-1-vinicius-fulmina-el-efecto-matarazzo/",
-        "date": "2026-02-14 22:16:00",
-        "sentiment_score": 0.19278085231781006
-    },
-    {
-        "title": "La Real cae ante el Real Madrid con dos penaltis polémicos (4-1)",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/983b75d9-16f4-4ebb-bebd-e74610b3dc85_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "penaltis",
-            "madrid",
-            "real",
-            "cae"
-        ],
-        "link": "https://www.noticiasdenavarra.com/futbol/2026/02/14/real-cae-real-madrid-penaltis-10702158.html",
-        "date": "2026-02-14 22:15:44",
-        "sentiment_score": -0.14840632677078247
-    },
-    {
-        "title": "El Real Madrid se pasea ante la Real Sociedad para acabar con su racha y dormir líder de LaLiga",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2741566.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.vozpopuli.com/deportes/el-real-madrid-se-pasea-ante-la-real-sociedad-para-acabar-con-su-racha-y-dormir-lider-de-laliga.html",
-        "date": "2026-02-14 22:11:29",
-        "sentiment_score": 0.48682136088609695
-    },
-    {
-        "title": "Vinícius fulmina el 'efecto Matarazzo'",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/e289e41b-48e3-4e99-80ded11fc66ce906.jpg",
-        "tags": [
-            "fede valverde",
-            "eduardo camavinga",
-            "vinícius júnior",
-            "champions league",
-            "san mamés",
-            "kylian mbappé",
-            "santiago bernabéu",
-            "thibaut courtois",
-            "aurélien tchouaméni",
-            "real sociedad",
-            "real madrid",
-            "josé mourinho"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z13cc64fd-037c-4e49-befadaf4c7bb4ba2/202602/vinicius-fulmina-el-efecto-matarazzo",
-        "date": "2026-02-14 22:09:58",
-        "sentiment_score": 0.2699923813343048
-    },
-    {
-        "title": "El Madrid presiona el liderato del Barça tras una sólida victoria ante la Real Sociedad",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/14/2026021423075388584.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/madrid-presiona-liderato-barca-solida-victoria-real-sociedad/20260214230821374795.html",
-        "date": "2026-02-14 22:08:21",
-        "sentiment_score": 0.7253315076231956
-    },
-    {
-        "title": "El Real Madrid golea a la Real Sociedad y duerme líder (4-1)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/14/el-real-madrid-golea-a-la-real-sociedad-y-duerme-lider-4-1/",
-        "date": "2026-02-14 22:00:52",
-        "sentiment_score": 0.6526172608137131
-    },
-    {
-        "title": "Los penaltis de Vinícius, el oportunismo de Gonzalo y las dudas de Huijsen",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/14/los-penaltis-de-vinicius-el-oportunismo-de-gonzalo-y-las-dudas-de-huijsen/",
-        "date": "2026-02-14 22:00:36",
-        "sentiment_score": -0.7685913555324078
-    },
-    {
-        "title": "Incógnita despejada: Dua Lipa con Callum Turner en la alfombra roja de 'Rosebush Pruning'",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/14/incognita-despejada-dua-lipa-con-callum-turner-en-la-alfombra-roja-de-rosebush-pruning/",
-        "date": "2026-02-14 22:20:23",
-        "sentiment_score": -0.5899609513580799
-    },
-    {
-        "title": "Entregan nueva etapa recuperada del Centro Histórico de Barcelona",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/02/Anzoategui-225x300.jpg",
-        "tags": [
-            "actualidad",
-            "anzoátegui"
-        ],
-        "link": "https://ultimasnoticias.com.ve/actualidad/entregan-nueva-etapa-recuperada-del-centro-historico-de-barcelona/",
-        "date": "2026-02-14 22:19:20",
-        "sentiment_score": -0.03677937388420105
-    },
-    {
-        "title": "La licencia 1C del Spotify Camp Nou apunta a mediados de marzo: el Ayuntamiento retrasa los plazos",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/23/culemania/palco/1003742709946_15436226_1706x960.jpg",
-        "tags": [
-            "palco",
-            "fc barcelona",
-            "camp nou",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260214/licencia-spotify-camp-nou-mediados-ayuntamiento-retrasa/1003742732719_0.html",
-        "date": "2026-02-14 22:14:30",
-        "sentiment_score": -0.44335975497961044
-    },
-    {
-        "title": "El directivo de Laporta que triunfa en el sector inmobiliario y factura más de tres millones de euros con cuatro sociedades",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/14/culemania/palco/1003742732705_15718604_1706x960.jpg",
-        "tags": [
-            "joan laporta",
-            "palco",
-            "elecciones barça",
-            "junta directiva del barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260214/directivo-laporta-triunfa-inmobiliario-factura-millones-sociedades/1003742732702_0.html",
-        "date": "2026-02-14 22:14:29",
-        "sentiment_score": 0.7816131189465523
-    },
-    {
-        "title": "El alto precio que pagó el Barça con el viejo Camp Nou alumbra a Laporta: tres Ligas en 25 años",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/13/culemania/palco/1003742732500_15716443_1706x960.jpg",
-        "tags": [
-            "palco",
-            "laliga",
-            "joan laporta",
-            "espai barça",
-            "camp nou",
-            "copa del rey"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260214/precio-barca-camp-nou-alumbra-laporta-ligas/1003742732443_0.html",
-        "date": "2026-02-14 22:14:28",
-        "sentiment_score": -0.24822058528661728
-    },
-    {
-        "title": "Así va la lucha por la salvación: El Getafe de Bordalás añade dramatismo al derbi de València",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c9283b67-31b8-40c4-95b2-2cc2c274aeed_16-9-aspect-ratio_default_0_x450y203.jpg",
-        "tags": [
-            "derbi,valencia,getafe,levante,betis,orriols,oviedo,levante ud,valencia cf,carlos corberán,luís castro,entrenadores,puntos,victorias,derrotas,rayo,atlético,barcelona,descenso,laliga,ciutat de valència"
-        ],
-        "link": "https://www.superdeporte.es/valencia-cf/2026/02/14/lucha-salvacion-getafe-bordalas-anade-126847801.html",
-        "date": "2026-02-14 22:09:33",
-        "sentiment_score": 0.23668091744184494
-    },
-    {
-        "title": "Vinicius Jr se inventa dos penaltis para arañarle el liderato al Barça: escándalo arbitral del Real Madrid en el Bernabéu",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/14/culemania/real-madrid/1003742732739_15719114_1706x960.jpg",
-        "tags": [
-            "álvaro arbeloa",
-            "vinicius",
-            "real madrid",
-            "kylian mbappé"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260214/vinicius-jr-barca-escandalo-real-madrid-bernabeu/1003742732729_0.html",
-        "date": "2026-02-14 21:57:36",
-        "sentiment_score": -0.7872554119676352
-    },
-    {
-        "title": "El grito del campo",
-        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "campo",
-            "grito"
-        ],
-        "link": "https://www.diariodejerez.es/opinion/editorial/grito-campo_0_2005910522.html",
-        "date": "2026-02-15 02:08:03",
-        "sentiment_score": -0.06803697347640991
-    },
-    {
-        "title": "James Rodríguez no se guardó nada y envió duro mensaje a sus críticos: “Piensan que me lastimarán”",
-        "image_url": "https://www.infobae.com/resizer/v2/I2OF4QWB3ZCEZFSO6FHJ3XTP74.jpg?auth=05368fff145c6c77031e998721af5b5cf8d456e96f5fa15205736d0ec06daca6&height=860&smart=true&width=1632",
-        "tags": [
-            "mls",
-            "james rodríguez",
-            "selección colombia",
-            "james rodríguez mls",
-            "james rodríguez minnesota",
-            "minnesota united",
-            "colombia-deportes"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/15/james-rodriguez-no-se-guardo-nada-y-envio-duro-mensaje-a-sus-criticos-piensan-que-me-lastimaran/",
-        "date": "2026-02-15 01:21:41",
-        "sentiment_score": -0.06603853404521942
-    },
-    {
-        "title": "Levante vs. Valencia: ¡Sálvese quien pueda!",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e4731d21-962a-4d7f-95a0-d3b087fe9edf_16-9-aspect-ratio_default_0_x450y200.jpg",
-        "tags": [
-            "levante,valencia,valencia cf,derbi,orriols,hugo duro,mestalla,levante ud,derbis,laliga,luís castro,carlos corberán,pepelu,carlos álvarez,etta eyong,iván romero,unai núñez,fichajes,canteranos,nacho pérez,descenso"
-        ],
-        "link": "https://www.superdeporte.es/valencia-cf/2026/02/15/levante-vs-valencia-salvese-pueda-derbi-laliga-126849887.html",
-        "date": "2026-02-15 00:57:53",
-        "sentiment_score": -0.09196329116821289
-    },
-    {
-        "title": "Alerta por aumento de motos eléctricas sin control: 9 de cada 10 circulan sin registro y el mercado formal se desploma",
-        "image_url": "https://www.infobae.com/resizer/v2/TLYTAOMQLRDWFHIHLERFQR6FMI.JPG?auth=afea602fc666a53802f2a0f14f2142dbd53a91f3c8b93e627b4ac890209b5b9b&height=1671&smart=true&width=2500",
-        "tags": [
-            "andi",
-            "colombia-noticias",
-            "motos eléctricas",
-            "motos en colombia",
-            "movilidad en colombia",
-            "runt",
-            "registro de motos"
-        ],
-        "link": "https://www.infobae.com/colombia/2026/02/15/alerta-por-aumento-de-motos-electricas-sin-control-9-de-cada-10-circulan-sin-registro-y-el-mercado-formal-se-desploma/",
-        "date": "2026-02-15 00:50:42",
-        "sentiment_score": -0.8893424104899168
-    },
-    {
-        "title": "Belén Rueda: \"A los hombres no les dicen que qué feos están por ser más viejos, sino que pasan a ser 'señores interesantes'\"",
-        "image_url": "https://s3.elespanol.com/2026/02/13/reportajes/1003744129690_261418797_1706x960.jpg",
-        "tags": [
-            "porfolio",
-            "reportajes-newsletter",
-            "entrevistas",
-            "cine",
-            "belén rueda",
-            "reportajes",
-            "actrices"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260215/belen-rueda-hombres-no-dicen-feos-viejos-pasan-senores-interesantes/1003744129591_0.html",
-        "date": "2026-02-15 00:48:16",
-        "sentiment_score": -0.6866576448082924
-    },
-    {
-        "title": "¿Por qué acudir a la farmacia a por los complementos?: \"Elegimos el mejor en cada caso\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/5a19a728cfde6aae1d86d950713a5e4c/crop/0x0/1200x800/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/13/17710074994860.jpg",
-        "tags": [
-            "ciencia-y-salud/salud"
-        ],
-        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2026/02/15/698f6e70e85ece1d718b4598.html",
-        "date": "2026-02-15 00:42:09",
-        "sentiment_score": -0.08060072362422943
-    },
-    {
-        "title": "14 FEB 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/14-feb-2026-tramo-final-juego-20260215_3308166.html",
-        "date": "2026-02-15 00:11:47",
-        "sentiment_score": -0.014911338686943054
-    },
-    {
-        "title": "1a PARTE | 14 FEB 2026 | TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/1a-parte-03-feb-2026-juego-20260215_3308158.html",
-        "date": "2026-02-14 23:42:51",
-        "sentiment_score": 0.39220574870705605
-    },
-    {
-        "title": "El Real Madrid asume el liderato: Vinicius brilla en la goleada ante la Real Sociedad",
-        "image_url": "https://pxcdn.2001online.com/2001/022026/1771114864513/504_sport_Media365-Sport-News_c83_e3a_2518ed2536bb3944a417a05a90_liga-j24-le-real-madrid-leader-provisoire-apres-son-succes-contre-la-real-sociedad_vinicius-real-real-sociedad-1024x536.jpg?ch=675&cw=1200",
-        "tags": [
-            "fc barcelona",
-            "real sociedad",
-            "españa",
-            "real madrid",
-            "vinicius jr",
-            "laliga"
-        ],
-        "link": "https://2001online.com/deportes/el-real-madrid-asume-el-liderato-vinicius-brilla-en-la-goleada-ante-la-real-sociedad-202621420270",
-        "date": "2026-02-14 23:34:18",
-        "sentiment_score": 0.5477380976080894
-    },
-    {
-        "title": "Courtois: \"Hemos hecho un gran partido\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/14/courtois-hemos-hecho-un-gran-partido/",
-        "date": "2026-02-14 23:30:55",
-        "sentiment_score": 0.8839263878762722
-    },
-    {
-        "title": "Liberal en redes sociales, social-demócrata en subvenciones",
-        "image_url": "https://s3.elespanol.com/2026/02/13/actualidad/1003744129619_261417700_1706x960.jpg",
-        "tags": [
-            "tribunas de opinión",
-            "opinión"
-        ],
-        "link": "https://www.elespanol.com/invertia/opinion/20260215/liberal-redes-sociales-social-democrata-subvenciones/1003744129535_12.html",
-        "date": "2026-02-15 02:19:18",
-        "sentiment_score": -0.1936362348496914
-    },
-    {
-        "title": "El tapón verde de Cataluña: por cada parque eólico construido se han rechazado cuatro, el doble que en España",
-        "image_url": "https://s3.elespanol.com/2026/01/15/actualidad/1003744091467_260936081_1706x960.jpg",
-        "tags": [
-            "energía eólica",
-            "cataluña",
-            "energía - renovables",
-            "observatorio de la energía"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/energia/20260215/tapon-verde-cataluna-parque-eolico-construido-rechazado-doble-espana/1003744128250_0.html",
-        "date": "2026-02-15 02:16:15",
-        "sentiment_score": -0.3612241819500923
-    },
-    {
-        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 15 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima en barcelona",
-            "clima",
-            "clima en españa",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/15/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-15-de-febrero/",
-        "date": "2026-02-15 02:15:37",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "La vida ejemplar de Juan Francisco, el mostoleño de 92 años que vende un millón y medio de leche a toda España",
-        "image_url": "https://s3.elespanol.com/2026/02/13/actualidad/1003744129825_261420796_1706x960.jpg",
-        "tags": [
-            "madrid comunidad",
-            "empresas",
-            "leche",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/madrid/comunidad/20260215/vida-ejemplar-juan-francisco-mostoleno-anos-vende-millon-medio-leche-toda-espana/1003744124870_0.html",
-        "date": "2026-02-15 01:22:22",
-        "sentiment_score": 0.418209258466959
-    },
-    {
-        "title": "China despliega su diplomacia ideológica en España mientras Sánchez ultima su cuarta visita para abril: \"Estamos dispuestos a reforzar aún más la cooperación con los partidos españoles\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/e6b7b34b4a16dd622051972c296ece73/crop/0x104/596x699/f/image/jpeg/assets/multimedia/imagenes/2022/05/03/16515910186356.jpg",
-        "tags": [
-            "josé luis rodríguez zapatero",
-            "xi jinping",
-            "pp",
-            "pedro sánchez",
-            "china",
-            "artículos lucas de la cal"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/02/15/6990694b21efa027578b45bb.html",
-        "date": "2026-02-15 01:10:05",
-        "sentiment_score": 0.1875021606683731
-    },
-    {
-        "title": "Yulimar Rojas regresa a la cima mundial tras lograr un salto de 14.95 metros",
-        "image_url": "https://meridadigital.com.ve/wp-content/uploads/2026/02/foto-cortesia-108153-1-150x150.jpeg",
-        "tags": [
-            "destacadas",
-            "deportes"
-        ],
-        "link": "https://meridadigital.com.ve/yulimar-rojas-regresa-a-la-cima-mundial-tras-lograr-un-salto-de-14-95-metros",
-        "date": "2026-02-15 01:00:01",
-        "sentiment_score": 0.07492899149656296
-    },
-    {
-        "title": "Discoteca Vampis, en Tenerife: la leyenda que se niega a morir",
-        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2026/02/vampis-2-1024x683.jpg",
-        "tags": [
-            "tenerife",
-            "portada apertura 3",
-            "norte",
-            "portada local",
-            "portada",
-            "puerto de la cruz"
-        ],
-        "link": "https://diariodeavisos.elespanol.com/2026/02/discoteca-vampis-la-leyenda-que-se-niega-a-morir/",
-        "date": "2026-02-15 00:00:00",
-        "sentiment_score": 0.5954006910324097
-    },
-    {
-        "title": "Estos son algunos de los disfraces más originales de la primera salida del Carnaval de Día",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/daabf03b-c1c7-4451-9c84-548df7545181_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "carnaval de día",
-            "carnaval de las palmas",
-            "disfraces"
-        ],
-        "link": "https://www.laprovincia.es/carnaval-de-las-palmas/2026/02/15/son-disfraces-originales-primera-salida-126849474.html",
-        "date": "2026-02-14 23:45:12",
-        "sentiment_score": 0.643535178154707
-    },
-    {
         "title": "Vox también busca el 'sorpasso' en Cantabria",
         "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2026/02/15/PORTADA%20DESKTOP%20VOX%20CANTABRIA%202026.png",
         "tags": [
@@ -2912,5 +2475,236 @@ export default [
         "link": "https://www.elcorreoweb.es/espana/2026/02/18/jueza-plus-ultra-sepi-seoane-julio-martinez-zapatero-126967914.html",
         "date": "2026-02-18 06:37:01",
         "sentiment_score": -0.5937995426356792
+    },
+    {
+        "title": "La escuela taurina de La Algaba no consigue ningún alumno en 2026: «Se hace un llamamiento para seguir fomentado la tauromaquia»",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/4a/media_thumb-link-4147962.webp?1771343526=",
+        "tags": [
+            "actualidad",
+            "sevilla",
+            "ayuntamientos",
+            "arte de cúchares"
+        ],
+        "link": "https://www.meneame.net/story/escuela-taurina-algaba-no-consigue-ningun-alumno-2026-hace",
+        "date": "2026-02-18 07:35:03",
+        "sentiment_score": 0.0032934844493865967
+    },
+    {
+        "title": "El Unicaja ya está en Valencia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc2cf5ab-9c41-46f0-a877-6f96442a87b2_16-9-aspect-ratio_default_0_x914y400.jpg",
+        "tags": [
+            "valencia",
+            "ibon navarro",
+            "suelo",
+            "unicaja",
+            "copa del rey 2026"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2026/02/18/unicaja-valencia-copa-rey-baloncesto-126997848.html",
+        "date": "2026-02-18 17:49:14",
+        "sentiment_score": 0.10336995124816895
+    },
+    {
+        "title": "Martínez contrapone \"el modelo de la implicación\" frente a \"la parálisis\" de la Junta con el sector agroalimentario de Castilla y León",
+        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/files/fp/uploads/2026/02/18/6995f998762f0.r_d.3774-851-5838.jpeg",
+        "tags": [
+            "castilla y león"
+        ],
+        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/260218/104907/martinez-contrapone-modelo-implicacion-frente-paralisis-junta-sector-agroalimentario.html",
+        "date": "2026-02-18 17:46:35",
+        "sentiment_score": 0.4714980609714985
+    },
+    {
+        "title": "El relevo de Viciana por Zarzalejo entierra la LESUC y desencadena cambios en la Comunidad y en el PP en la Asamblea",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260218184606_690.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.europapress.es/madrid/noticia-relevo-viciana-zarzalejo-entierra-lesuc-desencadena-cambios-comunidad-pp-asamblea-20260218184606.html",
+        "date": "2026-02-18 17:46:06",
+        "sentiment_score": -0.5437165424227715
+    },
+    {
+        "title": "Los nacimientos en España crecen por primera vez en una década, aunque el saldo vegetativo sigue en negativo",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/18/6995e1ae3a186.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.cope.es/actualidad/sociedad/noticias/nacimientos-espana-crecen-primera-vez-decada-saldo-vegetativo-sigue-negativo-20260218_3310664.html",
+        "date": "2026-02-18 17:42:16",
+        "sentiment_score": -0.10038802027702332
+    },
+    {
+        "title": "El mítico jugador del Real Madrid que comía hoy en Zamora",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b79e08a0-c564-44e2-b817-24147f819849_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid,castroverde,raúl gonzález"
+        ],
+        "link": "https://www.laopiniondezamora.es/comarcas/2026/02/18/mitico-jugador-real-madrid-comia-126995221.html",
+        "date": "2026-02-18 17:41:58",
+        "sentiment_score": 0.7284812331199646
+    },
+    {
+        "title": "Nueva baja en la defensa del Real Zaragoza: Tachi será intervenido en el menisco de su rodilla izquierda",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/02/18/2026021818380767430.jpg",
+        "tags": [
+            "real zaragoza"
+        ],
+        "link": "https://www.aragondigital.es/articulo/real-zaragoza/nueva-baja-defensa-real-zaragoza-tachi-sera-intervenido-menisco-rodilla-izquierda/20260218184100967868.html",
+        "date": "2026-02-18 17:41:00",
+        "sentiment_score": 0.03183462470769882
+    },
+    {
+        "title": "Más de 1.200 estudiantes de Ingeniería Civil participan desde mañana en A Coruña en un encuentro estatal",
+        "image_url": "https://www.galiciapress.es/images/285310",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.galiciapress.es/articulo/ultima-hora/2026-02-18/5777267-1200-estudiantes-ingenieria-civil-participan-desde-manana-coruna-encuentro-estatal",
+        "date": "2026-02-18 17:36:03",
+        "sentiment_score": 0.11303206533193588
+    },
+    {
+        "title": "Farmacéuticos defienden que la dispensación de medicamentos veterinarios corresponde a las oficinas de farmacia",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260218182854_120.jpg",
+        "tags": [
+            "farmacia",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/farmacia/noticia-farmaceuticos-defienden-dispensacion-medicamentos-veterinarios-corresponde-oficinas-farmacia-20260218182854.html",
+        "date": "2026-02-18 17:28:54",
+        "sentiment_score": 0.13538092374801636
+    },
+    {
+        "title": "Un escenario de grato recuerdo",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/cff33403-d33d-4738-a18b-6356e9fe6a1e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "recuerdo",
+            "grato",
+            "baskonia ganó la copa acb en valencia en 1999",
+            "escenario"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/18/escenario-grato-recuerdo-baskonia-gano-la-copa-acb-en-valencia-en-1999-10717846.html",
+        "date": "2026-02-18 17:28:39",
+        "sentiment_score": 0.7131500467658043
+    },
+    {
+        "title": "Se busca una estrella en Valencia",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2a4b268b-d722-471f-8e04-395c818e1344_16-9-aspect-ratio_default_0_x1077y987.jpg",
+        "tags": [
+            "copa",
+            "valencia",
+            "estrella",
+            "busca",
+            "baskonia"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/18/busca-estrella-valencia-baskonia-valencia-copa-10718078.html",
+        "date": "2026-02-18 17:28:19",
+        "sentiment_score": 0.5959279835224152
+    },
+    {
+        "title": "El Circuit de Barcelona Catalunya tendrá Fórmula 1 hasta 2032 en años alternos",
+        "image_url": "https://fotografias.lasexta.com/clipping/cmsimages02/2026/02/17/6ACFF01F-D0B7-4084-AE80-D49C527C55F5/circuit-barcelona-catalunya_96.jpg?crop=1920%2C1080%2Cx0%2Cy101&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "motor",
+            "competición"
+        ],
+        "link": "https://www.lasexta.com/motor/competicion/circuit-barcelona-catalunya-tendra-formula-1-2032-anos-alternos_20260218699434799243cc133c4dd554.html",
+        "date": "2026-02-18 17:50:13",
+        "sentiment_score": 0.6944995820522308
+    },
+    {
+        "title": "Detenido el hombre que lanzaba piedras a la escuela Tres Pins y al bus 55 en Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/05/23/sant-andreu/1003742659940_14621478_1706x960.jpg",
+        "tags": [
+            "montjuïc",
+            "sucesos",
+            "mossos d'esquadra",
+            "guardia urbana"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sucesos/20260218/detenido-hombre-lanzaba-piedras-escuela-pins-bus-barcelona/1003742734091_0.html",
+        "date": "2026-02-18 17:47:14",
+        "sentiment_score": -0.880105035379529
+    },
+    {
+        "title": "La inteligencia artificial pronostica que Pontevedra será una de las ciudades donde más suba el alquiler en 2026",
+        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2026/01/16/2026011610330647528.jpg",
+        "tags": [
+            "pontevedra"
+        ],
+        "link": "https://www.diariodepontevedra.es/articulo/pontevedra/inteligencia-artificial-pronostica-que-pontevedra-sera-ciudades-donde-mas-suba-alquiler-2026/202602181846241433913.html",
+        "date": "2026-02-18 17:46:24",
+        "sentiment_score": -0.04743559658527374
+    },
+    {
+        "title": "El dueño de Infojobs y Milanuncios negocia un ERE para su equipo en Barcelona",
+        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/5/9/8/AdevintaSpainLocalBrands_Vertical.jpg",
+        "tags": [
+            "tecnologia"
+        ],
+        "link": "https://www.eleconomista.es/tecnologia/noticias/13784200/02/26/el-dueno-de-infojobs-y-milanuncios-negocia-un-ere-para-su-equipo-en-barcelona.html",
+        "date": "2026-02-18 17:45:41",
+        "sentiment_score": 0.0846928283572197
+    },
+    {
+        "title": "Cortada la circulación de Rodalies entre Mataró y Arenys (Barcelona) por un atropello",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260218184404_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-cortada-circulacion-rodalies-mataro-arenys-barcelona-atropello-20260218184404.html",
+        "date": "2026-02-18 17:44:04",
+        "sentiment_score": -0.7856897199526429
+    },
+    {
+        "title": "El Govern aumentará en 25 millones anuales la financiación de los centros de investigación Cerca",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260218184224_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-govern-aumentara-25-millones-anuales-financiacion-centros-investigacion-cerca-20260218184224.html",
+        "date": "2026-02-18 17:42:24",
+        "sentiment_score": 0.244401715695858
+    },
+    {
+        "title": "Activada de nuevo la alerta por fuertes vientos en Cataluña: pueden llegar a superar los 125 km/h",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/12/698e1660f08047-51694009.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.20minutos.es/cataluna/activada-nuevo-alerta-por-fuertes-vientos-catalunya-las-rachas-pueden-superar-los-125-km-h_6936000_0.html",
+        "date": "2026-02-18 17:33:38",
+        "sentiment_score": 0.20680216141045094
+    },
+    {
+        "title": "El Gobierno impondrá más controles a los paquetes de plataformas como Temu o Shein",
+        "image_url": "https://cflvdg.avoz.es/sc/x4lS9t1K6N1do4f8Bcx2EXSPUus=/768x/2026/02/18/00121771435562021431728/Foto/S14L1117.jpg",
+        "tags": [
+            "aranceles",
+            "economía",
+            "carlos cuerpo"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/economia/2026/02/18/gobierno-impondra-controles-paquetes-plataformas-temu-shein/00031771435713236205747.htm",
+        "date": "2026-02-18 17:32:00",
+        "sentiment_score": -0.3202304542064667
+    },
+    {
+        "title": "Última hora de la borrasca Pedro, en directo | Cataluña activa la alerta por fuertes vientos de 125 km/h",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/18/vida/1003742734085_15734141_1706x960.jpg",
+        "tags": [
+            "lleida",
+            "vida",
+            "tiempo",
+            "protección civil",
+            "girona",
+            "cataluña",
+            "barcelona",
+            "sucesos",
+            "tarragona",
+            "viento"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20260218/ultima-borrasca-pedro-directo-cataluna-fuertes-vientos/1003742734079_10.html",
+        "date": "2026-02-18 17:31:24",
+        "sentiment_score": -0.8774554906412959
     }
 ];
