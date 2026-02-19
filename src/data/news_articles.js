@@ -124,16 +124,6 @@ export default [
         "sentiment_score": -0.12872374802827835
     },
     {
-        "title": "Semana Deportiva: La reina del Salto vuelve a hacer de las suyas",
-        "image_url": "https://static.wixstatic.com/media/335561_736c356638a545a6bb36d423861aadc6~mv2.png/v1/fit/w_623,h_408,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/semana-deportiva-15",
-        "date": "2026-02-15 14:00:21",
-        "sentiment_score": 0.6238640137016773
-    },
-    {
         "title": "El último pájaro espino del Ateneo",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/15/2026021522264653594.jpg",
         "tags": [
@@ -2708,5 +2698,213 @@ export default [
         "link": "https://www.europasur.es/maritimas/maersk-flexitanks-algeciras-valencia-barcelona-695-euros_0_2005946370.html",
         "date": "2026-02-18 22:14:29",
         "sentiment_score": -0.009084820747375488
+    },
+    {
+        "title": "Los polémicos dichos contra Vinícius de un experimentado árbitro español tras la acusación de racismo a Prestianni",
+        "image_url": "https://www.infobae.com/resizer/v2/2YRPCB77FFAIVF7TAVSII276FM.png?auth=cfa02195025ec654233477897aab0c0becfa196c46a8c88f9a0498a3a1b6d360&height=1080&smart=true&width=1920",
+        "tags": [
+            "deportes-internacional"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/19/los-polemicos-dichos-contra-vinicius-de-un-experimentado-arbitro-espanol-tras-la-acusacion-de-racismo-a-prestianni/",
+        "date": "2026-02-19 02:14:50",
+        "sentiment_score": -0.7354297898709774
+    },
+    {
+        "title": "Luis Díaz es mejor que Lamine Yamal y Vinicius Junior en el mundo: los superó en reconocido listado",
+        "image_url": "https://www.infobae.com/resizer/v2/I6W6DW4V4BFJDPVA336DBTVRD4.JPG?auth=7b43cb306086061520adecf07119a631072b6b633ff4c5c38c28f94974b9f353&height=2188&smart=true&width=3434",
+        "tags": [
+            "vinicius jr",
+            "bayern múnich",
+            "luis díaz bayern",
+            "luis díaz",
+            "lamine yamal",
+            "colombia-deportes",
+            "bundesliga"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/19/luis-diaz-es-mejor-que-lamine-yamal-y-vinicius-junior-en-el-mundo-los-supero-en-reconocido-listado/",
+        "date": "2026-02-19 01:53:39",
+        "sentiment_score": 0.8372515179216862
+    },
+    {
+        "title": "¿Cuáles equipos disputarán la Copa del Rey de Baloncesto? Este es el calendario de juegos completo",
+        "image_url": "https://pxcdn.2001online.com/2001/022026/1771465093200.jpg?ch=675&cw=1200",
+        "tags": [
+            "baloncesto real madrid",
+            "meridiano tv",
+            "copa del rey",
+            "torneo"
+        ],
+        "link": "https://2001online.com/deportes/cuales-equipos-disputaran-la-copa-del-rey-de-baloncesto-este-es-el-calendario-de-juegos-completo-202621821320",
+        "date": "2026-02-19 01:32:00",
+        "sentiment_score": 0.13376134634017944
+    },
+    {
+        "title": "El insólito error del arquero que aprovechó Nico Paz para anotarle un gol al Milan",
+        "image_url": "https://www.infobae.com/resizer/v2/UJD6KOLDAZGEFKDVAK6G2YUIKA.jfif?auth=3ddb2a885dbba7446ca2535b98e9293d2c260953067be7f49c86f1ff5c388dfd&height=1632&smart=true&width=2877",
+        "tags": [
+            "deportes-argentina",
+            "ac milan",
+            "como",
+            "deportes-internacional",
+            "nicolás paz",
+            "serie a de italia"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/19/el-insolito-error-del-arquero-que-aprovecho-nico-paz-para-anotarle-un-gol-al-milan/",
+        "date": "2026-02-19 00:31:20",
+        "sentiment_score": 0.6779333241283894
+    },
+    {
+        "title": "Linda Caicedo y Real Madrid no la tendrán fácil en la Champions League: se enfrentarán a su “bestia negra”",
+        "image_url": "https://www.infobae.com/resizer/v2/EBQZKPFWXREQFKMCF4RC3QNIDU.jpg?auth=d5e2ed036d1bde957a49431080860135a9b40fb46f26d8113c9498f2efd1c06f&height=858&smart=true&width=1620",
+        "tags": [
+            "colombia-deportes",
+            "champions league femenina",
+            "linda caicedo",
+            "real madrid",
+            "linda caicedo real madrid",
+            "barcelona vs real madrid",
+            "barcelona real madrid champions femenina"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/19/linda-caicedo-y-real-madrid-no-la-tendran-facil-en-la-champions-league-se-enfrentaran-a-su-bestia-negra/",
+        "date": "2026-02-19 00:23:32",
+        "sentiment_score": 0.5412026941776276
+    },
+    {
+        "title": "La vez que Ronaldinho sufrió de racismo mientras jugaba para el Querétaro",
+        "image_url": "https://www.infobae.com/resizer/v2/ZOEDNZGPLZHQVHCYXD4KM7NLNA.jpg?auth=d81188bf8a1934a2bb06c693dc0abdbbdd1acba4e5613147a895299ccde2fd3c&height=1080&smart=true&width=1920",
+        "tags": [
+            "ronaldinho",
+            "mexico-noticias",
+            "liga mx",
+            "mexico-deportes",
+            "querétaro"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2026/02/19/la-vez-que-ronaldinho-sufrio-de-racismo-mientras-jugaba-para-el-queretaro/",
+        "date": "2026-02-19 00:13:06",
+        "sentiment_score": -0.8799897721037269
+    },
+    {
+        "title": "Un mes después de Adamuz: los límites a la velocidad activos crecen a 1.205 en una red ferroviaria lejos de recuperar la normalidad",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
+        "tags": [
+            "artículos clara rojas"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2026/02/19/6995df91e4d4d891148b456e.html",
+        "date": "2026-02-19 00:03:03",
+        "sentiment_score": -0.18792887032032013
+    },
+    {
+        "title": "El Bodo/Glimt parece dar el batacazo ante el Inter",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/02/Diseno-sin-titulo.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://ultimasnoticias.com.ve/deportes/el-bodo-glimt-parece-dar-el-batacazo-ante-el-inter/",
+        "date": "2026-02-18 23:53:20",
+        "sentiment_score": -0.10100117325782776
+    },
+    {
+        "title": "Rufián lanza su plan para frenar a Vox: un frente común de la izquierda desde las provincias",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/19/2026021902215695711.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/rufian-lanza-plan-frenar-vox-frente-comun-izquierda-provincias/20260219004615375297.html",
+        "date": "2026-02-18 23:46:15",
+        "sentiment_score": -0.5646853670477867
+    },
+    {
+        "title": "El entorno de Prestianni niega el insulto racista a Vinicius pero admite que \"no se comportó bien\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/28/697a83f84a6a6.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/entorno-prestianni-niega-insulto-racista-vinicius-admite-no-comporto-20260219_3310821.html",
+        "date": "2026-02-18 23:39:05",
+        "sentiment_score": -0.2636696994304657
+    },
+    {
+        "title": "Ignacio Garriga denuncia el «silencio cómplice» del resto de formaciones ante la agresión a concejales y simpatizantes de VOX en Montcada i Reixac",
+        "image_url": "https://gaceta.es/wp-content/uploads/2026/02/ignacio.garriga.jpg",
+        "tags": [
+            "españa",
+            "inseguridad",
+            "cataluña"
+        ],
+        "link": "https://gaceta.es/espana/ignacio-garriga-denuncia-el-silencio-complice-del-resto-de-formaciones-ante-la-agresion-a-concejales-y-simpatizantes-de-vox-en-montcada-i-reixac-20260219-0339/",
+        "date": "2026-02-19 02:39:00",
+        "sentiment_score": -0.03260120749473572
+    },
+    {
+        "title": "Clima en Barcelona: la predicción para este 19 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima en barcelona",
+            "clima",
+            "últimas actualizaciones",
+            "clima en españa"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/19/clima-en-barcelona-la-prediccion-para-este-19-de-febrero/",
+        "date": "2026-02-19 02:15:34",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Sercotel se reta a duplicar su tamaño",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/02/14/6990dec8e70dd.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20260219/11466657/sercotel-reta-duplicar-tamano.html",
+        "date": "2026-02-19 02:00:00",
+        "sentiment_score": 0.48440298810601234
+    },
+    {
+        "title": "El nuevo salario mínimo supera ya el 60% del sueldo medio en 46 provincias",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/f922ba58e3a875419ceb6341f79c3bc1/crop/245x37/1993x1202/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/18/17714423768985.jpg",
+        "tags": [
+            "economía>",
+            "artículos gonzalo d. velarde>",
+            "empleo>",
+            "trabajo>",
+            "salario mínimo>"
+        ],
+        "link": "https://www.expansion.com/economia/2026/02/19/699610fc468aebb2798b459b.html",
+        "date": "2026-02-19 01:15:23",
+        "sentiment_score": 0.16370929032564163
+    },
+    {
+        "title": "Enfermedad hepática crónica, el mal oculto que acecha a 7 de cada 10 adultos: \"No saben lo grave que puede llegar a ser\"",
+        "image_url": "https://s3.elespanol.com/2026/02/18/ciencia/salud/1003744136217_261503684_1706x960.jpg",
+        "tags": [
+            "obesidad",
+            "hígado",
+            "salud",
+            "diabetes",
+            "sanidad",
+            "investigación científica"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20260219/enfermedad-hepatica-cronica-mal-oculto-acecha-adultos-no-saben-grave-puede-llegar/1003744135306_0.html",
+        "date": "2026-02-19 01:10:00",
+        "sentiment_score": -0.6655248794704676
+    },
+    {
+        "title": "¿Por qué todos quieren construir centros de datos en España?",
+        "image_url": "https://e01-expansion.uecdn.es/assets/multimedia/imagenes/2026/02/18/17714547489610.gif",
+        "tags": [
+            "economía digital>"
+        ],
+        "link": "https://www.expansion.com/economia-digital/2026/02/19/69963319468aeb82768b4591.html",
+        "date": "2026-02-19 00:56:17",
+        "sentiment_score": 0.4688454419374466
+    },
+    {
+        "title": "3a PARTE | 18 FEB 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-18-feb-2026-partidazo-cope-20260219_3310829.html",
+        "date": "2026-02-19 00:39:46",
+        "sentiment_score": 0.09823504090309143
     }
 ];
