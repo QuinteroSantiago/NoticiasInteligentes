@@ -1,417 +1,5 @@
 export default [
     {
-        "title": "El último pájaro espino del Ateneo",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/15/2026021522264653594.jpg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.mundiario.com/articulo/opiniones/ultimo-pajaro-espino-ateneo/20260215234503374885.html",
-        "date": "2026-02-15 22:45:03",
-        "sentiment_score": -0.604634054005146
-    },
-    {
-        "title": "Abde y Bakambu dejan al Mallorca en descenso y permiten al Betis soñar con la Champions",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1e22f071-0839-451d-80cc-f44c1178747b_16-9-aspect-ratio_default_0_x1200y533.jpg",
-        "tags": [
-            "laliga",
-            "rcd mallorca",
-            "real betis",
-            "fútbol"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2026/02/15/abde-bakambu-dejan-mallorca-descenso-126875907.html",
-        "date": "2026-02-15 22:32:47",
-        "sentiment_score": 0.6493618115782738
-    },
-    {
-        "title": "El protagonista de la jornada 24: la precisión de Trent",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/15/el-protagonista-de-la-jornada-24-la-precision-de-trent/",
-        "date": "2026-02-15 22:32:28",
-        "sentiment_score": 0.10220623761415482
-    },
-    {
-        "title": "El Castellón, nuevo líder de la Segunda División española",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/15/el-castellon-nuevo-lider-de-la-segunda-division-espanola/",
-        "date": "2026-02-15 22:19:10",
-        "sentiment_score": 0.321289986371994
-    },
-    {
-        "title": "Yulimar Rojas aseguró su boleto para el Mundial de Atletismo 2026",
-        "image_url": "https://www.turimiquire.net/wp-content/uploads/2026/02/yulimar-rojas-aseguro-su-boleto-para-el-mundial-de-atletismo-2026.jpg",
-        "tags": [
-            "el pizarrón noticias"
-        ],
-        "link": "https://www.turimiquire.net/2026/02/15/yulimar-rojas-aseguro-su-boleto-para-el-mundial-de-atletismo-2026/",
-        "date": "2026-02-15 22:42:37",
-        "sentiment_score": 0.7990317847579718
-    },
-    {
-        "title": "¿Es posible para los jóvenes profesionales ahorrar o invertir?",
-        "image_url": "https://images.theconversation.com/files/716868/original/file-20260206-56-v4rnrj.png?auto=format&fit=clip&ixlib=rb-4.1.0&q=45&w=754",
-        "tags": [
-            "capital humano",
-            "tipos de interés",
-            "toma de decisiones",
-            "homo economicus",
-            "jóvenes",
-            "diversificación",
-            "rentabilidad",
-            "ahorro",
-            "vivienda",
-            "inversión"
-        ],
-        "link": "https://theconversation.com/es-posible-para-los-jovenes-profesionales-ahorrar-o-invertir-275245",
-        "date": "2026-02-15 22:27:50",
-        "sentiment_score": 0.7086974121630192
-    },
-    {
-        "title": "“Me pegaste embarazada”: Nare se rompe al recibir la llamada de Özkan",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/02/15/FFF9228C-580B-4951-A171-D056F6900245/nare_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "antena3",
-            "en tierra lejana",
-            "series"
-        ],
-        "link": "https://www.antena3.com/series/tierra-lejana/pegaste-embarazada-nare-rompe-recibir-llamada-ozkan_20260215699247a99243cc133c4aa5dd.html",
-        "date": "2026-02-15 22:24:41",
-        "sentiment_score": -0.8547084368765354
-    },
-    {
-        "title": "Una asociación deportiva ‘dinamizará’ a los mayores del Eixample por 4,5 millones",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/03/22/informacion-municipal/567953216_9995693_1706x960.jpg",
-        "tags": [
-            "barcelona",
-            "la dreta de l'eixample",
-            "vivir en barcelona",
-            "deportes",
-            "la nova esquerra de l'eixample"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260215/asociacion-deportiva-dinamizara-mayores-eixample-millones/1003742730897_0.html",
-        "date": "2026-02-15 22:15:00",
-        "sentiment_score": 0.16953837871551514
-    },
-    {
-        "title": "Barcelona ordena revisar ocho cementerios municipales por riesgo de desprendimientos",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/10/01/vivir-en-barcelona/1003742693535_15697749_1706x960.jpg",
-        "tags": [
-            "b:sm",
-            "cementerios",
-            "contratos barcelona",
-            "el pulso de la ciudad",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260215/barcelona-ordena-revisar-cementerios-municipales-riesgo-desprendimientos/1003742730999_0.html",
-        "date": "2026-02-15 22:15:00",
-        "sentiment_score": -0.9258423494175076
-    },
-    {
-        "title": "Pere Navarro (Zona Franca): \"Estamos construyendo unas Naciones Unidas de industria 4.0 en Barcelona\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/03/vivir-en-barcelona/1003742729072_15672689_1706x960.jpg",
-        "tags": [
-            "empresas barcelona",
-            "entrevistas barcelona",
-            "economía",
-            "investigación",
-            "tecnología",
-            "consorci de la zona franca",
-            "vivienda"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260215/pere-navarro-zona-franca-construyendo-naciones-unidas-industria-barcelona/1003742729394_0.html",
-        "date": "2026-02-15 22:15:00",
-        "sentiment_score": 0.07380345463752747
-    },
-    {
-        "title": "Yulimar Rojas clasificó al Mundial Indoor 2026 con un salto récord",
-        "image_url": "https://pxcdn.meridiano.net/022026/1771192883861.jpg?ch=180&cw=320",
-        "tags": [
-            "sports",
-            "top"
-        ],
-        "link": "https://meridiano.net/otros-deportes/atletismo/yulimar-rojas-clasifico-al-mundial-indoor-2026-con-un-salto-record-20262151810",
-        "date": "2026-02-15 22:01:00",
-        "sentiment_score": 0.14683474972844124
-    },
-    {
-        "title": "MuriqI reduce distancias; Borja Iglesias, Oyarzabal y Vinícius pisan el acelerador",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/15/muriqi-reduce-distancias-borja-iglesias-oyarzabal-y-vinicius-pisan-el-acelerador/",
-        "date": "2026-02-15 22:00:38",
-        "sentiment_score": 0.06326417624950409
-    },
-    {
-        "title": "El Atlético malgasta la euforia en una Liga que descuelga a Levante y Oviedo",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/15/el-atletico-malgasta-la-euforia-en-una-liga-que-descuelga-a-levante-y-oviedo/",
-        "date": "2026-02-15 22:00:21",
-        "sentiment_score": -0.9011038411408663
-    },
-    {
-        "title": "Más allá del 'copia y pega': el reto de enseñar a pensar en la era de la IA",
-        "image_url": "https://s3.elespanol.com/2026/02/13/actualidad/1003744128736_261406050_1706x960.jpg",
-        "tags": [
-            "educación",
-            "inteligencia artificial",
-            "digitalización",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/politica-digital/espana/20260216/alla-copia-pega-reto-ensenar-pensar-ia/1003744128704_0.html",
-        "date": "2026-02-16 01:54:05",
-        "sentiment_score": 0.625252727419138
-    },
-    {
-        "title": "Endrick se desata en Francia: mejor jugador del mes y aviso al Real Madrid",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/05/2026020507173587112.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/endrick-desata-francia-mejor-jugador-mes-aviso-real-madrid/20260216025003374914.html",
-        "date": "2026-02-16 01:50:03",
-        "sentiment_score": 0.47470274567604065
-    },
-    {
-        "title": "Más allá del Bernabéu: Vinicius revela cómo gestiona la presión, su dieta y su vida en Madrid",
-        "image_url": "https://pxcdn.meridiano.net/022026/1771205736547.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/espanol/mas-alla-del-bernabeu-vinicius-revela-como-gestiona-la-presion-su-dieta-y-su-vida-en-madrid-202621521150",
-        "date": "2026-02-16 01:15:00",
-        "sentiment_score": 0.8389559052884579
-    },
-    {
-        "title": "David Casasús, el reportero que 'apatrulla la ciudad' sin ver: \"En 15 días desapareció todo como en una peli de terror\"",
-        "image_url": "https://s3.elespanol.com/2026/02/12/madrid/1003744128418_261402202_1706x960.jpg",
-        "tags": [
-            "ceguera",
-            "enfermedades",
-            "madrid total",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/madrid/20260216/david-casasus-reportero-apatrulla-ciudad-sin-ver-dias-desaparecio-peli-terror-dl/1003744127866_0.html",
-        "date": "2026-02-16 01:01:17",
-        "sentiment_score": -0.767948791384697
-    },
-    {
-        "title": "Empieza la huelga indefinida de médicos con los servicios mínimos más altos y sin noticias de Sanidad",
-        "image_url": "https://s3.elespanol.com/2025/10/03/invertia/observatorios/sanidad/1003743953625_259156670_1706x960.jpg",
-        "tags": [
-            "sanidad - medicina",
-            "huelgas",
-            "sanidad - actualidad sanitaria",
-            "observatorio de la sanidad"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260216/empieza-huelga-indefinida-medicos-servicios-minimos-altos-sin-noticias-sanidad/1003744129840_0.html",
-        "date": "2026-02-16 00:30:13",
-        "sentiment_score": 0.37094475887715816
-    },
-    {
-        "title": "La charla de Flick con el árbitro y la racha de Arbeloa, en El Tertulión",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/15/69924c6be8662.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-15-20260216_3308323.html",
-        "date": "2026-02-16 00:25:04",
-        "sentiment_score": -0.022222965955734253
-    },
-    {
-        "title": "Ernesto Pereda, catedrático de la ULL: “Rechacé el proyecto que iba a ser financiado por Epstein en cuanto sospeché del origen del dinero”",
-        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2026/02/RS728303_SM-Ernesto-Pereda-02-scr-1024x683.jpg",
-        "tags": [
-            "sociedad",
-            "portada apertura 1",
-            "portada"
-        ],
-        "link": "https://diariodeavisos.elespanol.com/2026/02/ernesto-pereda-ull-rechace-epstein-dinero/",
-        "date": "2026-02-16 00:13:07",
-        "sentiment_score": -0.7160466052591801
-    },
-    {
-        "title": "Joel Stradling, director de la división de seguridad europea de IDC: «Las empresas tendrán que controlar la proliferación de agentes. Eso requiere inversión»",
-        "image_url": "https://revistabyte.es/wp-content/uploads/2026/02/joel-stradling-director-de-la-division-de-seguridad-europea-de-idc.webp",
-        "tags": [
-            "idc",
-            "ia",
-            "seguridad",
-            "entrevistas tic"
-        ],
-        "link": "https://revistabyte.es/entrevistas/joel-stradling/",
-        "date": "2026-02-16 00:05:00",
-        "sentiment_score": 0.12350613623857498
-    },
-    {
-        "title": "El Atlético es goleado por el Rayo y se olvida de la Liga",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/02/15195143/Atletico.jpg",
-        "tags": [
-            "fútbol",
-            "la liga",
-            "rayo vallecano",
-            "atlético de madrid",
-            "deportes"
-        ],
-        "link": "https://www.elnacional.com/2026/02/el-atletico-es-goleado-por-el-rayo-y-se-olvida-de-la-liga/",
-        "date": "2026-02-15 23:52:07",
-        "sentiment_score": -0.08264832198619843
-    },
-    {
-        "title": "Michael Ignatieff: «El orden internacional está en ruinas; España debe aumentar su gasto en defensa»",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/15/retrato-ignatieff-kX4H-U20695823971SQB-1200x840@RC.jpg",
-        "tags": [
-            "internacional",
-            "defensa",
-            "debe",
-            "orden",
-            "aumentar",
-            "espana",
-            "ruinas",
-            "gasto",
-            "ignatieff",
-            "michael"
-        ],
-        "link": "https://www.eldiariomontanes.es/internacional/europa/michael-ignatieff-orden-internacional-ruinas-espana-debe-20260215151752-ntrc.html",
-        "date": "2026-02-15 23:22:43",
-        "sentiment_score": 0.3924916014075279
-    },
-    {
-        "title": "Yulimar Rojas reapareció en grande y clasificó al Mundial bajo techo",
-        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/02/yulimar-rojas.jpg",
-        "tags": [
-            "destacado",
-            "15feb",
-            "mundial",
-            "deportes"
-        ],
-        "link": "https://laverdaddemonagas.com/2026/02/15/yulimar-rojas-reaparecio-en-grande/",
-        "date": "2026-02-16 02:32:48",
-        "sentiment_score": 0.7624090239405632
-    },
-    {
-        "title": "El golazo de Mateo Messi en la Academia del Inter Miami que le arrancó una sonrisa a su papá Lionel",
-        "image_url": "https://www.infobae.com/resizer/v2/2LJELII355FXTA2N2VNSM3RTYY.jpg?auth=08463c5b0044512863ac386af7427aa040ec8db63bd34e5fd610167c1c7fdc94&height=352&smart=true&width=623",
-        "tags": [
-            "deportes-internacional",
-            "lionel messi",
-            "inter miami",
-            "mateo messi",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/16/el-golazo-de-mateo-messi-en-la-academia-del-inter-miami-que-le-arranco-una-sonrisa-a-su-papa-lionel/",
-        "date": "2026-02-16 02:22:28",
-        "sentiment_score": 0.7914851401001215
-    },
-    {
-        "title": "El récord de Messi, Suárez y Neymar en el Barcelona que amenazan Luis Díaz junto a Harry Kane y Michael Olise en Bayern Múnich",
-        "image_url": "https://www.infobae.com/resizer/v2/AGRZMFNGZ5BYVJZGSLXBZSZKX4.JPG?auth=884d5d17a1e5e66975d6302acf23c5c9ae3821f3962b5c4851464fab6c9d70ef&height=2627&smart=true&width=3864",
-        "tags": [
-            "fc barcelona",
-            "bayern múnich",
-            "harry kane",
-            "lionel messi",
-            "neymar jr",
-            "luis suárez",
-            "colombia-deportes",
-            "michael olise",
-            "luis díaz"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/16/el-record-de-messi-suarez-y-neymar-en-el-barcelona-que-amenazan-luis-diaz-junto-a-harry-kane-y-michael-olise-en-bayern-munich/",
-        "date": "2026-02-16 02:15:27",
-        "sentiment_score": 0.8370490614324808
-    },
-    {
-        "title": "La clase media",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "clase",
-            "media"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/clase-media_0_2005918842.html",
-        "date": "2026-02-16 02:08:47",
-        "sentiment_score": -0.15275193750858307
-    },
-    {
-        "title": "Mafalda Soto, la emprendedora que tras una década en África creó una cosmética contra el cáncer de piel en el albinismo",
-        "image_url": "https://s3.elespanol.com/2026/02/15/actualidad/1003744131415_261444272_1706x960.jpg",
-        "tags": [
-            "ong",
-            "albinismo",
-            "startups",
-            "tecnología",
-            "cosmética",
-            "mujeres",
-            "innovación",
-            "áfrica"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20260216/mafalda-soto-emprendedora-decada-africa-creo-cosmetica-cancer-piel-albinismo/1003744129410_0.html",
-        "date": "2026-02-16 01:39:02",
-        "sentiment_score": 0.5764792189002037
-    },
-    {
-        "title": "El ayuno intermitente no está a la altura de su fama para perder peso",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "interior supermercado",
-            "gente",
-            "efe",
-            "seccion de carniceria"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/16/el-ayuno-intermitente-no-esta-a-la-altura-de-su-fama-para-perder-peso/",
-        "date": "2026-02-16 01:17:43",
-        "sentiment_score": -0.8192108627408743
-    },
-    {
-        "title": "José Ángel Saiz: «En Andalucía hay motivos para recibir al Papa, pero en otros sitios también»",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/13/CC218D04-B387-470D-B7B2-F164BF5E2B10/arzobispo-sevilla-jose-angel-saiz-meneses_69.jpg?crop=5568%2C3132%2Cx0%2Cy298&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "andalucía",
-            "sevilla",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/andalucia/sevilla/jose-angel-saiz-andalucia-hay-motivos-recibir-papa-pero-otros-sitios-tambien_2026021669926ba92f00a046880f2967.html",
-        "date": "2026-02-16 00:58:17",
-        "sentiment_score": -0.09230872988700867
-    },
-    {
-        "title": "Algeciras marca distancias con Rufián tras sus declaraciones en el Congreso: \"Necesitamos trabajo, no un salvador”",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/15/0CFD176D-6C44-43AD-A776-ADFF60592198/portavoz-erc-congreso-gabriel-rufian-foto-archivo_69.jpg?crop=1972%2C1109%2Cx72%2Cy0&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cádiz",
-            "andalucía",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/andalucia/cadiz/algeciras-marca-distancias-rufian-sus-declaraciones-congreso-necesitamos-trabajo-salvador_2026021669926b851817b41eb64a332b.html",
-        "date": "2026-02-16 00:57:41",
-        "sentiment_score": 0.06258067488670349
-    },
-    {
-        "title": "No blanqueemos las redes sociales opacas",
-        "image_url": "https://s3.elespanol.com/2025/11/07/omicrono/tecnologia/1003744004791_259817887_1706x960.jpg",
-        "tags": [
-            "redes sociales",
-            "elon musk",
-            "tribunas de opinión",
-            "pedro sánchez",
-            "opinión",
-            "tribunas"
-        ],
-        "link": "https://www.elespanol.com/opinion/tribunas/20260216/no-blanqueemos-redes-sociales-opacas/1003744125671_12.html",
-        "date": "2026-02-16 00:46:45",
-        "sentiment_score": -0.39998945593833923
-    },
-    {
         "title": "Lamine Yamal sacude al Barça con un enigmático mensaje en Instagram",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/16/2025071602150652830.jpg",
         "tags": [
@@ -487,40 +75,6 @@ export default [
         "link": "https://www.diariodealmeria.es/ocio/gira-intima-marwan-punto-agotar_0_2005915552.html",
         "date": "2026-02-16 05:51:00",
         "sentiment_score": 0.11587690003216267
-    },
-    {
-        "title": "Lindsey Vonn desafía al dolor y lanza un mensaje brutal: “volveré a la cima”",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/31/2026013103253935762.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/lindsey-vonn-desafia-dolor-lanza-mensaje-brutal-volvere-cima/20260216063448374923.html",
-        "date": "2026-02-16 05:34:48",
-        "sentiment_score": 0.39688731729984283
-    },
-    {
-        "title": "\"La subida de impuestos a los caseros que suban el alquiler a sus inquilinos afectará a los pequeños propietarios, los grandes tenedores no tributan por IRPF\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2026/02/12/698d9dd34689a.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.cope.es/actualidad/economia/audios/subida-impuestos-caseros-suban-alquiler-inquilinos-afectara-pequenos-propietarios-grandes-tenedores-tributan-irpf-20260216_3307981.html",
-        "date": "2026-02-16 05:30:00",
-        "sentiment_score": -0.14905968308448792
-    },
-    {
-        "title": "Pedro Ponce (30) revoluciona el audiovisual con la Huella de Armstrong: \"Sueño con que Alicante sea un plató andante\"",
-        "image_url": "https://s3.elespanol.com/2026/02/12/actualidad/1003744127580_261391150_1706x960.jpg",
-        "tags": [
-            "alicante (provincia)",
-            "sector audiovisual",
-            "emprendedores",
-            "alicante (ciudad)",
-            "economía"
-        ],
-        "link": "https://www.elespanol.com/alicante/economia/20260216/pedro-ponce-revoluciona-audiovisual-huella-armstrong-sueno-alicante-plato-andante-trt/1003744127234_0.html",
-        "date": "2026-02-16 05:20:00",
-        "sentiment_score": 0.7194707356393337
     },
     {
         "title": "El retorno de Illa y la fuga de jueces",
@@ -3010,5 +2564,224 @@ export default [
         "link": "https://www.laprovincia.es/espana/2026/02/19/marlaska-quiere-mujer-nueva-dao-policia-127011211.html",
         "date": "2026-02-19 06:13:26",
         "sentiment_score": -0.521727554500103
+    },
+    {
+        "title": "José María Balcázar es el nuevo presidente interino de Perú",
+        "image_url": "https://static.wixstatic.com/media/335561_47a6c4e909674897b23bbccde6381b3e~mv2.png/v1/fit/w_534,h_435,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/jos%C3%A9-mar%C3%ADa-balc%C3%A1zar-es-el-nuevo-presidente-interino-de-per%C3%BA",
+        "date": "2026-02-19 10:59:20",
+        "sentiment_score": 0.15788868069648743
+    },
+    {
+        "title": "Toledo se prepara para una noche irrepetible: el Réquiem de Mozart en versión histórica única",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/02/19/69974bbe0741e.jpeg",
+        "tags": [
+            "castilla-la mancha"
+        ],
+        "link": "https://www.eldebate.com/espana/castilla-la-mancha/20260219/toledo-prepara-noche-irrepetible-requiem-mozart-version-historica-unica_387395.html",
+        "date": "2026-02-19 17:44:06",
+        "sentiment_score": 0.5627008583396673
+    },
+    {
+        "title": "La curiosa conexión entre el marido de Jesús Vázquez con el rey Juan Carlos y María Zurita",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/jesus-vazquez-roberto-marido-juan-carlos.jpg",
+        "tags": [
+            "celebrities",
+            "gente",
+            "rey juan carlos"
+        ],
+        "link": "https://theobjective.com/gente/2026-02-19/jesus-vazquez-marido-rey-juan-carlos-maria-zurita/",
+        "date": "2026-02-19 17:41:04",
+        "sentiment_score": -0.07038058340549469
+    },
+    {
+        "title": "José Luis Soto, rendimiento silencioso en el Europucela",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2026/02/19/Soto-kasH-U20804980360PuG-758x531@El%20Norte.jpg",
+        "tags": [
+            "real valladolid club de fútbol",
+            "sporting de gijón"
+        ],
+        "link": "https://www.elnortedecastilla.es/realvalladolid/jose-luis-soto-rendimiento-silencioso-europucela-20260219184019-nt.html",
+        "date": "2026-02-19 17:40:24",
+        "sentiment_score": 0.020702868700027466
+    },
+    {
+        "title": "Javier Tebas defendió a Barcelona por el 'Caso Negreira': \"No compraron árbitros\"",
+        "image_url": "https://pxcdn.meridiano.net/022026/1771522732440.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/javier-tebas-defendio-a-barcelona-por-el-caso-negreira-no-compraron-arbitros-202621913400",
+        "date": "2026-02-19 17:40:00",
+        "sentiment_score": -0.6090020127594471
+    },
+    {
+        "title": "Desalojadas un centenar de personas de un edificio okupado en Collado Villalba (Madrid) propiedad de la Sareb",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/ae8aef37bef0ff0ff789abaf8f3aad70/crop/153x0/1773x1080/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/19/17715225959350.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2026/02/19/6997377e21efa088228b457e.html",
+        "date": "2026-02-19 17:39:33",
+        "sentiment_score": -0.3118780218064785
+    },
+    {
+        "title": "Un gigante mundial aterriza en Ciudad Real con un campus que promete empleo desde cero",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/19/69974900b5f6d.r_d.1060-453-6250.jpeg",
+        "tags": [
+            "castilla-la mancha"
+        ],
+        "link": "https://www.eldebate.com/espana/castilla-la-mancha/20260219/gigante-mundial-aterriza-ciudad-real-campus-promete-empleo-desde-cero_387390.html",
+        "date": "2026-02-19 17:34:46",
+        "sentiment_score": 0.7540133520960808
+    },
+    {
+        "title": "(Previa) El Athletic ansía acercarse a Europa ante un Elche aferrado a su estilo",
+        "image_url": "https://www.infobae.com/resizer/v2/45MX5XO2ENARDGMBYB7R3GNN34.jpg?auth=bdcdbb835566d9d031036da99a2ca8d380c5593e2aa61e2804d2a2d3a2a7988c&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/19/previa-el-athletic-ansia-acercarse-a-europa-ante-un-elche-aferrado-a-su-estilo/",
+        "date": "2026-02-19 17:30:20",
+        "sentiment_score": -0.16346824169158936
+    },
+    {
+        "title": "La Reina Letizia respalda en Elda la producción nacional de calzado artesanal y sostenible",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/941b82eb-290d-4197-aa08-771f20035307_16-9-aspect-ratio_default_0_x720y304.jpg",
+        "tags": [
+            "italia",
+            "la reina",
+            "modelos",
+            "calzado"
+        ],
+        "link": "https://www.levante-emv.com/sociedad/2026/02/19/reina-letizia-respalda-elda-produccion-127041408.html",
+        "date": "2026-02-19 17:30:02",
+        "sentiment_score": 0.4174966737627983
+    },
+    {
+        "title": "HIP 2026 cierra sus puertas con 61.917 profesionales y el anuncio histórico de su aterrizaje en Italia",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2753135.jpg",
+        "tags": [
+            "empresas"
+        ],
+        "link": "https://www.vozpopuli.com/economia/empresas/hip-2026-cierra-sus-puertas-con-61917-profesionales-y-el-anuncio-historico-de-su-aterrizaje-en-italia.html",
+        "date": "2026-02-19 17:29:40",
+        "sentiment_score": 0.1994884554296732
+    },
+    {
+        "title": "Aldama: \"Es absolutamente falso\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4928ae06-9277-43d7-a1a1-916ec7998940_16-9-aspect-ratio_default_0_x960y360.jpg",
+        "tags": [
+            "corrupción",
+            "víctor de aldama",
+            "caso koldo",
+            "pi vídeos",
+            "psoe"
+        ],
+        "link": "https://www.laopiniondemalaga.es/nacional/2026/02/19/aldama-absolutamente-falso-127041883.html",
+        "date": "2026-02-19 17:25:01",
+        "sentiment_score": -0.8561880476772785
+    },
+    {
+        "title": "CaixaBank propondrá la reelección de Tomás Muniesa como consejero en su Junta General",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260219184326_690.jpg",
+        "tags": [
+            "economía finanzas",
+            "finanzas"
+        ],
+        "link": "https://www.europapress.es/economia/finanzas-00340/noticia-caixabank-propondra-reeleccion-tomas-muniesa-consejero-junta-general-20260219184326.html",
+        "date": "2026-02-19 17:43:26",
+        "sentiment_score": 0.04595553129911423
+    },
+    {
+        "title": "El editor Daniel Fernández, nuevo presidente del Gremio de Editores",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/19/vivir-en-barcelona/1003742734507_15739290_1706x960.jpg",
+        "tags": [
+            "empresas barcelona",
+            "cultura",
+            "librerias",
+            "vivir en barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260219/editor-daniel-fernandez-nuevo-presidente-gremio-editores/1003742734504_0.html",
+        "date": "2026-02-19 17:42:38",
+        "sentiment_score": 0.4216553680598736
+    },
+    {
+        "title": "Telefónica activa sus primeros 'minicentros' de datos para empresas en cinco ciudades, entre ellas Sevilla",
+        "image_url": "https://static.grupojoly.com/clip/8fb72887-c866-42d2-86cd-ad9e8d82e17a_facebook-aspect-ratio_default_0.png",
+        "tags": [
+            "empresas",
+            "primeros",
+            "sevilla",
+            "datos",
+            "telefonica",
+            "minicentros",
+            "ciudades"
+        ],
+        "link": "https://www.elconciso.es/empresas/telefonica-primeros-minicentros-datos-empresas-ciudades-sevilla_0_2005955745.html",
+        "date": "2026-02-19 17:41:36",
+        "sentiment_score": 0.3233378380537033
+    },
+    {
+        "title": "Un día de precampaña: Camprubí reclama unidad a la oposición, Font propone su modelo de Palau Blaugrana y Vilajoana coquetea con Harry Kane",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0f43cb41-adfc-4845-8f7b-8d659db73f1e_alta-libre-aspect-ratio_default_0_x795y298.jpg",
+        "tags": [
+            "joan laporta",
+            "víctor font"
+        ],
+        "link": "https://www.elperiodico.com/es/deportes/20260219/fc-barcelona-camprubi-reclama-unidad-font-presenta-palau-blaugrana-elecciones-127037257",
+        "date": "2026-02-19 17:40:38",
+        "sentiment_score": -0.8616179153323174
+    },
+    {
+        "title": "Allen Obando, apuesta del Alavés para el Istra",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/fbeeffcb-9b1f-4b56-bb28-bfdb4aa8a504_16-9-aspect-ratio_default_0_x213y117.jpg",
+        "tags": [
+            "alaves",
+            "apuesta",
+            "allen",
+            "obando",
+            "istra"
+        ],
+        "link": "https://www.noticiasdealava.eus/alaves/2026/02/19/allen-obando-apuesta-alaves-istra-10723075.html",
+        "date": "2026-02-19 17:40:35",
+        "sentiment_score": 0.5936495717614889
+    },
+    {
+        "title": "Restablecida la circulación de tren entre Montblanc (Tarragona) y Puigverd de Lleida",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260219184009_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-restablecida-circulacion-tren-montblanc-tarragona-puigverd-lleida-20260219184009.html",
+        "date": "2026-02-19 17:40:09",
+        "sentiment_score": -0.22262286394834518
+    },
+    {
+        "title": "La Sagrada Família coloca su pieza más alta",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/12/696539891a4e5.r_d.2339-372-1055.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20260219/11470710/sagrada-familia-coloca-pieza-mas-alta.html",
+        "date": "2026-02-19 17:39:15",
+        "sentiment_score": 0.34484338387846947
+    },
+    {
+        "title": "De tratamientos a acciones simples: claves de expertos para controlar la migraña",
+        "image_url": "https://www.infobae.com/resizer/v2/H34GHG5THRA7BPS5YWH67VXNDA.png?auth=7cd8e6ab97c8e3c316682572589a37e80d8e25c31e3ea5a7ab38fc7f0aa8c74e&height=768&smart=true&width=1408",
+        "tags": [
+            "newsroom bue",
+            "salud",
+            "terapias",
+            "migraña"
+        ],
+        "link": "https://www.infobae.com/salud/2026/02/19/de-tratamientos-a-acciones-simples-claves-de-expertos-para-controlar-la-migrana/",
+        "date": "2026-02-19 17:37:50",
+        "sentiment_score": 0.30161552876234055
     }
 ];
