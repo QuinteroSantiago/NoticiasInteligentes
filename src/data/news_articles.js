@@ -2861,5 +2861,190 @@ export default [
         "link": "https://www.infobae.com/deportes/2026/02/19/el-preocupante-rendimiento-de-aston-martin-en-los-test-de-la-formula-1-la-imagen-que-encendio-las-alarmas/",
         "date": "2026-02-19 22:00:30",
         "sentiment_score": -0.8177272882312536
+    },
+    {
+        "title": "Javier Aguirre se vuelve a encomendar a las Chivas para la base de su selección",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LVJ2SVGTOZGUBFRPUMZWAGQE7E.jpg?auth=33c8d5d4df6aaa2339499d5ef8f153c8afecc6c8762cec76c56b73e9ece43cd1&width=1200",
+        "tags": [
+            "javier aguirre",
+            "chivas guadalajara",
+            "selección mexicana",
+            "liga bbva bancomer",
+            "rafa márquez",
+            "latinoamérica",
+            "méxico",
+            "selección fútbol méxico",
+            "américa"
+        ],
+        "link": "https://elpais.com/mexico/2026-02-20/javier-aguirre-se-vuelve-a-encomendar-a-las-chivas-para-la-base-de-su-seleccion.html",
+        "date": "2026-02-20 02:35:28",
+        "sentiment_score": 0.0962260365486145
+    },
+    {
+        "title": "Miserere, evocación del maestro Torres",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "evocacion",
+            "miserere",
+            "maestro",
+            "torres"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/miserere-evocacion-maestro-torres_0_2005959019.html",
+        "date": "2026-02-20 02:08:06",
+        "sentiment_score": 0.5695590451359749
+    },
+    {
+        "title": "La lluvia, el hielo y la nieve afectan a 79 carreteras, 28 de ellas en Andalucía",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/20/la-lluvia-el-hielo-y-la-nieve-afectan-a-79-carreteras-28-de-ellas-en-andalucia/",
+        "date": "2026-02-20 01:31:35",
+        "sentiment_score": -0.67813341319561
+    },
+    {
+        "title": "Zapatero, su lugarteniente Segundo Martínez y Óscar Puente fueron los valedores del DAO investigado por violación",
+        "image_url": "https://s1.staticld.com/2026/02/13/rodriguez-zapatero30022026.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/espana/2026-02-20/zapatero-su-lugarteniente-segundo-martinez-y-oscar-puente-fueron-los-valedores-del-dao-investigado-por-violacion-7362386/",
+        "date": "2026-02-20 01:03:25",
+        "sentiment_score": -0.21920635551214218
+    },
+    {
+        "title": "19 FEB 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/19-feb-2026-partidazo-cope-20260220_3311632.html",
+        "date": "2026-02-20 00:39:41",
+        "sentiment_score": -0.8201738186180592
+    },
+    {
+        "title": "Un juzgado anula el cese del comandante Velasco y desautoriza la decisión de Margarita Robles tras el caso Cerro Muriano",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/02/20/6997ace22b76d.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20260220/juzgado-anula-cese-comandante-velasco-desautoriza-decision-margarita-robles-caso-cerro-muriano_387443.html",
+        "date": "2026-02-20 00:38:58",
+        "sentiment_score": -0.8335047494620085
+    },
+    {
+        "title": "La orden no se espera",
+        "image_url": "https://www.eldebate.com/files/fp/uploads/2021/10/21/61713c9335472.r_d.577-326-0.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20260220/orden-no-espera_387416.html",
+        "date": "2026-02-20 00:30:00",
+        "sentiment_score": -0.2816857136785984
+    },
+    {
+        "title": "United supera al Atlético y disputará por primera vez los cuartos de la Champions femenina",
+        "image_url": "https://dims.apnews.com/dims4/default/567dc86/2147483647/strip/true/crop/2290x1524+0+7/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2Ffc%2Fdb2a0c52349a78ad1f07cf6e7709%2F999a3248364041808ab834dcdbcbccdd",
+        "tags": [
+            "liga campeones champions manchester united wolfsburgo",
+            "sports",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/liga-campeones-champions-manchester-united-wolfsburgo-ca92967ca57edd3ecefca2489cb936e5",
+        "date": "2026-02-20 00:17:17",
+        "sentiment_score": 0.6968544088304043
+    },
+    {
+        "title": "United supera al Atlético y disputará por primera vez los cuartos de la Champions femenina",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2026/02/CAMPEONES-FEMENINA_33107.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2026/02/19/united-supera-al-atltico-y-disputar-por-primera-vez-los-cuartos-de-la-champions-femenina/",
+        "date": "2026-02-20 00:17:16",
+        "sentiment_score": 0.6884875074028969
+    },
+    {
+        "title": "El video de Lionel Messi que compartió Inter Miami y llevó tranquilidad a los fanáticos de Argentina",
+        "image_url": "https://www.infobae.com/resizer/v2/R67JE7X2VVAZZORFDKZQBX3UII.png?auth=ba5140fff23dfdc0a011648fad38e135f0b98fdd4c635a2d7900e1bade2a8db1&height=1080&smart=true&width=1920",
+        "tags": [
+            "selección argentina",
+            "lionel messi",
+            "inter miami",
+            "major league soccer"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/20/el-video-de-lionel-messi-que-compartio-inter-miami-y-llevo-tranquilidad-a-los-fanaticos-de-argentina/",
+        "date": "2026-02-20 02:29:25",
+        "sentiment_score": 0.6344166118651628
+    },
+    {
+        "title": "Clima en España: la predicción del tiempo para Barcelona este 20 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima",
+            "últimas actualizaciones",
+            "clima en barcelona",
+            "clima en españa"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/20/clima-en-espana-la-prediccion-del-tiempo-para-barcelona-este-20-de-febrero/",
+        "date": "2026-02-20 02:15:56",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "En Estados Unidos se rinden a las tres españolas que han roto el último techo de cristal de los Oscar",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/02/19/fotograma-de-sirat-1721.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.huffingtonpost.es/life/cultura/en-estados-unidos-rinden-tres-espanolas-han-roto-ultimo-techo-cristal-oscar-f202602.html",
+        "date": "2026-02-20 02:00:00",
+        "sentiment_score": 0.6588265374302864
+    },
+    {
+        "title": "¿Julián Álvarez dejará al Atlético para fichar por el Barça tras el Mundial?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/20/2026022002015424266.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/argentina-situan-julian-alvarez-barcelona-mundial/20260220020715375492.html",
+        "date": "2026-02-20 01:07:15",
+        "sentiment_score": 0.06835709512233734
+    },
+    {
+        "title": "Talgo negocia con Alstom para construir los nuevos AVE de Arabia",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/9a95e525e17dee820a9e57ebdc9ddb20/crop/28x149/1933x1418/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/19/17715387271603.jpg",
+        "tags": [
+            "transporte y turismo>"
+        ],
+        "link": "https://www.expansion.com/empresas/transporte/2026/02/20/69978577e5fdea20798b4590.html",
+        "date": "2026-02-20 00:41:24",
+        "sentiment_score": 0.31353338062763214
+    },
+    {
+        "title": "3a PARTE | 19 FEB 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-19-feb-2026-partidazo-cope-20260220_3311631.html",
+        "date": "2026-02-20 00:38:16",
+        "sentiment_score": 0.023181281983852386
+    },
+    {
+        "title": "Aunque el Gobierno lo niegue, el efecto llamada de la regularización es real",
+        "image_url": "https://s3.elespanol.com/2026/02/19/actualidad/1003744138100_261527297_1024x576.jpg",
+        "tags": [
+            "inmigración ilegal",
+            "opinión",
+            "inmigración",
+            "argelia",
+            "editoriales de opinión",
+            "marruecos",
+            "editoriales"
+        ],
+        "link": "https://www.elespanol.com/opinion/editoriales/20260220/gobierno-niegue-efecto-llamada-regularizacion-real/1003744138085_14.html",
+        "date": "2026-02-20 00:31:46",
+        "sentiment_score": -0.9032638594508171
     }
 ];
