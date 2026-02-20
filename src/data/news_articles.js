@@ -1,170 +1,5 @@
 export default [
     {
-        "title": "Lamine Yamal sacude al Barça con un enigmático mensaje en Instagram",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/16/2025071602150652830.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/lamine-yamal-sacude-barca-enigmatico-mensaje-instagram/20260216074608374926.html",
-        "date": "2026-02-16 06:46:08",
-        "sentiment_score": 0.4026377201080322
-    },
-    {
-        "title": "Agenda Informativa de Europa Press para este lunes, 16 de febrero (1)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/16/agenda-informativa-de-europa-press-para-este-lunes-16-de-febrero-1/",
-        "date": "2026-02-16 06:45:53",
-        "sentiment_score": 0.02771790698170662
-    },
-    {
-        "title": "Agenda Informativa de Europa Press para este lunes, 16 de febrero (y 3)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/16/agenda-informativa-de-europa-press-para-este-lunes-16-de-febrero-y-3/",
-        "date": "2026-02-16 06:45:20",
-        "sentiment_score": 0.042926570400595665
-    },
-    {
-        "title": "Pablo Hasél sigue considerándose un preso político tras cinco años en prisión",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/16/pablo-hasel-sigue-considerandose-un-preso-politico-tras-cinco-anos-en-prision/",
-        "date": "2026-02-16 06:15:25",
-        "sentiment_score": -0.7632875256240368
-    },
-    {
-        "title": "El milano real repunta, con Extremadura como uno de sus principales bastiones",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/10920371-aab4-44a4-a416-fe08c9fd240f_16-9-aspect-ratio_default_0_x1024y455.jpg",
-        "tags": [
-            "españa",
-            "seo",
-            "historia",
-            "población",
-            "extremadura"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/16/milano-real-repunta-extremadura-principales-bastiones-126879221.html",
-        "date": "2026-02-16 06:01:19",
-        "sentiment_score": -0.6145935766398907
-    },
-    {
-        "title": "El colegio de Cáceres que ha ganado un premio a la innovación a nivel nacional",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ffafbc87-00b6-4bd8-8adb-d4b854b507bb_16-9-aspect-ratio_default_0_x320y160.jpg",
-        "tags": [
-            "extremadura",
-            "colegio",
-            "educación",
-            "españa"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres-local/2026/02/16/colegio-caceres-premio-innovacion-espana-126817881.html",
-        "date": "2026-02-16 06:01:00",
-        "sentiment_score": 0.6202636919915676
-    },
-    {
-        "title": "La gira más íntima de Marwán, a punto de agotar entradas para el Teatro Apolo",
-        "image_url": "https://static.grupojoly.com/clip/4ecebcd6-a26a-4f92-9c50-390c746ff6ae_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "noticias almería"
-        ],
-        "link": "https://www.diariodealmeria.es/ocio/gira-intima-marwan-punto-agotar_0_2005915552.html",
-        "date": "2026-02-16 05:51:00",
-        "sentiment_score": 0.11587690003216267
-    },
-    {
-        "title": "El retorno de Illa y la fuga de jueces",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/16/primeras-planas/1003742732907_15721401_1706x960.jpg",
-        "tags": [
-            "salvador illa",
-            "cataluña",
-            "primeras planas"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260216/retorno-illa-fuga-jueces/1003742732905_0.html",
-        "date": "2026-02-16 06:55:30",
-        "sentiment_score": -0.17783460021018982
-    },
-    {
-        "title": "El Rayo se da un festín en el derbi del ‘destierro’",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/8e94ef53-2ef0-4aea-a856-7e1bc7d472cc_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "atletico",
-            "festin",
-            "rayo",
-            "derbi",
-            "destierro"
-        ],
-        "link": "https://www.deia.eus/futbol/2026/02/16/rayo-festin-atletico-derbi-destierro-10705603.html",
-        "date": "2026-02-16 06:53:39",
-        "sentiment_score": -0.04423278570175171
-    },
-    {
-        "title": "Escogido el proyecto de la plataforma marina del Fòrum que culminará el frente litoral",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/16/6992bdaf09435.r_d.380-214-5907.jpeg",
-        "tags": [
-            "barcelona+"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/barcelona-plus/20260216/11467326/escogido-proyecto-plataforma-marina-forum-culminara-frente-litoral.html",
-        "date": "2026-02-16 06:50:43",
-        "sentiment_score": 0.4903561659157276
-    },
-    {
-        "title": "Renfe inicia el servicio en Cataluña a medio gas: límites de velocidad en 200 puntos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LM2T7ZEYHFI3BBFVY4AFC4JJHE.jpg?auth=7a749f9a96ce5b2e02719b2c9caaa2be5d495c44a724789f20c6a49a228b9962&width=1200",
-        "tags": [
-            "sílvia paneque",
-            "adif",
-            "renfe",
-            "rodalies catalunya",
-            "trenes",
-            "cataluña",
-            "averías",
-            "generalitat cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2026-02-16/renfe-inicia-el-servicio-en-cataluna-a-medio-gas-limites-de-velocidad-en-200-puntos.html",
-        "date": "2026-02-16 06:46:44",
-        "sentiment_score": 0.20267799496650696
-    },
-    {
-        "title": "Mercadona te soluciona las canas por 4 euros",
-        "image_url": "https://static.merca2.es/wp-content/uploads/2026/02/mercadona.webp",
-        "tags": [
-            "consumo",
-            "últimas noticias"
-        ],
-        "link": "https://www.merca2.es/2026/02/16/mercadona-soluciona-canas-2352426/",
-        "date": "2026-02-16 06:45:00",
-        "sentiment_score": -0.7293161563575268
-    },
-    {
-        "title": "Renfe inicia el servicio en Cataluña a medio gas, con límites de velocidad en 200 puntos",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/16/renfe-inicia-el-servicio-en-cataluna-a-medio-gas-con-limites-de-velocidad-en-200-puntos/",
-        "date": "2026-02-16 06:30:35",
-        "sentiment_score": 0.18615331500768661
-    },
-    {
-        "title": "Illa se reincorpora este lunes \"de forma progresiva\" a sus responsabilidades",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/97c19af5-be58-4205-bb0d-c31d958ed66e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "progresiva",
-            "reincorpora",
-            "illa",
-            "forma",
-            "lunes"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/politica/2026/02/16/illa-reincorpora-lunes-forma-progresiva-10705562.html",
-        "date": "2026-02-16 06:19:20",
-        "sentiment_score": -0.006176114082336426
-    },
-    {
         "title": "Los médicos no pueden más",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -2783,5 +2618,248 @@ export default [
         "link": "https://www.infobae.com/salud/2026/02/19/de-tratamientos-a-acciones-simples-claves-de-expertos-para-controlar-la-migrana/",
         "date": "2026-02-19 17:37:50",
         "sentiment_score": 0.30161552876234055
+    },
+    {
+        "title": "El Real Madrid arrolla al campeón Unicaja y se cita con el Valencia Basket en 'semis' de la Copa del Rey",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/19/69978c719d3768-50482765.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.20minutos.es/deportes/baloncesto/real-madrid-arrolla-campeon-unicaja-cita-valencia-basket-semifinales-copa-rey_6936640_0.html",
+        "date": "2026-02-19 22:32:02",
+        "sentiment_score": 0.3784891217947006
+    },
+    {
+        "title": "Ibon Navarro: Nos hemos visto superados por todo y no hemos podido responder en nada",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/19/ibon-navarro-nos-hemos-visto-superados-por-todo-y-no-hemos-podido-responder-en-nada/",
+        "date": "2026-02-19 22:31:06",
+        "sentiment_score": -0.8401028979569674
+    },
+    {
+        "title": "La afición, lo mejor del Unicaja en la Copa del Rey",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0243446b-1261-48da-afcd-ca707bbcd28f_16-9-aspect-ratio_default_0_x1082y400.jpg",
+        "tags": [
+            "unicaja",
+            "acb",
+            "afición",
+            "copa del rey 2026"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2026/02/19/aficion-unicaja-copa-rey-valencia-127051109.html",
+        "date": "2026-02-19 22:29:21",
+        "sentiment_score": 0.17996937036514282
+    },
+    {
+        "title": "Ibon Navarro, tras la derrota contra el Madrid: «Es un golpe de realidad»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/91246540-9a65-4ba6-ba4f-5d9e2e03a511_16-9-aspect-ratio_default_0_x1000y406.jpg",
+        "tags": [
+            "unicaja",
+            "real madrid",
+            "copa del rey 2026",
+            "madrid",
+            "ibon navarro"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2026/02/19/ibon-navarro-derrota-madrid-copa-rey-127051038.html",
+        "date": "2026-02-19 22:24:17",
+        "sentiment_score": -0.8334956988692284
+    },
+    {
+        "title": "Ibon Navarro: \"Un golpe de realidad, pido perdón a la gente\"",
+        "image_url": "https://static.grupojoly.com/clip/b6492eb9-5029-430b-8505-a0fd659ca2c7_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unicaja baloncesto"
+        ],
+        "link": "https://www.malagahoy.es/unicaja/ibon-navarro-golpe-realidad-pido_0_2005958265.html",
+        "date": "2026-02-19 22:17:22",
+        "sentiment_score": -0.7101539336144924
+    },
+    {
+        "title": "Así fue la derrota del Unicaja ante el Real Madrid en los cuartos de final de la Copa del Rey",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/055dba12-a9da-4f22-9826-41fe5d9c272f_16-9-aspect-ratio_default_0_x640y240.jpg",
+        "tags": [
+            "sergio scariolo",
+            "unicaja",
+            "copa del rey 2026",
+            "real madrid",
+            "copa del rey",
+            "cuartos de final"
+        ],
+        "link": "https://www.laopiniondemalaga.es/videos/deportes/unicaja-cb/2026/02/19/derrota-unicaja-real-madrid-cuartos-copa-127051033.html",
+        "date": "2026-02-19 22:14:06",
+        "sentiment_score": -0.2721669375896454
+    },
+    {
+        "title": "Thibaut Courtois se convierte en propietario de este club europeo",
+        "image_url": "https://pxcdn.meridiano.net/022026/1771539271337.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/thibaut-courtois-se-convierte-en-propietario-de-este-club-europeo-20262191870",
+        "date": "2026-02-19 22:14:00",
+        "sentiment_score": 0.1474534161388874
+    },
+    {
+        "title": "Scariolo, tras el Real Madrid-Unicaja: \"Hace cuatro cuatro días casi perdemos con ellos\"",
+        "image_url": "https://static.grupojoly.com/clip/68bd5e06-13e9-4661-bdca-3aebc6b60a14_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unicaja baloncesto"
+        ],
+        "link": "https://www.malagahoy.es/unicaja/scariolo-real-madrid-unicaja-cuatro_0_2005958296.html",
+        "date": "2026-02-19 22:04:27",
+        "sentiment_score": -0.8979085823521018
+    },
+    {
+        "title": "Real Madrid-Unicaja: Un ciclón blanco no deja rastro del campeón (100-70)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/19/image-1e469fcb-5416-4f19-8fa4-109de5cd0b92-85-2560-1440.jpeg",
+        "tags": [
+            "basketball",
+            "copa del rey 2026"
+        ],
+        "link": "https://espanol.eurosport.com/baloncesto/copa-del-rey/2026/real-madrid-unicaja-resumen-resultado-y-mejores-momentos-cuartos-de-final-highlights-hoy_sto23273247/story.shtml",
+        "date": "2026-02-19 22:03:48",
+        "sentiment_score": 0.6661210432648659
+    },
+    {
+        "title": "Rodalies, un mes después del accidente mortal de Gelida: el 'detonante' de una crisis ferroviaria no resuelta",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/21/actualidad/1003742725266_15625472_1706x960.jpg",
+        "tags": [
+            "rodalies",
+            "generalitat de catalunya",
+            "movilidad",
+            "el pulso de la ciudad",
+            "ayuntamiento de barcelona",
+            "renfe barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260219/rodalies-mes-despues-accidente-mortal-gelida-detonante-crisis-ferroviaria-no-resuelta/1003742733690_0.html",
+        "date": "2026-02-19 22:30:00",
+        "sentiment_score": -0.9256476853042841
+    },
+    {
+        "title": "La masía protegida de Can Reverter, a subasta tras el fracaso de la residencia privada de mayores en Sant Vicenç",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/17/gran-barcelona/1003742733275_15725851_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "baix llobregat"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260219/masia-protegida-can-reverter-subasta-fracaso-residencia-privada-mayores-sant-vicenc/1003742733184_0.html",
+        "date": "2026-02-19 22:30:00",
+        "sentiment_score": -0.238477885723114
+    },
+    {
+        "title": "Por amor al arte",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/01/19/el-pulso-de-la-ciudad/552454777_10064795_1706x960.jpg",
+        "tags": [
+            "opinión",
+            "arte barcelona",
+            "barcelona",
+            "cultura"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/opinion/20260219/amor-arte/1003742734553_12.html",
+        "date": "2026-02-19 22:30:00",
+        "sentiment_score": 0.3313707262277603
+    },
+    {
+        "title": "Sant Ramon reclama la circulación de autobuses durante los partidos del Barça: \"Estamos horas sin transporte\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/19/les-corts/1003742734486_15738973_1706x960.jpg",
+        "tags": [
+            "la maternitat i sant ramon",
+            "transporte",
+            "camp nou",
+            "transporte público",
+            "les corts",
+            "autobús",
+            "barça",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/les-corts/20260219/sant-ramon-reclama-circulacion-autobuses-partidos-barca-horas-sin-transporte/1003742734344_0.html",
+        "date": "2026-02-19 22:30:00",
+        "sentiment_score": -0.7569319196045399
+    },
+    {
+        "title": "Victoria judicial para unos vecinos de la Sagrada Família: condenada a irse la okupa que explotaba un piso turístico ilegal",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/06/05/el-pulso-de-la-ciudad/1003742663257_14681186_1706x960.jpg",
+        "tags": [
+            "sagrada família",
+            "okupas",
+            "viviendas",
+            "alquiler vivienda",
+            "vivienda",
+            "juicios",
+            "eixample"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/eixample/20260219/victoria-judicial-vecinos-sagrada-familia-condenada-irse-okupa-explotaba-piso-turistico-ilegal/1003742733782_0.html",
+        "date": "2026-02-19 22:30:00",
+        "sentiment_score": -0.9191807676106691
+    },
+    {
+        "title": "David Fernández, sobre 'MasterChef Celebrity' en RTVE: \"No me sabía ni los nombres de mis compañeros\"",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/02/19/69975ee45a340.jpeg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20260219/1004131580/david-fernandez-sobre-masterchef-celebrity-rtve-me-sabia-nombres-mis-companeros-dct.html",
+        "date": "2026-02-19 22:20:15",
+        "sentiment_score": -0.09590138494968414
+    },
+    {
+        "title": "Rufián exigirá a Junqueras decidir la lista \"a su medida\" para repetir como candidato de ERC: \"Todo o nada\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
+        "tags": [
+            "artículos víctor mondelo",
+            "erc",
+            "gabriel rufián",
+            "nlpremium",
+            "oriol junqueras"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2026/02/19/69974d2afdddff0d268b458a.html",
+        "date": "2026-02-19 22:12:02",
+        "sentiment_score": -0.8348530475050211
+    },
+    {
+        "title": "Real Madrid-Barcelona, United-Bayern, Wolfsburgo-Lyon y Arsenal-Chelsea, en cuartos",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/19/real-madrid-barcelona-united-bayern-wolfsburgo-lyon-y-arsenal-chelsea-en-cuartos/",
+        "date": "2026-02-19 22:03:02",
+        "sentiment_score": -0.14429482072591782
+    },
+    {
+        "title": "El 'Polònia' cobra vida en una gala histórica para celebrar los veinte años",
+        "image_url": "https://static1.ara.cat/clip/8b94272b-a1a9-4d46-b557-1acc9d4febdc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cobra",
+            "gala",
+            "anos",
+            "polonia",
+            "veinte",
+            "historica",
+            "celebrar",
+            "vida"
+        ],
+        "link": "https://es.ara.cat/media/polonia-cobra-vida-gala-historica-celebrar-veinte-anos_1_5654098.html",
+        "date": "2026-02-19 22:02:45",
+        "sentiment_score": -0.11890676617622375
+    },
+    {
+        "title": "El preocupante rendimiento de Aston Martin en los test de la Fórmula 1: la imagen que encendió las alarmas",
+        "image_url": "https://www.infobae.com/resizer/v2/MQWEG4Y4X5CNRB7SHFPF5EFV4U.jfif?auth=6ee9a98d2ed77d4a1a1877bad3096963ea789ef75838a7710569cbc76eff1122&height=947&smart=true&width=1683",
+        "tags": [
+            "fernando alonso",
+            "adrian newey",
+            "f1",
+            "deportes-argentina",
+            "lance stroll",
+            "aston martín",
+            "fórmula 1"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/19/el-preocupante-rendimiento-de-aston-martin-en-los-test-de-la-formula-1-la-imagen-que-encendio-las-alarmas/",
+        "date": "2026-02-19 22:00:30",
+        "sentiment_score": -0.8177272882312536
     }
 ];
