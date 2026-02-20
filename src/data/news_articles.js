@@ -1,162 +1,5 @@
 export default [
     {
-        "title": "Los médicos no pueden más",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "línea editorial"
-        ],
-        "link": "https://www.cope.es/actualidad/linea-editorial/audios/medicos-20260216_3309022.html",
-        "date": "2026-02-16 17:50:54",
-        "sentiment_score": -0.35168346762657166
-    },
-    {
-        "title": "El enemigo del 'pueblo', poderoso",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/b796a8b2-7f2c-4551-b963b6ee69ac263f.jpeg",
-        "tags": [
-            "madrid",
-            "conciertos",
-            "teatro real",
-            "rae",
-            "inversiones",
-            "londres",
-            "ópera",
-            "infecciones",
-            "teatro",
-            "viena",
-            "los ángeles",
-            "españa"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zf8e0d1f7-18f3-454b-99f6deea7fac7685/202602/el-enemigo-del-pueblo-poderoso",
-        "date": "2026-02-16 17:50:11",
-        "sentiment_score": -0.5770877748727798
-    },
-    {
-        "title": "Un estudio plantea que la gestación en los neandertales pudo ser más difícil que en nuestra especie y sitúa ahí una pieza de su extinción",
-        "image_url": "https://static.eldiario.es/clip/7911ebf1-b986-4d8d-ac8e-a662e8707004_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pm",
-            "pieza",
-            "plantea",
-            "neandertales",
-            "pudo",
-            "situa",
-            "gestacion",
-            "especie",
-            "estudio",
-            "extincion",
-            "dificil"
-        ],
-        "link": "https://www.eldiario.es/spin/estudio-plantea-gestacion-neandertales-pudo-dificil-especie-situa-pieza-extincion-pm_1_12995218.html",
-        "date": "2026-02-16 17:46:32",
-        "sentiment_score": -0.24141035974025726
-    },
-    {
-        "title": "Los pilotos de Balears, reconocidos en la Gala del Automovilismo",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3677071.jpg",
-        "tags": [
-            "automovilismo",
-            "otros deportes",
-            "vela",
-            "ciclismo",
-            "deporte balear",
-            "voleibol",
-            "tenis",
-            "golf"
-        ],
-        "link": "https://www.ultimahora.es/deportes/otros-deportes/2026/02/16/2571593/pilotos-balears-reconocidos-gala-del-automovilismo.html",
-        "date": "2026-02-16 17:44:27",
-        "sentiment_score": 0.7229834236204624
-    },
-    {
-        "title": "El estamento arbitral admite su error con Vinicius y enciende la indignación en la Real Sociedad",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/16/69925fc3ade8f.jpeg",
-        "tags": [
-            "deportes gipuzkoa"
-        ],
-        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-guipuzcoa/noticias/estamento-arbitral-admite-error-vinicius-enciende-indignacion-real-sociedad-20260216_3309021.html",
-        "date": "2026-02-16 17:42:46",
-        "sentiment_score": -0.15105301141738892
-    },
-    {
-        "title": "Previa del Benfica - Real Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/XYVRHRGCLZDKHPY3FNCDQSQL5M.jpg?auth=8825e8d26d6a97e26b3dbb06e55b35a2296495731ea66f78deaee4f492f596b4&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/16/previa-del-benfica-real-madrid/",
-        "date": "2026-02-16 17:32:00",
-        "sentiment_score": -0.03699766844511032
-    },
-    {
-        "title": "(Pre) El PSG quiere golpear primero en Mónaco y Galatasaray y Dortmund hacer valer el factor campo",
-        "image_url": "https://www.infobae.com/resizer/v2/JRI6QATWZBCD3IK7NWOYUAEYAE.jpg?auth=54c385b3b1cc16e503d039644fedd53c7c1c53f7062ff57393f9710b6bc9eb3f&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/16/pre-el-psg-quiere-golpear-primero-en-monaco-y-galatasaray-y-dortmund-hacer-valer-el-factor-campo/",
-        "date": "2026-02-16 17:31:43",
-        "sentiment_score": -0.2634919807314873
-    },
-    {
-        "title": "Ricky Rubio: \"No he vuelto por el rendimiento, lo he hecho para disfrutar del baloncesto\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/51e25490-7038-4541-a6e9-bad140041ce5_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "baloncesto,ricky rubio,copa del rey de baloncesto"
-        ],
-        "link": "https://www.laopiniondezamora.es/deportes/2026/02/16/ricky-rubio-copa-rey-baloncesto-126908390.html",
-        "date": "2026-02-16 17:30:24",
-        "sentiment_score": 0.1100299060344696
-    },
-    {
-        "title": "Detenido en Alicante el sospechoso de intentar matar a su expareja y a la madre de ella en Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/18610dd4-fced-4af3-90d9-5b8bc54ea22e_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "mossos d'esquadra",
-            "violencia machista",
-            "violencia de género",
-            "alicante"
-        ],
-        "link": "https://www.eldia.es/sucesos/2026/02/16/detenido-alicante-sospechoso-matar-expareja-126909267.html",
-        "date": "2026-02-16 17:50:44",
-        "sentiment_score": -0.7734672352671623
-    },
-    {
-        "title": "Detenido en Onil el joven huido tras intentar matar a su pareja y a su suegra en Calella",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/16/detenido-en-onil-el-joven-huido-tras-intentar-matar-a-su-pareja-y-a-su-suegra-en-calella/",
-        "date": "2026-02-16 17:49:09",
-        "sentiment_score": -0.7804502975195646
-    },
-    {
-        "title": "Las siamesas mauritanas que separó Sant Joan de Déu hace 2 años hacen \"vida normal\" en su país",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260216184733_120.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-siamesas-mauritanas-separo-sant-joan-deu-hace-anos-hacen-vida-normal-pais-20260216184733.html",
-        "date": "2026-02-16 17:47:33",
-        "sentiment_score": -0.3146451637148857
-    },
-    {
-        "title": "Detenido un marroquí tras dejar en muerte cerebral a su pareja y en estado crítico a su suegra en Calella (Barcelona)",
-        "image_url": "https://gaceta.es/wp-content/uploads/2026/02/MOSSOS.jpg",
-        "tags": [
-            "barcelona",
-            "inseguridad",
-            "españa",
-            "inmigración ilegal",
-            "inmigración"
-        ],
-        "link": "https://gaceta.es/espana/detenido-un-marroqui-tras-dejar-en-muerte-cerebral-a-su-pareja-y-en-estado-critico-a-su-suegra-en-calella-barcelona-20260216-1847/",
-        "date": "2026-02-16 17:47:24",
-        "sentiment_score": -0.8546986998990178
-    },
-    {
         "title": "'El campo es nuestro', de Aragón TV, brilla en la noche de los Premio Iris",
         "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2026/02/16/premio-iris-al-programa-el-campo-es-nuestro.jpeg",
         "tags": [
@@ -3046,5 +2889,209 @@ export default [
         "link": "https://www.elespanol.com/opinion/editoriales/20260220/gobierno-niegue-efecto-llamada-regularizacion-real/1003744138085_14.html",
         "date": "2026-02-20 00:31:46",
         "sentiment_score": -0.9032638594508171
+    },
+    {
+        "title": "La indignación de Marta García Aller tras la detención del príncipe Andrés: \"Todos estos miserables se creían intocables\"",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2025/11/05/B6BE1F4E-50BF-48F5-86DA-4563F1B046EA/marta-garcia-aller_96.jpg?crop=6000%2C3375%2Cx0%2Cy163&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "ondacero",
+            "noticias",
+            "sociedad"
+        ],
+        "link": "https://www.ondacero.es/noticias/sociedad/indignacion-marta-garcia-aller-detencion-principe-andres-todos-estos-miserables-creian-intocables_20260220699804cd1817b41eb6561278.html",
+        "date": "2026-02-20 06:53:01",
+        "sentiment_score": -0.4776123557239771
+    },
+    {
+        "title": "El Roig Arena impresiona en su gran estreno deportivo: aforo para superar el récord de asistencia de la Copa y un 'búnker'",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/19/699773b6b9e4e6-78862914.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.20minutos.es/deportes/baloncesto/roig-arena-impresiona-su-gran-estreno-deportivo-aforo-para-superar-record-asistencia-copa-un-bunker_6936628_0.html",
+        "date": "2026-02-20 06:51:44",
+        "sentiment_score": 0.6571495477110147
+    },
+    {
+        "title": "Real Madrid y Valencia Basket se citan el sábado en el Roig Arena para ganarse un sitio en la final de la Copa del Rey",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages02/2026/02/20/1BC1B40E-E3B8-4FC6-BD43-0C5C8C720735/real-madrid-valencia-basket-citan-sabado-roig-arena-ganarse-sitio-final-copa-rey_70.jpg?crop=1920%2C1080%2Cx0%2Cy82&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "emisoras",
+            "ondacero",
+            "comunidad valenciana",
+            "valencia"
+        ],
+        "link": "https://www.ondacero.es/emisoras/comunidad-valenciana/valencia/real-madrid-valencia-basket-citan-sabado-roig-arena-ganarse-sitio-final-copa-rey_20260220699804411817b41eb6560f2e.html",
+        "date": "2026-02-20 06:50:41",
+        "sentiment_score": -0.7773991320282221
+    },
+    {
+        "title": "Agenda gráfica para hoy 20 de febrero de 2026",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/20/agenda-grafica-para-hoy-20-de-febrero-de-2026/",
+        "date": "2026-02-20 06:46:33",
+        "sentiment_score": 0.029168400913476944
+    },
+    {
+        "title": "Agenda Informativa de Europa Press para hoy, 20 de febrero (1)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/20/agenda-informativa-de-europa-press-para-hoy-20-de-febrero-1/",
+        "date": "2026-02-20 06:46:21",
+        "sentiment_score": 0.017535313963890076
+    },
+    {
+        "title": "Las tres noticias de Carlos Alsina para empezar el día: \"El príncipe Andrés, detenido y en libertad acusado de filtrar información secreta a Epstein\"",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/05/09/6DE83B54-8831-4632-AA7C-6CB358183EDA/tres-historias-empezar-dia-carlos-alsina_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "ondacero",
+            "noticias",
+            "españa"
+        ],
+        "link": "https://www.ondacero.es/noticias/espana/tres-noticias-carlos-alsina-empezar-dia-principe-andres-detenido-libertad-acusado-filtrar-informacion-secreta-epstein_20260220699802461817b41eb656054b.html",
+        "date": "2026-02-20 06:42:14",
+        "sentiment_score": -0.0554090291261673
+    },
+    {
+        "title": "La cultura catalana se abre paso en Vallecas con 'castellers' y una calçotada: \"Queremos que la Colla sea madrileña\"",
+        "image_url": "https://static.eldiario.es/clip/9dc17d84-b817-438b-9d94-c31273f0acdd_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "paso",
+            "queremos",
+            "catalana",
+            "castellers",
+            "cultura",
+            "sea",
+            "madrilena",
+            "abre",
+            "calcotada",
+            "vallecas",
+            "colla"
+        ],
+        "link": "https://www.eldiario.es/madrid/somos/cultura-catalana-abre-paso-vallecas-castellers-calcotada-queremos-colla-sea-madrilena_1_12994971.html",
+        "date": "2026-02-20 06:28:43",
+        "sentiment_score": -0.00592765212059021
+    },
+    {
+        "title": "La sofisticación que vino de una granja: por qué tienes que ver esta fabulosa exposición de arte y moda en el Jardín Botánico de Madrid",
+        "image_url": "https://s3.ppllstatics.com/mujerhoy/www/multimedia/2026/02/19/exposicion-botanico-marcos-luengo-claudy-RL5SkjsOub0wpxUTlPcGVhO-758x758@Mujer%20Hoy.jpg",
+        "tags": [
+            "diseño"
+        ],
+        "link": "https://www.mujerhoy.com/actualidad/exposicion-jardin-botanico-madrid-textiles-ecologicos-claudy-jongstra-disenos-marcos-luengo-20260219202504-nt.html",
+        "date": "2026-02-20 06:20:57",
+        "sentiment_score": 0.30047841370105743
+    },
+    {
+        "title": "Ayuso baja aún más los impuestos a las grandes fortunas mientras asfixia a la universidad pública",
+        "image_url": "https://www.elplural.com/uploads/s1/24/62/90/2/ayuso-baja-los-impuestos-a-las-grandes-fortunas-ep_7_480x270.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.elplural.com/opinion/ayuso-baja-mas-impuestos-grandes-fortunas-mientras-asfixia-universidad-publica_382003102",
+        "date": "2026-02-20 06:20:19",
+        "sentiment_score": -0.10851828753948212
+    },
+    {
+        "title": "Una tienda de Madrid paga 300 euros por echarse la siesta en su escaparate",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialautonomico/images/2026/02/20/2026022007161020896.jpg",
+        "tags": [
+            "muy confidencial"
+        ],
+        "link": "https://www.elconfidencialdigital.com/autonomico/articulo/muy-confidencial/tienda-madrid-paga-300-euros-echarse-siesta-escaparate/20260220071657158425.html",
+        "date": "2026-02-20 06:16:57",
+        "sentiment_score": -0.13714107871055603
+    },
+    {
+        "title": "Agenda Autonómica de Europa Press para hoy, 20 de febrero",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/20/agenda-autonomica-de-europa-press-para-hoy-20-de-febrero/",
+        "date": "2026-02-20 06:45:47",
+        "sentiment_score": 0.00799170508980751
+    },
+    {
+        "title": "Venezuela aprueba por unanimidad la ley de amnistía a los presos políticos",
+        "image_url": "https://static1.ara.cat/clip/af059fb0-eba7-452b-ba99-33594cd2ef4d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "presos",
+            "aprueba",
+            "ley",
+            "unanimidad",
+            "amnistia",
+            "venezuela",
+            "politicos"
+        ],
+        "link": "https://es.ara.cat/internacional/america/venezuela-aprueba-unanimidad-ley-amnistia-presos-politicos_1_5654168.html",
+        "date": "2026-02-20 06:32:46",
+        "sentiment_score": -0.652065172791481
+    },
+    {
+        "title": "Precio de la gasolina en España 2026: las tarifas más altas y más bajas 20 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-economia",
+            "precio de la gasolina en españa hoy",
+            "precio de la gasonila en barcelona",
+            "últimas actualizaciones",
+            "precio de la gasolina en españa",
+            "madrid y otras ciudades"
+        ],
+        "link": "https://www.infobae.com/espana/2026/02/20/precio-de-la-gasolina-en-espana-2026-las-tarifas-mas-altas-y-mas-bajas-20-de-febrero/",
+        "date": "2026-02-20 06:30:40",
+        "sentiment_score": 0.08022724837064743
+    },
+    {
+        "title": "Carlos Herrera celebra las medallas logradas por España en los Juegos Olímpicos de Invierno",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/01/05/695b90e61c982.r_d.667-394-8493.jpeg",
+        "tags": [
+            "herrera en cope"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/noticias/carlos-herrera-celebra-medallas-logradas-espana-juegos-olimpicos-invierno-20260220_3311650.html",
+        "date": "2026-02-20 06:27:45",
+        "sentiment_score": 0.010032117366790771
+    },
+    {
+        "title": "Cielo despejado y viento moderado en Barcelona según AEMET para hoy",
+        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
+        "tags": [
+            "tiempo",
+            "españa",
+            "okd",
+            "agencia estatal de meteorología (aemet)",
+            "previsión del tiempo",
+            "cataluña"
+        ],
+        "link": "https://okdiario.com/cataluna/cielo-despejado-y-viento-moderado-en-barcelona-segun-aemet-para-hoy-16276760",
+        "date": "2026-02-20 06:23:58",
+        "sentiment_score": 0.15217626094818115
+    },
+    {
+        "title": "La contención del alquiler de Barcelona frente al modelo de Madrid: los datos prueban que regularizar tiene más efectividad que liberalizar",
+        "image_url": "https://www.elplural.com/uploads/s1/24/61/66/7/collboni-almeida-10-junio-2024_7_480x270.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.elplural.com/autonomias/cataluna/contencion-alquiler-barcelona-frente-modelo-madrid-datos-prueban-regularizar-tiene-mas-efectividad-liberalizar_381892102",
+        "date": "2026-02-20 06:21:49",
+        "sentiment_score": -0.11757262051105499
+    },
+    {
+        "title": "Moda y trampantojos",
+        "image_url": "https://s3.ppllstatics.com/mujerhoy/www/multimedia/2026/02/20/editorial-mfm-kJFH-U20690182537aoG-758x758@Mujer%20Hoy.jpg",
+        "tags": [
+            "revista mujerhoy",
+            "teresa helbig"
+        ],
+        "link": "https://www.mujerhoy.com/actualidad/editorial-maria-fernandez-miranda-directora-revista-mujerhoy-homenaje-teresa-helbig-20260220104548-nt.html",
+        "date": "2026-02-20 06:17:25",
+        "sentiment_score": -0.29959360510110855
     }
 ];
