@@ -2880,5 +2880,257 @@ export default [
         "link": "https://www.noticiasdealava.eus/baskonia/2026/02/20/barcelona-rival-baskonia-semifinales-murcia-10728665.html",
         "date": "2026-02-20 21:55:54",
         "sentiment_score": -0.1763233095407486
+    },
+    {
+        "title": "Entre Paquito y Oriol",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "paquito",
+            "oriol"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/analisis/paquito-oriol_0_2005968287.html",
+        "date": "2026-02-21 02:07:32",
+        "sentiment_score": -0.4669767916202545
+    },
+    {
+        "title": "Bombazo mundial: Zinedine Zidane asumirá la selección de Francia tras el Mundial 2026",
+        "image_url": "https://pxcdn.2001online.com/2001/022026/1771642062263/cnne-1002874-el-real-madrid-tendra-que-recomponerse-sin-zidane.jpg?ch=675&cw=1200",
+        "tags": [
+            "selección de francia",
+            "mbappe",
+            "francia",
+            "zinedine zidane",
+            "mundial"
+        ],
+        "link": "https://2001online.com/deportes/bombazo-mundial-zinedine-zidane-asumira-la-seleccion-de-francia-tras-el-mundial-2026-202622022480",
+        "date": "2026-02-21 02:05:06",
+        "sentiment_score": 0.5366988107562065
+    },
+    {
+        "title": "Revelaron los detalles de la declaración de Gianluca Prestianni ante la UEFA: qué le dijo a Vinicius Jr.",
+        "image_url": "https://www.infobae.com/resizer/v2/3GIKFU5PZRB4BE5A575OLOP7P4.jpg?auth=0666528bf2438bef11ddbebe4ba68b6a54fc72cca9eb32d07095a5e45e2fcfa9&height=1294&smart=true&width=2300",
+        "tags": [
+            "champions league",
+            "vinicius júnior",
+            "real madrid",
+            "benfica",
+            "gianluca prestianni",
+            "uefa",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/21/revelaron-los-detalles-de-la-declaracion-de-gianluca-prestianni-ante-la-uefa-que-le-dijo-a-vinicius-jr/",
+        "date": "2026-02-21 02:02:34",
+        "sentiment_score": -0.17062293738126755
+    },
+    {
+        "title": "Interior investiga si la 'mano derecha' del DAO implicó a más agentes al tratar de comprar el silencio de la víctima",
+        "image_url": "https://s3.elespanol.com/2026/02/18/espana/politica/1003744136459_261506844_1706x960.jpg",
+        "tags": [
+            "escándalos sexuales",
+            "policía nacional",
+            "fernando grande-marlaska",
+            "agresiones sexuales",
+            "delitos sexuales",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/espana/20260221/interior-investiga-mano-derecha-dao-implico-agentes-tratar-comprar-silencio-victima/1003744139965_0.html",
+        "date": "2026-02-21 01:47:56",
+        "sentiment_score": -0.7866612207144499
+    },
+    {
+        "title": "Félix Ulloa, vicepresidente de Bukele: \"Puede haber inocentes entre los 91.000 presos, como en cualquier parte del mundo\"",
+        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139536_261546043_1706x960.jpg",
+        "tags": [
+            "américa",
+            "cárceles",
+            "el salvador",
+            "tribunales",
+            "hablando sobre el mundo",
+            "nayib bukele"
+        ],
+        "link": "https://www.elespanol.com/mundo/america/20260221/felix-ulloa-vicepresidente-bukele-puede-inocentes-presos-cualquier-parte-mundo/1003744138821_0.html",
+        "date": "2026-02-21 01:10:38",
+        "sentiment_score": -0.9043028652667999
+    },
+    {
+        "title": "La hazaña de José Corral, el director 'elegido' por Disney y nominado a los Goya con su \"casera\" película de animación",
+        "image_url": "https://s3.elespanol.com/2026/02/20/madrid/1003744138632_261533745_1706x960.jpg",
+        "tags": [
+            "películas",
+            "directores de cine",
+            "premios goya",
+            "cine de animación",
+            "ocio"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20260221/hazana-jose-corral-director-elegido-disney-nominado-goya-casera-pelicula-animacion/1003744135515_0.html",
+        "date": "2026-02-21 01:09:16",
+        "sentiment_score": 0.5308565758168697
+    },
+    {
+        "title": "La \"isla\" de Rueda, el único barón del PP sin el riesgo de Vox: llega fortalecido a la mitad de mandato con la vivienda y la Sanidad para el examen final",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/1664d66a64e0a740532b323a8612f8a3/crop/1062x130/2148x1217/f/image/jpeg/assets/multimedia/imagenes/2025/10/02/17594246983601.jpg",
+        "tags": [
+            "elecciones extremadura",
+            "elecciones aragón",
+            "santiago abascal conde",
+            "vox",
+            "alfonso rueda",
+            "artículos juan b. cañellas",
+            "isabel díaz ayuso",
+            "galicia",
+            "política"
+        ],
+        "link": "https://www.elmundo.es/galicia/2026/02/21/6994985121efa072478b4585.html",
+        "date": "2026-02-21 00:54:15",
+        "sentiment_score": -0.04037517309188843
+    },
+    {
+        "title": "Rufián y la izquierda: por qué el sanchismo intenta mantener vivo lo que nació muerto",
+        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139657_261547627_1024x576.jpg",
+        "tags": [
+            "pedro sánchez",
+            "gabriel rufián",
+            "psoe (partido socialista obrero español)",
+            "erc esquerra republicana de cataluña",
+            "opinión",
+            "editoriales de opinión",
+            "editoriales"
+        ],
+        "link": "https://www.elespanol.com/opinion/editoriales/20260221/rufian-izquierda-sanchismo-intenta-mantener-vivo-nacio-muerto/1003744139648_14.html",
+        "date": "2026-02-21 00:35:41",
+        "sentiment_score": -0.0524994432926178
+    },
+    {
+        "title": "El Ejército del Aire se blinda frente a los satélites espía: integrará una red de antenas para detectarlos y seguirlos",
+        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139637_261547404_1706x960.jpg",
+        "tags": [
+            "satélites espaciales",
+            "ministerio de defensa",
+            "ejército del aire",
+            "defensa - espacio",
+            "observatorio de la defensa",
+            "espionaje"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20260221/ejercito-aire-blinda-frente-satelites-espia-integrara-red-antenas-detectarlos-seguirlos/1003744138807_0.html",
+        "date": "2026-02-21 00:17:16",
+        "sentiment_score": 0.12142057716846466
+    },
+    {
+        "title": "Definidas las semifinales de la Copa del Rey: los protagonistas que buscarán la final",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "copa del rey",
+            "real madrid",
+            "baloncesto",
+            "valencia",
+            "barcelona",
+            "baskonia"
+        ],
+        "link": "https://2001online.com/deportes/definidas-las-semifinales-de-la-copa-del-rey-los-protagonistas-que-buscaran-la-final-202622020450",
+        "date": "2026-02-21 00:05:05",
+        "sentiment_score": 0.822316687554121
+    },
+    {
+        "title": "Barcelona: el pronóstico del tiempo para este 21 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima en barcelona",
+            "clima",
+            "últimas actualizaciones",
+            "clima en españa"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/21/barcelona-el-pronostico-del-tiempo-para-este-21-de-febrero/",
+        "date": "2026-02-21 02:00:54",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Sonia García, de criarse en un bar cerca de Santiago al pódium de las mejores camareras de España: \"Soy de las más jóvenes\"",
+        "image_url": "https://s3.elespanol.com/2026/02/19/actualidad/1003744137458_261519103_1706x960.jpg",
+        "tags": [
+            "santiago de compostela",
+            "comarca de santiago",
+            "teo",
+            "galicia",
+            "coctelería",
+            "gastrosantiago"
+        ],
+        "link": "https://www.elespanol.com/quincemil/vivir/gastrosantiago/20260221/sonia-garcia-criarse-bar-cerca-santiago-podium-mejores-camareras-espana-jovenes/1003744136682_0.html",
+        "date": "2026-02-21 01:02:58",
+        "sentiment_score": 0.3546935245394707
+    },
+    {
+        "title": "Portazo de ERC a las ambiciones de Rufián: \"Las listas las ordena el partido; se hace lo que quiere Junqueras\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
+        "tags": [
+            "artículos víctor mondelo"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2026/02/21/6998a941e4d4d8636b8b4577.html",
+        "date": "2026-02-21 00:53:16",
+        "sentiment_score": -0.7859130557626486
+    },
+    {
+        "title": "El intervencionismo de la Generalitat en vivienda provoca un choque entre Illa y los empresarios catalanes: \"asume la agenda de Colau\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/9602e51eaab3dbc20e19e9b11bb673ac/f/image/jpeg/assets/multimedia/imagenes/2023/05/27/16851936859154.jpg",
+        "tags": [
+            "generalitat de cataluña",
+            "ley de vivienda",
+            "artículos iñaki ellakuría"
+        ],
+        "link": "https://www.elmundo.es/economia/2026/02/21/6998bb79fdddff07408b458c.html",
+        "date": "2026-02-21 00:51:13",
+        "sentiment_score": -0.8529988992959261
+    },
+    {
+        "title": "Más de 100 vuelos internacionales a la semana en el país: las estimaciones de una especialista en viajes y turismo",
+        "image_url": "https://caraotadigital.net/wp-content/uploads/2024/08/vuelos-Maiquetia-CD.jpg",
+        "tags": [
+            "agencia de viajes",
+            "maiquetía",
+            "vuelos internacionales",
+            "venezuela",
+            "vuelos"
+        ],
+        "link": "https://caraotadigital.net/venezuela/mas-de-100-vuelos-internacionales-a-la-semana-en-el-pais-las-estimaciones-de-una-especialista-en-viajes-y-turismo/",
+        "date": "2026-02-21 00:49:17",
+        "sentiment_score": 0.3620852679014206
+    },
+    {
+        "title": "España pedirá a la UE retirar sanciones a la presidenta encargada Delcy Rodríguez",
+        "image_url": "http://www.correodelorinoco.gob.ve/wp-content/uploads/2026/02/01.jpg",
+        "tags": [
+            "lifestyle",
+            "top",
+            "sports"
+        ],
+        "link": "http://www.correodelorinoco.gob.ve/espana-pedira-a-la-ue-retirar-sanciones-a-la-presidenta-encargada-delcy-rodriguez/",
+        "date": "2026-02-21 00:48:55",
+        "sentiment_score": -0.2891117334365845
+    },
+    {
+        "title": "Los precandidatos a las elecciones del Barça tiran la casa por la ventana en papeletas: Laporta se gasta 14.000 euros",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/21/culemania/palco/1003742734927_15744572_1706x960.jpg",
+        "tags": [
+            "xavier vilajoana",
+            "palco",
+            "elecciones barça",
+            "víctor font",
+            "joan laporta"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260221/precandidatos-elecciones-barca-tiran-ventana-papeletas-laporta/1003742734782_0.html",
+        "date": "2026-02-21 00:40:50",
+        "sentiment_score": 0.17785534635186195
+    },
+    {
+        "title": "La venta de viviendas, en máximos de veinte años y el sector prevé una caída porque la gente no podrá comprar",
+        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139893_261551130_1706x960.jpg",
+        "tags": [
+            "vivienda",
+            "hipotecas",
+            "inmobiliarias",
+            "observatorio de la vivienda"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20260221/venta-viviendas-maximos-veinte-anos-sector-preve-caida-gente-no-podra-comprar/1003744138816_0.html",
+        "date": "2026-02-21 00:15:18",
+        "sentiment_score": -0.24799592792987823
     }
 ];
