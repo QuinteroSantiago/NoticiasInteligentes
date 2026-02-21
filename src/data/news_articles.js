@@ -1,355 +1,5 @@
 export default [
     {
-        "title": "'El campo es nuestro', de Aragón TV, brilla en la noche de los Premio Iris",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2026/02/16/premio-iris-al-programa-el-campo-es-nuestro.jpeg",
-        "tags": [
-            "comunicación"
-        ],
-        "link": "https://www.heraldo.es/noticias/comunicacion/2026/02/16/programa-el-campo-es-nuestro-aragontv-premio-iris-2026-1894866.html",
-        "date": "2026-02-16 22:37:26",
-        "sentiment_score": 0.07051030173897743
-    },
-    {
-        "title": "Lamine falla un penalti, el Girona remonta y el Barça entra en una crisis peligrosa",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/16/2026021623312764131.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/lamine-falla-penalti-girona-remonta-barca-entra-crisis-peligrosa/20260216233152375030.html",
-        "date": "2026-02-16 22:31:52",
-        "sentiment_score": -0.8632743582129478
-    },
-    {
-        "title": "La polémica: El gol que da un vuelco a La Liga en el que el Barcelona reclama un pisotón a Koundé",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/16/image-0bd1c1f3-8475-4598-b6cb-816e91f4ec36-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "la liga 2025/2026"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/la-polemica-barcelona-girona-gol-pisoton-falta-kounde-protestas-arbitro-var-hoy_sto23271913/story.shtml",
-        "date": "2026-02-16 22:31:37",
-        "sentiment_score": -0.8083959277719259
-    },
-    {
-        "title": "Cubarsí: \"Tenemos que hacer autocrítica y ponernos las pilas\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/16/cubarsi-tenemos-que-hacer-autocritica-y-ponernos-las-pilas/",
-        "date": "2026-02-16 22:31:08",
-        "sentiment_score": 0.06332471966743469
-    },
-    {
-        "title": "El Girona gana al Barcelona con el segundo gol de Lemar y el primero de Joel Roca",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/16/el-girona-gana-al-barcelona-con-el-segundo-gol-de-lemar-y-el-primero-de-joel-roca/",
-        "date": "2026-02-16 22:30:52",
-        "sentiment_score": 0.27075718343257904
-    },
-    {
-        "title": "El Girona gana al Barcelona con el segundo gol de Lemar y el primero de Fran Beltrán",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/16/el-girona-gana-al-barcelona-con-el-segundo-gol-de-lemar-y-el-primero-de-fran-beltran/",
-        "date": "2026-02-16 22:30:19",
-        "sentiment_score": 0.2491770088672638
-    },
-    {
-        "title": "Crónica del Girona FC - FC Barcelona: 2-1",
-        "image_url": "https://www.infobae.com/resizer/v2/SFW3RSVX6JBJ7KS7ZVX5H2WHRM.jpg?auth=f9e44b47cb164108a5f949ac214ea450fc861108e0fac0f1cf42da014a6658eb&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/16/cronica-del-girona-fc-fc-barcelona-2-1/",
-        "date": "2026-02-16 22:30:16",
-        "sentiment_score": -0.012068606913089752
-    },
-    {
-        "title": "El Girona vence al Barcelona y el Real Madrid recupera el liderato",
-        "image_url": "https://www.infobae.com/resizer/v2/MY7HJGRNB5FEDJGN6SH5E4PDFA.jpg?auth=9a9f8d2bf79753ebbbe813ff3ba208662780e7a260868ee7676246f6e07e2a12&height=2425&smart=true&width=3637",
-        "tags": [
-            "real madrid",
-            "fútbol",
-            "fútbol españa",
-            "españa-noticias",
-            "la liga",
-            "lamine yamal",
-            "fc barcelona",
-            "girona",
-            "españa-deportes"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/02/16/el-girona-vence-al-barcelona-y-el-real-madrid-recupera-el-liderato/",
-        "date": "2026-02-16 22:26:48",
-        "sentiment_score": -0.8659248072654009
-    },
-    {
-        "title": "El Barça se derrumba en Montilivi",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/16/derrota-barca-girona-kGyE-U20678303684h-1200x840@RC.jpg",
-        "tags": [
-            "gironabarcelona",
-            "cronica"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-primera/cronica-girona-barcelona-primera-jornada24-20260216174706-ntrc.html",
-        "date": "2026-02-16 22:23:01",
-        "sentiment_score": -0.669203869998455
-    },
-    {
-        "title": "Los nominados al Goya a Dirección Novel desentrañan las claves para crear una ópera prima",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/16/los-nominados-al-goya-a-direccion-novel-desentranan-las-claves-para-crear-una-opera-prima/",
-        "date": "2026-02-16 22:31:43",
-        "sentiment_score": 0.5184612795710564
-    },
-    {
-        "title": "Echeverry: \"Ojalá este sea el impulso para salir adelante\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/16/echeverry-ojala-este-sea-el-impulso-para-salir-adelante/",
-        "date": "2026-02-16 22:30:35",
-        "sentiment_score": 0.5917409248650074
-    },
-    {
-        "title": "Air Europa reactiva vuelos Madrid-Caracas este 17 de febrero",
-        "image_url": "https://primicia.com.ve/wp-content/uploads/2026/02/Vuelo-Air-Europa.jpg",
-        "tags": [
-            "vuelos",
-            "caracas",
-            "venezuela",
-            "economía",
-            "air europa",
-            "nación"
-        ],
-        "link": "https://primicia.com.ve/economia/air-europa-reactiva-vuelos-madrid-caracas-este-17-de-febrero/",
-        "date": "2026-02-16 22:30:20",
-        "sentiment_score": 0.4041017238050699
-    },
-    {
-        "title": "Santa Coloma ultima su \"comisaría de élite\" para la Policía Local: un búnker tecnológico pionero de 7.000 metros cuadrados",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/05/vivir-en-barcelona/1003742729986_15684319_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "guardia urbana",
-            "santa coloma de gramenet",
-            "mireia gonzález",
-            "seguridad"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260216/santa-coloma-ultima-comisaria-elite-policia-local-bunker-tecnologico-pionero-metros-cuadrados/1003742730218_0.html",
-        "date": "2026-02-16 22:30:00",
-        "sentiment_score": 0.4819609485566616
-    },
-    {
-        "title": "El Girona asalta Montilivi y arrebata el liderato al Barça",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/02/17/2026021703294414343.webp",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/futbol/girona-asalta-montilivi-arrebata-liderato-barca/20260217033015580194.html",
-        "date": "2026-02-17 02:30:15",
-        "sentiment_score": 0.8705715518444777
-    },
-    {
-        "title": "Benfica vs. Real Madrid, por los playoffs de la Champions League: previa, formaciones, hora y cómo ver por TV e internet",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2026/02/16/benfica-real-madrid-playoffs-champions-league-orix/",
-        "date": "2026-02-17 02:03:46",
-        "sentiment_score": 0.3245493918657303
-    },
-    {
-        "title": "Guía para saber si se puede llevar burka en España, qué invocan los países que lo prohíben y qué dice Europa",
-        "image_url": "https://s3.elespanol.com/2026/02/16/actualidad/1003744132990_261463144_1706x960.jpg",
-        "tags": [
-            "tedh tribunal europeo de derechos humanos",
-            "tribunal supremo",
-            "tribunal constitucional",
-            "religión",
-            "tribunales",
-            "congreso de los diputados",
-            "burka",
-            "senado",
-            "libertad religiosa"
-        ],
-        "link": "https://www.elespanol.com/espana/tribunales/20260217/burka-religion-tedh_tribunal_europeo_de_derechos_humanos-tribunal_supremo-tribunal_constitucional-senado-congreso_de_los_diputados-libertad_religiosa-tribunales/1003744132712_0.html",
-        "date": "2026-02-17 01:55:43",
-        "sentiment_score": -0.4538439139723778
-    },
-    {
-        "title": "Por qué la Constitución de 1978 es incomparable con la de 1876",
-        "image_url": "https://s3.elespanol.com/2022/11/25/curiosidades/espana-pueblos/721188110_228998941_1706x960.jpg",
-        "tags": [
-            "congreso de los diputados",
-            "tribunas",
-            "reformas constitucionales",
-            "espana-newsletter",
-            "historia",
-            "gobierno de españa",
-            "constitución española"
-        ],
-        "link": "https://www.elespanol.com/opinion/tribunas/20260217/constitucion-incomparable/1003744132954_12.html",
-        "date": "2026-02-17 01:55:32",
-        "sentiment_score": -0.7668566517531872
-    },
-    {
-        "title": "La jugada polémica que dejó sin puntos a Barcelona ante Girona",
-        "image_url": "https://pxcdn.meridiano.net/022026/1771291108760.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/la-jugada-polemica-que-dejo-sin-puntos-a-barcelona-ante-girona-202621621190",
-        "date": "2026-02-17 01:19:00",
-        "sentiment_score": 0.15836220979690552
-    },
-    {
-        "title": "16 FEB 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/16-feb-2026-partidazo-cope-20260217_3309111.html",
-        "date": "2026-02-17 00:50:00",
-        "sentiment_score": -0.47149910777807236
-    },
-    {
-        "title": "«Digo lo que pienso en cada momento»",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/02/17/imag-keQF-U20742557412XyD-1200x840@RC.jpg",
-        "tags": [
-            "ángela molina",
-            "series de televisión",
-            "telecinco"
-        ],
-        "link": "https://www.ideal.es/pantallas/series/digo-pienso-momento-20260217010801-ntrc.html",
-        "date": "2026-02-17 00:08:04",
-        "sentiment_score": 0.07598459720611572
-    },
-    {
-        "title": "Lamine Yamal erró un penal y el Barcelona se «pincha» en LaLiga: Real Madrid, nuevo líder",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2026/02/16/barcelona-girona-lamine-yamal-penal-orix/",
-        "date": "2026-02-17 00:03:46",
-        "sentiment_score": 0.04394814372062683
-    },
-    {
-        "title": "Las fotos del Girona-Barcelona",
-        "image_url": "https://static.grupojoly.com/clip/8dcdb935-4b4c-4830-8107-e737c2bd2202_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fc barcelona",
-            "laliga"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/fotos-girona-barcelona_3_2005927187.html",
-        "date": "2026-02-16 23:48:07",
-        "sentiment_score": -0.24218687415122986
-    },
-    {
-        "title": "¿Se puede insultar al jefe en redes sociales?",
-        "image_url": "https://revistabyte.es/wp-content/uploads/2026/02/redes-sociales.webp",
-        "tags": [
-            "legalidad tic",
-            "redes sociales"
-        ],
-        "link": "https://revistabyte.es/legalidad-tic/insultar-jefe-en-redes-sociales/",
-        "date": "2026-02-16 23:35:00",
-        "sentiment_score": 0.04969344288110733
-    },
-    {
-        "title": "Ander Mirambell: «Los deportes de invierno están en una segunda división en España»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/02/11/mirambell-U20650737435dnE-1200x838@diario_abc.jpg",
-        "tags": [
-            "juegos olímpicos invierno",
-            "deportes"
-        ],
-        "link": "https://www.abc.es/deportes/juegos-olimpicos-invierno/ander-mirambell-deportes-invierno-segunda-division-espana-20260211031753-nt.html",
-        "date": "2026-02-17 02:17:53",
-        "sentiment_score": -0.10503163933753967
-    },
-    {
-        "title": "Clima: las temperaturas que predominarán este 17 de febrero en Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima",
-            "clima en barcelona",
-            "clima en españa",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/17/clima-las-temperaturas-que-predominaran-este-17-de-febrero-en-barcelona/",
-        "date": "2026-02-17 02:15:57",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "Martes, 17 de febrero de 2026 (02:00 GMT)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/17/martes-17-de-febrero-de-2026-0200-gmt/",
-        "date": "2026-02-17 02:15:15",
-        "sentiment_score": -0.006093934178352356
-    },
-    {
-        "title": "Paraíso de incívicos",
-        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "paraiso",
-            "incivicos"
-        ],
-        "link": "https://www.granadahoy.com/opinion/articulos/paraiso-incivicos_0_2005927850.html",
-        "date": "2026-02-17 02:08:52",
-        "sentiment_score": -0.8754102941602468
-    },
-    {
-        "title": "El puente del Centenario y el pito del sereno",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sereno",
-            "centenario",
-            "pito",
-            "puente"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/puente-centenario-pito-sereno_0_2005927795.html",
-        "date": "2026-02-17 02:08:25",
-        "sentiment_score": -0.6868769153952599
-    },
-    {
-        "title": "\"La próxima gran frontera gastronómica\": 'Vogue' se rinde a la nueva ola de jóvenes chefs que revoluciona Castilla y León",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2026/02/16/hombre-sirviendo-cochinillo-en-un-restaurante-de-castilla-y-leon.jpeg",
-        "tags": [
-            "viajes"
-        ],
-        "link": "https://www.huffingtonpost.es/life/viajes/la-proxima-gran-frontera-gastronomica-vogue-rinde-nueva-ola-jovenes-chefs-revoluciona-castilla-leon-f202602.html",
-        "date": "2026-02-17 02:00:00",
-        "sentiment_score": 0.005876511335372925
-    },
-    {
-        "title": "Malas noticias si eres alérgico: la temporada de polen dura ya 100 días más que hace 25 años con el viento como factor clave",
-        "image_url": "https://s3.elespanol.com/2026/02/16/ciencia/salud/1003744132823_261460892_1706x960.jpg",
-        "tags": [
-            "alergias",
-            "primavera",
-            "salud",
-            "cambio climático",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/ciencia/salud/20260217/malas-noticias-alergico-temporada-polen-dura-dias-hace-anos-viento-factor-clave/1003744131950_0.html",
-        "date": "2026-02-17 01:55:24",
-        "sentiment_score": -0.009436473250389099
-    },
-    {
         "title": "Las portadas atizan al Barça y previenen al Madrid: \"¡Desesperante!\", \"Pisotón\" y \"Líder en Lisboa\"",
         "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
         "tags": [
@@ -3093,5 +2743,255 @@ export default [
         "link": "https://www.mujerhoy.com/actualidad/editorial-maria-fernandez-miranda-directora-revista-mujerhoy-homenaje-teresa-helbig-20260220104548-nt.html",
         "date": "2026-02-20 06:17:25",
         "sentiment_score": -0.29959360510110855
+    },
+    {
+        "title": "¿A quién beneficia la Ley de Amnistía de Venezuela?",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/ee0d1c3beea8606387415cc7a5dff67ce1df1e1aw.jpg",
+        "tags": [
+            "nacionales",
+            "ley de amnistía",
+            "venezuela",
+            "actualidad"
+        ],
+        "link": "https://lapatilla.com/2026/02/20/a-quien-beneficia-la-ley-de-amnistia-de-venezuela/",
+        "date": "2026-02-20 10:40:04",
+        "sentiment_score": 0.43749989569187164
+    },
+    {
+        "title": "Álvaro Arbeloa: \"No podemos acusar a Vinícius, la víctima, de provocador\"",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/202602/20/media/cortadas/lvaro-arbeloa-podemos-acusar-vincius-vctima-provocador-20260220172510-vi.jpg",
+        "tags": [
+            "arbeloa",
+            "vincius",
+            "lvaro",
+            "podemos",
+            "provocador",
+            "acusar",
+            "vctima"
+        ],
+        "link": "https://www.elcomercio.es/deportes/lvaro-arbeloa-podemos-acusar-vincius-vctima-provocador-20260220172510-vi.html",
+        "date": "2026-02-20 17:35:14",
+        "sentiment_score": -0.8570962231606245
+    },
+    {
+        "title": "Salma Hayek (59) nunca se ha hecho un lifting facial ni rellenos pero sí este tratamiento facial de energía ultrasónica",
+        "image_url": "https://www.hola.com/horizon/landscape/a20f4fa9670a-gettyimages-2244566562.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "cara y cuerpo",
+            "belleza",
+            "salma hayek",
+            "piel"
+        ],
+        "link": "https://www.hola.com/belleza/20260220884205/salma-hayek-tratamiento-facial-ultrasonico-sin-lifting/",
+        "date": "2026-02-20 17:30:00",
+        "sentiment_score": 0.12417003512382507
+    },
+    {
+        "title": "Arbeloa vuelve a defender a Vinícius ante Mourinho: “No podemos poner a la víctima de provocador”",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/17/image-45530464-b0a2-485f-a63c-e7368d027dc9-85-2560-1440.jpeg",
+        "tags": [
+            "la liga 2025/2026",
+            "football"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/alvaro-arbeloa-rueda-de-prensa-previa-osasuna-real-madrid-jornada-25-insultos-racistas-vinicius-junior-benfica-victima-provocador-jose-mourinho-declaraciones-hoy_sto23273604/story.shtml",
+        "date": "2026-02-20 17:29:04",
+        "sentiment_score": 0.24710462987422943
+    },
+    {
+        "title": "La Policía contacta con los guardaespaldas del expríncipe Andrés para recabar información sobre el caso Epstein",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260220182158_690.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-policia-contacta-guardaespaldas-exprincipe-andres-recabar-informacion-caso-epstein-20260220182158.html",
+        "date": "2026-02-20 17:21:58",
+        "sentiment_score": -0.5035870596766472
+    },
+    {
+        "title": "Álvaro Arbeloa: \"No podemos acusar a Vinícius, la víctima, de provocador\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260220181758_120.jpg",
+        "tags": [
+            "vídeos"
+        ],
+        "link": "https://www.europapress.es/videos/deportes/video-alvaro-arbeloa-no-podemos-acusar-vinicius-victima-provocador-20260220181758.html",
+        "date": "2026-02-20 17:17:58",
+        "sentiment_score": -0.8790199160575867
+    },
+    {
+        "title": "Rupérez en Tomares: \"España es un gran país, patria común e indivisible de todos los españoles\"",
+        "image_url": "https://static.grupojoly.com/clip/25f6e941-2c0d-413f-b376-82bc7743a17f_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tomares",
+            "últimas noticias sevilla"
+        ],
+        "link": "https://www.diariodesevilla.es/provincia/tomares/ruperez-tomares-espana-gran-pais_0_2005964517.html",
+        "date": "2026-02-20 17:16:19",
+        "sentiment_score": 0.7822240665555
+    },
+    {
+        "title": "Luis Enrique fue consultado por el incidente de Prestianni y Vinicius: \"No es importante\"",
+        "image_url": "https://pxcdn.meridiano.net/022026/1771607332692.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/luis-enrique-fue-consultado-por-el-incidente-de-prestianni-y-vinicius-no-es-importante-202622013150",
+        "date": "2026-02-20 17:15:00",
+        "sentiment_score": 0.034929871559143066
+    },
+    {
+        "title": "Arbeloa: \"Solo he ganado una vez de todos los partidos que he jugado en Pamplona\"",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/1667da59-59d9-46d3-b1c6-51f3356f44f9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "arbeloa",
+            "vez",
+            "real madrid",
+            "liga de campeones",
+            "elsadar",
+            "he",
+            "osasuna",
+            "vinicius",
+            "laliga",
+            "partidos",
+            "ganado"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/20/arbeloa-he-ganado-vez-partidos-real-madrid-osasuna-vinicius-liga-de-campeones-laliga-elsadar-10727556.html",
+        "date": "2026-02-20 17:05:19",
+        "sentiment_score": 0.26653511822223663
+    },
+    {
+        "title": "Manolo González: \"Si el Atlético está donde está en el fútbol mundial, es gracias a Simeone\"",
+        "image_url": "https://www.infobae.com/resizer/v2/YE4TVFGTRRHSBIPRHEL7HF3ZPM.jpg?auth=e585a229751cd1c5332d9ae20d412089613744a22749e6962dd697d074176633&height=1285&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/20/manolo-gonzalez-si-el-atletico-esta-donde-esta-en-el-futbol-mundial-es-gracias-a-simeone/",
+        "date": "2026-02-20 17:00:58",
+        "sentiment_score": 0.4322386905550957
+    },
+    {
+        "title": "Vídeo | La Sagrada Familia ya es la iglesia más alta del mundo: colocan el brazo superior de la torre de Jesucristo",
+        "image_url": "https://static.laregion.es/clip/c0d0455b-7d45-449c-ae43-a15d2c273916_source-aspect-ratio_1600w_0.jpg",
+        "tags": [
+            "iglesia",
+            "sagrada familia",
+            "barcelona"
+        ],
+        "link": "https://www.laregion.es/espana/video-sagrada-familia-iglesia-alta_1_20260220-4171162.html",
+        "date": "2026-02-20 17:34:18",
+        "sentiment_score": 0.1946234032511711
+    },
+    {
+        "title": "Sabadell pagará 4 millones a González-Bueno para evitar que sea fichado por otro banco",
+        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/10/archivo-ceo-banco-sabadell-cesar-gonzalez-bueno-i-presidente-banco-sabadell-josep-oliu-c-junta-general-extraordinaria-accionistas-banco-sabadell-6-agosto-2025-sabadell-barcelona-cataluny-20251017070703-1000x665.jpg",
+        "tags": [
+            "banco sabadell",
+            "josep oliu",
+            "empresas",
+            "césar gonzález-bueno"
+        ],
+        "link": "https://www.economiadigital.es/empresas/sabadell-gonzalez-bueno.html",
+        "date": "2026-02-20 17:32:10",
+        "sentiment_score": -0.46108264848589897
+    },
+    {
+        "title": "Mondragon Assembly adquiere la firma ATP para crecer en el sector de embalaje de alimentos",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c3ada7e2-014c-46c3-be24-5e998a97d3b3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "atp",
+            "mondragon",
+            "adquiere",
+            "assembly",
+            "firma"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/economia/2026/02/20/mondragon-assembly-adquiere-firma-atp-10727671.html",
+        "date": "2026-02-20 17:30:46",
+        "sentiment_score": 0.5202103368937969
+    },
+    {
+        "title": "Avavit estima que Venezuela supere los 100 vuelos semanales en abril",
+        "image_url": "https://correodelcaroni.com/wp-content/uploads/2026/02/AVAVIT_vuelos.jpg",
+        "tags": [
+            "abril",
+            "vuelos",
+            "rutas",
+            "vicky herrera",
+            "a - modulo 7 - a",
+            "laboral y economía",
+            "maiquetía",
+            "venezuela",
+            "avavit"
+        ],
+        "link": "https://correodelcaroni.com/laboral-economia/avavit-estima-que-venezuela-supere-los-100-vuelos-semanales-en-abril/",
+        "date": "2026-02-20 17:28:04",
+        "sentiment_score": 0.17240752652287483
+    },
+    {
+        "title": "La NASA volverá a enviar una misión tripulada a la Luna el 7 de marzo",
+        "image_url": "https://static1.ara.cat/clip/cd053c53-746a-4315-bccf-45f02e7e9c0f_16-9-aspect-ratio_default_0_x944y749.jpg",
+        "tags": [
+            "luna",
+            "nasa",
+            "mision",
+            "marzo",
+            "tripulada",
+            "7",
+            "enviar",
+            "volvera"
+        ],
+        "link": "https://es.ara.cat/ciencia-tecnologia/nasa-volvera-enviar-mision-tripulada-luna-7-marzo_1_5654910.html",
+        "date": "2026-02-20 17:26:16",
+        "sentiment_score": 0.6892331056296825
+    },
+    {
+        "title": "UE autoriza la propuesta española de nueva zonificación de la PPA que permitirá ciertos movimientos en granjas",
+        "image_url": "https://forbes.es/wp-content/uploads/2026/02/fotonoticia_20260220180638_1920-1200x675.jpg",
+        "tags": [
+            "economía",
+            "última hora"
+        ],
+        "link": "https://forbes.es/economia/877896/ue-autoriza-la-propuesta-espanola-de-nueva-zonificacion-de-la-ppa-que-permitira-ciertos-movimientos-en-granjas/",
+        "date": "2026-02-20 17:25:03",
+        "sentiment_score": 0.2756277397274971
+    },
+    {
+        "title": "Iberia deja de topar el precio de la ruta Barcelona-Madrid desde este lunes",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/29/69526c43adbd0.r_d.2229-1701-1282.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20260220/11471709/iberia-barcelona-madrid-precio-ruta-tope.html",
+        "date": "2026-02-20 17:22:13",
+        "sentiment_score": -0.4901854768395424
+    },
+    {
+        "title": "La Diputación de Barcelona presenta su estrategia de promoción del catalán en el marco del Pacto Nacional por la Lengua",
+        "image_url": "https://www.elplural.com/uploads/s1/24/64/11/5/diputacion-barcelona-estrategia-catalan_7_480x270.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.elplural.com/autonomias/cataluna/diputacion-barcelona-presenta-estrategia-promocion-catalan-marco-pacto-nacional-lengua_382083102",
+        "date": "2026-02-20 17:20:05",
+        "sentiment_score": 0.014875844120979309
+    },
+    {
+        "title": "El motivo por el que ondea la bandera del Vaticano en lo alto de la Torre de Jesús de la Sagrada Familia",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/20/69988f297a0720-62477043.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/motivo-ondea-bandera-vaticano-alto-torre-jesus-sagrada-familia_6937090_0.html",
+        "date": "2026-02-20 17:19:46",
+        "sentiment_score": -0.05878164619207382
+    },
+    {
+        "title": "Una oficina pública para atender la salud mental de los jóvenes por cada 50.000 habitantes, la nueva propuesta de Adelante Andalucía",
+        "image_url": "https://www.elplural.com/uploads/s1/24/64/09/2/jose-ignacio-garcia-con-calma-ley-salud-mental-begona-iza-adelante-andalucia_7_480x270.jpeg",
+        "tags": [
+            "elplural andalucía"
+        ],
+        "link": "https://www.elplural.com/autonomias/andalucia/oficina-publica-atender-salud-mental-jovenes-cada-50000-habitantes-nueva-propuesta-adelante-andalucia_382082102",
+        "date": "2026-02-20 17:18:59",
+        "sentiment_score": 0.010673373937606812
     }
 ];
