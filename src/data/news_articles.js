@@ -1,187 +1,5 @@
 export default [
     {
-        "title": "El significativo gesto de Carlota Ruiz, mujer de Álvaro Arbeloa, antes del trascendental Benfica-Real Madrid de Champions",
-        "image_url": "https://www.hola.com/horizon/landscape/12585514fa32-carlota.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "alvaro arbeloa",
-            "carlota ruiz",
-            "actualidad"
-        ],
-        "link": "https://www.hola.com/actualidad/20260217884435/benfica-real-madrid-champions-arbeloa-mujer-carlota-ruiz-mensaje/",
-        "date": "2026-02-17 17:51:31",
-        "sentiment_score": 0.7305884007364511
-    },
-    {
-        "title": "La indignación crece en la Real Sociedad: el club se divide entre la protesta y el silencio ante los errores arbitrales",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/10/6939e5b197f1d.jpeg",
-        "tags": [
-            "deportes gipuzkoa"
-        ],
-        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-guipuzcoa/noticias/indignacion-crece-real-sociedad-club-divide-protesta-silencio-errores-arbitrales-20260217_3309853.html",
-        "date": "2026-02-17 17:47:57",
-        "sentiment_score": -0.1030440628528595
-    },
-    {
-        "title": "¿El heredero del '9'? Mira las estadísticas de Gonzalo con el Real Madrid",
-        "image_url": "https://i.ytimg.com/vi/DIiV9KapDLI/mqdefault.jpg",
-        "tags": [
-            "lifestyle",
-            "entertainment",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-internacional/el-heredero-del-9-mira-las-estadisticas-de-gonzalo-con-el-real-madrid-202621713440",
-        "date": "2026-02-17 17:44:00",
-        "sentiment_score": 0.8647483959794044
-    },
-    {
-        "title": "Por qué la hipotermia inadvertida en mayores puede desarrollarse incluso dentro de casa",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260217183548_690.jpg",
-        "tags": [
-            "mayores",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/mayores/noticia-hipotermia-inadvertida-mayores-puede-desarrollarse-incluso-dentro-casa-20260217183548.html",
-        "date": "2026-02-17 17:35:48",
-        "sentiment_score": -0.5206699408590794
-    },
-    {
-        "title": "Casi un 27% de los beneficiarios del bono social eléctrico son familias numerosas",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/77d1e93b-edfe-4fb5-9899-79ec64350496_16-9-aspect-ratio_default_0_x569y302.jpg",
-        "tags": [
-            "beneficiarios",
-            "electrico",
-            "27",
-            "social",
-            "bono"
-        ],
-        "link": "https://www.deia.eus/economia/2026/02/17/27-beneficiarios-bono-social-electrico-10713533.html",
-        "date": "2026-02-17 17:28:37",
-        "sentiment_score": 0.38126834481954575
-    },
-    {
-        "title": "La tremenda provocación del Benfica al Real Madrid: Robin Hood roba la corona a los millonarios Vinicius y Mbappé",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/29/culemania/real-madrid/1003742727675_15655179_1706x960.jpg",
-        "tags": [
-            "real madrid",
-            "champions league"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260217/benfica-real-madrid-robin-hood-vinicius-mbappe/1003742733550_0.html",
-        "date": "2026-02-17 17:26:17",
-        "sentiment_score": -0.37797506153583527
-    },
-    {
-        "title": "El Gobierno destina 7.000 millones a paliar los efectos del temporal en Andalucía y Extremadura",
-        "image_url": "http://st1.lacerca.com/imagenes/view/1f66596424acb0caa6f20122b2614c32.jpg",
-        "tags": [
-            "españa",
-            "noticias"
-        ],
-        "link": "https://www.lacerca.com/noticias/espana/gobierno-7-000-millones-paliar-temporal-andalucia-extremadura-802386-1.html",
-        "date": "2026-02-17 17:25:00",
-        "sentiment_score": -0.1952838897705078
-    },
-    {
-        "title": "La tragedia golpea el instituto de los menores fallecidos en un incendio en Barcelona: \"Estamos todos rotos, no hemos podido hacer clase\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ba4b9df5-e342-4391-b21a-eb3f003170a0_16-9-aspect-ratio_default_0_x609y270.jpg",
-        "tags": [
-            "mossos d'esquadra",
-            "incendios",
-            "barcelona"
-        ],
-        "link": "https://www.lne.es/sucesos/2026/02/17/victimas-incendio-barcelona-manlleu-instituto-126953071.html",
-        "date": "2026-02-17 17:51:45",
-        "sentiment_score": -0.5341684818267822
-    },
-    {
-        "title": "Cataluña ordena una \"reducción drástica\" de jabalíes tras un nuevo brote de PPA fuera del radio inicial",
-        "image_url": "https://s1.staticld.com/2025/12/05/jabali.jpg",
-        "tags": [
-            "salud"
-        ],
-        "link": "https://www.libertaddigital.com/ciencia-tecnologia/salud/2026-02-17/cataluna-ordena-una-reduccion-drastica-de-jabalies-tras-un-nuevo-brote-de-ppa-fuera-del-radio-inicial-7361273/",
-        "date": "2026-02-17 17:50:20",
-        "sentiment_score": -0.7028834689408541
-    },
-    {
-        "title": "EEUU destruye otras tres lanchas en el Pacífico y el Caribe y mata a 11 personas",
-        "image_url": "https://static.infolibre.es/clip/30e51d45-eda9-4bc7-a947-14c3c6e718b2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "estados unidos",
-            "internacional",
-            "caribe",
-            "donald trump"
-        ],
-        "link": "https://www.infolibre.es/internacional/eeuu-destruye-tres-lanchas-pacifico-caribe-mata-11-personas_1_2147183.html",
-        "date": "2026-02-17 17:47:29",
-        "sentiment_score": -0.29035069048404694
-    },
-    {
-        "title": "Simeone: \"El equipo es de todos y no de diez\"",
-        "image_url": "https://www.infobae.com/resizer/v2/3TI3MEFCE5ENDOA3SLPN7UAXG4.jpg?auth=28f37b427c06ce8e6f14826ba1af7e6b02160d3c7e4b312a5f64b01fc6b3563c&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/17/simeone-el-equipo-es-de-todos-y-no-de-diez/",
-        "date": "2026-02-17 17:45:34",
-        "sentiment_score": -0.07011771202087402
-    },
-    {
-        "title": "El 87% de los inversores mantendrá o elevará su inversión en las residencias de estudiantes en 2026, según JLL",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260217184330_690.jpg",
-        "tags": [
-            "economía finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/noticia-87-inversores-mantendra-elevara-inversion-residencias-estudiantes-2026-jll-20260217184330.html",
-        "date": "2026-02-17 17:43:30",
-        "sentiment_score": 0.3198516368865967
-    },
-    {
-        "title": "El incendio del trastero de Manlleu en el que murieron cinco menores pudo ser provocado por la quema \"accidental\" de un colchón",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/17/699416cb9ca990-95347491.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/incendio-trastero-manlleu-que-murieron-cinco-menores-pudo-ser-provocado-por-quema-accidental-un-colchon_6935281_0.html",
-        "date": "2026-02-17 17:39:49",
-        "sentiment_score": -0.7972102835774422
-    },
-    {
-        "title": "Más de 450 extranjeros de fuera de la UE eligen Extremadura para cursar sus estudios",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/433b5d4c-e4e8-498d-aea0-fc8bed922602_16-9-aspect-ratio_default_0_x1200y532.jpg",
-        "tags": [
-            "españa",
-            "estudiantes",
-            "extremadura",
-            "estadística",
-            "crecimiento",
-            "ue"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/17/450-extranjeros-fuera-ue-eligen-126952576.html",
-        "date": "2026-02-17 17:38:47",
-        "sentiment_score": 0.028721295297145844
-    },
-    {
-        "title": "Koke: \"Aunque mucha gente se pensaba que ya estaba acabado por la edad, siento que puedo aportar\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260217183412_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-koke-mucha-gente-pensaba-ya-estaba-acabado-edad-siento-puedo-aportar-20260217183412.html",
-        "date": "2026-02-17 17:34:12",
-        "sentiment_score": -0.7798879519104958
-    },
-    {
-        "title": "Simeone: \"Mañana será decisiva la contundencia, será un partido difícil”",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/27/6978aa06ac52c.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/simeone-manana-sera-decisiva-contundencia-sera-partido-dificil-20260217_3309848.html",
-        "date": "2026-02-17 17:31:47",
-        "sentiment_score": 0.05793231725692749
-    },
-    {
         "title": "El Congreso de Perú destituye al presidente José Jerí",
         "image_url": "https://static.wixstatic.com/media/335561_b0c03d8ce6474d01a9c53f8e270ccb6e~mv2.jpg/v1/fit/w_960,h_640,al_c,q_80/file.png",
         "tags": [
@@ -3132,5 +2950,251 @@ export default [
         "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20260221/venta-viviendas-maximos-veinte-anos-sector-preve-caida-gente-no-podra-comprar/1003744138816_0.html",
         "date": "2026-02-21 00:15:18",
         "sentiment_score": -0.24799592792987823
+    },
+    {
+        "title": "Abolir las fronteras: justicia racial frente al neoliberalismo",
+        "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/2086e97b/artePanorama01.jpg?v=63935695410",
+        "tags": [
+            "actualidad",
+            "migración"
+        ],
+        "link": "https://www.elsaltodiario.com/fronteras/abolir-fronteras-notas-una-agenda-antirracista",
+        "date": "2026-02-21 06:42:00",
+        "sentiment_score": -0.8407215308398008
+    },
+    {
+        "title": "Entre los platós de televisión y los tribunales: los líos judiciales de Sarah Santaolalla",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/sarah-santaolalla-lios-judiciales-denuncias-vida.jpg",
+        "tags": [
+            "celebrities",
+            "justicia",
+            "gente",
+            "sarah santaolalla"
+        ],
+        "link": "https://theobjective.com/gente/2026-02-21/lios-judiciales-sarah-santaolalla-denuncias-querellas-amenazas-vida-personal/",
+        "date": "2026-02-21 06:30:00",
+        "sentiment_score": -0.24468788504600525
+    },
+    {
+        "title": "Cabezón, Jota, Ábalos y Koldo: el equipo A de Sánchez contra el covid",
+        "image_url": "https://s1.staticld.com/2026/02/20/cabezon-dao-sanchez-koldo-abalos.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/espana/2026-02-21/cabezon-jota-abalos-y-koldo-el-equipo-a-de-sanchez-contra-el-covid-7362947/",
+        "date": "2026-02-21 06:17:28",
+        "sentiment_score": -0.8618896063417196
+    },
+    {
+        "title": "Extremadura lleva Guadalupe y la Semana Santa a Portugal",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/677f94bf-305c-4993-bc7a-53571a43ca8d_16-9-aspect-ratio_default_0_x852y425.jpg",
+        "tags": [
+            "portugal",
+            "semana santa",
+            "patrimonio",
+            "extremadura",
+            "participación",
+            "turismo"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/21/extremadura-lleva-guadalupe-semana-santa-127098723.html",
+        "date": "2026-02-21 06:00:33",
+        "sentiment_score": 0.644968792796135
+    },
+    {
+        "title": "El ICAM alerta de un patrón estructural de demoras judiciales que tensiona el ejercicio profesional",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2026/02/ICAM-1.jpg",
+        "tags": [
+            "demoras judiciales",
+            "ejercicio profesional abogacía",
+            "app",
+            "noticias jurídicas",
+            "icam",
+            "despachos y abogados",
+            "justicia madrid",
+            "dilaciones procesales",
+            "znoticia portada2",
+            "suspensiones judiciales",
+            "retrasos en juicios"
+        ],
+        "link": "https://www.economistjurist.es/actualidad-juridica/actualidad-de-los-despachos/el-icam-alerta-de-un-patron-estructural-de-demoras-judiciales-que-tensiona-el-ejercicio-profesional/",
+        "date": "2026-02-21 06:00:28",
+        "sentiment_score": -0.8318757982924581
+    },
+    {
+        "title": "Osasuna - Real Madrid: Horario, posibles alineaciones y dónde ver el partido de LaLiga EA Sports, en directo",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/02/20/280264D6-0932-447F-9EDC-BEA8A526B95A/valverde-mbappe-celebran-gol-laliga-real-madrid_98.jpg?crop=4825%2C2715%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "deportes",
+            "antena 3 noticias",
+            "fútbol"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/osasuna-real-madrid-horario-posibles-alineaciones-donde-ver-partido-laliga-sports-directo_20260221699949f02f00a046881d9d25.html",
+        "date": "2026-02-21 06:00:16",
+        "sentiment_score": 0.01914028450846672
+    },
+    {
+        "title": "IA para la detección temprana de aterosclerosis y una plataforma que analiza la microbiota, startups ganadoras en el LWF2026",
+        "image_url": "https://s10.s3c.es/imag/_v0/5158x2815/0/9/5/1200x655_L36A3780.JPG",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.eleconomista.es/actualidad/noticias/13787496/02/26/ia-para-la-deteccion-temprana-de-aterosclerosis-y-una-plataforma-que-analiza-la-microbiota-startups-ganadoras-en-el-lwf2026.html",
+        "date": "2026-02-21 06:00:14",
+        "sentiment_score": 0.43754061684012413
+    },
+    {
+        "title": "Estos son los 28 miembros del Consejo de Estado que se preparan para blindar constitucionalmente el derecho al aborto",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/02/20/69989b4d543cd.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20260221/estos-son-28-miembros-consejo-estado-preparan-blindar-constitucionalmente-derecho-aborto_387822.html",
+        "date": "2026-02-21 05:57:54",
+        "sentiment_score": -0.3459455072879791
+    },
+    {
+        "title": "Sergio Ramos estalla contra el presidente de Monterrey",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/09/2025120905521227594.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/sergio-ramos-estalla-presidente-monterrey/20260221065408375634.html",
+        "date": "2026-02-21 05:54:08",
+        "sentiment_score": -0.9110013460740447
+    },
+    {
+        "title": "Izquierda o barbarie: el intento de Rufián y Delgado por imponer orden en el caos progresista",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/19/2026021902215695711.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.mundiario.com/articulo/opiniones/izquierda-barbarie-intento-rufian-delgado-imponer-orden-caos-progresista/20260221064934375629.html",
+        "date": "2026-02-21 05:49:34",
+        "sentiment_score": -0.17092759907245636
+    },
+    {
+        "title": "Feijóo aumenta su presencia en Cataluña para captar el voto descontento: \"Ningún otro partido allí se opone a Sánchez\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/20/69989c7e134780-60011021.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/nacional/feijoo-aumenta-su-presencia-cataluna-para-captar-voto-descontento-con-gobierno-ningun-otro-partido-alli-se-opone-sanchez_6937010_0.html",
+        "date": "2026-02-21 06:40:47",
+        "sentiment_score": -0.8866512877866626
+    },
+    {
+        "title": "Fermín López y Berta Gallardo disfrutan de una escapada romántica en Andorra",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/21/2026022107292699936.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/fermin-lopez-berta-gallardo-disfrutan-escapada-romantica-andorra/20260221073053375640.html",
+        "date": "2026-02-21 06:30:53",
+        "sentiment_score": -0.3244267627596855
+    },
+    {
+        "title": "Cielo despejado y brisas en Barcelona: AEMET prevé un día de cambios y temperaturas agradables",
+        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
+        "tags": [
+            "cataluña",
+            "españa",
+            "previsión del tiempo",
+            "okd",
+            "tiempo",
+            "agencia estatal de meteorología (aemet)"
+        ],
+        "link": "https://okdiario.com/cataluna/cielo-despejado-y-brisas-en-barcelona-aemet-preve-un-dia-de-cambios-y-temperaturas-agradables-16283364",
+        "date": "2026-02-21 06:21:25",
+        "sentiment_score": 0.21882601082324982
+    },
+    {
+        "title": "Carlos Latre y su mujer Yolanda Marcos, la historia de un amor resiliente que sobrevivió a una separación y superó su mayor crisis",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/20/699880b5b1743.r_d.575-568-3976.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.lavanguardia.com/gente/20260221/11471546/carlos-latre-mujer-yolanda-marcos-historia-amor-resiliente-sobrevivio-separacion-supero-mayor-crisis-gvm2.html",
+        "date": "2026-02-21 06:20:35",
+        "sentiment_score": 0.6917527243494987
+    },
+    {
+        "title": "'Dret a la Resistència' reivindica la lucha democrática en la Facultad de Derecho de la UB",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/202602/21/media/cortadas/dret-resistncia-reivindica-lucha-democrtica-facultad-derecho-20260221061506-vi.jpg",
+        "tags": [
+            "lucha",
+            "dret",
+            "derecho",
+            "reivindica",
+            "democrtica",
+            "resistncia",
+            "facultad"
+        ],
+        "link": "https://www.elcomercio.es/culturas/dret-resistncia-reivindica-lucha-democrtica-facultad-derecho-20260221061506-vi.html",
+        "date": "2026-02-21 06:20:13",
+        "sentiment_score": 0.004084721207618713
+    },
+    {
+        "title": "La izquierda presenta su proyecto de reorganización en un acto marcado por las ausencias de Yolanda Díaz, Rufián y Podemos",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/02/21/65A5B244-C257-46DB-9A51-4988E18736F9/ernest-urtasun-monica-garcia-congreso-diputados_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "noticias",
+            "españa",
+            "ondacero"
+        ],
+        "link": "https://www.ondacero.es/noticias/espana/izquierda-presenta-proyecto-reorganizacion-acto-marcado-ausencias-yolanda-diaz-rufian-podemos_2026022169994d741817b41eb658ae7e.html",
+        "date": "2026-02-21 06:15:16",
+        "sentiment_score": 0.06926295161247253
+    },
+    {
+        "title": "Centenario de Valverde",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7cc6ec63-b78a-4a6d-8727-666c9e292b8b_16-9-aspect-ratio_default_0_x600y285.jpg",
+        "tags": [
+            "barcelona",
+            "valencia",
+            "dios",
+            "iglesia"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/opinion/2026/02/21/centenario-valverde-127087493.html",
+        "date": "2026-02-21 06:08:01",
+        "sentiment_score": 0.03145311027765274
+    },
+    {
+        "title": "Ciencia, método... ¿y orden?: quién sí y quién no estará este sábado en el acto del 'nuevo Sumar'",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/02/20/antonio-maillo-ernest-urtasun-monica-garcia-y-lara-hernandez.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.huffingtonpost.es/politica/acto-sumar-sabado-nueva-coalicion-electoral-generales-f202602.html",
+        "date": "2026-02-21 06:02:40",
+        "sentiment_score": 0.423638179898262
+    },
+    {
+        "title": "La quema de San José de María: \"¡Es tan buena que parece mucho más difícil de hacer!\"",
+        "image_url": "https://static1.ara.cat/clip/50ca6c82-9f27-4b31-ba66-cf2aa8c1f6a3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "dificil",
+            "quema",
+            "buena",
+            "san",
+            "maria",
+            "parece",
+            "jose"
+        ],
+        "link": "https://es.ara.cat/comer/quema-san-jose-maria-buena-parece-dificil_130_5655161.html",
+        "date": "2026-02-21 06:00:56",
+        "sentiment_score": -0.035127192735672
+    },
+    {
+        "title": "Las familias pierden poder adquisitivo pese al crecimiento económico",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e3394c1f-1012-433b-a76e-488a63375c53_alta-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "salarios",
+            "entender más",
+            "cesta de la compra",
+            "inflación"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260221/familias-pierden-adquisitivo-pese-crecimiento-127042276",
+        "date": "2026-02-21 06:00:38",
+        "sentiment_score": -0.5269990600645542
     }
 ];
