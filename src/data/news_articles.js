@@ -1,225 +1,5 @@
 export default [
     {
-        "title": "Las portadas atizan al Barça y previenen al Madrid: \"¡Desesperante!\", \"Pisotón\" y \"Líder en Lisboa\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
-        "tags": [
-            "la liga 2025/2026",
-            "football"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/portadas-prensa-deportiva-martes-17-febrero-pinchazo-barca-previa-madrid-champions-marca-as-mundo-deportivo-sport-hoy_sto23271947/story.shtml",
-        "date": "2026-02-17 06:31:05",
-        "sentiment_score": -0.736177671700716
-    },
-    {
-        "title": "El Real Madrid y su déficit físico en la Champions",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/17/Clipboard-0219-k6DH-U20742382586wAF-1200x840@RC.jpg",
-        "tags": [
-            "champions",
-            "deficit",
-            "real",
-            "madrid",
-            "fisico"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-campeones/real-madrid-deficit-fisico-champions-20260217070756-ntrc.html",
-        "date": "2026-02-17 06:08:01",
-        "sentiment_score": -0.6986896023154259
-    },
-    {
-        "title": "06:00H | 17 FEB 2026 | Herrera en COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "herrera en cope"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/06-00h-17-feb-2026-herrera-cope-20260217_3309123.html",
-        "date": "2026-02-17 06:04:00",
-        "sentiment_score": -0.3230108469724655
-    },
-    {
-        "title": "Dromo, en Badajoz, consigue dos Soles Repsol y otros tres restaurantes extremeños se estrenan con un Sol",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/31653aeb-ec78-4646-bf3d-6e0ba8fa226f_16-9-aspect-ratio_default_0_x960y480.jpg",
-        "tags": [
-            "extremadura",
-            "restaurantes",
-            "repsol",
-            "tendencias",
-            "españa"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/17/dromo-badajoz-soles-repsol-tres-126920459.html",
-        "date": "2026-02-17 06:01:29",
-        "sentiment_score": 0.5391947329044342
-    },
-    {
-        "title": "Plataformas extremeñas se unen a un movimiento nacional contra las privatizaciones y la falta de recursos en la sanidad pública",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fafd72db-5a31-498c-82a1-704bf8b0894d_16-9-aspect-ratio_default_0_x1000y499.jpg",
-        "tags": [
-            "público",
-            "empresas",
-            "extremadura",
-            "sanidad pública",
-            "salud",
-            "sanidad",
-            "españa"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/17/plataformas-extremenas-unen-movimiento-nacional-126920444.html",
-        "date": "2026-02-17 06:01:26",
-        "sentiment_score": 0.3821723908185959
-    },
-    {
-        "title": "Benfica - Real Madrid: Horario, posibles onces y dónde ver el partido de playoffs de la Champions League, en directo",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/02/16/695ED79A-D735-4FAC-BAF7-6C3B6B5E80AF/vinicius-accion-benfica_98.jpg?crop=3957%2C2226%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "deportes",
-            "fútbol",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/benfica-real-madrid-horario-posibles-onces-donde-ver-partido-playoffs-champions-league-directo_20260217699403f39243cc133c4d6b51.html",
-        "date": "2026-02-17 06:00:19",
-        "sentiment_score": 0.02389489859342575
-    },
-    {
-        "title": "Manolo Lama, sobre la derrota del Barça en Girona: \"Flick se ha vuelto loco\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/16/69939f3e07436.jpeg",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/manolo-lama-sobre-derrota-barca-girona-flick-vuelto-loco-20260217_3309094.html",
-        "date": "2026-02-17 06:00:00",
-        "sentiment_score": -0.2195274829864502
-    },
-    {
-        "title": "José Mourinho, el arcángel de Concha Espina",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/31232490-32d5-415b-b0d0-f9c2165a2778_16-9-aspect-ratio_default_0_x440y165.jpg",
-        "tags": [
-            "florentino pérez",
-            "real madrid",
-            "miel, limón & vinagre"
-        ],
-        "link": "https://www.lacronicabadajoz.com/opinion/2026/02/17/jose-mourinho-arcangel-concha-espina-126920322.html",
-        "date": "2026-02-17 05:50:52",
-        "sentiment_score": -0.09611530601978302
-    },
-    {
-        "title": "La asombrosa historia del grumete canario de «Moby Dick»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e1f3239a-d42b-43bd-8e9d-0a6c25c58acf_16-9-discover-aspect-ratio_default_0_x465y178.jpg",
-        "tags": [
-            "familia",
-            "manuel",
-            "las palmas",
-            "canarias",
-            "santa catalina",
-            "turistas",
-            "turismo"
-        ],
-        "link": "https://www.eldia.es/cultura/2026/02/17/asombrosa-historia-grumete-canario-moby-126906847.html",
-        "date": "2026-02-17 07:00:00",
-        "sentiment_score": -0.15491396188735962
-    },
-    {
-        "title": "Renfe e Iryo reestablecen el servicio del AVE entre Madrid y Andalucía tras terminar los trabajos de reparación por la tragedia de Adamuz",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/20/696f35e88618e4-63693139.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/nacional/renfe-reestablece-servicio-ave-entre-madrid-andalucia-tras-terminar-los-trabajos-reparacion-por-tragedia-adamuz_6934985_0.html",
-        "date": "2026-02-17 06:37:47",
-        "sentiment_score": -0.26735182106494904
-    },
-    {
-        "title": "La alta velocidad entre Madrid y Andalucía se recupera este martes: vuelve el AVE e Iryo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1788b0ae-7cc5-4a1a-aa88-c0bfb7ca048e_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "ave,alta velocidad"
-        ],
-        "link": "https://www.elcorreoweb.es/andalucia/2026/02/17/alta-velocidad-madrid-andalucia-recupera-ave-renfe-iryo-126920787.html",
-        "date": "2026-02-17 06:37:02",
-        "sentiment_score": -0.6478331796824932
-    },
-    {
-        "title": "Renfe e Iryo restablecen el servicio de trenes de alta velocidad entre Madrid y Andalucía",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/renfe-restablece-alta-velocidad-madrid-andalucia.jpg",
-        "tags": [
-            "madrid",
-            "transporte",
-            "andalucía",
-            "alta velocidad",
-            "trenes",
-            "accidentes de tren",
-            "renfe"
-        ],
-        "link": "https://theobjective.com/economia/transporte/2026-02-17/renfe-restablece-alta-velocidad-madrid-andalucia/",
-        "date": "2026-02-17 06:36:18",
-        "sentiment_score": 0.236374132335186
-    },
-    {
-        "title": "Mueren cinco adolescentes en el incendio de un trastero en un edificio de viviendas en Manlleu",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2026/02/17/69940c3bbe6c3.jpeg",
-        "tags": [
-            "sucesos"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/sucesos/2026/02/17/mueren-cinco-adolescentes-incendio-trastero-edificio-viviendas-manlleu-810467-122.html",
-        "date": "2026-02-17 06:35:56",
-        "sentiment_score": -0.8231540136039257
-    },
-    {
-        "title": "Borja Vilaseca: «El ego es un parásito psíquico que nos tiene secuestrados»",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3677383.jpg",
-        "tags": [
-            "sociedad",
-            "última hora",
-            "tendencias"
-        ],
-        "link": "https://www.ultimahora.es/noticias/sociedad/2026/02/17/2571747/borja-vilaseca-ego-parasito-psiquico-nos-tiene-secuestrados.html",
-        "date": "2026-02-17 06:30:00",
-        "sentiment_score": -0.068926140666008
-    },
-    {
-        "title": "AEMET prevé cielo nublado y lluvias débiles en Barcelona, con viento moderado a fuerte",
-        "image_url": "https://okdiario.com/img/2026/02/17/lluvia-en-barcelona.-europa-press.jpg",
-        "tags": [
-            "previsión del tiempo",
-            "okd",
-            "cataluña",
-            "agencia estatal de meteorología (aemet)",
-            "españa",
-            "tiempo"
-        ],
-        "link": "https://okdiario.com/cataluna/aemet-preve-cielo-nublado-y-lluvias-debiles-en-barcelona-con-viento-moderado-a-fuerte-16256479",
-        "date": "2026-02-17 06:25:40",
-        "sentiment_score": 0.013990968465805054
-    },
-    {
-        "title": "Renfe restablece el servicio de alta velocidad entre Madrid y Andalucía casi un mes después del accidente de Adamuz",
-        "image_url": "https://images.ecestaticos.com/pWIY-6h_0HwaC9MFDGQihn9-me4=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F069%2F70d%2F85f%2F06970d85f66e6e73e7dbc1498554fa52.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.elconfidencial.com/espana/2026-02-17/renfe-madrid-andalucia-accidente-1tps_4304471/",
-        "date": "2026-02-17 06:23:00",
-        "sentiment_score": -0.8010370805859566
-    },
-    {
-        "title": "Gisèle Pelicot publica sus memorias en una veintena de lenguas",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/10/09/68e77cea8aac7.jpeg",
-        "tags": [
-            "libros"
-        ],
-        "link": "https://www.20minutos.es/libros/gisele-pelicot-simbolo-mundial-contra-violencia-sexual-publica-sus-memorias-una-veintena-lenguas_6934981_0.html",
-        "date": "2026-02-17 06:21:32",
-        "sentiment_score": 0.2288858238607645
-    },
-    {
-        "title": "Los fallecidos en el incendio de Manlleu (Barcelona) son cinco adolescentes",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/02/17/B6671EBF-B969-4B41-9BC5-396DD26F6956/69.jpg?crop=6904%2C3884%2Cx0%2Cy359&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/fallecidos-incendio-manlleu-barcelona-son-cinco-adolescentes_202602176994082a1817b41eb64cdbe6.html",
-        "date": "2026-02-17 06:18:18",
-        "sentiment_score": -0.28086521103978157
-    },
-    {
         "title": "El significativo gesto de Carlota Ruiz, mujer de Álvaro Arbeloa, antes del trascendental Benfica-Real Madrid de Champions",
         "image_url": "https://www.hola.com/horizon/landscape/12585514fa32-carlota.jpg?im=Resize%3D%281200%29",
         "tags": [
@@ -2993,5 +2773,112 @@ export default [
         "link": "https://www.elplural.com/autonomias/andalucia/oficina-publica-atender-salud-mental-jovenes-cada-50000-habitantes-nueva-propuesta-adelante-andalucia_382082102",
         "date": "2026-02-20 17:18:59",
         "sentiment_score": 0.010673373937606812
+    },
+    {
+        "title": "El Barça elimina al UCAM Murcia y será el rival del Baskonia en semifinales",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/20/6998db7f5fa64.r_d.1360-671-4257.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20260220/barca-elimina-ucam-murcia-sera-rival-baskonia-semifinales_387878.html",
+        "date": "2026-02-20 22:09:43",
+        "sentiment_score": -0.07101647555828094
+    },
+    {
+        "title": "Neymar no descarta su retiro como profesional a final de temporada",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/02/Neymar1.jpg",
+        "tags": [
+            "temporada",
+            "retiro",
+            "20feb",
+            "deportes",
+            "neymar"
+        ],
+        "link": "https://laverdaddemonagas.com/2026/02/20/neymar-no-descarta-su-retiro/",
+        "date": "2026-02-20 21:58:28",
+        "sentiment_score": 0.031805023550987244
+    },
+    {
+        "title": "La jornada 25 de LaLiga EA Sports, en imágenes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1da292e6-db26-4aec-8a24-36e136d8dd98_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "fútbol",
+            "laliga",
+            "primera división"
+        ],
+        "link": "https://www.lne.es/fotos/deportes/2026/02/20/jornada-25-laliga-ea-sports-127094737.html",
+        "date": "2026-02-20 21:54:34",
+        "sentiment_score": 0.11202619224786758
+    },
+    {
+        "title": "El Barcelona tampoco sabe ganar: su afición humilla a la del UCAM cantando «¡adiós a la Copa!»",
+        "image_url": "https://okdiario.com/img/2026/02/20/frame-aficion-barca.jpg",
+        "tags": [
+            "copa del rey baloncesto",
+            "fútbol club barcelona (baloncesto)",
+            "deportes",
+            "baloncesto"
+        ],
+        "link": "https://okdiario.com/deportes/barcelona-tampoco-sabe-ganar-aficion-humilla-del-ucam-cantando-adios-copa-16282971",
+        "date": "2026-02-20 22:20:46",
+        "sentiment_score": -0.4943541958928108
+    },
+    {
+        "title": "22:00 | 20 FEB 2026 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-20-feb-2026-juego-20260220_3312463.html",
+        "date": "2026-02-20 22:09:49",
+        "sentiment_score": 0.046845417469739914
+    },
+    {
+        "title": "Punter llega a tiempo para meter al Barça en las semifinales de Copa",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/20/6998db1333f2a.r_d.493-263-4885.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/baloncesto/20260220/11471879/kevin-punter-barca-ucam-murcia-cuartos-final-resumen-copa-rey.html",
+        "date": "2026-02-20 22:09:05",
+        "sentiment_score": 0.19238154590129852
+    },
+    {
+        "title": "El efecto Punter revive al Barcelona y se carga a UCAM Murcia en un último parcial desastroso",
+        "image_url": "https://okdiario.com/img/2026/02/20/imagen_recortada-2026-02-20t223953.928.jpg",
+        "tags": [
+            "fútbol club barcelona (baloncesto)",
+            "deportes",
+            "copa del rey baloncesto",
+            "baloncesto"
+        ],
+        "link": "https://okdiario.com/deportes/efecto-punter-revive-barcelona-carga-ucam-murcia-ultimo-parcial-desastroso-16279698",
+        "date": "2026-02-20 22:03:21",
+        "sentiment_score": 0.6098801717162132
+    },
+    {
+        "title": "Barcelona-UCAM Murcia: Punter, milagro y semifinales (91-85)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1542x307:1544x305)/origin-imgresizer.eurosport.com/2026/02/20/image-c90ca2ed-8780-4d36-a0ee-0840a6850027-85-2560-1440.jpeg",
+        "tags": [
+            "copa del rey 2026",
+            "basketball"
+        ],
+        "link": "https://www.eurosport.es/baloncesto/copa-del-rey/2026/barca-finiquita-ucam-murcia-completa-semifinales-copa-del-rey-rival-baskonia-hoy_sto23273710/story.shtml",
+        "date": "2026-02-20 21:59:51",
+        "sentiment_score": 0.4435429349541664
+    },
+    {
+        "title": "El Barcelona, rival del Baskonia en semifinales (91-85)",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ec772518-d935-461a-ba93-9398edec6566_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "rival",
+            "baskonia",
+            "semifinales",
+            "murcia"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/20/barcelona-rival-baskonia-semifinales-murcia-10728665.html",
+        "date": "2026-02-20 21:55:54",
+        "sentiment_score": -0.1763233095407486
     }
 ];
