@@ -1,223 +1,5 @@
 export default [
     {
-        "title": "El Unicaja ya está en Valencia",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc2cf5ab-9c41-46f0-a877-6f96442a87b2_16-9-aspect-ratio_default_0_x914y400.jpg",
-        "tags": [
-            "valencia",
-            "ibon navarro",
-            "suelo",
-            "unicaja",
-            "copa del rey 2026"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2026/02/18/unicaja-valencia-copa-rey-baloncesto-126997848.html",
-        "date": "2026-02-18 17:49:14",
-        "sentiment_score": 0.10336995124816895
-    },
-    {
-        "title": "Martínez contrapone \"el modelo de la implicación\" frente a \"la parálisis\" de la Junta con el sector agroalimentario de Castilla y León",
-        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/files/fp/uploads/2026/02/18/6995f998762f0.r_d.3774-851-5838.jpeg",
-        "tags": [
-            "castilla y león"
-        ],
-        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/260218/104907/martinez-contrapone-modelo-implicacion-frente-paralisis-junta-sector-agroalimentario.html",
-        "date": "2026-02-18 17:46:35",
-        "sentiment_score": 0.4714980609714985
-    },
-    {
-        "title": "El relevo de Viciana por Zarzalejo entierra la LESUC y desencadena cambios en la Comunidad y en el PP en la Asamblea",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260218184606_690.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.europapress.es/madrid/noticia-relevo-viciana-zarzalejo-entierra-lesuc-desencadena-cambios-comunidad-pp-asamblea-20260218184606.html",
-        "date": "2026-02-18 17:46:06",
-        "sentiment_score": -0.5437165424227715
-    },
-    {
-        "title": "Los nacimientos en España crecen por primera vez en una década, aunque el saldo vegetativo sigue en negativo",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/18/6995e1ae3a186.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.cope.es/actualidad/sociedad/noticias/nacimientos-espana-crecen-primera-vez-decada-saldo-vegetativo-sigue-negativo-20260218_3310664.html",
-        "date": "2026-02-18 17:42:16",
-        "sentiment_score": -0.10038802027702332
-    },
-    {
-        "title": "El mítico jugador del Real Madrid que comía hoy en Zamora",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b79e08a0-c564-44e2-b817-24147f819849_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real madrid,castroverde,raúl gonzález"
-        ],
-        "link": "https://www.laopiniondezamora.es/comarcas/2026/02/18/mitico-jugador-real-madrid-comia-126995221.html",
-        "date": "2026-02-18 17:41:58",
-        "sentiment_score": 0.7284812331199646
-    },
-    {
-        "title": "Nueva baja en la defensa del Real Zaragoza: Tachi será intervenido en el menisco de su rodilla izquierda",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/02/18/2026021818380767430.jpg",
-        "tags": [
-            "real zaragoza"
-        ],
-        "link": "https://www.aragondigital.es/articulo/real-zaragoza/nueva-baja-defensa-real-zaragoza-tachi-sera-intervenido-menisco-rodilla-izquierda/20260218184100967868.html",
-        "date": "2026-02-18 17:41:00",
-        "sentiment_score": 0.03183462470769882
-    },
-    {
-        "title": "Más de 1.200 estudiantes de Ingeniería Civil participan desde mañana en A Coruña en un encuentro estatal",
-        "image_url": "https://www.galiciapress.es/images/285310",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.galiciapress.es/articulo/ultima-hora/2026-02-18/5777267-1200-estudiantes-ingenieria-civil-participan-desde-manana-coruna-encuentro-estatal",
-        "date": "2026-02-18 17:36:03",
-        "sentiment_score": 0.11303206533193588
-    },
-    {
-        "title": "Farmacéuticos defienden que la dispensación de medicamentos veterinarios corresponde a las oficinas de farmacia",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260218182854_120.jpg",
-        "tags": [
-            "farmacia",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/farmacia/noticia-farmaceuticos-defienden-dispensacion-medicamentos-veterinarios-corresponde-oficinas-farmacia-20260218182854.html",
-        "date": "2026-02-18 17:28:54",
-        "sentiment_score": 0.13538092374801636
-    },
-    {
-        "title": "Un escenario de grato recuerdo",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/cff33403-d33d-4738-a18b-6356e9fe6a1e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "recuerdo",
-            "grato",
-            "baskonia ganó la copa acb en valencia en 1999",
-            "escenario"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/18/escenario-grato-recuerdo-baskonia-gano-la-copa-acb-en-valencia-en-1999-10717846.html",
-        "date": "2026-02-18 17:28:39",
-        "sentiment_score": 0.7131500467658043
-    },
-    {
-        "title": "Se busca una estrella en Valencia",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2a4b268b-d722-471f-8e04-395c818e1344_16-9-aspect-ratio_default_0_x1077y987.jpg",
-        "tags": [
-            "copa",
-            "valencia",
-            "estrella",
-            "busca",
-            "baskonia"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/18/busca-estrella-valencia-baskonia-valencia-copa-10718078.html",
-        "date": "2026-02-18 17:28:19",
-        "sentiment_score": 0.5959279835224152
-    },
-    {
-        "title": "El Circuit de Barcelona Catalunya tendrá Fórmula 1 hasta 2032 en años alternos",
-        "image_url": "https://fotografias.lasexta.com/clipping/cmsimages02/2026/02/17/6ACFF01F-D0B7-4084-AE80-D49C527C55F5/circuit-barcelona-catalunya_96.jpg?crop=1920%2C1080%2Cx0%2Cy101&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "motor",
-            "competición"
-        ],
-        "link": "https://www.lasexta.com/motor/competicion/circuit-barcelona-catalunya-tendra-formula-1-2032-anos-alternos_20260218699434799243cc133c4dd554.html",
-        "date": "2026-02-18 17:50:13",
-        "sentiment_score": 0.6944995820522308
-    },
-    {
-        "title": "Detenido el hombre que lanzaba piedras a la escuela Tres Pins y al bus 55 en Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/05/23/sant-andreu/1003742659940_14621478_1706x960.jpg",
-        "tags": [
-            "montjuïc",
-            "sucesos",
-            "mossos d'esquadra",
-            "guardia urbana"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sucesos/20260218/detenido-hombre-lanzaba-piedras-escuela-pins-bus-barcelona/1003742734091_0.html",
-        "date": "2026-02-18 17:47:14",
-        "sentiment_score": -0.880105035379529
-    },
-    {
-        "title": "La inteligencia artificial pronostica que Pontevedra será una de las ciudades donde más suba el alquiler en 2026",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2026/01/16/2026011610330647528.jpg",
-        "tags": [
-            "pontevedra"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/pontevedra/inteligencia-artificial-pronostica-que-pontevedra-sera-ciudades-donde-mas-suba-alquiler-2026/202602181846241433913.html",
-        "date": "2026-02-18 17:46:24",
-        "sentiment_score": -0.04743559658527374
-    },
-    {
-        "title": "El dueño de Infojobs y Milanuncios negocia un ERE para su equipo en Barcelona",
-        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/5/9/8/AdevintaSpainLocalBrands_Vertical.jpg",
-        "tags": [
-            "tecnologia"
-        ],
-        "link": "https://www.eleconomista.es/tecnologia/noticias/13784200/02/26/el-dueno-de-infojobs-y-milanuncios-negocia-un-ere-para-su-equipo-en-barcelona.html",
-        "date": "2026-02-18 17:45:41",
-        "sentiment_score": 0.0846928283572197
-    },
-    {
-        "title": "Cortada la circulación de Rodalies entre Mataró y Arenys (Barcelona) por un atropello",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260218184404_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-cortada-circulacion-rodalies-mataro-arenys-barcelona-atropello-20260218184404.html",
-        "date": "2026-02-18 17:44:04",
-        "sentiment_score": -0.7856897199526429
-    },
-    {
-        "title": "El Govern aumentará en 25 millones anuales la financiación de los centros de investigación Cerca",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260218184224_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-govern-aumentara-25-millones-anuales-financiacion-centros-investigacion-cerca-20260218184224.html",
-        "date": "2026-02-18 17:42:24",
-        "sentiment_score": 0.244401715695858
-    },
-    {
-        "title": "Activada de nuevo la alerta por fuertes vientos en Cataluña: pueden llegar a superar los 125 km/h",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/12/698e1660f08047-51694009.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.20minutos.es/cataluna/activada-nuevo-alerta-por-fuertes-vientos-catalunya-las-rachas-pueden-superar-los-125-km-h_6936000_0.html",
-        "date": "2026-02-18 17:33:38",
-        "sentiment_score": 0.20680216141045094
-    },
-    {
-        "title": "El Gobierno impondrá más controles a los paquetes de plataformas como Temu o Shein",
-        "image_url": "https://cflvdg.avoz.es/sc/x4lS9t1K6N1do4f8Bcx2EXSPUus=/768x/2026/02/18/00121771435562021431728/Foto/S14L1117.jpg",
-        "tags": [
-            "aranceles",
-            "economía",
-            "carlos cuerpo"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/economia/2026/02/18/gobierno-impondra-controles-paquetes-plataformas-temu-shein/00031771435713236205747.htm",
-        "date": "2026-02-18 17:32:00",
-        "sentiment_score": -0.3202304542064667
-    },
-    {
-        "title": "Última hora de la borrasca Pedro, en directo | Cataluña activa la alerta por fuertes vientos de 125 km/h",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/18/vida/1003742734085_15734141_1706x960.jpg",
-        "tags": [
-            "lleida",
-            "vida",
-            "tiempo",
-            "protección civil",
-            "girona",
-            "cataluña",
-            "barcelona",
-            "sucesos",
-            "tarragona",
-            "viento"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/vida/20260218/ultima-borrasca-pedro-directo-cataluna-fuertes-vientos/1003742734079_10.html",
-        "date": "2026-02-18 17:31:24",
-        "sentiment_score": -0.8774554906412959
-    },
-    {
         "title": "La lectura de labios de la pelea entre Vinícius Júnior y Prestianni: el insulto del brasileño en el inicio del conflicto",
         "image_url": "https://www.infobae.com/resizer/v2/ZEQXNIDZ6ZATRE4ZNLLKEYUYBU.jpg?auth=737fdc2dd8c45175aa4208d7df3451ad5ff464a8d92874bf3a6886c14697a63b&height=1080&smart=true&width=1920",
         "tags": [
@@ -3194,5 +2976,170 @@ export default [
         "link": "https://www.elespanol.com/madrid/20260222/vivienda-no-toca-techo-madrid-sandra-paga-euros-costaba-eur-dl/1003744139586_0.html",
         "date": "2026-02-22 00:53:54",
         "sentiment_score": 0.25026484578847885
+    },
+    {
+        "title": "Cinco de los nueve etarras condenados por los atentados de La Albericia y Santoña están en libertad",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/21/ia_bajas-562x562.jpg",
+        "tags": [
+            "eta"
+        ],
+        "link": "https://www.eldiariomontanes.es/cantabria/cinco-nueve-etarras-condenados-atentados-albericia-santona-20260222204821-nt.html",
+        "date": "2026-02-22 06:48:14",
+        "sentiment_score": -0.8515443708747625
+    },
+    {
+        "title": "Sabah: \"Si obligas a una mujer a quitarse el velo, le estás quitando libertad\"",
+        "image_url": "https://www.elplural.com/uploads/s1/24/64/58/4/la-cantante-sabah_7_480x270.jpeg",
+        "tags": [
+            "música"
+        ],
+        "link": "https://www.elplural.com/revista-bando/musica/sabah-si-obligas-mujer-quitarse-velo-estas-quitando-libertad_382033102",
+        "date": "2026-02-22 06:42:51",
+        "sentiment_score": -0.052367568016052246
+    },
+    {
+        "title": "'Victoria' o los hijos crecen ¿y los padres qué?",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/02/20/escena-de-la-obra-de-teatro-victoria-1.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.huffingtonpost.es/opinion/victoria-hijos-crecen-y-padres-que-f202602.html",
+        "date": "2026-02-22 06:40:21",
+        "sentiment_score": -0.004999279975891113
+    },
+    {
+        "title": "Uf!, no sé quién está peor, si Flick o Arbeloa, si Laporta o Florentino",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/735d2b07-afab-45d4-9c01-65e8cfd2c35a_alta-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "andá pallá bobo"
+        ],
+        "link": "https://www.elperiodico.com/es/deportes/20260222/uf-peor-flick-o-arbeloa-127127316",
+        "date": "2026-02-22 06:37:16",
+        "sentiment_score": -0.757178895175457
+    },
+    {
+        "title": "Abascal deja claro que ni sus más cercanos le discuten: ni Ortega Smith, ni Olona, ni Espinosa de los Monteros",
+        "image_url": "https://www.elplural.com/uploads/s1/14/39/31/0/javier-ortega-smith-macarena-olona-ivan-espinosa-de-los-monteros-y-santiago-abascal-en-el-congreso-de-los-diputados-en-2020_7_480x270.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elplural.com/politica/espana/abascal-deja-claro-ni-mas-cercanos-discuten-ni-ortega-smith-ni-olona-ni-espinosa-monteros_382065102",
+        "date": "2026-02-22 06:35:36",
+        "sentiment_score": -0.15970273315906525
+    },
+    {
+        "title": "Marcos Llorente estaría como en casa en Dinamarca: el país nórdico instala en las calles farolas con luz roja",
+        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/e/a/a/calleroja3.jpg",
+        "tags": [
+            "energia"
+        ],
+        "link": "https://www.eleconomista.es/energia/noticias/13785112/02/26/marcos-llorente-estaria-como-en-casa-en-dinamarca-el-pais-nordico-instala-en-las-calles-farolas-con-luz-roja.html",
+        "date": "2026-02-22 06:30:57",
+        "sentiment_score": -0.29538559913635254
+    },
+    {
+        "title": "Osasuna - Real Madrid, la prórroga | Bienvenidos a la historia",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/6311562b-78a1-496e-8bf2-6cc1efe17e78_16-9-aspect-ratio_default_0_x1334y785.jpg",
+        "tags": [
+            "prorroga",
+            "osasuna",
+            "bienvenidos",
+            "real",
+            "madrid"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/22/osasuna-real-madrid-prorroga-bienvenidos-10731651.html",
+        "date": "2026-02-22 06:30:41",
+        "sentiment_score": 0.09112697839736938
+    },
+    {
+        "title": "Las portadas encumbran el bronce de Oriol Cardona y Ana Alonso: \"Historia\" y \"tercera medalla\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/21/image-82d0ee94-b758-4388-aeeb-a87b30a62112-85-2560-1440.jpeg",
+        "tags": [
+            "olympic games milano cortina 2026 2026",
+            "olympics"
+        ],
+        "link": "https://espanol.eurosport.com/juegos-olimpicos/juegos-olimpicos-milan-cortina-2026/2026/bronce-ana-alonso-oriol-cardona-relevo-mixto-esqui-montana-portadas-hoy_sto23274146/story.shtml",
+        "date": "2026-02-22 06:27:38",
+        "sentiment_score": -0.9372403779998422
+    },
+    {
+        "title": "Osasuna - Real Madrid, vídeo resumen, mejores jugadas y goles",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/05031823-32a3-4e5d-9588-eba6653c2b35_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "resumen",
+            "osasuna",
+            "video",
+            "real",
+            "madrid"
+        ],
+        "link": "https://www.noticiasdenavarra.com/videos/general/osasuna/2026/02/22/osasuna-real-madrid-video-resumen-10731656.html",
+        "date": "2026-02-22 06:23:26",
+        "sentiment_score": 0.023428447544574738
+    },
+    {
+        "title": "Domingo de estabilidad general en la Península con temperaturas en aumento y máximas cercanas a 25oC en Sevilla y Murcia",
+        "image_url": "https://www.elplural.com/uploads/s1/24/64/59/5/europapress-5130498-algunas-calles-centro-sevilla-empezado-instalarse-toldos-calmar-calor_7_480x270.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.elplural.com/sociedad/domingo-estabilidad-general-peninsula-temperaturas-aumento-maximas-cercanas-25oc-sevilla-murcia_382142102",
+        "date": "2026-02-22 06:31:46",
+        "sentiment_score": -0.1065841019153595
+    },
+    {
+        "title": "La infancia de Albert Rivera en La Barceloneta: «Mis recuerdos están en la tienda de mis padres entre lavadoras y televisores»",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/infancia-albert-rivera.jpeg",
+        "tags": [
+            "celebrities",
+            "ciudadanos",
+            "gente",
+            "infancia",
+            "barcelona",
+            "albert rivera"
+        ],
+        "link": "https://theobjective.com/gente/2026-02-22/infancia-albert-rivera-barceloneta-tienda-padres/",
+        "date": "2026-02-22 06:30:00",
+        "sentiment_score": 0.2504333257675171
+    },
+    {
+        "title": "El Thyssen desvela los enigmas de Hammershøi",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/20/Hammershoi000-Rk8CvxtvgwefhYtLUHHrTPP-1200x840@RC.jpg",
+        "tags": [
+            "salud mental",
+            "exposiciones",
+            "carmen cervera thyssen bornemisza"
+        ],
+        "link": "https://www.leonoticias.com/culturas/thyssen-desvela-enigmas-hammershi-20260220072832-ntrc.html",
+        "date": "2026-02-22 06:28:36",
+        "sentiment_score": -0.5553137175738811
+    },
+    {
+        "title": "AEMET prevé un día soleado y cálido en Barcelona con viento suave del suroeste",
+        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
+        "tags": [
+            "okd",
+            "previsión del tiempo",
+            "tiempo",
+            "agencia estatal de meteorología (aemet)",
+            "españa",
+            "cataluña"
+        ],
+        "link": "https://okdiario.com/cataluna/aemet-preve-un-dia-soleado-y-calido-en-barcelona-con-viento-suave-del-suroeste-16286253",
+        "date": "2026-02-22 06:25:34",
+        "sentiment_score": 0.14303156733512878
+    },
+    {
+        "title": "“Mi trabajo es traducir el guión a personas, cosas, tiempo y dinero”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5ae54d1b-6583-42ea-9ec0-0fadc25bcffb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "guion",
+            "trabajo",
+            "cosas",
+            "personas",
+            "traducir"
+        ],
+        "link": "https://www.noticiasdenavarra.com/cultura/2026/02/22/trabajo-traducir-guion-personas-cosas-10728274.html",
+        "date": "2026-02-22 06:11:57",
+        "sentiment_score": -0.1604105830192566
     }
 ];
