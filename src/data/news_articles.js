@@ -1,525 +1,5 @@
 export default [
     {
-        "title": "El Congreso de Perú destituye al presidente José Jerí",
-        "image_url": "https://static.wixstatic.com/media/335561_b0c03d8ce6474d01a9c53f8e270ccb6e~mv2.jpg/v1/fit/w_960,h_640,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/el-congreso-de-per%C3%BA-destituye-al-presidente-jos%C3%A9-jer%C3%AD",
-        "date": "2026-02-17 21:48:32",
-        "sentiment_score": 0.09426109865307808
-    },
-    {
-        "title": "Cañizares, tras los presuntos insultos racistas a Vinícius: \"Puede evitar muchas cosas de las que sucede, siendo víctima igualmente de todo esto\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/17/6994ed66552ed.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/canizares-presuntos-insultos-racistas-vinicius-evitar-muchas-cosas-sucede-siendo-victima-igualmente-esto-20260217_3309921.html",
-        "date": "2026-02-17 22:38:22",
-        "sentiment_score": -0.3630611300468445
-    },
-    {
-        "title": "Mourinho no dirigirá al Benfica en el Bernabéu en Champions",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/30/2026013013070771239.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/mourinho-dirigira-benfica-bernabeu-champions/20260217233438375167.html",
-        "date": "2026-02-17 22:34:38",
-        "sentiment_score": -0.7628824058920145
-    },
-    {
-        "title": "Ricardo Díaz, catedrático de Ingeniería Química y Materiales: \"Poniendo todo el dinero que se tiene que poner, no creo que en menos de dos años lleguemos al nivel de excelencia\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/17/6994e88c75e46.jpeg",
-        "tags": [
-            "el cascabel"
-        ],
-        "link": "https://www.cope.es/trecetv/programas/el-cascabel/noticias/ricardo-diaz-catedratico-ingenieria-quimica-materiales-poniendo-dinero-poner-creo-dos-anos-lleguemos-nivel-excelencia-20260217_3309909.html",
-        "date": "2026-02-17 22:34:30",
-        "sentiment_score": -0.16871123015880585
-    },
-    {
-        "title": "La 'gesta' del Valencia Basket de ganar el título como debutante seguirá siendo única",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/16/la-gesta-del-valencia-basket-de-ganar-el-titulo-como-debutante-seguira-siendo-unica/",
-        "date": "2026-02-17 22:30:58",
-        "sentiment_score": 0.7361492030322552
-    },
-    {
-        "title": "Crónica del Benfica - Real Madrid: 0-1",
-        "image_url": "https://www.infobae.com/resizer/v2/XBGYCQXN4RA3JN7DFYKTP6OAAM.jpg?auth=dc6cb6339dcc9ea5048599d2c8f1d7a8b904f7a6df98d3c920c41d9d40ea1680&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/17/cronica-del-benfica-real-madrid-0-1/",
-        "date": "2026-02-17 22:30:37",
-        "sentiment_score": -0.08248788863420486
-    },
-    {
-        "title": "El Madrid gana el primer asalto en Lisboa tras un duelo bronco (0-1)",
-        "image_url": "https://cflvdg.avoz.es/sc/ipI8LNWhH6tiCG_cdhaZyZrGnT0=/768x/2026/02/17/00121771365241554980735/Foto/reu_20260217_212636571.jpg",
-        "tags": [
-            "benfica",
-            "champions league",
-            "real madrid",
-            "deportes"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/02/17/madrid-gana-primer-asalto-lisboa-tras-duelo-bronco-0-1/00031771366983683361404.htm",
-        "date": "2026-02-17 22:30:00",
-        "sentiment_score": 0.673746719956398
-    },
-    {
-        "title": "Vinicius enciende la luz para encarrilar el pase del Real Madrid a octavos",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/17/vinicius-gesto-victoria-keU-U20734442777iEI-1200x840@RC.jpg",
-        "tags": [
-            "madrid",
-            "cronica",
-            "benficareal"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-campeones/cronica-benfica-realmadrid-champions-playoff-20260217190004-ntrc.html",
-        "date": "2026-02-17 22:27:09",
-        "sentiment_score": -0.6599496752023697
-    },
-    {
-        "title": "Laporta cambia el \"Estimem\" por el \"Defensem el Barça\" y señala a 4 'enemigos públicos' del barcelonismo",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/17/culemania/palco/1003742733490_15728417_1706x960.jpg",
-        "tags": [
-            "joan laporta",
-            "elecciones barça",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260217/laporta-estimem-defensem-barca-enemigos-publicos-barcelonismo/1003742733605_0.html",
-        "date": "2026-02-17 22:26:07",
-        "sentiment_score": -0.1356033906340599
-    },
-    {
-        "title": "Richard Ríos volvió a jugar con el Benfica y protagonizó polémica jugada con Vinicius Jr. en la Champions League",
-        "image_url": "https://www.infobae.com/resizer/v2/OO5W7RGGUZBRJPBN46SAILU5YU.JPG?auth=e7e45ca4b75a8b61204c0a9d29177e714c95b16b7cd84870ba8a59103db7964e&height=2058&smart=true&width=2789",
-        "tags": [
-            "colombia-deportes",
-            "benfica",
-            "real madrid",
-            "vinicius jr.",
-            "champions league",
-            "richard ríos"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/17/richard-rios-volvio-a-jugar-con-el-benfica-y-protagonizo-polemica-jugada-con-vinicius-jr-en-la-champions-league/",
-        "date": "2026-02-17 22:24:22",
-        "sentiment_score": -0.524289533495903
-    },
-    {
-        "title": "Vinícius selló victoria del Real Madrid sobre Benfica en un partido lleno de tensión y polémica",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/e671b3a8b7c3e06d2e31410088b84340d6e97f75w.jpg",
-        "tags": [
-            "champions league",
-            "titulares",
-            "vinicius jr",
-            "deportes",
-            "real madrid",
-            "benfica"
-        ],
-        "link": "https://lapatilla.com/2026/02/17/vinicius-sello-victoria-del-real-madrid-sobre-benfica-en-un-partido-lleno-de-tension-y-polemica/",
-        "date": "2026-02-17 22:21:12",
-        "sentiment_score": 0.8307430725544691
-    },
-    {
-        "title": "Retrasos generalizados y demoras de hasta dos horas en el primer día de la línea Madrid-Andalucía",
-        "image_url": "https://www.infobae.com/resizer/v2/V3MSEDBLYVAEBFUQIY57PJLB4U.jpg?auth=bd3beddba3a0e84b3e1f4571871bb9e342c656446e7d51a9a9d3b2d58f508f57&height=1280&smart=true&width=1920",
-        "tags": [
-            "españa-noticias",
-            "españa-nacional",
-            "renfe",
-            "trenes",
-            "transportes españa",
-            "ave"
-        ],
-        "link": "https://www.infobae.com/espana/2026/02/17/retrasos-generalizados-y-demoras-de-hasta-dos-horas-en-el-primer-dia-de-la-linea-madrid-andalucia/",
-        "date": "2026-02-17 22:36:17",
-        "sentiment_score": -0.7155343629419804
-    },
-    {
-        "title": "Cerco al mundo de la noche en L’Hospitalet: precintan 16 bares musicales conflictivos en menos de un año",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/16/sucesos/1003742733019_15722588_1706x960.jpg",
-        "tags": [
-            "sucesos",
-            "mossos d'esquadra",
-            "david quirós",
-            "gran barcelona",
-            "bares y restaurantes",
-            "guardia urbana",
-            "l'hospitalet de llobregat"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260217/cerco-mundo-noche-lhospitalet-precintan-bares-musicales-conflictivos-ano/1003742733014_0.html",
-        "date": "2026-02-17 22:31:17",
-        "sentiment_score": -0.023270726203918457
-    },
-    {
-        "title": "Ricky Rubio vuelve a la Copa 15 años después",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/16/ricky-rubio-vuelve-a-la-copa-15-anos-despues/",
-        "date": "2026-02-17 22:30:14",
-        "sentiment_score": -0.041849419474601746
-    },
-    {
-        "title": "Beatriz, víctima de un olvidado campo de fútbol de Barcelona: “No he recuperado la movilidad que tenía antes”",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/17/vivir-en-barcelona/1003742733588_15729577_1706x960.jpg",
-        "tags": [
-            "el pulso de la ciudad",
-            "sant andreu de palomar",
-            "pp",
-            "la verneda i la pau",
-            "ayuntamiento de barcelona",
-            "generalitat de catalunya",
-            "daniel sirera",
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260217/beatriz-victima-olvidado-campo-futbol-barcelona-no-recuperado-movilidad/1003742733577_0.html",
-        "date": "2026-02-17 22:30:00",
-        "sentiment_score": -0.9397854898124933
-    },
-    {
-        "title": "Betevé compra un “asistente de IA” al grupo independentista Minoria Absoluta",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2020/02/05/economia/465213475_9327662_1706x960.jpg",
-        "tags": [
-            "empresas barcelona",
-            "vivir en barcelona",
-            "barcelona",
-            "independentismo",
-            "televisión",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260217/beteve-compra-asistente-ia-grupo-independentista-minoria-absoluta/1003742733385_0.html",
-        "date": "2026-02-17 22:30:00",
-        "sentiment_score": 0.6399277895689011
-    },
-    {
-        "title": "Victoria vecinal en Sant Andreu: el nuevo tanatorio se inaugurará este trimestre junto a La Maquinista tras años de protestas",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/17/sant-andreu/1003742733488_15728375_1706x960.jpg",
-        "tags": [
-            "vivienda",
-            "sant andreu de palomar",
-            "baró de viver",
-            "tanatorios barcelona",
-            "sant andreu"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sant-andreu/20260217/victoria-vecinal-sant-andreu-nuevo-tanatorio-inaugurara-trimestre-junto-maquinista-anos-protestas/1003742730035_0.html",
-        "date": "2026-02-17 22:30:00",
-        "sentiment_score": -0.03433710336685181
-    },
-    {
-        "title": "El Corte Inglés recauda más de 340.000 euros para la medicina personalizada contra el cáncer de mama",
-        "image_url": "https://melillahoy.es/wp-content/uploads/2026/02/donacion-cancer-mama-eci-2026.jpg",
-        "tags": [
-            "hospitales",
-            "ensayos clínicos",
-            "proyectos",
-            "solidaridad",
-            "tratamiento",
-            "campañas",
-            "farmacéuticas",
-            "medicina",
-            "el corte inglés",
-            "compromiso social",
-            "empresas",
-            "enfermedades",
-            "oncología",
-            "salud",
-            "donaciones",
-            "terapias",
-            "investigación",
-            "colaboraciones",
-            "responsabilidad social",
-            "sanidad",
-            "cáncer"
-        ],
-        "link": "https://melillahoy.es/la-campana-solidaria-de-el-corte-ingles-recauda-mas-de-340-000-euros-para-la-medicina-personalizada-contra-el-cancer-de-mama/",
-        "date": "2026-02-17 22:29:01",
-        "sentiment_score": 0.28514862060546875
-    },
-    {
-        "title": "El nuevo cine catalán conquista Berlín: \"Algo está cambiando\", según Variety",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/17/vida/1003742733629_15730061_1706x960.jpg",
-        "tags": [
-            "películas",
-            "cultura",
-            "creación",
-            "cine",
-            "cataluña",
-            "festivales"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/creacion/20260217/nuevo-cine-catalan-conquista-berlin-cambiando-variety-trt/1003742733620_0.html",
-        "date": "2026-02-17 22:28:20",
-        "sentiment_score": 0.05454018712043762
-    },
-    {
-        "title": "El descargo de Prestianni luego de que Vinícius lo denunciara por insultos racistas: “Malinterpretó lo que cree haber escuchado”",
-        "image_url": "https://www.infobae.com/resizer/v2/DI36EXCCDZDTJAH74JEHAFGB2M.jpg?auth=35cae026d2c790ca10b3a8b75421fe5c930b3ccde7eb9e8fc8f158903b879b36&height=1080&smart=true&width=1920",
-        "tags": [
-            "champions league",
-            "vinicius",
-            "prestianni",
-            "deportes-internacional",
-            "real madrid",
-            "benfica",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/18/el-descargo-de-prestianni-luego-de-que-vinicius-lo-denunciara-por-insultos-racistas-malinterpreto-lo-que-cree-haber-escuchado/",
-        "date": "2026-02-18 02:24:44",
-        "sentiment_score": -0.666148891672492
-    },
-    {
-        "title": "Luis Javier Suárez figura entre los delanteros más veloces de la Champions League: no es el único colombiano",
-        "image_url": "https://www.infobae.com/resizer/v2/6WELEJ7NHZD5NGFAAVJI3MDQJE.jpg?auth=248c2d2a4fa2ca7c10e4fe796cc880cd5c1c6a1f7dc12a6871b243883234d371&height=862&smart=true&width=1584",
-        "tags": [
-            "observatorio de fútbol cies",
-            "luis javier suárez",
-            "uefa champions league",
-            "velocidad máxima",
-            "colombia-deportes",
-            "colombia",
-            "ranking de jugadores"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/18/luis-javier-suarez-figura-entre-los-delanteros-mas-veloces-de-la-champions-league-no-es-el-unico-colombiano/",
-        "date": "2026-02-18 02:16:52",
-        "sentiment_score": 0.13163726776838303
-    },
-    {
-        "title": "¿Qué pasó entre Prestianni y Vinícius en el Benfica vs. Real Madrid y por qué se habla de racismo en la Champions?",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2026/02/17/vinicius-prestianni-benfica-real-madrid-presunto-racismo-orix/",
-        "date": "2026-02-18 02:03:39",
-        "sentiment_score": -0.8163781762123108
-    },
-    {
-        "title": "Champions League: José Mourinho lanza un dardo al árbitro por su expulsión",
-        "image_url": "https://pxcdn.meridiano.net/022026/1771379387339.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/liga-de-campeones/champions-league-jose-mourinho-lanza-un-dardo-al-arbitro-por-su-expulsion-202621721470",
-        "date": "2026-02-18 01:47:00",
-        "sentiment_score": -0.8227378316223621
-    },
-    {
-        "title": "Vinícius rompe su silencio tras el partido de Champions con un comunicado: “Los racistas son cobardes”",
-        "image_url": "https://www.infobae.com/resizer/v2/N6NIXOYX5ZE5FI7UXQ7QHFK25I.jpg?auth=955c378fb048909e5f3112da9491c34a61343629ed75664ae9387567ca7fe720&height=1080&smart=true&width=1920",
-        "tags": [
-            "fútbol",
-            "racismo",
-            "españa-deportes",
-            "españa-noticias",
-            "champions league",
-            "real madrid",
-            "fútbol españa",
-            "vinícius júnior"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/02/18/vinicius-rompe-su-silencio-tras-el-partido-de-champions-con-un-comunicado-los-racistas-son-cobardes/",
-        "date": "2026-02-18 01:36:02",
-        "sentiment_score": -0.7055249772965908
-    },
-    {
-        "title": "¿Qué pasó entre Prestianni y Vinícius en el Benfica vs. Real Madrid y por qué se habla de racismo en la Champions?",
-        "image_url": "https://ktvz.b-cdn.net/2026/02/638007225_1574276107754296_4346084738388088497_n-375x225.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://ktvz.com/cnn-spanish/2026/02/17/que-paso-entre-prestianni-y-vinicius-en-el-benfica-vs-real-madrid-y-por-que-se-habla-de-racismo-en-la-champions/",
-        "date": "2026-02-18 01:22:14",
-        "sentiment_score": -0.6569554544985294
-    },
-    {
-        "title": "Álvaro Fidalgo hace llorar a aficionado tras regalarle su playera",
-        "image_url": "https://www.infobae.com/resizer/v2/ORTKT7KSJZBA7HUR7FYD7T5X5I.png?auth=1a0dbcb98dbde8915c29c25fbc9e603a5f601466f7af8ca4e64726379c544608&height=900&smart=true&width=1600",
-        "tags": [
-            "álvaro fidalgo",
-            "laliga",
-            "real betis",
-            "mexico-noticias",
-            "mexico-deportes",
-            "club américa"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2026/02/18/alvaro-fidalgo-hace-llorar-a-aficionado-tras-regalarle-su-playera/",
-        "date": "2026-02-18 01:17:45",
-        "sentiment_score": -0.8468143865466118
-    },
-    {
-        "title": "La sanción podría recibir Prestianni si se confirma el insulto racista a Vinícius: qué dice el protocolo de la UEFA",
-        "image_url": "https://www.infobae.com/resizer/v2/OFLRKCOFH5G6NG5MSXZHXDOGKA.jpg?auth=610b1a809d9285e435de995e0e556e5522d9d0a3f15f9ce92aee16796e885891&height=1080&smart=true&width=1920",
-        "tags": [
-            "vinícius júnior",
-            "champions league",
-            "real madrid",
-            "benfica",
-            "deportes-argentina",
-            "gianluca prestianni"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/18/la-sancion-podria-recibir-prestianni-si-se-confirma-el-insulto-racista-a-vinicius-que-dice-el-protocolo-de-la-uefa/",
-        "date": "2026-02-18 01:14:29",
-        "sentiment_score": -0.06888193637132645
-    },
-    {
-        "title": "Seguridad extrema en El Atazar, la gran presa de Madrid: 130 metros de altura, miles de datos y un muro 'vivo' que se estira y encoge",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/51ded3774df26a5e18ce81351c21152a/crop/0x0/3024x3024/f/image/jpeg/assets/multimedia/imagenes/2022/01/31/16436433363550.jpg",
-        "tags": [
-            "artículos vicente coll"
-        ],
-        "link": "https://www.elmundo.es/madrid/2026/02/18/6994bb4521efa06b038b459c.html",
-        "date": "2026-02-18 01:05:25",
-        "sentiment_score": -0.6699871867895126
-    },
-    {
-        "title": "Insultos racistas contra Vinicius Jr. empaña juego de playoff de la Liga de Campeones",
-        "image_url": "https://noticiasaldiayalahora.co/wp-content/uploads/2026/02/Vinicius-Jr-777x437.webp",
-        "tags": [
-            "deportes",
-            "racismo",
-            "vinicius jr.",
-            "benfica",
-            "uefa",
-            "real madrid",
-            "liga de campeones"
-        ],
-        "link": "https://noticiasaldiayalahora.co/deportes/insultos-racistas-contra-vinicius-jr-empana-juego-de-playoff-de-la-liga-de-campeones/",
-        "date": "2026-02-18 00:57:32",
-        "sentiment_score": -0.6363438703119755
-    },
-    {
-        "title": "Loic Meillard, nuevo campeón olímpico de eslalon; Salarich acaba decimonoveno",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/16/loic-meillard-nuevo-campeon-olimpico-de-eslalon-salarich-acaba-decimonoveno/",
-        "date": "2026-02-18 02:16:50",
-        "sentiment_score": 0.11967271566390991
-    },
-    {
-        "title": "España: las predicciones del tiempo en Barcelona este 18 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima",
-            "clima en españa",
-            "clima en barcelona",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/18/espana-las-predicciones-del-tiempo-en-barcelona-este-18-de-febrero/",
-        "date": "2026-02-18 02:15:35",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "Meliá, Minor, Sercotel y Axel se apoyan en el negocio de las franquicias para crecer",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/b1649a22ff7a6d1062a75728aa73ca19/crop/0x0/660x440/f/webp/assets/multimedia/imagenes/2026/02/17/17713586735423.jpg",
-        "tags": [
-            "transporte y turismo>",
-            "empresas>",
-            "artículos rebeca arroyo>"
-        ],
-        "link": "https://www.expansion.com/empresas/transporte/2026/02/18/6994ccb1468aeba7648b45be.html",
-        "date": "2026-02-18 01:34:38",
-        "sentiment_score": 0.6201561316847801
-    },
-    {
-        "title": "Ravalear, la tragedia de la especulación inmobiliaria en el Raval de Barcelona contada en carne propia",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/e6254ddced7937c2244bbb4651a0e03c/crop/0x24/1181x1205/f/image/jpeg/assets/multimedia/imagenes/2021/05/31/16224775184865.jpg",
-        "tags": [
-            "series",
-            "críticas de cine",
-            "cultura",
-            "barcelona",
-            "artículos luis martínez",
-            "televisión",
-            "cine",
-            "festival de berlín",
-            "cataluña"
-        ],
-        "link": "https://www.elmundo.es/cultura/cine/2026/02/18/69949566e4d4d823128b4592.html",
-        "date": "2026-02-18 01:05:25",
-        "sentiment_score": -0.07795880734920502
-    },
-    {
-        "title": "Logicor crecerá un 25% en España con nuevos desarrollos",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/df3637402bdd5cfeb09a26e0a18fab59/crop/0x205/1992x1533/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/17/17713579849293.jpg",
-        "tags": [
-            "empresas>",
-            "artículos rebeca arroyo>",
-            "mercado inmobiliario>",
-            "inmobiliario y construcción>"
-        ],
-        "link": "https://www.expansion.com/inmobiliario/mercado/2026/02/18/6994c8e1e5fdea67398b459d.html",
-        "date": "2026-02-18 00:24:08",
-        "sentiment_score": 0.5150895826518536
-    },
-    {
-        "title": "Barcelona bajo la peste porcina: nuevos casos fuera del cordón de seguridad exigen acción inmediata",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/29/2025112912280969803.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.mundiario.com/articulo/sociedad/peste-porcina-africana-expande-barcelona-obliga-reforzar-control-sanitario-ambiental/20260218011859375170.html",
-        "date": "2026-02-18 00:18:59",
-        "sentiment_score": -0.9112040754407644
-    },
-    {
-        "title": "La Paz alargará la ida por el Porvenir y recortará la vuelta el Domingo de Ramos 2026",
-        "image_url": "https://static.grupojoly.com/clip/a6e0c27f-2f9f-4411-9579-0616087f3692_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ida",
-            "recortara",
-            "porvenir",
-            "alargara",
-            "paz"
-        ],
-        "link": "https://www.diariodesevilla.es/semana_santa/paz-alargara-ida-porvenir-recortara_0_2005936778.html",
-        "date": "2026-02-18 00:09:05",
-        "sentiment_score": -0.1267673522233963
-    },
-    {
-        "title": "El infantil canarista, sin nada que perder en la Minicopa Endesa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f3d7141a-3442-45c5-9be1-a57753054332_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "endesa",
-            "infantil",
-            "gran canaria",
-            "minicopa"
-        ],
-        "link": "https://www.eldia.es/deportes/cb-canarias/2026/02/18/infantil-canarista-perder-minicopa-endesa-126963221.html",
-        "date": "2026-02-18 00:00:59",
-        "sentiment_score": 0.8239475823938847
-    },
-    {
-        "title": "Cómo mejorar la gestión del agua y sus infraestructuras con la IA",
-        "image_url": "https://s10.s3c.es/imag/_v0/3120x1703/c/a/e/1200x655_Ainhoa_Lete_Siemens_1.JPG",
-        "tags": [
-            "tecnologia"
-        ],
-        "link": "https://www.eleconomista.es/tecnologia/noticias/13780441/02/26/como-mejorar-la-gestion-del-agua-y-sus-infraestructuras-con-la-ia.html",
-        "date": "2026-02-18 00:00:06",
-        "sentiment_score": -0.07629293203353882
-    },
-    {
-        "title": "Jesús Calleja habla ante las cámaras de 'Universo Calleja' al salir de la operación y el médico cuenta cómo ha ido",
-        "image_url": "https://album.mediaset.es/eimg/2026/02/17/callejamedico_fcff.png",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.telecinco.es/television/20260217/universo-calleja-jesus-calla-ante-camaras-salir-operacion-medico-cuenta-como-ha-ido_18_018381735.html",
-        "date": "2026-02-17 23:57:21",
-        "sentiment_score": -0.6057866141200066
-    },
-    {
         "title": "\"Todos los días vuelvo al tren y a aquella noche\": las víctimas del accidente de Adamuz se organizan un mes después",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6a03cee0-3ffc-4e1e-bf4d-de74d1648458_16-9-aspect-ratio_default_0_x1000y444.jpg",
         "tags": [
@@ -1262,16 +742,6 @@ export default [
         "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-18-feb-2026-partidazo-cope-20260219_3310829.html",
         "date": "2026-02-19 00:39:46",
         "sentiment_score": 0.09823504090309143
-    },
-    {
-        "title": "El Congreso de Perú destituye al presidente José Jerí",
-        "image_url": "https://static.wixstatic.com/media/335561_b0c03d8ce6474d01a9c53f8e270ccb6e~mv2.jpg/v1/fit/w_960,h_640,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/el-congreso-de-per%C3%BA-destituye-al-presidente-jos%C3%A9-jer%C3%AD",
-        "date": "2026-02-17 21:48:32",
-        "sentiment_score": 0.09426100924611092
     },
     {
         "title": "La escuela taurina de La Algaba no consigue ningún alumno en 2026: «Se hace un llamamiento para seguir fomentado la tauromaquia»",
@@ -3196,5 +2666,230 @@ export default [
         "link": "https://www.elperiodico.com/es/economia/20260221/familias-pierden-adquisitivo-pese-crecimiento-127042276",
         "date": "2026-02-21 06:00:38",
         "sentiment_score": -0.5269990600645542
+    },
+    {
+        "title": "La alianza del narco boliviano y el nazi refugiado que cambió el negocio de la cocaína",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/03/20/los-niveles-de-cocaina-estan-aumeentando-en-las-aguas-residuales-de-muchas-ciudades-europeas.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.20minutos.es/internacional/alianza-narco-boliviano-nazi-refugiado-negocio-cocaina_6934265_0.html",
+        "date": "2026-02-21 17:38:30",
+        "sentiment_score": -0.8909451998770237
+    },
+    {
+        "title": "El Oviedo chafa a la Real Sociedad su remontada y el Rayo y el Betis se perdonan mutuamente",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260221183552_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-oviedo-chafa-real-sociedad-remontada-rayo-betis-perdonan-mutuamente-20260221183552.html",
+        "date": "2026-02-21 17:35:52",
+        "sentiment_score": 0.2833285480737686
+    },
+    {
+        "title": "Leire Martínez: \"A estas alturas no pensaba que yo podía volver a ser una novedad\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/20/leire-martinez-a-estas-alturas-no-pensaba-que-yo-podia-volver-a-ser-una-novedad/",
+        "date": "2026-02-21 17:30:41",
+        "sentiment_score": -0.47330375015735626
+    },
+    {
+        "title": "El Albacete BP, igual de local que de visitante",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7cf7e086-9bde-4a0d-b3bd-567275c16742_16-9-aspect-ratio_default_0_x450y200.jpg",
+        "tags": [
+            "málaga cf",
+            "clasificación",
+            "albacete",
+            "la rosaleda",
+            "laliga hypermotion"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malagacf/2026/02/21/albacete-bp-igual-local-visitante-malaga-cf-127113453.html",
+        "date": "2026-02-21 17:28:16",
+        "sentiment_score": -0.9084878070279956
+    },
+    {
+        "title": "El día en el que el Levante evitó un hito histórico del Barça",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/21/levante-barcelona-boateng-2018-ktGG-U208261782665pC-1200x840@RC.jpg",
+        "tags": [
+            "philippe coutinho",
+            "ernesto valverde",
+            "levante",
+            "f.c. barcelona"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/levante-evito-hito-historico-barcelona-20260221182720-ntrc.html",
+        "date": "2026-02-21 17:27:52",
+        "sentiment_score": 0.8260931633412838
+    },
+    {
+        "title": "La Audiencia de Madrid expulsa a una mujer de su piso de alquiler por cobrar 500 euros a otras personas por las habitaciones",
+        "image_url": "https://www.infobae.com/resizer/v2/T37ZC443GZHJLKJ3XENV4JHJVI.jpg?auth=27fa259cff779415c78486eeb987aa85378c385bc7c6fc9564b9f7be771ab751&height=2222&smart=true&width=3333",
+        "tags": [
+            "españa-noticias",
+            "españa-nacional",
+            "tribunales",
+            "vivienda españa",
+            "alquiler"
+        ],
+        "link": "https://www.infobae.com/espana/2026/02/21/la-audiencia-de-madrid-expulsa-a-una-mujer-de-su-piso-de-alquiler-por-cobrar-500-euros-a-otras-personas-por-las-habitaciones/",
+        "date": "2026-02-21 17:26:27",
+        "sentiment_score": -0.08693208545446396
+    },
+    {
+        "title": "Varias plataformas extremeñas anuncian movilizaciones contra el \"colapso sanitario\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/51869c1d-dec7-43fe-99cd-534484765186_16-9-aspect-ratio_default_0_x1200y533.jpg",
+        "tags": [
+            "sanidad pública",
+            "extremadura",
+            "conciertos",
+            "salud",
+            "sanidad",
+            "público",
+            "comunidades autónomas"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/21/plataformas-extremenas-protestas-listas-espera-sanidad-127113346.html",
+        "date": "2026-02-21 17:18:48",
+        "sentiment_score": 0.13754014670848846
+    },
+    {
+        "title": "Directo | Osasuna - Real Madrid",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/21/Clipboard-0156-knCD-U207798914279oB-758x531@RC.jpg",
+        "tags": [
+            "entertainment",
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/deportes/futbol/liga-primera/directo-osasuna-realmadrid-20260221141411-dirc.html",
+        "date": "2026-02-21 17:10:24",
+        "sentiment_score": -0.015947483479976654
+    },
+    {
+        "title": "Último escalón del Palma Futsal antes de la Final Four",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4385727.jpg",
+        "tags": [
+            "fútbol sala",
+            "palma futsal",
+            "antonio vadillo",
+            "liga de campeones"
+        ],
+        "link": "https://www.ultimahora.es/deportes/palma-futsal/2026/02/21/2575045/ultimo-escalon-del-palma-futsal-antes-final-four.html",
+        "date": "2026-02-21 17:39:00",
+        "sentiment_score": 0.3694387823343277
+    },
+    {
+        "title": "Detenidos dos falsos revisores del gas por cometer 31 robos en Cataluña",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/01/31/89F5CE01-9FE3-4195-8441-47CCCB2677BE/imagen-coche-mossos-desquadra_98.jpg?crop=1920%2C1080%2Cx0%2Cy101&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "sociedad",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/sociedad/detenidos-dos-falsos-revisores-gas-cometer-31-robos-cataluna_202602216999e8641817b41eb65b8772.html",
+        "date": "2026-02-21 17:33:41",
+        "sentiment_score": -0.6900623235851526
+    },
+    {
+        "title": "Albares dice sentirse \"dolido\" por la participación de Europa en la Junta de Paz de Trump",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/20/albares-dice-sentirse-dolido-por-la-participacion-de-europa-en-la-junta-de-paz-de-trump/",
+        "date": "2026-02-21 17:31:22",
+        "sentiment_score": -0.8935343129560351
+    },
+    {
+        "title": "Barcelona derribará más de 30 naves en 2027 para levantar el nuevo macrobarrio de la Sagrera con más de 3.300 viviendas",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/09/19/movilidad/1003742690291_15173983_1706x960.jpg",
+        "tags": [
+            "urbanismo",
+            "vivienda",
+            "obras",
+            "ayuntamiento de barcelona",
+            "sant andreu"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sant-andreu/20260221/barcelona-derribara-naves-levantar-nuevo-macrobarrio-sagrera-viviendas/1003742735020_0.html",
+        "date": "2026-02-21 17:23:02",
+        "sentiment_score": 0.5822021327912807
+    },
+    {
+        "title": "Prisión provisional para dos falsos revisores de gas por estafar 200.000 euros a ancianos en Catalunya",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0078fd4d-43ae-4bf9-a0ff-743c706d8655_16-9-discover-aspect-ratio_default_0_x960y360.jpg",
+        "tags": [
+            "estafas",
+            "barcelona",
+            "viladecans",
+            "granollers"
+        ],
+        "link": "https://www.elperiodico.com/es/sucesos/20260221/prision-provisional-falsos-revisores-gas-estafas-200000-euros-cataluna-barcelona-127115103",
+        "date": "2026-02-21 17:21:32",
+        "sentiment_score": -0.8426437480375171
+    },
+    {
+        "title": "La batalla por un IVA reducido volverá a marcar una feria Arco que mira al futuro",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/21/6999e4cc7cbaa.r_d.711-417-4885.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.lavanguardia.com/cultura/20260221/11472268/batalla-iva-reducido-volvera-marcar-feria-arco-mira-futuro.html",
+        "date": "2026-02-21 17:17:40",
+        "sentiment_score": 0.2927588764578104
+    },
+    {
+        "title": "El Cabildo de Gran reafirma su apoyo a la Fundación Pequeño Valiente y su compromiso con la población infantil y sus familias",
+        "image_url": "https://static.eldiario.es/clip/93a2a4a6-c376-43ef-bfbb-f0a3b5452d05_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "compromiso",
+            "fundacion",
+            "reafirma",
+            "poblacion",
+            "apoyo",
+            "infantil",
+            "gran",
+            "familias",
+            "pequeno",
+            "cabildo",
+            "valiente"
+        ],
+        "link": "https://www.eldiario.es/canariasahora/sociedad/cabildo-gran-reafirma-apoyo-fundacion-pequeno-valiente-compromiso-poblacion-infantil-familias_1_13010285.html",
+        "date": "2026-02-21 17:03:50",
+        "sentiment_score": 0.029865682125091553
+    },
+    {
+        "title": "Planes mozartianos con Orquesta Barucco o Pinchas Zukerman en varios escenarios por España",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/20/planes-mozartianos-con-orquesta-barucco-o-pinchas-zukerman-en-varios-escenarios-por-espana/",
+        "date": "2026-02-21 17:02:27",
+        "sentiment_score": 0.0018795132637023926
+    },
+    {
+        "title": "Es oficial: Disney On Ice confirma el regreso de su espectáculo a Barcelona",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/20/mas-economia/1003742734661_15741069_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "walt disney",
+            "barcelona",
+            "+economía",
+            "palau sant jordi"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/mas-economia/20260221/oficial-disney-on-ice-confirma-espectaculo-barcelona-trt/1003742734658_0.html",
+        "date": "2026-02-21 17:00:00",
+        "sentiment_score": 0.49735408648848534
+    },
+    {
+        "title": "González Fuertes vuelve a liarse con otra revisión eterna: cuatro minutos mirando un penalti en el VAR para nada",
+        "image_url": "https://okdiario.com/img/2026/02/21/gonzalez-fuertes-rayo-betis.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://okdiario.com/deportes/gonzalez-fuertes-vuelve-liarse-otra-revision-eterna-cuatro-minutos-mirando-penalti-var-nada-16284885",
+        "date": "2026-02-21 16:57:20",
+        "sentiment_score": -0.6334958225488663
     }
 ];
