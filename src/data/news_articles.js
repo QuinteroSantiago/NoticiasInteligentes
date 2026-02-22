@@ -1,88 +1,5 @@
 export default [
     {
-        "title": "\"Todos los días vuelvo al tren y a aquella noche\": las víctimas del accidente de Adamuz se organizan un mes después",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6a03cee0-3ffc-4e1e-bf4d-de74d1648458_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "accidente de tren córdoba",
-            "alvia",
-            "huelva",
-            "víctimas",
-            "accidentes de tren"
-        ],
-        "link": "https://www.farodevigo.es/sociedad/2026/02/18/dias-vuelvo-tren-noche-victimas-accidente-adamuz-126968334.html",
-        "date": "2026-02-18 07:00:49",
-        "sentiment_score": -0.3414949029684067
-    },
-    {
-        "title": "«Ibiza está especialmente mal»: llega el catedrático que pide derogar el 90% de la Ley de Vivienda",
-        "image_url": "https://lavozdeibiza.com/wp-content/uploads/2026/02/Sergio-Nassarre-Aznar.jpg",
-        "tags": [
-            "ibiza",
-            "actualidad",
-            "consell de ibiza",
-            "actualidad 2",
-            "colegio de arquitectos de ibiza y formentera",
-            "crisis de la vivienda",
-            "ley de vivienda"
-        ],
-        "link": "https://lavozdeibiza.com/actualidad/ibiza-esta-especialmente-mal-llega-el-catedratico-que-pide-derogar-el-90-de-la-ley-de-vivienda/",
-        "date": "2026-02-18 06:59:14",
-        "sentiment_score": -0.8175628837198019
-    },
-    {
-        "title": "Defensa a ultranza de Mbappé a Vinícius tras los insultos: llamó \"puto racista\" a Prestianni hasta 4 veces",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/17/6994edbaac2534-84184266.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/defensa-ultranza-mbappe-vinicius-tras-los-insultos-llamo-puto-racista-prestianni-hasta-cuatro-veces_6935507_0.html",
-        "date": "2026-02-18 06:58:57",
-        "sentiment_score": -0.9032986741513014
-    },
-    {
-        "title": "Dónde ver el Brujas - Atlético: día y hora de la ida de dieciseisavos de final de la Champions",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/02/16/6992e52639328.jpeg",
-        "tags": [
-            "cultura y ocio"
-        ],
-        "link": "https://www.lavanguardia.com/comprar/cultura-ocio/20260218/11467441/donde-ver-brujas-atletico-madrid-dia-hora-ida-partido-dieciseisavos-final-champions-league-mkt-movi.html",
-        "date": "2026-02-18 06:50:00",
-        "sentiment_score": -0.1571761667728424
-    },
-    {
-        "title": "La queja del Barça sobre el VAR y la victoria polémica del Real Madrid, protagonistas de las portadas deportivas",
-        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/02/18/699558bd6125f.jpeg",
-        "tags": [
-            "vaya mundo"
-        ],
-        "link": "https://www.mundodeportivo.com/vaya-mundo/20260218/1004130768/queja-barca-sobre-var-victoria-polemica-real-madrid-protagonistas-portadas-deportivas-galeria-dct.html",
-        "date": "2026-02-18 06:48:42",
-        "sentiment_score": 0.215789794921875
-    },
-    {
-        "title": "La jueza del caso Plus Ultra ve incompatible que la abogada del Estado que defendió a la SEPI sea ahora letrada de un investigado",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cc175702-3eb9-4990-988b-9d5594426486_16-9-aspect-ratio_default_0_x960y360.jpg",
-        "tags": [
-            "abogacía del estado,abogados,letrados,josé luis rodríguez zapatero,zapatero,nicolás maduro,rescate,sepi"
-        ],
-        "link": "https://www.elcorreoweb.es/espana/2026/02/18/jueza-plus-ultra-sepi-seoane-julio-martinez-zapatero-126967914.html",
-        "date": "2026-02-18 06:37:01",
-        "sentiment_score": -0.5937995426356792
-    },
-    {
-        "title": "La escuela taurina de La Algaba no consigue ningún alumno en 2026: «Se hace un llamamiento para seguir fomentado la tauromaquia»",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/4a/media_thumb-link-4147962.webp?1771343526=",
-        "tags": [
-            "actualidad",
-            "sevilla",
-            "ayuntamientos",
-            "arte de cúchares"
-        ],
-        "link": "https://www.meneame.net/story/escuela-taurina-algaba-no-consigue-ningun-alumno-2026-hace",
-        "date": "2026-02-18 07:35:03",
-        "sentiment_score": 0.0032934844493865967
-    },
-    {
         "title": "El Unicaja ya está en Valencia",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc2cf5ab-9c41-46f0-a877-6f96442a87b2_16-9-aspect-ratio_default_0_x914y400.jpg",
         "tags": [
@@ -742,19 +659,6 @@ export default [
         "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-18-feb-2026-partidazo-cope-20260219_3310829.html",
         "date": "2026-02-19 00:39:46",
         "sentiment_score": 0.09823504090309143
-    },
-    {
-        "title": "La escuela taurina de La Algaba no consigue ningún alumno en 2026: «Se hace un llamamiento para seguir fomentado la tauromaquia»",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/4a/media_thumb-link-4147962.webp?1771343526=",
-        "tags": [
-            "actualidad",
-            "sevilla",
-            "ayuntamientos",
-            "arte de cúchares"
-        ],
-        "link": "https://www.meneame.net/story/escuela-taurina-algaba-no-consigue-ningun-alumno-2026-hace",
-        "date": "2026-02-18 07:35:03",
-        "sentiment_score": 0.0032936781644821167
     },
     {
         "title": "El motor híbrido ultraeficiente de Renault y Repsol que irrumpe en Europa",
@@ -2891,5 +2795,183 @@ export default [
         "link": "https://okdiario.com/deportes/gonzalez-fuertes-vuelve-liarse-otra-revision-eterna-cuatro-minutos-mirando-penalti-var-nada-16284885",
         "date": "2026-02-21 16:57:20",
         "sentiment_score": -0.6334958225488663
+    },
+    {
+        "title": "Galería de imágenes de la semifinal de Copa entre Valencia Basket y Real Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e3210a27-1a4c-4997-b501-113997d07870_16-9-aspect-ratio_default_0_x769y341.jpg",
+        "tags": [
+            "valencia basket,real madrid,copa del rey,copa del rey de baloncesto"
+        ],
+        "link": "https://www.superdeporte.es/valencia-basket/2026/02/21/galeria-imagenes-semifinal-copa-valencia-baloncesto-127122481.html",
+        "date": "2026-02-21 22:19:27",
+        "sentiment_score": -0.8819402698427439
+    },
+    {
+        "title": "Se complica el debut de James Rodríguez con Minnesota United: en riesgo de no aparecer ante Cincinnati",
+        "image_url": "https://www.infobae.com/resizer/v2/KNORQRDNPNGBJHNGCAXCZWXMF4.jpg?auth=b8ce414d136f52db5abfc25526735ef101bb15616b21ba2d2689893783c6b8a1&height=1836&smart=true&width=3264",
+        "tags": [
+            "minnesota united",
+            "mls",
+            "colombia-deportes",
+            "cameron knowles",
+            "minnesota united vs austin fc",
+            "james rodríguez minnesota",
+            "cincinnati fc",
+            "james rodríguez"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/21/se-complica-el-debut-de-james-rodriguez-con-minnesota-united-en-riesgo-de-no-aparecer-ante-cincinnati/",
+        "date": "2026-02-21 22:17:13",
+        "sentiment_score": -0.7688082456588745
+    },
+    {
+        "title": "Baskonia regresa a una final de Copa 17 años después",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/21/barcelona-baskonia-cronica-k4cG--758x531@RC.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/deportes/baloncesto/baskonia-regresa-final-copa-20260221225422-ntrc.html",
+        "date": "2026-02-21 22:14:38",
+        "sentiment_score": -0.8612198904156685
+    },
+    {
+        "title": "Así fue el partido entre el Avilés y el Real Madrid Castilla",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e2ad09cb-f2e7-4658-8e12-0ca7a0d3b8be_16-9-aspect-ratio_default_0_x1000y418.jpg",
+        "tags": [
+            "real",
+            "castilla",
+            "partido",
+            "madrid",
+            "aviles"
+        ],
+        "link": "https://www.lne.es/fotos/deportes/2026/02/21/partido-aviles-real-madrid-castilla-127122347.html",
+        "date": "2026-02-21 22:08:41",
+        "sentiment_score": -0.16723200678825378
+    },
+    {
+        "title": "El Baskonia, a un paso de la gloria",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/12373cb6-42bb-48b0-865e-cdb71328bb4a_16-9-aspect-ratio_default_0_x863y139.jpg",
+        "tags": [
+            "copa del rey",
+            "baskonia",
+            "crónica",
+            "barcelona",
+            "semifinal"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/21/baskonia-cronica-barcelona-copa-del-rey-semifinal-10731013.html",
+        "date": "2026-02-21 22:02:01",
+        "sentiment_score": -0.08251315355300903
+    },
+    {
+        "title": "Kosner Baskonia noquea al Barça en el último cuarto y se cita con el Real Madrid en la final de Copa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f0a0e352-8d0d-49f8-afdf-983da53e72af_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "baloncesto",
+            "copa del rey de baloncesto"
+        ],
+        "link": "https://www.elperiodicodearagon.com/deportes/2026/02/21/kosner-baskonia-noquea-barca-ultimo-127122204.html",
+        "date": "2026-02-21 22:01:07",
+        "sentiment_score": 0.22853057086467743
+    },
+    {
+        "title": "Amaral toca como en casa en un Coliseum emocionado",
+        "image_url": "https://cflvdg.avoz.es/sc/k5-uzMvYet0bjBbTd0BzRMySV3g=/768x/2026/02/21/00121771709643470895173/Foto/h_20260221_220430000.jpg",
+        "tags": [
+            "conciertos",
+            "arte",
+            "zaragoza",
+            "amaral",
+            "ribeira sacra",
+            "a coruña ciudad",
+            "sumar",
+            "a coruña",
+            "yolanda díaz",
+            "dolce vita coruña"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/coruna/2026/02/22/amaral-toca-casa-coliseum-emocionado/0003_202602H22C4992.htm",
+        "date": "2026-02-21 22:21:00",
+        "sentiment_score": 0.2973329424858093
+    },
+    {
+        "title": "Un encuentro de ‘therians’ termina con cinco personas detenidas en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/G5HDSNZACJHQBA4YRZLRB5D5LE.jpeg?auth=34a5321bb8e6029e58625406c8ad21212c4ec0fef27983127ea9a418ce8274ef&height=300&smart=true&width=450",
+        "tags": [
+            "mossos d esquadra",
+            "españa-noticias",
+            "españa-sociedad",
+            "redes sociales",
+            "catalauña",
+            "barcelona",
+            "tiktok españa"
+        ],
+        "link": "https://www.infobae.com/espana/2026/02/21/un-encuentro-de-therians-termina-con-cinco-personas-detenidas-en-barcelona/",
+        "date": "2026-02-21 22:18:45",
+        "sentiment_score": -0.13333292305469513
+    },
+    {
+        "title": "22:00 | 21 FEB 2026 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-21-feb-2026-juego-20260221_3312621.html",
+        "date": "2026-02-21 22:17:16",
+        "sentiment_score": 0.03907959535717964
+    },
+    {
+        "title": "Jaume Collboni señala su principal objetivo como alcalde de Barcelona: \"Esto conlleva construir más pisos\"",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/02/21/699a2e43b7d95.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20260221/1004132491/jaume-collboni-senala-principal-objetivo-alcalde-barcelona-esto-conlleva-construir-mas-pisos-dct.html",
+        "date": "2026-02-21 22:17:13",
+        "sentiment_score": 0.3591558560729027
+    },
+    {
+        "title": "En Barcelona realizan saneamiento de más de 100 arroyos y canales",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/02/IMG_4301-300x225.jpg",
+        "tags": [
+            "actualidad",
+            "anzoátegui"
+        ],
+        "link": "https://ultimasnoticias.com.ve/anzoateggui/en-barcelona-realizan-saneamiento-de-mas-de-100-arroyos-y-canales/",
+        "date": "2026-02-21 22:15:32",
+        "sentiment_score": -0.042255252599716187
+    },
+    {
+        "title": "Una regularización que siembra dudas",
+        "image_url": "https://www.eldiadevalladolid.com/media/img/2026/2964c4e0-b4f2-4e8d-9c3aefb128b7ad14.jpg",
+        "tags": [
+            "podemos",
+            "bruselas",
+            "unión europea",
+            "política",
+            "inmigración",
+            "pp",
+            "consejo de ministros",
+            "educación",
+            "psoe",
+            "agricultura",
+            "elma saiz",
+            "financiación autonómica",
+            "españa",
+            "congreso de los diputados",
+            "seguridad social"
+        ],
+        "link": "https://www.eldiadevalladolid.com/noticia/z79b49cd5-a28b-43f6-a86e22a6274c5fd5/202602/una-regularizacion-que-siembra-dudas",
+        "date": "2026-02-21 22:13:55",
+        "sentiment_score": -0.3257693350315094
+    },
+    {
+        "title": "Dónde han caído el bote de 110 millones de euros de la Primitiva, los 1'5 de la Bonoloto, y los premios de la ONCE de hoy sábado 21 de febrero de 2026",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2014/12/22/DD31BA8F-5539-4BCD-9B51-A3993D62F6FE/98.jpg?crop=800%2C450%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "loterías",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-bote-110-millones-euros-primitiva-15-bonoloto-premios-once-hoy-sabado-21-febrero-2026_20260221699a2cc21817b41eb65be846.html",
+        "date": "2026-02-21 22:08:02",
+        "sentiment_score": 0.06332855299115181
     }
 ];
