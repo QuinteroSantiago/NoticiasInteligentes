@@ -2973,5 +2973,226 @@ export default [
         "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-bote-110-millones-euros-primitiva-15-bonoloto-premios-once-hoy-sabado-21-febrero-2026_20260221699a2cc21817b41eb65be846.html",
         "date": "2026-02-21 22:08:02",
         "sentiment_score": 0.06332855299115181
+    },
+    {
+        "title": "El gigante Westinghouse lanza la central nuclear del futuro: puede operar sin necesidad de refrigerarse con ríos o mar",
+        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139902_261551298_1706x960.jpg",
+        "tags": [
+            "westinghouse",
+            "centrales nucleares",
+            "energía nuclear",
+            "energía - nuclear",
+            "observatorio de la energía"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20260222/gigante-westinghouse-lanza-central-nuclear-futuro-puede-operar-sin-necesidad-refrigerarse-rios-mar/1003744139099_0.html",
+        "date": "2026-02-22 01:51:19",
+        "sentiment_score": 0.40835655108094215
+    },
+    {
+        "title": "Hisdesat realiza 30 maniobras evasivas en ocho años para salvar al satélite espía español de sufrir colisiones en el espacio",
+        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139631_261547379_1706x960.jpg",
+        "tags": [
+            "industria de defensa",
+            "industria aeroespacial",
+            "satélites espaciales",
+            "observatorio de la defensa",
+            "defensa - espacio",
+            "hisdesat"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20260222/hisdesat-realiza-maniobras-evasivas-anos-salvar-satelite-espia-espanol-sufrir-colisiones-espacio/1003744139551_0.html",
+        "date": "2026-02-22 01:50:54",
+        "sentiment_score": -0.06922388076782227
+    },
+    {
+        "title": "Copa del Rey de baloncesto: Baskonia da la sorpresa y elimina al Barcelona",
+        "image_url": "https://pxcdn.2001online.com/2001/022026/1771725149118/RS887072_DGL_0158-copia-1250x704.jpg?ch=675&cw=1200",
+        "tags": [
+            "copa del rey",
+            "baskonia",
+            "españa",
+            "valencia",
+            "baloncesto",
+            "real madrid",
+            "barcelona"
+        ],
+        "link": "https://2001online.com/deportes/copa-del-rey-de-baloncesto-baskonia-da-la-sorpresa-y-elimina-al-barcelona-202622122160",
+        "date": "2026-02-22 01:34:33",
+        "sentiment_score": 0.839628541842103
+    },
+    {
+        "title": "Real Madrid sufrió duro tropiezo ante el Osasuna",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/02/Vinicius-Jr-300x225.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://ultimasnoticias.com.ve/deportes/real-madrid-sufrio-duro-tropiezo-ante-el-osasuna/",
+        "date": "2026-02-22 01:32:06",
+        "sentiment_score": -0.3198150619864464
+    },
+    {
+        "title": "El show de Cristiano Ronaldo en la goleada del Al Nassr: del premio por su doblete al festejo con una prenda que vistió Messi",
+        "image_url": "https://www.infobae.com/resizer/v2/JZUWTQERJRC4VAYJIRZFUQKUWE.jpg?auth=16daed049be467c96ff1daa7531290e390a2484c9dd43d7198bf2c48b043bbea&height=2304&smart=true&width=4096",
+        "tags": [
+            "lionel messi",
+            "al hilal",
+            "saudi pro league",
+            "deportes-internacional",
+            "al nassr",
+            "cristiano ronaldo"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/22/el-show-de-cristiano-ronaldo-en-la-goleada-del-al-nassr-del-premio-por-su-doblete-al-festejo-con-una-prenda-que-vistio-messi/",
+        "date": "2026-02-22 00:49:48",
+        "sentiment_score": 0.8365904502570629
+    },
+    {
+        "title": "Juan Lobato: «Si nadie se atreve a opinar del de arriba, porque si opina mal, le echan, hay menos control para luchar contra la corrupción»",
+        "image_url": "https://www.eldebate.com/files/article_social/files/fp/uploads/2026/02/20/699892dca6854.r_d.2984-1925-0.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20260222/juan-lobato-nadie-atreve-opinar-arriba-porque-opina-mal-le-echan-hay-menos-control-luchar-contra-corrupcion_387649.html",
+        "date": "2026-02-22 00:30:00",
+        "sentiment_score": -0.8478152081370354
+    },
+    {
+        "title": "El Baskonia sobrevive al Barça y regresa a una final 17 años después",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/22/699a4cdd291e9.r_d.2685-1418-2308.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20260222/baskonia-sobrevive-barca-regresa-final-17-anos-despues_388034.html",
+        "date": "2026-02-22 00:25:38",
+        "sentiment_score": 0.1522528976202011
+    },
+    {
+        "title": "Arbeloa y la polémica tras caer contra Osasuna: \"Dos fueras de juego justos y los dos en contra...\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/22/image-ef1a72e1-0346-4637-b64e-e991a0728ce9-85-2560-1440.jpeg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/arbeloa-rueda-prensa-osasuna-real-madrid-jugadas-polemicas_vid60059466/video.shtml",
+        "date": "2026-02-22 00:19:18",
+        "sentiment_score": -0.4461129382252693
+    },
+    {
+        "title": "21 FEB 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/21-feb-2026-tramo-final-juego-20260222_3312634.html",
+        "date": "2026-02-22 00:12:32",
+        "sentiment_score": 0.22999891638755798
+    },
+    {
+        "title": "Cinco detenidos en Barcelona tras un encuentro de 'therians' que ha reunido a unas 3.000 personas",
+        "image_url": "https://s3.elespanol.com/2026/02/13/actualidad/1003744129621_261558810_1706x960.jpg",
+        "tags": [
+            "therians",
+            "sucesos",
+            "barcelona"
+        ],
+        "link": "https://www.elespanol.com/sociedad/sucesos/20260222/detenidos-barcelona-encuentro-therians-reunido-personas/1003744140470_0.html",
+        "date": "2026-02-22 02:20:06",
+        "sentiment_score": -0.924485594034195
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 22 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima",
+            "clima en españa",
+            "clima en barcelona",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/22/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-22-de-febrero/",
+        "date": "2026-02-22 02:01:14",
+        "sentiment_score": -0.05413059890270233
+    },
+    {
+        "title": "Darío Benedetto puso fin a su racha de 747 días sin convertir un gol y le dio el triunfo al Barcelona de Ecuador",
+        "image_url": "https://www.infobae.com/resizer/v2/MG7PO2S2T5EPRIWOBKMI5FICAI.png?auth=fd33da90e10a31d9bce5336ea9a66b51804ef3d1fa91efde83e046e87b6d8bd9&height=1080&smart=true&width=1920",
+        "tags": [
+            "barcelona sc",
+            "ecuador",
+            "deportes-argentina",
+            "darío benedetto"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/22/dario-benedetto-puso-fin-a-su-racha-negativa-de-747-dias-sin-convertir-un-gol-y-le-dio-el-triunfo-al-barcelona-de-ecuador/",
+        "date": "2026-02-22 01:53:41",
+        "sentiment_score": 0.8441056832671165
+    },
+    {
+        "title": "Los pelotazos inmobiliarios del Estado: ingresa 371 millones en cinco años de pleno boom del ladrillo en España",
+        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139294_261542945_1706x960.jpg",
+        "tags": [
+            "sector inmobiliario",
+            "españa",
+            "patrimonio",
+            "macroeconomía"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20260222/pelotazos-inmobiliarios-ingresa-millones-anos-pleno-boom-ladrillo-espana/1003744139128_0.html",
+        "date": "2026-02-22 01:47:58",
+        "sentiment_score": -0.0412934273481369
+    },
+    {
+        "title": "Europopper, TuCamello.com y Telecoca, las webs que venden droga en España sin pudor: \"En un mes facturo 10.000 euros\"",
+        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139975_261552255_1706x960.jpg",
+        "tags": [
+            "porfolio",
+            "drogas",
+            "consumo drogas",
+            "reportajes-newsletter",
+            "policía nacional",
+            "reportajes",
+            "tráfico de drogas"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260222/europopper-tucamellocom-telecoca-webs-venden-droga-espana-sin-pudor-mes-facturo-euros/1003744135349_0.html",
+        "date": "2026-02-22 01:27:09",
+        "sentiment_score": -0.773338058963418
+    },
+    {
+        "title": "Las musulmanas que huyeron del burka claman en España: \"Me borró del mundo. Sientes que no tienes identidad\"",
+        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139878_261550876_1706x960.jpg",
+        "tags": [
+            "porfolio",
+            "partido popular (pp)",
+            "burka",
+            "vox",
+            "reportajes-newsletter",
+            "religión",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260222/musulmanas-huyeron-burka-claman-espana-borro-mundo-sientes-no-identidad/1003744139434_0.html",
+        "date": "2026-02-22 01:26:47",
+        "sentiment_score": 0.014109037816524506
+    },
+    {
+        "title": "La fuga de presos de Dáesh durante su traslado de Siria a Irak dispara la amenaza terrorista en la región y Europa",
+        "image_url": "https://s3.elespanol.com/2026/01/23/actualidad/1003744102418_261075309_1706x960.jpg",
+        "tags": [
+            "estado islámico",
+            "dáesh",
+            "siria",
+            "oriente próximo"
+        ],
+        "link": "https://www.elespanol.com/mundo/oriente-proximo/20260222/fuga-presos-daesh-traslado-siria-irak-dispara-amenaza-terrorista-region-europa/1003744139949_0.html",
+        "date": "2026-02-22 01:25:49",
+        "sentiment_score": -0.3943232297897339
+    },
+    {
+        "title": "Por qué la vivienda no toca techo en Madrid: Sandra paga 420.000 euros por lo que en 2020 costaba 280.000 €",
+        "image_url": "https://s3.elespanol.com/2026/02/20/madrid/1003744139755_261548952_1706x960.jpg",
+        "tags": [
+            "construcción",
+            "vivienda",
+            "madrid",
+            "inmobiliarias",
+            "madrid total"
+        ],
+        "link": "https://www.elespanol.com/madrid/20260222/vivienda-no-toca-techo-madrid-sandra-paga-euros-costaba-eur-dl/1003744139586_0.html",
+        "date": "2026-02-22 00:53:54",
+        "sentiment_score": 0.25026484578847885
     }
 ];
