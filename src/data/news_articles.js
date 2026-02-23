@@ -1,210 +1,5 @@
 export default [
     {
-        "title": "El motor híbrido ultraeficiente de Renault y Repsol que irrumpe en Europa",
-        "image_url": "https://www.actualidadmotor.com/wp-content/uploads/2021/03/2-2021-New-Logo-Renault.jpeg",
-        "tags": [
-            "híbridos",
-            "noticias automóviles",
-            "técnica"
-        ],
-        "link": "https://www.actualidadmotor.com/el-motor-hibrido-ultraeficiente-de-renault-y-repsol-que-irrumpe-en-europa/",
-        "date": "2026-02-19 07:00:55",
-        "sentiment_score": 0.39594234339892864
-    },
-    {
-        "title": "Horario y dónde ver en TV el Real Madrid-Unicaja de la Copa del Rey",
-        "image_url": "https://static.grupojoly.com/clip/d35d6944-333f-4a4c-af40-13defd8478ca_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unicaja baloncesto"
-        ],
-        "link": "https://www.malagahoy.es/unicaja/horario-donde-ver-tv-real-madrid-unicaja-copa-rey_0_2005944417.html",
-        "date": "2026-02-19 07:00:38",
-        "sentiment_score": 0.15989209711551666
-    },
-    {
-        "title": "La Policía Local inspecciona viviendas protegidas en Alicante para verificar su ocupación real",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/514bd823-d73a-4b49-a182-c65ce0a31b63_16-9-aspect-ratio_default_0_x603y265.jpg",
-        "tags": [
-            "policía local",
-            "viviendas",
-            "vpo",
-            "alicante"
-        ],
-        "link": "https://www.laopiniondemalaga.es/videos/nacional/2026/02/19/policia-local-inspecciona-viviendas-protegidas-127012028.html",
-        "date": "2026-02-19 07:00:10",
-        "sentiment_score": -0.1762198731303215
-    },
-    {
-        "title": "El racismo contra Vinicius llega a los despachos: en España no se creyó a Diakhaby y UEFA ya castigó sin grabación probatoria",
-        "image_url": "https://s3.elespanol.com/2026/02/18/actualidad/1003744135632_261497173_1706x960.jpg",
-        "tags": [
-            "vinícius júnior",
-            "champions league",
-            "benfica",
-            "real madrid cf",
-            "fútbol"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20260219/racismo-vinicius-llega-despachos-espana-no-creyo-diakhaby-uefa-castigo-sin-grabacion-probatoria/1003744135367_0.html",
-        "date": "2026-02-19 07:00:00",
-        "sentiment_score": -0.8783855885267258
-    },
-    {
-        "title": "Page, en 'El Hormiguero': del panorama de Feijóo en Madrid a los \"mamporrazos\" de Rufián",
-        "image_url": "https://www.elplural.com/uploads/s1/24/61/83/6/emiliano-garcia-page-en-el-hormiguero-flickr_7_480x270.jpeg",
-        "tags": [
-            "extratele"
-        ],
-        "link": "https://www.elplural.com/extratele/page-hormiguero-panorama-feijoo-madrid-mamporrazos-rufian_381906102",
-        "date": "2026-02-19 06:54:41",
-        "sentiment_score": -0.08998677134513855
-    },
-    {
-        "title": "¿Podrá Endrick hacerse un hueco en el once del Real Madrid tras brillar en Lyon?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/25/2026012519570028755.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/podra-endrick-hacerse-hueco-once-real-madrid-brillar-lyon/20260219073537375342.html",
-        "date": "2026-02-19 06:35:37",
-        "sentiment_score": -0.7127967290580273
-    },
-    {
-        "title": "Más de 1.200 estudiantes de Ingeniería Civil participan desde este jueves en A Coruña en un encuentro estatal",
-        "image_url": "https://www.galiciapress.es/images/285310",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.galiciapress.es/articulo/ultima-hora/2026-02-19/5777659-1200-estudiantes-ingenieria-civil-participan-desde-jueves-coruna-encuentro-estatal",
-        "date": "2026-02-19 06:30:03",
-        "sentiment_score": 0.0934467688202858
-    },
-    {
-        "title": "Temporal en Andalucía: 7.000 millones de Sánchez frente a solo 1.780 de Moreno Bonilla",
-        "image_url": "https://www.elplural.com/uploads/s1/24/58/43/3/presidente-junta-andalucia-juanma-moreno-interviene-segunda-ultima-jornada_7_480x270.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.elplural.com/opinion/temporal-andalucia-7000-millones-sanchez-frente-solo-1780-moreno-bonilla_381904102",
-        "date": "2026-02-19 06:10:33",
-        "sentiment_score": -0.04328379034996033
-    },
-    {
-        "title": "El colangiocarcinoma no espera: el 20 % de los pacientes no llega ni a recibir tratamiento",
-        "image_url": "https://efesalud.com/wp-content/uploads/2026/02/colangiocarcinoma-tratamiento-persona-playa.webp",
-        "tags": [
-            "actualidad",
-            "diagnóstico",
-            "cáncer",
-            "enfermedades",
-            "investigación"
-        ],
-        "link": "https://efesalud.com/colangiocarcinoma-tratamiento-investigacion-diagnostico-apoyo-atuvibi/",
-        "date": "2026-02-19 06:10:00",
-        "sentiment_score": -0.8810232859104872
-    },
-    {
-        "title": "La Puerta de Tannhäuser en Cáceres presenta 'Historias originales de la vida real'",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5069d393-4ca4-45d7-b271-9c50758fd95a_16-9-aspect-ratio_default_0_x1306y546.jpg",
-        "tags": [
-            "agenda cultural de cáceres",
-            "justicia",
-            "madrid",
-            "extremadura",
-            "universidad de extremadura"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres-local/2026/02/19/puerta-tannhauser-caceres-presenta-historias-126977597.html",
-        "date": "2026-02-19 06:05:04",
-        "sentiment_score": 0.06557758525013924
-    },
-    {
-        "title": "El señor de Gladys ya tiene su Escudo",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/02/19/699649ec8054a.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.lavozdealmeria.com/opinion/467305/senor-gladys-escudo.html",
-        "date": "2026-02-19 07:00:24",
-        "sentiment_score": 0.37155239284038544
-    },
-    {
-        "title": "Úrsula Corberó publica la primera imagen de su hijo Dante, nada más nacer, en brazos de Chino Darín: \"Hola, papi\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/19/6996afd278a714-44701459.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/gente/ursula-corbero-publica-primera-imagen-su-hijo-dante-nada-mas-nacer-brazos-chino-darin-hola-papi_6936108_0.html",
-        "date": "2026-02-19 06:50:02",
-        "sentiment_score": 0.5164692476391792
-    },
-    {
-        "title": "El beneficio para las mujeres de la transición energética: \"Está creando oportunidades reales\" para las jóvenes",
-        "image_url": "https://s3.elespanol.com/2026/02/18/actualidad/1003744136231_261503865_1706x960.jpg",
-        "tags": [
-            "objetivo 7: energía asequible y no contaminante",
-            "historias",
-            "objetivo 5: igualdad de género"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/historias/20260219/beneficio-mujeres-transicion-energetica-creando-oportunidades-reales-jovenes/1003744136186_0.html",
-        "date": "2026-02-19 06:30:00",
-        "sentiment_score": 0.15291588008403778
-    },
-    {
-        "title": "Lo que debes saber hoy, 19 de febrero, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/14/vivir-en-barcelona/1003742732711_15718649_1706x960.jpg",
-        "tags": [
-            "clima",
-            "vivir en barcelona",
-            "aemet (agencia estatal de meteorología)",
-            "tráfico",
-            "rodalies",
-            "coches",
-            "gran barcelona",
-            "renfe barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260219/debes-saber-hoy-febrero-barcelona/1003742734182_0.html",
-        "date": "2026-02-19 06:26:41",
-        "sentiment_score": 0.04476819932460785
-    },
-    {
-        "title": "Alberto, panadero, cambia Barcelona por un pueblo de 500 habitantes en Cuenca: \"Me veo aquí en 15 años\"",
-        "image_url": "https://s3.elespanol.com/2026/02/18/sociedad/1003744135804_261498772_1706x960.jpg",
-        "tags": [
-            "despoblación",
-            "sociedad",
-            "panaderías",
-            "barcelona"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20260219/alberto-panadero-cambia-barcelona-pueblo-habitantes-cuenca-veo-anos/1003744135664_0.html",
-        "date": "2026-02-19 06:24:32",
-        "sentiment_score": -0.2917613312602043
-    },
-    {
-        "title": "La joven de Torrelavega asesinada en Coruña señaló a su agresor antes de morir: «¡Fue Lois, fue Lois!»",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/02/19/Clipboard-0018.png",
-        "tags": [
-            "torrelavega",
-            "la coruña",
-            "policía nacional"
-        ],
-        "link": "https://www.ideal.es/sociedad/joven-torrelavega-asesinada-coruna-senalo-agresor-morir-20260219072111-ntrc.html",
-        "date": "2026-02-19 06:21:16",
-        "sentiment_score": -0.8267071042209864
-    },
-    {
-        "title": "Marlaska quiere una mujer como nueva DAO de la Policía Nacional",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ad06bce8-1a49-4525-a7ae-fa793f94f2ff_16-9-aspect-ratio_default_0_x450y199.jpg",
-        "tags": [
-            "fernando grande-marlaska",
-            "policía nacional",
-            "agresiones sexuales",
-            "ministerio del interior"
-        ],
-        "link": "https://www.laprovincia.es/espana/2026/02/19/marlaska-quiere-mujer-nueva-dao-policia-127011211.html",
-        "date": "2026-02-19 06:13:26",
-        "sentiment_score": -0.521727554500103
-    },
-    {
         "title": "José María Balcázar es el nuevo presidente interino de Perú",
         "image_url": "https://static.wixstatic.com/media/335561_47a6c4e909674897b23bbccde6381b3e~mv2.png/v1/fit/w_534,h_435,al_c,q_80/file.png",
         "tags": [
@@ -2876,5 +2671,250 @@ export default [
         "link": "https://www.elcomercio.es/culturas/barceloneses-viven-ilusin-llegada-ciudad-edicin-premios-20260222172518-vi.html",
         "date": "2026-02-22 17:35:30",
         "sentiment_score": 0.03436889499425888
+    },
+    {
+        "title": "Scariolo reconoce la superioridad del Baskonia",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a1017e5a-57b4-4990-878b-cc144b11b644_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "superioridad",
+            "scariolo",
+            "baskonia",
+            "reconoce"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/22/scariolo-reconoce-superioridad-baskonia-10734798.html",
+        "date": "2026-02-22 22:46:29",
+        "sentiment_score": 0.15770399570465088
+    },
+    {
+        "title": "Paolo Galbiati: \"El trabajo duro paga y esta Copa nos va a unir para la vida\"",
+        "image_url": "https://www.infobae.com/resizer/v2/MHFM6P4FXBDMNFVB43TNATAQAA.jpg?auth=1726912e28f6a91c075704b4e51867f91eacd4f589e49edb361e12a28bee9949&height=1280&smart=true&width=1920",
+        "tags": [
+            "valencia",
+            "paolo galbiati",
+            "kosner baskonia",
+            "real madrid",
+            "acb",
+            "campazzo",
+            "copa del rey",
+            "roig arena",
+            "baloncesto",
+            "europapress",
+            "sergio scariolo"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/22/paolo-galbiati-el-trabajo-duro-paga-y-esta-copa-nos-va-a-unir-para-la-vida/",
+        "date": "2026-02-22 22:46:27",
+        "sentiment_score": 0.8794927708804607
+    },
+    {
+        "title": "Querejeta: “Enfrente estaba la mejor plantilla de Europa y hay que darse cuenta”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e657f861-b656-4d9f-aad5-74cc033be27a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "copa del rey",
+            "valencia",
+            "querejeta",
+            "copa acb",
+            "baskonia",
+            "real madrid",
+            "josean querejeta"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/22/querejeta-baskonia-copa-del-rey-copa-acb-josean-querejeta-real-madrid-valencia-10734787.html",
+        "date": "2026-02-22 22:28:52",
+        "sentiment_score": 0.7184303626418114
+    },
+    {
+        "title": "Cuatro jugadores de la Liga Premier fueron blanco de insultos racistas en línea",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/ab9c202/2147483647/strip/true/crop/3761x1975+0+266/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0d%2Fff%2Fd1b4be8742deb774b957df08bcba%2F42c81b3c81eb4a58b0b0ceca00112d30.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-22/cuatro-jugadores-de-la-liga-premier-fueron-blanco-de-insultos-racistas-en-linea",
+        "date": "2026-02-22 22:26:38",
+        "sentiment_score": -0.7939355336129665
+    },
+    {
+        "title": "La lección de Leire con la que nos enseña a cómo disfrutar sobre el escenario",
+        "image_url": "https://imagenes.cadena100.es/files/webp_360_640/uploads/2026/02/22/uKTOXuq2yYqD71e6b2G3R.jpeg",
+        "tags": [
+            "música"
+        ],
+        "link": "https://www.cadena100.es/musica/noticias/leccion-leire-martinez-ensena-disfrutar-sobre-escenario-transmitirlo-publico-gracias-17-anos-anteriores-vienen-20260222_146448.html",
+        "date": "2026-02-22 22:23:32",
+        "sentiment_score": -0.052679479122161865
+    },
+    {
+        "title": "El Baskonia, un equipo repleto de creyentes",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a8aae76c-94b6-465a-ab00-251451c3e645_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "equipo",
+            "repleto",
+            "baskonia",
+            "creyentes"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/22/baskonia-equipo-repleto-creyentes-10734748.html",
+        "date": "2026-02-22 22:21:49",
+        "sentiment_score": 0.2537737488746643
+    },
+    {
+        "title": "Galbiati: \"He trabajado mucho para tener unido al grupo\"",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ec8596d1-39ce-44bb-9925-d4779cae3c37_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "galbiati",
+            "jugadores",
+            "contento",
+            "staff"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/22/galbiati-contento-jugadores-staff-10734715.html",
+        "date": "2026-02-22 22:11:34",
+        "sentiment_score": 0.16077277064323425
+    },
+    {
+        "title": "Las fotos de la final de la Copa del Rey de Baloncesto entre Real Madrid y Baskonia",
+        "image_url": "https://static.grupojoly.com/clip/a39b6e3b-6363-489f-9c8d-4176a7555389_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fotos",
+            "copa",
+            "rey",
+            "baloncesto",
+            "final"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/fotos-final-copa-rey-baloncesto_3_2005984955.html",
+        "date": "2026-02-22 22:08:03",
+        "sentiment_score": 0.09417970478534698
+    },
+    {
+        "title": "En imágenes: El Roig Arena se rinde al Baskonia",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/0b353f13-57b5-4531-bebd-b88c484f0d91_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "roig",
+            "rinde",
+            "imagenes",
+            "arena",
+            "baskonia"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/22/imagenes-roig-arena-rinde-baskonia-10734772.html",
+        "date": "2026-02-22 22:07:05",
+        "sentiment_score": 0.034743428230285645
+    },
+    {
+        "title": "Prestaianni reunió al vestuario del Benfica para hablar sobre lo ocurrido con Vinicius",
+        "image_url": "https://pxcdn.meridiano.net/022026/1771797859065.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/prestaianni-reunio-al-vestuario-del-benfica-para-hablar-sobre-lo-ocurrido-con-vinicius-20262221850",
+        "date": "2026-02-22 22:05:00",
+        "sentiment_score": 0.1365162767469883
+    },
+    {
+        "title": "Rosácea: lo que la desencadena y cómo controlarla",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/19/vivir-en-barcelona/1003742734218_15735684_1706x960.jpg",
+        "tags": [
+            "vivir en barcelona",
+            "quirónsalud barcelona",
+            "medicina",
+            "contenido crítico",
+            "branded content",
+            "salud"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260222/rosacea-desencadena-controlarla/1003742701676_0.html",
+        "date": "2026-02-22 22:30:00",
+        "sentiment_score": -0.19437168538570404
+    },
+    {
+        "title": "Barcelona recorta su deuda un 9%: el Banco Europeo de Inversiones (BEI) es el principal acreedor",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/13/informacion-municipal/1003742707243_15400136_1706x960.jpg",
+        "tags": [
+            "economía",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260222/barcelona-recorta-deuda-banco-europeo-inversiones-bei-principal-acreedor/1003742735175_0.html",
+        "date": "2026-02-22 22:30:00",
+        "sentiment_score": 0.6439988985657692
+    },
+    {
+        "title": "Montserrat Junyent, presidenta de API Catalunya: “Los pisos turísticos que se eliminarán en 2028 acabarán en el mercado de venta”",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/19/actualidad/1003742734311_15736695_1706x960.jpg",
+        "tags": [
+            "pisos turísticos",
+            "economía",
+            "viviendas",
+            "vivienda",
+            "ayuntamiento de barcelona",
+            "alquiler vivienda",
+            "okupas"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260222/montserrat-junyent-presidenta-api-catalunya-pisos-turisticos-eliminaran-acabaran-mercado-venta/1003742734122_0.html",
+        "date": "2026-02-22 22:30:00",
+        "sentiment_score": 0.23719869554042816
+    },
+    {
+        "title": "Dos locales en siete meses: el gigante de las macropanaderías en Francia acelera su expansión en Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/17/actualidad/1003742733400_15727161_1706x960.jpg",
+        "tags": [
+            "economía",
+            "comercio",
+            "macropanaderías",
+            "gastronomía",
+            "el raval",
+            "el gòtic",
+            "empresas emergentes"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260222/locales-meses-gigante-macropanaderias-francia-acelera-expansion-barcelona/1003742733144_0.html",
+        "date": "2026-02-22 22:30:00",
+        "sentiment_score": 0.38539980351924896
+    },
+    {
+        "title": "Varias marchas en España denuncian el olvido de Ucrania cuatro años después de la invasión",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2026/02/protestas-ucrania-espana.jpg",
+        "tags": [
+            "internacionales"
+        ],
+        "link": "https://elsiglo.com.ve/varias-marchas-en-espana-denuncian-el-olvido-de-ucrania-cuatro-anos-despues-de-la-invasion/",
+        "date": "2026-02-22 22:14:40",
+        "sentiment_score": -0.5447883009910583
+    },
+    {
+        "title": "Una operación especial de México mata al Mencho, el narcotraficante más buscado y peligroso del mundo",
+        "image_url": "https://static1.ara.cat/clip/fa1723a6-b8f1-416c-aa64-39569c04e8ce_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "peligroso",
+            "especial",
+            "mundo",
+            "narcotraficante",
+            "operacion",
+            "buscado",
+            "mexico",
+            "mata",
+            "mencho"
+        ],
+        "link": "https://es.ara.cat/internacional/america/operacion-especial-mexico-mata-mencho-narcotraficante-buscado-peligroso-mundo_1_5656484.html",
+        "date": "2026-02-22 22:03:46",
+        "sentiment_score": -0.6522141061723232
+    },
+    {
+        "title": "Comprueba los resultados del Quinigol del 22 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
+        "tags": [
+            "loterías de españa",
+            "últimas actualizaciones",
+            "quinigol resultados fútbol"
+        ],
+        "link": "https://www.infobae.com/espana/2026/02/22/comprueba-los-resultados-del-quinigol-del-22-de-febrero/",
+        "date": "2026-02-22 22:00:25",
+        "sentiment_score": 0.42532434314489365
+    },
+    {
+        "title": "Talent Arena incorpora XPRO, un espacio de conocimiento para desarrolladores",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c8eaa444-b25c-4cde-ad47-4c546d847521_alta-libre-aspect-ratio_default_0_x886y393.jpg",
+        "tags": [
+            "barcelona",
+            "empresas",
+            "+ digital"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260222/talent-arena-incorpora-xpro-espacio-conocimiento-desarrolladores-127074965",
+        "date": "2026-02-22 21:59:44",
+        "sentiment_score": 0.48738117329776287
     }
 ];
