@@ -1,15 +1,5 @@
 export default [
     {
-        "title": "José María Balcázar es el nuevo presidente interino de Perú",
-        "image_url": "https://static.wixstatic.com/media/335561_47a6c4e909674897b23bbccde6381b3e~mv2.png/v1/fit/w_534,h_435,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/jos%C3%A9-mar%C3%ADa-balc%C3%A1zar-es-el-nuevo-presidente-interino-de-per%C3%BA",
-        "date": "2026-02-19 10:59:20",
-        "sentiment_score": 0.15788868069648743
-    },
-    {
         "title": "Toledo se prepara para una noche irrepetible: el Réquiem de Mozart en versión histórica única",
         "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/02/19/69974bbe0741e.jpeg",
         "tags": [
@@ -2916,5 +2906,145 @@ export default [
         "link": "https://www.elperiodico.com/es/economia/20260222/talent-arena-incorpora-xpro-espacio-conocimiento-desarrolladores-127074965",
         "date": "2026-02-22 21:59:44",
         "sentiment_score": 0.48738117329776287
+    },
+    {
+        "title": "El presidente de los empresarios de Cádiz reclama más impulso al Gobierno: “Sigo sin ver una apuesta clara por la provincia”",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/19/9B2B49FD-0722-4744-8E9F-97C5593CDC17/jose-andres-santos_69.jpg?crop=1600%2C900%2Cx0%2Cy84&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "cádiz",
+            "andalucía"
+        ],
+        "link": "https://www.larazon.es/andalucia/cadiz/presidente-empresarios-cadiz-reclama-mas-impulso-gobierno-sigo-ver-apuesta-clara-provincia_20260223699bbd5e9243cc133c5e031d.html",
+        "date": "2026-02-23 02:37:18",
+        "sentiment_score": -0.41028711944818497
+    },
+    {
+        "title": "Las pruebas definitivas del general Juste, el militar que frustró el 23-F y fue un \"cabeza de turco\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/c500024e63fa29e7e658a1830f7efa3e/crop/0x259/2479x2738/f/image/jpeg/assets/multimedia/imagenes/2022/03/16/16474501372351.jpg",
+        "tags": [
+            "23 f",
+            "nlpremium",
+            "artículos marina pina",
+            "historia",
+            "defensa"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/02/23/699b22c7e85eceb0498b4589.html",
+        "date": "2026-02-23 01:35:34",
+        "sentiment_score": -0.4471933990716934
+    },
+    {
+        "title": "La 'megaelectrolinera' de 1.281 metros cuadrados que Ayuso va a poner en marcha en el corazón de la Castellana",
+        "image_url": "https://s3.elespanol.com/2026/02/20/madrid/1003744139232_261542034_1706x960.jpg",
+        "tags": [
+            "madrid comunidad",
+            "chamartín (madrid)",
+            "electrolinera",
+            "red de carga para vehículos eléctricos"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20260223/megaelectrolinera-metros-cuadrados-ayuso-va-poner-marcha-corazon-castellana/1003744139073_0.html",
+        "date": "2026-02-23 01:06:15",
+        "sentiment_score": 0.3182369414716959
+    },
+    {
+        "title": "Venezuela, de la ley a ley",
+        "image_url": "https://s3.elespanol.com/2026/01/22/actualidad/1003744100402_261458717_1706x960.jpg",
+        "tags": [
+            "tribunas de opinión",
+            "tribunas",
+            "opinión",
+            "diosdado cabello",
+            "venezuela",
+            "delcy rodríguez",
+            "adolfo suárez",
+            "transición española"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20260223/venezuela-ley/1003744132600_12.html",
+        "date": "2026-02-23 01:04:18",
+        "sentiment_score": -0.29697073996067047
+    },
+    {
+        "title": "22 FEB 2026 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/22-feb-2026-tertulion-domingos-20260223_3312793.html",
+        "date": "2026-02-23 00:59:00",
+        "sentiment_score": 0.36449867486953735
+    },
+    {
+        "title": "Quemamédicos y matasanos",
+        "image_url": "https://s1.staticld.com/2026/02/19/huelga-pancarta-medicos-madrid-190226.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2026-02-23/anna-grau-quemamedicos-y-matasanos-7363605/",
+        "date": "2026-02-23 00:51:47",
+        "sentiment_score": -0.8420317247509956
+    },
+    {
+        "title": "Derecho internacional: la violencia y el orden",
+        "image_url": "https://www.eldebate.com/images/el-debate.png",
+        "tags": [
+            "tribuna"
+        ],
+        "link": "https://www.eldebate.com/opinion/tribuna/20260223/derecho-internacional-violencia-orden_387872.html",
+        "date": "2026-02-23 00:30:00",
+        "sentiment_score": -0.3341992348432541
+    },
+    {
+        "title": "Desbarra y miente, pero con muy educada flema",
+        "image_url": "https://www.eldebate.com/uploads/2022/02/23/621666787acbf.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20260223/desbarra-miente-educada-flema_388139.html",
+        "date": "2026-02-23 00:30:00",
+        "sentiment_score": -0.7279366180300713
+    },
+    {
+        "title": "Figo, el madrileño",
+        "image_url": "https://www.eldebate.com/files/fp/uploads/2021/10/21/61713c9335472.r_d.577-326-0.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20260223/figo-madrileno_387874.html",
+        "date": "2026-02-23 00:30:00",
+        "sentiment_score": -0.12941864132881165
+    },
+    {
+        "title": "«El joven que apuesta tiene muy difícil no ser tentado, basta con abrir el móvil»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/22/1506716894-ReU4cxbhPxDSz6fYScQjHfN-1200x840@RC.jpg",
+        "tags": [
+            "apuestas",
+            "proyecto hombre"
+        ],
+        "link": "https://www.ideal.es/sociedad/joven-apuesta-dificil-tentado-basta-abrir-movil-20260222135829-ntrc.html",
+        "date": "2026-02-22 23:38:08",
+        "sentiment_score": -0.5822192281484604
+    },
+    {
+        "title": "La no refundación de la izquierda",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "izquierda",
+            "refundacion",
+            "no"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/no-refundacion-izquierda_0_2005985569.html",
+        "date": "2026-02-23 02:11:19",
+        "sentiment_score": -0.36981001496315
+    },
+    {
+        "title": "Los patinetes y la seguridad",
+        "image_url": "https://static.grupojoly.com/clip/64bda378-bd45-42c9-89a8-4eaca9ab5b71_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "patinetes",
+            "seguridad"
+        ],
+        "link": "https://www.huelvainformacion.es/opinion/editorial/patinetes-seguridad_0_2005985547.html",
+        "date": "2026-02-23 02:10:45",
+        "sentiment_score": -0.17142626643180847
     }
 ];
