@@ -1,448 +1,5 @@
 export default [
     {
-        "title": "La lectura de labios de la pelea entre Vinícius Júnior y Prestianni: el insulto del brasileño en el inicio del conflicto",
-        "image_url": "https://www.infobae.com/resizer/v2/ZEQXNIDZ6ZATRE4ZNLLKEYUYBU.jpg?auth=737fdc2dd8c45175aa4208d7df3451ad5ff464a8d92874bf3a6886c14697a63b&height=1080&smart=true&width=1920",
-        "tags": [
-            "uefa champions league",
-            "real madrid",
-            "deportes-argentina",
-            "vinícius júnior",
-            "gianluca prestianni",
-            "benfica"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/18/la-lectura-de-labios-de-la-pelea-entre-vinicius-junior-y-prestianni-el-insulto-del-brasileno-en-el-inicio-del-conflicto/",
-        "date": "2026-02-18 22:40:36",
-        "sentiment_score": -0.745129557326436
-    },
-    {
-        "title": "La UEFA y el presidente de la FIFA hablaron tras la denuncia de Vinícius contra Prestianni en el Benfica vs. Real Madrid",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2026/02/18/uefa-infantino-fifa-vinicius-prestianni-champions-orix/",
-        "date": "2026-02-18 22:03:46",
-        "sentiment_score": -0.4427318349480629
-    },
-    {
-        "title": "Los excesos del DAO de Marlaska eran un clamor: \"A Jota le costaba subirse la bragueta\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/21a7d4d604607618375878d4a659c10a/crop/482x0/2530x2048/f/image/jpeg/assets/multimedia/imagenes/2026/02/18/17714449479605.jpg",
-        "tags": [
-            "policía nacional",
-            "artículos gema peñalosa",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/02/18/6996092cfdddff05158b45a8.html",
-        "date": "2026-02-18 21:56:52",
-        "sentiment_score": -0.6126231737434864
-    },
-    {
-        "title": "Gol de Mikautadze afianza a Villarreal en 3er puesto de La Liga de España al vencer 1-0 a Levante",
-        "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-        "tags": [
-            "sports",
-            "villarreal levante la liga barcelona real madrid",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/villarreal-levante-la-liga-barcelona-real-madrid-e567aec746ff584b284f614c69bcda28",
-        "date": "2026-02-18 21:56:33",
-        "sentiment_score": 0.627749890089035
-    },
-    {
-        "title": "Gol de Mikautadze afianza a Villarreal en 3er puesto de La Liga de España al vencer 1-0 a Levante",
-        "image_url": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.bostonherald.com/2026/02/18/gol-de-mikautadze-afianza-a-villarreal-en-3er-puesto-de-la-liga-de-espaa-al-vencer-1-0-a-levante/",
-        "date": "2026-02-18 21:56:32",
-        "sentiment_score": 0.5890615433454514
-    },
-    {
-        "title": "Cuba debe más de 300 millones de euros a las empresas españolas",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/18/2026021822380114068.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.mundiario.com/articulo/economia/cuba-debe-mas-300-millones-euros-empresas-espanolas/20260218223925375283.html",
-        "date": "2026-02-18 21:39:25",
-        "sentiment_score": -0.8628454441204667
-    },
-    {
-        "title": "Gobierno de Portugal interviene en el caso Vinicius y Prestianni",
-        "image_url": "https://pxcdn.meridiano.net/022026/1771449967247.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/gobierno-de-portugal-interviene-en-el-caso-vinicius-y-prestianni-202621817260",
-        "date": "2026-02-18 21:26:00",
-        "sentiment_score": 0.24364691227674484
-    },
-    {
-        "title": "Del \"absentismo\" a los trabajadores \"repetidores\": el lenguaje que culpabiliza a quienes están de baja médica",
-        "image_url": "https://static.eldiario.es/clip/1a2a75c2-c142-4fc7-a551-a57568bb0f1e_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "lenguaje",
-            "absentismo",
-            "baja",
-            "culpabiliza",
-            "repetidores",
-            "trabajadores",
-            "medica"
-        ],
-        "link": "https://www.eldiario.es/economia/absentismo-trabajadores-repetidores-lenguaje-culpabiliza-baja-medica_1_12998403.html",
-        "date": "2026-02-18 21:24:31",
-        "sentiment_score": -0.2421523630619049
-    },
-    {
-        "title": "Muere en A Coruña Félix Rodríguez Montenegro, exprofesor de Maristas",
-        "image_url": "https://cflvdg.avoz.es/sc/RZOu-V1kySalPLcOvvFxGHOjVWA=/768x/2026/02/18/00121771453622190710114/Foto/O05E1016.jpg",
-        "tags": [
-            "tui",
-            "a coruña ciudad"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/coruna/coruna/2026/02/19/educacion-muere-83-anos-religioso-marista-felix-rodriguez-montenegro/0003_202602H19C2996.htm",
-        "date": "2026-02-18 22:41:00",
-        "sentiment_score": 0.05507046729326248
-    },
-    {
-        "title": "Page responde a la dirección del PSOE: “Si hiciéramos autocrítica no haría falta la crítica”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TIFSOOVT7VAVLPYCY2TS4DBSWQ.jpg?auth=dfeac2c90c129c316417773b3f20e4ac3fc39b3f32722fb268807cd2b3af53ba&width=1200",
-        "tags": [
-            "pedro sánchez",
-            "castilla-la mancha",
-            "pp",
-            "socialismo",
-            "psoe",
-            "españa",
-            "barones psoe",
-            "emiliano garcía-page",
-            "rebeca torró",
-            "vox"
-        ],
-        "link": "https://elpais.com/espana/2026-02-18/page-responde-a-la-direccion-del-psoe-si-hicieramos-autocritica-no-haria-falta-la-critica.html",
-        "date": "2026-02-18 22:40:43",
-        "sentiment_score": -0.8702805675566196
-    },
-    {
-        "title": "República Dominicana: Abinader recibirá nueva licencia de conducir en histórico proceso de modernización",
-        "image_url": "https://www.infobae.com/resizer/v2/SHNTMZULYVECRNR664SP5NHA5E.jpg?auth=a1892288e1591827a7be5c432cc478b27b8524d94387fe81b09059b52fb49298&height=960&smart=true&width=1440",
-        "tags": [
-            "instituto nacional de tránsito",
-            "república dominicana",
-            "modernización tecnológica",
-            "licencia de conducir",
-            "expansión de cobertura",
-            "luis abinader"
-        ],
-        "link": "https://www.infobae.com/republica-dominicana/2026/02/18/republica-dominicana-abinader-recibira-nueva-licencia-de-conducir-en-historico-proceso-de-modernizacion/",
-        "date": "2026-02-18 22:32:39",
-        "sentiment_score": 0.5338032376021147
-    },
-    {
-        "title": "Crónica del Club Brujas - Atlético de Madrid: 3-3",
-        "image_url": "https://www.infobae.com/resizer/v2/KHE6VFWVOBHNVAQXSFQQSSDOKE.jpg?auth=6ce39513b7a0003f71dc2efa4c84374b98505c59b4f2f55ef2074e4b8e5bb7a8&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/18/cronica-del-club-brujas-atletico-de-madrid-3-3/",
-        "date": "2026-02-18 22:30:55",
-        "sentiment_score": -0.0887366458773613
-    },
-    {
-        "title": "MediaMarkt cierra su tienda más icónica del centro de Barcelona para allanar su traslado a El Triangle",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/18/vivir-en-barcelona/1003742734129_15734854_1706x960.jpg",
-        "tags": [
-            "empresas barcelona",
-            "economía",
-            "tecnología",
-            "comercio"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260218/mediamarkt-cierra-tienda-iconica-centro-barcelona-allanar-traslado-triangle/1003742734092_0.html",
-        "date": "2026-02-18 22:30:00",
-        "sentiment_score": -0.8606920661404729
-    },
-    {
-        "title": "Barcelona protegerá el césped del Estadi Olímpic para los conciertos de 2026 tras la salida del Barça",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/11/vivir-en-barcelona/1003742731608_15705388_1706x960.jpg",
-        "tags": [
-            "contratos barcelona",
-            "vivir en barcelona",
-            "conciertos",
-            "barça",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260218/barcelona-protegera-cesped-estadi-olimpic-conciertos-salida-barca/1003742731484_0.html",
-        "date": "2026-02-18 22:30:00",
-        "sentiment_score": 0.4149581640958786
-    },
-    {
-        "title": "Illa cuenta cómo vivió su enfermedad: mucho dolor, fentanilo y primera vez en su vida durmiendo en un hospital",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GCJR5AD6WFJQPL2AD7SH7QNJSM.jpg?auth=53832bd2556e46497186a130addd6ac26b4e34e22d8773984433a7758b21d497&width=1200",
-        "tags": [
-            "govern cataluña",
-            "psc",
-            "cataluña",
-            "presidencia autonómica",
-            "políticos",
-            "salvador illa",
-            "generalitat cataluña",
-            "enfermedades",
-            "política"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2026-02-18/illa-cuenta-como-vivio-su-enfermedad-mucho-dolor-fentanilo-y-primera-vez-en-su-vida-durmiendo-en-un-hospital.html",
-        "date": "2026-02-18 22:24:35",
-        "sentiment_score": 0.28637681528925896
-    },
-    {
-        "title": "Junqueras y Puigdemont se reunieron en Bélgica para hablar de financiación",
-        "image_url": "https://static1.ara.cat/clip/a1c64e92-60e4-4a40-b422-49404b3497b1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "puigdemont",
-            "financiacion",
-            "hablar",
-            "junqueras",
-            "reunieron",
-            "belgica"
-        ],
-        "link": "https://es.ara.cat/politica/junqueras-puigdemont-reunieron-belgica-hablar-financiacion_1_5653024.html",
-        "date": "2026-02-18 22:16:59",
-        "sentiment_score": -0.057730719447135925
-    },
-    {
-        "title": "«El Watusi es como buscar a Dios en un 'after hours'»",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/02/18/212668738-kCIF--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "hours",
-            "after",
-            "watusi",
-            "dios",
-            "buscar"
-        ],
-        "link": "https://www.elcomercio.es/aviles/ivan-morales-dramaturgo-watusi-buscar-dios-after-20260219225353-nt.html",
-        "date": "2026-02-18 22:16:00",
-        "sentiment_score": -0.1442049890756607
-    },
-    {
-        "title": "Maersk centraliza la retirada de flexitanks en Algeciras, Valencia y Barcelona con un recargo de 695 euros",
-        "image_url": "https://static.grupojoly.com/clip/9fe340c4-cce9-46e8-9906-35a3ca88de25_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "puerto de algeciras"
-        ],
-        "link": "https://www.europasur.es/maritimas/maersk-flexitanks-algeciras-valencia-barcelona-695-euros_0_2005946370.html",
-        "date": "2026-02-18 22:14:29",
-        "sentiment_score": -0.009084820747375488
-    },
-    {
-        "title": "Los polémicos dichos contra Vinícius de un experimentado árbitro español tras la acusación de racismo a Prestianni",
-        "image_url": "https://www.infobae.com/resizer/v2/2YRPCB77FFAIVF7TAVSII276FM.png?auth=cfa02195025ec654233477897aab0c0becfa196c46a8c88f9a0498a3a1b6d360&height=1080&smart=true&width=1920",
-        "tags": [
-            "deportes-internacional"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/19/los-polemicos-dichos-contra-vinicius-de-un-experimentado-arbitro-espanol-tras-la-acusacion-de-racismo-a-prestianni/",
-        "date": "2026-02-19 02:14:50",
-        "sentiment_score": -0.7354297898709774
-    },
-    {
-        "title": "Luis Díaz es mejor que Lamine Yamal y Vinicius Junior en el mundo: los superó en reconocido listado",
-        "image_url": "https://www.infobae.com/resizer/v2/I6W6DW4V4BFJDPVA336DBTVRD4.JPG?auth=7b43cb306086061520adecf07119a631072b6b633ff4c5c38c28f94974b9f353&height=2188&smart=true&width=3434",
-        "tags": [
-            "vinicius jr",
-            "bayern múnich",
-            "luis díaz bayern",
-            "luis díaz",
-            "lamine yamal",
-            "colombia-deportes",
-            "bundesliga"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/19/luis-diaz-es-mejor-que-lamine-yamal-y-vinicius-junior-en-el-mundo-los-supero-en-reconocido-listado/",
-        "date": "2026-02-19 01:53:39",
-        "sentiment_score": 0.8372515179216862
-    },
-    {
-        "title": "¿Cuáles equipos disputarán la Copa del Rey de Baloncesto? Este es el calendario de juegos completo",
-        "image_url": "https://pxcdn.2001online.com/2001/022026/1771465093200.jpg?ch=675&cw=1200",
-        "tags": [
-            "baloncesto real madrid",
-            "meridiano tv",
-            "copa del rey",
-            "torneo"
-        ],
-        "link": "https://2001online.com/deportes/cuales-equipos-disputaran-la-copa-del-rey-de-baloncesto-este-es-el-calendario-de-juegos-completo-202621821320",
-        "date": "2026-02-19 01:32:00",
-        "sentiment_score": 0.13376134634017944
-    },
-    {
-        "title": "El insólito error del arquero que aprovechó Nico Paz para anotarle un gol al Milan",
-        "image_url": "https://www.infobae.com/resizer/v2/UJD6KOLDAZGEFKDVAK6G2YUIKA.jfif?auth=3ddb2a885dbba7446ca2535b98e9293d2c260953067be7f49c86f1ff5c388dfd&height=1632&smart=true&width=2877",
-        "tags": [
-            "deportes-argentina",
-            "ac milan",
-            "como",
-            "deportes-internacional",
-            "nicolás paz",
-            "serie a de italia"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/19/el-insolito-error-del-arquero-que-aprovecho-nico-paz-para-anotarle-un-gol-al-milan/",
-        "date": "2026-02-19 00:31:20",
-        "sentiment_score": 0.6779333241283894
-    },
-    {
-        "title": "Linda Caicedo y Real Madrid no la tendrán fácil en la Champions League: se enfrentarán a su “bestia negra”",
-        "image_url": "https://www.infobae.com/resizer/v2/EBQZKPFWXREQFKMCF4RC3QNIDU.jpg?auth=d5e2ed036d1bde957a49431080860135a9b40fb46f26d8113c9498f2efd1c06f&height=858&smart=true&width=1620",
-        "tags": [
-            "colombia-deportes",
-            "champions league femenina",
-            "linda caicedo",
-            "real madrid",
-            "linda caicedo real madrid",
-            "barcelona vs real madrid",
-            "barcelona real madrid champions femenina"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/19/linda-caicedo-y-real-madrid-no-la-tendran-facil-en-la-champions-league-se-enfrentaran-a-su-bestia-negra/",
-        "date": "2026-02-19 00:23:32",
-        "sentiment_score": 0.5412026941776276
-    },
-    {
-        "title": "La vez que Ronaldinho sufrió de racismo mientras jugaba para el Querétaro",
-        "image_url": "https://www.infobae.com/resizer/v2/ZOEDNZGPLZHQVHCYXD4KM7NLNA.jpg?auth=d81188bf8a1934a2bb06c693dc0abdbbdd1acba4e5613147a895299ccde2fd3c&height=1080&smart=true&width=1920",
-        "tags": [
-            "ronaldinho",
-            "mexico-noticias",
-            "liga mx",
-            "mexico-deportes",
-            "querétaro"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2026/02/19/la-vez-que-ronaldinho-sufrio-de-racismo-mientras-jugaba-para-el-queretaro/",
-        "date": "2026-02-19 00:13:06",
-        "sentiment_score": -0.8799897721037269
-    },
-    {
-        "title": "Un mes después de Adamuz: los límites a la velocidad activos crecen a 1.205 en una red ferroviaria lejos de recuperar la normalidad",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
-        "tags": [
-            "artículos clara rojas"
-        ],
-        "link": "https://www.elmundo.es/economia/empresas/2026/02/19/6995df91e4d4d891148b456e.html",
-        "date": "2026-02-19 00:03:03",
-        "sentiment_score": -0.18792887032032013
-    },
-    {
-        "title": "El Bodo/Glimt parece dar el batacazo ante el Inter",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/02/Diseno-sin-titulo.png",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://ultimasnoticias.com.ve/deportes/el-bodo-glimt-parece-dar-el-batacazo-ante-el-inter/",
-        "date": "2026-02-18 23:53:20",
-        "sentiment_score": -0.10100117325782776
-    },
-    {
-        "title": "Rufián lanza su plan para frenar a Vox: un frente común de la izquierda desde las provincias",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/19/2026021902215695711.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.mundiario.com/articulo/politica/rufian-lanza-plan-frenar-vox-frente-comun-izquierda-provincias/20260219004615375297.html",
-        "date": "2026-02-18 23:46:15",
-        "sentiment_score": -0.5646853670477867
-    },
-    {
-        "title": "El entorno de Prestianni niega el insulto racista a Vinicius pero admite que \"no se comportó bien\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/28/697a83f84a6a6.jpeg",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/entorno-prestianni-niega-insulto-racista-vinicius-admite-no-comporto-20260219_3310821.html",
-        "date": "2026-02-18 23:39:05",
-        "sentiment_score": -0.2636696994304657
-    },
-    {
-        "title": "Ignacio Garriga denuncia el «silencio cómplice» del resto de formaciones ante la agresión a concejales y simpatizantes de VOX en Montcada i Reixac",
-        "image_url": "https://gaceta.es/wp-content/uploads/2026/02/ignacio.garriga.jpg",
-        "tags": [
-            "españa",
-            "inseguridad",
-            "cataluña"
-        ],
-        "link": "https://gaceta.es/espana/ignacio-garriga-denuncia-el-silencio-complice-del-resto-de-formaciones-ante-la-agresion-a-concejales-y-simpatizantes-de-vox-en-montcada-i-reixac-20260219-0339/",
-        "date": "2026-02-19 02:39:00",
-        "sentiment_score": -0.03260120749473572
-    },
-    {
-        "title": "Clima en Barcelona: la predicción para este 19 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima en barcelona",
-            "clima",
-            "últimas actualizaciones",
-            "clima en españa"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/19/clima-en-barcelona-la-prediccion-para-este-19-de-febrero/",
-        "date": "2026-02-19 02:15:34",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "Sercotel se reta a duplicar su tamaño",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/02/14/6990dec8e70dd.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20260219/11466657/sercotel-reta-duplicar-tamano.html",
-        "date": "2026-02-19 02:00:00",
-        "sentiment_score": 0.48440298810601234
-    },
-    {
-        "title": "El nuevo salario mínimo supera ya el 60% del sueldo medio en 46 provincias",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/f922ba58e3a875419ceb6341f79c3bc1/crop/245x37/1993x1202/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/18/17714423768985.jpg",
-        "tags": [
-            "economía>",
-            "artículos gonzalo d. velarde>",
-            "empleo>",
-            "trabajo>",
-            "salario mínimo>"
-        ],
-        "link": "https://www.expansion.com/economia/2026/02/19/699610fc468aebb2798b459b.html",
-        "date": "2026-02-19 01:15:23",
-        "sentiment_score": 0.16370929032564163
-    },
-    {
-        "title": "Enfermedad hepática crónica, el mal oculto que acecha a 7 de cada 10 adultos: \"No saben lo grave que puede llegar a ser\"",
-        "image_url": "https://s3.elespanol.com/2026/02/18/ciencia/salud/1003744136217_261503684_1706x960.jpg",
-        "tags": [
-            "obesidad",
-            "hígado",
-            "salud",
-            "diabetes",
-            "sanidad",
-            "investigación científica"
-        ],
-        "link": "https://www.elespanol.com/ciencia/salud/20260219/enfermedad-hepatica-cronica-mal-oculto-acecha-adultos-no-saben-grave-puede-llegar/1003744135306_0.html",
-        "date": "2026-02-19 01:10:00",
-        "sentiment_score": -0.6655248794704676
-    },
-    {
-        "title": "¿Por qué todos quieren construir centros de datos en España?",
-        "image_url": "https://e01-expansion.uecdn.es/assets/multimedia/imagenes/2026/02/18/17714547489610.gif",
-        "tags": [
-            "economía digital>"
-        ],
-        "link": "https://www.expansion.com/economia-digital/2026/02/19/69963319468aeb82768b4591.html",
-        "date": "2026-02-19 00:56:17",
-        "sentiment_score": 0.4688454419374466
-    },
-    {
-        "title": "3a PARTE | 18 FEB 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-18-feb-2026-partidazo-cope-20260219_3310829.html",
-        "date": "2026-02-19 00:39:46",
-        "sentiment_score": 0.09823504090309143
-    },
-    {
         "title": "El motor híbrido ultraeficiente de Renault y Repsol que irrumpe en Europa",
         "image_url": "https://www.actualidadmotor.com/wp-content/uploads/2021/03/2-2021-New-Logo-Renault.jpeg",
         "tags": [
@@ -3141,5 +2698,183 @@ export default [
         "link": "https://www.noticiasdenavarra.com/cultura/2026/02/22/trabajo-traducir-guion-personas-cosas-10728274.html",
         "date": "2026-02-22 06:11:57",
         "sentiment_score": -0.1604105830192566
+    },
+    {
+        "title": "Dani Vidal, entrenador del Real Avilés: «No puedo asegurar victorias, pero sí que mi equipo trabaje y haga buenos partidos»",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/02/22/dani-vidal-kAWG-U20846400991saH-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real avilés",
+            "avilés"
+        ],
+        "link": "https://www.elcomercio.es/real-aviles/dani-vidal-entrenador-real-aviles-puedo-asegurar-20260222184759-nt.html",
+        "date": "2026-02-22 17:48:04",
+        "sentiment_score": 0.1936701536178589
+    },
+    {
+        "title": "Crónica del FC Barcelona - Levante UD: 3-0",
+        "image_url": "https://www.infobae.com/resizer/v2/6HNIKTE7OJHCHMTQYMU4Z2JZZU.jpg?auth=a5d6c2100730a0da0fdc539d20709dbb776671b490f4ae939bcdb0d0ca1633cf&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/22/cronica-del-fc-barcelona-levante-ud-3-0/",
+        "date": "2026-02-22 17:45:31",
+        "sentiment_score": -0.03232230246067047
+    },
+    {
+        "title": "Real Madrid y Baskonia quieren la Copa del Rey",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/21/699a161a13954.r_d.815-576-6250.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20260222/real-madrid-baskonia-directo-sigue-final-copa-rey-baloncesto-vivo_388165.html",
+        "date": "2026-02-22 17:45:05",
+        "sentiment_score": -0.14236967265605927
+    },
+    {
+        "title": "Directo | Real Madrid - Baskonia",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/22/realmadrid-baskonia-final-ksDB-U208464745139LH-758x531@RC.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.ideal.es/deportes/baloncesto/directo-realmadrid-baskonia-final-copa-20260222180850-dirc.html",
+        "date": "2026-02-22 17:44:10",
+        "sentiment_score": -0.0784979835152626
+    },
+    {
+        "title": "Real Madrid - Baskonia, en directo",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/22/realmadrid-baskonia-final-ksDB--758x531@RC.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/deportes/baloncesto/directo-realmadrid-baskonia-final-copa-20260222180850-dirc.html",
+        "date": "2026-02-22 17:44:10",
+        "sentiment_score": -0.01884719729423523
+    },
+    {
+        "title": "Salomón Rondón vuelve a marcar en triunfo del Pachuca sobre Tigres",
+        "image_url": "https://noticialdia.com/wp-content/firewall/uploads/2026/02/Salomon-Rondon-.webp",
+        "tags": [
+            "deportes",
+            "gol",
+            "pachuca",
+            "méxico",
+            "salomón rondón"
+        ],
+        "link": "https://noticialdia.com/deportes/salomon-rondon-vuelve-a-marcar-en-triunfo-del-pachuca-sobre-tigres/",
+        "date": "2026-02-22 17:39:06",
+        "sentiment_score": 0.4136990010738373
+    },
+    {
+        "title": "El Barça vuelve a la cima de la Liga a medio gas (3-0)",
+        "image_url": "https://cflvdg.avoz.es/sc/fQZ7o50VkgqjdRy-GLW4-pWtMDo=/768x/2026/02/22/00121771780982007776722/Foto/reu_20260222_170822751.jpg",
+        "tags": [
+            "deportes",
+            "fc barcelona"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/02/22/barca-vuelve-cima-medio-gas-3-0/00031771781631721520583.htm",
+        "date": "2026-02-22 17:39:00",
+        "sentiment_score": -0.7679139990359545
+    },
+    {
+        "title": "Real Madrid - Baskonia de la Copa del Rey de baloncesto, en directo: marcador y última hora de la final",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/22/699b2c877138b3-78354724.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.20minutos.es/deportes/baloncesto/real-madrid-baskonia-copa-rey-baloncesto-directo-marcador-ultima-hora-final_6937469_6.html",
+        "date": "2026-02-22 17:37:17",
+        "sentiment_score": 0.2000749632716179
+    },
+    {
+        "title": "El Barça vuelve a la cima a medio gas",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/22/barcelona-levante-cronica-k61-U20781141386f0H-1200x840@RC.jpg",
+        "tags": [
+            "lamine yamal",
+            "levante",
+            "f.c. barcelona",
+            "robert lewandowski",
+            "liga de fútbol profesional"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-primera/cronica-barcelona-levante-primera-jornada25-20260222180552-ntrc.html",
+        "date": "2026-02-22 17:37:16",
+        "sentiment_score": -0.7679139990359545
+    },
+    {
+        "title": "Abatido en México 'El Mencho', líder del Cartel de Jalisco Nueva Generación",
+        "image_url": "https://static.infolibre.es/clip/4edc9159-4367-4f14-b5e6-4d232c3667de_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "internacional",
+            "estados unidos",
+            "drogas",
+            "méxico"
+        ],
+        "link": "https://www.infolibre.es/internacional/abatido-mexico-mencho-lider-cartel-jalisco-nueva-generacion_1_2149763.html",
+        "date": "2026-02-22 17:57:59",
+        "sentiment_score": -0.34915269911289215
+    },
+    {
+        "title": "Resumen Barcelona-Levante: \"Cuenta nueva\" después del \"borrón\" en Girona (3-0)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/22/image-d8836dcf-d2d7-429f-a6e4-81b85e7380c8-85-2560-1440.jpeg",
+        "tags": [
+            "lifestyle",
+            "entertainment",
+            "top"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/barcelona-levante-video-resumen-resultado-goles-y-mejores-momentos-del-partido-la-liga-ea-sports-jornada-25-hoy_vid60059785/video.shtml",
+        "date": "2026-02-22 17:46:33",
+        "sentiment_score": 0.6758676916360855
+    },
+    {
+        "title": "Barcelona prepara la transformación de La Maquinista: levantará 65.000 m2 de vivienda sobre el centro comercial y su entorno",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/02/29/economia/836426565_12534330_1706x960.jpg",
+        "tags": [
+            "sant andreu",
+            "centro comercial",
+            "obras",
+            "vivienda",
+            "urbanismo"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sant-andreu/20260222/barcelona-prepara-transformacion-maquinista-levantara-m2-vivienda-centro-comercial-entorno/1003742735166_0.html",
+        "date": "2026-02-22 17:46:04",
+        "sentiment_score": -0.6160026714205742
+    },
+    {
+        "title": "\"Si yo fuera Gavi intentaría irme cedido la temporada que viene, porque no va a tener sitio\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/08/30/68b2b3d3e1551.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/fuera-gavi-intentaria-irme-cedido-temporada-viene-no-sitio-20260222_3312745.html",
+        "date": "2026-02-22 17:45:44",
+        "sentiment_score": -0.06196773052215576
+    },
+    {
+        "title": "17:15 | 22 FEB 2026 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/17-15-22-feb-2026-juego-20260222_3312742.html",
+        "date": "2026-02-22 17:38:32",
+        "sentiment_score": 0.031136954203248024
+    },
+    {
+        "title": "Los barceloneses viven con ilusión la llegada a la ciudad de la 40a edición de los Premios Goya",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/202602/22/media/cortadas/barceloneses-viven-ilusin-llegada-ciudad-edicin-premios-20260222172518-vi.jpg",
+        "tags": [
+            "ilusin",
+            "premios",
+            "goya",
+            "ciudad",
+            "barceloneses",
+            "viven",
+            "llegada",
+            "edicin"
+        ],
+        "link": "https://www.elcomercio.es/culturas/barceloneses-viven-ilusin-llegada-ciudad-edicin-premios-20260222172518-vi.html",
+        "date": "2026-02-22 17:35:30",
+        "sentiment_score": 0.03436889499425888
     }
 ];
