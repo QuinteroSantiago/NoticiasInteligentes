@@ -1,214 +1,5 @@
 export default [
     {
-        "title": "Toledo se prepara para una noche irrepetible: el Réquiem de Mozart en versión histórica única",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/02/19/69974bbe0741e.jpeg",
-        "tags": [
-            "castilla-la mancha"
-        ],
-        "link": "https://www.eldebate.com/espana/castilla-la-mancha/20260219/toledo-prepara-noche-irrepetible-requiem-mozart-version-historica-unica_387395.html",
-        "date": "2026-02-19 17:44:06",
-        "sentiment_score": 0.5627008583396673
-    },
-    {
-        "title": "La curiosa conexión entre el marido de Jesús Vázquez con el rey Juan Carlos y María Zurita",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/jesus-vazquez-roberto-marido-juan-carlos.jpg",
-        "tags": [
-            "celebrities",
-            "gente",
-            "rey juan carlos"
-        ],
-        "link": "https://theobjective.com/gente/2026-02-19/jesus-vazquez-marido-rey-juan-carlos-maria-zurita/",
-        "date": "2026-02-19 17:41:04",
-        "sentiment_score": -0.07038058340549469
-    },
-    {
-        "title": "José Luis Soto, rendimiento silencioso en el Europucela",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2026/02/19/Soto-kasH-U20804980360PuG-758x531@El%20Norte.jpg",
-        "tags": [
-            "real valladolid club de fútbol",
-            "sporting de gijón"
-        ],
-        "link": "https://www.elnortedecastilla.es/realvalladolid/jose-luis-soto-rendimiento-silencioso-europucela-20260219184019-nt.html",
-        "date": "2026-02-19 17:40:24",
-        "sentiment_score": 0.020702868700027466
-    },
-    {
-        "title": "Javier Tebas defendió a Barcelona por el 'Caso Negreira': \"No compraron árbitros\"",
-        "image_url": "https://pxcdn.meridiano.net/022026/1771522732440.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/javier-tebas-defendio-a-barcelona-por-el-caso-negreira-no-compraron-arbitros-202621913400",
-        "date": "2026-02-19 17:40:00",
-        "sentiment_score": -0.6090020127594471
-    },
-    {
-        "title": "Desalojadas un centenar de personas de un edificio okupado en Collado Villalba (Madrid) propiedad de la Sareb",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/ae8aef37bef0ff0ff789abaf8f3aad70/crop/153x0/1773x1080/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/19/17715225959350.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elmundo.es/madrid/2026/02/19/6997377e21efa088228b457e.html",
-        "date": "2026-02-19 17:39:33",
-        "sentiment_score": -0.3118780218064785
-    },
-    {
-        "title": "Un gigante mundial aterriza en Ciudad Real con un campus que promete empleo desde cero",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/19/69974900b5f6d.r_d.1060-453-6250.jpeg",
-        "tags": [
-            "castilla-la mancha"
-        ],
-        "link": "https://www.eldebate.com/espana/castilla-la-mancha/20260219/gigante-mundial-aterriza-ciudad-real-campus-promete-empleo-desde-cero_387390.html",
-        "date": "2026-02-19 17:34:46",
-        "sentiment_score": 0.7540133520960808
-    },
-    {
-        "title": "(Previa) El Athletic ansía acercarse a Europa ante un Elche aferrado a su estilo",
-        "image_url": "https://www.infobae.com/resizer/v2/45MX5XO2ENARDGMBYB7R3GNN34.jpg?auth=bdcdbb835566d9d031036da99a2ca8d380c5593e2aa61e2804d2a2d3a2a7988c&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/19/previa-el-athletic-ansia-acercarse-a-europa-ante-un-elche-aferrado-a-su-estilo/",
-        "date": "2026-02-19 17:30:20",
-        "sentiment_score": -0.16346824169158936
-    },
-    {
-        "title": "La Reina Letizia respalda en Elda la producción nacional de calzado artesanal y sostenible",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/941b82eb-290d-4197-aa08-771f20035307_16-9-aspect-ratio_default_0_x720y304.jpg",
-        "tags": [
-            "italia",
-            "la reina",
-            "modelos",
-            "calzado"
-        ],
-        "link": "https://www.levante-emv.com/sociedad/2026/02/19/reina-letizia-respalda-elda-produccion-127041408.html",
-        "date": "2026-02-19 17:30:02",
-        "sentiment_score": 0.4174966737627983
-    },
-    {
-        "title": "HIP 2026 cierra sus puertas con 61.917 profesionales y el anuncio histórico de su aterrizaje en Italia",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2753135.jpg",
-        "tags": [
-            "empresas"
-        ],
-        "link": "https://www.vozpopuli.com/economia/empresas/hip-2026-cierra-sus-puertas-con-61917-profesionales-y-el-anuncio-historico-de-su-aterrizaje-en-italia.html",
-        "date": "2026-02-19 17:29:40",
-        "sentiment_score": 0.1994884554296732
-    },
-    {
-        "title": "Aldama: \"Es absolutamente falso\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4928ae06-9277-43d7-a1a1-916ec7998940_16-9-aspect-ratio_default_0_x960y360.jpg",
-        "tags": [
-            "corrupción",
-            "víctor de aldama",
-            "caso koldo",
-            "pi vídeos",
-            "psoe"
-        ],
-        "link": "https://www.laopiniondemalaga.es/nacional/2026/02/19/aldama-absolutamente-falso-127041883.html",
-        "date": "2026-02-19 17:25:01",
-        "sentiment_score": -0.8561880476772785
-    },
-    {
-        "title": "CaixaBank propondrá la reelección de Tomás Muniesa como consejero en su Junta General",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260219184326_690.jpg",
-        "tags": [
-            "economía finanzas",
-            "finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/finanzas-00340/noticia-caixabank-propondra-reeleccion-tomas-muniesa-consejero-junta-general-20260219184326.html",
-        "date": "2026-02-19 17:43:26",
-        "sentiment_score": 0.04595553129911423
-    },
-    {
-        "title": "El editor Daniel Fernández, nuevo presidente del Gremio de Editores",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/19/vivir-en-barcelona/1003742734507_15739290_1706x960.jpg",
-        "tags": [
-            "empresas barcelona",
-            "cultura",
-            "librerias",
-            "vivir en barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260219/editor-daniel-fernandez-nuevo-presidente-gremio-editores/1003742734504_0.html",
-        "date": "2026-02-19 17:42:38",
-        "sentiment_score": 0.4216553680598736
-    },
-    {
-        "title": "Telefónica activa sus primeros 'minicentros' de datos para empresas en cinco ciudades, entre ellas Sevilla",
-        "image_url": "https://static.grupojoly.com/clip/8fb72887-c866-42d2-86cd-ad9e8d82e17a_facebook-aspect-ratio_default_0.png",
-        "tags": [
-            "empresas",
-            "primeros",
-            "sevilla",
-            "datos",
-            "telefonica",
-            "minicentros",
-            "ciudades"
-        ],
-        "link": "https://www.elconciso.es/empresas/telefonica-primeros-minicentros-datos-empresas-ciudades-sevilla_0_2005955745.html",
-        "date": "2026-02-19 17:41:36",
-        "sentiment_score": 0.3233378380537033
-    },
-    {
-        "title": "Un día de precampaña: Camprubí reclama unidad a la oposición, Font propone su modelo de Palau Blaugrana y Vilajoana coquetea con Harry Kane",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0f43cb41-adfc-4845-8f7b-8d659db73f1e_alta-libre-aspect-ratio_default_0_x795y298.jpg",
-        "tags": [
-            "joan laporta",
-            "víctor font"
-        ],
-        "link": "https://www.elperiodico.com/es/deportes/20260219/fc-barcelona-camprubi-reclama-unidad-font-presenta-palau-blaugrana-elecciones-127037257",
-        "date": "2026-02-19 17:40:38",
-        "sentiment_score": -0.8616179153323174
-    },
-    {
-        "title": "Allen Obando, apuesta del Alavés para el Istra",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/fbeeffcb-9b1f-4b56-bb28-bfdb4aa8a504_16-9-aspect-ratio_default_0_x213y117.jpg",
-        "tags": [
-            "alaves",
-            "apuesta",
-            "allen",
-            "obando",
-            "istra"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2026/02/19/allen-obando-apuesta-alaves-istra-10723075.html",
-        "date": "2026-02-19 17:40:35",
-        "sentiment_score": 0.5936495717614889
-    },
-    {
-        "title": "Restablecida la circulación de tren entre Montblanc (Tarragona) y Puigverd de Lleida",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260219184009_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-restablecida-circulacion-tren-montblanc-tarragona-puigverd-lleida-20260219184009.html",
-        "date": "2026-02-19 17:40:09",
-        "sentiment_score": -0.22262286394834518
-    },
-    {
-        "title": "La Sagrada Família coloca su pieza más alta",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/12/696539891a4e5.r_d.2339-372-1055.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20260219/11470710/sagrada-familia-coloca-pieza-mas-alta.html",
-        "date": "2026-02-19 17:39:15",
-        "sentiment_score": 0.34484338387846947
-    },
-    {
-        "title": "De tratamientos a acciones simples: claves de expertos para controlar la migraña",
-        "image_url": "https://www.infobae.com/resizer/v2/H34GHG5THRA7BPS5YWH67VXNDA.png?auth=7cd8e6ab97c8e3c316682572589a37e80d8e25c31e3ea5a7ab38fc7f0aa8c74e&height=768&smart=true&width=1408",
-        "tags": [
-            "newsroom bue",
-            "salud",
-            "terapias",
-            "migraña"
-        ],
-        "link": "https://www.infobae.com/salud/2026/02/19/de-tratamientos-a-acciones-simples-claves-de-expertos-para-controlar-la-migrana/",
-        "date": "2026-02-19 17:37:50",
-        "sentiment_score": 0.30161552876234055
-    },
-    {
         "title": "El Real Madrid arrolla al campeón Unicaja y se cita con el Valencia Basket en 'semis' de la Copa del Rey",
         "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/19/69978c719d3768-50482765.jpeg",
         "tags": [
@@ -3046,5 +2837,181 @@ export default [
         "link": "https://www.huelvainformacion.es/opinion/editorial/patinetes-seguridad_0_2005985547.html",
         "date": "2026-02-23 02:10:45",
         "sentiment_score": -0.17142626643180847
+    },
+    {
+        "title": "El parque eólico Ferosca I da un paso más y obtiene la Autorización Administrativa previa tras ‘perder’ tres aerogeneradores",
+        "image_url": "https://a2.elespanol.com/cronicavasca/2026/02/03/empresas/1003742728946_15671247_1706x960.jpg",
+        "tags": [
+            "energía",
+            "energía eólica",
+            "gobierno vasco",
+            "industria",
+            "energía renovable",
+            "empresas"
+        ],
+        "link": "https://cronicavasca.elespanol.com/empresas/20260223/parque-eolico-ferosca-obtiene-autorizacion-administrativa-aerogeneradores/1003742734728_0.html",
+        "date": "2026-02-23 07:13:52",
+        "sentiment_score": 0.11887827515602112
+    },
+    {
+        "title": "El plan de Rufián, el giro izquierdista del espíritu de Roca y Cambó",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/207b93d1-0e84-44c8-997f-aca89f32d10f_16-9-aspect-ratio_default_0_x2984y1527.jpg",
+        "tags": [
+            "espiritu",
+            "rufian",
+            "giro",
+            "plan",
+            "izquierdista"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/politica/2026/02/23/plan-rufian-giro-izquierdista-espiritu-10734979.html",
+        "date": "2026-02-23 07:00:48",
+        "sentiment_score": -0.2334016114473343
+    },
+    {
+        "title": "Bruselas cuestiona la baliza V16 obligatoria por falta de notificación de España",
+        "image_url": "https://www.actualidadmotor.com/wp-content/uploads/2025/10/Luz-V16-conectada-2.jpg",
+        "tags": [
+            "noticias automóviles",
+            "seguridad y seguridad vial"
+        ],
+        "link": "https://www.actualidadmotor.com/bruselas-cuestiona-la-baliza-v16-obligatoria-por-falta-de-notificacion-de-espana/",
+        "date": "2026-02-23 07:00:37",
+        "sentiment_score": -0.5596359670162201
+    },
+    {
+        "title": "El nombre de niña que se oye en Galicia y en el resto de España ni saben decirlo: su origen está en un monte",
+        "image_url": "https://okdiario.com/img/2026/02/20/el-nombre-de-nina-que-se-oye-en-galicia-y-en-el-resto-de-espana-ni-saben-decirlo-su-origen-esta-en-un-monte.jpg",
+        "tags": [
+            "okd",
+            "nombres de niño",
+            "niños",
+            "nombres de niña",
+            "bebés"
+        ],
+        "link": "https://okdiario.com/bebes/nombre-nina-que-oye-galicia-resto-espana-ni-saben-decirlo-origen-esta-monte-16278281",
+        "date": "2026-02-23 07:00:26",
+        "sentiment_score": -0.4353950768709183
+    },
+    {
+        "title": "Cortes de luz en Madrid del 23 de febrero al 1 de marzo: horarios y calles afectadas",
+        "image_url": "https://okdiario.com/img/2026/02/20/cortes-de-luz-en-madrid-del-23-de-febrero-al-1-de-marzo-horarios-y-calles-afectadas.jpg",
+        "tags": [
+            "okd",
+            "apagón",
+            "luz",
+            "madrid",
+            "españa"
+        ],
+        "link": "https://okdiario.com/madrid/cortes-luz-madrid-del-23-febrero-1-marzo-horarios-calles-afectadas-16276695",
+        "date": "2026-02-23 07:00:17",
+        "sentiment_score": -0.6937107816338539
+    },
+    {
+        "title": "El Papa advirtió a la Conferencia Episcopal del crecimiento ultra en España",
+        "image_url": "https://www.elplural.com/uploads/s1/24/65/45/2/leon-xiv-y-conferencia-episcopal-espanola-vatican-media_7_480x270.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elplural.com/politica/espana/papa-advirtio-conferencia-episcopal-crecimiento-ultra-espana_382188102",
+        "date": "2026-02-23 06:57:00",
+        "sentiment_score": -0.05802673101425171
+    },
+    {
+        "title": "La Copa aterriza en Foronda",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/93d0eacf-30a6-4bca-a850-d076cfd3311a_16-9-aspect-ratio_default_0_x753y1075.jpg",
+        "tags": [
+            "copa del rey",
+            "copa acb",
+            "copa",
+            "foronda",
+            "vitoria-gasteiz",
+            "baskonia",
+            "aterriza"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/23/copa-aterriza-foronda-baskonia-copa-del-rey-copa-acb-vitoria-gasteiz-10734933.html",
+        "date": "2026-02-23 06:51:08",
+        "sentiment_score": 0.15597808361053467
+    },
+    {
+        "title": "Denuncian Joan Laporta y algunos de sus directivos por blanqueo de capitales",
+        "image_url": "https://static1.ara.cat/clip/ae7fb636-3c9f-479d-91af-bc0c73f87932_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "capitales",
+            "blanqueo",
+            "joan",
+            "directivos",
+            "denuncian",
+            "laporta"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/denuncian-joan-laporta-directivos-blanqueo-capitales_1_5656634.html",
+        "date": "2026-02-23 07:15:33",
+        "sentiment_score": -0.8351699449121952
+    },
+    {
+        "title": "Publican la lista de las 100 mejores cafeterías del mundo y 4 de ellas están en España: en Barcelona, Madrid y Málaga",
+        "image_url": "https://okdiario.com/img/2026/02/20/publican-la-lista-de-las-100-mejores-cafeterias-del-mundo-y-4-de-ellas-estan-en-espana-en-barcelona-madrid-y-malaga.jpg",
+        "tags": [
+            "okd",
+            "café",
+            "madrid",
+            "gastronomía",
+            "bebidas",
+            "barcelona"
+        ],
+        "link": "https://okdiario.com/gastronomia/publican-lista-100-mejores-cafeterias-del-mundo-4-ellas-estan-espana-barcelona-madrid-malaga-16278686",
+        "date": "2026-02-23 07:15:10",
+        "sentiment_score": 0.3719405308365822
+    },
+    {
+        "title": "07:00H | 23 FEB 2026 | ¡Buenos días, Javi y Mar!",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "¡buenos días, javi y mar!"
+        ],
+        "link": "https://www.cadena100.es/programas/buenos-dias-javi-y-mar/horas-completas/07-00h-23-feb-2026-buenos-dias-javi-mar-20260223_146459.html",
+        "date": "2026-02-23 07:12:00",
+        "sentiment_score": -0.1827504187822342
+    },
+    {
+        "title": "Iberia elimina hoy el tope a los precios en los vuelos Madrid-Barcelona",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/21/6970a0953c0a72-94973431.jpeg",
+        "tags": [
+            "empresas"
+        ],
+        "link": "https://www.20minutos.es/lainformacion/empresas/iberia-elimina-este-lunes-tope-los-precios-los-vuelos-madrid-barcelona_6937547_0.html",
+        "date": "2026-02-23 07:10:02",
+        "sentiment_score": -0.3549894504249096
+    },
+    {
+        "title": "Hyundai arrasa en experiencia de cliente: garantía sin límite, devolución ampliada y compromiso real",
+        "image_url": "https://imagenes.esdiario.com/files/og_thumbnail/uploads/2026/02/21/6999904b9e66c.png",
+        "tags": [
+            "motor"
+        ],
+        "link": "https://www.esdiario.com/motor/260223/180425/hyundai-arrasa-experiencia-cliente-garantia-limite-devolucion-ampliada-compromiso-real.html",
+        "date": "2026-02-23 07:10:00",
+        "sentiment_score": 0.8351683244109154
+    },
+    {
+        "title": "Suben los alquileres y élites enfrentadas",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/23/primeras-planas/1003742735245_15748280_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "alquiler",
+            "primeras planas"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260223/suben-alquileres-elites-enfrentadas/1003742735243_0.html",
+        "date": "2026-02-23 07:09:56",
+        "sentiment_score": -0.6817292049527168
+    },
+    {
+        "title": "Lamine Yamal se enfada al ser sustituido y Hansi Flick le lanza un mensaje: \"No entendería que estuviese contento\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/02/22/699b75d6e62575-66265083.r_d.961-601.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/lamine-yamal-se-enfada-ser-sustituido-hansi-flick-le-lanza-un-mensaje-no-entenderia-que-estuviese-contento_6937514_0.html",
+        "date": "2026-02-23 07:03:14",
+        "sentiment_score": -0.7192355524748564
     }
 ];
