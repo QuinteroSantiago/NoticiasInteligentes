@@ -1,433 +1,5 @@
 export default [
     {
-        "title": "El Real Madrid arrolla al campeón Unicaja y se cita con el Valencia Basket en 'semis' de la Copa del Rey",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/19/69978c719d3768-50482765.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.20minutos.es/deportes/baloncesto/real-madrid-arrolla-campeon-unicaja-cita-valencia-basket-semifinales-copa-rey_6936640_0.html",
-        "date": "2026-02-19 22:32:02",
-        "sentiment_score": 0.3784891217947006
-    },
-    {
-        "title": "Ibon Navarro: Nos hemos visto superados por todo y no hemos podido responder en nada",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/19/ibon-navarro-nos-hemos-visto-superados-por-todo-y-no-hemos-podido-responder-en-nada/",
-        "date": "2026-02-19 22:31:06",
-        "sentiment_score": -0.8401028979569674
-    },
-    {
-        "title": "La afición, lo mejor del Unicaja en la Copa del Rey",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0243446b-1261-48da-afcd-ca707bbcd28f_16-9-aspect-ratio_default_0_x1082y400.jpg",
-        "tags": [
-            "unicaja",
-            "acb",
-            "afición",
-            "copa del rey 2026"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2026/02/19/aficion-unicaja-copa-rey-valencia-127051109.html",
-        "date": "2026-02-19 22:29:21",
-        "sentiment_score": 0.17996937036514282
-    },
-    {
-        "title": "Ibon Navarro, tras la derrota contra el Madrid: «Es un golpe de realidad»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/91246540-9a65-4ba6-ba4f-5d9e2e03a511_16-9-aspect-ratio_default_0_x1000y406.jpg",
-        "tags": [
-            "unicaja",
-            "real madrid",
-            "copa del rey 2026",
-            "madrid",
-            "ibon navarro"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2026/02/19/ibon-navarro-derrota-madrid-copa-rey-127051038.html",
-        "date": "2026-02-19 22:24:17",
-        "sentiment_score": -0.8334956988692284
-    },
-    {
-        "title": "Ibon Navarro: \"Un golpe de realidad, pido perdón a la gente\"",
-        "image_url": "https://static.grupojoly.com/clip/b6492eb9-5029-430b-8505-a0fd659ca2c7_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unicaja baloncesto"
-        ],
-        "link": "https://www.malagahoy.es/unicaja/ibon-navarro-golpe-realidad-pido_0_2005958265.html",
-        "date": "2026-02-19 22:17:22",
-        "sentiment_score": -0.7101539336144924
-    },
-    {
-        "title": "Así fue la derrota del Unicaja ante el Real Madrid en los cuartos de final de la Copa del Rey",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/055dba12-a9da-4f22-9826-41fe5d9c272f_16-9-aspect-ratio_default_0_x640y240.jpg",
-        "tags": [
-            "sergio scariolo",
-            "unicaja",
-            "copa del rey 2026",
-            "real madrid",
-            "copa del rey",
-            "cuartos de final"
-        ],
-        "link": "https://www.laopiniondemalaga.es/videos/deportes/unicaja-cb/2026/02/19/derrota-unicaja-real-madrid-cuartos-copa-127051033.html",
-        "date": "2026-02-19 22:14:06",
-        "sentiment_score": -0.2721669375896454
-    },
-    {
-        "title": "Thibaut Courtois se convierte en propietario de este club europeo",
-        "image_url": "https://pxcdn.meridiano.net/022026/1771539271337.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/thibaut-courtois-se-convierte-en-propietario-de-este-club-europeo-20262191870",
-        "date": "2026-02-19 22:14:00",
-        "sentiment_score": 0.1474534161388874
-    },
-    {
-        "title": "Scariolo, tras el Real Madrid-Unicaja: \"Hace cuatro cuatro días casi perdemos con ellos\"",
-        "image_url": "https://static.grupojoly.com/clip/68bd5e06-13e9-4661-bdca-3aebc6b60a14_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unicaja baloncesto"
-        ],
-        "link": "https://www.malagahoy.es/unicaja/scariolo-real-madrid-unicaja-cuatro_0_2005958296.html",
-        "date": "2026-02-19 22:04:27",
-        "sentiment_score": -0.8979085823521018
-    },
-    {
-        "title": "Real Madrid-Unicaja: Un ciclón blanco no deja rastro del campeón (100-70)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/19/image-1e469fcb-5416-4f19-8fa4-109de5cd0b92-85-2560-1440.jpeg",
-        "tags": [
-            "basketball",
-            "copa del rey 2026"
-        ],
-        "link": "https://espanol.eurosport.com/baloncesto/copa-del-rey/2026/real-madrid-unicaja-resumen-resultado-y-mejores-momentos-cuartos-de-final-highlights-hoy_sto23273247/story.shtml",
-        "date": "2026-02-19 22:03:48",
-        "sentiment_score": 0.6661210432648659
-    },
-    {
-        "title": "Rodalies, un mes después del accidente mortal de Gelida: el 'detonante' de una crisis ferroviaria no resuelta",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/21/actualidad/1003742725266_15625472_1706x960.jpg",
-        "tags": [
-            "rodalies",
-            "generalitat de catalunya",
-            "movilidad",
-            "el pulso de la ciudad",
-            "ayuntamiento de barcelona",
-            "renfe barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260219/rodalies-mes-despues-accidente-mortal-gelida-detonante-crisis-ferroviaria-no-resuelta/1003742733690_0.html",
-        "date": "2026-02-19 22:30:00",
-        "sentiment_score": -0.9256476853042841
-    },
-    {
-        "title": "La masía protegida de Can Reverter, a subasta tras el fracaso de la residencia privada de mayores en Sant Vicenç",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/17/gran-barcelona/1003742733275_15725851_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "baix llobregat"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260219/masia-protegida-can-reverter-subasta-fracaso-residencia-privada-mayores-sant-vicenc/1003742733184_0.html",
-        "date": "2026-02-19 22:30:00",
-        "sentiment_score": -0.238477885723114
-    },
-    {
-        "title": "Por amor al arte",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/01/19/el-pulso-de-la-ciudad/552454777_10064795_1706x960.jpg",
-        "tags": [
-            "opinión",
-            "arte barcelona",
-            "barcelona",
-            "cultura"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/opinion/20260219/amor-arte/1003742734553_12.html",
-        "date": "2026-02-19 22:30:00",
-        "sentiment_score": 0.3313707262277603
-    },
-    {
-        "title": "Sant Ramon reclama la circulación de autobuses durante los partidos del Barça: \"Estamos horas sin transporte\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/19/les-corts/1003742734486_15738973_1706x960.jpg",
-        "tags": [
-            "la maternitat i sant ramon",
-            "transporte",
-            "camp nou",
-            "transporte público",
-            "les corts",
-            "autobús",
-            "barça",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/les-corts/20260219/sant-ramon-reclama-circulacion-autobuses-partidos-barca-horas-sin-transporte/1003742734344_0.html",
-        "date": "2026-02-19 22:30:00",
-        "sentiment_score": -0.7569319196045399
-    },
-    {
-        "title": "Victoria judicial para unos vecinos de la Sagrada Família: condenada a irse la okupa que explotaba un piso turístico ilegal",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/06/05/el-pulso-de-la-ciudad/1003742663257_14681186_1706x960.jpg",
-        "tags": [
-            "sagrada família",
-            "okupas",
-            "viviendas",
-            "alquiler vivienda",
-            "vivienda",
-            "juicios",
-            "eixample"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/eixample/20260219/victoria-judicial-vecinos-sagrada-familia-condenada-irse-okupa-explotaba-piso-turistico-ilegal/1003742733782_0.html",
-        "date": "2026-02-19 22:30:00",
-        "sentiment_score": -0.9191807676106691
-    },
-    {
-        "title": "David Fernández, sobre 'MasterChef Celebrity' en RTVE: \"No me sabía ni los nombres de mis compañeros\"",
-        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/02/19/69975ee45a340.jpeg",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.mundodeportivo.com/elotromundo/television/20260219/1004131580/david-fernandez-sobre-masterchef-celebrity-rtve-me-sabia-nombres-mis-companeros-dct.html",
-        "date": "2026-02-19 22:20:15",
-        "sentiment_score": -0.09590138494968414
-    },
-    {
-        "title": "Rufián exigirá a Junqueras decidir la lista \"a su medida\" para repetir como candidato de ERC: \"Todo o nada\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
-        "tags": [
-            "artículos víctor mondelo",
-            "erc",
-            "gabriel rufián",
-            "nlpremium",
-            "oriol junqueras"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2026/02/19/69974d2afdddff0d268b458a.html",
-        "date": "2026-02-19 22:12:02",
-        "sentiment_score": -0.8348530475050211
-    },
-    {
-        "title": "Real Madrid-Barcelona, United-Bayern, Wolfsburgo-Lyon y Arsenal-Chelsea, en cuartos",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/19/real-madrid-barcelona-united-bayern-wolfsburgo-lyon-y-arsenal-chelsea-en-cuartos/",
-        "date": "2026-02-19 22:03:02",
-        "sentiment_score": -0.14429482072591782
-    },
-    {
-        "title": "El 'Polònia' cobra vida en una gala histórica para celebrar los veinte años",
-        "image_url": "https://static1.ara.cat/clip/8b94272b-a1a9-4d46-b557-1acc9d4febdc_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cobra",
-            "gala",
-            "anos",
-            "polonia",
-            "veinte",
-            "historica",
-            "celebrar",
-            "vida"
-        ],
-        "link": "https://es.ara.cat/media/polonia-cobra-vida-gala-historica-celebrar-veinte-anos_1_5654098.html",
-        "date": "2026-02-19 22:02:45",
-        "sentiment_score": -0.11890676617622375
-    },
-    {
-        "title": "El preocupante rendimiento de Aston Martin en los test de la Fórmula 1: la imagen que encendió las alarmas",
-        "image_url": "https://www.infobae.com/resizer/v2/MQWEG4Y4X5CNRB7SHFPF5EFV4U.jfif?auth=6ee9a98d2ed77d4a1a1877bad3096963ea789ef75838a7710569cbc76eff1122&height=947&smart=true&width=1683",
-        "tags": [
-            "fernando alonso",
-            "adrian newey",
-            "f1",
-            "deportes-argentina",
-            "lance stroll",
-            "aston martín",
-            "fórmula 1"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/19/el-preocupante-rendimiento-de-aston-martin-en-los-test-de-la-formula-1-la-imagen-que-encendio-las-alarmas/",
-        "date": "2026-02-19 22:00:30",
-        "sentiment_score": -0.8177272882312536
-    },
-    {
-        "title": "Javier Aguirre se vuelve a encomendar a las Chivas para la base de su selección",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LVJ2SVGTOZGUBFRPUMZWAGQE7E.jpg?auth=33c8d5d4df6aaa2339499d5ef8f153c8afecc6c8762cec76c56b73e9ece43cd1&width=1200",
-        "tags": [
-            "javier aguirre",
-            "chivas guadalajara",
-            "selección mexicana",
-            "liga bbva bancomer",
-            "rafa márquez",
-            "latinoamérica",
-            "méxico",
-            "selección fútbol méxico",
-            "américa"
-        ],
-        "link": "https://elpais.com/mexico/2026-02-20/javier-aguirre-se-vuelve-a-encomendar-a-las-chivas-para-la-base-de-su-seleccion.html",
-        "date": "2026-02-20 02:35:28",
-        "sentiment_score": 0.0962260365486145
-    },
-    {
-        "title": "Miserere, evocación del maestro Torres",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "evocacion",
-            "miserere",
-            "maestro",
-            "torres"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/miserere-evocacion-maestro-torres_0_2005959019.html",
-        "date": "2026-02-20 02:08:06",
-        "sentiment_score": 0.5695590451359749
-    },
-    {
-        "title": "La lluvia, el hielo y la nieve afectan a 79 carreteras, 28 de ellas en Andalucía",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/20/la-lluvia-el-hielo-y-la-nieve-afectan-a-79-carreteras-28-de-ellas-en-andalucia/",
-        "date": "2026-02-20 01:31:35",
-        "sentiment_score": -0.67813341319561
-    },
-    {
-        "title": "Zapatero, su lugarteniente Segundo Martínez y Óscar Puente fueron los valedores del DAO investigado por violación",
-        "image_url": "https://s1.staticld.com/2026/02/13/rodriguez-zapatero30022026.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/espana/2026-02-20/zapatero-su-lugarteniente-segundo-martinez-y-oscar-puente-fueron-los-valedores-del-dao-investigado-por-violacion-7362386/",
-        "date": "2026-02-20 01:03:25",
-        "sentiment_score": -0.21920635551214218
-    },
-    {
-        "title": "19 FEB 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/19-feb-2026-partidazo-cope-20260220_3311632.html",
-        "date": "2026-02-20 00:39:41",
-        "sentiment_score": -0.8201738186180592
-    },
-    {
-        "title": "Un juzgado anula el cese del comandante Velasco y desautoriza la decisión de Margarita Robles tras el caso Cerro Muriano",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/02/20/6997ace22b76d.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20260220/juzgado-anula-cese-comandante-velasco-desautoriza-decision-margarita-robles-caso-cerro-muriano_387443.html",
-        "date": "2026-02-20 00:38:58",
-        "sentiment_score": -0.8335047494620085
-    },
-    {
-        "title": "La orden no se espera",
-        "image_url": "https://www.eldebate.com/files/fp/uploads/2021/10/21/61713c9335472.r_d.577-326-0.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20260220/orden-no-espera_387416.html",
-        "date": "2026-02-20 00:30:00",
-        "sentiment_score": -0.2816857136785984
-    },
-    {
-        "title": "United supera al Atlético y disputará por primera vez los cuartos de la Champions femenina",
-        "image_url": "https://dims.apnews.com/dims4/default/567dc86/2147483647/strip/true/crop/2290x1524+0+7/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2Ffc%2Fdb2a0c52349a78ad1f07cf6e7709%2F999a3248364041808ab834dcdbcbccdd",
-        "tags": [
-            "liga campeones champions manchester united wolfsburgo",
-            "sports",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/liga-campeones-champions-manchester-united-wolfsburgo-ca92967ca57edd3ecefca2489cb936e5",
-        "date": "2026-02-20 00:17:17",
-        "sentiment_score": 0.6968544088304043
-    },
-    {
-        "title": "United supera al Atlético y disputará por primera vez los cuartos de la Champions femenina",
-        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2026/02/CAMPEONES-FEMENINA_33107.jpg?strip=all&w=1400px",
-        "tags": [
-            "en español"
-        ],
-        "link": "https://www.chicagotribune.com/2026/02/19/united-supera-al-atltico-y-disputar-por-primera-vez-los-cuartos-de-la-champions-femenina/",
-        "date": "2026-02-20 00:17:16",
-        "sentiment_score": 0.6884875074028969
-    },
-    {
-        "title": "El video de Lionel Messi que compartió Inter Miami y llevó tranquilidad a los fanáticos de Argentina",
-        "image_url": "https://www.infobae.com/resizer/v2/R67JE7X2VVAZZORFDKZQBX3UII.png?auth=ba5140fff23dfdc0a011648fad38e135f0b98fdd4c635a2d7900e1bade2a8db1&height=1080&smart=true&width=1920",
-        "tags": [
-            "selección argentina",
-            "lionel messi",
-            "inter miami",
-            "major league soccer"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/20/el-video-de-lionel-messi-que-compartio-inter-miami-y-llevo-tranquilidad-a-los-fanaticos-de-argentina/",
-        "date": "2026-02-20 02:29:25",
-        "sentiment_score": 0.6344166118651628
-    },
-    {
-        "title": "Clima en España: la predicción del tiempo para Barcelona este 20 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima",
-            "últimas actualizaciones",
-            "clima en barcelona",
-            "clima en españa"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/20/clima-en-espana-la-prediccion-del-tiempo-para-barcelona-este-20-de-febrero/",
-        "date": "2026-02-20 02:15:56",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "En Estados Unidos se rinden a las tres españolas que han roto el último techo de cristal de los Oscar",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/02/19/fotograma-de-sirat-1721.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.huffingtonpost.es/life/cultura/en-estados-unidos-rinden-tres-espanolas-han-roto-ultimo-techo-cristal-oscar-f202602.html",
-        "date": "2026-02-20 02:00:00",
-        "sentiment_score": 0.6588265374302864
-    },
-    {
-        "title": "¿Julián Álvarez dejará al Atlético para fichar por el Barça tras el Mundial?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/20/2026022002015424266.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/argentina-situan-julian-alvarez-barcelona-mundial/20260220020715375492.html",
-        "date": "2026-02-20 01:07:15",
-        "sentiment_score": 0.06835709512233734
-    },
-    {
-        "title": "Talgo negocia con Alstom para construir los nuevos AVE de Arabia",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/9a95e525e17dee820a9e57ebdc9ddb20/crop/28x149/1933x1418/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/19/17715387271603.jpg",
-        "tags": [
-            "transporte y turismo>"
-        ],
-        "link": "https://www.expansion.com/empresas/transporte/2026/02/20/69978577e5fdea20798b4590.html",
-        "date": "2026-02-20 00:41:24",
-        "sentiment_score": 0.31353338062763214
-    },
-    {
-        "title": "3a PARTE | 19 FEB 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-19-feb-2026-partidazo-cope-20260220_3311631.html",
-        "date": "2026-02-20 00:38:16",
-        "sentiment_score": 0.023181281983852386
-    },
-    {
-        "title": "Aunque el Gobierno lo niegue, el efecto llamada de la regularización es real",
-        "image_url": "https://s3.elespanol.com/2026/02/19/actualidad/1003744138100_261527297_1024x576.jpg",
-        "tags": [
-            "inmigración ilegal",
-            "opinión",
-            "inmigración",
-            "argelia",
-            "editoriales de opinión",
-            "marruecos",
-            "editoriales"
-        ],
-        "link": "https://www.elespanol.com/opinion/editoriales/20260220/gobierno-niegue-efecto-llamada-regularizacion-real/1003744138085_14.html",
-        "date": "2026-02-20 00:31:46",
-        "sentiment_score": -0.9032638594508171
-    },
-    {
         "title": "La indignación de Marta García Aller tras la detención del príncipe Andrés: \"Todos estos miserables se creían intocables\"",
         "image_url": "https://image.ondacero.es/clipping/cmsimages01/2025/11/05/B6BE1F4E-50BF-48F5-86DA-4563F1B046EA/marta-garcia-aller_96.jpg?crop=6000%2C3375%2Cx0%2Cy163&format=webply&height=675&optimize=low&width=1200",
         "tags": [
@@ -3013,5 +2585,203 @@ export default [
         "link": "https://www.20minutos.es/deportes/futbol/lamine-yamal-se-enfada-ser-sustituido-hansi-flick-le-lanza-un-mensaje-no-entenderia-que-estuviese-contento_6937514_0.html",
         "date": "2026-02-23 07:03:14",
         "sentiment_score": -0.7192355524748564
+    },
+    {
+        "title": "Activistas exigen acción tras abusos racistas a 4 jugadores de la Premier en fin de semana \"atroz\"",
+        "image_url": "https://dims.apnews.com/dims4/default/fcb27f9/2147483647/strip/true/crop/3289x2189+60+0/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2Fb7%2F495c47f6d6ddb423b9f09dce829c%2Fcc36c172c1bf41a897df75350019adf6",
+        "tags": [
+            "deportes",
+            "sports",
+            "premier league racismo"
+        ],
+        "link": "https://apnews.com/article/premier-league-racismo-ffc2fcb015da8dc3c2d460cee1e24572",
+        "date": "2026-02-23 17:49:20",
+        "sentiment_score": -0.9126275405287743
+    },
+    {
+        "title": "Activistas exigen acción tras abusos racistas a 4 jugadores de la Premier en fin de semana “atroz”",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2026/02/WESLEY_FOFANA_64282.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2026/02/23/activistas-exigen-accin-tras-abusos-racistas-a-4-jugadores-de-la-premier-en-fin-de-semana-atroz/",
+        "date": "2026-02-23 17:49:19",
+        "sentiment_score": -0.8917204244062304
+    },
+    {
+        "title": "Hugo González frenó a Doncic en un duelo de madridistas en la NBA",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/09/2025100907124188969.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/hugo-gonzalez-freno-doncic-duelo-madridistas-nba/20260223184708375917.html",
+        "date": "2026-02-23 17:47:08",
+        "sentiment_score": 0.73918866366148
+    },
+    {
+        "title": "Benfica responde a la sanción recibida a Prestianni por presunto insulto racista",
+        "image_url": "https://pxcdn.meridiano.net/022026/1771868772927.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/benfica-responde-a-la-sancion-recibida-a-prestianni-por-presunto-insulto-racista-202622313470",
+        "date": "2026-02-23 17:47:00",
+        "sentiment_score": 0.23983299732208252
+    },
+    {
+        "title": "Exclusiva | Gloria Camila confirma su reconciliación con Álvaro García el día de su cumpleaños: todos los detalles",
+        "image_url": "https://album.mediaset.es/eimg/2026/02/23/exclusiva-gloria-camila-confirma-su-reconciliacion-con-alvaro-garcia-el-dia-de-su-cumpleanos_aa90.jpg",
+        "tags": [
+            "famosos"
+        ],
+        "link": "https://www.telecinco.es/famosos/20260223/tiempo-justo-exclusiva-gloria-camila-confirma-reconciliacion-alvaro-garcia-cumpleanos_18_018433863.html",
+        "date": "2026-02-23 17:46:52",
+        "sentiment_score": -0.45941004157066345
+    },
+    {
+        "title": "Marc Pubill, el último 'jefe' de la zaga de Diego Pablo Simeone",
+        "image_url": "https://www.infobae.com/resizer/v2/7T4ZJPWLVJEJDB76N5ABMDHRE4.jpg?auth=9e0a650b039d7ca1f11383b5f7ebb914d93a38de739cb9e269fb3dab652f17b5&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/23/marc-pubill-el-ultimo-jefe-de-la-zaga-de-diego-pablo-simeone/",
+        "date": "2026-02-23 17:46:05",
+        "sentiment_score": -0.1411583498120308
+    },
+    {
+        "title": "La UEFA suspende a Prestianni por “comportamiento discriminatorio” a dos días del Real Madrid-Benfica de la Champions League",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/23/culemania/real-madrid/1003742735480_15751054_1706x960.jpg",
+        "tags": [
+            "uefa",
+            "real madrid",
+            "champions league",
+            "álvaro arbeloa"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260223/uefa-prestianni-discriminatorio-real-madrid-benfica-champions-league/1003742735478_0.html",
+        "date": "2026-02-23 17:43:32",
+        "sentiment_score": -0.6461548786610365
+    },
+    {
+        "title": "Deportes | Los numeros del Elche CF en 2026 asustan al miedo, pero los del RCD Espanyol son todavía peores",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1760269.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/los-numeros-del-elche-cf-en-2026-asustan-al-miedo-pero-los-del-rcd-espanyol-son-todavia-peores",
+        "date": "2026-02-23 17:42:02",
+        "sentiment_score": -0.8763299006968737
+    },
+    {
+        "title": "ERC reta a los socialistas a elegir: \"O Cataluña o elecciones andaluzas\"",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/cc3086f24ba360473a1413c115c88f33/f/webp/assets/multimedia/imagenes/2026/02/23/17718689476894.jpg",
+        "tags": [
+            "política>",
+            "cataluña>",
+            "artículos david casals>",
+            "economía>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2026/02/23/699c9370468aeb036c8b4590.html",
+        "date": "2026-02-23 17:50:44",
+        "sentiment_score": 0.1908704936504364
+    },
+    {
+        "title": "Delfín Grupo suma a Tamayo Autodesguaces para liderar su red de recambio ecológico en Catalunya",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260223185033_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-delfin-grupo-suma-tamayo-autodesguaces-liderar-red-recambio-ecologico-catalunya-20260223185033.html",
+        "date": "2026-02-23 17:50:33",
+        "sentiment_score": 0.43966683745384216
+    },
+    {
+        "title": "La Fiscalía pide cinco años de prisión para el exdirector de un instituto por acosar al denunciante de un pedófilo",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/10/06/68e3e4a7070d5.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/fiscalia-pide-5-anos-para-exdirector-pare-manyanet-por-acosar-denunciante-un-cura-pedofilo_6937966_0.html",
+        "date": "2026-02-23 17:48:20",
+        "sentiment_score": -0.4698385242372751
+    },
+    {
+        "title": "Expertos proponen un Pacte per la Convivència y crear un fondo catalán para la acogida de migrantes",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260223184647_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-expertos-proponen-pacte-per-convivencia-crear-fondo-catalan-acogida-migrantes-20260223184647.html",
+        "date": "2026-02-23 17:46:47",
+        "sentiment_score": 0.3628082200884819
+    },
+    {
+        "title": "Los barrios de Barcelona donde la población inmigrante ya es mayoritaria",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/10/23/3C91CA2D-243E-4193-8AE0-B147C93943E1/69.jpg?crop=1920%2C1080%2Cx0%2Cy100&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/barrios-barcelona-donde-poblacion-inmigrante-mayoritaria_20260223699c92151817b41eb65ed461.html",
+        "date": "2026-02-23 17:44:53",
+        "sentiment_score": -0.10414320230484009
+    },
+    {
+        "title": "El Supremo ratifica la reserva del 30% de vivienda protegida en nuevas promociones de Barcelona",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/23/699c90456e3fb.r_d.449-356-5184.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20260223/11473634/supremo-ratifica-reserva-30-vivienda-protegida-nuevas-promociones-barcelona.html",
+        "date": "2026-02-23 17:43:47",
+        "sentiment_score": 0.12962409853935242
+    },
+    {
+        "title": "Correos, denunciada ante Inspección del Trabajo por \"poner en riesgo\" a los trabajadores de la USE de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2022/03/11/sucesos/656444350_9233644_1706x960.jpg",
+        "tags": [
+            "trabajadores",
+            "empresas barcelona",
+            "el pulso de la ciudad",
+            "sindicatos",
+            "precariedad laboral"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260223/correos-denunciada-inspeccion-trabajo-poner-riesgo-trabajadores-use-barcelona/1003742735454_0.html",
+        "date": "2026-02-23 17:40:41",
+        "sentiment_score": 0.043096400797367096
+    },
+    {
+        "title": "El Supremo avala la reserva del 30% de vivienda en Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/20/economia/1003742709045_15423215_1706x960.jpg",
+        "tags": [
+            "jaume collboni",
+            "vivienda",
+            "el pulso de la ciudad",
+            "junts",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260223/supremo-avala-reserva-vivienda-barcelona/1003742735484_0.html",
+        "date": "2026-02-23 17:37:46",
+        "sentiment_score": 0.46549076586961746
+    },
+    {
+        "title": "“Nosotros podemos hacer mucho dinero, pero el que invierte en su carrera se gasta muchísimo también.”. Let’s talk business: La Pantera y Lucho RK",
+        "image_url": "https://forbes.es/wp-content/uploads/2026/02/LuchoRkylaPantera-1200x675.jpg",
+        "tags": [
+            "forbes 30 under 30"
+        ],
+        "link": "https://forbes.es/forbes-30-under-30/878463/lets-talk-business-la-pantera-luchork-negocios-dinero-musica-urban/",
+        "date": "2026-02-23 17:34:07",
+        "sentiment_score": 0.29720069468021393
+    },
+    {
+        "title": "Fiscalía pide 5 años para el exdirector de una escuela de Barcelona por acoso al denunciante de un cura pedófilo",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/23/fiscalia-pide-5-anos-para-el-exdirector-de-una-escuela-de-barcelona-por-acoso-al-denunciante-de-un-cura-pedofilo/",
+        "date": "2026-02-23 17:33:15",
+        "sentiment_score": -0.8369885999709368
     }
 ];
