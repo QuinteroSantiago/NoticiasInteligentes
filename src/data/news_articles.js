@@ -1,242 +1,5 @@
 export default [
     {
-        "title": "Álvaro Arbeloa: \"No podemos acusar a Vinícius, la víctima, de provocador\"",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/202602/20/media/cortadas/lvaro-arbeloa-podemos-acusar-vincius-vctima-provocador-20260220172510-vi.jpg",
-        "tags": [
-            "arbeloa",
-            "vincius",
-            "lvaro",
-            "podemos",
-            "provocador",
-            "acusar",
-            "vctima"
-        ],
-        "link": "https://www.elcomercio.es/deportes/lvaro-arbeloa-podemos-acusar-vincius-vctima-provocador-20260220172510-vi.html",
-        "date": "2026-02-20 17:35:14",
-        "sentiment_score": -0.8570962231606245
-    },
-    {
-        "title": "Salma Hayek (59) nunca se ha hecho un lifting facial ni rellenos pero sí este tratamiento facial de energía ultrasónica",
-        "image_url": "https://www.hola.com/horizon/landscape/a20f4fa9670a-gettyimages-2244566562.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "cara y cuerpo",
-            "belleza",
-            "salma hayek",
-            "piel"
-        ],
-        "link": "https://www.hola.com/belleza/20260220884205/salma-hayek-tratamiento-facial-ultrasonico-sin-lifting/",
-        "date": "2026-02-20 17:30:00",
-        "sentiment_score": 0.12417003512382507
-    },
-    {
-        "title": "Arbeloa vuelve a defender a Vinícius ante Mourinho: “No podemos poner a la víctima de provocador”",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/17/image-45530464-b0a2-485f-a63c-e7368d027dc9-85-2560-1440.jpeg",
-        "tags": [
-            "la liga 2025/2026",
-            "football"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/alvaro-arbeloa-rueda-de-prensa-previa-osasuna-real-madrid-jornada-25-insultos-racistas-vinicius-junior-benfica-victima-provocador-jose-mourinho-declaraciones-hoy_sto23273604/story.shtml",
-        "date": "2026-02-20 17:29:04",
-        "sentiment_score": 0.24710462987422943
-    },
-    {
-        "title": "La Policía contacta con los guardaespaldas del expríncipe Andrés para recabar información sobre el caso Epstein",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260220182158_690.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.europapress.es/internacional/noticia-policia-contacta-guardaespaldas-exprincipe-andres-recabar-informacion-caso-epstein-20260220182158.html",
-        "date": "2026-02-20 17:21:58",
-        "sentiment_score": -0.5035870596766472
-    },
-    {
-        "title": "Álvaro Arbeloa: \"No podemos acusar a Vinícius, la víctima, de provocador\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260220181758_120.jpg",
-        "tags": [
-            "vídeos"
-        ],
-        "link": "https://www.europapress.es/videos/deportes/video-alvaro-arbeloa-no-podemos-acusar-vinicius-victima-provocador-20260220181758.html",
-        "date": "2026-02-20 17:17:58",
-        "sentiment_score": -0.8790199160575867
-    },
-    {
-        "title": "Rupérez en Tomares: \"España es un gran país, patria común e indivisible de todos los españoles\"",
-        "image_url": "https://static.grupojoly.com/clip/25f6e941-2c0d-413f-b376-82bc7743a17f_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tomares",
-            "últimas noticias sevilla"
-        ],
-        "link": "https://www.diariodesevilla.es/provincia/tomares/ruperez-tomares-espana-gran-pais_0_2005964517.html",
-        "date": "2026-02-20 17:16:19",
-        "sentiment_score": 0.7822240665555
-    },
-    {
-        "title": "Luis Enrique fue consultado por el incidente de Prestianni y Vinicius: \"No es importante\"",
-        "image_url": "https://pxcdn.meridiano.net/022026/1771607332692.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/luis-enrique-fue-consultado-por-el-incidente-de-prestianni-y-vinicius-no-es-importante-202622013150",
-        "date": "2026-02-20 17:15:00",
-        "sentiment_score": 0.034929871559143066
-    },
-    {
-        "title": "Arbeloa: \"Solo he ganado una vez de todos los partidos que he jugado en Pamplona\"",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/1667da59-59d9-46d3-b1c6-51f3356f44f9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "arbeloa",
-            "vez",
-            "real madrid",
-            "liga de campeones",
-            "elsadar",
-            "he",
-            "osasuna",
-            "vinicius",
-            "laliga",
-            "partidos",
-            "ganado"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/20/arbeloa-he-ganado-vez-partidos-real-madrid-osasuna-vinicius-liga-de-campeones-laliga-elsadar-10727556.html",
-        "date": "2026-02-20 17:05:19",
-        "sentiment_score": 0.26653511822223663
-    },
-    {
-        "title": "Manolo González: \"Si el Atlético está donde está en el fútbol mundial, es gracias a Simeone\"",
-        "image_url": "https://www.infobae.com/resizer/v2/YE4TVFGTRRHSBIPRHEL7HF3ZPM.jpg?auth=e585a229751cd1c5332d9ae20d412089613744a22749e6962dd697d074176633&height=1285&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/20/manolo-gonzalez-si-el-atletico-esta-donde-esta-en-el-futbol-mundial-es-gracias-a-simeone/",
-        "date": "2026-02-20 17:00:58",
-        "sentiment_score": 0.4322386905550957
-    },
-    {
-        "title": "Vídeo | La Sagrada Familia ya es la iglesia más alta del mundo: colocan el brazo superior de la torre de Jesucristo",
-        "image_url": "https://static.laregion.es/clip/c0d0455b-7d45-449c-ae43-a15d2c273916_source-aspect-ratio_1600w_0.jpg",
-        "tags": [
-            "iglesia",
-            "sagrada familia",
-            "barcelona"
-        ],
-        "link": "https://www.laregion.es/espana/video-sagrada-familia-iglesia-alta_1_20260220-4171162.html",
-        "date": "2026-02-20 17:34:18",
-        "sentiment_score": 0.1946234032511711
-    },
-    {
-        "title": "Sabadell pagará 4 millones a González-Bueno para evitar que sea fichado por otro banco",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/10/archivo-ceo-banco-sabadell-cesar-gonzalez-bueno-i-presidente-banco-sabadell-josep-oliu-c-junta-general-extraordinaria-accionistas-banco-sabadell-6-agosto-2025-sabadell-barcelona-cataluny-20251017070703-1000x665.jpg",
-        "tags": [
-            "banco sabadell",
-            "josep oliu",
-            "empresas",
-            "césar gonzález-bueno"
-        ],
-        "link": "https://www.economiadigital.es/empresas/sabadell-gonzalez-bueno.html",
-        "date": "2026-02-20 17:32:10",
-        "sentiment_score": -0.46108264848589897
-    },
-    {
-        "title": "Mondragon Assembly adquiere la firma ATP para crecer en el sector de embalaje de alimentos",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c3ada7e2-014c-46c3-be24-5e998a97d3b3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "atp",
-            "mondragon",
-            "adquiere",
-            "assembly",
-            "firma"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/economia/2026/02/20/mondragon-assembly-adquiere-firma-atp-10727671.html",
-        "date": "2026-02-20 17:30:46",
-        "sentiment_score": 0.5202103368937969
-    },
-    {
-        "title": "Avavit estima que Venezuela supere los 100 vuelos semanales en abril",
-        "image_url": "https://correodelcaroni.com/wp-content/uploads/2026/02/AVAVIT_vuelos.jpg",
-        "tags": [
-            "abril",
-            "vuelos",
-            "rutas",
-            "vicky herrera",
-            "a - modulo 7 - a",
-            "laboral y economía",
-            "maiquetía",
-            "venezuela",
-            "avavit"
-        ],
-        "link": "https://correodelcaroni.com/laboral-economia/avavit-estima-que-venezuela-supere-los-100-vuelos-semanales-en-abril/",
-        "date": "2026-02-20 17:28:04",
-        "sentiment_score": 0.17240752652287483
-    },
-    {
-        "title": "La NASA volverá a enviar una misión tripulada a la Luna el 7 de marzo",
-        "image_url": "https://static1.ara.cat/clip/cd053c53-746a-4315-bccf-45f02e7e9c0f_16-9-aspect-ratio_default_0_x944y749.jpg",
-        "tags": [
-            "luna",
-            "nasa",
-            "mision",
-            "marzo",
-            "tripulada",
-            "7",
-            "enviar",
-            "volvera"
-        ],
-        "link": "https://es.ara.cat/ciencia-tecnologia/nasa-volvera-enviar-mision-tripulada-luna-7-marzo_1_5654910.html",
-        "date": "2026-02-20 17:26:16",
-        "sentiment_score": 0.6892331056296825
-    },
-    {
-        "title": "UE autoriza la propuesta española de nueva zonificación de la PPA que permitirá ciertos movimientos en granjas",
-        "image_url": "https://forbes.es/wp-content/uploads/2026/02/fotonoticia_20260220180638_1920-1200x675.jpg",
-        "tags": [
-            "economía",
-            "última hora"
-        ],
-        "link": "https://forbes.es/economia/877896/ue-autoriza-la-propuesta-espanola-de-nueva-zonificacion-de-la-ppa-que-permitira-ciertos-movimientos-en-granjas/",
-        "date": "2026-02-20 17:25:03",
-        "sentiment_score": 0.2756277397274971
-    },
-    {
-        "title": "Iberia deja de topar el precio de la ruta Barcelona-Madrid desde este lunes",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/29/69526c43adbd0.r_d.2229-1701-1282.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.lavanguardia.com/economia/20260220/11471709/iberia-barcelona-madrid-precio-ruta-tope.html",
-        "date": "2026-02-20 17:22:13",
-        "sentiment_score": -0.4901854768395424
-    },
-    {
-        "title": "La Diputación de Barcelona presenta su estrategia de promoción del catalán en el marco del Pacto Nacional por la Lengua",
-        "image_url": "https://www.elplural.com/uploads/s1/24/64/11/5/diputacion-barcelona-estrategia-catalan_7_480x270.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.elplural.com/autonomias/cataluna/diputacion-barcelona-presenta-estrategia-promocion-catalan-marco-pacto-nacional-lengua_382083102",
-        "date": "2026-02-20 17:20:05",
-        "sentiment_score": 0.014875844120979309
-    },
-    {
-        "title": "El motivo por el que ondea la bandera del Vaticano en lo alto de la Torre de Jesús de la Sagrada Familia",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/20/69988f297a0720-62477043.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/motivo-ondea-bandera-vaticano-alto-torre-jesus-sagrada-familia_6937090_0.html",
-        "date": "2026-02-20 17:19:46",
-        "sentiment_score": -0.05878164619207382
-    },
-    {
-        "title": "Una oficina pública para atender la salud mental de los jóvenes por cada 50.000 habitantes, la nueva propuesta de Adelante Andalucía",
-        "image_url": "https://www.elplural.com/uploads/s1/24/64/09/2/jose-ignacio-garcia-con-calma-ley-salud-mental-begona-iza-adelante-andalucia_7_480x270.jpeg",
-        "tags": [
-            "elplural andalucía"
-        ],
-        "link": "https://www.elplural.com/autonomias/andalucia/oficina-publica-atender-salud-mental-jovenes-cada-50000-habitantes-nueva-propuesta-adelante-andalucia_382082102",
-        "date": "2026-02-20 17:18:59",
-        "sentiment_score": 0.010673373937606812
-    },
-    {
         "title": "El Barça elimina al UCAM Murcia y será el rival del Baskonia en semifinales",
         "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/20/6998db7f5fa64.r_d.1360-671-4257.jpeg",
         "tags": [
@@ -3045,5 +2808,272 @@ export default [
         "link": "https://www.elcorreo.com/culturas/musica/gilipojazz-njsje-german-kucich-brillan-semana-bilbaina-20260224014350-nt.html",
         "date": "2026-02-24 00:43:58",
         "sentiment_score": 0.1443507820367813
+    },
+    {
+        "title": "Simeone define el once ante Brujas con una duda en el medio",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/15/2026021519032968884.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/simeone-define-once-brujas-duda-medio/20260224081114376001.html",
+        "date": "2026-02-24 07:11:14",
+        "sentiment_score": 0.15569813549518585
+    },
+    {
+        "title": "Ver a tus 'influencers' beber aumenta las ganas de alcohol: un experimento revela cuánto empujan las redes a los jóvenes",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260224080846_690.jpg",
+        "tags": [
+            "investigación",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-ver-influencers-beber-aumenta-ganas-alcohol-experimento-revela-cuanto-empujan-redes-jovenes-20260224080846.html",
+        "date": "2026-02-24 07:08:46",
+        "sentiment_score": -0.1980445571243763
+    },
+    {
+        "title": "El Gobierno aprueba la desclasificación de documentos del 23-F \"para saldar una deuda histórica\"",
+        "image_url": "https://static.grupojoly.com/clip/3c0d54aa-9469-4ffc-9538-e314d173612d_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "23",
+            "desclasificacion",
+            "gobierno",
+            "aprueba",
+            "documentos"
+        ],
+        "link": "https://www.diariodejerez.es/espana/gobierno-aprueba-desclasificacion-documentos-23_0_2005995288.html",
+        "date": "2026-02-24 07:06:55",
+        "sentiment_score": -0.021883971989154816
+    },
+    {
+        "title": "07:00H | 24 FEB 2026 | Herrera en COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "herrera en cope"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/07-00h-24-feb-2026-herrera-cope-20260224_3313716.html",
+        "date": "2026-02-24 07:04:00",
+        "sentiment_score": -0.2200513780117035
+    },
+    {
+        "title": "Estos son los monasterios españoles ideales para desconectar",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/02/22/8BE8EBDB-F768-437C-A149-3D865EFB311D/monasterio-burgales-san-pedro-cardena_69.jpg?crop=2000%2C1125%2Cx0%2Cy208&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "castilla y león",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/castilla-y-leon/estos-son-monasterios-espanoles-ideales-desconectar_20260224699d4c7e2f00a04688249b09.html",
+        "date": "2026-02-24 07:00:14",
+        "sentiment_score": 0.6788270939141512
+    },
+    {
+        "title": "El Gobierno aprueba hoy la desclasificación de documentos del 23-F «para saldar una deuda histórica»",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260224074048.jpg?fit=1920%2C1261&ssl=1",
+        "tags": [
+            "política"
+        ],
+        "link": "https://cronicadecantabria.com/cr/el-gobierno-aprueba-hoy-la-desclasificacin-de-documentos-del-23-f-para-saldar-una-deuda-histrica/",
+        "date": "2026-02-24 07:00:05",
+        "sentiment_score": -0.10428308695554733
+    },
+    {
+        "title": "Los años de Karra Elejalde en Vitoria: «Yo era un niño terrible, hiperactivo y muy pesado»",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/infancia-karra-elejalde.jpeg",
+        "tags": [
+            "actores",
+            "celebrities",
+            "vitoria",
+            "infancia",
+            "gente"
+        ],
+        "link": "https://theobjective.com/gente/2026-02-24/anos-karra-elejalde-vitoria-nino-terrible/",
+        "date": "2026-02-24 07:00:00",
+        "sentiment_score": 0.8221186138689518
+    },
+    {
+        "title": "Empieza a ver la luz la documentación escondida de Madrid Network: 111 millones, cargos del PP, nobleza e incluso pseudoperiodistas",
+        "image_url": "https://www.elplural.com/uploads/s1/21/01/73/6/madrid-network-concedio-1-4-millones-a-un-abogado-cercano-al-hermano-de-esperanza-aguirre-ep_7_480x270.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elplural.com/autonomias/madrid/empieza-ver-luz-documentacion-escondida-madrid-network-111-millones-cargos-pp-nobleza-incluso-pseudoperiodistas_382292102",
+        "date": "2026-02-24 06:55:00",
+        "sentiment_score": -0.10325512290000916
+    },
+    {
+        "title": "El ocio digital gana terreno en Madrid: nuevas formas de entretenimiento",
+        "image_url": "https://www.madridactual.es/images/stories/noticias/2026/01/260121-madrid.jpg",
+        "tags": [
+            "apuestas"
+        ],
+        "link": "https://www.madridactual.es/informacion-de-servicio/apuestas/el-ocio-digital-gana-terreno-en-madrid-nuevas-formas-de-entretenimiento-20260224-8087142.html",
+        "date": "2026-02-24 06:51:57",
+        "sentiment_score": 0.06091899052262306
+    },
+    {
+        "title": "La DGT prepara el fin de la «barra libre» para los coches 'Cero Emisiones' en el VAO",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/24/medidas-trafico-2026-RCA7Ah1QLpL5Xpio3gw6gWP-1200x840@diario_abc.jpg",
+        "tags": [
+            "vao",
+            "fin",
+            "barra",
+            "libre",
+            "coches",
+            "cero",
+            "prepara",
+            "emisiones",
+            "dgt"
+        ],
+        "link": "https://www.leonoticias.com/motor/dgt-prepara-fin-barra-libre-coches-cero-20260224074900-ntrc.html",
+        "date": "2026-02-24 06:49:11",
+        "sentiment_score": -0.782495180144906
+    },
+    {
+        "title": "El Supremo, a favor de Colau, y presupuestos sin ERC",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/24/primeras-planas/1003742735569_15752268_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "presupuestos",
+            "ada colau",
+            "primeras planas"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260224/supremo-favor-colau-presupuestos-sin-erc/1003742735567_0.html",
+        "date": "2026-02-24 07:11:16",
+        "sentiment_score": -0.6525582149624825
+    },
+    {
+        "title": "Ferrocarrils afronta la primera jornada de huelga convocada por los maquinistas de Semaf",
+        "image_url": "https://static1.ara.cat/clip/a945e233-7d42-41c0-bd82-a6598814521b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "primera",
+            "convocada",
+            "huelga",
+            "afronta",
+            "jornada",
+            "semaf",
+            "maquinistas",
+            "ferrocarrils"
+        ],
+        "link": "https://es.ara.cat/sociedad/movilidad/ferrocarrils-afronta-primera-jornada-huelga-convocada-maquinistas-semaf_1_5657659.html",
+        "date": "2026-02-24 07:07:01",
+        "sentiment_score": -0.7883554473519325
+    },
+    {
+        "title": "Pedri y Ferrán, mucho más que compañeros en ‘El Hormiguero’: “Él puede estar toda la mañana con bromas, pero si le haces una, se enfada”",
+        "image_url": "https://www.infobae.com/resizer/v2/THFJWK45KZBTVFV7MQVZVSHIZU.webp?auth=8dee1145dd3074ce4086dbfeb0a2f93b837893567384bfde3c86d62f414bd425&height=900&smart=true&width=1600",
+        "tags": [
+            "pedri",
+            "antena 3",
+            "pablo motos",
+            "atresmedia",
+            "españa-noticias",
+            "televisión españa",
+            "ferrán torres",
+            "fc barcelona",
+            "españa-entretenimiento",
+            "el hormiguero"
+        ],
+        "link": "https://www.infobae.com/espana/2026/02/24/pedri-y-ferran-mucho-mas-que-companeros-en-el-hormiguero-el-puede-estar-toda-la-manana-con-bromas-pero-si-le-haces-una-se-enfada/",
+        "date": "2026-02-24 07:06:46",
+        "sentiment_score": 0.21416472643613815
+    },
+    {
+        "title": "Un entrenador de Tenerife trunca la carrera de una tenista de élite de la que abusó sexualmente",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/706d911f-8d8e-41cf-8528-7fe74af68f7b_16-9-aspect-ratio_default_0_x800y368.jpg",
+        "tags": [
+            "tenerife",
+            "santa cruz",
+            "tenis",
+            "élite"
+        ],
+        "link": "https://www.laprovincia.es/canarias/2026/02/24/entrenador-tenerife-trunca-carrera-tenista-elite-abuso-sexualmente-127194060.html",
+        "date": "2026-02-24 07:01:00",
+        "sentiment_score": -0.7896983856335282
+    },
+    {
+        "title": "Metrovacesa logra récord de beneficios en 2025, con 56,9 millones de euros, y dispara su Ebitda un 74%",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260224075157.jpg?fit=1080%2C810&ssl=1",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://cronicadecantabria.com/cr/metrovacesa-logra-rcord-de-beneficios-en-2025-con-569-millones-de-euros-y-dispara-su-ebitda-un-74/",
+        "date": "2026-02-24 07:00:04",
+        "sentiment_score": 0.6561702378094196
+    },
+    {
+        "title": "Mañana de caos en Ferrocarriles: la huelga de maquinistas por seguridad afecta a Barcelona y amenaza al Mobile World Congress",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/10/30/gran-barcelona/623447650_9110709_1706x960.jpg",
+        "tags": [
+            "huelga",
+            "ferrocarrils de la generalitat (fgc)",
+            "movilidad",
+            "mobile congress"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/movilidad/20260224/manana-caos-ferrocarriles-huelga-maquinistas-seguridad-afecta-barcelona-amenaza-mobile-world-congress/1003742735568_0.html",
+        "date": "2026-02-24 06:59:59",
+        "sentiment_score": -0.06649810448288918
+    },
+    {
+        "title": "El Vall d'Hebron inicia un ensayo clínico con un colirio pionero para frenar la retinopatía diabética",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/02/01/colirio-ceguera.jpeg",
+        "tags": [
+            "capaces"
+        ],
+        "link": "https://www.20minutos.es/capaces/vall-d-hebron-inicia-un-ensayo-clinico-con-un-colirio-pionero-para-frenar-retinopatia-diabetica-fases-tempranas_6938080_0.html",
+        "date": "2026-02-24 06:57:55",
+        "sentiment_score": -0.743125831708312
+    },
+    {
+        "title": "Un policía muerto y dos heridos en un atentado con bomba en el centro de Moscú",
+        "image_url": "https://static1.ara.cat/clip/3dac482f-8200-4604-b1d5-3da77b63b033_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "policia",
+            "atentado",
+            "muerto",
+            "centro",
+            "heridos",
+            "fuera",
+            "bomba",
+            "moscu"
+        ],
+        "link": "https://es.ara.cat/internacional/rusia/policia-muerto-fuera-heridos-atentado-bomba-centro-moscu_1_5657606.html",
+        "date": "2026-02-24 06:46:45",
+        "sentiment_score": -0.8683438245207071
+    },
+    {
+        "title": "Lo que debes saber hoy, 24 de febrero, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2022/07/05/vivir-en-barcelona/685441450_9091954_1706x960.jpg",
+        "tags": [
+            "clima",
+            "aemet (agencia estatal de meteorología)",
+            "tráfico",
+            "rodalies",
+            "vivir en barcelona",
+            "gran barcelona",
+            "coches",
+            "renfe barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260224/debes-saber-hoy-febrero-barcelona/1003742735565_0.html",
+        "date": "2026-02-24 06:45:58",
+        "sentiment_score": 0.3278023600578308
+    },
+    {
+        "title": "El Supremo ve delito en negarse a estar en una mesa electoral en pandemia con la \"excusa\" de poder contagiarse",
+        "image_url": "https://www.infobae.com/resizer/v2/MNGQMXACIFEBRD57MEASGJQCUU.jpg?auth=42b075d54ea95dae85df099ad131e8dce714c3fe258489e27672ef3442e82957&height=1280&smart=true&width=1920",
+        "tags": [
+            "delito de denegación de auxilio electoral",
+            "europapress",
+            "audiencia provincial de barcelona",
+            "mossos desquadra",
+            "tribunal supremo",
+            "mesa electoral",
+            "fiscalía",
+            "cataluña",
+            "barcelona",
+            "pandemia",
+            "generalitat"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/02/24/el-supremo-ve-delito-en-negarse-a-estar-en-una-mesa-electoral-en-pandemia-con-la-excusa-de-poder-contagiarse/",
+        "date": "2026-02-24 06:45:32",
+        "sentiment_score": -0.8602401241660118
     }
 ];
