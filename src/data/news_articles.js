@@ -2813,5 +2813,237 @@ export default [
         "link": "https://www.infobae.com/espana/deportes/2026/02/23/pedri-y-ferran-torres-revelan-las-cifras-de-las-multas-de-flick-por-llegar-tarde-mejor-no-aparezcas/",
         "date": "2026-02-23 22:04:05",
         "sentiment_score": 0.38008783012628555
+    },
+    {
+        "title": "Revancha de los playoffs de la Champions League: partidos, fechas, horarios y cómo sigue el formato",
+        "image_url": "https://ktvz.b-cdn.net/2026/02/ar-375x225.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://ktvz.com/cnn-spanish/2026/02/23/revancha-de-los-playoffs-de-la-champions-league-partidos-fechas-horarios-y-como-sigue-el-formato/",
+        "date": "2026-02-24 02:41:47",
+        "sentiment_score": 0.1577616035938263
+    },
+    {
+        "title": "Agenda: qué hacer en Asturias hoy martes 24 de febrero de 2026",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5582a871-bf5c-4ac8-9f73-3760635c7cab_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "horario",
+            "exposición",
+            "casa de cultura",
+            "festivos"
+        ],
+        "link": "https://www.lne.es/asturias/2026/02/24/agenda-asturias-hoy-martes-24-127191698.html",
+        "date": "2026-02-24 02:32:37",
+        "sentiment_score": -0.35582731664180756
+    },
+    {
+        "title": "Defensa del periodismo frente a la IA",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "periodismo",
+            "ia",
+            "defensa",
+            "frente"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/analisis/defensa-periodismo-frente-ia_0_2005994536.html",
+        "date": "2026-02-24 02:08:28",
+        "sentiment_score": -0.3694174848496914
+    },
+    {
+        "title": "Se calienta el Real Madrid vs. Benfica por la Champions League: ¿qué pasó con Prestianni, Vinícius y Valverde?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/02/23/real-madrid-benfica-prestianni-vinicius-valverde-orix/",
+        "date": "2026-02-24 02:03:44",
+        "sentiment_score": -0.0668553039431572
+    },
+    {
+        "title": "Una segunda policía acusa al ex DAO de \"intimidarla y doblegarla\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/21a7d4d604607618375878d4a659c10a/crop/482x0/2530x2048/f/image/jpeg/assets/multimedia/imagenes/2026/02/18/17714449479605.jpg",
+        "tags": [
+            "artículos gema peñalosa",
+            "nlpremium",
+            "policía nacional"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/02/24/699c995221efa05c438b4590.html",
+        "date": "2026-02-24 02:02:27",
+        "sentiment_score": -0.5300132147967815
+    },
+    {
+        "title": "Se calienta el Real Madrid vs. Benfica por la Champions League: ¿qué pasó con Prestianni, Vinícius y Valverde?",
+        "image_url": "https://ktvz.b-cdn.net/2026/02/ar-375x225.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://ktvz.com/cnn-spanish/2026/02/23/se-calienta-el-real-madrid-vs-benfica-por-la-champions-league-que-paso-con-prestianni-vinicius-y-valverde/",
+        "date": "2026-02-24 01:28:42",
+        "sentiment_score": -0.06629762053489685
+    },
+    {
+        "title": "El gran problema económico que amenaza al Barça: posibles reclamaciones de socios forzados a usar el ‘seient lliure’ desde 2018",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/24/culemania/palco/1003742735564_15752247_1706x960.jpg",
+        "tags": [
+            "camp nou",
+            "josep maria bartomeu",
+            "palco",
+            "barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260224/problema-economico-amenaza-barca-posibles-reclamaciones-forzados/1003742735556_0.html",
+        "date": "2026-02-24 01:26:22",
+        "sentiment_score": -0.8376886248588562
+    },
+    {
+        "title": "Natalia Rodríguez, de suspender hasta \"el recreo\" a ganar 30 premios y aspirar al Princesa de Girona con su empresa de IA",
+        "image_url": "https://s3.elespanol.com/2026/02/23/madrid/1003744142139_261580997_1706x960.jpg",
+        "tags": [
+            "emprendimiento",
+            "sociedad",
+            "telecomunicaciones",
+            "inteligencia artificial"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20260224/natalia-rodriguez-suspender-recreo-ganar-premios-aspirar-princesa-girona-empresa-ia/1003744141683_0.html",
+        "date": "2026-02-24 01:10:21",
+        "sentiment_score": 0.3045475631952286
+    },
+    {
+        "title": "Quiénes son los 5 candidatos a dirigir a River Plate tras el anuncio de Gallardo: el nombre que tomó ventaja",
+        "image_url": "https://www.infobae.com/resizer/v2/TUYIUZ3NY5GONKR6SBDGQNXJ3Y.jpg?auth=4cacdc5884c36e5584dfc86a8f6946bb79658db8df1e5f1b350448c876f92aa4&height=1080&smart=true&width=1920",
+        "tags": [
+            "marcelo gallardo",
+            "eduardo coudet",
+            "santiago solari",
+            "hernán crespo",
+            "ramón díaz",
+            "jorge sampaoli",
+            "diego placente",
+            "ariel holan",
+            "pablo aimar",
+            "river plate"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/24/quienes-son-los-5-candidatos-a-dirigir-a-river-plate-tras-el-anuncio-de-gallardo-el-nombre-que-tomo-ventaja/",
+        "date": "2026-02-24 00:58:33",
+        "sentiment_score": -0.05510954558849335
+    },
+    {
+        "title": "SotySolar crece un 20% en un mercado B2B que se contrae un 9%, posicionándose para liderar la nueva era del autoconsumo empresarial",
+        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2026/02/AutonsumoB2BSotySolarturismo2-1024x768.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.elperiodicodecanarias.es/sotysolar-crece-un-20-en-un-mercado-b2b-que-se-contrae-un-9-posicionandose-para-liderar-la-nueva-era-del-autoconsumo-empresarial/",
+        "date": "2026-02-24 00:00:17",
+        "sentiment_score": 0.8292689621448517
+    },
+    {
+        "title": "El expríncipe Andrés no fue el único: los dos grandes disgustos que recibió la infanta Cristina en su cumpleaños",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/02/23/la-infanta-cristina-en-el-partido-de-la-seleccion-espanola-de-balonmano-contra-la-de-suecia-en-el-que-debuto-su-hijo-pablo-urdangarin-en-linkoeping-en-octubre-de-2025.jpeg",
+        "tags": [
+            "life"
+        ],
+        "link": "https://www.huffingtonpost.es/life/el-exprincipe-andres-unico-dos-grandes-disgustos-recibio-infanta-cristina-cumpleanos-f202602.html",
+        "date": "2026-02-24 02:17:07",
+        "sentiment_score": -0.9024568274617195
+    },
+    {
+        "title": "Pronóstico del clima en Barcelona este 24 de febrero: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima",
+            "clima en barcelona",
+            "últimas actualizaciones",
+            "clima en españa"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/24/pronostico-del-clima-en-barcelona-este-24-de-febrero-temperatura-lluvias-y-viento/",
+        "date": "2026-02-24 02:15:35",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "El genio de los precios",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "precios",
+            "genio"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/genio-precios_0_2005994550.html",
+        "date": "2026-02-24 02:08:53",
+        "sentiment_score": -0.48228561133146286
+    },
+    {
+        "title": "Pati Chapoy afirma que ‘sacaría a patadas’ a los therians si se encuentra con ellos: “Quieren ser perros”",
+        "image_url": "https://www.infobae.com/resizer/v2/3TZGVEYUGJBYTNCDQZWMGJ5RLY.jpg?auth=b8637ae5f48585b34df94cd7bd06d2df2576f079bb9c564df1407b939e113a1f&height=1080&smart=true&width=1920",
+        "tags": [
+            "ventaneando",
+            "therians",
+            "mexico-entretenimiento",
+            "pati chapoy"
+        ],
+        "link": "https://www.infobae.com/mexico/2026/02/24/pati-chapoy-afirma-que-sacaria-a-patadas-a-los-therians-si-se-encuentra-con-ellos-quieren-ser-perros/",
+        "date": "2026-02-24 01:58:18",
+        "sentiment_score": -0.5455904416739941
+    },
+    {
+        "title": "Moncloa abre la llave del 23-F en plena estrategia de agitar el miedo a Vox",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/2d26f27a1465f2fcc979f51abd99c7e7/crop/1x7/100x107/f/image/jpeg/assets/multimedia/imagenes/2022/05/18/16528898789864.jpg",
+        "tags": [
+            "artículos raúl piña",
+            "psoe",
+            "pedro sánchez"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/02/24/699c9a2621efa01b408b4580.html",
+        "date": "2026-02-24 01:43:46",
+        "sentiment_score": -0.6413486134260893
+    },
+    {
+        "title": "Las dos caras de Carrefour en España: es uno de sus mercados más rentables pero la crisis del ‘híper’ lastra su cuota",
+        "image_url": "https://s3.elespanol.com/2026/02/13/actualidad/1003744129097_261410555_1706x960.jpg",
+        "tags": [
+            "francia",
+            "carrefour",
+            "españa",
+            "distribución"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20260224/caras-carrefour-espana-mercados-rentables-crisis-hiper-lastra-cuota/1003744141489_0.html",
+        "date": "2026-02-24 01:29:20",
+        "sentiment_score": -0.10593754053115845
+    },
+    {
+        "title": "Laporta presenta su libro y promete dar más guerra: \"Soy creyente pero la salvación del Barça no es un milagro\"",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/23/culemania/palco/1003742735544_15751880_1706x960.jpg",
+        "tags": [
+            "elecciones barça",
+            "joan laporta",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260224/laporta-presenta-promete-creyente-salvacion-barca-milagro/1003742735491_0.html",
+        "date": "2026-02-24 01:26:59",
+        "sentiment_score": -0.7929422967135906
+    },
+    {
+        "title": "Laporta reforzará el perfil económico de su junta directiva si gana las elecciones del Barça: seis fichajes de relumbrón",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/23/culemania/palco/1003742735555_15752080_1706x960.jpg",
+        "tags": [
+            "elecciones barça",
+            "joan laporta",
+            "palco",
+            "junta directiva del barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260224/laporta-reforzara-economico-directiva-elecciones-barca-relumbron/1003742735554_0.html",
+        "date": "2026-02-24 01:26:57",
+        "sentiment_score": 0.4585776664316654
+    },
+    {
+        "title": "Los Gilipojazz, el NJSJE y Germán Kucich brillan en una semana bilbaína muy jazzera",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2026/02/24/jazz%201%20gilipojazz-kC8H-U20869745093l7E-758x531@El%20Correo.jpg",
+        "tags": [
+            "el bafle (óscar cubillo)"
+        ],
+        "link": "https://www.elcorreo.com/culturas/musica/gilipojazz-njsje-german-kucich-brillan-semana-bilbaina-20260224014350-nt.html",
+        "date": "2026-02-24 00:43:58",
+        "sentiment_score": 0.1443507820367813
     }
 ];
