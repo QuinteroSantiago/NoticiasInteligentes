@@ -1,222 +1,5 @@
 export default [
     {
-        "title": "La indignación de Marta García Aller tras la detención del príncipe Andrés: \"Todos estos miserables se creían intocables\"",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2025/11/05/B6BE1F4E-50BF-48F5-86DA-4563F1B046EA/marta-garcia-aller_96.jpg?crop=6000%2C3375%2Cx0%2Cy163&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "ondacero",
-            "noticias",
-            "sociedad"
-        ],
-        "link": "https://www.ondacero.es/noticias/sociedad/indignacion-marta-garcia-aller-detencion-principe-andres-todos-estos-miserables-creian-intocables_20260220699804cd1817b41eb6561278.html",
-        "date": "2026-02-20 06:53:01",
-        "sentiment_score": -0.4776123557239771
-    },
-    {
-        "title": "El Roig Arena impresiona en su gran estreno deportivo: aforo para superar el récord de asistencia de la Copa y un 'búnker'",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/19/699773b6b9e4e6-78862914.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.20minutos.es/deportes/baloncesto/roig-arena-impresiona-su-gran-estreno-deportivo-aforo-para-superar-record-asistencia-copa-un-bunker_6936628_0.html",
-        "date": "2026-02-20 06:51:44",
-        "sentiment_score": 0.6571495477110147
-    },
-    {
-        "title": "Real Madrid y Valencia Basket se citan el sábado en el Roig Arena para ganarse un sitio en la final de la Copa del Rey",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages02/2026/02/20/1BC1B40E-E3B8-4FC6-BD43-0C5C8C720735/real-madrid-valencia-basket-citan-sabado-roig-arena-ganarse-sitio-final-copa-rey_70.jpg?crop=1920%2C1080%2Cx0%2Cy82&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "emisoras",
-            "ondacero",
-            "comunidad valenciana",
-            "valencia"
-        ],
-        "link": "https://www.ondacero.es/emisoras/comunidad-valenciana/valencia/real-madrid-valencia-basket-citan-sabado-roig-arena-ganarse-sitio-final-copa-rey_20260220699804411817b41eb6560f2e.html",
-        "date": "2026-02-20 06:50:41",
-        "sentiment_score": -0.7773991320282221
-    },
-    {
-        "title": "Agenda gráfica para hoy 20 de febrero de 2026",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/20/agenda-grafica-para-hoy-20-de-febrero-de-2026/",
-        "date": "2026-02-20 06:46:33",
-        "sentiment_score": 0.029168400913476944
-    },
-    {
-        "title": "Agenda Informativa de Europa Press para hoy, 20 de febrero (1)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/20/agenda-informativa-de-europa-press-para-hoy-20-de-febrero-1/",
-        "date": "2026-02-20 06:46:21",
-        "sentiment_score": 0.017535313963890076
-    },
-    {
-        "title": "Las tres noticias de Carlos Alsina para empezar el día: \"El príncipe Andrés, detenido y en libertad acusado de filtrar información secreta a Epstein\"",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/05/09/6DE83B54-8831-4632-AA7C-6CB358183EDA/tres-historias-empezar-dia-carlos-alsina_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "ondacero",
-            "noticias",
-            "españa"
-        ],
-        "link": "https://www.ondacero.es/noticias/espana/tres-noticias-carlos-alsina-empezar-dia-principe-andres-detenido-libertad-acusado-filtrar-informacion-secreta-epstein_20260220699802461817b41eb656054b.html",
-        "date": "2026-02-20 06:42:14",
-        "sentiment_score": -0.0554090291261673
-    },
-    {
-        "title": "La cultura catalana se abre paso en Vallecas con 'castellers' y una calçotada: \"Queremos que la Colla sea madrileña\"",
-        "image_url": "https://static.eldiario.es/clip/9dc17d84-b817-438b-9d94-c31273f0acdd_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "paso",
-            "queremos",
-            "catalana",
-            "castellers",
-            "cultura",
-            "sea",
-            "madrilena",
-            "abre",
-            "calcotada",
-            "vallecas",
-            "colla"
-        ],
-        "link": "https://www.eldiario.es/madrid/somos/cultura-catalana-abre-paso-vallecas-castellers-calcotada-queremos-colla-sea-madrilena_1_12994971.html",
-        "date": "2026-02-20 06:28:43",
-        "sentiment_score": -0.00592765212059021
-    },
-    {
-        "title": "La sofisticación que vino de una granja: por qué tienes que ver esta fabulosa exposición de arte y moda en el Jardín Botánico de Madrid",
-        "image_url": "https://s3.ppllstatics.com/mujerhoy/www/multimedia/2026/02/19/exposicion-botanico-marcos-luengo-claudy-RL5SkjsOub0wpxUTlPcGVhO-758x758@Mujer%20Hoy.jpg",
-        "tags": [
-            "diseño"
-        ],
-        "link": "https://www.mujerhoy.com/actualidad/exposicion-jardin-botanico-madrid-textiles-ecologicos-claudy-jongstra-disenos-marcos-luengo-20260219202504-nt.html",
-        "date": "2026-02-20 06:20:57",
-        "sentiment_score": 0.30047841370105743
-    },
-    {
-        "title": "Ayuso baja aún más los impuestos a las grandes fortunas mientras asfixia a la universidad pública",
-        "image_url": "https://www.elplural.com/uploads/s1/24/62/90/2/ayuso-baja-los-impuestos-a-las-grandes-fortunas-ep_7_480x270.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.elplural.com/opinion/ayuso-baja-mas-impuestos-grandes-fortunas-mientras-asfixia-universidad-publica_382003102",
-        "date": "2026-02-20 06:20:19",
-        "sentiment_score": -0.10851828753948212
-    },
-    {
-        "title": "Una tienda de Madrid paga 300 euros por echarse la siesta en su escaparate",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialautonomico/images/2026/02/20/2026022007161020896.jpg",
-        "tags": [
-            "muy confidencial"
-        ],
-        "link": "https://www.elconfidencialdigital.com/autonomico/articulo/muy-confidencial/tienda-madrid-paga-300-euros-echarse-siesta-escaparate/20260220071657158425.html",
-        "date": "2026-02-20 06:16:57",
-        "sentiment_score": -0.13714107871055603
-    },
-    {
-        "title": "Agenda Autonómica de Europa Press para hoy, 20 de febrero",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/20/agenda-autonomica-de-europa-press-para-hoy-20-de-febrero/",
-        "date": "2026-02-20 06:45:47",
-        "sentiment_score": 0.00799170508980751
-    },
-    {
-        "title": "Venezuela aprueba por unanimidad la ley de amnistía a los presos políticos",
-        "image_url": "https://static1.ara.cat/clip/af059fb0-eba7-452b-ba99-33594cd2ef4d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "presos",
-            "aprueba",
-            "ley",
-            "unanimidad",
-            "amnistia",
-            "venezuela",
-            "politicos"
-        ],
-        "link": "https://es.ara.cat/internacional/america/venezuela-aprueba-unanimidad-ley-amnistia-presos-politicos_1_5654168.html",
-        "date": "2026-02-20 06:32:46",
-        "sentiment_score": -0.652065172791481
-    },
-    {
-        "title": "Precio de la gasolina en España 2026: las tarifas más altas y más bajas 20 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-economia",
-            "precio de la gasolina en españa hoy",
-            "precio de la gasonila en barcelona",
-            "últimas actualizaciones",
-            "precio de la gasolina en españa",
-            "madrid y otras ciudades"
-        ],
-        "link": "https://www.infobae.com/espana/2026/02/20/precio-de-la-gasolina-en-espana-2026-las-tarifas-mas-altas-y-mas-bajas-20-de-febrero/",
-        "date": "2026-02-20 06:30:40",
-        "sentiment_score": 0.08022724837064743
-    },
-    {
-        "title": "Carlos Herrera celebra las medallas logradas por España en los Juegos Olímpicos de Invierno",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/01/05/695b90e61c982.r_d.667-394-8493.jpeg",
-        "tags": [
-            "herrera en cope"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/noticias/carlos-herrera-celebra-medallas-logradas-espana-juegos-olimpicos-invierno-20260220_3311650.html",
-        "date": "2026-02-20 06:27:45",
-        "sentiment_score": 0.010032117366790771
-    },
-    {
-        "title": "Cielo despejado y viento moderado en Barcelona según AEMET para hoy",
-        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
-        "tags": [
-            "tiempo",
-            "españa",
-            "okd",
-            "agencia estatal de meteorología (aemet)",
-            "previsión del tiempo",
-            "cataluña"
-        ],
-        "link": "https://okdiario.com/cataluna/cielo-despejado-y-viento-moderado-en-barcelona-segun-aemet-para-hoy-16276760",
-        "date": "2026-02-20 06:23:58",
-        "sentiment_score": 0.15217626094818115
-    },
-    {
-        "title": "La contención del alquiler de Barcelona frente al modelo de Madrid: los datos prueban que regularizar tiene más efectividad que liberalizar",
-        "image_url": "https://www.elplural.com/uploads/s1/24/61/66/7/collboni-almeida-10-junio-2024_7_480x270.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.elplural.com/autonomias/cataluna/contencion-alquiler-barcelona-frente-modelo-madrid-datos-prueban-regularizar-tiene-mas-efectividad-liberalizar_381892102",
-        "date": "2026-02-20 06:21:49",
-        "sentiment_score": -0.11757262051105499
-    },
-    {
-        "title": "Moda y trampantojos",
-        "image_url": "https://s3.ppllstatics.com/mujerhoy/www/multimedia/2026/02/20/editorial-mfm-kJFH-U20690182537aoG-758x758@Mujer%20Hoy.jpg",
-        "tags": [
-            "revista mujerhoy",
-            "teresa helbig"
-        ],
-        "link": "https://www.mujerhoy.com/actualidad/editorial-maria-fernandez-miranda-directora-revista-mujerhoy-homenaje-teresa-helbig-20260220104548-nt.html",
-        "date": "2026-02-20 06:17:25",
-        "sentiment_score": -0.29959360510110855
-    },
-    {
-        "title": "¿A quién beneficia la Ley de Amnistía de Venezuela?",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/ee0d1c3beea8606387415cc7a5dff67ce1df1e1aw.jpg",
-        "tags": [
-            "nacionales",
-            "ley de amnistía",
-            "venezuela",
-            "actualidad"
-        ],
-        "link": "https://lapatilla.com/2026/02/20/a-quien-beneficia-la-ley-de-amnistia-de-venezuela/",
-        "date": "2026-02-20 10:40:04",
-        "sentiment_score": 0.43749989569187164
-    },
-    {
         "title": "Álvaro Arbeloa: \"No podemos acusar a Vinícius, la víctima, de provocador\"",
         "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/202602/20/media/cortadas/lvaro-arbeloa-podemos-acusar-vincius-vctima-provocador-20260220172510-vi.jpg",
         "tags": [
@@ -2783,5 +2566,252 @@ export default [
         "link": "https://www.infobae.com/espana/agencias/2026/02/23/fiscalia-pide-5-anos-para-el-exdirector-de-una-escuela-de-barcelona-por-acoso-al-denunciante-de-un-cura-pedofilo/",
         "date": "2026-02-23 17:33:15",
         "sentiment_score": -0.8369885999709368
+    },
+    {
+        "title": "Garitano: «Estamos en el peor momento de la temporada, asumo mi responsabilidad»",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/canal-amarillo/2026/02/23/464A0145%20(3)_20260223224048-Rtl6Octa7pRjsPGseQcJ3IO-758x531@abc.JPG",
+        "tags": [
+            "cádiz"
+        ],
+        "link": "https://www.lavozdigital.es/canal-amarillo/noticias-cadiz-cf/garitano-peor-momento-temporada-asumo-responsabilidad-20260223230419-ntv.html",
+        "date": "2026-02-23 22:05:05",
+        "sentiment_score": -0.008438706398010254
+    },
+    {
+        "title": "\"En la provincia de Granada se han invertido 107,7 millones de euros en transformación digital\"",
+        "image_url": "https://static.grupojoly.com/clip/de8d355c-b443-4421-9c2b-b76e8302676a_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "universidad de granada",
+            "últimas noticias granada",
+            "empresas granada",
+            "la alhambra"
+        ],
+        "link": "https://www.granadahoy.com/granada/maria-gonzalez-veracruz-granada-transformacion-digital-inteligencia-artificial_0_2005992905.html",
+        "date": "2026-02-23 22:00:51",
+        "sentiment_score": 0.635153740644455
+    },
+    {
+        "title": "Arrasate, una trayectoria con más grises que claros",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4388279.jpg",
+        "tags": [
+            "laliga",
+            "rcd mallorca",
+            "jagoba arrasate",
+            "real mallorca",
+            "fútbol",
+            "última hora",
+            "ultimas noticias",
+            "primera división"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/02/23/2576351/trayectoria-mas-grises-claros.html",
+        "date": "2026-02-23 21:56:00",
+        "sentiment_score": -0.7794859483838081
+    },
+    {
+        "title": "Ferran Torres desvela junto a Pedri qué bebe de fiesta: \"Buen vino, pero luego hasta el agua de los floreros\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/23/699cc15c59ba40-09389006.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/ferran-torres-desvela-junto-pedri-hormiguero-que-bebe-fiesta-buen-vino-pero-luego-hasta-agua-los-floreros_6938026_0.html",
+        "date": "2026-02-23 21:50:02",
+        "sentiment_score": 0.0774962529540062
+    },
+    {
+        "title": "Llegan los 'therian' a Canarias: \"He descubierto mi verdadera identidad. Un día soy búho y otro golden retriever\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f038b2b4-010f-43c0-a764-b7ccdd27e7cf_16-9-aspect-ratio_default_0_x700y295.jpg",
+        "tags": [
+            "psicología",
+            "canarias",
+            "virales",
+            "redes sociales"
+        ],
+        "link": "https://www.laprovincia.es/canarias/2026/02/23/llegan-therians-canarias-verdadera-identidad-127192730.html",
+        "date": "2026-02-23 21:49:41",
+        "sentiment_score": -0.17299550771713257
+    },
+    {
+        "title": "Estos son los 15 mejores restaurantes de Galicia, según la guía Macarfi",
+        "image_url": "https://s3.elespanol.com/2026/02/23/actualidad/1003744142684_261588343_1706x960.jpg",
+        "tags": [
+            "restaurantes",
+            "galicia",
+            "gastronomía",
+            "gastrogalicia"
+        ],
+        "link": "https://www.elespanol.com/quincemil/vivir/gastrogalicia/20260223/mejores-restaurantes-galicia-guia-macarfi/1003744139683_0.html",
+        "date": "2026-02-23 21:44:40",
+        "sentiment_score": 0.22888703644275665
+    },
+    {
+        "title": "Juan Carlos, el hermano de 'Los Gemeliers', se pronuncia sobre la brutal agresión",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/02/23/699cc9452600e.webp",
+        "tags": [
+            "series y tv"
+        ],
+        "link": "https://www.lavozdealmeria.com/series-y-tv/471549/juan-carlos-hermano-gemeliers-pronuncia-sobre-brutal-agresion.html",
+        "date": "2026-02-23 21:42:59",
+        "sentiment_score": -0.684719817712903
+    },
+    {
+        "title": "Ferran y Pedri desvelan las multas de Flick por llegar tarde: \"¿Qué prefieres: no jugar o pagar?\"",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/02/23/E0BB097A-0190-4598-A3AD-74F423F1471C/ferran-pedri-desvelan-multas-flick-llegar-tarde-que-prefieres-jugar-pagar_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "deportes",
+            "antena 3 noticias",
+            "fútbol"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/ferran-pedri-desvelan-multas-flick-llegar-tarde-que-prefieres-jugar-pagar_20260223699cc93a2f00a04688240447.html",
+        "date": "2026-02-23 21:40:10",
+        "sentiment_score": -0.8028610851615667
+    },
+    {
+        "title": "De Air Europa al jurado: la investigación del juez Peinado a Begoña Gómez sufre un nuevo revolcón",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2026/02/90de32f1511afbb14ab898fd8b11417b7e6c1831w-1440x808.jpg",
+        "tags": [
+            "españa",
+            "pedro sánchez",
+            "begoña gómez"
+        ],
+        "link": "https://www.elindependiente.com/espana/2026/02/23/air-europa-jurado-investigacion-juez-peinado-begona-gomez-sufre-nuevo-revolcon/",
+        "date": "2026-02-23 21:30:47",
+        "sentiment_score": -0.8754123710095882
+    },
+    {
+        "title": "Crisis global",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4387143.jpg",
+        "tags": [
+            "real mallorca",
+            "última hora",
+            "primera división",
+            "laliga",
+            "ultimas noticias",
+            "fútbol",
+            "rcd mallorca"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/02/23/2575905/crisis-global.html",
+        "date": "2026-02-23 21:18:00",
+        "sentiment_score": -0.1310100108385086
+    },
+    {
+        "title": "Jahzeel Gálvez, el hombre apuñalado por su hijastro en Sant Andreu, murió por \"defender\" a su pareja y madre del homicida",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/23/sant-andreu/1003742735419_15750428_1706x960.jpg",
+        "tags": [
+            "sant andreu",
+            "sant andreu de palomar",
+            "delincuencia",
+            "guardia urbana",
+            "agresiones",
+            "crimen",
+            "mossos d'esquadra"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sant-andreu/20260223/jahzeel-galvez-hombre-apunalado-hijastro-sant-andreu-murio-defender-pareja-madre-homicida/1003742735257_0.html",
+        "date": "2026-02-23 22:30:00",
+        "sentiment_score": -0.8179530687630177
+    },
+    {
+        "title": "Una buena 'Gioconda' en el Liceu",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/23/vivir-en-barcelona/1003742735492_15751127_1706x960.jpg",
+        "tags": [
+            "cultura",
+            "vivir en barcelona",
+            "música",
+            "gran teatre del liceu"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260223/buena-gioconda-liceu/1003742735483_0.html",
+        "date": "2026-02-23 22:30:00",
+        "sentiment_score": 0.2114543318748474
+    },
+    {
+        "title": "Barcelona transformará el degradado solar de 'La Bartola' del Raval en una pista polideportiva",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/23/ciutat-vella/1003742735509_15751391_1706x960.jpg",
+        "tags": [
+            "obras",
+            "ayuntamiento de barcelona",
+            "deportes",
+            "ciutat vella",
+            "el raval"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/ciutat-vella/20260223/barcelona-transformara-degradado-solar-bartola-raval-pista-polideportiva/1003742735501_0.html",
+        "date": "2026-02-23 22:30:00",
+        "sentiment_score": 0.014224976301193237
+    },
+    {
+        "title": "Así será la reforma de la ‘joya’ modernista de Pedralbes tras años de espera: 250.000 euros menos y lista en 2027",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/01/10/les-corts/915418499_13958458_1706x960.jpg",
+        "tags": [
+            "arte barcelona",
+            "obras",
+            "edificios históricos",
+            "sarrià - sant gervasi",
+            "pedralbes"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sarria-sant-gervasi/20260223/reforma-joya-modernista-pedralbes-anos-espera-euros-lista/1003742735460_0.html",
+        "date": "2026-02-23 22:30:00",
+        "sentiment_score": 0.6712189428508282
+    },
+    {
+        "title": "Damm gana el premio a Empresa del Año de ‘El Periódico’ y Banco Sabadell",
+        "image_url": "https://forbes.es/wp-content/uploads/2026/02/fotonoticia_20260223225827_1920-1200x675.jpg",
+        "tags": [
+            "economía",
+            "última hora"
+        ],
+        "link": "https://forbes.es/economia/878752/damm-gana-el-premio-a-empresa-del-ano-de-el-periodico-y-banco-sabadell/",
+        "date": "2026-02-23 22:25:03",
+        "sentiment_score": 0.7339774146676064
+    },
+    {
+        "title": "La guía Macarfi corona al restaurante Fontané como mejor apertura y ya cubre toda la España peninsular",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/02/23/macarfi840-kDeH-U230894529140YeE.jpg",
+        "tags": [
+            "michelin",
+            "restaurantes",
+            "gastronomía",
+            "alimentación"
+        ],
+        "link": "https://www.leonoticias.com/culturas/gastronomia/guia-macarfi-corona-restaurante-fontane-mejor-apertura-20260223231624-ntrc.html",
+        "date": "2026-02-23 22:21:06",
+        "sentiment_score": -0.12062958627939224
+    },
+    {
+        "title": "Enfado de Mendizorroza con la enésima sustitución de Ibáñez",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7b1aad72-5136-4ba3-bf83-49e7c9ddc586_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "mendizorroza",
+            "alaves",
+            "girona",
+            "ibanez",
+            "sustitucion",
+            "enesima",
+            "enfado"
+        ],
+        "link": "https://www.noticiasdealava.eus/alaves/2026/02/23/enfado-mendizorroza-enesima-sustitucion-ibanez-alaves-girona-10739475.html",
+        "date": "2026-02-23 22:10:19",
+        "sentiment_score": -0.42177949845790863
+    },
+    {
+        "title": "Pedri y Ferran Torres revelan las cifras de las multas de Flick por llegar tarde: “Mejor no aparezcas”",
+        "image_url": "https://www.infobae.com/resizer/v2/MP4XXIKUOMD52I6UE2HWVLW5YU.jpg?auth=5ecda4bb9a5cedfbeeb0177578180d84f46ba7145e3321cf3b555b2ccda90cd0&height=1506&smart=true&width=1986",
+        "tags": [
+            "españa-deportes",
+            "fútbol españa",
+            "atresmedia",
+            "pablo motos",
+            "famosos españa",
+            "españa-noticias",
+            "ferrán torres",
+            "pedri",
+            "fútbol",
+            "la liga",
+            "el hormiguero",
+            "fc barcelona",
+            "antena 3",
+            "televisión españa",
+            "gente españa"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/02/23/pedri-y-ferran-torres-revelan-las-cifras-de-las-multas-de-flick-por-llegar-tarde-mejor-no-aparezcas/",
+        "date": "2026-02-23 22:04:05",
+        "sentiment_score": 0.38008783012628555
     }
 ];
