@@ -1,231 +1,5 @@
 export default [
     {
-        "title": "Abolir las fronteras: justicia racial frente al neoliberalismo",
-        "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/2086e97b/artePanorama01.jpg?v=63935695410",
-        "tags": [
-            "actualidad",
-            "migración"
-        ],
-        "link": "https://www.elsaltodiario.com/fronteras/abolir-fronteras-notas-una-agenda-antirracista",
-        "date": "2026-02-21 06:42:00",
-        "sentiment_score": -0.8407215308398008
-    },
-    {
-        "title": "Entre los platós de televisión y los tribunales: los líos judiciales de Sarah Santaolalla",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/sarah-santaolalla-lios-judiciales-denuncias-vida.jpg",
-        "tags": [
-            "celebrities",
-            "justicia",
-            "gente",
-            "sarah santaolalla"
-        ],
-        "link": "https://theobjective.com/gente/2026-02-21/lios-judiciales-sarah-santaolalla-denuncias-querellas-amenazas-vida-personal/",
-        "date": "2026-02-21 06:30:00",
-        "sentiment_score": -0.24468788504600525
-    },
-    {
-        "title": "Cabezón, Jota, Ábalos y Koldo: el equipo A de Sánchez contra el covid",
-        "image_url": "https://s1.staticld.com/2026/02/20/cabezon-dao-sanchez-koldo-abalos.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/espana/2026-02-21/cabezon-jota-abalos-y-koldo-el-equipo-a-de-sanchez-contra-el-covid-7362947/",
-        "date": "2026-02-21 06:17:28",
-        "sentiment_score": -0.8618896063417196
-    },
-    {
-        "title": "Extremadura lleva Guadalupe y la Semana Santa a Portugal",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/677f94bf-305c-4993-bc7a-53571a43ca8d_16-9-aspect-ratio_default_0_x852y425.jpg",
-        "tags": [
-            "portugal",
-            "semana santa",
-            "patrimonio",
-            "extremadura",
-            "participación",
-            "turismo"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/21/extremadura-lleva-guadalupe-semana-santa-127098723.html",
-        "date": "2026-02-21 06:00:33",
-        "sentiment_score": 0.644968792796135
-    },
-    {
-        "title": "El ICAM alerta de un patrón estructural de demoras judiciales que tensiona el ejercicio profesional",
-        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2026/02/ICAM-1.jpg",
-        "tags": [
-            "demoras judiciales",
-            "ejercicio profesional abogacía",
-            "app",
-            "noticias jurídicas",
-            "icam",
-            "despachos y abogados",
-            "justicia madrid",
-            "dilaciones procesales",
-            "znoticia portada2",
-            "suspensiones judiciales",
-            "retrasos en juicios"
-        ],
-        "link": "https://www.economistjurist.es/actualidad-juridica/actualidad-de-los-despachos/el-icam-alerta-de-un-patron-estructural-de-demoras-judiciales-que-tensiona-el-ejercicio-profesional/",
-        "date": "2026-02-21 06:00:28",
-        "sentiment_score": -0.8318757982924581
-    },
-    {
-        "title": "Osasuna - Real Madrid: Horario, posibles alineaciones y dónde ver el partido de LaLiga EA Sports, en directo",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/02/20/280264D6-0932-447F-9EDC-BEA8A526B95A/valverde-mbappe-celebran-gol-laliga-real-madrid_98.jpg?crop=4825%2C2715%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "deportes",
-            "antena 3 noticias",
-            "fútbol"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/osasuna-real-madrid-horario-posibles-alineaciones-donde-ver-partido-laliga-sports-directo_20260221699949f02f00a046881d9d25.html",
-        "date": "2026-02-21 06:00:16",
-        "sentiment_score": 0.01914028450846672
-    },
-    {
-        "title": "IA para la detección temprana de aterosclerosis y una plataforma que analiza la microbiota, startups ganadoras en el LWF2026",
-        "image_url": "https://s10.s3c.es/imag/_v0/5158x2815/0/9/5/1200x655_L36A3780.JPG",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.eleconomista.es/actualidad/noticias/13787496/02/26/ia-para-la-deteccion-temprana-de-aterosclerosis-y-una-plataforma-que-analiza-la-microbiota-startups-ganadoras-en-el-lwf2026.html",
-        "date": "2026-02-21 06:00:14",
-        "sentiment_score": 0.43754061684012413
-    },
-    {
-        "title": "Estos son los 28 miembros del Consejo de Estado que se preparan para blindar constitucionalmente el derecho al aborto",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/02/20/69989b4d543cd.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20260221/estos-son-28-miembros-consejo-estado-preparan-blindar-constitucionalmente-derecho-aborto_387822.html",
-        "date": "2026-02-21 05:57:54",
-        "sentiment_score": -0.3459455072879791
-    },
-    {
-        "title": "Feijóo aumenta su presencia en Cataluña para captar el voto descontento: \"Ningún otro partido allí se opone a Sánchez\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/20/69989c7e134780-60011021.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/nacional/feijoo-aumenta-su-presencia-cataluna-para-captar-voto-descontento-con-gobierno-ningun-otro-partido-alli-se-opone-sanchez_6937010_0.html",
-        "date": "2026-02-21 06:40:47",
-        "sentiment_score": -0.8866512877866626
-    },
-    {
-        "title": "Fermín López y Berta Gallardo disfrutan de una escapada romántica en Andorra",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/21/2026022107292699936.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/fermin-lopez-berta-gallardo-disfrutan-escapada-romantica-andorra/20260221073053375640.html",
-        "date": "2026-02-21 06:30:53",
-        "sentiment_score": -0.3244267627596855
-    },
-    {
-        "title": "Cielo despejado y brisas en Barcelona: AEMET prevé un día de cambios y temperaturas agradables",
-        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
-        "tags": [
-            "cataluña",
-            "españa",
-            "previsión del tiempo",
-            "okd",
-            "tiempo",
-            "agencia estatal de meteorología (aemet)"
-        ],
-        "link": "https://okdiario.com/cataluna/cielo-despejado-y-brisas-en-barcelona-aemet-preve-un-dia-de-cambios-y-temperaturas-agradables-16283364",
-        "date": "2026-02-21 06:21:25",
-        "sentiment_score": 0.21882601082324982
-    },
-    {
-        "title": "Carlos Latre y su mujer Yolanda Marcos, la historia de un amor resiliente que sobrevivió a una separación y superó su mayor crisis",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/20/699880b5b1743.r_d.575-568-3976.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.lavanguardia.com/gente/20260221/11471546/carlos-latre-mujer-yolanda-marcos-historia-amor-resiliente-sobrevivio-separacion-supero-mayor-crisis-gvm2.html",
-        "date": "2026-02-21 06:20:35",
-        "sentiment_score": 0.6917527243494987
-    },
-    {
-        "title": "'Dret a la Resistència' reivindica la lucha democrática en la Facultad de Derecho de la UB",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/202602/21/media/cortadas/dret-resistncia-reivindica-lucha-democrtica-facultad-derecho-20260221061506-vi.jpg",
-        "tags": [
-            "lucha",
-            "dret",
-            "derecho",
-            "reivindica",
-            "democrtica",
-            "resistncia",
-            "facultad"
-        ],
-        "link": "https://www.elcomercio.es/culturas/dret-resistncia-reivindica-lucha-democrtica-facultad-derecho-20260221061506-vi.html",
-        "date": "2026-02-21 06:20:13",
-        "sentiment_score": 0.004084721207618713
-    },
-    {
-        "title": "La izquierda presenta su proyecto de reorganización en un acto marcado por las ausencias de Yolanda Díaz, Rufián y Podemos",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/02/21/65A5B244-C257-46DB-9A51-4988E18736F9/ernest-urtasun-monica-garcia-congreso-diputados_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "noticias",
-            "españa",
-            "ondacero"
-        ],
-        "link": "https://www.ondacero.es/noticias/espana/izquierda-presenta-proyecto-reorganizacion-acto-marcado-ausencias-yolanda-diaz-rufian-podemos_2026022169994d741817b41eb658ae7e.html",
-        "date": "2026-02-21 06:15:16",
-        "sentiment_score": 0.06926295161247253
-    },
-    {
-        "title": "Centenario de Valverde",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7cc6ec63-b78a-4a6d-8727-666c9e292b8b_16-9-aspect-ratio_default_0_x600y285.jpg",
-        "tags": [
-            "barcelona",
-            "valencia",
-            "dios",
-            "iglesia"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/opinion/2026/02/21/centenario-valverde-127087493.html",
-        "date": "2026-02-21 06:08:01",
-        "sentiment_score": 0.03145311027765274
-    },
-    {
-        "title": "Ciencia, método... ¿y orden?: quién sí y quién no estará este sábado en el acto del 'nuevo Sumar'",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/02/20/antonio-maillo-ernest-urtasun-monica-garcia-y-lara-hernandez.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/acto-sumar-sabado-nueva-coalicion-electoral-generales-f202602.html",
-        "date": "2026-02-21 06:02:40",
-        "sentiment_score": 0.423638179898262
-    },
-    {
-        "title": "La quema de San José de María: \"¡Es tan buena que parece mucho más difícil de hacer!\"",
-        "image_url": "https://static1.ara.cat/clip/50ca6c82-9f27-4b31-ba66-cf2aa8c1f6a3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "dificil",
-            "quema",
-            "buena",
-            "san",
-            "maria",
-            "parece",
-            "jose"
-        ],
-        "link": "https://es.ara.cat/comer/quema-san-jose-maria-buena-parece-dificil_130_5655161.html",
-        "date": "2026-02-21 06:00:56",
-        "sentiment_score": -0.035127192735672
-    },
-    {
-        "title": "Las familias pierden poder adquisitivo pese al crecimiento económico",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e3394c1f-1012-433b-a76e-488a63375c53_alta-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "salarios",
-            "entender más",
-            "cesta de la compra",
-            "inflación"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260221/familias-pierden-adquisitivo-pese-crecimiento-127042276",
-        "date": "2026-02-21 06:00:38",
-        "sentiment_score": -0.5269990600645542
-    },
-    {
         "title": "La alianza del narco boliviano y el nazi refugiado que cambió el negocio de la cocaína",
         "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/03/20/los-niveles-de-cocaina-estan-aumeentando-en-las-aguas-residuales-de-muchas-ciudades-europeas.jpeg",
         "tags": [
@@ -2889,5 +2663,270 @@ export default [
         "link": "https://www.elperiodico.com/es/sociedad/20260224/fiscalia-pide-inhabilitar-exalcaldesa-barbera-127227984",
         "date": "2026-02-24 17:26:31",
         "sentiment_score": -0.8020874774083495
+    },
+    {
+        "title": "Prestianni se entrenó en el Bernabéu antes del duelo ante Real Madrid: los gestos del Benfica tras la denuncia de Vinícius",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes-internacional"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/24/prestianni-se-entreno-en-el-bernabeu-antes-del-duelo-ante-real-madrid-los-gestos-del-benfica-tras-la-denuncia-de-vinicius/",
+        "date": "2026-02-24 22:12:02",
+        "sentiment_score": -0.9222294054925442
+    },
+    {
+        "title": "Ingresado en Tenerife el rey de Noruega tras sufrir una \"infección\" durante sus vacaciones",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/02/24/1F92299B-AAC4-4380-8043-9536CA22C393/rey-harald-noruega-foto-archivo_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "noticias",
+            "ondacero",
+            "sociedad"
+        ],
+        "link": "https://www.ondacero.es/noticias/sociedad/ingresado-tenerife-rey-noruega-sufrir-infeccion-sus-vacaciones_20260224699e218b2f00a04688262230.html",
+        "date": "2026-02-24 22:09:15",
+        "sentiment_score": 0.01964597776532173
+    },
+    {
+        "title": "Estos son los equipos clasificados para octavos de final de la Champions League: cuándo es el sorteo, cuadro, bombos y posibles cruces",
+        "image_url": "https://okdiario.com/img/2026/02/24/imagen_recortada-2026-02-24t230106.402.jpg",
+        "tags": [
+            "fútbol",
+            "champions league",
+            "deportes"
+        ],
+        "link": "https://okdiario.com/deportes/estos-son-equipos-clasificados-octavos-final-champions-league-cuando-sorteo-cuadro-bombos-posibles-cruces-16301708",
+        "date": "2026-02-24 22:01:31",
+        "sentiment_score": 0.02718258649110794
+    },
+    {
+        "title": "«SEK-Alborán es mucho más que un colegio internacional»",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/02/25/33-kJRB-U20855744599jcH-1200x840@Ideal.jpg",
+        "tags": [
+            "colegio",
+            "sekalboran",
+            "internacional"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/sekalboran-colegio-internacional-20260225120433-nt.html",
+        "date": "2026-02-24 22:01:08",
+        "sentiment_score": -0.6712469719350338
+    },
+    {
+        "title": "Parece Islandia pero está en Madrid: El impacto del salto de agua de 10 metros que ya es viral en las redes sociales",
+        "image_url": "https://static.merca2.es/wp-content/uploads/2026/02/Monasterio.webp",
+        "tags": [
+            "últimas noticias",
+            "turismo"
+        ],
+        "link": "https://www.merca2.es/2026/02/24/madrid-salto-agua-virale-2354821/",
+        "date": "2026-02-24 22:00:00",
+        "sentiment_score": -0.8156107068061829
+    },
+    {
+        "title": "El Bernabéu decide un pulso entre el Real Madrid y el Benfica bajo el foco de la polémica",
+        "image_url": "https://cflvdg.avoz.es/sc/s26BZiPVmXdtUm8WnOMYl1aIPFA=/768x/2026/02/24/00121771968601454389201/Foto/eup_20260217_213826756.jpg",
+        "tags": [
+            "vinicius",
+            "deportes",
+            "real madrid",
+            "mourinho",
+            "benfica"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/02/24/bernabeu-decide-pulso-real-madrid-benfica-bajo-foco-polemica/00031771969781468900852.htm",
+        "date": "2026-02-24 21:56:00",
+        "sentiment_score": -0.9030557125806808
+    },
+    {
+        "title": "El giro del PP logra en 24 horas \"conversaciones fluidas y continuas\" con Vox",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/fb6d7adbccce048b370208c8b955a7b8/crop/2x0/1024x1022/f/image/jpeg/assets/multimedia/imagenes/2024/01/15/17053356313045.jpg",
+        "tags": [
+            "artículos juanma lamet",
+            "pp",
+            "alberto núñez feijóo",
+            "vox",
+            "pedro sánchez",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/02/24/699dee16fdddff773c8b45af.html",
+        "date": "2026-02-24 21:51:36",
+        "sentiment_score": -0.10502038896083832
+    },
+    {
+        "title": "Borrell avisa: la guerra en Ucrania no acabará con un tratado de paz y las condiciones para Kiev serían \"totalmente inaceptables\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/02/24/josep-borrell-durante-el-evento-aguanta-ucrania-en-casa-america-el-24-de-febrero-de-2026-en-madrid-espana.jpeg",
+        "tags": [
+            "global"
+        ],
+        "link": "https://www.huffingtonpost.es/global/borrell-avisa-guerra-ucrania-acabara-tratado-paz-condiciones-kievian-totalmente-inaceptables-f202602.html",
+        "date": "2026-02-24 21:41:32",
+        "sentiment_score": -0.7446142844855785
+    },
+    {
+        "title": "Luka Modrić y su quinta oportunidad de brillar en una Copa del Mundo",
+        "image_url": "https://www.infobae.com/resizer/v2/T5TUGAIQXBHVTKMBBHSHDDB4M4.jpg?auth=368b38efeba6157a5342e87e3c52cfe303a9c0f2c9753742c4a6a5ec913c226b&height=1079&smart=true&width=1920",
+        "tags": [
+            "colombia-deportes",
+            "selección croacia mundial 2026",
+            "capitán",
+            "luka modrić",
+            "líder",
+            "mundial 2026",
+            "croacia"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/24/luka-modric-y-su-quinta-oportunidad-de-brillar-en-una-copa-del-mundo/",
+        "date": "2026-02-24 21:39:06",
+        "sentiment_score": 0.10090325772762299
+    },
+    {
+        "title": "Sharif y Rapsusklei lanzan su primer disco conjunto: “Por fin estábamos a la altura de ese sueño que tuvimos hace mucho”",
+        "image_url": "https://static.eldiario.es/clip/8b2fb202-5334-453e-abf1-f639fb3485b2_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "huesca",
+            "óscar f. civieta",
+            "celia soria",
+            "eldiario",
+            "actualidad",
+            "zaragoza",
+            "marimar cabrera",
+            "política",
+            "sociedad",
+            "elprismático",
+            "teruel",
+            "aragón",
+            "fernando garcía mongay"
+        ],
+        "link": "https://www.eldiario.es/aragon/cultura/sharif-rapsusklei-lanzan-primer-disco-conjunto-estabamos-altura-sueno-tuvimos_1_13012102.html",
+        "date": "2026-02-24 21:20:24",
+        "sentiment_score": -0.0003775656223297119
+    },
+    {
+        "title": "Faustino Asprilla y la historia de su polémica expulsión de la concentración de la selección Colombia en el Mundial Francia 98",
+        "image_url": "https://www.infobae.com/resizer/v2/3X2TU32Q2JCVHEDUDRBL25UTYQ.png?auth=fb72b242c038b47cf8bd4edeb5d658e76899452f3ed8cd5a57f4448720e2479d&height=1600&smart=true&width=2300",
+        "tags": [
+            "faustino asprilla",
+            "hernán darío gómez",
+            "mundial 2026",
+            "colombia-deportes",
+            "francia 98",
+            "selección colombia"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/24/faustino-asprilla-y-la-historia-de-su-polemica-expulsion-de-la-concentracion-de-la-seleccion-colombia-en-el-mundial-francia-98/",
+        "date": "2026-02-24 22:46:51",
+        "sentiment_score": 0.6566813364624977
+    },
+    {
+        "title": "Liberaron a periodista que trabajó en el Departamento de Cultura de la gobernación de Anzoátegui",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "locales",
+            "política"
+        ],
+        "link": "https://eltiempove.com/liberaron-a-periodista-que-trabajo-en-el-departamento-de-cultura-de-la-gobernacion-de-anzoategui/",
+        "date": "2026-02-24 22:45:26",
+        "sentiment_score": -0.8640100518241525
+    },
+    {
+        "title": "Todo lo que sabemos del HONOR Magic V6: el nuevo celular plegable resistente a polvo y caídas",
+        "image_url": "https://www.infobae.com/resizer/v2/2O4DO66YC5BXHB6U7BJ5TJ4RZY.png?auth=a81c328ce21b733c496fa318706cee74080d878ee455fd7df4a9e73b20a1690b&height=700&smart=true&width=1200",
+        "tags": [
+            "honor",
+            "mwc 2026",
+            "tecnología-noticias",
+            "honor magic v6",
+            "celular plegable",
+            "tecnología"
+        ],
+        "link": "https://www.infobae.com/tecno/2026/02/24/todo-lo-que-sabemos-del-honor-magic-v6-el-nuevo-celular-plegable-resistente-a-polvo-y-caidas/",
+        "date": "2026-02-24 22:45:06",
+        "sentiment_score": 0.6314904019236565
+    },
+    {
+        "title": "La muerte a tiros de un hombre esposado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/26c6709d-1a6e-416e-9c47-510f5d919071_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "guerra",
+            "familia",
+            "madrid",
+            "guardia civil"
+        ],
+        "link": "https://www.informacion.es/opinion/2026/02/24/muerte-tiros-hombre-esposado-127234284.html",
+        "date": "2026-02-24 22:30:39",
+        "sentiment_score": 0.024515122175216675
+    },
+    {
+        "title": "Barcelona busca posicionarse como un campo de pruebas referente en innovación tecnológica urbana",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/20/informacion-municipal/1003742734847_15743574_1706x960.jpg",
+        "tags": [
+            "ayuntamiento de barcelona",
+            "información municipal",
+            "ciencia",
+            "innovación",
+            "tecnología"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260224/barcelona-busca-posicionarse-campo-pruebas-referente-innovacion-tecnologica-urbana/1003742734839_0.html",
+        "date": "2026-02-24 22:30:00",
+        "sentiment_score": 0.5635272189974785
+    },
+    {
+        "title": "El Incasòl rescata las 36 viviendas dotacionales 'malditas' de El Masnou tras la espantada de una constructora",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/24/gran-barcelona/1003742735801_15755111_1706x960.jpg",
+        "tags": [
+            "vivienda",
+            "gran barcelona",
+            "maresme"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260224/incasol-rescata-viviendas-dotacionales-malditas-masnou-espantada-constructora/1003742735756_0.html",
+        "date": "2026-02-24 22:30:00",
+        "sentiment_score": -0.7686479892581701
+    },
+    {
+        "title": "Interior archiva una decena de denuncias por 'intrusismo laboral' en obras públicas de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/24/el-pulso-de-la-ciudad/1003742718951_15548748_1706x960.jpg",
+        "tags": [
+            "trabajadores",
+            "sindicatos",
+            "economía",
+            "seguridad",
+            "patronales",
+            "obras"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260224/interior-archiva-decena-denuncias-intrusismo-laboral-obras-publicas-barcelona/1003742735301_0.html",
+        "date": "2026-02-24 22:30:00",
+        "sentiment_score": -0.8980147307738662
+    },
+    {
+        "title": "El Newcastle United selló su calificación a octavos de final de la Champions League",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/a015975507b16012746845b745cd9094e16653e9w.jpg",
+        "tags": [
+            "victoria",
+            "champions league",
+            "octavos de final",
+            "deportes",
+            "titulares",
+            "newcastle united"
+        ],
+        "link": "https://lapatilla.com/2026/02/24/el-newcastle-united-sello-su-calificacion-a-octavos-de-final-de-la-champions-league/",
+        "date": "2026-02-24 22:11:13",
+        "sentiment_score": 0.38289232552051544
+    },
+    {
+        "title": "Messi revela cómo le pidió matrimonio a Antonela en Barcelona",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/07/08/686cce77e69f9.r_d.586-340-0.jpeg",
+        "tags": [
+            "vaya mundo"
+        ],
+        "link": "https://www.mundodeportivo.com/vaya-mundo/20260224/1004134020/messi-revela-como-le-pidio-matrimonio-antonela-barcelona-dct.html",
+        "date": "2026-02-24 22:06:00",
+        "sentiment_score": 0.08757343888282776
+    },
+    {
+        "title": "Estudiantes rechazan el aumento del costo del semestre en la USM Oriente",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "locales",
+            "educación"
+        ],
+        "link": "https://eltiempove.com/estudiantes-rechazan-el-aumento-del-costo-del-semestre-en-la-usm-oriente/",
+        "date": "2026-02-24 22:03:41",
+        "sentiment_score": -0.8252545818686485
     }
 ];
