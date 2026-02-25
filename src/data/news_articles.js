@@ -2928,5 +2928,207 @@ export default [
         "link": "https://eltiempove.com/estudiantes-rechazan-el-aumento-del-costo-del-semestre-en-la-usm-oriente/",
         "date": "2026-02-24 22:03:41",
         "sentiment_score": -0.8252545818686485
+    },
+    {
+        "title": "Cancelo divide al barcelonismo y tensiona la planificación deportiva",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/02/2026010209065621229.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/cancelo-divide-barcelonismo-tensiona-planificacion-deportiva/20260225033136376134.html",
+        "date": "2026-02-25 02:31:36",
+        "sentiment_score": 0.13569854199886322
+    },
+    {
+        "title": "El 80% del empleo sumergido en España lo ocupan trabajadores extranjeros, medio millón de ellos de fuera de la UE",
+        "image_url": "https://s3.elespanol.com/2026/02/24/actualidad/1003744144008_261604055_1706x960.jpg",
+        "tags": [
+            "macroeconomía",
+            "empleo",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20260225/empleo-sumergido-espana-ocupan-trabajadores-extranjeros-medio-millon-ue/1003744143469_0.html",
+        "date": "2026-02-25 01:58:09",
+        "sentiment_score": -0.6451442763209343
+    },
+    {
+        "title": "Qué hay detrás del fenómeno therian: redes sociales, bulos y polarización",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/25/2026022502284481297.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/que-detras-fenomeno-therian-redes-sociales-bulos-polarizacion/20260225023017376129.html",
+        "date": "2026-02-25 01:30:17",
+        "sentiment_score": -0.7903950028121471
+    },
+    {
+        "title": "El Inter se apaga y el Atlético avanza en la noche de Champions",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/25/2026022502290793385.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/champions-territorio-que-enemigo-pequeno/20260225022922376128.html",
+        "date": "2026-02-25 01:29:22",
+        "sentiment_score": -0.8367362879216671
+    },
+    {
+        "title": "La ácida crítica de Chilavert a Courtois en medio de la polémica entre Pestiani y Vinícius: “Le sacó la novia a su compañero”",
+        "image_url": "https://www.infobae.com/resizer/v2/NWWGNB6XQJD3VMTQIBWYZTD65A.jpg?auth=8096d37c02dd22ca16bb2926b4aee024480fc35dadda4f540240f4f0d43f96d1&height=1080&smart=true&width=1920",
+        "tags": [
+            "benfica",
+            "real madrid",
+            "josé luis chilavert",
+            "thibaut courtois",
+            "gianluca prestianni",
+            "champions league",
+            "deportes-internacional",
+            "kylian mbappé",
+            "deportes-argentina",
+            "vinicius júnior"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/25/la-acida-critica-de-chilavert-a-courtois-en-medio-de-la-polemica-entre-pestiani-y-vinicius-le-saco-la-novia-a-su-companero/",
+        "date": "2026-02-25 01:18:23",
+        "sentiment_score": -0.8184385262429714
+    },
+    {
+        "title": "Las elecciones del Barça de 2026 son las menos politizadas del club: Junts se mantiene al margen",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/20/culemania/palco/1003742734850_15743595_1706x960.jpg",
+        "tags": [
+            "palco",
+            "víctor font",
+            "joan laporta",
+            "xavier vilajoana"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260225/elecciones-barca-politizadas-club-junts-mantiene-margen/1003742735725_0.html",
+        "date": "2026-02-25 00:52:59",
+        "sentiment_score": -0.4295501932501793
+    },
+    {
+        "title": "Reyerta en el PSOE de Madrid: el diputado Rodríguez Palacios dimite tras filtrar el vídeo de su 'número dos' con una 'stripper'",
+        "image_url": "https://s3.elespanol.com/2026/02/24/actualidad/1003744144131_261605665_1706x960.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "psoe (partido socialista obrero español)",
+            "alcalá de henares",
+            "congreso de los diputados",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260225/reyerta-psoe-madrid-diputado-rodriguez-palacios-dimite-filtrar-video-numero-stripper/1003744143883_0.html",
+        "date": "2026-02-25 00:49:14",
+        "sentiment_score": -0.7573801167309284
+    },
+    {
+        "title": "Gobernador de Jalisco descarta riesgo de que México pierda sedes del Mundial",
+        "image_url": "https://correodelcaroni.com/wp-content/uploads/2026/02/GOBERNADOR_Mundial.jpg",
+        "tags": [
+            "sedes",
+            "mundial",
+            "mundo",
+            "jalisco",
+            "pablo lemus",
+            "méxico",
+            "a - modulo 7 - b",
+            "copa mundial",
+            "violencia"
+        ],
+        "link": "https://correodelcaroni.com/mundo/gobernador-de-jalisco-descarta-riesgo-de-que-mexico-pierda-sedes-del-mundial/",
+        "date": "2026-02-25 00:39:38",
+        "sentiment_score": -0.5646964181214571
+    },
+    {
+        "title": "24 FEB 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/24-feb-2026-partidazo-cope-20260225_3314534.html",
+        "date": "2026-02-25 00:35:02",
+        "sentiment_score": -0.6037871986627579
+    },
+    {
+        "title": "España cubre la ratio de enfermeras con fisioterapeutas en residencias de mayores ante el déficit de estas especialistas",
+        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070787_260676600_1706x960.jpg",
+        "tags": [
+            "sanidad - actualidad sanitaria",
+            "sanidad",
+            "observatorio de la sanidad",
+            "sanidad - enfermería"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260225/espana-cubre-ratio-enfermeras-fisioterapeutas-residencias-mayores-deficit-especialistas/1003744143055_0.html",
+        "date": "2026-02-25 00:26:57",
+        "sentiment_score": -0.5163351688534021
+    },
+    {
+        "title": "Equipazo en España: Barcelona rompe el mercado con brillante refuerzo de lujo",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/PVOL6ZLSSVGFZBBVICHGSBJXEI.jpg?auth=3b9daf327325423ed015f92addb791d34abd3f81eb65c2343c63b29e239a0d09&height=355&smart=true&width=679",
+        "tags": [
+            "laliga",
+            "barcelona"
+        ],
+        "link": "https://www.metroworldnews.com/deportes/2026/02/25/equipazo-en-espana-barcelona-rompe-el-mercado-con-brillante-refuerzo-de-lujo/",
+        "date": "2026-02-25 02:23:40",
+        "sentiment_score": 0.9050172865390778
+    },
+    {
+        "title": "El nuevo modelo de explotación de asientos Vip del Spotify Camp Nou difiere de los PSL de New Era: dos negocios al alcance de pocos socios",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/24/culemania/palco/1003742735710_15754057_1706x960.jpg",
+        "tags": [
+            "palco",
+            "camp nou",
+            "espai barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260225/explotacion-vip-spotify-camp-nou-psl-new/1003742735883_0.html",
+        "date": "2026-02-25 00:52:54",
+        "sentiment_score": 0.5112284682691097
+    },
+    {
+        "title": "El Barça más judicializado del siglo encara las elecciones: los cinco procesos que desestabilizan la agenda electoral en los tribunales",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/12/culemania/palco/1003742715512_15505216_1706x960.jpg",
+        "tags": [
+            "barça",
+            "xavier vilajoana",
+            "camp nou",
+            "jules koundé",
+            "josé maría enríquez negreira",
+            "palco",
+            "elecciones barça",
+            "víctor font",
+            "joan laporta"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260225/barca-judicializado-elecciones-procesos-desestabilizan-electoral-tribunales/1003742735886_0.html",
+        "date": "2026-02-25 00:52:33",
+        "sentiment_score": -0.9102708343416452
+    },
+    {
+        "title": "Simeone reemplazó a Julián Álvarez a los 58 minutos del triunfo del Atlético de Madrid: su tajante argumento y el show de gestos",
+        "image_url": "https://www.infobae.com/resizer/v2/DBBIFS6SJBBCBMKDVBS6YL6LKE.jpg?auth=a2bbe0a5d407d808b5ad8a9639a6c798759611183c738a9fe26878548b3e5f03&height=1080&smart=true&width=1920",
+        "tags": [
+            "diego simeone",
+            "brujas",
+            "julián álvarez",
+            "champions league",
+            "deportes-argentina",
+            "atlético de madrid"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/25/simeone-reemplazo-a-julian-alvarez-a-los-58-minutos-del-triunfo-del-atletico-de-madrid-su-tajante-argumento-y-el-show-de-gestos/",
+        "date": "2026-02-25 00:46:48",
+        "sentiment_score": -0.2482335902750492
+    },
+    {
+        "title": "Luis Tosar recuerda su premio ‘Míster Estudiante’ en ‘La Revuelta’: un quinto de cerveza, diez planchas y un baile sexy",
+        "image_url": "https://www.infobae.com/resizer/v2/LUR54OBHMNHB3BKQLB5OPSCB4U.jpg?auth=3063a3bd0fce81b2ed4cead621fffbe9ed3c034ac9265fed84e57b188cb00fec&height=1080&smart=true&width=1920",
+        "tags": [
+            "famosos españa",
+            "españa-noticias",
+            "rtve",
+            "david broncano",
+            "la revuelta",
+            "españa televisión",
+            "españa-entretenimiento",
+            "gente españa"
+        ],
+        "link": "https://www.infobae.com/espana/2026/02/25/luis-tosar-recuerda-su-premio-mister-estudiante-en-la-revuelta-un-quinto-de-cerveza-diez-planchas-y-un-baile-sexy/",
+        "date": "2026-02-25 00:41:51",
+        "sentiment_score": 0.13923850283026695
     }
 ];
