@@ -1,364 +1,5 @@
 export default [
     {
-        "title": "El Barça elimina al UCAM Murcia y será el rival del Baskonia en semifinales",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/20/6998db7f5fa64.r_d.1360-671-4257.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.eldebate.com/deportes/baloncesto/20260220/barca-elimina-ucam-murcia-sera-rival-baskonia-semifinales_387878.html",
-        "date": "2026-02-20 22:09:43",
-        "sentiment_score": -0.07101647555828094
-    },
-    {
-        "title": "Neymar no descarta su retiro como profesional a final de temporada",
-        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/02/Neymar1.jpg",
-        "tags": [
-            "temporada",
-            "retiro",
-            "20feb",
-            "deportes",
-            "neymar"
-        ],
-        "link": "https://laverdaddemonagas.com/2026/02/20/neymar-no-descarta-su-retiro/",
-        "date": "2026-02-20 21:58:28",
-        "sentiment_score": 0.031805023550987244
-    },
-    {
-        "title": "La jornada 25 de LaLiga EA Sports, en imágenes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1da292e6-db26-4aec-8a24-36e136d8dd98_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "fútbol",
-            "laliga",
-            "primera división"
-        ],
-        "link": "https://www.lne.es/fotos/deportes/2026/02/20/jornada-25-laliga-ea-sports-127094737.html",
-        "date": "2026-02-20 21:54:34",
-        "sentiment_score": 0.11202619224786758
-    },
-    {
-        "title": "El Barcelona tampoco sabe ganar: su afición humilla a la del UCAM cantando «¡adiós a la Copa!»",
-        "image_url": "https://okdiario.com/img/2026/02/20/frame-aficion-barca.jpg",
-        "tags": [
-            "copa del rey baloncesto",
-            "fútbol club barcelona (baloncesto)",
-            "deportes",
-            "baloncesto"
-        ],
-        "link": "https://okdiario.com/deportes/barcelona-tampoco-sabe-ganar-aficion-humilla-del-ucam-cantando-adios-copa-16282971",
-        "date": "2026-02-20 22:20:46",
-        "sentiment_score": -0.4943541958928108
-    },
-    {
-        "title": "22:00 | 20 FEB 2026 | TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-20-feb-2026-juego-20260220_3312463.html",
-        "date": "2026-02-20 22:09:49",
-        "sentiment_score": 0.046845417469739914
-    },
-    {
-        "title": "Punter llega a tiempo para meter al Barça en las semifinales de Copa",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/20/6998db1333f2a.r_d.493-263-4885.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/baloncesto/20260220/11471879/kevin-punter-barca-ucam-murcia-cuartos-final-resumen-copa-rey.html",
-        "date": "2026-02-20 22:09:05",
-        "sentiment_score": 0.19238154590129852
-    },
-    {
-        "title": "El efecto Punter revive al Barcelona y se carga a UCAM Murcia en un último parcial desastroso",
-        "image_url": "https://okdiario.com/img/2026/02/20/imagen_recortada-2026-02-20t223953.928.jpg",
-        "tags": [
-            "fútbol club barcelona (baloncesto)",
-            "deportes",
-            "copa del rey baloncesto",
-            "baloncesto"
-        ],
-        "link": "https://okdiario.com/deportes/efecto-punter-revive-barcelona-carga-ucam-murcia-ultimo-parcial-desastroso-16279698",
-        "date": "2026-02-20 22:03:21",
-        "sentiment_score": 0.6098801717162132
-    },
-    {
-        "title": "Barcelona-UCAM Murcia: Punter, milagro y semifinales (91-85)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1542x307:1544x305)/origin-imgresizer.eurosport.com/2026/02/20/image-c90ca2ed-8780-4d36-a0ee-0840a6850027-85-2560-1440.jpeg",
-        "tags": [
-            "copa del rey 2026",
-            "basketball"
-        ],
-        "link": "https://www.eurosport.es/baloncesto/copa-del-rey/2026/barca-finiquita-ucam-murcia-completa-semifinales-copa-del-rey-rival-baskonia-hoy_sto23273710/story.shtml",
-        "date": "2026-02-20 21:59:51",
-        "sentiment_score": 0.4435429349541664
-    },
-    {
-        "title": "El Barcelona, rival del Baskonia en semifinales (91-85)",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ec772518-d935-461a-ba93-9398edec6566_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "rival",
-            "baskonia",
-            "semifinales",
-            "murcia"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/20/barcelona-rival-baskonia-semifinales-murcia-10728665.html",
-        "date": "2026-02-20 21:55:54",
-        "sentiment_score": -0.1763233095407486
-    },
-    {
-        "title": "Entre Paquito y Oriol",
-        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "paquito",
-            "oriol"
-        ],
-        "link": "https://www.eldiadecordoba.es/opinion/analisis/paquito-oriol_0_2005968287.html",
-        "date": "2026-02-21 02:07:32",
-        "sentiment_score": -0.4669767916202545
-    },
-    {
-        "title": "Bombazo mundial: Zinedine Zidane asumirá la selección de Francia tras el Mundial 2026",
-        "image_url": "https://pxcdn.2001online.com/2001/022026/1771642062263/cnne-1002874-el-real-madrid-tendra-que-recomponerse-sin-zidane.jpg?ch=675&cw=1200",
-        "tags": [
-            "selección de francia",
-            "mbappe",
-            "francia",
-            "zinedine zidane",
-            "mundial"
-        ],
-        "link": "https://2001online.com/deportes/bombazo-mundial-zinedine-zidane-asumira-la-seleccion-de-francia-tras-el-mundial-2026-202622022480",
-        "date": "2026-02-21 02:05:06",
-        "sentiment_score": 0.5366988107562065
-    },
-    {
-        "title": "Revelaron los detalles de la declaración de Gianluca Prestianni ante la UEFA: qué le dijo a Vinicius Jr.",
-        "image_url": "https://www.infobae.com/resizer/v2/3GIKFU5PZRB4BE5A575OLOP7P4.jpg?auth=0666528bf2438bef11ddbebe4ba68b6a54fc72cca9eb32d07095a5e45e2fcfa9&height=1294&smart=true&width=2300",
-        "tags": [
-            "champions league",
-            "vinicius júnior",
-            "real madrid",
-            "benfica",
-            "gianluca prestianni",
-            "uefa",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/21/revelaron-los-detalles-de-la-declaracion-de-gianluca-prestianni-ante-la-uefa-que-le-dijo-a-vinicius-jr/",
-        "date": "2026-02-21 02:02:34",
-        "sentiment_score": -0.17062293738126755
-    },
-    {
-        "title": "Interior investiga si la 'mano derecha' del DAO implicó a más agentes al tratar de comprar el silencio de la víctima",
-        "image_url": "https://s3.elespanol.com/2026/02/18/espana/politica/1003744136459_261506844_1706x960.jpg",
-        "tags": [
-            "escándalos sexuales",
-            "policía nacional",
-            "fernando grande-marlaska",
-            "agresiones sexuales",
-            "delitos sexuales",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/espana/20260221/interior-investiga-mano-derecha-dao-implico-agentes-tratar-comprar-silencio-victima/1003744139965_0.html",
-        "date": "2026-02-21 01:47:56",
-        "sentiment_score": -0.7866612207144499
-    },
-    {
-        "title": "Félix Ulloa, vicepresidente de Bukele: \"Puede haber inocentes entre los 91.000 presos, como en cualquier parte del mundo\"",
-        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139536_261546043_1706x960.jpg",
-        "tags": [
-            "américa",
-            "cárceles",
-            "el salvador",
-            "tribunales",
-            "hablando sobre el mundo",
-            "nayib bukele"
-        ],
-        "link": "https://www.elespanol.com/mundo/america/20260221/felix-ulloa-vicepresidente-bukele-puede-inocentes-presos-cualquier-parte-mundo/1003744138821_0.html",
-        "date": "2026-02-21 01:10:38",
-        "sentiment_score": -0.9043028652667999
-    },
-    {
-        "title": "La hazaña de José Corral, el director 'elegido' por Disney y nominado a los Goya con su \"casera\" película de animación",
-        "image_url": "https://s3.elespanol.com/2026/02/20/madrid/1003744138632_261533745_1706x960.jpg",
-        "tags": [
-            "películas",
-            "directores de cine",
-            "premios goya",
-            "cine de animación",
-            "ocio"
-        ],
-        "link": "https://www.elespanol.com/madrid/ocio/20260221/hazana-jose-corral-director-elegido-disney-nominado-goya-casera-pelicula-animacion/1003744135515_0.html",
-        "date": "2026-02-21 01:09:16",
-        "sentiment_score": 0.5308565758168697
-    },
-    {
-        "title": "La \"isla\" de Rueda, el único barón del PP sin el riesgo de Vox: llega fortalecido a la mitad de mandato con la vivienda y la Sanidad para el examen final",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/1664d66a64e0a740532b323a8612f8a3/crop/1062x130/2148x1217/f/image/jpeg/assets/multimedia/imagenes/2025/10/02/17594246983601.jpg",
-        "tags": [
-            "elecciones extremadura",
-            "elecciones aragón",
-            "santiago abascal conde",
-            "vox",
-            "alfonso rueda",
-            "artículos juan b. cañellas",
-            "isabel díaz ayuso",
-            "galicia",
-            "política"
-        ],
-        "link": "https://www.elmundo.es/galicia/2026/02/21/6994985121efa072478b4585.html",
-        "date": "2026-02-21 00:54:15",
-        "sentiment_score": -0.04037517309188843
-    },
-    {
-        "title": "Rufián y la izquierda: por qué el sanchismo intenta mantener vivo lo que nació muerto",
-        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139657_261547627_1024x576.jpg",
-        "tags": [
-            "pedro sánchez",
-            "gabriel rufián",
-            "psoe (partido socialista obrero español)",
-            "erc esquerra republicana de cataluña",
-            "opinión",
-            "editoriales de opinión",
-            "editoriales"
-        ],
-        "link": "https://www.elespanol.com/opinion/editoriales/20260221/rufian-izquierda-sanchismo-intenta-mantener-vivo-nacio-muerto/1003744139648_14.html",
-        "date": "2026-02-21 00:35:41",
-        "sentiment_score": -0.0524994432926178
-    },
-    {
-        "title": "El Ejército del Aire se blinda frente a los satélites espía: integrará una red de antenas para detectarlos y seguirlos",
-        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139637_261547404_1706x960.jpg",
-        "tags": [
-            "satélites espaciales",
-            "ministerio de defensa",
-            "ejército del aire",
-            "defensa - espacio",
-            "observatorio de la defensa",
-            "espionaje"
-        ],
-        "link": "https://www.elespanol.com/observatorio-defensa/20260221/ejercito-aire-blinda-frente-satelites-espia-integrara-red-antenas-detectarlos-seguirlos/1003744138807_0.html",
-        "date": "2026-02-21 00:17:16",
-        "sentiment_score": 0.12142057716846466
-    },
-    {
-        "title": "Definidas las semifinales de la Copa del Rey: los protagonistas que buscarán la final",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "copa del rey",
-            "real madrid",
-            "baloncesto",
-            "valencia",
-            "barcelona",
-            "baskonia"
-        ],
-        "link": "https://2001online.com/deportes/definidas-las-semifinales-de-la-copa-del-rey-los-protagonistas-que-buscaran-la-final-202622020450",
-        "date": "2026-02-21 00:05:05",
-        "sentiment_score": 0.822316687554121
-    },
-    {
-        "title": "Barcelona: el pronóstico del tiempo para este 21 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima en barcelona",
-            "clima",
-            "últimas actualizaciones",
-            "clima en españa"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/21/barcelona-el-pronostico-del-tiempo-para-este-21-de-febrero/",
-        "date": "2026-02-21 02:00:54",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "Sonia García, de criarse en un bar cerca de Santiago al pódium de las mejores camareras de España: \"Soy de las más jóvenes\"",
-        "image_url": "https://s3.elespanol.com/2026/02/19/actualidad/1003744137458_261519103_1706x960.jpg",
-        "tags": [
-            "santiago de compostela",
-            "comarca de santiago",
-            "teo",
-            "galicia",
-            "coctelería",
-            "gastrosantiago"
-        ],
-        "link": "https://www.elespanol.com/quincemil/vivir/gastrosantiago/20260221/sonia-garcia-criarse-bar-cerca-santiago-podium-mejores-camareras-espana-jovenes/1003744136682_0.html",
-        "date": "2026-02-21 01:02:58",
-        "sentiment_score": 0.3546935245394707
-    },
-    {
-        "title": "Portazo de ERC a las ambiciones de Rufián: \"Las listas las ordena el partido; se hace lo que quiere Junqueras\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
-        "tags": [
-            "artículos víctor mondelo"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2026/02/21/6998a941e4d4d8636b8b4577.html",
-        "date": "2026-02-21 00:53:16",
-        "sentiment_score": -0.7859130557626486
-    },
-    {
-        "title": "El intervencionismo de la Generalitat en vivienda provoca un choque entre Illa y los empresarios catalanes: \"asume la agenda de Colau\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/9602e51eaab3dbc20e19e9b11bb673ac/f/image/jpeg/assets/multimedia/imagenes/2023/05/27/16851936859154.jpg",
-        "tags": [
-            "generalitat de cataluña",
-            "ley de vivienda",
-            "artículos iñaki ellakuría"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/02/21/6998bb79fdddff07408b458c.html",
-        "date": "2026-02-21 00:51:13",
-        "sentiment_score": -0.8529988992959261
-    },
-    {
-        "title": "Más de 100 vuelos internacionales a la semana en el país: las estimaciones de una especialista en viajes y turismo",
-        "image_url": "https://caraotadigital.net/wp-content/uploads/2024/08/vuelos-Maiquetia-CD.jpg",
-        "tags": [
-            "agencia de viajes",
-            "maiquetía",
-            "vuelos internacionales",
-            "venezuela",
-            "vuelos"
-        ],
-        "link": "https://caraotadigital.net/venezuela/mas-de-100-vuelos-internacionales-a-la-semana-en-el-pais-las-estimaciones-de-una-especialista-en-viajes-y-turismo/",
-        "date": "2026-02-21 00:49:17",
-        "sentiment_score": 0.3620852679014206
-    },
-    {
-        "title": "España pedirá a la UE retirar sanciones a la presidenta encargada Delcy Rodríguez",
-        "image_url": "http://www.correodelorinoco.gob.ve/wp-content/uploads/2026/02/01.jpg",
-        "tags": [
-            "lifestyle",
-            "top",
-            "sports"
-        ],
-        "link": "http://www.correodelorinoco.gob.ve/espana-pedira-a-la-ue-retirar-sanciones-a-la-presidenta-encargada-delcy-rodriguez/",
-        "date": "2026-02-21 00:48:55",
-        "sentiment_score": -0.2891117334365845
-    },
-    {
-        "title": "Los precandidatos a las elecciones del Barça tiran la casa por la ventana en papeletas: Laporta se gasta 14.000 euros",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/21/culemania/palco/1003742734927_15744572_1706x960.jpg",
-        "tags": [
-            "xavier vilajoana",
-            "palco",
-            "elecciones barça",
-            "víctor font",
-            "joan laporta"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260221/precandidatos-elecciones-barca-tiran-ventana-papeletas-laporta/1003742734782_0.html",
-        "date": "2026-02-21 00:40:50",
-        "sentiment_score": 0.17785534635186195
-    },
-    {
-        "title": "La venta de viviendas, en máximos de veinte años y el sector prevé una caída porque la gente no podrá comprar",
-        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139893_261551130_1706x960.jpg",
-        "tags": [
-            "vivienda",
-            "hipotecas",
-            "inmobiliarias",
-            "observatorio de la vivienda"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20260221/venta-viviendas-maximos-veinte-anos-sector-preve-caida-gente-no-podra-comprar/1003744138816_0.html",
-        "date": "2026-02-21 00:15:18",
-        "sentiment_score": -0.24799592792987823
-    },
-    {
         "title": "Abolir las fronteras: justicia racial frente al neoliberalismo",
         "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/2086e97b/artePanorama01.jpg?v=63935695410",
         "tags": [
@@ -458,26 +99,6 @@ export default [
         "link": "https://www.eldebate.com/espana/20260221/estos-son-28-miembros-consejo-estado-preparan-blindar-constitucionalmente-derecho-aborto_387822.html",
         "date": "2026-02-21 05:57:54",
         "sentiment_score": -0.3459455072879791
-    },
-    {
-        "title": "Sergio Ramos estalla contra el presidente de Monterrey",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/09/2025120905521227594.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/sergio-ramos-estalla-presidente-monterrey/20260221065408375634.html",
-        "date": "2026-02-21 05:54:08",
-        "sentiment_score": -0.9110013460740447
-    },
-    {
-        "title": "Izquierda o barbarie: el intento de Rufián y Delgado por imponer orden en el caos progresista",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/19/2026021902215695711.jpg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.mundiario.com/articulo/opiniones/izquierda-barbarie-intento-rufian-delgado-imponer-orden-caos-progresista/20260221064934375629.html",
-        "date": "2026-02-21 05:49:34",
-        "sentiment_score": -0.17092759907245636
     },
     {
         "title": "Feijóo aumenta su presencia en Cataluña para captar el voto descontento: \"Ningún otro partido allí se opone a Sánchez\"",
@@ -3075,5 +2696,198 @@ export default [
         "link": "https://www.infobae.com/espana/agencias/2026/02/24/el-supremo-ve-delito-en-negarse-a-estar-en-una-mesa-electoral-en-pandemia-con-la-excusa-de-poder-contagiarse/",
         "date": "2026-02-24 06:45:32",
         "sentiment_score": -0.8602401241660118
+    },
+    {
+        "title": "Ecologistas cuestionan que PP rechace políticas climáticas \"que destruyen el empleo\": \"No deben vivir en el mundo real\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260224185358_690.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.europapress.es/sociedad/noticia-ecologistas-cuestionan-pp-rechace-politicas-climaticas-destruyen-empleo-no-deben-vivir-mundo-real-20260224185358.html",
+        "date": "2026-02-24 17:53:58",
+        "sentiment_score": -0.39357440173625946
+    },
+    {
+        "title": "Alberto Pérez, experto en tecnología, avisa: \"Los drones están aquí y lo que podemos hacer con ellos no tiene límite\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/24/699ddd6a95103.jpeg",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/noticias/alberto-perez-experto-tecnologia-avisa-drones-no-limite-20260224_3314409.html",
+        "date": "2026-02-24 17:50:37",
+        "sentiment_score": -0.06987741589546204
+    },
+    {
+        "title": "UPL y Soria Ya se rebelan contra la exclusión de los debates electorales de Castilla y León",
+        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/files/fp/uploads/2026/02/24/699de13150526.r_d.529-330-13293.jpeg",
+        "tags": [
+            "castilla y león"
+        ],
+        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/260224/105032/upl-y-soria-ya-se-rebelan-contra-la-exclusion-de-los-debates-electorales-de-castilla-y-leon.html",
+        "date": "2026-02-24 17:47:58",
+        "sentiment_score": -0.7757108639925718
+    },
+    {
+        "title": "La polémica del cantón de Montecarmelo se debatirá en el Parlamento europeo",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/07/698762047515f.r_d.463-614-8025.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.eldebate.com/espana/madrid/20260224/polemica-canton-montecarmelo-debatira-parlamento-europeo_389060.html",
+        "date": "2026-02-24 17:46:55",
+        "sentiment_score": -0.6721095889806747
+    },
+    {
+        "title": "Recado al Madrid del segundo de Mourinho antes de la vuelta: \"Hay jugadores que no deberían estar\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/24/image-231e98b8-0be0-4753-8fa7-c764284a54ac-85-2560-1440.jpeg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/video-recado-real-madrid-segundo-mourinho-tralhao-antes-vuelta-hay-jugadores-no-deberian-estar-rueda-prensa-mejores-momentos-hoy_vid60060061/video.shtml",
+        "date": "2026-02-24 17:43:38",
+        "sentiment_score": -0.8116292152553797
+    },
+    {
+        "title": "La sonrisa de Mourinho en su vuelta al Bernabéu con Prestianni entrenando pese a la suspensión",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/24/image-f9c4a1ec-1acd-48cb-a134-512c98929954-85-2560-1440.jpeg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/entrenamiento-benfica-bernabeu-vuelta-mourinho-presencia-prestianni-previa-vuelta-real-madrid_vid60060063/video.shtml",
+        "date": "2026-02-24 17:43:17",
+        "sentiment_score": -0.3310966491699219
+    },
+    {
+        "title": "Alfonso Sanchidrián, barbero, sobre la IA: \"A nosotros la inteligencia artificial no nos va a comer, somos de los pocos\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/20/696f65a740845.jpeg",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/noticias/alfonso-sanchidrian-barbero-sobre-ia-inteligencia-artificial-no-comer-pocos-20260224_3314429.html",
+        "date": "2026-02-24 17:42:25",
+        "sentiment_score": -0.10604503750801086
+    },
+    {
+        "title": "El Bernabéu vive su primera noche decisiva en Champions",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260224183912_690.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-bernabeu-vive-primera-noche-decisiva-champions-20260224183912.html",
+        "date": "2026-02-24 17:39:12",
+        "sentiment_score": -0.8765184655785561
+    },
+    {
+        "title": "Condenada a dos años de cárcel por estafar tres millones de euros en la venta de una casa a Robert Lewandowski",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/02/culemania/primer-equipo/1003742712898_15473347_1706x960.jpg",
+        "tags": [
+            "robert lewandowski",
+            "palco",
+            "barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260224/condenada-carcel-estafar-millones-euros-robert-lewandowski/1003742735807_0.html",
+        "date": "2026-02-24 17:52:07",
+        "sentiment_score": -0.4634034149348736
+    },
+    {
+        "title": "El BIHUB une fuerzas con Thibaut Courtois: inversión millonaria en una fintech española para impulsar la renovación estratégica del Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/27/culemania/primer-equipo/1003742701797_15755629_1706x960.jpg",
+        "tags": [
+            "barça",
+            "palco",
+            "fc barcelona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260224/bihub-thibaut-courtois-millonaria-renovacion-estrategica-barca/1003742735793_0.html",
+        "date": "2026-02-24 17:52:05",
+        "sentiment_score": 0.6908608209341764
+    },
+    {
+        "title": "Las cuencas internas de Catalunya disminuyen sus reservas y se encuentran al 93,1%",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260224184804_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-cuencas-internas-catalunya-disminuyen-reservas-encuentran-931-20260224184804.html",
+        "date": "2026-02-24 17:48:04",
+        "sentiment_score": 0.02367570996284485
+    },
+    {
+        "title": "Misión Nevado inicia campaña masiva de vacunación en Anzoátegui",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/02/Nevado-1.jpg",
+        "tags": [
+            "anzoátegui",
+            "actualidad",
+            "mundo animal"
+        ],
+        "link": "https://ultimasnoticias.com.ve/anzoateggui/mision-nevado-inicia-campana-masiva-de-vacunacion-en-anzoategui/",
+        "date": "2026-02-24 17:45:55",
+        "sentiment_score": -0.065854012966156
+    },
+    {
+        "title": "Retirado del mercado un lote del cosmético 'Dolebalm', contaminado por una bacteria",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5a5a4892-f2c9-4b5e-b8a4-e09726132f3b_alta-libre-aspect-ratio_default_0_x278y104.jpg",
+        "tags": [
+            "+salud"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260224/retirado-mercado-lote-cosmetico-contaminado-bacteria-salud-127228725",
+        "date": "2026-02-24 17:42:05",
+        "sentiment_score": -0.7893665572628379
+    },
+    {
+        "title": "En plena crisis de Renfe en Cataluña los empresarios cierran un acuerdo con Iryo para viajar de Barcelona a Madrid",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WNQ66FZIGZO65POR3ALZOZNASU.jpg?auth=73b7d377bbcf9961b55a2aec69266f722387de1fbf6204406b0383d5f35d348e&width=1200",
+        "tags": [
+            "pimec",
+            "iryo",
+            "renfe",
+            "cataluña",
+            "ouigo",
+            "trenes",
+            "ave",
+            "adif",
+            "rodalies catalunya",
+            "barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2026-02-24/en-plena-crisis-de-renfe-en-cataluna-los-empresarios-cierran-un-acuerdo-con-iryo-para-viajar-de-barcelona-a-madrid.html",
+        "date": "2026-02-24 17:33:58",
+        "sentiment_score": 0.2628061845898628
+    },
+    {
+        "title": "El Tibidabo inicia su 125 aniversario con mirador renovado y nueva película sobre sus mascotas",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/24/699ddf79e072f.r_d.7730-4951-292.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20260224/11474580/tibidabo-inicia-125-aniversario-mirador-renovado-nueva-pelicula-sobre-mascotas.html",
+        "date": "2026-02-24 17:33:11",
+        "sentiment_score": 0.17039048671722412
+    },
+    {
+        "title": "El pueblo con menos habitantes de España accede a fibra óptica",
+        "image_url": "https://forbes.es/wp-content/uploads/2026/02/fotonoticia_20260224180805_1920-1200x675.jpg",
+        "tags": [
+            "economía",
+            "última hora"
+        ],
+        "link": "https://forbes.es/economia/879420/el-pueblo-con-menos-habitantes-de-espana-accede-a-fibra-optica/",
+        "date": "2026-02-24 17:30:24",
+        "sentiment_score": 0.21301201730966568
+    },
+    {
+        "title": "La Fiscalía pide inhabilitar a la exalcaldesa de Barberà por la gestión irregular de la radio local",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/65b093dd-eece-4262-8807-224ab870d617_alta-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "inhabilitar",
+            "fiscalia",
+            "barbera",
+            "pide",
+            "exalcaldesa"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260224/fiscalia-pide-inhabilitar-exalcaldesa-barbera-127227984",
+        "date": "2026-02-24 17:26:31",
+        "sentiment_score": -0.8020874774083495
     }
 ];
