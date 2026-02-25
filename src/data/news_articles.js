@@ -1,230 +1,5 @@
 export default [
     {
-        "title": "La alianza del narco boliviano y el nazi refugiado que cambió el negocio de la cocaína",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/03/20/los-niveles-de-cocaina-estan-aumeentando-en-las-aguas-residuales-de-muchas-ciudades-europeas.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.20minutos.es/internacional/alianza-narco-boliviano-nazi-refugiado-negocio-cocaina_6934265_0.html",
-        "date": "2026-02-21 17:38:30",
-        "sentiment_score": -0.8909451998770237
-    },
-    {
-        "title": "El Oviedo chafa a la Real Sociedad su remontada y el Rayo y el Betis se perdonan mutuamente",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260221183552_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-oviedo-chafa-real-sociedad-remontada-rayo-betis-perdonan-mutuamente-20260221183552.html",
-        "date": "2026-02-21 17:35:52",
-        "sentiment_score": 0.2833285480737686
-    },
-    {
-        "title": "Leire Martínez: \"A estas alturas no pensaba que yo podía volver a ser una novedad\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/20/leire-martinez-a-estas-alturas-no-pensaba-que-yo-podia-volver-a-ser-una-novedad/",
-        "date": "2026-02-21 17:30:41",
-        "sentiment_score": -0.47330375015735626
-    },
-    {
-        "title": "El Albacete BP, igual de local que de visitante",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7cf7e086-9bde-4a0d-b3bd-567275c16742_16-9-aspect-ratio_default_0_x450y200.jpg",
-        "tags": [
-            "málaga cf",
-            "clasificación",
-            "albacete",
-            "la rosaleda",
-            "laliga hypermotion"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malagacf/2026/02/21/albacete-bp-igual-local-visitante-malaga-cf-127113453.html",
-        "date": "2026-02-21 17:28:16",
-        "sentiment_score": -0.9084878070279956
-    },
-    {
-        "title": "El día en el que el Levante evitó un hito histórico del Barça",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/21/levante-barcelona-boateng-2018-ktGG-U208261782665pC-1200x840@RC.jpg",
-        "tags": [
-            "philippe coutinho",
-            "ernesto valverde",
-            "levante",
-            "f.c. barcelona"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/levante-evito-hito-historico-barcelona-20260221182720-ntrc.html",
-        "date": "2026-02-21 17:27:52",
-        "sentiment_score": 0.8260931633412838
-    },
-    {
-        "title": "La Audiencia de Madrid expulsa a una mujer de su piso de alquiler por cobrar 500 euros a otras personas por las habitaciones",
-        "image_url": "https://www.infobae.com/resizer/v2/T37ZC443GZHJLKJ3XENV4JHJVI.jpg?auth=27fa259cff779415c78486eeb987aa85378c385bc7c6fc9564b9f7be771ab751&height=2222&smart=true&width=3333",
-        "tags": [
-            "españa-noticias",
-            "españa-nacional",
-            "tribunales",
-            "vivienda españa",
-            "alquiler"
-        ],
-        "link": "https://www.infobae.com/espana/2026/02/21/la-audiencia-de-madrid-expulsa-a-una-mujer-de-su-piso-de-alquiler-por-cobrar-500-euros-a-otras-personas-por-las-habitaciones/",
-        "date": "2026-02-21 17:26:27",
-        "sentiment_score": -0.08693208545446396
-    },
-    {
-        "title": "Varias plataformas extremeñas anuncian movilizaciones contra el \"colapso sanitario\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/51869c1d-dec7-43fe-99cd-534484765186_16-9-aspect-ratio_default_0_x1200y533.jpg",
-        "tags": [
-            "sanidad pública",
-            "extremadura",
-            "conciertos",
-            "salud",
-            "sanidad",
-            "público",
-            "comunidades autónomas"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/02/21/plataformas-extremenas-protestas-listas-espera-sanidad-127113346.html",
-        "date": "2026-02-21 17:18:48",
-        "sentiment_score": 0.13754014670848846
-    },
-    {
-        "title": "Directo | Osasuna - Real Madrid",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/21/Clipboard-0156-knCD-U207798914279oB-758x531@RC.jpg",
-        "tags": [
-            "entertainment",
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/deportes/futbol/liga-primera/directo-osasuna-realmadrid-20260221141411-dirc.html",
-        "date": "2026-02-21 17:10:24",
-        "sentiment_score": -0.015947483479976654
-    },
-    {
-        "title": "Último escalón del Palma Futsal antes de la Final Four",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4385727.jpg",
-        "tags": [
-            "fútbol sala",
-            "palma futsal",
-            "antonio vadillo",
-            "liga de campeones"
-        ],
-        "link": "https://www.ultimahora.es/deportes/palma-futsal/2026/02/21/2575045/ultimo-escalon-del-palma-futsal-antes-final-four.html",
-        "date": "2026-02-21 17:39:00",
-        "sentiment_score": 0.3694387823343277
-    },
-    {
-        "title": "Detenidos dos falsos revisores del gas por cometer 31 robos en Cataluña",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/01/31/89F5CE01-9FE3-4195-8441-47CCCB2677BE/imagen-coche-mossos-desquadra_98.jpg?crop=1920%2C1080%2Cx0%2Cy101&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "sociedad",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/sociedad/detenidos-dos-falsos-revisores-gas-cometer-31-robos-cataluna_202602216999e8641817b41eb65b8772.html",
-        "date": "2026-02-21 17:33:41",
-        "sentiment_score": -0.6900623235851526
-    },
-    {
-        "title": "Albares dice sentirse \"dolido\" por la participación de Europa en la Junta de Paz de Trump",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/20/albares-dice-sentirse-dolido-por-la-participacion-de-europa-en-la-junta-de-paz-de-trump/",
-        "date": "2026-02-21 17:31:22",
-        "sentiment_score": -0.8935343129560351
-    },
-    {
-        "title": "Barcelona derribará más de 30 naves en 2027 para levantar el nuevo macrobarrio de la Sagrera con más de 3.300 viviendas",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/09/19/movilidad/1003742690291_15173983_1706x960.jpg",
-        "tags": [
-            "urbanismo",
-            "vivienda",
-            "obras",
-            "ayuntamiento de barcelona",
-            "sant andreu"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sant-andreu/20260221/barcelona-derribara-naves-levantar-nuevo-macrobarrio-sagrera-viviendas/1003742735020_0.html",
-        "date": "2026-02-21 17:23:02",
-        "sentiment_score": 0.5822021327912807
-    },
-    {
-        "title": "Prisión provisional para dos falsos revisores de gas por estafar 200.000 euros a ancianos en Catalunya",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0078fd4d-43ae-4bf9-a0ff-743c706d8655_16-9-discover-aspect-ratio_default_0_x960y360.jpg",
-        "tags": [
-            "estafas",
-            "barcelona",
-            "viladecans",
-            "granollers"
-        ],
-        "link": "https://www.elperiodico.com/es/sucesos/20260221/prision-provisional-falsos-revisores-gas-estafas-200000-euros-cataluna-barcelona-127115103",
-        "date": "2026-02-21 17:21:32",
-        "sentiment_score": -0.8426437480375171
-    },
-    {
-        "title": "La batalla por un IVA reducido volverá a marcar una feria Arco que mira al futuro",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/21/6999e4cc7cbaa.r_d.711-417-4885.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.lavanguardia.com/cultura/20260221/11472268/batalla-iva-reducido-volvera-marcar-feria-arco-mira-futuro.html",
-        "date": "2026-02-21 17:17:40",
-        "sentiment_score": 0.2927588764578104
-    },
-    {
-        "title": "El Cabildo de Gran reafirma su apoyo a la Fundación Pequeño Valiente y su compromiso con la población infantil y sus familias",
-        "image_url": "https://static.eldiario.es/clip/93a2a4a6-c376-43ef-bfbb-f0a3b5452d05_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "compromiso",
-            "fundacion",
-            "reafirma",
-            "poblacion",
-            "apoyo",
-            "infantil",
-            "gran",
-            "familias",
-            "pequeno",
-            "cabildo",
-            "valiente"
-        ],
-        "link": "https://www.eldiario.es/canariasahora/sociedad/cabildo-gran-reafirma-apoyo-fundacion-pequeno-valiente-compromiso-poblacion-infantil-familias_1_13010285.html",
-        "date": "2026-02-21 17:03:50",
-        "sentiment_score": 0.029865682125091553
-    },
-    {
-        "title": "Planes mozartianos con Orquesta Barucco o Pinchas Zukerman en varios escenarios por España",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/20/planes-mozartianos-con-orquesta-barucco-o-pinchas-zukerman-en-varios-escenarios-por-espana/",
-        "date": "2026-02-21 17:02:27",
-        "sentiment_score": 0.0018795132637023926
-    },
-    {
-        "title": "Es oficial: Disney On Ice confirma el regreso de su espectáculo a Barcelona",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/20/mas-economia/1003742734661_15741069_1706x960.jpg",
-        "tags": [
-            "cataluña",
-            "walt disney",
-            "barcelona",
-            "+economía",
-            "palau sant jordi"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/mas-economia/20260221/oficial-disney-on-ice-confirma-espectaculo-barcelona-trt/1003742734658_0.html",
-        "date": "2026-02-21 17:00:00",
-        "sentiment_score": 0.49735408648848534
-    },
-    {
-        "title": "González Fuertes vuelve a liarse con otra revisión eterna: cuatro minutos mirando un penalti en el VAR para nada",
-        "image_url": "https://okdiario.com/img/2026/02/21/gonzalez-fuertes-rayo-betis.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/gonzalez-fuertes-vuelve-liarse-otra-revision-eterna-cuatro-minutos-mirando-penalti-var-nada-16284885",
-        "date": "2026-02-21 16:57:20",
-        "sentiment_score": -0.6334958225488663
-    },
-    {
         "title": "Galería de imágenes de la semifinal de Copa entre Valencia Basket y Real Madrid",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e3210a27-1a4c-4997-b501-113997d07870_16-9-aspect-ratio_default_0_x769y341.jpg",
         "tags": [
@@ -3130,5 +2905,203 @@ export default [
         "link": "https://www.infobae.com/espana/2026/02/25/luis-tosar-recuerda-su-premio-mister-estudiante-en-la-revuelta-un-quinto-de-cerveza-diez-planchas-y-un-baile-sexy/",
         "date": "2026-02-25 00:41:51",
         "sentiment_score": 0.13923850283026695
+    },
+    {
+        "title": "Cuándo empiezan las vacaciones de Semana Santa 2026 en los colegios de Madrid",
+        "image_url": "https://okdiario.com/img/2026/02/24/cuando-empiezan-las-vacaciones-de-semana-santa-2026-en-los-colegios-de-madrid.jpg",
+        "tags": [
+            "madrid",
+            "españa",
+            "escuelas",
+            "okd",
+            "colegios"
+        ],
+        "link": "https://okdiario.com/madrid/cuando-empiezan-vacaciones-semana-santa-2026-colegios-madrid-16298111",
+        "date": "2026-02-25 07:15:28",
+        "sentiment_score": 0.24074777960777283
+    },
+    {
+        "title": "Honor y gloria de Morán",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2b23805a-5c12-4e77-a01a-7c580b286bf6_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "cultura",
+            "franquismo",
+            "suárez",
+            "gobierno"
+        ],
+        "link": "https://www.laprovincia.es/opinion/2026/02/25/honor-gloria-moran-127234088.html",
+        "date": "2026-02-25 07:00:53",
+        "sentiment_score": -0.2665856331586838
+    },
+    {
+        "title": "Real Madrid - Benfica: Hora, alineaciones y dónde ver la vuelta de dieciseisavos de la Champions League en directo",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/02/23/6DFD8350-7FFA-46E0-A7F6-D868E4D49090/vinicius-benfica-real-madrid-champions_98.jpg?crop=3449%2C1941%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "deportes",
+            "antena 3 noticias",
+            "fútbol"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/real-madrid-benfica-hora-alineaciones-donde-ver-vuelta-dieciseisavos-champions-league-directo_20260225699c53ed1817b41eb65e7162.html",
+        "date": "2026-02-25 07:00:18",
+        "sentiment_score": -0.6107443943619728
+    },
+    {
+        "title": "La preciosa villa medieval que cuenta con el verraco más grande de Europa",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/22/E90D8B99-A11C-40CE-A839-C463AE7F5520/verraco-villanueva-campillo-mas-grande-europa_69.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "castilla y león",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/castilla-y-leon/preciosa-villa-medieval-que-cuenta-verraco-mas-grande-europa_20260225699e9e002f00a0468826c9ef.html",
+        "date": "2026-02-25 07:00:16",
+        "sentiment_score": 0.02815067023038864
+    },
+    {
+        "title": "Ayudas al Abono Transporte en la Comunidad de Madrid: requisitos y cómo solicitarla",
+        "image_url": "https://okdiario.com/img/2026/02/24/ayudas-al-abono-transporte-en-la-comunidad-de-madrid-requisitos-y-como-solicitarla.jpg",
+        "tags": [
+            "cercanías",
+            "españa",
+            "autobuses",
+            "madrid",
+            "transporte",
+            "okd",
+            "metro madrid"
+        ],
+        "link": "https://okdiario.com/madrid/ayudas-abono-transporte-comunidad-madrid-requisitos-como-solicitarla-16299286",
+        "date": "2026-02-25 07:00:05",
+        "sentiment_score": -0.06528344750404358
+    },
+    {
+        "title": "Dónde ver el Real Madrid - Benfica: la vuelta de los play-offs de la Champions League",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/02/23/699c3388984ba.jpeg",
+        "tags": [
+            "cultura y ocio"
+        ],
+        "link": "https://www.lavanguardia.com/comprar/cultura-ocio/20260225/11473156/donde-ver-real-madrid-benfica-dia-hora-partido-vuelta-play-offs-champions-league-mkt-movi.html",
+        "date": "2026-02-25 06:55:00",
+        "sentiment_score": 0.2094329595565796
+    },
+    {
+        "title": "Cobraba 850 euros de pensión pero ahora gana más de 3.500 al mes: la jubilación activa le cambió la vida",
+        "image_url": "https://okdiario.com/img/2026/02/24/imagen_recortada-3.jpg",
+        "tags": [
+            "economía",
+            "seguridad social",
+            "okd"
+        ],
+        "link": "https://okdiario.com/economia/cobraba-850-euros-pension-pero-ahora-gana-mas-3-500-mes-jubilacion-activa-cambio-vida-16297846",
+        "date": "2026-02-25 06:45:08",
+        "sentiment_score": 0.23440515995025635
+    },
+    {
+        "title": "Quién era quién el 23F: guía para no perderse en los papeles secretos del golpe de Estado",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2e470dde-4b0d-49c9-8ac2-5a0f558751b6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "23f",
+            "secretos",
+            "guia",
+            "perderse",
+            "papeles"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/politica/2026/02/25/23f-guia-perderse-papeles-secretos-10744885.html",
+        "date": "2026-02-25 06:43:16",
+        "sentiment_score": -0.2349235638976097
+    },
+    {
+        "title": "Los nombres clave del 23F: guía para no perderse en los papeles secretos del golpe de Estado",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2e470dde-4b0d-49c9-8ac2-5a0f558751b6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "guia",
+            "secretos",
+            "perderse",
+            "23f",
+            "papeles"
+        ],
+        "link": "https://www.noticiasdealava.eus/politica/2026/02/25/23f-guia-perderse-papeles-secretos-10744882.html",
+        "date": "2026-02-25 06:43:15",
+        "sentiment_score": -0.2349235638976097
+    },
+    {
+        "title": "Un directivo de Sidenor conocía que el acero vendido a Israel era para fabricar «obuses»",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/02/24/Sidenor-Rl0BSlmoQVjTW0NVh4ZdRwM-1200x840@RC.jpg",
+        "tags": [
+            "israel",
+            "policía nacional",
+            "gaza",
+            "audiencia nacional",
+            "basauri",
+            "españa"
+        ],
+        "link": "https://www.ideal.es/economia/directivo-sidenor-conocia-acero-vendido-israel-era-20260225080103-ntrc.html",
+        "date": "2026-02-25 07:15:42",
+        "sentiment_score": -0.0670996867120266
+    },
+    {
+        "title": "\"280.000 catalanes se tendrán que organizar la próxima semana; el lunes la huelga de trenes es completa y martes y miércoles será por turnos, incluyendo hora punta\"",
+        "image_url": "https://imagenes.cope.es/files/webp_80_80/uploads/2026/01/12/6964be13a6a2f.png",
+        "tags": [
+            "economía de bolsillo con pilar garcía de la granja"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/economia-de-bolsillo/audios/280-000-catalanes-tendran-organizar-proxima-semana-lunes-huelga-trenes-completa-martes-miercoles-sera-turnos-incluyendo-hora-punta-20260225_3314570.html",
+        "date": "2026-02-25 07:05:23",
+        "sentiment_score": -0.12287865579128265
+    },
+    {
+        "title": "Documentos hallados en la sede de Sidenor muestran envíos a empresas armamentísticas israelíes para 'obuses'",
+        "image_url": "https://static.eldiario.es/clip/40913902-5270-48c1-a879-ab0ca86d7e97_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sede",
+            "muestran",
+            "armamentisticas",
+            "hallados",
+            "israelies",
+            "obuses",
+            "sidenor",
+            "empresas",
+            "documentos",
+            "envios"
+        ],
+        "link": "https://www.eldiario.es/internacional/documentos-hallados-sede-sidenor-muestran-envios-empresas-armamentisticas-israelies-obuses_1_13017707.html",
+        "date": "2026-02-25 07:04:54",
+        "sentiment_score": -0.1701035350561142
+    },
+    {
+        "title": "España hoy, 25 de febrero de 2026: lo que tienes que saber",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/ZAPATERO_PLSULTRA_SVRIZ.jpg",
+        "tags": [
+            "estados unidos",
+            "bruselas",
+            "china",
+            "europa",
+            "gaza",
+            "venezuela",
+            "españa",
+            "israel",
+            "aranceles"
+        ],
+        "link": "https://theobjective.com/espana/2026-02-25/espana-hoy-25-de-febrero-de-2026-lo-que-tienes-que-saber/",
+        "date": "2026-02-25 07:02:56",
+        "sentiment_score": -0.6117526292800903
+    },
+    {
+        "title": "Aena eleva su beneficio hasta 2.136,7 millones tras un 2025 de crecimiento sólido en tráfico e ingresos",
+        "image_url": "https://static.grupojoly.com/clip/2160fd54-86b5-437d-9045-c0700f895381_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "resultados empresariales"
+        ],
+        "link": "https://www.elconciso.es/empresas/aena-eleva-beneficio-2025_0_2006003552.html",
+        "date": "2026-02-25 07:02:20",
+        "sentiment_score": 0.45322736352682114
+    },
+    {
+        "title": "Premios Goya 2026: horario y dónde ver la gala que se celebra en Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1c15522d-2e2d-49e1-8576-8c6f73d014a2_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "cine,cine español,premios goya,rigoberta bandini,luis tosar"
+        ],
+        "link": "https://www.superdeporte.es/ocio/cine/2026/02/25/premios-goya-2026-horario-donde-ver-gala-barcelona-127239988.html",
+        "date": "2026-02-25 07:01:14",
+        "sentiment_score": 0.7707475740462542
     }
 ];
