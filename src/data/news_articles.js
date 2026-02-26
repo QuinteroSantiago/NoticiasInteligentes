@@ -1,404 +1,5 @@
 export default [
     {
-        "title": "Galería de imágenes de la semifinal de Copa entre Valencia Basket y Real Madrid",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e3210a27-1a4c-4997-b501-113997d07870_16-9-aspect-ratio_default_0_x769y341.jpg",
-        "tags": [
-            "valencia basket,real madrid,copa del rey,copa del rey de baloncesto"
-        ],
-        "link": "https://www.superdeporte.es/valencia-basket/2026/02/21/galeria-imagenes-semifinal-copa-valencia-baloncesto-127122481.html",
-        "date": "2026-02-21 22:19:27",
-        "sentiment_score": -0.8819402698427439
-    },
-    {
-        "title": "Se complica el debut de James Rodríguez con Minnesota United: en riesgo de no aparecer ante Cincinnati",
-        "image_url": "https://www.infobae.com/resizer/v2/KNORQRDNPNGBJHNGCAXCZWXMF4.jpg?auth=b8ce414d136f52db5abfc25526735ef101bb15616b21ba2d2689893783c6b8a1&height=1836&smart=true&width=3264",
-        "tags": [
-            "minnesota united",
-            "mls",
-            "colombia-deportes",
-            "cameron knowles",
-            "minnesota united vs austin fc",
-            "james rodríguez minnesota",
-            "cincinnati fc",
-            "james rodríguez"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/21/se-complica-el-debut-de-james-rodriguez-con-minnesota-united-en-riesgo-de-no-aparecer-ante-cincinnati/",
-        "date": "2026-02-21 22:17:13",
-        "sentiment_score": -0.7688082456588745
-    },
-    {
-        "title": "Baskonia regresa a una final de Copa 17 años después",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/21/barcelona-baskonia-cronica-k4cG--758x531@RC.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/deportes/baloncesto/baskonia-regresa-final-copa-20260221225422-ntrc.html",
-        "date": "2026-02-21 22:14:38",
-        "sentiment_score": -0.8612198904156685
-    },
-    {
-        "title": "Así fue el partido entre el Avilés y el Real Madrid Castilla",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e2ad09cb-f2e7-4658-8e12-0ca7a0d3b8be_16-9-aspect-ratio_default_0_x1000y418.jpg",
-        "tags": [
-            "real",
-            "castilla",
-            "partido",
-            "madrid",
-            "aviles"
-        ],
-        "link": "https://www.lne.es/fotos/deportes/2026/02/21/partido-aviles-real-madrid-castilla-127122347.html",
-        "date": "2026-02-21 22:08:41",
-        "sentiment_score": -0.16723200678825378
-    },
-    {
-        "title": "El Baskonia, a un paso de la gloria",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/12373cb6-42bb-48b0-865e-cdb71328bb4a_16-9-aspect-ratio_default_0_x863y139.jpg",
-        "tags": [
-            "copa del rey",
-            "baskonia",
-            "crónica",
-            "barcelona",
-            "semifinal"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/21/baskonia-cronica-barcelona-copa-del-rey-semifinal-10731013.html",
-        "date": "2026-02-21 22:02:01",
-        "sentiment_score": -0.08251315355300903
-    },
-    {
-        "title": "Kosner Baskonia noquea al Barça en el último cuarto y se cita con el Real Madrid en la final de Copa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f0a0e352-8d0d-49f8-afdf-983da53e72af_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "baloncesto",
-            "copa del rey de baloncesto"
-        ],
-        "link": "https://www.elperiodicodearagon.com/deportes/2026/02/21/kosner-baskonia-noquea-barca-ultimo-127122204.html",
-        "date": "2026-02-21 22:01:07",
-        "sentiment_score": 0.22853057086467743
-    },
-    {
-        "title": "Amaral toca como en casa en un Coliseum emocionado",
-        "image_url": "https://cflvdg.avoz.es/sc/k5-uzMvYet0bjBbTd0BzRMySV3g=/768x/2026/02/21/00121771709643470895173/Foto/h_20260221_220430000.jpg",
-        "tags": [
-            "conciertos",
-            "arte",
-            "zaragoza",
-            "amaral",
-            "ribeira sacra",
-            "a coruña ciudad",
-            "sumar",
-            "a coruña",
-            "yolanda díaz",
-            "dolce vita coruña"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/coruna/2026/02/22/amaral-toca-casa-coliseum-emocionado/0003_202602H22C4992.htm",
-        "date": "2026-02-21 22:21:00",
-        "sentiment_score": 0.2973329424858093
-    },
-    {
-        "title": "Un encuentro de ‘therians’ termina con cinco personas detenidas en Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/G5HDSNZACJHQBA4YRZLRB5D5LE.jpeg?auth=34a5321bb8e6029e58625406c8ad21212c4ec0fef27983127ea9a418ce8274ef&height=300&smart=true&width=450",
-        "tags": [
-            "mossos d esquadra",
-            "españa-noticias",
-            "españa-sociedad",
-            "redes sociales",
-            "catalauña",
-            "barcelona",
-            "tiktok españa"
-        ],
-        "link": "https://www.infobae.com/espana/2026/02/21/un-encuentro-de-therians-termina-con-cinco-personas-detenidas-en-barcelona/",
-        "date": "2026-02-21 22:18:45",
-        "sentiment_score": -0.13333292305469513
-    },
-    {
-        "title": "22:00 | 21 FEB 2026 | TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-21-feb-2026-juego-20260221_3312621.html",
-        "date": "2026-02-21 22:17:16",
-        "sentiment_score": 0.03907959535717964
-    },
-    {
-        "title": "Jaume Collboni señala su principal objetivo como alcalde de Barcelona: \"Esto conlleva construir más pisos\"",
-        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/02/21/699a2e43b7d95.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20260221/1004132491/jaume-collboni-senala-principal-objetivo-alcalde-barcelona-esto-conlleva-construir-mas-pisos-dct.html",
-        "date": "2026-02-21 22:17:13",
-        "sentiment_score": 0.3591558560729027
-    },
-    {
-        "title": "En Barcelona realizan saneamiento de más de 100 arroyos y canales",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/02/IMG_4301-300x225.jpg",
-        "tags": [
-            "actualidad",
-            "anzoátegui"
-        ],
-        "link": "https://ultimasnoticias.com.ve/anzoateggui/en-barcelona-realizan-saneamiento-de-mas-de-100-arroyos-y-canales/",
-        "date": "2026-02-21 22:15:32",
-        "sentiment_score": -0.042255252599716187
-    },
-    {
-        "title": "Una regularización que siembra dudas",
-        "image_url": "https://www.eldiadevalladolid.com/media/img/2026/2964c4e0-b4f2-4e8d-9c3aefb128b7ad14.jpg",
-        "tags": [
-            "podemos",
-            "bruselas",
-            "unión europea",
-            "política",
-            "inmigración",
-            "pp",
-            "consejo de ministros",
-            "educación",
-            "psoe",
-            "agricultura",
-            "elma saiz",
-            "financiación autonómica",
-            "españa",
-            "congreso de los diputados",
-            "seguridad social"
-        ],
-        "link": "https://www.eldiadevalladolid.com/noticia/z79b49cd5-a28b-43f6-a86e22a6274c5fd5/202602/una-regularizacion-que-siembra-dudas",
-        "date": "2026-02-21 22:13:55",
-        "sentiment_score": -0.3257693350315094
-    },
-    {
-        "title": "Dónde han caído el bote de 110 millones de euros de la Primitiva, los 1'5 de la Bonoloto, y los premios de la ONCE de hoy sábado 21 de febrero de 2026",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2014/12/22/DD31BA8F-5539-4BCD-9B51-A3993D62F6FE/98.jpg?crop=800%2C450%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "loterías",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-bote-110-millones-euros-primitiva-15-bonoloto-premios-once-hoy-sabado-21-febrero-2026_20260221699a2cc21817b41eb65be846.html",
-        "date": "2026-02-21 22:08:02",
-        "sentiment_score": 0.06332855299115181
-    },
-    {
-        "title": "El gigante Westinghouse lanza la central nuclear del futuro: puede operar sin necesidad de refrigerarse con ríos o mar",
-        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139902_261551298_1706x960.jpg",
-        "tags": [
-            "westinghouse",
-            "centrales nucleares",
-            "energía nuclear",
-            "energía - nuclear",
-            "observatorio de la energía"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/energia/20260222/gigante-westinghouse-lanza-central-nuclear-futuro-puede-operar-sin-necesidad-refrigerarse-rios-mar/1003744139099_0.html",
-        "date": "2026-02-22 01:51:19",
-        "sentiment_score": 0.40835655108094215
-    },
-    {
-        "title": "Hisdesat realiza 30 maniobras evasivas en ocho años para salvar al satélite espía español de sufrir colisiones en el espacio",
-        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139631_261547379_1706x960.jpg",
-        "tags": [
-            "industria de defensa",
-            "industria aeroespacial",
-            "satélites espaciales",
-            "observatorio de la defensa",
-            "defensa - espacio",
-            "hisdesat"
-        ],
-        "link": "https://www.elespanol.com/observatorio-defensa/20260222/hisdesat-realiza-maniobras-evasivas-anos-salvar-satelite-espia-espanol-sufrir-colisiones-espacio/1003744139551_0.html",
-        "date": "2026-02-22 01:50:54",
-        "sentiment_score": -0.06922388076782227
-    },
-    {
-        "title": "Copa del Rey de baloncesto: Baskonia da la sorpresa y elimina al Barcelona",
-        "image_url": "https://pxcdn.2001online.com/2001/022026/1771725149118/RS887072_DGL_0158-copia-1250x704.jpg?ch=675&cw=1200",
-        "tags": [
-            "copa del rey",
-            "baskonia",
-            "españa",
-            "valencia",
-            "baloncesto",
-            "real madrid",
-            "barcelona"
-        ],
-        "link": "https://2001online.com/deportes/copa-del-rey-de-baloncesto-baskonia-da-la-sorpresa-y-elimina-al-barcelona-202622122160",
-        "date": "2026-02-22 01:34:33",
-        "sentiment_score": 0.839628541842103
-    },
-    {
-        "title": "Real Madrid sufrió duro tropiezo ante el Osasuna",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/02/Vinicius-Jr-300x225.png",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://ultimasnoticias.com.ve/deportes/real-madrid-sufrio-duro-tropiezo-ante-el-osasuna/",
-        "date": "2026-02-22 01:32:06",
-        "sentiment_score": -0.3198150619864464
-    },
-    {
-        "title": "El show de Cristiano Ronaldo en la goleada del Al Nassr: del premio por su doblete al festejo con una prenda que vistió Messi",
-        "image_url": "https://www.infobae.com/resizer/v2/JZUWTQERJRC4VAYJIRZFUQKUWE.jpg?auth=16daed049be467c96ff1daa7531290e390a2484c9dd43d7198bf2c48b043bbea&height=2304&smart=true&width=4096",
-        "tags": [
-            "lionel messi",
-            "al hilal",
-            "saudi pro league",
-            "deportes-internacional",
-            "al nassr",
-            "cristiano ronaldo"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/22/el-show-de-cristiano-ronaldo-en-la-goleada-del-al-nassr-del-premio-por-su-doblete-al-festejo-con-una-prenda-que-vistio-messi/",
-        "date": "2026-02-22 00:49:48",
-        "sentiment_score": 0.8365904502570629
-    },
-    {
-        "title": "Juan Lobato: «Si nadie se atreve a opinar del de arriba, porque si opina mal, le echan, hay menos control para luchar contra la corrupción»",
-        "image_url": "https://www.eldebate.com/files/article_social/files/fp/uploads/2026/02/20/699892dca6854.r_d.2984-1925-0.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20260222/juan-lobato-nadie-atreve-opinar-arriba-porque-opina-mal-le-echan-hay-menos-control-luchar-contra-corrupcion_387649.html",
-        "date": "2026-02-22 00:30:00",
-        "sentiment_score": -0.8478152081370354
-    },
-    {
-        "title": "El Baskonia sobrevive al Barça y regresa a una final 17 años después",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/22/699a4cdd291e9.r_d.2685-1418-2308.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.eldebate.com/deportes/baloncesto/20260222/baskonia-sobrevive-barca-regresa-final-17-anos-despues_388034.html",
-        "date": "2026-02-22 00:25:38",
-        "sentiment_score": 0.1522528976202011
-    },
-    {
-        "title": "Arbeloa y la polémica tras caer contra Osasuna: \"Dos fueras de juego justos y los dos en contra...\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/22/image-ef1a72e1-0346-4637-b64e-e991a0728ce9-85-2560-1440.jpeg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/arbeloa-rueda-prensa-osasuna-real-madrid-jugadas-polemicas_vid60059466/video.shtml",
-        "date": "2026-02-22 00:19:18",
-        "sentiment_score": -0.4461129382252693
-    },
-    {
-        "title": "21 FEB 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/21-feb-2026-tramo-final-juego-20260222_3312634.html",
-        "date": "2026-02-22 00:12:32",
-        "sentiment_score": 0.22999891638755798
-    },
-    {
-        "title": "Cinco detenidos en Barcelona tras un encuentro de 'therians' que ha reunido a unas 3.000 personas",
-        "image_url": "https://s3.elespanol.com/2026/02/13/actualidad/1003744129621_261558810_1706x960.jpg",
-        "tags": [
-            "therians",
-            "sucesos",
-            "barcelona"
-        ],
-        "link": "https://www.elespanol.com/sociedad/sucesos/20260222/detenidos-barcelona-encuentro-therians-reunido-personas/1003744140470_0.html",
-        "date": "2026-02-22 02:20:06",
-        "sentiment_score": -0.924485594034195
-    },
-    {
-        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 22 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima",
-            "clima en españa",
-            "clima en barcelona",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/22/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-22-de-febrero/",
-        "date": "2026-02-22 02:01:14",
-        "sentiment_score": -0.05413059890270233
-    },
-    {
-        "title": "Darío Benedetto puso fin a su racha de 747 días sin convertir un gol y le dio el triunfo al Barcelona de Ecuador",
-        "image_url": "https://www.infobae.com/resizer/v2/MG7PO2S2T5EPRIWOBKMI5FICAI.png?auth=fd33da90e10a31d9bce5336ea9a66b51804ef3d1fa91efde83e046e87b6d8bd9&height=1080&smart=true&width=1920",
-        "tags": [
-            "barcelona sc",
-            "ecuador",
-            "deportes-argentina",
-            "darío benedetto"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/22/dario-benedetto-puso-fin-a-su-racha-negativa-de-747-dias-sin-convertir-un-gol-y-le-dio-el-triunfo-al-barcelona-de-ecuador/",
-        "date": "2026-02-22 01:53:41",
-        "sentiment_score": 0.8441056832671165
-    },
-    {
-        "title": "Los pelotazos inmobiliarios del Estado: ingresa 371 millones en cinco años de pleno boom del ladrillo en España",
-        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139294_261542945_1706x960.jpg",
-        "tags": [
-            "sector inmobiliario",
-            "españa",
-            "patrimonio",
-            "macroeconomía"
-        ],
-        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20260222/pelotazos-inmobiliarios-ingresa-millones-anos-pleno-boom-ladrillo-espana/1003744139128_0.html",
-        "date": "2026-02-22 01:47:58",
-        "sentiment_score": -0.0412934273481369
-    },
-    {
-        "title": "Europopper, TuCamello.com y Telecoca, las webs que venden droga en España sin pudor: \"En un mes facturo 10.000 euros\"",
-        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139975_261552255_1706x960.jpg",
-        "tags": [
-            "porfolio",
-            "drogas",
-            "consumo drogas",
-            "reportajes-newsletter",
-            "policía nacional",
-            "reportajes",
-            "tráfico de drogas"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260222/europopper-tucamellocom-telecoca-webs-venden-droga-espana-sin-pudor-mes-facturo-euros/1003744135349_0.html",
-        "date": "2026-02-22 01:27:09",
-        "sentiment_score": -0.773338058963418
-    },
-    {
-        "title": "Las musulmanas que huyeron del burka claman en España: \"Me borró del mundo. Sientes que no tienes identidad\"",
-        "image_url": "https://s3.elespanol.com/2026/02/20/actualidad/1003744139878_261550876_1706x960.jpg",
-        "tags": [
-            "porfolio",
-            "partido popular (pp)",
-            "burka",
-            "vox",
-            "reportajes-newsletter",
-            "religión",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260222/musulmanas-huyeron-burka-claman-espana-borro-mundo-sientes-no-identidad/1003744139434_0.html",
-        "date": "2026-02-22 01:26:47",
-        "sentiment_score": 0.014109037816524506
-    },
-    {
-        "title": "La fuga de presos de Dáesh durante su traslado de Siria a Irak dispara la amenaza terrorista en la región y Europa",
-        "image_url": "https://s3.elespanol.com/2026/01/23/actualidad/1003744102418_261075309_1706x960.jpg",
-        "tags": [
-            "estado islámico",
-            "dáesh",
-            "siria",
-            "oriente próximo"
-        ],
-        "link": "https://www.elespanol.com/mundo/oriente-proximo/20260222/fuga-presos-daesh-traslado-siria-irak-dispara-amenaza-terrorista-region-europa/1003744139949_0.html",
-        "date": "2026-02-22 01:25:49",
-        "sentiment_score": -0.3943232297897339
-    },
-    {
-        "title": "Por qué la vivienda no toca techo en Madrid: Sandra paga 420.000 euros por lo que en 2020 costaba 280.000 €",
-        "image_url": "https://s3.elespanol.com/2026/02/20/madrid/1003744139755_261548952_1706x960.jpg",
-        "tags": [
-            "construcción",
-            "vivienda",
-            "madrid",
-            "inmobiliarias",
-            "madrid total"
-        ],
-        "link": "https://www.elespanol.com/madrid/20260222/vivienda-no-toca-techo-madrid-sandra-paga-euros-costaba-eur-dl/1003744139586_0.html",
-        "date": "2026-02-22 00:53:54",
-        "sentiment_score": 0.25026484578847885
-    },
-    {
         "title": "Cinco de los nueve etarras condenados por los atentados de La Albericia y Santoña están en libertad",
         "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/21/ia_bajas-562x562.jpg",
         "tags": [
@@ -3103,5 +2704,193 @@ export default [
         "link": "https://www.superdeporte.es/ocio/cine/2026/02/25/premios-goya-2026-horario-donde-ver-gala-barcelona-127239988.html",
         "date": "2026-02-25 07:01:14",
         "sentiment_score": 0.7707475740462542
+    },
+    {
+        "title": "El juez del caso Errejón pide a Mouliaá que aporte informes médicos y un parte de baja laboral",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/25/699f2242312f53-01939738.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/nacional/juez-caso-errejon-pide-mouliaa-que-aporte-informes-medicos-un-parte-baja-laboral_6938994_0.html",
+        "date": "2026-02-25 17:47:31",
+        "sentiment_score": -0.13492471352219582
+    },
+    {
+        "title": "La selección femenina se concentra en Las Rozas con muchas caras nuevas y sin Jenni Hermoso",
+        "image_url": "https://okdiario.com/img/2026/02/25/seleccion-femenina-2.jpg",
+        "tags": [
+            "fútbol femenino",
+            "fútbol",
+            "deportes",
+            "selección española de fútbol femenino"
+        ],
+        "link": "https://okdiario.com/deportes/seleccion-femenina-concentra-rozas-muchas-caras-nuevas-sin-jenni-hermoso-16306719",
+        "date": "2026-02-25 17:46:01",
+        "sentiment_score": 0.22867360711097717
+    },
+    {
+        "title": "Afectados por la Ocupación confían en que la mayoría del Congreso rechace mañana el nuevo 'escudo social'",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260225184317_690.jpg",
+        "tags": [
+            "construcción y vivienda",
+            "economía finanzas"
+        ],
+        "link": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-afectados-ocupacion-confian-mayoria-congreso-rechace-manana-nuevo-escudo-social-20260225184317.html",
+        "date": "2026-02-25 17:43:17",
+        "sentiment_score": 0.2620777189731598
+    },
+    {
+        "title": "Nueva provocación del Benfica al Real Madrid con recado a Fede Valverde: rajada descomunal de Prestianni",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/20/culemania/real-madrid/1003742734853_15743657_1706x960.jpg",
+        "tags": [
+            "lifestyle",
+            "entertainment",
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260225/nueva-benfica-real-madrid-fede-valverde-prestianni/1003742736130_0.html",
+        "date": "2026-02-25 17:42:33",
+        "sentiment_score": -0.89122882951051
+    },
+    {
+        "title": "La Comunidad de Madrid celebra el Año del Medio Ambiente con 160 millones para proteger los bosques",
+        "image_url": "https://okdiario.com/img/2026/02/25/comunidad-madrid-ano-medio-ambiente-.jpg",
+        "tags": [
+            "green - sostenibilidad",
+            "okgreen",
+            "madrid",
+            "lobos",
+            "isabel díaz ayuso",
+            "medio ambiente",
+            "comunidad de madrid",
+            "medioambiente",
+            "lince ibérico",
+            "naturaleza"
+        ],
+        "link": "https://okdiario.com/okgreen/ano-del-medio-ambiente-comunidad-madrid-2026-160-millones-guadarrama-16307605",
+        "date": "2026-02-25 17:42:04",
+        "sentiment_score": 0.6344799101352692
+    },
+    {
+        "title": "La decisión que tomó la UEFA con la sanción a Gianluca Prestianni a horas del Real Madrid-Benfica por Champions League",
+        "image_url": "https://www.infobae.com/resizer/v2/NXWSDEDX2NGELHPINUYEWH4JD4.jpg?auth=c3b4d16ba9daca975d5c36d83bee5a2c20ec8cb897d999c64ccfb98b97c873b1&height=2782&smart=true&width=4945",
+        "tags": [
+            "deportes-internacional",
+            "gianluca prestianni",
+            "vinicius jr.",
+            "benfica",
+            "champions league",
+            "real madrid"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/25/la-decision-que-tomo-la-uefa-con-la-sancion-a-gianluca-prestianni-a-horas-del-real-madrid-benfica-por-champions-league/",
+        "date": "2026-02-25 17:38:26",
+        "sentiment_score": -0.8464382085949183
+    },
+    {
+        "title": "Sindicatos piden garantías ante la futura transformación del INAEM",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260225183701_690.jpg",
+        "tags": [
+            "cultura",
+            "música"
+        ],
+        "link": "https://www.europapress.es/cultura/musica-00129/noticia-sindicatos-piden-garantias-futura-transformacion-inaem-20260225183701.html",
+        "date": "2026-02-25 17:37:01",
+        "sentiment_score": 0.21881258487701416
+    },
+    {
+        "title": "El rey de Noruega \"responde bien al tratamiento\" pero seguirá unos días hospitalizado en Tenerife",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260225183258_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-rey-noruega-responde-bien-tratamiento-seguira-dias-hospitalizado-tenerife-20260225183258.html",
+        "date": "2026-02-25 17:32:58",
+        "sentiment_score": -0.5090493187308311
+    },
+    {
+        "title": "El bar de la Ciudad Deportiva del Real Zaragoza busca personal: condiciones y requisitos",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/02/25/2026022518243148980.jpg",
+        "tags": [
+            "real zaragoza"
+        ],
+        "link": "https://www.aragondigital.es/articulo/real-zaragoza/bar-ciudad-deportiva-real-zaragoza-busca-personal-condiciones-requisitos/20260225182824969156.html",
+        "date": "2026-02-25 17:28:24",
+        "sentiment_score": 0.2428703010082245
+    },
+    {
+        "title": "El eufórico Baskonia recibe al dolido Valencia Basket",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260225182428_120.jpg",
+        "tags": [
+            "deportes",
+            "baloncesto"
+        ],
+        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-euforico-baskonia-recibe-dolido-valencia-basket-20260225182428.html",
+        "date": "2026-02-25 17:24:28",
+        "sentiment_score": -0.2723063677549362
+    },
+    {
+        "title": "Collboni promete 260 millones de euros hasta el 2031 para transformar la Sagrera",
+        "image_url": "https://static1.ara.cat/clip/28ef6532-4c9c-49fe-a072-12ca318db0d0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "260",
+            "millones",
+            "transformar",
+            "2031",
+            "collboni",
+            "promete",
+            "euros",
+            "sagrera"
+        ],
+        "link": "https://es.ara.cat/sociedad/barcelona/collboni-promete-260-millones-euros-2031-transformar-sagrera_1_5659293.html",
+        "date": "2026-02-25 17:49:41",
+        "sentiment_score": -0.017069011926651
+    },
+    {
+        "title": "Igualguana: solicitamos al gobierno nacional que termine de ajustar el salario",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "protestas",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/igualguana-solicitamos-al-gobierno-nacional-que-termine-de-ajustar-el-salario/",
+        "date": "2026-02-25 17:48:37",
+        "sentiment_score": -0.8731026854366064
+    },
+    {
+        "title": "Muere un motorista después de un accidente con un camión en Sants-Montjuïc",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/10/19/ambulancia-del-sem.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/muere-un-motorista-tras-un-accidente-con-un-camion-sants-montjuic_6939035_0.html",
+        "date": "2026-02-25 17:47:07",
+        "sentiment_score": -0.8179170768707991
+    },
+    {
+        "title": "Mariam Cremades: un estudio que sirve de escaparate a otros artistas en Alicante",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6ade3a34-7ca1-45dd-9ebc-5d60f91199e7_16-9-aspect-ratio_default_0_x1341y863.jpg",
+        "tags": [
+            "arte contemporáneo",
+            "exposición",
+            "obras",
+            "espacio",
+            "cultura",
+            "horario",
+            "pintura"
+        ],
+        "link": "https://www.informacion.es/cultura/2026/02/25/mariam-cremades-estudio-sirve-escaparate-127257484.html",
+        "date": "2026-02-25 17:40:31",
+        "sentiment_score": 0.16730420291423798
+    },
+    {
+        "title": "Los papeles del 23-F recogen el apoyo de CiU a la monarquía y la \"normalidad absoluta\" del ejército en Cataluña",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f9181ea1-1be7-48e4-9cd8-471581118612_16-9-aspect-ratio_default_0_x553y179.jpg",
+        "tags": [
+            "23f",
+            "ciu",
+            "fuerzas de seguridad"
+        ],
+        "link": "https://www.laopiniondemalaga.es/nacional/2026/02/25/papeles-23-f-recogen-apoyo-127270772.html",
+        "date": "2026-02-25 17:40:25",
+        "sentiment_score": -0.6546615026891232
     }
 ];
