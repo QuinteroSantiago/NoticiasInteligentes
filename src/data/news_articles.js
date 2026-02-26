@@ -1,170 +1,5 @@
 export default [
     {
-        "title": "Cinco de los nueve etarras condenados por los atentados de La Albericia y Santoña están en libertad",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/21/ia_bajas-562x562.jpg",
-        "tags": [
-            "eta"
-        ],
-        "link": "https://www.eldiariomontanes.es/cantabria/cinco-nueve-etarras-condenados-atentados-albericia-santona-20260222204821-nt.html",
-        "date": "2026-02-22 06:48:14",
-        "sentiment_score": -0.8515443708747625
-    },
-    {
-        "title": "Sabah: \"Si obligas a una mujer a quitarse el velo, le estás quitando libertad\"",
-        "image_url": "https://www.elplural.com/uploads/s1/24/64/58/4/la-cantante-sabah_7_480x270.jpeg",
-        "tags": [
-            "música"
-        ],
-        "link": "https://www.elplural.com/revista-bando/musica/sabah-si-obligas-mujer-quitarse-velo-estas-quitando-libertad_382033102",
-        "date": "2026-02-22 06:42:51",
-        "sentiment_score": -0.052367568016052246
-    },
-    {
-        "title": "'Victoria' o los hijos crecen ¿y los padres qué?",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/02/20/escena-de-la-obra-de-teatro-victoria-1.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.huffingtonpost.es/opinion/victoria-hijos-crecen-y-padres-que-f202602.html",
-        "date": "2026-02-22 06:40:21",
-        "sentiment_score": -0.004999279975891113
-    },
-    {
-        "title": "Uf!, no sé quién está peor, si Flick o Arbeloa, si Laporta o Florentino",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/735d2b07-afab-45d4-9c01-65e8cfd2c35a_alta-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "andá pallá bobo"
-        ],
-        "link": "https://www.elperiodico.com/es/deportes/20260222/uf-peor-flick-o-arbeloa-127127316",
-        "date": "2026-02-22 06:37:16",
-        "sentiment_score": -0.757178895175457
-    },
-    {
-        "title": "Abascal deja claro que ni sus más cercanos le discuten: ni Ortega Smith, ni Olona, ni Espinosa de los Monteros",
-        "image_url": "https://www.elplural.com/uploads/s1/14/39/31/0/javier-ortega-smith-macarena-olona-ivan-espinosa-de-los-monteros-y-santiago-abascal-en-el-congreso-de-los-diputados-en-2020_7_480x270.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elplural.com/politica/espana/abascal-deja-claro-ni-mas-cercanos-discuten-ni-ortega-smith-ni-olona-ni-espinosa-monteros_382065102",
-        "date": "2026-02-22 06:35:36",
-        "sentiment_score": -0.15970273315906525
-    },
-    {
-        "title": "Marcos Llorente estaría como en casa en Dinamarca: el país nórdico instala en las calles farolas con luz roja",
-        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/e/a/a/calleroja3.jpg",
-        "tags": [
-            "energia"
-        ],
-        "link": "https://www.eleconomista.es/energia/noticias/13785112/02/26/marcos-llorente-estaria-como-en-casa-en-dinamarca-el-pais-nordico-instala-en-las-calles-farolas-con-luz-roja.html",
-        "date": "2026-02-22 06:30:57",
-        "sentiment_score": -0.29538559913635254
-    },
-    {
-        "title": "Osasuna - Real Madrid, la prórroga | Bienvenidos a la historia",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/6311562b-78a1-496e-8bf2-6cc1efe17e78_16-9-aspect-ratio_default_0_x1334y785.jpg",
-        "tags": [
-            "prorroga",
-            "osasuna",
-            "bienvenidos",
-            "real",
-            "madrid"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/22/osasuna-real-madrid-prorroga-bienvenidos-10731651.html",
-        "date": "2026-02-22 06:30:41",
-        "sentiment_score": 0.09112697839736938
-    },
-    {
-        "title": "Las portadas encumbran el bronce de Oriol Cardona y Ana Alonso: \"Historia\" y \"tercera medalla\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/21/image-82d0ee94-b758-4388-aeeb-a87b30a62112-85-2560-1440.jpeg",
-        "tags": [
-            "olympic games milano cortina 2026 2026",
-            "olympics"
-        ],
-        "link": "https://espanol.eurosport.com/juegos-olimpicos/juegos-olimpicos-milan-cortina-2026/2026/bronce-ana-alonso-oriol-cardona-relevo-mixto-esqui-montana-portadas-hoy_sto23274146/story.shtml",
-        "date": "2026-02-22 06:27:38",
-        "sentiment_score": -0.9372403779998422
-    },
-    {
-        "title": "Osasuna - Real Madrid, vídeo resumen, mejores jugadas y goles",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/05031823-32a3-4e5d-9588-eba6653c2b35_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "resumen",
-            "osasuna",
-            "video",
-            "real",
-            "madrid"
-        ],
-        "link": "https://www.noticiasdenavarra.com/videos/general/osasuna/2026/02/22/osasuna-real-madrid-video-resumen-10731656.html",
-        "date": "2026-02-22 06:23:26",
-        "sentiment_score": 0.023428447544574738
-    },
-    {
-        "title": "Domingo de estabilidad general en la Península con temperaturas en aumento y máximas cercanas a 25oC en Sevilla y Murcia",
-        "image_url": "https://www.elplural.com/uploads/s1/24/64/59/5/europapress-5130498-algunas-calles-centro-sevilla-empezado-instalarse-toldos-calmar-calor_7_480x270.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.elplural.com/sociedad/domingo-estabilidad-general-peninsula-temperaturas-aumento-maximas-cercanas-25oc-sevilla-murcia_382142102",
-        "date": "2026-02-22 06:31:46",
-        "sentiment_score": -0.1065841019153595
-    },
-    {
-        "title": "La infancia de Albert Rivera en La Barceloneta: «Mis recuerdos están en la tienda de mis padres entre lavadoras y televisores»",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/infancia-albert-rivera.jpeg",
-        "tags": [
-            "celebrities",
-            "ciudadanos",
-            "gente",
-            "infancia",
-            "barcelona",
-            "albert rivera"
-        ],
-        "link": "https://theobjective.com/gente/2026-02-22/infancia-albert-rivera-barceloneta-tienda-padres/",
-        "date": "2026-02-22 06:30:00",
-        "sentiment_score": 0.2504333257675171
-    },
-    {
-        "title": "El Thyssen desvela los enigmas de Hammershøi",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/20/Hammershoi000-Rk8CvxtvgwefhYtLUHHrTPP-1200x840@RC.jpg",
-        "tags": [
-            "salud mental",
-            "exposiciones",
-            "carmen cervera thyssen bornemisza"
-        ],
-        "link": "https://www.leonoticias.com/culturas/thyssen-desvela-enigmas-hammershi-20260220072832-ntrc.html",
-        "date": "2026-02-22 06:28:36",
-        "sentiment_score": -0.5553137175738811
-    },
-    {
-        "title": "AEMET prevé un día soleado y cálido en Barcelona con viento suave del suroeste",
-        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
-        "tags": [
-            "okd",
-            "previsión del tiempo",
-            "tiempo",
-            "agencia estatal de meteorología (aemet)",
-            "españa",
-            "cataluña"
-        ],
-        "link": "https://okdiario.com/cataluna/aemet-preve-un-dia-soleado-y-calido-en-barcelona-con-viento-suave-del-suroeste-16286253",
-        "date": "2026-02-22 06:25:34",
-        "sentiment_score": 0.14303156733512878
-    },
-    {
-        "title": "“Mi trabajo es traducir el guión a personas, cosas, tiempo y dinero”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5ae54d1b-6583-42ea-9ec0-0fadc25bcffb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "guion",
-            "trabajo",
-            "cosas",
-            "personas",
-            "traducir"
-        ],
-        "link": "https://www.noticiasdenavarra.com/cultura/2026/02/22/trabajo-traducir-guion-personas-cosas-10728274.html",
-        "date": "2026-02-22 06:11:57",
-        "sentiment_score": -0.1604105830192566
-    },
-    {
         "title": "Dani Vidal, entrenador del Real Avilés: «No puedo asegurar victorias, pero sí que mi equipo trabaje y haga buenos partidos»",
         "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/02/22/dani-vidal-kAWG-U20846400991saH-1200x840@El%20Comercio.jpg",
         "tags": [
@@ -2892,5 +2727,228 @@ export default [
         "link": "https://www.laopiniondemalaga.es/nacional/2026/02/25/papeles-23-f-recogen-apoyo-127270772.html",
         "date": "2026-02-25 17:40:25",
         "sentiment_score": -0.6546615026891232
+    },
+    {
+        "title": "VÍDEO | Asencio, trasladado al hospital tras el golpe con Camavinga que le retiró en camilla",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/25/image-b2d03492-b971-4a6d-b03e-ebdfe5780d28-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "champions league 2025/2026"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/asencio-da-susto-retira-camilla-traslado-hospital-sufrir-tremendo-golpe-camavinga_sto23275440/story.shtml",
+        "date": "2026-02-25 22:42:36",
+        "sentiment_score": -0.9247189732268453
+    },
+    {
+        "title": "Vinicius evita un sofoco al Real Madrid, a octavos sin alardes",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/25/vinicius-realmadrid-benfica-k5t-U20858928415G3F-1200x840@RC.jpg",
+        "tags": [
+            "jose mourinho",
+            "thibaut courtois",
+            "vinícius",
+            "real madrid",
+            "champions league"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-campeones/cronica-realmadrid-benfica-champions-playoff-20260225114456-ntrc.html",
+        "date": "2026-02-25 22:36:58",
+        "sentiment_score": -0.15843531489372253
+    },
+    {
+        "title": "El periodo de baja para Mbappé y el tiempo que le queda al resto de lesionados",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/25/699f4f9345704.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/posible-periodo-baja-kylian-mbappe-le-queda-resto-lesionados-volver-jugar-20260225_3315411.html",
+        "date": "2026-02-25 22:36:28",
+        "sentiment_score": -0.08208763599395752
+    },
+    {
+        "title": "El análisis de Sanchís de la clasificación del Real Madrid en Champions: \"Nos da para el Benfica pero no nos da para lo que viene por delante\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/25/699f767c1fb2e.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/analisis-sanchis-clasificacion-real-madrid-champions-da-benfica-no-da-viene-delante-20260225_3315410.html",
+        "date": "2026-02-25 22:29:09",
+        "sentiment_score": -0.06788969039916992
+    },
+    {
+        "title": "Con agónico penal, Atalanta fulmina a Dortmund y avanza a octavos en la Champions",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/34b32e2/2147483647/strip/true/crop/4134x2170+0+293/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F61%2Fdf%2Ff25d295f40839ecf4bbeb9cbc003%2Fa62c69064efd4dbfa8089b66efd44bd3.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-25/con-agonico-penal-atalanta-fulmina-dortmund-y-avanza-octavos-en-la-champions",
+        "date": "2026-02-25 22:29:02",
+        "sentiment_score": 0.34626326709985733
+    },
+    {
+        "title": "Vinícius decide para un Real Madrid sin alardes",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/87092628-e581-4b61-895945eac5e720d3.jpg",
+        "tags": [
+            "manchester city",
+            "kylian mbappé",
+            "álvaro arbeloa",
+            "santiago bernabéu",
+            "champions league",
+            "thibaut courtois",
+            "benfica",
+            "fede valverde",
+            "real madrid",
+            "aurélien tchouaméni",
+            "vinícius júnior"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z1405c4a9-1060-4ad1-865012bca9e47e81/202602/vinicius-decide-para-un-real-madrid-sin-alardes",
+        "date": "2026-02-25 22:27:17",
+        "sentiment_score": 0.6880709640681744
+    },
+    {
+        "title": "Vinicius vuelve a bailar ante el Benfica: salva al Real Madrid y provoca a Mourinho en el Bernabéu",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/25/culemania/real-madrid/1003742736214_15759562_1706x960.jpg",
+        "tags": [
+            "vinicius",
+            "real madrid"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260225/vinicius-benfica-real-madrid-provoca-mourinho-bernabeu/1003742736194_0.html",
+        "date": "2026-02-25 22:27:01",
+        "sentiment_score": -0.24183733761310577
+    },
+    {
+        "title": "Alfredo Relaño enfría la euforia en el Real Madrid: la alegría por la recuperación de Vinicius y la preocupación porque \"el equipo no funciona\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/alfredo-relano-enfria-euforia-real-madrid-alegria-recuperacion-vinicius-preocupacion-equipo-no-funciona-20260225_3315413.html",
+        "date": "2026-02-25 22:26:52",
+        "sentiment_score": -0.10963593423366547
+    },
+    {
+        "title": "Gente de Zona anuncia su primera gira en España con once fechas",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2026/02/Gente-zona.jpg",
+        "tags": [
+            "farándula"
+        ],
+        "link": "https://elsiglo.com.ve/gente-de-zona-anuncia-su-primera-gira-en-espana-con-once-fechas/",
+        "date": "2026-02-25 22:38:04",
+        "sentiment_score": 0.14095493406057358
+    },
+    {
+        "title": "\"Ya no hay excusa\": Sindicatos de Anzoátegui protestaron por aumento salarial",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-25-at-2.54.32-PM.jpeg",
+        "tags": [
+            "regiones",
+            "actualidad",
+            "denuncias región oriental",
+            "aumento salarial",
+            "anzoátegui",
+            "sindicatos",
+            "región oriental"
+        ],
+        "link": "https://lapatilla.com/2026/02/25/ya-no-hay-excusa-sindicatos-de-anzoategui-protestaron-por-aumento-salarial/",
+        "date": "2026-02-25 22:37:55",
+        "sentiment_score": -0.04805369675159454
+    },
+    {
+        "title": "Los pasajeros de cruceros aumentan en un 48,2% en tan solo un año en Almería",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/02/26/Imagen%2024.05.13.CruceroMSSirenaOceaniaCruisesPuertodeAlmer%C3%ADa-R1Vz5SV4s3u7ym9pwRo9htJ-1200x840@Ideal.jpg",
+        "tags": [
+            "cruceros",
+            "almería",
+            "puerto de almería"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/pasajeros-cruceros-aumentan-482-solo-ano-almeria-20260226205136-nt.html",
+        "date": "2026-02-25 22:32:27",
+        "sentiment_score": 0.16695790365338326
+    },
+    {
+        "title": "Abandono en la Policía Local de Montgat: servicios de un solo agente y seguridad en manos del 112",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/18/gran-barcelona/1003742733730_15731150_1706x960.jpg",
+        "tags": [
+            "delincuencia",
+            "seguridad",
+            "montgat",
+            "gran barcelona",
+            "guardia urbana"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260225/abandono-policia-local-montgat-servicios-solo-agente-seguridad-manos/1003742731548_0.html",
+        "date": "2026-02-25 22:30:00",
+        "sentiment_score": -0.9042231990024447
+    },
+    {
+        "title": "Julián, el vendedor de la ONCE que repartió 1,5 millones en Barcelona: \"No sé a quién le ha tocado, pero un premio así revoluciona el barrio\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/25/vivir-en-barcelona/1003742736011_15757121_1706x960.jpg",
+        "tags": [
+            "vivir",
+            "barcelona",
+            "premios",
+            "vivir en barcelona",
+            "lotería"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260225/julian-vendedor-once-repartio-millones-barcelona-no-tocado-premio-revoluciona-barrio/1003742735958_0.html",
+        "date": "2026-02-25 22:30:00",
+        "sentiment_score": 0.6320081651210785
+    },
+    {
+        "title": "Fechas y horarios de las semifinales de la Copa del Rey 2026 por Meridiano",
+        "image_url": "https://pxcdn.meridiano.net/022026/1772058141977.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "sports"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/fechas-y-horarios-de-las-semifinales-de-la-copa-del-rey-2026-por-meridiano-202622518250",
+        "date": "2026-02-25 22:25:00",
+        "sentiment_score": 0.11138489097356796
+    },
+    {
+        "title": "La vuelta de Mourinho al Bernabéu 4.651 después se quedó en el autobús",
+        "image_url": "https://cflvdg.avoz.es/sc/votgrlBflQ4eBuJHIOjjHswSld8=/768x/2026/02/25/00121772057401650411856/Foto/eup_20260218_163926031.jpg",
+        "tags": [
+            "deportes",
+            "mourinho",
+            "champions league"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/02/25/vuelta-mourinho-bernabeu-4651-despues-quedo-autobus/00031772057686327694892.htm",
+        "date": "2026-02-25 22:16:00",
+        "sentiment_score": -0.24691389501094818
+    },
+    {
+        "title": "Las dos estrellas del Barça de basket que brillan en la oscuridad pero se apagan en el minuto decisivo: derrota para Xavi Pascual",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/25/culemania/secciones/1003742736213_15759541_1706x960.jpg",
+        "tags": [
+            "kevin punter",
+            "fcb basket",
+            "xavi pascual",
+            "secciones"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260225/estrellas-barca-brillan-oscuridad-decisivo-xavi-pascual/1003742736197_0.html",
+        "date": "2026-02-25 22:06:58",
+        "sentiment_score": 0.7482122480869293
+    },
+    {
+        "title": "Dónde ha caído el bote de 3,3 millones de euros de la Bonoloto y el premio del Cupón Diario y Súper Once de hoy, miércoles 25 de febrero de 2026",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2021/12/17/408B5BA4-CC10-4B44-BF85-5BA300D9F6EC/98.jpg?crop=4953%2C2787%2Cx0%2Cy265&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "loterías"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-caido-bote-33-millones-euros-bonoloto-premio-cupon-diario-super-once-hoy-miercoles-25-febrero-2026_20260225699f71c71817b41eb6634f17.html",
+        "date": "2026-02-25 22:03:51",
+        "sentiment_score": 0.08556190691888332
+    },
+    {
+        "title": "Un boleto de la Bonoloto vendido en Gran Canaria roza los 40.000 euros de premio",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/18fcf8a9-77a5-4bb3-831b-0a16e2103a86_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "loterías",
+            "loterías en canarias",
+            "loterías y apuestas del estado",
+            "sorteos"
+        ],
+        "link": "https://www.laprovincia.es/gran-canaria/2026/02/25/bonoloto-toca-gran-canaria-127279322.html",
+        "date": "2026-02-25 22:01:11",
+        "sentiment_score": 0.1629146933555603
     }
 ];
