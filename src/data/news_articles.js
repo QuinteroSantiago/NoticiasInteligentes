@@ -2950,5 +2950,282 @@ export default [
         "link": "https://www.laprovincia.es/gran-canaria/2026/02/25/bonoloto-toca-gran-canaria-127279322.html",
         "date": "2026-02-25 22:01:11",
         "sentiment_score": 0.1629146933555603
+    },
+    {
+        "title": "Real Madrid a octavos de la Champions: Vinicius liquidó al Benfica en noche de lesiones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias24carabobo",
+            "noticias hoy",
+            "champions",
+            "noticias de venezuela",
+            "noticias 24",
+            "noticias de carabobo",
+            "champions league",
+            "noticias de valencia",
+            "news",
+            "noticias de sucesos",
+            "noticias24carabobo en google news",
+            "deportes",
+            "noticias 24 horas carabobo",
+            "noticias de hoy valencia",
+            "portada",
+            "real madrid clasificó",
+            "real madrid clasifica a octavos"
+        ],
+        "link": "https://noticias24carabobo.com/real-madrid-clasifica-octavos-champions-league/",
+        "date": "2026-02-26 02:37:40",
+        "sentiment_score": 0.3161168098449707
+    },
+    {
+        "title": "Recordando a Fernando Múgica en la Puerta del Sol",
+        "image_url": "https://s1.staticld.com/2026/02/25/homenaje-fernandomujica-250226.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2026-02-26/pedro-gil-ruiz-recordando-a-fernando-mugica-en-la-puerta-del-sol-7365284/",
+        "date": "2026-02-26 02:37:40",
+        "sentiment_score": -0.689413508400321
+    },
+    {
+        "title": "El Consejo de Estado tumba la propaganda del Gobierno: blindar el aborto exigiría disolver las Cortes",
+        "image_url": "https://s1.staticld.com/2026/02/25/felix-bolanos-congreso.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.libertaddigital.com/espana/politica/2026-02-26/el-consejo-de-estado-tumba-la-propaganda-del-gobierno-blindar-el-aborto-exigiria-disolver-las-cortes-7365328/",
+        "date": "2026-02-26 02:32:31",
+        "sentiment_score": -0.6570045873522758
+    },
+    {
+        "title": "Agenda: qué hacer hoy jueves, 26 de febrero en Asturias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7002485f-e3da-4b37-8a45-83130902c2d2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "asturias",
+            "ocio",
+            "casa de cultura",
+            "proyecto",
+            "exposición"
+        ],
+        "link": "https://www.lne.es/asturias/2026/02/26/agenda-hoy-jueves-26-febrero-127273578.html",
+        "date": "2026-02-26 02:31:38",
+        "sentiment_score": -0.17373964935541153
+    },
+    {
+        "title": "Tejero muere el día que el dosier del 23-F revela que un \"Ejército de maricones\", según su mujer, lo dejó \"tirado como una colilla\"",
+        "image_url": "https://s3.elespanol.com/2026/02/25/actualidad/1003744146216_261632604_1706x960.jpg",
+        "tags": [
+            "cesid",
+            "tribunales",
+            "alfonso armada",
+            "golpe de estado",
+            "antonio tejero",
+            "juan carlos i",
+            "23-f",
+            "jaime milans del bosch"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20260226/tejero-muere-dia-dosier-revela-ejercito-maricones-mujer-dejo-tirado-colilla/1003744146129_0.html",
+        "date": "2026-02-26 01:45:36",
+        "sentiment_score": -0.46874141693115234
+    },
+    {
+        "title": "Cristiano Ronaldo anotó su gol 965 y lo celebró con un festejo inédito: el dardo detrás del gesto",
+        "image_url": "https://www.infobae.com/resizer/v2/2C77PTXJZ5FRXNDEJJB5DBYIVM.jfif?auth=8d7c8d9c6b205233cf2a1ba83792cfaac3b7b65131100903b4af81f10348abe7&height=1523&smart=true&width=2880",
+        "tags": [
+            "deportes-internacional",
+            "al najma sc",
+            "cristiano ronaldo",
+            "deportes-argentina",
+            "al nassr",
+            "saudi pro league"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/02/26/cristiano-ronaldo-anoto-su-gol-965-y-lo-celebro-con-un-festejo-inedito-el-dardo-detras-del-gesto/",
+        "date": "2026-02-26 01:41:43",
+        "sentiment_score": 0.4319429323077202
+    },
+    {
+        "title": "Richard Ríos destacó en Benfica, pero no pudo evitar la eliminación ante Real Madrid en la Champions League",
+        "image_url": "https://www.infobae.com/resizer/v2/LJV233ZLZVFUHKG6UOZEAE55NA.jpg?auth=498bed3abd9f2ac99e923f272206c69677ebe85dad6a3496ce88684e57e5ca4d&height=540&smart=true&width=960",
+        "tags": [
+            "colombia-deportes",
+            "benfica",
+            "real madrid",
+            "champions league",
+            "richard ríos"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/26/richard-rios-destaco-en-benfica-pero-no-pudo-evitar-la-eliminacion-ante-real-madrid-en-la-champions-league/",
+        "date": "2026-02-26 00:59:07",
+        "sentiment_score": 0.7495904210954905
+    },
+    {
+        "title": "Liga de Campeones: Real Madrid, PSG y Galatasaray pasan a octavos de final",
+        "image_url": "https://noticiasaldiayalahora.co/wp-content/uploads/2026/02/Real-Madrid-777x437.webp",
+        "tags": [
+            "galatasaray",
+            "deportes",
+            "liga de campeones",
+            "real madrid",
+            "psg"
+        ],
+        "link": "https://noticiasaldiayalahora.co/deportes/liga-de-campeones-real-madrid-psg-y-galatasaray-pasan-a-otavos-de-final/",
+        "date": "2026-02-26 00:35:06",
+        "sentiment_score": 0.061993226408958435
+    },
+    {
+        "title": "Champions League: Estos son los posibles rivales del Real Madrid en octavos",
+        "image_url": "https://pxcdn.meridiano.net/022026/1772065998463.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/champions-league-estos-son-los-posibles-rivales-del-real-madrid-en-octavos-202622520330",
+        "date": "2026-02-26 00:33:00",
+        "sentiment_score": 0.22912247851490974
+    },
+    {
+        "title": "25 FEB 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/25-feb-2026-partidazo-cope-20260226_3315439.html",
+        "date": "2026-02-26 00:32:59",
+        "sentiment_score": 0.5232305750250816
+    },
+    {
+        "title": "Prepárate antes de salir: conoce el pronóstico del clima en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima",
+            "clima en barcelona",
+            "últimas actualizaciones",
+            "clima en españa"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/26/preparate-antes-de-salir-conoce-el-pronostico-del-clima-en-barcelona/",
+        "date": "2026-02-26 02:00:53",
+        "sentiment_score": -0.05413059890270233
+    },
+    {
+        "title": "Desde Navia al mapa de la arquitectura sostenible: el crecimiento de Benito Sistemas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6168eabf-fc9e-416f-9772-e3b8e5feab17_16-9-aspect-ratio_default_0_x480y213.jpg",
+        "tags": [
+            "madrid",
+            "crecimiento",
+            "arquitectura",
+            "edificios"
+        ],
+        "link": "https://www.lne.es/occidente/2026/02/26/navia-mapa-arquitectura-sostenible-crecimiento-127251798.html",
+        "date": "2026-02-26 02:00:03",
+        "sentiment_score": 0.4092244654893875
+    },
+    {
+        "title": "Robert Massanet, director de Sutton: \"Tras 25 años, no competimos con discotecas de Barcelona, sino con las del mundo\"",
+        "image_url": "https://s3.elespanol.com/2026/02/25/actualidad/1003744145194_261619207_1706x960.jpg",
+        "tags": [
+            "barcelona",
+            "discotecas",
+            "sociedad",
+            "empresarios"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20260226/robert-massanet-director-sutton-anos-no-competimos-discotecas-barcelona-mundo/1003744145078_0.html",
+        "date": "2026-02-26 02:00:00",
+        "sentiment_score": 0.4892859570682049
+    },
+    {
+        "title": "La actriz Loles León reivindica la actividad sexual a todas las edades en ‘La Revuelta’: “Se tiene que probar de todo”",
+        "image_url": "https://www.infobae.com/resizer/v2/37QPAUGVHRCC7CNI6RXPZGSZSU.jpg?auth=bf12d21678a064f856a43bc909ef3d0c706f0da7b3ab299c8d371e830e6efe65&height=1080&smart=true&width=1920",
+        "tags": [
+            "gente españa",
+            "david broncano",
+            "españa televisión",
+            "españa-noticias",
+            "la revuelta",
+            "españa-entretenimiento",
+            "sexo",
+            "rtve",
+            "famosos españa"
+        ],
+        "link": "https://www.infobae.com/espana/2026/02/26/la-actriz-loles-leon-reivindica-la-actividad-sexual-a-todas-las-edades-en-la-revuelta-se-tiene-que-probar-de-todo/",
+        "date": "2026-02-26 01:42:49",
+        "sentiment_score": 0.16448295302689075
+    },
+    {
+        "title": "Ryanair consuma su ‘trampa’: aumenta su tráfico en España un 4,1% pese a los recortes de 1,8 millones de plazas en 2025",
+        "image_url": "https://s3.elespanol.com/2025/10/08/actualidad/1003743960778_259251951_1706x960.jpg",
+        "tags": [
+            "ryanair",
+            "turismo"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/turismo/20260226/ryanair-consuma-trampa-aumenta-trafico-espana-pese-recortes-millones-plazas/1003744145301_0.html",
+        "date": "2026-02-26 01:22:44",
+        "sentiment_score": -0.8122994098812342
+    },
+    {
+        "title": "Loles León anuncia en ‘La Revuelta’ sus nuevos proyectos: un show de sexo en La 2 y un musical por los ‘prides’ de España",
+        "image_url": "https://www.infobae.com/resizer/v2/JSZRLP5255H2XKQTIVGY3R6XYM.jpg?auth=f91d309200f4636f88f5279a5251ff8399c2b46360a78b11cfe5200ef1f381df&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-entretenimiento",
+            "españa televisión",
+            "españa-noticias",
+            "rtve",
+            "famosos españa",
+            "gente españa",
+            "la revuelta",
+            "david broncano"
+        ],
+        "link": "https://www.infobae.com/espana/viajes/2026/02/26/loles-leon-anuncia-en-la-revuelta-sus-nuevos-proyectos-un-show-de-sexo-en-la-2-y-un-tour-por-los-prides-de-espana/",
+        "date": "2026-02-26 01:00:45",
+        "sentiment_score": 0.22271809726953506
+    },
+    {
+        "title": "Entrevista a Ferran Olivé, ex tesorero del Barça: \"Estamos a 12 millones de la regla 1:1 y podremos fichar un '9' en verano\"",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/26/culemania/palco/1003742736219_15759681_1706x960.jpg",
+        "tags": [
+            "fair play de la liga",
+            "palco",
+            "ferran olivé",
+            "joan laporta",
+            "elecciones barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260226/entrevista-ferran-olive-tesorero-barca-millones-podremos/1003742736184_0.html",
+        "date": "2026-02-26 00:28:14",
+        "sentiment_score": -0.3450821191072464
+    },
+    {
+        "title": "Víctor Méndez: \"El narcotráfico es parte del paisaje\"",
+        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2026/02/26/2026022601095858443.jpg",
+        "tags": [
+            "pontevedra"
+        ],
+        "link": "https://www.diariodepontevedra.es/articulo/pontevedra/victor-mendez-narcotrafico-es-parte-paisaje/202602260118011435200.html",
+        "date": "2026-02-26 00:18:01",
+        "sentiment_score": -0.4188735745847225
+    },
+    {
+        "title": "Sorteo de la Champions League: el camino definitivo a la final se define este viernes",
+        "image_url": "https://pxcdn.2001online.com/2001/022026/1772065942166/tottenham-hotspur-v-arsenal-premier-league.jpg?ch=675&cw=1200",
+        "tags": [
+            "uefa champions league",
+            "real madrid",
+            "champions",
+            "fc barcelona",
+            "sorteo de la uefa champions league"
+        ],
+        "link": "https://2001online.com/deportes/sorteo-de-la-champions-league-el-camino-definitivo-a-la-final-se-define-este-viernes-202622520450",
+        "date": "2026-02-26 00:06:13",
+        "sentiment_score": 0.07330481708049774
+    },
+    {
+        "title": "Amira y King Street aspiran a duplicar su plataforma de residencias de estudiantes",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/2b055bf68a631657d9340fafd3c5adbf/crop/260x208/1641x1129/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/25/17720435680647.jpg",
+        "tags": [
+            "empresas>",
+            "inmobiliario y construcción>",
+            "mercado inmobiliario>",
+            "artículos rebeca arroyo>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2026/02/26/699f3d9a468aebb7028b457a.html",
+        "date": "2026-02-25 23:55:49",
+        "sentiment_score": 0.4260524921119213
     }
 ];
