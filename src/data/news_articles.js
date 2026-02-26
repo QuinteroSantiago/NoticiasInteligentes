@@ -1,183 +1,5 @@
 export default [
     {
-        "title": "Dani Vidal, entrenador del Real Avilés: «No puedo asegurar victorias, pero sí que mi equipo trabaje y haga buenos partidos»",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/02/22/dani-vidal-kAWG-U20846400991saH-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "real avilés",
-            "avilés"
-        ],
-        "link": "https://www.elcomercio.es/real-aviles/dani-vidal-entrenador-real-aviles-puedo-asegurar-20260222184759-nt.html",
-        "date": "2026-02-22 17:48:04",
-        "sentiment_score": 0.1936701536178589
-    },
-    {
-        "title": "Crónica del FC Barcelona - Levante UD: 3-0",
-        "image_url": "https://www.infobae.com/resizer/v2/6HNIKTE7OJHCHMTQYMU4Z2JZZU.jpg?auth=a5d6c2100730a0da0fdc539d20709dbb776671b490f4ae939bcdb0d0ca1633cf&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/22/cronica-del-fc-barcelona-levante-ud-3-0/",
-        "date": "2026-02-22 17:45:31",
-        "sentiment_score": -0.03232230246067047
-    },
-    {
-        "title": "Real Madrid y Baskonia quieren la Copa del Rey",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/21/699a161a13954.r_d.815-576-6250.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.eldebate.com/deportes/baloncesto/20260222/real-madrid-baskonia-directo-sigue-final-copa-rey-baloncesto-vivo_388165.html",
-        "date": "2026-02-22 17:45:05",
-        "sentiment_score": -0.14236967265605927
-    },
-    {
-        "title": "Directo | Real Madrid - Baskonia",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/22/realmadrid-baskonia-final-ksDB-U208464745139LH-758x531@RC.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.ideal.es/deportes/baloncesto/directo-realmadrid-baskonia-final-copa-20260222180850-dirc.html",
-        "date": "2026-02-22 17:44:10",
-        "sentiment_score": -0.0784979835152626
-    },
-    {
-        "title": "Real Madrid - Baskonia, en directo",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/22/realmadrid-baskonia-final-ksDB--758x531@RC.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/deportes/baloncesto/directo-realmadrid-baskonia-final-copa-20260222180850-dirc.html",
-        "date": "2026-02-22 17:44:10",
-        "sentiment_score": -0.01884719729423523
-    },
-    {
-        "title": "Salomón Rondón vuelve a marcar en triunfo del Pachuca sobre Tigres",
-        "image_url": "https://noticialdia.com/wp-content/firewall/uploads/2026/02/Salomon-Rondon-.webp",
-        "tags": [
-            "deportes",
-            "gol",
-            "pachuca",
-            "méxico",
-            "salomón rondón"
-        ],
-        "link": "https://noticialdia.com/deportes/salomon-rondon-vuelve-a-marcar-en-triunfo-del-pachuca-sobre-tigres/",
-        "date": "2026-02-22 17:39:06",
-        "sentiment_score": 0.4136990010738373
-    },
-    {
-        "title": "El Barça vuelve a la cima de la Liga a medio gas (3-0)",
-        "image_url": "https://cflvdg.avoz.es/sc/fQZ7o50VkgqjdRy-GLW4-pWtMDo=/768x/2026/02/22/00121771780982007776722/Foto/reu_20260222_170822751.jpg",
-        "tags": [
-            "deportes",
-            "fc barcelona"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/02/22/barca-vuelve-cima-medio-gas-3-0/00031771781631721520583.htm",
-        "date": "2026-02-22 17:39:00",
-        "sentiment_score": -0.7679139990359545
-    },
-    {
-        "title": "Real Madrid - Baskonia de la Copa del Rey de baloncesto, en directo: marcador y última hora de la final",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/22/699b2c877138b3-78354724.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.20minutos.es/deportes/baloncesto/real-madrid-baskonia-copa-rey-baloncesto-directo-marcador-ultima-hora-final_6937469_6.html",
-        "date": "2026-02-22 17:37:17",
-        "sentiment_score": 0.2000749632716179
-    },
-    {
-        "title": "El Barça vuelve a la cima a medio gas",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/22/barcelona-levante-cronica-k61-U20781141386f0H-1200x840@RC.jpg",
-        "tags": [
-            "lamine yamal",
-            "levante",
-            "f.c. barcelona",
-            "robert lewandowski",
-            "liga de fútbol profesional"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-primera/cronica-barcelona-levante-primera-jornada25-20260222180552-ntrc.html",
-        "date": "2026-02-22 17:37:16",
-        "sentiment_score": -0.7679139990359545
-    },
-    {
-        "title": "Abatido en México 'El Mencho', líder del Cartel de Jalisco Nueva Generación",
-        "image_url": "https://static.infolibre.es/clip/4edc9159-4367-4f14-b5e6-4d232c3667de_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "internacional",
-            "estados unidos",
-            "drogas",
-            "méxico"
-        ],
-        "link": "https://www.infolibre.es/internacional/abatido-mexico-mencho-lider-cartel-jalisco-nueva-generacion_1_2149763.html",
-        "date": "2026-02-22 17:57:59",
-        "sentiment_score": -0.34915269911289215
-    },
-    {
-        "title": "Resumen Barcelona-Levante: \"Cuenta nueva\" después del \"borrón\" en Girona (3-0)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/22/image-d8836dcf-d2d7-429f-a6e4-81b85e7380c8-85-2560-1440.jpeg",
-        "tags": [
-            "lifestyle",
-            "entertainment",
-            "top"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/barcelona-levante-video-resumen-resultado-goles-y-mejores-momentos-del-partido-la-liga-ea-sports-jornada-25-hoy_vid60059785/video.shtml",
-        "date": "2026-02-22 17:46:33",
-        "sentiment_score": 0.6758676916360855
-    },
-    {
-        "title": "Barcelona prepara la transformación de La Maquinista: levantará 65.000 m2 de vivienda sobre el centro comercial y su entorno",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/02/29/economia/836426565_12534330_1706x960.jpg",
-        "tags": [
-            "sant andreu",
-            "centro comercial",
-            "obras",
-            "vivienda",
-            "urbanismo"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sant-andreu/20260222/barcelona-prepara-transformacion-maquinista-levantara-m2-vivienda-centro-comercial-entorno/1003742735166_0.html",
-        "date": "2026-02-22 17:46:04",
-        "sentiment_score": -0.6160026714205742
-    },
-    {
-        "title": "\"Si yo fuera Gavi intentaría irme cedido la temporada que viene, porque no va a tener sitio\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/08/30/68b2b3d3e1551.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/fuera-gavi-intentaria-irme-cedido-temporada-viene-no-sitio-20260222_3312745.html",
-        "date": "2026-02-22 17:45:44",
-        "sentiment_score": -0.06196773052215576
-    },
-    {
-        "title": "17:15 | 22 FEB 2026 | TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/17-15-22-feb-2026-juego-20260222_3312742.html",
-        "date": "2026-02-22 17:38:32",
-        "sentiment_score": 0.031136954203248024
-    },
-    {
-        "title": "Los barceloneses viven con ilusión la llegada a la ciudad de la 40a edición de los Premios Goya",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/202602/22/media/cortadas/barceloneses-viven-ilusin-llegada-ciudad-edicin-premios-20260222172518-vi.jpg",
-        "tags": [
-            "ilusin",
-            "premios",
-            "goya",
-            "ciudad",
-            "barceloneses",
-            "viven",
-            "llegada",
-            "edicin"
-        ],
-        "link": "https://www.elcomercio.es/culturas/barceloneses-viven-ilusin-llegada-ciudad-edicin-premios-20260222172518-vi.html",
-        "date": "2026-02-22 17:35:30",
-        "sentiment_score": 0.03436889499425888
-    },
-    {
         "title": "Scariolo reconoce la superioridad del Baskonia",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/a1017e5a-57b4-4990-878b-cc144b11b644_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -3227,5 +3049,169 @@ export default [
         "link": "https://www.expansion.com/inmobiliario/mercado/2026/02/26/699f3d9a468aebb7028b457a.html",
         "date": "2026-02-25 23:55:49",
         "sentiment_score": 0.4260524921119213
+    },
+    {
+        "title": "Al CB Canarias se le cierra una puerta para un posible refuerzo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cd671f57-77e7-4532-bf97-ff9df2a1b47f_16-9-discover-aspect-ratio_default_0_x900y399.jpg",
+        "tags": [
+            "lesión",
+            "cb canarias",
+            "joan sastre",
+            "txus vidorreta",
+            "canarias"
+        ],
+        "link": "https://www.eldia.es/deportes/cb-canarias/2026/02/26/cb-canarias-fichaje-cupo-joan-sastre-127279971.html",
+        "date": "2026-02-26 07:00:38",
+        "sentiment_score": -0.4443443492054939
+    },
+    {
+        "title": "Fermín Bocos.- Ucrania: el fracaso de la ONU",
+        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
+        "tags": [
+            "firmas",
+            "otr press"
+        ],
+        "link": "https://www.europapress.es/otr-press/firmas/ferminbocos/noticia-fermin-bocos-ucrania-fracaso-onu-20260226080036.html",
+        "date": "2026-02-26 07:00:36",
+        "sentiment_score": -0.30054011940956116
+    },
+    {
+        "title": "Lekue desvela en COPE Bilbao el mensaje de Valverde para no mirar a Europa: \"La prioridad son los 42 puntos\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/01/21/6970e825846f5.r_d.1525-559-2867.jpeg",
+        "tags": [
+            "deportes vizcaya"
+        ],
+        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-vizcaya/noticias/lekue-desvela-cope-bilbao-mensaje-valverde-no-mirar-europa-prioridad-son-42-puntos-20260226_3315015.html",
+        "date": "2026-02-26 07:00:00",
+        "sentiment_score": 0.013284355401992798
+    },
+    {
+        "title": "Guía Macarfi 2026: estos son los restaurantes TOP 10 de Asturias",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/02/25/macarfi-kzGH-U20908904996gfE-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "restaurantes",
+            "macarfi",
+            "guia",
+            "top",
+            "asturias",
+            "2026"
+        ],
+        "link": "https://www.elcomercio.es/gastronomia/guia-macarfi-2026-restaurantes-asturias-20260225234311-nt.html",
+        "date": "2026-02-26 06:45:55",
+        "sentiment_score": 0.22111472859978676
+    },
+    {
+        "title": "Rubio descarta un calendario electoral en Venezuela pero advierte que las autoridades necesitan \"legitimarse\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260226073518_690.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-rubio-descarta-calendario-electoral-venezuela-advierte-autoridades-necesitan-legitimarse-20260226073518.html",
+        "date": "2026-02-26 06:35:18",
+        "sentiment_score": -0.34816647320985794
+    },
+    {
+        "title": "Fede Valverde emociona al recordar su infancia en Montevideo: “No éramos pobres, mis padres eran muy trabajadores”",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/09/02/2024090211473889530.jpg",
+        "tags": [
+            "famosos"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/famosos/fede-valverde-emociona-recordar-infancia-montevideo-eramos-pobres-mis-padres-eran-muy-trabajadores/202602260728001006111.html",
+        "date": "2026-02-26 06:28:00",
+        "sentiment_score": 0.735795870423317
+    },
+    {
+        "title": "Veline Ong, emprendedora china: \"Mis estudiantes consiguen hablar chino con fluidez en solo 3 meses\"",
+        "image_url": "https://s3.elespanol.com/2026/02/25/actualidad/1003744145626_261624697_1706x960.jpg",
+        "tags": [
+            "alicante (ciudad)",
+            "startup",
+            "economía",
+            "china",
+            "alicante (provincia)",
+            "emprendedores"
+        ],
+        "link": "https://www.elespanol.com/alicante/economia/20260226/veline-ong-emprendedora-china-estudiantes-consiguen-hablar-chino-fluidez-solo-meses/1003744145618_0.html",
+        "date": "2026-02-26 06:27:46",
+        "sentiment_score": 0.43258240073919296
+    },
+    {
+        "title": "Rectores y sindicatos se rebelan contra la ley universitaria de Moreno Bonilla por favorecer a las privadas",
+        "image_url": "https://www.elplural.com/uploads/s1/24/62/43/5/presidente-junta-andalucia-juanma-moreno-rueda-prensa-posterior-consejo_7_480x270.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.elplural.com/opinion/rectores-sindicatos-rebelan-contra-ley-universitaria-moreno-bonilla-favorecer-privadas_382510102",
+        "date": "2026-02-26 06:22:55",
+        "sentiment_score": -0.03801041841506958
+    },
+    {
+        "title": "Expulsado del Bernabéu un aficionado del Real Madrid por hacer el saludo nazi en la Grada Fans",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/02/26/699f7fb793f062-59080337.r_d.960-820.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/expulsado-bernabeu-un-aficionado-real-madrid-por-hacer-saludo-nazi-grada-fans_6939113_0.html",
+        "date": "2026-02-26 06:18:52",
+        "sentiment_score": 0.03649364784359932
+    },
+    {
+        "title": "«Nos encanta ver a la abuelilla de 80 años y al chavalillo divirtiéndose juntos»",
+        "image_url": "https://s1.ppllstatics.com/lagacetadesalamanca/www/multimedia/2026/02/25/03-Rus5GjHQJixw2tG7tLJYHsN-758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "béjar y sierra",
+            "béjar",
+            "cultura",
+            "salamanca (provincia)",
+            "fiestas"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/provincia/encanta-ver-abuelilla-anos-chavalillo-divirtiendose-juntos-20260225071800-nt.html",
+        "date": "2026-02-26 06:18:00",
+        "sentiment_score": 0.6697565726935863
+    },
+    {
+        "title": "Junts pide cambiar el nombre de una calle de Barcelona por llevar el nombre de un rey español",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/25/E3B12436-15E5-4403-BB79-00C61E270F80/calle-ferran-barcelona_69.jpg?crop=1024%2C576%2Cx0%2Cy96&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/junts-pide-cambiar-nombre-calle-barcelona-llevar-nombre-rey-espanol_20260226699fef849243cc133c643dd0.html",
+        "date": "2026-02-26 07:00:20",
+        "sentiment_score": 0.390393503010273
+    },
+    {
+        "title": "Barcelona, preparada para decir adiós al sol: el Meteocat lo confirma y, a partir de esta fecha, podríamos tener varios días seguidos lloviendo",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/01/28/65b628417c408.r_d.3548-2524-0.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20260226/1004136339/barcelona-preparada-decir-adios-sol-meteocat-confirma-partir-fecha-dias-seguidos-lloviendo-dct.html",
+        "date": "2026-02-26 07:00:05",
+        "sentiment_score": -0.7791530303657055
+    },
+    {
+        "title": "Mañana caótica en el área de Barcelona: la densa niebla y múltiples accidentes complican el tráfico",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/08/12/movilidad/786181588_9105582_1706x960.jpg",
+        "tags": [
+            "accidentes",
+            "gran barcelona",
+            "movilidad",
+            "coches",
+            "tráfico"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/movilidad/20260226/manana-caotica-area-barcelona-densa-niebla-multiples-accidentes-complican-trafico/1003742736230_0.html",
+        "date": "2026-02-26 06:55:13",
+        "sentiment_score": -0.8567564059048891
+    },
+    {
+        "title": "Carmen Thyssen: \"Me gustaría tener liquidez para coleccionar más arte\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/04eca27a-ec3e-40c8-be9d-a7166d5aff83_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "arte,barcelona,precios,jamaica,andorra,museo thyssen"
+        ],
+        "link": "https://www.laopiniondezamora.es/cultura/2026/02/26/carmen-thyssen-entrevista-coleccion-arte-mercado-liquidez-127284709.html",
+        "date": "2026-02-26 06:38:52",
+        "sentiment_score": -0.40496882051229477
     }
 ];
