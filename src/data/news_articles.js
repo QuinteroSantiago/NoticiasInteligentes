@@ -1,181 +1,5 @@
 export default [
     {
-        "title": "El parque eólico Ferosca I da un paso más y obtiene la Autorización Administrativa previa tras ‘perder’ tres aerogeneradores",
-        "image_url": "https://a2.elespanol.com/cronicavasca/2026/02/03/empresas/1003742728946_15671247_1706x960.jpg",
-        "tags": [
-            "energía",
-            "energía eólica",
-            "gobierno vasco",
-            "industria",
-            "energía renovable",
-            "empresas"
-        ],
-        "link": "https://cronicavasca.elespanol.com/empresas/20260223/parque-eolico-ferosca-obtiene-autorizacion-administrativa-aerogeneradores/1003742734728_0.html",
-        "date": "2026-02-23 07:13:52",
-        "sentiment_score": 0.11887827515602112
-    },
-    {
-        "title": "El plan de Rufián, el giro izquierdista del espíritu de Roca y Cambó",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/207b93d1-0e84-44c8-997f-aca89f32d10f_16-9-aspect-ratio_default_0_x2984y1527.jpg",
-        "tags": [
-            "espiritu",
-            "rufian",
-            "giro",
-            "plan",
-            "izquierdista"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/politica/2026/02/23/plan-rufian-giro-izquierdista-espiritu-10734979.html",
-        "date": "2026-02-23 07:00:48",
-        "sentiment_score": -0.2334016114473343
-    },
-    {
-        "title": "Bruselas cuestiona la baliza V16 obligatoria por falta de notificación de España",
-        "image_url": "https://www.actualidadmotor.com/wp-content/uploads/2025/10/Luz-V16-conectada-2.jpg",
-        "tags": [
-            "noticias automóviles",
-            "seguridad y seguridad vial"
-        ],
-        "link": "https://www.actualidadmotor.com/bruselas-cuestiona-la-baliza-v16-obligatoria-por-falta-de-notificacion-de-espana/",
-        "date": "2026-02-23 07:00:37",
-        "sentiment_score": -0.5596359670162201
-    },
-    {
-        "title": "El nombre de niña que se oye en Galicia y en el resto de España ni saben decirlo: su origen está en un monte",
-        "image_url": "https://okdiario.com/img/2026/02/20/el-nombre-de-nina-que-se-oye-en-galicia-y-en-el-resto-de-espana-ni-saben-decirlo-su-origen-esta-en-un-monte.jpg",
-        "tags": [
-            "okd",
-            "nombres de niño",
-            "niños",
-            "nombres de niña",
-            "bebés"
-        ],
-        "link": "https://okdiario.com/bebes/nombre-nina-que-oye-galicia-resto-espana-ni-saben-decirlo-origen-esta-monte-16278281",
-        "date": "2026-02-23 07:00:26",
-        "sentiment_score": -0.4353950768709183
-    },
-    {
-        "title": "Cortes de luz en Madrid del 23 de febrero al 1 de marzo: horarios y calles afectadas",
-        "image_url": "https://okdiario.com/img/2026/02/20/cortes-de-luz-en-madrid-del-23-de-febrero-al-1-de-marzo-horarios-y-calles-afectadas.jpg",
-        "tags": [
-            "okd",
-            "apagón",
-            "luz",
-            "madrid",
-            "españa"
-        ],
-        "link": "https://okdiario.com/madrid/cortes-luz-madrid-del-23-febrero-1-marzo-horarios-calles-afectadas-16276695",
-        "date": "2026-02-23 07:00:17",
-        "sentiment_score": -0.6937107816338539
-    },
-    {
-        "title": "El Papa advirtió a la Conferencia Episcopal del crecimiento ultra en España",
-        "image_url": "https://www.elplural.com/uploads/s1/24/65/45/2/leon-xiv-y-conferencia-episcopal-espanola-vatican-media_7_480x270.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elplural.com/politica/espana/papa-advirtio-conferencia-episcopal-crecimiento-ultra-espana_382188102",
-        "date": "2026-02-23 06:57:00",
-        "sentiment_score": -0.05802673101425171
-    },
-    {
-        "title": "La Copa aterriza en Foronda",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/93d0eacf-30a6-4bca-a850-d076cfd3311a_16-9-aspect-ratio_default_0_x753y1075.jpg",
-        "tags": [
-            "copa del rey",
-            "copa acb",
-            "copa",
-            "foronda",
-            "vitoria-gasteiz",
-            "baskonia",
-            "aterriza"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/23/copa-aterriza-foronda-baskonia-copa-del-rey-copa-acb-vitoria-gasteiz-10734933.html",
-        "date": "2026-02-23 06:51:08",
-        "sentiment_score": 0.15597808361053467
-    },
-    {
-        "title": "Denuncian Joan Laporta y algunos de sus directivos por blanqueo de capitales",
-        "image_url": "https://static1.ara.cat/clip/ae7fb636-3c9f-479d-91af-bc0c73f87932_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "capitales",
-            "blanqueo",
-            "joan",
-            "directivos",
-            "denuncian",
-            "laporta"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/denuncian-joan-laporta-directivos-blanqueo-capitales_1_5656634.html",
-        "date": "2026-02-23 07:15:33",
-        "sentiment_score": -0.8351699449121952
-    },
-    {
-        "title": "Publican la lista de las 100 mejores cafeterías del mundo y 4 de ellas están en España: en Barcelona, Madrid y Málaga",
-        "image_url": "https://okdiario.com/img/2026/02/20/publican-la-lista-de-las-100-mejores-cafeterias-del-mundo-y-4-de-ellas-estan-en-espana-en-barcelona-madrid-y-malaga.jpg",
-        "tags": [
-            "okd",
-            "café",
-            "madrid",
-            "gastronomía",
-            "bebidas",
-            "barcelona"
-        ],
-        "link": "https://okdiario.com/gastronomia/publican-lista-100-mejores-cafeterias-del-mundo-4-ellas-estan-espana-barcelona-madrid-malaga-16278686",
-        "date": "2026-02-23 07:15:10",
-        "sentiment_score": 0.3719405308365822
-    },
-    {
-        "title": "07:00H | 23 FEB 2026 | ¡Buenos días, Javi y Mar!",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "¡buenos días, javi y mar!"
-        ],
-        "link": "https://www.cadena100.es/programas/buenos-dias-javi-y-mar/horas-completas/07-00h-23-feb-2026-buenos-dias-javi-mar-20260223_146459.html",
-        "date": "2026-02-23 07:12:00",
-        "sentiment_score": -0.1827504187822342
-    },
-    {
-        "title": "Iberia elimina hoy el tope a los precios en los vuelos Madrid-Barcelona",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/21/6970a0953c0a72-94973431.jpeg",
-        "tags": [
-            "empresas"
-        ],
-        "link": "https://www.20minutos.es/lainformacion/empresas/iberia-elimina-este-lunes-tope-los-precios-los-vuelos-madrid-barcelona_6937547_0.html",
-        "date": "2026-02-23 07:10:02",
-        "sentiment_score": -0.3549894504249096
-    },
-    {
-        "title": "Hyundai arrasa en experiencia de cliente: garantía sin límite, devolución ampliada y compromiso real",
-        "image_url": "https://imagenes.esdiario.com/files/og_thumbnail/uploads/2026/02/21/6999904b9e66c.png",
-        "tags": [
-            "motor"
-        ],
-        "link": "https://www.esdiario.com/motor/260223/180425/hyundai-arrasa-experiencia-cliente-garantia-limite-devolucion-ampliada-compromiso-real.html",
-        "date": "2026-02-23 07:10:00",
-        "sentiment_score": 0.8351683244109154
-    },
-    {
-        "title": "Suben los alquileres y élites enfrentadas",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/23/primeras-planas/1003742735245_15748280_1706x960.jpg",
-        "tags": [
-            "cataluña",
-            "alquiler",
-            "primeras planas"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260223/suben-alquileres-elites-enfrentadas/1003742735243_0.html",
-        "date": "2026-02-23 07:09:56",
-        "sentiment_score": -0.6817292049527168
-    },
-    {
-        "title": "Lamine Yamal se enfada al ser sustituido y Hansi Flick le lanza un mensaje: \"No entendería que estuviese contento\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/02/22/699b75d6e62575-66265083.r_d.961-601.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/lamine-yamal-se-enfada-ser-sustituido-hansi-flick-le-lanza-un-mensaje-no-entenderia-que-estuviese-contento_6937514_0.html",
-        "date": "2026-02-23 07:03:14",
-        "sentiment_score": -0.7192355524748564
-    },
-    {
         "title": "Activistas exigen acción tras abusos racistas a 4 jugadores de la Premier en fin de semana \"atroz\"",
         "image_url": "https://dims.apnews.com/dims4/default/fcb27f9/2147483647/strip/true/crop/3289x2189+60+0/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2Fb7%2F495c47f6d6ddb423b9f09dce829c%2Fcc36c172c1bf41a897df75350019adf6",
         "tags": [
@@ -3021,5 +2845,224 @@ export default [
         "link": "https://www.lavozdelanzarote.com/actualidad/mas-noticias/conoce-enmedio-volcan-submarino-activo-late-entre-tenerife-gran-canaria_241618_102.html",
         "date": "2026-02-26 17:33:21",
         "sentiment_score": -0.23031742870807648
+    },
+    {
+        "title": "Foro España galardona los valores patrióticos y solidarios esenciales para «la vida en común de los españoles»",
+        "image_url": "https://okdiario.com/img/2026/02/26/premios.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://okdiario.com/espana/foro-espana-galardona-valores-patrioticos-solidarios-esenciales-vida-comun-espanoles-16314965",
+        "date": "2026-02-26 22:32:51",
+        "sentiment_score": 0.42756714671850204
+    },
+    {
+        "title": "El legado desconocido de Pelé sale a la luz de la mano de su agente de toda la vida",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2026/02/Pele-legado.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elsiglo.com.ve/el-legado-desconocido-de-pele-sale-a-la-luz-de-la-mano-de-su-agente-de-toda-la-vida/",
+        "date": "2026-02-26 22:26:03",
+        "sentiment_score": -0.12181146442890167
+    },
+    {
+        "title": "Demi Moore se arrepiente de esta película 35 años después: una decisión que marcó su carrera",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/06/02/2025060223002027155.jpg",
+        "tags": [
+            "famosos"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/famosos/demi-moore-arrepiente-pelicula-35-anos-despues-decision-que-marco-carrera/202602262323561006440.html",
+        "date": "2026-02-26 22:23:56",
+        "sentiment_score": -0.3876377120614052
+    },
+    {
+        "title": "Marisol y Manuel Goyanes: la historia real detrás de su llegada a Madrid con solo 8 años",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/02/26/2026022623201998403.jpg",
+        "tags": [
+            "famosos"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/famosos/marisol-manuel-goyanes-historia-real-detras-llegada-madrid-solo-8-anos/202602262320301006439.html",
+        "date": "2026-02-26 22:20:30",
+        "sentiment_score": -0.0989174097776413
+    },
+    {
+        "title": "Crónica del Real Madrid - Bayern Múnich, 93-70",
+        "image_url": "https://www.infobae.com/resizer/v2/RIPDJ6KEI5GSJLBBTLRCEKZRQE.jpg?auth=bdc7051cb2ae1ca1680b0ec4c293eb442dc94abd6044919556ef68bd507e0ec7&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/26/cronica-del-real-madrid-bayern-munich-93-70/",
+        "date": "2026-02-26 22:15:40",
+        "sentiment_score": -0.10206221789121628
+    },
+    {
+        "title": "El Real Madrid levanta la cabeza contra el Bayern",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/b439d84d-5ecd-4060-9557e8a294639a8c.jpg",
+        "tags": [
+            "real madrid",
+            "sergio llull",
+            "virus",
+            "bayern de munich",
+            "euroliga",
+            "baskonia",
+            "copa del rey",
+            "sergio scariolo"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zf6f9ef3f-bd30-4fdc-bf5c6378d757329c/202602/el-real-madrid-levanta-la-cabeza-contra-el-bayern",
+        "date": "2026-02-26 22:10:49",
+        "sentiment_score": -0.7733094915747643
+    },
+    {
+        "title": "Ledezma cree que «la interferencia de Zapatero» ha sido nefasta para Venezuela",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/Ledezma-MCM.jpg",
+        "tags": [
+            "internacional",
+            "maría corina machado",
+            "donald trump",
+            "venezuela",
+            "josé luis rodríguez zapatero",
+            "petróleo",
+            "delcy rodríguez",
+            "pedro sánchez",
+            "estados unidos",
+            "antonio ledezma",
+            "nicolás maduro",
+            "josé manuel albares",
+            "josé maría aznar"
+        ],
+        "link": "https://theobjective.com/internacional/2026-02-26/ledezma-interferencia-zapatero-nefasta-venezuela/",
+        "date": "2026-02-26 22:02:12",
+        "sentiment_score": -0.9406086774542928
+    },
+    {
+        "title": "El Baskonia paga su resaca por la Copa del Rey",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/0a636a2a-b411-455b-85ff451ed2cf8bf8.jpg",
+        "tags": [
+            "real madrid",
+            "euroliga",
+            "valencia basket",
+            "baskonia",
+            "copa del rey"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z7aa94ce0-f108-4244-85c3bf3e6c55228b/202602/el-baskonia-paga-su-resaca-por-la-copa-del-rey",
+        "date": "2026-02-26 21:51:50",
+        "sentiment_score": -0.08737067878246307
+    },
+    {
+        "title": "Enigma Mbappé: Real Madrid busca reaccionar ante Getafe sin su astro",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/5c51537/2147483647/strip/true/crop/8256x4334+0+585/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fff%2Fc9%2Fb589f2bd48e281d96f184faeb792%2F64d8c3d518e149dcb1e58333699f8308.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-26/enigma-mbappe-real-madrid-busca-reaccionar-ante-getafe-sin-su-astro",
+        "date": "2026-02-26 21:48:09",
+        "sentiment_score": -0.9107739962637424
+    },
+    {
+        "title": "24 horas antes de los Premios Goya 2026, llega a Movistar Plus+ la película española más nominada y aclamada por la crítica",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/01/25/6975e0575d398.jpeg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20260226/1004136946/24-horas-premios-goya-2026-llega-movistar-plus-pelicula-espanola-mas-nominada-aclamada-critica-tvp-dct.html",
+        "date": "2026-02-26 22:34:52",
+        "sentiment_score": 0.5649596322327852
+    },
+    {
+        "title": "Ahogados: el ocio nocturno denuncia una Barcelona \"cada vez más hostil\" para la actividad empresarial",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/12/31/vivir-en-barcelona/821427859_12163279_1706x960.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260226/ahogados-ocio-nocturno-denuncia-barcelona-vez-hostil-actividad-empresarial/1003742736068_0.html",
+        "date": "2026-02-26 22:30:00",
+        "sentiment_score": -0.9207302862778306
+    },
+    {
+        "title": "Woke, el peligro cansino",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/20/vivir-en-barcelona/1003742734771_15742491_1706x960.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/opinion/20260226/woke-peligro-cansino/1003742736496_12.html",
+        "date": "2026-02-26 22:30:00",
+        "sentiment_score": -0.6264007017016411
+    },
+    {
+        "title": "Un nuevo anticuerpo monoclonal promete reducir los días de migraña en niños y adolescentes: cómo funciona",
+        "image_url": "https://www.infobae.com/resizer/v2/D4GG76TZXRFNRKI76GC7XIW2FI.png?auth=917bc4e7e6d7f1790d9c2ba86371e777194162b956dafdf735b549fe5e6a7c65&height=768&smart=true&width=1408",
+        "tags": [
+            "aprobación regulatoria",
+            "newsroom bue",
+            "salud infantil",
+            "migraña pediátrica"
+        ],
+        "link": "https://www.infobae.com/salud/ciencia/2026/02/26/un-nuevo-anticuerpo-monoclonal-promete-reducir-los-dias-de-migrana-en-ninos-y-adolescentes-como-funciona/",
+        "date": "2026-02-26 22:28:01",
+        "sentiment_score": -0.03758222609758377
+    },
+    {
+        "title": "La nueva Fórmula 1 afronta en Melbourne su primer gran examen real",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/14/2025101400485871948.jpg",
+        "tags": [
+            "fórmula 1"
+        ],
+        "link": "https://www.mundiario.com/articulo/formula-1/nueva-formula-1-afronta-melbourne-primer-gran-examen-real/20260226231913376488.html",
+        "date": "2026-02-26 22:19:13",
+        "sentiment_score": -0.2043091505765915
+    },
+    {
+        "title": "Qué hacer en Barcelona para relajarse y desconectar",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/26/2026022623124590063.jpg",
+        "tags": [
+            "turismo"
+        ],
+        "link": "https://www.mundiario.com/articulo/munditravel/que-hacer-barcelona-relajarse-desconectar/20260226231337376487.html",
+        "date": "2026-02-26 22:13:37",
+        "sentiment_score": 0.7863114215433598
+    },
+    {
+        "title": "La Audiencia de Alicante tumba la sentencia que condenó sin contraanálisis a un empresario que envió cannabis en avión",
+        "image_url": "https://static.eldiario.es/clip/448dd05d-dd96-44d2-978f-33b514a31a72_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "castellón",
+            "actualidad",
+            "comunidad valenciana",
+            "alicante",
+            "valencia",
+            "opinión",
+            "noticias",
+            "información",
+            "análisis"
+        ],
+        "link": "https://www.eldiario.es/comunitat-valenciana/audiencia-alicante-tumba-sentencia-condeno-contraanalisis-empresario-envio-cannabis-avion_1_13023997.html",
+        "date": "2026-02-26 22:00:58",
+        "sentiment_score": -0.28640881180763245
+    },
+    {
+        "title": "Gremio realizó diplomado en preparación de cadáveres en Barcelona",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "locales",
+            "salud"
+        ],
+        "link": "https://eltiempove.com/gremio-realizo-diplomado-en-preparacion-de-cadaveres-en-barcelona/",
+        "date": "2026-02-26 21:55:37",
+        "sentiment_score": 0.04969966411590576
+    },
+    {
+        "title": "Fcssfanz aplaude la realización de la XV Cohorte de Diplomado de Tanatopraxia en Anzoátegui",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2026/02/Fcssfanz-2602262.jpg",
+        "tags": [
+            "locales",
+            "salud"
+        ],
+        "link": "https://eltiempove.com/fcssfanz-aplaude-la-realizacion-de-la-xv-cohorte-de-diplomado-de-tanatopraxia-en-anzoategui/",
+        "date": "2026-02-26 21:55:37",
+        "sentiment_score": 0.04969966411590576
     }
 ];
