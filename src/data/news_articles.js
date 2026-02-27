@@ -3064,5 +3064,215 @@ export default [
         "link": "https://eltiempove.com/fcssfanz-aplaude-la-realizacion-de-la-xv-cohorte-de-diplomado-de-tanatopraxia-en-anzoategui/",
         "date": "2026-02-26 21:55:37",
         "sentiment_score": 0.04969966411590576
+    },
+    {
+        "title": "Agenda: qué hacer hoy viernes, 27 de febrero en Asturias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6d834358-cd8e-4315-b35c-969161d187f8_16-9-aspect-ratio_default_0_x257y275.jpg",
+        "tags": [
+            "horario",
+            "asturias",
+            "festivos",
+            "ocio",
+            "exposición"
+        ],
+        "link": "https://www.lne.es/asturias/2026/02/27/agenda-hoy-viernes-27-febrero-127317101.html",
+        "date": "2026-02-27 02:32:33",
+        "sentiment_score": 0.03515499830245972
+    },
+    {
+        "title": "El regreso del rey Juan Carlos",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rey",
+            "juan",
+            "regreso",
+            "carlos"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/regreso-rey-juan-carlos_0_2006019933.html",
+        "date": "2026-02-27 02:08:48",
+        "sentiment_score": -0.5647295787930489
+    },
+    {
+        "title": "La Champions League definirá los duelos de octavos de final: hora y dónde ver el sorteo de la Uefa",
+        "image_url": "https://www.infobae.com/resizer/v2/CUQIKWIBP5A2XGTRH4IRKBK5TE.JPG?auth=e1c4db4c14f62f5233c2d41aabee12639162bdb4d2b32a30688456090be07cdb&height=450&smart=true&width=800",
+        "tags": [
+            "champions league",
+            "colombia-deportes",
+            "sorteo champions",
+            "uefa",
+            "champions league octavos",
+            "hora y dónde ver sorteo champions"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/27/la-champions-league-definira-los-duelos-de-octavos-de-final-hora-y-donde-ver-el-sorteo-de-la-uefa/",
+        "date": "2026-02-27 01:52:31",
+        "sentiment_score": 0.09122917801141739
+    },
+    {
+        "title": "El imperio de Paco y Gonzalo Talavera: de empezar en una pequeña fábrica a tener 15 restaurantes en Madrid",
+        "image_url": "https://s3.elespanol.com/2026/02/26/actualidad/1003744146601_261637919_1706x960.jpg",
+        "tags": [
+            "hostelería y restauración",
+            "restaurantes",
+            "rafa nadal",
+            "ocio",
+            "gran vía"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20260227/imperio-paco-gonzalo-talavera-empezar-pequena-fabrica-tener-restaurantes-madrid/1003744146337_0.html",
+        "date": "2026-02-27 00:54:01",
+        "sentiment_score": 0.4700007438659668
+    },
+    {
+        "title": "Reynés: \"Los mejores líderes no crean seguidores; crean más líderes\"",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/fdf5fda80f1beb48b6545b09a0414297/crop/145x2/1973x1221/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/27/17721531683490.jpg",
+        "tags": [
+            "energía>",
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/empresas/energia/2026/02/27/69a0e869468aeb17058b4582.html",
+        "date": "2026-02-27 00:47:09",
+        "sentiment_score": 0.782871775329113
+    },
+    {
+        "title": "La Línea paga el pato por un pacto de Gibraltar perfecto para el Peñón, pésimo para España: vivienda más cara y abandono",
+        "image_url": "https://s3.elespanol.com/2026/02/26/actualidad/1003744147883_261654856_1706x960.jpg",
+        "tags": [
+            "reportajes",
+            "gibraltar",
+            "reino unido",
+            "brexit",
+            "unión europea y cooperación",
+            "ministerio de asuntos exteriores",
+            "la línea de la concepción",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260227/linea-paga-pato-pacto-gibraltar-perfecto-penon-pesimo-espana-vivienda-cara-abandono/1003744147470_0.html",
+        "date": "2026-02-27 00:12:51",
+        "sentiment_score": -0.6602729856967926
+    },
+    {
+        "title": "Misa Rodríguez y su renovación con el Real Madrid, en El Partidazo de COPE: \"Claro que sé qué voy a hacer o qué no voy a hacer\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/26/69a0931b66cdd.jpeg",
+        "tags": [
+            "entrevistas de juanma castaño"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/entrevistas-de-juanma-castano/noticias/misa-rodriguez-renovacion-real-madrid-partidazo-cope-claro-no-20260227_3316283.html",
+        "date": "2026-02-27 00:00:40",
+        "sentiment_score": -0.024768590927124023
+    },
+    {
+        "title": "La empresa alemana que lidera el montaje de la cubierta del Spotify Camp Nou: tras los pasos del Bernabéu y el nuevo Mestalla",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/12/12/culemania/palco/908169239_13854362_1706x960.png",
+        "tags": [
+            "palco",
+            "camp nou",
+            "limak construction"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260227/empresa-cubierta-spotify-camp-nou-bernabeu-mestalla/1003742736621_0.html",
+        "date": "2026-02-26 23:50:51",
+        "sentiment_score": -0.04538341611623764
+    },
+    {
+        "title": "Novia de Vinicius Jr. sorprendida besando a otro hombre ¡Pícara!",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/usa/farandula/novia-de-vinicius-jr-sorprendida-besando-a-otro-hombre-picara-202622619200",
+        "date": "2026-02-26 23:20:00",
+        "sentiment_score": -0.09648627042770386
+    },
+    {
+        "title": "\"La gestión de estos cuatro años nos lleva a Primera Federación\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/27/69a0d22ccda9f.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/sentencia-presidente-penas-real-zaragoza-gestion-cuatro-anos-lleva-primera-federacion-20260227_3316355.html",
+        "date": "2026-02-26 23:12:06",
+        "sentiment_score": -0.11880388855934143
+    },
+    {
+        "title": "\"No somos una carga\": Jubilados de Anzoátegui exigieron pensiones dignas (Foto y video)",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/Jubilados-exigieron-pensiones-dignas-en-Anzoategui-1.jpeg",
+        "tags": [
+            "asociación de jubilados y pensionados del estado anzoátegui",
+            "anzoátegui",
+            "región oriental",
+            "asociaciones de jubilados",
+            "virgilio heredia",
+            "denuncias región oriental",
+            "regiones",
+            "francia castillo",
+            "actualidad",
+            "jubilados del seniat"
+        ],
+        "link": "https://lapatilla.com/2026/02/26/no-somos-una-carga-jubilados-de-anzoategui-exigieron-pensiones-dignas-foto-y-video/",
+        "date": "2026-02-27 02:17:10",
+        "sentiment_score": 0.14377273619174957
+    },
+    {
+        "title": "Pronóstico del estado del tiempo en Barcelona para este 27 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima en barcelona",
+            "clima en españa",
+            "últimas actualizaciones",
+            "clima"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/27/pronostico-del-estado-del-tiempo-en-barcelona-para-este-27-de-febrero/",
+        "date": "2026-02-27 02:15:42",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Walker Evans: verdad y dignidad de la existencia",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "walker",
+            "existencia",
+            "dignidad",
+            "evans"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/walker-evans-dignidad-existencia_0_2006019938.html",
+        "date": "2026-02-27 02:08:51",
+        "sentiment_score": 0.09974163770675659
+    },
+    {
+        "title": "La discoteca de Barcelona que compite con los mejores clubs del mundo tras 25 años: \"Aquí no nos relajamos nunca\"",
+        "image_url": "https://s3.elespanol.com/2026/02/25/actualidad/1003744145249_261620643_1706x960.jpg",
+        "tags": [
+            "discotecas",
+            "sociedad",
+            "barcelona"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20260227/discoteca-barcelona-compite-mejores-clubs-mundo-anos-no-relajamos-nunca/1003744145126_0.html",
+        "date": "2026-02-27 02:00:00",
+        "sentiment_score": 0.2770078331232071
+    },
+    {
+        "title": "Merlin eleva un 5,1% su beneficio en 2025, hasta los 327 millones de euros",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/78d8f31b07505015d531f400a82ee7ec/crop/223x122/2008x1312/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/27/17721560184503.jpg",
+        "tags": [
+            "inmobiliario>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/2026/02/27/69a0f1c6468aeb9b528b4574.html",
+        "date": "2026-02-27 01:34:40",
+        "sentiment_score": 0.6909705102443695
+    },
+    {
+        "title": "Estado español: un debate necesario con el Movimiento Socialista contra el auge reaccionario",
+        "image_url": "https://www.laizquierdadiario.com/IMG/logo/contra_ice.jpg?1772155159=",
+        "tags": [
+            "movimiento socialista",
+            "catalunya",
+            "donald trump",
+            "estados unidos",
+            "estado español",
+            "ice",
+            "cgt estado español"
+        ],
+        "link": "https://www.laizquierdadiario.com/Estado-espanol-un-debate-necesario-con-el-Movimiento-Socialista-contra-el-auge-reaccionario",
+        "date": "2026-02-27 01:21:52",
+        "sentiment_score": -0.20767493546009064
     }
 ];
