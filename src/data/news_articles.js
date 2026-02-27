@@ -1,390 +1,5 @@
 export default [
     {
-        "title": "Scariolo reconoce la superioridad del Baskonia",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a1017e5a-57b4-4990-878b-cc144b11b644_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "superioridad",
-            "scariolo",
-            "baskonia",
-            "reconoce"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/22/scariolo-reconoce-superioridad-baskonia-10734798.html",
-        "date": "2026-02-22 22:46:29",
-        "sentiment_score": 0.15770399570465088
-    },
-    {
-        "title": "Paolo Galbiati: \"El trabajo duro paga y esta Copa nos va a unir para la vida\"",
-        "image_url": "https://www.infobae.com/resizer/v2/MHFM6P4FXBDMNFVB43TNATAQAA.jpg?auth=1726912e28f6a91c075704b4e51867f91eacd4f589e49edb361e12a28bee9949&height=1280&smart=true&width=1920",
-        "tags": [
-            "valencia",
-            "paolo galbiati",
-            "kosner baskonia",
-            "real madrid",
-            "acb",
-            "campazzo",
-            "copa del rey",
-            "roig arena",
-            "baloncesto",
-            "europapress",
-            "sergio scariolo"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/22/paolo-galbiati-el-trabajo-duro-paga-y-esta-copa-nos-va-a-unir-para-la-vida/",
-        "date": "2026-02-22 22:46:27",
-        "sentiment_score": 0.8794927708804607
-    },
-    {
-        "title": "Querejeta: “Enfrente estaba la mejor plantilla de Europa y hay que darse cuenta”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e657f861-b656-4d9f-aad5-74cc033be27a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "copa del rey",
-            "valencia",
-            "querejeta",
-            "copa acb",
-            "baskonia",
-            "real madrid",
-            "josean querejeta"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/22/querejeta-baskonia-copa-del-rey-copa-acb-josean-querejeta-real-madrid-valencia-10734787.html",
-        "date": "2026-02-22 22:28:52",
-        "sentiment_score": 0.7184303626418114
-    },
-    {
-        "title": "Cuatro jugadores de la Liga Premier fueron blanco de insultos racistas en línea",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/ab9c202/2147483647/strip/true/crop/3761x1975+0+266/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0d%2Fff%2Fd1b4be8742deb774b957df08bcba%2F42c81b3c81eb4a58b0b0ceca00112d30.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-22/cuatro-jugadores-de-la-liga-premier-fueron-blanco-de-insultos-racistas-en-linea",
-        "date": "2026-02-22 22:26:38",
-        "sentiment_score": -0.7939355336129665
-    },
-    {
-        "title": "La lección de Leire con la que nos enseña a cómo disfrutar sobre el escenario",
-        "image_url": "https://imagenes.cadena100.es/files/webp_360_640/uploads/2026/02/22/uKTOXuq2yYqD71e6b2G3R.jpeg",
-        "tags": [
-            "música"
-        ],
-        "link": "https://www.cadena100.es/musica/noticias/leccion-leire-martinez-ensena-disfrutar-sobre-escenario-transmitirlo-publico-gracias-17-anos-anteriores-vienen-20260222_146448.html",
-        "date": "2026-02-22 22:23:32",
-        "sentiment_score": -0.052679479122161865
-    },
-    {
-        "title": "El Baskonia, un equipo repleto de creyentes",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a8aae76c-94b6-465a-ab00-251451c3e645_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "equipo",
-            "repleto",
-            "baskonia",
-            "creyentes"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/22/baskonia-equipo-repleto-creyentes-10734748.html",
-        "date": "2026-02-22 22:21:49",
-        "sentiment_score": 0.2537737488746643
-    },
-    {
-        "title": "Galbiati: \"He trabajado mucho para tener unido al grupo\"",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ec8596d1-39ce-44bb-9925-d4779cae3c37_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "galbiati",
-            "jugadores",
-            "contento",
-            "staff"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/22/galbiati-contento-jugadores-staff-10734715.html",
-        "date": "2026-02-22 22:11:34",
-        "sentiment_score": 0.16077277064323425
-    },
-    {
-        "title": "Las fotos de la final de la Copa del Rey de Baloncesto entre Real Madrid y Baskonia",
-        "image_url": "https://static.grupojoly.com/clip/a39b6e3b-6363-489f-9c8d-4176a7555389_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fotos",
-            "copa",
-            "rey",
-            "baloncesto",
-            "final"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/fotos-final-copa-rey-baloncesto_3_2005984955.html",
-        "date": "2026-02-22 22:08:03",
-        "sentiment_score": 0.09417970478534698
-    },
-    {
-        "title": "En imágenes: El Roig Arena se rinde al Baskonia",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/0b353f13-57b5-4531-bebd-b88c484f0d91_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "roig",
-            "rinde",
-            "imagenes",
-            "arena",
-            "baskonia"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/02/22/imagenes-roig-arena-rinde-baskonia-10734772.html",
-        "date": "2026-02-22 22:07:05",
-        "sentiment_score": 0.034743428230285645
-    },
-    {
-        "title": "Prestaianni reunió al vestuario del Benfica para hablar sobre lo ocurrido con Vinicius",
-        "image_url": "https://pxcdn.meridiano.net/022026/1771797859065.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/prestaianni-reunio-al-vestuario-del-benfica-para-hablar-sobre-lo-ocurrido-con-vinicius-20262221850",
-        "date": "2026-02-22 22:05:00",
-        "sentiment_score": 0.1365162767469883
-    },
-    {
-        "title": "Rosácea: lo que la desencadena y cómo controlarla",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/19/vivir-en-barcelona/1003742734218_15735684_1706x960.jpg",
-        "tags": [
-            "vivir en barcelona",
-            "quirónsalud barcelona",
-            "medicina",
-            "contenido crítico",
-            "branded content",
-            "salud"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260222/rosacea-desencadena-controlarla/1003742701676_0.html",
-        "date": "2026-02-22 22:30:00",
-        "sentiment_score": -0.19437168538570404
-    },
-    {
-        "title": "Barcelona recorta su deuda un 9%: el Banco Europeo de Inversiones (BEI) es el principal acreedor",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/13/informacion-municipal/1003742707243_15400136_1706x960.jpg",
-        "tags": [
-            "economía",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260222/barcelona-recorta-deuda-banco-europeo-inversiones-bei-principal-acreedor/1003742735175_0.html",
-        "date": "2026-02-22 22:30:00",
-        "sentiment_score": 0.6439988985657692
-    },
-    {
-        "title": "Montserrat Junyent, presidenta de API Catalunya: “Los pisos turísticos que se eliminarán en 2028 acabarán en el mercado de venta”",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/19/actualidad/1003742734311_15736695_1706x960.jpg",
-        "tags": [
-            "pisos turísticos",
-            "economía",
-            "viviendas",
-            "vivienda",
-            "ayuntamiento de barcelona",
-            "alquiler vivienda",
-            "okupas"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260222/montserrat-junyent-presidenta-api-catalunya-pisos-turisticos-eliminaran-acabaran-mercado-venta/1003742734122_0.html",
-        "date": "2026-02-22 22:30:00",
-        "sentiment_score": 0.23719869554042816
-    },
-    {
-        "title": "Dos locales en siete meses: el gigante de las macropanaderías en Francia acelera su expansión en Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/17/actualidad/1003742733400_15727161_1706x960.jpg",
-        "tags": [
-            "economía",
-            "comercio",
-            "macropanaderías",
-            "gastronomía",
-            "el raval",
-            "el gòtic",
-            "empresas emergentes"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260222/locales-meses-gigante-macropanaderias-francia-acelera-expansion-barcelona/1003742733144_0.html",
-        "date": "2026-02-22 22:30:00",
-        "sentiment_score": 0.38539980351924896
-    },
-    {
-        "title": "Varias marchas en España denuncian el olvido de Ucrania cuatro años después de la invasión",
-        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2026/02/protestas-ucrania-espana.jpg",
-        "tags": [
-            "internacionales"
-        ],
-        "link": "https://elsiglo.com.ve/varias-marchas-en-espana-denuncian-el-olvido-de-ucrania-cuatro-anos-despues-de-la-invasion/",
-        "date": "2026-02-22 22:14:40",
-        "sentiment_score": -0.5447883009910583
-    },
-    {
-        "title": "Una operación especial de México mata al Mencho, el narcotraficante más buscado y peligroso del mundo",
-        "image_url": "https://static1.ara.cat/clip/fa1723a6-b8f1-416c-aa64-39569c04e8ce_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "peligroso",
-            "especial",
-            "mundo",
-            "narcotraficante",
-            "operacion",
-            "buscado",
-            "mexico",
-            "mata",
-            "mencho"
-        ],
-        "link": "https://es.ara.cat/internacional/america/operacion-especial-mexico-mata-mencho-narcotraficante-buscado-peligroso-mundo_1_5656484.html",
-        "date": "2026-02-22 22:03:46",
-        "sentiment_score": -0.6522141061723232
-    },
-    {
-        "title": "Comprueba los resultados del Quinigol del 22 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
-        "tags": [
-            "loterías de españa",
-            "últimas actualizaciones",
-            "quinigol resultados fútbol"
-        ],
-        "link": "https://www.infobae.com/espana/2026/02/22/comprueba-los-resultados-del-quinigol-del-22-de-febrero/",
-        "date": "2026-02-22 22:00:25",
-        "sentiment_score": 0.42532434314489365
-    },
-    {
-        "title": "Talent Arena incorpora XPRO, un espacio de conocimiento para desarrolladores",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c8eaa444-b25c-4cde-ad47-4c546d847521_alta-libre-aspect-ratio_default_0_x886y393.jpg",
-        "tags": [
-            "barcelona",
-            "empresas",
-            "+ digital"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260222/talent-arena-incorpora-xpro-espacio-conocimiento-desarrolladores-127074965",
-        "date": "2026-02-22 21:59:44",
-        "sentiment_score": 0.48738117329776287
-    },
-    {
-        "title": "El presidente de los empresarios de Cádiz reclama más impulso al Gobierno: “Sigo sin ver una apuesta clara por la provincia”",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/19/9B2B49FD-0722-4744-8E9F-97C5593CDC17/jose-andres-santos_69.jpg?crop=1600%2C900%2Cx0%2Cy84&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cádiz",
-            "andalucía"
-        ],
-        "link": "https://www.larazon.es/andalucia/cadiz/presidente-empresarios-cadiz-reclama-mas-impulso-gobierno-sigo-ver-apuesta-clara-provincia_20260223699bbd5e9243cc133c5e031d.html",
-        "date": "2026-02-23 02:37:18",
-        "sentiment_score": -0.41028711944818497
-    },
-    {
-        "title": "Las pruebas definitivas del general Juste, el militar que frustró el 23-F y fue un \"cabeza de turco\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/c500024e63fa29e7e658a1830f7efa3e/crop/0x259/2479x2738/f/image/jpeg/assets/multimedia/imagenes/2022/03/16/16474501372351.jpg",
-        "tags": [
-            "23 f",
-            "nlpremium",
-            "artículos marina pina",
-            "historia",
-            "defensa"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/02/23/699b22c7e85eceb0498b4589.html",
-        "date": "2026-02-23 01:35:34",
-        "sentiment_score": -0.4471933990716934
-    },
-    {
-        "title": "La 'megaelectrolinera' de 1.281 metros cuadrados que Ayuso va a poner en marcha en el corazón de la Castellana",
-        "image_url": "https://s3.elespanol.com/2026/02/20/madrid/1003744139232_261542034_1706x960.jpg",
-        "tags": [
-            "madrid comunidad",
-            "chamartín (madrid)",
-            "electrolinera",
-            "red de carga para vehículos eléctricos"
-        ],
-        "link": "https://www.elespanol.com/madrid/comunidad/20260223/megaelectrolinera-metros-cuadrados-ayuso-va-poner-marcha-corazon-castellana/1003744139073_0.html",
-        "date": "2026-02-23 01:06:15",
-        "sentiment_score": 0.3182369414716959
-    },
-    {
-        "title": "Venezuela, de la ley a ley",
-        "image_url": "https://s3.elespanol.com/2026/01/22/actualidad/1003744100402_261458717_1706x960.jpg",
-        "tags": [
-            "tribunas de opinión",
-            "tribunas",
-            "opinión",
-            "diosdado cabello",
-            "venezuela",
-            "delcy rodríguez",
-            "adolfo suárez",
-            "transición española"
-        ],
-        "link": "https://www.elespanol.com/opinion/tribunas/20260223/venezuela-ley/1003744132600_12.html",
-        "date": "2026-02-23 01:04:18",
-        "sentiment_score": -0.29697073996067047
-    },
-    {
-        "title": "22 FEB 2026 | EL TERTULIÓN DE LOS DOMINGOS",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/22-feb-2026-tertulion-domingos-20260223_3312793.html",
-        "date": "2026-02-23 00:59:00",
-        "sentiment_score": 0.36449867486953735
-    },
-    {
-        "title": "Quemamédicos y matasanos",
-        "image_url": "https://s1.staticld.com/2026/02/19/huelga-pancarta-medicos-madrid-190226.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/opinion/2026-02-23/anna-grau-quemamedicos-y-matasanos-7363605/",
-        "date": "2026-02-23 00:51:47",
-        "sentiment_score": -0.8420317247509956
-    },
-    {
-        "title": "Derecho internacional: la violencia y el orden",
-        "image_url": "https://www.eldebate.com/images/el-debate.png",
-        "tags": [
-            "tribuna"
-        ],
-        "link": "https://www.eldebate.com/opinion/tribuna/20260223/derecho-internacional-violencia-orden_387872.html",
-        "date": "2026-02-23 00:30:00",
-        "sentiment_score": -0.3341992348432541
-    },
-    {
-        "title": "Desbarra y miente, pero con muy educada flema",
-        "image_url": "https://www.eldebate.com/uploads/2022/02/23/621666787acbf.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20260223/desbarra-miente-educada-flema_388139.html",
-        "date": "2026-02-23 00:30:00",
-        "sentiment_score": -0.7279366180300713
-    },
-    {
-        "title": "Figo, el madrileño",
-        "image_url": "https://www.eldebate.com/files/fp/uploads/2021/10/21/61713c9335472.r_d.577-326-0.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20260223/figo-madrileno_387874.html",
-        "date": "2026-02-23 00:30:00",
-        "sentiment_score": -0.12941864132881165
-    },
-    {
-        "title": "«El joven que apuesta tiene muy difícil no ser tentado, basta con abrir el móvil»",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/22/1506716894-ReU4cxbhPxDSz6fYScQjHfN-1200x840@RC.jpg",
-        "tags": [
-            "apuestas",
-            "proyecto hombre"
-        ],
-        "link": "https://www.ideal.es/sociedad/joven-apuesta-dificil-tentado-basta-abrir-movil-20260222135829-ntrc.html",
-        "date": "2026-02-22 23:38:08",
-        "sentiment_score": -0.5822192281484604
-    },
-    {
-        "title": "La no refundación de la izquierda",
-        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "izquierda",
-            "refundacion",
-            "no"
-        ],
-        "link": "https://www.malagahoy.es/opinion/articulos/no-refundacion-izquierda_0_2005985569.html",
-        "date": "2026-02-23 02:11:19",
-        "sentiment_score": -0.36981001496315
-    },
-    {
-        "title": "Los patinetes y la seguridad",
-        "image_url": "https://static.grupojoly.com/clip/64bda378-bd45-42c9-89a8-4eaca9ab5b71_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "patinetes",
-            "seguridad"
-        ],
-        "link": "https://www.huelvainformacion.es/opinion/editorial/patinetes-seguridad_0_2005985547.html",
-        "date": "2026-02-23 02:10:45",
-        "sentiment_score": -0.17142626643180847
-    },
-    {
         "title": "El parque eólico Ferosca I da un paso más y obtiene la Autorización Administrativa previa tras ‘perder’ tres aerogeneradores",
         "image_url": "https://a2.elespanol.com/cronicavasca/2026/02/03/empresas/1003742728946_15671247_1706x960.jpg",
         "tags": [
@@ -3213,5 +2828,198 @@ export default [
         "link": "https://www.laopiniondezamora.es/cultura/2026/02/26/carmen-thyssen-entrevista-coleccion-arte-mercado-liquidez-127284709.html",
         "date": "2026-02-26 06:38:52",
         "sentiment_score": -0.40496882051229477
+    },
+    {
+        "title": "EE.UU. enfurece al mundo árabe: «Israel podría reclamar la mayor parte de Oriente Próximo»",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/56/media_thumb-link-4150963.webp?1772094726=",
+        "tags": [
+            "actualidad",
+            "embajador ee.uu",
+            "e.uu.",
+            "mundo árabe",
+            "israel"
+        ],
+        "link": "https://www.meneame.net/story/ee-uu-enfurece-mundo-arabe-israel-podria-reclamar-mayor-parte",
+        "date": "2026-02-26 11:55:04",
+        "sentiment_score": -0.32562971115112305
+    },
+    {
+        "title": "El Consultorio de Pedro Martín (Semana del 21 al 26 de febrero)",
+        "image_url": "https://imagenes.cope.es/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "cartas al director"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/cartas-al-director/noticias/consultorio-pedro-martin-semana-21-26-febrero-20260226_3316257.html",
+        "date": "2026-02-26 17:41:56",
+        "sentiment_score": -0.08493319153785706
+    },
+    {
+        "title": "Doble sesión y Lopetegui de invitado",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/31/98/20/4/lopeteguinatichu.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.lanuevacronica.com/deportes/doble-sesion-lopetegui-invitado_191859_102.html",
+        "date": "2026-02-26 17:37:50",
+        "sentiment_score": -0.32493390142917633
+    },
+    {
+        "title": "El Congreso avala invertir 1.500 millones en Cercanías Valencia hasta 2030, pero descarta transferirlo a la Generalitat",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260226183255_690.jpg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.europapress.es/nacional/noticia-congreso-avala-invertir-1500-millones-cercanias-valencia-2030-descarta-transferirlo-generalitat-20260226183255.html",
+        "date": "2026-02-26 17:32:55",
+        "sentiment_score": 0.268071711063385
+    },
+    {
+        "title": "El “efecto Gimeno” en educación: un sindicato denuncia su \"actitud despótica\" y avisa del colapso de la FP",
+        "image_url": "https://navarra.okdiario.com/media/navarra/images/2025/03/14/2025031411315093849.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://navarra.okdiario.com/articulo/politica/efecto-gimeno-educacion-sindicato/20260226183155634353.html",
+        "date": "2026-02-26 17:31:55",
+        "sentiment_score": -0.8521949145942926
+    },
+    {
+        "title": "José Mourinho, cada vez menos 'The Special One'",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/26/mourinho-racha-kmxD-U20922564254a9C-1200x840@RC.jpg",
+        "tags": [
+            "champions league",
+            "oporto",
+            "manchester united",
+            "jose mourinho",
+            "real madrid"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-campeones/jose-mourinho-vez-the-especial-one-20260226180719-ntrc.html",
+        "date": "2026-02-26 17:29:57",
+        "sentiment_score": -0.8678961116820574
+    },
+    {
+        "title": "El Lugo pasa otra prueba de vértigo y madurez ante el Bilbao Athletic",
+        "image_url": "https://cflvdg.avoz.es/sc/kgIwfgqRolahT7nKyK1yYifyJ5w=/768x/2026/02/26/00121772126461749210583/Foto/i_20260221_200618002.jpg",
+        "tags": [
+            "cdlugo",
+            "primera rfef",
+            "cd lugo"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/cdlugo/2026/02/26/lugo-pasa-prueba-vertigo-madurez-ante-bilbao-athletic/00031772126426184391803.htm",
+        "date": "2026-02-26 17:28:00",
+        "sentiment_score": -0.05433255434036255
+    },
+    {
+        "title": "Feria del Stock, el Festival de Música Cofrade y La Fuga, este fin de semana en León",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/31/98/65/5/collage-de-fotos-minimalista-colores-pastel.jpeg",
+        "tags": [
+            "lnc culturas"
+        ],
+        "link": "https://www.lanuevacronica.com/lnc-culturas/feria-stock-festival-musica-cofrade-fuga-este-fin-semana-en-leon_191877_102.html",
+        "date": "2026-02-26 17:25:41",
+        "sentiment_score": 0.26358163356781006
+    },
+    {
+        "title": "Cazorla y Esteban apadrinan el acto central del centenario del Real Oviedo",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/02/26/real-oviedo-centenario-kD7F-U20923845676AIG-1200x840@El%20Comercio.JPG",
+        "tags": [
+            "estadio carlos tartiere",
+            "oviedo",
+            "real oviedo",
+            "cazorla"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/centenario-real-oviedo-cazorla-esteban-20260226182037-nt.html",
+        "date": "2026-02-26 17:23:26",
+        "sentiment_score": 0.3646532129496336
+    },
+    {
+        "title": "El PP pide a Caballero que exija al Gobierno de Sánchez apoyo económico para que Vigo acoja el Mundial",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/26/69a07dfb9e14e.r_d.798-298-7500.jpeg",
+        "tags": [
+            "galicia"
+        ],
+        "link": "https://www.eldebate.com/espana/galicia/20260226/pp-pide-caballero-exija-gobierno-sanchez-apoyo-economico-vigo-acoja-mundial_389984.html",
+        "date": "2026-02-26 17:21:46",
+        "sentiment_score": -0.11224313080310822
+    },
+    {
+        "title": "(Previa) El Levante apura sus opciones de permanencia ante un Alavés con la necesidad de reaccionar",
+        "image_url": "https://www.infobae.com/resizer/v2/BLSJ3NQLR5GMNGMZQRPLEPXTE4.jpg?auth=4432714f07e0e79027ed1a1025da9f8b1410b5867cf0ab5c3c0d4542f27ebb2b&height=1280&smart=true&width=1920",
+        "tags": [
+            "deportivo alavés",
+            "europapress",
+            "valencia",
+            "eduardo coudet",
+            "levante ud",
+            "kervin arriaga",
+            "laliga ea sports",
+            "permanencia",
+            "vitoria",
+            "ciutat de valència",
+            "jornada 26"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/26/previa-el-levante-apura-sus-opciones-de-permanencia-ante-un-alaves-con-la-necesidad-de-reaccionar/",
+        "date": "2026-02-26 17:19:06",
+        "sentiment_score": 0.4218165948987007
+    },
+    {
+        "title": "Gaizka Urresti, nominado por su documental sobre Eloy de la Iglesia: \"Soy adicto a los Goya\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bdac2c03-6f89-48b1-abba-3ef60884487e_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "cine",
+            "cine español"
+        ],
+        "link": "https://www.lacronicabadajoz.com/ocio/cine/2026/02/26/gaizka-urresti-nominado-por-su-documental-sobre-eloy-de-la-iglesia-soy-adicto-a-los-goya-127314185.html",
+        "date": "2026-02-26 17:42:11",
+        "sentiment_score": -0.24159377813339233
+    },
+    {
+        "title": "Cae sujeto por estafa con la venta de dólares",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2026/02/1772123813103-1.webp",
+        "tags": [
+            "sucesos"
+        ],
+        "link": "https://lacalle.com.ve/cae-sujeto-que-estafaba-con-la-venta-de-dolares/",
+        "date": "2026-02-26 17:37:24",
+        "sentiment_score": -0.6909412834793329
+    },
+    {
+        "title": "Andrea Anaya, psicóloga, sobre el fenómeno de los therians: “Ni trastorno ni enfermedad mental, pero merece un análisis clínico”",
+        "image_url": "https://www.infobae.com/resizer/v2/UWVQHUNMU5ASDBSDOAMWAFX3LI.png?auth=5b0dfcc194b47ec91e744d96a090490c3f671add04e847bade6c45326dc5be47&height=1080&smart=true&width=1920",
+        "tags": [
+            "salud mental",
+            "españa-noticias",
+            "españa-salud",
+            "redes sociales españa",
+            "therians",
+            "tiktok españa",
+            "salud mental españa",
+            "juventud",
+            "psicología",
+            "adolescencia"
+        ],
+        "link": "https://www.infobae.com/espana/2026/02/26/andrea-anaya-psicologa-sobre-el-fenomeno-de-los-therians-ni-trastorno-ni-enfermedad-mental-pero-merece-un-analisis-clinico/",
+        "date": "2026-02-26 17:36:38",
+        "sentiment_score": -0.7270165327936411
+    },
+    {
+        "title": "El barrio periférico de Barcelona que tendrá el parque más grande de toda la ciudad",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/02/26/69a08247b7207.webp",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20260226/barrio-periferico-barcelona-tendra-parque-grande-toda-ciudad_389996.html",
+        "date": "2026-02-26 17:36:16",
+        "sentiment_score": 0.2905691936612129
+    },
+    {
+        "title": "Conoce Enmedio, el volcán submarino activo que late entre Tenerife y Gran Canaria",
+        "image_url": "https://www.lavozdelanzarote.com/uploads/s1/37/30/37/1/2328640cc_3_400x229.jpeg",
+        "tags": [
+            "más noticias"
+        ],
+        "link": "https://www.lavozdelanzarote.com/actualidad/mas-noticias/conoce-enmedio-volcan-submarino-activo-late-entre-tenerife-gran-canaria_241618_102.html",
+        "date": "2026-02-26 17:33:21",
+        "sentiment_score": -0.23031742870807648
     }
 ];
