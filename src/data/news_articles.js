@@ -1,203 +1,5 @@
 export default [
     {
-        "title": "Activistas exigen acción tras abusos racistas a 4 jugadores de la Premier en fin de semana \"atroz\"",
-        "image_url": "https://dims.apnews.com/dims4/default/fcb27f9/2147483647/strip/true/crop/3289x2189+60+0/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2Fb7%2F495c47f6d6ddb423b9f09dce829c%2Fcc36c172c1bf41a897df75350019adf6",
-        "tags": [
-            "deportes",
-            "sports",
-            "premier league racismo"
-        ],
-        "link": "https://apnews.com/article/premier-league-racismo-ffc2fcb015da8dc3c2d460cee1e24572",
-        "date": "2026-02-23 17:49:20",
-        "sentiment_score": -0.9126275405287743
-    },
-    {
-        "title": "Activistas exigen acción tras abusos racistas a 4 jugadores de la Premier en fin de semana “atroz”",
-        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2026/02/WESLEY_FOFANA_64282.jpg?strip=all&w=1400px",
-        "tags": [
-            "en español"
-        ],
-        "link": "https://www.chicagotribune.com/2026/02/23/activistas-exigen-accin-tras-abusos-racistas-a-4-jugadores-de-la-premier-en-fin-de-semana-atroz/",
-        "date": "2026-02-23 17:49:19",
-        "sentiment_score": -0.8917204244062304
-    },
-    {
-        "title": "Hugo González frenó a Doncic en un duelo de madridistas en la NBA",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/09/2025100907124188969.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/hugo-gonzalez-freno-doncic-duelo-madridistas-nba/20260223184708375917.html",
-        "date": "2026-02-23 17:47:08",
-        "sentiment_score": 0.73918866366148
-    },
-    {
-        "title": "Benfica responde a la sanción recibida a Prestianni por presunto insulto racista",
-        "image_url": "https://pxcdn.meridiano.net/022026/1771868772927.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/benfica-responde-a-la-sancion-recibida-a-prestianni-por-presunto-insulto-racista-202622313470",
-        "date": "2026-02-23 17:47:00",
-        "sentiment_score": 0.23983299732208252
-    },
-    {
-        "title": "Exclusiva | Gloria Camila confirma su reconciliación con Álvaro García el día de su cumpleaños: todos los detalles",
-        "image_url": "https://album.mediaset.es/eimg/2026/02/23/exclusiva-gloria-camila-confirma-su-reconciliacion-con-alvaro-garcia-el-dia-de-su-cumpleanos_aa90.jpg",
-        "tags": [
-            "famosos"
-        ],
-        "link": "https://www.telecinco.es/famosos/20260223/tiempo-justo-exclusiva-gloria-camila-confirma-reconciliacion-alvaro-garcia-cumpleanos_18_018433863.html",
-        "date": "2026-02-23 17:46:52",
-        "sentiment_score": -0.45941004157066345
-    },
-    {
-        "title": "Marc Pubill, el último 'jefe' de la zaga de Diego Pablo Simeone",
-        "image_url": "https://www.infobae.com/resizer/v2/7T4ZJPWLVJEJDB76N5ABMDHRE4.jpg?auth=9e0a650b039d7ca1f11383b5f7ebb914d93a38de739cb9e269fb3dab652f17b5&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/23/marc-pubill-el-ultimo-jefe-de-la-zaga-de-diego-pablo-simeone/",
-        "date": "2026-02-23 17:46:05",
-        "sentiment_score": -0.1411583498120308
-    },
-    {
-        "title": "La UEFA suspende a Prestianni por “comportamiento discriminatorio” a dos días del Real Madrid-Benfica de la Champions League",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/23/culemania/real-madrid/1003742735480_15751054_1706x960.jpg",
-        "tags": [
-            "uefa",
-            "real madrid",
-            "champions league",
-            "álvaro arbeloa"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260223/uefa-prestianni-discriminatorio-real-madrid-benfica-champions-league/1003742735478_0.html",
-        "date": "2026-02-23 17:43:32",
-        "sentiment_score": -0.6461548786610365
-    },
-    {
-        "title": "Deportes | Los numeros del Elche CF en 2026 asustan al miedo, pero los del RCD Espanyol son todavía peores",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1760269.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/los-numeros-del-elche-cf-en-2026-asustan-al-miedo-pero-los-del-rcd-espanyol-son-todavia-peores",
-        "date": "2026-02-23 17:42:02",
-        "sentiment_score": -0.8763299006968737
-    },
-    {
-        "title": "ERC reta a los socialistas a elegir: \"O Cataluña o elecciones andaluzas\"",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/cc3086f24ba360473a1413c115c88f33/f/webp/assets/multimedia/imagenes/2026/02/23/17718689476894.jpg",
-        "tags": [
-            "política>",
-            "cataluña>",
-            "artículos david casals>",
-            "economía>"
-        ],
-        "link": "https://www.expansion.com/catalunya/2026/02/23/699c9370468aeb036c8b4590.html",
-        "date": "2026-02-23 17:50:44",
-        "sentiment_score": 0.1908704936504364
-    },
-    {
-        "title": "Delfín Grupo suma a Tamayo Autodesguaces para liderar su red de recambio ecológico en Catalunya",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260223185033_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-delfin-grupo-suma-tamayo-autodesguaces-liderar-red-recambio-ecologico-catalunya-20260223185033.html",
-        "date": "2026-02-23 17:50:33",
-        "sentiment_score": 0.43966683745384216
-    },
-    {
-        "title": "La Fiscalía pide cinco años de prisión para el exdirector de un instituto por acosar al denunciante de un pedófilo",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/10/06/68e3e4a7070d5.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/fiscalia-pide-5-anos-para-exdirector-pare-manyanet-por-acosar-denunciante-un-cura-pedofilo_6937966_0.html",
-        "date": "2026-02-23 17:48:20",
-        "sentiment_score": -0.4698385242372751
-    },
-    {
-        "title": "Expertos proponen un Pacte per la Convivència y crear un fondo catalán para la acogida de migrantes",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260223184647_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-expertos-proponen-pacte-per-convivencia-crear-fondo-catalan-acogida-migrantes-20260223184647.html",
-        "date": "2026-02-23 17:46:47",
-        "sentiment_score": 0.3628082200884819
-    },
-    {
-        "title": "Los barrios de Barcelona donde la población inmigrante ya es mayoritaria",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/10/23/3C91CA2D-243E-4193-8AE0-B147C93943E1/69.jpg?crop=1920%2C1080%2Cx0%2Cy100&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/barrios-barcelona-donde-poblacion-inmigrante-mayoritaria_20260223699c92151817b41eb65ed461.html",
-        "date": "2026-02-23 17:44:53",
-        "sentiment_score": -0.10414320230484009
-    },
-    {
-        "title": "El Supremo ratifica la reserva del 30% de vivienda protegida en nuevas promociones de Barcelona",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/23/699c90456e3fb.r_d.449-356-5184.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20260223/11473634/supremo-ratifica-reserva-30-vivienda-protegida-nuevas-promociones-barcelona.html",
-        "date": "2026-02-23 17:43:47",
-        "sentiment_score": 0.12962409853935242
-    },
-    {
-        "title": "Correos, denunciada ante Inspección del Trabajo por \"poner en riesgo\" a los trabajadores de la USE de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2022/03/11/sucesos/656444350_9233644_1706x960.jpg",
-        "tags": [
-            "trabajadores",
-            "empresas barcelona",
-            "el pulso de la ciudad",
-            "sindicatos",
-            "precariedad laboral"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260223/correos-denunciada-inspeccion-trabajo-poner-riesgo-trabajadores-use-barcelona/1003742735454_0.html",
-        "date": "2026-02-23 17:40:41",
-        "sentiment_score": 0.043096400797367096
-    },
-    {
-        "title": "El Supremo avala la reserva del 30% de vivienda en Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/20/economia/1003742709045_15423215_1706x960.jpg",
-        "tags": [
-            "jaume collboni",
-            "vivienda",
-            "el pulso de la ciudad",
-            "junts",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260223/supremo-avala-reserva-vivienda-barcelona/1003742735484_0.html",
-        "date": "2026-02-23 17:37:46",
-        "sentiment_score": 0.46549076586961746
-    },
-    {
-        "title": "“Nosotros podemos hacer mucho dinero, pero el que invierte en su carrera se gasta muchísimo también.”. Let’s talk business: La Pantera y Lucho RK",
-        "image_url": "https://forbes.es/wp-content/uploads/2026/02/LuchoRkylaPantera-1200x675.jpg",
-        "tags": [
-            "forbes 30 under 30"
-        ],
-        "link": "https://forbes.es/forbes-30-under-30/878463/lets-talk-business-la-pantera-luchork-negocios-dinero-musica-urban/",
-        "date": "2026-02-23 17:34:07",
-        "sentiment_score": 0.29720069468021393
-    },
-    {
-        "title": "Fiscalía pide 5 años para el exdirector de una escuela de Barcelona por acoso al denunciante de un cura pedófilo",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/23/fiscalia-pide-5-anos-para-el-exdirector-de-una-escuela-de-barcelona-por-acoso-al-denunciante-de-un-cura-pedofilo/",
-        "date": "2026-02-23 17:33:15",
-        "sentiment_score": -0.8369885999709368
-    },
-    {
         "title": "Garitano: «Estamos en el peor momento de la temporada, asumo mi responsabilidad»",
         "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/canal-amarillo/2026/02/23/464A0145%20(3)_20260223224048-Rtl6Octa7pRjsPGseQcJ3IO-758x531@abc.JPG",
         "tags": [
@@ -3274,5 +3076,139 @@ export default [
         "link": "https://www.laizquierdadiario.com/Estado-espanol-un-debate-necesario-con-el-Movimiento-Socialista-contra-el-auge-reaccionario",
         "date": "2026-02-27 01:21:52",
         "sentiment_score": -0.20767493546009064
+    },
+    {
+        "title": "De Feijóo a Abascal: \"Sin ti no soy nada\"",
+        "image_url": "https://www.elplural.com/uploads/s1/24/71/23/9/el-presidente-del-pp-alberto-nunez-feijoo-el-de-vox-santiago-abascal-durante-una-sesion-parlamentaria-en-el-congreso-de-los-diputados-ep_7_480x270.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.elplural.com/opinion/feijoo-abascal-sin-no-soy-nada_382621102",
+        "date": "2026-02-27 06:26:55",
+        "sentiment_score": -0.10707198083400726
+    },
+    {
+        "title": "Las claves del sorteo de la Champions: Luis Enrique y Guardiola amenazan al Barça y al Real Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4a3b1ff4-18a8-41a7-a53d-7fb12d4b2b6a_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "fc barcelona",
+            "champions",
+            "atlético de madrid",
+            "real madrid"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2026/02/27/sorteo-champions-barcelona-real-madrid-atletico-rivales-127330761.html",
+        "date": "2026-02-27 06:23:00",
+        "sentiment_score": -0.19339467585086823
+    },
+    {
+        "title": "Alberto Marcos, una carrera cosida al escudo",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2026/02/26/montoAMarco-ke0H-U20924371695CEC-758x531@El%20Norte.jpg",
+        "tags": [
+            "estadio josé zorrilla",
+            "huesca (provincia)",
+            "liga de fútbol profesional",
+            "real valladolid club de fútbol"
+        ],
+        "link": "https://www.elnortedecastilla.es/realvalladolid/alberto-marcos-carrera-cosida-escudo-20260227184539-nt.html",
+        "date": "2026-02-27 06:18:07",
+        "sentiment_score": 0.19418758898973465
+    },
+    {
+        "title": "Budimir es el pichichi en solitario de la segunda vuelta de la Liga",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b7a4af04-3594-4152-805e-8fb7e70744e4_16-9-aspect-ratio_default_0_x0y0.jpg",
+        "tags": [
+            "solitario",
+            "segunda",
+            "vuelta",
+            "budimir",
+            "pichichi"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/27/budimir-pichichi-solitario-segunda-vuelta-10753298.html",
+        "date": "2026-02-27 06:12:52",
+        "sentiment_score": -0.10753253102302551
+    },
+    {
+        "title": "Marcelino quiere igualar a Miguel Muñoz ante el Barcelona",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/26/marcelino-barcelona2-afp-kRJI-U20919842381iLG-1200x840@RC.jpg",
+        "tags": [
+            "copa del rey de fútbol",
+            "f.c. barcelona",
+            "francisco gento lópez",
+            "marcelino garcía toral",
+            "lamine yamal",
+            "liga de fútbol profesional",
+            "xavier hernández creus"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-primera/marcelino-quiere-igualar-miguel-munoz-ante-barcelona-20260227070827-ntrc.html",
+        "date": "2026-02-27 06:08:32",
+        "sentiment_score": 0.3818427175283432
+    },
+    {
+        "title": "Lo que debes saber hoy, 27 de febrero, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2022/04/29/vivir-en-barcelona/668693126_9123221_1706x960.jpg",
+        "tags": [
+            "vivir en barcelona",
+            "clima",
+            "tiempo",
+            "tráfico"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260227/debes-saber-hoy-febrero-barcelona/1003742736635_0.html",
+        "date": "2026-02-27 06:31:55",
+        "sentiment_score": -0.5964421406388283
+    },
+    {
+        "title": "La gripe, las enfermeras y la paradoja de los muebles",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2026/02/27/ENFERMERAS%20GRIPE%20%20web.jpg",
+        "tags": [
+            "colegio de enfermería",
+            "españa",
+            "ministerio de sanidad, servicios sociales e igualdad",
+            "sanidad"
+        ],
+        "link": "https://www.eldiariomontanes.es/opinion/esther-arimon-pages-hildegart-gonzalezluis-gripe-enfermeras-paradoja-muebles-20260227220948-nt.html",
+        "date": "2026-02-27 06:31:11",
+        "sentiment_score": 0.014748767018318176
+    },
+    {
+        "title": "\"Queremos mostrar al público melómano cuál es la potencialidad de la Banda Municipal\"",
+        "image_url": "https://static1.ara.cat/clip/cc8e166c-736d-4894-a8ff-8654c7728bc1_16-9-aspect-ratio_default_0_x3455y0.jpg",
+        "tags": [
+            "banda",
+            "mostrar",
+            "potencialidad",
+            "publico",
+            "queremos",
+            "melomano",
+            "municipal"
+        ],
+        "link": "https://es.ara.cat/cultura/musica/queremos-mostrar-publico-melomano-potencialidad-banda-municipal_128_5661674.html",
+        "date": "2026-02-27 06:30:35",
+        "sentiment_score": 0.2701042741537094
+    },
+    {
+        "title": "Conflictos en Oriente Próximo y Oriente Medio, en directo: última hora y noticias sobre Gaza, Israel, Irán, Pakistán y Afganistán",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/41f31a71-b52d-4c3d-afe9-bc3b6b01bf2e_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "israel,palestina,gaza,oriente próximo,líbano,benjamin netanyahu,irán"
+        ],
+        "link": "https://www.elcorreoweb.es/internacional/2026/02/27/directo-ultima-hora-conflicto-palestina-98243968.html",
+        "date": "2026-02-27 06:30:00",
+        "sentiment_score": -0.38474447280168533
+    },
+    {
+        "title": "Conflictos en Oriente Próximo y Oriente Medio, en directo: última hora y noticias sobre Gaza, Israel, Irán, Pakistán y Afganistán",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/41f31a71-b52d-4c3d-afe9-bc3b6b01bf2e_16-9-discover-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "israel",
+            "oriente próximo",
+            "líbano",
+            "palestina",
+            "irán",
+            "gaza",
+            "benjamin netanyahu"
+        ],
+        "link": "https://www.diariodeibiza.es/internacional/2026/02/27/directo-ultima-hora-conflicto-palestina-93048498.html",
+        "date": "2026-02-27 06:30:00",
+        "sentiment_score": -0.3745305612683296
     }
 ];
