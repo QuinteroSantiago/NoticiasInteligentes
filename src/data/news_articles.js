@@ -2917,5 +2917,234 @@ export default [
         "link": "https://www.elconfidencialdigital.com/articulo/medios/donde-rodo-47-barcelona-calles-reales-que-reconstruyen-historia/202602272230431006640.html",
         "date": "2026-02-27 21:30:43",
         "sentiment_score": -0.05393216013908386
+    },
+    {
+        "title": "El ataque de Pérez de los Cobos al Gobierno lleva la polémica a la Guardia Civil: del \"apoyo total\" al \"cruza una línea roja\"",
+        "image_url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744149734_261679106_1706x960.jpg",
+        "tags": [
+            "diego pérez de los cobos",
+            "españa",
+            "gobierno de españa",
+            "policía nacional",
+            "ministerio del interior",
+            "fernando grande-marlaska",
+            "guardia civil"
+        ],
+        "link": "https://www.elespanol.com/espana/20260228/ataque-perez-cobos-gobierno-lleva-polemica-guardia-civil-apoyo-total-cruza-linea-roja/1003744149626_0.html",
+        "date": "2026-02-28 02:12:11",
+        "sentiment_score": -0.7921325042843819
+    },
+    {
+        "title": "Christophe Gleizes sufre siete años de cárcel y sacude al fútbol francés",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/28/2026022803070156853.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/christophe-gleizes-sufre-siete-anos-carcel-sacude-futbol-frances/20260228030957376642.html",
+        "date": "2026-02-28 02:09:57",
+        "sentiment_score": -0.90939537063241
+    },
+    {
+        "title": "James Rodríguez escogió a su jugador favorito de la niñez, y un compañero de equipo lo señaló a él como su preferido",
+        "image_url": "https://www.infobae.com/resizer/v2/5B4R5RLMFZF27LSAVOKZK6MIN4.jpg?auth=8be13a79438fff2f0bddfbaf4be6e0c910ac83a145954f3b98532a3d746adab1&height=733&smart=true&width=1080",
+        "tags": [
+            "james rodríguez",
+            "minnesota united",
+            "carlos valderrama",
+            "mls",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/28/james-rodriguez-escogio-a-su-jugador-favorito-de-la-ninez-y-un-companero-de-equipo-lo-senalo-a-el-como-su-preferido/",
+        "date": "2026-02-28 02:07:39",
+        "sentiment_score": 0.042018771171569824
+    },
+    {
+        "title": "España, lista para ser el gran laboratorio de la alimentación del futuro a prueba de retos geopolíticos y climáticos",
+        "image_url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744148312_261660055_1706x960.jpg",
+        "tags": [
+            "alimentación",
+            "innovación",
+            "empresas",
+            "startups",
+            "sostenibilidad",
+            "agricultura",
+            "startup",
+            "talento",
+            "tecnología",
+            "industria agroalimentaria"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20260228/espana-lista-gran-laboratorio-alimentacion-futuro-prueba-retos-geopoliticos-climaticos/1003744147303_0.html",
+        "date": "2026-02-28 02:05:44",
+        "sentiment_score": 0.5791082493960857
+    },
+    {
+        "title": "¿Cómo se gestó la operación UD Almería por parte de Cristiano Ronaldo?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/04/2025060423382122379.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/como-gesto-operacion-ud-almeria-parte-cristiano-ronaldo/20260228024626376640.html",
+        "date": "2026-02-28 01:46:26",
+        "sentiment_score": -0.17443667352199554
+    },
+    {
+        "title": "Rafael Carracedo, elegido Pregonero de Corpus 2026",
+        "image_url": "https://static.laregion.es/clip/058bcf53-b228-48f7-b4ae-bae6636cb60a_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ponteareas",
+            "corpus"
+        ],
+        "link": "https://www.atlantico.net/condado-paradanta/rafael-carracedo-elegido-pregonero-corpus_1_20260228-4180621.html",
+        "date": "2026-02-28 01:45:40",
+        "sentiment_score": 0.20601396262645721
+    },
+    {
+        "title": "La reclamación de 70 millones que amenaza al Barça: los socios forzados a usar 'seient lliure' estudian exigir perjuicios económicos",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/24/culemania/1003742710181_15768716_1706x960.jpg",
+        "tags": [
+            "palco",
+            "camp nou",
+            "barça",
+            "junta directiva del barça",
+            "josep maria bartomeu"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260228/reclamacion-millones-barca-forzados-estudian-perjuicios-economicos/1003742736894_0.html",
+        "date": "2026-02-28 01:39:48",
+        "sentiment_score": -0.8784479536116123
+    },
+    {
+        "title": "\"Hice de novia de un gay que quería ocultárselo a sus padres\": Laura y Juande, familiares de alquiler a más de 300€ al día",
+        "image_url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744149757_261679239_1706x960.jpg",
+        "tags": [
+            "familia",
+            "reportajes-newsletter",
+            "actores",
+            "porfolio",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260228/hice-novia-gay-queria-ocultarselo-padres-laura-juande-familiares-alquiler-dia/1003744149683_0.html",
+        "date": "2026-02-28 01:38:30",
+        "sentiment_score": -0.9339371724054217
+    },
+    {
+        "title": "Pablo Bustinduy, ¿pacificador de la izquierda? El hijo de una ministra de Felipe González que abandonó a Pablo Iglesias",
+        "image_url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744149692_261678218_1706x960.jpg",
+        "tags": [
+            "podemos",
+            "reportajes-newsletter",
+            "reportajes",
+            "pablo bustinduy",
+            "yolanda díaz",
+            "unidas podemos (up)",
+            "sumar",
+            "pablo iglesias",
+            "porfolio"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260228/pablo-bustinduy-pacificador-izquierda-hijo-ministra-felipe-gonzalez-abandono-iglesias/1003744148509_0.html",
+        "date": "2026-02-28 01:37:40",
+        "sentiment_score": -0.709726233035326
+    },
+    {
+        "title": "Julio Borges, expresidente de la Asamblea de Venezuela: \"Con el chavismo la democracia se suicidó; España, toma nota\"",
+        "image_url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744149638_261677394_1706x960.jpg",
+        "tags": [
+            "américa",
+            "nicolás maduro",
+            "hablando sobre el mundo",
+            "oposición venezolana",
+            "dictadura",
+            "delcy rodríguez",
+            "venezuela",
+            "democracia"
+        ],
+        "link": "https://www.elespanol.com/mundo/america/20260228/julio-borges-expresidente-asamblea-venezuela-chavismo-democracia-suicido-espana-toma-nota/1003744149185_0.html",
+        "date": "2026-02-28 01:32:30",
+        "sentiment_score": -0.8307374455034733
+    },
+    {
+        "title": "Clima en España: el pronóstico del tiempo para Barcelona este 28 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima",
+            "clima en españa",
+            "clima en barcelona",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/02/28/clima-en-espana-el-pronostico-del-tiempo-para-barcelona-este-28-de-febrero/",
+        "date": "2026-02-28 02:15:54",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Qué celulares llegan en marzo de 2026: lanzamientos confirmados y rumores",
+        "image_url": "https://www.infobae.com/resizer/v2/I6FON2MY4ZFINOKNWPMY7TLPV4.png?auth=85beb2f445a03a778fe5061c85494ea69e14a4809763c35feb60b95bb24ccd03&height=768&smart=true&width=1408",
+        "tags": [
+            "lanzamientos",
+            "inteligencia artificial",
+            "celulares",
+            "lo último en tecnología",
+            "tecnología-noticias",
+            "mwc 2026"
+        ],
+        "link": "https://www.infobae.com/tecno/2026/02/28/que-celulares-llegan-en-marzo-de-2026-lanzamientos-confirmados-y-rumores/",
+        "date": "2026-02-28 01:55:21",
+        "sentiment_score": 0.7284310245886445
+    },
+    {
+        "title": "Rafael Pérez, gerente de La Paz, mejor hospital de España desde hace 10 años: \"Somos números uno en trasplantes infantiles\"",
+        "image_url": "https://s3.elespanol.com/2026/02/24/madrid/1003744143773_261600738_1706x960.jpg",
+        "tags": [
+            "madrid comunidad",
+            "hospitales",
+            "hospital universitario la paz"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20260228/rafael-perez-gerente-paz-mejor-hospital-espana-hace-anos-numeros-trasplantes-infantiles-dl/1003744142945_0.html",
+        "date": "2026-02-28 01:41:53",
+        "sentiment_score": 0.28897368162870407
+    },
+    {
+        "title": "Las tres sorpresas que verán los socios del Barça en el nuevo Camp Nou tras recibir la licencia 1C",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/26/culemania/palco/1003742726879_15645116_1706x960.jpg",
+        "tags": [
+            "espai barça",
+            "palco",
+            "camp nou"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260228/sorpresas-socios-barca-camp-nou-recibir-licencia/1003742735386_0.html",
+        "date": "2026-02-28 01:29:18",
+        "sentiment_score": 0.24897649884223938
+    },
+    {
+        "title": "La candidatura unitaria frente a Laporta se tambalea: fricciones entre los opositores a la espera de la recogida de firmas",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/20/culemania/palco/1003742734850_15743595_1706x960.jpg",
+        "tags": [
+            "víctor font",
+            "joan laporta",
+            "elecciones barça",
+            "palco",
+            "xavier vilajoana"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260228/candidatura-unitaria-laporta-tambalea-fricciones-opositores-recogida/1003742736980_0.html",
+        "date": "2026-02-28 01:24:23",
+        "sentiment_score": -0.2265818491578102
+    },
+    {
+        "title": "Lamine Yamal desvela por error su lista de amigos en PlayStation",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/07/2026020721512098696.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/lamine-yamal-desvela-error-lista-amigos-playstation/20260228014207376637.html",
+        "date": "2026-02-28 00:42:07",
+        "sentiment_score": -0.1596314236521721
+    },
+    {
+        "title": "27 FEB 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/27-feb-2026-partidazo-cope-20260228_3317253.html",
+        "date": "2026-02-28 00:40:00",
+        "sentiment_score": 0.15146638825535774
     }
 ];
