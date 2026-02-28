@@ -1,272 +1,5 @@
 export default [
     {
-        "title": "Simeone define el once ante Brujas con una duda en el medio",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/15/2026021519032968884.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/simeone-define-once-brujas-duda-medio/20260224081114376001.html",
-        "date": "2026-02-24 07:11:14",
-        "sentiment_score": 0.15569813549518585
-    },
-    {
-        "title": "Ver a tus 'influencers' beber aumenta las ganas de alcohol: un experimento revela cuánto empujan las redes a los jóvenes",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260224080846_690.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-ver-influencers-beber-aumenta-ganas-alcohol-experimento-revela-cuanto-empujan-redes-jovenes-20260224080846.html",
-        "date": "2026-02-24 07:08:46",
-        "sentiment_score": -0.1980445571243763
-    },
-    {
-        "title": "El Gobierno aprueba la desclasificación de documentos del 23-F \"para saldar una deuda histórica\"",
-        "image_url": "https://static.grupojoly.com/clip/3c0d54aa-9469-4ffc-9538-e314d173612d_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "23",
-            "desclasificacion",
-            "gobierno",
-            "aprueba",
-            "documentos"
-        ],
-        "link": "https://www.diariodejerez.es/espana/gobierno-aprueba-desclasificacion-documentos-23_0_2005995288.html",
-        "date": "2026-02-24 07:06:55",
-        "sentiment_score": -0.021883971989154816
-    },
-    {
-        "title": "07:00H | 24 FEB 2026 | Herrera en COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "herrera en cope"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/07-00h-24-feb-2026-herrera-cope-20260224_3313716.html",
-        "date": "2026-02-24 07:04:00",
-        "sentiment_score": -0.2200513780117035
-    },
-    {
-        "title": "Estos son los monasterios españoles ideales para desconectar",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/02/22/8BE8EBDB-F768-437C-A149-3D865EFB311D/monasterio-burgales-san-pedro-cardena_69.jpg?crop=2000%2C1125%2Cx0%2Cy208&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "castilla y león",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/castilla-y-leon/estos-son-monasterios-espanoles-ideales-desconectar_20260224699d4c7e2f00a04688249b09.html",
-        "date": "2026-02-24 07:00:14",
-        "sentiment_score": 0.6788270939141512
-    },
-    {
-        "title": "El Gobierno aprueba hoy la desclasificación de documentos del 23-F «para saldar una deuda histórica»",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260224074048.jpg?fit=1920%2C1261&ssl=1",
-        "tags": [
-            "política"
-        ],
-        "link": "https://cronicadecantabria.com/cr/el-gobierno-aprueba-hoy-la-desclasificacin-de-documentos-del-23-f-para-saldar-una-deuda-histrica/",
-        "date": "2026-02-24 07:00:05",
-        "sentiment_score": -0.10428308695554733
-    },
-    {
-        "title": "Los años de Karra Elejalde en Vitoria: «Yo era un niño terrible, hiperactivo y muy pesado»",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/infancia-karra-elejalde.jpeg",
-        "tags": [
-            "actores",
-            "celebrities",
-            "vitoria",
-            "infancia",
-            "gente"
-        ],
-        "link": "https://theobjective.com/gente/2026-02-24/anos-karra-elejalde-vitoria-nino-terrible/",
-        "date": "2026-02-24 07:00:00",
-        "sentiment_score": 0.8221186138689518
-    },
-    {
-        "title": "Empieza a ver la luz la documentación escondida de Madrid Network: 111 millones, cargos del PP, nobleza e incluso pseudoperiodistas",
-        "image_url": "https://www.elplural.com/uploads/s1/21/01/73/6/madrid-network-concedio-1-4-millones-a-un-abogado-cercano-al-hermano-de-esperanza-aguirre-ep_7_480x270.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elplural.com/autonomias/madrid/empieza-ver-luz-documentacion-escondida-madrid-network-111-millones-cargos-pp-nobleza-incluso-pseudoperiodistas_382292102",
-        "date": "2026-02-24 06:55:00",
-        "sentiment_score": -0.10325512290000916
-    },
-    {
-        "title": "El ocio digital gana terreno en Madrid: nuevas formas de entretenimiento",
-        "image_url": "https://www.madridactual.es/images/stories/noticias/2026/01/260121-madrid.jpg",
-        "tags": [
-            "apuestas"
-        ],
-        "link": "https://www.madridactual.es/informacion-de-servicio/apuestas/el-ocio-digital-gana-terreno-en-madrid-nuevas-formas-de-entretenimiento-20260224-8087142.html",
-        "date": "2026-02-24 06:51:57",
-        "sentiment_score": 0.06091899052262306
-    },
-    {
-        "title": "La DGT prepara el fin de la «barra libre» para los coches 'Cero Emisiones' en el VAO",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/24/medidas-trafico-2026-RCA7Ah1QLpL5Xpio3gw6gWP-1200x840@diario_abc.jpg",
-        "tags": [
-            "vao",
-            "fin",
-            "barra",
-            "libre",
-            "coches",
-            "cero",
-            "prepara",
-            "emisiones",
-            "dgt"
-        ],
-        "link": "https://www.leonoticias.com/motor/dgt-prepara-fin-barra-libre-coches-cero-20260224074900-ntrc.html",
-        "date": "2026-02-24 06:49:11",
-        "sentiment_score": -0.782495180144906
-    },
-    {
-        "title": "El Supremo, a favor de Colau, y presupuestos sin ERC",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/24/primeras-planas/1003742735569_15752268_1706x960.jpg",
-        "tags": [
-            "cataluña",
-            "presupuestos",
-            "ada colau",
-            "primeras planas"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260224/supremo-favor-colau-presupuestos-sin-erc/1003742735567_0.html",
-        "date": "2026-02-24 07:11:16",
-        "sentiment_score": -0.6525582149624825
-    },
-    {
-        "title": "Ferrocarrils afronta la primera jornada de huelga convocada por los maquinistas de Semaf",
-        "image_url": "https://static1.ara.cat/clip/a945e233-7d42-41c0-bd82-a6598814521b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "primera",
-            "convocada",
-            "huelga",
-            "afronta",
-            "jornada",
-            "semaf",
-            "maquinistas",
-            "ferrocarrils"
-        ],
-        "link": "https://es.ara.cat/sociedad/movilidad/ferrocarrils-afronta-primera-jornada-huelga-convocada-maquinistas-semaf_1_5657659.html",
-        "date": "2026-02-24 07:07:01",
-        "sentiment_score": -0.7883554473519325
-    },
-    {
-        "title": "Pedri y Ferrán, mucho más que compañeros en ‘El Hormiguero’: “Él puede estar toda la mañana con bromas, pero si le haces una, se enfada”",
-        "image_url": "https://www.infobae.com/resizer/v2/THFJWK45KZBTVFV7MQVZVSHIZU.webp?auth=8dee1145dd3074ce4086dbfeb0a2f93b837893567384bfde3c86d62f414bd425&height=900&smart=true&width=1600",
-        "tags": [
-            "pedri",
-            "antena 3",
-            "pablo motos",
-            "atresmedia",
-            "españa-noticias",
-            "televisión españa",
-            "ferrán torres",
-            "fc barcelona",
-            "españa-entretenimiento",
-            "el hormiguero"
-        ],
-        "link": "https://www.infobae.com/espana/2026/02/24/pedri-y-ferran-mucho-mas-que-companeros-en-el-hormiguero-el-puede-estar-toda-la-manana-con-bromas-pero-si-le-haces-una-se-enfada/",
-        "date": "2026-02-24 07:06:46",
-        "sentiment_score": 0.21416472643613815
-    },
-    {
-        "title": "Un entrenador de Tenerife trunca la carrera de una tenista de élite de la que abusó sexualmente",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/706d911f-8d8e-41cf-8528-7fe74af68f7b_16-9-aspect-ratio_default_0_x800y368.jpg",
-        "tags": [
-            "tenerife",
-            "santa cruz",
-            "tenis",
-            "élite"
-        ],
-        "link": "https://www.laprovincia.es/canarias/2026/02/24/entrenador-tenerife-trunca-carrera-tenista-elite-abuso-sexualmente-127194060.html",
-        "date": "2026-02-24 07:01:00",
-        "sentiment_score": -0.7896983856335282
-    },
-    {
-        "title": "Metrovacesa logra récord de beneficios en 2025, con 56,9 millones de euros, y dispara su Ebitda un 74%",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260224075157.jpg?fit=1080%2C810&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/metrovacesa-logra-rcord-de-beneficios-en-2025-con-569-millones-de-euros-y-dispara-su-ebitda-un-74/",
-        "date": "2026-02-24 07:00:04",
-        "sentiment_score": 0.6561702378094196
-    },
-    {
-        "title": "Mañana de caos en Ferrocarriles: la huelga de maquinistas por seguridad afecta a Barcelona y amenaza al Mobile World Congress",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/10/30/gran-barcelona/623447650_9110709_1706x960.jpg",
-        "tags": [
-            "huelga",
-            "ferrocarrils de la generalitat (fgc)",
-            "movilidad",
-            "mobile congress"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/movilidad/20260224/manana-caos-ferrocarriles-huelga-maquinistas-seguridad-afecta-barcelona-amenaza-mobile-world-congress/1003742735568_0.html",
-        "date": "2026-02-24 06:59:59",
-        "sentiment_score": -0.06649810448288918
-    },
-    {
-        "title": "El Vall d'Hebron inicia un ensayo clínico con un colirio pionero para frenar la retinopatía diabética",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/02/01/colirio-ceguera.jpeg",
-        "tags": [
-            "capaces"
-        ],
-        "link": "https://www.20minutos.es/capaces/vall-d-hebron-inicia-un-ensayo-clinico-con-un-colirio-pionero-para-frenar-retinopatia-diabetica-fases-tempranas_6938080_0.html",
-        "date": "2026-02-24 06:57:55",
-        "sentiment_score": -0.743125831708312
-    },
-    {
-        "title": "Un policía muerto y dos heridos en un atentado con bomba en el centro de Moscú",
-        "image_url": "https://static1.ara.cat/clip/3dac482f-8200-4604-b1d5-3da77b63b033_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "policia",
-            "atentado",
-            "muerto",
-            "centro",
-            "heridos",
-            "fuera",
-            "bomba",
-            "moscu"
-        ],
-        "link": "https://es.ara.cat/internacional/rusia/policia-muerto-fuera-heridos-atentado-bomba-centro-moscu_1_5657606.html",
-        "date": "2026-02-24 06:46:45",
-        "sentiment_score": -0.8683438245207071
-    },
-    {
-        "title": "Lo que debes saber hoy, 24 de febrero, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2022/07/05/vivir-en-barcelona/685441450_9091954_1706x960.jpg",
-        "tags": [
-            "clima",
-            "aemet (agencia estatal de meteorología)",
-            "tráfico",
-            "rodalies",
-            "vivir en barcelona",
-            "gran barcelona",
-            "coches",
-            "renfe barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260224/debes-saber-hoy-febrero-barcelona/1003742735565_0.html",
-        "date": "2026-02-24 06:45:58",
-        "sentiment_score": 0.3278023600578308
-    },
-    {
-        "title": "El Supremo ve delito en negarse a estar en una mesa electoral en pandemia con la \"excusa\" de poder contagiarse",
-        "image_url": "https://www.infobae.com/resizer/v2/MNGQMXACIFEBRD57MEASGJQCUU.jpg?auth=42b075d54ea95dae85df099ad131e8dce714c3fe258489e27672ef3442e82957&height=1280&smart=true&width=1920",
-        "tags": [
-            "delito de denegación de auxilio electoral",
-            "europapress",
-            "audiencia provincial de barcelona",
-            "mossos desquadra",
-            "tribunal supremo",
-            "mesa electoral",
-            "fiscalía",
-            "cataluña",
-            "barcelona",
-            "pandemia",
-            "generalitat"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/02/24/el-supremo-ve-delito-en-negarse-a-estar-en-una-mesa-electoral-en-pandemia-con-la-excusa-de-poder-contagiarse/",
-        "date": "2026-02-24 06:45:32",
-        "sentiment_score": -0.8602401241660118
-    },
-    {
         "title": "Ecologistas cuestionan que PP rechace políticas climáticas \"que destruyen el empleo\": \"No deben vivir en el mundo real\"",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260224185358_690.jpg",
         "tags": [
@@ -2948,5 +2681,241 @@ export default [
         "link": "https://www.elcomercio.es/pantallas/premios-goya/nominados-premios-goya-2026-20260227181512-ntrc.html",
         "date": "2026-02-27 17:15:16",
         "sentiment_score": 0.46997558884322643
+    },
+    {
+        "title": "Bill Gates reconoce infidelidades con «dos chicas rusas» e insiste en desvincularse de la trama Epstein",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/58/media_thumb-link-4151401.webp?1772194502=",
+        "tags": [
+            "actualidad",
+            "epstein",
+            "rusas",
+            "bill gates"
+        ],
+        "link": "https://www.meneame.net/story/bill-gates-reconoce-infidelidades-dos-chicas-rusas-insiste-trama",
+        "date": "2026-02-27 20:00:03",
+        "sentiment_score": -0.30388492345809937
+    },
+    {
+        "title": "Real Madrid y Man City se cruzan otra vez. Bodø/Glimt contra Sporting en octavos de la Champions",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/d08ba5f/2147483647/strip/true/crop/4227x2219+0+299/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd1%2Ff5%2F7f49e2ed40f481bc0280051ee093%2Fd0a7eb7f4d504dfc85bf449472fc7289.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-27/real-madrid-y-man-city-se-cruzan-otra-vez-bod-glimt-contra-sporting-en-octavos-de-la-champions",
+        "date": "2026-02-27 22:19:01",
+        "sentiment_score": 0.6038497388362885
+    },
+    {
+        "title": "El club cenicienta Bodø/Glimt crece en la Champions League tras el rechazo a la Superliga",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/89de722/2147483647/strip/true/crop/7676x4030+0+544/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc2%2F86%2F3c72b6f24396b264446b700ba57a%2F97a12cdca4c64c018aa81bc5ec3b5a26.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-27/el-club-cenicienta-bod-glimt-crece-en-la-champions-league-tras-el-rechazo-la-superliga",
+        "date": "2026-02-27 22:12:06",
+        "sentiment_score": 0.7507047802209854
+    },
+    {
+        "title": "22:00H | 27 FEB 2026 | La Linterna",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la linterna"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/horas-completas/22-00h-27-feb-2026-linterna-20260227_3317243.html",
+        "date": "2026-02-27 22:10:00",
+        "sentiment_score": -0.41904568672180176
+    },
+    {
+        "title": "Iniciativa por La Gomera rechaza la reedición del Pacto de Las Flores",
+        "image_url": "https://static.eldiario.es/clip/8496e1fc-fab3-4be0-aad7-a034b4c4255e_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gomera",
+            "rechaza",
+            "reedicion",
+            "pacto",
+            "iniciativa",
+            "flores"
+        ],
+        "link": "https://www.eldiario.es/canariasahora/lagomeraahora/iniciativa-gomera-rechaza-reedicion-pacto-flores_1_13028369.html",
+        "date": "2026-02-27 22:06:42",
+        "sentiment_score": -0.03480863571166992
+    },
+    {
+        "title": "Luka Modric valora seguir un año más en el Milan tras brillar en Italia",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/18/2025081803430337791.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/luka-modric-valora-seguir-ano-mas-milan-brillar-italia/20260227225918376631.html",
+        "date": "2026-02-27 21:59:18",
+        "sentiment_score": 0.5560435689985752
+    },
+    {
+        "title": "Sorteo de Champions: Real Madrid vs. Manchester City será el plato fuerte de octavos",
+        "image_url": "https://noticias24carabobo.com/wp-content/uploads/2026/02/Sorteo-para-los-octavos-de-la-Champions-League.jpg",
+        "tags": [
+            "noticias de carabobo",
+            "noticias24carabobo",
+            "noticias hoy",
+            "noticias 24",
+            "sorteo champions",
+            "actualidad",
+            "champions league",
+            "noticias 24 horas carabobo",
+            "portada",
+            "news",
+            "noticias24carabobo en google news",
+            "deportes",
+            "noticias de venezuela",
+            "champions league octavos de final",
+            "noticias de valencia",
+            "noticias de sucesos",
+            "noticias de hoy valencia"
+        ],
+        "link": "https://noticias24carabobo.com/sorteo-octavos-champions-league/",
+        "date": "2026-02-27 21:32:04",
+        "sentiment_score": 0.10999010503292084
+    },
+    {
+        "title": "La Copa del Mundo FIFA llega a México para cumplir gira a 100 días del Mundial",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2026/02/48c1629390fc5b48030f9f40b535b8497aeea55cw.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elsiglo.com.ve/la-copa-del-mundo-fifa-llega-a-mexico-para-cumplir-gira-a-100-dias-del-mundial/",
+        "date": "2026-02-27 21:25:56",
+        "sentiment_score": 0.18552980944514275
+    },
+    {
+        "title": "Santiago Aguado fallece a los 89 años y deja un vacío en el Real Madrid",
+        "image_url": "https://lavozdeibiza.com/wp-content/uploads/2026/02/Muere-Santiago-Aguado-a-los-89-anos.jpeg",
+        "tags": [
+            "real madrid",
+            "sociedad",
+            "santiago aguado",
+            "actualidad"
+        ],
+        "link": "https://lavozdeibiza.com/actualidad/santiago-aguado-fallece-a-los-89-anos-y-deja-un-vacio-en-el-real-madrid/",
+        "date": "2026-02-27 21:25:43",
+        "sentiment_score": 0.3113725334405899
+    },
+    {
+        "title": "España sabe desde hace un año que viola un tratado europeo por dejar sin luz a la Cañada Real: \"Juegan a hacerse los sordos\"",
+        "image_url": "https://static.eldiario.es/clip/fd7ff01b-b701-4f44-b00e-32689b547509_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "europeo",
+            "luz",
+            "real",
+            "sordos",
+            "juegan",
+            "hacerse",
+            "espana",
+            "ano",
+            "canada",
+            "tratado",
+            "viola"
+        ],
+        "link": "https://www.eldiario.es/madrid/somos/espana-ano-viola-tratado-europeo-luz-canada-real-juegan-hacerse-sordos_1_13016124.html",
+        "date": "2026-02-27 21:18:57",
+        "sentiment_score": -0.09779691696166992
+    },
+    {
+        "title": "El precio fiscal de un regreso del rey emérito: tributar por todo su patrimonio y hasta un 81% de impuestos por los regalos",
+        "image_url": "https://static.eldiario.es/clip/079ee305-4adf-4443-bcca-d5e599bfa78b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "regalos",
+            "regreso",
+            "81",
+            "precio",
+            "impuestos",
+            "rey",
+            "emerito",
+            "tributar",
+            "fiscal",
+            "patrimonio"
+        ],
+        "link": "https://www.eldiario.es/economia/precio-fiscal-regreso-rey-emerito-tributar-patrimonio-81-impuestos-regalos_1_13028046.html",
+        "date": "2026-02-27 21:18:52",
+        "sentiment_score": -0.11760637164115906
+    },
+    {
+        "title": "La Otxoa: «Me metieron en la cárcel por ser gay»",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2026/02/27/Imagen%20la-otxoa--758x531.jpg",
+        "tags": [
+            "barcelona (provincia)",
+            "madrid (ciudad)",
+            "josé antonio nielfa"
+        ],
+        "link": "https://www.elcorreo.com/bizkaia/otxoa-metieron-carcel-gay-20260227190256-nt.html",
+        "date": "2026-02-27 22:08:40",
+        "sentiment_score": -0.11781111359596252
+    },
+    {
+        "title": "«En unos temas coincido más con Ayuso y en otros con Felipe González»",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/02/28/juanma-moreno-kmLD-U209470537765GI-1200x840@RC.jpg",
+        "tags": [
+            "felipe gonzález márquez",
+            "junta de andalucía",
+            "andalucía",
+            "isabel díaz ayuso",
+            "partido popular (pp)"
+        ],
+        "link": "https://www.canarias7.es/nacional/politica/temas-coincido-ayuso-felipe-gonzalez-20260228000507-ntrc.html",
+        "date": "2026-02-27 22:05:16",
+        "sentiment_score": 0.315003402531147
+    },
+    {
+        "title": "Illa valora positivamente la ley de amnistía y dice que Puigdemont «debería haber vuelto ya»",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260227224813.jpg?fit=1600%2C1069&ssl=1",
+        "tags": [
+            "política"
+        ],
+        "link": "https://cronicadecantabria.com/cr/illa-valora-positivamente-la-ley-de-amnista-y-dice-que-puigdemont-debera-haber-vuelto-ya/",
+        "date": "2026-02-27 22:00:03",
+        "sentiment_score": 0.02566644549369812
+    },
+    {
+        "title": "La serie documental ‘La vida secreta de los alcorques vivos’ se estrena en Huesca",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2026/02/27/lada6657-6453025.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/cultura/2026/02/27/la-serie-documental-la-vida-secreta-de-los-alcorques-vivos-se-estrena-en-huesca-1898137-daa.html",
+        "date": "2026-02-27 21:55:18",
+        "sentiment_score": 0.10353342816233635
+    },
+    {
+        "title": "El Córdoba Patrimonio se estrella en el Palau (5-1)",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/27/69a2115e1120a.r_d.1064-445-5859.jpeg",
+        "tags": [
+            "córdoba - deportes"
+        ],
+        "link": "https://www.eldebate.com/espana/la-voz-de-cordoba/deportes/20260227/cordoba-patrimonio-estrella-palau-51_390511.html",
+        "date": "2026-02-27 21:49:41",
+        "sentiment_score": -0.011235862970352173
+    },
+    {
+        "title": "Nude Project, la marca española capitaneada por dos veinteañeros que vuelve loca a la Generación Z: \"Hemos tenido suerte, pero los Beatles también la tuvieron, tenían talento y aparecieron cuando tenían que hacerlo\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/9d69001db6972adb8a848e0cfaa88bcd/crop/73x0/1827x2339/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/25/17720343389971.jpg",
+        "tags": [
+            "nlpremium",
+            "moda",
+            "yodona"
+        ],
+        "link": "https://www.elmundo.es/yodona/moda/2026/02/27/699f199ce9cf4a1f718b4591.html",
+        "date": "2026-02-27 21:42:18",
+        "sentiment_score": 0.560833290219307
+    },
+    {
+        "title": "Dónde se rodó El 47 en Barcelona: las calles reales que reconstruyen su historia",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/02/27/2026022722302945121.jpg",
+        "tags": [
+            "medios"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/medios/donde-rodo-47-barcelona-calles-reales-que-reconstruyen-historia/202602272230431006640.html",
+        "date": "2026-02-27 21:30:43",
+        "sentiment_score": -0.05393216013908386
     }
 ];
