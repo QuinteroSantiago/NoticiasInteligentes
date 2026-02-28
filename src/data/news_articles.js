@@ -1,484 +1,5 @@
 export default [
     {
-        "title": "Garitano: «Estamos en el peor momento de la temporada, asumo mi responsabilidad»",
-        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/canal-amarillo/2026/02/23/464A0145%20(3)_20260223224048-Rtl6Octa7pRjsPGseQcJ3IO-758x531@abc.JPG",
-        "tags": [
-            "cádiz"
-        ],
-        "link": "https://www.lavozdigital.es/canal-amarillo/noticias-cadiz-cf/garitano-peor-momento-temporada-asumo-responsabilidad-20260223230419-ntv.html",
-        "date": "2026-02-23 22:05:05",
-        "sentiment_score": -0.008438706398010254
-    },
-    {
-        "title": "\"En la provincia de Granada se han invertido 107,7 millones de euros en transformación digital\"",
-        "image_url": "https://static.grupojoly.com/clip/de8d355c-b443-4421-9c2b-b76e8302676a_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "universidad de granada",
-            "últimas noticias granada",
-            "empresas granada",
-            "la alhambra"
-        ],
-        "link": "https://www.granadahoy.com/granada/maria-gonzalez-veracruz-granada-transformacion-digital-inteligencia-artificial_0_2005992905.html",
-        "date": "2026-02-23 22:00:51",
-        "sentiment_score": 0.635153740644455
-    },
-    {
-        "title": "Arrasate, una trayectoria con más grises que claros",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4388279.jpg",
-        "tags": [
-            "laliga",
-            "rcd mallorca",
-            "jagoba arrasate",
-            "real mallorca",
-            "fútbol",
-            "última hora",
-            "ultimas noticias",
-            "primera división"
-        ],
-        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/02/23/2576351/trayectoria-mas-grises-claros.html",
-        "date": "2026-02-23 21:56:00",
-        "sentiment_score": -0.7794859483838081
-    },
-    {
-        "title": "Ferran Torres desvela junto a Pedri qué bebe de fiesta: \"Buen vino, pero luego hasta el agua de los floreros\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/23/699cc15c59ba40-09389006.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/ferran-torres-desvela-junto-pedri-hormiguero-que-bebe-fiesta-buen-vino-pero-luego-hasta-agua-los-floreros_6938026_0.html",
-        "date": "2026-02-23 21:50:02",
-        "sentiment_score": 0.0774962529540062
-    },
-    {
-        "title": "Llegan los 'therian' a Canarias: \"He descubierto mi verdadera identidad. Un día soy búho y otro golden retriever\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f038b2b4-010f-43c0-a764-b7ccdd27e7cf_16-9-aspect-ratio_default_0_x700y295.jpg",
-        "tags": [
-            "psicología",
-            "canarias",
-            "virales",
-            "redes sociales"
-        ],
-        "link": "https://www.laprovincia.es/canarias/2026/02/23/llegan-therians-canarias-verdadera-identidad-127192730.html",
-        "date": "2026-02-23 21:49:41",
-        "sentiment_score": -0.17299550771713257
-    },
-    {
-        "title": "Estos son los 15 mejores restaurantes de Galicia, según la guía Macarfi",
-        "image_url": "https://s3.elespanol.com/2026/02/23/actualidad/1003744142684_261588343_1706x960.jpg",
-        "tags": [
-            "restaurantes",
-            "galicia",
-            "gastronomía",
-            "gastrogalicia"
-        ],
-        "link": "https://www.elespanol.com/quincemil/vivir/gastrogalicia/20260223/mejores-restaurantes-galicia-guia-macarfi/1003744139683_0.html",
-        "date": "2026-02-23 21:44:40",
-        "sentiment_score": 0.22888703644275665
-    },
-    {
-        "title": "Juan Carlos, el hermano de 'Los Gemeliers', se pronuncia sobre la brutal agresión",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/02/23/699cc9452600e.webp",
-        "tags": [
-            "series y tv"
-        ],
-        "link": "https://www.lavozdealmeria.com/series-y-tv/471549/juan-carlos-hermano-gemeliers-pronuncia-sobre-brutal-agresion.html",
-        "date": "2026-02-23 21:42:59",
-        "sentiment_score": -0.684719817712903
-    },
-    {
-        "title": "Ferran y Pedri desvelan las multas de Flick por llegar tarde: \"¿Qué prefieres: no jugar o pagar?\"",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/02/23/E0BB097A-0190-4598-A3AD-74F423F1471C/ferran-pedri-desvelan-multas-flick-llegar-tarde-que-prefieres-jugar-pagar_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "deportes",
-            "antena 3 noticias",
-            "fútbol"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/ferran-pedri-desvelan-multas-flick-llegar-tarde-que-prefieres-jugar-pagar_20260223699cc93a2f00a04688240447.html",
-        "date": "2026-02-23 21:40:10",
-        "sentiment_score": -0.8028610851615667
-    },
-    {
-        "title": "De Air Europa al jurado: la investigación del juez Peinado a Begoña Gómez sufre un nuevo revolcón",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2026/02/90de32f1511afbb14ab898fd8b11417b7e6c1831w-1440x808.jpg",
-        "tags": [
-            "españa",
-            "pedro sánchez",
-            "begoña gómez"
-        ],
-        "link": "https://www.elindependiente.com/espana/2026/02/23/air-europa-jurado-investigacion-juez-peinado-begona-gomez-sufre-nuevo-revolcon/",
-        "date": "2026-02-23 21:30:47",
-        "sentiment_score": -0.8754123710095882
-    },
-    {
-        "title": "Crisis global",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4387143.jpg",
-        "tags": [
-            "real mallorca",
-            "última hora",
-            "primera división",
-            "laliga",
-            "ultimas noticias",
-            "fútbol",
-            "rcd mallorca"
-        ],
-        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/02/23/2575905/crisis-global.html",
-        "date": "2026-02-23 21:18:00",
-        "sentiment_score": -0.1310100108385086
-    },
-    {
-        "title": "Jahzeel Gálvez, el hombre apuñalado por su hijastro en Sant Andreu, murió por \"defender\" a su pareja y madre del homicida",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/23/sant-andreu/1003742735419_15750428_1706x960.jpg",
-        "tags": [
-            "sant andreu",
-            "sant andreu de palomar",
-            "delincuencia",
-            "guardia urbana",
-            "agresiones",
-            "crimen",
-            "mossos d'esquadra"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sant-andreu/20260223/jahzeel-galvez-hombre-apunalado-hijastro-sant-andreu-murio-defender-pareja-madre-homicida/1003742735257_0.html",
-        "date": "2026-02-23 22:30:00",
-        "sentiment_score": -0.8179530687630177
-    },
-    {
-        "title": "Una buena 'Gioconda' en el Liceu",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/23/vivir-en-barcelona/1003742735492_15751127_1706x960.jpg",
-        "tags": [
-            "cultura",
-            "vivir en barcelona",
-            "música",
-            "gran teatre del liceu"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260223/buena-gioconda-liceu/1003742735483_0.html",
-        "date": "2026-02-23 22:30:00",
-        "sentiment_score": 0.2114543318748474
-    },
-    {
-        "title": "Barcelona transformará el degradado solar de 'La Bartola' del Raval en una pista polideportiva",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/23/ciutat-vella/1003742735509_15751391_1706x960.jpg",
-        "tags": [
-            "obras",
-            "ayuntamiento de barcelona",
-            "deportes",
-            "ciutat vella",
-            "el raval"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/ciutat-vella/20260223/barcelona-transformara-degradado-solar-bartola-raval-pista-polideportiva/1003742735501_0.html",
-        "date": "2026-02-23 22:30:00",
-        "sentiment_score": 0.014224976301193237
-    },
-    {
-        "title": "Así será la reforma de la ‘joya’ modernista de Pedralbes tras años de espera: 250.000 euros menos y lista en 2027",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/01/10/les-corts/915418499_13958458_1706x960.jpg",
-        "tags": [
-            "arte barcelona",
-            "obras",
-            "edificios históricos",
-            "sarrià - sant gervasi",
-            "pedralbes"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sarria-sant-gervasi/20260223/reforma-joya-modernista-pedralbes-anos-espera-euros-lista/1003742735460_0.html",
-        "date": "2026-02-23 22:30:00",
-        "sentiment_score": 0.6712189428508282
-    },
-    {
-        "title": "Damm gana el premio a Empresa del Año de ‘El Periódico’ y Banco Sabadell",
-        "image_url": "https://forbes.es/wp-content/uploads/2026/02/fotonoticia_20260223225827_1920-1200x675.jpg",
-        "tags": [
-            "economía",
-            "última hora"
-        ],
-        "link": "https://forbes.es/economia/878752/damm-gana-el-premio-a-empresa-del-ano-de-el-periodico-y-banco-sabadell/",
-        "date": "2026-02-23 22:25:03",
-        "sentiment_score": 0.7339774146676064
-    },
-    {
-        "title": "La guía Macarfi corona al restaurante Fontané como mejor apertura y ya cubre toda la España peninsular",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/02/23/macarfi840-kDeH-U230894529140YeE.jpg",
-        "tags": [
-            "michelin",
-            "restaurantes",
-            "gastronomía",
-            "alimentación"
-        ],
-        "link": "https://www.leonoticias.com/culturas/gastronomia/guia-macarfi-corona-restaurante-fontane-mejor-apertura-20260223231624-ntrc.html",
-        "date": "2026-02-23 22:21:06",
-        "sentiment_score": -0.12062958627939224
-    },
-    {
-        "title": "Enfado de Mendizorroza con la enésima sustitución de Ibáñez",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7b1aad72-5136-4ba3-bf83-49e7c9ddc586_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "mendizorroza",
-            "alaves",
-            "girona",
-            "ibanez",
-            "sustitucion",
-            "enesima",
-            "enfado"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2026/02/23/enfado-mendizorroza-enesima-sustitucion-ibanez-alaves-girona-10739475.html",
-        "date": "2026-02-23 22:10:19",
-        "sentiment_score": -0.42177949845790863
-    },
-    {
-        "title": "Pedri y Ferran Torres revelan las cifras de las multas de Flick por llegar tarde: “Mejor no aparezcas”",
-        "image_url": "https://www.infobae.com/resizer/v2/MP4XXIKUOMD52I6UE2HWVLW5YU.jpg?auth=5ecda4bb9a5cedfbeeb0177578180d84f46ba7145e3321cf3b555b2ccda90cd0&height=1506&smart=true&width=1986",
-        "tags": [
-            "españa-deportes",
-            "fútbol españa",
-            "atresmedia",
-            "pablo motos",
-            "famosos españa",
-            "españa-noticias",
-            "ferrán torres",
-            "pedri",
-            "fútbol",
-            "la liga",
-            "el hormiguero",
-            "fc barcelona",
-            "antena 3",
-            "televisión españa",
-            "gente españa"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/02/23/pedri-y-ferran-torres-revelan-las-cifras-de-las-multas-de-flick-por-llegar-tarde-mejor-no-aparezcas/",
-        "date": "2026-02-23 22:04:05",
-        "sentiment_score": 0.38008783012628555
-    },
-    {
-        "title": "Revancha de los playoffs de la Champions League: partidos, fechas, horarios y cómo sigue el formato",
-        "image_url": "https://ktvz.b-cdn.net/2026/02/ar-375x225.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://ktvz.com/cnn-spanish/2026/02/23/revancha-de-los-playoffs-de-la-champions-league-partidos-fechas-horarios-y-como-sigue-el-formato/",
-        "date": "2026-02-24 02:41:47",
-        "sentiment_score": 0.1577616035938263
-    },
-    {
-        "title": "Agenda: qué hacer en Asturias hoy martes 24 de febrero de 2026",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5582a871-bf5c-4ac8-9f73-3760635c7cab_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "horario",
-            "exposición",
-            "casa de cultura",
-            "festivos"
-        ],
-        "link": "https://www.lne.es/asturias/2026/02/24/agenda-asturias-hoy-martes-24-127191698.html",
-        "date": "2026-02-24 02:32:37",
-        "sentiment_score": -0.35582731664180756
-    },
-    {
-        "title": "Defensa del periodismo frente a la IA",
-        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "periodismo",
-            "ia",
-            "defensa",
-            "frente"
-        ],
-        "link": "https://www.eldiadecordoba.es/opinion/analisis/defensa-periodismo-frente-ia_0_2005994536.html",
-        "date": "2026-02-24 02:08:28",
-        "sentiment_score": -0.3694174848496914
-    },
-    {
-        "title": "Se calienta el Real Madrid vs. Benfica por la Champions League: ¿qué pasó con Prestianni, Vinícius y Valverde?",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2026/02/23/real-madrid-benfica-prestianni-vinicius-valverde-orix/",
-        "date": "2026-02-24 02:03:44",
-        "sentiment_score": -0.0668553039431572
-    },
-    {
-        "title": "Una segunda policía acusa al ex DAO de \"intimidarla y doblegarla\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/21a7d4d604607618375878d4a659c10a/crop/482x0/2530x2048/f/image/jpeg/assets/multimedia/imagenes/2026/02/18/17714449479605.jpg",
-        "tags": [
-            "artículos gema peñalosa",
-            "nlpremium",
-            "policía nacional"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/02/24/699c995221efa05c438b4590.html",
-        "date": "2026-02-24 02:02:27",
-        "sentiment_score": -0.5300132147967815
-    },
-    {
-        "title": "Se calienta el Real Madrid vs. Benfica por la Champions League: ¿qué pasó con Prestianni, Vinícius y Valverde?",
-        "image_url": "https://ktvz.b-cdn.net/2026/02/ar-375x225.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://ktvz.com/cnn-spanish/2026/02/23/se-calienta-el-real-madrid-vs-benfica-por-la-champions-league-que-paso-con-prestianni-vinicius-y-valverde/",
-        "date": "2026-02-24 01:28:42",
-        "sentiment_score": -0.06629762053489685
-    },
-    {
-        "title": "El gran problema económico que amenaza al Barça: posibles reclamaciones de socios forzados a usar el ‘seient lliure’ desde 2018",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/24/culemania/palco/1003742735564_15752247_1706x960.jpg",
-        "tags": [
-            "camp nou",
-            "josep maria bartomeu",
-            "palco",
-            "barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260224/problema-economico-amenaza-barca-posibles-reclamaciones-forzados/1003742735556_0.html",
-        "date": "2026-02-24 01:26:22",
-        "sentiment_score": -0.8376886248588562
-    },
-    {
-        "title": "Natalia Rodríguez, de suspender hasta \"el recreo\" a ganar 30 premios y aspirar al Princesa de Girona con su empresa de IA",
-        "image_url": "https://s3.elespanol.com/2026/02/23/madrid/1003744142139_261580997_1706x960.jpg",
-        "tags": [
-            "emprendimiento",
-            "sociedad",
-            "telecomunicaciones",
-            "inteligencia artificial"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20260224/natalia-rodriguez-suspender-recreo-ganar-premios-aspirar-princesa-girona-empresa-ia/1003744141683_0.html",
-        "date": "2026-02-24 01:10:21",
-        "sentiment_score": 0.3045475631952286
-    },
-    {
-        "title": "Quiénes son los 5 candidatos a dirigir a River Plate tras el anuncio de Gallardo: el nombre que tomó ventaja",
-        "image_url": "https://www.infobae.com/resizer/v2/TUYIUZ3NY5GONKR6SBDGQNXJ3Y.jpg?auth=4cacdc5884c36e5584dfc86a8f6946bb79658db8df1e5f1b350448c876f92aa4&height=1080&smart=true&width=1920",
-        "tags": [
-            "marcelo gallardo",
-            "eduardo coudet",
-            "santiago solari",
-            "hernán crespo",
-            "ramón díaz",
-            "jorge sampaoli",
-            "diego placente",
-            "ariel holan",
-            "pablo aimar",
-            "river plate"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/24/quienes-son-los-5-candidatos-a-dirigir-a-river-plate-tras-el-anuncio-de-gallardo-el-nombre-que-tomo-ventaja/",
-        "date": "2026-02-24 00:58:33",
-        "sentiment_score": -0.05510954558849335
-    },
-    {
-        "title": "SotySolar crece un 20% en un mercado B2B que se contrae un 9%, posicionándose para liderar la nueva era del autoconsumo empresarial",
-        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2026/02/AutonsumoB2BSotySolarturismo2-1024x768.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.elperiodicodecanarias.es/sotysolar-crece-un-20-en-un-mercado-b2b-que-se-contrae-un-9-posicionandose-para-liderar-la-nueva-era-del-autoconsumo-empresarial/",
-        "date": "2026-02-24 00:00:17",
-        "sentiment_score": 0.8292689621448517
-    },
-    {
-        "title": "El expríncipe Andrés no fue el único: los dos grandes disgustos que recibió la infanta Cristina en su cumpleaños",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/02/23/la-infanta-cristina-en-el-partido-de-la-seleccion-espanola-de-balonmano-contra-la-de-suecia-en-el-que-debuto-su-hijo-pablo-urdangarin-en-linkoeping-en-octubre-de-2025.jpeg",
-        "tags": [
-            "life"
-        ],
-        "link": "https://www.huffingtonpost.es/life/el-exprincipe-andres-unico-dos-grandes-disgustos-recibio-infanta-cristina-cumpleanos-f202602.html",
-        "date": "2026-02-24 02:17:07",
-        "sentiment_score": -0.9024568274617195
-    },
-    {
-        "title": "Pronóstico del clima en Barcelona este 24 de febrero: temperatura, lluvias y viento",
-        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima",
-            "clima en barcelona",
-            "últimas actualizaciones",
-            "clima en españa"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/24/pronostico-del-clima-en-barcelona-este-24-de-febrero-temperatura-lluvias-y-viento/",
-        "date": "2026-02-24 02:15:35",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "El genio de los precios",
-        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "precios",
-            "genio"
-        ],
-        "link": "https://www.granadahoy.com/opinion/articulos/genio-precios_0_2005994550.html",
-        "date": "2026-02-24 02:08:53",
-        "sentiment_score": -0.48228561133146286
-    },
-    {
-        "title": "Pati Chapoy afirma que ‘sacaría a patadas’ a los therians si se encuentra con ellos: “Quieren ser perros”",
-        "image_url": "https://www.infobae.com/resizer/v2/3TZGVEYUGJBYTNCDQZWMGJ5RLY.jpg?auth=b8637ae5f48585b34df94cd7bd06d2df2576f079bb9c564df1407b939e113a1f&height=1080&smart=true&width=1920",
-        "tags": [
-            "ventaneando",
-            "therians",
-            "mexico-entretenimiento",
-            "pati chapoy"
-        ],
-        "link": "https://www.infobae.com/mexico/2026/02/24/pati-chapoy-afirma-que-sacaria-a-patadas-a-los-therians-si-se-encuentra-con-ellos-quieren-ser-perros/",
-        "date": "2026-02-24 01:58:18",
-        "sentiment_score": -0.5455904416739941
-    },
-    {
-        "title": "Moncloa abre la llave del 23-F en plena estrategia de agitar el miedo a Vox",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/2d26f27a1465f2fcc979f51abd99c7e7/crop/1x7/100x107/f/image/jpeg/assets/multimedia/imagenes/2022/05/18/16528898789864.jpg",
-        "tags": [
-            "artículos raúl piña",
-            "psoe",
-            "pedro sánchez"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/02/24/699c9a2621efa01b408b4580.html",
-        "date": "2026-02-24 01:43:46",
-        "sentiment_score": -0.6413486134260893
-    },
-    {
-        "title": "Las dos caras de Carrefour en España: es uno de sus mercados más rentables pero la crisis del ‘híper’ lastra su cuota",
-        "image_url": "https://s3.elespanol.com/2026/02/13/actualidad/1003744129097_261410555_1706x960.jpg",
-        "tags": [
-            "francia",
-            "carrefour",
-            "españa",
-            "distribución"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20260224/caras-carrefour-espana-mercados-rentables-crisis-hiper-lastra-cuota/1003744141489_0.html",
-        "date": "2026-02-24 01:29:20",
-        "sentiment_score": -0.10593754053115845
-    },
-    {
-        "title": "Laporta presenta su libro y promete dar más guerra: \"Soy creyente pero la salvación del Barça no es un milagro\"",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/23/culemania/palco/1003742735544_15751880_1706x960.jpg",
-        "tags": [
-            "elecciones barça",
-            "joan laporta",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260224/laporta-presenta-promete-creyente-salvacion-barca-milagro/1003742735491_0.html",
-        "date": "2026-02-24 01:26:59",
-        "sentiment_score": -0.7929422967135906
-    },
-    {
-        "title": "Laporta reforzará el perfil económico de su junta directiva si gana las elecciones del Barça: seis fichajes de relumbrón",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/23/culemania/palco/1003742735555_15752080_1706x960.jpg",
-        "tags": [
-            "elecciones barça",
-            "joan laporta",
-            "palco",
-            "junta directiva del barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260224/laporta-reforzara-economico-directiva-elecciones-barca-relumbron/1003742735554_0.html",
-        "date": "2026-02-24 01:26:57",
-        "sentiment_score": 0.4585776664316654
-    },
-    {
-        "title": "Los Gilipojazz, el NJSJE y Germán Kucich brillan en una semana bilbaína muy jazzera",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2026/02/24/jazz%201%20gilipojazz-kC8H-U20869745093l7E-758x531@El%20Correo.jpg",
-        "tags": [
-            "el bafle (óscar cubillo)"
-        ],
-        "link": "https://www.elcorreo.com/culturas/musica/gilipojazz-njsje-german-kucich-brillan-semana-bilbaina-20260224014350-nt.html",
-        "date": "2026-02-24 00:43:58",
-        "sentiment_score": 0.1443507820367813
-    },
-    {
         "title": "Simeone define el once ante Brujas con una duda en el medio",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/15/2026021519032968884.jpg",
         "tags": [
@@ -3210,5 +2731,222 @@ export default [
         "link": "https://www.diariodeibiza.es/internacional/2026/02/27/directo-ultima-hora-conflicto-palestina-93048498.html",
         "date": "2026-02-27 06:30:00",
         "sentiment_score": -0.3745305612683296
+    },
+    {
+        "title": "Sadar Bizirik pide la retirada de la Policía Nacional de El Sadar",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/0f3275fb-1484-424c-a3be-2f46d35693fc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sadar",
+            "bizirik",
+            "pide",
+            "retirada",
+            "policia"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/27/sadar-bizirik-pide-retirada-policia-10757988.html",
+        "date": "2026-02-27 17:22:34",
+        "sentiment_score": -0.7872772347182035
+    },
+    {
+        "title": "La semana cultural del conservatorio de Avilés incluye actividades en la Casa de Cultura, Valdecarzana y el Palacio Valdés",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3a5c2970-9cb3-4d8d-97be-a264cafbfdec_16-9-aspect-ratio_default_0_x609y270.jpg",
+        "tags": [
+            "avilés",
+            "conferencia",
+            "cultura",
+            "casa de cultura",
+            "teatro",
+            "música"
+        ],
+        "link": "https://www.lne.es/aviles/2026/02/27/semana-cultural-conservatorio-aviles-incluye-127359039.html",
+        "date": "2026-02-27 17:20:55",
+        "sentiment_score": 0.18888746574521065
+    },
+    {
+        "title": "Susan Sarandon celebra emocionada la \"lucidez moral\" de España y ve a Sánchez en el \"lado correcto\"",
+        "image_url": "https://static.infolibre.es/clip/b2c2a7bf-b1ec-4fce-a840-2752d1bef6c6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "censura",
+            "pedro sánchez",
+            "cine",
+            "estados unidos",
+            "actores",
+            "gaza"
+        ],
+        "link": "https://www.infolibre.es/cultura/cine/susan-sarandon-emociona-hablando-lucidez-moral-espana-ve-sanchez-lado-correcto-historia_1_2152948.html",
+        "date": "2026-02-27 17:10:27",
+        "sentiment_score": -0.11405038833618164
+    },
+    {
+        "title": "Horario y dónde ver por TV y online el Real Madrid-Manchester City de la ida de octavos de final",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/27/image-e1861574-1426-47fa-8a60-7541e62a293a-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "champions league 2025/2026"
+        ],
+        "link": "https://www.eurosport.es/futbol/champions-league/2025-2026/real-madrid-manchester-city-pep-guardiola-octavos-final-ida-horario-donde-ver-tv-online-streaming-enlace-gratis_sto23276052/story.shtml",
+        "date": "2026-02-27 17:03:26",
+        "sentiment_score": 0.07084215804934502
+    },
+    {
+        "title": "Alcalá de Henares presenta su programa de procesiones, actos litúrgicos y eventos musicales de la Semana Santa",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/27/69a1bac8d98bc.r_d.1472-525-4688.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.eldebate.com/espana/madrid/20260227/alcala-henares-presenta-programa-procesiones-actos-liturgicos-eventos-musicales-semana-santa_390387.html",
+        "date": "2026-02-27 17:03:10",
+        "sentiment_score": 0.11875121109187603
+    },
+    {
+        "title": "Trás- Os- Montes, el lujo de viajar despacio",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/IMG-20260220-WA0148.jpg",
+        "tags": [
+            "portugal",
+            "turismo",
+            "sociedad"
+        ],
+        "link": "https://www.lanzadigital.com/sociedad/tras-os-montes-el-lujo-de-viajar-despacio/",
+        "date": "2026-02-27 17:02:08",
+        "sentiment_score": -0.02936425805091858
+    },
+    {
+        "title": "Borrell advierte: “Europa nunca ha tenido tantos enemigos como ahora”",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/02/27/2026022717382718409.jpg",
+        "tags": [
+            "seguridad y defensa"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/seguridad-defensa/borrell-europa-enemigos-defensa-ejercito-tierra-espana/20260227175827442035.html",
+        "date": "2026-02-27 16:58:27",
+        "sentiment_score": 0.6448981985449791
+    },
+    {
+        "title": "El sorteo de la Champions beneficia al Elche",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5ff86c74-225b-4c10-86d0-5f760e1cd9ef_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "champions league",
+            "santiago bernabéu",
+            "real madrid",
+            "manchester city",
+            "elche cf"
+        ],
+        "link": "https://www.informacion.es/elche-cf/2026/02/27/sorteo-champions-beneficia-elche-127358072.html",
+        "date": "2026-02-27 16:57:34",
+        "sentiment_score": 0.04588034749031067
+    },
+    {
+        "title": "Mehdi Nafti: «No tengo ningún jugador en la plantilla en el que no confíe»",
+        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2026/02/27/rdp-mehdi27feb-kyxC-U20942598746XMG-1200x840@Leonoticias.jpg",
+        "tags": [
+            "ponferradina"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/mehdi-nafti-ningun-jugador-plantilla-confie-20260227175107-nt.html",
+        "date": "2026-02-27 16:51:10",
+        "sentiment_score": 0.43330955877900124
+    },
+    {
+        "title": "Girona estrena el billete único de transporte este lunes: así funciona la nueva red que unifica toda la provincia",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/27/69a1d3044cf31.jpeg",
+        "tags": [
+            "girona"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/girona-provincia/girona/noticias/girona-estrena-billete-unico-transporte-lunes-asi-funciona-nueva-red-unifica-toda-provincia-20260227_3317168.html",
+        "date": "2026-02-27 17:24:44",
+        "sentiment_score": 0.004168301820755005
+    },
+    {
+        "title": "Inyección histórica en OpenAI: Amazon, Softbank y Nvidia aportan 110.000 millones de dólares",
+        "image_url": "https://static1.ara.cat/clip/cbf2ad64-0fcd-448a-b4da-92879517a95b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "historica",
+            "aportan",
+            "110",
+            "000",
+            "millones",
+            "softbank",
+            "openai",
+            "amazon",
+            "nvidia",
+            "inyeccion",
+            "dolares"
+        ],
+        "link": "https://es.ara.cat/economia/tecnologia/inyeccion-historica-openai-amazon-softbank-nvidia-aportan-110-000-millones-dolares_1_5663245.html",
+        "date": "2026-02-27 17:23:53",
+        "sentiment_score": 0.299810454249382
+    },
+    {
+        "title": "Susan Sarandon: «'Sirat' me dejó muerta»",
+        "image_url": "https://static1.ara.cat/clip/a8ca3ca2-e39e-4a8b-816c-7564067b2818_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "dejo",
+            "sarandon",
+            "sirat",
+            "muerta",
+            "susan"
+        ],
+        "link": "https://es.ara.cat/cultura/cine/susan-sarandon-sirat-dejo-muerta_1_5663242.html",
+        "date": "2026-02-27 17:20:17",
+        "sentiment_score": 0.06985795497894287
+    },
+    {
+        "title": "Susan Sarandon: «El silencio de Hollywood sobre Trump es muy peligroso»",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2026/02/27/susan-sarandon-kZE--758x531@El%20Correo-ElCorreo.jpg",
+        "tags": [
+            "susan",
+            "sarandon"
+        ],
+        "link": "https://www.elcorreo.com/pantallas/premios-goya/susan-sarandon-silencio-hollywood-sobre-trump-peligroso-20260227163204-ntrc.html",
+        "date": "2026-02-27 17:20:08",
+        "sentiment_score": 0.7217166442424059
+    },
+    {
+        "title": "Jordi Hereu visita Open Cosmos en Barcelona para conocer sus avances en el sector espacial",
+        "image_url": "https://forbes.es/wp-content/uploads/2026/02/fotonoticia_20260227175539_1920-1200x675.jpg",
+        "tags": [
+            "última hora",
+            "economía"
+        ],
+        "link": "https://forbes.es/economia/881923/jordi-hereu-visita-open-cosmos-en-barcelona-para-conocer-sus-avances-en-el-sector-espacial/",
+        "date": "2026-02-27 17:20:03",
+        "sentiment_score": 0.3638792894780636
+    },
+    {
+        "title": "¿Qué pasará con Cuba?",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "claves del día"
+        ],
+        "link": "https://www.lavanguardia.com/videos/claves-del-dia/20260227/11477303/claves-dia-que-pasara-cuba-rock-revoluciono-tendencias-artisticas.html",
+        "date": "2026-02-27 17:19:49",
+        "sentiment_score": 0.5490513276308775
+    },
+    {
+        "title": "Sarandon sobre Pedro Sánchez: \"Cuando lo he visto, ha estado en el lado correcto de la historia\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260227181801_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-sarandon-pedro-sanchez-cuando-he-visto-estado-lado-correcto-historia-20260227181801.html",
+        "date": "2026-02-27 17:18:01",
+        "sentiment_score": 0.37389784306287766
+    },
+    {
+        "title": "Susan Sarandon, Goya Internacional, destaca el apoyo de España a Gaza: \"Es tan importante\"",
+        "image_url": "https://www.infobae.com/resizer/v2/OK4OEJCDEZDUJICU4J4GNZ2EVU.jpg?auth=3b6f84ca134f4472d81b941860f1e39fb27ccbf6ee906b6097407433aa40e28d&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/27/susan-sarandon-goya-internacional-destaca-el-apoyo-de-espana-a-gaza-es-tan-importante/",
+        "date": "2026-02-27 17:15:19",
+        "sentiment_score": 0.6113794296979904
+    },
+    {
+        "title": "Todos los nominados a los premios Goya 2026",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/27/premios-1200--562x562.jpg",
+        "tags": [
+            "historias visuales"
+        ],
+        "link": "https://www.elcomercio.es/pantallas/premios-goya/nominados-premios-goya-2026-20260227181512-ntrc.html",
+        "date": "2026-02-27 17:15:16",
+        "sentiment_score": 0.46997558884322643
     }
 ];
