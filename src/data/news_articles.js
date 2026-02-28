@@ -1,198 +1,5 @@
 export default [
     {
-        "title": "Ecologistas cuestionan que PP rechace políticas climáticas \"que destruyen el empleo\": \"No deben vivir en el mundo real\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260224185358_690.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-ecologistas-cuestionan-pp-rechace-politicas-climaticas-destruyen-empleo-no-deben-vivir-mundo-real-20260224185358.html",
-        "date": "2026-02-24 17:53:58",
-        "sentiment_score": -0.39357440173625946
-    },
-    {
-        "title": "Alberto Pérez, experto en tecnología, avisa: \"Los drones están aquí y lo que podemos hacer con ellos no tiene límite\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/24/699ddd6a95103.jpeg",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/noticias/alberto-perez-experto-tecnologia-avisa-drones-no-limite-20260224_3314409.html",
-        "date": "2026-02-24 17:50:37",
-        "sentiment_score": -0.06987741589546204
-    },
-    {
-        "title": "UPL y Soria Ya se rebelan contra la exclusión de los debates electorales de Castilla y León",
-        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/files/fp/uploads/2026/02/24/699de13150526.r_d.529-330-13293.jpeg",
-        "tags": [
-            "castilla y león"
-        ],
-        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/260224/105032/upl-y-soria-ya-se-rebelan-contra-la-exclusion-de-los-debates-electorales-de-castilla-y-leon.html",
-        "date": "2026-02-24 17:47:58",
-        "sentiment_score": -0.7757108639925718
-    },
-    {
-        "title": "La polémica del cantón de Montecarmelo se debatirá en el Parlamento europeo",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/07/698762047515f.r_d.463-614-8025.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.eldebate.com/espana/madrid/20260224/polemica-canton-montecarmelo-debatira-parlamento-europeo_389060.html",
-        "date": "2026-02-24 17:46:55",
-        "sentiment_score": -0.6721095889806747
-    },
-    {
-        "title": "Recado al Madrid del segundo de Mourinho antes de la vuelta: \"Hay jugadores que no deberían estar\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/24/image-231e98b8-0be0-4753-8fa7-c764284a54ac-85-2560-1440.jpeg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/video-recado-real-madrid-segundo-mourinho-tralhao-antes-vuelta-hay-jugadores-no-deberian-estar-rueda-prensa-mejores-momentos-hoy_vid60060061/video.shtml",
-        "date": "2026-02-24 17:43:38",
-        "sentiment_score": -0.8116292152553797
-    },
-    {
-        "title": "La sonrisa de Mourinho en su vuelta al Bernabéu con Prestianni entrenando pese a la suspensión",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/24/image-f9c4a1ec-1acd-48cb-a134-512c98929954-85-2560-1440.jpeg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/entrenamiento-benfica-bernabeu-vuelta-mourinho-presencia-prestianni-previa-vuelta-real-madrid_vid60060063/video.shtml",
-        "date": "2026-02-24 17:43:17",
-        "sentiment_score": -0.3310966491699219
-    },
-    {
-        "title": "Alfonso Sanchidrián, barbero, sobre la IA: \"A nosotros la inteligencia artificial no nos va a comer, somos de los pocos\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/20/696f65a740845.jpeg",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/noticias/alfonso-sanchidrian-barbero-sobre-ia-inteligencia-artificial-no-comer-pocos-20260224_3314429.html",
-        "date": "2026-02-24 17:42:25",
-        "sentiment_score": -0.10604503750801086
-    },
-    {
-        "title": "El Bernabéu vive su primera noche decisiva en Champions",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260224183912_690.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-bernabeu-vive-primera-noche-decisiva-champions-20260224183912.html",
-        "date": "2026-02-24 17:39:12",
-        "sentiment_score": -0.8765184655785561
-    },
-    {
-        "title": "Condenada a dos años de cárcel por estafar tres millones de euros en la venta de una casa a Robert Lewandowski",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/02/culemania/primer-equipo/1003742712898_15473347_1706x960.jpg",
-        "tags": [
-            "robert lewandowski",
-            "palco",
-            "barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260224/condenada-carcel-estafar-millones-euros-robert-lewandowski/1003742735807_0.html",
-        "date": "2026-02-24 17:52:07",
-        "sentiment_score": -0.4634034149348736
-    },
-    {
-        "title": "El BIHUB une fuerzas con Thibaut Courtois: inversión millonaria en una fintech española para impulsar la renovación estratégica del Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/27/culemania/primer-equipo/1003742701797_15755629_1706x960.jpg",
-        "tags": [
-            "barça",
-            "palco",
-            "fc barcelona"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260224/bihub-thibaut-courtois-millonaria-renovacion-estrategica-barca/1003742735793_0.html",
-        "date": "2026-02-24 17:52:05",
-        "sentiment_score": 0.6908608209341764
-    },
-    {
-        "title": "Las cuencas internas de Catalunya disminuyen sus reservas y se encuentran al 93,1%",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260224184804_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-cuencas-internas-catalunya-disminuyen-reservas-encuentran-931-20260224184804.html",
-        "date": "2026-02-24 17:48:04",
-        "sentiment_score": 0.02367570996284485
-    },
-    {
-        "title": "Misión Nevado inicia campaña masiva de vacunación en Anzoátegui",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/02/Nevado-1.jpg",
-        "tags": [
-            "anzoátegui",
-            "actualidad",
-            "mundo animal"
-        ],
-        "link": "https://ultimasnoticias.com.ve/anzoateggui/mision-nevado-inicia-campana-masiva-de-vacunacion-en-anzoategui/",
-        "date": "2026-02-24 17:45:55",
-        "sentiment_score": -0.065854012966156
-    },
-    {
-        "title": "Retirado del mercado un lote del cosmético 'Dolebalm', contaminado por una bacteria",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5a5a4892-f2c9-4b5e-b8a4-e09726132f3b_alta-libre-aspect-ratio_default_0_x278y104.jpg",
-        "tags": [
-            "+salud"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260224/retirado-mercado-lote-cosmetico-contaminado-bacteria-salud-127228725",
-        "date": "2026-02-24 17:42:05",
-        "sentiment_score": -0.7893665572628379
-    },
-    {
-        "title": "En plena crisis de Renfe en Cataluña los empresarios cierran un acuerdo con Iryo para viajar de Barcelona a Madrid",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WNQ66FZIGZO65POR3ALZOZNASU.jpg?auth=73b7d377bbcf9961b55a2aec69266f722387de1fbf6204406b0383d5f35d348e&width=1200",
-        "tags": [
-            "pimec",
-            "iryo",
-            "renfe",
-            "cataluña",
-            "ouigo",
-            "trenes",
-            "ave",
-            "adif",
-            "rodalies catalunya",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2026-02-24/en-plena-crisis-de-renfe-en-cataluna-los-empresarios-cierran-un-acuerdo-con-iryo-para-viajar-de-barcelona-a-madrid.html",
-        "date": "2026-02-24 17:33:58",
-        "sentiment_score": 0.2628061845898628
-    },
-    {
-        "title": "El Tibidabo inicia su 125 aniversario con mirador renovado y nueva película sobre sus mascotas",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/24/699ddf79e072f.r_d.7730-4951-292.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20260224/11474580/tibidabo-inicia-125-aniversario-mirador-renovado-nueva-pelicula-sobre-mascotas.html",
-        "date": "2026-02-24 17:33:11",
-        "sentiment_score": 0.17039048671722412
-    },
-    {
-        "title": "El pueblo con menos habitantes de España accede a fibra óptica",
-        "image_url": "https://forbes.es/wp-content/uploads/2026/02/fotonoticia_20260224180805_1920-1200x675.jpg",
-        "tags": [
-            "economía",
-            "última hora"
-        ],
-        "link": "https://forbes.es/economia/879420/el-pueblo-con-menos-habitantes-de-espana-accede-a-fibra-optica/",
-        "date": "2026-02-24 17:30:24",
-        "sentiment_score": 0.21301201730966568
-    },
-    {
-        "title": "La Fiscalía pide inhabilitar a la exalcaldesa de Barberà por la gestión irregular de la radio local",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/65b093dd-eece-4262-8807-224ab870d617_alta-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "inhabilitar",
-            "fiscalia",
-            "barbera",
-            "pide",
-            "exalcaldesa"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260224/fiscalia-pide-inhabilitar-exalcaldesa-barbera-127227984",
-        "date": "2026-02-24 17:26:31",
-        "sentiment_score": -0.8020874774083495
-    },
-    {
         "title": "Prestianni se entrenó en el Bernabéu antes del duelo ante Real Madrid: los gestos del Benfica tras la denuncia de Vinícius",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -3146,5 +2953,252 @@ export default [
         "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/27-feb-2026-partidazo-cope-20260228_3317253.html",
         "date": "2026-02-28 00:40:00",
         "sentiment_score": 0.15146638825535774
+    },
+    {
+        "title": "El patrón de 'Los Pocholos' cuestiona la independencia educativa en todo Madrid: \"Enchufaron hasta a tres directores en Rivas\"",
+        "image_url": "https://www.elplural.com/uploads/s1/24/68/34/4/isabel-diaz-ayuso-y-emilio-viciana-ep_7_480x270.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elplural.com/autonomias/madrid/patron-los-pocholos-cuestiona-independencia-educativa-todo-madrid-enchufaron-hasta-tres-directores-rivas_382438102",
+        "date": "2026-02-28 06:38:52",
+        "sentiment_score": -0.11651971936225891
+    },
+    {
+        "title": "Martínez: «Una decepción es no gobernar: podemos ganar las elecciones y que se nos quede cara de Feijóo»",
+        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/uploads/2026/02/27/69a1ff0c0150e.jpeg",
+        "tags": [
+            "castilla y león"
+        ],
+        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/260228/105097/decepcion-gobernar-ganar-elecciones-quede-cara-feijoo.html",
+        "date": "2026-02-28 06:30:00",
+        "sentiment_score": -0.6920657604932785
+    },
+    {
+        "title": "Economía en Málaga, el dinámico motor andaluz",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/04bb2d98-93b6-47b9-beeb-5ec0768e5abc_16-9-aspect-ratio_default_0_x600y255.jpg",
+        "tags": [
+            "economía",
+            "empleo",
+            "día de andalucía",
+            "andalucía",
+            "28f",
+            "empresas",
+            "día de andalucía 2026"
+        ],
+        "link": "https://www.laopiniondemalaga.es/andalucia/2026/02/28/economia-malaga-dinamico-motor-andaluz-127268346.html",
+        "date": "2026-02-28 06:02:28",
+        "sentiment_score": 0.2677513062953949
+    },
+    {
+        "title": "“Tengo una paciente de 82 años haciendo burpees”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/19/69973a878a6a9.r_d.770-388-2923.png",
+        "tags": [
+            "salud"
+        ],
+        "link": "https://www.lavanguardia.com/empresas-de-vanguardia/salud/20260228/11470665/paciente-82-anos-haciendo-burpees-asi-combate-envejecimiento-saludable-casa.html",
+        "date": "2026-02-28 06:00:00",
+        "sentiment_score": -0.5653228722512722
+    },
+    {
+        "title": "El Yugo Socuéllamos se juega el alma en Alcalá",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/ivan-hujo.jpg",
+        "tags": [
+            "ud socuéllamos",
+            "fútbol",
+            "segunda rfef",
+            "socuéllamos",
+            "deportes"
+        ],
+        "link": "https://www.lanzadigital.com/deportes/futbol/segunda-rfef/el-socu-se-juega-el-alma-en-alcala/",
+        "date": "2026-02-28 06:00:00",
+        "sentiment_score": 0.08297181129455566
+    },
+    {
+        "title": "¿Es lo mismo un día festivo que un día de descanso? El Supremo dice que las empresas tienen que compensarlos si coinciden",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/02/10/calendario.jpeg",
+        "tags": [
+            "empleo"
+        ],
+        "link": "https://www.20minutos.es/empleo/dia-festivo-dia-descanso-supremo-dice-empresas-compensarlos-coinciden_6938946_0.html",
+        "date": "2026-02-28 06:00:00",
+        "sentiment_score": -0.15459704771637917
+    },
+    {
+        "title": "Neymar firma doblete histórico con Santos y pide pista para ir al Mundial con Brasil",
+        "image_url": "https://lavozhispanact.b-cdn.net/wp-content/uploads/2026/02/download-2026-02-27T172632.209.webp",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://lavozhispanact.com/neymar-firma-doblete-historico-con-santos-y-pide-pista-para-ir-al-mundial-con-brasil/",
+        "date": "2026-02-28 05:30:00",
+        "sentiment_score": 0.4220695123076439
+    },
+    {
+        "title": "El arzobispo de Oviedo, colchonero desde la cuna, irá al partido esta noche: \"Igual el Atleti debería perder hoy\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8a369a80-7ec3-43c2-9fc7-197f9e40eb4f_16-9-aspect-ratio_default_0_x743y328.jpg",
+        "tags": [
+            "carlos tartiere",
+            "tartiere",
+            "atlético de madrid",
+            "infancia"
+        ],
+        "link": "https://www.lne.es/real-oviedo/2026/02/28/arzobispo-oviedo-colchonero-cuna-ira-127367576.html",
+        "date": "2026-02-28 05:01:33",
+        "sentiment_score": 0.3862779289484024
+    },
+    {
+        "title": "Airin.wav: “Entre el eco, la reverb y la distorsión de las guitarras se encuentra todo lo que no he sabido expresar con palabras”",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9fa0d0bd-b584-4806-a2bf-9de5714973a3_16-9-aspect-ratio_default_0_x247y124.jpg",
+        "tags": [
+            "sonido",
+            "cultura",
+            "trabajo",
+            "palabras",
+            "tiempo",
+            "música"
+        ],
+        "link": "https://www.laopiniondemurcia.es/cultura/2026/02/28/airin-wav-eco-reverb-distorsion-127358143.html",
+        "date": "2026-02-28 05:00:39",
+        "sentiment_score": -0.3133053332567215
+    },
+    {
+        "title": "Hernán Piquín: “Hoy vivo entre España y Argentina, allá recargo energía pero extraño y vuelvo acá”",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "julio bocca",
+            "soda stereo",
+            "hernán piquín",
+            "córdoba",
+            "regreso escénico",
+            "cultura musical"
+        ],
+        "link": "https://www.infobae.com/teleshow/2026/02/28/hernan-piquin-hoy-vivo-entre-espana-y-argentina-alla-recargo-energia-pero-extrano-y-vuelvo-aca/",
+        "date": "2026-02-28 05:00:00",
+        "sentiment_score": -0.33556051179766655
+    },
+    {
+        "title": "Cataluña, posible campo de ensayo de alianzas electorales: la vía Rufián, el frente de Pisarello o incluso un pacto de Junts con Aliança",
+        "image_url": "https://www.elplural.com/uploads/s1/24/61/74/6/el-portavoz-de-erc-en-el-congreso-de-los-diputados-gabriel-rufian-en-el-acto-conjunto-con-emilio-delgado-de-mas-madrid-de-la-izquierda-alternativa-ep_7_480x270.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.elplural.com/autonomias/cataluna/cataluna-posible-campo-ensayo-alianzas-electorales-via-rufian-frente-pisarello-incluso-pacto-junts-alianca_382380102",
+        "date": "2026-02-28 06:40:23",
+        "sentiment_score": -0.09099692106246948
+    },
+    {
+        "title": "PP, Vox y Junts condenan a los vulnerables: 70.000 familias en riesgo de desahucio y un millón de personas en pobreza energética",
+        "image_url": "https://www.elplural.com/uploads/s1/24/71/92/3/pp-vox-y-junts-condenan-a-los-vulnerables-70-000-familias-en-riesgo-de-desahucio-y-un-millon-de-personas-en-pobreza-energetica_7_480x270.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elplural.com/politica/espana/pp-vox-junts-condenan-vulnerables-70000-familias-riesgo-desahucio-millon-personas-pobreza-energetica_382673102",
+        "date": "2026-02-28 06:39:56",
+        "sentiment_score": -0.23018816113471985
+    },
+    {
+        "title": "El factor Cataluña",
+        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2026/02/27/inaki-gabilondo-kC3H--170x119@Diario%20Vasco.jpg",
+        "tags": [
+            "cataluña",
+            "oriol junqueras",
+            "salvador illa",
+            "barcelona (provincia)",
+            "junts per catalunya",
+            "esquerra republicana",
+            "carles puigdemont",
+            "españa",
+            "pere aragonès",
+            "maría jesús montero",
+            "pedro sánchez"
+        ],
+        "link": "https://www.eldiariomontanes.es/opinion/editorial-factor-cataluna-20260228233930-nt.html",
+        "date": "2026-02-28 06:38:46",
+        "sentiment_score": -0.8451259378343821
+    },
+    {
+        "title": "Los fiscales molestos con el ascenso de los afines de García Ortiz: «Es puro nepotismo. Nos toman el pelo»",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/09/69383c07f2c5d.r_d.1104-340.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20260228/fiscales-molestos-ascenso-afines-garcia-ortiz-puro-nepotismo-toman-pelo_390526.html",
+        "date": "2026-02-28 06:11:00",
+        "sentiment_score": -0.9376026447862387
+    },
+    {
+        "title": "Mounir Nasraoui responde a las críticas y defiende su papel con Lamine Yamal",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/09/29/2025092921133717012.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/mounir-nasraoui-responde-criticas-defiende-papel-lamine-yamal/20260228070935376663.html",
+        "date": "2026-02-28 06:09:35",
+        "sentiment_score": -0.21124627441167831
+    },
+    {
+        "title": "Un youtuber de 19 años se pierde en la montaña en Andorra y el SOS satélite de su iPhone le salva la vida",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b893323f-2750-4b99-ad0f-6d506428cc81_alta-libre-aspect-ratio_default_0_x738y331.jpg",
+        "tags": [
+            "youtubers",
+            "andorra",
+            "montañismo",
+            "rescates"
+        ],
+        "link": "https://www.elperiodico.com/es/gente/20260228/youtuber-19-anos-pierde-montana-127369500",
+        "date": "2026-02-28 06:03:33",
+        "sentiment_score": 0.6888267993927002
+    },
+    {
+        "title": "'Sirat' y 'Los domingos': Dos formas de espiritualidad que optan al Goya a mejor película",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e1987f67-91ec-4a85-8009-ca23bde1b61f_16-9-aspect-ratio_default_0_x800y400.jpg",
+        "tags": [
+            "premios",
+            "espiritualidad",
+            "películas",
+            "historia"
+        ],
+        "link": "https://www.laopiniondemalaga.es/cultura-espectaculos/2026/02/28/sirat-domingos-formas-espiritualidad-optan-127370267.html",
+        "date": "2026-02-28 06:01:20",
+        "sentiment_score": 0.04168371856212616
+    },
+    {
+        "title": "El cine español apuesta también por normalizar los trastornos psicológicos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c05d762e-e876-4120-bd42-acd07dd4f8eb_alta-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "salud mental",
+            "psiquiatría",
+            "cine español",
+            "psicología",
+            "premios goya 2026"
+        ],
+        "link": "https://www.elperiodico.com/es/ser-feliz/20260228/cine-espanol-apuesta-normalizar-trastornos-127369425",
+        "date": "2026-02-28 06:01:11",
+        "sentiment_score": -0.05056636035442352
+    },
+    {
+        "title": "Pepita Bernat Bosch, 106 años: \"Si después de muerto se estuviera tan bien, alguien habría vuelto para contarlo\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b7ec0916-e786-4a79-b86e-3449f76f49e6_16-9-discover-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "entender más",
+            "longevidad"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260228/pepita-bernat-bosch-106-anos-127257419",
+        "date": "2026-02-28 06:01:03",
+        "sentiment_score": 0.42544372379779816
+    },
+    {
+        "title": "El “Tous pa tous” recupera 4.000 documentos inéditos de los siglos XV al XX que se pueden consultar en el Archivo Municipal de Cangas del Narcea",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5919bb58-0e52-4f3e-8f35-285ba9c7584c_16-9-aspect-ratio_default_0_x698y256.jpg",
+        "tags": [
+            "armas",
+            "tous",
+            "historia"
+        ],
+        "link": "https://www.lne.es/cangas-del-narcea/2026/02/28/tous-pa-tous-recupera-4-127277468.html",
+        "date": "2026-02-28 06:01:03",
+        "sentiment_score": -0.1691608428955078
     }
 ];
