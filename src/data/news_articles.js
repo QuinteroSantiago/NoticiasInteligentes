@@ -1,203 +1,5 @@
 export default [
     {
-        "title": "Cuándo empiezan las vacaciones de Semana Santa 2026 en los colegios de Madrid",
-        "image_url": "https://okdiario.com/img/2026/02/24/cuando-empiezan-las-vacaciones-de-semana-santa-2026-en-los-colegios-de-madrid.jpg",
-        "tags": [
-            "madrid",
-            "españa",
-            "escuelas",
-            "okd",
-            "colegios"
-        ],
-        "link": "https://okdiario.com/madrid/cuando-empiezan-vacaciones-semana-santa-2026-colegios-madrid-16298111",
-        "date": "2026-02-25 07:15:28",
-        "sentiment_score": 0.24074777960777283
-    },
-    {
-        "title": "Honor y gloria de Morán",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2b23805a-5c12-4e77-a01a-7c580b286bf6_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "cultura",
-            "franquismo",
-            "suárez",
-            "gobierno"
-        ],
-        "link": "https://www.laprovincia.es/opinion/2026/02/25/honor-gloria-moran-127234088.html",
-        "date": "2026-02-25 07:00:53",
-        "sentiment_score": -0.2665856331586838
-    },
-    {
-        "title": "Real Madrid - Benfica: Hora, alineaciones y dónde ver la vuelta de dieciseisavos de la Champions League en directo",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/02/23/6DFD8350-7FFA-46E0-A7F6-D868E4D49090/vinicius-benfica-real-madrid-champions_98.jpg?crop=3449%2C1941%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "deportes",
-            "antena 3 noticias",
-            "fútbol"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/real-madrid-benfica-hora-alineaciones-donde-ver-vuelta-dieciseisavos-champions-league-directo_20260225699c53ed1817b41eb65e7162.html",
-        "date": "2026-02-25 07:00:18",
-        "sentiment_score": -0.6107443943619728
-    },
-    {
-        "title": "La preciosa villa medieval que cuenta con el verraco más grande de Europa",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/22/E90D8B99-A11C-40CE-A839-C463AE7F5520/verraco-villanueva-campillo-mas-grande-europa_69.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "castilla y león",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/castilla-y-leon/preciosa-villa-medieval-que-cuenta-verraco-mas-grande-europa_20260225699e9e002f00a0468826c9ef.html",
-        "date": "2026-02-25 07:00:16",
-        "sentiment_score": 0.02815067023038864
-    },
-    {
-        "title": "Ayudas al Abono Transporte en la Comunidad de Madrid: requisitos y cómo solicitarla",
-        "image_url": "https://okdiario.com/img/2026/02/24/ayudas-al-abono-transporte-en-la-comunidad-de-madrid-requisitos-y-como-solicitarla.jpg",
-        "tags": [
-            "cercanías",
-            "españa",
-            "autobuses",
-            "madrid",
-            "transporte",
-            "okd",
-            "metro madrid"
-        ],
-        "link": "https://okdiario.com/madrid/ayudas-abono-transporte-comunidad-madrid-requisitos-como-solicitarla-16299286",
-        "date": "2026-02-25 07:00:05",
-        "sentiment_score": -0.06528344750404358
-    },
-    {
-        "title": "Dónde ver el Real Madrid - Benfica: la vuelta de los play-offs de la Champions League",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/02/23/699c3388984ba.jpeg",
-        "tags": [
-            "cultura y ocio"
-        ],
-        "link": "https://www.lavanguardia.com/comprar/cultura-ocio/20260225/11473156/donde-ver-real-madrid-benfica-dia-hora-partido-vuelta-play-offs-champions-league-mkt-movi.html",
-        "date": "2026-02-25 06:55:00",
-        "sentiment_score": 0.2094329595565796
-    },
-    {
-        "title": "Cobraba 850 euros de pensión pero ahora gana más de 3.500 al mes: la jubilación activa le cambió la vida",
-        "image_url": "https://okdiario.com/img/2026/02/24/imagen_recortada-3.jpg",
-        "tags": [
-            "economía",
-            "seguridad social",
-            "okd"
-        ],
-        "link": "https://okdiario.com/economia/cobraba-850-euros-pension-pero-ahora-gana-mas-3-500-mes-jubilacion-activa-cambio-vida-16297846",
-        "date": "2026-02-25 06:45:08",
-        "sentiment_score": 0.23440515995025635
-    },
-    {
-        "title": "Quién era quién el 23F: guía para no perderse en los papeles secretos del golpe de Estado",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2e470dde-4b0d-49c9-8ac2-5a0f558751b6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "23f",
-            "secretos",
-            "guia",
-            "perderse",
-            "papeles"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/politica/2026/02/25/23f-guia-perderse-papeles-secretos-10744885.html",
-        "date": "2026-02-25 06:43:16",
-        "sentiment_score": -0.2349235638976097
-    },
-    {
-        "title": "Los nombres clave del 23F: guía para no perderse en los papeles secretos del golpe de Estado",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2e470dde-4b0d-49c9-8ac2-5a0f558751b6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "guia",
-            "secretos",
-            "perderse",
-            "23f",
-            "papeles"
-        ],
-        "link": "https://www.noticiasdealava.eus/politica/2026/02/25/23f-guia-perderse-papeles-secretos-10744882.html",
-        "date": "2026-02-25 06:43:15",
-        "sentiment_score": -0.2349235638976097
-    },
-    {
-        "title": "Un directivo de Sidenor conocía que el acero vendido a Israel era para fabricar «obuses»",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/02/24/Sidenor-Rl0BSlmoQVjTW0NVh4ZdRwM-1200x840@RC.jpg",
-        "tags": [
-            "israel",
-            "policía nacional",
-            "gaza",
-            "audiencia nacional",
-            "basauri",
-            "españa"
-        ],
-        "link": "https://www.ideal.es/economia/directivo-sidenor-conocia-acero-vendido-israel-era-20260225080103-ntrc.html",
-        "date": "2026-02-25 07:15:42",
-        "sentiment_score": -0.0670996867120266
-    },
-    {
-        "title": "\"280.000 catalanes se tendrán que organizar la próxima semana; el lunes la huelga de trenes es completa y martes y miércoles será por turnos, incluyendo hora punta\"",
-        "image_url": "https://imagenes.cope.es/files/webp_80_80/uploads/2026/01/12/6964be13a6a2f.png",
-        "tags": [
-            "economía de bolsillo con pilar garcía de la granja"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/economia-de-bolsillo/audios/280-000-catalanes-tendran-organizar-proxima-semana-lunes-huelga-trenes-completa-martes-miercoles-sera-turnos-incluyendo-hora-punta-20260225_3314570.html",
-        "date": "2026-02-25 07:05:23",
-        "sentiment_score": -0.12287865579128265
-    },
-    {
-        "title": "Documentos hallados en la sede de Sidenor muestran envíos a empresas armamentísticas israelíes para 'obuses'",
-        "image_url": "https://static.eldiario.es/clip/40913902-5270-48c1-a879-ab0ca86d7e97_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sede",
-            "muestran",
-            "armamentisticas",
-            "hallados",
-            "israelies",
-            "obuses",
-            "sidenor",
-            "empresas",
-            "documentos",
-            "envios"
-        ],
-        "link": "https://www.eldiario.es/internacional/documentos-hallados-sede-sidenor-muestran-envios-empresas-armamentisticas-israelies-obuses_1_13017707.html",
-        "date": "2026-02-25 07:04:54",
-        "sentiment_score": -0.1701035350561142
-    },
-    {
-        "title": "España hoy, 25 de febrero de 2026: lo que tienes que saber",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/ZAPATERO_PLSULTRA_SVRIZ.jpg",
-        "tags": [
-            "estados unidos",
-            "bruselas",
-            "china",
-            "europa",
-            "gaza",
-            "venezuela",
-            "españa",
-            "israel",
-            "aranceles"
-        ],
-        "link": "https://theobjective.com/espana/2026-02-25/espana-hoy-25-de-febrero-de-2026-lo-que-tienes-que-saber/",
-        "date": "2026-02-25 07:02:56",
-        "sentiment_score": -0.6117526292800903
-    },
-    {
-        "title": "Aena eleva su beneficio hasta 2.136,7 millones tras un 2025 de crecimiento sólido en tráfico e ingresos",
-        "image_url": "https://static.grupojoly.com/clip/2160fd54-86b5-437d-9045-c0700f895381_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "resultados empresariales"
-        ],
-        "link": "https://www.elconciso.es/empresas/aena-eleva-beneficio-2025_0_2006003552.html",
-        "date": "2026-02-25 07:02:20",
-        "sentiment_score": 0.45322736352682114
-    },
-    {
-        "title": "Premios Goya 2026: horario y dónde ver la gala que se celebra en Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1c15522d-2e2d-49e1-8576-8c6f73d014a2_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "cine,cine español,premios goya,rigoberta bandini,luis tosar"
-        ],
-        "link": "https://www.superdeporte.es/ocio/cine/2026/02/25/premios-goya-2026-horario-donde-ver-gala-barcelona-127239988.html",
-        "date": "2026-02-25 07:01:14",
-        "sentiment_score": 0.7707475740462542
-    },
-    {
         "title": "El juez del caso Errejón pide a Mouliaá que aporte informes médicos y un parte de baja laboral",
         "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/25/699f2242312f53-01939738.jpeg",
         "tags": [
@@ -2926,5 +2728,236 @@ export default [
         "link": "https://es.ara.cat/politica/vox-queda-numero-1-ansaldo-boina-verde-sangre-aristocratica_1_5664209.html",
         "date": "2026-02-28 17:32:30",
         "sentiment_score": -0.3262074440717697
+    },
+    {
+        "title": "‘Toni’ Fernández Gabarre gana el premio Goya al Mejor Actor Revelación por ‘Ciudad sin sueño’",
+        "image_url": "https://www.infobae.com/resizer/v2/BWYABM53LVEPXHBL22KUOGQS54.jpg?auth=cb109f1d0895c5603bf5ad769f936ece2c5a9b6344422395eb57c8fd68072c5a&height=2159&smart=true&width=3239",
+        "tags": [
+            "cine",
+            "premios goya 2026",
+            "españa-cultura",
+            "españa-noticias",
+            "cine españa"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2026/02/28/toni-fernandez-gabarre-gana-el-premio-goya-al-mejor-actor-revelacion-por-ciudad-sin-sueno/",
+        "date": "2026-02-28 22:17:26",
+        "sentiment_score": -0.39483974501490593
+    },
+    {
+        "title": "El Barcelona destrozó al Villarreal con el primer hat-trick de Lamine Yamal",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/lamine-yamal-fc-barcelona.jpg",
+        "tags": [
+            "futbol",
+            "titulares",
+            "laliga",
+            "fc barcelona",
+            "villarreal cf",
+            "españa",
+            "deportes"
+        ],
+        "link": "https://lapatilla.com/2026/02/28/el-barcelona-destrozo-al-villarreal-con-el-primer-hat-trick-de-lamine-yamal/",
+        "date": "2026-02-28 22:13:14",
+        "sentiment_score": 0.7635833658277988
+    },
+    {
+        "title": "Bélgica en el Mundial 2026: el adiós de una generación dorada marcada por la rivalidad entre Kevin De Bruyne y Thibaut Courtois",
+        "image_url": "https://www.infobae.com/resizer/v2/SOQGBM532NFRTFN36QZBMGCKGQ.jpg?auth=ffba8c337ae62d9aca9286717bcc3b1c4d6ed2d9af950ebc6472d0b11016703c&height=1080&smart=true&width=1920",
+        "tags": [
+            "kevin de bruyne",
+            "mundial 2026",
+            "peru-deportes",
+            "thibaut courtois",
+            "selección bélgica mundial 2026"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/02/28/belgica-en-el-mundial-2026-el-adios-de-una-generacion-dorada-marcada-por-la-rivalidad-entre-kevin-de-bruyne-y-thibaut-courtois/",
+        "date": "2026-02-28 22:10:47",
+        "sentiment_score": 0.3722630441188812
+    },
+    {
+        "title": "Antonio Fernández Gabarre gana el Premio Goya de mejor actor revelación por 'Ciudad sin sueño'",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/21/69994c886cbbb8-90159157.jpeg",
+        "tags": [
+            "cine"
+        ],
+        "link": "https://www.20minutos.es/cinemania/noticias/antonio-fernandez-gabarre-goya-2026-mejor-actor-revelacion_6937194_0.html",
+        "date": "2026-02-28 22:07:22",
+        "sentiment_score": -0.07370767742395401
+    },
+    {
+        "title": "Julián congela la esperanza: cruel derrota de un buen Oviedo en el minuto 94 (0-1)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/568ba114-98eb-4211-a31e-0a2dd986f8d9_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "viñas",
+            "julián álvarez",
+            "real oviedo",
+            "fortuna"
+        ],
+        "link": "https://www.lne.es/real-oviedo/2026/02/28/julian-congela-esperanza-cruel-derrota-127399369.html",
+        "date": "2026-02-28 22:04:45",
+        "sentiment_score": -0.2519453912973404
+    },
+    {
+        "title": "Lamine Yamal recupera su brillo con un ‘hat-trick’ estelar frente al Villarreal",
+        "image_url": "https://soynuevaprensadigital.com/wp-content/uploads/2026/02/Lamine-Yamal-Foto-CNN-scaled.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://soynuevaprensadigital.com/npd/lamine-yamal-recupera-su-brillo-con-un-hat-trick-estelar-frente-al-villarreal/",
+        "date": "2026-02-28 22:03:58",
+        "sentiment_score": 0.3299161046743393
+    },
+    {
+        "title": "Julián salva al Atlético en Oviedo y le da tres puntos con la Copa en el aire",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/28/69a364b3e4831.r_d.1200-331-6250.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20260228/julian-salva-atletico-oviedo-le-da-tres-puntos-copa-aire_390689.html",
+        "date": "2026-02-28 21:57:22",
+        "sentiment_score": 0.6355567388236523
+    },
+    {
+        "title": "Este Mallorca huele a descenso: la Real Sociedad conquistó Son Moix",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/28/2026022822335195885.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/mallorca-huele-descenso-real-sociedad/20260228223535376743.html",
+        "date": "2026-02-28 21:35:35",
+        "sentiment_score": -0.45886310935020447
+    },
+    {
+        "title": "El arte de cortar el pelo y salir a carcajadas",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/02/28/213207993-kBnH--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "pelo",
+            "cortar",
+            "carcajadas",
+            "arte",
+            "salir"
+        ],
+        "link": "https://www.elcomercio.es/oviedo/arte-cortar-pelo-salir-carcajadas-20260301214526-nt.html",
+        "date": "2026-02-28 21:15:39",
+        "sentiment_score": 0.6680134162306786
+    },
+    {
+        "title": "El fútbol colombiano tendrá nuevas reglas en el segundo semestre de 2026: estas serán las normas en los partidos",
+        "image_url": "https://www.infobae.com/resizer/v2/EBUQ34VFMVHAHHRRWKTLVHZMYA.jpeg?auth=8b0e160055f36367d550f2ff4b74aedba9c42fc024a013b4a6ee2fcdc2ac0efa&height=873&smart=true&width=1309",
+        "tags": [
+            "colombia-deportes",
+            "fútbol colombiano",
+            "nuevas reglas fútbol 2026",
+            "ifab",
+            "dimayor",
+            "var",
+            "liga betplay",
+            "var en el fútbol colombiano"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/02/28/el-futbol-colombiano-tendra-nuevas-reglas-en-el-segundo-semestre-de-2026-estas-seran-las-normas-en-los-partidos/",
+        "date": "2026-02-28 21:14:36",
+        "sentiment_score": -0.2567966356873512
+    },
+    {
+        "title": "La alfombra roja de los Goya, en imágenes",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/28/hiba-abouk-ep.jpg",
+        "tags": [
+            "premios goya"
+        ],
+        "link": "https://www.eldiariomontanes.es/pantallas/premios-goya/alfombra-roja-goya-imagenes-20260228195850-garc.html",
+        "date": "2026-02-28 22:21:48",
+        "sentiment_score": 0.027871161699295044
+    },
+    {
+        "title": "El responsable del Mobile World Congress descarta «una burbuja en la IA»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/27/1507705321.JPG",
+        "tags": [
+            "cannes",
+            "inteligencia artificial",
+            "barcelona (provincia)",
+            "francia"
+        ],
+        "link": "https://www.canarias7.es/economia/responsable-mobile-world-congress-descarta-burbuja-ia-20260301185515-ntrc.html",
+        "date": "2026-02-28 22:21:09",
+        "sentiment_score": 0.7562076300382614
+    },
+    {
+        "title": "Álvaro Cervantes, Mejor Actor de Reparto en los Premios Goya 2026 por su papel en 'Sorda'",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "mejor actor de reparto",
+            "academia de las artes y las ciencias cinematográficas de españa",
+            "barcelona",
+            "álvaro cervantes",
+            "cine español",
+            "centre de convencions internacional de barcelona",
+            "europapress",
+            "sorda",
+            "miguel rellán",
+            "premios goya",
+            "juan minujín"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/02/28/alvaro-cervantes-mejor-actor-de-reparto-en-los-premios-goya-2026-por-su-papel-en-sorda/",
+        "date": "2026-02-28 22:18:17",
+        "sentiment_score": 0.7115036845207214
+    },
+    {
+        "title": "El Gobierno de Aragón apoya a los nominados aragoneses a los Premios Goya",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1036fb1d-0c88-4750-97d1-f9093ef93e15_16-9-aspect-ratio_default_0_x495y247.jpg",
+        "tags": [
+            "premios goya",
+            "cultura",
+            "gobierno de aragón",
+            "cine español",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodicodearagon.com/cultura/2026/02/28/gobierno-aragon-apoya-nominados-aragoneses-127399829.html",
+        "date": "2026-02-28 22:18:12",
+        "sentiment_score": 0.0333750918507576
+    },
+    {
+        "title": "Susan Sarandon recibe el Goya de Honor: \"Vuestra lucidez moral me ayuda, estoy en medio del caos y la represión\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260228231319_690.jpg",
+        "tags": [
+            "cultura",
+            "cine"
+        ],
+        "link": "https://www.europapress.es/cultura/cine-00128/noticia-susan-sarandon-recibe-goya-honor-lucidez-moral-me-ayuda-estoy-medio-caos-represion-20260228231319.html",
+        "date": "2026-02-28 22:13:19",
+        "sentiment_score": 0.3045604079961777
+    },
+    {
+        "title": "Susan Sarandon vuelve a alabar a Sánchez en los Goya pese a reconocer que «no sabe mucho de él»",
+        "image_url": "https://okdiario.com/img/2026/02/28/susan-sarandon-goya.jpg",
+        "tags": [
+            "televisión, cine y series",
+            "premios goya"
+        ],
+        "link": "https://okdiario.com/trailer/susan-sarandon-vuelve-alabar-sanchez-goya-aun-despues-reconocer-que-no-sabe-mucho-16326860",
+        "date": "2026-02-28 22:13:09",
+        "sentiment_score": -0.1308917999267578
+    },
+    {
+        "title": "Susan Sarandon aplaude la «rigidez moral» de Pedro Sánchez respecto a Gaza tras recoger el Goya Internacional",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/28/susan-sarandon-kB3D-U20960760489DmF-1200x840@RC.jpg",
+        "tags": [
+            "cine",
+            "arte",
+            "pedro sánchez",
+            "susan sarandon",
+            "gaza"
+        ],
+        "link": "https://www.ideal.es/pantallas/premios-goya/susan-sarandon-aplaude-rigidez-moral-sanchez-respecto-20260228230655-ntrc.html",
+        "date": "2026-02-28 22:12:57",
+        "sentiment_score": 0.7056246884167194
+    },
+    {
+        "title": "Lo más viral: Seguidores de Willie Colón podrán despedirlo",
+        "image_url": "https://static.wixstatic.com/media/335561_8949536081fa4918bbb58a1108bd8f9b~mv2.png/v1/fit/w_460,h_396,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-seguidores-de-willie-col%C3%B3n-podr%C3%A1n-despedirlo",
+        "date": "2026-02-28 18:00:26",
+        "sentiment_score": 0.4914949908852577
     }
 ];
