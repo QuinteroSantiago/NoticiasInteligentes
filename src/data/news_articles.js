@@ -2959,5 +2959,151 @@ export default [
         "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-seguidores-de-willie-col%C3%B3n-podr%C3%A1n-despedirlo",
         "date": "2026-02-28 18:00:26",
         "sentiment_score": 0.4914949908852577
+    },
+    {
+        "title": "José Luis Cordeiro, gran amigo de Milei y gurú de la longevidad: \"En 2045 seremos inmortales. Habrá una pastilla y vacunas\"",
+        "image_url": "https://s3.elespanol.com/2026/02/24/madrid/1003744143950_261603227_1706x960.jpg",
+        "tags": [
+            "javier milei",
+            "madrid",
+            "longevidad",
+            "madrid total"
+        ],
+        "link": "https://www.elespanol.com/madrid/20260301/jose-luis-cordeiro-gran-amigo-milei-guru-longevidad-inmortales-pastilla-vacunas/1003744143653_0.html",
+        "date": "2026-03-01 02:08:50",
+        "sentiment_score": 0.6782954186201096
+    },
+    {
+        "title": "2026: el año de La Rábida",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2023/02/24/C3679148-6A8A-49DC-90FB-BC1F0CA58B5A/monasterio-rabida-huelva_69.jpg?crop=296%2C167%2Cx0%2Cy2&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "huelva",
+            "home la razón",
+            "andalucía"
+        ],
+        "link": "https://www.larazon.es/andalucia/huelva/2026-ano-rabida_2026030169a39afa2f00a046882e7830.html",
+        "date": "2026-03-01 01:48:42",
+        "sentiment_score": -0.4821772798895836
+    },
+    {
+        "title": "Pelazos, pancartas y ovaciones: las anécdotas que marcaron los Goya 2026",
+        "image_url": "https://www.tribunasalamanca.com/uploads/imagenes/images/2026/3/01/435940/20260301074301_caratula.webP",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.tribunasalamanca.com/noticias/435940/pelazos-pancartas-y-ovaciones-las-anecdotas-que-marcaron-los-goya-2026",
+        "date": "2026-03-01 01:41:00",
+        "sentiment_score": 0.04526925086975098
+    },
+    {
+        "title": "Los domingos' triunfa en unos Goya en los que 'Sirat' se lleva seis premios técnicos",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2026/03/01/40-edicion-de-los-prem-6470972.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/cultura/2026/03/01/los-domingos-triunfa-en-unos-goya-en-los-que-sirat-se-lleva-seis-premios-tecnicos-1898375-daa.html",
+        "date": "2026-03-01 00:55:34",
+        "sentiment_score": 0.688077874481678
+    },
+    {
+        "title": "'Los domingos' se consagra en los Goya",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/01/pal840.jpg",
+        "tags": [
+            "alauda ruiz de azúa",
+            "patricia lópez arnaiz",
+            "premios goya",
+            "fernando méndez-leite"
+        ],
+        "link": "https://www.elcorreo.com/pantallas/premios-goya/domingos-consagra-goya-20260228014900-ntrc.html",
+        "date": "2026-03-01 00:52:39",
+        "sentiment_score": 0.4944380819797516
+    },
+    {
+        "title": "Alauda Ruiz de Azúa tras el triunfo de 'Los Domingos' en los Goya: \"Ojalá la película llegue al Papa y a Bad Bunny\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260301031908_120.jpg",
+        "tags": [
+            "cultura",
+            "cine"
+        ],
+        "link": "https://www.europapress.es/cultura/cine-00128/noticia-alauda-ruiz-azua-triunfo-domingos-goya-ojala-pelicula-llegue-papa-bad-bunny-20260301031908.html",
+        "date": "2026-03-01 02:19:08",
+        "sentiment_score": 0.6411936953663826
+    },
+    {
+        "title": "La 40 edición de los Premios Goya clama contra la violencia en Gaza, Irán o Ucrania",
+        "image_url": "https://www.infobae.com/resizer/v2/6OMZ3RLGTFFV7FA2IRQVA5BJ4I.jpg?auth=5c0853d4ba81a3d93c363f298ab17465678c248dbf8089145e3ec5ac1600ebe3&height=1280&smart=true&width=1920",
+        "tags": [
+            "música catalana",
+            "barcelona",
+            "rigoberta bandini",
+            "cine español",
+            "derechos humanos",
+            "gaza",
+            "europapress",
+            "dolores fonzi",
+            "premios goya",
+            "luis tosar",
+            "fernando méndez-leite"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/01/la-40-edicion-de-los-premios-goya-clama-contra-la-violencia-en-gaza-iran-o-ucrania/",
+        "date": "2026-03-01 02:16:06",
+        "sentiment_score": -0.7119953632354736
+    },
+    {
+        "title": "Andalucía en singular",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "singular",
+            "andalucia"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/andalucia-singular_0_2006038205.html",
+        "date": "2026-03-01 02:11:19",
+        "sentiment_score": -0.14946705102920532
+    },
+    {
+        "title": "Activistas animalistas protestan en la alfombra roja de los Goya contra 'Tardes de soledad': \"La tauromaquia no es arte\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260301030615_690.jpg",
+        "tags": [
+            "cultura",
+            "cine"
+        ],
+        "link": "https://www.europapress.es/cultura/cine-00128/noticia-activistas-animalistas-protestan-alfombra-roja-goya-contra-tardes-soledad-tauromaquia-no-arte-20260301030615.html",
+        "date": "2026-03-01 02:06:15",
+        "sentiment_score": -0.006240636110305786
+    },
+    {
+        "title": "La gala más propagandística de los Goya: un empacho de «¡Palestina libre!» y cero denuncias sobre España",
+        "image_url": "https://okdiario.com/img/2026/03/01/alba-flores-premios-goya-palestina.jpg",
+        "tags": [
+            "premios goya",
+            "televisión, cine y series"
+        ],
+        "link": "https://okdiario.com/trailer/gala-mas-propagandistica-goya-empacho-palestina-libre-cero-denuncias-sobre-espana-16327404",
+        "date": "2026-03-01 02:03:15",
+        "sentiment_score": 0.11177107691764832
+    },
+    {
+        "title": "Previsión meteorológica del tiempo en Barcelona para este 1 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima",
+            "clima en españa",
+            "clima en barcelona",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/01/prevision-meteorologica-del-tiempo-en-barcelona-para-este-1-de-marzo/",
+        "date": "2026-03-01 02:00:36",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "El cine español obvia los ataques a Irán en los Goya y se centra en reivindicar una \"Palestina libre\"",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2772932.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.vozpopuli.com/altavoz/cultura/el-cine-espanol-obvia-los-ataques-a-iran-en-los-goya-y-se-centra-en-reivindicar-una-palestina-libre.html",
+        "date": "2026-03-01 01:58:02",
+        "sentiment_score": -0.8868088880553842
     }
 ];
