@@ -1,472 +1,5 @@
 export default [
     {
-        "title": "Prestianni se entrenó en el Bernabéu antes del duelo ante Real Madrid: los gestos del Benfica tras la denuncia de Vinícius",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "deportes-internacional"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/24/prestianni-se-entreno-en-el-bernabeu-antes-del-duelo-ante-real-madrid-los-gestos-del-benfica-tras-la-denuncia-de-vinicius/",
-        "date": "2026-02-24 22:12:02",
-        "sentiment_score": -0.9222294054925442
-    },
-    {
-        "title": "Ingresado en Tenerife el rey de Noruega tras sufrir una \"infección\" durante sus vacaciones",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/02/24/1F92299B-AAC4-4380-8043-9536CA22C393/rey-harald-noruega-foto-archivo_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "noticias",
-            "ondacero",
-            "sociedad"
-        ],
-        "link": "https://www.ondacero.es/noticias/sociedad/ingresado-tenerife-rey-noruega-sufrir-infeccion-sus-vacaciones_20260224699e218b2f00a04688262230.html",
-        "date": "2026-02-24 22:09:15",
-        "sentiment_score": 0.01964597776532173
-    },
-    {
-        "title": "Estos son los equipos clasificados para octavos de final de la Champions League: cuándo es el sorteo, cuadro, bombos y posibles cruces",
-        "image_url": "https://okdiario.com/img/2026/02/24/imagen_recortada-2026-02-24t230106.402.jpg",
-        "tags": [
-            "fútbol",
-            "champions league",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/estos-son-equipos-clasificados-octavos-final-champions-league-cuando-sorteo-cuadro-bombos-posibles-cruces-16301708",
-        "date": "2026-02-24 22:01:31",
-        "sentiment_score": 0.02718258649110794
-    },
-    {
-        "title": "«SEK-Alborán es mucho más que un colegio internacional»",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/02/25/33-kJRB-U20855744599jcH-1200x840@Ideal.jpg",
-        "tags": [
-            "colegio",
-            "sekalboran",
-            "internacional"
-        ],
-        "link": "https://www.ideal.es/almeria/almeria/sekalboran-colegio-internacional-20260225120433-nt.html",
-        "date": "2026-02-24 22:01:08",
-        "sentiment_score": -0.6712469719350338
-    },
-    {
-        "title": "Parece Islandia pero está en Madrid: El impacto del salto de agua de 10 metros que ya es viral en las redes sociales",
-        "image_url": "https://static.merca2.es/wp-content/uploads/2026/02/Monasterio.webp",
-        "tags": [
-            "últimas noticias",
-            "turismo"
-        ],
-        "link": "https://www.merca2.es/2026/02/24/madrid-salto-agua-virale-2354821/",
-        "date": "2026-02-24 22:00:00",
-        "sentiment_score": -0.8156107068061829
-    },
-    {
-        "title": "El Bernabéu decide un pulso entre el Real Madrid y el Benfica bajo el foco de la polémica",
-        "image_url": "https://cflvdg.avoz.es/sc/s26BZiPVmXdtUm8WnOMYl1aIPFA=/768x/2026/02/24/00121771968601454389201/Foto/eup_20260217_213826756.jpg",
-        "tags": [
-            "vinicius",
-            "deportes",
-            "real madrid",
-            "mourinho",
-            "benfica"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/02/24/bernabeu-decide-pulso-real-madrid-benfica-bajo-foco-polemica/00031771969781468900852.htm",
-        "date": "2026-02-24 21:56:00",
-        "sentiment_score": -0.9030557125806808
-    },
-    {
-        "title": "El giro del PP logra en 24 horas \"conversaciones fluidas y continuas\" con Vox",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/fb6d7adbccce048b370208c8b955a7b8/crop/2x0/1024x1022/f/image/jpeg/assets/multimedia/imagenes/2024/01/15/17053356313045.jpg",
-        "tags": [
-            "artículos juanma lamet",
-            "pp",
-            "alberto núñez feijóo",
-            "vox",
-            "pedro sánchez",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/02/24/699dee16fdddff773c8b45af.html",
-        "date": "2026-02-24 21:51:36",
-        "sentiment_score": -0.10502038896083832
-    },
-    {
-        "title": "Borrell avisa: la guerra en Ucrania no acabará con un tratado de paz y las condiciones para Kiev serían \"totalmente inaceptables\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/02/24/josep-borrell-durante-el-evento-aguanta-ucrania-en-casa-america-el-24-de-febrero-de-2026-en-madrid-espana.jpeg",
-        "tags": [
-            "global"
-        ],
-        "link": "https://www.huffingtonpost.es/global/borrell-avisa-guerra-ucrania-acabara-tratado-paz-condiciones-kievian-totalmente-inaceptables-f202602.html",
-        "date": "2026-02-24 21:41:32",
-        "sentiment_score": -0.7446142844855785
-    },
-    {
-        "title": "Luka Modrić y su quinta oportunidad de brillar en una Copa del Mundo",
-        "image_url": "https://www.infobae.com/resizer/v2/T5TUGAIQXBHVTKMBBHSHDDB4M4.jpg?auth=368b38efeba6157a5342e87e3c52cfe303a9c0f2c9753742c4a6a5ec913c226b&height=1079&smart=true&width=1920",
-        "tags": [
-            "colombia-deportes",
-            "selección croacia mundial 2026",
-            "capitán",
-            "luka modrić",
-            "líder",
-            "mundial 2026",
-            "croacia"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/24/luka-modric-y-su-quinta-oportunidad-de-brillar-en-una-copa-del-mundo/",
-        "date": "2026-02-24 21:39:06",
-        "sentiment_score": 0.10090325772762299
-    },
-    {
-        "title": "Sharif y Rapsusklei lanzan su primer disco conjunto: “Por fin estábamos a la altura de ese sueño que tuvimos hace mucho”",
-        "image_url": "https://static.eldiario.es/clip/8b2fb202-5334-453e-abf1-f639fb3485b2_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "huesca",
-            "óscar f. civieta",
-            "celia soria",
-            "eldiario",
-            "actualidad",
-            "zaragoza",
-            "marimar cabrera",
-            "política",
-            "sociedad",
-            "elprismático",
-            "teruel",
-            "aragón",
-            "fernando garcía mongay"
-        ],
-        "link": "https://www.eldiario.es/aragon/cultura/sharif-rapsusklei-lanzan-primer-disco-conjunto-estabamos-altura-sueno-tuvimos_1_13012102.html",
-        "date": "2026-02-24 21:20:24",
-        "sentiment_score": -0.0003775656223297119
-    },
-    {
-        "title": "Faustino Asprilla y la historia de su polémica expulsión de la concentración de la selección Colombia en el Mundial Francia 98",
-        "image_url": "https://www.infobae.com/resizer/v2/3X2TU32Q2JCVHEDUDRBL25UTYQ.png?auth=fb72b242c038b47cf8bd4edeb5d658e76899452f3ed8cd5a57f4448720e2479d&height=1600&smart=true&width=2300",
-        "tags": [
-            "faustino asprilla",
-            "hernán darío gómez",
-            "mundial 2026",
-            "colombia-deportes",
-            "francia 98",
-            "selección colombia"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/24/faustino-asprilla-y-la-historia-de-su-polemica-expulsion-de-la-concentracion-de-la-seleccion-colombia-en-el-mundial-francia-98/",
-        "date": "2026-02-24 22:46:51",
-        "sentiment_score": 0.6566813364624977
-    },
-    {
-        "title": "Liberaron a periodista que trabajó en el Departamento de Cultura de la gobernación de Anzoátegui",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "locales",
-            "política"
-        ],
-        "link": "https://eltiempove.com/liberaron-a-periodista-que-trabajo-en-el-departamento-de-cultura-de-la-gobernacion-de-anzoategui/",
-        "date": "2026-02-24 22:45:26",
-        "sentiment_score": -0.8640100518241525
-    },
-    {
-        "title": "Todo lo que sabemos del HONOR Magic V6: el nuevo celular plegable resistente a polvo y caídas",
-        "image_url": "https://www.infobae.com/resizer/v2/2O4DO66YC5BXHB6U7BJ5TJ4RZY.png?auth=a81c328ce21b733c496fa318706cee74080d878ee455fd7df4a9e73b20a1690b&height=700&smart=true&width=1200",
-        "tags": [
-            "honor",
-            "mwc 2026",
-            "tecnología-noticias",
-            "honor magic v6",
-            "celular plegable",
-            "tecnología"
-        ],
-        "link": "https://www.infobae.com/tecno/2026/02/24/todo-lo-que-sabemos-del-honor-magic-v6-el-nuevo-celular-plegable-resistente-a-polvo-y-caidas/",
-        "date": "2026-02-24 22:45:06",
-        "sentiment_score": 0.6314904019236565
-    },
-    {
-        "title": "La muerte a tiros de un hombre esposado",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/26c6709d-1a6e-416e-9c47-510f5d919071_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "guerra",
-            "familia",
-            "madrid",
-            "guardia civil"
-        ],
-        "link": "https://www.informacion.es/opinion/2026/02/24/muerte-tiros-hombre-esposado-127234284.html",
-        "date": "2026-02-24 22:30:39",
-        "sentiment_score": 0.024515122175216675
-    },
-    {
-        "title": "Barcelona busca posicionarse como un campo de pruebas referente en innovación tecnológica urbana",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/20/informacion-municipal/1003742734847_15743574_1706x960.jpg",
-        "tags": [
-            "ayuntamiento de barcelona",
-            "información municipal",
-            "ciencia",
-            "innovación",
-            "tecnología"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260224/barcelona-busca-posicionarse-campo-pruebas-referente-innovacion-tecnologica-urbana/1003742734839_0.html",
-        "date": "2026-02-24 22:30:00",
-        "sentiment_score": 0.5635272189974785
-    },
-    {
-        "title": "El Incasòl rescata las 36 viviendas dotacionales 'malditas' de El Masnou tras la espantada de una constructora",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/24/gran-barcelona/1003742735801_15755111_1706x960.jpg",
-        "tags": [
-            "vivienda",
-            "gran barcelona",
-            "maresme"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260224/incasol-rescata-viviendas-dotacionales-malditas-masnou-espantada-constructora/1003742735756_0.html",
-        "date": "2026-02-24 22:30:00",
-        "sentiment_score": -0.7686479892581701
-    },
-    {
-        "title": "Interior archiva una decena de denuncias por 'intrusismo laboral' en obras públicas de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/24/el-pulso-de-la-ciudad/1003742718951_15548748_1706x960.jpg",
-        "tags": [
-            "trabajadores",
-            "sindicatos",
-            "economía",
-            "seguridad",
-            "patronales",
-            "obras"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260224/interior-archiva-decena-denuncias-intrusismo-laboral-obras-publicas-barcelona/1003742735301_0.html",
-        "date": "2026-02-24 22:30:00",
-        "sentiment_score": -0.8980147307738662
-    },
-    {
-        "title": "El Newcastle United selló su calificación a octavos de final de la Champions League",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/a015975507b16012746845b745cd9094e16653e9w.jpg",
-        "tags": [
-            "victoria",
-            "champions league",
-            "octavos de final",
-            "deportes",
-            "titulares",
-            "newcastle united"
-        ],
-        "link": "https://lapatilla.com/2026/02/24/el-newcastle-united-sello-su-calificacion-a-octavos-de-final-de-la-champions-league/",
-        "date": "2026-02-24 22:11:13",
-        "sentiment_score": 0.38289232552051544
-    },
-    {
-        "title": "Messi revela cómo le pidió matrimonio a Antonela en Barcelona",
-        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/07/08/686cce77e69f9.r_d.586-340-0.jpeg",
-        "tags": [
-            "vaya mundo"
-        ],
-        "link": "https://www.mundodeportivo.com/vaya-mundo/20260224/1004134020/messi-revela-como-le-pidio-matrimonio-antonela-barcelona-dct.html",
-        "date": "2026-02-24 22:06:00",
-        "sentiment_score": 0.08757343888282776
-    },
-    {
-        "title": "Estudiantes rechazan el aumento del costo del semestre en la USM Oriente",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "locales",
-            "educación"
-        ],
-        "link": "https://eltiempove.com/estudiantes-rechazan-el-aumento-del-costo-del-semestre-en-la-usm-oriente/",
-        "date": "2026-02-24 22:03:41",
-        "sentiment_score": -0.8252545818686485
-    },
-    {
-        "title": "Cancelo divide al barcelonismo y tensiona la planificación deportiva",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/02/2026010209065621229.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/cancelo-divide-barcelonismo-tensiona-planificacion-deportiva/20260225033136376134.html",
-        "date": "2026-02-25 02:31:36",
-        "sentiment_score": 0.13569854199886322
-    },
-    {
-        "title": "El 80% del empleo sumergido en España lo ocupan trabajadores extranjeros, medio millón de ellos de fuera de la UE",
-        "image_url": "https://s3.elespanol.com/2026/02/24/actualidad/1003744144008_261604055_1706x960.jpg",
-        "tags": [
-            "macroeconomía",
-            "empleo",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20260225/empleo-sumergido-espana-ocupan-trabajadores-extranjeros-medio-millon-ue/1003744143469_0.html",
-        "date": "2026-02-25 01:58:09",
-        "sentiment_score": -0.6451442763209343
-    },
-    {
-        "title": "Qué hay detrás del fenómeno therian: redes sociales, bulos y polarización",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/25/2026022502284481297.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/que-detras-fenomeno-therian-redes-sociales-bulos-polarizacion/20260225023017376129.html",
-        "date": "2026-02-25 01:30:17",
-        "sentiment_score": -0.7903950028121471
-    },
-    {
-        "title": "El Inter se apaga y el Atlético avanza en la noche de Champions",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/25/2026022502290793385.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/champions-territorio-que-enemigo-pequeno/20260225022922376128.html",
-        "date": "2026-02-25 01:29:22",
-        "sentiment_score": -0.8367362879216671
-    },
-    {
-        "title": "La ácida crítica de Chilavert a Courtois en medio de la polémica entre Pestiani y Vinícius: “Le sacó la novia a su compañero”",
-        "image_url": "https://www.infobae.com/resizer/v2/NWWGNB6XQJD3VMTQIBWYZTD65A.jpg?auth=8096d37c02dd22ca16bb2926b4aee024480fc35dadda4f540240f4f0d43f96d1&height=1080&smart=true&width=1920",
-        "tags": [
-            "benfica",
-            "real madrid",
-            "josé luis chilavert",
-            "thibaut courtois",
-            "gianluca prestianni",
-            "champions league",
-            "deportes-internacional",
-            "kylian mbappé",
-            "deportes-argentina",
-            "vinicius júnior"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/25/la-acida-critica-de-chilavert-a-courtois-en-medio-de-la-polemica-entre-pestiani-y-vinicius-le-saco-la-novia-a-su-companero/",
-        "date": "2026-02-25 01:18:23",
-        "sentiment_score": -0.8184385262429714
-    },
-    {
-        "title": "Las elecciones del Barça de 2026 son las menos politizadas del club: Junts se mantiene al margen",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/20/culemania/palco/1003742734850_15743595_1706x960.jpg",
-        "tags": [
-            "palco",
-            "víctor font",
-            "joan laporta",
-            "xavier vilajoana"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260225/elecciones-barca-politizadas-club-junts-mantiene-margen/1003742735725_0.html",
-        "date": "2026-02-25 00:52:59",
-        "sentiment_score": -0.4295501932501793
-    },
-    {
-        "title": "Reyerta en el PSOE de Madrid: el diputado Rodríguez Palacios dimite tras filtrar el vídeo de su 'número dos' con una 'stripper'",
-        "image_url": "https://s3.elespanol.com/2026/02/24/actualidad/1003744144131_261605665_1706x960.jpg",
-        "tags": [
-            "comunidad de madrid",
-            "psoe (partido socialista obrero español)",
-            "alcalá de henares",
-            "congreso de los diputados",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260225/reyerta-psoe-madrid-diputado-rodriguez-palacios-dimite-filtrar-video-numero-stripper/1003744143883_0.html",
-        "date": "2026-02-25 00:49:14",
-        "sentiment_score": -0.7573801167309284
-    },
-    {
-        "title": "Gobernador de Jalisco descarta riesgo de que México pierda sedes del Mundial",
-        "image_url": "https://correodelcaroni.com/wp-content/uploads/2026/02/GOBERNADOR_Mundial.jpg",
-        "tags": [
-            "sedes",
-            "mundial",
-            "mundo",
-            "jalisco",
-            "pablo lemus",
-            "méxico",
-            "a - modulo 7 - b",
-            "copa mundial",
-            "violencia"
-        ],
-        "link": "https://correodelcaroni.com/mundo/gobernador-de-jalisco-descarta-riesgo-de-que-mexico-pierda-sedes-del-mundial/",
-        "date": "2026-02-25 00:39:38",
-        "sentiment_score": -0.5646964181214571
-    },
-    {
-        "title": "24 FEB 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/24-feb-2026-partidazo-cope-20260225_3314534.html",
-        "date": "2026-02-25 00:35:02",
-        "sentiment_score": -0.6037871986627579
-    },
-    {
-        "title": "España cubre la ratio de enfermeras con fisioterapeutas en residencias de mayores ante el déficit de estas especialistas",
-        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070787_260676600_1706x960.jpg",
-        "tags": [
-            "sanidad - actualidad sanitaria",
-            "sanidad",
-            "observatorio de la sanidad",
-            "sanidad - enfermería"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260225/espana-cubre-ratio-enfermeras-fisioterapeutas-residencias-mayores-deficit-especialistas/1003744143055_0.html",
-        "date": "2026-02-25 00:26:57",
-        "sentiment_score": -0.5163351688534021
-    },
-    {
-        "title": "Equipazo en España: Barcelona rompe el mercado con brillante refuerzo de lujo",
-        "image_url": "https://www.metroworldnews.com/resizer/v2/PVOL6ZLSSVGFZBBVICHGSBJXEI.jpg?auth=3b9daf327325423ed015f92addb791d34abd3f81eb65c2343c63b29e239a0d09&height=355&smart=true&width=679",
-        "tags": [
-            "laliga",
-            "barcelona"
-        ],
-        "link": "https://www.metroworldnews.com/deportes/2026/02/25/equipazo-en-espana-barcelona-rompe-el-mercado-con-brillante-refuerzo-de-lujo/",
-        "date": "2026-02-25 02:23:40",
-        "sentiment_score": 0.9050172865390778
-    },
-    {
-        "title": "El nuevo modelo de explotación de asientos Vip del Spotify Camp Nou difiere de los PSL de New Era: dos negocios al alcance de pocos socios",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/24/culemania/palco/1003742735710_15754057_1706x960.jpg",
-        "tags": [
-            "palco",
-            "camp nou",
-            "espai barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260225/explotacion-vip-spotify-camp-nou-psl-new/1003742735883_0.html",
-        "date": "2026-02-25 00:52:54",
-        "sentiment_score": 0.5112284682691097
-    },
-    {
-        "title": "El Barça más judicializado del siglo encara las elecciones: los cinco procesos que desestabilizan la agenda electoral en los tribunales",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/12/culemania/palco/1003742715512_15505216_1706x960.jpg",
-        "tags": [
-            "barça",
-            "xavier vilajoana",
-            "camp nou",
-            "jules koundé",
-            "josé maría enríquez negreira",
-            "palco",
-            "elecciones barça",
-            "víctor font",
-            "joan laporta"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260225/barca-judicializado-elecciones-procesos-desestabilizan-electoral-tribunales/1003742735886_0.html",
-        "date": "2026-02-25 00:52:33",
-        "sentiment_score": -0.9102708343416452
-    },
-    {
-        "title": "Simeone reemplazó a Julián Álvarez a los 58 minutos del triunfo del Atlético de Madrid: su tajante argumento y el show de gestos",
-        "image_url": "https://www.infobae.com/resizer/v2/DBBIFS6SJBBCBMKDVBS6YL6LKE.jpg?auth=a2bbe0a5d407d808b5ad8a9639a6c798759611183c738a9fe26878548b3e5f03&height=1080&smart=true&width=1920",
-        "tags": [
-            "diego simeone",
-            "brujas",
-            "julián álvarez",
-            "champions league",
-            "deportes-argentina",
-            "atlético de madrid"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/25/simeone-reemplazo-a-julian-alvarez-a-los-58-minutos-del-triunfo-del-atletico-de-madrid-su-tajante-argumento-y-el-show-de-gestos/",
-        "date": "2026-02-25 00:46:48",
-        "sentiment_score": -0.2482335902750492
-    },
-    {
-        "title": "Luis Tosar recuerda su premio ‘Míster Estudiante’ en ‘La Revuelta’: un quinto de cerveza, diez planchas y un baile sexy",
-        "image_url": "https://www.infobae.com/resizer/v2/LUR54OBHMNHB3BKQLB5OPSCB4U.jpg?auth=3063a3bd0fce81b2ed4cead621fffbe9ed3c034ac9265fed84e57b188cb00fec&height=1080&smart=true&width=1920",
-        "tags": [
-            "famosos españa",
-            "españa-noticias",
-            "rtve",
-            "david broncano",
-            "la revuelta",
-            "españa televisión",
-            "españa-entretenimiento",
-            "gente españa"
-        ],
-        "link": "https://www.infobae.com/espana/2026/02/25/luis-tosar-recuerda-su-premio-mister-estudiante-en-la-revuelta-un-quinto-de-cerveza-diez-planchas-y-un-baile-sexy/",
-        "date": "2026-02-25 00:41:51",
-        "sentiment_score": 0.13923850283026695
-    },
-    {
         "title": "Cuándo empiezan las vacaciones de Semana Santa 2026 en los colegios de Madrid",
         "image_url": "https://okdiario.com/img/2026/02/24/cuando-empiezan-las-vacaciones-de-semana-santa-2026-en-los-colegios-de-madrid.jpg",
         "tags": [
@@ -3200,5 +2733,198 @@ export default [
         "link": "https://www.lne.es/cangas-del-narcea/2026/02/28/tous-pa-tous-recupera-4-127277468.html",
         "date": "2026-02-28 06:01:03",
         "sentiment_score": -0.1691608428955078
+    },
+    {
+        "title": "EE.UU. e Israel atacan Irán, en vivo: última hora, imágenes y noticias",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/59/media_thumb-link-4151662.webp?1772266866=",
+        "tags": [
+            "actualidad",
+            "noticias",
+            "israel",
+            "iran",
+            "usa",
+            "feed"
+        ],
+        "link": "https://www.meneame.net/story/ee-uu-israel-atacan-iran-vivo-ultima-hora-imagenes-noticias",
+        "date": "2026-02-28 09:15:03",
+        "sentiment_score": -0.7007345668971539
+    },
+    {
+        "title": "Unas molestias impiden a Haaland jugar a diez días de enfrentarse al Real Madrid",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/28/69a327ee19382.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/molestias-impiden-haaland-jugar-diez-dias-enfrentarse-real-madrid-20260228_3317360.html",
+        "date": "2026-02-28 17:42:13",
+        "sentiment_score": -0.36653663218021393
+    },
+    {
+        "title": "¡Líderes! El Barcelona brilla con el triplete de Lamine Yamal",
+        "image_url": "https://i.ytimg.com/vi/49l6bdAMUiw/mqdefault.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/lideres-el-barcelona-brilla-con-el-triplete-de-lamine-yamal-202622813380",
+        "date": "2026-02-28 17:38:00",
+        "sentiment_score": 0.811086468398571
+    },
+    {
+        "title": "Lamine Yamal descompone al Villarreal (4-1)",
+        "image_url": "https://cflvdg.avoz.es/sc/61XxLi8G9bJK5-WWfRmn9OC7jDI=/768x/2026/02/28/00121772299381988434449/Foto/eup_20260228_161709790.jpg",
+        "tags": [
+            "fc barcelona",
+            "deportes"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/02/28/lamine-yamal-descompone-villarreal-4-1/00031772299741505649518.htm",
+        "date": "2026-02-28 17:31:00",
+        "sentiment_score": 0.4245581403374672
+    },
+    {
+        "title": "Lamine Yamal desata al Barça",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/28/Clipboard-0232.jpg",
+        "tags": [
+            "villarreal/vila-real",
+            "robert lewandowski",
+            "f.c. barcelona",
+            "lamine yamal"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-primera/lamine-yamal-desata-barca-20260228182256-ntrc.html",
+        "date": "2026-02-28 17:30:53",
+        "sentiment_score": 0.7026828192174435
+    },
+    {
+        "title": "Lamine Yamal desasosiega al Villarreal",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/a276f91f-d012-4e68-9fef4408b1e9980f.jpg",
+        "tags": [
+            "copa del rey",
+            "pedri",
+            "ferran torres",
+            "laliga ea sports",
+            "real madrid",
+            "hansi flick",
+            "raphinha",
+            "villarreal cf",
+            "robert lewandowski",
+            "dani olmo",
+            "atlético de madrid",
+            "lamine yamal",
+            "fc barcelona",
+            "marcelino garcía toral"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z4d2855cc-3b82-49f7-83d0407893fce2c7/202602/lamine-yamal-desasosiega-al-villarreal",
+        "date": "2026-02-28 17:22:20",
+        "sentiment_score": 0.7037892304360867
+    },
+    {
+        "title": "Real Madrid-Getafe: Alineaciones probables, estadísticas y cómo ver por TV y online (21:00)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(200x60:202x58)/origin-imgresizer.eurosport.com/2026/02/24/image-5b5f62a4-0e19-4565-a9d7-2e0fff7d2c57-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "la liga 2025/2026"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/real-madrid-getafe-alineaciones-probables-previa-estadisticas-datos-previos-horario-como-donde-ver-television-online-streaming-hoy_sto23276275/story.shtml",
+        "date": "2026-02-28 17:21:32",
+        "sentiment_score": 0.03021879680454731
+    },
+    {
+        "title": "Amancio López Seijas (Grupo Hotusa) recibe el XXIX Premi Gran Gaudí Gresol",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260228183936_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-amancio-lopez-seijas-grupo-hotusa-recibe-xxix-premi-gran-gaudi-gresol-20260228183936.html",
+        "date": "2026-02-28 17:39:36",
+        "sentiment_score": 0.06692897528409958
+    },
+    {
+        "title": "El Newcastle cae ante el Everton en casa",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/28/69a3278986c8c.r_d.1987-1379-1212.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/futbol/20260228/11478050/newcastle-everton-premier-league-resumen.html",
+        "date": "2026-02-28 17:37:56",
+        "sentiment_score": -0.5986289530992508
+    },
+    {
+        "title": "Napptilus Tech Labs vuelve a llevar al 4YFN 'startups' disruptivas con impacto real",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/28/business/1003742737110_15771317_1706x960.jpg",
+        "tags": [
+            "inteligencia artificial",
+            "barcelona",
+            "recomendados",
+            "4yfn",
+            "startup",
+            "cataluña",
+            "fira de barcelona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/recomendados/20260228/napptilus-tech-labs-vuelve-startups-disruptivas-impacto/1003742737108_0.html",
+        "date": "2026-02-28 17:36:27",
+        "sentiment_score": 0.3912072330713272
+    },
+    {
+        "title": "Resumen Barcelona-Villarreal: Bienvenidos al show de Lamine Yamal (4-1)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/28/image-fea4d7fd-2277-458c-bae6-fff7861f7647-85-2560-1440.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/barcelona-villarreal-video-resumen-resultado-goles-y-mejores-momentos-del-partido-la-liga-ea-sports-jornada-26-hoy_vid60060746/video.shtml",
+        "date": "2026-02-28 17:36:02",
+        "sentiment_score": 0.4279686063528061
+    },
+    {
+        "title": "Lista de nominados de los Premios Goya 2026",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/02/27/E348AFC2-E6AD-46E8-881C-3BE290692F6A/98.jpg?crop=1920%2C1080%2Cx0%2Cy179&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "cultura",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/cultura/lista-nominados-premios-goya-2026_2026022869a3276b1817b41eb668cbc9.html",
+        "date": "2026-02-28 17:35:39",
+        "sentiment_score": 0.3214198052883148
+    },
+    {
+        "title": "Empiezan a desfilar por la alfombra roja los primeros invitados a la 40 edición de los Premios Goya",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/EuropaPress_7327692_empiezan_desfilar_alfombra_roja_primeros_invitados_40_edicion_premios_goya.jpg",
+        "tags": [
+            "nacional",
+            "alfombra",
+            "goya",
+            "barcelona",
+            "premios"
+        ],
+        "link": "https://www.lanzadigital.com/nacional/empiezan-a-desfilar-por-la-alfombra-roja-los-primeros-invitados-a-la-40-edicion-de-los-premios-goya/",
+        "date": "2026-02-28 17:34:57",
+        "sentiment_score": -0.08975756168365479
+    },
+    {
+        "title": "Los mejores y peores looks de la alfombra roja de los premios Goya 2026",
+        "image_url": "https://okdiario.com/look/img/2026/02/28/marina-rivers-1.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://okdiario.com/look/actualidad/mejores-peores-looks-alfombra-roja-premios-goya-2026-2496068",
+        "date": "2026-02-28 17:34:35",
+        "sentiment_score": 0.5607931464910507
+    },
+    {
+        "title": "Vox se queda sin número 1: Ansaldo, el 'boina verde' de sangre aristocrática",
+        "image_url": "https://static1.ara.cat/clip/fce20161-dcae-434c-a67e-9280b709f103_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ansaldo",
+            "queda",
+            "verde",
+            "1",
+            "numero",
+            "aristocratica",
+            "vox",
+            "boina",
+            "sangre"
+        ],
+        "link": "https://es.ara.cat/politica/vox-queda-numero-1-ansaldo-boina-verde-sangre-aristocratica_1_5664209.html",
+        "date": "2026-02-28 17:32:30",
+        "sentiment_score": -0.3262074440717697
     }
 ];
