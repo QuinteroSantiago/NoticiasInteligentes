@@ -1,193 +1,5 @@
 export default [
     {
-        "title": "El juez del caso Errejón pide a Mouliaá que aporte informes médicos y un parte de baja laboral",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/25/699f2242312f53-01939738.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/nacional/juez-caso-errejon-pide-mouliaa-que-aporte-informes-medicos-un-parte-baja-laboral_6938994_0.html",
-        "date": "2026-02-25 17:47:31",
-        "sentiment_score": -0.13492471352219582
-    },
-    {
-        "title": "La selección femenina se concentra en Las Rozas con muchas caras nuevas y sin Jenni Hermoso",
-        "image_url": "https://okdiario.com/img/2026/02/25/seleccion-femenina-2.jpg",
-        "tags": [
-            "fútbol femenino",
-            "fútbol",
-            "deportes",
-            "selección española de fútbol femenino"
-        ],
-        "link": "https://okdiario.com/deportes/seleccion-femenina-concentra-rozas-muchas-caras-nuevas-sin-jenni-hermoso-16306719",
-        "date": "2026-02-25 17:46:01",
-        "sentiment_score": 0.22867360711097717
-    },
-    {
-        "title": "Afectados por la Ocupación confían en que la mayoría del Congreso rechace mañana el nuevo 'escudo social'",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260225184317_690.jpg",
-        "tags": [
-            "construcción y vivienda",
-            "economía finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-afectados-ocupacion-confian-mayoria-congreso-rechace-manana-nuevo-escudo-social-20260225184317.html",
-        "date": "2026-02-25 17:43:17",
-        "sentiment_score": 0.2620777189731598
-    },
-    {
-        "title": "Nueva provocación del Benfica al Real Madrid con recado a Fede Valverde: rajada descomunal de Prestianni",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/20/culemania/real-madrid/1003742734853_15743657_1706x960.jpg",
-        "tags": [
-            "lifestyle",
-            "entertainment",
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260225/nueva-benfica-real-madrid-fede-valverde-prestianni/1003742736130_0.html",
-        "date": "2026-02-25 17:42:33",
-        "sentiment_score": -0.89122882951051
-    },
-    {
-        "title": "La Comunidad de Madrid celebra el Año del Medio Ambiente con 160 millones para proteger los bosques",
-        "image_url": "https://okdiario.com/img/2026/02/25/comunidad-madrid-ano-medio-ambiente-.jpg",
-        "tags": [
-            "green - sostenibilidad",
-            "okgreen",
-            "madrid",
-            "lobos",
-            "isabel díaz ayuso",
-            "medio ambiente",
-            "comunidad de madrid",
-            "medioambiente",
-            "lince ibérico",
-            "naturaleza"
-        ],
-        "link": "https://okdiario.com/okgreen/ano-del-medio-ambiente-comunidad-madrid-2026-160-millones-guadarrama-16307605",
-        "date": "2026-02-25 17:42:04",
-        "sentiment_score": 0.6344799101352692
-    },
-    {
-        "title": "La decisión que tomó la UEFA con la sanción a Gianluca Prestianni a horas del Real Madrid-Benfica por Champions League",
-        "image_url": "https://www.infobae.com/resizer/v2/NXWSDEDX2NGELHPINUYEWH4JD4.jpg?auth=c3b4d16ba9daca975d5c36d83bee5a2c20ec8cb897d999c64ccfb98b97c873b1&height=2782&smart=true&width=4945",
-        "tags": [
-            "deportes-internacional",
-            "gianluca prestianni",
-            "vinicius jr.",
-            "benfica",
-            "champions league",
-            "real madrid"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/25/la-decision-que-tomo-la-uefa-con-la-sancion-a-gianluca-prestianni-a-horas-del-real-madrid-benfica-por-champions-league/",
-        "date": "2026-02-25 17:38:26",
-        "sentiment_score": -0.8464382085949183
-    },
-    {
-        "title": "Sindicatos piden garantías ante la futura transformación del INAEM",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260225183701_690.jpg",
-        "tags": [
-            "cultura",
-            "música"
-        ],
-        "link": "https://www.europapress.es/cultura/musica-00129/noticia-sindicatos-piden-garantias-futura-transformacion-inaem-20260225183701.html",
-        "date": "2026-02-25 17:37:01",
-        "sentiment_score": 0.21881258487701416
-    },
-    {
-        "title": "El rey de Noruega \"responde bien al tratamiento\" pero seguirá unos días hospitalizado en Tenerife",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260225183258_120.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.europapress.es/internacional/noticia-rey-noruega-responde-bien-tratamiento-seguira-dias-hospitalizado-tenerife-20260225183258.html",
-        "date": "2026-02-25 17:32:58",
-        "sentiment_score": -0.5090493187308311
-    },
-    {
-        "title": "El bar de la Ciudad Deportiva del Real Zaragoza busca personal: condiciones y requisitos",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/02/25/2026022518243148980.jpg",
-        "tags": [
-            "real zaragoza"
-        ],
-        "link": "https://www.aragondigital.es/articulo/real-zaragoza/bar-ciudad-deportiva-real-zaragoza-busca-personal-condiciones-requisitos/20260225182824969156.html",
-        "date": "2026-02-25 17:28:24",
-        "sentiment_score": 0.2428703010082245
-    },
-    {
-        "title": "El eufórico Baskonia recibe al dolido Valencia Basket",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260225182428_120.jpg",
-        "tags": [
-            "deportes",
-            "baloncesto"
-        ],
-        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-euforico-baskonia-recibe-dolido-valencia-basket-20260225182428.html",
-        "date": "2026-02-25 17:24:28",
-        "sentiment_score": -0.2723063677549362
-    },
-    {
-        "title": "Collboni promete 260 millones de euros hasta el 2031 para transformar la Sagrera",
-        "image_url": "https://static1.ara.cat/clip/28ef6532-4c9c-49fe-a072-12ca318db0d0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "260",
-            "millones",
-            "transformar",
-            "2031",
-            "collboni",
-            "promete",
-            "euros",
-            "sagrera"
-        ],
-        "link": "https://es.ara.cat/sociedad/barcelona/collboni-promete-260-millones-euros-2031-transformar-sagrera_1_5659293.html",
-        "date": "2026-02-25 17:49:41",
-        "sentiment_score": -0.017069011926651
-    },
-    {
-        "title": "Igualguana: solicitamos al gobierno nacional que termine de ajustar el salario",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "protestas",
-            "locales"
-        ],
-        "link": "https://eltiempove.com/igualguana-solicitamos-al-gobierno-nacional-que-termine-de-ajustar-el-salario/",
-        "date": "2026-02-25 17:48:37",
-        "sentiment_score": -0.8731026854366064
-    },
-    {
-        "title": "Muere un motorista después de un accidente con un camión en Sants-Montjuïc",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/10/19/ambulancia-del-sem.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/muere-un-motorista-tras-un-accidente-con-un-camion-sants-montjuic_6939035_0.html",
-        "date": "2026-02-25 17:47:07",
-        "sentiment_score": -0.8179170768707991
-    },
-    {
-        "title": "Mariam Cremades: un estudio que sirve de escaparate a otros artistas en Alicante",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6ade3a34-7ca1-45dd-9ebc-5d60f91199e7_16-9-aspect-ratio_default_0_x1341y863.jpg",
-        "tags": [
-            "arte contemporáneo",
-            "exposición",
-            "obras",
-            "espacio",
-            "cultura",
-            "horario",
-            "pintura"
-        ],
-        "link": "https://www.informacion.es/cultura/2026/02/25/mariam-cremades-estudio-sirve-escaparate-127257484.html",
-        "date": "2026-02-25 17:40:31",
-        "sentiment_score": 0.16730420291423798
-    },
-    {
-        "title": "Los papeles del 23-F recogen el apoyo de CiU a la monarquía y la \"normalidad absoluta\" del ejército en Cataluña",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f9181ea1-1be7-48e4-9cd8-471581118612_16-9-aspect-ratio_default_0_x553y179.jpg",
-        "tags": [
-            "23f",
-            "ciu",
-            "fuerzas de seguridad"
-        ],
-        "link": "https://www.laopiniondemalaga.es/nacional/2026/02/25/papeles-23-f-recogen-apoyo-127270772.html",
-        "date": "2026-02-25 17:40:25",
-        "sentiment_score": -0.6546615026891232
-    },
-    {
         "title": "VÍDEO | Asencio, trasladado al hospital tras el golpe con Camavinga que le retiró en camilla",
         "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/25/image-b2d03492-b971-4a6d-b03e-ebdfe5780d28-85-2560-1440.jpeg",
         "tags": [
@@ -3105,5 +2917,178 @@ export default [
         "link": "https://www.vozpopuli.com/altavoz/cultura/el-cine-espanol-obvia-los-ataques-a-iran-en-los-goya-y-se-centra-en-reivindicar-una-palestina-libre.html",
         "date": "2026-03-01 01:58:02",
         "sentiment_score": -0.8868088880553842
+    },
+    {
+        "title": "Parece El Señor de los Anillos, pero está en la sierra de Madrid y es una impresionante ruta senderista de 8 etapas",
+        "image_url": "https://okdiario.com/img/2026/02/23/camino-del-anillo.jpg",
+        "tags": [
+            "viajes",
+            "curiosidades",
+            "senderismo",
+            "comunidad de madrid",
+            "naturaleza"
+        ],
+        "link": "https://okdiario.com/viajes/parece-senor-anillos-pero-esta-sierra-madrid-impresionante-ruta-senderista-8-etapas-16289524",
+        "date": "2026-03-01 06:45:05",
+        "sentiment_score": 0.18781717121601105
+    },
+    {
+        "title": "Adiós a las galletas Lotus para siempre: el cambio que está a punto de llegar y que va a sorprender a muchos",
+        "image_url": "https://okdiario.com/img/2026/02/27/adios-a-las-galletas-lotus-para-siempre-el-cambio-que-esta-a-punto-de-llegar-y-que-va-a-sorprender-a-muchos.jpg",
+        "tags": [
+            "economía",
+            "okd",
+            "alimentos",
+            "consumo",
+            "consumidores"
+        ],
+        "link": "https://okdiario.com/economia/consumo/adios-galletas-lotus-siempre-cambio-que-esta-punto-llegar-que-va-sorprender-muchos-16316673",
+        "date": "2026-03-01 06:30:41",
+        "sentiment_score": -0.029412299394607544
+    },
+    {
+        "title": "La mejor ruta de senderismo para Jesús Calleja está en Lugo: «Tiene mil matices diferentes»",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/ruta-galicia-calleja.jpeg",
+        "tags": [
+            "jesús calleja",
+            "celebrities",
+            "gente",
+            "galicia",
+            "lugo"
+        ],
+        "link": "https://theobjective.com/gente/2026-03-01/mejor-ruta-senderismo-jesus-calleja-lugo/",
+        "date": "2026-03-01 06:30:00",
+        "sentiment_score": 0.390508733689785
+    },
+    {
+        "title": "Francisco Vázquez: “Segovia va a ser ejemplo en los próximos años con la creación de más de mil puestos de trabajo”",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2026/02/Paco-Vazquez-web-683x1024.jpg",
+        "tags": [
+            "portada imagen vertical",
+            "segovia",
+            "conversaciones con..."
+        ],
+        "link": "https://eladelantado.com/segovia/2026/03/01/francisco-vazquez-segovia-va-a-ser-ejemplo-en-los-proximos-anos-con-la-creacion-de-mas-de-mil-puestos-de-trabajo/",
+        "date": "2026-03-01 06:27:12",
+        "sentiment_score": 0.5829594805836678
+    },
+    {
+        "title": "\"Debemos fomentar las bajas flexibles para reincorporar a un trabajador de manera gradual si su puesto lo permite\"",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d360d461-1ede-4470-8710-a87e7ae23a37_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gradual",
+            "flexibles",
+            "los",
+            "trabajadores",
+            "fomentar",
+            "reincorporar",
+            "bajas",
+            "debemos",
+            "a"
+        ],
+        "link": "https://www.noticiasdenavarra.com/economia/2026/03/01/debemos-fomentar-bajas-flexibles-reincorporar-a-los-trabajadores-gradual-10761759.html",
+        "date": "2026-03-01 06:13:28",
+        "sentiment_score": 0.11463159322738647
+    },
+    {
+        "title": "“Ocurre, pero muy pocas veces, que una familia tenga en casa un cuadro de gran valor sin ser consciente de ello”",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/18cc3e3c-c673-4153-acca-23792186db93_16-9-aspect-ratio_default_0_x1152y513.jpg",
+        "tags": [
+            "casa real",
+            "real madrid",
+            "madrid",
+            "subasta",
+            "pintura",
+            "museos",
+            "arte",
+            "picasso"
+        ],
+        "link": "https://www.lne.es/cultura/2026/03/01/subasta-arte-joyas-real-madrid-ansorena-pintura-hotel-ritz-picasso-127406853.html",
+        "date": "2026-03-01 06:01:35",
+        "sentiment_score": 0.22335663437843323
+    },
+    {
+        "title": "Amaral sorprende con un importante anuncio en pleno concierto: \"No voy a entrar en ese jardín\"",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2026/03/01/amaral.png",
+        "tags": [
+            "ocio y cultura"
+        ],
+        "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/03/01/amaral-sorprende-importante-anuncio-concierto-san-sebastian-paron-1898376.html",
+        "date": "2026-03-01 06:36:39",
+        "sentiment_score": 0.8303866237401962
+    },
+    {
+        "title": "Susan Sarandon: Goya a una conciencia incómoda y a una actriz que desafía a Hollywood y al poder",
+        "image_url": "https://www.elplural.com/uploads/s1/24/37/65/5/a-actriz-susan-sarandon-durante-una-rueda-de-prensa-previa-a-la-celebracio-n-de-la-gala-de-entrega-de-los-67o-premios-rne-de-cinematografi-a-a-25-de-abril-de-2023-en-el-hotel-arts-en-barcelona-c_7_480x270.jpeg",
+        "tags": [
+            "revista bando"
+        ],
+        "link": "https://www.elplural.com/revista-bando/susan-sarandon-goya-conciencia-incomoda-actriz-desafia-hollywood-poder_382791102",
+        "date": "2026-03-01 06:33:41",
+        "sentiment_score": -0.09265726804733276
+    },
+    {
+        "title": "La actuación de Buda en Irún, entre las mejores de la temporada en la Asobal",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2026/02/03-1w-4.jpg",
+        "tags": [
+            "balonmano",
+            "deportes"
+        ],
+        "link": "https://eladelantado.com/deportes/2026/03/01/la-actuacion-de-buda-en-irun-entre-las-mejores-de-la-temporada-en-la-asobal/",
+        "date": "2026-03-01 06:30:26",
+        "sentiment_score": 0.3728770986199379
+    },
+    {
+        "title": "Del Sahel a Barcelona: el mapa del yihadismo en 2025",
+        "image_url": "https://www.elplural.com/uploads/s1/24/71/93/4/isis_7_480x270.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elplural.com/politica/espana/sahel-barcelona-mapa-yihadismo-2025_382672102",
+        "date": "2026-03-01 06:29:42",
+        "sentiment_score": -0.3022594153881073
+    },
+    {
+        "title": "Arranca 2026 con 3 sentencias clave del Tribunal Supremo sobre permisos",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2026/02/tc.jpg",
+        "tags": [
+            "muerte fetal",
+            "app",
+            "tribunal supremo",
+            "prestación por nacimiento",
+            "znoticia portada1",
+            "permiso parental",
+            "derecho laboral",
+            "vacaciones",
+            "artículos",
+            "conciliación laboral",
+            "permiso retribuido"
+        ],
+        "link": "https://www.economistjurist.es/articulos-juridicos-destacados/arranca-2026-con-3-sentencias-clave-del-tribunal-supremo-sobre-permisos/",
+        "date": "2026-03-01 06:21:30",
+        "sentiment_score": -0.13601714372634888
+    },
+    {
+        "title": "Alauda Ruiz de Azúa: «Ha sido incómodo que la película creciera tanto»",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/03/01/patri-kFR--366x256@RC.jpg",
+        "tags": [
+            "premios goya",
+            "patricia lópez arnaiz",
+            "alauda ruiz de azúa"
+        ],
+        "link": "https://www.elcorreo.com/pantallas/premios-goya/nunca-vivido-pelicula-creciera-poco-incomodo-20260301065025-ntrc.html",
+        "date": "2026-03-01 06:17:18",
+        "sentiment_score": 0.7845536768436432
+    },
+    {
+        "title": "«Nunca había vivido una película que creciera tanto y ha sido un poco incómodo»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/01/alaudita-k0PG-U20963945060Sz-1200x840@RC.jpg",
+        "tags": [
+            "premios goya",
+            "alauda ruiz de azúa"
+        ],
+        "link": "https://www.leonoticias.com/pantallas/premios-goya/nunca-vivido-pelicula-creciera-poco-incomodo-20260301065025-ntrc.html",
+        "date": "2026-03-01 06:17:18",
+        "sentiment_score": 0.7845536768436432
     }
 ];
