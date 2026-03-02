@@ -1,505 +1,5 @@
 export default [
     {
-        "title": "VÍDEO | Asencio, trasladado al hospital tras el golpe con Camavinga que le retiró en camilla",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/25/image-b2d03492-b971-4a6d-b03e-ebdfe5780d28-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "champions league 2025/2026"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/asencio-da-susto-retira-camilla-traslado-hospital-sufrir-tremendo-golpe-camavinga_sto23275440/story.shtml",
-        "date": "2026-02-25 22:42:36",
-        "sentiment_score": -0.9247189732268453
-    },
-    {
-        "title": "Vinicius evita un sofoco al Real Madrid, a octavos sin alardes",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/25/vinicius-realmadrid-benfica-k5t-U20858928415G3F-1200x840@RC.jpg",
-        "tags": [
-            "jose mourinho",
-            "thibaut courtois",
-            "vinícius",
-            "real madrid",
-            "champions league"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-campeones/cronica-realmadrid-benfica-champions-playoff-20260225114456-ntrc.html",
-        "date": "2026-02-25 22:36:58",
-        "sentiment_score": -0.15843531489372253
-    },
-    {
-        "title": "El periodo de baja para Mbappé y el tiempo que le queda al resto de lesionados",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/25/699f4f9345704.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/posible-periodo-baja-kylian-mbappe-le-queda-resto-lesionados-volver-jugar-20260225_3315411.html",
-        "date": "2026-02-25 22:36:28",
-        "sentiment_score": -0.08208763599395752
-    },
-    {
-        "title": "El análisis de Sanchís de la clasificación del Real Madrid en Champions: \"Nos da para el Benfica pero no nos da para lo que viene por delante\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/25/699f767c1fb2e.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/analisis-sanchis-clasificacion-real-madrid-champions-da-benfica-no-da-viene-delante-20260225_3315410.html",
-        "date": "2026-02-25 22:29:09",
-        "sentiment_score": -0.06788969039916992
-    },
-    {
-        "title": "Con agónico penal, Atalanta fulmina a Dortmund y avanza a octavos en la Champions",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/34b32e2/2147483647/strip/true/crop/4134x2170+0+293/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F61%2Fdf%2Ff25d295f40839ecf4bbeb9cbc003%2Fa62c69064efd4dbfa8089b66efd44bd3.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-25/con-agonico-penal-atalanta-fulmina-dortmund-y-avanza-octavos-en-la-champions",
-        "date": "2026-02-25 22:29:02",
-        "sentiment_score": 0.34626326709985733
-    },
-    {
-        "title": "Vinícius decide para un Real Madrid sin alardes",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/87092628-e581-4b61-895945eac5e720d3.jpg",
-        "tags": [
-            "manchester city",
-            "kylian mbappé",
-            "álvaro arbeloa",
-            "santiago bernabéu",
-            "champions league",
-            "thibaut courtois",
-            "benfica",
-            "fede valverde",
-            "real madrid",
-            "aurélien tchouaméni",
-            "vinícius júnior"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z1405c4a9-1060-4ad1-865012bca9e47e81/202602/vinicius-decide-para-un-real-madrid-sin-alardes",
-        "date": "2026-02-25 22:27:17",
-        "sentiment_score": 0.6880709640681744
-    },
-    {
-        "title": "Vinicius vuelve a bailar ante el Benfica: salva al Real Madrid y provoca a Mourinho en el Bernabéu",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/25/culemania/real-madrid/1003742736214_15759562_1706x960.jpg",
-        "tags": [
-            "vinicius",
-            "real madrid"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260225/vinicius-benfica-real-madrid-provoca-mourinho-bernabeu/1003742736194_0.html",
-        "date": "2026-02-25 22:27:01",
-        "sentiment_score": -0.24183733761310577
-    },
-    {
-        "title": "Alfredo Relaño enfría la euforia en el Real Madrid: la alegría por la recuperación de Vinicius y la preocupación porque \"el equipo no funciona\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/alfredo-relano-enfria-euforia-real-madrid-alegria-recuperacion-vinicius-preocupacion-equipo-no-funciona-20260225_3315413.html",
-        "date": "2026-02-25 22:26:52",
-        "sentiment_score": -0.10963593423366547
-    },
-    {
-        "title": "Gente de Zona anuncia su primera gira en España con once fechas",
-        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2026/02/Gente-zona.jpg",
-        "tags": [
-            "farándula"
-        ],
-        "link": "https://elsiglo.com.ve/gente-de-zona-anuncia-su-primera-gira-en-espana-con-once-fechas/",
-        "date": "2026-02-25 22:38:04",
-        "sentiment_score": 0.14095493406057358
-    },
-    {
-        "title": "\"Ya no hay excusa\": Sindicatos de Anzoátegui protestaron por aumento salarial",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-25-at-2.54.32-PM.jpeg",
-        "tags": [
-            "regiones",
-            "actualidad",
-            "denuncias región oriental",
-            "aumento salarial",
-            "anzoátegui",
-            "sindicatos",
-            "región oriental"
-        ],
-        "link": "https://lapatilla.com/2026/02/25/ya-no-hay-excusa-sindicatos-de-anzoategui-protestaron-por-aumento-salarial/",
-        "date": "2026-02-25 22:37:55",
-        "sentiment_score": -0.04805369675159454
-    },
-    {
-        "title": "Los pasajeros de cruceros aumentan en un 48,2% en tan solo un año en Almería",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/02/26/Imagen%2024.05.13.CruceroMSSirenaOceaniaCruisesPuertodeAlmer%C3%ADa-R1Vz5SV4s3u7ym9pwRo9htJ-1200x840@Ideal.jpg",
-        "tags": [
-            "cruceros",
-            "almería",
-            "puerto de almería"
-        ],
-        "link": "https://www.ideal.es/almeria/almeria/pasajeros-cruceros-aumentan-482-solo-ano-almeria-20260226205136-nt.html",
-        "date": "2026-02-25 22:32:27",
-        "sentiment_score": 0.16695790365338326
-    },
-    {
-        "title": "Abandono en la Policía Local de Montgat: servicios de un solo agente y seguridad en manos del 112",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/18/gran-barcelona/1003742733730_15731150_1706x960.jpg",
-        "tags": [
-            "delincuencia",
-            "seguridad",
-            "montgat",
-            "gran barcelona",
-            "guardia urbana"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260225/abandono-policia-local-montgat-servicios-solo-agente-seguridad-manos/1003742731548_0.html",
-        "date": "2026-02-25 22:30:00",
-        "sentiment_score": -0.9042231990024447
-    },
-    {
-        "title": "Julián, el vendedor de la ONCE que repartió 1,5 millones en Barcelona: \"No sé a quién le ha tocado, pero un premio así revoluciona el barrio\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/25/vivir-en-barcelona/1003742736011_15757121_1706x960.jpg",
-        "tags": [
-            "vivir",
-            "barcelona",
-            "premios",
-            "vivir en barcelona",
-            "lotería"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260225/julian-vendedor-once-repartio-millones-barcelona-no-tocado-premio-revoluciona-barrio/1003742735958_0.html",
-        "date": "2026-02-25 22:30:00",
-        "sentiment_score": 0.6320081651210785
-    },
-    {
-        "title": "Fechas y horarios de las semifinales de la Copa del Rey 2026 por Meridiano",
-        "image_url": "https://pxcdn.meridiano.net/022026/1772058141977.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "sports"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/fechas-y-horarios-de-las-semifinales-de-la-copa-del-rey-2026-por-meridiano-202622518250",
-        "date": "2026-02-25 22:25:00",
-        "sentiment_score": 0.11138489097356796
-    },
-    {
-        "title": "La vuelta de Mourinho al Bernabéu 4.651 después se quedó en el autobús",
-        "image_url": "https://cflvdg.avoz.es/sc/votgrlBflQ4eBuJHIOjjHswSld8=/768x/2026/02/25/00121772057401650411856/Foto/eup_20260218_163926031.jpg",
-        "tags": [
-            "deportes",
-            "mourinho",
-            "champions league"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/02/25/vuelta-mourinho-bernabeu-4651-despues-quedo-autobus/00031772057686327694892.htm",
-        "date": "2026-02-25 22:16:00",
-        "sentiment_score": -0.24691389501094818
-    },
-    {
-        "title": "Las dos estrellas del Barça de basket que brillan en la oscuridad pero se apagan en el minuto decisivo: derrota para Xavi Pascual",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/25/culemania/secciones/1003742736213_15759541_1706x960.jpg",
-        "tags": [
-            "kevin punter",
-            "fcb basket",
-            "xavi pascual",
-            "secciones"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260225/estrellas-barca-brillan-oscuridad-decisivo-xavi-pascual/1003742736197_0.html",
-        "date": "2026-02-25 22:06:58",
-        "sentiment_score": 0.7482122480869293
-    },
-    {
-        "title": "Dónde ha caído el bote de 3,3 millones de euros de la Bonoloto y el premio del Cupón Diario y Súper Once de hoy, miércoles 25 de febrero de 2026",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2021/12/17/408B5BA4-CC10-4B44-BF85-5BA300D9F6EC/98.jpg?crop=4953%2C2787%2Cx0%2Cy265&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "loterías"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/donde-caido-bote-33-millones-euros-bonoloto-premio-cupon-diario-super-once-hoy-miercoles-25-febrero-2026_20260225699f71c71817b41eb6634f17.html",
-        "date": "2026-02-25 22:03:51",
-        "sentiment_score": 0.08556190691888332
-    },
-    {
-        "title": "Un boleto de la Bonoloto vendido en Gran Canaria roza los 40.000 euros de premio",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/18fcf8a9-77a5-4bb3-831b-0a16e2103a86_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "loterías",
-            "loterías en canarias",
-            "loterías y apuestas del estado",
-            "sorteos"
-        ],
-        "link": "https://www.laprovincia.es/gran-canaria/2026/02/25/bonoloto-toca-gran-canaria-127279322.html",
-        "date": "2026-02-25 22:01:11",
-        "sentiment_score": 0.1629146933555603
-    },
-    {
-        "title": "Real Madrid a octavos de la Champions: Vinicius liquidó al Benfica en noche de lesiones",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias24carabobo",
-            "noticias hoy",
-            "champions",
-            "noticias de venezuela",
-            "noticias 24",
-            "noticias de carabobo",
-            "champions league",
-            "noticias de valencia",
-            "news",
-            "noticias de sucesos",
-            "noticias24carabobo en google news",
-            "deportes",
-            "noticias 24 horas carabobo",
-            "noticias de hoy valencia",
-            "portada",
-            "real madrid clasificó",
-            "real madrid clasifica a octavos"
-        ],
-        "link": "https://noticias24carabobo.com/real-madrid-clasifica-octavos-champions-league/",
-        "date": "2026-02-26 02:37:40",
-        "sentiment_score": 0.3161168098449707
-    },
-    {
-        "title": "Recordando a Fernando Múgica en la Puerta del Sol",
-        "image_url": "https://s1.staticld.com/2026/02/25/homenaje-fernandomujica-250226.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/opinion/2026-02-26/pedro-gil-ruiz-recordando-a-fernando-mugica-en-la-puerta-del-sol-7365284/",
-        "date": "2026-02-26 02:37:40",
-        "sentiment_score": -0.689413508400321
-    },
-    {
-        "title": "El Consejo de Estado tumba la propaganda del Gobierno: blindar el aborto exigiría disolver las Cortes",
-        "image_url": "https://s1.staticld.com/2026/02/25/felix-bolanos-congreso.jpg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.libertaddigital.com/espana/politica/2026-02-26/el-consejo-de-estado-tumba-la-propaganda-del-gobierno-blindar-el-aborto-exigiria-disolver-las-cortes-7365328/",
-        "date": "2026-02-26 02:32:31",
-        "sentiment_score": -0.6570045873522758
-    },
-    {
-        "title": "Agenda: qué hacer hoy jueves, 26 de febrero en Asturias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7002485f-e3da-4b37-8a45-83130902c2d2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "asturias",
-            "ocio",
-            "casa de cultura",
-            "proyecto",
-            "exposición"
-        ],
-        "link": "https://www.lne.es/asturias/2026/02/26/agenda-hoy-jueves-26-febrero-127273578.html",
-        "date": "2026-02-26 02:31:38",
-        "sentiment_score": -0.17373964935541153
-    },
-    {
-        "title": "Tejero muere el día que el dosier del 23-F revela que un \"Ejército de maricones\", según su mujer, lo dejó \"tirado como una colilla\"",
-        "image_url": "https://s3.elespanol.com/2026/02/25/actualidad/1003744146216_261632604_1706x960.jpg",
-        "tags": [
-            "cesid",
-            "tribunales",
-            "alfonso armada",
-            "golpe de estado",
-            "antonio tejero",
-            "juan carlos i",
-            "23-f",
-            "jaime milans del bosch"
-        ],
-        "link": "https://www.elespanol.com/espana/tribunales/20260226/tejero-muere-dia-dosier-revela-ejercito-maricones-mujer-dejo-tirado-colilla/1003744146129_0.html",
-        "date": "2026-02-26 01:45:36",
-        "sentiment_score": -0.46874141693115234
-    },
-    {
-        "title": "Cristiano Ronaldo anotó su gol 965 y lo celebró con un festejo inédito: el dardo detrás del gesto",
-        "image_url": "https://www.infobae.com/resizer/v2/2C77PTXJZ5FRXNDEJJB5DBYIVM.jfif?auth=8d7c8d9c6b205233cf2a1ba83792cfaac3b7b65131100903b4af81f10348abe7&height=1523&smart=true&width=2880",
-        "tags": [
-            "deportes-internacional",
-            "al najma sc",
-            "cristiano ronaldo",
-            "deportes-argentina",
-            "al nassr",
-            "saudi pro league"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/02/26/cristiano-ronaldo-anoto-su-gol-965-y-lo-celebro-con-un-festejo-inedito-el-dardo-detras-del-gesto/",
-        "date": "2026-02-26 01:41:43",
-        "sentiment_score": 0.4319429323077202
-    },
-    {
-        "title": "Richard Ríos destacó en Benfica, pero no pudo evitar la eliminación ante Real Madrid en la Champions League",
-        "image_url": "https://www.infobae.com/resizer/v2/LJV233ZLZVFUHKG6UOZEAE55NA.jpg?auth=498bed3abd9f2ac99e923f272206c69677ebe85dad6a3496ce88684e57e5ca4d&height=540&smart=true&width=960",
-        "tags": [
-            "colombia-deportes",
-            "benfica",
-            "real madrid",
-            "champions league",
-            "richard ríos"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/26/richard-rios-destaco-en-benfica-pero-no-pudo-evitar-la-eliminacion-ante-real-madrid-en-la-champions-league/",
-        "date": "2026-02-26 00:59:07",
-        "sentiment_score": 0.7495904210954905
-    },
-    {
-        "title": "Liga de Campeones: Real Madrid, PSG y Galatasaray pasan a octavos de final",
-        "image_url": "https://noticiasaldiayalahora.co/wp-content/uploads/2026/02/Real-Madrid-777x437.webp",
-        "tags": [
-            "galatasaray",
-            "deportes",
-            "liga de campeones",
-            "real madrid",
-            "psg"
-        ],
-        "link": "https://noticiasaldiayalahora.co/deportes/liga-de-campeones-real-madrid-psg-y-galatasaray-pasan-a-otavos-de-final/",
-        "date": "2026-02-26 00:35:06",
-        "sentiment_score": 0.061993226408958435
-    },
-    {
-        "title": "Champions League: Estos son los posibles rivales del Real Madrid en octavos",
-        "image_url": "https://pxcdn.meridiano.net/022026/1772065998463.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/champions-league-estos-son-los-posibles-rivales-del-real-madrid-en-octavos-202622520330",
-        "date": "2026-02-26 00:33:00",
-        "sentiment_score": 0.22912247851490974
-    },
-    {
-        "title": "25 FEB 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/25-feb-2026-partidazo-cope-20260226_3315439.html",
-        "date": "2026-02-26 00:32:59",
-        "sentiment_score": 0.5232305750250816
-    },
-    {
-        "title": "Prepárate antes de salir: conoce el pronóstico del clima en Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima",
-            "clima en barcelona",
-            "últimas actualizaciones",
-            "clima en españa"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/26/preparate-antes-de-salir-conoce-el-pronostico-del-clima-en-barcelona/",
-        "date": "2026-02-26 02:00:53",
-        "sentiment_score": -0.05413059890270233
-    },
-    {
-        "title": "Desde Navia al mapa de la arquitectura sostenible: el crecimiento de Benito Sistemas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6168eabf-fc9e-416f-9772-e3b8e5feab17_16-9-aspect-ratio_default_0_x480y213.jpg",
-        "tags": [
-            "madrid",
-            "crecimiento",
-            "arquitectura",
-            "edificios"
-        ],
-        "link": "https://www.lne.es/occidente/2026/02/26/navia-mapa-arquitectura-sostenible-crecimiento-127251798.html",
-        "date": "2026-02-26 02:00:03",
-        "sentiment_score": 0.4092244654893875
-    },
-    {
-        "title": "Robert Massanet, director de Sutton: \"Tras 25 años, no competimos con discotecas de Barcelona, sino con las del mundo\"",
-        "image_url": "https://s3.elespanol.com/2026/02/25/actualidad/1003744145194_261619207_1706x960.jpg",
-        "tags": [
-            "barcelona",
-            "discotecas",
-            "sociedad",
-            "empresarios"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20260226/robert-massanet-director-sutton-anos-no-competimos-discotecas-barcelona-mundo/1003744145078_0.html",
-        "date": "2026-02-26 02:00:00",
-        "sentiment_score": 0.4892859570682049
-    },
-    {
-        "title": "La actriz Loles León reivindica la actividad sexual a todas las edades en ‘La Revuelta’: “Se tiene que probar de todo”",
-        "image_url": "https://www.infobae.com/resizer/v2/37QPAUGVHRCC7CNI6RXPZGSZSU.jpg?auth=bf12d21678a064f856a43bc909ef3d0c706f0da7b3ab299c8d371e830e6efe65&height=1080&smart=true&width=1920",
-        "tags": [
-            "gente españa",
-            "david broncano",
-            "españa televisión",
-            "españa-noticias",
-            "la revuelta",
-            "españa-entretenimiento",
-            "sexo",
-            "rtve",
-            "famosos españa"
-        ],
-        "link": "https://www.infobae.com/espana/2026/02/26/la-actriz-loles-leon-reivindica-la-actividad-sexual-a-todas-las-edades-en-la-revuelta-se-tiene-que-probar-de-todo/",
-        "date": "2026-02-26 01:42:49",
-        "sentiment_score": 0.16448295302689075
-    },
-    {
-        "title": "Ryanair consuma su ‘trampa’: aumenta su tráfico en España un 4,1% pese a los recortes de 1,8 millones de plazas en 2025",
-        "image_url": "https://s3.elespanol.com/2025/10/08/actualidad/1003743960778_259251951_1706x960.jpg",
-        "tags": [
-            "ryanair",
-            "turismo"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/turismo/20260226/ryanair-consuma-trampa-aumenta-trafico-espana-pese-recortes-millones-plazas/1003744145301_0.html",
-        "date": "2026-02-26 01:22:44",
-        "sentiment_score": -0.8122994098812342
-    },
-    {
-        "title": "Loles León anuncia en ‘La Revuelta’ sus nuevos proyectos: un show de sexo en La 2 y un musical por los ‘prides’ de España",
-        "image_url": "https://www.infobae.com/resizer/v2/JSZRLP5255H2XKQTIVGY3R6XYM.jpg?auth=f91d309200f4636f88f5279a5251ff8399c2b46360a78b11cfe5200ef1f381df&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-entretenimiento",
-            "españa televisión",
-            "españa-noticias",
-            "rtve",
-            "famosos españa",
-            "gente españa",
-            "la revuelta",
-            "david broncano"
-        ],
-        "link": "https://www.infobae.com/espana/viajes/2026/02/26/loles-leon-anuncia-en-la-revuelta-sus-nuevos-proyectos-un-show-de-sexo-en-la-2-y-un-tour-por-los-prides-de-espana/",
-        "date": "2026-02-26 01:00:45",
-        "sentiment_score": 0.22271809726953506
-    },
-    {
-        "title": "Entrevista a Ferran Olivé, ex tesorero del Barça: \"Estamos a 12 millones de la regla 1:1 y podremos fichar un '9' en verano\"",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/26/culemania/palco/1003742736219_15759681_1706x960.jpg",
-        "tags": [
-            "fair play de la liga",
-            "palco",
-            "ferran olivé",
-            "joan laporta",
-            "elecciones barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260226/entrevista-ferran-olive-tesorero-barca-millones-podremos/1003742736184_0.html",
-        "date": "2026-02-26 00:28:14",
-        "sentiment_score": -0.3450821191072464
-    },
-    {
-        "title": "Víctor Méndez: \"El narcotráfico es parte del paisaje\"",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2026/02/26/2026022601095858443.jpg",
-        "tags": [
-            "pontevedra"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/pontevedra/victor-mendez-narcotrafico-es-parte-paisaje/202602260118011435200.html",
-        "date": "2026-02-26 00:18:01",
-        "sentiment_score": -0.4188735745847225
-    },
-    {
-        "title": "Sorteo de la Champions League: el camino definitivo a la final se define este viernes",
-        "image_url": "https://pxcdn.2001online.com/2001/022026/1772065942166/tottenham-hotspur-v-arsenal-premier-league.jpg?ch=675&cw=1200",
-        "tags": [
-            "uefa champions league",
-            "real madrid",
-            "champions",
-            "fc barcelona",
-            "sorteo de la uefa champions league"
-        ],
-        "link": "https://2001online.com/deportes/sorteo-de-la-champions-league-el-camino-definitivo-a-la-final-se-define-este-viernes-202622520450",
-        "date": "2026-02-26 00:06:13",
-        "sentiment_score": 0.07330481708049774
-    },
-    {
-        "title": "Amira y King Street aspiran a duplicar su plataforma de residencias de estudiantes",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/2b055bf68a631657d9340fafd3c5adbf/crop/260x208/1641x1129/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/25/17720435680647.jpg",
-        "tags": [
-            "empresas>",
-            "inmobiliario y construcción>",
-            "mercado inmobiliario>",
-            "artículos rebeca arroyo>"
-        ],
-        "link": "https://www.expansion.com/inmobiliario/mercado/2026/02/26/699f3d9a468aebb7028b457a.html",
-        "date": "2026-02-25 23:55:49",
-        "sentiment_score": 0.4260524921119213
-    },
-    {
         "title": "Al CB Canarias se le cierra una puerta para un posible refuerzo",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cd671f57-77e7-4532-bf97-ff9df2a1b47f_16-9-discover-aspect-ratio_default_0_x900y399.jpg",
         "tags": [
@@ -3090,5 +2590,257 @@ export default [
         "link": "https://www.leonoticias.com/pantallas/premios-goya/nunca-vivido-pelicula-creciera-poco-incomodo-20260301065025-ntrc.html",
         "date": "2026-03-01 06:17:18",
         "sentiment_score": 0.7845536768436432
+    },
+    {
+        "title": "Tras abrir un vacío, no hay garantía de que a EE.UU. e Israel les guste lo que viene después",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/5a/media_thumb-link-4151935.webp?1772354826=",
+        "tags": [
+            "guerra",
+            "irán",
+            "israel",
+            "actualidad",
+            "eeuu"
+        ],
+        "link": "https://www.meneame.net/story/tras-abrir-vacio-no-hay-garantia-ee-uu-israel-les-guste-viene",
+        "date": "2026-03-01 10:05:03",
+        "sentiment_score": 0.1546807885169983
+    },
+    {
+        "title": "Mientras estés fuera de casa estas son las dos opciones que debes desactivar para evitar ciberataques",
+        "image_url": "https://www.infobae.com/resizer/v2/IGLSH5NERZCCHLAMJ3U52FS3KU.png?auth=e89774fe71ba56b0aa8d17a8e8a3aec93e7b2388092a7d7609d961117fa650fa&height=768&smart=true&width=1408",
+        "tags": [
+            "teléfono",
+            "tecnología-noticias",
+            "lugares públicos",
+            "lo último en tecnología",
+            "datos personales",
+            "casa",
+            "ciberataques"
+        ],
+        "link": "https://www.infobae.com/tecno/2026/03/01/mientras-estes-fuera-de-casa-estas-son-las-dos-opciones-que-debes-desactivar-para-evitar-ciberataques/",
+        "date": "2026-03-01 17:33:05",
+        "sentiment_score": 0.013175278902053833
+    },
+    {
+        "title": "Lamine Yamal resurge en el Barça tras meses de frustración silenciosa",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/22/2025112220022723599.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/lamine-yamal-resurge-barca-meses-frustracion-silenciosa/20260301182509376833.html",
+        "date": "2026-03-01 17:25:09",
+        "sentiment_score": -0.6115434095263481
+    },
+    {
+        "title": "Real Madrid - Getafe: horario y dónde ver por TV la jornada 26 de Liga",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/10/20/68f6488379f4d.r_d.859-432.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20260301/real-madrid-getafe-horario-donde-ver-tv-jornada-26-liga_390864.html",
+        "date": "2026-03-01 17:25:05",
+        "sentiment_score": 0.024813968688249588
+    },
+    {
+        "title": "Sin noticias de Ruiz de Galarreta",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/58d6437f-f34c-40eb-8d54-780ea9f41f0a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "noticias",
+            "galarreta",
+            "ruiz"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/03/01/noticias-ruiz-galarreta-10764245.html",
+        "date": "2026-03-01 17:18:57",
+        "sentiment_score": -0.5911302864551544
+    },
+    {
+        "title": "Un colectivo de feministas católicas se concentra en Coia para pedir igualdad en la institución eclesiástica",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bbc90cd8-90d9-4a22-a8ab-3336a18731bc_16-9-aspect-ratio_default_0_x400y177.jpg",
+        "tags": [
+            "feministas",
+            "coia",
+            "cristo de la victoria",
+            "mujeres",
+            "iglesia"
+        ],
+        "link": "https://www.farodevigo.es/gran-vigo/2026/03/01/colectivo-feministas-catolicas-concentra-coia-127422395.html",
+        "date": "2026-03-01 17:18:48",
+        "sentiment_score": -0.7257084213197231
+    },
+    {
+        "title": "Un penalti destroza las ilusiones de Osasuna en Valencia y le aleja de la zona europea",
+        "image_url": "https://navarra.okdiario.com/media/navarra/images/2026/03/01/2026030118034627500.jpg",
+        "tags": [
+            "osasuna"
+        ],
+        "link": "https://navarra.okdiario.com/articulo/osasuna/cronica-partido-futbol-valencia-osasuna-estadio-mestalla/20260301181709634777.html",
+        "date": "2026-03-01 17:17:09",
+        "sentiment_score": -0.009830363094806671
+    },
+    {
+        "title": "En 1962 el empresario Antonio Molina abrió la primera tienda especializada en deportes",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/files/fp/uploads/2026/03/01/69a3ea280a420.r_d.744-953-8409.jpeg",
+        "tags": [
+            "tal como éramos"
+        ],
+        "link": "https://www.lavozdealmeria.com/almeria/tal-como-eramos/477009/1962-empresario-antonio-molina-abrio-primera-tienda-especializada-deportes.html",
+        "date": "2026-03-01 16:58:16",
+        "sentiment_score": 0.6331944689154625
+    },
+    {
+        "title": "La dura realidad de Ricardo Arroyo, Vicente Maroto en 'La que se avecina', tras dos años ingresado en una residencia: \"Nadie se acuerda de ti\"",
+        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/uploads/2026/02/26/69a039e6685fb.jpeg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.cadena100.es/television/noticias/dura-realidad-ricardo-arroyo-vicente-maroto-avecina-dos-anos-ingresado-residencia-nadie-acuerda-ti-20260301_146659.html",
+        "date": "2026-03-01 16:56:00",
+        "sentiment_score": -0.07405167818069458
+    },
+    {
+        "title": "El desafío de Madre Coraje que invita a repensar la moda: las 10 prendas que marcan la diferencia",
+        "image_url": "https://navarra.okdiario.com/media/navarra/images/2025/09/29/2025092917010873859.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://navarra.okdiario.com/articulo/sociedad/reto-madre-coraje-que-busca-replantear-tus-compras-moda-10-prendas-que-marcan-diferencia/20260301175424634787.html",
+        "date": "2026-03-01 16:54:24",
+        "sentiment_score": 0.22679889388382435
+    },
+    {
+        "title": "El Gobierno de Castilla-La Mancha conmemorará el Día Internacional de las Mujeres con más de 300 actividades en la provincia de Ciudad Real",
+        "image_url": "https://www.lacerca.com/imagenes/api_seo_43_thumb/0e954c7b59e0a2e5b687ec1594fd0b79.jpg",
+        "tags": [
+            "castilla-la mancha",
+            "noticias"
+        ],
+        "link": "https://www.lacerca.com/noticias/castilla_la_mancha/gobierno-dia-internacional-mujeres-actividades-provincia-ciudad-real-803996-1.html",
+        "date": "2026-03-01 16:49:00",
+        "sentiment_score": 0.11344636976718903
+    },
+    {
+        "title": "Los Mossos presentan la 'Sala del Futur' en el MWC 2026",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/03/06/sucesos/929167256_14224294_1706x960.jpg",
+        "tags": [
+            "mossos d'esquadra",
+            "mwc",
+            "seguridad",
+            "vivir en barcelona",
+            "sucesos"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260301/mossos-presentan-sala-futur-mwc/1003742737279_0.html",
+        "date": "2026-03-01 17:43:55",
+        "sentiment_score": 0.48194489628076553
+    },
+    {
+        "title": "Un herido grave en el incendio de un bloque de pisos de Viladecans",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0ca7193b-d877-4f5a-b0f6-c84bb2172f6e_alta-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "bomberos",
+            "vecinos",
+            "barcelona",
+            "viladecans"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/viladecans/20260301/herido-grave-incendio-bloque-pisos-viladecans-barcelona-127424767",
+        "date": "2026-03-01 17:43:01",
+        "sentiment_score": -0.8276573112234473
+    },
+    {
+        "title": "Muere a los 97 años Fernando Tapia, expresidente de la Audiencia Provincial",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/03/01/101460396-RJMFc7UUoDCq6WdiL3yar1H-1200x840@Ideal.JPEG",
+        "tags": [
+            "alhama de granada",
+            "gérgal",
+            "escúzar",
+            "valle de lecrín",
+            "andalucía",
+            "granada",
+            "colegio de abogados de granada",
+            "jaén"
+        ],
+        "link": "https://www.ideal.es/granada/muere-anos-fernando-tapia-expresidente-audiencia-provincial-20260301183708-nt.html",
+        "date": "2026-03-01 17:37:15",
+        "sentiment_score": 0.8604418989270926
+    },
+    {
+        "title": "El pueblo costero de Catalunya donde nació Bad Gyal: playas, naturaleza y a solo 30 minutos de Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6e1ba5ea-2a70-4902-8d96-827ed85bbfd7_alta-libre-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "flores",
+            "radio",
+            "arquitectura",
+            "barcelona",
+            "documentales",
+            "maresme",
+            "museos",
+            "catalán",
+            "modernismo",
+            "bad gyal",
+            "pesca",
+            "playas",
+            "el señor de los anillos",
+            "vilassar de mar",
+            "gastronomía",
+            "actores"
+        ],
+        "link": "https://www.elperiodico.com/es/catalunya/20260301/pueblo-cataluna-bad-gyal-barcelona-vilassar-de-mar-cerca-dv-127246758",
+        "date": "2026-03-01 17:35:45",
+        "sentiment_score": 0.7918514981865883
+    },
+    {
+        "title": "Una pareja de catalanes se queda atrapada en Tailandia tras suspenderse la conexión vía Qatar: \"El vuelo se ha cancelado, espabilad\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a6f264c8-9869-4277-aa08-6d4701028a60_alta-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "bangkok"
+        ],
+        "link": "https://www.elperiodico.com/es/internacional/20260301/pareja-catalanes-atrapada-tailandia-vuelos-cancelados-qatar-127424238",
+        "date": "2026-03-01 17:33:53",
+        "sentiment_score": -0.8228013394400477
+    },
+    {
+        "title": "Celebración de San Medir en Barcelona: la fiesta que convierte habas en caramelos",
+        "image_url": "https://okdiario.com/img/2026/03/01/sant_medir_gracia1_a.jpg",
+        "tags": [
+            "españa",
+            "cataluña"
+        ],
+        "link": "https://okdiario.com/cataluna/celebracion-san-medir-barcelona-fiesta-que-convierte-habas-caramelos-16329831",
+        "date": "2026-03-01 17:30:26",
+        "sentiment_score": 0.28250516951084137
+    },
+    {
+        "title": "Del Castillo de Santa Bárbara a los Goya: Alicante se cuela entre los premiados",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bea9b543-7c8b-436f-881e-c9082a3a81e7_16-9-aspect-ratio_default_0_x680y256.jpg",
+        "tags": [
+            "cultura",
+            "premios",
+            "goya",
+            "castillo de santa bárbara",
+            "valenciano"
+        ],
+        "link": "https://www.informacion.es/cultura/2026/03/01/castillo-santa-barbara-goya-alicante-127422260.html",
+        "date": "2026-03-01 17:24:50",
+        "sentiment_score": 0.1334134265780449
+    },
+    {
+        "title": "Los bomberos realizan tres rescates a excursionistas en montañas de Cataluña: uno quedó colgado en un árbol",
+        "image_url": "https://album.mediaset.es/eimg/2026/03/01/los-bomberos-realizan-tres-rescates-a-excursionistas-en-montanas-de-cataluna-uno-quedo-colgado-en-un_7f47.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20260301/tres-rescates-excursionistas-montanas-catalanas-uno-quedo-colgado-arbol_18_018490073.html",
+        "date": "2026-03-01 17:20:05",
+        "sentiment_score": -0.5578063409775496
+    },
+    {
+        "title": "Semana Deportiva: La Vinotinto Femenina no pudo con Brasil",
+        "image_url": "https://static.wixstatic.com/media/335561_1cec7aa555f8406297ca9f87bbfcf3c5~mv2.png/v1/fit/w_515,h_367,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/semana-deportiva-la-vinotinto-femenina-no-pudo-con-brasil",
+        "date": "2026-03-01 12:36:23",
+        "sentiment_score": 0.042245857417583466
     }
 ];
