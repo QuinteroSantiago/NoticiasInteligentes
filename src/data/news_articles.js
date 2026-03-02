@@ -1,19 +1,5 @@
 export default [
     {
-        "title": "EE.UU. enfurece al mundo árabe: «Israel podría reclamar la mayor parte de Oriente Próximo»",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/56/media_thumb-link-4150963.webp?1772094726=",
-        "tags": [
-            "actualidad",
-            "embajador ee.uu",
-            "e.uu.",
-            "mundo árabe",
-            "israel"
-        ],
-        "link": "https://www.meneame.net/story/ee-uu-enfurece-mundo-arabe-israel-podria-reclamar-mayor-parte",
-        "date": "2026-02-26 11:55:04",
-        "sentiment_score": -0.32562971115112305
-    },
-    {
         "title": "El Consultorio de Pedro Martín (Semana del 21 al 26 de febrero)",
         "image_url": "https://imagenes.cope.es/files/og_thumbnail/images/default.jpg",
         "tags": [
@@ -2878,5 +2864,237 @@ export default [
         "link": "https://www.ideal.es/almeria/almeria/enclaustrada-horas-dia-20260302230915-nt.html",
         "date": "2026-03-01 22:09:20",
         "sentiment_score": -0.8180966135114431
+    },
+    {
+        "title": "Infantino sugiere expulsar a jugadores por taparse la boca en una confrontación",
+        "image_url": "https://dims.apnews.com/dims4/default/e9048d3/2147483647/strip/true/crop/3502x2331+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3d%2F92%2Fe7c8f15e5fc99ec8a5fa6af502a7%2Fa3f5fbd5035f4206b2b38cb091e53a92",
+        "tags": [
+            "sports",
+            "infantino insultos racistas fifa expulsion taparse boca",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/infantino-insultos-racistas-fifa-expulsion-taparse-boca-dd857bf6d9d440a3890ac7db04e81ac2",
+        "date": "2026-03-02 02:06:09",
+        "sentiment_score": 0.14019492268562317
+    },
+    {
+        "title": "Infantino sugiere expulsar a jugadores por taparse la boca en una confrontación",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/03/INFANTINO-VINICIUS_26029.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2026/03/01/infantino-sugiere-expulsar-a-jugadores-por-taparse-la-boca-en-una-confrontacin/",
+        "date": "2026-03-02 02:06:08",
+        "sentiment_score": 0.07146619260311127
+    },
+    {
+        "title": "La reorganización de la seguridad pública en 1852",
+        "image_url": "https://static.grupojoly.com/clip/b2219456-d67c-47fc-8d2d-658edc5e475f_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/algeciras/reorganizacion-seguridad-publica-1852_0_2006004246.html",
+        "date": "2026-03-02 01:45:12",
+        "sentiment_score": -0.5713098272681236
+    },
+    {
+        "title": "El presidente de la Fifa pidió el castigo máximo para los futbolistas que se tapen la boca al hablar",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/Gianluca-Prestianni-Benfica.jpg",
+        "tags": [
+            "deportes",
+            "racismo",
+            "titulares",
+            "futbol",
+            "fifa",
+            "gianni infantino"
+        ],
+        "link": "https://lapatilla.com/2026/03/01/el-presidente-de-la-fifa-pidio-el-castigo-maximo-para-los-futbolistas-que-se-tapen-la-boca-al-hablar/",
+        "date": "2026-03-02 01:24:54",
+        "sentiment_score": -0.3580446057021618
+    },
+    {
+        "title": "Marsella vs. Lyon: Endrick asiste y deslumbra, pero Aubameyang decide el duelo",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/25/2026012519570028755.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/marsella-vs-lyon-endrick-asiste-deslumbra-aubameyang-decide-duelo/20260302021257376908.html",
+        "date": "2026-03-02 01:12:57",
+        "sentiment_score": 0.7102685440331697
+    },
+    {
+        "title": "Iván Castro, CTO de Hijos de Rivera: “Migramos a la nube pública para escalar de forma más ágil y ordenada”",
+        "image_url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744148747_261665927_1706x960.jpg",
+        "tags": [
+            "cios disruptores",
+            "hijos de rivera",
+            "gran empresa",
+            "innovación",
+            "tecnología",
+            "estrella galicia",
+            "industria tecnológica"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20260302/ivan-castro-cto-hijos-rivera-migramos-nube-publica-escalar-forma-agil-ordenada/1003744148098_0.html",
+        "date": "2026-03-02 01:02:14",
+        "sentiment_score": 0.10033643245697021
+    },
+    {
+        "title": "La hazaña de Bras Rodrigo, el gaitero asturiano que traerá a la banda de la Policía de Nueva York a tocar en San Patricio",
+        "image_url": "https://s3.elespanol.com/2026/02/27/madrid/1003744149291_261672885_1706x960.jpg",
+        "tags": [
+            "gran vía",
+            "madrid total",
+            "madrid"
+        ],
+        "link": "https://www.elespanol.com/madrid/20260302/hazana-bras-rodrigo-gaitero-asturiano-traera-banda-policia-nueva-york-tocar-san-patricio/1003744148974_0.html",
+        "date": "2026-03-02 00:50:00",
+        "sentiment_score": 0.12898779660463333
+    },
+    {
+        "title": "El fracaso del test que detectaba 50 tipos de tumores aleja la gran revolución frente al cáncer: no diagnostica antes los casos",
+        "image_url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744149746_261679110_1706x960.jpg",
+        "tags": [
+            "sanidad - tecnología médica",
+            "observatorio de la sanidad",
+            "sanidad"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260302/fracaso-test-detectaba-tipos-tumores-aleja-gran-revolucion-frente-cancer-no-diagnostica-casos/1003744149739_0.html",
+        "date": "2026-03-02 00:37:20",
+        "sentiment_score": -0.7131861504167318
+    },
+    {
+        "title": "El show de Messi en la remontada del Inter Miami ante Orlando City: sus dos primeros golazos oficiales de 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/RYZUZDRML5FNXD3H5ZHYOXRK2I.JPG?auth=0006912c6ec11b86f69d1035425f1ceb1174f0461ba470564be9e737110105e1&height=2075&smart=true&width=3689",
+        "tags": [
+            "mls",
+            "deportes-argentina",
+            "deportes-internacional",
+            "inter miami",
+            "lionel messi",
+            "orlando city"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/02/el-show-de-messi-en-la-remontada-del-inter-miami-ante-orlando-city-sus-dos-primeros-golazos-oficiales-de-2026/",
+        "date": "2026-03-02 02:26:43",
+        "sentiment_score": 0.32793621718883514
+    },
+    {
+        "title": "Biotecnología contra el cáncer: Gyala Therapeutics avala una eficacia preclínica prometedora en leucemias difíciles de tratar",
+        "image_url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744148366_261660806_1706x960.jpg",
+        "tags": [
+            "startups",
+            "hospitales",
+            "cáncer",
+            "startup",
+            "wake up spain",
+            "biotecnología",
+            "investigación científica",
+            "leucemia"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20260302/biotecnologia-cancer-gyala-therapeutics-avala-eficacia-preclinica-prometedora-leucemias-dificiles-tratar/1003744148319_0.html",
+        "date": "2026-03-02 01:14:25",
+        "sentiment_score": -0.31669433414936066
+    },
+    {
+        "title": "Esto es algo parecido a un elogio a Pedro Sánchez",
+        "image_url": "https://static.laregion.es/clip/5445a8b2-ee87-48d7-b468-c595e0e2b4e5_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "premio nobel",
+            "donald trump",
+            "barcelona",
+            "pedro sánchez",
+            "ucrania",
+            "gaza",
+            "premios goya",
+            "casa blanca"
+        ],
+        "link": "https://www.laregion.es/opinion/parecido-elogio-pedro-sanchez_1_20260302-4182328.html",
+        "date": "2026-03-02 01:05:08",
+        "sentiment_score": -0.34793002903461456
+    },
+    {
+        "title": "La pirueta con la que el japonés Ryoga Kida anotó su primer gol en Primera: la peculiar historia del delantero de Argentinos",
+        "image_url": "https://www.infobae.com/resizer/v2/JWK2YJB2JZG6JPHXL2FZ4JTZSI.JPG?auth=8de64759c2d17474058dff2bc034ea420acfb5e88d7b0ac4dbbbdf59b396f13b&height=1296&smart=true&width=2303",
+        "tags": [
+            "torneo apertura",
+            "ryoga kida",
+            "barracas central",
+            "argentinos juniors",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/02/la-pirueta-con-la-que-el-japones-ryoga-kida-anoto-su-primer-gol-en-primera-la-peculiar-historia-del-delantero-de-argentinos/",
+        "date": "2026-03-02 01:03:04",
+        "sentiment_score": 0.6888512633740902
+    },
+    {
+        "title": "01 MAR 2026 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "#tertuliontjcope"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/tertuliontjcope/horas-completas/01-mar-2026-tertulion-domingos-20260302_3317561.html",
+        "date": "2026-03-02 00:52:09",
+        "sentiment_score": -0.907802464440465
+    },
+    {
+        "title": "La candidatura unitaria contra Laporta toma forma: Marc Ciria, el último escollo que pone en riesgo el plebiscito",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/02/culemania/palco/1003742737340_15774217_1706x960.jpg",
+        "tags": [
+            "víctor font",
+            "joan laporta",
+            "elecciones barça",
+            "palco",
+            "xavier vilajoana"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260302/candidatura-unitaria-laporta-marc-ciria-escollo-plebiscito/1003742737296_0.html",
+        "date": "2026-03-02 00:42:12",
+        "sentiment_score": -0.1955053061246872
+    },
+    {
+        "title": "FC Barcelona: Lewandowski sufre fractura facial y se pierde la Copa del Rey",
+        "image_url": "https://pxcdn.2001online.com/2001/032026/1772414025592/decd94cb-d6ef-41d6-8385-ede6b2e1003b_1280x720.jpeg?ch=675&cw=1200",
+        "tags": [
+            "fc barcelona",
+            "robert lewandowski",
+            "lesión",
+            "atlético de madrid",
+            "copa del rey",
+            "fractura"
+        ],
+        "link": "https://2001online.com/deportes/fc-barcelona-lewandowski-sufre-fractura-facial-y-se-pierde-la-copa-del-rey-20263120550",
+        "date": "2026-03-02 00:35:10",
+        "sentiment_score": -0.762570096179843
+    },
+    {
+        "title": "El bar de ambiente universitario en Oviedo que hacía 500 pinchos cada día: \"Los estudiantes apuntaban en una libreta lo que debían y a final de mes pagaban; valía la palabra\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/307a4275-96ad-492f-aba7-a1266c46f933_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "colegios",
+            "hostelería",
+            "gente",
+            "ocio"
+        ],
+        "link": "https://www.lne.es/oviedo/2026/03/02/bar-ambiente-universitario-oviedo-500-127426829.html",
+        "date": "2026-03-02 00:30:18",
+        "sentiment_score": -0.10809445381164551
+    },
+    {
+        "title": "El estrecho de Ormuz amenaza también en el gas de Qatar con las reservas de la UE al 30% tras el invierno",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/eff26eeb1c56eb78de4f6cc54ae9e8de/crop/0x0/1000x1000/f/image/jpeg/assets/multimedia/imagenes/2022/06/01/16540908229228.jpg",
+        "tags": [
+            "artículos guillermo del palacio"
+        ],
+        "link": "https://www.elmundo.es/economia/2026/03/02/69a47ea3e4d4d853108b4575.html",
+        "date": "2026-03-02 00:23:58",
+        "sentiment_score": -0.7790934443473816
+    },
+    {
+        "title": "El 'hat trick' de Lamine y la lesión de Mbappé, en El Tertulión de los domingos",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/02/69a4d6bcf24ff.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-01-20260302_3317545.html",
+        "date": "2026-03-02 00:16:40",
+        "sentiment_score": -0.07199034094810486
     }
 ];
