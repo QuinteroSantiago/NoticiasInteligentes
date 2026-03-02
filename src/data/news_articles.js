@@ -1,184 +1,5 @@
 export default [
     {
-        "title": "El Consultorio de Pedro Martín (Semana del 21 al 26 de febrero)",
-        "image_url": "https://imagenes.cope.es/files/og_thumbnail/images/default.jpg",
-        "tags": [
-            "cartas al director"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/cartas-al-director/noticias/consultorio-pedro-martin-semana-21-26-febrero-20260226_3316257.html",
-        "date": "2026-02-26 17:41:56",
-        "sentiment_score": -0.08493319153785706
-    },
-    {
-        "title": "Doble sesión y Lopetegui de invitado",
-        "image_url": "https://www.lanuevacronica.com/uploads/s1/31/98/20/4/lopeteguinatichu.jpeg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.lanuevacronica.com/deportes/doble-sesion-lopetegui-invitado_191859_102.html",
-        "date": "2026-02-26 17:37:50",
-        "sentiment_score": -0.32493390142917633
-    },
-    {
-        "title": "El Congreso avala invertir 1.500 millones en Cercanías Valencia hasta 2030, pero descarta transferirlo a la Generalitat",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260226183255_690.jpg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.europapress.es/nacional/noticia-congreso-avala-invertir-1500-millones-cercanias-valencia-2030-descarta-transferirlo-generalitat-20260226183255.html",
-        "date": "2026-02-26 17:32:55",
-        "sentiment_score": 0.268071711063385
-    },
-    {
-        "title": "El “efecto Gimeno” en educación: un sindicato denuncia su \"actitud despótica\" y avisa del colapso de la FP",
-        "image_url": "https://navarra.okdiario.com/media/navarra/images/2025/03/14/2025031411315093849.jpg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://navarra.okdiario.com/articulo/politica/efecto-gimeno-educacion-sindicato/20260226183155634353.html",
-        "date": "2026-02-26 17:31:55",
-        "sentiment_score": -0.8521949145942926
-    },
-    {
-        "title": "José Mourinho, cada vez menos 'The Special One'",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/26/mourinho-racha-kmxD-U20922564254a9C-1200x840@RC.jpg",
-        "tags": [
-            "champions league",
-            "oporto",
-            "manchester united",
-            "jose mourinho",
-            "real madrid"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-campeones/jose-mourinho-vez-the-especial-one-20260226180719-ntrc.html",
-        "date": "2026-02-26 17:29:57",
-        "sentiment_score": -0.8678961116820574
-    },
-    {
-        "title": "El Lugo pasa otra prueba de vértigo y madurez ante el Bilbao Athletic",
-        "image_url": "https://cflvdg.avoz.es/sc/kgIwfgqRolahT7nKyK1yYifyJ5w=/768x/2026/02/26/00121772126461749210583/Foto/i_20260221_200618002.jpg",
-        "tags": [
-            "cdlugo",
-            "primera rfef",
-            "cd lugo"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/cdlugo/2026/02/26/lugo-pasa-prueba-vertigo-madurez-ante-bilbao-athletic/00031772126426184391803.htm",
-        "date": "2026-02-26 17:28:00",
-        "sentiment_score": -0.05433255434036255
-    },
-    {
-        "title": "Feria del Stock, el Festival de Música Cofrade y La Fuga, este fin de semana en León",
-        "image_url": "https://www.lanuevacronica.com/uploads/s1/31/98/65/5/collage-de-fotos-minimalista-colores-pastel.jpeg",
-        "tags": [
-            "lnc culturas"
-        ],
-        "link": "https://www.lanuevacronica.com/lnc-culturas/feria-stock-festival-musica-cofrade-fuga-este-fin-semana-en-leon_191877_102.html",
-        "date": "2026-02-26 17:25:41",
-        "sentiment_score": 0.26358163356781006
-    },
-    {
-        "title": "Cazorla y Esteban apadrinan el acto central del centenario del Real Oviedo",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/02/26/real-oviedo-centenario-kD7F-U20923845676AIG-1200x840@El%20Comercio.JPG",
-        "tags": [
-            "estadio carlos tartiere",
-            "oviedo",
-            "real oviedo",
-            "cazorla"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/centenario-real-oviedo-cazorla-esteban-20260226182037-nt.html",
-        "date": "2026-02-26 17:23:26",
-        "sentiment_score": 0.3646532129496336
-    },
-    {
-        "title": "El PP pide a Caballero que exija al Gobierno de Sánchez apoyo económico para que Vigo acoja el Mundial",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/26/69a07dfb9e14e.r_d.798-298-7500.jpeg",
-        "tags": [
-            "galicia"
-        ],
-        "link": "https://www.eldebate.com/espana/galicia/20260226/pp-pide-caballero-exija-gobierno-sanchez-apoyo-economico-vigo-acoja-mundial_389984.html",
-        "date": "2026-02-26 17:21:46",
-        "sentiment_score": -0.11224313080310822
-    },
-    {
-        "title": "(Previa) El Levante apura sus opciones de permanencia ante un Alavés con la necesidad de reaccionar",
-        "image_url": "https://www.infobae.com/resizer/v2/BLSJ3NQLR5GMNGMZQRPLEPXTE4.jpg?auth=4432714f07e0e79027ed1a1025da9f8b1410b5867cf0ab5c3c0d4542f27ebb2b&height=1280&smart=true&width=1920",
-        "tags": [
-            "deportivo alavés",
-            "europapress",
-            "valencia",
-            "eduardo coudet",
-            "levante ud",
-            "kervin arriaga",
-            "laliga ea sports",
-            "permanencia",
-            "vitoria",
-            "ciutat de valència",
-            "jornada 26"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/26/previa-el-levante-apura-sus-opciones-de-permanencia-ante-un-alaves-con-la-necesidad-de-reaccionar/",
-        "date": "2026-02-26 17:19:06",
-        "sentiment_score": 0.4218165948987007
-    },
-    {
-        "title": "Gaizka Urresti, nominado por su documental sobre Eloy de la Iglesia: \"Soy adicto a los Goya\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bdac2c03-6f89-48b1-abba-3ef60884487e_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "cine",
-            "cine español"
-        ],
-        "link": "https://www.lacronicabadajoz.com/ocio/cine/2026/02/26/gaizka-urresti-nominado-por-su-documental-sobre-eloy-de-la-iglesia-soy-adicto-a-los-goya-127314185.html",
-        "date": "2026-02-26 17:42:11",
-        "sentiment_score": -0.24159377813339233
-    },
-    {
-        "title": "Cae sujeto por estafa con la venta de dólares",
-        "image_url": "https://lacalle.com.ve/wp-content/uploads/2026/02/1772123813103-1.webp",
-        "tags": [
-            "sucesos"
-        ],
-        "link": "https://lacalle.com.ve/cae-sujeto-que-estafaba-con-la-venta-de-dolares/",
-        "date": "2026-02-26 17:37:24",
-        "sentiment_score": -0.6909412834793329
-    },
-    {
-        "title": "Andrea Anaya, psicóloga, sobre el fenómeno de los therians: “Ni trastorno ni enfermedad mental, pero merece un análisis clínico”",
-        "image_url": "https://www.infobae.com/resizer/v2/UWVQHUNMU5ASDBSDOAMWAFX3LI.png?auth=5b0dfcc194b47ec91e744d96a090490c3f671add04e847bade6c45326dc5be47&height=1080&smart=true&width=1920",
-        "tags": [
-            "salud mental",
-            "españa-noticias",
-            "españa-salud",
-            "redes sociales españa",
-            "therians",
-            "tiktok españa",
-            "salud mental españa",
-            "juventud",
-            "psicología",
-            "adolescencia"
-        ],
-        "link": "https://www.infobae.com/espana/2026/02/26/andrea-anaya-psicologa-sobre-el-fenomeno-de-los-therians-ni-trastorno-ni-enfermedad-mental-pero-merece-un-analisis-clinico/",
-        "date": "2026-02-26 17:36:38",
-        "sentiment_score": -0.7270165327936411
-    },
-    {
-        "title": "El barrio periférico de Barcelona que tendrá el parque más grande de toda la ciudad",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/02/26/69a08247b7207.webp",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20260226/barrio-periferico-barcelona-tendra-parque-grande-toda-ciudad_389996.html",
-        "date": "2026-02-26 17:36:16",
-        "sentiment_score": 0.2905691936612129
-    },
-    {
-        "title": "Conoce Enmedio, el volcán submarino activo que late entre Tenerife y Gran Canaria",
-        "image_url": "https://www.lavozdelanzarote.com/uploads/s1/37/30/37/1/2328640cc_3_400x229.jpeg",
-        "tags": [
-            "más noticias"
-        ],
-        "link": "https://www.lavozdelanzarote.com/actualidad/mas-noticias/conoce-enmedio-volcan-submarino-activo-late-entre-tenerife-gran-canaria_241618_102.html",
-        "date": "2026-02-26 17:33:21",
-        "sentiment_score": -0.23031742870807648
-    },
-    {
         "title": "Foro España galardona los valores patrióticos y solidarios esenciales para «la vida en común de los españoles»",
         "image_url": "https://okdiario.com/img/2026/02/26/premios.jpg",
         "tags": [
@@ -3096,5 +2917,176 @@ export default [
         "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-01-20260302_3317545.html",
         "date": "2026-03-02 00:16:40",
         "sentiment_score": -0.07199034094810486
+    },
+    {
+        "title": "Boehly revela cómo fichó a Cucurella sin experiencia como director deportivo",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/26/2025112604533999726.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/dueno-chelsea-admite-que-siguio-pista-city-cerrar-traspaso/20260302074216376928.html",
+        "date": "2026-03-02 06:42:16",
+        "sentiment_score": -0.0263797789812088
+    },
+    {
+        "title": "'Madrid, ciudad de vacaciones': una de cada 17 viviendas del centro es de uso turístico",
+        "image_url": "https://www.elplural.com/uploads/s1/24/40/38/4/la-presidenta-de-la-comunidad-de-madrid-isabel-diaz-ayuso-junto-al-alcalde-de-madrid-jose-luis-martinez-almeida-en-fitur-ep_7_480x270.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elplural.com/politica/espana/madrid-ciudad-vacaciones-cada-17-viviendas-centro-uso-turistico_382824102",
+        "date": "2026-03-02 06:29:39",
+        "sentiment_score": -0.11305096745491028
+    },
+    {
+        "title": "Cecilia Gessa: \"No me interesa tanto la provocación como la exploración\"",
+        "image_url": "https://static.grupojoly.com/clip/054340e0-7778-4bf6-9e9a-ba9771e20784_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "provocacion",
+            "no",
+            "interesa",
+            "cecilia",
+            "gessa"
+        ],
+        "link": "https://www.huelvainformacion.es/entrevistas/cecilia-gessa-no-interesa-provocacion_0_2006044729.html",
+        "date": "2026-03-02 06:28:34",
+        "sentiment_score": 0.10287582874298096
+    },
+    {
+        "title": "Telefónica se alía con Satellite Connect Europe para explora la conectividad satelital directa al dispositivo",
+        "image_url": "https://www.economiadigital.es/wp-content/uploads/2026/02/fachada-sede-telefonica-20260227124018-1000x665.jpg",
+        "tags": [
+            "marc murtra",
+            "empresas",
+            "telefónica"
+        ],
+        "link": "https://www.economiadigital.es/empresas/telefonica-se-alia-con-satellite-connect-europe-para-explora-la-conectividad-satelital-directa-al-dispositivo.html",
+        "date": "2026-03-02 07:00:00",
+        "sentiment_score": 0.4767180345952511
+    },
+    {
+        "title": "MSI presenta una AI-RAN escalable con soluciones aéreas de IA de NVIDIA",
+        "image_url": "https://mma.prnewswire.com/media/2918976/MSI_Unified_AI_vRAN_Platform_for_O_RAN_and_5G.jpg?p=publish",
+        "tags": [
+            "tls",
+            "net",
+            "hrd",
+            "wireless communications",
+            "networks",
+            "telecommunications industry",
+            "afi",
+            "artificial intelligence",
+            "wic",
+            "computer & electronics",
+            "cpr",
+            "computer hardware"
+        ],
+        "link": "https://www.prnewswire.com/news-releases/msi-presenta-una-ai-ran-escalable-con-soluciones-aereas-de-ia-de-nvidia-302695663.html",
+        "date": "2026-03-02 07:00:00",
+        "sentiment_score": 0.41807020641863346
+    },
+    {
+        "title": "El jinete Luis Astolfi, amigo íntimo de la infanta Elena, anuncia que tiene ELA: \"Me lo noto en el habla\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/02/69a5349077fb30-64126088.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.20minutos.es/gente/jinete-luis-astolfi-amigo-intimo-infanta-elena-anuncia-que-tiene-ela-me-noto-habla-pero-me-valgo-por-mi-mismo_6940493_0.html",
+        "date": "2026-03-02 06:59:10",
+        "sentiment_score": -0.15293708443641663
+    },
+    {
+        "title": "España hoy, 2 de marzo de 2026: lo que tienes que saber",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/03/ENCUESTAS-CyL-1200x675.jpg",
+        "tags": [
+            "gaza",
+            "aranceles",
+            "venezuela",
+            "bruselas",
+            "europa",
+            "israel",
+            "españa",
+            "estados unidos",
+            "china"
+        ],
+        "link": "https://theobjective.com/espana/2026-03-02/espana-hoy-2-de-marzo-de-2026-lo-que-tienes-que-saber/",
+        "date": "2026-03-02 06:58:23",
+        "sentiment_score": 0.02169281244277954
+    },
+    {
+        "title": "Sánchez aisla a España en su crítica frontal a EEUU por la ofensiva contra Irán",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/03/02/2026030207493934458.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/espanha/sanchez-aisla-espana-critica-frontal-eeuu-ofensiva-iran/20260302075132580901.html",
+        "date": "2026-03-02 06:51:32",
+        "sentiment_score": -0.9010602533817291
+    },
+    {
+        "title": "El vídeo del beso de Alejandro Sanz a Stephanie Cayo en pleno concierto con el que se esfuman las sospechas de reconciliación con Candela Márquez",
+        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/uploads/2026/03/02/69a53197d874a.jpeg",
+        "tags": [
+            "trending topic"
+        ],
+        "link": "https://www.cadena100.es/trending-topic/noticias/video-beso-alejandro-sanz-stephanie-cayo-pleno-concierto-esfuman-sospechas-reconciliacion-candela-marquez-20260302_146775.html",
+        "date": "2026-03-02 06:49:10",
+        "sentiment_score": -0.06601303815841675
+    },
+    {
+        "title": "El precio más bajo de la gasolina hoy en Madrid, Barcelona y otras ciudades este 2 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/HVG5KOC3AND4JFHGWG6P76TKOY.jpg?auth=b89ff4fb57713b5c6052af325fe426c33ef424165d93ee4dda7bdb4860452a65&height=2000&smart=true&width=3000",
+        "tags": [
+            "precio de la gasolina en madrid",
+            "españa-economia",
+            "precios españa",
+            "precio de la gasolina en españa",
+            "últimas actualizaciones",
+            "precio de la gasolina en barcelona",
+            "españa-noticias",
+            "precio de la gasolina en españa hoy"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/02/el-precio-mas-bajo-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-este-2-de-marzo/",
+        "date": "2026-03-02 06:44:26",
+        "sentiment_score": -0.7610694728791714
+    },
+    {
+        "title": "El amigo de la infanta Elena, Luis Astolfi, anuncia que padece ELA: “Me noto afectado un poco el habla y un brazo, pero no tengo dolor”",
+        "image_url": "https://www.infobae.com/resizer/v2/TLGMQDMDLVEMFN2HN3Y73US4TQ.jpg?auth=ad3893e0f622de6d33bc8b5d010beef1100236cee346028fdc9ac40f1931a93e&height=569&smart=true&width=1012",
+        "tags": [
+            "infanta elena",
+            "españa-entretenimiento",
+            "corazón y estilo españa",
+            "famosos españa",
+            "gente españa",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/02/el-amigo-de-la-infanta-elena-luis-astolfi-anuncia-que-padece-ela-me-noto-afectado-un-poco-el-habla-y-un-brazo-pero-no-tengo-dolor/",
+        "date": "2026-03-02 06:42:06",
+        "sentiment_score": 0.006598182022571564
+    },
+    {
+        "title": "Ahora se dice \"lit\"",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/28/culemania/primer-equipo/1003742737113_15771321_1706x960.jpg",
+        "tags": [
+            "un culé en la castellana",
+            "barça",
+            "juanito blaugrana",
+            "lamine yamal"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/juanito-blaugrana/20260302/ahora-dice-lit/1003742737304_0.html",
+        "date": "2026-03-02 06:35:11",
+        "sentiment_score": -0.08352717384696007
+    },
+    {
+        "title": "Con la iglesia hemos topado",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/03/con-iglesia-hemos-topado-colaboracion-750x500.jpg",
+        "tags": [
+            "colaboraciones",
+            "opinión"
+        ],
+        "link": "https://elfarodeceuta.es/con-iglesia-hemos-topado/",
+        "date": "2026-03-02 06:32:37",
+        "sentiment_score": 0.2505306452512741
     }
 ];
