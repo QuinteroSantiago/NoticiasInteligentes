@@ -1,169 +1,5 @@
 export default [
     {
-        "title": "Al CB Canarias se le cierra una puerta para un posible refuerzo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cd671f57-77e7-4532-bf97-ff9df2a1b47f_16-9-discover-aspect-ratio_default_0_x900y399.jpg",
-        "tags": [
-            "lesión",
-            "cb canarias",
-            "joan sastre",
-            "txus vidorreta",
-            "canarias"
-        ],
-        "link": "https://www.eldia.es/deportes/cb-canarias/2026/02/26/cb-canarias-fichaje-cupo-joan-sastre-127279971.html",
-        "date": "2026-02-26 07:00:38",
-        "sentiment_score": -0.4443443492054939
-    },
-    {
-        "title": "Fermín Bocos.- Ucrania: el fracaso de la ONU",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
-        "tags": [
-            "firmas",
-            "otr press"
-        ],
-        "link": "https://www.europapress.es/otr-press/firmas/ferminbocos/noticia-fermin-bocos-ucrania-fracaso-onu-20260226080036.html",
-        "date": "2026-02-26 07:00:36",
-        "sentiment_score": -0.30054011940956116
-    },
-    {
-        "title": "Lekue desvela en COPE Bilbao el mensaje de Valverde para no mirar a Europa: \"La prioridad son los 42 puntos\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/01/21/6970e825846f5.r_d.1525-559-2867.jpeg",
-        "tags": [
-            "deportes vizcaya"
-        ],
-        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-vizcaya/noticias/lekue-desvela-cope-bilbao-mensaje-valverde-no-mirar-europa-prioridad-son-42-puntos-20260226_3315015.html",
-        "date": "2026-02-26 07:00:00",
-        "sentiment_score": 0.013284355401992798
-    },
-    {
-        "title": "Guía Macarfi 2026: estos son los restaurantes TOP 10 de Asturias",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/02/25/macarfi-kzGH-U20908904996gfE-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "restaurantes",
-            "macarfi",
-            "guia",
-            "top",
-            "asturias",
-            "2026"
-        ],
-        "link": "https://www.elcomercio.es/gastronomia/guia-macarfi-2026-restaurantes-asturias-20260225234311-nt.html",
-        "date": "2026-02-26 06:45:55",
-        "sentiment_score": 0.22111472859978676
-    },
-    {
-        "title": "Rubio descarta un calendario electoral en Venezuela pero advierte que las autoridades necesitan \"legitimarse\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260226073518_690.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.europapress.es/internacional/noticia-rubio-descarta-calendario-electoral-venezuela-advierte-autoridades-necesitan-legitimarse-20260226073518.html",
-        "date": "2026-02-26 06:35:18",
-        "sentiment_score": -0.34816647320985794
-    },
-    {
-        "title": "Fede Valverde emociona al recordar su infancia en Montevideo: “No éramos pobres, mis padres eran muy trabajadores”",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/09/02/2024090211473889530.jpg",
-        "tags": [
-            "famosos"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/famosos/fede-valverde-emociona-recordar-infancia-montevideo-eramos-pobres-mis-padres-eran-muy-trabajadores/202602260728001006111.html",
-        "date": "2026-02-26 06:28:00",
-        "sentiment_score": 0.735795870423317
-    },
-    {
-        "title": "Veline Ong, emprendedora china: \"Mis estudiantes consiguen hablar chino con fluidez en solo 3 meses\"",
-        "image_url": "https://s3.elespanol.com/2026/02/25/actualidad/1003744145626_261624697_1706x960.jpg",
-        "tags": [
-            "alicante (ciudad)",
-            "startup",
-            "economía",
-            "china",
-            "alicante (provincia)",
-            "emprendedores"
-        ],
-        "link": "https://www.elespanol.com/alicante/economia/20260226/veline-ong-emprendedora-china-estudiantes-consiguen-hablar-chino-fluidez-solo-meses/1003744145618_0.html",
-        "date": "2026-02-26 06:27:46",
-        "sentiment_score": 0.43258240073919296
-    },
-    {
-        "title": "Rectores y sindicatos se rebelan contra la ley universitaria de Moreno Bonilla por favorecer a las privadas",
-        "image_url": "https://www.elplural.com/uploads/s1/24/62/43/5/presidente-junta-andalucia-juanma-moreno-rueda-prensa-posterior-consejo_7_480x270.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.elplural.com/opinion/rectores-sindicatos-rebelan-contra-ley-universitaria-moreno-bonilla-favorecer-privadas_382510102",
-        "date": "2026-02-26 06:22:55",
-        "sentiment_score": -0.03801041841506958
-    },
-    {
-        "title": "Expulsado del Bernabéu un aficionado del Real Madrid por hacer el saludo nazi en la Grada Fans",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/02/26/699f7fb793f062-59080337.r_d.960-820.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/expulsado-bernabeu-un-aficionado-real-madrid-por-hacer-saludo-nazi-grada-fans_6939113_0.html",
-        "date": "2026-02-26 06:18:52",
-        "sentiment_score": 0.03649364784359932
-    },
-    {
-        "title": "«Nos encanta ver a la abuelilla de 80 años y al chavalillo divirtiéndose juntos»",
-        "image_url": "https://s1.ppllstatics.com/lagacetadesalamanca/www/multimedia/2026/02/25/03-Rus5GjHQJixw2tG7tLJYHsN-758x531@Gaceta%20Salamanca.jpg",
-        "tags": [
-            "béjar y sierra",
-            "béjar",
-            "cultura",
-            "salamanca (provincia)",
-            "fiestas"
-        ],
-        "link": "https://www.lagacetadesalamanca.es/provincia/encanta-ver-abuelilla-anos-chavalillo-divirtiendose-juntos-20260225071800-nt.html",
-        "date": "2026-02-26 06:18:00",
-        "sentiment_score": 0.6697565726935863
-    },
-    {
-        "title": "Junts pide cambiar el nombre de una calle de Barcelona por llevar el nombre de un rey español",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/25/E3B12436-15E5-4403-BB79-00C61E270F80/calle-ferran-barcelona_69.jpg?crop=1024%2C576%2Cx0%2Cy96&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/junts-pide-cambiar-nombre-calle-barcelona-llevar-nombre-rey-espanol_20260226699fef849243cc133c643dd0.html",
-        "date": "2026-02-26 07:00:20",
-        "sentiment_score": 0.390393503010273
-    },
-    {
-        "title": "Barcelona, preparada para decir adiós al sol: el Meteocat lo confirma y, a partir de esta fecha, podríamos tener varios días seguidos lloviendo",
-        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/01/28/65b628417c408.r_d.3548-2524-0.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20260226/1004136339/barcelona-preparada-decir-adios-sol-meteocat-confirma-partir-fecha-dias-seguidos-lloviendo-dct.html",
-        "date": "2026-02-26 07:00:05",
-        "sentiment_score": -0.7791530303657055
-    },
-    {
-        "title": "Mañana caótica en el área de Barcelona: la densa niebla y múltiples accidentes complican el tráfico",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/08/12/movilidad/786181588_9105582_1706x960.jpg",
-        "tags": [
-            "accidentes",
-            "gran barcelona",
-            "movilidad",
-            "coches",
-            "tráfico"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/movilidad/20260226/manana-caotica-area-barcelona-densa-niebla-multiples-accidentes-complican-trafico/1003742736230_0.html",
-        "date": "2026-02-26 06:55:13",
-        "sentiment_score": -0.8567564059048891
-    },
-    {
-        "title": "Carmen Thyssen: \"Me gustaría tener liquidez para coleccionar más arte\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/04eca27a-ec3e-40c8-be9d-a7166d5aff83_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "arte,barcelona,precios,jamaica,andorra,museo thyssen"
-        ],
-        "link": "https://www.laopiniondezamora.es/cultura/2026/02/26/carmen-thyssen-entrevista-coleccion-arte-mercado-liquidez-127284709.html",
-        "date": "2026-02-26 06:38:52",
-        "sentiment_score": -0.40496882051229477
-    },
-    {
         "title": "EE.UU. enfurece al mundo árabe: «Israel podría reclamar la mayor parte de Oriente Próximo»",
         "image_url": "https://cdn.mnmstatic.net/cache/3f/56/media_thumb-link-4150963.webp?1772094726=",
         "tags": [
@@ -2842,5 +2678,205 @@ export default [
         "link": "https://www.informe21.com/post/semana-deportiva-la-vinotinto-femenina-no-pudo-con-brasil",
         "date": "2026-03-01 12:36:23",
         "sentiment_score": 0.042245857417583466
+    },
+    {
+        "title": "Árbitro activa protocolo antirracismo en el empate entre Espanyol y Elche en La Liga",
+        "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "deportes",
+            "sports",
+            "protocolo antirracismo espana liga espanyol elche valencia sevilla"
+        ],
+        "link": "https://apnews.com/article/protocolo-antirracismo-espana-liga-espanyol-elche-valencia-sevilla-a6c93fa95c5e230fac327a8862a88ce7",
+        "date": "2026-03-01 22:28:30",
+        "sentiment_score": -0.3342547342181206
+    },
+    {
+        "title": "Árbitro activa protocolo antirracismo en el empate entre Espanyol y Elche en La Liga",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.bostonherald.com/2026/03/01/rbitro-activa-protocolo-antirracismo-en-el-empate-entre-espanyol-y-elche-en-la-liga/",
+        "date": "2026-03-01 22:28:29",
+        "sentiment_score": -0.21525084972381592
+    },
+    {
+        "title": "Comprueba los resultados del Quinigol del 1 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
+        "tags": [
+            "quinigol resultados fútbol",
+            "loterías de españa",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/01/comprueba-los-resultados-del-quinigol-del-1-de-marzo/",
+        "date": "2026-03-01 22:00:26",
+        "sentiment_score": 0.019226640462875366
+    },
+    {
+        "title": "El gesto de una niña hincha del Oviedo que conmovió a Julián Álvarez tras anotar el gol del triunfo del Atlético de Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/2LAJM26QBVCUNCZZB4JBWVIOLM.jpg?auth=3e4ac08622d57d6b6dc60b637e4420966c8707bca920e4cd99c8ec92140be43b&height=1080&smart=true&width=1920",
+        "tags": [
+            "laliga",
+            "julián álvarez",
+            "atlético de madrid",
+            "deportes-argentina",
+            "real oviedo"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/01/el-gesto-de-una-nina-hincha-del-oviedo-que-conmovio-a-julian-alvarez-tras-anotar-el-gol-del-triunfo-del-atletico-de-madrid/",
+        "date": "2026-03-01 21:44:42",
+        "sentiment_score": 0.3590681850910187
+    },
+    {
+        "title": "Iratxe Pérez: \"Siempre le di mucha importancia a la parte que no se ve del fútbol\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d105f3e5-b0ba-4fdb-b907-592a90e40af8_16-9-discover-aspect-ratio_default_0_x900y399.jpg",
+        "tags": [
+            "maría josé pérez",
+            "cd tenerife femenino",
+            "estadio heliodoro rodríguez lópez",
+            "real madrid",
+            "liga f"
+        ],
+        "link": "https://www.eldia.es/deportes/ud-tenerife/2026/03/01/iratxe-perez-le-di-importancia-127427946.html",
+        "date": "2026-03-01 21:33:34",
+        "sentiment_score": 0.7668831907212734
+    },
+    {
+        "title": "Japonismo, el antecedente de lo otaku en lo salones nobles, teatros populares y tiendas en el Madrid del siglo XIX",
+        "image_url": "https://static.eldiario.es/clip/4d975fbe-55b0-4270-be73-378f4f772fd6_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "madrid",
+            "siglo",
+            "otaku",
+            "antecedente",
+            "japonismo",
+            "salones",
+            "tiendas",
+            "populares",
+            "xix",
+            "nobles",
+            "teatros"
+        ],
+        "link": "https://www.eldiario.es/madrid/somos/japonismo-antecedente-otaku-salones-nobles-teatros-populares-tiendas-madrid-siglo-xix_1_13003182.html",
+        "date": "2026-03-01 21:23:19",
+        "sentiment_score": -0.09710852801799774
+    },
+    {
+        "title": "Metisaca en el 23-F",
+        "image_url": "https://static.eldiario.es/clip/4514ab69-5ca2-4ba6-b117-b425e4313f23_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sevilla",
+            "granada",
+            "málaga",
+            "opinión",
+            "análisis",
+            "andalucía",
+            "córdoba",
+            "información",
+            "noticias",
+            "eldiario.es"
+        ],
+        "link": "https://www.eldiario.es/andalucia/desdeelsur/metisaca-23-f_132_13030729.html",
+        "date": "2026-03-01 21:23:18",
+        "sentiment_score": -0.07761695981025696
+    },
+    {
+        "title": "La última trinchera contra el colapso total en la guerra que nadie mira",
+        "image_url": "https://static.eldiario.es/clip/964c29a1-4add-4d82-a9a4-e07090529d39_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "memoria",
+            "inmigración",
+            "eldiario.es",
+            "conflicto",
+            "igualdad",
+            "libertad de expresión",
+            "infancia",
+            "pobreza",
+            "derechos humanos",
+            "cooperación",
+            "minorías"
+        ],
+        "link": "https://www.eldiario.es/desalambre/ultima-trinchera-colapso-total-guerra-nadie-mira_1_13019592.html",
+        "date": "2026-03-01 21:23:18",
+        "sentiment_score": -0.1703299880027771
+    },
+    {
+        "title": "Urgencia urinaria: cómo reconocer y tratar la vejiga hiperactiva",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/19/vivir-en-barcelona/1003742734231_15735918_1706x960.jpg",
+        "tags": [
+            "salud",
+            "quirónsalud barcelona",
+            "vivir en barcelona",
+            "branded content",
+            "medicina",
+            "contenido crítico"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260301/urgencia-urinaria-reconocer-tratar-vejiga-hiperactiva/1003742733037_0.html",
+        "date": "2026-03-01 22:30:00",
+        "sentiment_score": 0.2798980697989464
+    },
+    {
+        "title": "La ampliación del Aeropuerto de El Prat redefinirá la ‘marca Barcelona’: del turismo masivo al visitante de alto valor",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/11/17/vivir-en-barcelona/810428966_11902199_1706x960.jpg",
+        "tags": [
+            "congresos barcelona",
+            "turismo",
+            "economía",
+            "turistas",
+            "aeropuerto barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260301/ampliacion-aeropuerto-prat-redefinira-marca-barcelona-turismo-masivo-visitante-alto-valor/1003742736570_0.html",
+        "date": "2026-03-01 22:30:00",
+        "sentiment_score": 0.6066810265183449
+    },
+    {
+        "title": "Pisarello prepara misiles contra Collboni por el tema de la vivienda tras ocho años en blanco de Colau",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/27/informacion-municipal/1003742736732_15766473_1706x960.jpg",
+        "tags": [
+            "jaume collboni",
+            "barcelona en comú",
+            "ayuntamiento de barcelona",
+            "psc - partit dels socialistes de catalunya",
+            "información municipal",
+            "vivienda"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260301/pisarello-prepara-misiles-collboni-tema-vivienda-anos-blanco-colau/1003742736730_0.html",
+        "date": "2026-03-01 22:30:00",
+        "sentiment_score": -0.9132583858445287
+    },
+    {
+        "title": "Sergi Florensa, CEO de la tecnológica EnjoyersWorld: \"No hace falta estar en Silicon Valley, queremos potenciar la marca Barcelona\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/26/economia/1003742736611_15765086_1706x960.jpg",
+        "tags": [
+            "tecnología",
+            "economía",
+            "empresas barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260301/sergi-florensa-ceo-tecnologica-enjoyersworld-no-hace-falta-silicon-valley-queremos-potenciar-marca-barcelona/1003742736506_0.html",
+        "date": "2026-03-01 22:30:00",
+        "sentiment_score": 0.41999629884958267
+    },
+    {
+        "title": "Alberto Vázquez, tras su quinto Goya | “Los otros los tiene mi padre, este me lo voy a quedar, porque igual no hago más pelis”",
+        "image_url": "https://imagenes.elidealgallego.com/files/og_thumbnail/uploads/2026/03/01/cdikpm663mm8b872n.jpg",
+        "tags": [
+            "a coruña"
+        ],
+        "link": "https://www.elidealgallego.com/a-coruna/2026-03-01/alberto-vazquez-tras-su-quinto-goya-los-otros-los-tiene-mi-padre-este-me-lo-voy-a-quedar-porque-igual-no-hago-mas-pelis-839931.html",
+        "date": "2026-03-01 22:19:06",
+        "sentiment_score": 0.5878411903977394
+    },
+    {
+        "title": "«Estoy enclaustrada las 24 horas del día»",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2026/03/02/imagenmjose-RIMJak4dey7NoYdab02EDeL-1200x840@Ideal.jpg",
+        "tags": [
+            "almería",
+            "almería (provincia)",
+            "berja",
+            "sanidad"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/enclaustrada-horas-dia-20260302230915-nt.html",
+        "date": "2026-03-01 22:09:20",
+        "sentiment_score": -0.8180966135114431
     }
 ];
