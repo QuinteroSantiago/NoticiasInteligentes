@@ -1,222 +1,5 @@
 export default [
     {
-        "title": "Sadar Bizirik pide la retirada de la Policía Nacional de El Sadar",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/0f3275fb-1484-424c-a3be-2f46d35693fc_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sadar",
-            "bizirik",
-            "pide",
-            "retirada",
-            "policia"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/27/sadar-bizirik-pide-retirada-policia-10757988.html",
-        "date": "2026-02-27 17:22:34",
-        "sentiment_score": -0.7872772347182035
-    },
-    {
-        "title": "La semana cultural del conservatorio de Avilés incluye actividades en la Casa de Cultura, Valdecarzana y el Palacio Valdés",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3a5c2970-9cb3-4d8d-97be-a264cafbfdec_16-9-aspect-ratio_default_0_x609y270.jpg",
-        "tags": [
-            "avilés",
-            "conferencia",
-            "cultura",
-            "casa de cultura",
-            "teatro",
-            "música"
-        ],
-        "link": "https://www.lne.es/aviles/2026/02/27/semana-cultural-conservatorio-aviles-incluye-127359039.html",
-        "date": "2026-02-27 17:20:55",
-        "sentiment_score": 0.18888746574521065
-    },
-    {
-        "title": "Susan Sarandon celebra emocionada la \"lucidez moral\" de España y ve a Sánchez en el \"lado correcto\"",
-        "image_url": "https://static.infolibre.es/clip/b2c2a7bf-b1ec-4fce-a840-2752d1bef6c6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "censura",
-            "pedro sánchez",
-            "cine",
-            "estados unidos",
-            "actores",
-            "gaza"
-        ],
-        "link": "https://www.infolibre.es/cultura/cine/susan-sarandon-emociona-hablando-lucidez-moral-espana-ve-sanchez-lado-correcto-historia_1_2152948.html",
-        "date": "2026-02-27 17:10:27",
-        "sentiment_score": -0.11405038833618164
-    },
-    {
-        "title": "Horario y dónde ver por TV y online el Real Madrid-Manchester City de la ida de octavos de final",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/27/image-e1861574-1426-47fa-8a60-7541e62a293a-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "champions league 2025/2026"
-        ],
-        "link": "https://www.eurosport.es/futbol/champions-league/2025-2026/real-madrid-manchester-city-pep-guardiola-octavos-final-ida-horario-donde-ver-tv-online-streaming-enlace-gratis_sto23276052/story.shtml",
-        "date": "2026-02-27 17:03:26",
-        "sentiment_score": 0.07084215804934502
-    },
-    {
-        "title": "Alcalá de Henares presenta su programa de procesiones, actos litúrgicos y eventos musicales de la Semana Santa",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/27/69a1bac8d98bc.r_d.1472-525-4688.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.eldebate.com/espana/madrid/20260227/alcala-henares-presenta-programa-procesiones-actos-liturgicos-eventos-musicales-semana-santa_390387.html",
-        "date": "2026-02-27 17:03:10",
-        "sentiment_score": 0.11875121109187603
-    },
-    {
-        "title": "Trás- Os- Montes, el lujo de viajar despacio",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/IMG-20260220-WA0148.jpg",
-        "tags": [
-            "portugal",
-            "turismo",
-            "sociedad"
-        ],
-        "link": "https://www.lanzadigital.com/sociedad/tras-os-montes-el-lujo-de-viajar-despacio/",
-        "date": "2026-02-27 17:02:08",
-        "sentiment_score": -0.02936425805091858
-    },
-    {
-        "title": "Borrell advierte: “Europa nunca ha tenido tantos enemigos como ahora”",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/02/27/2026022717382718409.jpg",
-        "tags": [
-            "seguridad y defensa"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/seguridad-defensa/borrell-europa-enemigos-defensa-ejercito-tierra-espana/20260227175827442035.html",
-        "date": "2026-02-27 16:58:27",
-        "sentiment_score": 0.6448981985449791
-    },
-    {
-        "title": "El sorteo de la Champions beneficia al Elche",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5ff86c74-225b-4c10-86d0-5f760e1cd9ef_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "champions league",
-            "santiago bernabéu",
-            "real madrid",
-            "manchester city",
-            "elche cf"
-        ],
-        "link": "https://www.informacion.es/elche-cf/2026/02/27/sorteo-champions-beneficia-elche-127358072.html",
-        "date": "2026-02-27 16:57:34",
-        "sentiment_score": 0.04588034749031067
-    },
-    {
-        "title": "Mehdi Nafti: «No tengo ningún jugador en la plantilla en el que no confíe»",
-        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2026/02/27/rdp-mehdi27feb-kyxC-U20942598746XMG-1200x840@Leonoticias.jpg",
-        "tags": [
-            "ponferradina"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/mehdi-nafti-ningun-jugador-plantilla-confie-20260227175107-nt.html",
-        "date": "2026-02-27 16:51:10",
-        "sentiment_score": 0.43330955877900124
-    },
-    {
-        "title": "Girona estrena el billete único de transporte este lunes: así funciona la nueva red que unifica toda la provincia",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/27/69a1d3044cf31.jpeg",
-        "tags": [
-            "girona"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/girona-provincia/girona/noticias/girona-estrena-billete-unico-transporte-lunes-asi-funciona-nueva-red-unifica-toda-provincia-20260227_3317168.html",
-        "date": "2026-02-27 17:24:44",
-        "sentiment_score": 0.004168301820755005
-    },
-    {
-        "title": "Inyección histórica en OpenAI: Amazon, Softbank y Nvidia aportan 110.000 millones de dólares",
-        "image_url": "https://static1.ara.cat/clip/cbf2ad64-0fcd-448a-b4da-92879517a95b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "historica",
-            "aportan",
-            "110",
-            "000",
-            "millones",
-            "softbank",
-            "openai",
-            "amazon",
-            "nvidia",
-            "inyeccion",
-            "dolares"
-        ],
-        "link": "https://es.ara.cat/economia/tecnologia/inyeccion-historica-openai-amazon-softbank-nvidia-aportan-110-000-millones-dolares_1_5663245.html",
-        "date": "2026-02-27 17:23:53",
-        "sentiment_score": 0.299810454249382
-    },
-    {
-        "title": "Susan Sarandon: «'Sirat' me dejó muerta»",
-        "image_url": "https://static1.ara.cat/clip/a8ca3ca2-e39e-4a8b-816c-7564067b2818_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "dejo",
-            "sarandon",
-            "sirat",
-            "muerta",
-            "susan"
-        ],
-        "link": "https://es.ara.cat/cultura/cine/susan-sarandon-sirat-dejo-muerta_1_5663242.html",
-        "date": "2026-02-27 17:20:17",
-        "sentiment_score": 0.06985795497894287
-    },
-    {
-        "title": "Susan Sarandon: «El silencio de Hollywood sobre Trump es muy peligroso»",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2026/02/27/susan-sarandon-kZE--758x531@El%20Correo-ElCorreo.jpg",
-        "tags": [
-            "susan",
-            "sarandon"
-        ],
-        "link": "https://www.elcorreo.com/pantallas/premios-goya/susan-sarandon-silencio-hollywood-sobre-trump-peligroso-20260227163204-ntrc.html",
-        "date": "2026-02-27 17:20:08",
-        "sentiment_score": 0.7217166442424059
-    },
-    {
-        "title": "Jordi Hereu visita Open Cosmos en Barcelona para conocer sus avances en el sector espacial",
-        "image_url": "https://forbes.es/wp-content/uploads/2026/02/fotonoticia_20260227175539_1920-1200x675.jpg",
-        "tags": [
-            "última hora",
-            "economía"
-        ],
-        "link": "https://forbes.es/economia/881923/jordi-hereu-visita-open-cosmos-en-barcelona-para-conocer-sus-avances-en-el-sector-espacial/",
-        "date": "2026-02-27 17:20:03",
-        "sentiment_score": 0.3638792894780636
-    },
-    {
-        "title": "¿Qué pasará con Cuba?",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-        "tags": [
-            "claves del día"
-        ],
-        "link": "https://www.lavanguardia.com/videos/claves-del-dia/20260227/11477303/claves-dia-que-pasara-cuba-rock-revoluciono-tendencias-artisticas.html",
-        "date": "2026-02-27 17:19:49",
-        "sentiment_score": 0.5490513276308775
-    },
-    {
-        "title": "Sarandon sobre Pedro Sánchez: \"Cuando lo he visto, ha estado en el lado correcto de la historia\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260227181801_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-sarandon-pedro-sanchez-cuando-he-visto-estado-lado-correcto-historia-20260227181801.html",
-        "date": "2026-02-27 17:18:01",
-        "sentiment_score": 0.37389784306287766
-    },
-    {
-        "title": "Susan Sarandon, Goya Internacional, destaca el apoyo de España a Gaza: \"Es tan importante\"",
-        "image_url": "https://www.infobae.com/resizer/v2/OK4OEJCDEZDUJICU4J4GNZ2EVU.jpg?auth=3b6f84ca134f4472d81b941860f1e39fb27ccbf6ee906b6097407433aa40e28d&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/27/susan-sarandon-goya-internacional-destaca-el-apoyo-de-espana-a-gaza-es-tan-importante/",
-        "date": "2026-02-27 17:15:19",
-        "sentiment_score": 0.6113794296979904
-    },
-    {
-        "title": "Todos los nominados a los premios Goya 2026",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/27/premios-1200--562x562.jpg",
-        "tags": [
-            "historias visuales"
-        ],
-        "link": "https://www.elcomercio.es/pantallas/premios-goya/nominados-premios-goya-2026-20260227181512-ntrc.html",
-        "date": "2026-02-27 17:15:16",
-        "sentiment_score": 0.46997558884322643
-    },
-    {
         "title": "Bill Gates reconoce infidelidades con «dos chicas rusas» e insiste en desvincularse de la trama Epstein",
         "image_url": "https://cdn.mnmstatic.net/cache/3f/58/media_thumb-link-4151401.webp?1772194502=",
         "tags": [
@@ -3091,5 +2874,104 @@ export default [
         "link": "https://www.elperiodicodecanarias.es/usaran-fibra-optica-y-tecnologia-laser-para-detectar-senales-precursoras-de-terremotos/",
         "date": "2026-03-03 00:44:45",
         "sentiment_score": 0.04299646243453026
+    },
+    {
+        "title": "La austera infancia de Yolanda Díaz en La Coruña: «Recuerdo el olor de la cárcel cuando iba a ver a mi padre»",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/03/yolanda-diaz-infancia.jpeg",
+        "tags": [
+            "infancia",
+            "la coruña",
+            "gente",
+            "celebrities",
+            "yolanda díaz"
+        ],
+        "link": "https://theobjective.com/gente/2026-03-03/infancia-yolanda-diaz-coruna-carcel-padre/",
+        "date": "2026-03-03 07:00:00",
+        "sentiment_score": -0.2660181075334549
+    },
+    {
+        "title": "La ‘hermana’ desconocida de la reina Letizia: la ‘hijastra’ de Jesús Ortiz tras su matrimonio con Ana Togores",
+        "image_url": "https://www.infobae.com/resizer/v2/G5ODJJEGTBDURDJW42FVISYQ2Q.jpg?auth=a4f9657c42e608b7e46ac27c02bc385cdf5b20c1175d0b569c8073a842fce39f&height=900&smart=true&width=1600",
+        "tags": [
+            "españa-noticias",
+            "corazón y estilo españa",
+            "jesús ortiz",
+            "casas reales",
+            "españa-entretenimiento",
+            "casa real españa",
+            "reina letizia",
+            "realeza"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/03/la-hermana-desconocida-de-la-reina-letizia-la-hijastra-de-jesus-ortiz-tras-su-matrimonio-con-ana-togores/",
+        "date": "2026-03-03 06:44:36",
+        "sentiment_score": -0.08160314708948135
+    },
+    {
+        "title": "Florentino, condenado por dos entrenadores que no quería y 200 millones en fichajes de jugadores que no le convencían",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/866b9395-6139-4ed8-bec5-37dd3a2f5c40_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "álvaro arbeloa",
+            "fichajes",
+            "real madrid",
+            "florentino pérez",
+            "fútbol",
+            "xabi alonso"
+        ],
+        "link": "https://www.elperiodicodearagon.com/deportes/2026/03/03/florentino-asoma-abismo-real-madrid-xabi-alonso-arbeloa-fichajes-127476343.html",
+        "date": "2026-03-03 06:33:29",
+        "sentiment_score": -0.9016438201069832
+    },
+    {
+        "title": "Hito histórico en la zoología española: los bisontes regresan a la península ibérica en Guadalajara para evitar incendios",
+        "image_url": "https://okdiario.com/img/2026/02/25/bisonte-europeo.jpg",
+        "tags": [
+            "castilla-la mancha",
+            "guadalajara",
+            "animales",
+            "incendio",
+            "medioambiente",
+            "naturaleza"
+        ],
+        "link": "https://okdiario.com/naturaleza/hito-historico-zoologia-espanola-bisontes-regresan-peninsula-iberica-guadalajara-prevenir-incendios-16305623",
+        "date": "2026-03-03 06:30:54",
+        "sentiment_score": 0.012586355209350586
+    },
+    {
+        "title": "El nombre de niña que sólo tienen 68 personas en España y que es un boom entre los padres en Italia",
+        "image_url": "https://okdiario.com/img/2026/03/02/el-nombre-de-nina-que-solo-tienen-68-personas-en-espana-y-que-es-un-boom-entre-los-padres-en-italia.jpg",
+        "tags": [
+            "nombres de niña",
+            "okd",
+            "ser padres",
+            "nombres de niño",
+            "bebés"
+        ],
+        "link": "https://okdiario.com/bebes/nombre-nina-que-solo-tienen-68-personas-espana-que-boom-padres-italia-16332139",
+        "date": "2026-03-03 07:00:08",
+        "sentiment_score": -0.3298905938863754
+    },
+    {
+        "title": "Santiago Niño Becerra, economista: \"Una persona tendría que trabajar hasta los 80 años para comprarse una vivienda\"",
+        "image_url": "https://images.ecestaticos.com/FCOKk139OJbs7BIC4o_WKBeYvzg=/0x0:532x376/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F01c%2F257%2Fe26%2F01c257e268c5bce05f7c93d14204e130.png",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elconfidencial.com/vivienda/2026-03-03/santiago-nino-becerra-economista-trabajar-80-anos_4312433/",
+        "date": "2026-03-03 07:00:00",
+        "sentiment_score": 0.27870815992355347
+    },
+    {
+        "title": "Playas sin arena y paseos dañados: así ha quedado el Mediterráneo español tras el tren de borrascas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ca4500bf-1de9-467b-ae0b-7361e6fb270e_16-9-aspect-ratio_default_0_x960y426.jpg",
+        "tags": [
+            "medio ambiente",
+            "daños",
+            "arena",
+            "playas",
+            "borrascas"
+        ],
+        "link": "https://www.levante-emv.com/medio-ambiente/2026/03/03/playas-arena-paseos-danados-quedado-127476459.html",
+        "date": "2026-03-03 06:56:08",
+        "sentiment_score": 0.18692031502723694
     }
 ];
