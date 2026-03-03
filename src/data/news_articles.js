@@ -2879,5 +2879,217 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260302/barcelona-prepara-traslado-centro-menores-collserola-sagrera/1003742737509_0.html",
         "date": "2026-03-02 22:30:00",
         "sentiment_score": -0.8761468147858977
+    },
+    {
+        "title": "¿Crisis en el Madrid? pierde su segundo partido seguido y se rezaga a cuatro puntos del líder Barcelona",
+        "image_url": "https://noticiasaldiayalahora.co/wp-content/uploads/2026/03/la-liga-Getafe-vence-al-Madrid-777x437.webp",
+        "tags": [
+            "real madrid",
+            "getafe",
+            "la liga",
+            "deportes"
+        ],
+        "link": "https://noticiasaldiayalahora.co/deportes/crisis-en-el-madrid-pierde-su-segundo-partido-seguido-y-se-rezaga-a-cuatro-puntos-del-lider-barcelona/",
+        "date": "2026-03-03 01:27:28",
+        "sentiment_score": -0.35144108533859253
+    },
+    {
+        "title": "02 MAR 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/02-mar-2026-partidazo-cope-20260303_3318370.html",
+        "date": "2026-03-03 00:42:36",
+        "sentiment_score": 0.02441425621509552
+    },
+    {
+        "title": "\"Todo es posible\": Flick y Barcelona buscan voltear un 4-0 ante Atlético en la Copa del Rey",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/b2bb1cb/2147483647/strip/true/crop/3150x1654+0+223/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F55%2F05%2F6296f6cf4151a7ef56f2ea7dcce3%2F1843881c539d424ba3edbf299b9f30dc.jpg",
+        "tags": [
+            "lifestyle",
+            "entertainment",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-02/todo-es-posible-flick-y-barcelona-buscan-voltear-un-4-0-ante-atletico-en-la-copa-del-rey",
+        "date": "2026-03-03 00:33:16",
+        "sentiment_score": 0.17286133766174316
+    },
+    {
+        "title": "BNP asciende a su responsable en España a la cúpula europea",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/21d4d0c0cbfbc1447f8e0414d5f03c15/crop/470x155/1932x1130/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/02/17724594980513.jpg",
+        "tags": [
+            "empresas>",
+            "artículos inés abril>",
+            "banca>"
+        ],
+        "link": "https://www.expansion.com/empresas/banca/2026/03/03/69a59617e5fdeaa3578b45a0.html",
+        "date": "2026-03-02 23:53:46",
+        "sentiment_score": 0.6026805564761162
+    },
+    {
+        "title": "Álvaro Arbeloa: \"El árbitro ha permitido que el partido se jugara a no jugarse\"",
+        "image_url": "https://www.infobae.com/resizer/v2/IEOYGCLRIFF4JEV635TXWIONEU.jpg?auth=b002e725cc43d5fb486050078604742852d0ca521dbd4158e66233707894dd2d&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/02/alvaro-arbeloa-el-arbitro-ha-permitido-que-el-partido-se-jugara-a-no-jugarse/",
+        "date": "2026-03-02 23:45:54",
+        "sentiment_score": -0.040987104177474976
+    },
+    {
+        "title": "2a PARTE | 02 MAR 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-02-mar-2026-partidazo-cope-20260303_3318360.html",
+        "date": "2026-03-02 23:36:37",
+        "sentiment_score": -0.6652741562575102
+    },
+    {
+        "title": "Real Madrid confirma lesión de Mbappé tras pruebas en Francia",
+        "image_url": "https://noticias24carabobo.com/wp-content/uploads/2026/03/Mbappe-con-Lesion-en-la-rodilla.jpg",
+        "tags": [
+            "noticias de valencia",
+            "noticias de carabobo",
+            "noticias hoy",
+            "noticias 24",
+            "noticias de venezuela",
+            "noticias24carabobo en google news",
+            "news",
+            "noticias de hoy valencia",
+            "lesionado mbappé",
+            "deportes",
+            "noticias 24 horas carabobo",
+            "portada",
+            "noticias de sucesos",
+            "mbappé lesionado en la rodilla",
+            "noticias24carabobo"
+        ],
+        "link": "https://noticias24carabobo.com/real-madrid-lesion-mbappe-pruebas-francia/",
+        "date": "2026-03-02 23:34:54",
+        "sentiment_score": -0.6659776754677296
+    },
+    {
+        "title": "Ángel Torres anuncia su adiós a la presidencia del Getafe en 2028",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/023b9db9-f86e-45b8-8248-95919db7e8f7_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "ángel torres",
+            "getafe cf",
+            "fútbol"
+        ],
+        "link": "https://www.laopiniondemalaga.es/deportes/2026/03/03/angel-torres-anuncia-adios-presidencia-127472850.html",
+        "date": "2026-03-02 23:31:01",
+        "sentiment_score": 0.263521671295166
+    },
+    {
+        "title": "Predicción del tiempo en Barcelona para este 3 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima en españa",
+            "últimas actualizaciones",
+            "clima",
+            "clima en barcelona"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/03/prediccion-del-tiempo-en-barcelona-para-este-3-de-marzo/",
+        "date": "2026-03-03 02:15:37",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Las 'telecos' europeas buscan alternativas a la amenaza de Starlink",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/08f967f978f5640a465bcd4cab8df7b2/crop/385x0/2048x1109/resize/1200/f/webp/assets/multimedia/imagenes/2021/05/16/16211558929038.jpg",
+        "tags": [
+            "artículos ignacio del castillo>",
+            "tecnología>",
+            "empresas>",
+            "empresas de tecnología>",
+            "orange>"
+        ],
+        "link": "https://www.expansion.com/empresas/tecnologia/2026/03/03/69a62d07e5fdeab9418b4573.html",
+        "date": "2026-03-03 02:13:48",
+        "sentiment_score": 0.2809854578226805
+    },
+    {
+        "title": "Daños colaterales en el Mobile",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "danos",
+            "mobile",
+            "colaterales"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/analisis/danos-colaterales-mobile_0_2006052307.html",
+        "date": "2026-03-03 02:07:54",
+        "sentiment_score": -0.7405326142907143
+    },
+    {
+        "title": "Rufián arrasa como candidato entre los votantes de Sumar que rechazan por amplia mayoría a Yolanda Díaz",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/529a295a947643057048e480704d2e0b/crop/58x61/972x975/f/image/jpeg/assets/multimedia/imagenes/2022/05/04/16516612044253.jpg",
+        "tags": [
+            "artículos álvaro carvajal",
+            "yolanda díaz",
+            "sumar",
+            "más madrid",
+            "gabriel rufián",
+            "podemos",
+            "erc"
+        ],
+        "link": "https://www.elmundo.es/espana/encuestas/2026/03/03/69a5dd34e9cf4a54428b4599.html",
+        "date": "2026-03-03 01:11:21",
+        "sentiment_score": -0.35551678389310837
+    },
+    {
+        "title": "Sánchez aumenta su radicalización con empresarios y EEUU",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/e1e4e80237ec9151c060226d9b3e1328/crop/783x249/1381x648/f/webp/assets/multimedia/imagenes/2026/03/03/17725001759225.jpg",
+        "tags": [
+            "economía>",
+            "opinión>"
+        ],
+        "link": "https://www.expansion.com/opinion/2026/03/03/69a6322f468aeb504c8b457c.html",
+        "date": "2026-03-03 01:11:11",
+        "sentiment_score": -0.8683514725416899
+    },
+    {
+        "title": "Viajar de la mano del maestro",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/73dab2e3-d34b-4c3f-80bb-b31f1dff44a9_16-9-discover-aspect-ratio_320w_0.webp",
+        "tags": [
+            "conciertos",
+            "fundación",
+            "cultura",
+            "duda"
+        ],
+        "link": "https://www.lne.es/oviedo/opinion/2026/03/03/viajar-mano-maestro-127471861.html",
+        "date": "2026-03-03 01:00:27",
+        "sentiment_score": 0.06299349665641785
+    },
+    {
+        "title": "Miriam Garlo, Goya a Mejor actriz revelación por ‘Sorda’, en ‘La Revuelta’: “El público oyente no está acostumbrado a leer en la pantalla y les molesta”",
+        "image_url": "https://www.infobae.com/resizer/v2/CZBJAHACHVC23KAKNIU6O2UIEY.png?auth=35c9278a46b679323a58bfde92dd39527412305b5bc466f0a7a314fedbf0bd13&height=1080&smart=true&width=1920",
+        "tags": [
+            "premios goya 2026",
+            "cine",
+            "españa-entretenimiento",
+            "famosos españa",
+            "españa-noticias",
+            "premios goya",
+            "televisión españa",
+            "david broncano",
+            "gente españa",
+            "rtve",
+            "la revuelta"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/03/miriam-garlo-goya-a-mejor-actriz-revelacion-por-sorda-en-la-revuelta-el-publico-oyente-no-esta-acostumbrado-a-leer-en-la-pantalla-y-les-molesta/",
+        "date": "2026-03-03 00:58:07",
+        "sentiment_score": 0.03967738151550293
+    },
+    {
+        "title": "Usarán fibra óptica y tecnología láser para detectar señales precursoras de terremotos",
+        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2026/03/sistema-deteccion-terremotos-1024x551.jpg",
+        "tags": [
+            "nuevas tecnologías"
+        ],
+        "link": "https://www.elperiodicodecanarias.es/usaran-fibra-optica-y-tecnologia-laser-para-detectar-senales-precursoras-de-terremotos/",
+        "date": "2026-03-03 00:44:45",
+        "sentiment_score": 0.04299646243453026
     }
 ];
