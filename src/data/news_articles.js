@@ -1,139 +1,5 @@
 export default [
     {
-        "title": "De Feijóo a Abascal: \"Sin ti no soy nada\"",
-        "image_url": "https://www.elplural.com/uploads/s1/24/71/23/9/el-presidente-del-pp-alberto-nunez-feijoo-el-de-vox-santiago-abascal-durante-una-sesion-parlamentaria-en-el-congreso-de-los-diputados-ep_7_480x270.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.elplural.com/opinion/feijoo-abascal-sin-no-soy-nada_382621102",
-        "date": "2026-02-27 06:26:55",
-        "sentiment_score": -0.10707198083400726
-    },
-    {
-        "title": "Las claves del sorteo de la Champions: Luis Enrique y Guardiola amenazan al Barça y al Real Madrid",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4a3b1ff4-18a8-41a7-a53d-7fb12d4b2b6a_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "fc barcelona",
-            "champions",
-            "atlético de madrid",
-            "real madrid"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2026/02/27/sorteo-champions-barcelona-real-madrid-atletico-rivales-127330761.html",
-        "date": "2026-02-27 06:23:00",
-        "sentiment_score": -0.19339467585086823
-    },
-    {
-        "title": "Alberto Marcos, una carrera cosida al escudo",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2026/02/26/montoAMarco-ke0H-U20924371695CEC-758x531@El%20Norte.jpg",
-        "tags": [
-            "estadio josé zorrilla",
-            "huesca (provincia)",
-            "liga de fútbol profesional",
-            "real valladolid club de fútbol"
-        ],
-        "link": "https://www.elnortedecastilla.es/realvalladolid/alberto-marcos-carrera-cosida-escudo-20260227184539-nt.html",
-        "date": "2026-02-27 06:18:07",
-        "sentiment_score": 0.19418758898973465
-    },
-    {
-        "title": "Budimir es el pichichi en solitario de la segunda vuelta de la Liga",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b7a4af04-3594-4152-805e-8fb7e70744e4_16-9-aspect-ratio_default_0_x0y0.jpg",
-        "tags": [
-            "solitario",
-            "segunda",
-            "vuelta",
-            "budimir",
-            "pichichi"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2026/02/27/budimir-pichichi-solitario-segunda-vuelta-10753298.html",
-        "date": "2026-02-27 06:12:52",
-        "sentiment_score": -0.10753253102302551
-    },
-    {
-        "title": "Marcelino quiere igualar a Miguel Muñoz ante el Barcelona",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/26/marcelino-barcelona2-afp-kRJI-U20919842381iLG-1200x840@RC.jpg",
-        "tags": [
-            "copa del rey de fútbol",
-            "f.c. barcelona",
-            "francisco gento lópez",
-            "marcelino garcía toral",
-            "lamine yamal",
-            "liga de fútbol profesional",
-            "xavier hernández creus"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-primera/marcelino-quiere-igualar-miguel-munoz-ante-barcelona-20260227070827-ntrc.html",
-        "date": "2026-02-27 06:08:32",
-        "sentiment_score": 0.3818427175283432
-    },
-    {
-        "title": "Lo que debes saber hoy, 27 de febrero, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2022/04/29/vivir-en-barcelona/668693126_9123221_1706x960.jpg",
-        "tags": [
-            "vivir en barcelona",
-            "clima",
-            "tiempo",
-            "tráfico"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260227/debes-saber-hoy-febrero-barcelona/1003742736635_0.html",
-        "date": "2026-02-27 06:31:55",
-        "sentiment_score": -0.5964421406388283
-    },
-    {
-        "title": "La gripe, las enfermeras y la paradoja de los muebles",
-        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2026/02/27/ENFERMERAS%20GRIPE%20%20web.jpg",
-        "tags": [
-            "colegio de enfermería",
-            "españa",
-            "ministerio de sanidad, servicios sociales e igualdad",
-            "sanidad"
-        ],
-        "link": "https://www.eldiariomontanes.es/opinion/esther-arimon-pages-hildegart-gonzalezluis-gripe-enfermeras-paradoja-muebles-20260227220948-nt.html",
-        "date": "2026-02-27 06:31:11",
-        "sentiment_score": 0.014748767018318176
-    },
-    {
-        "title": "\"Queremos mostrar al público melómano cuál es la potencialidad de la Banda Municipal\"",
-        "image_url": "https://static1.ara.cat/clip/cc8e166c-736d-4894-a8ff-8654c7728bc1_16-9-aspect-ratio_default_0_x3455y0.jpg",
-        "tags": [
-            "banda",
-            "mostrar",
-            "potencialidad",
-            "publico",
-            "queremos",
-            "melomano",
-            "municipal"
-        ],
-        "link": "https://es.ara.cat/cultura/musica/queremos-mostrar-publico-melomano-potencialidad-banda-municipal_128_5661674.html",
-        "date": "2026-02-27 06:30:35",
-        "sentiment_score": 0.2701042741537094
-    },
-    {
-        "title": "Conflictos en Oriente Próximo y Oriente Medio, en directo: última hora y noticias sobre Gaza, Israel, Irán, Pakistán y Afganistán",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/41f31a71-b52d-4c3d-afe9-bc3b6b01bf2e_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "israel,palestina,gaza,oriente próximo,líbano,benjamin netanyahu,irán"
-        ],
-        "link": "https://www.elcorreoweb.es/internacional/2026/02/27/directo-ultima-hora-conflicto-palestina-98243968.html",
-        "date": "2026-02-27 06:30:00",
-        "sentiment_score": -0.38474447280168533
-    },
-    {
-        "title": "Conflictos en Oriente Próximo y Oriente Medio, en directo: última hora y noticias sobre Gaza, Israel, Irán, Pakistán y Afganistán",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/41f31a71-b52d-4c3d-afe9-bc3b6b01bf2e_16-9-discover-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "israel",
-            "oriente próximo",
-            "líbano",
-            "palestina",
-            "irán",
-            "gaza",
-            "benjamin netanyahu"
-        ],
-        "link": "https://www.diariodeibiza.es/internacional/2026/02/27/directo-ultima-hora-conflicto-palestina-93048498.html",
-        "date": "2026-02-27 06:30:00",
-        "sentiment_score": -0.3745305612683296
-    },
-    {
         "title": "Sadar Bizirik pide la retirada de la Policía Nacional de El Sadar",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/0f3275fb-1484-424c-a3be-2f46d35693fc_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2854,5 +2720,164 @@ export default [
         "link": "https://www.elperiodicomediterraneo.com/vida-y-estilo/tecnologia/2026/03/02/redes-sociales-adiccion-moviles-tontos-dumbphones-mwc-2026-smartphone-light-aaron-paul-menores-escuelas-prohibicion-127462741.html",
         "date": "2026-03-02 17:37:32",
         "sentiment_score": 0.523538313806057
+    },
+    {
+        "title": "Detenido un joven por asesinar a su casera en Carabanchel",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/5c/media_thumb-link-4152443.webp?1772469606=",
+        "tags": [
+            "joven",
+            "madrid",
+            "actualidad",
+            "asesinar",
+            "detenido",
+            "casera",
+            "carabanchel"
+        ],
+        "link": "https://www.meneame.net/story/detenido-joven-asesinar-casera-carabanchel",
+        "date": "2026-03-02 21:30:03",
+        "sentiment_score": -0.6647883392870426
+    },
+    {
+        "title": "Batacazo y ridículo épico del Real Madrid en el Bernabéu: el Barça, más líder de la Liga",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/02/culemania/real-madrid/1003742737714_15779209_1706x960.jpg",
+        "tags": [
+            "real madrid",
+            "la liga",
+            "álvaro arbeloa",
+            "vinicius"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260302/batacazo-ridiculo-real-madrid-bernabeu-barca-liga/1003742737707_0.html",
+        "date": "2026-03-02 22:29:47",
+        "sentiment_score": 0.6677367314696312
+    },
+    {
+        "title": "Poli Rincón: \"Hay que centrarse en la Champions porque el Getafe es mucho más complicado que el City\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/02/69a60eed66e39.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/poli-rincon-hay-centrarse-champions-getafe-complicado-city-20260302_3318343.html",
+        "date": "2026-03-02 22:29:16",
+        "sentiment_score": -0.031460464000701904
+    },
+    {
+        "title": "El Getafe desquicia al Real Madrid y lo aleja de la lucha por la Liga (0-1)",
+        "image_url": "https://cflvdg.avoz.es/sc/1uFAcUm7bA8Ghn0zOEvhDjx8log=/768x/2026/03/02/00121772488621575415861/Foto/eup_20260302_211755484.jpg",
+        "tags": [
+            "real madrid",
+            "deportes"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/03/02/real-madrid/00031772488677185604519.htm",
+        "date": "2026-03-02 22:27:00",
+        "sentiment_score": -0.9248788636177778
+    },
+    {
+        "title": "La derrota ante el Getafe que calla bocas: Mbappé no sobra, el Madrid lo necesita urgente",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/19/2025101923111111708.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/alguien-todavia-cree-que-mbappe-sobra-favor-olviden-derrota-madrid-getafe/20260302232655377020.html",
+        "date": "2026-03-02 22:26:55",
+        "sentiment_score": 0.665497675538063
+    },
+    {
+        "title": "Fermín Cacho, ingresado tras recuperarse de un desvanecimiento",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9218c0b5-9847-474e-89eb-271e1e61e5a5_16-9-aspect-ratio_default_0_x800y800.jpg",
+        "tags": [
+            "carlos martínez",
+            "atletismo",
+            "soria"
+        ],
+        "link": "https://www.lne.es/deportes/2026/03/02/fermin-cacho-ingresado-recuperarse-desvanecimiento-127472144.html",
+        "date": "2026-03-02 22:26:30",
+        "sentiment_score": -0.6243937723338604
+    },
+    {
+        "title": "Resumen Real Madrid-Getafe: Vuelven los demonios y las dudas al Bernabéu (0-1)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/03/02/image-7d473a5d-09c3-4136-ba62-65e427d936f8-85-2560-1440.jpeg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/real-madrid-celta-video-resumen-resultado-goles-mejores-momentos-partido-jornada-26-highlights-hoy_vid60061093/video.shtml",
+        "date": "2026-03-02 22:24:58",
+        "sentiment_score": 0.7418687045574188
+    },
+    {
+        "title": "La dura crítica de Alfredo Relaño al Real Madrid tras caer ante el Getafe: \"No hay una mínima brasa en la que soplar\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/02/69a60d225e165.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/dura-critica-alfredo-relano-real-madrid-caer-getafe-no-hay-minima-brasa-soplar-20260302_3318342.html",
+        "date": "2026-03-02 22:24:13",
+        "sentiment_score": -0.11547192931175232
+    },
+    {
+        "title": "Feo borrón de lunes del Real Madrid (0-1)",
+        "image_url": "https://static.grupojoly.com/clip/adf6b8d8-a337-44a3-9c8b-b4af5df4c248_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lunes",
+            "borron",
+            "feo",
+            "madrid",
+            "real"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/feo-borron-lunes-real-madrid_0_2006051153.html",
+        "date": "2026-03-02 22:24:11",
+        "sentiment_score": -0.8050411641597748
+    },
+    {
+        "title": "Por esta razón expulsan a Franco Mastantuono en la derrota del Real Madrid",
+        "image_url": "https://pxcdn.meridiano.net/032026/1772489949646.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/por-esta-razon-expulsan-a-franco-mastantuono-en-la-derrota-del-real-madrid-20263218220",
+        "date": "2026-03-02 22:22:00",
+        "sentiment_score": -0.5220139026641846
+    },
+    {
+        "title": "Miquel Martí: \"La marca Barcelona inspira tecnología\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/27/actualidad/1003742736685_15765891_1706x960.jpg",
+        "tags": [
+            "mobile congress",
+            "barcelona",
+            "tecnología",
+            "startups barcelona",
+            "empresas barcelona",
+            "economía"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260302/miquel-marti-marca-barcelona-inspira-tecnologia/1003742737405_0.html",
+        "date": "2026-03-02 22:30:00",
+        "sentiment_score": 0.7590036913752556
+    },
+    {
+        "title": "Pinza al 'Hijos de Caín' del Triángulo Golfo: Barcelona prolonga 'sine die' su reapertura",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/08/el-pulso-de-la-ciudad/1003742721785_15582341_1706x960.jpg",
+        "tags": [
+            "bares y restaurantes",
+            "sant martí",
+            "ocio nocturno",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sant-marti/20260302/pinza-hijos-cain-triangulo-golfo-barcelona-prolonga-sine-die-reapertura/1003742736306_0.html",
+        "date": "2026-03-02 22:30:00",
+        "sentiment_score": -0.8848702777177095
+    },
+    {
+        "title": "Barcelona prepara el traslado de un centro de menores de Collserola a la Sagrera",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/02/informacion-municipal/1003742737600_15777254_1706x960.jpg",
+        "tags": [
+            "obras",
+            "la sagrera",
+            "información municipal",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260302/barcelona-prepara-traslado-centro-menores-collserola-sagrera/1003742737509_0.html",
+        "date": "2026-03-02 22:30:00",
+        "sentiment_score": -0.8761468147858977
     }
 ];
