@@ -1,470 +1,5 @@
 export default [
     {
-        "title": "Bill Gates reconoce infidelidades con «dos chicas rusas» e insiste en desvincularse de la trama Epstein",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/58/media_thumb-link-4151401.webp?1772194502=",
-        "tags": [
-            "actualidad",
-            "epstein",
-            "rusas",
-            "bill gates"
-        ],
-        "link": "https://www.meneame.net/story/bill-gates-reconoce-infidelidades-dos-chicas-rusas-insiste-trama",
-        "date": "2026-02-27 20:00:03",
-        "sentiment_score": -0.30388492345809937
-    },
-    {
-        "title": "Real Madrid y Man City se cruzan otra vez. Bodø/Glimt contra Sporting en octavos de la Champions",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/d08ba5f/2147483647/strip/true/crop/4227x2219+0+299/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd1%2Ff5%2F7f49e2ed40f481bc0280051ee093%2Fd0a7eb7f4d504dfc85bf449472fc7289.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-27/real-madrid-y-man-city-se-cruzan-otra-vez-bod-glimt-contra-sporting-en-octavos-de-la-champions",
-        "date": "2026-02-27 22:19:01",
-        "sentiment_score": 0.6038497388362885
-    },
-    {
-        "title": "El club cenicienta Bodø/Glimt crece en la Champions League tras el rechazo a la Superliga",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/89de722/2147483647/strip/true/crop/7676x4030+0+544/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc2%2F86%2F3c72b6f24396b264446b700ba57a%2F97a12cdca4c64c018aa81bc5ec3b5a26.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-02-27/el-club-cenicienta-bod-glimt-crece-en-la-champions-league-tras-el-rechazo-la-superliga",
-        "date": "2026-02-27 22:12:06",
-        "sentiment_score": 0.7507047802209854
-    },
-    {
-        "title": "22:00H | 27 FEB 2026 | La Linterna",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la linterna"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna/horas-completas/22-00h-27-feb-2026-linterna-20260227_3317243.html",
-        "date": "2026-02-27 22:10:00",
-        "sentiment_score": -0.41904568672180176
-    },
-    {
-        "title": "Iniciativa por La Gomera rechaza la reedición del Pacto de Las Flores",
-        "image_url": "https://static.eldiario.es/clip/8496e1fc-fab3-4be0-aad7-a034b4c4255e_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gomera",
-            "rechaza",
-            "reedicion",
-            "pacto",
-            "iniciativa",
-            "flores"
-        ],
-        "link": "https://www.eldiario.es/canariasahora/lagomeraahora/iniciativa-gomera-rechaza-reedicion-pacto-flores_1_13028369.html",
-        "date": "2026-02-27 22:06:42",
-        "sentiment_score": -0.03480863571166992
-    },
-    {
-        "title": "Luka Modric valora seguir un año más en el Milan tras brillar en Italia",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/18/2025081803430337791.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/luka-modric-valora-seguir-ano-mas-milan-brillar-italia/20260227225918376631.html",
-        "date": "2026-02-27 21:59:18",
-        "sentiment_score": 0.5560435689985752
-    },
-    {
-        "title": "Sorteo de Champions: Real Madrid vs. Manchester City será el plato fuerte de octavos",
-        "image_url": "https://noticias24carabobo.com/wp-content/uploads/2026/02/Sorteo-para-los-octavos-de-la-Champions-League.jpg",
-        "tags": [
-            "noticias de carabobo",
-            "noticias24carabobo",
-            "noticias hoy",
-            "noticias 24",
-            "sorteo champions",
-            "actualidad",
-            "champions league",
-            "noticias 24 horas carabobo",
-            "portada",
-            "news",
-            "noticias24carabobo en google news",
-            "deportes",
-            "noticias de venezuela",
-            "champions league octavos de final",
-            "noticias de valencia",
-            "noticias de sucesos",
-            "noticias de hoy valencia"
-        ],
-        "link": "https://noticias24carabobo.com/sorteo-octavos-champions-league/",
-        "date": "2026-02-27 21:32:04",
-        "sentiment_score": 0.10999010503292084
-    },
-    {
-        "title": "La Copa del Mundo FIFA llega a México para cumplir gira a 100 días del Mundial",
-        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2026/02/48c1629390fc5b48030f9f40b535b8497aeea55cw.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://elsiglo.com.ve/la-copa-del-mundo-fifa-llega-a-mexico-para-cumplir-gira-a-100-dias-del-mundial/",
-        "date": "2026-02-27 21:25:56",
-        "sentiment_score": 0.18552980944514275
-    },
-    {
-        "title": "Santiago Aguado fallece a los 89 años y deja un vacío en el Real Madrid",
-        "image_url": "https://lavozdeibiza.com/wp-content/uploads/2026/02/Muere-Santiago-Aguado-a-los-89-anos.jpeg",
-        "tags": [
-            "real madrid",
-            "sociedad",
-            "santiago aguado",
-            "actualidad"
-        ],
-        "link": "https://lavozdeibiza.com/actualidad/santiago-aguado-fallece-a-los-89-anos-y-deja-un-vacio-en-el-real-madrid/",
-        "date": "2026-02-27 21:25:43",
-        "sentiment_score": 0.3113725334405899
-    },
-    {
-        "title": "España sabe desde hace un año que viola un tratado europeo por dejar sin luz a la Cañada Real: \"Juegan a hacerse los sordos\"",
-        "image_url": "https://static.eldiario.es/clip/fd7ff01b-b701-4f44-b00e-32689b547509_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "europeo",
-            "luz",
-            "real",
-            "sordos",
-            "juegan",
-            "hacerse",
-            "espana",
-            "ano",
-            "canada",
-            "tratado",
-            "viola"
-        ],
-        "link": "https://www.eldiario.es/madrid/somos/espana-ano-viola-tratado-europeo-luz-canada-real-juegan-hacerse-sordos_1_13016124.html",
-        "date": "2026-02-27 21:18:57",
-        "sentiment_score": -0.09779691696166992
-    },
-    {
-        "title": "El precio fiscal de un regreso del rey emérito: tributar por todo su patrimonio y hasta un 81% de impuestos por los regalos",
-        "image_url": "https://static.eldiario.es/clip/079ee305-4adf-4443-bcca-d5e599bfa78b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "regalos",
-            "regreso",
-            "81",
-            "precio",
-            "impuestos",
-            "rey",
-            "emerito",
-            "tributar",
-            "fiscal",
-            "patrimonio"
-        ],
-        "link": "https://www.eldiario.es/economia/precio-fiscal-regreso-rey-emerito-tributar-patrimonio-81-impuestos-regalos_1_13028046.html",
-        "date": "2026-02-27 21:18:52",
-        "sentiment_score": -0.11760637164115906
-    },
-    {
-        "title": "La Otxoa: «Me metieron en la cárcel por ser gay»",
-        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2026/02/27/Imagen%20la-otxoa--758x531.jpg",
-        "tags": [
-            "barcelona (provincia)",
-            "madrid (ciudad)",
-            "josé antonio nielfa"
-        ],
-        "link": "https://www.elcorreo.com/bizkaia/otxoa-metieron-carcel-gay-20260227190256-nt.html",
-        "date": "2026-02-27 22:08:40",
-        "sentiment_score": -0.11781111359596252
-    },
-    {
-        "title": "«En unos temas coincido más con Ayuso y en otros con Felipe González»",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/02/28/juanma-moreno-kmLD-U209470537765GI-1200x840@RC.jpg",
-        "tags": [
-            "felipe gonzález márquez",
-            "junta de andalucía",
-            "andalucía",
-            "isabel díaz ayuso",
-            "partido popular (pp)"
-        ],
-        "link": "https://www.canarias7.es/nacional/politica/temas-coincido-ayuso-felipe-gonzalez-20260228000507-ntrc.html",
-        "date": "2026-02-27 22:05:16",
-        "sentiment_score": 0.315003402531147
-    },
-    {
-        "title": "Illa valora positivamente la ley de amnistía y dice que Puigdemont «debería haber vuelto ya»",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/02/20260227224813.jpg?fit=1600%2C1069&ssl=1",
-        "tags": [
-            "política"
-        ],
-        "link": "https://cronicadecantabria.com/cr/illa-valora-positivamente-la-ley-de-amnista-y-dice-que-puigdemont-debera-haber-vuelto-ya/",
-        "date": "2026-02-27 22:00:03",
-        "sentiment_score": 0.02566644549369812
-    },
-    {
-        "title": "La serie documental ‘La vida secreta de los alcorques vivos’ se estrena en Huesca",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2026/02/27/lada6657-6453025.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/cultura/2026/02/27/la-serie-documental-la-vida-secreta-de-los-alcorques-vivos-se-estrena-en-huesca-1898137-daa.html",
-        "date": "2026-02-27 21:55:18",
-        "sentiment_score": 0.10353342816233635
-    },
-    {
-        "title": "El Córdoba Patrimonio se estrella en el Palau (5-1)",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/27/69a2115e1120a.r_d.1064-445-5859.jpeg",
-        "tags": [
-            "córdoba - deportes"
-        ],
-        "link": "https://www.eldebate.com/espana/la-voz-de-cordoba/deportes/20260227/cordoba-patrimonio-estrella-palau-51_390511.html",
-        "date": "2026-02-27 21:49:41",
-        "sentiment_score": -0.011235862970352173
-    },
-    {
-        "title": "Nude Project, la marca española capitaneada por dos veinteañeros que vuelve loca a la Generación Z: \"Hemos tenido suerte, pero los Beatles también la tuvieron, tenían talento y aparecieron cuando tenían que hacerlo\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/9d69001db6972adb8a848e0cfaa88bcd/crop/73x0/1827x2339/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/25/17720343389971.jpg",
-        "tags": [
-            "nlpremium",
-            "moda",
-            "yodona"
-        ],
-        "link": "https://www.elmundo.es/yodona/moda/2026/02/27/699f199ce9cf4a1f718b4591.html",
-        "date": "2026-02-27 21:42:18",
-        "sentiment_score": 0.560833290219307
-    },
-    {
-        "title": "Dónde se rodó El 47 en Barcelona: las calles reales que reconstruyen su historia",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/02/27/2026022722302945121.jpg",
-        "tags": [
-            "medios"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/medios/donde-rodo-47-barcelona-calles-reales-que-reconstruyen-historia/202602272230431006640.html",
-        "date": "2026-02-27 21:30:43",
-        "sentiment_score": -0.05393216013908386
-    },
-    {
-        "title": "El ataque de Pérez de los Cobos al Gobierno lleva la polémica a la Guardia Civil: del \"apoyo total\" al \"cruza una línea roja\"",
-        "image_url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744149734_261679106_1706x960.jpg",
-        "tags": [
-            "diego pérez de los cobos",
-            "españa",
-            "gobierno de españa",
-            "policía nacional",
-            "ministerio del interior",
-            "fernando grande-marlaska",
-            "guardia civil"
-        ],
-        "link": "https://www.elespanol.com/espana/20260228/ataque-perez-cobos-gobierno-lleva-polemica-guardia-civil-apoyo-total-cruza-linea-roja/1003744149626_0.html",
-        "date": "2026-02-28 02:12:11",
-        "sentiment_score": -0.7921325042843819
-    },
-    {
-        "title": "Christophe Gleizes sufre siete años de cárcel y sacude al fútbol francés",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/28/2026022803070156853.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/christophe-gleizes-sufre-siete-anos-carcel-sacude-futbol-frances/20260228030957376642.html",
-        "date": "2026-02-28 02:09:57",
-        "sentiment_score": -0.90939537063241
-    },
-    {
-        "title": "James Rodríguez escogió a su jugador favorito de la niñez, y un compañero de equipo lo señaló a él como su preferido",
-        "image_url": "https://www.infobae.com/resizer/v2/5B4R5RLMFZF27LSAVOKZK6MIN4.jpg?auth=8be13a79438fff2f0bddfbaf4be6e0c910ac83a145954f3b98532a3d746adab1&height=733&smart=true&width=1080",
-        "tags": [
-            "james rodríguez",
-            "minnesota united",
-            "carlos valderrama",
-            "mls",
-            "colombia-deportes"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/28/james-rodriguez-escogio-a-su-jugador-favorito-de-la-ninez-y-un-companero-de-equipo-lo-senalo-a-el-como-su-preferido/",
-        "date": "2026-02-28 02:07:39",
-        "sentiment_score": 0.042018771171569824
-    },
-    {
-        "title": "España, lista para ser el gran laboratorio de la alimentación del futuro a prueba de retos geopolíticos y climáticos",
-        "image_url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744148312_261660055_1706x960.jpg",
-        "tags": [
-            "alimentación",
-            "innovación",
-            "empresas",
-            "startups",
-            "sostenibilidad",
-            "agricultura",
-            "startup",
-            "talento",
-            "tecnología",
-            "industria agroalimentaria"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20260228/espana-lista-gran-laboratorio-alimentacion-futuro-prueba-retos-geopoliticos-climaticos/1003744147303_0.html",
-        "date": "2026-02-28 02:05:44",
-        "sentiment_score": 0.5791082493960857
-    },
-    {
-        "title": "¿Cómo se gestó la operación UD Almería por parte de Cristiano Ronaldo?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/04/2025060423382122379.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/como-gesto-operacion-ud-almeria-parte-cristiano-ronaldo/20260228024626376640.html",
-        "date": "2026-02-28 01:46:26",
-        "sentiment_score": -0.17443667352199554
-    },
-    {
-        "title": "Rafael Carracedo, elegido Pregonero de Corpus 2026",
-        "image_url": "https://static.laregion.es/clip/058bcf53-b228-48f7-b4ae-bae6636cb60a_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ponteareas",
-            "corpus"
-        ],
-        "link": "https://www.atlantico.net/condado-paradanta/rafael-carracedo-elegido-pregonero-corpus_1_20260228-4180621.html",
-        "date": "2026-02-28 01:45:40",
-        "sentiment_score": 0.20601396262645721
-    },
-    {
-        "title": "La reclamación de 70 millones que amenaza al Barça: los socios forzados a usar 'seient lliure' estudian exigir perjuicios económicos",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/24/culemania/1003742710181_15768716_1706x960.jpg",
-        "tags": [
-            "palco",
-            "camp nou",
-            "barça",
-            "junta directiva del barça",
-            "josep maria bartomeu"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260228/reclamacion-millones-barca-forzados-estudian-perjuicios-economicos/1003742736894_0.html",
-        "date": "2026-02-28 01:39:48",
-        "sentiment_score": -0.8784479536116123
-    },
-    {
-        "title": "\"Hice de novia de un gay que quería ocultárselo a sus padres\": Laura y Juande, familiares de alquiler a más de 300€ al día",
-        "image_url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744149757_261679239_1706x960.jpg",
-        "tags": [
-            "familia",
-            "reportajes-newsletter",
-            "actores",
-            "porfolio",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260228/hice-novia-gay-queria-ocultarselo-padres-laura-juande-familiares-alquiler-dia/1003744149683_0.html",
-        "date": "2026-02-28 01:38:30",
-        "sentiment_score": -0.9339371724054217
-    },
-    {
-        "title": "Pablo Bustinduy, ¿pacificador de la izquierda? El hijo de una ministra de Felipe González que abandonó a Pablo Iglesias",
-        "image_url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744149692_261678218_1706x960.jpg",
-        "tags": [
-            "podemos",
-            "reportajes-newsletter",
-            "reportajes",
-            "pablo bustinduy",
-            "yolanda díaz",
-            "unidas podemos (up)",
-            "sumar",
-            "pablo iglesias",
-            "porfolio"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260228/pablo-bustinduy-pacificador-izquierda-hijo-ministra-felipe-gonzalez-abandono-iglesias/1003744148509_0.html",
-        "date": "2026-02-28 01:37:40",
-        "sentiment_score": -0.709726233035326
-    },
-    {
-        "title": "Julio Borges, expresidente de la Asamblea de Venezuela: \"Con el chavismo la democracia se suicidó; España, toma nota\"",
-        "image_url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744149638_261677394_1706x960.jpg",
-        "tags": [
-            "américa",
-            "nicolás maduro",
-            "hablando sobre el mundo",
-            "oposición venezolana",
-            "dictadura",
-            "delcy rodríguez",
-            "venezuela",
-            "democracia"
-        ],
-        "link": "https://www.elespanol.com/mundo/america/20260228/julio-borges-expresidente-asamblea-venezuela-chavismo-democracia-suicido-espana-toma-nota/1003744149185_0.html",
-        "date": "2026-02-28 01:32:30",
-        "sentiment_score": -0.8307374455034733
-    },
-    {
-        "title": "Clima en España: el pronóstico del tiempo para Barcelona este 28 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima",
-            "clima en españa",
-            "clima en barcelona",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/02/28/clima-en-espana-el-pronostico-del-tiempo-para-barcelona-este-28-de-febrero/",
-        "date": "2026-02-28 02:15:54",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "Qué celulares llegan en marzo de 2026: lanzamientos confirmados y rumores",
-        "image_url": "https://www.infobae.com/resizer/v2/I6FON2MY4ZFINOKNWPMY7TLPV4.png?auth=85beb2f445a03a778fe5061c85494ea69e14a4809763c35feb60b95bb24ccd03&height=768&smart=true&width=1408",
-        "tags": [
-            "lanzamientos",
-            "inteligencia artificial",
-            "celulares",
-            "lo último en tecnología",
-            "tecnología-noticias",
-            "mwc 2026"
-        ],
-        "link": "https://www.infobae.com/tecno/2026/02/28/que-celulares-llegan-en-marzo-de-2026-lanzamientos-confirmados-y-rumores/",
-        "date": "2026-02-28 01:55:21",
-        "sentiment_score": 0.7284310245886445
-    },
-    {
-        "title": "Rafael Pérez, gerente de La Paz, mejor hospital de España desde hace 10 años: \"Somos números uno en trasplantes infantiles\"",
-        "image_url": "https://s3.elespanol.com/2026/02/24/madrid/1003744143773_261600738_1706x960.jpg",
-        "tags": [
-            "madrid comunidad",
-            "hospitales",
-            "hospital universitario la paz"
-        ],
-        "link": "https://www.elespanol.com/madrid/comunidad/20260228/rafael-perez-gerente-paz-mejor-hospital-espana-hace-anos-numeros-trasplantes-infantiles-dl/1003744142945_0.html",
-        "date": "2026-02-28 01:41:53",
-        "sentiment_score": 0.28897368162870407
-    },
-    {
-        "title": "Las tres sorpresas que verán los socios del Barça en el nuevo Camp Nou tras recibir la licencia 1C",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/26/culemania/palco/1003742726879_15645116_1706x960.jpg",
-        "tags": [
-            "espai barça",
-            "palco",
-            "camp nou"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260228/sorpresas-socios-barca-camp-nou-recibir-licencia/1003742735386_0.html",
-        "date": "2026-02-28 01:29:18",
-        "sentiment_score": 0.24897649884223938
-    },
-    {
-        "title": "La candidatura unitaria frente a Laporta se tambalea: fricciones entre los opositores a la espera de la recogida de firmas",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/20/culemania/palco/1003742734850_15743595_1706x960.jpg",
-        "tags": [
-            "víctor font",
-            "joan laporta",
-            "elecciones barça",
-            "palco",
-            "xavier vilajoana"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260228/candidatura-unitaria-laporta-tambalea-fricciones-opositores-recogida/1003742736980_0.html",
-        "date": "2026-02-28 01:24:23",
-        "sentiment_score": -0.2265818491578102
-    },
-    {
-        "title": "Lamine Yamal desvela por error su lista de amigos en PlayStation",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/07/2026020721512098696.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/lamine-yamal-desvela-error-lista-amigos-playstation/20260228014207376637.html",
-        "date": "2026-02-28 00:42:07",
-        "sentiment_score": -0.1596314236521721
-    },
-    {
-        "title": "27 FEB 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/27-feb-2026-partidazo-cope-20260228_3317253.html",
-        "date": "2026-02-28 00:40:00",
-        "sentiment_score": 0.15146638825535774
-    },
-    {
         "title": "El patrón de 'Los Pocholos' cuestiona la independencia educativa en todo Madrid: \"Enchufaron hasta a tres directores en Rivas\"",
         "image_url": "https://www.elplural.com/uploads/s1/24/68/34/4/isabel-diaz-ayuso-y-emilio-viciana-ep_7_480x270.jpeg",
         "tags": [
@@ -533,60 +68,6 @@ export default [
         "link": "https://www.20minutos.es/empleo/dia-festivo-dia-descanso-supremo-dice-empresas-compensarlos-coinciden_6938946_0.html",
         "date": "2026-02-28 06:00:00",
         "sentiment_score": -0.15459704771637917
-    },
-    {
-        "title": "Neymar firma doblete histórico con Santos y pide pista para ir al Mundial con Brasil",
-        "image_url": "https://lavozhispanact.b-cdn.net/wp-content/uploads/2026/02/download-2026-02-27T172632.209.webp",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://lavozhispanact.com/neymar-firma-doblete-historico-con-santos-y-pide-pista-para-ir-al-mundial-con-brasil/",
-        "date": "2026-02-28 05:30:00",
-        "sentiment_score": 0.4220695123076439
-    },
-    {
-        "title": "El arzobispo de Oviedo, colchonero desde la cuna, irá al partido esta noche: \"Igual el Atleti debería perder hoy\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8a369a80-7ec3-43c2-9fc7-197f9e40eb4f_16-9-aspect-ratio_default_0_x743y328.jpg",
-        "tags": [
-            "carlos tartiere",
-            "tartiere",
-            "atlético de madrid",
-            "infancia"
-        ],
-        "link": "https://www.lne.es/real-oviedo/2026/02/28/arzobispo-oviedo-colchonero-cuna-ira-127367576.html",
-        "date": "2026-02-28 05:01:33",
-        "sentiment_score": 0.3862779289484024
-    },
-    {
-        "title": "Airin.wav: “Entre el eco, la reverb y la distorsión de las guitarras se encuentra todo lo que no he sabido expresar con palabras”",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9fa0d0bd-b584-4806-a2bf-9de5714973a3_16-9-aspect-ratio_default_0_x247y124.jpg",
-        "tags": [
-            "sonido",
-            "cultura",
-            "trabajo",
-            "palabras",
-            "tiempo",
-            "música"
-        ],
-        "link": "https://www.laopiniondemurcia.es/cultura/2026/02/28/airin-wav-eco-reverb-distorsion-127358143.html",
-        "date": "2026-02-28 05:00:39",
-        "sentiment_score": -0.3133053332567215
-    },
-    {
-        "title": "Hernán Piquín: “Hoy vivo entre España y Argentina, allá recargo energía pero extraño y vuelvo acá”",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "julio bocca",
-            "soda stereo",
-            "hernán piquín",
-            "córdoba",
-            "regreso escénico",
-            "cultura musical"
-        ],
-        "link": "https://www.infobae.com/teleshow/2026/02/28/hernan-piquin-hoy-vivo-entre-espana-y-argentina-alla-recargo-energia-pero-extrano-y-vuelvo-aca/",
-        "date": "2026-02-28 05:00:00",
-        "sentiment_score": -0.33556051179766655
     },
     {
         "title": "Cataluña, posible campo de ensayo de alianzas electorales: la vía Rufián, el frente de Pisarello o incluso un pacto de Junts con Aliança",
@@ -2973,5 +2454,239 @@ export default [
         "link": "https://www.levante-emv.com/medio-ambiente/2026/03/03/playas-arena-paseos-danados-quedado-127476459.html",
         "date": "2026-03-03 06:56:08",
         "sentiment_score": 0.18692031502723694
+    },
+    {
+        "title": "Un estudio internacional revela que unir alcohol y mala nutrición agrava el daño hepático por el eje intestino-hígado",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260303183614_690.jpg",
+        "tags": [
+            "infosalus.com",
+            "nutrición"
+        ],
+        "link": "https://www.infosalus.com/nutricion/noticia-estudio-internacional-revela-unir-alcohol-mala-nutricion-agrava-dano-hepatico-eje-intestino-higado-20260303183614.html",
+        "date": "2026-03-03 17:36:14",
+        "sentiment_score": -0.49849049001932144
+    },
+    {
+        "title": "El PSOE asegura que cañizares repite el mismo sorteo de viviendas tras dos años sin soluciones",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/03/DSC_0235-scaled.jpg",
+        "tags": [
+            "vivienda",
+            "ciudad real",
+            "psoe"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/ciudad-real/el-psoe-asegura-que-canizares-repite-el-mismo-sorteo-de-viviendas-tras-dos-anos-sin-soluciones/",
+        "date": "2026-03-03 17:33:17",
+        "sentiment_score": -0.10843415558338165
+    },
+    {
+        "title": "Rodrygo sufre rotura de ligamento cruzado: se pierde la temporada y el Mundial 2026",
+        "image_url": "https://noticialdia.com/wp-content/firewall/uploads/2026/03/rogoes.jpg",
+        "tags": [
+            "brasil",
+            "lesión",
+            "rodrygo",
+            "temporada",
+            "real madrid",
+            "mundial",
+            "deportes"
+        ],
+        "link": "https://noticialdia.com/deportes/rodrygo-sufre-rotura-de-ligamento-cruzado-se-pierde-la-temporada-y-el-mundial-2026/",
+        "date": "2026-03-03 17:30:09",
+        "sentiment_score": -0.8043157290667295
+    },
+    {
+        "title": "Cabañeros crece un 10 % y roza los 86.000 visitantes en 2025",
+        "image_url": "https://www.clm24.es/media/clm24/images/2025/04/19/2025041917585087447.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.clm24.es/articulo/sociedad/cabaneros-crece-10-roza-86000-visitantes-2025/20260303182719472293.html",
+        "date": "2026-03-03 17:27:19",
+        "sentiment_score": 0.8261729665100574
+    },
+    {
+        "title": "Starmer anuncia el envío de un destructor y varios helicópteros a Chipre para reforzar la seguridad en la región",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260303182649_690.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-starmer-anuncia-envio-destructor-varios-helicopteros-chipre-reforzar-seguridad-region-20260303182649.html",
+        "date": "2026-03-03 17:26:49",
+        "sentiment_score": 0.03757593035697937
+    },
+    {
+        "title": "El Real Zaragoza, último clasificado, cuenta con el quinto límite salarial de la Segunda División",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/02/06/2026020618122090526.jpg",
+        "tags": [
+            "real zaragoza"
+        ],
+        "link": "https://www.aragondigital.es/articulo/real-zaragoza/real-zaragoza-ultimo-clasificado-cuenta-quinto-limite-salarial-segunda-division/20260303182331970406.html",
+        "date": "2026-03-03 17:23:31",
+        "sentiment_score": -0.240092471241951
+    },
+    {
+        "title": "Ana María Serna y María Domenech recibirán los galardones del ‘Día Internacional de la Mujer’ en Caravaca",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6b13d44f-18f0-46ce-b5ec-a1943779daba_16-9-aspect-ratio_default_0_x720y360.jpg",
+        "tags": [
+            "8-m",
+            "día internacional de la mujer",
+            "8m",
+            "formación",
+            "caravaca",
+            "igualdad",
+            "mujeres",
+            "galardones",
+            "literatura"
+        ],
+        "link": "https://www.laopiniondemurcia.es/municipios/2026/03/03/ana-maria-serna-maria-domenech-8m-caravaca-127506455.html",
+        "date": "2026-03-03 17:22:51",
+        "sentiment_score": 0.07329031825065613
+    },
+    {
+        "title": "Universitarios rechazan \"tajantemente\" el Estatuto del Becario de Yolanda Díaz: \"Ha ignorado a los actores afectados\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260303182233_120.jpg",
+        "tags": [
+            "educación",
+            "sociedad"
+        ],
+        "link": "https://www.europapress.es/sociedad/educacion-00468/noticia-universitarios-rechazan-tajantemente-estatuto-becario-yolanda-diaz-ignorado-actores-afectados-20260303182233.html",
+        "date": "2026-03-03 17:22:33",
+        "sentiment_score": -0.40757694840431213
+    },
+    {
+        "title": "Los Falcons van a Madrid para el segundo juego de temporada regular de la NFL en España",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/e3a03f6/2147483647/strip/true/crop/7755x4071+0+549/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa6%2F4a%2F5ec6351b467eb15cc95036c41833%2F86084358a497432094b5d481c69417e2.jpg",
+        "tags": [
+            "entertainment",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-03/los-falcons-van-madrid-para-el-segundo-juego-de-temporada-regular-de-la-nfl-en-espana",
+        "date": "2026-03-03 17:19:58",
+        "sentiment_score": 0.0640694797039032
+    },
+    {
+        "title": "(Previa) Vallecas mide la reacción del Rayo y la esperanza del Real Oviedo",
+        "image_url": "https://www.infobae.com/resizer/v2/JUBFXJIUARCLPPVRCOZ77ZPY6M.jpg?auth=be1fd1c25b43b5a01f9467218d03e02bb185247ec279c611bc83d6a0ed04726f&height=1080&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/03/previa-vallecas-mide-la-reaccion-del-rayo-y-la-esperanza-del-real-oviedo/",
+        "date": "2026-03-03 17:16:46",
+        "sentiment_score": 0.2340776026248932
+    },
+    {
+        "title": "El dilema de Hansi Flick antes de viajar a Newcastle para la Champions: decisión que afecta al vestuario",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/19/culemania/primer-equipo/1003742690287_15175785_1706x960.jpg",
+        "tags": [
+            "champions league",
+            "la liga",
+            "primer equipo"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260303/dilema-hansi-flick-newcastle-champions-decision-vestuario/1003742737916_0.html",
+        "date": "2026-03-03 17:35:14",
+        "sentiment_score": 0.1383953019976616
+    },
+    {
+        "title": "Terrassa podrá multar a las familias con hijos absentistas: sanciones de 3.000 euros en casos graves",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/480f19a2-61fd-435f-9281-22fa023353fe_alta-libre-aspect-ratio_default_0_x1000y443.jpg",
+        "tags": [
+            "terrassa",
+            "ayuntamientos"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20260303/terrassa-multara-3-000-euros-familias-absentismo-escolar-127507782",
+        "date": "2026-03-03 17:34:12",
+        "sentiment_score": -0.5530742704868317
+    },
+    {
+        "title": "La guerra tiene en vilo a la Fórmula 1 y obliga a desplazar la carrera del WEC de Qatar",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/03/69a71a6c377c0.r_d.2635-2263-888.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/20260303/11480436/f1-formula-1-afectaciones-guerra-iran-golfo-persico-carrera-wec-mundial-inicio-australia-vilo-aplaza.html",
+        "date": "2026-03-03 17:34:03",
+        "sentiment_score": -0.3509397730231285
+    },
+    {
+        "title": "La pesadilla inmobiliaria de la princesa Marta Luisa de Noruega: nuevo revés en la reforma de su casa de lujo, retrasos y un obstáculo urbanístico",
+        "image_url": "https://images.ecestaticos.com/5YyJyWrvX6AlIVhtlsS9TdViCCU=/0x0:1920x1080/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1e8%2Fa96%2F0d8%2F1e8a960d8bcafe8ba09c19bc40a3d343.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-03-03/pesadilla-inmobiliaria-princesa-marta-luisa-de-noruega-reforma-casa-lujo_4313625/",
+        "date": "2026-03-03 17:33:32",
+        "sentiment_score": 0.055340394377708435
+    },
+    {
+        "title": "ZTE rompe el mercado con un smartphone gaming ‘de verdad’ por menos de 600 euros",
+        "image_url": "https://www.movilzona.es/app/uploads-movilzona.es/2026/03/nubia-Neo-5-Series.png",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.movilzona.es/noticias/lanzamientos/zte-nubia-neo-5-series-mwc-2026/",
+        "date": "2026-03-03 17:31:40",
+        "sentiment_score": -0.02433738112449646
+    },
+    {
+        "title": "Lucho RK y La Pantera regresan a Gran Canaria tras arrasar en la península",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/536608c9-aee1-417d-9aad-2d8407127c24_16-9-aspect-ratio_default_0_x605y233.jpg",
+        "tags": [
+            "península",
+            "isla",
+            "estadio de gran canaria",
+            "canarias",
+            "gran canaria",
+            "entradas"
+        ],
+        "link": "https://www.laprovincia.es/canarias/2026/03/03/lucho-rk-pantera-regresan-gran-canaria-dv-127509415.html",
+        "date": "2026-03-03 17:31:24",
+        "sentiment_score": 0.19916491210460663
+    },
+    {
+        "title": "Liberaron a 10 jóvenes que estaban detenidos por caso de La Aduana",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "locales",
+            "política"
+        ],
+        "link": "https://eltiempove.com/liberaron-a-10-jovenes-que-estaban-detenidos-por-caso-de-la-aduana/",
+        "date": "2026-03-03 17:31:15",
+        "sentiment_score": -0.2469012551009655
+    },
+    {
+        "title": "Mossos aumenta su operativo en el MWC por los conflictos internacionales: \"Tierra, bajo tierra y aire\"",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/03/03/3208D8C9-F609-4DF8-8EB6-368639DD557D/69.jpg?crop=3840%2C2160%2Cx0%2Cy200&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/mossos-aumenta-operativo-mwc-conflictos-internacionales-tierra-tierra-aire_2026030369a71a379243cc133c6f1ded.html",
+        "date": "2026-03-03 17:28:23",
+        "sentiment_score": -0.017315372824668884
+    },
+    {
+        "title": "Ofensiva municipal contra la suciedad enquistada en el corazón de Barcelona",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/03/69a7150eeec0c.r_d.2325-1428-965.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20260303/11480411/ofensiva-municipal-suciedad-enquistada-corazon-barcelona.html",
+        "date": "2026-03-03 17:27:49",
+        "sentiment_score": 0.20485399663448334
+    },
+    {
+        "title": "SPC presenta en el MWC 2026 la plataforma de teleasistencia HALO, para anticipar con IA riesgos en mayores",
+        "image_url": "https://static.grupojoly.com/clip/8c897958-76f0-4834-ab2d-0f8836ed3cbb_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "teleasistencia halo",
+            "mwc",
+            "2026",
+            "plataforma",
+            "spc"
+        ],
+        "link": "https://www.diariodecadiz.es/tecnologia/spc-mwc-2026-plataforma-teleasistencia-halo_0_2006058254.html",
+        "date": "2026-03-03 17:25:11",
+        "sentiment_score": 0.6968043595552444
     }
 ];
