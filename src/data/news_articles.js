@@ -1,213 +1,5 @@
 export default [
     {
-        "title": "El patrón de 'Los Pocholos' cuestiona la independencia educativa en todo Madrid: \"Enchufaron hasta a tres directores en Rivas\"",
-        "image_url": "https://www.elplural.com/uploads/s1/24/68/34/4/isabel-diaz-ayuso-y-emilio-viciana-ep_7_480x270.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elplural.com/autonomias/madrid/patron-los-pocholos-cuestiona-independencia-educativa-todo-madrid-enchufaron-hasta-tres-directores-rivas_382438102",
-        "date": "2026-02-28 06:38:52",
-        "sentiment_score": -0.11651971936225891
-    },
-    {
-        "title": "Martínez: «Una decepción es no gobernar: podemos ganar las elecciones y que se nos quede cara de Feijóo»",
-        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/uploads/2026/02/27/69a1ff0c0150e.jpeg",
-        "tags": [
-            "castilla y león"
-        ],
-        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/260228/105097/decepcion-gobernar-ganar-elecciones-quede-cara-feijoo.html",
-        "date": "2026-02-28 06:30:00",
-        "sentiment_score": -0.6920657604932785
-    },
-    {
-        "title": "Economía en Málaga, el dinámico motor andaluz",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/04bb2d98-93b6-47b9-beeb-5ec0768e5abc_16-9-aspect-ratio_default_0_x600y255.jpg",
-        "tags": [
-            "economía",
-            "empleo",
-            "día de andalucía",
-            "andalucía",
-            "28f",
-            "empresas",
-            "día de andalucía 2026"
-        ],
-        "link": "https://www.laopiniondemalaga.es/andalucia/2026/02/28/economia-malaga-dinamico-motor-andaluz-127268346.html",
-        "date": "2026-02-28 06:02:28",
-        "sentiment_score": 0.2677513062953949
-    },
-    {
-        "title": "“Tengo una paciente de 82 años haciendo burpees”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/19/69973a878a6a9.r_d.770-388-2923.png",
-        "tags": [
-            "salud"
-        ],
-        "link": "https://www.lavanguardia.com/empresas-de-vanguardia/salud/20260228/11470665/paciente-82-anos-haciendo-burpees-asi-combate-envejecimiento-saludable-casa.html",
-        "date": "2026-02-28 06:00:00",
-        "sentiment_score": -0.5653228722512722
-    },
-    {
-        "title": "El Yugo Socuéllamos se juega el alma en Alcalá",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/ivan-hujo.jpg",
-        "tags": [
-            "ud socuéllamos",
-            "fútbol",
-            "segunda rfef",
-            "socuéllamos",
-            "deportes"
-        ],
-        "link": "https://www.lanzadigital.com/deportes/futbol/segunda-rfef/el-socu-se-juega-el-alma-en-alcala/",
-        "date": "2026-02-28 06:00:00",
-        "sentiment_score": 0.08297181129455566
-    },
-    {
-        "title": "¿Es lo mismo un día festivo que un día de descanso? El Supremo dice que las empresas tienen que compensarlos si coinciden",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/02/10/calendario.jpeg",
-        "tags": [
-            "empleo"
-        ],
-        "link": "https://www.20minutos.es/empleo/dia-festivo-dia-descanso-supremo-dice-empresas-compensarlos-coinciden_6938946_0.html",
-        "date": "2026-02-28 06:00:00",
-        "sentiment_score": -0.15459704771637917
-    },
-    {
-        "title": "Cataluña, posible campo de ensayo de alianzas electorales: la vía Rufián, el frente de Pisarello o incluso un pacto de Junts con Aliança",
-        "image_url": "https://www.elplural.com/uploads/s1/24/61/74/6/el-portavoz-de-erc-en-el-congreso-de-los-diputados-gabriel-rufian-en-el-acto-conjunto-con-emilio-delgado-de-mas-madrid-de-la-izquierda-alternativa-ep_7_480x270.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.elplural.com/autonomias/cataluna/cataluna-posible-campo-ensayo-alianzas-electorales-via-rufian-frente-pisarello-incluso-pacto-junts-alianca_382380102",
-        "date": "2026-02-28 06:40:23",
-        "sentiment_score": -0.09099692106246948
-    },
-    {
-        "title": "PP, Vox y Junts condenan a los vulnerables: 70.000 familias en riesgo de desahucio y un millón de personas en pobreza energética",
-        "image_url": "https://www.elplural.com/uploads/s1/24/71/92/3/pp-vox-y-junts-condenan-a-los-vulnerables-70-000-familias-en-riesgo-de-desahucio-y-un-millon-de-personas-en-pobreza-energetica_7_480x270.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elplural.com/politica/espana/pp-vox-junts-condenan-vulnerables-70000-familias-riesgo-desahucio-millon-personas-pobreza-energetica_382673102",
-        "date": "2026-02-28 06:39:56",
-        "sentiment_score": -0.23018816113471985
-    },
-    {
-        "title": "El factor Cataluña",
-        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2026/02/27/inaki-gabilondo-kC3H--170x119@Diario%20Vasco.jpg",
-        "tags": [
-            "cataluña",
-            "oriol junqueras",
-            "salvador illa",
-            "barcelona (provincia)",
-            "junts per catalunya",
-            "esquerra republicana",
-            "carles puigdemont",
-            "españa",
-            "pere aragonès",
-            "maría jesús montero",
-            "pedro sánchez"
-        ],
-        "link": "https://www.eldiariomontanes.es/opinion/editorial-factor-cataluna-20260228233930-nt.html",
-        "date": "2026-02-28 06:38:46",
-        "sentiment_score": -0.8451259378343821
-    },
-    {
-        "title": "Los fiscales molestos con el ascenso de los afines de García Ortiz: «Es puro nepotismo. Nos toman el pelo»",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/09/69383c07f2c5d.r_d.1104-340.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20260228/fiscales-molestos-ascenso-afines-garcia-ortiz-puro-nepotismo-toman-pelo_390526.html",
-        "date": "2026-02-28 06:11:00",
-        "sentiment_score": -0.9376026447862387
-    },
-    {
-        "title": "Mounir Nasraoui responde a las críticas y defiende su papel con Lamine Yamal",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/09/29/2025092921133717012.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/mounir-nasraoui-responde-criticas-defiende-papel-lamine-yamal/20260228070935376663.html",
-        "date": "2026-02-28 06:09:35",
-        "sentiment_score": -0.21124627441167831
-    },
-    {
-        "title": "Un youtuber de 19 años se pierde en la montaña en Andorra y el SOS satélite de su iPhone le salva la vida",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b893323f-2750-4b99-ad0f-6d506428cc81_alta-libre-aspect-ratio_default_0_x738y331.jpg",
-        "tags": [
-            "youtubers",
-            "andorra",
-            "montañismo",
-            "rescates"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20260228/youtuber-19-anos-pierde-montana-127369500",
-        "date": "2026-02-28 06:03:33",
-        "sentiment_score": 0.6888267993927002
-    },
-    {
-        "title": "'Sirat' y 'Los domingos': Dos formas de espiritualidad que optan al Goya a mejor película",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e1987f67-91ec-4a85-8009-ca23bde1b61f_16-9-aspect-ratio_default_0_x800y400.jpg",
-        "tags": [
-            "premios",
-            "espiritualidad",
-            "películas",
-            "historia"
-        ],
-        "link": "https://www.laopiniondemalaga.es/cultura-espectaculos/2026/02/28/sirat-domingos-formas-espiritualidad-optan-127370267.html",
-        "date": "2026-02-28 06:01:20",
-        "sentiment_score": 0.04168371856212616
-    },
-    {
-        "title": "El cine español apuesta también por normalizar los trastornos psicológicos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c05d762e-e876-4120-bd42-acd07dd4f8eb_alta-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "salud mental",
-            "psiquiatría",
-            "cine español",
-            "psicología",
-            "premios goya 2026"
-        ],
-        "link": "https://www.elperiodico.com/es/ser-feliz/20260228/cine-espanol-apuesta-normalizar-trastornos-127369425",
-        "date": "2026-02-28 06:01:11",
-        "sentiment_score": -0.05056636035442352
-    },
-    {
-        "title": "Pepita Bernat Bosch, 106 años: \"Si después de muerto se estuviera tan bien, alguien habría vuelto para contarlo\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b7ec0916-e786-4a79-b86e-3449f76f49e6_16-9-discover-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "entender más",
-            "longevidad"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260228/pepita-bernat-bosch-106-anos-127257419",
-        "date": "2026-02-28 06:01:03",
-        "sentiment_score": 0.42544372379779816
-    },
-    {
-        "title": "El “Tous pa tous” recupera 4.000 documentos inéditos de los siglos XV al XX que se pueden consultar en el Archivo Municipal de Cangas del Narcea",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5919bb58-0e52-4f3e-8f35-285ba9c7584c_16-9-aspect-ratio_default_0_x698y256.jpg",
-        "tags": [
-            "armas",
-            "tous",
-            "historia"
-        ],
-        "link": "https://www.lne.es/cangas-del-narcea/2026/02/28/tous-pa-tous-recupera-4-127277468.html",
-        "date": "2026-02-28 06:01:03",
-        "sentiment_score": -0.1691608428955078
-    },
-    {
-        "title": "EE.UU. e Israel atacan Irán, en vivo: última hora, imágenes y noticias",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/59/media_thumb-link-4151662.webp?1772266866=",
-        "tags": [
-            "actualidad",
-            "noticias",
-            "israel",
-            "iran",
-            "usa",
-            "feed"
-        ],
-        "link": "https://www.meneame.net/story/ee-uu-israel-atacan-iran-vivo-ultima-hora-imagenes-noticias",
-        "date": "2026-02-28 09:15:03",
-        "sentiment_score": -0.7007345668971539
-    },
-    {
         "title": "Unas molestias impiden a Haaland jugar a diez días de enfrentarse al Real Madrid",
         "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/28/69a327ee19382.jpeg",
         "tags": [
@@ -2688,5 +2480,249 @@ export default [
         "link": "https://www.diariodecadiz.es/tecnologia/spc-mwc-2026-plataforma-teleasistencia-halo_0_2006058254.html",
         "date": "2026-03-03 17:25:11",
         "sentiment_score": 0.6968043595552444
+    },
+    {
+        "title": "Juan Musso fue clave para sostener al Atlético: Así fue su actuación contra Barcelona",
+        "image_url": "https://pxcdn.meridiano.net/032026/1772577021740.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/juan-musso-fue-clave-para-sostener-al-atletico-asi-fue-su-actuacion-contra-barcelona-20263318300",
+        "date": "2026-03-03 22:30:00",
+        "sentiment_score": -0.04964792728424072
+    },
+    {
+        "title": "El Atlético se mete en la final de la Copa del Rey, aunque el Barça roza la gesta (3-0)",
+        "image_url": "https://cflvdg.avoz.es/sc/Gaj5qRRN9jiomb4hE2WRMokB-Lk=/768x/2026/03/03/00121772575381988602790/Foto/eup_20260303_214234220.jpg",
+        "tags": [
+            "fc barcelona",
+            "copa del rey",
+            "atlético de madrid",
+            "deportes"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/03/03/atletico-mete-final-copa-rey-barca-roza-gesta-3-0/00031772575478361225911.htm",
+        "date": "2026-03-03 22:29:00",
+        "sentiment_score": -0.7649785075336695
+    },
+    {
+        "title": "El Atlético frena con sufrimiento al Barça y jugará su 20a final de Copa del Rey (3-0)",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/05ce7b5f-da05-4c5f-bfb5-a7517f9ba05d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barca",
+            "sufrimiento",
+            "frena",
+            "atletico",
+            "jugara"
+        ],
+        "link": "https://www.noticiasdenavarra.com/futbol/2026/03/03/atletico-frena-sufrimiento-barca-jugara-10776621.html",
+        "date": "2026-03-03 22:26:35",
+        "sentiment_score": -0.043086618185043335
+    },
+    {
+        "title": "Copa del Rey: Revive todos los goles del Barcelona contra el Atlético",
+        "image_url": "https://pxcdn.meridiano.net/032026/1772576556402.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/copa-del-rey-revive-todos-los-goles-del-barcelona-contra-el-atletico-20263318240",
+        "date": "2026-03-03 22:24:00",
+        "sentiment_score": 0.1474534161388874
+    },
+    {
+        "title": "Real Madrid confirma que Rodrygo se rompió el ligamento cruzado a 100 días del Mundial",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/854bc56/2147483647/strip/true/crop/5556x2917+0+394/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa6%2F0d%2F69575e2147afac19c0fa61103c9d%2F4a58072d32f24e849663b967bea21f6f.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-03/real-madrid-confirma-que-rodrygo-se-rompio-el-ligamento-cruzado-100-dias-del-mundial",
+        "date": "2026-03-03 22:20:52",
+        "sentiment_score": -0.7446062294766307
+    },
+    {
+        "title": "El Atlético frena con sufrimiento la remontada del Barcelona y se clasifica",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/03/03/spain-copa-del-rey-soccer.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.heraldo.es/noticias/deportes/2026/03/03/partido-barcelona-atletico-madrid-final-copa-rey-2026-1899256.html",
+        "date": "2026-03-03 22:19:51",
+        "sentiment_score": 0.28329479694366455
+    },
+    {
+        "title": "El PP defiende \"la propiedad privada, económica e industrial\" de la costa ante un aumento de la protección ambiental",
+        "image_url": "https://static.eldiario.es/clip/f409a9e2-414b-4d68-9d0b-fda5f0899a4b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "e",
+            "costa",
+            "privada",
+            "propiedad",
+            "industrial",
+            "defiende",
+            "economica",
+            "pp",
+            "proteccion",
+            "aumento",
+            "ambiental"
+        ],
+        "link": "https://www.eldiario.es/sociedad/pp-defiende-propiedad-privada-economica-e-industrial-costa-aumento-proteccion-ambiental_1_13036940.html",
+        "date": "2026-03-03 22:19:10",
+        "sentiment_score": -0.0619242787361145
+    },
+    {
+        "title": "Madrid avanza hacia una Smart City Conversacional mediante prototipos en WhatsApp",
+        "image_url": "https://americaeconomica.com/wp-content/uploads/2026/03/hackathon-madrid-soluciones-whatsapp-768x337.jpg",
+        "tags": [
+            "tecnologia",
+            "empresas"
+        ],
+        "link": "https://americaeconomica.com/noticia/empresas/madrid-avanza-hacia-una-smart-city-conversacional-mediante-prototipos-en-whatsapp.html",
+        "date": "2026-03-03 22:18:32",
+        "sentiment_score": 0.4898415803909302
+    },
+    {
+        "title": "Copa del Rey: ¿Cuándo se disputará la final?",
+        "image_url": "https://pxcdn.meridiano.net/032026/1772576014347.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/copa-del-rey-cuando-se-disputara-la-final-20263318180",
+        "date": "2026-03-03 22:18:00",
+        "sentiment_score": 0.6232605651021004
+    },
+    {
+        "title": "La Casa Real despide a Fernando Ónega, un \"referente\" del \"mejor periodismo de la Transición\"",
+        "image_url": "https://www.infobae.com/resizer/v2/YZFHCQD7DVEXDA343IG4DHCDRY.jpg?auth=2586b88761ed4a201dd004b0112ac31cdd30687ca154d05240f8204d39d54f5a&height=1280&smart=true&width=1920",
+        "tags": [
+            "radio",
+            "madrid",
+            "periodismo",
+            "casa de galicia",
+            "ana bedia",
+            "fernando ónega",
+            "casa real",
+            "europapress",
+            "transición",
+            "galicia",
+            "65ymás"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/03/la-casa-real-despide-a-fernando-onega-un-referente-del-mejor-periodismo-de-la-transicion/",
+        "date": "2026-03-03 22:15:23",
+        "sentiment_score": 0.7371132671833038
+    },
+    {
+        "title": "Minguella: \"Pierdes, pero te quedas contento del esfuerzo de los jugadores\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/03/69a7606c471c3.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/minguella-pierdes-te-quedas-contento-esfuerzo-jugadores-20260303_3319238.html",
+        "date": "2026-03-03 22:32:27",
+        "sentiment_score": -0.03443640470504761
+    },
+    {
+        "title": "Desokupa 'esquiva' una sanción por intrusismo laboral al sector de la seguridad privada",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/12/22/sucesos/819178101_12127545_1706x960.jpg",
+        "tags": [
+            "el raval",
+            "economía",
+            "generalitat de catalunya",
+            "okupas",
+            "sindicatos"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260303/desokupa-esquiva-sancion-intrusismo-laboral-sector-seguridad-privada/1003742737435_0.html",
+        "date": "2026-03-03 22:32:26",
+        "sentiment_score": -0.7544786240905523
+    },
+    {
+        "title": "Cambio de imagen a la plaza de la Estación: Castelldefels destina tres millones a su modernización",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/27/gran-barcelona/1003742736969_15769695_1706x960.jpg",
+        "tags": [
+            "obras",
+            "gran barcelona",
+            "manu reyes",
+            "pp",
+            "renfe barcelona",
+            "baix llobregat",
+            "castelldefels - noticias"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260303/cambio-imagen-plaza-estacion-castelldefels-destina-millones-modernizacion/1003742736773_0.html",
+        "date": "2026-03-03 22:30:00",
+        "sentiment_score": 0.7268743216991425
+    },
+    {
+        "title": "Barcelona perderá dos escuelas concertadas el curso que viene: de una sola línea y en barrios humildes",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/04/actualidad/1003742713401_15479819_1706x960.jpg",
+        "tags": [
+            "la verneda i la pau",
+            "niños",
+            "generalitat de catalunya",
+            "sant martí de provençals",
+            "colegios barcelona",
+            "colegios",
+            "educación",
+            "el pulso de la ciudad"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260303/barcelona-perdera-escuelas-concertadas-curso-viene-sola-linea-barrios-humildes/1003742736934_0.html",
+        "date": "2026-03-03 22:30:00",
+        "sentiment_score": -0.3902948275208473
+    },
+    {
+        "title": "Los clubes se adaptan al pickleball, el nuevo deporte de raqueta de moda",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/03/pickleball-servimedia.jpg",
+        "tags": [
+            "servimedia",
+            "actualidad"
+        ],
+        "link": "https://theobjective.com/actualidad/2026-03-03/clubes-pickleball-deporte-raqueta-moda/",
+        "date": "2026-03-03 22:29:17",
+        "sentiment_score": 0.3770091086626053
+    },
+    {
+        "title": "Huawei colabora con el GCC para lanzar la iniciativa de co-construcción del ecosistema AIDC",
+        "image_url": "https://mma.prnewswire.com/media/2924128/image_1.jpg?p=publish",
+        "tags": [
+            "green technology",
+            "artificial intelligence",
+            "computer & electronics",
+            "environmental products & services",
+            "afi",
+            "cpr",
+            "gre",
+            "env"
+        ],
+        "link": "https://www.prnewswire.com/news-releases/huawei-colabora-con-el-gcc-para-lanzar-la-iniciativa-de-co-construccion-del-ecosistema-aidc-302703122.html",
+        "date": "2026-03-03 22:29:00",
+        "sentiment_score": 0.12438973598182201
+    },
+    {
+        "title": "Barcelona golea al Atlético en una vuelta de infarto",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fc barcelona",
+            "resultados copa del rey",
+            "noticias 24 horas carabobo",
+            "noticias de valencia",
+            "noticias de sucesos",
+            "portada",
+            "noticias de hoy valencia",
+            "copa del rey",
+            "noticias de carabobo",
+            "news",
+            "noticias de venezuela",
+            "actualidad",
+            "noticias24carabobo",
+            "noticias24carabobo en google news",
+            "resultados barcelona vs atlético",
+            "noticias 24",
+            "deportes",
+            "noticias hoy"
+        ],
+        "link": "https://noticias24carabobo.com/resultado-barcelona-golea-atletico-vuelta-infarto/",
+        "date": "2026-03-03 22:26:19",
+        "sentiment_score": -0.14173875749111176
     }
 ];
