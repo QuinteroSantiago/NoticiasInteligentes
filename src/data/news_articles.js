@@ -2724,5 +2724,310 @@ export default [
         "link": "https://noticias24carabobo.com/resultado-barcelona-golea-atletico-vuelta-infarto/",
         "date": "2026-03-03 22:26:19",
         "sentiment_score": -0.14173875749111176
+    },
+    {
+        "title": "Pillado copiando en el examen MIR con gafas de IA y reloj inteligente",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/5d/media_thumb-link-4152800.webp?1772556126=",
+        "tags": [
+            "mir",
+            "actualidad",
+            "copiar",
+            "medicina",
+            "ia"
+        ],
+        "link": "https://www.meneame.net/story/pillado-copiando-examen-mir-gafas-ia-reloj-inteligente",
+        "date": "2026-03-04 02:15:03",
+        "sentiment_score": -0.33401329815387726
+    },
+    {
+        "title": "Las bolsas tiemblan ante una guerra larga en Irán y el Ibex pierde más de 66.000 millones en dos días",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
+        "tags": [
+            "artículos clara rojas"
+        ],
+        "link": "https://www.elmundo.es/economia/dinero-inversion/2026/03/04/69a74d98e9cf4a5e108b4597.html",
+        "date": "2026-03-04 01:27:43",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "El lado oscuro del Mundial 2026: las 17 estrellas que no estarán en la cita",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/Mundial-2026.jpg",
+        "tags": [
+            "titulares",
+            "deportes",
+            "figuras lesionadas",
+            "samo omorodion",
+            "mundial 2026",
+            "juan foyth",
+            "rodrygo goes",
+            "jack grealish"
+        ],
+        "link": "https://lapatilla.com/2026/03/03/el-lado-oscuro-del-mundial-2026-las-17-estrellas-que-no-estaran-en-la-cita/",
+        "date": "2026-03-04 01:16:27",
+        "sentiment_score": 0.046617358922958374
+    },
+    {
+        "title": "Rodrygo se perderá el Mundial 2026 con Brasil: ¿qué lesión tiene y cómo puede afectar a Neymar?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/03/03/rodrygo-lesion-mundial-2026-neymar-ancelotti-orix/",
+        "date": "2026-03-04 01:03:42",
+        "sentiment_score": -0.8483476508408785
+    },
+    {
+        "title": "Nikki, de ser la voz de Google a su primer disco como solista: \"He tardado casi 40 años en entender muchas cosas\"",
+        "image_url": "https://s3.elespanol.com/2026/03/03/actualidad/1003744154316_261739363_1706x960.jpg",
+        "tags": [
+            "google maps",
+            "discos música",
+            "madrid total",
+            "disney"
+        ],
+        "link": "https://www.elespanol.com/madrid/20260304/nikki-voz-google-primer-disco-solista-tardado-anos-entender-muchas-cosas/1003744153540_0.html",
+        "date": "2026-03-04 01:00:00",
+        "sentiment_score": 0.004323720932006836
+    },
+    {
+        "title": "Rodrygo se perderá el Mundial 2026 con Brasil: ¿qué lesión tiene y cómo puede afectar a Neymar?",
+        "image_url": "https://ktvz.b-cdn.net/2026/03/lawd-375x225.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://ktvz.com/cnn-spanish/2026/03/03/rodrygo-se-perdera-el-mundial-2026-con-brasil-que-lesion-tiene-y-como-puede-afectar-a-neymar/",
+        "date": "2026-03-04 00:43:14",
+        "sentiment_score": -0.49108263850212097
+    },
+    {
+        "title": "El Atlético de Madrid se clasifica para la final de la Copa del Rey pese a perder 3-0 ante el Barcelona",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/03201730/AFP__20260303__99TY2EB__v1__MidRes__FblEspCupBarcelonaAtleticoMadrid.jpg",
+        "tags": [
+            "copa del rey",
+            "barcelona",
+            "deportes",
+            "fútbol",
+            "atlético de madrid"
+        ],
+        "link": "https://www.elnacional.com/2026/03/el-atletico-de-madrid-se-clasifica-para-la-final-de-la-copa-del-rey-pese-a-perder-3-0-ante-el-barcelona/",
+        "date": "2026-03-04 00:36:44",
+        "sentiment_score": 0.016929060220718384
+    },
+    {
+        "title": "Así fue la visita de leyendas del Barcelona al entrenamiento de las Chivas",
+        "image_url": "https://www.infobae.com/resizer/v2/QM5NQ5BDDZCKVM2BUJCSCWCCIY.png?auth=fd192cfe00ab6697772787f37365e9b22278177a893c9fc758e887d5b2a45c1b&height=900&smart=true&width=1600",
+        "tags": [
+            "copa del mundo 2026",
+            "chivas",
+            "fc barcelona",
+            "guadalajara",
+            "estadio akron",
+            "mexico-noticias",
+            "real madrid",
+            "mexico-deportes",
+            "leyendas del fútbol"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2026/03/04/asi-fue-la-visita-de-leyendas-del-barcelona-al-entrenamiento-de-las-chivas/",
+        "date": "2026-03-04 00:25:00",
+        "sentiment_score": 0.27030252665281296
+    },
+    {
+        "title": "El Atlético va a la final de la Copa del Rey a pesar de caer goleados 3-0",
+        "image_url": "https://laprensadelara.com/wp-content/uploads/2026/03/El-Atletico-va-a-la-final-de-la-Copa-del-Rey-a-pesar-de-caer-goleados-3-0.webp",
+        "tags": [
+            "fc barcelona",
+            "uefa",
+            "final de la copa del rey",
+            "la liga",
+            "futbol",
+            "deportes",
+            "fútbol",
+            "camp nou",
+            "atlético de madrid",
+            "copa del rey"
+        ],
+        "link": "https://laprensadelara.com/deportes/atletico-va-a-la-final-copa-del-rey/",
+        "date": "2026-03-04 00:15:36",
+        "sentiment_score": 0.25165463984012604
+    },
+    {
+        "title": "VIDEO| Luis Javier Suárez sigue en racha: gol decisivo ante Porto en la semifinal de la Copa de Portugal",
+        "image_url": "https://www.infobae.com/resizer/v2/VG3NTDQV6NE4RMGDLQHMC47GLY.jpg?auth=a21b561bb8fa9da750af9c68313d27fa05cce45b9a99e381c7966285917d9a53&height=858&smart=true&width=1462",
+        "tags": [
+            "sporting lisboa",
+            "copa de portugal",
+            "porto",
+            "luis suárez",
+            "colombia-deportes",
+            "luis javier suárez"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/03/03/video-luis-javier-suarez-sigue-en-racha-gol-decisivo-ante-porto-en-la-semifinal-de-la-copa-de-portugal/",
+        "date": "2026-03-03 23:57:50",
+        "sentiment_score": 0.48966243863105774
+    },
+    {
+        "title": "El motivo por el que Marcos Llorente no verá en directo la otra semifinal de la Copa del Rey entre Real Sociedad y Athletic",
+        "image_url": "https://www.infobae.com/resizer/v2/JN3DRYVTKFEKZHNRA67GTQKDJA.JPG?auth=ce86252604a331a7de1ed03a9896cb483ba63304cabc0f1f187f6201c6221831&height=3420&smart=true&width=4646",
+        "tags": [
+            "españa-noticias",
+            "fútbol",
+            "copa del rey",
+            "real sociedad",
+            "atlético de madrid",
+            "fc barcelona",
+            "españa-deportes",
+            "athletic club",
+            "marcos llorente",
+            "fútbol españa"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/03/03/el-motivo-por-el-que-marcos-llorente-no-vera-en-directo-la-otra-semifinal-de-la-copa-del-rey-entre-real-sociedad-y-athletic/",
+        "date": "2026-03-03 23:53:07",
+        "sentiment_score": 0.17829494178295135
+    },
+    {
+        "title": "¡EL BARÇA ROZÓ EL MILAGRO!",
+        "image_url": "https://diarioavance.com/wp-content/uploads/2026/03/barcelona.png",
+        "tags": [
+            "avance",
+            "diario avance"
+        ],
+        "link": "https://diarioavance.com/el-barca-rozo-el-milagro/",
+        "date": "2026-03-04 02:36:15",
+        "sentiment_score": 0.5613159835338593
+    },
+    {
+        "title": "Clima en Barcelona: pronóstico de lluvias y ráfagas de viento",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima en españa",
+            "clima en barcelona",
+            "clima",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/04/clima-en-barcelona-pronostico-de-lluvias-y-rafagas-de-viento/",
+        "date": "2026-03-04 02:00:56",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "COMUNICADO: Huawei propone construir una red de objetivos totalmente óptica centrada en IA",
+        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
+        "tags": [
+            "comunicados internacional",
+            "comunicados"
+        ],
+        "link": "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-huawei-propone-construir-red-objetivos-totalmente-optica-centrada-ia-20260304025406.html",
+        "date": "2026-03-04 01:54:06",
+        "sentiment_score": 0.5345004089176655
+    },
+    {
+        "title": "Huawei propone construir una red de objetivos totalmente óptica centrada en IA",
+        "image_url": "https://mma.prnewswire.com/media/2924558/Kim_Jin_Vice_President_Huawei_Optical_Business_Product_Line_proposes.jpg?p=publish",
+        "tags": [
+            "teq",
+            "cpr",
+            "artificial intelligence",
+            "afi",
+            "net",
+            "computer software",
+            "tcs",
+            "computer hardware",
+            "internet technology",
+            "ite",
+            "wireless communications",
+            "stw",
+            "carriers and services",
+            "wic",
+            "tls",
+            "hrd",
+            "computer & electronics",
+            "telecommunications industry",
+            "networks",
+            "telecommunications equipment"
+        ],
+        "link": "https://www.prnewswire.com/news-releases/huawei-propone-construir-una-red-de-objetivos-totalmente-optica-centrada-en-ia-302703272.html",
+        "date": "2026-03-04 01:53:00",
+        "sentiment_score": 0.6374360881745815
+    },
+    {
+        "title": "COMUNICADO: Huawei presenta la primera solución Campus L4 ADN de la industria",
+        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
+        "tags": [
+            "comunicados internacional",
+            "comunicados"
+        ],
+        "link": "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-huawei-presenta-primera-solucion-campus-l4-adn-industria-20260304023701.html",
+        "date": "2026-03-04 01:37:01",
+        "sentiment_score": 0.806591747328639
+    },
+    {
+        "title": "El divertido ping pong a Colapinto antes del inicio de la F1: su principal fobia, Messi y el superpoder que le gustaría tener",
+        "image_url": "https://www.infobae.com/resizer/v2/JT35AONVDFFRXHM4CHPTILKB3M.jfif?auth=b23319b6ea809a138662016848e0e6257163adc7b9d899d5db8b7d32fec3c230&height=1837&smart=true&width=3072",
+        "tags": [
+            "franco colapinto",
+            "lionel messi",
+            "fórmula 1",
+            "deportes-argentina",
+            "deportes-internacional",
+            "alpine f1 team"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/04/el-divertido-ping-pong-a-colapinto-antes-del-inicio-de-la-f1-su-principal-fobia-messi-y-el-superpoder-que-le-gustaria-tener/",
+        "date": "2026-03-04 01:30:27",
+        "sentiment_score": 0.20998772978782654
+    },
+    {
+        "title": "COMUNICADO: Horion presentará la pantalla plana interactiva M6APro V2",
+        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
+        "tags": [
+            "comunicados",
+            "comunicados internacional"
+        ],
+        "link": "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-horion-presentara-pantalla-plana-interactiva-m6apro-v2-20260304020555.html",
+        "date": "2026-03-04 01:05:55",
+        "sentiment_score": 0.34464412182569504
+    },
+    {
+        "title": "Olóndriz, la candidata de Montero para presidir con \"independencia\" la AIReF, dijo en acta: \"Ante la discrepancia debe prevalecer el criterio de la ministra\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/92a66b7fbebb058e1bff194ca83ff010/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/03/17725619948544.jpg",
+        "tags": [
+            "economia"
+        ],
+        "link": "https://www.elmundo.es/economia/2026/03/04/69a725c8e9cf4af75b8b4599.html",
+        "date": "2026-03-04 01:05:27",
+        "sentiment_score": -0.9117248756811023
+    },
+    {
+        "title": "COMUNICADO: uCloudlink desbloquea un océano azul multimillonario en el MWC 2026",
+        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
+        "tags": [
+            "comunicados internacional",
+            "comunicados"
+        ],
+        "link": "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-ucloudlink-desbloquea-oceano-azul-multimillonario-mwc-2026-20260304014447.html",
+        "date": "2026-03-04 00:44:47",
+        "sentiment_score": 0.3932512179017067
+    },
+    {
+        "title": "uCloudlink desbloquea un océano azul multimillonario en el MWC 2026",
+        "image_url": "https://mma.prnewswire.com/media/2924291/1.jpg?p=publish",
+        "tags": [
+            "cse",
+            "consumer electronics",
+            "telecommunications industry",
+            "tls",
+            "internet technology",
+            "cpr",
+            "net",
+            "iot",
+            "afi",
+            "ite",
+            "computer & electronics",
+            "networks",
+            "cloud computing/internet of things",
+            "artificial intelligence"
+        ],
+        "link": "https://www.prnewswire.com/news-releases/ucloudlink-desbloquea-un-oceano-azul-multimillonario-en-el-mwc-2026-302703217.html",
+        "date": "2026-03-04 00:43:00",
+        "sentiment_score": 0.5361767336726189
     }
 ];
