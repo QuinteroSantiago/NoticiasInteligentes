@@ -1,183 +1,5 @@
 export default [
     {
-        "title": "Unas molestias impiden a Haaland jugar a diez días de enfrentarse al Real Madrid",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/02/28/69a327ee19382.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/molestias-impiden-haaland-jugar-diez-dias-enfrentarse-real-madrid-20260228_3317360.html",
-        "date": "2026-02-28 17:42:13",
-        "sentiment_score": -0.36653663218021393
-    },
-    {
-        "title": "¡Líderes! El Barcelona brilla con el triplete de Lamine Yamal",
-        "image_url": "https://i.ytimg.com/vi/49l6bdAMUiw/mqdefault.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-internacional/lideres-el-barcelona-brilla-con-el-triplete-de-lamine-yamal-202622813380",
-        "date": "2026-02-28 17:38:00",
-        "sentiment_score": 0.811086468398571
-    },
-    {
-        "title": "Lamine Yamal descompone al Villarreal (4-1)",
-        "image_url": "https://cflvdg.avoz.es/sc/61XxLi8G9bJK5-WWfRmn9OC7jDI=/768x/2026/02/28/00121772299381988434449/Foto/eup_20260228_161709790.jpg",
-        "tags": [
-            "fc barcelona",
-            "deportes"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/02/28/lamine-yamal-descompone-villarreal-4-1/00031772299741505649518.htm",
-        "date": "2026-02-28 17:31:00",
-        "sentiment_score": 0.4245581403374672
-    },
-    {
-        "title": "Lamine Yamal desata al Barça",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/28/Clipboard-0232.jpg",
-        "tags": [
-            "villarreal/vila-real",
-            "robert lewandowski",
-            "f.c. barcelona",
-            "lamine yamal"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-primera/lamine-yamal-desata-barca-20260228182256-ntrc.html",
-        "date": "2026-02-28 17:30:53",
-        "sentiment_score": 0.7026828192174435
-    },
-    {
-        "title": "Lamine Yamal desasosiega al Villarreal",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/a276f91f-d012-4e68-9fef4408b1e9980f.jpg",
-        "tags": [
-            "copa del rey",
-            "pedri",
-            "ferran torres",
-            "laliga ea sports",
-            "real madrid",
-            "hansi flick",
-            "raphinha",
-            "villarreal cf",
-            "robert lewandowski",
-            "dani olmo",
-            "atlético de madrid",
-            "lamine yamal",
-            "fc barcelona",
-            "marcelino garcía toral"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z4d2855cc-3b82-49f7-83d0407893fce2c7/202602/lamine-yamal-desasosiega-al-villarreal",
-        "date": "2026-02-28 17:22:20",
-        "sentiment_score": 0.7037892304360867
-    },
-    {
-        "title": "Real Madrid-Getafe: Alineaciones probables, estadísticas y cómo ver por TV y online (21:00)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(200x60:202x58)/origin-imgresizer.eurosport.com/2026/02/24/image-5b5f62a4-0e19-4565-a9d7-2e0fff7d2c57-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "la liga 2025/2026"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/real-madrid-getafe-alineaciones-probables-previa-estadisticas-datos-previos-horario-como-donde-ver-television-online-streaming-hoy_sto23276275/story.shtml",
-        "date": "2026-02-28 17:21:32",
-        "sentiment_score": 0.03021879680454731
-    },
-    {
-        "title": "Amancio López Seijas (Grupo Hotusa) recibe el XXIX Premi Gran Gaudí Gresol",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260228183936_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-amancio-lopez-seijas-grupo-hotusa-recibe-xxix-premi-gran-gaudi-gresol-20260228183936.html",
-        "date": "2026-02-28 17:39:36",
-        "sentiment_score": 0.06692897528409958
-    },
-    {
-        "title": "El Newcastle cae ante el Everton en casa",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/28/69a3278986c8c.r_d.1987-1379-1212.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/futbol/20260228/11478050/newcastle-everton-premier-league-resumen.html",
-        "date": "2026-02-28 17:37:56",
-        "sentiment_score": -0.5986289530992508
-    },
-    {
-        "title": "Napptilus Tech Labs vuelve a llevar al 4YFN 'startups' disruptivas con impacto real",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/28/business/1003742737110_15771317_1706x960.jpg",
-        "tags": [
-            "inteligencia artificial",
-            "barcelona",
-            "recomendados",
-            "4yfn",
-            "startup",
-            "cataluña",
-            "fira de barcelona"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/recomendados/20260228/napptilus-tech-labs-vuelve-startups-disruptivas-impacto/1003742737108_0.html",
-        "date": "2026-02-28 17:36:27",
-        "sentiment_score": 0.3912072330713272
-    },
-    {
-        "title": "Resumen Barcelona-Villarreal: Bienvenidos al show de Lamine Yamal (4-1)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/02/28/image-fea4d7fd-2277-458c-bae6-fff7861f7647-85-2560-1440.jpeg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/barcelona-villarreal-video-resumen-resultado-goles-y-mejores-momentos-del-partido-la-liga-ea-sports-jornada-26-hoy_vid60060746/video.shtml",
-        "date": "2026-02-28 17:36:02",
-        "sentiment_score": 0.4279686063528061
-    },
-    {
-        "title": "Lista de nominados de los Premios Goya 2026",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/02/27/E348AFC2-E6AD-46E8-881C-3BE290692F6A/98.jpg?crop=1920%2C1080%2Cx0%2Cy179&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "cultura",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/cultura/lista-nominados-premios-goya-2026_2026022869a3276b1817b41eb668cbc9.html",
-        "date": "2026-02-28 17:35:39",
-        "sentiment_score": 0.3214198052883148
-    },
-    {
-        "title": "Empiezan a desfilar por la alfombra roja los primeros invitados a la 40 edición de los Premios Goya",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/EuropaPress_7327692_empiezan_desfilar_alfombra_roja_primeros_invitados_40_edicion_premios_goya.jpg",
-        "tags": [
-            "nacional",
-            "alfombra",
-            "goya",
-            "barcelona",
-            "premios"
-        ],
-        "link": "https://www.lanzadigital.com/nacional/empiezan-a-desfilar-por-la-alfombra-roja-los-primeros-invitados-a-la-40-edicion-de-los-premios-goya/",
-        "date": "2026-02-28 17:34:57",
-        "sentiment_score": -0.08975756168365479
-    },
-    {
-        "title": "Los mejores y peores looks de la alfombra roja de los premios Goya 2026",
-        "image_url": "https://okdiario.com/look/img/2026/02/28/marina-rivers-1.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://okdiario.com/look/actualidad/mejores-peores-looks-alfombra-roja-premios-goya-2026-2496068",
-        "date": "2026-02-28 17:34:35",
-        "sentiment_score": 0.5607931464910507
-    },
-    {
-        "title": "Vox se queda sin número 1: Ansaldo, el 'boina verde' de sangre aristocrática",
-        "image_url": "https://static1.ara.cat/clip/fce20161-dcae-434c-a67e-9280b709f103_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ansaldo",
-            "queda",
-            "verde",
-            "1",
-            "numero",
-            "aristocratica",
-            "vox",
-            "boina",
-            "sangre"
-        ],
-        "link": "https://es.ara.cat/politica/vox-queda-numero-1-ansaldo-boina-verde-sangre-aristocratica_1_5664209.html",
-        "date": "2026-02-28 17:32:30",
-        "sentiment_score": -0.3262074440717697
-    },
-    {
         "title": "‘Toni’ Fernández Gabarre gana el premio Goya al Mejor Actor Revelación por ‘Ciudad sin sueño’",
         "image_url": "https://www.infobae.com/resizer/v2/BWYABM53LVEPXHBL22KUOGQS54.jpg?auth=cb109f1d0895c5603bf5ad769f936ece2c5a9b6344422395eb57c8fd68072c5a&height=2159&smart=true&width=3239",
         "tags": [
@@ -397,16 +219,6 @@ export default [
         "link": "https://www.ideal.es/pantallas/premios-goya/susan-sarandon-aplaude-rigidez-moral-sanchez-respecto-20260228230655-ntrc.html",
         "date": "2026-02-28 22:12:57",
         "sentiment_score": 0.7056246884167194
-    },
-    {
-        "title": "Lo más viral: Seguidores de Willie Colón podrán despedirlo",
-        "image_url": "https://static.wixstatic.com/media/335561_8949536081fa4918bbb58a1108bd8f9b~mv2.png/v1/fit/w_460,h_396,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-seguidores-de-willie-col%C3%B3n-podr%C3%A1n-despedirlo",
-        "date": "2026-02-28 18:00:26",
-        "sentiment_score": 0.4914949908852577
     },
     {
         "title": "José Luis Cordeiro, gran amigo de Milei y gurú de la longevidad: \"En 2045 seremos inmortales. Habrá una pastilla y vacunas\"",
@@ -3029,5 +2841,204 @@ export default [
         "link": "https://www.prnewswire.com/news-releases/ucloudlink-desbloquea-un-oceano-azul-multimillonario-en-el-mwc-2026-302703217.html",
         "date": "2026-03-04 00:43:00",
         "sentiment_score": 0.5361767336726189
+    },
+    {
+        "title": "¿El fichaje gratis vuela? El FC Barcelona se queda sin su nuevo Lewandowski",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/24/2025112412220030825.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/fc-barcelona-escapa-fichaje-gratis-que-pintaba-como-reemplazo-lewandowski/20260304075827377213.html",
+        "date": "2026-03-04 06:58:27",
+        "sentiment_score": -0.7895078770816326
+    },
+    {
+        "title": "¿Un nuevo refuerzo al estilo Wirtz? El Liverpool suspira por una estrella de la Bundesliga",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/29/2025122903551641160.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/nuevo-refuerzo-estilo-wirtz-liverpool-suspira-estrella-bundesliga/20260304073321377212.html",
+        "date": "2026-03-04 06:33:21",
+        "sentiment_score": -0.03946171700954437
+    },
+    {
+        "title": "El calvario de Rodrygo no cesa y va a ser un problema para el Madrid en verano: de estar marginado a una lesión",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/03/69a7368423aa08-80541675.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/calvario-rodrygo-no-cesa-va-ser-un-problema-para-real-madrid-verano-estar-marginado-una-grave-lesion_6941492_0.html",
+        "date": "2026-03-04 06:28:12",
+        "sentiment_score": -0.6584682390093803
+    },
+    {
+        "title": "El Alavés rompe con Coudet y apuesta por la experiencia de Quique Sánchez Flores",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/04/2026030407235056842.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/quique-sanchez-flores-asume-como-reemplazo-eduardo-caudet-deportivo-alaves/20260304072555377211.html",
+        "date": "2026-03-04 06:25:55",
+        "sentiment_score": 0.2840313892811537
+    },
+    {
+        "title": "Colectivos reclaman a Sara Aagesen que actúe contra la desprotección de suelo protegido de Ayuso",
+        "image_url": "https://www.elplural.com/uploads/s1/24/77/34/3/la-presidenta-de-la-comunidad-de-madrid-isabel-diaz-ayuso-ep_7_480x270.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elplural.com/autonomias/madrid/colectivos-reclaman-sara-aagesen-actue-contra-desproteccion-suelo-protegido-ayuso_383057102",
+        "date": "2026-03-04 06:19:18",
+        "sentiment_score": -0.023774296045303345
+    },
+    {
+        "title": "La oposición a la guerra de Irán abre el peor choque diplomático entre España y EE UU de la era Trump",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1b0f519e-acf8-4e77-9bfe-8f469e026dac_16-9-aspect-ratio_default_0_x1200y533.jpg",
+        "tags": [
+            "irán",
+            "pedro sánchez",
+            "estados unidos",
+            "donald trump"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/internacional/2026/03/04/oposicion-guerra-iran-choque-espana-trump-sanchez-127527396.html",
+        "date": "2026-03-04 06:18:34",
+        "sentiment_score": -0.8777851443737745
+    },
+    {
+        "title": "Alerta por viento en Barcelona: Protecció Civil apunta a rachas de 70 km/h y olas de más de dos metros",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/04/vivir-en-barcelona/1003742738084_15783745_1706x960.jpg",
+        "tags": [
+            "clima",
+            "aemet (agencia estatal de meteorología)",
+            "temporal",
+            "el tiempo",
+            "cambio climático",
+            "vivir en barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260304/alerta-viento-barcelona-proteccio-civil-apunta-rachas-kmh-olas-metros/1003742738083_0.html",
+        "date": "2026-03-04 07:01:22",
+        "sentiment_score": -0.8936468251049519
+    },
+    {
+        "title": "Palo de Griezmann al Barcelona en forma de venganza: «¿Esta foto va muy dura?»",
+        "image_url": "https://okdiario.com/img/2026/03/04/griezmann-4.jpg",
+        "tags": [
+            "copa del rey",
+            "antoine griezmann",
+            "barcelona",
+            "atlético de madrid",
+            "fc barcelona",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://okdiario.com/deportes/palo-griezmann-barcelona-forma-venganza-esta-foto-va-muy-dura-16347443",
+        "date": "2026-03-04 07:00:56",
+        "sentiment_score": -0.3580268546938896
+    },
+    {
+        "title": "Enrique Cerezo vacila con el pase del Atlético a la final: «No hizo falta que jugasen Tomford y Smith»",
+        "image_url": "https://okdiario.com/img/2025/12/19/enrique-cerezo-presidente-del-atletico.-europa-press.jpg",
+        "tags": [
+            "copa del rey",
+            "barcelona",
+            "atlético de madrid",
+            "enrique cerezo",
+            "fc barcelona",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://okdiario.com/deportes/enrique-cerezo-vacila-pase-del-atletico-final-no-hizo-falta-que-jugasen-tomford-smith-16347400",
+        "date": "2026-03-04 07:00:31",
+        "sentiment_score": -0.2383660227060318
+    },
+    {
+        "title": "Dónde ir en Semana Santa: 10 escapadas baratas en España para tus vacaciones",
+        "image_url": "https://okdiario.com/img/2026/03/24/donde-ir-en-semana-santa-10-escapadas-baratas-en-espana-para-tus-vacaciones.jpg",
+        "tags": [
+            "okd",
+            "festivos nacionales",
+            "fiestas",
+            "vacaciones",
+            "semana santa"
+        ],
+        "link": "https://okdiario.com/semana-santa/donde-ir-semana-santa-10-escapadas-baratas-espana-tus-vacaciones-16295359",
+        "date": "2026-03-04 07:00:21",
+        "sentiment_score": 0.23496770858764648
+    },
+    {
+        "title": "Las tres noticias de Carlos Alsina para empezar el día: \"Trump nos castiga y arremete contra el Gobierno de España\"",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/05/09/6DE83B54-8831-4632-AA7C-6CB358183EDA/tres-historias-empezar-dia-carlos-alsina_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "noticias",
+            "españa",
+            "ondacero"
+        ],
+        "link": "https://www.ondacero.es/noticias/espana/tres-noticias-carlos-alsina-empezar-dia-trump-nos-castiga-arremete-gobierno-espana_2026030469a7d7ec6cf703292f5fc052.html",
+        "date": "2026-03-04 06:57:48",
+        "sentiment_score": -0.08884944021701813
+    },
+    {
+        "title": "España hoy, 4 de marzo de 2026: lo que tienes que saber",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/07/b19372fd-74c6-4c34-908e-ecc750a47a3c_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "china",
+            "europa",
+            "israel",
+            "estados unidos",
+            "gaza",
+            "venezuela",
+            "bruselas",
+            "españa",
+            "aranceles"
+        ],
+        "link": "https://theobjective.com/espana/2026-03-04/espana-hoy-4-de-marzo-de-2026-lo-que-tienes-que-saber/",
+        "date": "2026-03-04 06:36:46",
+        "sentiment_score": -0.7251168303191662
+    },
+    {
+        "title": "Horion debutará en Integrated Systems Europe 2026, presentando soluciones de colaboración inteligente",
+        "image_url": "https://mma.prnewswire.com/media/2902861/ISE_exhibition_booth_photo_1.jpg?p=publish",
+        "tags": [
+            "consumer electronics",
+            "hrd",
+            "cse",
+            "computer & electronics",
+            "cpr",
+            "computer hardware"
+        ],
+        "link": "https://www.prnewswire.com/news-releases/horion-debutara-en-integrated-systems-europe-2026-presentando-soluciones-de-colaboracion-inteligente-302703521.html",
+        "date": "2026-03-04 06:33:00",
+        "sentiment_score": 0.39455818571150303
+    },
+    {
+        "title": "La gasolina más barata y más cara de Madrid, Barcelona y otras ciudades de España este 4 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "precio de la gasonila en barcelona",
+            "españa-economia",
+            "madrid y otras ciudades",
+            "precio de la gasolina en españa hoy",
+            "últimas actualizaciones",
+            "precio de la gasolina en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/04/la-gasolina-mas-barata-y-mas-cara-de-madrid-barcelona-y-otras-ciudades-de-espana-este-4-de-marzo/",
+        "date": "2026-03-04 06:31:01",
+        "sentiment_score": -0.012977853417396545
+    },
+    {
+        "title": "Previsión AEMET: Intervalos nubosos y lluvias débiles en Barcelona, con viento moderado y temperaturas en ascenso",
+        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
+        "tags": [
+            "cataluña",
+            "okd",
+            "españa",
+            "tiempo",
+            "agencia estatal de meteorología (aemet)",
+            "previsión del tiempo"
+        ],
+        "link": "https://okdiario.com/cataluna/prevision-aemet-intervalos-nubosos-y-lluvias-debiles-en-barcelona-con-viento-moderado-y-temperaturas-en-ascenso-16347564",
+        "date": "2026-03-04 06:24:36",
+        "sentiment_score": -0.3301664963364601
     }
 ];
