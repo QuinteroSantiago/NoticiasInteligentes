@@ -228,16 +228,6 @@ export default [
         "sentiment_score": -0.5578063409775496
     },
     {
-        "title": "Semana Deportiva: La Vinotinto Femenina no pudo con Brasil",
-        "image_url": "https://static.wixstatic.com/media/335561_1cec7aa555f8406297ca9f87bbfcf3c5~mv2.png/v1/fit/w_515,h_367,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/semana-deportiva-la-vinotinto-femenina-no-pudo-con-brasil",
-        "date": "2026-03-01 12:36:23",
-        "sentiment_score": 0.042245857417583466
-    },
-    {
         "title": "Árbitro activa protocolo antirracismo en el empate entre Espanyol y Elche en La Liga",
         "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
         "tags": [
@@ -2934,5 +2924,183 @@ export default [
         "link": "https://www.eldiario.es/tecnologia/ia-ciberseguridad-conectividad-mobile-world-congress-dejado-feria-moviles_1_13037250.html",
         "date": "2026-03-04 22:16:43",
         "sentiment_score": -0.14963415265083313
+    },
+    {
+        "title": "Catar evacúa viviendas cerca de la embajada de Estados Unidos en Doha mientras Washington inicia vuelos para sacar a sus ciudadanos de Oriente Medio",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/03/cielo-de-catar-durante-el-bombardeo-de-iran-sobre-la-base-estadounidense-de-doha.jpeg",
+        "tags": [
+            "global"
+        ],
+        "link": "https://www.huffingtonpost.es/global/catar-evacua-viviendas-cerca-embajada-estados-unidos-doha-washington-inicia-vuelos-sacar-ciudadanos-oriente-medio-f202603.html",
+        "date": "2026-03-05 02:20:22",
+        "sentiment_score": -0.6582335159182549
+    },
+    {
+        "title": "Multinacionales de EE UU piden a Trump y Sánchez que dialoguen y que no las conviertan en “rehenes”",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/06/2026020600392958623.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.mundiario.com/articulo/economia/multinacionales-ee-uu-piden-trump-sanchez-que-dialoguen-que-conviertan-rehenes/20260305030831377328.html",
+        "date": "2026-03-05 02:08:31",
+        "sentiment_score": -0.7748267557471991
+    },
+    {
+        "title": "Así quedó la selección Colombia en la tabla de posiciones de la She Believes Cup",
+        "image_url": "https://www.infobae.com/resizer/v2/EK4DW6UFGJABZG4U7GS7I7IN4E.jpg?auth=4fb51137f37b9f7d0977abe2a9b6028f124b5129791b39a39258f3de2252a9f2&height=2731&smart=true&width=4096",
+        "tags": [
+            "colombia-deportes",
+            "colombia vs argentina",
+            "selección colombia femenina",
+            "she believes cup",
+            "estados unidos vs canadá",
+            "she believes cup posiciones",
+            "estados unidos"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/03/05/asi-quedo-la-seleccion-colombia-en-la-tabla-de-posiciones-de-la-she-believes-cup/",
+        "date": "2026-03-05 01:52:25",
+        "sentiment_score": 0.6076344922184944
+    },
+    {
+        "title": "Copa del Rey: Yangel Herrera y Jon Aramburu buscarán romper el maleficio de los venezolanos en finales",
+        "image_url": "https://pxcdn.meridiano.net/032026/1772671540098.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/copa-del-rey-yangel-herrera-y-jon-aramburu-buscaran-romper-el-maleficio-de-los-venezolanos-en-finales-20263421120",
+        "date": "2026-03-05 01:12:00",
+        "sentiment_score": 0.3310629315674305
+    },
+    {
+        "title": "BLM alcanza los 190 millones de ingresos: el negocio de merchandising del Barça factura más que 15 clubes de Primera",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/03/17/culemania/palco/931917089_14284515_1706x960.jpg",
+        "tags": [
+            "ferran olivé",
+            "fc barcelona",
+            "nike",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260305/blm-alcanza-millones-ingresos-merchandising-barca-primera/1003742737335_0.html",
+        "date": "2026-03-05 00:58:54",
+        "sentiment_score": 0.6391342394053936
+    },
+    {
+        "title": "04 MAR 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/04-mar-2026-partidazo-cope-20260305_3320142.html",
+        "date": "2026-03-05 00:40:34",
+        "sentiment_score": -0.3365378901362419
+    },
+    {
+        "title": "Los dos grandes errores del Spotify Camp Nou a la espera de la nueva cubierta: el socio se queja",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/09/culemania/palco/1003742730819_15695571_1706x960.jpg",
+        "tags": [
+            "espai barça",
+            "joan laporta",
+            "camp nou",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260305/grandes-errores-spotify-camp-nou-espera-cubierta/1003742738380_0.html",
+        "date": "2026-03-05 00:39:46",
+        "sentiment_score": -0.8593732602894306
+    },
+    {
+        "title": "Oyarzabal convierte penal y Real Sociedad elimina al Athletic para avanzar a final de Copa del Rey",
+        "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "sports",
+            "deportes",
+            "copa rey real sociedad athletic bilbao oyarzabal"
+        ],
+        "link": "https://apnews.com/article/copa-rey-real-sociedad-athletic-bilbao-oyarzabal-7ba2f4bdbca28f19bb38dbb48eebf474",
+        "date": "2026-03-05 00:31:55",
+        "sentiment_score": -0.07941754162311554
+    },
+    {
+        "title": "Oyarzabal convierte penal y Real Sociedad elimina al Athletic para avanzar a final de Copa del Rey",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2026/03/04/oyarzabal-convierte-penal-y-real-sociedad-elimina-al-athletic-para-avanzar-a-final-de-copa-del-rey/",
+        "date": "2026-03-05 00:31:54",
+        "sentiment_score": 0.018278107047080994
+    },
+    {
+        "title": "Radian Arc, VNPT y Blacknut lanzan infraestructura de GPU en Vietnam para impulsar servicios de juegos en la nube e inteligencia artificial",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/assets/v3/editorial/8/13/8131e95b-9f6c-5ce6-b3c0-17b26995018c/69a8ef96b4ac8.image.jpg?resize=300%2C158",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.enidnews.com/region/radian-arc-vnpt-y-blacknut-lanzan-infraestructura-de-gpu-en-vietnam-para-impulsar-servicios-de/article_dcf26c82-6598-5122-b7db-4072916cedf3.html",
+        "date": "2026-03-05 02:40:29",
+        "sentiment_score": -0.10035364329814911
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Barcelona este 5 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima en españa",
+            "clima",
+            "clima en barcelona",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/05/clima-hoy-en-espana-temperaturas-para-barcelona-este-5-de-marzo/",
+        "date": "2026-03-05 02:15:40",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Borrasca en Airef",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "airef",
+            "borrasca"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/analisis/borrasca-airef_0_2006076130.html",
+        "date": "2026-03-05 02:08:46",
+        "sentiment_score": -0.18612609803676605
+    },
+    {
+        "title": "Ni Xuper TV ni Magis TV: estas son las plataformas gratuitas y legales que deberías probar",
+        "image_url": "https://www.infobae.com/resizer/v2/3XORL3PB2ZDZBHNXEBZ3XJKYUM.png?auth=9271954fc3b89a2df4f754ba639c7156ea928aa24db8d1e6a0e11826e5cfd30e&height=1536&smart=true&width=2816",
+        "tags": [
+            "tecnología-noticias",
+            "xuper tv",
+            "streaming",
+            "ciberseguridad",
+            "magis tv",
+            "lo último en tecnología"
+        ],
+        "link": "https://www.infobae.com/tecno/2026/03/05/ni-xuper-tv-ni-magis-tv-estas-son-las-plataformas-gratuitas-y-legales-que-deberias-probar/",
+        "date": "2026-03-05 01:47:16",
+        "sentiment_score": -0.5609596520662308
+    },
+    {
+        "title": "Bruselas exige a China que le transfiera tecnología del coche eléctrico si quiere fábricarlo aquí",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/c6cdc0da9c1bdb36f71bed7370c9505a/crop/202x97/2870x2765/f/image/jpeg/assets/multimedia/imagenes/2024/01/15/17053386573556.jpg",
+        "tags": [
+            "motor",
+            "artículos félix cerezo",
+            "actualidad económica"
+        ],
+        "link": "https://www.elmundo.es/economia/macroeconomia/2026/03/05/69a87304fdddffee1f8b4598.html",
+        "date": "2026-03-05 01:21:46",
+        "sentiment_score": -0.07591543346643448
+    },
+    {
+        "title": "Los morosos dejaron de pagar 8.490 euros de media en 2025",
+        "image_url": "https://static.laregion.es/clip/2a047dea-fe9c-4e1b-a144-04f7e93014bc_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "vivienda",
+            "morosidad"
+        ],
+        "link": "https://www.laregion.es/economia/morosos-dejaron-pagar-8-490_1_20260305-4186842.html",
+        "date": "2026-03-05 01:00:45",
+        "sentiment_score": -0.09450560808181763
     }
 ];
