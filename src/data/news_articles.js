@@ -1,372 +1,5 @@
 export default [
     {
-        "title": "‘Toni’ Fernández Gabarre gana el premio Goya al Mejor Actor Revelación por ‘Ciudad sin sueño’",
-        "image_url": "https://www.infobae.com/resizer/v2/BWYABM53LVEPXHBL22KUOGQS54.jpg?auth=cb109f1d0895c5603bf5ad769f936ece2c5a9b6344422395eb57c8fd68072c5a&height=2159&smart=true&width=3239",
-        "tags": [
-            "cine",
-            "premios goya 2026",
-            "españa-cultura",
-            "españa-noticias",
-            "cine españa"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2026/02/28/toni-fernandez-gabarre-gana-el-premio-goya-al-mejor-actor-revelacion-por-ciudad-sin-sueno/",
-        "date": "2026-02-28 22:17:26",
-        "sentiment_score": -0.39483974501490593
-    },
-    {
-        "title": "El Barcelona destrozó al Villarreal con el primer hat-trick de Lamine Yamal",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/02/lamine-yamal-fc-barcelona.jpg",
-        "tags": [
-            "futbol",
-            "titulares",
-            "laliga",
-            "fc barcelona",
-            "villarreal cf",
-            "españa",
-            "deportes"
-        ],
-        "link": "https://lapatilla.com/2026/02/28/el-barcelona-destrozo-al-villarreal-con-el-primer-hat-trick-de-lamine-yamal/",
-        "date": "2026-02-28 22:13:14",
-        "sentiment_score": 0.7635833658277988
-    },
-    {
-        "title": "Bélgica en el Mundial 2026: el adiós de una generación dorada marcada por la rivalidad entre Kevin De Bruyne y Thibaut Courtois",
-        "image_url": "https://www.infobae.com/resizer/v2/SOQGBM532NFRTFN36QZBMGCKGQ.jpg?auth=ffba8c337ae62d9aca9286717bcc3b1c4d6ed2d9af950ebc6472d0b11016703c&height=1080&smart=true&width=1920",
-        "tags": [
-            "kevin de bruyne",
-            "mundial 2026",
-            "peru-deportes",
-            "thibaut courtois",
-            "selección bélgica mundial 2026"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2026/02/28/belgica-en-el-mundial-2026-el-adios-de-una-generacion-dorada-marcada-por-la-rivalidad-entre-kevin-de-bruyne-y-thibaut-courtois/",
-        "date": "2026-02-28 22:10:47",
-        "sentiment_score": 0.3722630441188812
-    },
-    {
-        "title": "Antonio Fernández Gabarre gana el Premio Goya de mejor actor revelación por 'Ciudad sin sueño'",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/21/69994c886cbbb8-90159157.jpeg",
-        "tags": [
-            "cine"
-        ],
-        "link": "https://www.20minutos.es/cinemania/noticias/antonio-fernandez-gabarre-goya-2026-mejor-actor-revelacion_6937194_0.html",
-        "date": "2026-02-28 22:07:22",
-        "sentiment_score": -0.07370767742395401
-    },
-    {
-        "title": "Julián congela la esperanza: cruel derrota de un buen Oviedo en el minuto 94 (0-1)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/568ba114-98eb-4211-a31e-0a2dd986f8d9_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "viñas",
-            "julián álvarez",
-            "real oviedo",
-            "fortuna"
-        ],
-        "link": "https://www.lne.es/real-oviedo/2026/02/28/julian-congela-esperanza-cruel-derrota-127399369.html",
-        "date": "2026-02-28 22:04:45",
-        "sentiment_score": -0.2519453912973404
-    },
-    {
-        "title": "Lamine Yamal recupera su brillo con un ‘hat-trick’ estelar frente al Villarreal",
-        "image_url": "https://soynuevaprensadigital.com/wp-content/uploads/2026/02/Lamine-Yamal-Foto-CNN-scaled.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://soynuevaprensadigital.com/npd/lamine-yamal-recupera-su-brillo-con-un-hat-trick-estelar-frente-al-villarreal/",
-        "date": "2026-02-28 22:03:58",
-        "sentiment_score": 0.3299161046743393
-    },
-    {
-        "title": "Julián salva al Atlético en Oviedo y le da tres puntos con la Copa en el aire",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/02/28/69a364b3e4831.r_d.1200-331-6250.jpeg",
-        "tags": [
-            "la liga"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20260228/julian-salva-atletico-oviedo-le-da-tres-puntos-copa-aire_390689.html",
-        "date": "2026-02-28 21:57:22",
-        "sentiment_score": 0.6355567388236523
-    },
-    {
-        "title": "Este Mallorca huele a descenso: la Real Sociedad conquistó Son Moix",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/28/2026022822335195885.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/mallorca-huele-descenso-real-sociedad/20260228223535376743.html",
-        "date": "2026-02-28 21:35:35",
-        "sentiment_score": -0.45886310935020447
-    },
-    {
-        "title": "El arte de cortar el pelo y salir a carcajadas",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/02/28/213207993-kBnH--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "pelo",
-            "cortar",
-            "carcajadas",
-            "arte",
-            "salir"
-        ],
-        "link": "https://www.elcomercio.es/oviedo/arte-cortar-pelo-salir-carcajadas-20260301214526-nt.html",
-        "date": "2026-02-28 21:15:39",
-        "sentiment_score": 0.6680134162306786
-    },
-    {
-        "title": "El fútbol colombiano tendrá nuevas reglas en el segundo semestre de 2026: estas serán las normas en los partidos",
-        "image_url": "https://www.infobae.com/resizer/v2/EBUQ34VFMVHAHHRRWKTLVHZMYA.jpeg?auth=8b0e160055f36367d550f2ff4b74aedba9c42fc024a013b4a6ee2fcdc2ac0efa&height=873&smart=true&width=1309",
-        "tags": [
-            "colombia-deportes",
-            "fútbol colombiano",
-            "nuevas reglas fútbol 2026",
-            "ifab",
-            "dimayor",
-            "var",
-            "liga betplay",
-            "var en el fútbol colombiano"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/02/28/el-futbol-colombiano-tendra-nuevas-reglas-en-el-segundo-semestre-de-2026-estas-seran-las-normas-en-los-partidos/",
-        "date": "2026-02-28 21:14:36",
-        "sentiment_score": -0.2567966356873512
-    },
-    {
-        "title": "La alfombra roja de los Goya, en imágenes",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/28/hiba-abouk-ep.jpg",
-        "tags": [
-            "premios goya"
-        ],
-        "link": "https://www.eldiariomontanes.es/pantallas/premios-goya/alfombra-roja-goya-imagenes-20260228195850-garc.html",
-        "date": "2026-02-28 22:21:48",
-        "sentiment_score": 0.027871161699295044
-    },
-    {
-        "title": "El responsable del Mobile World Congress descarta «una burbuja en la IA»",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/02/27/1507705321.JPG",
-        "tags": [
-            "cannes",
-            "inteligencia artificial",
-            "barcelona (provincia)",
-            "francia"
-        ],
-        "link": "https://www.canarias7.es/economia/responsable-mobile-world-congress-descarta-burbuja-ia-20260301185515-ntrc.html",
-        "date": "2026-02-28 22:21:09",
-        "sentiment_score": 0.7562076300382614
-    },
-    {
-        "title": "Álvaro Cervantes, Mejor Actor de Reparto en los Premios Goya 2026 por su papel en 'Sorda'",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "mejor actor de reparto",
-            "academia de las artes y las ciencias cinematográficas de españa",
-            "barcelona",
-            "álvaro cervantes",
-            "cine español",
-            "centre de convencions internacional de barcelona",
-            "europapress",
-            "sorda",
-            "miguel rellán",
-            "premios goya",
-            "juan minujín"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/02/28/alvaro-cervantes-mejor-actor-de-reparto-en-los-premios-goya-2026-por-su-papel-en-sorda/",
-        "date": "2026-02-28 22:18:17",
-        "sentiment_score": 0.7115036845207214
-    },
-    {
-        "title": "El Gobierno de Aragón apoya a los nominados aragoneses a los Premios Goya",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1036fb1d-0c88-4750-97d1-f9093ef93e15_16-9-aspect-ratio_default_0_x495y247.jpg",
-        "tags": [
-            "premios goya",
-            "cultura",
-            "gobierno de aragón",
-            "cine español",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodicodearagon.com/cultura/2026/02/28/gobierno-aragon-apoya-nominados-aragoneses-127399829.html",
-        "date": "2026-02-28 22:18:12",
-        "sentiment_score": 0.0333750918507576
-    },
-    {
-        "title": "Susan Sarandon recibe el Goya de Honor: \"Vuestra lucidez moral me ayuda, estoy en medio del caos y la represión\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260228231319_690.jpg",
-        "tags": [
-            "cultura",
-            "cine"
-        ],
-        "link": "https://www.europapress.es/cultura/cine-00128/noticia-susan-sarandon-recibe-goya-honor-lucidez-moral-me-ayuda-estoy-medio-caos-represion-20260228231319.html",
-        "date": "2026-02-28 22:13:19",
-        "sentiment_score": 0.3045604079961777
-    },
-    {
-        "title": "Susan Sarandon vuelve a alabar a Sánchez en los Goya pese a reconocer que «no sabe mucho de él»",
-        "image_url": "https://okdiario.com/img/2026/02/28/susan-sarandon-goya.jpg",
-        "tags": [
-            "televisión, cine y series",
-            "premios goya"
-        ],
-        "link": "https://okdiario.com/trailer/susan-sarandon-vuelve-alabar-sanchez-goya-aun-despues-reconocer-que-no-sabe-mucho-16326860",
-        "date": "2026-02-28 22:13:09",
-        "sentiment_score": -0.1308917999267578
-    },
-    {
-        "title": "Susan Sarandon aplaude la «rigidez moral» de Pedro Sánchez respecto a Gaza tras recoger el Goya Internacional",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/02/28/susan-sarandon-kB3D-U20960760489DmF-1200x840@RC.jpg",
-        "tags": [
-            "cine",
-            "arte",
-            "pedro sánchez",
-            "susan sarandon",
-            "gaza"
-        ],
-        "link": "https://www.ideal.es/pantallas/premios-goya/susan-sarandon-aplaude-rigidez-moral-sanchez-respecto-20260228230655-ntrc.html",
-        "date": "2026-02-28 22:12:57",
-        "sentiment_score": 0.7056246884167194
-    },
-    {
-        "title": "José Luis Cordeiro, gran amigo de Milei y gurú de la longevidad: \"En 2045 seremos inmortales. Habrá una pastilla y vacunas\"",
-        "image_url": "https://s3.elespanol.com/2026/02/24/madrid/1003744143950_261603227_1706x960.jpg",
-        "tags": [
-            "javier milei",
-            "madrid",
-            "longevidad",
-            "madrid total"
-        ],
-        "link": "https://www.elespanol.com/madrid/20260301/jose-luis-cordeiro-gran-amigo-milei-guru-longevidad-inmortales-pastilla-vacunas/1003744143653_0.html",
-        "date": "2026-03-01 02:08:50",
-        "sentiment_score": 0.6782954186201096
-    },
-    {
-        "title": "2026: el año de La Rábida",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2023/02/24/C3679148-6A8A-49DC-90FB-BC1F0CA58B5A/monasterio-rabida-huelva_69.jpg?crop=296%2C167%2Cx0%2Cy2&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "huelva",
-            "home la razón",
-            "andalucía"
-        ],
-        "link": "https://www.larazon.es/andalucia/huelva/2026-ano-rabida_2026030169a39afa2f00a046882e7830.html",
-        "date": "2026-03-01 01:48:42",
-        "sentiment_score": -0.4821772798895836
-    },
-    {
-        "title": "Pelazos, pancartas y ovaciones: las anécdotas que marcaron los Goya 2026",
-        "image_url": "https://www.tribunasalamanca.com/uploads/imagenes/images/2026/3/01/435940/20260301074301_caratula.webP",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.tribunasalamanca.com/noticias/435940/pelazos-pancartas-y-ovaciones-las-anecdotas-que-marcaron-los-goya-2026",
-        "date": "2026-03-01 01:41:00",
-        "sentiment_score": 0.04526925086975098
-    },
-    {
-        "title": "Los domingos' triunfa en unos Goya en los que 'Sirat' se lleva seis premios técnicos",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2026/03/01/40-edicion-de-los-prem-6470972.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/cultura/2026/03/01/los-domingos-triunfa-en-unos-goya-en-los-que-sirat-se-lleva-seis-premios-tecnicos-1898375-daa.html",
-        "date": "2026-03-01 00:55:34",
-        "sentiment_score": 0.688077874481678
-    },
-    {
-        "title": "'Los domingos' se consagra en los Goya",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/01/pal840.jpg",
-        "tags": [
-            "alauda ruiz de azúa",
-            "patricia lópez arnaiz",
-            "premios goya",
-            "fernando méndez-leite"
-        ],
-        "link": "https://www.elcorreo.com/pantallas/premios-goya/domingos-consagra-goya-20260228014900-ntrc.html",
-        "date": "2026-03-01 00:52:39",
-        "sentiment_score": 0.4944380819797516
-    },
-    {
-        "title": "Alauda Ruiz de Azúa tras el triunfo de 'Los Domingos' en los Goya: \"Ojalá la película llegue al Papa y a Bad Bunny\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260301031908_120.jpg",
-        "tags": [
-            "cultura",
-            "cine"
-        ],
-        "link": "https://www.europapress.es/cultura/cine-00128/noticia-alauda-ruiz-azua-triunfo-domingos-goya-ojala-pelicula-llegue-papa-bad-bunny-20260301031908.html",
-        "date": "2026-03-01 02:19:08",
-        "sentiment_score": 0.6411936953663826
-    },
-    {
-        "title": "La 40 edición de los Premios Goya clama contra la violencia en Gaza, Irán o Ucrania",
-        "image_url": "https://www.infobae.com/resizer/v2/6OMZ3RLGTFFV7FA2IRQVA5BJ4I.jpg?auth=5c0853d4ba81a3d93c363f298ab17465678c248dbf8089145e3ec5ac1600ebe3&height=1280&smart=true&width=1920",
-        "tags": [
-            "música catalana",
-            "barcelona",
-            "rigoberta bandini",
-            "cine español",
-            "derechos humanos",
-            "gaza",
-            "europapress",
-            "dolores fonzi",
-            "premios goya",
-            "luis tosar",
-            "fernando méndez-leite"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/01/la-40-edicion-de-los-premios-goya-clama-contra-la-violencia-en-gaza-iran-o-ucrania/",
-        "date": "2026-03-01 02:16:06",
-        "sentiment_score": -0.7119953632354736
-    },
-    {
-        "title": "Andalucía en singular",
-        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "singular",
-            "andalucia"
-        ],
-        "link": "https://www.granadahoy.com/opinion/articulos/andalucia-singular_0_2006038205.html",
-        "date": "2026-03-01 02:11:19",
-        "sentiment_score": -0.14946705102920532
-    },
-    {
-        "title": "Activistas animalistas protestan en la alfombra roja de los Goya contra 'Tardes de soledad': \"La tauromaquia no es arte\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260301030615_690.jpg",
-        "tags": [
-            "cultura",
-            "cine"
-        ],
-        "link": "https://www.europapress.es/cultura/cine-00128/noticia-activistas-animalistas-protestan-alfombra-roja-goya-contra-tardes-soledad-tauromaquia-no-arte-20260301030615.html",
-        "date": "2026-03-01 02:06:15",
-        "sentiment_score": -0.006240636110305786
-    },
-    {
-        "title": "La gala más propagandística de los Goya: un empacho de «¡Palestina libre!» y cero denuncias sobre España",
-        "image_url": "https://okdiario.com/img/2026/03/01/alba-flores-premios-goya-palestina.jpg",
-        "tags": [
-            "premios goya",
-            "televisión, cine y series"
-        ],
-        "link": "https://okdiario.com/trailer/gala-mas-propagandistica-goya-empacho-palestina-libre-cero-denuncias-sobre-espana-16327404",
-        "date": "2026-03-01 02:03:15",
-        "sentiment_score": 0.11177107691764832
-    },
-    {
-        "title": "Previsión meteorológica del tiempo en Barcelona para este 1 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima",
-            "clima en españa",
-            "clima en barcelona",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/01/prevision-meteorologica-del-tiempo-en-barcelona-para-este-1-de-marzo/",
-        "date": "2026-03-01 02:00:36",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "El cine español obvia los ataques a Irán en los Goya y se centra en reivindicar una \"Palestina libre\"",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2772932.jpg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.vozpopuli.com/altavoz/cultura/el-cine-espanol-obvia-los-ataques-a-iran-en-los-goya-y-se-centra-en-reivindicar-una-palestina-libre.html",
-        "date": "2026-03-01 01:58:02",
-        "sentiment_score": -0.8868088880553842
-    },
-    {
         "title": "Parece El Señor de los Anillos, pero está en la sierra de Madrid y es una impresionante ruta senderista de 8 etapas",
         "image_url": "https://okdiario.com/img/2026/02/23/camino-del-anillo.jpg",
         "tags": [
@@ -3040,5 +2673,189 @@ export default [
         "link": "https://okdiario.com/cataluna/prevision-aemet-intervalos-nubosos-y-lluvias-debiles-en-barcelona-con-viento-moderado-y-temperaturas-en-ascenso-16347564",
         "date": "2026-03-04 06:24:36",
         "sentiment_score": -0.3301664963364601
+    },
+    {
+        "title": "El Rey Juan Carlos envía una corona de flores con los colores de la bandera a Fernando Ónega",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/03/04/69a865b2d9ad2.jpeg",
+        "tags": [
+            "casa real"
+        ],
+        "link": "https://www.eldebate.com/espana/casa-real/20260304/rey-juan-carlos-envia-corona-flores-colores-bandera-fernando-onega_392219.html",
+        "date": "2026-03-04 17:38:47",
+        "sentiment_score": 0.046293869614601135
+    },
+    {
+        "title": "Arribas supera a Yeremay como mejor jugador de la Liga Hypermotion",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/03/04/JCA_8209-kFoB-U201029820793XPI-1200x840@Ideal.jpeg",
+        "tags": [
+            "málaga cf",
+            "córdoba cf",
+            "cd castellón",
+            "álvaro negredo",
+            "castellón",
+            "ud almería",
+            "levante ud",
+            "sergio arribas",
+            "real madrid",
+            "málaga",
+            "real sociedad de fútbol",
+            "almería",
+            "real racing club"
+        ],
+        "link": "https://www.ideal.es/udalmeria/arribas-supera-yeremay-mejor-jugador-liga-hypermotion-20260304183827-nt.html",
+        "date": "2026-03-04 17:38:33",
+        "sentiment_score": 0.7108106203377247
+    },
+    {
+        "title": "PepsiCo abre en España el primer restaurante de Lay’s en el mundo con la tortilla de patata como protagonista",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1b8a7afe-088e-4d83-9196-431e41d11065_16-9-aspect-ratio_default_0_x1200y533.jpg",
+        "tags": [
+            "economía",
+            "españa",
+            "restauración",
+            "consumo",
+            "madrid"
+        ],
+        "link": "https://www.laprovincia.es/economia/2026/03/04/pepsico-abre-espana-primer-restaurante-127564527.html",
+        "date": "2026-03-04 17:37:18",
+        "sentiment_score": 0.6092881858348846
+    },
+    {
+        "title": "Hallada otra persona sin hogar muerta en la calle en Badalona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2CJHONEHSNHDJLKJF6AXURLY7U.jpg?auth=e388aa9c6d913409a5a12707791e848102ffaf87f4ff46e1e395e4bcdbff2d1f&width=1200",
+        "tags": [
+            "badalona",
+            "ayuntamientos",
+            "servicios sociales",
+            "cataluña",
+            "pp",
+            "xavier garcía albiol",
+            "pobreza",
+            "personas sin hogar",
+            "sucesos",
+            "españa",
+            "desalojos",
+            "emergencias",
+            "vivienda",
+            "ong"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2026-03-04/otra-persona-sin-hogar-hallada-muerta-en-plena-via-publica-de-badalona.html",
+        "date": "2026-03-04 17:40:08",
+        "sentiment_score": -0.7045281212776899
+    },
+    {
+        "title": "Eurecat presenta en el MWC una solución de ortodoncia inteligente para supervisar tratamientos",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260304183952_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-eurecat-presenta-mwc-solucion-ortodoncia-inteligente-supervisar-tratamientos-20260304183952.html",
+        "date": "2026-03-04 17:39:52",
+        "sentiment_score": 0.09289664402604103
+    },
+    {
+        "title": "El Barça se salva de una multa de 6 millones pero debe abonar 500.000 euros por recoger datos biométricos de sus socios",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-919239.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/el-barca-se-salva-de-una-multa-de-6-millones-pero-debe-abonar-500000-euros-por-recoger-datos-biometricos-de-sus-socios.html",
+        "date": "2026-03-04 17:38:25",
+        "sentiment_score": -0.8112258780747652
+    },
+    {
+        "title": "El Talent Arena se consolida como el nuevo hermano pequeño del Mobile",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/04/69a86d2b71ed7.r_d.1878-1520-1082.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20260304/11481381/talent-arena-consolida-nuevo-hermano-pequeno-mobile-mwc.html",
+        "date": "2026-03-04 17:37:09",
+        "sentiment_score": 0.7320395214483142
+    },
+    {
+        "title": "Al Barça le urge la victoria en Milán",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260304183658_690.jpg",
+        "tags": [
+            "baloncesto",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-barca-le-urge-victoria-milan-20260304183658.html",
+        "date": "2026-03-04 17:36:58",
+        "sentiment_score": -0.3517024666070938
+    },
+    {
+        "title": "Talent Arena 2026 cierra su segunda edición con 25.000 visitantes, un 25% más",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260304183558_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-talent-arena-2026-cierra-segunda-edicion-25000-visitantes-25-mas-20260304183558.html",
+        "date": "2026-03-04 17:35:58",
+        "sentiment_score": 0.35657762363553047
+    },
+    {
+        "title": "Ni Joao Cancelo ni Gerard Martín: los tapados de Hansi Flick para reemplazar a Koundé y Balde en el Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/20/culemania/primer-equipo/1003742724798_15619165_1706x960.jpg",
+        "tags": [
+            "barça",
+            "primer equipo",
+            "hansi flick",
+            "joao cancelo",
+            "jules koundé",
+            "alejandro balde"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260304/cancelo-gerard-martin-hansi-flick-kounde-balde/1003742738370_0.html",
+        "date": "2026-03-04 17:34:12",
+        "sentiment_score": -0.342629611492157
+    },
+    {
+        "title": "Brazos robóticos, nanobots y exoesqueletos: entre la salud y la artesanía del futuro",
+        "image_url": "https://static1.ara.cat/clip/ecbaad3f-7467-4ac3-8792-12e8dc0fb377_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "exoesqueletos",
+            "artesania",
+            "futuro",
+            "brazos",
+            "nanobots",
+            "roboticos",
+            "salud"
+        ],
+        "link": "https://es.ara.cat/economia/tecnologia/brazos-roboticos-nanobots-exoesqueletos-salud-artesania-futuro_1_5668086.html",
+        "date": "2026-03-04 17:33:52",
+        "sentiment_score": 0.7206085063517094
+    },
+    {
+        "title": "La temporada de clásicas de ciclismo 2026: calendario de pruebas con Pogacar y van der Poel como protagonistas",
+        "image_url": "https://static.eldiario.es/clip/2bb3ed49-79e5-49eb-9363-cea51a3ee18d_16-9-discover-aspect-ratio_default_1137918.jpg",
+        "tags": [
+            "pogacar",
+            "ciclismo",
+            "van",
+            "temporada",
+            "clasicas",
+            "pruebas",
+            "der",
+            "calendario",
+            "protagonistas",
+            "pm",
+            "poel"
+        ],
+        "link": "https://www.eldiario.es/spin/deportes/temporada-clasicas-ciclismo-calendario-pruebas-pogacar-van-der-poel-protagonistas-pm_1_13041148.html",
+        "date": "2026-03-04 17:30:36",
+        "sentiment_score": 0.059604793787002563
+    },
+    {
+        "title": "Dieron a conocer la sanción a Franco Mastantuono tras ser expulsado en la derrota de Real Madrid ante Getafe",
+        "image_url": "https://www.infobae.com/resizer/v2/3WPKZS5NFBAI7FXBYEG6NJPES4.jpg?auth=9094f2f3d80f6afde6e2341268b77fae01a70857ce770017f1d6c7fcdac8685a&height=1080&smart=true&width=1920",
+        "tags": [
+            "real madrid",
+            "la liga de españa",
+            "franco mastantuono",
+            "getafe"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/04/dieron-a-conocer-la-sancion-a-franco-mastantuono-tras-ser-expulsado-por/",
+        "date": "2026-03-04 17:29:10",
+        "sentiment_score": -0.8487331066280603
     }
 ];
