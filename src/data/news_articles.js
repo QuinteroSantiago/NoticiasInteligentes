@@ -1,192 +1,5 @@
 export default [
     {
-        "title": "Parece El Señor de los Anillos, pero está en la sierra de Madrid y es una impresionante ruta senderista de 8 etapas",
-        "image_url": "https://okdiario.com/img/2026/02/23/camino-del-anillo.jpg",
-        "tags": [
-            "viajes",
-            "curiosidades",
-            "senderismo",
-            "comunidad de madrid",
-            "naturaleza"
-        ],
-        "link": "https://okdiario.com/viajes/parece-senor-anillos-pero-esta-sierra-madrid-impresionante-ruta-senderista-8-etapas-16289524",
-        "date": "2026-03-01 06:45:05",
-        "sentiment_score": 0.18781717121601105
-    },
-    {
-        "title": "Adiós a las galletas Lotus para siempre: el cambio que está a punto de llegar y que va a sorprender a muchos",
-        "image_url": "https://okdiario.com/img/2026/02/27/adios-a-las-galletas-lotus-para-siempre-el-cambio-que-esta-a-punto-de-llegar-y-que-va-a-sorprender-a-muchos.jpg",
-        "tags": [
-            "economía",
-            "okd",
-            "alimentos",
-            "consumo",
-            "consumidores"
-        ],
-        "link": "https://okdiario.com/economia/consumo/adios-galletas-lotus-siempre-cambio-que-esta-punto-llegar-que-va-sorprender-muchos-16316673",
-        "date": "2026-03-01 06:30:41",
-        "sentiment_score": -0.029412299394607544
-    },
-    {
-        "title": "La mejor ruta de senderismo para Jesús Calleja está en Lugo: «Tiene mil matices diferentes»",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/02/ruta-galicia-calleja.jpeg",
-        "tags": [
-            "jesús calleja",
-            "celebrities",
-            "gente",
-            "galicia",
-            "lugo"
-        ],
-        "link": "https://theobjective.com/gente/2026-03-01/mejor-ruta-senderismo-jesus-calleja-lugo/",
-        "date": "2026-03-01 06:30:00",
-        "sentiment_score": 0.390508733689785
-    },
-    {
-        "title": "Francisco Vázquez: “Segovia va a ser ejemplo en los próximos años con la creación de más de mil puestos de trabajo”",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2026/02/Paco-Vazquez-web-683x1024.jpg",
-        "tags": [
-            "portada imagen vertical",
-            "segovia",
-            "conversaciones con..."
-        ],
-        "link": "https://eladelantado.com/segovia/2026/03/01/francisco-vazquez-segovia-va-a-ser-ejemplo-en-los-proximos-anos-con-la-creacion-de-mas-de-mil-puestos-de-trabajo/",
-        "date": "2026-03-01 06:27:12",
-        "sentiment_score": 0.5829594805836678
-    },
-    {
-        "title": "\"Debemos fomentar las bajas flexibles para reincorporar a un trabajador de manera gradual si su puesto lo permite\"",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d360d461-1ede-4470-8710-a87e7ae23a37_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gradual",
-            "flexibles",
-            "los",
-            "trabajadores",
-            "fomentar",
-            "reincorporar",
-            "bajas",
-            "debemos",
-            "a"
-        ],
-        "link": "https://www.noticiasdenavarra.com/economia/2026/03/01/debemos-fomentar-bajas-flexibles-reincorporar-a-los-trabajadores-gradual-10761759.html",
-        "date": "2026-03-01 06:13:28",
-        "sentiment_score": 0.11463159322738647
-    },
-    {
-        "title": "“Ocurre, pero muy pocas veces, que una familia tenga en casa un cuadro de gran valor sin ser consciente de ello”",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/18cc3e3c-c673-4153-acca-23792186db93_16-9-aspect-ratio_default_0_x1152y513.jpg",
-        "tags": [
-            "casa real",
-            "real madrid",
-            "madrid",
-            "subasta",
-            "pintura",
-            "museos",
-            "arte",
-            "picasso"
-        ],
-        "link": "https://www.lne.es/cultura/2026/03/01/subasta-arte-joyas-real-madrid-ansorena-pintura-hotel-ritz-picasso-127406853.html",
-        "date": "2026-03-01 06:01:35",
-        "sentiment_score": 0.22335663437843323
-    },
-    {
-        "title": "Amaral sorprende con un importante anuncio en pleno concierto: \"No voy a entrar en ese jardín\"",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2026/03/01/amaral.png",
-        "tags": [
-            "ocio y cultura"
-        ],
-        "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/03/01/amaral-sorprende-importante-anuncio-concierto-san-sebastian-paron-1898376.html",
-        "date": "2026-03-01 06:36:39",
-        "sentiment_score": 0.8303866237401962
-    },
-    {
-        "title": "Susan Sarandon: Goya a una conciencia incómoda y a una actriz que desafía a Hollywood y al poder",
-        "image_url": "https://www.elplural.com/uploads/s1/24/37/65/5/a-actriz-susan-sarandon-durante-una-rueda-de-prensa-previa-a-la-celebracio-n-de-la-gala-de-entrega-de-los-67o-premios-rne-de-cinematografi-a-a-25-de-abril-de-2023-en-el-hotel-arts-en-barcelona-c_7_480x270.jpeg",
-        "tags": [
-            "revista bando"
-        ],
-        "link": "https://www.elplural.com/revista-bando/susan-sarandon-goya-conciencia-incomoda-actriz-desafia-hollywood-poder_382791102",
-        "date": "2026-03-01 06:33:41",
-        "sentiment_score": -0.09265726804733276
-    },
-    {
-        "title": "La actuación de Buda en Irún, entre las mejores de la temporada en la Asobal",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2026/02/03-1w-4.jpg",
-        "tags": [
-            "balonmano",
-            "deportes"
-        ],
-        "link": "https://eladelantado.com/deportes/2026/03/01/la-actuacion-de-buda-en-irun-entre-las-mejores-de-la-temporada-en-la-asobal/",
-        "date": "2026-03-01 06:30:26",
-        "sentiment_score": 0.3728770986199379
-    },
-    {
-        "title": "Del Sahel a Barcelona: el mapa del yihadismo en 2025",
-        "image_url": "https://www.elplural.com/uploads/s1/24/71/93/4/isis_7_480x270.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elplural.com/politica/espana/sahel-barcelona-mapa-yihadismo-2025_382672102",
-        "date": "2026-03-01 06:29:42",
-        "sentiment_score": -0.3022594153881073
-    },
-    {
-        "title": "Arranca 2026 con 3 sentencias clave del Tribunal Supremo sobre permisos",
-        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2026/02/tc.jpg",
-        "tags": [
-            "muerte fetal",
-            "app",
-            "tribunal supremo",
-            "prestación por nacimiento",
-            "znoticia portada1",
-            "permiso parental",
-            "derecho laboral",
-            "vacaciones",
-            "artículos",
-            "conciliación laboral",
-            "permiso retribuido"
-        ],
-        "link": "https://www.economistjurist.es/articulos-juridicos-destacados/arranca-2026-con-3-sentencias-clave-del-tribunal-supremo-sobre-permisos/",
-        "date": "2026-03-01 06:21:30",
-        "sentiment_score": -0.13601714372634888
-    },
-    {
-        "title": "Alauda Ruiz de Azúa: «Ha sido incómodo que la película creciera tanto»",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/03/01/patri-kFR--366x256@RC.jpg",
-        "tags": [
-            "premios goya",
-            "patricia lópez arnaiz",
-            "alauda ruiz de azúa"
-        ],
-        "link": "https://www.elcorreo.com/pantallas/premios-goya/nunca-vivido-pelicula-creciera-poco-incomodo-20260301065025-ntrc.html",
-        "date": "2026-03-01 06:17:18",
-        "sentiment_score": 0.7845536768436432
-    },
-    {
-        "title": "«Nunca había vivido una película que creciera tanto y ha sido un poco incómodo»",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/01/alaudita-k0PG-U20963945060Sz-1200x840@RC.jpg",
-        "tags": [
-            "premios goya",
-            "alauda ruiz de azúa"
-        ],
-        "link": "https://www.leonoticias.com/pantallas/premios-goya/nunca-vivido-pelicula-creciera-poco-incomodo-20260301065025-ntrc.html",
-        "date": "2026-03-01 06:17:18",
-        "sentiment_score": 0.7845536768436432
-    },
-    {
-        "title": "Tras abrir un vacío, no hay garantía de que a EE.UU. e Israel les guste lo que viene después",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/5a/media_thumb-link-4151935.webp?1772354826=",
-        "tags": [
-            "guerra",
-            "irán",
-            "israel",
-            "actualidad",
-            "eeuu"
-        ],
-        "link": "https://www.meneame.net/story/tras-abrir-vacio-no-hay-garantia-ee-uu-israel-les-guste-viene",
-        "date": "2026-03-01 10:05:03",
-        "sentiment_score": 0.1546807885169983
-    },
-    {
         "title": "Mientras estés fuera de casa estas son las dos opciones que debes desactivar para evitar ciberataques",
         "image_url": "https://www.infobae.com/resizer/v2/IGLSH5NERZCCHLAMJ3U52FS3KU.png?auth=e89774fe71ba56b0aa8d17a8e8a3aec93e7b2388092a7d7609d961117fa650fa&height=768&smart=true&width=1408",
         "tags": [
@@ -2857,5 +2670,269 @@ export default [
         "link": "https://www.infobae.com/deportes/2026/03/04/dieron-a-conocer-la-sancion-a-franco-mastantuono-tras-ser-expulsado-por/",
         "date": "2026-03-04 17:29:10",
         "sentiment_score": -0.8487331066280603
+    },
+    {
+        "title": "Pillado copiando en el examen MIR con gafas de IA y reloj inteligente",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/5d/media_thumb-link-4152800.webp?1772556126=",
+        "tags": [
+            "mir",
+            "actualidad",
+            "copiar",
+            "medicina",
+            "ia"
+        ],
+        "link": "https://www.meneame.net/story/pillado-copiando-examen-mir-gafas-ia-reloj-inteligente",
+        "date": "2026-03-04 02:15:03",
+        "sentiment_score": -0.33401239663362503
+    },
+    {
+        "title": "Oyarzabal remata de penalti al Athletic y mete a la Real Sociedad en una nueva final de Copa del Rey",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2781314.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/oyarzabal-remata-de-penalti-al-athletic-y-mete-a-la-real-sociedad-en-la-final-de-la-copa-del-rey.html",
+        "date": "2026-03-04 22:35:10",
+        "sentiment_score": 0.6482198126614094
+    },
+    {
+        "title": "El escritor Fernando Aramburu deja una frase sobre la inteligencia artificial que está dando que hablar: \"Si supera a Mozart...\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2025/03/18/el-escritor-fernando-aramburu.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/el-escritor-fernando-aramburu-deja-frase-sobre-inteligencia-artificial-esta-dando-hablar-si-supera-mozart-f202603.html",
+        "date": "2026-03-04 22:35:03",
+        "sentiment_score": -0.16309769451618195
+    },
+    {
+        "title": "La Real Sociedad tumba al Athletic y se cita con el Atlético en la final de la Copa del Rey en el Estadio La Cartuja (1-0)",
+        "image_url": "https://static.grupojoly.com/clip/49791d86-02e5-4c58-8ffd-53fb9d11a5bf_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real",
+            "athletic",
+            "tumba",
+            "copa",
+            "rey",
+            "final",
+            "estadio",
+            "sociedad",
+            "la cartuja",
+            "atlético",
+            "1-0",
+            "cita"
+        ],
+        "link": "https://www.granadahoy.com/deportes/real-sociedad-tumba-athletic-cita-atletico-final-copa-rey-estadio-la-cartuja-1-0_0_2006074952.html",
+        "date": "2026-03-04 22:28:11",
+        "sentiment_score": 0.11140745878219604
+    },
+    {
+        "title": "La Real Sociedad vuelve a ganar por la mínima al Athletic para certificar su plaza para la final de la Copa del Rey",
+        "image_url": "https://www.infobae.com/resizer/v2/5PKXQK3NRZAFXGBEUO43HNXGPU.JPG?auth=5ffbe79183d1c8183f0c6e1d9c8cc14b66eff51406f6e5be3669704d51e9a286&height=1892&smart=true&width=3364",
+        "tags": [
+            "españa-noticias",
+            "españa-deportes",
+            "fútbol",
+            "fútbol españa",
+            "real sociedad",
+            "athletic club",
+            "copa del rey"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/03/04/la-real-sociedad-vuelve-a-ganar-por-la-minima-al-athletic-para-certificar-su-plaza-para-la-final-de-la-copa-del-rey/",
+        "date": "2026-03-04 22:25:43",
+        "sentiment_score": 0.35803719609975815
+    },
+    {
+        "title": "Resumen Real Sociedad-Athletic Club: Oyarzabal pide cita en La Cartuja (1-0, total 2-0)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(170x82:172x80)/origin-imgresizer.eurosport.com/2026/03/04/image-1e8b33d2-743d-4732-b7a6-d00f3fa71014-85-2560-1440.jpeg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.eurosport.es/futbol/copa-del-rey/2025-2026/real-sociedad-athletic-club-video-resumen-resultado-goles-mejores-momentos-partido-semifinales-vuelta-hoy_vid60061312/video.shtml",
+        "date": "2026-03-04 22:25:06",
+        "sentiment_score": 0.32159751653671265
+    },
+    {
+        "title": "La Real Sociedad jugará la final de La Cartuja ante el Atlético",
+        "image_url": "https://static.grupojoly.com/clip/53dfc973-070e-4f30-9286-a35de55e115a_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "final",
+            "cartuja",
+            "jugara",
+            "sociedad",
+            "real"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/real-sociedad-jugara-final-cartuja_0_2006074911.html",
+        "date": "2026-03-04 22:22:48",
+        "sentiment_score": -0.024916738271713257
+    },
+    {
+        "title": "Casemiro nombró a las selecciones candidatas a ganar el Mundial y no mencionó a Brasil: cuáles serían las “sorpresas”",
+        "image_url": "https://www.infobae.com/resizer/v2/7D7MUUTPUFHSNJKADNWZLX5CXM.JPG?auth=0cb185fb53bc5fd2d71a0b5a21886c6e702187ed2478cfd473281f813bddc4d5&height=1266&smart=true&width=1702",
+        "tags": [
+            "deportes-internacional",
+            "selección argentina",
+            "selección de españa",
+            "casemiro",
+            "selección de francia",
+            "selección de brasil"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/04/casemiro-nombro-a-las-selecciones-candidatas-a-ganar-el-mundial-y-no-menciono-a-brasil-cuales-serian-las-sorpresas/",
+        "date": "2026-03-04 22:21:58",
+        "sentiment_score": 0.11541305482387543
+    },
+    {
+        "title": "La Real Sociedad sujeta al Athletic Club y avanza a la final de la Copa del Rey (1-0)",
+        "image_url": "https://cflvdg.avoz.es/sc/3J_NpC3RS-P3ne5lAAJWKLeIWkw=/768x/2026/03/04/00121772661901837413713/Foto/reu_20260304_215727482.jpg",
+        "tags": [
+            "athletic de bilbao",
+            "real sociedad",
+            "deportes"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/03/04/real-sociedad-sujeta-athletic-club-avanza-final-copa-rey-1-0/00031772661957846278868.htm",
+        "date": "2026-03-04 22:17:00",
+        "sentiment_score": 0.16104093194007874
+    },
+    {
+        "title": "En busca del cuarto título",
+        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2026/03/03/historia1200x840--758x531.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/busca-cuarto-titulo-final-historia-copa-rey-20260304231618-nt.html",
+        "date": "2026-03-04 22:16:37",
+        "sentiment_score": 0.08909307420253754
+    },
+    {
+        "title": "Ratas, sexo y botellones en Sant Joan Despí: los vecinos de Torreblanca denuncian el \"abandono durante 30 años\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/04/gran-barcelona/1003742738466_15788924_1706x960.jpg",
+        "tags": [
+            "sant joan despí",
+            "gran barcelona",
+            "baix llobregat",
+            "incivismo"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260304/ratas-sexo-botellones-sant-joan-despi-vecinos-torreblanca-denuncian-abandono-anos/1003742736719_0.html",
+        "date": "2026-03-04 22:30:00",
+        "sentiment_score": -0.9087806325405836
+    },
+    {
+        "title": "Trias 'explota' ante la oferta de Puigdemont a Tatxo Benet para ser alcaldable de Junts en Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/10/27/informacion-municipal/805179724_11727888_1706x960.jpg",
+        "tags": [
+            "ayuntamiento de barcelona",
+            "política",
+            "jxcat",
+            "información municipal"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260304/trias-explota-oferta-puigdemont-tatxo-benet-alcaldable-junts-barcelona/1003742738192_0.html",
+        "date": "2026-03-04 22:30:00",
+        "sentiment_score": -0.1386265903711319
+    },
+    {
+        "title": "Los trabajadores de Perfumerías San Remo, bajo desgaste: la empresa no ha pagado la nómina de febrero",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/04/vivir-en-barcelona/1003742729526_15678298_1706x960.jpg",
+        "tags": [
+            "trabajadores",
+            "sindicatos",
+            "economía",
+            "empresas barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260304/trabajadores-perfumerias-san-remo-desgaste-empresa-no-pagado-nomina-febrero/1003742737826_0.html",
+        "date": "2026-03-04 22:30:00",
+        "sentiment_score": -0.8350266329944134
+    },
+    {
+        "title": "Familias afectadas por el cierre de la guardería El Cau en Hostafrancs denuncian impagos un año después",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/26/actualidad/1003742736485_15763448_1706x960.jpg",
+        "tags": [
+            "colegios barcelona",
+            "educación",
+            "guarderías barcelona",
+            "colegios",
+            "sants - montjuïc",
+            "hostafrancs"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sants-montjuic/20260304/familias-afectadas-cierre-guarderia-cau-hostafrancs-denuncian-impagos-ano-despues/1003742736482_0.html",
+        "date": "2026-03-04 22:30:00",
+        "sentiment_score": -0.914702876470983
+    },
+    {
+        "title": "Ya están en casa: Cuevas recibe a los peregrinos de Jerusalén al son de \"Que viva España\"",
+        "image_url": "https://static.grupojoly.com/clip/6c176bcb-4292-421c-ac1c-a19f8c5070e3_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "video",
+            "peregrinos",
+            "casa",
+            "recibe",
+            "jerusalen",
+            "cuevas"
+        ],
+        "link": "https://www.diariodealmeria.es/almeria/video-casa-cuevas-recibe-peregrinos-jerusalen_8_2006074463.html",
+        "date": "2026-03-04 22:25:58",
+        "sentiment_score": -0.6904227174818516
+    },
+    {
+        "title": "Adiós a Mapi León: el futuro de la central maña en el Barça Femenino se pone cada día más negro",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/04/culemania/secciones/1003742738472_15789070_1706x960.jpg",
+        "tags": [
+            "fcbfemeni",
+            "secciones",
+            "futfem"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260304/adios-mapi-leon-futuro-central-barca-femenino/1003742738462_0.html",
+        "date": "2026-03-04 22:20:53",
+        "sentiment_score": -0.35662600584328175
+    },
+    {
+        "title": "Las notas de Pako Ruiz: el empeño de Iñaki no sirve",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/3a25cf59-c9d1-4018-9a59-22974a7699ae_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ruiz",
+            "notas",
+            "inaki",
+            "empeno",
+            "pako"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/03/04/notas-pako-ruiz-empeno-inaki-10781132.html",
+        "date": "2026-03-04 22:20:19",
+        "sentiment_score": -0.7706443481147289
+    },
+    {
+        "title": "Trenes que van con retraso al no llegar el maquinista por otros retrasos: las quejas en la alta velocidad Girona-Barcelona",
+        "image_url": "https://static.eldiario.es/clip/a70bc669-dfae-4b4d-86d8-fe94799233b5_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "periodismo independiente",
+            "actualidad",
+            "noticias",
+            "ignacio escolar",
+            "política",
+            "economía",
+            "cataluña",
+            "barcelona"
+        ],
+        "link": "https://www.eldiario.es/catalunya/trenes-retraso-no-llegar-maquinista-retrasos-quejas-alta-velocidad-girona-barcelona_1_13040249.html",
+        "date": "2026-03-04 22:16:47",
+        "sentiment_score": -0.1473025232553482
+    },
+    {
+        "title": "IA, ciberseguridad y conectividad: cómo el Mobile World Congress ha dejado de ser una feria de móviles",
+        "image_url": "https://static.eldiario.es/clip/eca9ad62-e4b7-49c5-bff6-5b2081a252f9_16-9-discover-aspect-ratio_default_1137901.jpg",
+        "tags": [
+            "ciberseguridad",
+            "mobile",
+            "world",
+            "ia",
+            "feria",
+            "congress",
+            "moviles",
+            "conectividad",
+            "dejado"
+        ],
+        "link": "https://www.eldiario.es/tecnologia/ia-ciberseguridad-conectividad-mobile-world-congress-dejado-feria-moviles_1_13037250.html",
+        "date": "2026-03-04 22:16:43",
+        "sentiment_score": -0.14963415265083313
     }
 ];
