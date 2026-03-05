@@ -1,233 +1,5 @@
 export default [
     {
-        "title": "Mientras estés fuera de casa estas son las dos opciones que debes desactivar para evitar ciberataques",
-        "image_url": "https://www.infobae.com/resizer/v2/IGLSH5NERZCCHLAMJ3U52FS3KU.png?auth=e89774fe71ba56b0aa8d17a8e8a3aec93e7b2388092a7d7609d961117fa650fa&height=768&smart=true&width=1408",
-        "tags": [
-            "teléfono",
-            "tecnología-noticias",
-            "lugares públicos",
-            "lo último en tecnología",
-            "datos personales",
-            "casa",
-            "ciberataques"
-        ],
-        "link": "https://www.infobae.com/tecno/2026/03/01/mientras-estes-fuera-de-casa-estas-son-las-dos-opciones-que-debes-desactivar-para-evitar-ciberataques/",
-        "date": "2026-03-01 17:33:05",
-        "sentiment_score": 0.013175278902053833
-    },
-    {
-        "title": "Lamine Yamal resurge en el Barça tras meses de frustración silenciosa",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/22/2025112220022723599.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/lamine-yamal-resurge-barca-meses-frustracion-silenciosa/20260301182509376833.html",
-        "date": "2026-03-01 17:25:09",
-        "sentiment_score": -0.6115434095263481
-    },
-    {
-        "title": "Real Madrid - Getafe: horario y dónde ver por TV la jornada 26 de Liga",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/10/20/68f6488379f4d.r_d.859-432.jpeg",
-        "tags": [
-            "la liga"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20260301/real-madrid-getafe-horario-donde-ver-tv-jornada-26-liga_390864.html",
-        "date": "2026-03-01 17:25:05",
-        "sentiment_score": 0.024813968688249588
-    },
-    {
-        "title": "Sin noticias de Ruiz de Galarreta",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/58d6437f-f34c-40eb-8d54-780ea9f41f0a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "noticias",
-            "galarreta",
-            "ruiz"
-        ],
-        "link": "https://www.deia.eus/athletic/2026/03/01/noticias-ruiz-galarreta-10764245.html",
-        "date": "2026-03-01 17:18:57",
-        "sentiment_score": -0.5911302864551544
-    },
-    {
-        "title": "Un colectivo de feministas católicas se concentra en Coia para pedir igualdad en la institución eclesiástica",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bbc90cd8-90d9-4a22-a8ab-3336a18731bc_16-9-aspect-ratio_default_0_x400y177.jpg",
-        "tags": [
-            "feministas",
-            "coia",
-            "cristo de la victoria",
-            "mujeres",
-            "iglesia"
-        ],
-        "link": "https://www.farodevigo.es/gran-vigo/2026/03/01/colectivo-feministas-catolicas-concentra-coia-127422395.html",
-        "date": "2026-03-01 17:18:48",
-        "sentiment_score": -0.7257084213197231
-    },
-    {
-        "title": "Un penalti destroza las ilusiones de Osasuna en Valencia y le aleja de la zona europea",
-        "image_url": "https://navarra.okdiario.com/media/navarra/images/2026/03/01/2026030118034627500.jpg",
-        "tags": [
-            "osasuna"
-        ],
-        "link": "https://navarra.okdiario.com/articulo/osasuna/cronica-partido-futbol-valencia-osasuna-estadio-mestalla/20260301181709634777.html",
-        "date": "2026-03-01 17:17:09",
-        "sentiment_score": -0.009830363094806671
-    },
-    {
-        "title": "En 1962 el empresario Antonio Molina abrió la primera tienda especializada en deportes",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/files/fp/uploads/2026/03/01/69a3ea280a420.r_d.744-953-8409.jpeg",
-        "tags": [
-            "tal como éramos"
-        ],
-        "link": "https://www.lavozdealmeria.com/almeria/tal-como-eramos/477009/1962-empresario-antonio-molina-abrio-primera-tienda-especializada-deportes.html",
-        "date": "2026-03-01 16:58:16",
-        "sentiment_score": 0.6331944689154625
-    },
-    {
-        "title": "La dura realidad de Ricardo Arroyo, Vicente Maroto en 'La que se avecina', tras dos años ingresado en una residencia: \"Nadie se acuerda de ti\"",
-        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/uploads/2026/02/26/69a039e6685fb.jpeg",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.cadena100.es/television/noticias/dura-realidad-ricardo-arroyo-vicente-maroto-avecina-dos-anos-ingresado-residencia-nadie-acuerda-ti-20260301_146659.html",
-        "date": "2026-03-01 16:56:00",
-        "sentiment_score": -0.07405167818069458
-    },
-    {
-        "title": "El desafío de Madre Coraje que invita a repensar la moda: las 10 prendas que marcan la diferencia",
-        "image_url": "https://navarra.okdiario.com/media/navarra/images/2025/09/29/2025092917010873859.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://navarra.okdiario.com/articulo/sociedad/reto-madre-coraje-que-busca-replantear-tus-compras-moda-10-prendas-que-marcan-diferencia/20260301175424634787.html",
-        "date": "2026-03-01 16:54:24",
-        "sentiment_score": 0.22679889388382435
-    },
-    {
-        "title": "El Gobierno de Castilla-La Mancha conmemorará el Día Internacional de las Mujeres con más de 300 actividades en la provincia de Ciudad Real",
-        "image_url": "https://www.lacerca.com/imagenes/api_seo_43_thumb/0e954c7b59e0a2e5b687ec1594fd0b79.jpg",
-        "tags": [
-            "castilla-la mancha",
-            "noticias"
-        ],
-        "link": "https://www.lacerca.com/noticias/castilla_la_mancha/gobierno-dia-internacional-mujeres-actividades-provincia-ciudad-real-803996-1.html",
-        "date": "2026-03-01 16:49:00",
-        "sentiment_score": 0.11344636976718903
-    },
-    {
-        "title": "Los Mossos presentan la 'Sala del Futur' en el MWC 2026",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/03/06/sucesos/929167256_14224294_1706x960.jpg",
-        "tags": [
-            "mossos d'esquadra",
-            "mwc",
-            "seguridad",
-            "vivir en barcelona",
-            "sucesos"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260301/mossos-presentan-sala-futur-mwc/1003742737279_0.html",
-        "date": "2026-03-01 17:43:55",
-        "sentiment_score": 0.48194489628076553
-    },
-    {
-        "title": "Un herido grave en el incendio de un bloque de pisos de Viladecans",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0ca7193b-d877-4f5a-b0f6-c84bb2172f6e_alta-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "bomberos",
-            "vecinos",
-            "barcelona",
-            "viladecans"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/viladecans/20260301/herido-grave-incendio-bloque-pisos-viladecans-barcelona-127424767",
-        "date": "2026-03-01 17:43:01",
-        "sentiment_score": -0.8276573112234473
-    },
-    {
-        "title": "Muere a los 97 años Fernando Tapia, expresidente de la Audiencia Provincial",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/03/01/101460396-RJMFc7UUoDCq6WdiL3yar1H-1200x840@Ideal.JPEG",
-        "tags": [
-            "alhama de granada",
-            "gérgal",
-            "escúzar",
-            "valle de lecrín",
-            "andalucía",
-            "granada",
-            "colegio de abogados de granada",
-            "jaén"
-        ],
-        "link": "https://www.ideal.es/granada/muere-anos-fernando-tapia-expresidente-audiencia-provincial-20260301183708-nt.html",
-        "date": "2026-03-01 17:37:15",
-        "sentiment_score": 0.8604418989270926
-    },
-    {
-        "title": "El pueblo costero de Catalunya donde nació Bad Gyal: playas, naturaleza y a solo 30 minutos de Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6e1ba5ea-2a70-4902-8d96-827ed85bbfd7_alta-libre-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "flores",
-            "radio",
-            "arquitectura",
-            "barcelona",
-            "documentales",
-            "maresme",
-            "museos",
-            "catalán",
-            "modernismo",
-            "bad gyal",
-            "pesca",
-            "playas",
-            "el señor de los anillos",
-            "vilassar de mar",
-            "gastronomía",
-            "actores"
-        ],
-        "link": "https://www.elperiodico.com/es/catalunya/20260301/pueblo-cataluna-bad-gyal-barcelona-vilassar-de-mar-cerca-dv-127246758",
-        "date": "2026-03-01 17:35:45",
-        "sentiment_score": 0.7918514981865883
-    },
-    {
-        "title": "Una pareja de catalanes se queda atrapada en Tailandia tras suspenderse la conexión vía Qatar: \"El vuelo se ha cancelado, espabilad\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a6f264c8-9869-4277-aa08-6d4701028a60_alta-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "bangkok"
-        ],
-        "link": "https://www.elperiodico.com/es/internacional/20260301/pareja-catalanes-atrapada-tailandia-vuelos-cancelados-qatar-127424238",
-        "date": "2026-03-01 17:33:53",
-        "sentiment_score": -0.8228013394400477
-    },
-    {
-        "title": "Celebración de San Medir en Barcelona: la fiesta que convierte habas en caramelos",
-        "image_url": "https://okdiario.com/img/2026/03/01/sant_medir_gracia1_a.jpg",
-        "tags": [
-            "españa",
-            "cataluña"
-        ],
-        "link": "https://okdiario.com/cataluna/celebracion-san-medir-barcelona-fiesta-que-convierte-habas-caramelos-16329831",
-        "date": "2026-03-01 17:30:26",
-        "sentiment_score": 0.28250516951084137
-    },
-    {
-        "title": "Del Castillo de Santa Bárbara a los Goya: Alicante se cuela entre los premiados",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bea9b543-7c8b-436f-881e-c9082a3a81e7_16-9-aspect-ratio_default_0_x680y256.jpg",
-        "tags": [
-            "cultura",
-            "premios",
-            "goya",
-            "castillo de santa bárbara",
-            "valenciano"
-        ],
-        "link": "https://www.informacion.es/cultura/2026/03/01/castillo-santa-barbara-goya-alicante-127422260.html",
-        "date": "2026-03-01 17:24:50",
-        "sentiment_score": 0.1334134265780449
-    },
-    {
-        "title": "Los bomberos realizan tres rescates a excursionistas en montañas de Cataluña: uno quedó colgado en un árbol",
-        "image_url": "https://album.mediaset.es/eimg/2026/03/01/los-bomberos-realizan-tres-rescates-a-excursionistas-en-montanas-de-cataluna-uno-quedo-colgado-en-un_7f47.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.telecinco.es/noticias/catalunya/20260301/tres-rescates-excursionistas-montanas-catalanas-uno-quedo-colgado-arbol_18_018490073.html",
-        "date": "2026-03-01 17:20:05",
-        "sentiment_score": -0.5578063409775496
-    },
-    {
         "title": "Árbitro activa protocolo antirracismo en el empate entre Espanyol y Elche en La Liga",
         "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
         "tags": [
@@ -3102,5 +2874,163 @@ export default [
         "link": "https://www.laregion.es/economia/morosos-dejaron-pagar-8-490_1_20260305-4186842.html",
         "date": "2026-03-05 01:00:45",
         "sentiment_score": -0.09450560808181763
+    },
+    {
+        "title": "«Conocer a cada personaje del 11-M es vital para no caer en la desinformación»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/05/leticia-alvarez-kSOG-U201026464137FfD-1200x840@RC.jpg",
+        "tags": [
+            "josé emilio suárez trashorras"
+        ],
+        "link": "https://www.ideal.es/nacional/conocer-personaje-11m-vital-caer-desinformacion-20260305082244-ntrc.html",
+        "date": "2026-03-05 07:22:47",
+        "sentiment_score": -0.5994528252631426
+    },
+    {
+        "title": "El Real Madrid afronta un mes de marzo determinante de cara a salvar la temporada",
+        "image_url": "https://www.infobae.com/resizer/v2/JDYNNHZHNBFV5AKKR2NY2NONE4.jpg?auth=cce560aacab920acf230958a798e8caf5044e67f920be08f703b85a3145190a6&height=1280&smart=true&width=1920",
+        "tags": [
+            "atlético de madrid",
+            "fútbol español",
+            "álvaro arbeloa",
+            "manchester city",
+            "rc celta",
+            "fc barcelona",
+            "jude bellingham",
+            "santiago bernabéu",
+            "liga de campeones",
+            "real madrid",
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/05/el-real-madrid-afronta-un-mes-de-marzo-determinante-de-cara-a-salvar-la-temporada/",
+        "date": "2026-03-05 07:16:08",
+        "sentiment_score": -0.4896226152777672
+    },
+    {
+        "title": "Llega a Torrejón un avión militar con 171 españoles repatriados de Omán por la guerra",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/05/vista-del-avion-a330-mrtt-con-capacidad-para-unas-250-personas.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/llega-torrejon-avion-militar-171-espanoles-repatriados-oman-ataques-iran-f202603.html",
+        "date": "2026-03-05 07:15:03",
+        "sentiment_score": -0.43733201548457146
+    },
+    {
+        "title": "El juicio por el nombramiento ilegal de la junta directiva del Compostela queda pendiente de Borja Iglesias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/13f80a99-c191-431d-bb9f-000897702608_16-9-aspect-ratio_default_0_x384y170.jpg",
+        "tags": [
+            "juicio",
+            "borja iglesias",
+            "sd compostela",
+            "fútbol"
+        ],
+        "link": "https://www.farodevigo.es/deportes/2026/03/05/juicio-nombramiento-ilegal-junta-directiva-127576406.html",
+        "date": "2026-03-05 07:14:15",
+        "sentiment_score": -0.8435693066567183
+    },
+    {
+        "title": "La fiscal general de Trump, forzada por su propio partido a declarar por las maniobras sobre los papeles de Epstein",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/05/la-fiscal-general-de-eeuu-pam-bondi-en-una-audiencia-del-comite-judicial-de-la-camara-de-representantes-sobre-la-supervision-del-departamento-de-justicia-el-11-de-febrero-de-2026.jpeg",
+        "tags": [
+            "global"
+        ],
+        "link": "https://www.huffingtonpost.es/global/la-fiscal-general-trump-forzada-propio-partido-declarar-maniobras-sobre-papeles-trump-f202603.html",
+        "date": "2026-03-05 07:14:04",
+        "sentiment_score": -0.18069130182266235
+    },
+    {
+        "title": "07:00H | 05 MAR 2026 | Herrera en COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "herrera en cope"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/07-00h-05-mar-2026-herrera-cope-20260305_3320191.html",
+        "date": "2026-03-05 07:04:00",
+        "sentiment_score": -0.29402244091033936
+    },
+    {
+        "title": "8M: Las pioneras que rompieron moldes y reivindicaron el poder de la mujer",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/11/15/E4B82D59-4F42-4006-B224-B8D4416FF4C1/isabel-castilla-retrato-anonimo_98.jpg?crop=1077%2C606%2Cx0%2Cy259&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "castilla y león",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/castilla-y-leon/pioneras-que-rompieron-moldes-reivindicaron-poder-mujer_2026030569a862f8e1ff634075d80e21.html",
+        "date": "2026-03-05 07:00:28",
+        "sentiment_score": 0.7046883329749107
+    },
+    {
+        "title": "La fintech española Embat gestionó 250.000 millones en 2025 tras elevar su captación de clientes",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/03/20260305075952.jpg?fit=1500%2C788&ssl=1",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://cronicadecantabria.com/cr/la-fintech-espaola-embat-gestion-250-000-millones-en-2025-tras-elevar-su-captacin-de-clientes/",
+        "date": "2026-03-05 07:00:03",
+        "sentiment_score": 0.5441294424235821
+    },
+    {
+        "title": "'El capitán en Japón': el extremeño que ha guiado a Joaquín y su familia por las calles de Osaka",
+        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2026/03/05/chema-joaquin-japon-kr5B-U20890751865wHD-1200x840@Hoy.jpg",
+        "tags": [
+            "redes sociales",
+            "antena 3",
+            "betis",
+            "osaka",
+            "extremadura",
+            "gastronomía"
+        ],
+        "link": "https://www.hoy.es/extremadura/capitan-japon-programa-antena-3-extremeno-guiado-joaquin-familia-20260305123905-nt.html",
+        "date": "2026-03-05 07:22:17",
+        "sentiment_score": -0.08250542357563972
+    },
+    {
+        "title": "La plataforma de gestión de impuestos TaxDown recibe 4 millones de BBVA",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/22281aeb6eed714bc0d950882da562f7/crop/215x50/1853x1142/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/05/17726950035756.jpg",
+        "tags": [
+            "empleo>",
+            "pymes>",
+            "emprendedores>"
+        ],
+        "link": "https://www.expansion.com/expansion-empleo/emprendedores/2026/03/05/69a927b5468aebc2678b45a1.html",
+        "date": "2026-03-05 07:19:13",
+        "sentiment_score": 0.6986952945590019
+    },
+    {
+        "title": "Generales, andaluzas y catalanas y Junts, con Trump",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/05/primeras-planas/1003742738489_15789255_1706x960.jpg",
+        "tags": [
+            "elecciones",
+            "cataluña",
+            "junts per catalunya",
+            "primeras planas",
+            "donald trump"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260305/generales-andaluzas-catalanas-junts-trump/1003742738487_0.html",
+        "date": "2026-03-05 07:18:45",
+        "sentiment_score": -0.8356101326644421
+    },
+    {
+        "title": "Yolanda Ramos aviva la polémica por la presencia de 'influencers' en los Goya: \"Yo estaba en pijama en mi casa, me convenzo...\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/27/69284211395cc7-55025713.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.20minutos.es/gente/yolanda-ramos-aviva-polemica-por-presencia-influencers-los-goya-yo-estaba-pijama-mi-casa-me-convenzo_6942087_0.html",
+        "date": "2026-03-05 07:15:33",
+        "sentiment_score": 0.5401046946644783
+    },
+    {
+        "title": "El patinete se erige en herramienta de la nueva delincuencia: \"Facilita la huida, hay que controlarlo\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e17f937c-d4b8-40e3-a820-0d66c956e55d_16-9-aspect-ratio_default_0_x510y191.jpg",
+        "tags": [
+            "patinetes",
+            "policía",
+            "robos",
+            "delincuencia"
+        ],
+        "link": "https://www.laopiniondemalaga.es/sociedad/2026/03/05/patinete-herramienta-nueva-delincuencia-huir-control-matricula-127576391.html",
+        "date": "2026-03-05 07:13:33",
+        "sentiment_score": 0.2539554163813591
     }
 ];
