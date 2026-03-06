@@ -1,176 +1,5 @@
 export default [
     {
-        "title": "Boehly revela cómo fichó a Cucurella sin experiencia como director deportivo",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/26/2025112604533999726.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/dueno-chelsea-admite-que-siguio-pista-city-cerrar-traspaso/20260302074216376928.html",
-        "date": "2026-03-02 06:42:16",
-        "sentiment_score": -0.0263797789812088
-    },
-    {
-        "title": "'Madrid, ciudad de vacaciones': una de cada 17 viviendas del centro es de uso turístico",
-        "image_url": "https://www.elplural.com/uploads/s1/24/40/38/4/la-presidenta-de-la-comunidad-de-madrid-isabel-diaz-ayuso-junto-al-alcalde-de-madrid-jose-luis-martinez-almeida-en-fitur-ep_7_480x270.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elplural.com/politica/espana/madrid-ciudad-vacaciones-cada-17-viviendas-centro-uso-turistico_382824102",
-        "date": "2026-03-02 06:29:39",
-        "sentiment_score": -0.11305096745491028
-    },
-    {
-        "title": "Cecilia Gessa: \"No me interesa tanto la provocación como la exploración\"",
-        "image_url": "https://static.grupojoly.com/clip/054340e0-7778-4bf6-9e9a-ba9771e20784_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "provocacion",
-            "no",
-            "interesa",
-            "cecilia",
-            "gessa"
-        ],
-        "link": "https://www.huelvainformacion.es/entrevistas/cecilia-gessa-no-interesa-provocacion_0_2006044729.html",
-        "date": "2026-03-02 06:28:34",
-        "sentiment_score": 0.10287582874298096
-    },
-    {
-        "title": "Telefónica se alía con Satellite Connect Europe para explora la conectividad satelital directa al dispositivo",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2026/02/fachada-sede-telefonica-20260227124018-1000x665.jpg",
-        "tags": [
-            "marc murtra",
-            "empresas",
-            "telefónica"
-        ],
-        "link": "https://www.economiadigital.es/empresas/telefonica-se-alia-con-satellite-connect-europe-para-explora-la-conectividad-satelital-directa-al-dispositivo.html",
-        "date": "2026-03-02 07:00:00",
-        "sentiment_score": 0.4767180345952511
-    },
-    {
-        "title": "MSI presenta una AI-RAN escalable con soluciones aéreas de IA de NVIDIA",
-        "image_url": "https://mma.prnewswire.com/media/2918976/MSI_Unified_AI_vRAN_Platform_for_O_RAN_and_5G.jpg?p=publish",
-        "tags": [
-            "tls",
-            "net",
-            "hrd",
-            "wireless communications",
-            "networks",
-            "telecommunications industry",
-            "afi",
-            "artificial intelligence",
-            "wic",
-            "computer & electronics",
-            "cpr",
-            "computer hardware"
-        ],
-        "link": "https://www.prnewswire.com/news-releases/msi-presenta-una-ai-ran-escalable-con-soluciones-aereas-de-ia-de-nvidia-302695663.html",
-        "date": "2026-03-02 07:00:00",
-        "sentiment_score": 0.41807020641863346
-    },
-    {
-        "title": "El jinete Luis Astolfi, amigo íntimo de la infanta Elena, anuncia que tiene ELA: \"Me lo noto en el habla\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/02/69a5349077fb30-64126088.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/gente/jinete-luis-astolfi-amigo-intimo-infanta-elena-anuncia-que-tiene-ela-me-noto-habla-pero-me-valgo-por-mi-mismo_6940493_0.html",
-        "date": "2026-03-02 06:59:10",
-        "sentiment_score": -0.15293708443641663
-    },
-    {
-        "title": "España hoy, 2 de marzo de 2026: lo que tienes que saber",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/03/ENCUESTAS-CyL-1200x675.jpg",
-        "tags": [
-            "gaza",
-            "aranceles",
-            "venezuela",
-            "bruselas",
-            "europa",
-            "israel",
-            "españa",
-            "estados unidos",
-            "china"
-        ],
-        "link": "https://theobjective.com/espana/2026-03-02/espana-hoy-2-de-marzo-de-2026-lo-que-tienes-que-saber/",
-        "date": "2026-03-02 06:58:23",
-        "sentiment_score": 0.02169281244277954
-    },
-    {
-        "title": "Sánchez aisla a España en su crítica frontal a EEUU por la ofensiva contra Irán",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/03/02/2026030207493934458.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/espanha/sanchez-aisla-espana-critica-frontal-eeuu-ofensiva-iran/20260302075132580901.html",
-        "date": "2026-03-02 06:51:32",
-        "sentiment_score": -0.9010602533817291
-    },
-    {
-        "title": "El vídeo del beso de Alejandro Sanz a Stephanie Cayo en pleno concierto con el que se esfuman las sospechas de reconciliación con Candela Márquez",
-        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/uploads/2026/03/02/69a53197d874a.jpeg",
-        "tags": [
-            "trending topic"
-        ],
-        "link": "https://www.cadena100.es/trending-topic/noticias/video-beso-alejandro-sanz-stephanie-cayo-pleno-concierto-esfuman-sospechas-reconciliacion-candela-marquez-20260302_146775.html",
-        "date": "2026-03-02 06:49:10",
-        "sentiment_score": -0.06601303815841675
-    },
-    {
-        "title": "El precio más bajo de la gasolina hoy en Madrid, Barcelona y otras ciudades este 2 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/HVG5KOC3AND4JFHGWG6P76TKOY.jpg?auth=b89ff4fb57713b5c6052af325fe426c33ef424165d93ee4dda7bdb4860452a65&height=2000&smart=true&width=3000",
-        "tags": [
-            "precio de la gasolina en madrid",
-            "españa-economia",
-            "precios españa",
-            "precio de la gasolina en españa",
-            "últimas actualizaciones",
-            "precio de la gasolina en barcelona",
-            "españa-noticias",
-            "precio de la gasolina en españa hoy"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/02/el-precio-mas-bajo-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-este-2-de-marzo/",
-        "date": "2026-03-02 06:44:26",
-        "sentiment_score": -0.7610694728791714
-    },
-    {
-        "title": "El amigo de la infanta Elena, Luis Astolfi, anuncia que padece ELA: “Me noto afectado un poco el habla y un brazo, pero no tengo dolor”",
-        "image_url": "https://www.infobae.com/resizer/v2/TLGMQDMDLVEMFN2HN3Y73US4TQ.jpg?auth=ad3893e0f622de6d33bc8b5d010beef1100236cee346028fdc9ac40f1931a93e&height=569&smart=true&width=1012",
-        "tags": [
-            "infanta elena",
-            "españa-entretenimiento",
-            "corazón y estilo españa",
-            "famosos españa",
-            "gente españa",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/02/el-amigo-de-la-infanta-elena-luis-astolfi-anuncia-que-padece-ela-me-noto-afectado-un-poco-el-habla-y-un-brazo-pero-no-tengo-dolor/",
-        "date": "2026-03-02 06:42:06",
-        "sentiment_score": 0.006598182022571564
-    },
-    {
-        "title": "Ahora se dice \"lit\"",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/28/culemania/primer-equipo/1003742737113_15771321_1706x960.jpg",
-        "tags": [
-            "un culé en la castellana",
-            "barça",
-            "juanito blaugrana",
-            "lamine yamal"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/juanito-blaugrana/20260302/ahora-dice-lit/1003742737304_0.html",
-        "date": "2026-03-02 06:35:11",
-        "sentiment_score": -0.08352717384696007
-    },
-    {
-        "title": "Con la iglesia hemos topado",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/03/con-iglesia-hemos-topado-colaboracion-750x500.jpg",
-        "tags": [
-            "colaboraciones",
-            "opinión"
-        ],
-        "link": "https://elfarodeceuta.es/con-iglesia-hemos-topado/",
-        "date": "2026-03-02 06:32:37",
-        "sentiment_score": 0.2505306452512741
-    },
-    {
         "title": "El deporte, en vilo por el conflicto bélico en Oriente Medio",
         "image_url": "https://laconexionusa.com/wp-content/uploads/2026/03/rss-efe24ac4338489b98c4d4585f61db670cb1b355d366w.jpg",
         "tags": [
@@ -2848,5 +2677,173 @@ export default [
         "link": "https://www.infobae.com/espana/2026/03/05/la-onu-apoya-al-gobierno-espanol-por-construir-vivienda-protegida-y-pide-limites-razonables-al-precio-del-alquiler/",
         "date": "2026-03-05 17:30:09",
         "sentiment_score": -0.3860043063759804
+    },
+    {
+        "title": "Trump cesa a Kristi Noem como responsable de Seguridad Nacional tras las muertes en Mineápolis",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/61/media_thumb-link-4153691.webp?1772737806=",
+        "tags": [
+            "trump",
+            "ice",
+            "actualidad"
+        ],
+        "link": "https://www.meneame.net/story/trump-cesa-kristi-noem-como-responsable-seguridad-nacional-tras",
+        "date": "2026-03-05 19:55:04",
+        "sentiment_score": -0.06390304863452911
+    },
+    {
+        "title": "Crónica del Real Madrid - Virtus Bolonia: 92-84",
+        "image_url": "https://www.infobae.com/resizer/v2/LNYKIRDPYJHA7PZBW65ULXDY2A.jpg?auth=6798a428fce4d137faff35a7e2f1d4192fb737768143e7248fb9a9d471b10dcd&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/05/cronica-del-real-madrid-virtus-bolonia-92-84/",
+        "date": "2026-03-05 22:30:55",
+        "sentiment_score": -0.0627664253115654
+    },
+    {
+        "title": "El Madrid gana también a la Virtus para sumar un récord de 14-1 como local en la Euroliga",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8daa25e9-42cd-4824-8ddc-e4524abb80ae_16-9-discover-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "euroliga",
+            "baloncesto",
+            "real madrid de baloncesto"
+        ],
+        "link": "https://www.eldia.es/deportes/2026/03/05/madrid-gana-virtus-sumar-record-127615535.html",
+        "date": "2026-03-05 22:25:23",
+        "sentiment_score": -0.27922481298446655
+    },
+    {
+        "title": "Ratas, cucarachas en las camas y niños orinando en cubos por falta de personal: Compromís denuncia \"condiciones infrahumanas\" en 12 centros de servicios sociales de la Generalitat",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2025/09/30/ratas-en-una-imagen-de-archivo.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/ratas-cucarachas-camas-ninos-orinando-cubos-falta-personal-compromis-denuncia-condiciones-infrahumanas-12-centros-servicios-sociales-generalitat-f202603.html",
+        "date": "2026-03-05 22:18:16",
+        "sentiment_score": -0.9052532920613885
+    },
+    {
+        "title": "De una saga centenaria de carniceros a dormir en la calle: la historia de Jordi Fibla, el sintecho hallado muerto en Badalona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/05/gran-barcelona/1003742738578_15790186_1706x960.jpg",
+        "tags": [
+            "badalona",
+            "guardia urbana",
+            "sintecho",
+            "gran barcelona",
+            "mossos d'esquadra"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260305/saga-centenaria-carniceros-dormir-calle-historia-jordi-fibla-sintecho-hallado-muerto-badalona/1003742738511_0.html",
+        "date": "2026-03-05 22:30:00",
+        "sentiment_score": -0.07368575036525726
+    },
+    {
+        "title": "Charo, madre de un joven de Badalona que triunfa con los videojuegos en Berlín: \"Son privilegiados, pero no tienen vida”",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/02/actualidad/1003742737414_15775063_1706x960.jpg",
+        "tags": [
+            "famosos barcelona",
+            "badalona",
+            "videojuegos y gamers",
+            "eventos",
+            "la salut",
+            "gran barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260305/charo-madre-joven-badalona-triunfa-videojuegos-berlin-privilegiados-no-vida/1003742737428_0.html",
+        "date": "2026-03-05 22:30:00",
+        "sentiment_score": 0.13604091107845306
+    },
+    {
+        "title": "Futbolista Lamine Yamal presentó sus condolencias a Irán por asesinato de Alí Jamenei",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/images-14.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://ultimasnoticias.com.ve/actualidad/futbolista-lamine-yamal-presento-sus-condolencias-a-iran-por-asesinato-de-ali-jamenei/",
+        "date": "2026-03-05 22:21:25",
+        "sentiment_score": -0.8058542124927044
+    },
+    {
+        "title": "Pilar García de la Granja, experta económica: \"El Gobierno puede deflactar el IRPF a la subida de la inflación para paliar la crisis por el conflicto en Oriente Medio\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2026/03/02/69a6116a28b8d.jpeg",
+        "tags": [
+            "clases de economía"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/clases-de-economia/audios/pilar-garcia-granja-experta-economica-gobierno-deflactar-irpf-subida-inflacion-paliar-crisis-conflicto-oriente-medio-20260305_3320995.html",
+        "date": "2026-03-05 22:14:03",
+        "sentiment_score": -0.11996825039386749
+    },
+    {
+        "title": "Donald Trump vuelve a cargar contra Pedro Sánchez: «España es un país perdedor y no vamos a jugar en equipo con ellos»",
+        "image_url": "https://www.alertadigital.com/wp-content/uploads/2025/10/trump-8.jpg",
+        "tags": [
+            "sanchez",
+            "estados unidos",
+            "perdedor",
+            "> columna izquierda",
+            "trump",
+            "pais"
+        ],
+        "link": "https://www.alertadigital.com/2026/03/05/donald-trump-vuelve-a-cargar-contra-pedro-sanchez-espana-es-un-pais-perdedor-y-no-vamos-a-jugar-en-equipo-con-ellos/",
+        "date": "2026-03-05 22:09:31",
+        "sentiment_score": -0.908162510022521
+    },
+    {
+        "title": "El exjugador de Barcelona que actualmente está triunfando en la música",
+        "image_url": "https://pxcdn.meridiano.net/032026/1772748503493.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/el-exjugador-de-barcelona-que-actualmente-esta-triunfando-en-la-musica-2026351880",
+        "date": "2026-03-05 22:08:00",
+        "sentiment_score": 0.7498060557991266
+    },
+    {
+        "title": "Fermín Cacho mejora positivamente y las pruebas descartan lesiones cardíacas graves",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/05/69a9fd28407c4.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/fermin-cacho-mejora-positivamente-pruebas-descartan-lesiones-cardiacas-graves-20260305_3320993.html",
+        "date": "2026-03-05 22:07:59",
+        "sentiment_score": -0.21157585084438324
+    },
+    {
+        "title": "Dos afortunados en La Primitiva se llevan más de 792.000 euros este jueves",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2026/02/19/interior-administracion-loteria-kFCB-U20801310741GNE-1200x840@Hoy.jpg",
+        "tags": [
+            "loterías y apuestas del estado",
+            "primitiva",
+            "apuestas",
+            "premios"
+        ],
+        "link": "https://www.hoy.es/sociedad/dos-afortunados-primitiva-llevan-792000-euros-jueves-20260305230549-nt.html",
+        "date": "2026-03-05 22:05:51",
+        "sentiment_score": 0.07975747436285019
+    },
+    {
+        "title": "Laporta y Font definirán al próximo presidente del Barcelona",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/03/Laporta-y-Font.jpg",
+        "tags": [
+            "deportes",
+            "05mar",
+            "laporta",
+            "font",
+            "barcelona"
+        ],
+        "link": "https://laverdaddemonagas.com/2026/03/05/laporta-y-font-barcelona/",
+        "date": "2026-03-05 21:59:26",
+        "sentiment_score": -0.09060945361852646
+    },
+    {
+        "title": "Eduard Vallory (BIST): El problema de los científicos catalanes es que no saben qué hacer con tanta investigación",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9e36fa3c-9e2d-461f-a22a-46b2fc283e54_alta-libre-aspect-ratio_default_0_x870y341.jpg",
+        "tags": [
+            "investigación",
+            "biotecnología",
+            "innovación"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260305/eduard-vallory-bist-problema-cientificos-127592134",
+        "date": "2026-03-05 21:59:00",
+        "sentiment_score": 0.27780237048864365
     }
 ];
