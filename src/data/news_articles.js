@@ -2845,5 +2845,211 @@ export default [
         "link": "https://www.elperiodico.com/es/economia/20260305/eduard-vallory-bist-problema-cientificos-127592134",
         "date": "2026-03-05 21:59:00",
         "sentiment_score": 0.27780237048864365
+    },
+    {
+        "title": "Arbeloa afronta el duelo ante el Celta con una defensa plagada de bajas",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/08/2026010818030148225.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/arbeloa-afronta-duelo-celta-defensa-plagada-bajas/20260306033222377478.html",
+        "date": "2026-03-06 02:32:22",
+        "sentiment_score": -0.476860448718071
+    },
+    {
+        "title": "AREA10 Marketing revalida su liderazgo como Mejor Agencia de Marketing Digital en España por segundo año",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7880239",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5797150/area10-marketing-revalida-liderazgo-como-mejor-agencia-marketing-digital-espana-segundo-ano",
+        "date": "2026-03-06 02:24:37",
+        "sentiment_score": 0.8045395351946354
+    },
+    {
+        "title": "Bravent presenta su primera empleada digital impulsada por IA en un evento junto a Microsoft",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7880227",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5797143/bravent-presenta-primera-empleada-digital-impulsada-ia-evento-junto-microsoft",
+        "date": "2026-03-06 02:23:27",
+        "sentiment_score": 0.16392682865262032
+    },
+    {
+        "title": "Endrick cae eliminado de la Copa de Francia tras perder el Lyon ante el Lens",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/25/2026012519570028755.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/endrick-cae-eliminado-copa-francia-perder-lyon-lens/20260306032212377477.html",
+        "date": "2026-03-06 02:22:12",
+        "sentiment_score": 0.725011533126235
+    },
+    {
+        "title": "Otro primer viernes de marzo",
+        "image_url": "https://static.grupojoly.com/clip/f35d753c-21a7-43c6-9615-858f39a8648a_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "viernes",
+            "primer",
+            "marzo"
+        ],
+        "link": "https://www.diariodecadiz.es/opinion/articulos/primer-viernes-marzo_0_2006084169.html",
+        "date": "2026-03-06 02:06:55",
+        "sentiment_score": -0.6898538023233414
+    },
+    {
+        "title": "Investigación en salud femenina para reducir la brecha de género",
+        "image_url": "https://www.hispanidad.com/uploads/s1/14/48/61/5/analuce-canha-analizando-muestras-en-el-laboratorio_4_588x353.jpeg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.hispanidad.com/publirreportaje/investigacion-en-salud-femenina-reducir-brecha-genero_12066045_102.html",
+        "date": "2026-03-06 02:00:00",
+        "sentiment_score": -0.05312638729810715
+    },
+    {
+        "title": "Cómo encontrar cerrajeros 24 horas en Madrid con garantías y precios transparentes",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7880198",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5797128/como-encontrar-cerrajeros-24-horas-madrid-garantias-precios-transparentes",
+        "date": "2026-03-06 01:51:12",
+        "sentiment_score": 0.70574164763093
+    },
+    {
+        "title": "BlackRock se alía a Twin Peaks para invertir 400 millones en 'flex living'",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/0a5f3d7a576ea134d7d984e2da1d00ba/crop/35x366/2048x1709/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/05/17727373614252.jpg",
+        "tags": [
+            "artículos rebeca arroyo>",
+            "mercado inmobiliario>",
+            "inmobiliario>",
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2026/03/06/69a9d376e5fdea99388b458d.html",
+        "date": "2026-03-05 23:50:56",
+        "sentiment_score": 0.590625049546361
+    },
+    {
+        "title": "Donald Trump también sabe de fútbol: se moja en el debate sobre quién es mejor, si Pelé o Messi",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/06/dos-imagenes-una-de-messi-y-otra-de-pele.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/donald-trump-futbol-moja-debate-sobre-mejor-pele-messi-f202603.html",
+        "date": "2026-03-05 23:48:45",
+        "sentiment_score": -0.01726090908050537
+    },
+    {
+        "title": "Granada 2031 acelera a pocos días del examen",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/03/05/2031.jpg",
+        "tags": [
+            "granada capital europea de la cultura 2031"
+        ],
+        "link": "https://www.ideal.es/granada/granada-2031-acelera-pocos-dias-examen-20260306224203-nt.html",
+        "date": "2026-03-05 23:46:57",
+        "sentiment_score": 0.02838176116347313
+    },
+    {
+        "title": "Nicki Nicole reflexionó sobre sus vínculos tras su ruptura con Lamine Yamal: “Me tiro al vacío y choco, pero ya no soy eso”",
+        "image_url": "https://www.infobae.com/resizer/v2/5RGLCMUWFBF7TAICI2PJ3IP2CY.jpg?auth=c79f31a05e950ac58ab3e3ab2a02801aa6a91550908e267c08ee0384499c1101&height=1080&smart=true&width=1920",
+        "tags": [
+            "fc barcelona",
+            "nicki nicole",
+            "lamine yamal"
+        ],
+        "link": "https://www.infobae.com/teleshow/2026/03/06/nicki-nicole-reflexiono-sobre-sus-vinculos-tras-su-ruptura-con-lamine-yamal-me-tiro-al-vacio-y-choco-pero-ya-no-soy-eso/",
+        "date": "2026-03-06 02:21:19",
+        "sentiment_score": 0.2877987790852785
+    },
+    {
+        "title": "Clima en España: la previsión meteorológica para Barcelona este 6 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima en españa",
+            "últimas actualizaciones",
+            "clima",
+            "clima en barcelona"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/06/clima-en-espana-la-prevision-meteorologica-para-barcelona-este-6-de-marzo/",
+        "date": "2026-03-06 02:15:38",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Estructuras truss para stands y eventos, la propuesta de alquiler truss de ASB Audiovisuals",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7880213",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5797136/estructuras-truss-stands-eventos-propuesta-alquiler-truss-asb-audiovisuals",
+        "date": "2026-03-06 02:05:15",
+        "sentiment_score": 0.6967604421079159
+    },
+    {
+        "title": "TCL redefine cómo nos conectamos con el mundo en el MWC 2026",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7880217",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5797138/tcl-redefine-como-nos-conectamos-mundo-mwc-2026",
+        "date": "2026-03-06 02:00:07",
+        "sentiment_score": 0.7647184347733855
+    },
+    {
+        "title": "El MWC congrega a 105.000 asistentes, condicionado por el cierre aéreo en Oriente Medio",
+        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2026/03/El-MWC-congrega-a-105.000-asistentes-condicionado-por-el-cierre-aereo-en-Oriente-Medio-1024x683.webp",
+        "tags": [
+            "nuevas tecnologías"
+        ],
+        "link": "https://www.elperiodicodecanarias.es/el-mwc-congrega-a-105-000-asistentes-condicionado-por-el-cierre-aereo-en-oriente-medio/",
+        "date": "2026-03-06 01:59:52",
+        "sentiment_score": 0.4087315797805786
+    },
+    {
+        "title": "Andrés Iniesta será director deportivo de la selección de Marruecos",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/20/2025072013220630989.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/andres-iniesta-sera-director-deportivo-seleccion-marruecos/20260306025009377475.html",
+        "date": "2026-03-06 01:50:09",
+        "sentiment_score": 0.7255792431533337
+    },
+    {
+        "title": "Andrés Iniesta nombrado nuevo director deportivo de la selección de Marruecos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fc barcelona",
+            "marruecos",
+            "fútbol españa",
+            "fifa",
+            "mundial 2026",
+            "españa-noticias",
+            "españa-deportes",
+            "andrés iniesta",
+            "fútbol"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/03/06/andres-iniesta-nombrado-nuevo-director-deportivo-de-la-seleccion-de-marruecos/",
+        "date": "2026-03-06 01:31:03",
+        "sentiment_score": 0.11700199171900749
+    },
+    {
+        "title": "La obra oculta de Joan Miró: así es el mural que el Guggenheim mantuvo oculto por décadas",
+        "image_url": "https://www.infobae.com/resizer/v2/QV7LTEYW3NHIHBNN567TIDXLYM.jpg?auth=bd51faa850bd780d53d8b71e234a7aa0a76848b668fd98282ad9490efc9a5869&height=609&smart=true&width=1280",
+        "tags": [
+            "josep llorens artigas",
+            "joan miró",
+            "obra redescubierta",
+            "carol bove",
+            "patrimonio artístico",
+            "museo guggenheim nueva york",
+            "newsroom bue"
+        ],
+        "link": "https://www.infobae.com/cultura/2026/03/06/la-obra-oculta-de-joan-miro-asi-es-el-mural-que-el-guggenheim-mantuvo-oculto-por-decadas/",
+        "date": "2026-03-06 01:14:37",
+        "sentiment_score": 0.5382072888314724
     }
 ];
