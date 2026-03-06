@@ -1,200 +1,5 @@
 export default [
     {
-        "title": "El deporte, en vilo por el conflicto bélico en Oriente Medio",
-        "image_url": "https://laconexionusa.com/wp-content/uploads/2026/03/rss-efe24ac4338489b98c4d4585f61db670cb1b355d366w.jpg",
-        "tags": [
-            "otros",
-            "deportes"
-        ],
-        "link": "https://laconexionusa.com/el-deporte-en-vilo-por-el-conflicto-belico-en-oriente-medio/",
-        "date": "2026-03-02 17:39:54",
-        "sentiment_score": -0.91069779638201
-    },
-    {
-        "title": "El futuro, el IVA cultural, la IA y la ausencia de la galería Helga de Alvear marcan la 45a edición de ARCOmadrid",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260302183933_120.jpg",
-        "tags": [
-            "cultura",
-            "exposiciones"
-        ],
-        "link": "https://www.europapress.es/rss/%22https:/www.europapress.es/madrid/ifema-00444/noticia-futuro-iva-cultural-ia-ausencia-galeria-helga-alvear-marcan-45-edicion-arcomadrid-20260302183644.html%22",
-        "date": "2026-03-02 17:39:33",
-        "sentiment_score": -0.1162850558757782
-    },
-    {
-        "title": "La RFEF inicia la Semana Internacional de la Mujer bajo el lema 'Sueña sin límites'",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260302183716_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-rfef-inicia-semana-internacional-mujer-lema-suena-limites-20260302183716.html",
-        "date": "2026-03-02 17:37:16",
-        "sentiment_score": 0.485972972586751
-    },
-    {
-        "title": "Barroso defiende las medidas adoptadas contra las inundaciones",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/cffadee7-8550-4f5b-8c234899d634650c.jpg",
-        "tags": [
-            "avenida de madrid",
-            "presupuestos municipales",
-            "consejo de ministros",
-            "inundaciones",
-            "calle comercio",
-            "jesús garcía-barroso"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zc4faadd4-33be-4a54-a5708bab2fc847ea/202603/barroso-defiende-las-medidas-adoptadas-contra-las-inundaciones",
-        "date": "2026-03-02 17:33:53",
-        "sentiment_score": 0.13866553083062172
-    },
-    {
-        "title": "Las marcas de lujo suben su apuesta por el patrocinio del fútbol",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/02/2026030218293290196.jpg",
-        "tags": [
-            "luxury"
-        ],
-        "link": "https://www.mundiario.com/articulo/luxury/marcas-lujo-suben-apuesta-patrocinio-futbol/20260302183036376989.html",
-        "date": "2026-03-02 17:30:36",
-        "sentiment_score": -0.7782742865383625
-    },
-    {
-        "title": "Feijóo se compromete a aumentar un 15% las plantillas de médicos para mejorar las condiciones de guardias y jornadas",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260302182658_690.jpg",
-        "tags": [
-            "infosalus.com",
-            "actualidad"
-        ],
-        "link": "https://www.infosalus.com/actualidad/noticia-feijoo-compromete-aumentar-15-plantillas-medicos-mejorar-condiciones-guardias-jornadas-20260302182658.html",
-        "date": "2026-03-02 17:26:58",
-        "sentiment_score": 0.33485373109579086
-    },
-    {
-        "title": "La CNSE denuncia que las personas sordas siguen encontrando barreras en salas de cine y teatros",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260302182356_120.jpg",
-        "tags": [
-            "ep social",
-            "igualdad"
-        ],
-        "link": "https://www.europapress.es/epsocial/igualdad/noticia-cnse-denuncia-personas-sordas-siguen-encontrando-barreras-salas-cine-teatros-20260302182356.html",
-        "date": "2026-03-02 17:23:56",
-        "sentiment_score": -0.855520524084568
-    },
-    {
-        "title": "El Lugo, entre los mejores de los mejores: solo 4 derrotas en 15 enfrentamientos directos",
-        "image_url": "https://cflvdg.avoz.es/sc/v_hx3JKPyoucgwk10LA3SHisqWo=/768x/2026/03/02/00121772471521437683163/Foto/I_20250921_194531002.jpg",
-        "tags": [
-            "cd lugo",
-            "cdlugo",
-            "primera rfef"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/cdlugo/2026/03/02/lugo-mejores-mejores-solo-4-derrotas-15-enfrentamientos-directos/00031772471485075610287.htm",
-        "date": "2026-03-02 17:18:00",
-        "sentiment_score": 0.6086830385029316
-    },
-    {
-        "title": "Una propietaria hace reforma en su vivienda, se retrasa y no quiere pagar a los albañiles: la Justicia le condena a abonar 24.000 euros a la constructora",
-        "image_url": "https://www.infobae.com/resizer/v2/WFMDL4SBTJH3JDIAWNSHRT2VMA.jpg?auth=b73debf4d18665982c3d6aa85f4eb79f53de082acfc25ee4ec2b455b6761c5b2&height=1080&smart=true&width=1920",
-        "tags": [
-            "sentencias españa",
-            "justicia",
-            "madrid",
-            "vivienda españa",
-            "españa-nacional",
-            "justicia españa",
-            "construcción",
-            "comunidad de madrid",
-            "tribunales",
-            "vivienda",
-            "españa-noticias",
-            "tribunales españa"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/02/una-propietaria-hace-reforma-en-su-vivienda-se-retrasa-y-no-quiere-pagar-a-los-albaniles-la-justicia-le-condena-a-abonar-24000-euros-a-la-constructora/",
-        "date": "2026-03-02 17:08:13",
-        "sentiment_score": -0.48781298473477364
-    },
-    {
-        "title": "Confirmado: así será el recibimento al autocar de la Real",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/20e6ba07-0dc1-4c1b-8292-b475431d9499_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "rey",
-            "athletic",
-            "copa",
-            "recibimento",
-            "autocar",
-            "sociedad",
-            "real"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/03/02/recibimento-autocar-real-sociedad-athletic-copa-rey-10769034.html",
-        "date": "2026-03-02 17:00:29",
-        "sentiment_score": -0.1854228675365448
-    },
-    {
-        "title": "Elena Bianca Ciobanu, la nota más alta del MIR en España: \"Tengo 41 años y he llegado hasta aquí con mucho esfuerzo\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/697af69b-26d2-44fe-af1b-2ed3d9f14692_alta-libre-aspect-ratio_default_0_x782y682.jpg",
-        "tags": [
-            "reus",
-            "hospitales",
-            "ministerio de sanidad",
-            "mir 2026",
-            "urv",
-            "universidad",
-            "medicina",
-            "médicos"
-        ],
-        "link": "https://www.elperiodico.com/es/sanidad/20260302/elena-bianca-ciobanu-mir-2026-nota-mas-alta-examen-medicina-espana-127457556",
-        "date": "2026-03-02 17:40:30",
-        "sentiment_score": -0.09521862864494324
-    },
-    {
-        "title": "La ‘final’ de Griezmann",
-        "image_url": "https://laconexionusa.com/wp-content/uploads/2026/03/rss-efe3b367aec34caeda52908d3ab08d761bf78ed2b93w.jpg",
-        "tags": [
-            "otros",
-            "deportes"
-        ],
-        "link": "https://laconexionusa.com/la-final-de-griezmann/",
-        "date": "2026-03-02 17:39:55",
-        "sentiment_score": -0.1268559694290161
-    },
-    {
-        "title": "David Bondia: \"Barcelona paga 4.000 euros al mes por alojar a una familia desahuciada\"",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/03/02/E0CCCD5F-0E95-49E4-8F9D-AEF9C66424FF/david-bondia-sindic-greuges-barcelona_69.jpg?crop=6000%2C3375%2Cx0%2Cy317&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/david-bondia-barcelona-paga-4000-euros-mes-alojar-familia-desahuciada_2026030269a5cb139243cc133c6d20c7.html",
-        "date": "2026-03-02 17:38:27",
-        "sentiment_score": 0.00991910696029663
-    },
-    {
-        "title": "Tres de cada cuatro coches vendidos en Cataluña son motorizaciones alternativas",
-        "image_url": "https://static1.ara.cat/clip/0a7d64ec-b800-49ee-b845-0397031c618f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "vendidos",
-            "coches",
-            "motorizaciones",
-            "son",
-            "cataluna",
-            "tres",
-            "alternativas",
-            "cuatro"
-        ],
-        "link": "https://es.ara.cat/economia/automocion/tres-cuatro-coches-vendidos-cataluna-son-motorizaciones-alternativas_1_5665985.html",
-        "date": "2026-03-02 17:38:08",
-        "sentiment_score": 0.119937963783741
-    },
-    {
-        "title": "Sin redes sociales ni adicción: los 'móviles tontos' se hacen un hueco en el MWC de Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/12a691c6-5042-401e-915d-40c3079ca7fd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "móviles,internet,redes sociales,smartphones,mobile world congress"
-        ],
-        "link": "https://www.elperiodicomediterraneo.com/vida-y-estilo/tecnologia/2026/03/02/redes-sociales-adiccion-moviles-tontos-dumbphones-mwc-2026-smartphone-light-aaron-paul-menores-escuelas-prohibicion-127462741.html",
-        "date": "2026-03-02 17:37:32",
-        "sentiment_score": 0.523538313806057
-    },
-    {
         "title": "Detenido un joven por asesinar a su casera en Carabanchel",
         "image_url": "https://cdn.mnmstatic.net/cache/3f/5c/media_thumb-link-4152443.webp?1772469606=",
         "tags": [
@@ -3051,5 +2856,209 @@ export default [
         "link": "https://www.infobae.com/cultura/2026/03/06/la-obra-oculta-de-joan-miro-asi-es-el-mural-que-el-guggenheim-mantuvo-oculto-por-decadas/",
         "date": "2026-03-06 01:14:37",
         "sentiment_score": 0.5382072888314724
+    },
+    {
+        "title": "Un Real Madrid diezmado visita Balaídos con la obligación de ganar para no despedirse de La Liga",
+        "image_url": "https://xornalgalicia.com/images/logos/logoxornalgaliciaexclusivo.jpg",
+        "tags": [
+            "consecutivas",
+            "aniversario",
+            "contundente",
+            "tradicional",
+            "seguiremos",
+            "definitivamente",
+            "descolgarse",
+            "preocupante",
+            "incluyendo",
+            "tambalearse",
+            "sancionados",
+            "bellingham",
+            "despedirse",
+            "humillante",
+            "centrocampista"
+        ],
+        "link": "https://xornalgalicia.com/actualidad/agenda/un-real-madrid-diezmado-visita-balaidos-con-la-obligacion-de-ganar-para-no-despedirse-de-la-liga",
+        "date": "2026-03-06 06:49:36",
+        "sentiment_score": 0.5698897875845432
+    },
+    {
+        "title": "Día de la Mujer 2026: ¿Hay huelga feminista el 8 de marzo?",
+        "image_url": "https://okdiario.com/img/2026/03/05/dia-de-la-mujer-2026-hay-huelga-feminista-el-8-de-marzo.jpg",
+        "tags": [
+            "feminismo",
+            "día internacional de la mujer",
+            "huelga feminista",
+            "okd",
+            "españa",
+            "8m"
+        ],
+        "link": "https://okdiario.com/espana/dia-mujer-2026-hay-huelga-feminista-8-marzo-16357269",
+        "date": "2026-03-06 06:30:53",
+        "sentiment_score": -0.001794658601284027
+    },
+    {
+        "title": "Las instituciones valoran el papel «esencial» de la enfermería y reconocen a sus profesionales en Ciudad Real",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/03/1-scaled.jpeg",
+        "tags": [
+            "ciudad real",
+            "enfermería"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/ciudad-real/las-instituciones-valoran-el-papel-esencial-de-la-enfermeria-y-reconocen-a-sus-profesionales-en-ciudad-real/",
+        "date": "2026-03-06 06:28:00",
+        "sentiment_score": -0.10707546770572662
+    },
+    {
+        "title": "Dos de cada tres españoles se oponen a la guerra contra Irán y más de la mitad aprueba la postura de Sánchez",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/06/funerales-de-las-alumnas-y-el-personal-de-una-escuela-atacada-el-28-de-febrero-de-2026-por-eeuu-e-israel-en-minab-iran-el-3-de-marzo.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.huffingtonpost.es/politica/dos-tres-espanoles-oponen-guerraan-mas-mitad-aprueba-postura-sanchez-f202603.html",
+        "date": "2026-03-06 06:24:12",
+        "sentiment_score": -0.8614952582865953
+    },
+    {
+        "title": "Plena Inclusión Madrid invita a las mujeres con discapacidad intelectual a participar en la manifestación del 8-M",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/04/69a7e8c5d7b826-53653553.jpeg",
+        "tags": [
+            "capaces"
+        ],
+        "link": "https://www.20minutos.es/capaces/plena-inclusion-madrid-invita-las-mujeres-con-discapacidad-intelectual-participar-manifestacion-8-m_6941602_0.html",
+        "date": "2026-03-06 06:21:44",
+        "sentiment_score": 0.2473590336740017
+    },
+    {
+        "title": "⁠Telemadrid cuela a periodistas en Venezuela haciéndose pasar por fans de los toros",
+        "image_url": "https://www.elplural.com/uploads/s1/24/81/71/0/telemadrid-venezuela_7_480x270.jpeg",
+        "tags": [
+            "extratele"
+        ],
+        "link": "https://www.elplural.com/extratele/telemadrid-cuela-periodistas-venezuela-fans-toros_383353102",
+        "date": "2026-03-06 06:14:34",
+        "sentiment_score": -0.16333487629890442
+    },
+    {
+        "title": "Llama a un hotel a las 4:30 de la madrugada para reservar una habitación, le dice que está lleno y la reacción",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/05/el-recepcionista-de-hotel-y-streamer-marquisio.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/llama-hotel-430-madrugada-reservar-habitacion-le-dice-esta-lleno-reaccion-f202603.html",
+        "date": "2026-03-06 06:12:37",
+        "sentiment_score": -0.48547543212771416
+    },
+    {
+        "title": "Ser agresivo en la adolescencia podría hacer que envejezcas antes, según un estudio",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260306070850_120.jpg",
+        "tags": [
+            "investigación",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-ser-agresivo-adolescencia-podria-hacer-envejezcas-antes-estudio-20260306070850.html",
+        "date": "2026-03-06 06:08:50",
+        "sentiment_score": -0.7676760628819466
+    },
+    {
+        "title": "Mari Pau Domínguez, escritora: \"Hay partes de la historia que molestan, pero merecen ver la luz\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c4a0bb10-643b-468e-83ce-fbd5a0c08ef5_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "historia,novela,mujeres,club la opinión el correo de zamora,libros,novelas"
+        ],
+        "link": "https://www.laopiniondezamora.es/zamora/2026/03/06/mari-pau-dominguez-escritora-hay-127612102.html",
+        "date": "2026-03-06 06:01:11",
+        "sentiment_score": -0.49791794270277023
+    },
+    {
+        "title": "Los cien años de historia de la Confederación Hidrográfica del Ebro en diez hitos fundamentales: del hormigón a la resilicencia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1189ff0c-9766-48db-b03c-20525e1ef70c_16-9-aspect-ratio_default_0_x307y80.jpg",
+        "tags": [
+            "cuenca",
+            "aragón",
+            "che",
+            "ebro"
+        ],
+        "link": "https://www.elperiodicodearagon.com/aragon/2026/03/06/cien-anos-historia-confederacion-hidrografica-127611272.html",
+        "date": "2026-03-06 06:01:10",
+        "sentiment_score": -0.07720638811588287
+    },
+    {
+        "title": "España hoy, 6 de marzo de 2026: lo que tienes que saber",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/03/ilustracion-sanchez-guerra.jpg",
+        "tags": [
+            "españa",
+            "gaza",
+            "aranceles",
+            "estados unidos",
+            "china",
+            "bruselas",
+            "venezuela",
+            "israel",
+            "europa"
+        ],
+        "link": "https://theobjective.com/espana/2026-03-06/espana-hoy-6-de-marzo-de-2026-lo-que-tienes-que-saber/",
+        "date": "2026-03-06 06:46:31",
+        "sentiment_score": -0.899536925368011
+    },
+    {
+        "title": "El Banco de España presenta en Barcelona su Departamento de Experimentación y Laboratorio de Tecnologías Aplicadas (DELTA)",
+        "image_url": "https://www.bde.es/f/webbe/GAP/imagenes/tematicas-varias/barcelona.jpg",
+        "tags": [
+            "novedadesbe",
+            "noticia"
+        ],
+        "link": "https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/notas-banco-espana/el-banco-de-espana-presenta-en-barcelona-su-departamento-de-experimentacion-y-laboratorio-de-tecnologias-aplicadas-delta.html",
+        "date": "2026-03-06 06:43:00",
+        "sentiment_score": 0.05324562266469002
+    },
+    {
+        "title": "Hugo Fraile, nuevo director de oficina para BEMYPARTNER",
+        "image_url": "https://theofficer.es/wp-content/uploads/2026/03/The-Officer-Hugo-Fraile-nuevo-director-de-oficina-para-BEMYPARTNER-1200.jpg",
+        "tags": [
+            "madrid",
+            "nombramiento",
+            "bemypartner",
+            "nombramientos",
+            "hugo fraile",
+            "marketing"
+        ],
+        "link": "https://theofficer.es/hugo-fraile-nuevo-director-oficina-bemypartner/",
+        "date": "2026-03-06 06:40:00",
+        "sentiment_score": 0.47211097180843353
+    },
+    {
+        "title": "El precio de la gasolina en Madrid, Barcelona y otras ciudades de España para hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "precio de la gasonila en barcelona",
+            "españa-economia",
+            "madrid y otras ciudades",
+            "precio de la gasolina en españa hoy",
+            "últimas actualizaciones",
+            "precio de la gasolina en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/06/el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-de-espana-para-hoy/",
+        "date": "2026-03-06 06:31:00",
+        "sentiment_score": -0.07070339098572731
+    },
+    {
+        "title": "Santoral de hoy, ¿qué santos se celebran hoy viernes 6 de marzo de 2025?",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2026/02/27/santoral-6-mar--758x531.jpg",
+        "tags": [
+            "santoral diario"
+        ],
+        "link": "https://www.elnortedecastilla.es/sociedad/santoral-hoy-santos-celebran-hoy-viernes-marzo-20260306181357-nt.html",
+        "date": "2026-03-06 06:13:31",
+        "sentiment_score": 0.2196435034275055
+    },
+    {
+        "title": "¿No es justo eso lo que hace Trump?",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e101f325-7282-41eb-83cb-938178ff516f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "justo",
+            "trump"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/opinion/2026/03/06/justo-trump-10786820.html",
+        "date": "2026-03-06 06:12:55",
+        "sentiment_score": -0.10867881774902344
     }
 ];
