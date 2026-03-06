@@ -1,437 +1,5 @@
 export default [
     {
-        "title": "Árbitro activa protocolo antirracismo en el empate entre Espanyol y Elche en La Liga",
-        "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-        "tags": [
-            "deportes",
-            "sports",
-            "protocolo antirracismo espana liga espanyol elche valencia sevilla"
-        ],
-        "link": "https://apnews.com/article/protocolo-antirracismo-espana-liga-espanyol-elche-valencia-sevilla-a6c93fa95c5e230fac327a8862a88ce7",
-        "date": "2026-03-01 22:28:30",
-        "sentiment_score": -0.3342547342181206
-    },
-    {
-        "title": "Árbitro activa protocolo antirracismo en el empate entre Espanyol y Elche en La Liga",
-        "image_url": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.bostonherald.com/2026/03/01/rbitro-activa-protocolo-antirracismo-en-el-empate-entre-espanyol-y-elche-en-la-liga/",
-        "date": "2026-03-01 22:28:29",
-        "sentiment_score": -0.21525084972381592
-    },
-    {
-        "title": "Comprueba los resultados del Quinigol del 1 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
-        "tags": [
-            "quinigol resultados fútbol",
-            "loterías de españa",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/01/comprueba-los-resultados-del-quinigol-del-1-de-marzo/",
-        "date": "2026-03-01 22:00:26",
-        "sentiment_score": 0.019226640462875366
-    },
-    {
-        "title": "El gesto de una niña hincha del Oviedo que conmovió a Julián Álvarez tras anotar el gol del triunfo del Atlético de Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/2LAJM26QBVCUNCZZB4JBWVIOLM.jpg?auth=3e4ac08622d57d6b6dc60b637e4420966c8707bca920e4cd99c8ec92140be43b&height=1080&smart=true&width=1920",
-        "tags": [
-            "laliga",
-            "julián álvarez",
-            "atlético de madrid",
-            "deportes-argentina",
-            "real oviedo"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/01/el-gesto-de-una-nina-hincha-del-oviedo-que-conmovio-a-julian-alvarez-tras-anotar-el-gol-del-triunfo-del-atletico-de-madrid/",
-        "date": "2026-03-01 21:44:42",
-        "sentiment_score": 0.3590681850910187
-    },
-    {
-        "title": "Iratxe Pérez: \"Siempre le di mucha importancia a la parte que no se ve del fútbol\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d105f3e5-b0ba-4fdb-b907-592a90e40af8_16-9-discover-aspect-ratio_default_0_x900y399.jpg",
-        "tags": [
-            "maría josé pérez",
-            "cd tenerife femenino",
-            "estadio heliodoro rodríguez lópez",
-            "real madrid",
-            "liga f"
-        ],
-        "link": "https://www.eldia.es/deportes/ud-tenerife/2026/03/01/iratxe-perez-le-di-importancia-127427946.html",
-        "date": "2026-03-01 21:33:34",
-        "sentiment_score": 0.7668831907212734
-    },
-    {
-        "title": "Japonismo, el antecedente de lo otaku en lo salones nobles, teatros populares y tiendas en el Madrid del siglo XIX",
-        "image_url": "https://static.eldiario.es/clip/4d975fbe-55b0-4270-be73-378f4f772fd6_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "madrid",
-            "siglo",
-            "otaku",
-            "antecedente",
-            "japonismo",
-            "salones",
-            "tiendas",
-            "populares",
-            "xix",
-            "nobles",
-            "teatros"
-        ],
-        "link": "https://www.eldiario.es/madrid/somos/japonismo-antecedente-otaku-salones-nobles-teatros-populares-tiendas-madrid-siglo-xix_1_13003182.html",
-        "date": "2026-03-01 21:23:19",
-        "sentiment_score": -0.09710852801799774
-    },
-    {
-        "title": "Metisaca en el 23-F",
-        "image_url": "https://static.eldiario.es/clip/4514ab69-5ca2-4ba6-b117-b425e4313f23_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sevilla",
-            "granada",
-            "málaga",
-            "opinión",
-            "análisis",
-            "andalucía",
-            "córdoba",
-            "información",
-            "noticias",
-            "eldiario.es"
-        ],
-        "link": "https://www.eldiario.es/andalucia/desdeelsur/metisaca-23-f_132_13030729.html",
-        "date": "2026-03-01 21:23:18",
-        "sentiment_score": -0.07761695981025696
-    },
-    {
-        "title": "La última trinchera contra el colapso total en la guerra que nadie mira",
-        "image_url": "https://static.eldiario.es/clip/964c29a1-4add-4d82-a9a4-e07090529d39_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "memoria",
-            "inmigración",
-            "eldiario.es",
-            "conflicto",
-            "igualdad",
-            "libertad de expresión",
-            "infancia",
-            "pobreza",
-            "derechos humanos",
-            "cooperación",
-            "minorías"
-        ],
-        "link": "https://www.eldiario.es/desalambre/ultima-trinchera-colapso-total-guerra-nadie-mira_1_13019592.html",
-        "date": "2026-03-01 21:23:18",
-        "sentiment_score": -0.1703299880027771
-    },
-    {
-        "title": "Urgencia urinaria: cómo reconocer y tratar la vejiga hiperactiva",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/19/vivir-en-barcelona/1003742734231_15735918_1706x960.jpg",
-        "tags": [
-            "salud",
-            "quirónsalud barcelona",
-            "vivir en barcelona",
-            "branded content",
-            "medicina",
-            "contenido crítico"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260301/urgencia-urinaria-reconocer-tratar-vejiga-hiperactiva/1003742733037_0.html",
-        "date": "2026-03-01 22:30:00",
-        "sentiment_score": 0.2798980697989464
-    },
-    {
-        "title": "La ampliación del Aeropuerto de El Prat redefinirá la ‘marca Barcelona’: del turismo masivo al visitante de alto valor",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/11/17/vivir-en-barcelona/810428966_11902199_1706x960.jpg",
-        "tags": [
-            "congresos barcelona",
-            "turismo",
-            "economía",
-            "turistas",
-            "aeropuerto barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260301/ampliacion-aeropuerto-prat-redefinira-marca-barcelona-turismo-masivo-visitante-alto-valor/1003742736570_0.html",
-        "date": "2026-03-01 22:30:00",
-        "sentiment_score": 0.6066810265183449
-    },
-    {
-        "title": "Pisarello prepara misiles contra Collboni por el tema de la vivienda tras ocho años en blanco de Colau",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/27/informacion-municipal/1003742736732_15766473_1706x960.jpg",
-        "tags": [
-            "jaume collboni",
-            "barcelona en comú",
-            "ayuntamiento de barcelona",
-            "psc - partit dels socialistes de catalunya",
-            "información municipal",
-            "vivienda"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260301/pisarello-prepara-misiles-collboni-tema-vivienda-anos-blanco-colau/1003742736730_0.html",
-        "date": "2026-03-01 22:30:00",
-        "sentiment_score": -0.9132583858445287
-    },
-    {
-        "title": "Sergi Florensa, CEO de la tecnológica EnjoyersWorld: \"No hace falta estar en Silicon Valley, queremos potenciar la marca Barcelona\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/26/economia/1003742736611_15765086_1706x960.jpg",
-        "tags": [
-            "tecnología",
-            "economía",
-            "empresas barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260301/sergi-florensa-ceo-tecnologica-enjoyersworld-no-hace-falta-silicon-valley-queremos-potenciar-marca-barcelona/1003742736506_0.html",
-        "date": "2026-03-01 22:30:00",
-        "sentiment_score": 0.41999629884958267
-    },
-    {
-        "title": "Alberto Vázquez, tras su quinto Goya | “Los otros los tiene mi padre, este me lo voy a quedar, porque igual no hago más pelis”",
-        "image_url": "https://imagenes.elidealgallego.com/files/og_thumbnail/uploads/2026/03/01/cdikpm663mm8b872n.jpg",
-        "tags": [
-            "a coruña"
-        ],
-        "link": "https://www.elidealgallego.com/a-coruna/2026-03-01/alberto-vazquez-tras-su-quinto-goya-los-otros-los-tiene-mi-padre-este-me-lo-voy-a-quedar-porque-igual-no-hago-mas-pelis-839931.html",
-        "date": "2026-03-01 22:19:06",
-        "sentiment_score": 0.5878411903977394
-    },
-    {
-        "title": "«Estoy enclaustrada las 24 horas del día»",
-        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2026/03/02/imagenmjose-RIMJak4dey7NoYdab02EDeL-1200x840@Ideal.jpg",
-        "tags": [
-            "almería",
-            "almería (provincia)",
-            "berja",
-            "sanidad"
-        ],
-        "link": "https://www.ideal.es/almeria/almeria/enclaustrada-horas-dia-20260302230915-nt.html",
-        "date": "2026-03-01 22:09:20",
-        "sentiment_score": -0.8180966135114431
-    },
-    {
-        "title": "Infantino sugiere expulsar a jugadores por taparse la boca en una confrontación",
-        "image_url": "https://dims.apnews.com/dims4/default/e9048d3/2147483647/strip/true/crop/3502x2331+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3d%2F92%2Fe7c8f15e5fc99ec8a5fa6af502a7%2Fa3f5fbd5035f4206b2b38cb091e53a92",
-        "tags": [
-            "sports",
-            "infantino insultos racistas fifa expulsion taparse boca",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/infantino-insultos-racistas-fifa-expulsion-taparse-boca-dd857bf6d9d440a3890ac7db04e81ac2",
-        "date": "2026-03-02 02:06:09",
-        "sentiment_score": 0.14019492268562317
-    },
-    {
-        "title": "Infantino sugiere expulsar a jugadores por taparse la boca en una confrontación",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/03/INFANTINO-VINICIUS_26029.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2026/03/01/infantino-sugiere-expulsar-a-jugadores-por-taparse-la-boca-en-una-confrontacin/",
-        "date": "2026-03-02 02:06:08",
-        "sentiment_score": 0.07146619260311127
-    },
-    {
-        "title": "La reorganización de la seguridad pública en 1852",
-        "image_url": "https://static.grupojoly.com/clip/b2219456-d67c-47fc-8d2d-658edc5e475f_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias campo de gibraltar"
-        ],
-        "link": "https://www.europasur.es/algeciras/reorganizacion-seguridad-publica-1852_0_2006004246.html",
-        "date": "2026-03-02 01:45:12",
-        "sentiment_score": -0.5713098272681236
-    },
-    {
-        "title": "El presidente de la Fifa pidió el castigo máximo para los futbolistas que se tapen la boca al hablar",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/Gianluca-Prestianni-Benfica.jpg",
-        "tags": [
-            "deportes",
-            "racismo",
-            "titulares",
-            "futbol",
-            "fifa",
-            "gianni infantino"
-        ],
-        "link": "https://lapatilla.com/2026/03/01/el-presidente-de-la-fifa-pidio-el-castigo-maximo-para-los-futbolistas-que-se-tapen-la-boca-al-hablar/",
-        "date": "2026-03-02 01:24:54",
-        "sentiment_score": -0.3580446057021618
-    },
-    {
-        "title": "Marsella vs. Lyon: Endrick asiste y deslumbra, pero Aubameyang decide el duelo",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/25/2026012519570028755.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/marsella-vs-lyon-endrick-asiste-deslumbra-aubameyang-decide-duelo/20260302021257376908.html",
-        "date": "2026-03-02 01:12:57",
-        "sentiment_score": 0.7102685440331697
-    },
-    {
-        "title": "Iván Castro, CTO de Hijos de Rivera: “Migramos a la nube pública para escalar de forma más ágil y ordenada”",
-        "image_url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744148747_261665927_1706x960.jpg",
-        "tags": [
-            "cios disruptores",
-            "hijos de rivera",
-            "gran empresa",
-            "innovación",
-            "tecnología",
-            "estrella galicia",
-            "industria tecnológica"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20260302/ivan-castro-cto-hijos-rivera-migramos-nube-publica-escalar-forma-agil-ordenada/1003744148098_0.html",
-        "date": "2026-03-02 01:02:14",
-        "sentiment_score": 0.10033643245697021
-    },
-    {
-        "title": "La hazaña de Bras Rodrigo, el gaitero asturiano que traerá a la banda de la Policía de Nueva York a tocar en San Patricio",
-        "image_url": "https://s3.elespanol.com/2026/02/27/madrid/1003744149291_261672885_1706x960.jpg",
-        "tags": [
-            "gran vía",
-            "madrid total",
-            "madrid"
-        ],
-        "link": "https://www.elespanol.com/madrid/20260302/hazana-bras-rodrigo-gaitero-asturiano-traera-banda-policia-nueva-york-tocar-san-patricio/1003744148974_0.html",
-        "date": "2026-03-02 00:50:00",
-        "sentiment_score": 0.12898779660463333
-    },
-    {
-        "title": "El fracaso del test que detectaba 50 tipos de tumores aleja la gran revolución frente al cáncer: no diagnostica antes los casos",
-        "image_url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744149746_261679110_1706x960.jpg",
-        "tags": [
-            "sanidad - tecnología médica",
-            "observatorio de la sanidad",
-            "sanidad"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260302/fracaso-test-detectaba-tipos-tumores-aleja-gran-revolucion-frente-cancer-no-diagnostica-casos/1003744149739_0.html",
-        "date": "2026-03-02 00:37:20",
-        "sentiment_score": -0.7131861504167318
-    },
-    {
-        "title": "El show de Messi en la remontada del Inter Miami ante Orlando City: sus dos primeros golazos oficiales de 2026",
-        "image_url": "https://www.infobae.com/resizer/v2/RYZUZDRML5FNXD3H5ZHYOXRK2I.JPG?auth=0006912c6ec11b86f69d1035425f1ceb1174f0461ba470564be9e737110105e1&height=2075&smart=true&width=3689",
-        "tags": [
-            "mls",
-            "deportes-argentina",
-            "deportes-internacional",
-            "inter miami",
-            "lionel messi",
-            "orlando city"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/02/el-show-de-messi-en-la-remontada-del-inter-miami-ante-orlando-city-sus-dos-primeros-golazos-oficiales-de-2026/",
-        "date": "2026-03-02 02:26:43",
-        "sentiment_score": 0.32793621718883514
-    },
-    {
-        "title": "Biotecnología contra el cáncer: Gyala Therapeutics avala una eficacia preclínica prometedora en leucemias difíciles de tratar",
-        "image_url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744148366_261660806_1706x960.jpg",
-        "tags": [
-            "startups",
-            "hospitales",
-            "cáncer",
-            "startup",
-            "wake up spain",
-            "biotecnología",
-            "investigación científica",
-            "leucemia"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20260302/biotecnologia-cancer-gyala-therapeutics-avala-eficacia-preclinica-prometedora-leucemias-dificiles-tratar/1003744148319_0.html",
-        "date": "2026-03-02 01:14:25",
-        "sentiment_score": -0.31669433414936066
-    },
-    {
-        "title": "Esto es algo parecido a un elogio a Pedro Sánchez",
-        "image_url": "https://static.laregion.es/clip/5445a8b2-ee87-48d7-b468-c595e0e2b4e5_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "premio nobel",
-            "donald trump",
-            "barcelona",
-            "pedro sánchez",
-            "ucrania",
-            "gaza",
-            "premios goya",
-            "casa blanca"
-        ],
-        "link": "https://www.laregion.es/opinion/parecido-elogio-pedro-sanchez_1_20260302-4182328.html",
-        "date": "2026-03-02 01:05:08",
-        "sentiment_score": -0.34793002903461456
-    },
-    {
-        "title": "La pirueta con la que el japonés Ryoga Kida anotó su primer gol en Primera: la peculiar historia del delantero de Argentinos",
-        "image_url": "https://www.infobae.com/resizer/v2/JWK2YJB2JZG6JPHXL2FZ4JTZSI.JPG?auth=8de64759c2d17474058dff2bc034ea420acfb5e88d7b0ac4dbbbdf59b396f13b&height=1296&smart=true&width=2303",
-        "tags": [
-            "torneo apertura",
-            "ryoga kida",
-            "barracas central",
-            "argentinos juniors",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/02/la-pirueta-con-la-que-el-japones-ryoga-kida-anoto-su-primer-gol-en-primera-la-peculiar-historia-del-delantero-de-argentinos/",
-        "date": "2026-03-02 01:03:04",
-        "sentiment_score": 0.6888512633740902
-    },
-    {
-        "title": "01 MAR 2026 | EL TERTULIÓN DE LOS DOMINGOS",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "#tertuliontjcope"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/tertuliontjcope/horas-completas/01-mar-2026-tertulion-domingos-20260302_3317561.html",
-        "date": "2026-03-02 00:52:09",
-        "sentiment_score": -0.907802464440465
-    },
-    {
-        "title": "La candidatura unitaria contra Laporta toma forma: Marc Ciria, el último escollo que pone en riesgo el plebiscito",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/02/culemania/palco/1003742737340_15774217_1706x960.jpg",
-        "tags": [
-            "víctor font",
-            "joan laporta",
-            "elecciones barça",
-            "palco",
-            "xavier vilajoana"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260302/candidatura-unitaria-laporta-marc-ciria-escollo-plebiscito/1003742737296_0.html",
-        "date": "2026-03-02 00:42:12",
-        "sentiment_score": -0.1955053061246872
-    },
-    {
-        "title": "FC Barcelona: Lewandowski sufre fractura facial y se pierde la Copa del Rey",
-        "image_url": "https://pxcdn.2001online.com/2001/032026/1772414025592/decd94cb-d6ef-41d6-8385-ede6b2e1003b_1280x720.jpeg?ch=675&cw=1200",
-        "tags": [
-            "fc barcelona",
-            "robert lewandowski",
-            "lesión",
-            "atlético de madrid",
-            "copa del rey",
-            "fractura"
-        ],
-        "link": "https://2001online.com/deportes/fc-barcelona-lewandowski-sufre-fractura-facial-y-se-pierde-la-copa-del-rey-20263120550",
-        "date": "2026-03-02 00:35:10",
-        "sentiment_score": -0.762570096179843
-    },
-    {
-        "title": "El bar de ambiente universitario en Oviedo que hacía 500 pinchos cada día: \"Los estudiantes apuntaban en una libreta lo que debían y a final de mes pagaban; valía la palabra\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/307a4275-96ad-492f-aba7-a1266c46f933_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "colegios",
-            "hostelería",
-            "gente",
-            "ocio"
-        ],
-        "link": "https://www.lne.es/oviedo/2026/03/02/bar-ambiente-universitario-oviedo-500-127426829.html",
-        "date": "2026-03-02 00:30:18",
-        "sentiment_score": -0.10809445381164551
-    },
-    {
-        "title": "El estrecho de Ormuz amenaza también en el gas de Qatar con las reservas de la UE al 30% tras el invierno",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/eff26eeb1c56eb78de4f6cc54ae9e8de/crop/0x0/1000x1000/f/image/jpeg/assets/multimedia/imagenes/2022/06/01/16540908229228.jpg",
-        "tags": [
-            "artículos guillermo del palacio"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/03/02/69a47ea3e4d4d853108b4575.html",
-        "date": "2026-03-02 00:23:58",
-        "sentiment_score": -0.7790934443473816
-    },
-    {
-        "title": "El 'hat trick' de Lamine y la lesión de Mbappé, en El Tertulión de los domingos",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/02/69a4d6bcf24ff.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-01-20260302_3317545.html",
-        "date": "2026-03-02 00:16:40",
-        "sentiment_score": -0.07199034094810486
-    },
-    {
         "title": "Boehly revela cómo fichó a Cucurella sin experiencia como director deportivo",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/26/2025112604533999726.jpg",
         "tags": [
@@ -3032,5 +2600,253 @@ export default [
         "link": "https://www.laopiniondemalaga.es/sociedad/2026/03/05/patinete-herramienta-nueva-delincuencia-huir-control-matricula-127576391.html",
         "date": "2026-03-05 07:13:33",
         "sentiment_score": 0.2539554163813591
+    },
+    {
+        "title": "Investigación descubre químicos de riesgos desconocidos añadidos \"en secreto\" en miles de alimentos en EE.UU",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/60/media_thumb-link-4153475.webp?1772703546=",
+        "tags": [
+            "alimentos",
+            "químicos",
+            "eeuu"
+        ],
+        "link": "https://www.meneame.net/story/investigacion-descubre-quimicos-riesgos-desconocidos-anadidos-ee",
+        "date": "2026-03-05 14:05:02",
+        "sentiment_score": -0.12180638313293457
+    },
+    {
+        "title": "Hasta 80.000 euros: estos países europeos sí cobran a sus compatriotas por las repatriaciones de Oriente Medio",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/05/pasajeros-procedentes-de-dubai-aterrizan-en-el-aeropuerto-internacional-de-sidney-el-4-de-marzo-de-2026.jpeg",
+        "tags": [
+            "global"
+        ],
+        "link": "https://www.huffingtonpost.es/global/hasta-80000-euros-paises-europeos-si-cobrando-compatriotas-repatriaciones-oriente-medio-f202603.html",
+        "date": "2026-03-05 17:38:41",
+        "sentiment_score": -0.8092463966459036
+    },
+    {
+        "title": "Del anonimato digital a la intimidación real: el caso de acoso contra Rita Maestre",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/05/2026030518311743367.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/anonimato-digital-intimidacion-real-caso-acoso-rita-maestre/20260305183435377448.html",
+        "date": "2026-03-05 17:34:35",
+        "sentiment_score": -0.7780971582978964
+    },
+    {
+        "title": "Bale: \"Nunca quise el circo que rodea al Real Madrid\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/05/bale-nunca-quise-el-circo-que-rodea-al-real-madrid/",
+        "date": "2026-03-05 17:32:07",
+        "sentiment_score": -0.6919863782823086
+    },
+    {
+        "title": "Díaz de Mera arbitrará el Celta de Vigo-Real Madrid",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/05/diaz-de-mera-arbitrara-el-celta-de-vigo-real-madrid/",
+        "date": "2026-03-05 17:31:40",
+        "sentiment_score": -0.0855901762843132
+    },
+    {
+        "title": "Bale desvela que jugó toda su carrera con una lesión de espalda",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/05/bale-desvela-que-jugo-toda-su-carrera-con-una-lesion-de-espalda/",
+        "date": "2026-03-05 17:31:27",
+        "sentiment_score": -0.643418138846755
+    },
+    {
+        "title": "La cifra de mujeres taxistas en Madrid asciende un 13% en el último año",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.eleconomista.es/actualidad/noticias/13809631/03/26/la-cifra-de-mujeres-taxistas-en-madrid-asciende-un-13-en-el-ultimo-ano.html",
+        "date": "2026-03-05 17:26:32",
+        "sentiment_score": 0.2972526103258133
+    },
+    {
+        "title": "El Rey pide contención en el uso de la fuerza en Oriente Medio",
+        "image_url": "https://www.eldiadevalladolid.com/media/img/2026/4a6c990c-5a73-478e-a7a1cbb984377940.jpg",
+        "tags": [
+            "derechos humanos",
+            "estados unidos",
+            "luxemburgo",
+            "ucrania",
+            "españa",
+            "emiratos árabes unidos",
+            "madrid",
+            "oriente próximo",
+            "teherán",
+            "israel",
+            "segunda guerra mundial",
+            "real fábrica de cristales",
+            "solidaridad",
+            "oriente medio",
+            "pedro sánchez",
+            "rey felipe vi",
+            "irán",
+            "exposiciones"
+        ],
+        "link": "https://www.eldiadevalladolid.com/noticia/zc3be1224-de9d-4e06-8e07535e9976c8c9/202603/el-rey-pide-contencion-en-el-uso-de-la-fuerza-en-oriente-medio",
+        "date": "2026-03-05 17:24:37",
+        "sentiment_score": -0.3100935369729996
+    },
+    {
+        "title": "El exjefe de la policía detenido por venderse al narco y emparedar 20 millones de euros en su casa solicita declarar ante el juez",
+        "image_url": "https://cflvdg.avoz.es/sc/XbY-V2_jaQQ7fMBPdJ-5k3VC3fk=/768x/2025/04/11/00121744370461718623892/Foto/j_20250411_130401000.jpg",
+        "tags": [
+            "audiencia nacional",
+            "policía nacional",
+            "ee.uu.",
+            "colombia",
+            "españa",
+            "corrupción"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/espana/2026/03/05/exjefe-policia-detenido-venderse-narco-emparedar-20-millones-euros-casa-solicita-declarar-ante-juez/00031772730936920755581.htm",
+        "date": "2026-03-05 17:20:00",
+        "sentiment_score": -0.23191723600029945
+    },
+    {
+        "title": "Absueltos dos activistas de Greenpeace acusados de herir a policías con sus embarcaciones en Barcelona",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/03/05/el-suceso-ocurrio-cerca-del-frente-maritimo-de-barcelona.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.heraldo.es/noticias/nacional/2026/03/05/absueltos-dos-activistas-de-greenpeace-acusados-de-herir-a-policias-con-sus-embarcacionesjuicio-greenpeace-1899766.html",
+        "date": "2026-03-05 17:38:35",
+        "sentiment_score": -0.8310810709372163
+    },
+    {
+        "title": "Alertes para este viernes en Galicia por viento, oleaje y nieve",
+        "image_url": "https://www.galiciapress.es/images/showid2/7879819?w=640&zc=4",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.galiciapress.es/articulo/ultima-hora/2026-03-05/5796815-alertes-viernes-galicia-viento-oleaje-nieve",
+        "date": "2026-03-05 17:37:04",
+        "sentiment_score": -0.09241175651550293
+    },
+    {
+        "title": "Alertas para este viernes en Galicia por viento, oleaje y nieve",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260305183636_690.jpg",
+        "tags": [
+            "galicia"
+        ],
+        "link": "https://www.europapress.es/galicia/noticia-alertes-viernes-galicia-viento-oleaje-nieve-20260305183636.html",
+        "date": "2026-03-05 17:36:36",
+        "sentiment_score": -0.09241175651550293
+    },
+    {
+        "title": "Las directivas deben trabajar 47 días más al año para cobrar lo mismo que los hombres",
+        "image_url": "https://static1.ara.cat/clip/00b59e9a-42c4-441c-b01a-3334008a0802_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cobrar",
+            "trabajar",
+            "hombres",
+            "directivas",
+            "47",
+            "deben",
+            "ano",
+            "dias"
+        ],
+        "link": "https://es.ara.cat/economia/mercado-laboral/directivas-deben-trabajar-47-dias-ano-cobrar-hombres_1_5669266.html",
+        "date": "2026-03-05 17:34:30",
+        "sentiment_score": -0.6597402021288872
+    },
+    {
+        "title": "GNV deja otra vez sin barco el puerto de Maó para cubrir una avería de Trasmed en Mallorca",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/4400625.jpg",
+        "tags": [
+            "puerto de maó",
+            "gnv",
+            "trasmed",
+            "local"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2026/03/05/2583149/gnv-deja-otra-vez-barco-puerto-mao-para-cubrir-averia-trasmed-mallorca.html",
+        "date": "2026-03-05 17:32:59",
+        "sentiment_score": -0.8353032981976867
+    },
+    {
+        "title": "Carlos Romero: \"Nervios no, tenemos ganas y un poco de necesidad\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/05/carlos-romero-nervios-no-tenemos-ganas-y-un-poco-de-necesidad/",
+        "date": "2026-03-05 17:31:01",
+        "sentiment_score": 0.021787717938423157
+    },
+    {
+        "title": "El técnico venezolano César Farías arremetió contra el árbitro colombiano Wilmar Roldán: “Cree que está por arriba de los futbolistas”",
+        "image_url": "https://www.infobae.com/resizer/v2/MQM7DH3ZQJFSBOPHWMC2G6JTBY.jpg?auth=e3e31c5d61fe21f417f67d7211b8c1ea68cb2c5dc827d44407ea8a98ebc83f68&height=2350&smart=true&width=3525",
+        "tags": [
+            "césar farías",
+            "barcelona vs. botafogo",
+            "copa libertadores 2026",
+            "wilmar roldán",
+            "copa libertadores",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/03/05/el-tecnico-venezolano-cesar-farias-arremetio-contra-el-arbitro-colombiano-wilmar-roldan-cree-que-esta-por-arriba-de-los-futbolistas/",
+        "date": "2026-03-05 17:30:59",
+        "sentiment_score": -0.8805732987821102
+    },
+    {
+        "title": "Fira de Barcelona celebra el \"éxito\" del MWC, con un \"impacto mínimo\" de la guerra",
+        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA890W0_M.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://es.investing.com/news/economy-news/fira-de-barcelona-celebra-el-exito-del-mwc-con-un-impacto-minimo-de-la-guerra-3548859",
+        "date": "2026-03-05 17:30:28",
+        "sentiment_score": 0.4358166456222534
+    },
+    {
+        "title": "Calendario F1 2026: fechas, horarios, sedes y cómo ver a Checo Pérez en México",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Z5P3HVDUONBEZMDJUUSFKKN6MA.jpg?auth=99d710bd6b0ea4f7c094fe029e81b32ef0a3c3871509dda016c0caa530784e76&width=1200",
+        "tags": [
+            "latinoamérica",
+            "deportes",
+            "sergio pérez mendoza",
+            "televisa",
+            "fia",
+            "méxico",
+            "automovilismo",
+            "valtteri bottas",
+            "américa",
+            "cadillac f1 team",
+            "plataformas digitales",
+            "fórmula 1"
+        ],
+        "link": "https://elpais.com/mexico/2026-03-05/calendario-f1-2026-fechas-horarios-sedes-y-como-ver-a-checo-perez-en-mexico.html",
+        "date": "2026-03-05 17:30:13",
+        "sentiment_score": 0.3248373419046402
+    },
+    {
+        "title": "La ONU apoya al Gobierno español por construir vivienda protegida y pide “límites razonables” al precio del alquiler",
+        "image_url": "https://www.infobae.com/resizer/v2/7VBOBVFQ6RFGNA7CPUBVRTEXJ4.JPG?auth=93622ab870b406ebb68d9211ac7127fb032df96a30ec4283f633fc21ba1037ea&height=3667&smart=true&width=5500",
+        "tags": [
+            "onu",
+            "vivienda",
+            "alquileres",
+            "mercado inmobiliario",
+            "vivienda protegida",
+            "españa-economia",
+            "vivienda españa",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/05/la-onu-apoya-al-gobierno-espanol-por-construir-vivienda-protegida-y-pide-limites-razonables-al-precio-del-alquiler/",
+        "date": "2026-03-05 17:30:09",
+        "sentiment_score": -0.3860043063759804
     }
 ];
