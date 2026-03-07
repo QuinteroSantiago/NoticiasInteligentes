@@ -1,376 +1,5 @@
 export default [
     {
-        "title": "Detenido un joven por asesinar a su casera en Carabanchel",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/5c/media_thumb-link-4152443.webp?1772469606=",
-        "tags": [
-            "joven",
-            "madrid",
-            "actualidad",
-            "asesinar",
-            "detenido",
-            "casera",
-            "carabanchel"
-        ],
-        "link": "https://www.meneame.net/story/detenido-joven-asesinar-casera-carabanchel",
-        "date": "2026-03-02 21:30:03",
-        "sentiment_score": -0.6647883392870426
-    },
-    {
-        "title": "Batacazo y ridículo épico del Real Madrid en el Bernabéu: el Barça, más líder de la Liga",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/02/culemania/real-madrid/1003742737714_15779209_1706x960.jpg",
-        "tags": [
-            "real madrid",
-            "la liga",
-            "álvaro arbeloa",
-            "vinicius"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260302/batacazo-ridiculo-real-madrid-bernabeu-barca-liga/1003742737707_0.html",
-        "date": "2026-03-02 22:29:47",
-        "sentiment_score": 0.6677367314696312
-    },
-    {
-        "title": "Poli Rincón: \"Hay que centrarse en la Champions porque el Getafe es mucho más complicado que el City\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/02/69a60eed66e39.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/poli-rincon-hay-centrarse-champions-getafe-complicado-city-20260302_3318343.html",
-        "date": "2026-03-02 22:29:16",
-        "sentiment_score": -0.031460464000701904
-    },
-    {
-        "title": "El Getafe desquicia al Real Madrid y lo aleja de la lucha por la Liga (0-1)",
-        "image_url": "https://cflvdg.avoz.es/sc/1uFAcUm7bA8Ghn0zOEvhDjx8log=/768x/2026/03/02/00121772488621575415861/Foto/eup_20260302_211755484.jpg",
-        "tags": [
-            "real madrid",
-            "deportes"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/03/02/real-madrid/00031772488677185604519.htm",
-        "date": "2026-03-02 22:27:00",
-        "sentiment_score": -0.9248788636177778
-    },
-    {
-        "title": "La derrota ante el Getafe que calla bocas: Mbappé no sobra, el Madrid lo necesita urgente",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/19/2025101923111111708.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/alguien-todavia-cree-que-mbappe-sobra-favor-olviden-derrota-madrid-getafe/20260302232655377020.html",
-        "date": "2026-03-02 22:26:55",
-        "sentiment_score": 0.665497675538063
-    },
-    {
-        "title": "Fermín Cacho, ingresado tras recuperarse de un desvanecimiento",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9218c0b5-9847-474e-89eb-271e1e61e5a5_16-9-aspect-ratio_default_0_x800y800.jpg",
-        "tags": [
-            "carlos martínez",
-            "atletismo",
-            "soria"
-        ],
-        "link": "https://www.lne.es/deportes/2026/03/02/fermin-cacho-ingresado-recuperarse-desvanecimiento-127472144.html",
-        "date": "2026-03-02 22:26:30",
-        "sentiment_score": -0.6243937723338604
-    },
-    {
-        "title": "Resumen Real Madrid-Getafe: Vuelven los demonios y las dudas al Bernabéu (0-1)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/03/02/image-7d473a5d-09c3-4136-ba62-65e427d936f8-85-2560-1440.jpeg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/real-madrid-celta-video-resumen-resultado-goles-mejores-momentos-partido-jornada-26-highlights-hoy_vid60061093/video.shtml",
-        "date": "2026-03-02 22:24:58",
-        "sentiment_score": 0.7418687045574188
-    },
-    {
-        "title": "La dura crítica de Alfredo Relaño al Real Madrid tras caer ante el Getafe: \"No hay una mínima brasa en la que soplar\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/02/69a60d225e165.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/dura-critica-alfredo-relano-real-madrid-caer-getafe-no-hay-minima-brasa-soplar-20260302_3318342.html",
-        "date": "2026-03-02 22:24:13",
-        "sentiment_score": -0.11547192931175232
-    },
-    {
-        "title": "Feo borrón de lunes del Real Madrid (0-1)",
-        "image_url": "https://static.grupojoly.com/clip/adf6b8d8-a337-44a3-9c8b-b4af5df4c248_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "lunes",
-            "borron",
-            "feo",
-            "madrid",
-            "real"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/feo-borron-lunes-real-madrid_0_2006051153.html",
-        "date": "2026-03-02 22:24:11",
-        "sentiment_score": -0.8050411641597748
-    },
-    {
-        "title": "Por esta razón expulsan a Franco Mastantuono en la derrota del Real Madrid",
-        "image_url": "https://pxcdn.meridiano.net/032026/1772489949646.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/por-esta-razon-expulsan-a-franco-mastantuono-en-la-derrota-del-real-madrid-20263218220",
-        "date": "2026-03-02 22:22:00",
-        "sentiment_score": -0.5220139026641846
-    },
-    {
-        "title": "Miquel Martí: \"La marca Barcelona inspira tecnología\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/27/actualidad/1003742736685_15765891_1706x960.jpg",
-        "tags": [
-            "mobile congress",
-            "barcelona",
-            "tecnología",
-            "startups barcelona",
-            "empresas barcelona",
-            "economía"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260302/miquel-marti-marca-barcelona-inspira-tecnologia/1003742737405_0.html",
-        "date": "2026-03-02 22:30:00",
-        "sentiment_score": 0.7590036913752556
-    },
-    {
-        "title": "Pinza al 'Hijos de Caín' del Triángulo Golfo: Barcelona prolonga 'sine die' su reapertura",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/08/el-pulso-de-la-ciudad/1003742721785_15582341_1706x960.jpg",
-        "tags": [
-            "bares y restaurantes",
-            "sant martí",
-            "ocio nocturno",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sant-marti/20260302/pinza-hijos-cain-triangulo-golfo-barcelona-prolonga-sine-die-reapertura/1003742736306_0.html",
-        "date": "2026-03-02 22:30:00",
-        "sentiment_score": -0.8848702777177095
-    },
-    {
-        "title": "Barcelona prepara el traslado de un centro de menores de Collserola a la Sagrera",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/02/informacion-municipal/1003742737600_15777254_1706x960.jpg",
-        "tags": [
-            "obras",
-            "la sagrera",
-            "información municipal",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260302/barcelona-prepara-traslado-centro-menores-collserola-sagrera/1003742737509_0.html",
-        "date": "2026-03-02 22:30:00",
-        "sentiment_score": -0.8761468147858977
-    },
-    {
-        "title": "¿Crisis en el Madrid? pierde su segundo partido seguido y se rezaga a cuatro puntos del líder Barcelona",
-        "image_url": "https://noticiasaldiayalahora.co/wp-content/uploads/2026/03/la-liga-Getafe-vence-al-Madrid-777x437.webp",
-        "tags": [
-            "real madrid",
-            "getafe",
-            "la liga",
-            "deportes"
-        ],
-        "link": "https://noticiasaldiayalahora.co/deportes/crisis-en-el-madrid-pierde-su-segundo-partido-seguido-y-se-rezaga-a-cuatro-puntos-del-lider-barcelona/",
-        "date": "2026-03-03 01:27:28",
-        "sentiment_score": -0.35144108533859253
-    },
-    {
-        "title": "02 MAR 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/02-mar-2026-partidazo-cope-20260303_3318370.html",
-        "date": "2026-03-03 00:42:36",
-        "sentiment_score": 0.02441425621509552
-    },
-    {
-        "title": "\"Todo es posible\": Flick y Barcelona buscan voltear un 4-0 ante Atlético en la Copa del Rey",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/b2bb1cb/2147483647/strip/true/crop/3150x1654+0+223/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F55%2F05%2F6296f6cf4151a7ef56f2ea7dcce3%2F1843881c539d424ba3edbf299b9f30dc.jpg",
-        "tags": [
-            "lifestyle",
-            "entertainment",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-02/todo-es-posible-flick-y-barcelona-buscan-voltear-un-4-0-ante-atletico-en-la-copa-del-rey",
-        "date": "2026-03-03 00:33:16",
-        "sentiment_score": 0.17286133766174316
-    },
-    {
-        "title": "BNP asciende a su responsable en España a la cúpula europea",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/21d4d0c0cbfbc1447f8e0414d5f03c15/crop/470x155/1932x1130/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/02/17724594980513.jpg",
-        "tags": [
-            "empresas>",
-            "artículos inés abril>",
-            "banca>"
-        ],
-        "link": "https://www.expansion.com/empresas/banca/2026/03/03/69a59617e5fdeaa3578b45a0.html",
-        "date": "2026-03-02 23:53:46",
-        "sentiment_score": 0.6026805564761162
-    },
-    {
-        "title": "Álvaro Arbeloa: \"El árbitro ha permitido que el partido se jugara a no jugarse\"",
-        "image_url": "https://www.infobae.com/resizer/v2/IEOYGCLRIFF4JEV635TXWIONEU.jpg?auth=b002e725cc43d5fb486050078604742852d0ca521dbd4158e66233707894dd2d&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/02/alvaro-arbeloa-el-arbitro-ha-permitido-que-el-partido-se-jugara-a-no-jugarse/",
-        "date": "2026-03-02 23:45:54",
-        "sentiment_score": -0.040987104177474976
-    },
-    {
-        "title": "2a PARTE | 02 MAR 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-02-mar-2026-partidazo-cope-20260303_3318360.html",
-        "date": "2026-03-02 23:36:37",
-        "sentiment_score": -0.6652741562575102
-    },
-    {
-        "title": "Real Madrid confirma lesión de Mbappé tras pruebas en Francia",
-        "image_url": "https://noticias24carabobo.com/wp-content/uploads/2026/03/Mbappe-con-Lesion-en-la-rodilla.jpg",
-        "tags": [
-            "noticias de valencia",
-            "noticias de carabobo",
-            "noticias hoy",
-            "noticias 24",
-            "noticias de venezuela",
-            "noticias24carabobo en google news",
-            "news",
-            "noticias de hoy valencia",
-            "lesionado mbappé",
-            "deportes",
-            "noticias 24 horas carabobo",
-            "portada",
-            "noticias de sucesos",
-            "mbappé lesionado en la rodilla",
-            "noticias24carabobo"
-        ],
-        "link": "https://noticias24carabobo.com/real-madrid-lesion-mbappe-pruebas-francia/",
-        "date": "2026-03-02 23:34:54",
-        "sentiment_score": -0.6659776754677296
-    },
-    {
-        "title": "Ángel Torres anuncia su adiós a la presidencia del Getafe en 2028",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/023b9db9-f86e-45b8-8248-95919db7e8f7_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "ángel torres",
-            "getafe cf",
-            "fútbol"
-        ],
-        "link": "https://www.laopiniondemalaga.es/deportes/2026/03/03/angel-torres-anuncia-adios-presidencia-127472850.html",
-        "date": "2026-03-02 23:31:01",
-        "sentiment_score": 0.263521671295166
-    },
-    {
-        "title": "Predicción del tiempo en Barcelona para este 3 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima en españa",
-            "últimas actualizaciones",
-            "clima",
-            "clima en barcelona"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/03/prediccion-del-tiempo-en-barcelona-para-este-3-de-marzo/",
-        "date": "2026-03-03 02:15:37",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "Las 'telecos' europeas buscan alternativas a la amenaza de Starlink",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/08f967f978f5640a465bcd4cab8df7b2/crop/385x0/2048x1109/resize/1200/f/webp/assets/multimedia/imagenes/2021/05/16/16211558929038.jpg",
-        "tags": [
-            "artículos ignacio del castillo>",
-            "tecnología>",
-            "empresas>",
-            "empresas de tecnología>",
-            "orange>"
-        ],
-        "link": "https://www.expansion.com/empresas/tecnologia/2026/03/03/69a62d07e5fdeab9418b4573.html",
-        "date": "2026-03-03 02:13:48",
-        "sentiment_score": 0.2809854578226805
-    },
-    {
-        "title": "Daños colaterales en el Mobile",
-        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "danos",
-            "mobile",
-            "colaterales"
-        ],
-        "link": "https://www.eldiadecordoba.es/opinion/analisis/danos-colaterales-mobile_0_2006052307.html",
-        "date": "2026-03-03 02:07:54",
-        "sentiment_score": -0.7405326142907143
-    },
-    {
-        "title": "Rufián arrasa como candidato entre los votantes de Sumar que rechazan por amplia mayoría a Yolanda Díaz",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/529a295a947643057048e480704d2e0b/crop/58x61/972x975/f/image/jpeg/assets/multimedia/imagenes/2022/05/04/16516612044253.jpg",
-        "tags": [
-            "artículos álvaro carvajal",
-            "yolanda díaz",
-            "sumar",
-            "más madrid",
-            "gabriel rufián",
-            "podemos",
-            "erc"
-        ],
-        "link": "https://www.elmundo.es/espana/encuestas/2026/03/03/69a5dd34e9cf4a54428b4599.html",
-        "date": "2026-03-03 01:11:21",
-        "sentiment_score": -0.35551678389310837
-    },
-    {
-        "title": "Sánchez aumenta su radicalización con empresarios y EEUU",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/e1e4e80237ec9151c060226d9b3e1328/crop/783x249/1381x648/f/webp/assets/multimedia/imagenes/2026/03/03/17725001759225.jpg",
-        "tags": [
-            "economía>",
-            "opinión>"
-        ],
-        "link": "https://www.expansion.com/opinion/2026/03/03/69a6322f468aeb504c8b457c.html",
-        "date": "2026-03-03 01:11:11",
-        "sentiment_score": -0.8683514725416899
-    },
-    {
-        "title": "Viajar de la mano del maestro",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/73dab2e3-d34b-4c3f-80bb-b31f1dff44a9_16-9-discover-aspect-ratio_320w_0.webp",
-        "tags": [
-            "conciertos",
-            "fundación",
-            "cultura",
-            "duda"
-        ],
-        "link": "https://www.lne.es/oviedo/opinion/2026/03/03/viajar-mano-maestro-127471861.html",
-        "date": "2026-03-03 01:00:27",
-        "sentiment_score": 0.06299349665641785
-    },
-    {
-        "title": "Miriam Garlo, Goya a Mejor actriz revelación por ‘Sorda’, en ‘La Revuelta’: “El público oyente no está acostumbrado a leer en la pantalla y les molesta”",
-        "image_url": "https://www.infobae.com/resizer/v2/CZBJAHACHVC23KAKNIU6O2UIEY.png?auth=35c9278a46b679323a58bfde92dd39527412305b5bc466f0a7a314fedbf0bd13&height=1080&smart=true&width=1920",
-        "tags": [
-            "premios goya 2026",
-            "cine",
-            "españa-entretenimiento",
-            "famosos españa",
-            "españa-noticias",
-            "premios goya",
-            "televisión españa",
-            "david broncano",
-            "gente españa",
-            "rtve",
-            "la revuelta"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/03/miriam-garlo-goya-a-mejor-actriz-revelacion-por-sorda-en-la-revuelta-el-publico-oyente-no-esta-acostumbrado-a-leer-en-la-pantalla-y-les-molesta/",
-        "date": "2026-03-03 00:58:07",
-        "sentiment_score": 0.03967738151550293
-    },
-    {
-        "title": "Usarán fibra óptica y tecnología láser para detectar señales precursoras de terremotos",
-        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2026/03/sistema-deteccion-terremotos-1024x551.jpg",
-        "tags": [
-            "nuevas tecnologías"
-        ],
-        "link": "https://www.elperiodicodecanarias.es/usaran-fibra-optica-y-tecnologia-laser-para-detectar-senales-precursoras-de-terremotos/",
-        "date": "2026-03-03 00:44:45",
-        "sentiment_score": 0.04299646243453026
-    },
-    {
         "title": "La austera infancia de Yolanda Díaz en La Coruña: «Recuerdo el olor de la cárcel cuando iba a ver a mi padre»",
         "image_url": "https://theobjective.com/wp-content/uploads/2026/03/yolanda-diaz-infancia.jpeg",
         "tags": [
@@ -3060,5 +2689,244 @@ export default [
         "link": "https://www.noticiasdegipuzkoa.eus/opinion/2026/03/06/justo-trump-10786820.html",
         "date": "2026-03-06 06:12:55",
         "sentiment_score": -0.10867881774902344
+    },
+    {
+        "title": "Investigación descubre químicos de riesgos desconocidos añadidos \"en secreto\" en miles de alimentos en EE.UU",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/60/media_thumb-link-4153475.webp?1772703546=",
+        "tags": [
+            "alimentos",
+            "químicos",
+            "eeuu"
+        ],
+        "link": "https://www.meneame.net/story/investigacion-descubre-quimicos-riesgos-desconocidos-anadidos-ee",
+        "date": "2026-03-05 14:05:02",
+        "sentiment_score": -0.12180611491203308
+    },
+    {
+        "title": "Trump cesa a Kristi Noem como responsable de Seguridad Nacional tras las muertes en Mineápolis",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/61/media_thumb-link-4153691.webp?1772737806=",
+        "tags": [
+            "trump",
+            "ice",
+            "actualidad"
+        ],
+        "link": "https://www.meneame.net/story/trump-cesa-kristi-noem-como-responsable-seguridad-nacional-tras",
+        "date": "2026-03-05 19:55:04",
+        "sentiment_score": -0.0639028251171112
+    },
+    {
+        "title": "Cuándo es y a qué hora empieza el Atlético – Real Sociedad: dónde ver por televisión gratis el partido de la Liga",
+        "image_url": "https://okdiario.com/img/2026/03/05/donde-ver-atletico-real-sociedad_.jpg",
+        "tags": [
+            "atlético de madrid",
+            "directo",
+            "la liga",
+            "real sociedad de fútbol",
+            "deportes"
+        ],
+        "link": "https://okdiario.com/deportes/cuando-que-hora-empieza-atletico-real-sociedad-donde-ver-television-gratis-partido-liga-video-16357718",
+        "date": "2026-03-06 17:30:43",
+        "sentiment_score": 0.04165157675743103
+    },
+    {
+        "title": "Moeve y Liga F reivindican el fútbol femenino como cantera de futuras líderes",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/06/2026030618243670960.jpg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/dinero/moeve-liga-f-reivindican-futbol-femenino-como-cantera-futuras-lideres/202603061829261007992.html",
+        "date": "2026-03-06 17:29:26",
+        "sentiment_score": 0.6166156716644764
+    },
+    {
+        "title": "La izquierda utiliza el 8M para tratar de cercar a Ayuso con el caso de acoso en Móstoles",
+        "image_url": "https://s1.staticld.com/2026/03/06/isabel-diaz-ayuso-060326.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.libertaddigital.com/madrid/2026-03-06/la-izquierda-utiliza-el-8m-para-cercar-a-ayuso-con-el-caso-de-acoso-en-mostoles-7370465/",
+        "date": "2026-03-06 17:29:21",
+        "sentiment_score": -0.8359919283539057
+    },
+    {
+        "title": "Un total de 250 jóvenes presentan sus producciones de ópera en la cuarta edición de LÓVA del Teatro Real",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260306182441_690.jpg",
+        "tags": [
+            "teatro real",
+            "cultura"
+        ],
+        "link": "https://www.europapress.es/cultura/teatroreal-01040/noticia-total-250-jovenes-presentan-producciones-opera-cuarta-edicion-lova-teatro-real-20260306182441.html",
+        "date": "2026-03-06 17:24:41",
+        "sentiment_score": 0.09418439865112305
+    },
+    {
+        "title": "La noche que murió Jameneí, los iraníes salieron a celebrar, pusieron música y repartieron bebidas: \"Todos los que conozco esperan el momento para volver a salir\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/02/28/el-lider-supremo-de-iran-el-ayatola-ali-khamenei-saluda-durante-una-reunion-en-teheran-iran-el-17-de-febrero-de-2026.jpeg",
+        "tags": [
+            "global"
+        ],
+        "link": "https://www.huffingtonpost.es/global/la-noche-murio-jamenei-iranies-salieron-celebrar-pusieron-musica-repartieron-bebidas-todos-conozco-esperan-momento-volver-salir-f202603.html",
+        "date": "2026-03-06 17:23:25",
+        "sentiment_score": -0.7149755470454693
+    },
+    {
+        "title": "La Real Sociedad aparca la euforia de la Copa y se centra en el reto europeo de LaLiga",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/06/69ab0a31f305a.jpeg",
+        "tags": [
+            "deportes gipuzkoa"
+        ],
+        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-guipuzcoa/noticias/real-sociedad-aparca-euforia-copa-centra-reto-europeo-laliga-20260306_3321804.html",
+        "date": "2026-03-06 17:21:05",
+        "sentiment_score": -0.0005653500556945801
+    },
+    {
+        "title": "La estación de Metro Santiago Bernabéu cerrará desde el 28 de marzo hasta finales de año por obras",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2026/03/bernabeu.jpg",
+        "tags": [
+            "madrid",
+            "transporte"
+        ],
+        "link": "https://www.elindependiente.com/espana/madrid/2026/03/06/la-estacion-de-metro-santiago-bernabeu-cerrara-desde-el-28-de-marzo-hasta-finales-de-ano-por-obras/",
+        "date": "2026-03-06 17:19:59",
+        "sentiment_score": 0.16451260074973106
+    },
+    {
+        "title": "Gabriel Rufián rescata lo que dijo en 'La Revuelta' sobre el precio de la vivienda, que registra una nueva subida",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2025/10/21/gabriel-rufian-durante-su-entrevista-en-la-revuelta-de-david-broncano.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/gabriel-rufian-rescata-dijo-la-revuelta-sobre-precio-vivienda-registra-nueva-subida-f202603.html",
+        "date": "2026-03-06 17:18:58",
+        "sentiment_score": 0.11833354830741882
+    },
+    {
+        "title": "Sánchez recurre ahora a Merlin y Portugal para salvar la gigafactoría de IA europea de 5.000 millones",
+        "image_url": "https://www.economiadigital.es/wp-content/uploads/2026/01/pedro-sanchez-ursula-von-der-leyen-centro-de-datos-1000x665.jpg",
+        "tags": [
+            "pedro sánchez",
+            "unión europea",
+            "merlin properties",
+            "inteligencia artificial",
+            "empresas"
+        ],
+        "link": "https://www.economiadigital.es/empresas/sanchez-merlin-alianza-iberica.html",
+        "date": "2026-03-06 17:18:15",
+        "sentiment_score": -0.40345191210508347
+    },
+    {
+        "title": "Kylian Mbappé ya tiene carnet: el futbolista del Real Madrid conduce por primera vez su BMW de 140.000 euros sin la ‘L’",
+        "image_url": "https://www.infobae.com/resizer/v2/7UDYH3ISJBG4RJ3546JLIHEX3A.jpg?auth=ca7252487bb798954da78adbdd868aefff7281a2aebddc32863c498dc26d6f5e&height=542&smart=true&width=768",
+        "tags": [
+            "kylian mbappé",
+            "españa-noticias",
+            "real madrid",
+            "españa deportes",
+            "fútbol",
+            "fútbol españa"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/06/kylian-mbappe-ya-tiene-carnet-el-futbolista-del-real-madrid-conduce-por-primera-vez-su-bmw-de-140000-euros-sin-la-l/",
+        "date": "2026-03-06 17:17:59",
+        "sentiment_score": -0.9026822252199054
+    },
+    {
+        "title": "Una importante vía de Barcelona, cortada al tráfico este día: fechas y detalles",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/06/19/movilidad/1003742667283_14756376_1706x960.jpg",
+        "tags": [
+            "ayuntamiento de barcelona",
+            "obras",
+            "coches",
+            "movilidad"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/movilidad/20260306/importante-via-barcelona-cortada-trafico-dia-fechas-detalles/1003742739142_0.html",
+        "date": "2026-03-06 17:31:00",
+        "sentiment_score": -0.7172434348613024
+    },
+    {
+        "title": "Alerta por la estafa del “hijo en apuros”: una denuncia en Canarias provoca la caída de una red que blanqueaba miles de euros en criptomonedas",
+        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2025/06/criptomonedas-bitcoin-1024x597.jpg",
+        "tags": [
+            "portada apertura 3",
+            "portada",
+            "sucesos"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2026/03/estafa-hijo-apuros-canarias-criptomonedas/",
+        "date": "2026-03-06 17:30:43",
+        "sentiment_score": -0.8595318822190166
+    },
+    {
+        "title": "Nacho Casado en Elche: «Mi música llegó a las tiendas de importación de Tokio porque hay cabida a propuestas que no son tan mainstream»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b0a0078d-cf9f-41de-be08-5f8de5f8a202_16-9-aspect-ratio_default_0_x724y799.jpg",
+        "tags": [
+            "tokio",
+            "japón",
+            "gente",
+            "música",
+            "público"
+        ],
+        "link": "https://www.informacion.es/elche/2026/03/06/musica-conciertos-nacho-casado-cantautores-la-llotja-127635456.html",
+        "date": "2026-03-06 17:26:24",
+        "sentiment_score": 0.08147365972399712
+    },
+    {
+        "title": "La contundente opinión de Guillermo Barros Schelotto ante el posible cambio de reglamento para clasificar a la Copa Libertadores",
+        "image_url": "https://www.infobae.com/resizer/v2/XGKMVHF7P5BT3EDV3ZFAPWAXGU.JPG?auth=c78f7f0262bf523bf63cddd953b7424ccb6c9defc75e772e551f36f12e2065fe&height=3375&smart=true&width=6000",
+        "tags": [
+            "vélez sársfield",
+            "afa",
+            "liga profesional",
+            "guillermo barros schelotto",
+            "copa libertadores",
+            "copa sudamericana"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/06/la-contundente-opinion-de-guillermo-barros-schelotto-ante-el-posible-cambio-de-reglamento-para-clasificar-a-la-copa-libertadores/",
+        "date": "2026-03-06 17:26:00",
+        "sentiment_score": -0.014208123087882996
+    },
+    {
+        "title": "Liberada una mujer retenida en un piso gracias a una nota que lanzó a la calle",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2026/03/06/2026030618201621389.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elprogreso.es/articulo/espana/detenido-barcelona-hombre-retener-mujer-piso/202603061825541951850.html",
+        "date": "2026-03-06 17:25:54",
+        "sentiment_score": 0.11932980269193649
+    },
+    {
+        "title": "Regina comienza a dejar huella: la búsqueda del conductor de una furgoneta arrastrada por el agua en Barcelona",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/03/06/C3F032C2-5CF4-417B-AAE1-54389569E90D/regina-comienza-dejar-huella-busqueda-conductor-furgoneta-arrastrada-agua-barcelona_98.jpg?crop=1900%2C1069%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/regina-comienza-dejar-huella-busqueda-conductor-furgoneta-arrastrada-agua-barcelona-b50m_2026030669ab0e13e1ff634075dc3bbe.html",
+        "date": "2026-03-06 17:25:39",
+        "sentiment_score": -0.848182825371623
+    },
+    {
+        "title": "COMUNICADO: Huawei y SOLUM presentan una solución de red convergente inteligente Shop-in-Shop",
+        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
+        "tags": [
+            "comunicados",
+            "comunicados internacional"
+        ],
+        "link": "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-huawei-solum-presentan-solucion-red-convergente-inteligente-shop-in-shop-20260306182345.html",
+        "date": "2026-03-06 17:23:45",
+        "sentiment_score": 0.6013892088085413
+    },
+    {
+        "title": "El viento y la lluvia derriban una tipuana de grandes dimensiones en el barrio Gòtic de Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/047ce32c-cc2d-4909-b213-653d4bc405e7_alta-libre-aspect-ratio_default_0_x768y321.jpg",
+        "tags": [
+            "barcelona",
+            "tiempo",
+            "borrasca",
+            "temporales",
+            "lluvias"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20260306/viento-lluvia-barcelona-borrasca-regina-arbol-caido-gotic-127653116",
+        "date": "2026-03-06 17:21:34",
+        "sentiment_score": -0.9105124287307262
     }
 ];
