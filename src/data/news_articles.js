@@ -1,239 +1,5 @@
 export default [
     {
-        "title": "Un estudio internacional revela que unir alcohol y mala nutrición agrava el daño hepático por el eje intestino-hígado",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260303183614_690.jpg",
-        "tags": [
-            "infosalus.com",
-            "nutrición"
-        ],
-        "link": "https://www.infosalus.com/nutricion/noticia-estudio-internacional-revela-unir-alcohol-mala-nutricion-agrava-dano-hepatico-eje-intestino-higado-20260303183614.html",
-        "date": "2026-03-03 17:36:14",
-        "sentiment_score": -0.49849049001932144
-    },
-    {
-        "title": "El PSOE asegura que cañizares repite el mismo sorteo de viviendas tras dos años sin soluciones",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/03/DSC_0235-scaled.jpg",
-        "tags": [
-            "vivienda",
-            "ciudad real",
-            "psoe"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/ciudad-real/el-psoe-asegura-que-canizares-repite-el-mismo-sorteo-de-viviendas-tras-dos-anos-sin-soluciones/",
-        "date": "2026-03-03 17:33:17",
-        "sentiment_score": -0.10843415558338165
-    },
-    {
-        "title": "Rodrygo sufre rotura de ligamento cruzado: se pierde la temporada y el Mundial 2026",
-        "image_url": "https://noticialdia.com/wp-content/firewall/uploads/2026/03/rogoes.jpg",
-        "tags": [
-            "brasil",
-            "lesión",
-            "rodrygo",
-            "temporada",
-            "real madrid",
-            "mundial",
-            "deportes"
-        ],
-        "link": "https://noticialdia.com/deportes/rodrygo-sufre-rotura-de-ligamento-cruzado-se-pierde-la-temporada-y-el-mundial-2026/",
-        "date": "2026-03-03 17:30:09",
-        "sentiment_score": -0.8043157290667295
-    },
-    {
-        "title": "Cabañeros crece un 10 % y roza los 86.000 visitantes en 2025",
-        "image_url": "https://www.clm24.es/media/clm24/images/2025/04/19/2025041917585087447.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.clm24.es/articulo/sociedad/cabaneros-crece-10-roza-86000-visitantes-2025/20260303182719472293.html",
-        "date": "2026-03-03 17:27:19",
-        "sentiment_score": 0.8261729665100574
-    },
-    {
-        "title": "Starmer anuncia el envío de un destructor y varios helicópteros a Chipre para reforzar la seguridad en la región",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260303182649_690.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.europapress.es/internacional/noticia-starmer-anuncia-envio-destructor-varios-helicopteros-chipre-reforzar-seguridad-region-20260303182649.html",
-        "date": "2026-03-03 17:26:49",
-        "sentiment_score": 0.03757593035697937
-    },
-    {
-        "title": "El Real Zaragoza, último clasificado, cuenta con el quinto límite salarial de la Segunda División",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/02/06/2026020618122090526.jpg",
-        "tags": [
-            "real zaragoza"
-        ],
-        "link": "https://www.aragondigital.es/articulo/real-zaragoza/real-zaragoza-ultimo-clasificado-cuenta-quinto-limite-salarial-segunda-division/20260303182331970406.html",
-        "date": "2026-03-03 17:23:31",
-        "sentiment_score": -0.240092471241951
-    },
-    {
-        "title": "Ana María Serna y María Domenech recibirán los galardones del ‘Día Internacional de la Mujer’ en Caravaca",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6b13d44f-18f0-46ce-b5ec-a1943779daba_16-9-aspect-ratio_default_0_x720y360.jpg",
-        "tags": [
-            "8-m",
-            "día internacional de la mujer",
-            "8m",
-            "formación",
-            "caravaca",
-            "igualdad",
-            "mujeres",
-            "galardones",
-            "literatura"
-        ],
-        "link": "https://www.laopiniondemurcia.es/municipios/2026/03/03/ana-maria-serna-maria-domenech-8m-caravaca-127506455.html",
-        "date": "2026-03-03 17:22:51",
-        "sentiment_score": 0.07329031825065613
-    },
-    {
-        "title": "Universitarios rechazan \"tajantemente\" el Estatuto del Becario de Yolanda Díaz: \"Ha ignorado a los actores afectados\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260303182233_120.jpg",
-        "tags": [
-            "educación",
-            "sociedad"
-        ],
-        "link": "https://www.europapress.es/sociedad/educacion-00468/noticia-universitarios-rechazan-tajantemente-estatuto-becario-yolanda-diaz-ignorado-actores-afectados-20260303182233.html",
-        "date": "2026-03-03 17:22:33",
-        "sentiment_score": -0.40757694840431213
-    },
-    {
-        "title": "Los Falcons van a Madrid para el segundo juego de temporada regular de la NFL en España",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/e3a03f6/2147483647/strip/true/crop/7755x4071+0+549/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa6%2F4a%2F5ec6351b467eb15cc95036c41833%2F86084358a497432094b5d481c69417e2.jpg",
-        "tags": [
-            "entertainment",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-03/los-falcons-van-madrid-para-el-segundo-juego-de-temporada-regular-de-la-nfl-en-espana",
-        "date": "2026-03-03 17:19:58",
-        "sentiment_score": 0.0640694797039032
-    },
-    {
-        "title": "(Previa) Vallecas mide la reacción del Rayo y la esperanza del Real Oviedo",
-        "image_url": "https://www.infobae.com/resizer/v2/JUBFXJIUARCLPPVRCOZ77ZPY6M.jpg?auth=be1fd1c25b43b5a01f9467218d03e02bb185247ec279c611bc83d6a0ed04726f&height=1080&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/03/previa-vallecas-mide-la-reaccion-del-rayo-y-la-esperanza-del-real-oviedo/",
-        "date": "2026-03-03 17:16:46",
-        "sentiment_score": 0.2340776026248932
-    },
-    {
-        "title": "El dilema de Hansi Flick antes de viajar a Newcastle para la Champions: decisión que afecta al vestuario",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/19/culemania/primer-equipo/1003742690287_15175785_1706x960.jpg",
-        "tags": [
-            "champions league",
-            "la liga",
-            "primer equipo"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260303/dilema-hansi-flick-newcastle-champions-decision-vestuario/1003742737916_0.html",
-        "date": "2026-03-03 17:35:14",
-        "sentiment_score": 0.1383953019976616
-    },
-    {
-        "title": "Terrassa podrá multar a las familias con hijos absentistas: sanciones de 3.000 euros en casos graves",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/480f19a2-61fd-435f-9281-22fa023353fe_alta-libre-aspect-ratio_default_0_x1000y443.jpg",
-        "tags": [
-            "terrassa",
-            "ayuntamientos"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20260303/terrassa-multara-3-000-euros-familias-absentismo-escolar-127507782",
-        "date": "2026-03-03 17:34:12",
-        "sentiment_score": -0.5530742704868317
-    },
-    {
-        "title": "La guerra tiene en vilo a la Fórmula 1 y obliga a desplazar la carrera del WEC de Qatar",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/03/69a71a6c377c0.r_d.2635-2263-888.jpeg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/20260303/11480436/f1-formula-1-afectaciones-guerra-iran-golfo-persico-carrera-wec-mundial-inicio-australia-vilo-aplaza.html",
-        "date": "2026-03-03 17:34:03",
-        "sentiment_score": -0.3509397730231285
-    },
-    {
-        "title": "La pesadilla inmobiliaria de la princesa Marta Luisa de Noruega: nuevo revés en la reforma de su casa de lujo, retrasos y un obstáculo urbanístico",
-        "image_url": "https://images.ecestaticos.com/5YyJyWrvX6AlIVhtlsS9TdViCCU=/0x0:1920x1080/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1e8%2Fa96%2F0d8%2F1e8a960d8bcafe8ba09c19bc40a3d343.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-03-03/pesadilla-inmobiliaria-princesa-marta-luisa-de-noruega-reforma-casa-lujo_4313625/",
-        "date": "2026-03-03 17:33:32",
-        "sentiment_score": 0.055340394377708435
-    },
-    {
-        "title": "ZTE rompe el mercado con un smartphone gaming ‘de verdad’ por menos de 600 euros",
-        "image_url": "https://www.movilzona.es/app/uploads-movilzona.es/2026/03/nubia-Neo-5-Series.png",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.movilzona.es/noticias/lanzamientos/zte-nubia-neo-5-series-mwc-2026/",
-        "date": "2026-03-03 17:31:40",
-        "sentiment_score": -0.02433738112449646
-    },
-    {
-        "title": "Lucho RK y La Pantera regresan a Gran Canaria tras arrasar en la península",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/536608c9-aee1-417d-9aad-2d8407127c24_16-9-aspect-ratio_default_0_x605y233.jpg",
-        "tags": [
-            "península",
-            "isla",
-            "estadio de gran canaria",
-            "canarias",
-            "gran canaria",
-            "entradas"
-        ],
-        "link": "https://www.laprovincia.es/canarias/2026/03/03/lucho-rk-pantera-regresan-gran-canaria-dv-127509415.html",
-        "date": "2026-03-03 17:31:24",
-        "sentiment_score": 0.19916491210460663
-    },
-    {
-        "title": "Liberaron a 10 jóvenes que estaban detenidos por caso de La Aduana",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "locales",
-            "política"
-        ],
-        "link": "https://eltiempove.com/liberaron-a-10-jovenes-que-estaban-detenidos-por-caso-de-la-aduana/",
-        "date": "2026-03-03 17:31:15",
-        "sentiment_score": -0.2469012551009655
-    },
-    {
-        "title": "Mossos aumenta su operativo en el MWC por los conflictos internacionales: \"Tierra, bajo tierra y aire\"",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/03/03/3208D8C9-F609-4DF8-8EB6-368639DD557D/69.jpg?crop=3840%2C2160%2Cx0%2Cy200&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/mossos-aumenta-operativo-mwc-conflictos-internacionales-tierra-tierra-aire_2026030369a71a379243cc133c6f1ded.html",
-        "date": "2026-03-03 17:28:23",
-        "sentiment_score": -0.017315372824668884
-    },
-    {
-        "title": "Ofensiva municipal contra la suciedad enquistada en el corazón de Barcelona",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/03/69a7150eeec0c.r_d.2325-1428-965.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20260303/11480411/ofensiva-municipal-suciedad-enquistada-corazon-barcelona.html",
-        "date": "2026-03-03 17:27:49",
-        "sentiment_score": 0.20485399663448334
-    },
-    {
-        "title": "SPC presenta en el MWC 2026 la plataforma de teleasistencia HALO, para anticipar con IA riesgos en mayores",
-        "image_url": "https://static.grupojoly.com/clip/8c897958-76f0-4834-ab2d-0f8836ed3cbb_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "teleasistencia halo",
-            "mwc",
-            "2026",
-            "plataforma",
-            "spc"
-        ],
-        "link": "https://www.diariodecadiz.es/tecnologia/spc-mwc-2026-plataforma-teleasistencia-halo_0_2006058254.html",
-        "date": "2026-03-03 17:25:11",
-        "sentiment_score": 0.6968043595552444
-    },
-    {
         "title": "Juan Musso fue clave para sostener al Atlético: Así fue su actuación contra Barcelona",
         "image_url": "https://pxcdn.meridiano.net/032026/1772577021740.jpg?ch=180&cw=320",
         "tags": [
@@ -3194,5 +2960,208 @@ export default [
         "link": "https://www.elnacional.com/2026/03/guia-f1-2026-el-mapa-de-los-24-circuitos-en-un-ano-de-maxima-inestabilidad/",
         "date": "2026-03-07 00:21:02",
         "sentiment_score": -0.8532290868461132
+    },
+    {
+        "title": "La productora de Ana Rosa consigue la primera alianza histórica entre Telemadrid y À Punt",
+        "image_url": "https://www.elplural.com/uploads/s1/24/82/37/8/ana-rosa-en-el-programa-de-ana-rosa-mediaset_7_480x270.jpeg",
+        "tags": [
+            "extratele"
+        ],
+        "link": "https://www.elplural.com/extratele/productora-ana-rosa-consigue-primera-alianza-historica-entre-telemadrid-a-punt_383410102",
+        "date": "2026-03-07 06:41:05",
+        "sentiment_score": -0.09210041165351868
+    },
+    {
+        "title": "Fariba Ehsan, activista: \"Las mujeres somos esclavas de los hombres en Irán\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/74fb2d61-9188-47ef-ba1c-d2e4e681754a_16-9-discover-aspect-ratio_default_0_x400y133.jpg",
+        "tags": [
+            "irán"
+        ],
+        "link": "https://www.elperiodico.com/es/internacional/20260307/fariba-ehsan-activista-mujeres-esclavas-hombres-iran-127667006",
+        "date": "2026-03-07 06:37:04",
+        "sentiment_score": -0.902481990866363
+    },
+    {
+        "title": "Israel intensifica los ataques sobre Teherán en el octavo día de la guerra contra Irán",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/06/un-misil-irani-con-municiones-de-racimo-vuela-hacia-israel-en-una-imagen-captada-en-el-centro-del-pais-el-5-de-marzo-de-2026.jpeg",
+        "tags": [
+            "global"
+        ],
+        "link": "https://www.huffingtonpost.es/global/israel-intensifica-ataques-sobre-teheran-octavo-dia-guerraanbr-f202603.html",
+        "date": "2026-03-07 06:32:07",
+        "sentiment_score": -0.828074125573039
+    },
+    {
+        "title": "La soledad de Sarah Ferguson: se queda sin sus amigos y sin Priscilla Presley, su mano derecha",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/03/sarah-ferguson-soledad.jpeg",
+        "tags": [
+            "gente",
+            "jeffrey epstein",
+            "soledad",
+            "celebrities",
+            "casa real británica"
+        ],
+        "link": "https://theobjective.com/gente/2026-03-07/soelad-sarah-ferguson-abandono-amigos-priscilla/",
+        "date": "2026-03-07 06:30:00",
+        "sentiment_score": -0.8103846665471792
+    },
+    {
+        "title": "Máximo Huerta habla alto y claro sobre su reciente salida de Telecinco: ojo, porque tiene mucho que ver con la política",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2025/10/27/maximo-huerta-tiene-una-libreria-en-bunol-que-sufrio-danos-por-la-dana.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/maximo-huerta-habla-alto-claro-sobre-reciente-salida-telecinco-ver-politica-f202603.html",
+        "date": "2026-03-07 06:23:47",
+        "sentiment_score": -0.7387678697705269
+    },
+    {
+        "title": "Mujeres malagueñas que cambiaron la historia: un homenaje por el 8M",
+        "image_url": "https://static.grupojoly.com/clip/4ed7ae0a-8af7-4720-a7d6-9aab959fb960_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/mujeres-malaguenas-cambiaron-historia-homenaje-8m_0_2006071319.html",
+        "date": "2026-03-07 06:05:04",
+        "sentiment_score": 0.5624863877892494
+    },
+    {
+        "title": "Diez años de la camiseta de 'Todos deberíamos ser feministas': de la presencia de las mujeres en grandes firmas al espejismo de la diversidad",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/06/la-camiseta-de-la-coleccion-de-primavera-verano-2017-de-dior.jpeg",
+        "tags": [
+            "moda y belleza"
+        ],
+        "link": "https://www.huffingtonpost.es/life/moda/diez-anos-de-la-camiseta-de-todos-deberiamos-ser-feministas-de-la-ausencia-de-las-mujeres-en-grandes-firmas-al-espejismo-de-la-diversidad-f202603.html",
+        "date": "2026-03-07 06:02:08",
+        "sentiment_score": 0.1627623736858368
+    },
+    {
+        "title": "Veterinarios apuntan por qué los perros inclinan la cabeza cuando les hablas",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/06/un-perro-con-su-duena-en-su-casa.jpeg",
+        "tags": [
+            "animales"
+        ],
+        "link": "https://www.huffingtonpost.es/life/animales/veterinarios-apuntan-que-perros-inclinan-cabeza-les-hablas-f202603.html",
+        "date": "2026-03-07 06:02:04",
+        "sentiment_score": -0.035107702016830444
+    },
+    {
+        "title": "El Premio Nobel de Física aconsejó hacerse fontanero para escapar de la IA: una economista explica por qué incluso eso puede no ser suficiente a largo plazo",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/02/un-robot-camarero-prepara-cafe-durante-la-22-expo-china-asean-en-el-centro-internacional-de-convenciones-y-exposiciones-de-nanning-el-17-de-septiembre-de-2025-en-nanning-en-la-region-de-guangxi-china.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/el-premio-nobel-fisica-aconsejo-hacerse-fontanero-escapar-ia-economista-explica-que-suficiente-plazo-f202603.html",
+        "date": "2026-03-07 06:02:01",
+        "sentiment_score": -0.46198365837335587
+    },
+    {
+        "title": "Moncloa saca pecho: \"Hemos dado en el clavo\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/06/pedro-sanchez-sonriente.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.huffingtonpost.es/politica/moncloa-saca-pecho-hemos-dado-clavo-f202603.html",
+        "date": "2026-03-07 06:01:04",
+        "sentiment_score": -0.4472469687461853
+    },
+    {
+        "title": "La enfermedad rara que protege del SIDA recauda 600.000 euros para buscar su cura",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/05/14/68246ae955bc4.jpeg",
+        "tags": [
+            "castellón - vila-real"
+        ],
+        "link": "https://www.cope.es/emisoras/comunidad-valenciana/castellon-provincia/castellon/noticias/enfermedad-rara-protege-sida-recauda-600-000-euros-buscar-cura-20260307_3318576.html",
+        "date": "2026-03-07 06:45:00",
+        "sentiment_score": -0.00649714469909668
+    },
+    {
+        "title": "Viajar a estas ciudades puede disparar tu presupuesto: el nuevo ranking europeo de precios",
+        "image_url": "https://www.elplural.com/uploads/s1/24/76/87/0/viajar-a-estas-ciudades-puede-disparar-tu-presupuesto-el-nuevo-ranking-europeo-de-precios_7_480x270.jpeg",
+        "tags": [
+            "planes"
+        ],
+        "link": "https://www.elplural.com/oxigena2/planes/viajar-ciudades-puede-disparar-presupuesto-nuevo-ranking-europeo-precios-v0_383021102",
+        "date": "2026-03-07 06:44:08",
+        "sentiment_score": -0.09144225716590881
+    },
+    {
+        "title": "55 años del primer asesinato independentista en Cataluña",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/07/2026030707331395194.jpg",
+        "tags": [
+            "noticias en la red"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/55-anos-primer-asesinato-independentista-cataluna/20260307073314442366.html",
+        "date": "2026-03-07 06:33:14",
+        "sentiment_score": -0.6212317533791065
+    },
+    {
+        "title": "Goya a don Pachi",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/05/Jesus-Garcia-Conde.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://gaceta.es/opinion/goya-a-don-pachi-20260307-0733/",
+        "date": "2026-03-07 06:33:00",
+        "sentiment_score": -0.6836873386055231
+    },
+    {
+        "title": "Guerra de Irán: sube el precio de luz, gas y gasolina",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/07/2026030707251240551.jpg",
+        "tags": [
+            "noticias en la red"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/guerra-iran-sube-precio-luz-gas-gasolina/20260307072512442364.html",
+        "date": "2026-03-07 06:25:12",
+        "sentiment_score": -0.8975924197584391
+    },
+    {
+        "title": "AEMET prevé un día nublado y lluvioso en Barcelona con viento moderado y descenso de temperaturas",
+        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
+        "tags": [
+            "okd",
+            "tiempo",
+            "españa",
+            "cataluña",
+            "agencia estatal de meteorología (aemet)",
+            "previsión del tiempo"
+        ],
+        "link": "https://okdiario.com/cataluna/aemet-preve-un-dia-nublado-y-lluvioso-en-barcelona-con-viento-moderado-y-descenso-de-temperaturas-16370760",
+        "date": "2026-03-07 06:25:05",
+        "sentiment_score": 0.009979099035263062
+    },
+    {
+        "title": "Una dana afectará este sábado a toda la Península y Baleares dejando lluvias generalizadas",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/07/una-dana-afectara-este-sabado-a-toda-la-peninsula-y-baleares-dejando-lluvias-generalizadas/",
+        "date": "2026-03-07 06:19:52",
+        "sentiment_score": -0.8404165674000978
+    },
+    {
+        "title": "Delfín lidera en Ecuador bajo la dirección provisional del iraní Tayarani",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/07/delfin-lidera-en-ecuador-bajo-la-direccion-provisional-del-irani-tayarani/",
+        "date": "2026-03-07 06:16:47",
+        "sentiment_score": 0.20007553696632385
+    },
+    {
+        "title": "Las primeras universitarias andaluzas: los nombres que abrieron la puerta",
+        "image_url": "https://static.grupojoly.com/clip/6102477d-23b7-4c25-9726-89969cf38932_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "nombres",
+            "abrieron",
+            "universitarias",
+            "primeras",
+            "andaluzas"
+        ],
+        "link": "https://www.malagahoy.es/andalucia/primeras-universitarias-andaluzas-nombres-abrieron_0_2006093268.html",
+        "date": "2026-03-07 06:00:55",
+        "sentiment_score": -0.5153685249388218
     }
 ];
