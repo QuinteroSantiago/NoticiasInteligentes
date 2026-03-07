@@ -3006,5 +3006,193 @@ export default [
         "link": "https://www.prnewswire.com/news-releases/huawei-lanza-la-solucion-fan-de-nueva-generacion-302707203.html",
         "date": "2026-03-06 21:16:00",
         "sentiment_score": 0.46013934537768364
+    },
+    {
+        "title": "Celta de Vigo busca desesperadamente a Madonna y su camiseta de 36 años",
+        "image_url": "https://dims.apnews.com/dims4/default/0172f72/2147483647/strip/true/crop/3495x2330+0+0/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2F4e%2F93e4e1ba185dbe7f4622eaa6e9d4%2Fb4e7d700446d46a29db3e0f8c70ce563",
+        "tags": [
+            "deportes",
+            "celta vigo madonna laliga camiseta",
+            "sports"
+        ],
+        "link": "https://apnews.com/article/celta-vigo-madonna-laliga-camiseta-7d1f5ee0c41bc2a021703ec5835784f8",
+        "date": "2026-03-07 02:10:54",
+        "sentiment_score": -0.33419742435216904
+    },
+    {
+        "title": "Celta de Vigo busca desesperadamente a Madonna y su camiseta de 36 años",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/03/CELTA-MADONNA_19501.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2026/03/06/celta-de-vigo-busca-desesperadamente-a-madonna-y-su-camiseta-de-36-aos/",
+        "date": "2026-03-07 02:10:54",
+        "sentiment_score": -0.2541316896677017
+    },
+    {
+        "title": "La exaltación del desconcierto",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "exaltacion",
+            "desconcierto"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/articulos/exaltacion-desconcierto_0_2006092784.html",
+        "date": "2026-03-07 02:08:42",
+        "sentiment_score": -0.2932416498661041
+    },
+    {
+        "title": "El Real Madrid vence agónicamente en Balaídos",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/Federico-Valverde.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://ultimasnoticias.com.ve/deportes/el-real-madrid-vence-agonicamente-en-balaidos/",
+        "date": "2026-03-07 01:41:51",
+        "sentiment_score": -0.10581153631210327
+    },
+    {
+        "title": "Mbappé desató rumores de romance con famosa actriz española tras encuentros en París",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/d96011e3a7532b5e66ccc72f5c6473e409a603dcw.jpg",
+        "tags": [
+            "rumores de romance",
+            "titulares",
+            "kylian mbappé",
+            "ester expósito",
+            "deportes"
+        ],
+        "link": "https://lapatilla.com/2026/03/06/mbappe-desato-rumores-de-romance-con-famosa-actriz-espanola-tras-encuentros-en-paris/",
+        "date": "2026-03-07 01:06:36",
+        "sentiment_score": -0.0016837120056152344
+    },
+    {
+        "title": "Entrevista a Jaume Guardiola: “La deuda neta del Barça asciende a 914 millones y no se ha reducido en 200, sino en 50\"",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/04/culemania/1003742738311_15786632_1706x960.jpg",
+        "tags": [
+            "jaume guardiola",
+            "elecciones barça",
+            "víctor font",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260307/entrevista-jaume-guardiola-barca-asciende-millones-reducido/1003742739189_0.html",
+        "date": "2026-03-07 00:46:41",
+        "sentiment_score": -0.13593433797359467
+    },
+    {
+        "title": "06 MAR 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/06-mar-2026-partidazo-cope-20260307_3321910.html",
+        "date": "2026-03-07 00:40:00",
+        "sentiment_score": -0.561378076672554
+    },
+    {
+        "title": "El problema con la cubierta de San Mamés que evitará el Barça con el Spotify Camp Nou",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/02/14/culemania/palco/924167766_14120876_1706x960.jpg",
+        "tags": [
+            "camp nou",
+            "espai barça",
+            "culemaníacos"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20260307/problema-san-mames-barca-spotify-camp-nou/1003742738189_0.html",
+        "date": "2026-03-07 00:18:31",
+        "sentiment_score": 0.8711844403296709
+    },
+    {
+        "title": "Barcelona: el pronóstico del clima para este 7 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
+        "tags": [
+            "últimas actualizaciones",
+            "clima en españa",
+            "clima en barcelona",
+            "clima"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/07/barcelona-el-pronostico-del-clima-para-este-7-de-marzo/",
+        "date": "2026-03-07 02:15:38",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "\"Sí, hemos tocado el manifiesto\": la izquierda redirige el 8-M hacia el 'No a la guerra' de Sánchez",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/100cc57e14e19b0030a2412626aad5ec/crop/1116x125/2131x1140/f/image/jpeg/assets/multimedia/imagenes/2024/10/31/17303778454999.jpg",
+        "tags": [
+            "feminismo",
+            "nlpremium",
+            "marcha 8m",
+            "artículos silvia lorenzo"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/03/07/69ab278efdddff0e598b45ab.html",
+        "date": "2026-03-07 02:08:19",
+        "sentiment_score": 0.14254094660282135
+    },
+    {
+        "title": "Argis, la promotora en la que invierten los VIP",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/02/28/69a34c2c98995.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20260307/11478115/argis-promotora-invierten-vip.html",
+        "date": "2026-03-07 02:00:00",
+        "sentiment_score": 0.6251196321099997
+    },
+    {
+        "title": "Vicente Gracia, el joyero que ha diseñado para Michael Jackson o la reina Letizia: vendió su gran pieza por 126.000 euros",
+        "image_url": "https://s3.elespanol.com/2026/03/06/actualidad/1003744158775_261797666_1706x960.jpg",
+        "tags": [
+            "arte",
+            "valencia",
+            "comunidad valenciana",
+            "diseño",
+            "cultura",
+            "joyas"
+        ],
+        "link": "https://www.elespanol.com/valencia/cultura/20260307/vicente-gracia-joyero-disenado-michael-jackson-reina-letizia-vendio-gran-pieza-euros-dl/1003744155661_0.html",
+        "date": "2026-03-07 00:40:00",
+        "sentiment_score": 0.13663776218891144
+    },
+    {
+        "title": "El auge de los 'cazadores de herencias' que dan con fortunas sin dueño: \"Un cartero se llevó 4M sin estar en el testamento\"",
+        "image_url": "https://s3.elespanol.com/2026/03/06/actualidad/1003744159583_261809048_1706x960.jpg",
+        "tags": [
+            "reportajes",
+            "reportajes-newsletter",
+            "porfolio",
+            "herencias"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260307/auge-cazadores-herencias-dan-fortunas-sin-dueno-cartero-llevo-testamento/1003744159564_0.html",
+        "date": "2026-03-07 00:40:00",
+        "sentiment_score": -0.7242713533341885
+    },
+    {
+        "title": "Carlos Segarra, de 'Los Rebeldes': \"Para una dictadura no hay nada mejor que la gente esté viendo fútbol, tomando ron... y callada\"",
+        "image_url": "https://s3.elespanol.com/2026/03/06/reportajes/1003744159062_261801748_1706x960.jpg",
+        "tags": [
+            "transición española",
+            "estilos musicales",
+            "inteligencia artificial",
+            "conciertos música",
+            "música",
+            "porfolio",
+            "grupos musicales",
+            "rock",
+            "reportajes-newsletter",
+            "donald trump"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260307/carlos-segarra-rebeldes-dictadura-no-mejor-gente-viendo-futbol-tomando-ron-callada/1003744149451_0.html",
+        "date": "2026-03-07 00:40:00",
+        "sentiment_score": -0.8476201631128788
+    },
+    {
+        "title": "Guía F1 2026: el mapa de los 24 circuitos en un año de máxima inestabilidad",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/06185523/WhatsApp-Image-2026-03-06-at-6.53.27-PM.jpeg",
+        "tags": [
+            "motores",
+            "f1",
+            "fórmula 1",
+            "deportes"
+        ],
+        "link": "https://www.elnacional.com/2026/03/guia-f1-2026-el-mapa-de-los-24-circuitos-en-un-ano-de-maxima-inestabilidad/",
+        "date": "2026-03-07 00:21:02",
+        "sentiment_score": -0.8532290868461132
     }
 ];
