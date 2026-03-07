@@ -1,104 +1,5 @@
 export default [
     {
-        "title": "La austera infancia de Yolanda Díaz en La Coruña: «Recuerdo el olor de la cárcel cuando iba a ver a mi padre»",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/03/yolanda-diaz-infancia.jpeg",
-        "tags": [
-            "infancia",
-            "la coruña",
-            "gente",
-            "celebrities",
-            "yolanda díaz"
-        ],
-        "link": "https://theobjective.com/gente/2026-03-03/infancia-yolanda-diaz-coruna-carcel-padre/",
-        "date": "2026-03-03 07:00:00",
-        "sentiment_score": -0.2660181075334549
-    },
-    {
-        "title": "La ‘hermana’ desconocida de la reina Letizia: la ‘hijastra’ de Jesús Ortiz tras su matrimonio con Ana Togores",
-        "image_url": "https://www.infobae.com/resizer/v2/G5ODJJEGTBDURDJW42FVISYQ2Q.jpg?auth=a4f9657c42e608b7e46ac27c02bc385cdf5b20c1175d0b569c8073a842fce39f&height=900&smart=true&width=1600",
-        "tags": [
-            "españa-noticias",
-            "corazón y estilo españa",
-            "jesús ortiz",
-            "casas reales",
-            "españa-entretenimiento",
-            "casa real españa",
-            "reina letizia",
-            "realeza"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/03/la-hermana-desconocida-de-la-reina-letizia-la-hijastra-de-jesus-ortiz-tras-su-matrimonio-con-ana-togores/",
-        "date": "2026-03-03 06:44:36",
-        "sentiment_score": -0.08160314708948135
-    },
-    {
-        "title": "Florentino, condenado por dos entrenadores que no quería y 200 millones en fichajes de jugadores que no le convencían",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/866b9395-6139-4ed8-bec5-37dd3a2f5c40_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "álvaro arbeloa",
-            "fichajes",
-            "real madrid",
-            "florentino pérez",
-            "fútbol",
-            "xabi alonso"
-        ],
-        "link": "https://www.elperiodicodearagon.com/deportes/2026/03/03/florentino-asoma-abismo-real-madrid-xabi-alonso-arbeloa-fichajes-127476343.html",
-        "date": "2026-03-03 06:33:29",
-        "sentiment_score": -0.9016438201069832
-    },
-    {
-        "title": "Hito histórico en la zoología española: los bisontes regresan a la península ibérica en Guadalajara para evitar incendios",
-        "image_url": "https://okdiario.com/img/2026/02/25/bisonte-europeo.jpg",
-        "tags": [
-            "castilla-la mancha",
-            "guadalajara",
-            "animales",
-            "incendio",
-            "medioambiente",
-            "naturaleza"
-        ],
-        "link": "https://okdiario.com/naturaleza/hito-historico-zoologia-espanola-bisontes-regresan-peninsula-iberica-guadalajara-prevenir-incendios-16305623",
-        "date": "2026-03-03 06:30:54",
-        "sentiment_score": 0.012586355209350586
-    },
-    {
-        "title": "El nombre de niña que sólo tienen 68 personas en España y que es un boom entre los padres en Italia",
-        "image_url": "https://okdiario.com/img/2026/03/02/el-nombre-de-nina-que-solo-tienen-68-personas-en-espana-y-que-es-un-boom-entre-los-padres-en-italia.jpg",
-        "tags": [
-            "nombres de niña",
-            "okd",
-            "ser padres",
-            "nombres de niño",
-            "bebés"
-        ],
-        "link": "https://okdiario.com/bebes/nombre-nina-que-solo-tienen-68-personas-espana-que-boom-padres-italia-16332139",
-        "date": "2026-03-03 07:00:08",
-        "sentiment_score": -0.3298905938863754
-    },
-    {
-        "title": "Santiago Niño Becerra, economista: \"Una persona tendría que trabajar hasta los 80 años para comprarse una vivienda\"",
-        "image_url": "https://images.ecestaticos.com/FCOKk139OJbs7BIC4o_WKBeYvzg=/0x0:532x376/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F01c%2F257%2Fe26%2F01c257e268c5bce05f7c93d14204e130.png",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elconfidencial.com/vivienda/2026-03-03/santiago-nino-becerra-economista-trabajar-80-anos_4312433/",
-        "date": "2026-03-03 07:00:00",
-        "sentiment_score": 0.27870815992355347
-    },
-    {
-        "title": "Playas sin arena y paseos dañados: así ha quedado el Mediterráneo español tras el tren de borrascas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ca4500bf-1de9-467b-ae0b-7361e6fb270e_16-9-aspect-ratio_default_0_x960y426.jpg",
-        "tags": [
-            "medio ambiente",
-            "daños",
-            "arena",
-            "playas",
-            "borrascas"
-        ],
-        "link": "https://www.levante-emv.com/medio-ambiente/2026/03/03/playas-arena-paseos-danados-quedado-127476459.html",
-        "date": "2026-03-03 06:56:08",
-        "sentiment_score": 0.18692031502723694
-    },
-    {
         "title": "Un estudio internacional revela que unir alcohol y mala nutrición agrava el daño hepático por el eje intestino-hígado",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260303183614_690.jpg",
         "tags": [
@@ -2928,5 +2829,182 @@ export default [
         "link": "https://www.elperiodico.com/es/barcelona/20260306/viento-lluvia-barcelona-borrasca-regina-arbol-caido-gotic-127653116",
         "date": "2026-03-06 17:21:34",
         "sentiment_score": -0.9105124287307262
+    },
+    {
+        "title": "El Real Madrid se libra de milagro en el descuento de una nueva hecatombe",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/adac7a25-0aed-4cda-8cb0-a7956b46bf92_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "celta de vigo",
+            "fútbol",
+            "real madrid"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2026/03/06/celta-real-madrid-goles-resumen-resultado-127662429.html",
+        "date": "2026-03-06 22:18:32",
+        "sentiment_score": -0.3279985934495926
+    },
+    {
+        "title": "Valverde rescata al Madrid en el descuento",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/51bed6db-2c77-42cd-9bdac7ae7089089a.jpg",
+        "tags": [
+            "fede valverde",
+            "borja iglesias",
+            "iago aspas",
+            "fc barcelona",
+            "kylian mbappé",
+            "celta de vigo",
+            "real madrid",
+            "vinícius júnior",
+            "vigo",
+            "aurélien tchouaméni",
+            "thibaut courtois",
+            "lyon",
+            "santiago bernabéu",
+            "eduardo camavinga",
+            "manchester city"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zde48af35-50b1-4871-8bf81672264cbae5/202603/valverde-rescata-al-madrid-en-el-descuento",
+        "date": "2026-03-06 22:16:08",
+        "sentiment_score": -0.26665565371513367
+    },
+    {
+        "title": "Un rechace en el 94 condena al Celta ante el Real Madrid (1-2)",
+        "image_url": "https://cflvdg.avoz.es/sc/U8Y4wIxl_BvFBA9iqo6A5BR6ngE=/768x/2026/03/06/00121772832002127552588/Foto/i_20260306_215812002.jpg",
+        "tags": [
+            "iago aspas",
+            "real madrid",
+            "borja iglesias",
+            "madonna",
+            "álvaro arbeloa",
+            "celta",
+            "vinicius",
+            "grada de río",
+            "javi rueda",
+            "thibaut courtois"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/gradario/2026/03/06/rechace-94-condena-celta-ante-real-madrid-1-2/00031772835193597375986.htm",
+        "date": "2026-03-06 22:15:00",
+        "sentiment_score": -0.2552618272602558
+    },
+    {
+        "title": "La jornada 27 de LaLiga EA Sports, en imágenes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1e9c0ede-db54-4ea6-9f96-36582f89c991_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "laliga",
+            "real madrid",
+            "celta de vigo",
+            "fútbol"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/fotos/deportes/2026/03/06/jornada-27-laliga-ea-sports-127662234.html",
+        "date": "2026-03-06 22:14:18",
+        "sentiment_score": 0.8615903314203024
+    },
+    {
+        "title": "Dos mercados de fichajes desperdiciados para el Real Oviedo",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/03/06/213548898.jpg",
+        "tags": [
+            "real oviedo",
+            "oviedo"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/dos-mercados-fichajes-desperdiciados-real-oviedo-20260307205922-nt.html",
+        "date": "2026-03-06 22:17:08",
+        "sentiment_score": 0.0412253737449646
+    },
+    {
+        "title": "Llegan otros 229 españoles evacuados de Oriente Próximo",
+        "image_url": "https://www.diariodeburgos.es/media/img/2026/4dc22954-fa51-43a4-b9d7dd9d033167ef.jpg",
+        "tags": [
+            "emiratos árabes unidos",
+            "palestina",
+            "kuwait",
+            "irán",
+            "bahréin",
+            "estados unidos",
+            "madrid",
+            "unión europea",
+            "oriente próximo",
+            "israel",
+            "josé manuel albares",
+            "barcelona",
+            "ministerio de exteriores",
+            "omán"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z8129e455-db28-4464-8f3e2a484510221a/202603/llegan-otros-229-espanoles-evacuados-de-oriente-proximo",
+        "date": "2026-03-06 22:02:16",
+        "sentiment_score": 0.05370262637734413
+    },
+    {
+        "title": "El Gobierno entrará a competir con los inversores con 100 millones de euros para la compra de casas en las zonas tensionadas",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
+        "tags": [
+            "nlpremium",
+            "artículos daniela saltos"
+        ],
+        "link": "https://www.elmundo.es/economia/vivienda/2026/03/06/69aae904e85ecec14d8b4573.html",
+        "date": "2026-03-06 21:43:07",
+        "sentiment_score": 0.8302227184176445
+    },
+    {
+        "title": "Cómo nos hemos convertido en la España de Torrente: \"El torrentismo ha pasado de vivir en las catacumbas a celebrar su Orgullo\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/9e1adeee492d225dc6c2577d19053dc3/f/image/jpeg/assets/multimedia/imagenes/2023/01/16/16738696618619.jpg",
+        "tags": [
+            "santiago segura",
+            "nlpremium",
+            "artículos jorge benítez"
+        ],
+        "link": "https://www.elmundo.es/papel/cultura/2026/03/06/69aaf884e9cf4afb538b45b1.html",
+        "date": "2026-03-06 21:42:33",
+        "sentiment_score": -0.2441639006137848
+    },
+    {
+        "title": "El ‘Réquiem’ de Mozart suena en la Seu con la JOSB y la Capella Mallorquina",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4402539.jpg",
+        "tags": [
+            "concierto de música clásica",
+            "cultura",
+            "requiem",
+            "la seu",
+            "música clásica"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2026/03/06/2584055/requiem-mozart-suena-seu-josb-capella-mallorquina.html",
+        "date": "2026-03-06 21:20:00",
+        "sentiment_score": 0.7018559388816357
+    },
+    {
+        "title": "COMUNICADO: Huawei lanza la solución FAN de nueva generación",
+        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
+        "tags": [
+            "comunicados",
+            "comunicados internacional"
+        ],
+        "link": "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-huawei-lanza-solucion-fan-nueva-generacion-20260306221749.html",
+        "date": "2026-03-06 21:17:49",
+        "sentiment_score": 0.5179647691547871
+    },
+    {
+        "title": "Huawei lanza la solución FAN de nueva generación",
+        "image_url": "https://mma.prnewswire.com/media/2927740/York_Yue_Vice_President_Huawei_CEO_ISP___Media_BU.jpg?p=publish",
+        "tags": [
+            "net",
+            "telecommunications equipment",
+            "hrd",
+            "computer software",
+            "cpr",
+            "cse",
+            "afi",
+            "tls",
+            "networks",
+            "internet technology",
+            "telecommunications industry",
+            "artificial intelligence",
+            "stw",
+            "computer hardware",
+            "computer & electronics",
+            "consumer electronics",
+            "teq",
+            "ite"
+        ],
+        "link": "https://www.prnewswire.com/news-releases/huawei-lanza-la-solucion-fan-de-nueva-generacion-302707203.html",
+        "date": "2026-03-06 21:16:00",
+        "sentiment_score": 0.46013934537768364
     }
 ];
