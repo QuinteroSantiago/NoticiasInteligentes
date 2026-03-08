@@ -2782,5 +2782,231 @@ export default [
         "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-de-la-semana-taylor-swift-dejara-la-solter%C3%ADa",
         "date": "2026-03-07 20:09:04",
         "sentiment_score": -0.15644308924674988
+    },
+    {
+        "title": "La mujer en la política digital autonómica: cuando el talento vence al 'robo de ideas' o al \"mira, bonita\"",
+        "image_url": "https://s3.elespanol.com/2026/03/07/actualidad/1003744160473_261820415_1706x960.jpg",
+        "tags": [
+            "galicia",
+            "brecha de género",
+            "8-m: día internacional de la mujer",
+            "wake up spain",
+            "comunidad valenciana",
+            "autonomías 4.0",
+            "tecnología",
+            "innovación"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/20260308/mujer-politica-digital-autonomica-talento-vence-robo-ideas-mira-bonita/1003744155537_0.html",
+        "date": "2026-03-08 01:58:18",
+        "sentiment_score": 0.4290294274687767
+    },
+    {
+        "title": "1-0. EE.UU. se corona campeón de la SheBelieves Cup luego de vencer a Colombia",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/08/1-0-eeuu-se-corona-campeon-de-la-shebelieves-cup-luego-de-vencer-a-colombia/",
+        "date": "2026-03-08 01:15:54",
+        "sentiment_score": 0.39693671464920044
+    },
+    {
+        "title": "Rumores vinculan a Ester Expósito con Kylian Mbappé tras ser vistos en París",
+        "image_url": "https://diarioavance.com/wp-content/uploads/2026/03/para-fotos-de-la-web-14.jpg",
+        "tags": [
+            "ester expósito",
+            "diario avance"
+        ],
+        "link": "https://diarioavance.com/rumores-vinculan-a-ester-exposito-con-kylian-mbappe/",
+        "date": "2026-03-08 01:04:54",
+        "sentiment_score": -0.17707634717226028
+    },
+    {
+        "title": "España cae 20 puestos en el índice de países seguros para las mujeres desde que llegó Sánchez: hay el triple de violaciones",
+        "image_url": "https://s3.elespanol.com/2026/03/07/actualidad/1003744160418_261819850_1706x960.jpg",
+        "tags": [
+            "ministerio de igualdad",
+            "españa",
+            "ana redondo",
+            "porfolio",
+            "reportajes",
+            "pedro sánchez",
+            "feminismo",
+            "ley trans",
+            "reportajes-newsletter-destacada",
+            "gobierno de españa"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260308/espana-cae-puestos-indice-paises-seguros-mujeres-llego-sanchez-triple-violaciones/1003744157130_0.html",
+        "date": "2026-03-08 00:56:27",
+        "sentiment_score": -0.714221078902483
+    },
+    {
+        "title": "Griezmann no se mudará a la MLS esta temporada: Director deportivo del Atlético de Madrid",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/978f944/2147483647/strip/true/crop/6136x3221+0+435/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F48%2Fd8%2F87f46d7142cf91e5a7c91556495f%2Fc34173e3208f44b7b061a8c676bd0670.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-07/griezmann-no-se-mudara-la-mls-esta-temporada-director-deportivo-del-atletico-de-madrid",
+        "date": "2026-03-08 00:50:53",
+        "sentiment_score": -0.28797490149736404
+    },
+    {
+        "title": "8M Fichas",
+        "image_url": "https://s10.s3c.es/imag/_v0/1665x911/7/d/2/1200x655_8m.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.eleconomista.es/actualidad/noticias/13802049/03/26/8m-fichas.html",
+        "date": "2026-03-08 00:29:12",
+        "sentiment_score": -0.02848370373249054
+    },
+    {
+        "title": "El Barça cierra sus penas de Copa conquistando San Mamés en Liga",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/07200930/AFP__20260307__A2DK8GL__v1__MidRes__FblEspLigaAthleticBilbaoBarcelona.jpg",
+        "tags": [
+            "san mamés",
+            "barça",
+            "barcelona",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.elnacional.com/2026/03/el-barca-cierra-sus-penas-de-copa-conquistando-san-mames/",
+        "date": "2026-03-08 00:16:55",
+        "sentiment_score": 0.5630011856555939
+    },
+    {
+        "title": "07 MAR 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/07-mar-2026-tramo-final-juego-20260308_3322053.html",
+        "date": "2026-03-08 00:05:37",
+        "sentiment_score": 0.20392513275146484
+    },
+    {
+        "title": "Las fotos del Atlético de Madrid-Real Sociedad",
+        "image_url": "https://static.grupojoly.com/clip/f7294ed2-bfa8-46fc-89d4-48b074601413_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "laliga"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/fotos-atletico-madrid-real-sociedad_3_2006098643.html",
+        "date": "2026-03-07 23:49:08",
+        "sentiment_score": -0.08293606340885162
+    },
+    {
+        "title": "Griezmann no se mudará a la MLS esta temporada: Director deportivo del Atlético de Madrid",
+        "image_url": "https://dims.apnews.com/dims4/default/14f7a27/2147483647/strip/true/crop/6136x4091+0+0/resize/319x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3d%2F39%2F41cad3eb6f0fb03a984170e6f252%2Fc34173e3208f44b7b061a8c676bd0670",
+        "tags": [
+            "sports",
+            "deportes",
+            "antoine griezmann atletico madrid orland city mls"
+        ],
+        "link": "https://apnews.com/article/antoine-griezmann-atletico-madrid-orland-city-mls-5b5ca1926e7e0bf4148e534e01e10210",
+        "date": "2026-03-07 23:48:34",
+        "sentiment_score": -0.23043815046548843
+    },
+    {
+        "title": "España: las predicciones del tiempo para Barcelona este 8 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
+        "tags": [
+            "últimas actualizaciones",
+            "clima en españa",
+            "clima",
+            "clima en barcelona"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/08/espana-las-predicciones-del-tiempo-para-barcelona-este-8-de-marzo/",
+        "date": "2026-03-08 02:01:02",
+        "sentiment_score": 0.17115099728107452
+    },
+    {
+        "title": "El reto ya no es tecnológico: es de talento",
+        "image_url": "https://s3.elespanol.com/2026/03/05/actualidad/1003744157957_261787228_1706x960.jpg",
+        "tags": [
+            "opinión",
+            "energía - opinión",
+            "talento",
+            "tecnología",
+            "innovación"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20260308/reto-no-tecnologico-talento/1003744157951_12.html",
+        "date": "2026-03-08 01:50:06",
+        "sentiment_score": -0.05789743363857269
+    },
+    {
+        "title": "Extraen tumor de más de 25 kilos en hospital Luis Razetti de Barcelona",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2026/03/gvjpg-57289-730x506.jpeg",
+        "tags": [
+            "intervención",
+            "barcelona",
+            "salud",
+            "marzo",
+            "luis razetti",
+            "tumor"
+        ],
+        "link": "https://primicia.com.ve/mas/salud/extraen-tumor-de-mas-de-25-kilos-en-hospital-luis-razetti-de-barcelona/",
+        "date": "2026-03-08 01:30:55",
+        "sentiment_score": -0.09210842475295067
+    },
+    {
+        "title": "El artista plástico Ricardo Celma denunció la desaparición de una obra enviada para un concurso internacional",
+        "image_url": "https://www.infobae.com/resizer/v2/UC3KUJTKPRF5VDD7L3ME5RBIFE.jfif?auth=2bece6f0a64c84b4396131590b0b0cdc39850f9e55b2ba6af1d561b971cd1c3f&height=599&smart=true&width=1065",
+        "tags": [
+            "arte internacional",
+            "últimas noticias",
+            "argentina",
+            "mercado negro",
+            "obra desaparecida",
+            "ricardo celma",
+            "interpol"
+        ],
+        "link": "https://www.infobae.com/sociedad/2026/03/08/el-artista-plastico-ricardo-celma-denuncio-la-desaparicion-de-una-obra-enviada-para-un-concurso-internacional/",
+        "date": "2026-03-08 00:22:12",
+        "sentiment_score": -0.772070100530982
+    },
+    {
+        "title": "¿Por qué un hombre tiene que cobrar muchísimo más que yo si hacemos lo mismo?",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/08/fem-1200--562x562.jpg",
+        "tags": [
+            "hombre",
+            "muchisimo",
+            "hacemos",
+            "cobrar"
+        ],
+        "link": "https://www.elcorreo.com/sociedad/hombre-cobrar-muchisimo-hacemos-20260308011942-nt.html",
+        "date": "2026-03-08 00:19:45",
+        "sentiment_score": -0.011439517140388489
+    },
+    {
+        "title": "ERC hierve por el \"débil\" liderazgo de Junqueras: \"Ganó por el 52% de votos, no tiene el partido controlado\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
+        "tags": [
+            "artículos víctor mondelo"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2026/03/08/69ac67a4fdddffdc748b456e.html",
+        "date": "2026-03-07 23:55:17",
+        "sentiment_score": -0.9223109725862741
+    },
+    {
+        "title": "Hansi Flick: \"Lamine no ha hecho su mejor partido, pero se nota su importancia\"",
+        "image_url": "https://www.infobae.com/resizer/v2/E6CYPJKESJC7HJONT3LY4VV5GI.jpg?auth=74764c83e364ac2765ccff2eec8d6483f4f7d57046bfbfe1ac4cff7494f1af27&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/07/hansi-flick-lamine-no-ha-hecho-su-mejor-partido-pero-se-nota-su-importancia/",
+        "date": "2026-03-07 23:45:29",
+        "sentiment_score": 0.34005390107631683
+    },
+    {
+        "title": "Las fotos del Athletic-Barcelona",
+        "image_url": "https://static.grupojoly.com/clip/88ec5829-5644-4464-a826-9200d1072355_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "laliga",
+            "fc barcelona"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/fotos-athletic-barcelona_3_2006098455.html",
+        "date": "2026-03-07 23:41:11",
+        "sentiment_score": -0.044321462512016296
     }
 ];
