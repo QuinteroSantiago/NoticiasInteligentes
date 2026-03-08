@@ -1,554 +1,5 @@
 export default [
     {
-        "title": "Juan Musso fue clave para sostener al Atlético: Así fue su actuación contra Barcelona",
-        "image_url": "https://pxcdn.meridiano.net/032026/1772577021740.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/juan-musso-fue-clave-para-sostener-al-atletico-asi-fue-su-actuacion-contra-barcelona-20263318300",
-        "date": "2026-03-03 22:30:00",
-        "sentiment_score": -0.04964792728424072
-    },
-    {
-        "title": "El Atlético se mete en la final de la Copa del Rey, aunque el Barça roza la gesta (3-0)",
-        "image_url": "https://cflvdg.avoz.es/sc/Gaj5qRRN9jiomb4hE2WRMokB-Lk=/768x/2026/03/03/00121772575381988602790/Foto/eup_20260303_214234220.jpg",
-        "tags": [
-            "fc barcelona",
-            "copa del rey",
-            "atlético de madrid",
-            "deportes"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/03/03/atletico-mete-final-copa-rey-barca-roza-gesta-3-0/00031772575478361225911.htm",
-        "date": "2026-03-03 22:29:00",
-        "sentiment_score": -0.7649785075336695
-    },
-    {
-        "title": "El Atlético frena con sufrimiento al Barça y jugará su 20a final de Copa del Rey (3-0)",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/05ce7b5f-da05-4c5f-bfb5-a7517f9ba05d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barca",
-            "sufrimiento",
-            "frena",
-            "atletico",
-            "jugara"
-        ],
-        "link": "https://www.noticiasdenavarra.com/futbol/2026/03/03/atletico-frena-sufrimiento-barca-jugara-10776621.html",
-        "date": "2026-03-03 22:26:35",
-        "sentiment_score": -0.043086618185043335
-    },
-    {
-        "title": "Copa del Rey: Revive todos los goles del Barcelona contra el Atlético",
-        "image_url": "https://pxcdn.meridiano.net/032026/1772576556402.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/copa-del-rey-revive-todos-los-goles-del-barcelona-contra-el-atletico-20263318240",
-        "date": "2026-03-03 22:24:00",
-        "sentiment_score": 0.1474534161388874
-    },
-    {
-        "title": "Real Madrid confirma que Rodrygo se rompió el ligamento cruzado a 100 días del Mundial",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/854bc56/2147483647/strip/true/crop/5556x2917+0+394/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa6%2F0d%2F69575e2147afac19c0fa61103c9d%2F4a58072d32f24e849663b967bea21f6f.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-03/real-madrid-confirma-que-rodrygo-se-rompio-el-ligamento-cruzado-100-dias-del-mundial",
-        "date": "2026-03-03 22:20:52",
-        "sentiment_score": -0.7446062294766307
-    },
-    {
-        "title": "El Atlético frena con sufrimiento la remontada del Barcelona y se clasifica",
-        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/03/03/spain-copa-del-rey-soccer.jpeg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.heraldo.es/noticias/deportes/2026/03/03/partido-barcelona-atletico-madrid-final-copa-rey-2026-1899256.html",
-        "date": "2026-03-03 22:19:51",
-        "sentiment_score": 0.28329479694366455
-    },
-    {
-        "title": "El PP defiende \"la propiedad privada, económica e industrial\" de la costa ante un aumento de la protección ambiental",
-        "image_url": "https://static.eldiario.es/clip/f409a9e2-414b-4d68-9d0b-fda5f0899a4b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "e",
-            "costa",
-            "privada",
-            "propiedad",
-            "industrial",
-            "defiende",
-            "economica",
-            "pp",
-            "proteccion",
-            "aumento",
-            "ambiental"
-        ],
-        "link": "https://www.eldiario.es/sociedad/pp-defiende-propiedad-privada-economica-e-industrial-costa-aumento-proteccion-ambiental_1_13036940.html",
-        "date": "2026-03-03 22:19:10",
-        "sentiment_score": -0.0619242787361145
-    },
-    {
-        "title": "Madrid avanza hacia una Smart City Conversacional mediante prototipos en WhatsApp",
-        "image_url": "https://americaeconomica.com/wp-content/uploads/2026/03/hackathon-madrid-soluciones-whatsapp-768x337.jpg",
-        "tags": [
-            "tecnologia",
-            "empresas"
-        ],
-        "link": "https://americaeconomica.com/noticia/empresas/madrid-avanza-hacia-una-smart-city-conversacional-mediante-prototipos-en-whatsapp.html",
-        "date": "2026-03-03 22:18:32",
-        "sentiment_score": 0.4898415803909302
-    },
-    {
-        "title": "Copa del Rey: ¿Cuándo se disputará la final?",
-        "image_url": "https://pxcdn.meridiano.net/032026/1772576014347.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/copa-del-rey-cuando-se-disputara-la-final-20263318180",
-        "date": "2026-03-03 22:18:00",
-        "sentiment_score": 0.6232605651021004
-    },
-    {
-        "title": "La Casa Real despide a Fernando Ónega, un \"referente\" del \"mejor periodismo de la Transición\"",
-        "image_url": "https://www.infobae.com/resizer/v2/YZFHCQD7DVEXDA343IG4DHCDRY.jpg?auth=2586b88761ed4a201dd004b0112ac31cdd30687ca154d05240f8204d39d54f5a&height=1280&smart=true&width=1920",
-        "tags": [
-            "radio",
-            "madrid",
-            "periodismo",
-            "casa de galicia",
-            "ana bedia",
-            "fernando ónega",
-            "casa real",
-            "europapress",
-            "transición",
-            "galicia",
-            "65ymás"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/03/la-casa-real-despide-a-fernando-onega-un-referente-del-mejor-periodismo-de-la-transicion/",
-        "date": "2026-03-03 22:15:23",
-        "sentiment_score": 0.7371132671833038
-    },
-    {
-        "title": "Minguella: \"Pierdes, pero te quedas contento del esfuerzo de los jugadores\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/03/69a7606c471c3.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/minguella-pierdes-te-quedas-contento-esfuerzo-jugadores-20260303_3319238.html",
-        "date": "2026-03-03 22:32:27",
-        "sentiment_score": -0.03443640470504761
-    },
-    {
-        "title": "Desokupa 'esquiva' una sanción por intrusismo laboral al sector de la seguridad privada",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/12/22/sucesos/819178101_12127545_1706x960.jpg",
-        "tags": [
-            "el raval",
-            "economía",
-            "generalitat de catalunya",
-            "okupas",
-            "sindicatos"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260303/desokupa-esquiva-sancion-intrusismo-laboral-sector-seguridad-privada/1003742737435_0.html",
-        "date": "2026-03-03 22:32:26",
-        "sentiment_score": -0.7544786240905523
-    },
-    {
-        "title": "Cambio de imagen a la plaza de la Estación: Castelldefels destina tres millones a su modernización",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/27/gran-barcelona/1003742736969_15769695_1706x960.jpg",
-        "tags": [
-            "obras",
-            "gran barcelona",
-            "manu reyes",
-            "pp",
-            "renfe barcelona",
-            "baix llobregat",
-            "castelldefels - noticias"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260303/cambio-imagen-plaza-estacion-castelldefels-destina-millones-modernizacion/1003742736773_0.html",
-        "date": "2026-03-03 22:30:00",
-        "sentiment_score": 0.7268743216991425
-    },
-    {
-        "title": "Barcelona perderá dos escuelas concertadas el curso que viene: de una sola línea y en barrios humildes",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/04/actualidad/1003742713401_15479819_1706x960.jpg",
-        "tags": [
-            "la verneda i la pau",
-            "niños",
-            "generalitat de catalunya",
-            "sant martí de provençals",
-            "colegios barcelona",
-            "colegios",
-            "educación",
-            "el pulso de la ciudad"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260303/barcelona-perdera-escuelas-concertadas-curso-viene-sola-linea-barrios-humildes/1003742736934_0.html",
-        "date": "2026-03-03 22:30:00",
-        "sentiment_score": -0.3902948275208473
-    },
-    {
-        "title": "Los clubes se adaptan al pickleball, el nuevo deporte de raqueta de moda",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/03/pickleball-servimedia.jpg",
-        "tags": [
-            "servimedia",
-            "actualidad"
-        ],
-        "link": "https://theobjective.com/actualidad/2026-03-03/clubes-pickleball-deporte-raqueta-moda/",
-        "date": "2026-03-03 22:29:17",
-        "sentiment_score": 0.3770091086626053
-    },
-    {
-        "title": "Huawei colabora con el GCC para lanzar la iniciativa de co-construcción del ecosistema AIDC",
-        "image_url": "https://mma.prnewswire.com/media/2924128/image_1.jpg?p=publish",
-        "tags": [
-            "green technology",
-            "artificial intelligence",
-            "computer & electronics",
-            "environmental products & services",
-            "afi",
-            "cpr",
-            "gre",
-            "env"
-        ],
-        "link": "https://www.prnewswire.com/news-releases/huawei-colabora-con-el-gcc-para-lanzar-la-iniciativa-de-co-construccion-del-ecosistema-aidc-302703122.html",
-        "date": "2026-03-03 22:29:00",
-        "sentiment_score": 0.12438973598182201
-    },
-    {
-        "title": "Barcelona golea al Atlético en una vuelta de infarto",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "fc barcelona",
-            "resultados copa del rey",
-            "noticias 24 horas carabobo",
-            "noticias de valencia",
-            "noticias de sucesos",
-            "portada",
-            "noticias de hoy valencia",
-            "copa del rey",
-            "noticias de carabobo",
-            "news",
-            "noticias de venezuela",
-            "actualidad",
-            "noticias24carabobo",
-            "noticias24carabobo en google news",
-            "resultados barcelona vs atlético",
-            "noticias 24",
-            "deportes",
-            "noticias hoy"
-        ],
-        "link": "https://noticias24carabobo.com/resultado-barcelona-golea-atletico-vuelta-infarto/",
-        "date": "2026-03-03 22:26:19",
-        "sentiment_score": -0.14173875749111176
-    },
-    {
-        "title": "Pillado copiando en el examen MIR con gafas de IA y reloj inteligente",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/5d/media_thumb-link-4152800.webp?1772556126=",
-        "tags": [
-            "mir",
-            "actualidad",
-            "copiar",
-            "medicina",
-            "ia"
-        ],
-        "link": "https://www.meneame.net/story/pillado-copiando-examen-mir-gafas-ia-reloj-inteligente",
-        "date": "2026-03-04 02:15:03",
-        "sentiment_score": -0.33401329815387726
-    },
-    {
-        "title": "Las bolsas tiemblan ante una guerra larga en Irán y el Ibex pierde más de 66.000 millones en dos días",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
-        "tags": [
-            "artículos clara rojas"
-        ],
-        "link": "https://www.elmundo.es/economia/dinero-inversion/2026/03/04/69a74d98e9cf4a5e108b4597.html",
-        "date": "2026-03-04 01:27:43",
-        "sentiment_score": -0.032287657260894775
-    },
-    {
-        "title": "El lado oscuro del Mundial 2026: las 17 estrellas que no estarán en la cita",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/Mundial-2026.jpg",
-        "tags": [
-            "titulares",
-            "deportes",
-            "figuras lesionadas",
-            "samo omorodion",
-            "mundial 2026",
-            "juan foyth",
-            "rodrygo goes",
-            "jack grealish"
-        ],
-        "link": "https://lapatilla.com/2026/03/03/el-lado-oscuro-del-mundial-2026-las-17-estrellas-que-no-estaran-en-la-cita/",
-        "date": "2026-03-04 01:16:27",
-        "sentiment_score": 0.046617358922958374
-    },
-    {
-        "title": "Rodrygo se perderá el Mundial 2026 con Brasil: ¿qué lesión tiene y cómo puede afectar a Neymar?",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2026/03/03/rodrygo-lesion-mundial-2026-neymar-ancelotti-orix/",
-        "date": "2026-03-04 01:03:42",
-        "sentiment_score": -0.8483476508408785
-    },
-    {
-        "title": "Nikki, de ser la voz de Google a su primer disco como solista: \"He tardado casi 40 años en entender muchas cosas\"",
-        "image_url": "https://s3.elespanol.com/2026/03/03/actualidad/1003744154316_261739363_1706x960.jpg",
-        "tags": [
-            "google maps",
-            "discos música",
-            "madrid total",
-            "disney"
-        ],
-        "link": "https://www.elespanol.com/madrid/20260304/nikki-voz-google-primer-disco-solista-tardado-anos-entender-muchas-cosas/1003744153540_0.html",
-        "date": "2026-03-04 01:00:00",
-        "sentiment_score": 0.004323720932006836
-    },
-    {
-        "title": "Rodrygo se perderá el Mundial 2026 con Brasil: ¿qué lesión tiene y cómo puede afectar a Neymar?",
-        "image_url": "https://ktvz.b-cdn.net/2026/03/lawd-375x225.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://ktvz.com/cnn-spanish/2026/03/03/rodrygo-se-perdera-el-mundial-2026-con-brasil-que-lesion-tiene-y-como-puede-afectar-a-neymar/",
-        "date": "2026-03-04 00:43:14",
-        "sentiment_score": -0.49108263850212097
-    },
-    {
-        "title": "El Atlético de Madrid se clasifica para la final de la Copa del Rey pese a perder 3-0 ante el Barcelona",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/03201730/AFP__20260303__99TY2EB__v1__MidRes__FblEspCupBarcelonaAtleticoMadrid.jpg",
-        "tags": [
-            "copa del rey",
-            "barcelona",
-            "deportes",
-            "fútbol",
-            "atlético de madrid"
-        ],
-        "link": "https://www.elnacional.com/2026/03/el-atletico-de-madrid-se-clasifica-para-la-final-de-la-copa-del-rey-pese-a-perder-3-0-ante-el-barcelona/",
-        "date": "2026-03-04 00:36:44",
-        "sentiment_score": 0.016929060220718384
-    },
-    {
-        "title": "Así fue la visita de leyendas del Barcelona al entrenamiento de las Chivas",
-        "image_url": "https://www.infobae.com/resizer/v2/QM5NQ5BDDZCKVM2BUJCSCWCCIY.png?auth=fd192cfe00ab6697772787f37365e9b22278177a893c9fc758e887d5b2a45c1b&height=900&smart=true&width=1600",
-        "tags": [
-            "copa del mundo 2026",
-            "chivas",
-            "fc barcelona",
-            "guadalajara",
-            "estadio akron",
-            "mexico-noticias",
-            "real madrid",
-            "mexico-deportes",
-            "leyendas del fútbol"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2026/03/04/asi-fue-la-visita-de-leyendas-del-barcelona-al-entrenamiento-de-las-chivas/",
-        "date": "2026-03-04 00:25:00",
-        "sentiment_score": 0.27030252665281296
-    },
-    {
-        "title": "El Atlético va a la final de la Copa del Rey a pesar de caer goleados 3-0",
-        "image_url": "https://laprensadelara.com/wp-content/uploads/2026/03/El-Atletico-va-a-la-final-de-la-Copa-del-Rey-a-pesar-de-caer-goleados-3-0.webp",
-        "tags": [
-            "fc barcelona",
-            "uefa",
-            "final de la copa del rey",
-            "la liga",
-            "futbol",
-            "deportes",
-            "fútbol",
-            "camp nou",
-            "atlético de madrid",
-            "copa del rey"
-        ],
-        "link": "https://laprensadelara.com/deportes/atletico-va-a-la-final-copa-del-rey/",
-        "date": "2026-03-04 00:15:36",
-        "sentiment_score": 0.25165463984012604
-    },
-    {
-        "title": "VIDEO| Luis Javier Suárez sigue en racha: gol decisivo ante Porto en la semifinal de la Copa de Portugal",
-        "image_url": "https://www.infobae.com/resizer/v2/VG3NTDQV6NE4RMGDLQHMC47GLY.jpg?auth=a21b561bb8fa9da750af9c68313d27fa05cce45b9a99e381c7966285917d9a53&height=858&smart=true&width=1462",
-        "tags": [
-            "sporting lisboa",
-            "copa de portugal",
-            "porto",
-            "luis suárez",
-            "colombia-deportes",
-            "luis javier suárez"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/03/03/video-luis-javier-suarez-sigue-en-racha-gol-decisivo-ante-porto-en-la-semifinal-de-la-copa-de-portugal/",
-        "date": "2026-03-03 23:57:50",
-        "sentiment_score": 0.48966243863105774
-    },
-    {
-        "title": "El motivo por el que Marcos Llorente no verá en directo la otra semifinal de la Copa del Rey entre Real Sociedad y Athletic",
-        "image_url": "https://www.infobae.com/resizer/v2/JN3DRYVTKFEKZHNRA67GTQKDJA.JPG?auth=ce86252604a331a7de1ed03a9896cb483ba63304cabc0f1f187f6201c6221831&height=3420&smart=true&width=4646",
-        "tags": [
-            "españa-noticias",
-            "fútbol",
-            "copa del rey",
-            "real sociedad",
-            "atlético de madrid",
-            "fc barcelona",
-            "españa-deportes",
-            "athletic club",
-            "marcos llorente",
-            "fútbol españa"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/03/03/el-motivo-por-el-que-marcos-llorente-no-vera-en-directo-la-otra-semifinal-de-la-copa-del-rey-entre-real-sociedad-y-athletic/",
-        "date": "2026-03-03 23:53:07",
-        "sentiment_score": 0.17829494178295135
-    },
-    {
-        "title": "¡EL BARÇA ROZÓ EL MILAGRO!",
-        "image_url": "https://diarioavance.com/wp-content/uploads/2026/03/barcelona.png",
-        "tags": [
-            "avance",
-            "diario avance"
-        ],
-        "link": "https://diarioavance.com/el-barca-rozo-el-milagro/",
-        "date": "2026-03-04 02:36:15",
-        "sentiment_score": 0.5613159835338593
-    },
-    {
-        "title": "Clima en Barcelona: pronóstico de lluvias y ráfagas de viento",
-        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima en españa",
-            "clima en barcelona",
-            "clima",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/04/clima-en-barcelona-pronostico-de-lluvias-y-rafagas-de-viento/",
-        "date": "2026-03-04 02:00:56",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "COMUNICADO: Huawei propone construir una red de objetivos totalmente óptica centrada en IA",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
-        "tags": [
-            "comunicados internacional",
-            "comunicados"
-        ],
-        "link": "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-huawei-propone-construir-red-objetivos-totalmente-optica-centrada-ia-20260304025406.html",
-        "date": "2026-03-04 01:54:06",
-        "sentiment_score": 0.5345004089176655
-    },
-    {
-        "title": "Huawei propone construir una red de objetivos totalmente óptica centrada en IA",
-        "image_url": "https://mma.prnewswire.com/media/2924558/Kim_Jin_Vice_President_Huawei_Optical_Business_Product_Line_proposes.jpg?p=publish",
-        "tags": [
-            "teq",
-            "cpr",
-            "artificial intelligence",
-            "afi",
-            "net",
-            "computer software",
-            "tcs",
-            "computer hardware",
-            "internet technology",
-            "ite",
-            "wireless communications",
-            "stw",
-            "carriers and services",
-            "wic",
-            "tls",
-            "hrd",
-            "computer & electronics",
-            "telecommunications industry",
-            "networks",
-            "telecommunications equipment"
-        ],
-        "link": "https://www.prnewswire.com/news-releases/huawei-propone-construir-una-red-de-objetivos-totalmente-optica-centrada-en-ia-302703272.html",
-        "date": "2026-03-04 01:53:00",
-        "sentiment_score": 0.6374360881745815
-    },
-    {
-        "title": "COMUNICADO: Huawei presenta la primera solución Campus L4 ADN de la industria",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
-        "tags": [
-            "comunicados internacional",
-            "comunicados"
-        ],
-        "link": "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-huawei-presenta-primera-solucion-campus-l4-adn-industria-20260304023701.html",
-        "date": "2026-03-04 01:37:01",
-        "sentiment_score": 0.806591747328639
-    },
-    {
-        "title": "El divertido ping pong a Colapinto antes del inicio de la F1: su principal fobia, Messi y el superpoder que le gustaría tener",
-        "image_url": "https://www.infobae.com/resizer/v2/JT35AONVDFFRXHM4CHPTILKB3M.jfif?auth=b23319b6ea809a138662016848e0e6257163adc7b9d899d5db8b7d32fec3c230&height=1837&smart=true&width=3072",
-        "tags": [
-            "franco colapinto",
-            "lionel messi",
-            "fórmula 1",
-            "deportes-argentina",
-            "deportes-internacional",
-            "alpine f1 team"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/04/el-divertido-ping-pong-a-colapinto-antes-del-inicio-de-la-f1-su-principal-fobia-messi-y-el-superpoder-que-le-gustaria-tener/",
-        "date": "2026-03-04 01:30:27",
-        "sentiment_score": 0.20998772978782654
-    },
-    {
-        "title": "COMUNICADO: Horion presentará la pantalla plana interactiva M6APro V2",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
-        "tags": [
-            "comunicados",
-            "comunicados internacional"
-        ],
-        "link": "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-horion-presentara-pantalla-plana-interactiva-m6apro-v2-20260304020555.html",
-        "date": "2026-03-04 01:05:55",
-        "sentiment_score": 0.34464412182569504
-    },
-    {
-        "title": "Olóndriz, la candidata de Montero para presidir con \"independencia\" la AIReF, dijo en acta: \"Ante la discrepancia debe prevalecer el criterio de la ministra\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/92a66b7fbebb058e1bff194ca83ff010/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/03/17725619948544.jpg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/03/04/69a725c8e9cf4af75b8b4599.html",
-        "date": "2026-03-04 01:05:27",
-        "sentiment_score": -0.9117248756811023
-    },
-    {
-        "title": "COMUNICADO: uCloudlink desbloquea un océano azul multimillonario en el MWC 2026",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
-        "tags": [
-            "comunicados internacional",
-            "comunicados"
-        ],
-        "link": "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-ucloudlink-desbloquea-oceano-azul-multimillonario-mwc-2026-20260304014447.html",
-        "date": "2026-03-04 00:44:47",
-        "sentiment_score": 0.3932512179017067
-    },
-    {
-        "title": "uCloudlink desbloquea un océano azul multimillonario en el MWC 2026",
-        "image_url": "https://mma.prnewswire.com/media/2924291/1.jpg?p=publish",
-        "tags": [
-            "cse",
-            "consumer electronics",
-            "telecommunications industry",
-            "tls",
-            "internet technology",
-            "cpr",
-            "net",
-            "iot",
-            "afi",
-            "ite",
-            "computer & electronics",
-            "networks",
-            "cloud computing/internet of things",
-            "artificial intelligence"
-        ],
-        "link": "https://www.prnewswire.com/news-releases/ucloudlink-desbloquea-un-oceano-azul-multimillonario-en-el-mwc-2026-302703217.html",
-        "date": "2026-03-04 00:43:00",
-        "sentiment_score": 0.5361767336726189
-    },
-    {
         "title": "¿El fichaje gratis vuela? El FC Barcelona se queda sin su nuevo Lewandowski",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/24/2025112412220030825.jpg",
         "tags": [
@@ -930,20 +381,6 @@ export default [
         "link": "https://www.infobae.com/deportes/2026/03/04/dieron-a-conocer-la-sancion-a-franco-mastantuono-tras-ser-expulsado-por/",
         "date": "2026-03-04 17:29:10",
         "sentiment_score": -0.8487331066280603
-    },
-    {
-        "title": "Pillado copiando en el examen MIR con gafas de IA y reloj inteligente",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/5d/media_thumb-link-4152800.webp?1772556126=",
-        "tags": [
-            "mir",
-            "actualidad",
-            "copiar",
-            "medicina",
-            "ia"
-        ],
-        "link": "https://www.meneame.net/story/pillado-copiando-examen-mir-gafas-ia-reloj-inteligente",
-        "date": "2026-03-04 02:15:03",
-        "sentiment_score": -0.33401239663362503
     },
     {
         "title": "Oyarzabal remata de penalti al Athletic y mete a la Real Sociedad en una nueva final de Copa del Rey",
@@ -3163,5 +2600,231 @@ export default [
         "link": "https://www.malagahoy.es/andalucia/primeras-universitarias-andaluzas-nombres-abrieron_0_2006093268.html",
         "date": "2026-03-07 06:00:55",
         "sentiment_score": -0.5153685249388218
+    },
+    {
+        "title": "Deportiva Riestra anunció la contratación del “Hazard nigeriano”",
+        "image_url": "https://www.infobae.com/resizer/v2/GPRZOHQKLFERROUFYQPIG7QTHE.jpg?auth=7f6bb800fb4180a9c2ef56099510be0c76d26dc167a9535885d93d1b01bba8f6&height=1080&smart=true&width=1920",
+        "tags": [
+            "deportes-argentina",
+            "deportivo riestra",
+            "johnson nsumoh"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/07/deportiva-riestra-anuncio-la-contratacion-del-hazard-nigeriano/",
+        "date": "2026-03-07 17:29:44",
+        "sentiment_score": -0.0221431702375412
+    },
+    {
+        "title": "Abascal, sobre la expulsión de Ortega Smith de Vox: «Ni he hablado con él ni me gustan las telenovelas»",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/03/EuropaPress_7308384_portavoz_vox_ayuntamiento_madrid_javier_ortega_smith_atiende_medios-scaled.jpg",
+        "tags": [
+            "santiago abascal",
+            "nacional"
+        ],
+        "link": "https://www.lanzadigital.com/nacional/abascal-sobre-la-expulsion-de-ortega-smith-de-vox-ni-he-hablado-con-el-ni-me-gustan-las-telenovelas/",
+        "date": "2026-03-07 17:27:48",
+        "sentiment_score": -0.197373166680336
+    },
+    {
+        "title": "De archivero, cariño y conocimientos II",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/56de9cd9-eaea-4223-98b8-41765b7fe781_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "carino",
+            "conocimientos",
+            "ii",
+            "archivero"
+        ],
+        "link": "https://www.noticiasdenavarra.com/navarra/2026/03/07/archivero-carino-conocimientos-ii-10793416.html",
+        "date": "2026-03-07 17:27:47",
+        "sentiment_score": 0.005511388182640076
+    },
+    {
+        "title": "Leticia Pérez, experta en limpieza: \"Demasiado detergente puede acumularse en las fibras y endurecer las toallas\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/03/muchas-toallas-y-sabanas-en-la-lavadora.jpeg",
+        "tags": [
+            "estilo de vida"
+        ],
+        "link": "https://www.huffingtonpost.es/life/estilo-vida/leticia-perez-experta-limpieza-demasiado-detergente-acumularse-fibras-endurecer-toallas-f202603-1.html",
+        "date": "2026-03-07 17:24:34",
+        "sentiment_score": -0.30676160752773285
+    },
+    {
+        "title": "Irán intensifica los ataques en el Golfo mientras mientras Israel y EEUU atacan el principal aeropuerto de Irán",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/07/imagen-de-bombardeos-en-emiratos-arabes-por-partre-del-ejercito-irani.jpeg",
+        "tags": [
+            "global"
+        ],
+        "link": "https://www.huffingtonpost.es/global/iran-intensifica-ataques-golfo-israel-eeuu-atacan-principal-aeropuertoan-f202603.html",
+        "date": "2026-03-07 17:17:04",
+        "sentiment_score": -0.8883049841970205
+    },
+    {
+        "title": "Felipe VI llama al Rey de Baréin y a los presidentes de Líbano y Chipre para apoyarles tras los ataques",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/03/07/69ac553d6f8ca.r_d.1071-428-5859.jpeg",
+        "tags": [
+            "casa real"
+        ],
+        "link": "https://www.eldebate.com/espana/casa-real/20260307/felipe-vi-llama-rey-barein-presidentes-libano-chipre-apoyarles-ataques_393310.html",
+        "date": "2026-03-07 17:14:51",
+        "sentiment_score": -0.2691502124071121
+    },
+    {
+        "title": "Violencia machista, la «bomba de racimo»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/07/Elena%20Valenciano-U15588383850Yff-650x455@RC.jpg",
+        "tags": [
+            "policía nacional",
+            "mujeres",
+            "violencia de género",
+            "elena valenciano"
+        ],
+        "link": "https://www.eldiariomontanes.es/nacional/violencia-machista-bomba-racimo-20260307180827-ntrc.html",
+        "date": "2026-03-07 17:08:46",
+        "sentiment_score": -0.8831553943455219
+    },
+    {
+        "title": "Madonna se rinde al Celta tras el homenaje en Balaídos por la camiseta de su concierto: \"¡Represento al equipo en espíritu!\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/04/69a81bd96d0797-63271019.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/madonna-se-rinde-celta-tras-homenaje-balaidos-por-camiseta-su-concierto-llevo-represento-equipo-espiritu_6943172_0.html",
+        "date": "2026-03-07 17:05:03",
+        "sentiment_score": 0.05515126511454582
+    },
+    {
+        "title": "LaLiga EA Sports: Atlético de Madrid - Real Sociedad, en directo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2ae4913e-b350-4720-9a34-c1b176c374ec_16-9-aspect-ratio_default_0_x1200y533.jpg",
+        "tags": [
+            "futbol gratis",
+            "primera división - laliga ea sports",
+            "directo primera división - laliga ea sports",
+            "atlético de madrid real sociedad en directo",
+            "partidos de futbol",
+            "partidos futbol",
+            "partidos futbol online",
+            "futbol",
+            "futbol en directo",
+            "partido atlético de madrid real sociedad",
+            "futbol directo",
+            "futbol online",
+            "fútbol"
+        ],
+        "link": "https://www.elperiodicodearagon.com/deportes/futbol/primera-division/2025-2026/atletico-de-madrid-real-sociedad-232025_01_27_2025175_2025188.html",
+        "date": "2026-03-07 17:00:37",
+        "sentiment_score": 0.02504730597138405
+    },
+    {
+        "title": "Detenido un hombre que intentaba vender por internet un acordeón único robado en un tren",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/04/02/67ed86be216c6.r_d.2788-3456-0.jpeg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.lavanguardia.com/local/catalunya/20260307/11483973/detenido-hombre-intentaba-vender-internet-acordeon-unico-robado-tren-barcelona.html",
+        "date": "2026-03-07 17:35:44",
+        "sentiment_score": 0.06412373483181
+    },
+    {
+        "title": "El Barça de basket acusa el apagón de dos estrellas y la torpeza de dos extracomunitarios",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/16/culemania/secciones/1003742724034_15609891_1706x960.jpg",
+        "tags": [
+            "xavi pascual",
+            "secciones",
+            "fcb basket"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260307/barca-basket-acusa-apagon-estrellas-torpeza-extracomunitarios/1003742739324_0.html",
+        "date": "2026-03-07 17:31:24",
+        "sentiment_score": -0.8286455906927586
+    },
+    {
+        "title": "AGENDA 📆 Este domingo en Lugo",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2024/03/07/2024030721035990219.jpg",
+        "tags": [
+            "agenda de lugo"
+        ],
+        "link": "https://www.elprogreso.es/articulo/agenda/agenda-sabado-lugo/202603071827241952084.html",
+        "date": "2026-03-07 17:27:24",
+        "sentiment_score": 0.023380395025014877
+    },
+    {
+        "title": "“No hay ninguna albañila. Es que no existe ni la palabra”: la reflexión de una CEO gallega sobre el papel de la mujer en la construcción",
+        "image_url": "https://s3.elespanol.com/2026/03/07/actualidad/1003744160347_261819088_1706x960.jpg",
+        "tags": [
+            "a coruña",
+            "galicia",
+            "a coruña ciudad",
+            "comarca de a coruña",
+            "foro mujeres referentes quincemil 2026"
+        ],
+        "link": "https://www.elespanol.com/quincemil/eventos/foro-mujeres-referentes-quincemil-2026/20260307/no-ninguna-albanila-no-existe-palabra-reflexion-ceo-gallega-papel-mujer-construccion/1003744160343_0.html",
+        "date": "2026-03-07 17:24:20",
+        "sentiment_score": -0.3052217587828636
+    },
+    {
+        "title": "Encuentran el cadáver de un hombre en la playa de Castelldefels",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/04/21/vivir-en-barcelona/757934229_9164674_1706x960.jpg",
+        "tags": [
+            "mossos d'esquadra",
+            "gran barcelona",
+            "sucesos",
+            "castelldefels",
+            "playas"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sucesos/20260307/encuentran-cadaver-hombre-playa-castelldefels/1003742739323_0.html",
+        "date": "2026-03-07 17:17:12",
+        "sentiment_score": -0.5880019124597311
+    },
+    {
+        "title": "Ona Mafalda recalará en Toledo el 13 de marzo para presentar su último álbum 'Reset'",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260307181551_690.jpg",
+        "tags": [
+            "castilla-la mancha"
+        ],
+        "link": "https://www.europapress.es/castilla-lamancha/noticia-ona-mafalda-recalara-toledo-13-marzo-presentar-ultimo-album-reset-20260307181551.html",
+        "date": "2026-03-07 17:15:51",
+        "sentiment_score": 0.10155168734490871
+    },
+    {
+        "title": "Ona Mafalda recalará en Toledo el 13 de marzo para presentar su último álbum 'Reset'",
+        "image_url": "http://st1.lacerca.com/imagenes/view/1f66596424acb0caa6f20122b2614c32.jpg",
+        "tags": [
+            "toledo",
+            "noticias"
+        ],
+        "link": "https://www.lacerca.com/noticias/toledo/ona-mafalda-toledo-13-marzo-presentar-album-reset-804978-1.html",
+        "date": "2026-03-07 17:15:00",
+        "sentiment_score": 0.07166669704020023
+    },
+    {
+        "title": "Un camión cargado con cable de cobre se salta un control en la C-16 y sus dos ocupantes acaban detenidos por robo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8a8dfd51-e9b0-43a4-80dd-90110bdb4d87_alta-libre-aspect-ratio_default_0_x540y186.jpg",
+        "tags": [
+            "telecomunicaciones",
+            "sucesos",
+            "policía",
+            "mossos d'esquadra",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/sucesos/20260307/camion-cargado-cable-cobre-salta-control-dos-detenidos-cataluna-127683662",
+        "date": "2026-03-07 17:13:07",
+        "sentiment_score": -0.8276976626366377
+    },
+    {
+        "title": "Castellón da la bienvenida a la Magdalena 2026 con la recepción oficial y la mascletà inaugural",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/03/07/69ac5ae3151bc.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20260307/castellon-da-bienvenida-magdalena-2026-recepcion-oficial-mascleta-inaugural_393333.html",
+        "date": "2026-03-07 17:07:23",
+        "sentiment_score": 0.6255409400910139
+    },
+    {
+        "title": "La 'descarada' carrera de Elon Musk para hacerse con la conexión a Internet del mundo: nadie puede igualar su despliegue de satélites",
+        "image_url": "https://imagenes.cope.es/files/content_image/files/fp/uploads/2025/08/25/68acb00b2b00b.r_d.1504-496-2833.jpeg",
+        "tags": [
+            "lo que viene"
+        ],
+        "link": "https://www.cope.es/programas/lo-que-viene/audios/descarada-carrera-elon-musk-hacerse-conexion-internet-mundo-nadie-igualar-despliegue-satelites-20260307_3321490.html",
+        "date": "2026-03-07 17:01:55",
+        "sentiment_score": -0.05066630244255066
     }
 ];
