@@ -1,204 +1,5 @@
 export default [
     {
-        "title": "¿El fichaje gratis vuela? El FC Barcelona se queda sin su nuevo Lewandowski",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/24/2025112412220030825.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/fc-barcelona-escapa-fichaje-gratis-que-pintaba-como-reemplazo-lewandowski/20260304075827377213.html",
-        "date": "2026-03-04 06:58:27",
-        "sentiment_score": -0.7895078770816326
-    },
-    {
-        "title": "¿Un nuevo refuerzo al estilo Wirtz? El Liverpool suspira por una estrella de la Bundesliga",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/29/2025122903551641160.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/nuevo-refuerzo-estilo-wirtz-liverpool-suspira-estrella-bundesliga/20260304073321377212.html",
-        "date": "2026-03-04 06:33:21",
-        "sentiment_score": -0.03946171700954437
-    },
-    {
-        "title": "El calvario de Rodrygo no cesa y va a ser un problema para el Madrid en verano: de estar marginado a una lesión",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/03/69a7368423aa08-80541675.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/calvario-rodrygo-no-cesa-va-ser-un-problema-para-real-madrid-verano-estar-marginado-una-grave-lesion_6941492_0.html",
-        "date": "2026-03-04 06:28:12",
-        "sentiment_score": -0.6584682390093803
-    },
-    {
-        "title": "El Alavés rompe con Coudet y apuesta por la experiencia de Quique Sánchez Flores",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/04/2026030407235056842.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/quique-sanchez-flores-asume-como-reemplazo-eduardo-caudet-deportivo-alaves/20260304072555377211.html",
-        "date": "2026-03-04 06:25:55",
-        "sentiment_score": 0.2840313892811537
-    },
-    {
-        "title": "Colectivos reclaman a Sara Aagesen que actúe contra la desprotección de suelo protegido de Ayuso",
-        "image_url": "https://www.elplural.com/uploads/s1/24/77/34/3/la-presidenta-de-la-comunidad-de-madrid-isabel-diaz-ayuso-ep_7_480x270.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elplural.com/autonomias/madrid/colectivos-reclaman-sara-aagesen-actue-contra-desproteccion-suelo-protegido-ayuso_383057102",
-        "date": "2026-03-04 06:19:18",
-        "sentiment_score": -0.023774296045303345
-    },
-    {
-        "title": "La oposición a la guerra de Irán abre el peor choque diplomático entre España y EE UU de la era Trump",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1b0f519e-acf8-4e77-9bfe-8f469e026dac_16-9-aspect-ratio_default_0_x1200y533.jpg",
-        "tags": [
-            "irán",
-            "pedro sánchez",
-            "estados unidos",
-            "donald trump"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/internacional/2026/03/04/oposicion-guerra-iran-choque-espana-trump-sanchez-127527396.html",
-        "date": "2026-03-04 06:18:34",
-        "sentiment_score": -0.8777851443737745
-    },
-    {
-        "title": "Alerta por viento en Barcelona: Protecció Civil apunta a rachas de 70 km/h y olas de más de dos metros",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/04/vivir-en-barcelona/1003742738084_15783745_1706x960.jpg",
-        "tags": [
-            "clima",
-            "aemet (agencia estatal de meteorología)",
-            "temporal",
-            "el tiempo",
-            "cambio climático",
-            "vivir en barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260304/alerta-viento-barcelona-proteccio-civil-apunta-rachas-kmh-olas-metros/1003742738083_0.html",
-        "date": "2026-03-04 07:01:22",
-        "sentiment_score": -0.8936468251049519
-    },
-    {
-        "title": "Palo de Griezmann al Barcelona en forma de venganza: «¿Esta foto va muy dura?»",
-        "image_url": "https://okdiario.com/img/2026/03/04/griezmann-4.jpg",
-        "tags": [
-            "copa del rey",
-            "antoine griezmann",
-            "barcelona",
-            "atlético de madrid",
-            "fc barcelona",
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/palo-griezmann-barcelona-forma-venganza-esta-foto-va-muy-dura-16347443",
-        "date": "2026-03-04 07:00:56",
-        "sentiment_score": -0.3580268546938896
-    },
-    {
-        "title": "Enrique Cerezo vacila con el pase del Atlético a la final: «No hizo falta que jugasen Tomford y Smith»",
-        "image_url": "https://okdiario.com/img/2025/12/19/enrique-cerezo-presidente-del-atletico.-europa-press.jpg",
-        "tags": [
-            "copa del rey",
-            "barcelona",
-            "atlético de madrid",
-            "enrique cerezo",
-            "fc barcelona",
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/enrique-cerezo-vacila-pase-del-atletico-final-no-hizo-falta-que-jugasen-tomford-smith-16347400",
-        "date": "2026-03-04 07:00:31",
-        "sentiment_score": -0.2383660227060318
-    },
-    {
-        "title": "Dónde ir en Semana Santa: 10 escapadas baratas en España para tus vacaciones",
-        "image_url": "https://okdiario.com/img/2026/03/24/donde-ir-en-semana-santa-10-escapadas-baratas-en-espana-para-tus-vacaciones.jpg",
-        "tags": [
-            "okd",
-            "festivos nacionales",
-            "fiestas",
-            "vacaciones",
-            "semana santa"
-        ],
-        "link": "https://okdiario.com/semana-santa/donde-ir-semana-santa-10-escapadas-baratas-espana-tus-vacaciones-16295359",
-        "date": "2026-03-04 07:00:21",
-        "sentiment_score": 0.23496770858764648
-    },
-    {
-        "title": "Las tres noticias de Carlos Alsina para empezar el día: \"Trump nos castiga y arremete contra el Gobierno de España\"",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/05/09/6DE83B54-8831-4632-AA7C-6CB358183EDA/tres-historias-empezar-dia-carlos-alsina_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "noticias",
-            "españa",
-            "ondacero"
-        ],
-        "link": "https://www.ondacero.es/noticias/espana/tres-noticias-carlos-alsina-empezar-dia-trump-nos-castiga-arremete-gobierno-espana_2026030469a7d7ec6cf703292f5fc052.html",
-        "date": "2026-03-04 06:57:48",
-        "sentiment_score": -0.08884944021701813
-    },
-    {
-        "title": "España hoy, 4 de marzo de 2026: lo que tienes que saber",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/07/b19372fd-74c6-4c34-908e-ecc750a47a3c_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "china",
-            "europa",
-            "israel",
-            "estados unidos",
-            "gaza",
-            "venezuela",
-            "bruselas",
-            "españa",
-            "aranceles"
-        ],
-        "link": "https://theobjective.com/espana/2026-03-04/espana-hoy-4-de-marzo-de-2026-lo-que-tienes-que-saber/",
-        "date": "2026-03-04 06:36:46",
-        "sentiment_score": -0.7251168303191662
-    },
-    {
-        "title": "Horion debutará en Integrated Systems Europe 2026, presentando soluciones de colaboración inteligente",
-        "image_url": "https://mma.prnewswire.com/media/2902861/ISE_exhibition_booth_photo_1.jpg?p=publish",
-        "tags": [
-            "consumer electronics",
-            "hrd",
-            "cse",
-            "computer & electronics",
-            "cpr",
-            "computer hardware"
-        ],
-        "link": "https://www.prnewswire.com/news-releases/horion-debutara-en-integrated-systems-europe-2026-presentando-soluciones-de-colaboracion-inteligente-302703521.html",
-        "date": "2026-03-04 06:33:00",
-        "sentiment_score": 0.39455818571150303
-    },
-    {
-        "title": "La gasolina más barata y más cara de Madrid, Barcelona y otras ciudades de España este 4 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "precio de la gasonila en barcelona",
-            "españa-economia",
-            "madrid y otras ciudades",
-            "precio de la gasolina en españa hoy",
-            "últimas actualizaciones",
-            "precio de la gasolina en españa"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/04/la-gasolina-mas-barata-y-mas-cara-de-madrid-barcelona-y-otras-ciudades-de-espana-este-4-de-marzo/",
-        "date": "2026-03-04 06:31:01",
-        "sentiment_score": -0.012977853417396545
-    },
-    {
-        "title": "Previsión AEMET: Intervalos nubosos y lluvias débiles en Barcelona, con viento moderado y temperaturas en ascenso",
-        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
-        "tags": [
-            "cataluña",
-            "okd",
-            "españa",
-            "tiempo",
-            "agencia estatal de meteorología (aemet)",
-            "previsión del tiempo"
-        ],
-        "link": "https://okdiario.com/cataluna/prevision-aemet-intervalos-nubosos-y-lluvias-debiles-en-barcelona-con-viento-moderado-y-temperaturas-en-ascenso-16347564",
-        "date": "2026-03-04 06:24:36",
-        "sentiment_score": -0.3301664963364601
-    },
-    {
         "title": "El Rey Juan Carlos envía una corona de flores con los colores de la bandera a Fernando Ónega",
         "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/03/04/69a865b2d9ad2.jpeg",
         "tags": [
@@ -2826,5 +2627,160 @@ export default [
         "link": "https://www.cope.es/programas/lo-que-viene/audios/descarada-carrera-elon-musk-hacerse-conexion-internet-mundo-nadie-igualar-despliegue-satelites-20260307_3321490.html",
         "date": "2026-03-07 17:01:55",
         "sentiment_score": -0.05066630244255066
+    },
+    {
+        "title": "LaLiga: Así quedó la tabla de posiciones tras la victoria del Barcelona",
+        "image_url": "https://pxcdn.meridiano.net/032026/1772921976487.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/laliga-asi-quedo-la-tabla-de-posiciones-tras-la-victoria-del-barcelona-20263718200",
+        "date": "2026-03-07 22:20:00",
+        "sentiment_score": 0.07697563618421555
+    },
+    {
+        "title": "1-3, El Manchester City avanza en la FA Cup a costa del Newcastle",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/07/1-3-el-manchester-city-avanza-en-la-fa-cup-a-costa-del-newcastle/",
+        "date": "2026-03-07 22:18:23",
+        "sentiment_score": 0.6172335743904114
+    },
+    {
+        "title": "0-1. Un golazo de Lamine Yamal afianza al Barcelona en el liderato",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/07/0-1-un-golazo-de-lamine-yamal-afianza-al-barcelona-en-el-liderato/",
+        "date": "2026-03-07 22:18:07",
+        "sentiment_score": 0.824279461055994
+    },
+    {
+        "title": "Un golazo de Lamine Yamal afianza al Barça en el liderato",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/188ac442-042c-4296-8b7f2d722853761d.jpg",
+        "tags": [
+            "ernesto valverde",
+            "san mamés",
+            "hansi flick",
+            "fc barcelona",
+            "athletic club",
+            "robert lewandowski",
+            "real madrid",
+            "lamine yamal",
+            "pedri",
+            "raphinha"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zbbd67bc2-c819-44cc-a1f66190cc4d994f/202603/un-golazo-de-lamine-yamal-afianza-al-barca-en-el-liderato",
+        "date": "2026-03-07 22:16:36",
+        "sentiment_score": 0.7823022920638323
+    },
+    {
+        "title": "Lamine Yamal decide en San Mamés",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/07/athletic-barcelona-cronica-k4RC-U201069424093IE-1200x840@RC.jpg",
+        "tags": [
+            "athletic de bilbao",
+            "f.c. barcelona"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/cronica-athletic-barcelona-primera-jornada27-20260307194025-ntrc.html",
+        "date": "2026-03-07 22:14:39",
+        "sentiment_score": 0.860437348484993
+    },
+    {
+        "title": "Real Avilés Industrial-Zamora: El Avilés mide su reacción en el Suárez Puerta",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/03/07/real-aviles-zamora-kevin-bautista-R5l6KMY8rwWjMJvOa5WnPMM-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real avilés",
+            "primera rfef",
+            "estadio román suárez puerta"
+        ],
+        "link": "https://www.elcomercio.es/real-aviles/real-aviles-industrialzamora-aviles-mide-reaccion-suarez-20260307225704-nt.html",
+        "date": "2026-03-07 22:10:13",
+        "sentiment_score": -0.3586183786392212
+    },
+    {
+        "title": "Un golazo de Lamine Yamal refuerza el liderato del Barcelona en San Mamés",
+        "image_url": "https://www.tribunavalladolid.com/uploads/imagenes/images/2026/3/07/437010/20260307231155_caratula.webP",
+        "tags": [
+            "food",
+            "technology",
+            "top"
+        ],
+        "link": "https://www.tribunasalamanca.com/noticias/437010/un-golazo-de-lamine-yamal-refuerza-el-liderato-del-barcelona-en-san-mames",
+        "date": "2026-03-07 22:07:00",
+        "sentiment_score": 0.851186964660883
+    },
+    {
+        "title": "Espanyol - Real Oviedo: Los azules regresan al estadio en el que acarició la gloria",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/03/07/213588478-k2PG--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real oviedo",
+            "rcd espanyol"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/espanyol-real-oviedo-azules-regresan-estadio-acaricio-20260307225615-nt.html",
+        "date": "2026-03-07 22:06:15",
+        "sentiment_score": -0.19590432196855545
+    },
+    {
+        "title": "Athletic 0-1 Barcelona | El análisis final de José Manuel Monje",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/0c342f17-29ff-489d-8f93-3de36bcb5103_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "1",
+            "barcelona",
+            "athletic",
+            "0",
+            "analisis"
+        ],
+        "link": "https://www.deia.eus/videos/athletic/2026/03/07/athletic-0-1-barcelona-analisis-10794090.html",
+        "date": "2026-03-07 22:22:59",
+        "sentiment_score": 0.008315876126289368
+    },
+    {
+        "title": "Resumen Athletic Club-Barcelona: Lamine y Pedri son los domadores en una 'jaula de leones' (0-1)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/03/07/image-45c1cd9b-8fd3-456f-b64d-a53b91e41393-85-2560-1440.jpeg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/athletic-club-barcelona-video-resumen-resultado-goles-mejores-momentos-partido-golazo-lamine-yamal-jornada-27-hoy_vid60061943/video.shtml",
+        "date": "2026-03-07 22:20:18",
+        "sentiment_score": 0.26388558745384216
+    },
+    {
+        "title": "La hora de la verdad del hidrógeno: el reto de pasar de la promesa al negocio",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/07/zafra-1200-k0OH--562x562@RC.jpg",
+        "tags": [
+            "historias visuales"
+        ],
+        "link": "https://www.canarias7.es/economia/hora-verdad-hidrogeno-reto-pasar-promesa-negocio-20260308194210-ntrc.html",
+        "date": "2026-03-07 22:20:16",
+        "sentiment_score": 0.6399377770721912
+    },
+    {
+        "title": "El comentario sin filtro de Pedri a Lamine: «Lo que tiene que hacer es no conformarse»",
+        "image_url": "https://okdiario.com/img/2026/03/07/pedri-lamine.jpg",
+        "tags": [
+            "pedri gonzález",
+            "fútbol",
+            "fc barcelona",
+            "lamine yamal",
+            "deportes"
+        ],
+        "link": "https://okdiario.com/deportes/comentario-sin-filtro-pedri-lamine-lo-que-tiene-que-hacer-no-conformarse-16373273",
+        "date": "2026-03-07 22:13:54",
+        "sentiment_score": -0.2363196611404419
+    },
+    {
+        "title": "Lo más viral de la semana: Taylor Swift dejará la soltería",
+        "image_url": "https://static.wixstatic.com/media/cf263a_aea78f66ae454dfe978ca7d6be2ff677~mv2.png/v1/fit/w_1000,h_357,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-de-la-semana-taylor-swift-dejara-la-solter%C3%ADa",
+        "date": "2026-03-07 20:09:04",
+        "sentiment_score": -0.15644308924674988
     }
 ];
