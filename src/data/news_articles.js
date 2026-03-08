@@ -1,189 +1,5 @@
 export default [
     {
-        "title": "El Rey Juan Carlos envía una corona de flores con los colores de la bandera a Fernando Ónega",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/03/04/69a865b2d9ad2.jpeg",
-        "tags": [
-            "casa real"
-        ],
-        "link": "https://www.eldebate.com/espana/casa-real/20260304/rey-juan-carlos-envia-corona-flores-colores-bandera-fernando-onega_392219.html",
-        "date": "2026-03-04 17:38:47",
-        "sentiment_score": 0.046293869614601135
-    },
-    {
-        "title": "Arribas supera a Yeremay como mejor jugador de la Liga Hypermotion",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/03/04/JCA_8209-kFoB-U201029820793XPI-1200x840@Ideal.jpeg",
-        "tags": [
-            "málaga cf",
-            "córdoba cf",
-            "cd castellón",
-            "álvaro negredo",
-            "castellón",
-            "ud almería",
-            "levante ud",
-            "sergio arribas",
-            "real madrid",
-            "málaga",
-            "real sociedad de fútbol",
-            "almería",
-            "real racing club"
-        ],
-        "link": "https://www.ideal.es/udalmeria/arribas-supera-yeremay-mejor-jugador-liga-hypermotion-20260304183827-nt.html",
-        "date": "2026-03-04 17:38:33",
-        "sentiment_score": 0.7108106203377247
-    },
-    {
-        "title": "PepsiCo abre en España el primer restaurante de Lay’s en el mundo con la tortilla de patata como protagonista",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1b8a7afe-088e-4d83-9196-431e41d11065_16-9-aspect-ratio_default_0_x1200y533.jpg",
-        "tags": [
-            "economía",
-            "españa",
-            "restauración",
-            "consumo",
-            "madrid"
-        ],
-        "link": "https://www.laprovincia.es/economia/2026/03/04/pepsico-abre-espana-primer-restaurante-127564527.html",
-        "date": "2026-03-04 17:37:18",
-        "sentiment_score": 0.6092881858348846
-    },
-    {
-        "title": "Hallada otra persona sin hogar muerta en la calle en Badalona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2CJHONEHSNHDJLKJF6AXURLY7U.jpg?auth=e388aa9c6d913409a5a12707791e848102ffaf87f4ff46e1e395e4bcdbff2d1f&width=1200",
-        "tags": [
-            "badalona",
-            "ayuntamientos",
-            "servicios sociales",
-            "cataluña",
-            "pp",
-            "xavier garcía albiol",
-            "pobreza",
-            "personas sin hogar",
-            "sucesos",
-            "españa",
-            "desalojos",
-            "emergencias",
-            "vivienda",
-            "ong"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2026-03-04/otra-persona-sin-hogar-hallada-muerta-en-plena-via-publica-de-badalona.html",
-        "date": "2026-03-04 17:40:08",
-        "sentiment_score": -0.7045281212776899
-    },
-    {
-        "title": "Eurecat presenta en el MWC una solución de ortodoncia inteligente para supervisar tratamientos",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260304183952_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-eurecat-presenta-mwc-solucion-ortodoncia-inteligente-supervisar-tratamientos-20260304183952.html",
-        "date": "2026-03-04 17:39:52",
-        "sentiment_score": 0.09289664402604103
-    },
-    {
-        "title": "El Barça se salva de una multa de 6 millones pero debe abonar 500.000 euros por recoger datos biométricos de sus socios",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-919239.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.vozpopuli.com/deportes/el-barca-se-salva-de-una-multa-de-6-millones-pero-debe-abonar-500000-euros-por-recoger-datos-biometricos-de-sus-socios.html",
-        "date": "2026-03-04 17:38:25",
-        "sentiment_score": -0.8112258780747652
-    },
-    {
-        "title": "El Talent Arena se consolida como el nuevo hermano pequeño del Mobile",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/04/69a86d2b71ed7.r_d.1878-1520-1082.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20260304/11481381/talent-arena-consolida-nuevo-hermano-pequeno-mobile-mwc.html",
-        "date": "2026-03-04 17:37:09",
-        "sentiment_score": 0.7320395214483142
-    },
-    {
-        "title": "Al Barça le urge la victoria en Milán",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260304183658_690.jpg",
-        "tags": [
-            "baloncesto",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-barca-le-urge-victoria-milan-20260304183658.html",
-        "date": "2026-03-04 17:36:58",
-        "sentiment_score": -0.3517024666070938
-    },
-    {
-        "title": "Talent Arena 2026 cierra su segunda edición con 25.000 visitantes, un 25% más",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260304183558_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-talent-arena-2026-cierra-segunda-edicion-25000-visitantes-25-mas-20260304183558.html",
-        "date": "2026-03-04 17:35:58",
-        "sentiment_score": 0.35657762363553047
-    },
-    {
-        "title": "Ni Joao Cancelo ni Gerard Martín: los tapados de Hansi Flick para reemplazar a Koundé y Balde en el Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/20/culemania/primer-equipo/1003742724798_15619165_1706x960.jpg",
-        "tags": [
-            "barça",
-            "primer equipo",
-            "hansi flick",
-            "joao cancelo",
-            "jules koundé",
-            "alejandro balde"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260304/cancelo-gerard-martin-hansi-flick-kounde-balde/1003742738370_0.html",
-        "date": "2026-03-04 17:34:12",
-        "sentiment_score": -0.342629611492157
-    },
-    {
-        "title": "Brazos robóticos, nanobots y exoesqueletos: entre la salud y la artesanía del futuro",
-        "image_url": "https://static1.ara.cat/clip/ecbaad3f-7467-4ac3-8792-12e8dc0fb377_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "exoesqueletos",
-            "artesania",
-            "futuro",
-            "brazos",
-            "nanobots",
-            "roboticos",
-            "salud"
-        ],
-        "link": "https://es.ara.cat/economia/tecnologia/brazos-roboticos-nanobots-exoesqueletos-salud-artesania-futuro_1_5668086.html",
-        "date": "2026-03-04 17:33:52",
-        "sentiment_score": 0.7206085063517094
-    },
-    {
-        "title": "La temporada de clásicas de ciclismo 2026: calendario de pruebas con Pogacar y van der Poel como protagonistas",
-        "image_url": "https://static.eldiario.es/clip/2bb3ed49-79e5-49eb-9363-cea51a3ee18d_16-9-discover-aspect-ratio_default_1137918.jpg",
-        "tags": [
-            "pogacar",
-            "ciclismo",
-            "van",
-            "temporada",
-            "clasicas",
-            "pruebas",
-            "der",
-            "calendario",
-            "protagonistas",
-            "pm",
-            "poel"
-        ],
-        "link": "https://www.eldiario.es/spin/deportes/temporada-clasicas-ciclismo-calendario-pruebas-pogacar-van-der-poel-protagonistas-pm_1_13041148.html",
-        "date": "2026-03-04 17:30:36",
-        "sentiment_score": 0.059604793787002563
-    },
-    {
-        "title": "Dieron a conocer la sanción a Franco Mastantuono tras ser expulsado en la derrota de Real Madrid ante Getafe",
-        "image_url": "https://www.infobae.com/resizer/v2/3WPKZS5NFBAI7FXBYEG6NJPES4.jpg?auth=9094f2f3d80f6afde6e2341268b77fae01a70857ce770017f1d6c7fcdac8685a&height=1080&smart=true&width=1920",
-        "tags": [
-            "real madrid",
-            "la liga de españa",
-            "franco mastantuono",
-            "getafe"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/04/dieron-a-conocer-la-sancion-a-franco-mastantuono-tras-ser-expulsado-por/",
-        "date": "2026-03-04 17:29:10",
-        "sentiment_score": -0.8487331066280603
-    },
-    {
         "title": "Oyarzabal remata de penalti al Athletic y mete a la Real Sociedad en una nueva final de Copa del Rey",
         "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2781314.jpg",
         "tags": [
@@ -3008,5 +2824,245 @@ export default [
         "link": "https://www.diariodesevilla.es/deportes/fotos-athletic-barcelona_3_2006098455.html",
         "date": "2026-03-07 23:41:11",
         "sentiment_score": -0.044321462512016296
+    },
+    {
+        "title": "Mujeres y precariedad: quién paga el coste real de la inflación en España",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/04/una-mujer-trabajadora-del-sector-del-metal.jpeg",
+        "tags": [
+            "feminismo"
+        ],
+        "link": "https://www.huffingtonpost.es/feminismo/mujeres-precariedad-paga-coste-real-inflacion-espanabr-f202603.html",
+        "date": "2026-03-08 06:45:54",
+        "sentiment_score": -0.8736395323649049
+    },
+    {
+        "title": "Una técnica en nutrición apunta la cena que toma cuando busca algo ligero, reponedor y saciante",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/02/08/una-cena-familiar.jpeg",
+        "tags": [
+            "salud"
+        ],
+        "link": "https://www.huffingtonpost.es/life/salud/una-tecnica-nutricion-apunta-cena-toma-busca-ligero-reponedor-saciante-f202603.html",
+        "date": "2026-03-08 06:45:52",
+        "sentiment_score": 0.322183296084404
+    },
+    {
+        "title": "Alfonso Fernández Mañueco: “En Castilla y León el trabajo del Partido Popular se resume en dos palabras: gestión eficaz”",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2026/03/01-1w-1.jpg",
+        "tags": [
+            "conversaciones con...",
+            "portada principal",
+            "segovia"
+        ],
+        "link": "https://eladelantado.com/segovia/2026/03/08/alfonso-fernandez-manueco-en-castilla-y-leon-el-trabajo-del-partido-popular-se-resume-en-dos-palabras-gestion-eficaz/",
+        "date": "2026-03-08 06:44:26",
+        "sentiment_score": 0.8460457976907492
+    },
+    {
+        "title": "Una francesa que vive en España cuenta lo que piensan en su país de los españoles: es, sobre todo, por lo que ven en los restaurantes",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/04/el-conductor-de-autobus-conocido-como-elbodas-6632.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/una-francesa-vive-espana-cuenta-piensan-pais-espanoles-f202603.html",
+        "date": "2026-03-08 06:41:03",
+        "sentiment_score": 0.6685649007558823
+    },
+    {
+        "title": "El conductor de un coche increpa a un autobusero y su reacción es digna de empleado del mes y del año",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/04/el-conductor-de-autobus-conocido-como-elbodas.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/el-conductor-coche-increpa-autobusero-reaccion-digna-empleado-mesno-f202603.html",
+        "date": "2026-03-08 06:40:41",
+        "sentiment_score": 0.49484944343566895
+    },
+    {
+        "title": "Mujeres que se ponen en la foto para abrir camino en la empresa, el deporte y las instituciones",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/07/2026030723433577271.jpg",
+        "tags": [
+            "vida estrella"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/vida/mujeres-que-ponen-foto-abrir-camino-empresa-deporte-instituciones/20260308073051442246.html",
+        "date": "2026-03-08 06:30:51",
+        "sentiment_score": 0.5385199747979641
+    },
+    {
+        "title": "La guerra de Irán reactiva el fantasma de la inflación: este es el escenario si el conflicto no cesa",
+        "image_url": "https://static.grupojoly.com/clip/cc9b39b7-d9d6-4986-a942-e83bc0f8000e_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "inflacion",
+            "guerra",
+            "iran",
+            "reactiva",
+            "fantasma"
+        ],
+        "link": "https://www.diariodejerez.es/economia/guerra-iran-reactiva-fantasma-inflacion_0_2006100044.html",
+        "date": "2026-03-08 06:30:29",
+        "sentiment_score": -0.8099194131791592
+    },
+    {
+        "title": "Grietas por las que se cuela el azar",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/05/donald-trump-presidente-de-los-eeuu-en-una-imagen-de-archivo.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.huffingtonpost.es/opinion/grietas-cuela-azar-f202603.html",
+        "date": "2026-03-08 06:28:16",
+        "sentiment_score": -0.3514999896287918
+    },
+    {
+        "title": "Juan Gómez Bárcena y la locura imposible de un padre por volver al pasado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dae08fb3-85f8-41ab-ba34-1fa379da7f3d_16-9-aspect-ratio_default_0_x595y417.jpg",
+        "tags": [
+            "el tiempo",
+            "tiempo",
+            "dolor",
+            "muerte",
+            "novela",
+            "cumpleaños",
+            "libros"
+        ],
+        "link": "https://www.laopiniondemalaga.es/libros/2026/03/08/locura-imposible-padre-volver-pasado-juan-gomez-barcenas-127677576.html",
+        "date": "2026-03-08 06:03:23",
+        "sentiment_score": -0.008259385824203491
+    },
+    {
+        "title": "De 1910 a 2026: la gran deuda pendiente con las mujeres",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/06/homenaje-a-las-victimas-de-la-factoria-triangle-shirtwaist-en-nueva-york-en-1911.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.huffingtonpost.es/opinion/de-1910-2026-gran-deuda-pendiente-mujeres-f202603.html",
+        "date": "2026-03-08 06:02:47",
+        "sentiment_score": 0.1476525291800499
+    },
+    {
+        "title": "Mujeres referentes, nada que demostrar",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2026/03/08/Portada%20desktop%208M%20Cantabria.png",
+        "tags": [
+            "instituto de física de cantabria, ifca.",
+            "jubilación",
+            "organización europea para la investigación nuclear (cern)",
+            "mujeres",
+            "investigación",
+            "universidad de cantabria",
+            "el diario montañes",
+            "palacio de festivales de cantabria",
+            "cantabria (provincia)",
+            "uimp",
+            "industria",
+            "conciliación",
+            "santander",
+            "educación",
+            "csic",
+            "música",
+            "inteligencia artificial",
+            "adic",
+            "hospital universitario de marqués de valdecilla",
+            "medicina",
+            "las rozas de valdearroyo",
+            "adolescentes",
+            "día internacional de la mujer",
+            "educación infantil",
+            "brecha salarial"
+        ],
+        "link": "https://www.eldiariomontanes.es/cantabria/mujeres-referentes-demostrar-20260308112428-nt.html",
+        "date": "2026-03-08 06:34:57",
+        "sentiment_score": 0.4169154092669487
+    },
+    {
+        "title": "Raffaella Perrone, nueva directora del IED Barcelona: ”el talento creativo no tiene sexo, pero para las mujeres requiere un mayor esfuerzo”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/06/69aafc2b6f43a.r_d.910-649-2338.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.lavanguardia.com/gente/20260308/11483366/raffaella-perrone-nueva-directora-ied-barcelona-talento-creativo-sexo-mujeres-requiere-mayor-esfuerzo.html",
+        "date": "2026-03-08 06:30:00",
+        "sentiment_score": 0.403820738196373
+    },
+    {
+        "title": "Alfonso Arús, sobre sus inversiones: «Soy como una ‘hormiguita’ que lleva 40 años sin dejar de trabajar»",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/03/alfonso-arus-inversiones.jpeg",
+        "tags": [
+            "celebrities",
+            "gente",
+            "inversión",
+            "la sexta",
+            "presentadores de televisión",
+            "dinero"
+        ],
+        "link": "https://theobjective.com/gente/2026-03-08/alfonso-arus-inversiones-hormiguita-trabajar/",
+        "date": "2026-03-08 06:30:00",
+        "sentiment_score": 0.882670858874917
+    },
+    {
+        "title": "AEMET prevé un día nublado y lluvioso en Barcelona con chubascos y viento moderado",
+        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
+        "tags": [
+            "agencia estatal de meteorología (aemet)",
+            "cataluña",
+            "okd",
+            "tiempo",
+            "previsión del tiempo",
+            "españa"
+        ],
+        "link": "https://okdiario.com/cataluna/aemet-preve-un-dia-nublado-y-lluvioso-en-barcelona-con-chubascos-y-viento-moderado-16373954",
+        "date": "2026-03-08 06:19:07",
+        "sentiment_score": 0.08776915073394775
+    },
+    {
+        "title": "Cómo remediar hoy lo que el machismo nos puede traer en un futuro: proteger a niñas y adolescentes ante la violencia sexual digital",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/06/montaje-de-mano-cogiendo-a-una-mujer-como-si-fuera-un-objeto.jpeg",
+        "tags": [
+            "hij@s"
+        ],
+        "link": "https://www.huffingtonpost.es/life/hijos/como-remediar-hoy-machismo-traer-futuro-protegernas-adolescentes-violencia-sexual-digitalbr-f202603.html",
+        "date": "2026-03-08 06:02:21",
+        "sentiment_score": -0.851793808862567
+    },
+    {
+        "title": "Dante en Hiroshima",
+        "image_url": "https://static.grupojoly.com/clip/d57b2d3a-8a30-4650-83ea-b341760c3998_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "dante",
+            "hiroshima"
+        ],
+        "link": "https://www.granadahoy.com/ocio/dante-hiroshima_0_2006099974.html",
+        "date": "2026-03-08 06:02:17",
+        "sentiment_score": 0.08639586716890335
+    },
+    {
+        "title": "Granada 2031, en su semana decisiva",
+        "image_url": "https://static.grupojoly.com/clip/4c41e789-1d07-4e98-bf63-273a91499c01_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ayuntamiento de granada",
+            "últimas noticias granada"
+        ],
+        "link": "https://www.granadahoy.com/granada/granada-2031-semana-decisiva-capitalidad-cultural_0_2006095230.html",
+        "date": "2026-03-08 06:02:16",
+        "sentiment_score": 0.11296476423740387
+    },
+    {
+        "title": "\"Laporta tiene motivos para estar nervioso\"",
+        "image_url": "https://static1.ara.cat/clip/8466dbff-ed51-4daa-9b61-80cbdb5ca63d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "motivos",
+            "laporta",
+            "nervioso"
+        ],
+        "link": "https://es.ara.cat/deportes/futbol/laporta-motivos-nervioso_128_5671752.html",
+        "date": "2026-03-08 06:00:55",
+        "sentiment_score": -0.40595920383930206
+    },
+    {
+        "title": "Lo más viral de la semana: Taylor Swift dejará la soltería",
+        "image_url": "https://static.wixstatic.com/media/cf263a_aea78f66ae454dfe978ca7d6be2ff677~mv2.png/v1/fit/w_1000,h_357,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-de-la-semana-taylor-swift-dejara-la-solter%C3%ADa",
+        "date": "2026-03-07 20:09:04",
+        "sentiment_score": -0.15644336864352226
     }
 ];
