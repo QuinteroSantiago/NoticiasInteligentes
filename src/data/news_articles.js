@@ -1,163 +1,5 @@
 export default [
     {
-        "title": "«Conocer a cada personaje del 11-M es vital para no caer en la desinformación»",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/05/leticia-alvarez-kSOG-U201026464137FfD-1200x840@RC.jpg",
-        "tags": [
-            "josé emilio suárez trashorras"
-        ],
-        "link": "https://www.ideal.es/nacional/conocer-personaje-11m-vital-caer-desinformacion-20260305082244-ntrc.html",
-        "date": "2026-03-05 07:22:47",
-        "sentiment_score": -0.5994528252631426
-    },
-    {
-        "title": "El Real Madrid afronta un mes de marzo determinante de cara a salvar la temporada",
-        "image_url": "https://www.infobae.com/resizer/v2/JDYNNHZHNBFV5AKKR2NY2NONE4.jpg?auth=cce560aacab920acf230958a798e8caf5044e67f920be08f703b85a3145190a6&height=1280&smart=true&width=1920",
-        "tags": [
-            "atlético de madrid",
-            "fútbol español",
-            "álvaro arbeloa",
-            "manchester city",
-            "rc celta",
-            "fc barcelona",
-            "jude bellingham",
-            "santiago bernabéu",
-            "liga de campeones",
-            "real madrid",
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/05/el-real-madrid-afronta-un-mes-de-marzo-determinante-de-cara-a-salvar-la-temporada/",
-        "date": "2026-03-05 07:16:08",
-        "sentiment_score": -0.4896226152777672
-    },
-    {
-        "title": "Llega a Torrejón un avión militar con 171 españoles repatriados de Omán por la guerra",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/05/vista-del-avion-a330-mrtt-con-capacidad-para-unas-250-personas.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/llega-torrejon-avion-militar-171-espanoles-repatriados-oman-ataques-iran-f202603.html",
-        "date": "2026-03-05 07:15:03",
-        "sentiment_score": -0.43733201548457146
-    },
-    {
-        "title": "El juicio por el nombramiento ilegal de la junta directiva del Compostela queda pendiente de Borja Iglesias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/13f80a99-c191-431d-bb9f-000897702608_16-9-aspect-ratio_default_0_x384y170.jpg",
-        "tags": [
-            "juicio",
-            "borja iglesias",
-            "sd compostela",
-            "fútbol"
-        ],
-        "link": "https://www.farodevigo.es/deportes/2026/03/05/juicio-nombramiento-ilegal-junta-directiva-127576406.html",
-        "date": "2026-03-05 07:14:15",
-        "sentiment_score": -0.8435693066567183
-    },
-    {
-        "title": "La fiscal general de Trump, forzada por su propio partido a declarar por las maniobras sobre los papeles de Epstein",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/05/la-fiscal-general-de-eeuu-pam-bondi-en-una-audiencia-del-comite-judicial-de-la-camara-de-representantes-sobre-la-supervision-del-departamento-de-justicia-el-11-de-febrero-de-2026.jpeg",
-        "tags": [
-            "global"
-        ],
-        "link": "https://www.huffingtonpost.es/global/la-fiscal-general-trump-forzada-propio-partido-declarar-maniobras-sobre-papeles-trump-f202603.html",
-        "date": "2026-03-05 07:14:04",
-        "sentiment_score": -0.18069130182266235
-    },
-    {
-        "title": "07:00H | 05 MAR 2026 | Herrera en COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "herrera en cope"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/07-00h-05-mar-2026-herrera-cope-20260305_3320191.html",
-        "date": "2026-03-05 07:04:00",
-        "sentiment_score": -0.29402244091033936
-    },
-    {
-        "title": "8M: Las pioneras que rompieron moldes y reivindicaron el poder de la mujer",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/11/15/E4B82D59-4F42-4006-B224-B8D4416FF4C1/isabel-castilla-retrato-anonimo_98.jpg?crop=1077%2C606%2Cx0%2Cy259&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "castilla y león",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/castilla-y-leon/pioneras-que-rompieron-moldes-reivindicaron-poder-mujer_2026030569a862f8e1ff634075d80e21.html",
-        "date": "2026-03-05 07:00:28",
-        "sentiment_score": 0.7046883329749107
-    },
-    {
-        "title": "La fintech española Embat gestionó 250.000 millones en 2025 tras elevar su captación de clientes",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/03/20260305075952.jpg?fit=1500%2C788&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/la-fintech-espaola-embat-gestion-250-000-millones-en-2025-tras-elevar-su-captacin-de-clientes/",
-        "date": "2026-03-05 07:00:03",
-        "sentiment_score": 0.5441294424235821
-    },
-    {
-        "title": "'El capitán en Japón': el extremeño que ha guiado a Joaquín y su familia por las calles de Osaka",
-        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2026/03/05/chema-joaquin-japon-kr5B-U20890751865wHD-1200x840@Hoy.jpg",
-        "tags": [
-            "redes sociales",
-            "antena 3",
-            "betis",
-            "osaka",
-            "extremadura",
-            "gastronomía"
-        ],
-        "link": "https://www.hoy.es/extremadura/capitan-japon-programa-antena-3-extremeno-guiado-joaquin-familia-20260305123905-nt.html",
-        "date": "2026-03-05 07:22:17",
-        "sentiment_score": -0.08250542357563972
-    },
-    {
-        "title": "La plataforma de gestión de impuestos TaxDown recibe 4 millones de BBVA",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/22281aeb6eed714bc0d950882da562f7/crop/215x50/1853x1142/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/05/17726950035756.jpg",
-        "tags": [
-            "empleo>",
-            "pymes>",
-            "emprendedores>"
-        ],
-        "link": "https://www.expansion.com/expansion-empleo/emprendedores/2026/03/05/69a927b5468aebc2678b45a1.html",
-        "date": "2026-03-05 07:19:13",
-        "sentiment_score": 0.6986952945590019
-    },
-    {
-        "title": "Generales, andaluzas y catalanas y Junts, con Trump",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/05/primeras-planas/1003742738489_15789255_1706x960.jpg",
-        "tags": [
-            "elecciones",
-            "cataluña",
-            "junts per catalunya",
-            "primeras planas",
-            "donald trump"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260305/generales-andaluzas-catalanas-junts-trump/1003742738487_0.html",
-        "date": "2026-03-05 07:18:45",
-        "sentiment_score": -0.8356101326644421
-    },
-    {
-        "title": "Yolanda Ramos aviva la polémica por la presencia de 'influencers' en los Goya: \"Yo estaba en pijama en mi casa, me convenzo...\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/27/69284211395cc7-55025713.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/gente/yolanda-ramos-aviva-polemica-por-presencia-influencers-los-goya-yo-estaba-pijama-mi-casa-me-convenzo_6942087_0.html",
-        "date": "2026-03-05 07:15:33",
-        "sentiment_score": 0.5401046946644783
-    },
-    {
-        "title": "El patinete se erige en herramienta de la nueva delincuencia: \"Facilita la huida, hay que controlarlo\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e17f937c-d4b8-40e3-a820-0d66c956e55d_16-9-aspect-ratio_default_0_x510y191.jpg",
-        "tags": [
-            "patinetes",
-            "policía",
-            "robos",
-            "delincuencia"
-        ],
-        "link": "https://www.laopiniondemalaga.es/sociedad/2026/03/05/patinete-herramienta-nueva-delincuencia-huir-control-matricula-127576391.html",
-        "date": "2026-03-05 07:13:33",
-        "sentiment_score": 0.2539554163813591
-    },
-    {
         "title": "Investigación descubre químicos de riesgos desconocidos añadidos \"en secreto\" en miles de alimentos en EE.UU",
         "image_url": "https://cdn.mnmstatic.net/cache/3f/60/media_thumb-link-4153475.webp?1772703546=",
         "tags": [
@@ -2848,5 +2690,151 @@ export default [
         "link": "https://www.informe21.com/post/semana-deportiva-venezuela-se-impuso-a-israel-en-el-mundial-de-beisbol",
         "date": "2026-03-08 13:02:57",
         "sentiment_score": 0.8168231248855591
+    },
+    {
+        "title": "La granadina Trevenque Group crea un software que pronostica la crecida de arroyos y cauces",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/03/09/TREVENQUE2-kYND-U2010590686377xB-1200x840@Ideal.jpg",
+        "tags": [
+            "arroyos",
+            "trevenque",
+            "pronostica",
+            "software",
+            "group",
+            "cauces",
+            "granadina",
+            "crecida",
+            "crea"
+        ],
+        "link": "https://www.ideal.es/economia/factoria-de-empresas/granadina-trevenque-group-crea-software-pronostica-crecida-20260309152101-nt.html",
+        "date": "2026-03-08 22:41:38",
+        "sentiment_score": 0.24465639516711235
+    },
+    {
+        "title": "Fernando González Molina: \"No podíamos contar una historia de intersexualidad con un hombre con peluca\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d4ebf183-cb56-44e7-b563-35f6b525e57a_alta-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "entrevistas",
+            "javier calvo",
+            "festival de málaga",
+            "javier ambrossi",
+            "cine español",
+            "festival de cine de málaga"
+        ],
+        "link": "https://www.diariodemallorca.es/cultura/2026/03/08/fernando-gonzalez-molina-podiamos-contar-127720053.html",
+        "date": "2026-03-08 22:34:12",
+        "sentiment_score": -0.23484626039862633
+    },
+    {
+        "title": "MasMusculo, la tienda de barrio de Granada que ahora es un imperio del fitness en toda Europa",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/03/09/grupo-mas-musculo-granada-kkW-U201058934025JmE-1200x840@Ideal.jpg",
+        "tags": [
+            "granada (provincia)",
+            "granada",
+            "europa",
+            "andalucía",
+            "albolote",
+            "evolución",
+            "nutrición"
+        ],
+        "link": "https://www.ideal.es/economia/factoria-de-empresas/masmusculo-tienda-barrio-granada-imperio-fitness-europa-20260309114712-nt.html",
+        "date": "2026-03-08 22:42:52",
+        "sentiment_score": 0.6071498319506645
+    },
+    {
+        "title": "Dani Senabre, en Tiempo de Juego, sobre la entrevista de Xavi: \"Es devastador, se desata una guerra\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/08/69adfa67bc671.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/dani-senabre-juego-sobre-entrevista-xavi-devastador-desata-guerra-20260308_3322214.html",
+        "date": "2026-03-08 22:41:21",
+        "sentiment_score": -0.11358091235160828
+    },
+    {
+        "title": "Xavi rompe su silencio y carga contra Laporta y su mano derecha",
+        "image_url": "https://static1.ara.cat/clip/ae995629-25b1-4f61-bc24-ea9673d1715f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "xavi",
+            "rompe",
+            "laporta",
+            "carga",
+            "silencio",
+            "mano",
+            "derecha"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/xavi-rompe-silencio-carga-laporta-mano-derecha_1_5672326.html",
+        "date": "2026-03-08 22:40:17",
+        "sentiment_score": -0.37189461290836334
+    },
+    {
+        "title": "Xavi culpa a Laporta del no regreso de Messi: \"No viene al Barça porque el presidente no quiere\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/03/08/image-ca4b9580-9088-4c18-b6f2-425e6e804508-85-2560-1440.jpeg",
+        "tags": [
+            "football"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/messi-culpa-laporta-no-regreso-messi-guerra-poder_sto23279013/story.shtml",
+        "date": "2026-03-08 22:32:15",
+        "sentiment_score": -0.7602489423006773
+    },
+    {
+        "title": "Huawei presenta la solución FAN de próxima generación",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "uncategorized",
+            "tiempo libre",
+            "ciencia y tecnologia"
+        ],
+        "link": "https://eltiempove.com/huawei-presenta-la-solucion-fan-de-proxima-generacion/",
+        "date": "2026-03-08 22:30:58",
+        "sentiment_score": 0.5431331899017096
+    },
+    {
+        "title": "Los momentos de la jornada 27",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/08/los-momentos-de-la-jornada-27/",
+        "date": "2026-03-08 22:30:38",
+        "sentiment_score": 0.04336985945701599
+    },
+    {
+        "title": "Los vecinos de Vallcarca exigen la ejecución de la rambla verde: “No queremos una alternativa al proyecto de 2002”",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/12/11/gracia/816428480_12065115_1706x960.jpg",
+        "tags": [
+            "urbanismo",
+            "gràcia",
+            "okupas",
+            "vallcarca i els penitents",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gracia/20260308/vecinos-vallcarca-exigen-ejecucion-rambla-verde-no-queremos-alternativa-proyecto/1003742739117_0.html",
+        "date": "2026-03-08 22:30:00",
+        "sentiment_score": -0.4155297726392746
+    },
+    {
+        "title": "El Prat estudia convertir en viviendas protegidas la antigua residencia de mayores Penedès tras su cierre",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/05/gran-barcelona/1003742738538_15789655_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "baix llobregat",
+            "el prat de llobregat"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260308/prat-estudia-convertir-viviendas-protegidas-antigua-residencia-mayores-penedes-cierre/1003742737874_0.html",
+        "date": "2026-03-08 22:30:00",
+        "sentiment_score": 0.417460061609745
+    },
+    {
+        "title": "El Ayuntamiento se vuelca en Trinitat Nova: construye un edificio de vivienda protegida por 15,2 millones",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/30/nou-barris/1003742712140_15464250_1706x960.jpg",
+        "tags": [
+            "información municipal",
+            "ayuntamiento de barcelona",
+            "vivienda",
+            "la trinitat nova"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260308/ayuntamiento-vuelca-trinitat-nova-construye-edificio-vivienda-protegida-millones/1003742738929_0.html",
+        "date": "2026-03-08 22:30:00",
+        "sentiment_score": 0.32654958963394165
     }
 ];
