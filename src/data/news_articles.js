@@ -1,433 +1,5 @@
 export default [
     {
-        "title": "Oyarzabal remata de penalti al Athletic y mete a la Real Sociedad en una nueva final de Copa del Rey",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2781314.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.vozpopuli.com/deportes/oyarzabal-remata-de-penalti-al-athletic-y-mete-a-la-real-sociedad-en-la-final-de-la-copa-del-rey.html",
-        "date": "2026-03-04 22:35:10",
-        "sentiment_score": 0.6482198126614094
-    },
-    {
-        "title": "El escritor Fernando Aramburu deja una frase sobre la inteligencia artificial que está dando que hablar: \"Si supera a Mozart...\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2025/03/18/el-escritor-fernando-aramburu.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/el-escritor-fernando-aramburu-deja-frase-sobre-inteligencia-artificial-esta-dando-hablar-si-supera-mozart-f202603.html",
-        "date": "2026-03-04 22:35:03",
-        "sentiment_score": -0.16309769451618195
-    },
-    {
-        "title": "La Real Sociedad tumba al Athletic y se cita con el Atlético en la final de la Copa del Rey en el Estadio La Cartuja (1-0)",
-        "image_url": "https://static.grupojoly.com/clip/49791d86-02e5-4c58-8ffd-53fb9d11a5bf_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real",
-            "athletic",
-            "tumba",
-            "copa",
-            "rey",
-            "final",
-            "estadio",
-            "sociedad",
-            "la cartuja",
-            "atlético",
-            "1-0",
-            "cita"
-        ],
-        "link": "https://www.granadahoy.com/deportes/real-sociedad-tumba-athletic-cita-atletico-final-copa-rey-estadio-la-cartuja-1-0_0_2006074952.html",
-        "date": "2026-03-04 22:28:11",
-        "sentiment_score": 0.11140745878219604
-    },
-    {
-        "title": "La Real Sociedad vuelve a ganar por la mínima al Athletic para certificar su plaza para la final de la Copa del Rey",
-        "image_url": "https://www.infobae.com/resizer/v2/5PKXQK3NRZAFXGBEUO43HNXGPU.JPG?auth=5ffbe79183d1c8183f0c6e1d9c8cc14b66eff51406f6e5be3669704d51e9a286&height=1892&smart=true&width=3364",
-        "tags": [
-            "españa-noticias",
-            "españa-deportes",
-            "fútbol",
-            "fútbol españa",
-            "real sociedad",
-            "athletic club",
-            "copa del rey"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/03/04/la-real-sociedad-vuelve-a-ganar-por-la-minima-al-athletic-para-certificar-su-plaza-para-la-final-de-la-copa-del-rey/",
-        "date": "2026-03-04 22:25:43",
-        "sentiment_score": 0.35803719609975815
-    },
-    {
-        "title": "Resumen Real Sociedad-Athletic Club: Oyarzabal pide cita en La Cartuja (1-0, total 2-0)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(170x82:172x80)/origin-imgresizer.eurosport.com/2026/03/04/image-1e8b33d2-743d-4732-b7a6-d00f3fa71014-85-2560-1440.jpeg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.eurosport.es/futbol/copa-del-rey/2025-2026/real-sociedad-athletic-club-video-resumen-resultado-goles-mejores-momentos-partido-semifinales-vuelta-hoy_vid60061312/video.shtml",
-        "date": "2026-03-04 22:25:06",
-        "sentiment_score": 0.32159751653671265
-    },
-    {
-        "title": "La Real Sociedad jugará la final de La Cartuja ante el Atlético",
-        "image_url": "https://static.grupojoly.com/clip/53dfc973-070e-4f30-9286-a35de55e115a_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "final",
-            "cartuja",
-            "jugara",
-            "sociedad",
-            "real"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/real-sociedad-jugara-final-cartuja_0_2006074911.html",
-        "date": "2026-03-04 22:22:48",
-        "sentiment_score": -0.024916738271713257
-    },
-    {
-        "title": "Casemiro nombró a las selecciones candidatas a ganar el Mundial y no mencionó a Brasil: cuáles serían las “sorpresas”",
-        "image_url": "https://www.infobae.com/resizer/v2/7D7MUUTPUFHSNJKADNWZLX5CXM.JPG?auth=0cb185fb53bc5fd2d71a0b5a21886c6e702187ed2478cfd473281f813bddc4d5&height=1266&smart=true&width=1702",
-        "tags": [
-            "deportes-internacional",
-            "selección argentina",
-            "selección de españa",
-            "casemiro",
-            "selección de francia",
-            "selección de brasil"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/04/casemiro-nombro-a-las-selecciones-candidatas-a-ganar-el-mundial-y-no-menciono-a-brasil-cuales-serian-las-sorpresas/",
-        "date": "2026-03-04 22:21:58",
-        "sentiment_score": 0.11541305482387543
-    },
-    {
-        "title": "La Real Sociedad sujeta al Athletic Club y avanza a la final de la Copa del Rey (1-0)",
-        "image_url": "https://cflvdg.avoz.es/sc/3J_NpC3RS-P3ne5lAAJWKLeIWkw=/768x/2026/03/04/00121772661901837413713/Foto/reu_20260304_215727482.jpg",
-        "tags": [
-            "athletic de bilbao",
-            "real sociedad",
-            "deportes"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/03/04/real-sociedad-sujeta-athletic-club-avanza-final-copa-rey-1-0/00031772661957846278868.htm",
-        "date": "2026-03-04 22:17:00",
-        "sentiment_score": 0.16104093194007874
-    },
-    {
-        "title": "En busca del cuarto título",
-        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2026/03/03/historia1200x840--758x531.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/real-sociedad/busca-cuarto-titulo-final-historia-copa-rey-20260304231618-nt.html",
-        "date": "2026-03-04 22:16:37",
-        "sentiment_score": 0.08909307420253754
-    },
-    {
-        "title": "Ratas, sexo y botellones en Sant Joan Despí: los vecinos de Torreblanca denuncian el \"abandono durante 30 años\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/04/gran-barcelona/1003742738466_15788924_1706x960.jpg",
-        "tags": [
-            "sant joan despí",
-            "gran barcelona",
-            "baix llobregat",
-            "incivismo"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260304/ratas-sexo-botellones-sant-joan-despi-vecinos-torreblanca-denuncian-abandono-anos/1003742736719_0.html",
-        "date": "2026-03-04 22:30:00",
-        "sentiment_score": -0.9087806325405836
-    },
-    {
-        "title": "Trias 'explota' ante la oferta de Puigdemont a Tatxo Benet para ser alcaldable de Junts en Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/10/27/informacion-municipal/805179724_11727888_1706x960.jpg",
-        "tags": [
-            "ayuntamiento de barcelona",
-            "política",
-            "jxcat",
-            "información municipal"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260304/trias-explota-oferta-puigdemont-tatxo-benet-alcaldable-junts-barcelona/1003742738192_0.html",
-        "date": "2026-03-04 22:30:00",
-        "sentiment_score": -0.1386265903711319
-    },
-    {
-        "title": "Los trabajadores de Perfumerías San Remo, bajo desgaste: la empresa no ha pagado la nómina de febrero",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/04/vivir-en-barcelona/1003742729526_15678298_1706x960.jpg",
-        "tags": [
-            "trabajadores",
-            "sindicatos",
-            "economía",
-            "empresas barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260304/trabajadores-perfumerias-san-remo-desgaste-empresa-no-pagado-nomina-febrero/1003742737826_0.html",
-        "date": "2026-03-04 22:30:00",
-        "sentiment_score": -0.8350266329944134
-    },
-    {
-        "title": "Familias afectadas por el cierre de la guardería El Cau en Hostafrancs denuncian impagos un año después",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/26/actualidad/1003742736485_15763448_1706x960.jpg",
-        "tags": [
-            "colegios barcelona",
-            "educación",
-            "guarderías barcelona",
-            "colegios",
-            "sants - montjuïc",
-            "hostafrancs"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sants-montjuic/20260304/familias-afectadas-cierre-guarderia-cau-hostafrancs-denuncian-impagos-ano-despues/1003742736482_0.html",
-        "date": "2026-03-04 22:30:00",
-        "sentiment_score": -0.914702876470983
-    },
-    {
-        "title": "Ya están en casa: Cuevas recibe a los peregrinos de Jerusalén al son de \"Que viva España\"",
-        "image_url": "https://static.grupojoly.com/clip/6c176bcb-4292-421c-ac1c-a19f8c5070e3_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "video",
-            "peregrinos",
-            "casa",
-            "recibe",
-            "jerusalen",
-            "cuevas"
-        ],
-        "link": "https://www.diariodealmeria.es/almeria/video-casa-cuevas-recibe-peregrinos-jerusalen_8_2006074463.html",
-        "date": "2026-03-04 22:25:58",
-        "sentiment_score": -0.6904227174818516
-    },
-    {
-        "title": "Adiós a Mapi León: el futuro de la central maña en el Barça Femenino se pone cada día más negro",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/04/culemania/secciones/1003742738472_15789070_1706x960.jpg",
-        "tags": [
-            "fcbfemeni",
-            "secciones",
-            "futfem"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260304/adios-mapi-leon-futuro-central-barca-femenino/1003742738462_0.html",
-        "date": "2026-03-04 22:20:53",
-        "sentiment_score": -0.35662600584328175
-    },
-    {
-        "title": "Las notas de Pako Ruiz: el empeño de Iñaki no sirve",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/3a25cf59-c9d1-4018-9a59-22974a7699ae_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ruiz",
-            "notas",
-            "inaki",
-            "empeno",
-            "pako"
-        ],
-        "link": "https://www.deia.eus/athletic/2026/03/04/notas-pako-ruiz-empeno-inaki-10781132.html",
-        "date": "2026-03-04 22:20:19",
-        "sentiment_score": -0.7706443481147289
-    },
-    {
-        "title": "Trenes que van con retraso al no llegar el maquinista por otros retrasos: las quejas en la alta velocidad Girona-Barcelona",
-        "image_url": "https://static.eldiario.es/clip/a70bc669-dfae-4b4d-86d8-fe94799233b5_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "periodismo independiente",
-            "actualidad",
-            "noticias",
-            "ignacio escolar",
-            "política",
-            "economía",
-            "cataluña",
-            "barcelona"
-        ],
-        "link": "https://www.eldiario.es/catalunya/trenes-retraso-no-llegar-maquinista-retrasos-quejas-alta-velocidad-girona-barcelona_1_13040249.html",
-        "date": "2026-03-04 22:16:47",
-        "sentiment_score": -0.1473025232553482
-    },
-    {
-        "title": "IA, ciberseguridad y conectividad: cómo el Mobile World Congress ha dejado de ser una feria de móviles",
-        "image_url": "https://static.eldiario.es/clip/eca9ad62-e4b7-49c5-bff6-5b2081a252f9_16-9-discover-aspect-ratio_default_1137901.jpg",
-        "tags": [
-            "ciberseguridad",
-            "mobile",
-            "world",
-            "ia",
-            "feria",
-            "congress",
-            "moviles",
-            "conectividad",
-            "dejado"
-        ],
-        "link": "https://www.eldiario.es/tecnologia/ia-ciberseguridad-conectividad-mobile-world-congress-dejado-feria-moviles_1_13037250.html",
-        "date": "2026-03-04 22:16:43",
-        "sentiment_score": -0.14963415265083313
-    },
-    {
-        "title": "Catar evacúa viviendas cerca de la embajada de Estados Unidos en Doha mientras Washington inicia vuelos para sacar a sus ciudadanos de Oriente Medio",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/03/cielo-de-catar-durante-el-bombardeo-de-iran-sobre-la-base-estadounidense-de-doha.jpeg",
-        "tags": [
-            "global"
-        ],
-        "link": "https://www.huffingtonpost.es/global/catar-evacua-viviendas-cerca-embajada-estados-unidos-doha-washington-inicia-vuelos-sacar-ciudadanos-oriente-medio-f202603.html",
-        "date": "2026-03-05 02:20:22",
-        "sentiment_score": -0.6582335159182549
-    },
-    {
-        "title": "Multinacionales de EE UU piden a Trump y Sánchez que dialoguen y que no las conviertan en “rehenes”",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/06/2026020600392958623.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.mundiario.com/articulo/economia/multinacionales-ee-uu-piden-trump-sanchez-que-dialoguen-que-conviertan-rehenes/20260305030831377328.html",
-        "date": "2026-03-05 02:08:31",
-        "sentiment_score": -0.7748267557471991
-    },
-    {
-        "title": "Así quedó la selección Colombia en la tabla de posiciones de la She Believes Cup",
-        "image_url": "https://www.infobae.com/resizer/v2/EK4DW6UFGJABZG4U7GS7I7IN4E.jpg?auth=4fb51137f37b9f7d0977abe2a9b6028f124b5129791b39a39258f3de2252a9f2&height=2731&smart=true&width=4096",
-        "tags": [
-            "colombia-deportes",
-            "colombia vs argentina",
-            "selección colombia femenina",
-            "she believes cup",
-            "estados unidos vs canadá",
-            "she believes cup posiciones",
-            "estados unidos"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/03/05/asi-quedo-la-seleccion-colombia-en-la-tabla-de-posiciones-de-la-she-believes-cup/",
-        "date": "2026-03-05 01:52:25",
-        "sentiment_score": 0.6076344922184944
-    },
-    {
-        "title": "Copa del Rey: Yangel Herrera y Jon Aramburu buscarán romper el maleficio de los venezolanos en finales",
-        "image_url": "https://pxcdn.meridiano.net/032026/1772671540098.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/espanol/copa-del-rey-yangel-herrera-y-jon-aramburu-buscaran-romper-el-maleficio-de-los-venezolanos-en-finales-20263421120",
-        "date": "2026-03-05 01:12:00",
-        "sentiment_score": 0.3310629315674305
-    },
-    {
-        "title": "BLM alcanza los 190 millones de ingresos: el negocio de merchandising del Barça factura más que 15 clubes de Primera",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/03/17/culemania/palco/931917089_14284515_1706x960.jpg",
-        "tags": [
-            "ferran olivé",
-            "fc barcelona",
-            "nike",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260305/blm-alcanza-millones-ingresos-merchandising-barca-primera/1003742737335_0.html",
-        "date": "2026-03-05 00:58:54",
-        "sentiment_score": 0.6391342394053936
-    },
-    {
-        "title": "04 MAR 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/04-mar-2026-partidazo-cope-20260305_3320142.html",
-        "date": "2026-03-05 00:40:34",
-        "sentiment_score": -0.3365378901362419
-    },
-    {
-        "title": "Los dos grandes errores del Spotify Camp Nou a la espera de la nueva cubierta: el socio se queja",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/09/culemania/palco/1003742730819_15695571_1706x960.jpg",
-        "tags": [
-            "espai barça",
-            "joan laporta",
-            "camp nou",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260305/grandes-errores-spotify-camp-nou-espera-cubierta/1003742738380_0.html",
-        "date": "2026-03-05 00:39:46",
-        "sentiment_score": -0.8593732602894306
-    },
-    {
-        "title": "Oyarzabal convierte penal y Real Sociedad elimina al Athletic para avanzar a final de Copa del Rey",
-        "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-        "tags": [
-            "sports",
-            "deportes",
-            "copa rey real sociedad athletic bilbao oyarzabal"
-        ],
-        "link": "https://apnews.com/article/copa-rey-real-sociedad-athletic-bilbao-oyarzabal-7ba2f4bdbca28f19bb38dbb48eebf474",
-        "date": "2026-03-05 00:31:55",
-        "sentiment_score": -0.07941754162311554
-    },
-    {
-        "title": "Oyarzabal convierte penal y Real Sociedad elimina al Athletic para avanzar a final de Copa del Rey",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "en español"
-        ],
-        "link": "https://www.chicagotribune.com/2026/03/04/oyarzabal-convierte-penal-y-real-sociedad-elimina-al-athletic-para-avanzar-a-final-de-copa-del-rey/",
-        "date": "2026-03-05 00:31:54",
-        "sentiment_score": 0.018278107047080994
-    },
-    {
-        "title": "Radian Arc, VNPT y Blacknut lanzan infraestructura de GPU en Vietnam para impulsar servicios de juegos en la nube e inteligencia artificial",
-        "image_url": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/assets/v3/editorial/8/13/8131e95b-9f6c-5ce6-b3c0-17b26995018c/69a8ef96b4ac8.image.jpg?resize=300%2C158",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.enidnews.com/region/radian-arc-vnpt-y-blacknut-lanzan-infraestructura-de-gpu-en-vietnam-para-impulsar-servicios-de/article_dcf26c82-6598-5122-b7db-4072916cedf3.html",
-        "date": "2026-03-05 02:40:29",
-        "sentiment_score": -0.10035364329814911
-    },
-    {
-        "title": "Clima hoy en España: temperaturas para Barcelona este 5 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima en españa",
-            "clima",
-            "clima en barcelona",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/05/clima-hoy-en-espana-temperaturas-para-barcelona-este-5-de-marzo/",
-        "date": "2026-03-05 02:15:40",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "Borrasca en Airef",
-        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "airef",
-            "borrasca"
-        ],
-        "link": "https://www.eldiadecordoba.es/opinion/analisis/borrasca-airef_0_2006076130.html",
-        "date": "2026-03-05 02:08:46",
-        "sentiment_score": -0.18612609803676605
-    },
-    {
-        "title": "Ni Xuper TV ni Magis TV: estas son las plataformas gratuitas y legales que deberías probar",
-        "image_url": "https://www.infobae.com/resizer/v2/3XORL3PB2ZDZBHNXEBZ3XJKYUM.png?auth=9271954fc3b89a2df4f754ba639c7156ea928aa24db8d1e6a0e11826e5cfd30e&height=1536&smart=true&width=2816",
-        "tags": [
-            "tecnología-noticias",
-            "xuper tv",
-            "streaming",
-            "ciberseguridad",
-            "magis tv",
-            "lo último en tecnología"
-        ],
-        "link": "https://www.infobae.com/tecno/2026/03/05/ni-xuper-tv-ni-magis-tv-estas-son-las-plataformas-gratuitas-y-legales-que-deberias-probar/",
-        "date": "2026-03-05 01:47:16",
-        "sentiment_score": -0.5609596520662308
-    },
-    {
-        "title": "Bruselas exige a China que le transfiera tecnología del coche eléctrico si quiere fábricarlo aquí",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/c6cdc0da9c1bdb36f71bed7370c9505a/crop/202x97/2870x2765/f/image/jpeg/assets/multimedia/imagenes/2024/01/15/17053386573556.jpg",
-        "tags": [
-            "motor",
-            "artículos félix cerezo",
-            "actualidad económica"
-        ],
-        "link": "https://www.elmundo.es/economia/macroeconomia/2026/03/05/69a87304fdddffee1f8b4598.html",
-        "date": "2026-03-05 01:21:46",
-        "sentiment_score": -0.07591543346643448
-    },
-    {
-        "title": "Los morosos dejaron de pagar 8.490 euros de media en 2025",
-        "image_url": "https://static.laregion.es/clip/2a047dea-fe9c-4e1b-a144-04f7e93014bc_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "vivienda",
-            "morosidad"
-        ],
-        "link": "https://www.laregion.es/economia/morosos-dejaron-pagar-8-490_1_20260305-4186842.html",
-        "date": "2026-03-05 01:00:45",
-        "sentiment_score": -0.09450560808181763
-    },
-    {
         "title": "«Conocer a cada personaje del 11-M es vital para no caer en la desinformación»",
         "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/05/leticia-alvarez-kSOG-U201026464137FfD-1200x840@RC.jpg",
         "tags": [
@@ -3064,5 +2636,217 @@ export default [
         "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-de-la-semana-taylor-swift-dejara-la-solter%C3%ADa",
         "date": "2026-03-07 20:09:04",
         "sentiment_score": -0.15644336864352226
+    },
+    {
+        "title": "Un 8M multitudinario y diverso se convierte en un grito unánime contra la guerra y el fascismo: “Hoy más que nunca hay que salir a reivindicar nuestros derechos”",
+        "image_url": "https://www.infobae.com/resizer/v2/6J3AVEODIRAQ7LIHTDFSYQEBDQ.JPG?auth=42e3a057d892f9af7724d7c547227061bc3a53d26ee9d3b660bd2ea0b7f24ec8&height=3667&smart=true&width=5500",
+        "tags": [
+            "españa-sociedad",
+            "desigualdad social",
+            "madrid",
+            "8m",
+            "feminismo",
+            "españa-noticias",
+            "igualdad"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/08/un-8m-multitudinario-y-diverso-se-convierte-en-un-grito-unanime-contra-la-guerra-y-el-fascismo-hoy-mas-que-nunca-hay-que-salir-a-reivindicar-nuestros-derechos/",
+        "date": "2026-03-08 17:48:29",
+        "sentiment_score": -0.21081125736236572
+    },
+    {
+        "title": "La FIFA revisará desde este lunes las sedes del Mundial 2030 en España",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/08/la-fifa-revisara-desde-este-lunes-las-sedes-del-mundial-2030-en-espana/",
+        "date": "2026-03-08 17:45:42",
+        "sentiment_score": 0.02511342242360115
+    },
+    {
+        "title": "La RFEF recibe este lunes a la delegación de FIFA que trabajará para el Mundial 2030",
+        "image_url": "https://www.infobae.com/resizer/v2/FHBW6AO5XZDLZFL6NQUJ2ZRW6Y.jpg?auth=3ac895259ac1e4875b83726e60fcd42ca0bab46a1d95ee7dc16b506d9b2f92a7&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/08/la-rfef-recibe-este-lunes-a-la-delegacion-de-fifa-que-trabajara-para-el-mundial-2030/",
+        "date": "2026-03-08 17:45:39",
+        "sentiment_score": 0.28046310506761074
+    },
+    {
+        "title": "Los jubilados, con el ‘Día Internacional de la Mujer’",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "provincia de segovia",
+            "día internacional de la mujer"
+        ],
+        "link": "https://eladelantado.com/provincia/2026/03/08/los-jubilados-con-el-dia-internacional-de-la-mujer/",
+        "date": "2026-03-08 17:38:58",
+        "sentiment_score": 0.6402351781725883
+    },
+    {
+        "title": "Las imágenes de Ester Expósito y Mbappé, juntos en el mismo coche tras salir de un hotel de París",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/07/69abf08ac5c975-97617091.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.20minutos.es/gente/las-imagenes-ester-exposito-mbappe-juntos-mismo-coche-tras-salir-un-hotel-paris_6943312_0.html",
+        "date": "2026-03-08 17:32:29",
+        "sentiment_score": -0.0030769407749176025
+    },
+    {
+        "title": "2-0. Satriano y Femenía alargan la fiesta del Bernabéu y comprometen al Betis",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/08/2-0-satriano-y-femenia-alargan-la-fiesta-del-bernabeu-y-comprometen-al-betis/",
+        "date": "2026-03-08 17:30:24",
+        "sentiment_score": 0.8233223892748356
+    },
+    {
+        "title": "Pelea entre aficionados de Getafe y Betis en pleno partido: tuvo que intervenir la Policía en la grada",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/03/08/69adb09714846.r_d.955-316.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20260308/pelea-entre-aficionados-getafe-betis-pleno-partido-tuvo-intervenir-policia-grada_393515.html",
+        "date": "2026-03-08 17:25:23",
+        "sentiment_score": -0.7015482187271118
+    },
+    {
+        "title": "El Getafe prolonga su racha positiva con un triunfo en casa sobre el Betis",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/40540204-a70f-49b8-80e4-744e8b61230f_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "getafe cf",
+            "fútbol",
+            "real betis",
+            "laliga ea sports"
+        ],
+        "link": "https://www.informacion.es/deportes/2026/03/08/getafe-prolonga-racha-positiva-triunfo-127712339.html",
+        "date": "2026-03-08 17:23:25",
+        "sentiment_score": 0.8309705518186092
+    },
+    {
+        "title": "Gavi se une a las concentraciones del Barcelona mientras afronta la recta final de su recuperación",
+        "image_url": "https://cflvdg.avoz.es/sc/aGES7iK1ToJZ2yenSyL69VACUoU=/768x/2026/03/08/00121772991721905456665/Foto/eup_20260306_125341408.jpg",
+        "tags": [
+            "deportes",
+            "fc barcelona"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/03/08/gavi/00031772991955390347313.htm",
+        "date": "2026-03-08 17:49:00",
+        "sentiment_score": 0.014861837029457092
+    },
+    {
+        "title": "El feminismo toma las calles en un 8-M marcado por el \"no a la guerra\" y la alerta de \"volver al pasado\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/08/69ad8f0d2b3271-41356231.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/nacional/feminismo-toma-las-calles-un-8-m-marcado-por-no-guerra-alerta-volver-pasado_6943288_0.html",
+        "date": "2026-03-08 17:48:54",
+        "sentiment_score": -0.2453603520989418
+    },
+    {
+        "title": "1x1 del Río Breogán ante el Barcelona",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2026/03/08/2026030818451120837.jpg",
+        "tags": [
+            "deporte local lugo"
+        ],
+        "link": "https://www.elprogreso.es/articulo/deporte-local-lugo/1x1-rio-breogan-barcelona/202603081848081952348.html",
+        "date": "2026-03-08 17:48:08",
+        "sentiment_score": -0.2939888760447502
+    },
+    {
+        "title": "El Barça resuelve con claridad el derbi con el Granollers",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/49cfb355-6e87-4c70-8baa-b3de15e205d8_alta-libre-aspect-ratio_default_0_x532y199.jpg",
+        "tags": [
+            "granollers",
+            "barça balonmano",
+            "balonmano"
+        ],
+        "link": "https://www.elperiodico.com/es/deportes/20260308/barca-resuelve-claridad-derbi-granollers-127713422",
+        "date": "2026-03-08 17:47:46",
+        "sentiment_score": 0.5496765226125717
+    },
+    {
+        "title": "El papel de la mujer sigue siendo residual en las elecciones a la presidencia del Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/06/culemania/palco/1003742739077_15797072_1706x960.jpg",
+        "tags": [
+            "palco",
+            "8m",
+            "elecciones barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260308/papel-mujer-sigue-residual-elecciones-presidencia-barca/1003742739472_0.html",
+        "date": "2026-03-08 17:46:52",
+        "sentiment_score": 0.050499677658081055
+    },
+    {
+        "title": "Crean un dispositivo con inteligencia artificial que promete conectar mascotas y dueños en tiempo real",
+        "image_url": "https://www.infobae.com/resizer/v2/X43T6O63QZHDLKUXQYDI7BWHA4.png?auth=d6ddeacdf176cd3128e4c2465a683b8b494fceb45f134a8d836038b1ee29edf7&height=768&smart=true&width=1408",
+        "tags": [
+            "humanos",
+            "dispositivo",
+            "dueños",
+            "newsroom bue",
+            "petphone",
+            "ia",
+            "mascotas"
+        ],
+        "link": "https://www.infobae.com/tecno/2026/03/08/crean-un-dispositivo-con-inteligencia-artificial-que-promete-conectar-mascotas-y-duenos-en-tiempo-real/",
+        "date": "2026-03-08 17:42:33",
+        "sentiment_score": 0.5709909852594137
+    },
+    {
+        "title": "Así es la casa de Marc Giró en uno de los barrios más cotizados de Barcelona: estilo ecléctico con piezas de diseño anteriores a 1970",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/08/05/vivir-en-barcelona/1003742679621_14979546_1706x960.jpg",
+        "tags": [
+            "curiosidades",
+            "moda",
+            "vivir en barcelona",
+            "famosos barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260308/casa-marc-giro-barrios-cotizados-barcelona-estilo-eclectico-piezas-diseno-anteriores/1003742739479_0.html",
+        "date": "2026-03-08 17:41:34",
+        "sentiment_score": 0.7804221846163273
+    },
+    {
+        "title": "Jacob Kiplimo destroza el récord del mundo de medio maratón",
+        "image_url": "https://elperiodicodemonagas.com.ve/wp-content/uploads/2026/03/Jacob-Kiplimo-destroza-el-record-del-mundo-de-medio-maraton.jpg",
+        "tags": [
+            "jacob kiplimo",
+            "mundo",
+            "record",
+            "deportes"
+        ],
+        "link": "https://elperiodicodemonagas.com.ve/deportes/jacob-kiplimo-destroza-el-record-del-mundo-de-medio-maraton/",
+        "date": "2026-03-08 17:36:02",
+        "sentiment_score": 0.5210604071617126
+    },
+    {
+        "title": "El secretario general de Nuevas Generaciones del PP dimite y pide «sin rodeos» el voto para Vox",
+        "image_url": "https://okdiario.com/img/2026/03/08/frame-baja-pp.jpg",
+        "tags": [
+            "partido popular",
+            "santiago abascal",
+            "alberto núñez feijóo",
+            "españa",
+            "nuevas generaciones",
+            "vox"
+        ],
+        "link": "https://okdiario.com/espana/secretario-general-nuevas-generaciones-del-pp-dimite-pide-sin-rodeos-voto-vox-16360490",
+        "date": "2026-03-08 17:35:52",
+        "sentiment_score": -0.5333632491528988
+    },
+    {
+        "title": "Semana Deportiva: Venezuela se impuso a Israel en el Mundial de Beisbol",
+        "image_url": "https://static.wixstatic.com/media/335561_adaa57d142de478eba72a39d286bb5f8~mv2.jpg/v1/fit/w_1000,h_800,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/semana-deportiva-venezuela-se-impuso-a-israel-en-el-mundial-de-beisbol",
+        "date": "2026-03-08 13:02:57",
+        "sentiment_score": 0.8168231248855591
     }
 ];
