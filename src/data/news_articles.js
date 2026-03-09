@@ -1,241 +1,5 @@
 export default [
     {
-        "title": "Hasta 80.000 euros: estos países europeos sí cobran a sus compatriotas por las repatriaciones de Oriente Medio",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/05/pasajeros-procedentes-de-dubai-aterrizan-en-el-aeropuerto-internacional-de-sidney-el-4-de-marzo-de-2026.jpeg",
-        "tags": [
-            "global"
-        ],
-        "link": "https://www.huffingtonpost.es/global/hasta-80000-euros-paises-europeos-si-cobrando-compatriotas-repatriaciones-oriente-medio-f202603.html",
-        "date": "2026-03-05 17:38:41",
-        "sentiment_score": -0.8092463966459036
-    },
-    {
-        "title": "Del anonimato digital a la intimidación real: el caso de acoso contra Rita Maestre",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/05/2026030518311743367.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.mundiario.com/articulo/politica/anonimato-digital-intimidacion-real-caso-acoso-rita-maestre/20260305183435377448.html",
-        "date": "2026-03-05 17:34:35",
-        "sentiment_score": -0.7780971582978964
-    },
-    {
-        "title": "Bale: \"Nunca quise el circo que rodea al Real Madrid\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/05/bale-nunca-quise-el-circo-que-rodea-al-real-madrid/",
-        "date": "2026-03-05 17:32:07",
-        "sentiment_score": -0.6919863782823086
-    },
-    {
-        "title": "Díaz de Mera arbitrará el Celta de Vigo-Real Madrid",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/05/diaz-de-mera-arbitrara-el-celta-de-vigo-real-madrid/",
-        "date": "2026-03-05 17:31:40",
-        "sentiment_score": -0.0855901762843132
-    },
-    {
-        "title": "Bale desvela que jugó toda su carrera con una lesión de espalda",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/05/bale-desvela-que-jugo-toda-su-carrera-con-una-lesion-de-espalda/",
-        "date": "2026-03-05 17:31:27",
-        "sentiment_score": -0.643418138846755
-    },
-    {
-        "title": "La cifra de mujeres taxistas en Madrid asciende un 13% en el último año",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.eleconomista.es/actualidad/noticias/13809631/03/26/la-cifra-de-mujeres-taxistas-en-madrid-asciende-un-13-en-el-ultimo-ano.html",
-        "date": "2026-03-05 17:26:32",
-        "sentiment_score": 0.2972526103258133
-    },
-    {
-        "title": "El Rey pide contención en el uso de la fuerza en Oriente Medio",
-        "image_url": "https://www.eldiadevalladolid.com/media/img/2026/4a6c990c-5a73-478e-a7a1cbb984377940.jpg",
-        "tags": [
-            "derechos humanos",
-            "estados unidos",
-            "luxemburgo",
-            "ucrania",
-            "españa",
-            "emiratos árabes unidos",
-            "madrid",
-            "oriente próximo",
-            "teherán",
-            "israel",
-            "segunda guerra mundial",
-            "real fábrica de cristales",
-            "solidaridad",
-            "oriente medio",
-            "pedro sánchez",
-            "rey felipe vi",
-            "irán",
-            "exposiciones"
-        ],
-        "link": "https://www.eldiadevalladolid.com/noticia/zc3be1224-de9d-4e06-8e07535e9976c8c9/202603/el-rey-pide-contencion-en-el-uso-de-la-fuerza-en-oriente-medio",
-        "date": "2026-03-05 17:24:37",
-        "sentiment_score": -0.3100935369729996
-    },
-    {
-        "title": "El exjefe de la policía detenido por venderse al narco y emparedar 20 millones de euros en su casa solicita declarar ante el juez",
-        "image_url": "https://cflvdg.avoz.es/sc/XbY-V2_jaQQ7fMBPdJ-5k3VC3fk=/768x/2025/04/11/00121744370461718623892/Foto/j_20250411_130401000.jpg",
-        "tags": [
-            "audiencia nacional",
-            "policía nacional",
-            "ee.uu.",
-            "colombia",
-            "españa",
-            "corrupción"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/espana/2026/03/05/exjefe-policia-detenido-venderse-narco-emparedar-20-millones-euros-casa-solicita-declarar-ante-juez/00031772730936920755581.htm",
-        "date": "2026-03-05 17:20:00",
-        "sentiment_score": -0.23191723600029945
-    },
-    {
-        "title": "Absueltos dos activistas de Greenpeace acusados de herir a policías con sus embarcaciones en Barcelona",
-        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/03/05/el-suceso-ocurrio-cerca-del-frente-maritimo-de-barcelona.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/noticias/nacional/2026/03/05/absueltos-dos-activistas-de-greenpeace-acusados-de-herir-a-policias-con-sus-embarcacionesjuicio-greenpeace-1899766.html",
-        "date": "2026-03-05 17:38:35",
-        "sentiment_score": -0.8310810709372163
-    },
-    {
-        "title": "Alertes para este viernes en Galicia por viento, oleaje y nieve",
-        "image_url": "https://www.galiciapress.es/images/showid2/7879819?w=640&zc=4",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.galiciapress.es/articulo/ultima-hora/2026-03-05/5796815-alertes-viernes-galicia-viento-oleaje-nieve",
-        "date": "2026-03-05 17:37:04",
-        "sentiment_score": -0.09241175651550293
-    },
-    {
-        "title": "Alertas para este viernes en Galicia por viento, oleaje y nieve",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260305183636_690.jpg",
-        "tags": [
-            "galicia"
-        ],
-        "link": "https://www.europapress.es/galicia/noticia-alertes-viernes-galicia-viento-oleaje-nieve-20260305183636.html",
-        "date": "2026-03-05 17:36:36",
-        "sentiment_score": -0.09241175651550293
-    },
-    {
-        "title": "Las directivas deben trabajar 47 días más al año para cobrar lo mismo que los hombres",
-        "image_url": "https://static1.ara.cat/clip/00b59e9a-42c4-441c-b01a-3334008a0802_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cobrar",
-            "trabajar",
-            "hombres",
-            "directivas",
-            "47",
-            "deben",
-            "ano",
-            "dias"
-        ],
-        "link": "https://es.ara.cat/economia/mercado-laboral/directivas-deben-trabajar-47-dias-ano-cobrar-hombres_1_5669266.html",
-        "date": "2026-03-05 17:34:30",
-        "sentiment_score": -0.6597402021288872
-    },
-    {
-        "title": "GNV deja otra vez sin barco el puerto de Maó para cubrir una avería de Trasmed en Mallorca",
-        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/4400625.jpg",
-        "tags": [
-            "puerto de maó",
-            "gnv",
-            "trasmed",
-            "local"
-        ],
-        "link": "https://www.menorca.info/menorca/local/2026/03/05/2583149/gnv-deja-otra-vez-barco-puerto-mao-para-cubrir-averia-trasmed-mallorca.html",
-        "date": "2026-03-05 17:32:59",
-        "sentiment_score": -0.8353032981976867
-    },
-    {
-        "title": "Carlos Romero: \"Nervios no, tenemos ganas y un poco de necesidad\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/05/carlos-romero-nervios-no-tenemos-ganas-y-un-poco-de-necesidad/",
-        "date": "2026-03-05 17:31:01",
-        "sentiment_score": 0.021787717938423157
-    },
-    {
-        "title": "El técnico venezolano César Farías arremetió contra el árbitro colombiano Wilmar Roldán: “Cree que está por arriba de los futbolistas”",
-        "image_url": "https://www.infobae.com/resizer/v2/MQM7DH3ZQJFSBOPHWMC2G6JTBY.jpg?auth=e3e31c5d61fe21f417f67d7211b8c1ea68cb2c5dc827d44407ea8a98ebc83f68&height=2350&smart=true&width=3525",
-        "tags": [
-            "césar farías",
-            "barcelona vs. botafogo",
-            "copa libertadores 2026",
-            "wilmar roldán",
-            "copa libertadores",
-            "colombia-deportes"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/03/05/el-tecnico-venezolano-cesar-farias-arremetio-contra-el-arbitro-colombiano-wilmar-roldan-cree-que-esta-por-arriba-de-los-futbolistas/",
-        "date": "2026-03-05 17:30:59",
-        "sentiment_score": -0.8805732987821102
-    },
-    {
-        "title": "Fira de Barcelona celebra el \"éxito\" del MWC, con un \"impacto mínimo\" de la guerra",
-        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA890W0_M.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://es.investing.com/news/economy-news/fira-de-barcelona-celebra-el-exito-del-mwc-con-un-impacto-minimo-de-la-guerra-3548859",
-        "date": "2026-03-05 17:30:28",
-        "sentiment_score": 0.4358166456222534
-    },
-    {
-        "title": "Calendario F1 2026: fechas, horarios, sedes y cómo ver a Checo Pérez en México",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Z5P3HVDUONBEZMDJUUSFKKN6MA.jpg?auth=99d710bd6b0ea4f7c094fe029e81b32ef0a3c3871509dda016c0caa530784e76&width=1200",
-        "tags": [
-            "latinoamérica",
-            "deportes",
-            "sergio pérez mendoza",
-            "televisa",
-            "fia",
-            "méxico",
-            "automovilismo",
-            "valtteri bottas",
-            "américa",
-            "cadillac f1 team",
-            "plataformas digitales",
-            "fórmula 1"
-        ],
-        "link": "https://elpais.com/mexico/2026-03-05/calendario-f1-2026-fechas-horarios-sedes-y-como-ver-a-checo-perez-en-mexico.html",
-        "date": "2026-03-05 17:30:13",
-        "sentiment_score": 0.3248373419046402
-    },
-    {
-        "title": "La ONU apoya al Gobierno español por construir vivienda protegida y pide “límites razonables” al precio del alquiler",
-        "image_url": "https://www.infobae.com/resizer/v2/7VBOBVFQ6RFGNA7CPUBVRTEXJ4.JPG?auth=93622ab870b406ebb68d9211ac7127fb032df96a30ec4283f633fc21ba1037ea&height=3667&smart=true&width=5500",
-        "tags": [
-            "onu",
-            "vivienda",
-            "alquileres",
-            "mercado inmobiliario",
-            "vivienda protegida",
-            "españa-economia",
-            "vivienda españa",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/05/la-onu-apoya-al-gobierno-espanol-por-construir-vivienda-protegida-y-pide-limites-razonables-al-precio-del-alquiler/",
-        "date": "2026-03-05 17:30:09",
-        "sentiment_score": -0.3860043063759804
-    },
-    {
         "title": "Trump cesa a Kristi Noem como responsable de Seguridad Nacional tras las muertes en Mineápolis",
         "image_url": "https://cdn.mnmstatic.net/cache/3f/61/media_thumb-link-4153691.webp?1772737806=",
         "tags": [
@@ -3042,5 +2806,188 @@ export default [
         "link": "https://www.mundiario.com/articulo/opiniones/8-m-espana-feminismo-igualdad-democracia-frente-ruido-mundo/20260309003612377796.html",
         "date": "2026-03-08 23:36:12",
         "sentiment_score": -0.7634593266993761
+    },
+    {
+        "title": "Cortes de luz en Madrid del 9 al 15 de marzo: horarios y calles afectadas",
+        "image_url": "https://okdiario.com/img/2026/03/05/cortes-de-luz-en-madrid-del-9-al-15-de-marzo-horarios-y-calles-afectadas.jpg",
+        "tags": [
+            "okd",
+            "luz",
+            "madrid",
+            "españa",
+            "apagón"
+        ],
+        "link": "https://okdiario.com/madrid/cortes-luz-madrid-del-9-15-marzo-horarios-calles-afectadas-16356705",
+        "date": "2026-03-09 07:00:57",
+        "sentiment_score": -0.4625939652323723
+    },
+    {
+        "title": "Un impulso que permite al Athletic creer",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/af8dc78d-f81a-4a34-bb52-9dab7c49cf69_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "athletic",
+            "impulso",
+            "creer",
+            "permite"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/03/09/impulso-permite-athletic-creer-10796184.html",
+        "date": "2026-03-09 07:00:28",
+        "sentiment_score": -0.08767777681350708
+    },
+    {
+        "title": "Dimite el secretario general de las Nuevas Generaciones del PP y pide el voto para Vox",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/09/el-secretario-de-nuevas-generaciones-del-pp-carlo-angrisano-en-una-imagen-de-la-formacion-conservadora.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.huffingtonpost.es/politica/dimite-secretario-general-nuevas-generaciones-pp-pide-voto-voxbr-f202603.html",
+        "date": "2026-03-09 06:42:30",
+        "sentiment_score": -0.7750103622674942
+    },
+    {
+        "title": "El banquillo de Osasuna también juega",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/586fed94-f3ad-4e13-8281-468f92f3d766_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "juega",
+            "osasuna",
+            "banquillo"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2026/03/09/banquillo-osasuna-juega-10796335.html",
+        "date": "2026-03-09 06:41:00",
+        "sentiment_score": -0.16031546890735626
+    },
+    {
+        "title": "Un paseo por el INFIERNO",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/03/paseo-infierno-1-750x500.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://elfarodeceuta.es/paseo-infierno/",
+        "date": "2026-03-09 06:36:00",
+        "sentiment_score": -0.7806696109473705
+    },
+    {
+        "title": "Eurocolegio Casvi (Villaviciosa de Odón) refuerza su modelo plurilingüe con mandarín y alemán obligatorio",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7883475",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5799825/eurocolegio-casvi-villaviciosa-odon-refuerza-modelo-plurilingue-mandarin-aleman-obligatorio",
+        "date": "2026-03-09 06:30:00",
+        "sentiment_score": 0.09643998742103577
+    },
+    {
+        "title": "El sorianista meticuloso",
+        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/files/fp/uploads/2026/03/08/69adbb8a2b884.r_d.781-445-8468.jpeg",
+        "tags": [
+            "castilla y león"
+        ],
+        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/260309/105305/sorianista-meticuloso.html",
+        "date": "2026-03-09 06:30:00",
+        "sentiment_score": 0.25649142265319824
+    },
+    {
+        "title": "Toda la economía europea puede verse arrastrada si el conflicto se extiende a las monarquías del Golfo, que son aliadas de occidente\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el monólogo de las 6h de bustos"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/el-monologo-de-las-6h-de-bustos/monologos/toda-economia-europea-verse-arrastrada-conflicto-extiende-monarquias-golfo-son-aliadas-occidente-20260309_3322238.html",
+        "date": "2026-03-09 06:10:01",
+        "sentiment_score": -0.16499578952789307
+    },
+    {
+        "title": "Un estadio por 300 millones",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9d553884-10a7-4e3f-b57c-eea490d48c2e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "españa",
+            "real madrid",
+            "inversión",
+            "motor"
+        ],
+        "link": "https://www.laopiniondemalaga.es/opinion/2026/03/09/estadio-300-millones-127718404.html",
+        "date": "2026-03-09 06:01:00",
+        "sentiment_score": -0.24995990097522736
+    },
+    {
+        "title": "Encuesta de Gesop para LA OPINIÓN: Los ciudadanos urgen a los partidos respuestas firmes ante la despoblación",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d6ece8f1-be1d-4b2e-98ad-4806b02d6f2c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "encuesta,vecinos,despoblación,ciudadanos,comunidad autónoma,tierra,el correo,elecciones autonómicas en castilla y león 2026"
+        ],
+        "link": "https://www.laopiniondezamora.es/zamora/2026/03/09/encuesta-gesop-opinion-ciudadanos-urgen-127718005.html",
+        "date": "2026-03-09 06:00:59",
+        "sentiment_score": -0.17935976386070251
+    },
+    {
+        "title": "Capaces de todo: alumnos con discapacidad de la UMA, en ARCO y en el Festival de Cine de Málaga",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1193f836-1c51-4a88-9416-42951f08cac0_16-9-aspect-ratio_default_0_x600y266.jpg",
+        "tags": [
+            "vega",
+            "arco",
+            "arte",
+            "opinión",
+            "estudiantes",
+            "universidad",
+            "discapacidad"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2026/03/09/alumnos-discapacidad-uma-taec-arte-arco-127633083.html",
+        "date": "2026-03-09 07:00:48",
+        "sentiment_score": 0.15744030475616455
+    },
+    {
+        "title": "Abusos y suicidios: la memoria más oscura de la ‘mili’",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9a51d07b-67b6-4f9f-8717-c8d39a86617c_16-9-aspect-ratio_default_0_x643y619.jpg",
+        "tags": [
+            "abusos",
+            "memoria",
+            "oscura",
+            "suicidios",
+            "mili"
+        ],
+        "link": "https://www.noticiasdenavarra.com/politica/2026/03/09/abusos-suicidios-memoria-oscura-mili-10796878.html",
+        "date": "2026-03-09 07:00:35",
+        "sentiment_score": -0.11914461851119995
+    },
+    {
+        "title": "Aldo Comas confiesa convivir con un \"TDAH galopante\": \"Solo me sirve para meterme en líos\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/09/69ae6be3e31753-84795741.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.20minutos.es/gente/aldo-comas-confiesa-convivir-con-un-tdah-galopante-mis-altas-capacidades-solo-me-sirven-para-meterme-lios_6943390_0.html",
+        "date": "2026-03-09 06:55:11",
+        "sentiment_score": 0.3048657812178135
+    },
+    {
+        "title": "El 'método Apple': así funciona la escalera de precios que ahora baja su primer peldaño",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2026/03/04/apple-presenta-el-nuevo-macbook-neo-su-portatil-mas-barato.jpeg",
+        "tags": [
+            "ocio y cultura"
+        ],
+        "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/03/09/apple-iphone-17e-macbook-neo-estrategia-precios-nuevos-productos-2026-1900572.html",
+        "date": "2026-03-09 06:54:41",
+        "sentiment_score": 0.6837154403328896
+    },
+    {
+        "title": "Así fue el amplio dispositivo para buscar al desaparecido en Llinars del Vallès",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2026/03/09/69ae6ad1771da.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20260309/asi-amplio-dispositivo-buscar-desaparecido-llinars-valles_393551.html",
+        "date": "2026-03-09 06:38:12",
+        "sentiment_score": -0.23979153484106064
+    },
+    {
+        "title": "Nueva señal de tráfico en Valencia: qué son los dientes de dragón y para qué sirven",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/03/09/69ae67ad65b51.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20260309/nueva-senal-trafico-valencia-son-dientes-dragon-sirven_393552.html",
+        "date": "2026-03-09 06:36:10",
+        "sentiment_score": -0.05111708864569664
     }
 ];
