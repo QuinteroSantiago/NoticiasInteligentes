@@ -1,17 +1,5 @@
 export default [
     {
-        "title": "Investigación descubre químicos de riesgos desconocidos añadidos \"en secreto\" en miles de alimentos en EE.UU",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/60/media_thumb-link-4153475.webp?1772703546=",
-        "tags": [
-            "alimentos",
-            "químicos",
-            "eeuu"
-        ],
-        "link": "https://www.meneame.net/story/investigacion-descubre-quimicos-riesgos-desconocidos-anadidos-ee",
-        "date": "2026-03-05 14:05:02",
-        "sentiment_score": -0.12180638313293457
-    },
-    {
         "title": "Hasta 80.000 euros: estos países europeos sí cobran a sus compatriotas por las repatriaciones de Oriente Medio",
         "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/05/pasajeros-procedentes-de-dubai-aterrizan-en-el-aeropuerto-internacional-de-sidney-el-4-de-marzo-de-2026.jpeg",
         "tags": [
@@ -824,18 +812,6 @@ export default [
         "link": "https://www.noticiasdegipuzkoa.eus/opinion/2026/03/06/justo-trump-10786820.html",
         "date": "2026-03-06 06:12:55",
         "sentiment_score": -0.10867881774902344
-    },
-    {
-        "title": "Investigación descubre químicos de riesgos desconocidos añadidos \"en secreto\" en miles de alimentos en EE.UU",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/60/media_thumb-link-4153475.webp?1772703546=",
-        "tags": [
-            "alimentos",
-            "químicos",
-            "eeuu"
-        ],
-        "link": "https://www.meneame.net/story/investigacion-descubre-quimicos-riesgos-desconocidos-anadidos-ee",
-        "date": "2026-03-05 14:05:02",
-        "sentiment_score": -0.12180611491203308
     },
     {
         "title": "Trump cesa a Kristi Noem como responsable de Seguridad Nacional tras las muertes en Mineápolis",
@@ -2836,5 +2812,235 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260308/ayuntamiento-vuelca-trinitat-nova-construye-edificio-vivienda-protegida-millones/1003742738929_0.html",
         "date": "2026-03-08 22:30:00",
         "sentiment_score": 0.32654958963394165
+    },
+    {
+        "title": "La gambeta de la joya de 17 años del Porto que ridiculizó a Nicolás Otamendi en el clásico ante Benfica: el video que se volvió viral",
+        "image_url": "https://www.infobae.com/resizer/v2/T4QJX6REXZD67LJJQWSQPXBGNM.jpg?auth=9d0b42da2131587c53bc86fa57e8ead6d75af24f16285003d77ceedfd4766a7d&height=1079&smart=true&width=1920",
+        "tags": [
+            "benfica",
+            "deportes-argentina",
+            "porto",
+            "josé mourinho",
+            "nicolás otamendi",
+            "oskar pietuszewski"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/09/la-gambeta-de-la-joya-de-17-anos-del-porto-que-ridiculizo-a-nicolas-otamendi-en-el-clasico-ante-benfica-el-video-que-se-volvio-viral/",
+        "date": "2026-03-09 02:25:41",
+        "sentiment_score": -0.2845032066106796
+    },
+    {
+        "title": "Lunes 9 de marzo (02:00 GMT)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/09/lunes-9-de-marzo-0200-gmt/",
+        "date": "2026-03-09 02:15:40",
+        "sentiment_score": 0.004719726741313934
+    },
+    {
+        "title": "El SER reduce a un tercio el tiempo para encontrar aparcamiento en el barrio de Comillas",
+        "image_url": "https://www.madridactual.es/images/stories/noticias/agencias/ep/2026/03/madrid-la-implantacion-comillas-traduce-buscar-aparcamiento.jpg",
+        "tags": [
+            "carabanchel"
+        ],
+        "link": "https://www.madridactual.es/noticias-regionales/madrid-ciudad/carabanchel/madrid-la-implantacion-comillas-traduce-buscar-aparcamiento-20260309-8089854.html",
+        "date": "2026-03-09 02:02:03",
+        "sentiment_score": 0.06091899052262306
+    },
+    {
+        "title": "Los demoledores informes sobre la 'ley de eficiencia' de Bolaños: \"improvisación\", \"colapso\", \"desánimo general\"",
+        "image_url": "https://s3.elespanol.com/2026/03/08/actualidad/1003744161015_261828166_1706x1280.jpg",
+        "tags": [
+            "félix bolaños garcía",
+            "tribunales",
+            "ministerio de justicia",
+            "jueces",
+            "letrados de la administración de justicia"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20260309/demoledores-informes-ley-eficiencia-bolanos-improvisacion-colapso-desanimo-general/1003744159639_0.html",
+        "date": "2026-03-09 02:00:31",
+        "sentiment_score": -0.8329483363777399
+    },
+    {
+        "title": "Germán Torrado: \"CTx Tech aspira a ser el puente entre Europa, Latam y Asia para pasar de las ideas a la ejecución\"",
+        "image_url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744151016_261697874_1706x960.jpg",
+        "tags": [
+            "inteligencia artificial",
+            "startup",
+            "innovación",
+            "tecnología",
+            "digitalización",
+            "empresas tecnológicas",
+            "branded content",
+            "empresas"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/empresas/20260309/german-torrado-ctx-tech-aspira-puente-europa-latam-asia-pasar-ideas-ejecucion/1003744151013_0.html",
+        "date": "2026-03-09 01:53:59",
+        "sentiment_score": 0.6182913333177567
+    },
+    {
+        "title": "La inestabilidad deportiva pasa factura al Real Madrid: no basta con los 1.000 millones de ingresos",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/26/culemania/real-madrid/1003742736462_15763157_1706x960.jpg",
+        "tags": [
+            "santiago bernabéu",
+            "real madrid"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260309/inestabilidad-deportiva-factura-real-madrid-millones-ingresos/1003742739516_0.html",
+        "date": "2026-03-09 01:13:10",
+        "sentiment_score": -0.48333654925227165
+    },
+    {
+        "title": "El petróleo supera los 100 dólares por primera vez desde 2022 tras una semana de guerra entre EEUU e Irán",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2025/12/06/una-garrafa-de-petroleo-vertiendose-sobre-otro-recipiente.jpeg",
+        "tags": [
+            "global"
+        ],
+        "link": "https://www.huffingtonpost.es/global/el-petroleo-supera-100-dolares-primera-vez-2022-semana-guerra-eeuu-ean-f202603.html",
+        "date": "2026-03-09 01:07:18",
+        "sentiment_score": -0.24717235565185547
+    },
+    {
+        "title": "08 MAR 2026 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/08-mar-2026-tertulion-domingos-20260309_3322228.html",
+        "date": "2026-03-09 00:56:35",
+        "sentiment_score": -0.5787540059536695
+    },
+    {
+        "title": "El ataque de Xavi a Laporta en la semanas de elecciones, en El Tertulión",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/09/69ae05917f6e0.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-08-20260309_3322211.html",
+        "date": "2026-03-09 00:19:37",
+        "sentiment_score": -0.0710172951221466
+    },
+    {
+        "title": "El PSOE busca expulsar a dos militantes por «insultar y denigrar» a Casares en redes",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2026/03/08/PSOE-kdqF--1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "partido socialista obrero español (psoe)",
+            "pedro sánchez",
+            "el diario montañes",
+            "pablo zuloaga",
+            "redes sociales",
+            "facebook",
+            "pedro casares"
+        ],
+        "link": "https://www.eldiariomontanes.es/cantabria/psoe-busca-expulsar-dos-militantes-insultar-denigrar-20260309183148-nt.html",
+        "date": "2026-03-09 00:00:00",
+        "sentiment_score": -0.9251782149076462
+    },
+    {
+        "title": "El 8-M desborda el 'No a la guerra' de Sánchez: el feminismo toma las calles con mensajes de igualdad y transciende los intentos partidistas para reflotar a la izquierda",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/100cc57e14e19b0030a2412626aad5ec/crop/1116x125/2131x1140/f/image/jpeg/assets/multimedia/imagenes/2024/10/31/17303778454999.jpg",
+        "tags": [
+            "feminismo",
+            "marcha 8m",
+            "artículos silvia lorenzo"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/03/09/69adddad21efa0c0568b457d.html",
+        "date": "2026-03-09 02:19:54",
+        "sentiment_score": -0.2366054207086563
+    },
+    {
+        "title": "Temperaturas en Barcelona: prepárate antes de salir de casa",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima en españa",
+            "clima en barcelona",
+            "clima",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/09/temperaturas-en-barcelona-preparate-antes-de-salir-de-casa/",
+        "date": "2026-03-09 02:01:17",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Loles León inaugura su consultorio sexual abierto al público en ‘Zero dramas’: “Lo que no se usa, se oxida”",
+        "image_url": "https://www.infobae.com/resizer/v2/O66OOB3ARZEXHEMOC32OHKCN6A.jpg?auth=d11ead056a320aacbf651b49a0d6c3bf491e87c3be2b031115f05d02cef9366f&height=1080&smart=true&width=1920",
+        "tags": [
+            "masturbación",
+            "gente españa",
+            "españa-entretenimietno",
+            "televisión españa",
+            "sexo",
+            "rtve",
+            "españa-noticias",
+            "famosos españa",
+            "tve"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/09/loles-leon-inaugura-su-consultorio-sexual-abierto-al-publico-en-zero-dramas-lo-que-no-se-usa-se-oxida/",
+        "date": "2026-03-09 01:54:21",
+        "sentiment_score": 0.038155414164066315
+    },
+    {
+        "title": "Universidad Católica golea a Leones y rompe su mala racha en Ecuador",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/09/universidad-catolica-golea-a-leones-y-rompe-su-mala-racha-en-ecuador/",
+        "date": "2026-03-09 00:33:45",
+        "sentiment_score": -0.7104973271489143
+    },
+    {
+        "title": "La peña Barcelonista Placentina recupera su actividad con 125 socios",
+        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2026/03/09/213628321.jpg",
+        "tags": [
+            "actividad",
+            "placentina",
+            "barcelonista",
+            "pena",
+            "recupera",
+            "socios",
+            "125"
+        ],
+        "link": "https://www.hoy.es/plasencia/pena-barcelonista-placentina-recupera-actividad-125-socios-20260309090124-nt.html",
+        "date": "2026-03-09 00:00:00",
+        "sentiment_score": 0.7238355632871389
+    },
+    {
+        "title": "Excelencia educativa internacional desde Arona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/33ad1210-36ab-4545-971f-e9a080e47d65_16-9-discover-aspect-ratio_default_0_x500y200.jpg",
+        "tags": [
+            "exámenes",
+            "tenerife",
+            "seguridad",
+            "colegios",
+            "españa",
+            "estudiantes",
+            "educación"
+        ],
+        "link": "https://www.eldia.es/tenerife/2026/03/09/excelencia-educativa-internacional-arona-127718479.html",
+        "date": "2026-03-09 00:00:00",
+        "sentiment_score": -0.0726597011089325
+    },
+    {
+        "title": "Cuando Jordi Pujol quiso dominar el Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/07/culemania/historias-del-barca/1003742739354_15800513_1706x960.jpg",
+        "tags": [
+            "historias del barça",
+            "elecciones barça",
+            "jordi pujol soley"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/historias-del-barca/20260309/jordi-pujol-quiso-dominar-barca/1003742739342_0.html",
+        "date": "2026-03-08 23:57:26",
+        "sentiment_score": -0.9143199333921075
+    },
+    {
+        "title": "8-M en España: feminismo, igualdad y democracia frente al ruido del mundo",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/09/2026030900312423592.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.mundiario.com/articulo/opiniones/8-m-espana-feminismo-igualdad-democracia-frente-ruido-mundo/20260309003612377796.html",
+        "date": "2026-03-08 23:36:12",
+        "sentiment_score": -0.7634593266993761
     }
 ];
