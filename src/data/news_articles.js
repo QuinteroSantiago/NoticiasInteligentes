@@ -1,220 +1,5 @@
 export default [
     {
-        "title": "Cuándo es y a qué hora empieza el Atlético – Real Sociedad: dónde ver por televisión gratis el partido de la Liga",
-        "image_url": "https://okdiario.com/img/2026/03/05/donde-ver-atletico-real-sociedad_.jpg",
-        "tags": [
-            "atlético de madrid",
-            "directo",
-            "la liga",
-            "real sociedad de fútbol",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/cuando-que-hora-empieza-atletico-real-sociedad-donde-ver-television-gratis-partido-liga-video-16357718",
-        "date": "2026-03-06 17:30:43",
-        "sentiment_score": 0.04165157675743103
-    },
-    {
-        "title": "Moeve y Liga F reivindican el fútbol femenino como cantera de futuras líderes",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/06/2026030618243670960.jpg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/dinero/moeve-liga-f-reivindican-futbol-femenino-como-cantera-futuras-lideres/202603061829261007992.html",
-        "date": "2026-03-06 17:29:26",
-        "sentiment_score": 0.6166156716644764
-    },
-    {
-        "title": "La izquierda utiliza el 8M para tratar de cercar a Ayuso con el caso de acoso en Móstoles",
-        "image_url": "https://s1.staticld.com/2026/03/06/isabel-diaz-ayuso-060326.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.libertaddigital.com/madrid/2026-03-06/la-izquierda-utiliza-el-8m-para-cercar-a-ayuso-con-el-caso-de-acoso-en-mostoles-7370465/",
-        "date": "2026-03-06 17:29:21",
-        "sentiment_score": -0.8359919283539057
-    },
-    {
-        "title": "Un total de 250 jóvenes presentan sus producciones de ópera en la cuarta edición de LÓVA del Teatro Real",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260306182441_690.jpg",
-        "tags": [
-            "teatro real",
-            "cultura"
-        ],
-        "link": "https://www.europapress.es/cultura/teatroreal-01040/noticia-total-250-jovenes-presentan-producciones-opera-cuarta-edicion-lova-teatro-real-20260306182441.html",
-        "date": "2026-03-06 17:24:41",
-        "sentiment_score": 0.09418439865112305
-    },
-    {
-        "title": "La noche que murió Jameneí, los iraníes salieron a celebrar, pusieron música y repartieron bebidas: \"Todos los que conozco esperan el momento para volver a salir\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/02/28/el-lider-supremo-de-iran-el-ayatola-ali-khamenei-saluda-durante-una-reunion-en-teheran-iran-el-17-de-febrero-de-2026.jpeg",
-        "tags": [
-            "global"
-        ],
-        "link": "https://www.huffingtonpost.es/global/la-noche-murio-jamenei-iranies-salieron-celebrar-pusieron-musica-repartieron-bebidas-todos-conozco-esperan-momento-volver-salir-f202603.html",
-        "date": "2026-03-06 17:23:25",
-        "sentiment_score": -0.7149755470454693
-    },
-    {
-        "title": "La Real Sociedad aparca la euforia de la Copa y se centra en el reto europeo de LaLiga",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/06/69ab0a31f305a.jpeg",
-        "tags": [
-            "deportes gipuzkoa"
-        ],
-        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-guipuzcoa/noticias/real-sociedad-aparca-euforia-copa-centra-reto-europeo-laliga-20260306_3321804.html",
-        "date": "2026-03-06 17:21:05",
-        "sentiment_score": -0.0005653500556945801
-    },
-    {
-        "title": "La estación de Metro Santiago Bernabéu cerrará desde el 28 de marzo hasta finales de año por obras",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2026/03/bernabeu.jpg",
-        "tags": [
-            "madrid",
-            "transporte"
-        ],
-        "link": "https://www.elindependiente.com/espana/madrid/2026/03/06/la-estacion-de-metro-santiago-bernabeu-cerrara-desde-el-28-de-marzo-hasta-finales-de-ano-por-obras/",
-        "date": "2026-03-06 17:19:59",
-        "sentiment_score": 0.16451260074973106
-    },
-    {
-        "title": "Gabriel Rufián rescata lo que dijo en 'La Revuelta' sobre el precio de la vivienda, que registra una nueva subida",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2025/10/21/gabriel-rufian-durante-su-entrevista-en-la-revuelta-de-david-broncano.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/gabriel-rufian-rescata-dijo-la-revuelta-sobre-precio-vivienda-registra-nueva-subida-f202603.html",
-        "date": "2026-03-06 17:18:58",
-        "sentiment_score": 0.11833354830741882
-    },
-    {
-        "title": "Sánchez recurre ahora a Merlin y Portugal para salvar la gigafactoría de IA europea de 5.000 millones",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2026/01/pedro-sanchez-ursula-von-der-leyen-centro-de-datos-1000x665.jpg",
-        "tags": [
-            "pedro sánchez",
-            "unión europea",
-            "merlin properties",
-            "inteligencia artificial",
-            "empresas"
-        ],
-        "link": "https://www.economiadigital.es/empresas/sanchez-merlin-alianza-iberica.html",
-        "date": "2026-03-06 17:18:15",
-        "sentiment_score": -0.40345191210508347
-    },
-    {
-        "title": "Kylian Mbappé ya tiene carnet: el futbolista del Real Madrid conduce por primera vez su BMW de 140.000 euros sin la ‘L’",
-        "image_url": "https://www.infobae.com/resizer/v2/7UDYH3ISJBG4RJ3546JLIHEX3A.jpg?auth=ca7252487bb798954da78adbdd868aefff7281a2aebddc32863c498dc26d6f5e&height=542&smart=true&width=768",
-        "tags": [
-            "kylian mbappé",
-            "españa-noticias",
-            "real madrid",
-            "españa deportes",
-            "fútbol",
-            "fútbol españa"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/06/kylian-mbappe-ya-tiene-carnet-el-futbolista-del-real-madrid-conduce-por-primera-vez-su-bmw-de-140000-euros-sin-la-l/",
-        "date": "2026-03-06 17:17:59",
-        "sentiment_score": -0.9026822252199054
-    },
-    {
-        "title": "Una importante vía de Barcelona, cortada al tráfico este día: fechas y detalles",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/06/19/movilidad/1003742667283_14756376_1706x960.jpg",
-        "tags": [
-            "ayuntamiento de barcelona",
-            "obras",
-            "coches",
-            "movilidad"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/movilidad/20260306/importante-via-barcelona-cortada-trafico-dia-fechas-detalles/1003742739142_0.html",
-        "date": "2026-03-06 17:31:00",
-        "sentiment_score": -0.7172434348613024
-    },
-    {
-        "title": "Alerta por la estafa del “hijo en apuros”: una denuncia en Canarias provoca la caída de una red que blanqueaba miles de euros en criptomonedas",
-        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2025/06/criptomonedas-bitcoin-1024x597.jpg",
-        "tags": [
-            "portada apertura 3",
-            "portada",
-            "sucesos"
-        ],
-        "link": "https://diariodeavisos.elespanol.com/2026/03/estafa-hijo-apuros-canarias-criptomonedas/",
-        "date": "2026-03-06 17:30:43",
-        "sentiment_score": -0.8595318822190166
-    },
-    {
-        "title": "Nacho Casado en Elche: «Mi música llegó a las tiendas de importación de Tokio porque hay cabida a propuestas que no son tan mainstream»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b0a0078d-cf9f-41de-be08-5f8de5f8a202_16-9-aspect-ratio_default_0_x724y799.jpg",
-        "tags": [
-            "tokio",
-            "japón",
-            "gente",
-            "música",
-            "público"
-        ],
-        "link": "https://www.informacion.es/elche/2026/03/06/musica-conciertos-nacho-casado-cantautores-la-llotja-127635456.html",
-        "date": "2026-03-06 17:26:24",
-        "sentiment_score": 0.08147365972399712
-    },
-    {
-        "title": "La contundente opinión de Guillermo Barros Schelotto ante el posible cambio de reglamento para clasificar a la Copa Libertadores",
-        "image_url": "https://www.infobae.com/resizer/v2/XGKMVHF7P5BT3EDV3ZFAPWAXGU.JPG?auth=c78f7f0262bf523bf63cddd953b7424ccb6c9defc75e772e551f36f12e2065fe&height=3375&smart=true&width=6000",
-        "tags": [
-            "vélez sársfield",
-            "afa",
-            "liga profesional",
-            "guillermo barros schelotto",
-            "copa libertadores",
-            "copa sudamericana"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/06/la-contundente-opinion-de-guillermo-barros-schelotto-ante-el-posible-cambio-de-reglamento-para-clasificar-a-la-copa-libertadores/",
-        "date": "2026-03-06 17:26:00",
-        "sentiment_score": -0.014208123087882996
-    },
-    {
-        "title": "Liberada una mujer retenida en un piso gracias a una nota que lanzó a la calle",
-        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2026/03/06/2026030618201621389.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elprogreso.es/articulo/espana/detenido-barcelona-hombre-retener-mujer-piso/202603061825541951850.html",
-        "date": "2026-03-06 17:25:54",
-        "sentiment_score": 0.11932980269193649
-    },
-    {
-        "title": "Regina comienza a dejar huella: la búsqueda del conductor de una furgoneta arrastrada por el agua en Barcelona",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/03/06/C3F032C2-5CF4-417B-AAE1-54389569E90D/regina-comienza-dejar-huella-busqueda-conductor-furgoneta-arrastrada-agua-barcelona_98.jpg?crop=1900%2C1069%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/regina-comienza-dejar-huella-busqueda-conductor-furgoneta-arrastrada-agua-barcelona-b50m_2026030669ab0e13e1ff634075dc3bbe.html",
-        "date": "2026-03-06 17:25:39",
-        "sentiment_score": -0.848182825371623
-    },
-    {
-        "title": "COMUNICADO: Huawei y SOLUM presentan una solución de red convergente inteligente Shop-in-Shop",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
-        "tags": [
-            "comunicados",
-            "comunicados internacional"
-        ],
-        "link": "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-huawei-solum-presentan-solucion-red-convergente-inteligente-shop-in-shop-20260306182345.html",
-        "date": "2026-03-06 17:23:45",
-        "sentiment_score": 0.6013892088085413
-    },
-    {
-        "title": "El viento y la lluvia derriban una tipuana de grandes dimensiones en el barrio Gòtic de Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/047ce32c-cc2d-4909-b213-653d4bc405e7_alta-libre-aspect-ratio_default_0_x768y321.jpg",
-        "tags": [
-            "barcelona",
-            "tiempo",
-            "borrasca",
-            "temporales",
-            "lluvias"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20260306/viento-lluvia-barcelona-borrasca-regina-arbol-caido-gotic-127653116",
-        "date": "2026-03-06 17:21:34",
-        "sentiment_score": -0.9105124287307262
-    },
-    {
         "title": "El Real Madrid se libra de milagro en el descuento de una nueva hecatombe",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/adac7a25-0aed-4cda-8cb0-a7956b46bf92_16-9-aspect-ratio_default_0_x1000y444.jpg",
         "tags": [
@@ -2912,5 +2697,188 @@ export default [
         "link": "https://www.expansion.com/economia-digital/companias/2026/03/10/69ab0279e5fdea67408b4578.html",
         "date": "2026-03-10 01:01:14",
         "sentiment_score": 0.6903282925486565
+    },
+    {
+        "title": "Newcastle - Barcelona: Hora, alineaciones y dónde ver el partido de ida de octavos de final de Champions League en directo",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/03/09/F04407CC-856E-4922-954F-83AACD27F0B9/rashford-newcastle-barca-liguilla-champions-league-2025-2026_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/newcastle-barcelona-hora-alineaciones-donde-ver-partido-ida-octavos-final-champions-league-directo_2026031069aeef176cf703292f6a7ecf.html",
+        "date": "2026-03-10 07:00:13",
+        "sentiment_score": 0.07181259244680405
+    },
+    {
+        "title": "Avalancha de rondas en el ecosistema startup",
+        "image_url": "https://wp.emprendedores.es/wp-content/uploads/2026/02/Gyala-Therapeutics-Claudio-Santos-Nela-Klein-Gonzalez.jpg",
+        "tags": [
+            "startups",
+            "financiación"
+        ],
+        "link": "https://emprendedores.es/startups/avalancha-de-rondas-en-el-ecosistema-startup",
+        "date": "2026-03-10 07:00:00",
+        "sentiment_score": 0.09916414320468903
+    },
+    {
+        "title": "Rodrigo de la Calle, chef de la revolución vegetal: \"Es un problema que los más jóvenes se hayan acostumbrado a los procesados y a comprar por el móvil en lugar de ir al mercado\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cfdc3877-2118-4e83-be07-ba798566c60e_16-9-aspect-ratio_default_0_x664y354.jpg",
+        "tags": [
+            "cocineros",
+            "sostenibilidad"
+        ],
+        "link": "https://www.laopiniondemalaga.es/sociedad/2026/03/10/rodrigo-calle-chef-revolucion-vegetal-127764555.html",
+        "date": "2026-03-10 06:56:32",
+        "sentiment_score": 0.11821240931749344
+    },
+    {
+        "title": "Agenda Informativa de Europa Press para hoy martes, 10 de marzo (y 2)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/10/agenda-informativa-de-europa-press-para-hoy-martes-10-de-marzo-y-2/",
+        "date": "2026-03-10 06:46:06",
+        "sentiment_score": 0.029754910618066788
+    },
+    {
+        "title": "Lo que se sabe de la supuesta relación entre Ester Expósito y Mbappé: citas en París y Madrid, avión privado...",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/09/69aebcbad135a4-82943032.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.20minutos.es/gente/que-se-sabe-supuesta-relacion-entre-ester-exposito-mbappe-citas-paris-madrid-juntos-un-hotel-avion-privado_6943855_0.html",
+        "date": "2026-03-10 06:11:38",
+        "sentiment_score": 0.09973267465829849
+    },
+    {
+        "title": "Generación propia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6a273367-fb11-415c-bbeb-260e9841dbf7_16-9-aspect-ratio_default_0_x1000y433.jpg",
+        "tags": [
+            "memoria",
+            "acb",
+            "ibon navarro",
+            "unicaja"
+        ],
+        "link": "https://www.laopiniondemalaga.es/opinion/2026/03/10/generacion-propia-127756116.html",
+        "date": "2026-03-10 06:00:55",
+        "sentiment_score": 0.5004917606711388
+    },
+    {
+        "title": "\"Aquí certezas\": las otras certezas que no caben en un lema",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cb30e9b8-8cb1-49ac-8cfd-e0fda517a1c8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "vivienda,pueblos,castilla y león,seguridad,elecciones autonómicas en castilla y león 2026"
+        ],
+        "link": "https://www.laopiniondezamora.es/opinion/2026/03/10/certezas-certezas-caben-lema-127742620.html",
+        "date": "2026-03-10 06:00:44",
+        "sentiment_score": 0.6506541296839714
+    },
+    {
+        "title": "El impacto de los puertos deportivos en la economía de Málaga alcanza los 710 millones de euros",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e6989635-a9a3-4831-866c-a8c56b96af6d_16-9-aspect-ratio_default_0_x750y333.jpg",
+        "tags": [
+            "andalucía",
+            "internacional",
+            "economía",
+            "costa del sol",
+            "puertos"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2026/03/10/impacto-puertos-deportivos-economia-malaga-millones-euros-127654467.html",
+        "date": "2026-03-10 06:00:41",
+        "sentiment_score": 0.06025470793247223
+    },
+    {
+        "title": "Éstas son las personas que están obligadas a hacer el curso para tener perro: temario, en qué consiste y cuándo empieza",
+        "image_url": "https://okdiario.com/img/2026/03/09/estas-son-las-personas-que-estan-obligadas-a-hacer-el-curso-para-tener-perro-temario-en-que-consiste-y-cuando-empieza.jpg",
+        "tags": [
+            "animales de compañía",
+            "mascotas",
+            "animales domésticos",
+            "okd",
+            "perros"
+        ],
+        "link": "https://okdiario.com/mascotas/estas-son-personas-que-estan-obligadas-hacer-curso-tener-perro-temario-que-consiste-cuando-empieza-16379464",
+        "date": "2026-03-10 06:00:21",
+        "sentiment_score": 0.07384069263935089
+    },
+    {
+        "title": "En Comfort Business Barcelona se consolida el despacho ideal para empresas exigentes",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7885426",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5801567/comfort-business-barcelona-consolida-despacho-ideal-empresas-exigentes",
+        "date": "2026-03-10 07:00:00",
+        "sentiment_score": 0.5344362761825323
+    },
+    {
+        "title": "David Dévora, una paciente del servicio de Hematología en Canarias: \"Tenía miedo, no dejaba de pensar que mucha gente muere por leucemia\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/52bda20e-35cb-472a-af1c-bd1a4e6f1b85_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "gente",
+            "familia",
+            "canarias",
+            "cáncer",
+            "leucemia",
+            "huc",
+            "pacientes"
+        ],
+        "link": "https://www.laprovincia.es/canarias/2026/03/10/david-devora-paciente-servicio-hematologia-127754559.html",
+        "date": "2026-03-10 07:00:00",
+        "sentiment_score": -0.6839276067912579
+    },
+    {
+        "title": "Júlia Pericas, la joven catalana que bailó con Bad Bunny en la Superbowl: \"No podía decir nada hasta el día de la actuación\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6b2894a4-bffd-4c17-b506-2fc5d7eaacbe_alta-libre-aspect-ratio_default_0_x1000y432.jpg",
+        "tags": [
+            "la voz",
+            "bad bunny",
+            "operación triunfo",
+            "badalona",
+            "tu cara me suena",
+            "estados unidos",
+            "karol g",
+            "redes sociales",
+            "danza",
+            "super bowl",
+            "barcelona",
+            "vallès oriental"
+        ],
+        "link": "https://www.elperiodico.com/es/gente/20260310/julia-pericas-vallromanes-cataluna-bailarina-bad-bunny-superbowl-dv-loc-127487017",
+        "date": "2026-03-10 06:35:00",
+        "sentiment_score": -0.43092911690473557
+    },
+    {
+        "title": "Este es el precio de la gasolina en Madrid, Barcelona y otras ciudades de España este 10 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "últimas actualizaciones",
+            "madrid y otras ciudades",
+            "precio de la gasolina en españa hoy",
+            "españa-economia",
+            "precio de la gasolina en españa",
+            "precio de la gasonila en barcelona"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/10/este-es-el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-de-espana-este-10-de-marzo/",
+        "date": "2026-03-10 06:31:09",
+        "sentiment_score": -0.0731721930205822
+    },
+    {
+        "title": "El Poder Judicial prepara una respuesta a Bolaños: equipos \"flotantes\" y sedes dispersas lastran la nueva organización de los juzgados",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b516829e-7d12-4bc8-b383-74785e0bc001_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "juzgados",
+            "funcionarios",
+            "tribunales",
+            "consejo general del poder judicial",
+            "política",
+            "abogados",
+            "barcelona"
+        ],
+        "link": "https://www.lne.es/espana/2026/03/10/judicial-prepara-respuesta-bolanos-tribunales-de-instancia-equipos-flotantes-sedes-dispersa-127764053.html",
+        "date": "2026-03-10 06:30:07",
+        "sentiment_score": -0.15150964260101318
     }
 ];
