@@ -2692,5 +2692,225 @@ export default [
         "link": "https://www.laprovincia.es/canarias/2026/03/09/reconocimiento-ingenio-premios-canarias-2026-127759663.html",
         "date": "2026-03-09 22:21:45",
         "sentiment_score": -0.01669982075691223
+    },
+    {
+        "title": "James Rodríguez ya le puso fecha a su debut con el Minnesota United, al que llegó para preparar la Copa del Mundo que jugará con Colombia",
+        "image_url": "https://www.infobae.com/resizer/v2/JEL3ZZLBIBHQ7JJO7VKOKKCW7A.jpg?auth=24d1329f7fb393877a0560935e6a5d728a0fcd41ab0d9a220af4b1988be9144f&height=685&smart=true&width=1080",
+        "tags": [
+            "mls",
+            "mundial 2026",
+            "selección colombia",
+            "copa del mundo 2026",
+            "minnesota united",
+            "néstor lorenzo",
+            "james rodríguez",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/2026/03/10/james-rodriguez-ya-le-puso-fecha-a-su-debut-con-el-minnesota-united-al-que-llego-para-preparar-la-copa-del-mundo-que-jugara-con-colombia/",
+        "date": "2026-03-10 02:37:23",
+        "sentiment_score": 0.09644802287220955
+    },
+    {
+        "title": "La postura de Pablo Aimar al ser consultado por la sede de la Finalíssima entre Argentina y España",
+        "image_url": "https://www.infobae.com/resizer/v2/NZO2UVMZBNFI7E5UG3BJSPMH4Q.JPG?auth=77597dad954e7ff79b32bf81ed7ba92ac67bac57d1754dbebb964b7b67dfc12d&height=1284&smart=true&width=2283",
+        "tags": [
+            "pablo aimar",
+            "finalissima",
+            "selección argentina",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/10/la-postura-de-pablo-aimar-al-ser-consultado-por-la-sede-de-la-finalissima-entre-argentina-y-espana/",
+        "date": "2026-03-10 01:54:52",
+        "sentiment_score": -0.8855372043326497
+    },
+    {
+        "title": "Angrisano dejó NNGG al saber que le iban a expulsar y tras una bronca con Fanjul: ahora vive en Ecuador, en el círculo de Noboa",
+        "image_url": "https://s3.elespanol.com/2026/03/09/actualidad/1003744162636_261849668_1706x960.jpg",
+        "tags": [
+            "partido popular (pp)",
+            "juan carlos girauta",
+            "nuevas generaciones",
+            "daniel noboa",
+            "ecuador",
+            "parlamento europeo",
+            "vox",
+            "guayaquil",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260310/angrisano-dejo-nngg-saber-iban-expulsar-bronca-fanjul-ahora-vive-ecuador-circulo-noboa/1003744161448_0.html",
+        "date": "2026-03-10 01:53:16",
+        "sentiment_score": 0.14863859117031097
+    },
+    {
+        "title": "Justin Quiles y Lenny Tavárez revolucionan la música con “Superarte”: por qué querían cerrar un ciclo y los secretos de su bro-mance",
+        "image_url": "https://www.infobae.com/resizer/v2/ON6JXQ637VBBLG3UFFJ5W4G7BA.jpg?auth=80cadcfd39087572cfd0cd2fa4262eb3ca237b5f34c88078d0a6efc4da888001&height=2340&smart=true&width=4159",
+        "tags": [
+            "justin quiles",
+            "lenny tavarez"
+        ],
+        "link": "https://www.infobae.com/entretenimiento/2026/03/10/justin-quiles-y-lenny-tavarez-revolucionan-la-musica-con-superarte-por-que-querian-cerrar-un-ciclo-y-los-secretos-de-su-bro-mance/",
+        "date": "2026-03-10 01:37:23",
+        "sentiment_score": 0.7134195258840919
+    },
+    {
+        "title": "¿Piloto a los 17? Daniel Luis es el joven que vuela más alto en Tenerife",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/54b771f9-51df-4d7d-b2e4-74bee43a06d0_16-9-discover-aspect-ratio_default_0_x872y387.jpg",
+        "tags": [
+            "piloto",
+            "padres",
+            "vueling",
+            "tenerife",
+            "iberia express",
+            "daniel",
+            "madrid",
+            "iberia",
+            "formación"
+        ],
+        "link": "https://www.eldia.es/tenerife/2026/03/10/piloto-17-daniel-luis-joven-127757671.html",
+        "date": "2026-03-10 01:17:01",
+        "sentiment_score": -0.017184913158416748
+    },
+    {
+        "title": "El tiempo se le acaba al Oviedo en LaLiga: ¿será el descenso su único destino posible?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/14/2025121416510213695.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/tiempo-acaba-oviedo-sera-descenso-unico-destino-posible/20260310020828377881.html",
+        "date": "2026-03-10 01:08:28",
+        "sentiment_score": -0.9072922710329294
+    },
+    {
+        "title": "Madrid-Man City y PSG-Chelsea lideran octavos de Champions. Bodø/Glimt debuta",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/c2b3591/2147483647/strip/true/crop/2949x1548+0+209/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe5%2Fdc%2Fa4084a884ca189deab49a4898004%2F626521cfc17b4423b23971ce932e1df2.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-09/madrid-man-city-y-psg-chelsea-lideran-octavos-de-champions-bod-glimt-debuta",
+        "date": "2026-03-10 00:58:49",
+        "sentiment_score": 0.8628956563770771
+    },
+    {
+        "title": "El cabreo silenciado de Xavi Hernández con Hansi Flick: una historia de traición y perdón",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/09/culemania/primer-equipo/1003742739842_15806209_1706x960.jpg",
+        "tags": [
+            "xavi hernández",
+            "primer equipo",
+            "hansi flick",
+            "barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260310/silenciado-xavi-hernandez-hansi-flick-historia-traicion/1003742739841_0.html",
+        "date": "2026-03-10 00:28:43",
+        "sentiment_score": -0.11615084111690521
+    },
+    {
+        "title": "Dani Ceballos y Luna Serrat anuncian que serán padres de gemelos",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/24/2025042407333033944.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/dani-ceballos-luna-serrat-anuncian-que-seran-padres-gemelos/20260310005054377876.html",
+        "date": "2026-03-09 23:50:54",
+        "sentiment_score": 0.2952655330300331
+    },
+    {
+        "title": "Real Madrid vs. Manchester City: Mbappé no estará en el Bernabéu",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/19/2025101923111111708.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/real-madrid-vs-manchester-city-mbappe-estara-bernabeu/20260310003648377875.html",
+        "date": "2026-03-09 23:36:48",
+        "sentiment_score": -0.7849851055070758
+    },
+    {
+        "title": "Cerámica con Adelina al fondo",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "adelina",
+            "ceramica",
+            "fondo"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/ceramica-adelina-fondo_0_2006121224.html",
+        "date": "2026-03-10 02:08:12",
+        "sentiment_score": 0.34952858090400696
+    },
+    {
+        "title": "No a la guerra",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "guerra",
+            "no"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/no-guerra_0_2006121199.html",
+        "date": "2026-03-10 02:08:01",
+        "sentiment_score": -0.8146261796355247
+    },
+    {
+        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 10 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima",
+            "clima en españa",
+            "clima en barcelona",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/10/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-10-de-marzo/",
+        "date": "2026-03-10 02:01:15",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Laporta saca los colmillos por la comisión de Darren Dein sobre Nike: los 28 millones en 14 años que enfurecen a Font",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/10/culemania/palco/1003742739855_15806351_1706x960.jpg",
+        "tags": [
+            "víctor font",
+            "joan laporta",
+            "palco",
+            "nike",
+            "fc barcelona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260310/laporta-colmillos-darren-dein-nike-enfurecen-font/1003742739849_0.html",
+        "date": "2026-03-10 01:35:23",
+        "sentiment_score": -0.4102041572332382
+    },
+    {
+        "title": "Neymar quedó fuera de la convocatoria del Santos y crece la incertidumbre por el Mundial",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/neymar-jr-brasil-santos-fc.jpg",
+        "tags": [
+            "titulares",
+            "brasil",
+            "mundial 2026",
+            "neymar",
+            "carlo ancelotti",
+            "deportes",
+            "santos"
+        ],
+        "link": "https://lapatilla.com/2026/03/09/neymar-quedo-fuera-de-la-convocatoria-del-santos-y-crece-la-incertidumbre-por-el-mundial/",
+        "date": "2026-03-10 01:26:59",
+        "sentiment_score": 0.11847667396068573
+    },
+    {
+        "title": "Rafa Márquez celebra la vida de su 'princesa', su hija Rafaella",
+        "image_url": "https://www.hola.com/horizon/landscape/9048f165681c-gettyimages-2157851739.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.hola.com/us-es/celebrities/20260310888450/rafa-marquez-celebra-cumpleanios-21-hija-rafaella/",
+        "date": "2026-03-10 01:04:56",
+        "sentiment_score": 0.53996242582798
+    },
+    {
+        "title": "Multiverse Computing pelea desde San Sebastián por el talento más escaso de la IA",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/8c4a0fe11be746211a82ee07c4f76cd9/crop/360x240/1800x1200/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/09/17730670741097.jpg",
+        "tags": [
+            "tecnología>",
+            "empleo>",
+            "emprendedores>",
+            "artículos miriam prieto>"
+        ],
+        "link": "https://www.expansion.com/economia-digital/companias/2026/03/10/69ab0279e5fdea67408b4578.html",
+        "date": "2026-03-10 01:01:14",
+        "sentiment_score": 0.6903282925486565
     }
 ];
