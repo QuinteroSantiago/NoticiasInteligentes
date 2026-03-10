@@ -1,379 +1,5 @@
 export default [
     {
-        "title": "Trump cesa a Kristi Noem como responsable de Seguridad Nacional tras las muertes en Mineápolis",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/61/media_thumb-link-4153691.webp?1772737806=",
-        "tags": [
-            "trump",
-            "ice",
-            "actualidad"
-        ],
-        "link": "https://www.meneame.net/story/trump-cesa-kristi-noem-como-responsable-seguridad-nacional-tras",
-        "date": "2026-03-05 19:55:04",
-        "sentiment_score": -0.06390304863452911
-    },
-    {
-        "title": "Crónica del Real Madrid - Virtus Bolonia: 92-84",
-        "image_url": "https://www.infobae.com/resizer/v2/LNYKIRDPYJHA7PZBW65ULXDY2A.jpg?auth=6798a428fce4d137faff35a7e2f1d4192fb737768143e7248fb9a9d471b10dcd&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/05/cronica-del-real-madrid-virtus-bolonia-92-84/",
-        "date": "2026-03-05 22:30:55",
-        "sentiment_score": -0.0627664253115654
-    },
-    {
-        "title": "El Madrid gana también a la Virtus para sumar un récord de 14-1 como local en la Euroliga",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8daa25e9-42cd-4824-8ddc-e4524abb80ae_16-9-discover-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "euroliga",
-            "baloncesto",
-            "real madrid de baloncesto"
-        ],
-        "link": "https://www.eldia.es/deportes/2026/03/05/madrid-gana-virtus-sumar-record-127615535.html",
-        "date": "2026-03-05 22:25:23",
-        "sentiment_score": -0.27922481298446655
-    },
-    {
-        "title": "Ratas, cucarachas en las camas y niños orinando en cubos por falta de personal: Compromís denuncia \"condiciones infrahumanas\" en 12 centros de servicios sociales de la Generalitat",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2025/09/30/ratas-en-una-imagen-de-archivo.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/ratas-cucarachas-camas-ninos-orinando-cubos-falta-personal-compromis-denuncia-condiciones-infrahumanas-12-centros-servicios-sociales-generalitat-f202603.html",
-        "date": "2026-03-05 22:18:16",
-        "sentiment_score": -0.9052532920613885
-    },
-    {
-        "title": "De una saga centenaria de carniceros a dormir en la calle: la historia de Jordi Fibla, el sintecho hallado muerto en Badalona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/05/gran-barcelona/1003742738578_15790186_1706x960.jpg",
-        "tags": [
-            "badalona",
-            "guardia urbana",
-            "sintecho",
-            "gran barcelona",
-            "mossos d'esquadra"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260305/saga-centenaria-carniceros-dormir-calle-historia-jordi-fibla-sintecho-hallado-muerto-badalona/1003742738511_0.html",
-        "date": "2026-03-05 22:30:00",
-        "sentiment_score": -0.07368575036525726
-    },
-    {
-        "title": "Charo, madre de un joven de Badalona que triunfa con los videojuegos en Berlín: \"Son privilegiados, pero no tienen vida”",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/02/actualidad/1003742737414_15775063_1706x960.jpg",
-        "tags": [
-            "famosos barcelona",
-            "badalona",
-            "videojuegos y gamers",
-            "eventos",
-            "la salut",
-            "gran barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260305/charo-madre-joven-badalona-triunfa-videojuegos-berlin-privilegiados-no-vida/1003742737428_0.html",
-        "date": "2026-03-05 22:30:00",
-        "sentiment_score": 0.13604091107845306
-    },
-    {
-        "title": "Futbolista Lamine Yamal presentó sus condolencias a Irán por asesinato de Alí Jamenei",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/images-14.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://ultimasnoticias.com.ve/actualidad/futbolista-lamine-yamal-presento-sus-condolencias-a-iran-por-asesinato-de-ali-jamenei/",
-        "date": "2026-03-05 22:21:25",
-        "sentiment_score": -0.8058542124927044
-    },
-    {
-        "title": "Pilar García de la Granja, experta económica: \"El Gobierno puede deflactar el IRPF a la subida de la inflación para paliar la crisis por el conflicto en Oriente Medio\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2026/03/02/69a6116a28b8d.jpeg",
-        "tags": [
-            "clases de economía"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna/clases-de-economia/audios/pilar-garcia-granja-experta-economica-gobierno-deflactar-irpf-subida-inflacion-paliar-crisis-conflicto-oriente-medio-20260305_3320995.html",
-        "date": "2026-03-05 22:14:03",
-        "sentiment_score": -0.11996825039386749
-    },
-    {
-        "title": "Donald Trump vuelve a cargar contra Pedro Sánchez: «España es un país perdedor y no vamos a jugar en equipo con ellos»",
-        "image_url": "https://www.alertadigital.com/wp-content/uploads/2025/10/trump-8.jpg",
-        "tags": [
-            "sanchez",
-            "estados unidos",
-            "perdedor",
-            "> columna izquierda",
-            "trump",
-            "pais"
-        ],
-        "link": "https://www.alertadigital.com/2026/03/05/donald-trump-vuelve-a-cargar-contra-pedro-sanchez-espana-es-un-pais-perdedor-y-no-vamos-a-jugar-en-equipo-con-ellos/",
-        "date": "2026-03-05 22:09:31",
-        "sentiment_score": -0.908162510022521
-    },
-    {
-        "title": "El exjugador de Barcelona que actualmente está triunfando en la música",
-        "image_url": "https://pxcdn.meridiano.net/032026/1772748503493.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/el-exjugador-de-barcelona-que-actualmente-esta-triunfando-en-la-musica-2026351880",
-        "date": "2026-03-05 22:08:00",
-        "sentiment_score": 0.7498060557991266
-    },
-    {
-        "title": "Fermín Cacho mejora positivamente y las pruebas descartan lesiones cardíacas graves",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/05/69a9fd28407c4.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/fermin-cacho-mejora-positivamente-pruebas-descartan-lesiones-cardiacas-graves-20260305_3320993.html",
-        "date": "2026-03-05 22:07:59",
-        "sentiment_score": -0.21157585084438324
-    },
-    {
-        "title": "Dos afortunados en La Primitiva se llevan más de 792.000 euros este jueves",
-        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2026/02/19/interior-administracion-loteria-kFCB-U20801310741GNE-1200x840@Hoy.jpg",
-        "tags": [
-            "loterías y apuestas del estado",
-            "primitiva",
-            "apuestas",
-            "premios"
-        ],
-        "link": "https://www.hoy.es/sociedad/dos-afortunados-primitiva-llevan-792000-euros-jueves-20260305230549-nt.html",
-        "date": "2026-03-05 22:05:51",
-        "sentiment_score": 0.07975747436285019
-    },
-    {
-        "title": "Laporta y Font definirán al próximo presidente del Barcelona",
-        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/03/Laporta-y-Font.jpg",
-        "tags": [
-            "deportes",
-            "05mar",
-            "laporta",
-            "font",
-            "barcelona"
-        ],
-        "link": "https://laverdaddemonagas.com/2026/03/05/laporta-y-font-barcelona/",
-        "date": "2026-03-05 21:59:26",
-        "sentiment_score": -0.09060945361852646
-    },
-    {
-        "title": "Eduard Vallory (BIST): El problema de los científicos catalanes es que no saben qué hacer con tanta investigación",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9e36fa3c-9e2d-461f-a22a-46b2fc283e54_alta-libre-aspect-ratio_default_0_x870y341.jpg",
-        "tags": [
-            "investigación",
-            "biotecnología",
-            "innovación"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260305/eduard-vallory-bist-problema-cientificos-127592134",
-        "date": "2026-03-05 21:59:00",
-        "sentiment_score": 0.27780237048864365
-    },
-    {
-        "title": "Arbeloa afronta el duelo ante el Celta con una defensa plagada de bajas",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/08/2026010818030148225.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/arbeloa-afronta-duelo-celta-defensa-plagada-bajas/20260306033222377478.html",
-        "date": "2026-03-06 02:32:22",
-        "sentiment_score": -0.476860448718071
-    },
-    {
-        "title": "AREA10 Marketing revalida su liderazgo como Mejor Agencia de Marketing Digital en España por segundo año",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7880239",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5797150/area10-marketing-revalida-liderazgo-como-mejor-agencia-marketing-digital-espana-segundo-ano",
-        "date": "2026-03-06 02:24:37",
-        "sentiment_score": 0.8045395351946354
-    },
-    {
-        "title": "Bravent presenta su primera empleada digital impulsada por IA en un evento junto a Microsoft",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7880227",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5797143/bravent-presenta-primera-empleada-digital-impulsada-ia-evento-junto-microsoft",
-        "date": "2026-03-06 02:23:27",
-        "sentiment_score": 0.16392682865262032
-    },
-    {
-        "title": "Endrick cae eliminado de la Copa de Francia tras perder el Lyon ante el Lens",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/25/2026012519570028755.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/endrick-cae-eliminado-copa-francia-perder-lyon-lens/20260306032212377477.html",
-        "date": "2026-03-06 02:22:12",
-        "sentiment_score": 0.725011533126235
-    },
-    {
-        "title": "Otro primer viernes de marzo",
-        "image_url": "https://static.grupojoly.com/clip/f35d753c-21a7-43c6-9615-858f39a8648a_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "viernes",
-            "primer",
-            "marzo"
-        ],
-        "link": "https://www.diariodecadiz.es/opinion/articulos/primer-viernes-marzo_0_2006084169.html",
-        "date": "2026-03-06 02:06:55",
-        "sentiment_score": -0.6898538023233414
-    },
-    {
-        "title": "Investigación en salud femenina para reducir la brecha de género",
-        "image_url": "https://www.hispanidad.com/uploads/s1/14/48/61/5/analuce-canha-analizando-muestras-en-el-laboratorio_4_588x353.jpeg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.hispanidad.com/publirreportaje/investigacion-en-salud-femenina-reducir-brecha-genero_12066045_102.html",
-        "date": "2026-03-06 02:00:00",
-        "sentiment_score": -0.05312638729810715
-    },
-    {
-        "title": "Cómo encontrar cerrajeros 24 horas en Madrid con garantías y precios transparentes",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7880198",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5797128/como-encontrar-cerrajeros-24-horas-madrid-garantias-precios-transparentes",
-        "date": "2026-03-06 01:51:12",
-        "sentiment_score": 0.70574164763093
-    },
-    {
-        "title": "BlackRock se alía a Twin Peaks para invertir 400 millones en 'flex living'",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/0a5f3d7a576ea134d7d984e2da1d00ba/crop/35x366/2048x1709/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/05/17727373614252.jpg",
-        "tags": [
-            "artículos rebeca arroyo>",
-            "mercado inmobiliario>",
-            "inmobiliario>",
-            "empresas>"
-        ],
-        "link": "https://www.expansion.com/inmobiliario/mercado/2026/03/06/69a9d376e5fdea99388b458d.html",
-        "date": "2026-03-05 23:50:56",
-        "sentiment_score": 0.590625049546361
-    },
-    {
-        "title": "Donald Trump también sabe de fútbol: se moja en el debate sobre quién es mejor, si Pelé o Messi",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/06/dos-imagenes-una-de-messi-y-otra-de-pele.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/donald-trump-futbol-moja-debate-sobre-mejor-pele-messi-f202603.html",
-        "date": "2026-03-05 23:48:45",
-        "sentiment_score": -0.01726090908050537
-    },
-    {
-        "title": "Granada 2031 acelera a pocos días del examen",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/03/05/2031.jpg",
-        "tags": [
-            "granada capital europea de la cultura 2031"
-        ],
-        "link": "https://www.ideal.es/granada/granada-2031-acelera-pocos-dias-examen-20260306224203-nt.html",
-        "date": "2026-03-05 23:46:57",
-        "sentiment_score": 0.02838176116347313
-    },
-    {
-        "title": "Nicki Nicole reflexionó sobre sus vínculos tras su ruptura con Lamine Yamal: “Me tiro al vacío y choco, pero ya no soy eso”",
-        "image_url": "https://www.infobae.com/resizer/v2/5RGLCMUWFBF7TAICI2PJ3IP2CY.jpg?auth=c79f31a05e950ac58ab3e3ab2a02801aa6a91550908e267c08ee0384499c1101&height=1080&smart=true&width=1920",
-        "tags": [
-            "fc barcelona",
-            "nicki nicole",
-            "lamine yamal"
-        ],
-        "link": "https://www.infobae.com/teleshow/2026/03/06/nicki-nicole-reflexiono-sobre-sus-vinculos-tras-su-ruptura-con-lamine-yamal-me-tiro-al-vacio-y-choco-pero-ya-no-soy-eso/",
-        "date": "2026-03-06 02:21:19",
-        "sentiment_score": 0.2877987790852785
-    },
-    {
-        "title": "Clima en España: la previsión meteorológica para Barcelona este 6 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima en españa",
-            "últimas actualizaciones",
-            "clima",
-            "clima en barcelona"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/06/clima-en-espana-la-prevision-meteorologica-para-barcelona-este-6-de-marzo/",
-        "date": "2026-03-06 02:15:38",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "Estructuras truss para stands y eventos, la propuesta de alquiler truss de ASB Audiovisuals",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7880213",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5797136/estructuras-truss-stands-eventos-propuesta-alquiler-truss-asb-audiovisuals",
-        "date": "2026-03-06 02:05:15",
-        "sentiment_score": 0.6967604421079159
-    },
-    {
-        "title": "TCL redefine cómo nos conectamos con el mundo en el MWC 2026",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7880217",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5797138/tcl-redefine-como-nos-conectamos-mundo-mwc-2026",
-        "date": "2026-03-06 02:00:07",
-        "sentiment_score": 0.7647184347733855
-    },
-    {
-        "title": "El MWC congrega a 105.000 asistentes, condicionado por el cierre aéreo en Oriente Medio",
-        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2026/03/El-MWC-congrega-a-105.000-asistentes-condicionado-por-el-cierre-aereo-en-Oriente-Medio-1024x683.webp",
-        "tags": [
-            "nuevas tecnologías"
-        ],
-        "link": "https://www.elperiodicodecanarias.es/el-mwc-congrega-a-105-000-asistentes-condicionado-por-el-cierre-aereo-en-oriente-medio/",
-        "date": "2026-03-06 01:59:52",
-        "sentiment_score": 0.4087315797805786
-    },
-    {
-        "title": "Andrés Iniesta será director deportivo de la selección de Marruecos",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/20/2025072013220630989.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/andres-iniesta-sera-director-deportivo-seleccion-marruecos/20260306025009377475.html",
-        "date": "2026-03-06 01:50:09",
-        "sentiment_score": 0.7255792431533337
-    },
-    {
-        "title": "Andrés Iniesta nombrado nuevo director deportivo de la selección de Marruecos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "fc barcelona",
-            "marruecos",
-            "fútbol españa",
-            "fifa",
-            "mundial 2026",
-            "españa-noticias",
-            "españa-deportes",
-            "andrés iniesta",
-            "fútbol"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/03/06/andres-iniesta-nombrado-nuevo-director-deportivo-de-la-seleccion-de-marruecos/",
-        "date": "2026-03-06 01:31:03",
-        "sentiment_score": 0.11700199171900749
-    },
-    {
-        "title": "La obra oculta de Joan Miró: así es el mural que el Guggenheim mantuvo oculto por décadas",
-        "image_url": "https://www.infobae.com/resizer/v2/QV7LTEYW3NHIHBNN567TIDXLYM.jpg?auth=bd51faa850bd780d53d8b71e234a7aa0a76848b668fd98282ad9490efc9a5869&height=609&smart=true&width=1280",
-        "tags": [
-            "josep llorens artigas",
-            "joan miró",
-            "obra redescubierta",
-            "carol bove",
-            "patrimonio artístico",
-            "museo guggenheim nueva york",
-            "newsroom bue"
-        ],
-        "link": "https://www.infobae.com/cultura/2026/03/06/la-obra-oculta-de-joan-miro-asi-es-el-mural-que-el-guggenheim-mantuvo-oculto-por-decadas/",
-        "date": "2026-03-06 01:14:37",
-        "sentiment_score": 0.5382072888314724
-    },
-    {
         "title": "Un Real Madrid diezmado visita Balaídos con la obligación de ganar para no despedirse de La Liga",
         "image_url": "https://xornalgalicia.com/images/logos/logoxornalgaliciaexclusivo.jpg",
         "tags": [
@@ -576,18 +202,6 @@ export default [
         "link": "https://www.noticiasdegipuzkoa.eus/opinion/2026/03/06/justo-trump-10786820.html",
         "date": "2026-03-06 06:12:55",
         "sentiment_score": -0.10867881774902344
-    },
-    {
-        "title": "Trump cesa a Kristi Noem como responsable de Seguridad Nacional tras las muertes en Mineápolis",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/61/media_thumb-link-4153691.webp?1772737806=",
-        "tags": [
-            "trump",
-            "ice",
-            "actualidad"
-        ],
-        "link": "https://www.meneame.net/story/trump-cesa-kristi-noem-como-responsable-seguridad-nacional-tras",
-        "date": "2026-03-05 19:55:04",
-        "sentiment_score": -0.0639028251171112
     },
     {
         "title": "Cuándo es y a qué hora empieza el Atlético – Real Sociedad: dónde ver por televisión gratis el partido de la Liga",
@@ -2989,5 +2603,73 @@ export default [
         "link": "https://www.eldebate.com/espana/comunidad-valenciana/20260309/nueva-senal-trafico-valencia-son-dientes-dragon-sirven_393552.html",
         "date": "2026-03-09 06:36:10",
         "sentiment_score": -0.05111708864569664
+    },
+    {
+        "title": "CNN: Venezuela abre el debate de la ley de minería, clave en la relación de Rodríguez con Trump",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/07/venezuela.jpg",
+        "tags": [
+            "nacionales",
+            "internacionales",
+            "venezuela",
+            "actualidad",
+            "usa",
+            "ley de minería",
+            "eeuu"
+        ],
+        "link": "https://lapatilla.com/2026/03/09/cnn-venezuela-abre-el-debate-de-la-ley-de-mineria-clave-en-la-relacion-de-rodriguez-con-trump/",
+        "date": "2026-03-09 13:23:19",
+        "sentiment_score": -0.27829205617308617
+    },
+    {
+        "title": "El Gobierno aprueba este martes el RD que garantiza la atención sanitaria a personas migrantes en situación irregular",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260309183719_690.jpg",
+        "tags": [
+            "infosalus.com",
+            "actualidad"
+        ],
+        "link": "https://www.infosalus.com/actualidad/noticia-gobierno-aprueba-martes-rd-garantiza-atencion-sanitaria-personas-migrantes-situacion-irregular-20260309183719.html",
+        "date": "2026-03-09 17:37:19",
+        "sentiment_score": 0.39850320667028427
+    },
+    {
+        "title": "La delegación de la FIFA inició su visita a España visitando el Spotify Camp Nou y del RCDE Stadium",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3a152ccb-6990-4aa4-9121-9c2af97a74e5_16-9-aspect-ratio_default_0_x616y246.jpg",
+        "tags": [
+            "fifa,mundial 2030,camp nou,rcd espanyol"
+        ],
+        "link": "https://www.laopiniondezamora.es/deportes/2026/03/09/delegacion-fifa-inicio-visita-espana-127751554.html",
+        "date": "2026-03-09 17:34:24",
+        "sentiment_score": 0.11426423490047455
+    },
+    {
+        "title": "Joan Garcia: \"Hemos aprendido que la ida puede condicionar toda la eliminatoria\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260309183844_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-joan-garcia-hemos-aprendido-ida-puede-condicionar-toda-eliminatoria-20260309183844.html",
+        "date": "2026-03-09 17:38:44",
+        "sentiment_score": -0.6935851387679577
+    },
+    {
+        "title": "España impulsa la mayor evacuación por la guerra en Oriente Medio: llega otro avión militar con cientos de ciudadanos",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/12/26/2025122612334157649.jpg",
+        "tags": [
+            "defensa"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/defensa/espana-impulsa-mayor-evacuacion-guerra-oriente-medio-llega-avion-militar-cientos-ciudadanos/202603091838421008456.html",
+        "date": "2026-03-09 17:38:42",
+        "sentiment_score": -0.651764515787363
+    },
+    {
+        "title": "El Govern destina 18,8 millones adicionales a los servicios de atención a la infancia en riesgo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c3641229-a5aa-4f57-9a0c-4e3ff596d0a7_alta-libre-aspect-ratio_default_0_x640y240.jpg",
+        "tags": [
+            "conselleria de drets socials"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260309/catalunya-govern-infancia-en-riesgo-127753586",
+        "date": "2026-03-09 17:34:29",
+        "sentiment_score": -0.05828465521335602
     }
 ];
