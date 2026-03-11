@@ -1,208 +1,5 @@
 export default [
     {
-        "title": "La productora de Ana Rosa consigue la primera alianza histórica entre Telemadrid y À Punt",
-        "image_url": "https://www.elplural.com/uploads/s1/24/82/37/8/ana-rosa-en-el-programa-de-ana-rosa-mediaset_7_480x270.jpeg",
-        "tags": [
-            "extratele"
-        ],
-        "link": "https://www.elplural.com/extratele/productora-ana-rosa-consigue-primera-alianza-historica-entre-telemadrid-a-punt_383410102",
-        "date": "2026-03-07 06:41:05",
-        "sentiment_score": -0.09210041165351868
-    },
-    {
-        "title": "Fariba Ehsan, activista: \"Las mujeres somos esclavas de los hombres en Irán\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/74fb2d61-9188-47ef-ba1c-d2e4e681754a_16-9-discover-aspect-ratio_default_0_x400y133.jpg",
-        "tags": [
-            "irán"
-        ],
-        "link": "https://www.elperiodico.com/es/internacional/20260307/fariba-ehsan-activista-mujeres-esclavas-hombres-iran-127667006",
-        "date": "2026-03-07 06:37:04",
-        "sentiment_score": -0.902481990866363
-    },
-    {
-        "title": "Israel intensifica los ataques sobre Teherán en el octavo día de la guerra contra Irán",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/06/un-misil-irani-con-municiones-de-racimo-vuela-hacia-israel-en-una-imagen-captada-en-el-centro-del-pais-el-5-de-marzo-de-2026.jpeg",
-        "tags": [
-            "global"
-        ],
-        "link": "https://www.huffingtonpost.es/global/israel-intensifica-ataques-sobre-teheran-octavo-dia-guerraanbr-f202603.html",
-        "date": "2026-03-07 06:32:07",
-        "sentiment_score": -0.828074125573039
-    },
-    {
-        "title": "La soledad de Sarah Ferguson: se queda sin sus amigos y sin Priscilla Presley, su mano derecha",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/03/sarah-ferguson-soledad.jpeg",
-        "tags": [
-            "gente",
-            "jeffrey epstein",
-            "soledad",
-            "celebrities",
-            "casa real británica"
-        ],
-        "link": "https://theobjective.com/gente/2026-03-07/soelad-sarah-ferguson-abandono-amigos-priscilla/",
-        "date": "2026-03-07 06:30:00",
-        "sentiment_score": -0.8103846665471792
-    },
-    {
-        "title": "Máximo Huerta habla alto y claro sobre su reciente salida de Telecinco: ojo, porque tiene mucho que ver con la política",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2025/10/27/maximo-huerta-tiene-una-libreria-en-bunol-que-sufrio-danos-por-la-dana.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/maximo-huerta-habla-alto-claro-sobre-reciente-salida-telecinco-ver-politica-f202603.html",
-        "date": "2026-03-07 06:23:47",
-        "sentiment_score": -0.7387678697705269
-    },
-    {
-        "title": "Mujeres malagueñas que cambiaron la historia: un homenaje por el 8M",
-        "image_url": "https://static.grupojoly.com/clip/4ed7ae0a-8af7-4720-a7d6-9aab959fb960_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/mujeres-malaguenas-cambiaron-historia-homenaje-8m_0_2006071319.html",
-        "date": "2026-03-07 06:05:04",
-        "sentiment_score": 0.5624863877892494
-    },
-    {
-        "title": "Diez años de la camiseta de 'Todos deberíamos ser feministas': de la presencia de las mujeres en grandes firmas al espejismo de la diversidad",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/06/la-camiseta-de-la-coleccion-de-primavera-verano-2017-de-dior.jpeg",
-        "tags": [
-            "moda y belleza"
-        ],
-        "link": "https://www.huffingtonpost.es/life/moda/diez-anos-de-la-camiseta-de-todos-deberiamos-ser-feministas-de-la-ausencia-de-las-mujeres-en-grandes-firmas-al-espejismo-de-la-diversidad-f202603.html",
-        "date": "2026-03-07 06:02:08",
-        "sentiment_score": 0.1627623736858368
-    },
-    {
-        "title": "Veterinarios apuntan por qué los perros inclinan la cabeza cuando les hablas",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/06/un-perro-con-su-duena-en-su-casa.jpeg",
-        "tags": [
-            "animales"
-        ],
-        "link": "https://www.huffingtonpost.es/life/animales/veterinarios-apuntan-que-perros-inclinan-cabeza-les-hablas-f202603.html",
-        "date": "2026-03-07 06:02:04",
-        "sentiment_score": -0.035107702016830444
-    },
-    {
-        "title": "El Premio Nobel de Física aconsejó hacerse fontanero para escapar de la IA: una economista explica por qué incluso eso puede no ser suficiente a largo plazo",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/02/un-robot-camarero-prepara-cafe-durante-la-22-expo-china-asean-en-el-centro-internacional-de-convenciones-y-exposiciones-de-nanning-el-17-de-septiembre-de-2025-en-nanning-en-la-region-de-guangxi-china.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/el-premio-nobel-fisica-aconsejo-hacerse-fontanero-escapar-ia-economista-explica-que-suficiente-plazo-f202603.html",
-        "date": "2026-03-07 06:02:01",
-        "sentiment_score": -0.46198365837335587
-    },
-    {
-        "title": "Moncloa saca pecho: \"Hemos dado en el clavo\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/06/pedro-sanchez-sonriente.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/moncloa-saca-pecho-hemos-dado-clavo-f202603.html",
-        "date": "2026-03-07 06:01:04",
-        "sentiment_score": -0.4472469687461853
-    },
-    {
-        "title": "La enfermedad rara que protege del SIDA recauda 600.000 euros para buscar su cura",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/05/14/68246ae955bc4.jpeg",
-        "tags": [
-            "castellón - vila-real"
-        ],
-        "link": "https://www.cope.es/emisoras/comunidad-valenciana/castellon-provincia/castellon/noticias/enfermedad-rara-protege-sida-recauda-600-000-euros-buscar-cura-20260307_3318576.html",
-        "date": "2026-03-07 06:45:00",
-        "sentiment_score": -0.00649714469909668
-    },
-    {
-        "title": "Viajar a estas ciudades puede disparar tu presupuesto: el nuevo ranking europeo de precios",
-        "image_url": "https://www.elplural.com/uploads/s1/24/76/87/0/viajar-a-estas-ciudades-puede-disparar-tu-presupuesto-el-nuevo-ranking-europeo-de-precios_7_480x270.jpeg",
-        "tags": [
-            "planes"
-        ],
-        "link": "https://www.elplural.com/oxigena2/planes/viajar-ciudades-puede-disparar-presupuesto-nuevo-ranking-europeo-precios-v0_383021102",
-        "date": "2026-03-07 06:44:08",
-        "sentiment_score": -0.09144225716590881
-    },
-    {
-        "title": "55 años del primer asesinato independentista en Cataluña",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/07/2026030707331395194.jpg",
-        "tags": [
-            "noticias en la red"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/55-anos-primer-asesinato-independentista-cataluna/20260307073314442366.html",
-        "date": "2026-03-07 06:33:14",
-        "sentiment_score": -0.6212317533791065
-    },
-    {
-        "title": "Goya a don Pachi",
-        "image_url": "https://gaceta.es/wp-content/uploads/2025/05/Jesus-Garcia-Conde.png",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://gaceta.es/opinion/goya-a-don-pachi-20260307-0733/",
-        "date": "2026-03-07 06:33:00",
-        "sentiment_score": -0.6836873386055231
-    },
-    {
-        "title": "Guerra de Irán: sube el precio de luz, gas y gasolina",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/07/2026030707251240551.jpg",
-        "tags": [
-            "noticias en la red"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/guerra-iran-sube-precio-luz-gas-gasolina/20260307072512442364.html",
-        "date": "2026-03-07 06:25:12",
-        "sentiment_score": -0.8975924197584391
-    },
-    {
-        "title": "AEMET prevé un día nublado y lluvioso en Barcelona con viento moderado y descenso de temperaturas",
-        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
-        "tags": [
-            "okd",
-            "tiempo",
-            "españa",
-            "cataluña",
-            "agencia estatal de meteorología (aemet)",
-            "previsión del tiempo"
-        ],
-        "link": "https://okdiario.com/cataluna/aemet-preve-un-dia-nublado-y-lluvioso-en-barcelona-con-viento-moderado-y-descenso-de-temperaturas-16370760",
-        "date": "2026-03-07 06:25:05",
-        "sentiment_score": 0.009979099035263062
-    },
-    {
-        "title": "Una dana afectará este sábado a toda la Península y Baleares dejando lluvias generalizadas",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/07/una-dana-afectara-este-sabado-a-toda-la-peninsula-y-baleares-dejando-lluvias-generalizadas/",
-        "date": "2026-03-07 06:19:52",
-        "sentiment_score": -0.8404165674000978
-    },
-    {
-        "title": "Delfín lidera en Ecuador bajo la dirección provisional del iraní Tayarani",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/07/delfin-lidera-en-ecuador-bajo-la-direccion-provisional-del-irani-tayarani/",
-        "date": "2026-03-07 06:16:47",
-        "sentiment_score": 0.20007553696632385
-    },
-    {
-        "title": "Las primeras universitarias andaluzas: los nombres que abrieron la puerta",
-        "image_url": "https://static.grupojoly.com/clip/6102477d-23b7-4c25-9726-89969cf38932_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "nombres",
-            "abrieron",
-            "universitarias",
-            "primeras",
-            "andaluzas"
-        ],
-        "link": "https://www.malagahoy.es/andalucia/primeras-universitarias-andaluzas-nombres-abrieron_0_2006093268.html",
-        "date": "2026-03-07 06:00:55",
-        "sentiment_score": -0.5153685249388218
-    },
-    {
         "title": "Deportiva Riestra anunció la contratación del “Hazard nigeriano”",
         "image_url": "https://www.infobae.com/resizer/v2/GPRZOHQKLFERROUFYQPIG7QTHE.jpg?auth=7f6bb800fb4180a9c2ef56099510be0c76d26dc167a9535885d93d1b01bba8f6&height=1080&smart=true&width=1920",
         "tags": [
@@ -2750,5 +2547,229 @@ export default [
         "link": "https://www.europapress.es/epsocial/responsables/noticia-entidades-asociadas-ceca-reivindican-arco-valor-patrimonio-artistico-cultural-20260310181847.html",
         "date": "2026-03-10 17:18:47",
         "sentiment_score": 0.7062586471438408
+    },
+    {
+        "title": "La inmigración y los incendios marcan un bronco debate electoral a tres en Castilla y León",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/68f47233-d51c-45a8-8ee1-bd2b1fc06d48_16-9-aspect-ratio_default_0_x750y312.jpg",
+        "tags": [
+            "castilla y león,partido popular,junta de castilla y león,comunidad,incendios,inmigración,pp,elecciones autonómicas en castilla y león 2026"
+        ],
+        "link": "https://www.laopiniondezamora.es/castilla-leon/2026/03/10/inmigracion-incendios-marcan-bronco-debate-127805999.html",
+        "date": "2026-03-10 22:32:17",
+        "sentiment_score": -0.9367548199370503
+    },
+    {
+        "title": "CTA reconoce que el árbitro falló a favor del Real Madrid ante Getafe",
+        "image_url": "https://pxcdn.meridiano.net/032026/1773180870997.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/cta-reconoce-que-el-arbitro-fallo-a-favor-del-real-madrid-ante-getafe-202631018180",
+        "date": "2026-03-10 22:18:00",
+        "sentiment_score": -0.18476508185267448
+    },
+    {
+        "title": "Cyber Embajadoras pone el foco en la formación para impulsar el talento femenino en ciberseguridad",
+        "image_url": "https://cybersecuritynews.es/wp-content/uploads/2026/03/cyber-embajadoras.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://cybersecuritynews.es/cyber-embajadoras-pone-el-foco-en-la-formacion-para-impulsar-el-talento-femenino-en-ciberseguridad/",
+        "date": "2026-03-10 22:00:00",
+        "sentiment_score": 0.49831321090459824
+    },
+    {
+        "title": "El Atlético le da al Tottenham un manotazo de Champions",
+        "image_url": "https://okdiario.com/img/2026/03/10/cronica-atletico-interior-14.jpg",
+        "tags": [
+            "champions league",
+            "atlético de madrid",
+            "fútbol",
+            "deportes",
+            "tottenham hotspur"
+        ],
+        "link": "https://okdiario.com/deportes/atletico-da-tottenham-manotazo-champions-16391748",
+        "date": "2026-03-10 21:58:15",
+        "sentiment_score": -0.413564071059227
+    },
+    {
+        "title": "Martínez defiende que \"nunca\" sale a por el \"bronce\" y pide el voto para \"modernizar y transformar\" CyL",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260310225747_690.jpg",
+        "tags": [
+            "castilla y león"
+        ],
+        "link": "https://www.europapress.es/castilla-y-leon/noticia-martinez-defiende-nunca-sale-bronce-pide-voto-modernizar-transformar-cyl-20260310225747.html",
+        "date": "2026-03-10 21:57:47",
+        "sentiment_score": -0.21610510349273682
+    },
+    {
+        "title": "Muere un peatón en silla de ruedas tras ser arrollado por un camión",
+        "image_url": "https://www.clm24.es/media/clm24/images/2025/02/21/2025022110485832989.jpg",
+        "tags": [
+            "sucesos"
+        ],
+        "link": "https://www.clm24.es/articulo/sucesos/muere-peaton-silla-ruedas-atropellado-camion/20260310224734472749.html",
+        "date": "2026-03-10 21:47:34",
+        "sentiment_score": -0.8374212412163615
+    },
+    {
+        "title": "Confirmado por el CTA: el VAR perdonó la roja a Rüdiger por \"conducta violenta\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9170f0b8-2e8c-4b58-a3ec-d820e83ea33e_16-9-aspect-ratio_default_0_x718y253.jpg",
+        "tags": [
+            "var,getafe,real madrid,valverde,laliga,antonio rüdiger,roja,diego rico,agresión,árbitro,perdón"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2026/03/10/confirmado-arbitros-var-perdona-roja-conducta-violenta-rudiger-127803323.html",
+        "date": "2026-03-10 21:22:36",
+        "sentiment_score": -0.6692031286656857
+    },
+    {
+        "title": "Paco Arango, presidente de la Fundación Aladina: \"He acompañado a muchos niños con cáncer y eso me dió una butaca en primera fila del mayor espectáculo del amor\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/083cae4b-ab94-4b48-9809-853e6b457c6d_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "dios",
+            "jesús",
+            "cáncer",
+            "familia",
+            "fundación",
+            "adolescentes",
+            "niños"
+        ],
+        "link": "https://www.lne.es/asturias-exterior/2026/03/10/paco-arango-presidente-fundacion-aladina-127802840.html",
+        "date": "2026-03-10 21:16:34",
+        "sentiment_score": -0.20858769118785858
+    },
+    {
+        "title": "Haizam Amirah Fernández, experto en Oriente Medio: “Un cierre de Ormuz es un arma de destrucción masiva socioeconómica”",
+        "image_url": "https://static.eldiario.es/clip/8f4eefb2-454a-403b-8743-093c9965c272_16-9-discover-aspect-ratio_default_1138354.jpg",
+        "tags": [
+            "socioeconomica",
+            "cierre",
+            "experto",
+            "fernandez",
+            "haizam",
+            "oriente",
+            "arma",
+            "masiva",
+            "destruccion",
+            "medio",
+            "ormuz",
+            "amirah"
+        ],
+        "link": "https://www.eldiario.es/economia/haizam-amirah-fernandez-experto-oriente-medio-cierre-ormuz-arma-destruccion-masiva-socioeconomica_1_13056861.html",
+        "date": "2026-03-10 21:14:23",
+        "sentiment_score": -0.28701265156269073
+    },
+    {
+        "title": "Philippe Lazzarini: \"Hay que mantenerse firmes, porque si no hay derecho internacional se impone la ley de la selva”",
+        "image_url": "https://static.eldiario.es/clip/6d382023-472b-44fb-b469-f53998cac2c4_16-9-discover-aspect-ratio_default_1138371.jpg",
+        "tags": [
+            "firmes",
+            "no",
+            "lazzarini",
+            "derecho",
+            "philippe",
+            "ley",
+            "selva",
+            "impone",
+            "internacional",
+            "hay",
+            "mantenerse",
+            "si"
+        ],
+        "link": "https://www.eldiario.es/internacional/philippe-lazzarini-hay-mantenerse-firmes-si-no-hay-derecho-internacional-impone-ley-selva_128_13057372.html",
+        "date": "2026-03-10 21:14:22",
+        "sentiment_score": -0.19515402615070343
+    },
+    {
+        "title": "El pesimismo de Minguella con el empate del Barcelona en Champions: \"Hay que ser realista y ver que las posibilidades a grandes retos no son muchos\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/10/69b09917e5644.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/empate-barcelona-pesimismo-minguella-hay-realista-ver-posibilidades-grandes-retos-no-son-20260310_3323902.html",
+        "date": "2026-03-10 22:33:09",
+        "sentiment_score": -0.07448667287826538
+    },
+    {
+        "title": "El Barcelona sale vivo de St James' Park (1-1)",
+        "image_url": "https://cflvdg.avoz.es/sc/xSygllCv8rUUXc2Yn39FySP7n_s=/768x/2026/03/10/00121773180541973456929/Foto/efe_20260310_214411774.jpg",
+        "tags": [
+            "deportes",
+            "baloncesto",
+            "fc barcelona",
+            "leb oro"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/03/10/barcelona-sale-vivo-st-james-park-1-1/00031773180553359234793.htm",
+        "date": "2026-03-10 22:33:00",
+        "sentiment_score": 0.3760092854499817
+    },
+    {
+        "title": "La reacción de preocupación de Dani Senabre tras el empate del Barça ante el Newcastle en la Champions: \"Viendo el partido, es para dar volteretas hacia atrás\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/reaccion-preocupacion-dani-senabre-empate-barca-newcastle-champions-viendo-partido-dar-volteretas-20260310_3323901.html",
+        "date": "2026-03-10 22:30:49",
+        "sentiment_score": -0.08787107467651367
+    },
+    {
+        "title": "Crónica del Newcastle - FC Barcelona: 1-1",
+        "image_url": "https://www.infobae.com/resizer/v2/YD2SENXVJFGJFF2IHIBZUX4DGI.jpg?auth=5acb0c9dcdd3674f933cb3ef02481d0a1e9ac7891c6125ba810d7abc21758fa5&height=1257&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/10/cronica-del-newcastle-fc-barcelona-1-1/",
+        "date": "2026-03-10 22:30:48",
+        "sentiment_score": -0.03162077069282532
+    },
+    {
+        "title": "El Barcelona respira hondo al final con el gol de Lamine Yamal (1-1)",
+        "image_url": "https://static.grupojoly.com/clip/e50d0172-b2e8-4167-a54a-131232f60286_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "yamal",
+            "respira",
+            "lamine",
+            "gol",
+            "final",
+            "hondo",
+            "barcelona",
+            "1-1"
+        ],
+        "link": "https://www.malagahoy.es/deportes/barcelona-respira-hondo-final-gol-lamine-yamal-1-1_0_2006129672.html",
+        "date": "2026-03-10 22:30:22",
+        "sentiment_score": -0.0401587188243866
+    },
+    {
+        "title": "El Castillo de Castelldefels abrirá por primera vez un bar en sus renovados jardines",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/06/gran-barcelona/1003742739010_15796029_1706x960.jpg",
+        "tags": [
+            "contratos barcelona",
+            "economía",
+            "castelldefels - noticias",
+            "gran barcelona",
+            "edificios históricos",
+            "gastronomía",
+            "bares y restaurantes",
+            "historia"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260310/castillo-castelldefels-abrira-primera-vez-bar-renovados-jardines/1003742738989_0.html",
+        "date": "2026-03-10 22:30:00",
+        "sentiment_score": 0.4099466875195503
+    },
+    {
+        "title": "Viladecans rechaza instalar cámaras de vigilancia para evitar robos en el Parc Agrari: \"Es caro, ineficaz e innecesario\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/04/01/vivir-en-barcelona/935666450_14354988_1706x960.jpg",
+        "tags": [
+            "viladecans",
+            "parc agrari",
+            "baix llobregat",
+            "gran barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260310/viladecans-rechaza-instalar-camaras-vigilancia-evitar-robos-parc-agraries-caro-ineficaz-innecesario/1003742739557_0.html",
+        "date": "2026-03-10 22:30:00",
+        "sentiment_score": -0.8015044946223497
     }
 ];
