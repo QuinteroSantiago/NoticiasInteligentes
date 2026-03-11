@@ -1,231 +1,5 @@
 export default [
     {
-        "title": "Deportiva Riestra anunció la contratación del “Hazard nigeriano”",
-        "image_url": "https://www.infobae.com/resizer/v2/GPRZOHQKLFERROUFYQPIG7QTHE.jpg?auth=7f6bb800fb4180a9c2ef56099510be0c76d26dc167a9535885d93d1b01bba8f6&height=1080&smart=true&width=1920",
-        "tags": [
-            "deportes-argentina",
-            "deportivo riestra",
-            "johnson nsumoh"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/07/deportiva-riestra-anuncio-la-contratacion-del-hazard-nigeriano/",
-        "date": "2026-03-07 17:29:44",
-        "sentiment_score": -0.0221431702375412
-    },
-    {
-        "title": "Abascal, sobre la expulsión de Ortega Smith de Vox: «Ni he hablado con él ni me gustan las telenovelas»",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/03/EuropaPress_7308384_portavoz_vox_ayuntamiento_madrid_javier_ortega_smith_atiende_medios-scaled.jpg",
-        "tags": [
-            "santiago abascal",
-            "nacional"
-        ],
-        "link": "https://www.lanzadigital.com/nacional/abascal-sobre-la-expulsion-de-ortega-smith-de-vox-ni-he-hablado-con-el-ni-me-gustan-las-telenovelas/",
-        "date": "2026-03-07 17:27:48",
-        "sentiment_score": -0.197373166680336
-    },
-    {
-        "title": "De archivero, cariño y conocimientos II",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/56de9cd9-eaea-4223-98b8-41765b7fe781_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "carino",
-            "conocimientos",
-            "ii",
-            "archivero"
-        ],
-        "link": "https://www.noticiasdenavarra.com/navarra/2026/03/07/archivero-carino-conocimientos-ii-10793416.html",
-        "date": "2026-03-07 17:27:47",
-        "sentiment_score": 0.005511388182640076
-    },
-    {
-        "title": "Leticia Pérez, experta en limpieza: \"Demasiado detergente puede acumularse en las fibras y endurecer las toallas\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/03/muchas-toallas-y-sabanas-en-la-lavadora.jpeg",
-        "tags": [
-            "estilo de vida"
-        ],
-        "link": "https://www.huffingtonpost.es/life/estilo-vida/leticia-perez-experta-limpieza-demasiado-detergente-acumularse-fibras-endurecer-toallas-f202603-1.html",
-        "date": "2026-03-07 17:24:34",
-        "sentiment_score": -0.30676160752773285
-    },
-    {
-        "title": "Irán intensifica los ataques en el Golfo mientras mientras Israel y EEUU atacan el principal aeropuerto de Irán",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/07/imagen-de-bombardeos-en-emiratos-arabes-por-partre-del-ejercito-irani.jpeg",
-        "tags": [
-            "global"
-        ],
-        "link": "https://www.huffingtonpost.es/global/iran-intensifica-ataques-golfo-israel-eeuu-atacan-principal-aeropuertoan-f202603.html",
-        "date": "2026-03-07 17:17:04",
-        "sentiment_score": -0.8883049841970205
-    },
-    {
-        "title": "Felipe VI llama al Rey de Baréin y a los presidentes de Líbano y Chipre para apoyarles tras los ataques",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/03/07/69ac553d6f8ca.r_d.1071-428-5859.jpeg",
-        "tags": [
-            "casa real"
-        ],
-        "link": "https://www.eldebate.com/espana/casa-real/20260307/felipe-vi-llama-rey-barein-presidentes-libano-chipre-apoyarles-ataques_393310.html",
-        "date": "2026-03-07 17:14:51",
-        "sentiment_score": -0.2691502124071121
-    },
-    {
-        "title": "Violencia machista, la «bomba de racimo»",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/07/Elena%20Valenciano-U15588383850Yff-650x455@RC.jpg",
-        "tags": [
-            "policía nacional",
-            "mujeres",
-            "violencia de género",
-            "elena valenciano"
-        ],
-        "link": "https://www.eldiariomontanes.es/nacional/violencia-machista-bomba-racimo-20260307180827-ntrc.html",
-        "date": "2026-03-07 17:08:46",
-        "sentiment_score": -0.8831553943455219
-    },
-    {
-        "title": "Madonna se rinde al Celta tras el homenaje en Balaídos por la camiseta de su concierto: \"¡Represento al equipo en espíritu!\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/04/69a81bd96d0797-63271019.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/madonna-se-rinde-celta-tras-homenaje-balaidos-por-camiseta-su-concierto-llevo-represento-equipo-espiritu_6943172_0.html",
-        "date": "2026-03-07 17:05:03",
-        "sentiment_score": 0.05515126511454582
-    },
-    {
-        "title": "LaLiga EA Sports: Atlético de Madrid - Real Sociedad, en directo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2ae4913e-b350-4720-9a34-c1b176c374ec_16-9-aspect-ratio_default_0_x1200y533.jpg",
-        "tags": [
-            "futbol gratis",
-            "primera división - laliga ea sports",
-            "directo primera división - laliga ea sports",
-            "atlético de madrid real sociedad en directo",
-            "partidos de futbol",
-            "partidos futbol",
-            "partidos futbol online",
-            "futbol",
-            "futbol en directo",
-            "partido atlético de madrid real sociedad",
-            "futbol directo",
-            "futbol online",
-            "fútbol"
-        ],
-        "link": "https://www.elperiodicodearagon.com/deportes/futbol/primera-division/2025-2026/atletico-de-madrid-real-sociedad-232025_01_27_2025175_2025188.html",
-        "date": "2026-03-07 17:00:37",
-        "sentiment_score": 0.02504730597138405
-    },
-    {
-        "title": "Detenido un hombre que intentaba vender por internet un acordeón único robado en un tren",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/04/02/67ed86be216c6.r_d.2788-3456-0.jpeg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.lavanguardia.com/local/catalunya/20260307/11483973/detenido-hombre-intentaba-vender-internet-acordeon-unico-robado-tren-barcelona.html",
-        "date": "2026-03-07 17:35:44",
-        "sentiment_score": 0.06412373483181
-    },
-    {
-        "title": "El Barça de basket acusa el apagón de dos estrellas y la torpeza de dos extracomunitarios",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/16/culemania/secciones/1003742724034_15609891_1706x960.jpg",
-        "tags": [
-            "xavi pascual",
-            "secciones",
-            "fcb basket"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260307/barca-basket-acusa-apagon-estrellas-torpeza-extracomunitarios/1003742739324_0.html",
-        "date": "2026-03-07 17:31:24",
-        "sentiment_score": -0.8286455906927586
-    },
-    {
-        "title": "AGENDA 📆 Este domingo en Lugo",
-        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2024/03/07/2024030721035990219.jpg",
-        "tags": [
-            "agenda de lugo"
-        ],
-        "link": "https://www.elprogreso.es/articulo/agenda/agenda-sabado-lugo/202603071827241952084.html",
-        "date": "2026-03-07 17:27:24",
-        "sentiment_score": 0.023380395025014877
-    },
-    {
-        "title": "“No hay ninguna albañila. Es que no existe ni la palabra”: la reflexión de una CEO gallega sobre el papel de la mujer en la construcción",
-        "image_url": "https://s3.elespanol.com/2026/03/07/actualidad/1003744160347_261819088_1706x960.jpg",
-        "tags": [
-            "a coruña",
-            "galicia",
-            "a coruña ciudad",
-            "comarca de a coruña",
-            "foro mujeres referentes quincemil 2026"
-        ],
-        "link": "https://www.elespanol.com/quincemil/eventos/foro-mujeres-referentes-quincemil-2026/20260307/no-ninguna-albanila-no-existe-palabra-reflexion-ceo-gallega-papel-mujer-construccion/1003744160343_0.html",
-        "date": "2026-03-07 17:24:20",
-        "sentiment_score": -0.3052217587828636
-    },
-    {
-        "title": "Encuentran el cadáver de un hombre en la playa de Castelldefels",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/04/21/vivir-en-barcelona/757934229_9164674_1706x960.jpg",
-        "tags": [
-            "mossos d'esquadra",
-            "gran barcelona",
-            "sucesos",
-            "castelldefels",
-            "playas"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sucesos/20260307/encuentran-cadaver-hombre-playa-castelldefels/1003742739323_0.html",
-        "date": "2026-03-07 17:17:12",
-        "sentiment_score": -0.5880019124597311
-    },
-    {
-        "title": "Ona Mafalda recalará en Toledo el 13 de marzo para presentar su último álbum 'Reset'",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260307181551_690.jpg",
-        "tags": [
-            "castilla-la mancha"
-        ],
-        "link": "https://www.europapress.es/castilla-lamancha/noticia-ona-mafalda-recalara-toledo-13-marzo-presentar-ultimo-album-reset-20260307181551.html",
-        "date": "2026-03-07 17:15:51",
-        "sentiment_score": 0.10155168734490871
-    },
-    {
-        "title": "Ona Mafalda recalará en Toledo el 13 de marzo para presentar su último álbum 'Reset'",
-        "image_url": "http://st1.lacerca.com/imagenes/view/1f66596424acb0caa6f20122b2614c32.jpg",
-        "tags": [
-            "toledo",
-            "noticias"
-        ],
-        "link": "https://www.lacerca.com/noticias/toledo/ona-mafalda-toledo-13-marzo-presentar-album-reset-804978-1.html",
-        "date": "2026-03-07 17:15:00",
-        "sentiment_score": 0.07166669704020023
-    },
-    {
-        "title": "Un camión cargado con cable de cobre se salta un control en la C-16 y sus dos ocupantes acaban detenidos por robo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8a8dfd51-e9b0-43a4-80dd-90110bdb4d87_alta-libre-aspect-ratio_default_0_x540y186.jpg",
-        "tags": [
-            "telecomunicaciones",
-            "sucesos",
-            "policía",
-            "mossos d'esquadra",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/sucesos/20260307/camion-cargado-cable-cobre-salta-control-dos-detenidos-cataluna-127683662",
-        "date": "2026-03-07 17:13:07",
-        "sentiment_score": -0.8276976626366377
-    },
-    {
-        "title": "Castellón da la bienvenida a la Magdalena 2026 con la recepción oficial y la mascletà inaugural",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/03/07/69ac5ae3151bc.jpeg",
-        "tags": [
-            "c. valenciana"
-        ],
-        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20260307/castellon-da-bienvenida-magdalena-2026-recepcion-oficial-mascleta-inaugural_393333.html",
-        "date": "2026-03-07 17:07:23",
-        "sentiment_score": 0.6255409400910139
-    },
-    {
-        "title": "La 'descarada' carrera de Elon Musk para hacerse con la conexión a Internet del mundo: nadie puede igualar su despliegue de satélites",
-        "image_url": "https://imagenes.cope.es/files/content_image/files/fp/uploads/2025/08/25/68acb00b2b00b.r_d.1504-496-2833.jpeg",
-        "tags": [
-            "lo que viene"
-        ],
-        "link": "https://www.cope.es/programas/lo-que-viene/audios/descarada-carrera-elon-musk-hacerse-conexion-internet-mundo-nadie-igualar-despliegue-satelites-20260307_3321490.html",
-        "date": "2026-03-07 17:01:55",
-        "sentiment_score": -0.05066630244255066
-    },
-    {
         "title": "LaLiga: Así quedó la tabla de posiciones tras la victoria del Barcelona",
         "image_url": "https://pxcdn.meridiano.net/032026/1772921976487.jpg?ch=180&cw=320",
         "tags": [
@@ -3000,5 +2774,257 @@ export default [
         "link": "https://noticiasaldiayalahora.co/deportes/liga-de-campeones-bayern-y-atletico-de-madrid-golean-en-la-liga-de-campeones-liverpool-pierde-y-barcelona-es-frenado/",
         "date": "2026-03-11 01:23:01",
         "sentiment_score": -0.0034652650356292725
+    },
+    {
+        "title": "La crisis de Irán amenaza la recuperación del sector del automóvil",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/11/BYD-Explorer-No-1-R44U3UUS7XNztIEp0uigH9I-1200x840@diario_abc.jpg",
+        "tags": [
+            "china",
+            "industria automovilística",
+            "energía",
+            "motor",
+            "irán"
+        ],
+        "link": "https://www.ideal.es/motor/economia/crisis-iran-amenaza-recuperacion-sector-automovil-20260311080000-ntrc.html",
+        "date": "2026-03-11 07:00:25",
+        "sentiment_score": -0.6985490545630455
+    },
+    {
+        "title": "Estas son las puertas monumentales más espectaculares de España",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/03/09/1B168ABC-F284-4C73-A600-D1AA14A43B61/puerta-santa-maria-burgos_98.jpg?crop=2000%2C1125%2Cx0%2Cy81&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "home la razón",
+            "castilla y león"
+        ],
+        "link": "https://www.larazon.es/castilla-y-leon/estas-son-puertas-monumentales-mas-espectaculares-espana_2026031169b11300e1ff634075e439d0.html",
+        "date": "2026-03-11 07:00:16",
+        "sentiment_score": -0.20933683961629868
+    },
+    {
+        "title": "La Audiencia Nacional rechaza el asilo de un hombre de origen somalí que se encuentra cumpliendo una condena de cinco años por agresión sexual",
+        "image_url": "https://www.infobae.com/resizer/v2/ICHO7XTTXRBY5PGOLVOOSDR6UM.png?auth=a9de9f68af576a920d06eb30ad7a63cf13eaf15b263ac5e7e5d54df813e0bd7f&height=1080&smart=true&width=1920",
+        "tags": [
+            "juicios",
+            "agresiones sexuales",
+            "justicia",
+            "sentencias",
+            "nacionalidad",
+            "españa-nacional",
+            "audiencia nacional",
+            "somalía",
+            "españa-noticias",
+            "tribunales españa"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/11/la-audiencia-nacional-rechaza-el-asilo-de-un-hombre-de-origen-somali-que-se-encuentra-cumpliendo-una-condena-de-cinco-anos-por-agresion-sexual/",
+        "date": "2026-03-11 06:52:54",
+        "sentiment_score": -0.6722902245819569
+    },
+    {
+        "title": "Las tres noticias de Carlos Alsina para empezar el día: \"El régimen iraní advierte a Trump de que también él puede ser eliminado\"",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/05/09/6DE83B54-8831-4632-AA7C-6CB358183EDA/tres-historias-empezar-dia-carlos-alsina_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "ondacero",
+            "noticias",
+            "mundo"
+        ],
+        "link": "https://www.ondacero.es/noticias/mundo/tres-noticias-carlos-alsina-empezar-dia-regimen-irani-advierte-trump-que-tambien-puede-ser-eliminado_2026031169b10f966cf703292f6ca314.html",
+        "date": "2026-03-11 06:45:42",
+        "sentiment_score": -0.24379520118236542
+    },
+    {
+        "title": "Pollán (VOX): «León es una víctima más del estado autonómico, como otras provincias. La solución no es crear otra autonomía»",
+        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/files/fp/uploads/2026/03/10/69b069f6c2ea0.r_d.787-606-8664.jpeg",
+        "tags": [
+            "castilla y león"
+        ],
+        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/260311/105366/pollan-vox-leon-victima-autonomico-provincias-solucion-crear-autonomia.html",
+        "date": "2026-03-11 06:35:00",
+        "sentiment_score": 0.14850494265556335
+    },
+    {
+        "title": "Isabel Preysler irradia felicidad junto a Tamara e Íñigo tras la llegada de Ana Boyer desde Doha",
+        "image_url": "https://okdiario.com/look/img/2026/03/10/u603174_025-1.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://okdiario.com/look/actualidad/isabel-preysler-irradia-felicidad-junto-tamara-inigo-llegada-ana-doha-2502074",
+        "date": "2026-03-11 06:30:51",
+        "sentiment_score": 0.43973778188228607
+    },
+    {
+        "title": "Real Madrid - Manchester City: horario y dónde ver el partido de octavos de la Champions League",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GC4PTEXMPRN4BFI7TOM45OUDPY.jpg?auth=ed4e4d48b1d8933f19ea8734c3f778d71dec95dd17801ab74cabbab2f3496df3&width=1200",
+        "tags": [
+            "deportes",
+            "champions league",
+            "sporting portugal",
+            "chelsea fc",
+            "estadio santiago bernabéu",
+            "bayer leverkusen",
+            "futbolistas",
+            "bodo glimt",
+            "manchester city",
+            "entrenadores",
+            "competiciones",
+            "real madrid",
+            "pep guardiola",
+            "psg",
+            "arsenal fc",
+            "fútbol"
+        ],
+        "link": "https://elpais.com/deportes/futbol/2026-03-11/real-madrid-manchester-city-horario-y-donde-ver-el-partido-de-octavos-de-la-champions-league.html",
+        "date": "2026-03-11 06:27:25",
+        "sentiment_score": 0.14864956960082054
+    },
+    {
+        "title": "La revisión arbitral reconoce un error a favor del Madrid: señala que Rüdiger sí que debió ser expulsado",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/03/69a6ed0194fb68-06010333.png",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/revision-arbitral-reconoce-un-error-favor-real-madrid-senala-que-antonio-ruediger-si-que-debio-ser-expulsado-ante-getafe_6944424_0.html",
+        "date": "2026-03-11 06:26:20",
+        "sentiment_score": -0.1278558075428009
+    },
+    {
+        "title": "El Sporting ofrece 20 millones por Arribas; por esa cifra, el Almería ni las botas",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/03/11/69b108918c545.jpeg",
+        "tags": [
+            "ud almería"
+        ],
+        "link": "https://www.lavozdealmeria.com/ud-almeria/486634/sporting-ofrece-20-millones-arribas-cifra-almeria-botas.html",
+        "date": "2026-03-11 06:25:07",
+        "sentiment_score": 0.2498510256409645
+    },
+    {
+        "title": "Precio de la gasolina y el diésel hoy, miércoles 11 de marzo: estas son las gasolineras más baratas de España",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-549576.jpg",
+        "tags": [
+            "economia"
+        ],
+        "link": "https://www.vozpopuli.com/economia/precio-de-la-gasolina-y-el-diesel-hoy-miercoles-11-de-marzo-estas-son-las-gasolineras-mas-baratas-de-espana.html",
+        "date": "2026-03-11 07:02:23",
+        "sentiment_score": -0.09194796532392502
+    },
+    {
+        "title": "Cinco números acertados: el Euromillones deja premio en Las Palmas de Gran Canaria",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/35b11d1c-0b5c-4427-8645-ddd79d7754e2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "españa",
+            "las palmas",
+            "las palmas de gran canaria",
+            "euromillones"
+        ],
+        "link": "https://www.laprovincia.es/las-palmas/2026/03/11/cinco-numeros-acertados-euromillones-deja-127806594.html",
+        "date": "2026-03-11 07:00:00",
+        "sentiment_score": 0.6562329307198524
+    },
+    {
+        "title": "Un día en la vida de Junqueras: De Illa a Irla y Otegi",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/11/primeras-planas/1003742740223_15811049_1706x960.jpg",
+        "tags": [
+            "primeras planas",
+            "cataluña",
+            "oriol junqueras",
+            "salvador illa"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260311/dia-vida-junqueras-illa-irla-otegi/1003742740221_0.html",
+        "date": "2026-03-11 06:59:10",
+        "sentiment_score": -0.9084526589140296
+    },
+    {
+        "title": "Cinco datos clave para entender el Gran Premio de China de Fórmula 1",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/09/2025110920085955383.jpg",
+        "tags": [
+            "fórmula 1"
+        ],
+        "link": "https://www.mundiario.com/articulo/formula-1/cinco-datos-clave-entender-gran-premio-china-formula-1/20260311075433378051.html",
+        "date": "2026-03-11 06:54:33",
+        "sentiment_score": 0.5939676910638809
+    },
+    {
+        "title": "Los vuelos más baratos desde Bilbao por el puente del Día del Padre",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/271ab3e1-c439-4a6b-a7c2-e4ca468395a9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "padre",
+            "baratos",
+            "puente",
+            "bilbao",
+            "dia",
+            "vuelos"
+        ],
+        "link": "https://www.deia.eus/bizkaia/2026/03/11/vuelos-baratos-bilbao-puente-dia-padre-10805141.html",
+        "date": "2026-03-11 06:53:10",
+        "sentiment_score": 0.5058479681611061
+    },
+    {
+        "title": "Fermín Cacho sigue ingresado diez días después de sufrir un desfallecimiento",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/files/fp/uploads/imagenes/2026/03/02/fermin-cacho-en-una-imagen-de-archivo.r_d.384-296-14710.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.heraldo.es/noticias/deportes/2026/03/11/fermin-cacho-sigue-ingresado-diez-dias-despues-de-sufrir-un-desfallecimiento-1901193.html",
+        "date": "2026-03-11 06:46:11",
+        "sentiment_score": -0.8616650700569153
+    },
+    {
+        "title": "El precio más alto de la gasolina hoy en Madrid, Barcelona y otras ciudades de España este 11 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-economia",
+            "precio de la gasolina en españa hoy",
+            "madrid y otras ciudades",
+            "precio de la gasonila en barcelona",
+            "últimas actualizaciones",
+            "precio de la gasolina en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/11/el-precio-mas-alto-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-de-espana-este-11-de-marzo/",
+        "date": "2026-03-11 06:31:15",
+        "sentiment_score": -0.04640984535217285
+    },
+    {
+        "title": "Julián Álvarez no cierra la puerta de salida: «No sé si estaré en el Atlético la próxima temporada»",
+        "image_url": "https://okdiario.com/img/2026/03/10/julia.jpg",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "atlético de madrid",
+            "tottenham hotspur",
+            "champions league"
+        ],
+        "link": "https://okdiario.com/deportes/julian-alvarez-no-cierra-puerta-salida-no-si-estare-atletico-proxima-temporada-16393040",
+        "date": "2026-03-11 06:30:40",
+        "sentiment_score": 0.06341773271560669
+    },
+    {
+        "title": "Buscan a India y Thor, dos cane corso robados en Pinedo, Valencia: \"Están de moda y las crías pueden venderse por 3.000 euros\"",
+        "image_url": "https://album.mediaset.es/eimg/2026/03/10/whatsapp-image-2026-03-10-at-13-55-58_85b5.jpg",
+        "tags": [
+            "valencia"
+        ],
+        "link": "https://www.telecinco.es/noticias/valencia/20260311/buscan-india-thor-cane-corso-robados-pinedo_18_018573660.html",
+        "date": "2026-03-11 06:30:12",
+        "sentiment_score": 0.12937429547309875
+    },
+    {
+        "title": "El tesoro medieval de Girona: un castillo del siglo XIV, murallas y calles de piedra en una ruta imprescindible del Empordà",
+        "image_url": "https://www.infobae.com/resizer/v2/7UHPAG33OZBCDOMFBRYE7EIZMA.jpg?auth=cb28d4f1ac20ca1bff2cd84f2dfefefab4ef65d734d3bd5ce8067f0c064748ce&height=576&smart=true&width=1024",
+        "tags": [
+            "destinos españa",
+            "españa-viajes",
+            "cataluña",
+            "viajes",
+            "destinos",
+            "pueblos",
+            "turismo",
+            "girona",
+            "turismo españa",
+            "viajes y turismo",
+            "españa-noticias",
+            "pueblos de españa"
+        ],
+        "link": "https://www.infobae.com/espana/viajes/2026/03/11/el-tesoro-medieval-de-girona-un-castillo-del-siglo-xiv-murallas-y-calles-de-piedra-en-una-ruta-imprescindible-del-emporda/",
+        "date": "2026-03-11 06:30:00",
+        "sentiment_score": 0.8934399532154202
     }
 ];
