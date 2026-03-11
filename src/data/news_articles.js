@@ -2771,5 +2771,234 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260310/viladecans-rechaza-instalar-camaras-vigilancia-evitar-robos-parc-agraries-caro-ineficaz-innecesario/1003742739557_0.html",
         "date": "2026-03-10 22:30:00",
         "sentiment_score": -0.8015044946223497
+    },
+    {
+        "title": "A qué hora juega Real Madrid vs Manchester City en Perú: partido por octavos de final ida de Champions League 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/3WIXAAXZMRDLFIGO7YAP6H3HFY.jpg?auth=32475711c62ab4717fc8ba36cc573f618af11b4616ea4ff14bc8937cc913bbbe&height=1080&smart=true&width=1920",
+        "tags": [
+            "manchester city",
+            "peru-deportes",
+            "champions league",
+            "real madrid"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/03/11/a-que-hora-juega-real-madrid-vs-manchester-city-partido-bernabeu-octavos-de-final-ida-champions-league-2026/",
+        "date": "2026-03-11 02:18:39",
+        "sentiment_score": 0.20284447073936462
+    },
+    {
+        "title": "La declaración de Julián Álvarez sobre su futuro que encendió todas las alarmas en el Atlético de Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/LDFJUOEMWFE2LMALG35SJRM2OQ.JPG?auth=4b450d15da0f0cbdd9624c2287e8b620b14b2caeed2b110ec0dee16862f91290&height=3413&smart=true&width=4779",
+        "tags": [
+            "deportes-argentina",
+            "champions league",
+            "tottenham",
+            "julián álvarez",
+            "atlético de madrid"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/11/la-declaracion-de-julian-alvarez-sobre-su-futuro-que-encendio-todas-las-alarmas-en-el-atletico-de-madrid/",
+        "date": "2026-03-11 02:03:34",
+        "sentiment_score": 0.6720554456114769
+    },
+    {
+        "title": "Deportes | La conexión portuguesa pide paso en el Elche CF de cara a la cita del Bernabéu",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1798244.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/la-conexion-portuguesa-pide-paso-en-el-elche-cf-de-cara-a-la-cita-del-bernabeu",
+        "date": "2026-03-11 02:00:32",
+        "sentiment_score": 0.1128176599740982
+    },
+    {
+        "title": "Los clientes de Digi disparan las quejas por fallos del servicio en 2025 en plena puesta en marcha de su red móvil propia",
+        "image_url": "https://s3.elespanol.com/2025/11/12/actualidad/1003744010943_259899447_1706x960.jpg",
+        "tags": [
+            "fibra óptica",
+            "5g",
+            "telecomunicaciones",
+            "tecnología",
+            "telefonía",
+            "apagón en españa"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/tecnologia/20260311/clientes-digi-disparan-quejas-fallos-servicio-plena-puesta-marcha-red-movil-propia/1003744158301_0.html",
+        "date": "2026-03-11 01:40:12",
+        "sentiment_score": -0.10050550103187561
+    },
+    {
+        "title": "La Elbphilharmonie de Hamburgo y el nuevo mapa cultural que está redefiniendo el viaje en Europa",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7887285",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5803238/elbphilharmonie-hamburgo-nuevo-mapa-cultural-esta-redefiniendo-viaje-europa",
+        "date": "2026-03-11 01:26:09",
+        "sentiment_score": -0.012836463749408722
+    },
+    {
+        "title": "Empresas ofrecen vacantes para perfiles técnicos y tecnólogos colombianos en España y Canadá, con sueldos de hasta $10 millones",
+        "image_url": "https://www.infobae.com/resizer/v2/GFA3F4OHKJFJBC76HGUHHX73SQ.JPG?auth=fa34445368c88204de9d3c654bc672054d48659e5bc9f9e8982c2c915e583714&height=2908&smart=true&width=4362",
+        "tags": [
+            "trabajo en canadá",
+            "formación técnica",
+            "colombia-noticias",
+            "colombia-servicios",
+            "españa",
+            "vacantes sena",
+            "agencia pública de empleo"
+        ],
+        "link": "https://www.infobae.com/colombia/2026/03/11/empresas-ofrecen-vacantes-para-perfiles-tecnicos-y-tecnologos-colombianos-en-espana-y-canada-con-sueldos-de-hasta-10-millones/",
+        "date": "2026-03-11 01:22:32",
+        "sentiment_score": 0.3935065884143114
+    },
+    {
+        "title": "Mano dura en la NBA: Luka Doncic recibe fuerte multa por gestos inapropiados",
+        "image_url": "https://pxcdn.meridiano.net/032026/1773193050335.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/usa/baloncesto/nba/mano-dura-en-la-nba-luka-doncic-recibe-fuerte-multa-por-gestos-inapropiados-20263102190",
+        "date": "2026-03-11 01:09:00",
+        "sentiment_score": -0.8614486381411552
+    },
+    {
+        "title": "Las autonomías cogen el timón de la aceleración espacial: ocho regiones ya tienen incubadora oficial de la Agencia Europea",
+        "image_url": "https://s3.elespanol.com/2025/08/06/actualidad/1003743877396_257823438_1706x960.jpg",
+        "tags": [
+            "comunidades autónomas",
+            "innovación",
+            "industria aeroespacial",
+            "autonomías 4.0",
+            "startup",
+            "tecnología",
+            "aeroespacial",
+            "wake up spain"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/20260311/autonomias-cogen-timon-aceleracion-espacial-regiones-incubadora-oficial-agencia-europea/1003744163214_0.html",
+        "date": "2026-03-11 00:50:00",
+        "sentiment_score": 0.2497040331363678
+    },
+    {
+        "title": "10 MAR 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/10-mar-2026-partidazo-cope-20260311_3323925.html",
+        "date": "2026-03-11 00:38:20",
+        "sentiment_score": 0.6104498207569122
+    },
+    {
+        "title": "Promoción estratégica y presencia en medios, el modelo de Visibilidad; El Gran Reto",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7887256",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5803225/promocion-estrategica-presencia-medios-modelo-visibilidad-gran-reto",
+        "date": "2026-03-11 00:36:51",
+        "sentiment_score": 0.6955031752586365
+    },
+    {
+        "title": "1-1 Lamine Yamal rescata al Barcelona con un penalti en el minuto 96",
+        "image_url": "https://latino-news.com/wp-content/uploads/2026/03/1-1-lamine-yamal-rescata-al-barcelona-con-un-penalti-en-el-minuto-96.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://latino-news.com/1-1-lamine-yamal-rescata-al-barcelona-con-un-penalti-en-el-minuto-96/",
+        "date": "2026-03-11 02:15:37",
+        "sentiment_score": 0.15122239291667938
+    },
+    {
+        "title": "El Triángulo de las Bermudas catalán",
+        "image_url": "https://s1.staticld.com/2026/01/27/tren-accidente-gelida-rodalies-270126.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2026-03-11/pablo-planas-el-triangulo-de-las-bermudas-catalan-7371539/",
+        "date": "2026-03-11 02:09:24",
+        "sentiment_score": -0.8463242528960109
+    },
+    {
+        "title": "El tenis argentino dice presente en tres torneos del circuito Challenger",
+        "image_url": "https://www.infobae.com/resizer/v2/7W57HHXJSRHE3EVDM5KJLMVRDU.JPG?auth=d768a8dc3ba83b255f08a2df2caf2e2f3bc2e1f7b1481942a7bc0dbd09657cb8&height=2470&smart=true&width=3707",
+        "tags": [
+            "santiago",
+            "tenis argentino",
+            "deportes-argentina",
+            "francisco comesaña",
+            "mariano navone",
+            "tenis",
+            "capcana",
+            "challenger"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/11/el-tenis-argentino-dice-presente-en-tres-torneos-del-circuito-challenger/",
+        "date": "2026-03-11 02:05:21",
+        "sentiment_score": 0.0983191728591919
+    },
+    {
+        "title": "Barcelona salva el empate en el último instante",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/03/Barcelona.jpg",
+        "tags": [
+            "barcelona",
+            "deportes",
+            "10mar"
+        ],
+        "link": "https://laverdaddemonagas.com/2026/03/10/barcelona-salva-el-empate/",
+        "date": "2026-03-11 02:02:02",
+        "sentiment_score": 0.4820706397294998
+    },
+    {
+        "title": "Las últimas previsiones para Barcelona: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
+        "tags": [
+            "últimas actualizaciones",
+            "clima en españa",
+            "clima",
+            "clima en barcelona"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/11/las-ultimas-previsiones-para-barcelona-temperatura-lluvias-y-viento/",
+        "date": "2026-03-11 02:01:13",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "El director financiero de Wow abandona el proyecto de Dimas Gimeno en plena ampliación de capital y búsqueda de socio",
+        "image_url": "https://s3.elespanol.com/2025/10/09/actualidad/1003743962237_259269695_1706x960.jpg",
+        "tags": [
+            "distribución",
+            "dimas gimeno álvarez"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20260311/director-financiero-wow-abandona-proyecto-dimas-gimeno-plena-ampliacion-capital-busqueda-socio/1003744163405_0.html",
+        "date": "2026-03-11 01:40:15",
+        "sentiment_score": 0.4433957077562809
+    },
+    {
+        "title": "El Barcelona salva el empate en el último instante frente al Newcastle",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://eltiempove.com/el-barcelona-salva-el-empate-en-el-ultimo-instante-frente-al-newcastle/",
+        "date": "2026-03-11 01:35:00",
+        "sentiment_score": 0.47834671288728714
+    },
+    {
+        "title": "Liga de Campeones: Bayern y Atlético de Madrid golean en la Liga de Campeones, Liverpool pierde y Barcelona es frenado",
+        "image_url": "https://noticiasaldiayalahora.co/wp-content/uploads/2026/03/Galatasaray-777x437.webp",
+        "tags": [
+            "fc barcelona",
+            "atalanta",
+            "tottenham",
+            "liga de campeones",
+            "deportes",
+            "liverpool",
+            "bayern de múnich",
+            "atlético de madrid",
+            "newcastle",
+            "galatasaray"
+        ],
+        "link": "https://noticiasaldiayalahora.co/deportes/liga-de-campeones-bayern-y-atletico-de-madrid-golean-en-la-liga-de-campeones-liverpool-pierde-y-barcelona-es-frenado/",
+        "date": "2026-03-11 01:23:01",
+        "sentiment_score": -0.0034652650356292725
     }
 ];
