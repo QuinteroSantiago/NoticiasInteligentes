@@ -1,370 +1,5 @@
 export default [
     {
-        "title": "El Real Madrid se libra de milagro en el descuento de una nueva hecatombe",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/adac7a25-0aed-4cda-8cb0-a7956b46bf92_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "celta de vigo",
-            "fútbol",
-            "real madrid"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2026/03/06/celta-real-madrid-goles-resumen-resultado-127662429.html",
-        "date": "2026-03-06 22:18:32",
-        "sentiment_score": -0.3279985934495926
-    },
-    {
-        "title": "Valverde rescata al Madrid en el descuento",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/51bed6db-2c77-42cd-9bdac7ae7089089a.jpg",
-        "tags": [
-            "fede valverde",
-            "borja iglesias",
-            "iago aspas",
-            "fc barcelona",
-            "kylian mbappé",
-            "celta de vigo",
-            "real madrid",
-            "vinícius júnior",
-            "vigo",
-            "aurélien tchouaméni",
-            "thibaut courtois",
-            "lyon",
-            "santiago bernabéu",
-            "eduardo camavinga",
-            "manchester city"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zde48af35-50b1-4871-8bf81672264cbae5/202603/valverde-rescata-al-madrid-en-el-descuento",
-        "date": "2026-03-06 22:16:08",
-        "sentiment_score": -0.26665565371513367
-    },
-    {
-        "title": "Un rechace en el 94 condena al Celta ante el Real Madrid (1-2)",
-        "image_url": "https://cflvdg.avoz.es/sc/U8Y4wIxl_BvFBA9iqo6A5BR6ngE=/768x/2026/03/06/00121772832002127552588/Foto/i_20260306_215812002.jpg",
-        "tags": [
-            "iago aspas",
-            "real madrid",
-            "borja iglesias",
-            "madonna",
-            "álvaro arbeloa",
-            "celta",
-            "vinicius",
-            "grada de río",
-            "javi rueda",
-            "thibaut courtois"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/gradario/2026/03/06/rechace-94-condena-celta-ante-real-madrid-1-2/00031772835193597375986.htm",
-        "date": "2026-03-06 22:15:00",
-        "sentiment_score": -0.2552618272602558
-    },
-    {
-        "title": "La jornada 27 de LaLiga EA Sports, en imágenes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1e9c0ede-db54-4ea6-9f96-36582f89c991_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "laliga",
-            "real madrid",
-            "celta de vigo",
-            "fútbol"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/fotos/deportes/2026/03/06/jornada-27-laliga-ea-sports-127662234.html",
-        "date": "2026-03-06 22:14:18",
-        "sentiment_score": 0.8615903314203024
-    },
-    {
-        "title": "Dos mercados de fichajes desperdiciados para el Real Oviedo",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/03/06/213548898.jpg",
-        "tags": [
-            "real oviedo",
-            "oviedo"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/dos-mercados-fichajes-desperdiciados-real-oviedo-20260307205922-nt.html",
-        "date": "2026-03-06 22:17:08",
-        "sentiment_score": 0.0412253737449646
-    },
-    {
-        "title": "Llegan otros 229 españoles evacuados de Oriente Próximo",
-        "image_url": "https://www.diariodeburgos.es/media/img/2026/4dc22954-fa51-43a4-b9d7dd9d033167ef.jpg",
-        "tags": [
-            "emiratos árabes unidos",
-            "palestina",
-            "kuwait",
-            "irán",
-            "bahréin",
-            "estados unidos",
-            "madrid",
-            "unión europea",
-            "oriente próximo",
-            "israel",
-            "josé manuel albares",
-            "barcelona",
-            "ministerio de exteriores",
-            "omán"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z8129e455-db28-4464-8f3e2a484510221a/202603/llegan-otros-229-espanoles-evacuados-de-oriente-proximo",
-        "date": "2026-03-06 22:02:16",
-        "sentiment_score": 0.05370262637734413
-    },
-    {
-        "title": "El Gobierno entrará a competir con los inversores con 100 millones de euros para la compra de casas en las zonas tensionadas",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
-        "tags": [
-            "nlpremium",
-            "artículos daniela saltos"
-        ],
-        "link": "https://www.elmundo.es/economia/vivienda/2026/03/06/69aae904e85ecec14d8b4573.html",
-        "date": "2026-03-06 21:43:07",
-        "sentiment_score": 0.8302227184176445
-    },
-    {
-        "title": "Cómo nos hemos convertido en la España de Torrente: \"El torrentismo ha pasado de vivir en las catacumbas a celebrar su Orgullo\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/9e1adeee492d225dc6c2577d19053dc3/f/image/jpeg/assets/multimedia/imagenes/2023/01/16/16738696618619.jpg",
-        "tags": [
-            "santiago segura",
-            "nlpremium",
-            "artículos jorge benítez"
-        ],
-        "link": "https://www.elmundo.es/papel/cultura/2026/03/06/69aaf884e9cf4afb538b45b1.html",
-        "date": "2026-03-06 21:42:33",
-        "sentiment_score": -0.2441639006137848
-    },
-    {
-        "title": "El ‘Réquiem’ de Mozart suena en la Seu con la JOSB y la Capella Mallorquina",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4402539.jpg",
-        "tags": [
-            "concierto de música clásica",
-            "cultura",
-            "requiem",
-            "la seu",
-            "música clásica"
-        ],
-        "link": "https://www.ultimahora.es/noticias/cultura/2026/03/06/2584055/requiem-mozart-suena-seu-josb-capella-mallorquina.html",
-        "date": "2026-03-06 21:20:00",
-        "sentiment_score": 0.7018559388816357
-    },
-    {
-        "title": "COMUNICADO: Huawei lanza la solución FAN de nueva generación",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
-        "tags": [
-            "comunicados",
-            "comunicados internacional"
-        ],
-        "link": "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-huawei-lanza-solucion-fan-nueva-generacion-20260306221749.html",
-        "date": "2026-03-06 21:17:49",
-        "sentiment_score": 0.5179647691547871
-    },
-    {
-        "title": "Huawei lanza la solución FAN de nueva generación",
-        "image_url": "https://mma.prnewswire.com/media/2927740/York_Yue_Vice_President_Huawei_CEO_ISP___Media_BU.jpg?p=publish",
-        "tags": [
-            "net",
-            "telecommunications equipment",
-            "hrd",
-            "computer software",
-            "cpr",
-            "cse",
-            "afi",
-            "tls",
-            "networks",
-            "internet technology",
-            "telecommunications industry",
-            "artificial intelligence",
-            "stw",
-            "computer hardware",
-            "computer & electronics",
-            "consumer electronics",
-            "teq",
-            "ite"
-        ],
-        "link": "https://www.prnewswire.com/news-releases/huawei-lanza-la-solucion-fan-de-nueva-generacion-302707203.html",
-        "date": "2026-03-06 21:16:00",
-        "sentiment_score": 0.46013934537768364
-    },
-    {
-        "title": "Celta de Vigo busca desesperadamente a Madonna y su camiseta de 36 años",
-        "image_url": "https://dims.apnews.com/dims4/default/0172f72/2147483647/strip/true/crop/3495x2330+0+0/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2F4e%2F93e4e1ba185dbe7f4622eaa6e9d4%2Fb4e7d700446d46a29db3e0f8c70ce563",
-        "tags": [
-            "deportes",
-            "celta vigo madonna laliga camiseta",
-            "sports"
-        ],
-        "link": "https://apnews.com/article/celta-vigo-madonna-laliga-camiseta-7d1f5ee0c41bc2a021703ec5835784f8",
-        "date": "2026-03-07 02:10:54",
-        "sentiment_score": -0.33419742435216904
-    },
-    {
-        "title": "Celta de Vigo busca desesperadamente a Madonna y su camiseta de 36 años",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2026/03/CELTA-MADONNA_19501.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2026/03/06/celta-de-vigo-busca-desesperadamente-a-madonna-y-su-camiseta-de-36-aos/",
-        "date": "2026-03-07 02:10:54",
-        "sentiment_score": -0.2541316896677017
-    },
-    {
-        "title": "La exaltación del desconcierto",
-        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "exaltacion",
-            "desconcierto"
-        ],
-        "link": "https://www.eldiadecordoba.es/opinion/articulos/exaltacion-desconcierto_0_2006092784.html",
-        "date": "2026-03-07 02:08:42",
-        "sentiment_score": -0.2932416498661041
-    },
-    {
-        "title": "El Real Madrid vence agónicamente en Balaídos",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/Federico-Valverde.png",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://ultimasnoticias.com.ve/deportes/el-real-madrid-vence-agonicamente-en-balaidos/",
-        "date": "2026-03-07 01:41:51",
-        "sentiment_score": -0.10581153631210327
-    },
-    {
-        "title": "Mbappé desató rumores de romance con famosa actriz española tras encuentros en París",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/d96011e3a7532b5e66ccc72f5c6473e409a603dcw.jpg",
-        "tags": [
-            "rumores de romance",
-            "titulares",
-            "kylian mbappé",
-            "ester expósito",
-            "deportes"
-        ],
-        "link": "https://lapatilla.com/2026/03/06/mbappe-desato-rumores-de-romance-con-famosa-actriz-espanola-tras-encuentros-en-paris/",
-        "date": "2026-03-07 01:06:36",
-        "sentiment_score": -0.0016837120056152344
-    },
-    {
-        "title": "Entrevista a Jaume Guardiola: “La deuda neta del Barça asciende a 914 millones y no se ha reducido en 200, sino en 50\"",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/04/culemania/1003742738311_15786632_1706x960.jpg",
-        "tags": [
-            "jaume guardiola",
-            "elecciones barça",
-            "víctor font",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260307/entrevista-jaume-guardiola-barca-asciende-millones-reducido/1003742739189_0.html",
-        "date": "2026-03-07 00:46:41",
-        "sentiment_score": -0.13593433797359467
-    },
-    {
-        "title": "06 MAR 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/06-mar-2026-partidazo-cope-20260307_3321910.html",
-        "date": "2026-03-07 00:40:00",
-        "sentiment_score": -0.561378076672554
-    },
-    {
-        "title": "El problema con la cubierta de San Mamés que evitará el Barça con el Spotify Camp Nou",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/02/14/culemania/palco/924167766_14120876_1706x960.jpg",
-        "tags": [
-            "camp nou",
-            "espai barça",
-            "culemaníacos"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20260307/problema-san-mames-barca-spotify-camp-nou/1003742738189_0.html",
-        "date": "2026-03-07 00:18:31",
-        "sentiment_score": 0.8711844403296709
-    },
-    {
-        "title": "Barcelona: el pronóstico del clima para este 7 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
-        "tags": [
-            "últimas actualizaciones",
-            "clima en españa",
-            "clima en barcelona",
-            "clima"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/07/barcelona-el-pronostico-del-clima-para-este-7-de-marzo/",
-        "date": "2026-03-07 02:15:38",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "\"Sí, hemos tocado el manifiesto\": la izquierda redirige el 8-M hacia el 'No a la guerra' de Sánchez",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/100cc57e14e19b0030a2412626aad5ec/crop/1116x125/2131x1140/f/image/jpeg/assets/multimedia/imagenes/2024/10/31/17303778454999.jpg",
-        "tags": [
-            "feminismo",
-            "nlpremium",
-            "marcha 8m",
-            "artículos silvia lorenzo"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/03/07/69ab278efdddff0e598b45ab.html",
-        "date": "2026-03-07 02:08:19",
-        "sentiment_score": 0.14254094660282135
-    },
-    {
-        "title": "Argis, la promotora en la que invierten los VIP",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/02/28/69a34c2c98995.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.lavanguardia.com/economia/20260307/11478115/argis-promotora-invierten-vip.html",
-        "date": "2026-03-07 02:00:00",
-        "sentiment_score": 0.6251196321099997
-    },
-    {
-        "title": "Vicente Gracia, el joyero que ha diseñado para Michael Jackson o la reina Letizia: vendió su gran pieza por 126.000 euros",
-        "image_url": "https://s3.elespanol.com/2026/03/06/actualidad/1003744158775_261797666_1706x960.jpg",
-        "tags": [
-            "arte",
-            "valencia",
-            "comunidad valenciana",
-            "diseño",
-            "cultura",
-            "joyas"
-        ],
-        "link": "https://www.elespanol.com/valencia/cultura/20260307/vicente-gracia-joyero-disenado-michael-jackson-reina-letizia-vendio-gran-pieza-euros-dl/1003744155661_0.html",
-        "date": "2026-03-07 00:40:00",
-        "sentiment_score": 0.13663776218891144
-    },
-    {
-        "title": "El auge de los 'cazadores de herencias' que dan con fortunas sin dueño: \"Un cartero se llevó 4M sin estar en el testamento\"",
-        "image_url": "https://s3.elespanol.com/2026/03/06/actualidad/1003744159583_261809048_1706x960.jpg",
-        "tags": [
-            "reportajes",
-            "reportajes-newsletter",
-            "porfolio",
-            "herencias"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260307/auge-cazadores-herencias-dan-fortunas-sin-dueno-cartero-llevo-testamento/1003744159564_0.html",
-        "date": "2026-03-07 00:40:00",
-        "sentiment_score": -0.7242713533341885
-    },
-    {
-        "title": "Carlos Segarra, de 'Los Rebeldes': \"Para una dictadura no hay nada mejor que la gente esté viendo fútbol, tomando ron... y callada\"",
-        "image_url": "https://s3.elespanol.com/2026/03/06/reportajes/1003744159062_261801748_1706x960.jpg",
-        "tags": [
-            "transición española",
-            "estilos musicales",
-            "inteligencia artificial",
-            "conciertos música",
-            "música",
-            "porfolio",
-            "grupos musicales",
-            "rock",
-            "reportajes-newsletter",
-            "donald trump"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260307/carlos-segarra-rebeldes-dictadura-no-mejor-gente-viendo-futbol-tomando-ron-callada/1003744149451_0.html",
-        "date": "2026-03-07 00:40:00",
-        "sentiment_score": -0.8476201631128788
-    },
-    {
-        "title": "Guía F1 2026: el mapa de los 24 circuitos en un año de máxima inestabilidad",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/06185523/WhatsApp-Image-2026-03-06-at-6.53.27-PM.jpeg",
-        "tags": [
-            "motores",
-            "f1",
-            "fórmula 1",
-            "deportes"
-        ],
-        "link": "https://www.elnacional.com/2026/03/guia-f1-2026-el-mapa-de-los-24-circuitos-en-un-ano-de-maxima-inestabilidad/",
-        "date": "2026-03-07 00:21:02",
-        "sentiment_score": -0.8532290868461132
-    },
-    {
         "title": "La productora de Ana Rosa consigue la primera alianza histórica entre Telemadrid y À Punt",
         "image_url": "https://www.elplural.com/uploads/s1/24/82/37/8/ana-rosa-en-el-programa-de-ana-rosa-mediaset_7_480x270.jpeg",
         "tags": [
@@ -2880,5 +2515,240 @@ export default [
         "link": "https://www.lne.es/espana/2026/03/10/judicial-prepara-respuesta-bolanos-tribunales-de-instancia-equipos-flotantes-sedes-dispersa-127764053.html",
         "date": "2026-03-10 06:30:07",
         "sentiment_score": -0.15150964260101318
+    },
+    {
+        "title": "CNN: Venezuela abre el debate de la ley de minería, clave en la relación de Rodríguez con Trump",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/07/venezuela.jpg",
+        "tags": [
+            "nacionales",
+            "internacionales",
+            "venezuela",
+            "actualidad",
+            "usa",
+            "ley de minería",
+            "eeuu"
+        ],
+        "link": "https://lapatilla.com/2026/03/09/cnn-venezuela-abre-el-debate-de-la-ley-de-mineria-clave-en-la-relacion-de-rodriguez-con-trump/",
+        "date": "2026-03-09 13:23:19",
+        "sentiment_score": -0.2782916724681854
+    },
+    {
+        "title": "El 99,95% de los aspirantes supera las pruebas de Formación Sanitaria Especializada 2026",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260310183900_690.jpg",
+        "tags": [
+            "actualidad",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/actualidad/noticia-9995-aspirantes-supera-pruebas-formacion-sanitaria-especializada-2026-20260310183900.html",
+        "date": "2026-03-10 17:39:00",
+        "sentiment_score": 0.05604514479637146
+    },
+    {
+        "title": "Talavera como punto de inflexión: el Avilés afronta un tramo clave de la temporada ante rivales directos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/467c8796-02d0-4216-927d-9710ca425a0c_16-9-aspect-ratio_default_0_x449y138.jpg",
+        "tags": [
+            "avilés",
+            "sueño",
+            "real avilés",
+            "el paso",
+            "fin de semana"
+        ],
+        "link": "https://www.lne.es/real-aviles/2026/03/10/talavera-punto-inflexion-aviles-afronta-127796252.html",
+        "date": "2026-03-10 17:37:35",
+        "sentiment_score": -0.13262924551963806
+    },
+    {
+        "title": "HM CIOCC atendió en 2025 a más de 4.000 nuevos pacientes oncológicos y administró más de 14.200 tratamientos",
+        "image_url": "https://www.infobae.com/resizer/v2/62MV66UJ7RHHXJYVCUU6WDL65M.jpg?auth=9a94b658cde051f47d3dec4a40efd605bc16917ef216def81ce2137b2c6e542a&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/10/hm-ciocc-atendio-en-2025-a-mas-de-4000-nuevos-pacientes-oncologicos-y-administro-mas-de-14200-tratamientos/",
+        "date": "2026-03-10 17:33:29",
+        "sentiment_score": 0.15093878284096718
+    },
+    {
+        "title": "La Real Sociedad se agrieta: los debates que marcan la previa de la final de Copa",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/07/69ac66c579456.jpeg",
+        "tags": [
+            "deportes gipuzkoa"
+        ],
+        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-guipuzcoa/noticias/real-sociedad-agrieta-debates-marcan-previa-final-copa-20260310_3323803.html",
+        "date": "2026-03-10 17:27:24",
+        "sentiment_score": -0.029739171266555786
+    },
+    {
+        "title": "Atlético y Real Sociedad tendrán 25.680 entradas para la final de La Cartuja",
+        "image_url": "https://static.grupojoly.com/clip/6e317194-3cf0-4171-8c59-6ce7dfa26796_source-aspect-ratio_default_0_x1264y312.jpg",
+        "tags": [
+            "tendran",
+            "25",
+            "atletico",
+            "sociedad",
+            "real"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/atletico-real-sociedad-tendran-25_0_2006126803.html",
+        "date": "2026-03-10 17:24:35",
+        "sentiment_score": -0.4501892067492008
+    },
+    {
+        "title": "En su nuevo disco, Rafa Ferrà resume «un buen momento en mi vida»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4405649.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2026/03/10/2586051/nuevo-disco-rafa-ferra-resume-buen-momento-vida.html",
+        "date": "2026-03-10 17:22:36",
+        "sentiment_score": 0.09126448631286621
+    },
+    {
+        "title": "Fetico reclama pluralidad sindical y tener voz en la mesa de diálogo social sobre el conflicto en Irán",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260310181440_120.jpg",
+        "tags": [
+            "economía finanzas",
+            "laboral"
+        ],
+        "link": "https://www.europapress.es/economia/laboral-00346/noticia-fetico-reclama-pluralidad-sindical-tener-voz-mesa-dialogo-social-conflicto-iran-20260310181440.html",
+        "date": "2026-03-10 17:14:40",
+        "sentiment_score": -0.10491573810577393
+    },
+    {
+        "title": "Sánchez declara que el muñeco de su figura apaleado en la Nochevieja del 2023 fue una \"apelación directa\" a su \"muerte\"",
+        "image_url": "https://s3.elespanol.com/2026/03/10/actualidad/1003744164071_261867278_1706x960.jpg",
+        "tags": [
+            "ferraz",
+            "pedro sánchez",
+            "psoe (partido socialista obrero español)",
+            "tribunales"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20260310/sanchez-declara-muneco-figura-apaleado-nochevieja-apelacion-directa-muerte/1003744164067_0.html",
+        "date": "2026-03-10 17:14:37",
+        "sentiment_score": -0.8644231129437685
+    },
+    {
+        "title": "Mujeres por Almaraz a la ministra Ana Redondo: “La igualdad no puede depender del código postal”",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/43173517-34ae-4b4d-b563-e3de1042165e_16-9-aspect-ratio_default_0_x640y283.jpg",
+        "tags": [
+            "extremadura",
+            "almaraz",
+            "igualdad",
+            "energía",
+            "mujeres",
+            "central nuclear de almaraz"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/03/10/mujeres-almaraz-ministra-ana-redondo-127795200.html",
+        "date": "2026-03-10 17:11:24",
+        "sentiment_score": -0.12371863424777985
+    },
+    {
+        "title": "Bodø/Glimt, el equipo de un pueblo pesquero noruego que vive un cuento de hadas en la Champions",
+        "image_url": "https://dims.apnews.com/dims4/default/3f40fd8/2147483647/strip/true/crop/5808x3872+0+0/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff7%2Ff6%2F7906bb98c454ec2d166bec688bdb%2F0e24c1305c0e4af6af0c992d575f757a",
+        "tags": [
+            "bodo glimt champions league",
+            "sports",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/bodo-glimt-champions-league-18ef462137f546ed955548fd5964fc63",
+        "date": "2026-03-10 17:11:21",
+        "sentiment_score": 0.016839832067489624
+    },
+    {
+        "title": "LaLiga denuncia cánticos insultantes de San Mamés contra el Barça",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/901acd8f-7e94-4e1d-8b51-51e76fd08814_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "denuncia",
+            "cánticos",
+            "san mamés",
+            "insultantes",
+            "barça",
+            "laliga"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/03/10/laliga-denuncia-canticos-insultantes-barca-san-mames-10804949.html",
+        "date": "2026-03-10 17:39:23",
+        "sentiment_score": -0.7097852099686861
+    },
+    {
+        "title": "El III Foro ALIA sobre inteligencia artificial, en imágenes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/90b1c006-2192-4b93-84b2-ed82ccd61330_16-9-aspect-ratio_default_0_x640y284.jpg",
+        "tags": [
+            "motor",
+            "barcelona",
+            "comunitat valenciana",
+            "inteligencia artificial",
+            "empresas"
+        ],
+        "link": "https://www.levante-emv.com/fotos/comunitat-valenciana/2026/03/10/tercer-foro-alia-inteligencia-artificial-127793930.html",
+        "date": "2026-03-10 17:38:55",
+        "sentiment_score": 0.34777921438217163
+    },
+    {
+        "title": "Los octavos de final de la Champions comienzan este martes con cuatro duelos decisivos",
+        "image_url": "https://noticialdia.com/wp-content/firewall/uploads/2026/03/octavos.jpg",
+        "tags": [
+            "octavos de final",
+            "uefa champions league",
+            "juegos",
+            "deportes"
+        ],
+        "link": "https://noticialdia.com/deportes/los-octavos-de-final-de-la-champions-comienzan-este-martes-con-cuatro-duelos-decisivos/",
+        "date": "2026-03-10 17:34:53",
+        "sentiment_score": 0.27652016282081604
+    },
+    {
+        "title": "Los alcaldes de Leganés, Badalona y Castelldefels debaten sobre la convivencia y libertad en Catalunya",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/10/gran-barcelona/1003742740123_15809631_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "badalona",
+            "gran barcelona",
+            "xavier garcía albiol"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260310/alcaldes-leganes-badalona-castelldefels-debaten-convivencia-libertad-catalunya/1003742740047_0.html",
+        "date": "2026-03-10 17:33:51",
+        "sentiment_score": -0.35442040860652924
+    },
+    {
+        "title": "Filven-Anzoátegui se realizará del 12 al 14 de marzo en Barcelona",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "cultura",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/filven-anzoategui-se-realizara-del-12-al-14-de-marzo-en-barcelona/",
+        "date": "2026-03-10 17:32:33",
+        "sentiment_score": 0.10477077588438988
+    },
+    {
+        "title": "Muere el escritor peruano Alfredo Bryce Echenique a los 87 años",
+        "image_url": "https://www.infobae.com/resizer/v2/XSVSDWFASRG73APRSYUJ6UTQ5M.jpg?auth=db9ba491341646da11c3f34915f9a03c597369e8526ea308b4e2ca46453ae73b&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/10/muere-el-escritor-peruano-alfredo-bryce-echenique-a-los-87-anos/",
+        "date": "2026-03-10 17:31:24",
+        "sentiment_score": -0.6780691109597683
+    },
+    {
+        "title": "La UCO desvela cómo la trama de Rubiales cobraba sus presuntas mordidas de la RFEF y La Cartuja",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1f6bb278-8189-4889-9bf6-e9dc046e803c_16-9-aspect-ratio_default_0_x810y360.jpg",
+        "tags": [
+            "corrupción",
+            "luis rubiales",
+            "fútbol"
+        ],
+        "link": "https://www.laopiniondemalaga.es/deportes/2026/03/10/uco-desvela-trama-rubiales-cobraba-127796299.html",
+        "date": "2026-03-10 17:28:16",
+        "sentiment_score": -0.5710635930299759
+    },
+    {
+        "title": "Las entidades asociadas a CECA reivindican en ARCO el valor de su patrimonio artístico y cultural",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260310181847_690.jpg",
+        "tags": [
+            "responsables",
+            "ep social"
+        ],
+        "link": "https://www.europapress.es/epsocial/responsables/noticia-entidades-asociadas-ceca-reivindican-arco-valor-patrimonio-artistico-cultural-20260310181847.html",
+        "date": "2026-03-10 17:18:47",
+        "sentiment_score": 0.7062586471438408
     }
 ];
