@@ -1,386 +1,5 @@
 export default [
     {
-        "title": "LaLiga: Así quedó la tabla de posiciones tras la victoria del Barcelona",
-        "image_url": "https://pxcdn.meridiano.net/032026/1772921976487.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/laliga-asi-quedo-la-tabla-de-posiciones-tras-la-victoria-del-barcelona-20263718200",
-        "date": "2026-03-07 22:20:00",
-        "sentiment_score": 0.07697563618421555
-    },
-    {
-        "title": "1-3, El Manchester City avanza en la FA Cup a costa del Newcastle",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/07/1-3-el-manchester-city-avanza-en-la-fa-cup-a-costa-del-newcastle/",
-        "date": "2026-03-07 22:18:23",
-        "sentiment_score": 0.6172335743904114
-    },
-    {
-        "title": "0-1. Un golazo de Lamine Yamal afianza al Barcelona en el liderato",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/07/0-1-un-golazo-de-lamine-yamal-afianza-al-barcelona-en-el-liderato/",
-        "date": "2026-03-07 22:18:07",
-        "sentiment_score": 0.824279461055994
-    },
-    {
-        "title": "Un golazo de Lamine Yamal afianza al Barça en el liderato",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/188ac442-042c-4296-8b7f2d722853761d.jpg",
-        "tags": [
-            "ernesto valverde",
-            "san mamés",
-            "hansi flick",
-            "fc barcelona",
-            "athletic club",
-            "robert lewandowski",
-            "real madrid",
-            "lamine yamal",
-            "pedri",
-            "raphinha"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zbbd67bc2-c819-44cc-a1f66190cc4d994f/202603/un-golazo-de-lamine-yamal-afianza-al-barca-en-el-liderato",
-        "date": "2026-03-07 22:16:36",
-        "sentiment_score": 0.7823022920638323
-    },
-    {
-        "title": "Lamine Yamal decide en San Mamés",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/07/athletic-barcelona-cronica-k4RC-U201069424093IE-1200x840@RC.jpg",
-        "tags": [
-            "athletic de bilbao",
-            "f.c. barcelona"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/cronica-athletic-barcelona-primera-jornada27-20260307194025-ntrc.html",
-        "date": "2026-03-07 22:14:39",
-        "sentiment_score": 0.860437348484993
-    },
-    {
-        "title": "Real Avilés Industrial-Zamora: El Avilés mide su reacción en el Suárez Puerta",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/03/07/real-aviles-zamora-kevin-bautista-R5l6KMY8rwWjMJvOa5WnPMM-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "real avilés",
-            "primera rfef",
-            "estadio román suárez puerta"
-        ],
-        "link": "https://www.elcomercio.es/real-aviles/real-aviles-industrialzamora-aviles-mide-reaccion-suarez-20260307225704-nt.html",
-        "date": "2026-03-07 22:10:13",
-        "sentiment_score": -0.3586183786392212
-    },
-    {
-        "title": "Un golazo de Lamine Yamal refuerza el liderato del Barcelona en San Mamés",
-        "image_url": "https://www.tribunavalladolid.com/uploads/imagenes/images/2026/3/07/437010/20260307231155_caratula.webP",
-        "tags": [
-            "food",
-            "technology",
-            "top"
-        ],
-        "link": "https://www.tribunasalamanca.com/noticias/437010/un-golazo-de-lamine-yamal-refuerza-el-liderato-del-barcelona-en-san-mames",
-        "date": "2026-03-07 22:07:00",
-        "sentiment_score": 0.851186964660883
-    },
-    {
-        "title": "Espanyol - Real Oviedo: Los azules regresan al estadio en el que acarició la gloria",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/03/07/213588478-k2PG--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "real oviedo",
-            "rcd espanyol"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/espanyol-real-oviedo-azules-regresan-estadio-acaricio-20260307225615-nt.html",
-        "date": "2026-03-07 22:06:15",
-        "sentiment_score": -0.19590432196855545
-    },
-    {
-        "title": "Athletic 0-1 Barcelona | El análisis final de José Manuel Monje",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/0c342f17-29ff-489d-8f93-3de36bcb5103_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "1",
-            "barcelona",
-            "athletic",
-            "0",
-            "analisis"
-        ],
-        "link": "https://www.deia.eus/videos/athletic/2026/03/07/athletic-0-1-barcelona-analisis-10794090.html",
-        "date": "2026-03-07 22:22:59",
-        "sentiment_score": 0.008315876126289368
-    },
-    {
-        "title": "Resumen Athletic Club-Barcelona: Lamine y Pedri son los domadores en una 'jaula de leones' (0-1)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/03/07/image-45c1cd9b-8fd3-456f-b64d-a53b91e41393-85-2560-1440.jpeg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/athletic-club-barcelona-video-resumen-resultado-goles-mejores-momentos-partido-golazo-lamine-yamal-jornada-27-hoy_vid60061943/video.shtml",
-        "date": "2026-03-07 22:20:18",
-        "sentiment_score": 0.26388558745384216
-    },
-    {
-        "title": "La hora de la verdad del hidrógeno: el reto de pasar de la promesa al negocio",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/07/zafra-1200-k0OH--562x562@RC.jpg",
-        "tags": [
-            "historias visuales"
-        ],
-        "link": "https://www.canarias7.es/economia/hora-verdad-hidrogeno-reto-pasar-promesa-negocio-20260308194210-ntrc.html",
-        "date": "2026-03-07 22:20:16",
-        "sentiment_score": 0.6399377770721912
-    },
-    {
-        "title": "El comentario sin filtro de Pedri a Lamine: «Lo que tiene que hacer es no conformarse»",
-        "image_url": "https://okdiario.com/img/2026/03/07/pedri-lamine.jpg",
-        "tags": [
-            "pedri gonzález",
-            "fútbol",
-            "fc barcelona",
-            "lamine yamal",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/comentario-sin-filtro-pedri-lamine-lo-que-tiene-que-hacer-no-conformarse-16373273",
-        "date": "2026-03-07 22:13:54",
-        "sentiment_score": -0.2363196611404419
-    },
-    {
-        "title": "Lo más viral de la semana: Taylor Swift dejará la soltería",
-        "image_url": "https://static.wixstatic.com/media/cf263a_aea78f66ae454dfe978ca7d6be2ff677~mv2.png/v1/fit/w_1000,h_357,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-de-la-semana-taylor-swift-dejara-la-solter%C3%ADa",
-        "date": "2026-03-07 20:09:04",
-        "sentiment_score": -0.15644308924674988
-    },
-    {
-        "title": "La mujer en la política digital autonómica: cuando el talento vence al 'robo de ideas' o al \"mira, bonita\"",
-        "image_url": "https://s3.elespanol.com/2026/03/07/actualidad/1003744160473_261820415_1706x960.jpg",
-        "tags": [
-            "galicia",
-            "brecha de género",
-            "8-m: día internacional de la mujer",
-            "wake up spain",
-            "comunidad valenciana",
-            "autonomías 4.0",
-            "tecnología",
-            "innovación"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/20260308/mujer-politica-digital-autonomica-talento-vence-robo-ideas-mira-bonita/1003744155537_0.html",
-        "date": "2026-03-08 01:58:18",
-        "sentiment_score": 0.4290294274687767
-    },
-    {
-        "title": "1-0. EE.UU. se corona campeón de la SheBelieves Cup luego de vencer a Colombia",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/08/1-0-eeuu-se-corona-campeon-de-la-shebelieves-cup-luego-de-vencer-a-colombia/",
-        "date": "2026-03-08 01:15:54",
-        "sentiment_score": 0.39693671464920044
-    },
-    {
-        "title": "Rumores vinculan a Ester Expósito con Kylian Mbappé tras ser vistos en París",
-        "image_url": "https://diarioavance.com/wp-content/uploads/2026/03/para-fotos-de-la-web-14.jpg",
-        "tags": [
-            "ester expósito",
-            "diario avance"
-        ],
-        "link": "https://diarioavance.com/rumores-vinculan-a-ester-exposito-con-kylian-mbappe/",
-        "date": "2026-03-08 01:04:54",
-        "sentiment_score": -0.17707634717226028
-    },
-    {
-        "title": "España cae 20 puestos en el índice de países seguros para las mujeres desde que llegó Sánchez: hay el triple de violaciones",
-        "image_url": "https://s3.elespanol.com/2026/03/07/actualidad/1003744160418_261819850_1706x960.jpg",
-        "tags": [
-            "ministerio de igualdad",
-            "españa",
-            "ana redondo",
-            "porfolio",
-            "reportajes",
-            "pedro sánchez",
-            "feminismo",
-            "ley trans",
-            "reportajes-newsletter-destacada",
-            "gobierno de españa"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260308/espana-cae-puestos-indice-paises-seguros-mujeres-llego-sanchez-triple-violaciones/1003744157130_0.html",
-        "date": "2026-03-08 00:56:27",
-        "sentiment_score": -0.714221078902483
-    },
-    {
-        "title": "Griezmann no se mudará a la MLS esta temporada: Director deportivo del Atlético de Madrid",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/978f944/2147483647/strip/true/crop/6136x3221+0+435/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F48%2Fd8%2F87f46d7142cf91e5a7c91556495f%2Fc34173e3208f44b7b061a8c676bd0670.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-07/griezmann-no-se-mudara-la-mls-esta-temporada-director-deportivo-del-atletico-de-madrid",
-        "date": "2026-03-08 00:50:53",
-        "sentiment_score": -0.28797490149736404
-    },
-    {
-        "title": "8M Fichas",
-        "image_url": "https://s10.s3c.es/imag/_v0/1665x911/7/d/2/1200x655_8m.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.eleconomista.es/actualidad/noticias/13802049/03/26/8m-fichas.html",
-        "date": "2026-03-08 00:29:12",
-        "sentiment_score": -0.02848370373249054
-    },
-    {
-        "title": "El Barça cierra sus penas de Copa conquistando San Mamés en Liga",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/07200930/AFP__20260307__A2DK8GL__v1__MidRes__FblEspLigaAthleticBilbaoBarcelona.jpg",
-        "tags": [
-            "san mamés",
-            "barça",
-            "barcelona",
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.elnacional.com/2026/03/el-barca-cierra-sus-penas-de-copa-conquistando-san-mames/",
-        "date": "2026-03-08 00:16:55",
-        "sentiment_score": 0.5630011856555939
-    },
-    {
-        "title": "07 MAR 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/07-mar-2026-tramo-final-juego-20260308_3322053.html",
-        "date": "2026-03-08 00:05:37",
-        "sentiment_score": 0.20392513275146484
-    },
-    {
-        "title": "Las fotos del Atlético de Madrid-Real Sociedad",
-        "image_url": "https://static.grupojoly.com/clip/f7294ed2-bfa8-46fc-89d4-48b074601413_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "laliga"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/fotos-atletico-madrid-real-sociedad_3_2006098643.html",
-        "date": "2026-03-07 23:49:08",
-        "sentiment_score": -0.08293606340885162
-    },
-    {
-        "title": "Griezmann no se mudará a la MLS esta temporada: Director deportivo del Atlético de Madrid",
-        "image_url": "https://dims.apnews.com/dims4/default/14f7a27/2147483647/strip/true/crop/6136x4091+0+0/resize/319x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3d%2F39%2F41cad3eb6f0fb03a984170e6f252%2Fc34173e3208f44b7b061a8c676bd0670",
-        "tags": [
-            "sports",
-            "deportes",
-            "antoine griezmann atletico madrid orland city mls"
-        ],
-        "link": "https://apnews.com/article/antoine-griezmann-atletico-madrid-orland-city-mls-5b5ca1926e7e0bf4148e534e01e10210",
-        "date": "2026-03-07 23:48:34",
-        "sentiment_score": -0.23043815046548843
-    },
-    {
-        "title": "España: las predicciones del tiempo para Barcelona este 8 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
-        "tags": [
-            "últimas actualizaciones",
-            "clima en españa",
-            "clima",
-            "clima en barcelona"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/08/espana-las-predicciones-del-tiempo-para-barcelona-este-8-de-marzo/",
-        "date": "2026-03-08 02:01:02",
-        "sentiment_score": 0.17115099728107452
-    },
-    {
-        "title": "El reto ya no es tecnológico: es de talento",
-        "image_url": "https://s3.elespanol.com/2026/03/05/actualidad/1003744157957_261787228_1706x960.jpg",
-        "tags": [
-            "opinión",
-            "energía - opinión",
-            "talento",
-            "tecnología",
-            "innovación"
-        ],
-        "link": "https://www.elespanol.com/invertia/opinion/20260308/reto-no-tecnologico-talento/1003744157951_12.html",
-        "date": "2026-03-08 01:50:06",
-        "sentiment_score": -0.05789743363857269
-    },
-    {
-        "title": "Extraen tumor de más de 25 kilos en hospital Luis Razetti de Barcelona",
-        "image_url": "https://primicia.com.ve/wp-content/uploads/2026/03/gvjpg-57289-730x506.jpeg",
-        "tags": [
-            "intervención",
-            "barcelona",
-            "salud",
-            "marzo",
-            "luis razetti",
-            "tumor"
-        ],
-        "link": "https://primicia.com.ve/mas/salud/extraen-tumor-de-mas-de-25-kilos-en-hospital-luis-razetti-de-barcelona/",
-        "date": "2026-03-08 01:30:55",
-        "sentiment_score": -0.09210842475295067
-    },
-    {
-        "title": "El artista plástico Ricardo Celma denunció la desaparición de una obra enviada para un concurso internacional",
-        "image_url": "https://www.infobae.com/resizer/v2/UC3KUJTKPRF5VDD7L3ME5RBIFE.jfif?auth=2bece6f0a64c84b4396131590b0b0cdc39850f9e55b2ba6af1d561b971cd1c3f&height=599&smart=true&width=1065",
-        "tags": [
-            "arte internacional",
-            "últimas noticias",
-            "argentina",
-            "mercado negro",
-            "obra desaparecida",
-            "ricardo celma",
-            "interpol"
-        ],
-        "link": "https://www.infobae.com/sociedad/2026/03/08/el-artista-plastico-ricardo-celma-denuncio-la-desaparicion-de-una-obra-enviada-para-un-concurso-internacional/",
-        "date": "2026-03-08 00:22:12",
-        "sentiment_score": -0.772070100530982
-    },
-    {
-        "title": "¿Por qué un hombre tiene que cobrar muchísimo más que yo si hacemos lo mismo?",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/08/fem-1200--562x562.jpg",
-        "tags": [
-            "hombre",
-            "muchisimo",
-            "hacemos",
-            "cobrar"
-        ],
-        "link": "https://www.elcorreo.com/sociedad/hombre-cobrar-muchisimo-hacemos-20260308011942-nt.html",
-        "date": "2026-03-08 00:19:45",
-        "sentiment_score": -0.011439517140388489
-    },
-    {
-        "title": "ERC hierve por el \"débil\" liderazgo de Junqueras: \"Ganó por el 52% de votos, no tiene el partido controlado\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
-        "tags": [
-            "artículos víctor mondelo"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2026/03/08/69ac67a4fdddffdc748b456e.html",
-        "date": "2026-03-07 23:55:17",
-        "sentiment_score": -0.9223109725862741
-    },
-    {
-        "title": "Hansi Flick: \"Lamine no ha hecho su mejor partido, pero se nota su importancia\"",
-        "image_url": "https://www.infobae.com/resizer/v2/E6CYPJKESJC7HJONT3LY4VV5GI.jpg?auth=74764c83e364ac2765ccff2eec8d6483f4f7d57046bfbfe1ac4cff7494f1af27&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/07/hansi-flick-lamine-no-ha-hecho-su-mejor-partido-pero-se-nota-su-importancia/",
-        "date": "2026-03-07 23:45:29",
-        "sentiment_score": 0.34005390107631683
-    },
-    {
-        "title": "Las fotos del Athletic-Barcelona",
-        "image_url": "https://static.grupojoly.com/clip/88ec5829-5644-4464-a826-9200d1072355_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "laliga",
-            "fc barcelona"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/fotos-athletic-barcelona_3_2006098455.html",
-        "date": "2026-03-07 23:41:11",
-        "sentiment_score": -0.044321462512016296
-    },
-    {
         "title": "Mujeres y precariedad: quién paga el coste real de la inflación en España",
         "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/04/una-mujer-trabajadora-del-sector-del-metal.jpeg",
         "tags": [
@@ -609,16 +228,6 @@ export default [
         "link": "https://es.ara.cat/deportes/futbol/laporta-motivos-nervioso_128_5671752.html",
         "date": "2026-03-08 06:00:55",
         "sentiment_score": -0.40595920383930206
-    },
-    {
-        "title": "Lo más viral de la semana: Taylor Swift dejará la soltería",
-        "image_url": "https://static.wixstatic.com/media/cf263a_aea78f66ae454dfe978ca7d6be2ff677~mv2.png/v1/fit/w_1000,h_357,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-de-la-semana-taylor-swift-dejara-la-solter%C3%ADa",
-        "date": "2026-03-07 20:09:04",
-        "sentiment_score": -0.15644336864352226
     },
     {
         "title": "Un 8M multitudinario y diverso se convierte en un grito unánime contra la guerra y el fascismo: “Hoy más que nunca hay que salir a reivindicar nuestros derechos”",
@@ -3026,5 +2635,240 @@ export default [
         "link": "https://www.infobae.com/espana/viajes/2026/03/11/el-tesoro-medieval-de-girona-un-castillo-del-siglo-xiv-murallas-y-calles-de-piedra-en-una-ruta-imprescindible-del-emporda/",
         "date": "2026-03-11 06:30:00",
         "sentiment_score": 0.8934399532154202
+    },
+    {
+        "title": "El ranking de las 10 gasolineras más baratas de la Comunidad de Madrid: todo lo que te puedes ahorrar si sabes elegir",
+        "image_url": "https://s3.elespanol.com/2026/03/11/madrid/1003744165594_261887381_1706x960.jpg",
+        "tags": [
+            "sociedad",
+            "gasolina",
+            "comunidad de madrid",
+            "gasolineras baratas",
+            "precios de la gasolina",
+            "petróleos de venezuela",
+            "precios"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20260311/ranking-gasolineras-baratas-comunidad-madrid-puedes-ahorrar-sabes-elegir/1003744165320_0.html",
+        "date": "2026-03-11 17:40:46",
+        "sentiment_score": -0.7687959894537926
+    },
+    {
+        "title": "El Observatorio de Salud pide en el Congreso equidad real y circuitos ágiles para tratar el cáncer en las mujeres",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260311183719_1200.jpg",
+        "tags": [
+            "cáncer"
+        ],
+        "link": "https://www.infosalus.com/mujer/noticia-observatorio-salud-pide-congreso-equidad-real-circuitos-agiles-tratar-cancer-mujeres-20260311183719.html",
+        "date": "2026-03-11 17:37:19",
+        "sentiment_score": -0.33083291351795197
+    },
+    {
+        "title": "El gesto del Rey Juan Carlos desde Abu Dabi que ha emocionado en la despedida de Raúl del Pozo",
+        "image_url": "https://okdiario.com/look/img/2026/03/11/look-2026-03-11t172547.613.png",
+        "tags": [
+            "juan carlos i"
+        ],
+        "link": "https://okdiario.com/look/actualidad/gesto-rey-juan-carlos-abu-dabi-emocionado-despedida-raul-pozo-2502623",
+        "date": "2026-03-11 17:30:39",
+        "sentiment_score": 0.025422006845474243
+    },
+    {
+        "title": "Madrid flexibiliza las restricciones sobre los vehículos sin etiqueta: pueden circular con estas condiciones",
+        "image_url": "https://www.economiadigital.es/wp-content/uploads/2020/10/madrid-central.jpeg",
+        "tags": [
+            "madrid central",
+            "automóvil"
+        ],
+        "link": "https://www.economiadigital.es/sociedad/madrid-flexibiliza-restricciones-vehiculos-sin-etiqueta-pueden-circular-condiciones.html",
+        "date": "2026-03-11 17:30:00",
+        "sentiment_score": 0.17227856069803238
+    },
+    {
+        "title": "Sergio Scariolo: \"En España no hay solo dos grandes, Valencia Basket está al nivel de Real Madrid y Barça\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e5d31376-822a-4f87-af57-a04b80e0ef15_16-9-aspect-ratio_default_0_x1117y496.jpg",
+        "tags": [
+            "euroliga",
+            "real madrid",
+            "valencia basket",
+            "pedro martínez",
+            "sergio scariolo"
+        ],
+        "link": "https://www.superdeporte.es/valencia-basket/2026/03/11/sergio-scariolo-valencia-basket-es-un-grande-euroliga-127842123.html",
+        "date": "2026-03-11 17:27:17",
+        "sentiment_score": -0.008440375328063965
+    },
+    {
+        "title": "Trump vuelve a amenazar a España por no cooperar en la guerra de Irán: \"Quizás cortemos el comercio\"",
+        "image_url": "https://www.tribunasalamanca.com/uploads/imagenes/images/2026/3/11/437465/20260311182827_caratula.webP",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.tribunasalamanca.com/noticias/437465/trump-vuelve-a-amenazar-a-espana-por-no-cooperar-en-la-guerra-de-iran-quizas-cortemos-el-comercio",
+        "date": "2026-03-11 17:26:00",
+        "sentiment_score": 0.3088900148868561
+    },
+    {
+        "title": "Llega la nueva feria internacional profesional del vino que tendrá lugar en Madrid del 27 al 29 de mayo",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/files/fp/uploads/2026/03/11/69b19de74f927.r_d.706-325-0.jpeg",
+        "tags": [
+            "winemad",
+            "feria",
+            "profesional",
+            "nueva",
+            "internacional"
+        ],
+        "link": "https://www.eldebate.com/espana/madrid/ocio/20260311/llega-nueva-feria-internacional-profesional-vino-tendra-lugar-madrid-27-29-mayo_394897.html",
+        "date": "2026-03-11 17:21:45",
+        "sentiment_score": 0.5047602877020836
+    },
+    {
+        "title": "Pellegrini huye del favoritismo antes del Panathinaikos-Betis: \"Creer que somos superiores sería cometer un error gravísimo\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f35cc112-fd06-4237-80bc-14c5cd360951_16-9-aspect-ratio_default_0_x429y218.jpg",
+        "tags": [
+            "aitor ruibal",
+            "real betis",
+            "manuel pellegrini",
+            "europa league",
+            "panathinaikos"
+        ],
+        "link": "https://www.elcorreoweb.es/betis/2026/03/11/pellegrini-favoritismo-panathinaikos-betis-127837509.html",
+        "date": "2026-03-11 17:20:26",
+        "sentiment_score": 0.04724428057670593
+    },
+    {
+        "title": "Así es el árbitro del Real Madrid - City que no gusta al mayor detractor del equipo blanco",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/files/fp/uploads/2026/03/11/69b19948f120b.r_d.957-148-0.jpeg",
+        "tags": [
+            "así",
+            "real",
+            "mariani",
+            "árbitro",
+            "maurizio"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/champions-league/20260311/asi-maurizio-mariani-arbitro-real-madrid-city-no-gusta-mayor-detractor-equipo-blanco_394881.html",
+        "date": "2026-03-11 17:08:19",
+        "sentiment_score": -0.07846839725971222
+    },
+    {
+        "title": "'Madring', a seis meses del estreno: opacidad, millonarias inversiones y el fantasma de Valencia",
+        "image_url": "https://www.elplural.com/uploads/s1/24/89/49/0/ayuso-ensalza-su-proyecto-de-formula-1-en-madrid-ep_17_1200x630.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elplural.com/motor/madring-seis-meses-estreno-opacidad-millonarias-inversiones-fantasma-valencia_383901102",
+        "date": "2026-03-11 17:04:45",
+        "sentiment_score": -0.1097152978181839
+    },
+    {
+        "title": "La peste porcina africana salta al municipio de Barcelona",
+        "image_url": "https://www.eldiadevalladolid.com/media/img/2026/30c05d04-dfa0-4ba3-949a7a52fb497a9a.jpg",
+        "tags": [
+            "jaume collboni",
+            "barcelona",
+            "ganadería",
+            "transporte",
+            "pesca",
+            "agricultura",
+            "restricciones"
+        ],
+        "link": "https://www.eldiadevalladolid.com/noticia/z6e7d224f-0c96-4a54-9c65425fd686b33a/202603/la-peste-porcina-africana-salta-al-municipio-de-barcelona",
+        "date": "2026-03-11 17:00:46",
+        "sentiment_score": -0.5224812589585781
+    },
+    {
+        "title": "Gozón y Carreño activan las jornadas gastronómicas del pedreru",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/11/2026031118365419910.jpg",
+        "tags": [
+            "restaurantes",
+            "gastronom&iacute;a",
+            "ocio",
+            "asturias",
+            "turismo"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/gourmet/gozon-carreno-activan-jornadas-gastronomicas-pedreru/202603111841091009100.html",
+        "date": "2026-03-11 17:41:09",
+        "sentiment_score": 0.5675115771591663
+    },
+    {
+        "title": "La economía social y el cooperativismo representan el 8% del PIB en Catalunya",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260311183943_1200.jpg",
+        "tags": [
+            "generalitat de catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-economia-social-cooperativismo-representan-pib-catalunya-20260311183943.html",
+        "date": "2026-03-11 17:39:43",
+        "sentiment_score": 0.09609529376029968
+    },
+    {
+        "title": "El error de un aficionado del Barcelona: se fue a Exter City en lugar de a Newcastle",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/03/11/959FE3FB-1494-4DDD-A91D-8C7A29D3E49C/hincha-barcelona-exterior-james-park-newcastle_96.jpg?crop=6000,3375,x0,y625&width=1200&height=675&optimize=low&format=webply",
+        "tags": [
+            "champions league",
+            "newcastle",
+            "barcelona fc",
+            "newcastle united",
+            "fútbol"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/error-aficionado-barcelona-fue-exter-city-lugar-newcastle_2026031169b1a8dc6cf703292f6d5321.html",
+        "date": "2026-03-11 17:39:40",
+        "sentiment_score": -0.7710507847368717
+    },
+    {
+        "title": "Los Premis Nacionals de Cultura de la Generalitat se amplían a siete galardones",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260311183631_1200.jpg",
+        "tags": [
+            "generalitat de catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-premis-nacionals-cultura-generalitat-amplian-siete-galardones-20260311183631.html",
+        "date": "2026-03-11 17:36:31",
+        "sentiment_score": 0.10947100818157196
+    },
+    {
+        "title": "Bolt afirma que la ley del taxi catalana \"vulnera el derecho de movilidad\" y pide diálogo",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260311183506_1200.jpg",
+        "tags": [
+            "taxi"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-bolt-afirma-ley-taxi-catalana-vulnera-derecho-movilidad-pide-dialogo-20260311183506.html",
+        "date": "2026-03-11 17:35:06",
+        "sentiment_score": -0.623784814029932
+    },
+    {
+        "title": "«La verdadera 'Reforma' fue la católica, no la protestante»",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/files/fp/uploads/2024/04/25/662a48ff7417c.r_d.648-427-0.png",
+        "tags": [
+            "no",
+            "protestante",
+            "verdadera",
+            "reforma",
+            "católica"
+        ],
+        "link": "https://www.eldebate.com/religion/20260311/verdadera-reforma-catolica-no-protestante_394911.html",
+        "date": "2026-03-11 17:34:23",
+        "sentiment_score": 0.08770494163036346
+    },
+    {
+        "title": "Joan Gràcia dirige 'Trestias' en el Teatre Apolo de Barcelona",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260311183351_1200.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-joan-gracia-dirige-trestias-teatre-apolo-barcelona-20260311183351.html",
+        "date": "2026-03-11 17:33:51",
+        "sentiment_score": 0.034196630120277405
+    },
+    {
+        "title": "La mejor tortilla de Euskadi ya tiene dueño: el bar que ha conquistado",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/11/2026031114314084704.jpg",
+        "tags": [
+            "bar",
+            "tortilla de patata",
+            "restaurante",
+            "gastronom&iacute;a",
+            "pais vasco"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/gourmet/mejor-tortilla-euskadi-tiene-dueno-bar-que-ha-conquistado/202603111832231009095.html",
+        "date": "2026-03-11 17:32:23",
+        "sentiment_score": 0.17418275773525238
     }
 ];
