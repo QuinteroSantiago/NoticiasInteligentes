@@ -202,16 +202,6 @@ export default [
         "sentiment_score": -0.5333632491528988
     },
     {
-        "title": "Semana Deportiva: Venezuela se impuso a Israel en el Mundial de Beisbol",
-        "image_url": "https://static.wixstatic.com/media/335561_adaa57d142de478eba72a39d286bb5f8~mv2.jpg/v1/fit/w_1000,h_800,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/semana-deportiva-venezuela-se-impuso-a-israel-en-el-mundial-de-beisbol",
-        "date": "2026-03-08 13:02:57",
-        "sentiment_score": 0.8168231248855591
-    },
-    {
         "title": "La granadina Trevenque Group crea un software que pronostica la crecida de arroyos y cauces",
         "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/03/09/TREVENQUE2-kYND-U2010590686377xB-1200x840@Ideal.jpg",
         "tags": [
@@ -2880,5 +2870,238 @@ export default [
         "link": "https://www.elindependiente.com/economia/2026/03/11/escudo-reservas-estrategicas-petroleo-espana-420-millonesv/",
         "date": "2026-03-11 21:55:10",
         "sentiment_score": -0.6719346176832914
+    },
+    {
+        "title": "El Real Madrid vapuleó al Manchester City",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2026/03/Diseno-sin-titulo-6.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://primicia.com.ve/deportes/el-real-madrid-vapuleo-al-manchester-city/",
+        "date": "2026-03-12 01:00:40",
+        "sentiment_score": -0.6122042015194893
+    },
+    {
+        "title": "Teresa Ko Chen, la italiana de padres taiwaneses que saltó a una multinacional tras estudiar un máster en Madrid",
+        "image_url": "https://s3.elespanol.com/2026/03/09/madrid/1003744162017_261840667_1706x960.jpg",
+        "tags": [
+            "viajes",
+            "instagram",
+            "educación",
+            "madrid total",
+            "madrid"
+        ],
+        "link": "https://www.elespanol.com/madrid/20260312/teresa-ko-chen-italiana-padres-taiwaneses-salto-multinacional-estudiar-master-madrid/1003744161233_0.html",
+        "date": "2026-03-12 01:00:00",
+        "sentiment_score": 0.6050325445830822
+    },
+    {
+        "title": "Partidos de hoy, miércoles 11 de marzo de 2026: programación, canales TV y resultados en vivo",
+        "image_url": "https://www.infobae.com/resizer/v2/U4JSKC2EKVFK7LPVHTVO23MJTA.png?auth=d05204ac7c8400f7da78ed53d90f57075b5136615f80c5b32caed631b252fb96&smart=true&width=1920&height=1080",
+        "tags": [
+            "peru-deportes",
+            "real madrid",
+            "chelsea",
+            "manchester city",
+            "sporting cristal",
+            "copa libertadores",
+            "champions league",
+            "partidos de hoy",
+            "psg"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/03/11/partidos-de-hoy-miercoles-11-de-marzo-de-2026-programacion-canales-tv-y-resultados-en-vivo/",
+        "date": "2026-03-12 00:57:44",
+        "sentiment_score": 0.4769521225243807
+    },
+    {
+        "title": "Jorge Luis Pinto reveló las ofertas que tuvo para volver a ser técnico: lo llamaron de cuatro países",
+        "image_url": "https://www.infobae.com/resizer/v2/7SVFZQALNREZJMSA2W7A6RBLPI.jpeg?auth=74a2960bf1ac901f592de50a597b59816d21a2d8e96de75d9dc70822b1ea8d9e&smart=true&width=4160&height=2774",
+        "tags": [
+            "costa rica",
+            "jorge luis pinto",
+            "haití",
+            "perú",
+            "guatemala",
+            "colombia-deportes",
+            "jorge luis pinto equipo"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/03/12/jorge-luis-pinto-revelo-las-ofertas-que-tuvo-para-volver-a-ser-tecnico-lo-llamaron-de-cuatro-paises/",
+        "date": "2026-03-12 00:49:10",
+        "sentiment_score": 0.32617820985615253
+    },
+    {
+        "title": "3a PARTE | 11 MAR 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/06/10/684828a972448.jpeg",
+        "tags": [
+            "parte",
+            "3ª",
+            "11",
+            "mar",
+            "2026"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-11-mar-2026-partidazo-cope-20260312_3324827.html",
+        "date": "2026-03-12 00:40:07",
+        "sentiment_score": 0.42333052307367325
+    },
+    {
+        "title": "Fede Valverde destroza al Manchester City con un triplete histórico en el Bernabéu",
+        "image_url": "https://noticias24carabobo.com/wp-content/uploads/2026/03/Resultado-Real-Madrid-hoy.jpg",
+        "tags": [
+            "noticias 24 horas carabobo",
+            "noticias de valencia",
+            "news",
+            "noticias de carabobo",
+            "noticias de hoy valencia",
+            "fede valverde",
+            "noticias de venezuela",
+            "valverde",
+            "noticias24carabobo",
+            "noticias 24",
+            "noticias de sucesos",
+            "champions league",
+            "noticias hoy",
+            "real madrid",
+            "noticias24carabobo en google news"
+        ],
+        "link": "https://noticias24carabobo.com/resultado-real-madrid-manchester-city-triplete-historico-valverde/",
+        "date": "2026-03-12 00:35:20",
+        "sentiment_score": 0.4470452219247818
+    },
+    {
+        "title": "Jueves 12 de marzo de 2026 (00.25 GMT)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/12/jueves-12-de-marzo-de-2026-0025-gmt/",
+        "date": "2026-03-12 00:30:38",
+        "sentiment_score": -0.00995783880352974
+    },
+    {
+        "title": "El avión fletado por la RFEF en Arabia Saudí para evacuar a españoles llega a Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/DGUFZQ64VNCPHKU7TYJZZ56SBM.jpg?auth=db2bce7041961161585657e963f6656ee8a6e1f3a86a4b5e77bbe322d7d53057&smart=true&width=1920&height=1080",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/12/el-avion-fletado-por-la-rfef-en-arabia-saudi-para-evacuar-a-espanoles-llega-a-madrid/",
+        "date": "2026-03-12 00:30:35",
+        "sentiment_score": -0.34490712732076645
+    },
+    {
+        "title": "Champions League: Sorpresas y goleadas en los juegos de ida de octavos de final",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "champions league"
+        ],
+        "link": "https://meridiano.net/futbol/liga-de-campeones/champions-league-sorpresas-y-goleadas-en-los-juegos-de-ida-de-octavos-de-final-202631120150",
+        "date": "2026-03-12 00:15:00",
+        "sentiment_score": -0.5174999106675386
+    },
+    {
+        "title": "Real Madrid goleó al Manchester City de Guardiola en una noche consagratoria de Fede Valverde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://noticiasya.com/2026/03/11/resultado-real-madrid-manchester-city-valverde-champions-orix/",
+        "date": "2026-03-12 00:03:44",
+        "sentiment_score": -0.5922565497457981
+    },
+    {
+        "title": "De activo inmobiliario a pensión privada: el auge de la nuda propiedad en las capitales",
+        "image_url": "https://s3.elespanol.com/2024/08/23/invertia/observatorios/vivienda/880422680_248664302_1706x960.jpg",
+        "tags": [
+            "vivienda",
+            "observatorio de la vivienda",
+            "propiedades"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20260312/activo-inmobiliario-pension-privada-auge-nuda-propiedad-capitales/1003744154194_0.html",
+        "date": "2026-03-12 01:40:44",
+        "sentiment_score": 0.4626321643590927
+    },
+    {
+        "title": "Sporting Cristal recibirá millonaria cifra por clasificar a la fase de grupos de la Copa Libertadores 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/HFN25FVV5JAEFO2C3HVDO5LQRY.jpg?auth=2e1ebe1e515b7e6d98ac7403d065f151e69fe7d07dbefde53a5fdc0713e168a9&smart=true&width=1920&height=1080",
+        "tags": [
+            "peru-deportes",
+            "copa libertadores",
+            "sporting cristal"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/03/12/sporting-cristal-recibira-millonaria-cifra-por-clasificar-a-la-fase-de-grupos-de-la-copa-libertadores-2026/",
+        "date": "2026-03-12 01:02:49",
+        "sentiment_score": 0.7092924155294895
+    },
+    {
+        "title": "Petro aboga por una alianza contra el narcotráfico con todos los países americanos y sin \"fundamentalismos\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260312015548_1200.jpg",
+        "tags": [
+            "narcotráfico",
+            "estados unidos",
+            "colombia"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-petro-aboga-alianza-contra-narcotrafico-todos-paises-americanos-fundamentalismos-20260312015548.html",
+        "date": "2026-03-12 00:55:48",
+        "sentiment_score": -0.4463507831096649
+    },
+    {
+        "title": "Netflix y Amazon Prime ponen el foco en Tarragona: la ciudad se convierte en escenario de grandes producciones",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/12/2026031201353045961.jpg",
+        "tags": [
+            "amazon prime video",
+            "netflix",
+            "tarragona"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/series/netflix-amazon-prime-ponen-foco-tarragona-ciudad-convierte-escenario-grandes-producciones/202603120135521009166.html",
+        "date": "2026-03-12 00:35:52",
+        "sentiment_score": 0.46841756254434586
+    },
+    {
+        "title": "Los puntos de fricción y desacuerdo entre Ferran Olivé y Jaume Guardiola, los capataces económicos de las elecciones del Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/12/culemania/palco/1003742740565_15815697_1706x960.jpg",
+        "tags": [
+            "ferran olivé",
+            "elecciones barça",
+            "jaume guardiola",
+            "fc barcelona",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260312/desacuerdo-ferran-olive-jaume-guardiola-economicos-barca/1003742740500_0.html",
+        "date": "2026-03-12 00:17:58",
+        "sentiment_score": -0.07422399520874023
+    },
+    {
+        "title": "El loft del Poblenou que reunió a 100 VIP y agitó Barcelona: Gerard Guiu convierte una fiesta privada en cita clave",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/12/2026031201111850059.jpg",
+        "tags": [
+            "acto",
+            "empresarios",
+            "barcelona",
+            "alcalde"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/famosos/loft-poblenou-que-reunio-100-vip-agito-barcelona-gerard-guiu-convierte-fiesta-privada-cita-clave/202603120111311009155.html",
+        "date": "2026-03-12 00:11:31",
+        "sentiment_score": -0.08718477189540863
+    },
+    {
+        "title": "Sierra, la compañía de IA del exCEO de Salesforce, desembarca en España",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/e70a9437685dc4b2edf81bfc39ad34e4/crop/298x275/1936x1367/resize/1638/assets/multimedia/imagenes/2026/03/11/17732263644390.jpg",
+        "tags": [
+            "empresas",
+            "economia-digital/companias",
+            "tecnología"
+        ],
+        "link": "https://www.expansion.com/economia-digital/companias/2026/03/12/69b148eee5fdea82668b45a2.html",
+        "date": "2026-03-12 00:10:06",
+        "sentiment_score": 0.4631914161145687
+    },
+    {
+        "title": "Empresas Polar entra al mercado del café en Venezuela con distribución de marcas reconocidas (+Fotos)",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://eltiempove.com/empresas-polar-entra-al-mercado-del-cafe-en-venezuela-con-distribucion-de-marcas-reconocidas-fotos/",
+        "date": "2026-03-12 00:07:33",
+        "sentiment_score": 0.7894510328769684
     }
 ];
