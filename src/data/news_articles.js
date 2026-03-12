@@ -1,207 +1,5 @@
 export default [
     {
-        "title": "Un 8M multitudinario y diverso se convierte en un grito unánime contra la guerra y el fascismo: “Hoy más que nunca hay que salir a reivindicar nuestros derechos”",
-        "image_url": "https://www.infobae.com/resizer/v2/6J3AVEODIRAQ7LIHTDFSYQEBDQ.JPG?auth=42e3a057d892f9af7724d7c547227061bc3a53d26ee9d3b660bd2ea0b7f24ec8&height=3667&smart=true&width=5500",
-        "tags": [
-            "españa-sociedad",
-            "desigualdad social",
-            "madrid",
-            "8m",
-            "feminismo",
-            "españa-noticias",
-            "igualdad"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/08/un-8m-multitudinario-y-diverso-se-convierte-en-un-grito-unanime-contra-la-guerra-y-el-fascismo-hoy-mas-que-nunca-hay-que-salir-a-reivindicar-nuestros-derechos/",
-        "date": "2026-03-08 17:48:29",
-        "sentiment_score": -0.21081125736236572
-    },
-    {
-        "title": "La FIFA revisará desde este lunes las sedes del Mundial 2030 en España",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/08/la-fifa-revisara-desde-este-lunes-las-sedes-del-mundial-2030-en-espana/",
-        "date": "2026-03-08 17:45:42",
-        "sentiment_score": 0.02511342242360115
-    },
-    {
-        "title": "La RFEF recibe este lunes a la delegación de FIFA que trabajará para el Mundial 2030",
-        "image_url": "https://www.infobae.com/resizer/v2/FHBW6AO5XZDLZFL6NQUJ2ZRW6Y.jpg?auth=3ac895259ac1e4875b83726e60fcd42ca0bab46a1d95ee7dc16b506d9b2f92a7&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/08/la-rfef-recibe-este-lunes-a-la-delegacion-de-fifa-que-trabajara-para-el-mundial-2030/",
-        "date": "2026-03-08 17:45:39",
-        "sentiment_score": 0.28046310506761074
-    },
-    {
-        "title": "Los jubilados, con el ‘Día Internacional de la Mujer’",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "provincia de segovia",
-            "día internacional de la mujer"
-        ],
-        "link": "https://eladelantado.com/provincia/2026/03/08/los-jubilados-con-el-dia-internacional-de-la-mujer/",
-        "date": "2026-03-08 17:38:58",
-        "sentiment_score": 0.6402351781725883
-    },
-    {
-        "title": "Las imágenes de Ester Expósito y Mbappé, juntos en el mismo coche tras salir de un hotel de París",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/07/69abf08ac5c975-97617091.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/gente/las-imagenes-ester-exposito-mbappe-juntos-mismo-coche-tras-salir-un-hotel-paris_6943312_0.html",
-        "date": "2026-03-08 17:32:29",
-        "sentiment_score": -0.0030769407749176025
-    },
-    {
-        "title": "2-0. Satriano y Femenía alargan la fiesta del Bernabéu y comprometen al Betis",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/08/2-0-satriano-y-femenia-alargan-la-fiesta-del-bernabeu-y-comprometen-al-betis/",
-        "date": "2026-03-08 17:30:24",
-        "sentiment_score": 0.8233223892748356
-    },
-    {
-        "title": "Pelea entre aficionados de Getafe y Betis en pleno partido: tuvo que intervenir la Policía en la grada",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/03/08/69adb09714846.r_d.955-316.jpeg",
-        "tags": [
-            "la liga"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20260308/pelea-entre-aficionados-getafe-betis-pleno-partido-tuvo-intervenir-policia-grada_393515.html",
-        "date": "2026-03-08 17:25:23",
-        "sentiment_score": -0.7015482187271118
-    },
-    {
-        "title": "El Getafe prolonga su racha positiva con un triunfo en casa sobre el Betis",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/40540204-a70f-49b8-80e4-744e8b61230f_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "getafe cf",
-            "fútbol",
-            "real betis",
-            "laliga ea sports"
-        ],
-        "link": "https://www.informacion.es/deportes/2026/03/08/getafe-prolonga-racha-positiva-triunfo-127712339.html",
-        "date": "2026-03-08 17:23:25",
-        "sentiment_score": 0.8309705518186092
-    },
-    {
-        "title": "Gavi se une a las concentraciones del Barcelona mientras afronta la recta final de su recuperación",
-        "image_url": "https://cflvdg.avoz.es/sc/aGES7iK1ToJZ2yenSyL69VACUoU=/768x/2026/03/08/00121772991721905456665/Foto/eup_20260306_125341408.jpg",
-        "tags": [
-            "deportes",
-            "fc barcelona"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/03/08/gavi/00031772991955390347313.htm",
-        "date": "2026-03-08 17:49:00",
-        "sentiment_score": 0.014861837029457092
-    },
-    {
-        "title": "El feminismo toma las calles en un 8-M marcado por el \"no a la guerra\" y la alerta de \"volver al pasado\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/08/69ad8f0d2b3271-41356231.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/nacional/feminismo-toma-las-calles-un-8-m-marcado-por-no-guerra-alerta-volver-pasado_6943288_0.html",
-        "date": "2026-03-08 17:48:54",
-        "sentiment_score": -0.2453603520989418
-    },
-    {
-        "title": "1x1 del Río Breogán ante el Barcelona",
-        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2026/03/08/2026030818451120837.jpg",
-        "tags": [
-            "deporte local lugo"
-        ],
-        "link": "https://www.elprogreso.es/articulo/deporte-local-lugo/1x1-rio-breogan-barcelona/202603081848081952348.html",
-        "date": "2026-03-08 17:48:08",
-        "sentiment_score": -0.2939888760447502
-    },
-    {
-        "title": "El Barça resuelve con claridad el derbi con el Granollers",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/49cfb355-6e87-4c70-8baa-b3de15e205d8_alta-libre-aspect-ratio_default_0_x532y199.jpg",
-        "tags": [
-            "granollers",
-            "barça balonmano",
-            "balonmano"
-        ],
-        "link": "https://www.elperiodico.com/es/deportes/20260308/barca-resuelve-claridad-derbi-granollers-127713422",
-        "date": "2026-03-08 17:47:46",
-        "sentiment_score": 0.5496765226125717
-    },
-    {
-        "title": "El papel de la mujer sigue siendo residual en las elecciones a la presidencia del Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/06/culemania/palco/1003742739077_15797072_1706x960.jpg",
-        "tags": [
-            "palco",
-            "8m",
-            "elecciones barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260308/papel-mujer-sigue-residual-elecciones-presidencia-barca/1003742739472_0.html",
-        "date": "2026-03-08 17:46:52",
-        "sentiment_score": 0.050499677658081055
-    },
-    {
-        "title": "Crean un dispositivo con inteligencia artificial que promete conectar mascotas y dueños en tiempo real",
-        "image_url": "https://www.infobae.com/resizer/v2/X43T6O63QZHDLKUXQYDI7BWHA4.png?auth=d6ddeacdf176cd3128e4c2465a683b8b494fceb45f134a8d836038b1ee29edf7&height=768&smart=true&width=1408",
-        "tags": [
-            "humanos",
-            "dispositivo",
-            "dueños",
-            "newsroom bue",
-            "petphone",
-            "ia",
-            "mascotas"
-        ],
-        "link": "https://www.infobae.com/tecno/2026/03/08/crean-un-dispositivo-con-inteligencia-artificial-que-promete-conectar-mascotas-y-duenos-en-tiempo-real/",
-        "date": "2026-03-08 17:42:33",
-        "sentiment_score": 0.5709909852594137
-    },
-    {
-        "title": "Así es la casa de Marc Giró en uno de los barrios más cotizados de Barcelona: estilo ecléctico con piezas de diseño anteriores a 1970",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/08/05/vivir-en-barcelona/1003742679621_14979546_1706x960.jpg",
-        "tags": [
-            "curiosidades",
-            "moda",
-            "vivir en barcelona",
-            "famosos barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260308/casa-marc-giro-barrios-cotizados-barcelona-estilo-eclectico-piezas-diseno-anteriores/1003742739479_0.html",
-        "date": "2026-03-08 17:41:34",
-        "sentiment_score": 0.7804221846163273
-    },
-    {
-        "title": "Jacob Kiplimo destroza el récord del mundo de medio maratón",
-        "image_url": "https://elperiodicodemonagas.com.ve/wp-content/uploads/2026/03/Jacob-Kiplimo-destroza-el-record-del-mundo-de-medio-maraton.jpg",
-        "tags": [
-            "jacob kiplimo",
-            "mundo",
-            "record",
-            "deportes"
-        ],
-        "link": "https://elperiodicodemonagas.com.ve/deportes/jacob-kiplimo-destroza-el-record-del-mundo-de-medio-maraton/",
-        "date": "2026-03-08 17:36:02",
-        "sentiment_score": 0.5210604071617126
-    },
-    {
-        "title": "El secretario general de Nuevas Generaciones del PP dimite y pide «sin rodeos» el voto para Vox",
-        "image_url": "https://okdiario.com/img/2026/03/08/frame-baja-pp.jpg",
-        "tags": [
-            "partido popular",
-            "santiago abascal",
-            "alberto núñez feijóo",
-            "españa",
-            "nuevas generaciones",
-            "vox"
-        ],
-        "link": "https://okdiario.com/espana/secretario-general-nuevas-generaciones-del-pp-dimite-pide-sin-rodeos-voto-vox-16360490",
-        "date": "2026-03-08 17:35:52",
-        "sentiment_score": -0.5333632491528988
-    },
-    {
         "title": "La granadina Trevenque Group crea un software que pronostica la crecida de arroyos y cauces",
         "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/03/09/TREVENQUE2-kYND-U2010590686377xB-1200x840@Ideal.jpg",
         "tags": [
@@ -3103,5 +2901,36 @@ export default [
         "link": "https://eltiempove.com/empresas-polar-entra-al-mercado-del-cafe-en-venezuela-con-distribucion-de-marcas-reconocidas-fotos/",
         "date": "2026-03-12 00:07:33",
         "sentiment_score": 0.7894510328769684
+    },
+    {
+        "title": "Fede Valverde disfruta como antes",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/12080606/El-uruguayo-Fede-Valverde-fue-el-protagonista-de-la-noche-redonda-del-Madrid-Foto-Archivo.jpg",
+        "tags": [
+            "real madrid",
+            "fútbol",
+            "fede valverde",
+            "manchester city",
+            "deportes"
+        ],
+        "link": "https://www.elnacional.com/2026/03/fede-valverde-disfruta-como-antes/",
+        "date": "2026-03-12 05:12:00",
+        "sentiment_score": 0.7600271627306938
+    },
+    {
+        "title": "Barcelona blinda todo su medio natural por la peste porcina",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HPIXECXHCVDTNFWKXNWTYTQCXM.jpg?auth=7b982d6e23d088037093bfa819818bcdd93012165384f5ad7d4c01a782c341f9&width=1200",
+        "tags": [
+            "restricciones",
+            "jabalíes",
+            "porcino",
+            "barcelona",
+            "cataluña",
+            "enfermedades",
+            "peste porcina",
+            "generalitat cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2026-03-12/barcelona-blinda-todo-su-medio-natural-por-la-peste-porcina.html",
+        "date": "2026-03-12 06:33:20",
+        "sentiment_score": -0.6608737502247095
     }
 ];
