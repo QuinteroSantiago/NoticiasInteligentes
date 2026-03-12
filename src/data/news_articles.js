@@ -1,235 +1,5 @@
 export default [
     {
-        "title": "Mujeres y precariedad: quién paga el coste real de la inflación en España",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/04/una-mujer-trabajadora-del-sector-del-metal.jpeg",
-        "tags": [
-            "feminismo"
-        ],
-        "link": "https://www.huffingtonpost.es/feminismo/mujeres-precariedad-paga-coste-real-inflacion-espanabr-f202603.html",
-        "date": "2026-03-08 06:45:54",
-        "sentiment_score": -0.8736395323649049
-    },
-    {
-        "title": "Una técnica en nutrición apunta la cena que toma cuando busca algo ligero, reponedor y saciante",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/02/08/una-cena-familiar.jpeg",
-        "tags": [
-            "salud"
-        ],
-        "link": "https://www.huffingtonpost.es/life/salud/una-tecnica-nutricion-apunta-cena-toma-busca-ligero-reponedor-saciante-f202603.html",
-        "date": "2026-03-08 06:45:52",
-        "sentiment_score": 0.322183296084404
-    },
-    {
-        "title": "Alfonso Fernández Mañueco: “En Castilla y León el trabajo del Partido Popular se resume en dos palabras: gestión eficaz”",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2026/03/01-1w-1.jpg",
-        "tags": [
-            "conversaciones con...",
-            "portada principal",
-            "segovia"
-        ],
-        "link": "https://eladelantado.com/segovia/2026/03/08/alfonso-fernandez-manueco-en-castilla-y-leon-el-trabajo-del-partido-popular-se-resume-en-dos-palabras-gestion-eficaz/",
-        "date": "2026-03-08 06:44:26",
-        "sentiment_score": 0.8460457976907492
-    },
-    {
-        "title": "Una francesa que vive en España cuenta lo que piensan en su país de los españoles: es, sobre todo, por lo que ven en los restaurantes",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/04/el-conductor-de-autobus-conocido-como-elbodas-6632.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/una-francesa-vive-espana-cuenta-piensan-pais-espanoles-f202603.html",
-        "date": "2026-03-08 06:41:03",
-        "sentiment_score": 0.6685649007558823
-    },
-    {
-        "title": "El conductor de un coche increpa a un autobusero y su reacción es digna de empleado del mes y del año",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/04/el-conductor-de-autobus-conocido-como-elbodas.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/el-conductor-coche-increpa-autobusero-reaccion-digna-empleado-mesno-f202603.html",
-        "date": "2026-03-08 06:40:41",
-        "sentiment_score": 0.49484944343566895
-    },
-    {
-        "title": "Mujeres que se ponen en la foto para abrir camino en la empresa, el deporte y las instituciones",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/07/2026030723433577271.jpg",
-        "tags": [
-            "vida estrella"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/vida/mujeres-que-ponen-foto-abrir-camino-empresa-deporte-instituciones/20260308073051442246.html",
-        "date": "2026-03-08 06:30:51",
-        "sentiment_score": 0.5385199747979641
-    },
-    {
-        "title": "La guerra de Irán reactiva el fantasma de la inflación: este es el escenario si el conflicto no cesa",
-        "image_url": "https://static.grupojoly.com/clip/cc9b39b7-d9d6-4986-a942-e83bc0f8000e_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "inflacion",
-            "guerra",
-            "iran",
-            "reactiva",
-            "fantasma"
-        ],
-        "link": "https://www.diariodejerez.es/economia/guerra-iran-reactiva-fantasma-inflacion_0_2006100044.html",
-        "date": "2026-03-08 06:30:29",
-        "sentiment_score": -0.8099194131791592
-    },
-    {
-        "title": "Grietas por las que se cuela el azar",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/05/donald-trump-presidente-de-los-eeuu-en-una-imagen-de-archivo.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.huffingtonpost.es/opinion/grietas-cuela-azar-f202603.html",
-        "date": "2026-03-08 06:28:16",
-        "sentiment_score": -0.3514999896287918
-    },
-    {
-        "title": "Juan Gómez Bárcena y la locura imposible de un padre por volver al pasado",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dae08fb3-85f8-41ab-ba34-1fa379da7f3d_16-9-aspect-ratio_default_0_x595y417.jpg",
-        "tags": [
-            "el tiempo",
-            "tiempo",
-            "dolor",
-            "muerte",
-            "novela",
-            "cumpleaños",
-            "libros"
-        ],
-        "link": "https://www.laopiniondemalaga.es/libros/2026/03/08/locura-imposible-padre-volver-pasado-juan-gomez-barcenas-127677576.html",
-        "date": "2026-03-08 06:03:23",
-        "sentiment_score": -0.008259385824203491
-    },
-    {
-        "title": "De 1910 a 2026: la gran deuda pendiente con las mujeres",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/06/homenaje-a-las-victimas-de-la-factoria-triangle-shirtwaist-en-nueva-york-en-1911.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.huffingtonpost.es/opinion/de-1910-2026-gran-deuda-pendiente-mujeres-f202603.html",
-        "date": "2026-03-08 06:02:47",
-        "sentiment_score": 0.1476525291800499
-    },
-    {
-        "title": "Mujeres referentes, nada que demostrar",
-        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2026/03/08/Portada%20desktop%208M%20Cantabria.png",
-        "tags": [
-            "instituto de física de cantabria, ifca.",
-            "jubilación",
-            "organización europea para la investigación nuclear (cern)",
-            "mujeres",
-            "investigación",
-            "universidad de cantabria",
-            "el diario montañes",
-            "palacio de festivales de cantabria",
-            "cantabria (provincia)",
-            "uimp",
-            "industria",
-            "conciliación",
-            "santander",
-            "educación",
-            "csic",
-            "música",
-            "inteligencia artificial",
-            "adic",
-            "hospital universitario de marqués de valdecilla",
-            "medicina",
-            "las rozas de valdearroyo",
-            "adolescentes",
-            "día internacional de la mujer",
-            "educación infantil",
-            "brecha salarial"
-        ],
-        "link": "https://www.eldiariomontanes.es/cantabria/mujeres-referentes-demostrar-20260308112428-nt.html",
-        "date": "2026-03-08 06:34:57",
-        "sentiment_score": 0.4169154092669487
-    },
-    {
-        "title": "Raffaella Perrone, nueva directora del IED Barcelona: ”el talento creativo no tiene sexo, pero para las mujeres requiere un mayor esfuerzo”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/06/69aafc2b6f43a.r_d.910-649-2338.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.lavanguardia.com/gente/20260308/11483366/raffaella-perrone-nueva-directora-ied-barcelona-talento-creativo-sexo-mujeres-requiere-mayor-esfuerzo.html",
-        "date": "2026-03-08 06:30:00",
-        "sentiment_score": 0.403820738196373
-    },
-    {
-        "title": "Alfonso Arús, sobre sus inversiones: «Soy como una ‘hormiguita’ que lleva 40 años sin dejar de trabajar»",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/03/alfonso-arus-inversiones.jpeg",
-        "tags": [
-            "celebrities",
-            "gente",
-            "inversión",
-            "la sexta",
-            "presentadores de televisión",
-            "dinero"
-        ],
-        "link": "https://theobjective.com/gente/2026-03-08/alfonso-arus-inversiones-hormiguita-trabajar/",
-        "date": "2026-03-08 06:30:00",
-        "sentiment_score": 0.882670858874917
-    },
-    {
-        "title": "AEMET prevé un día nublado y lluvioso en Barcelona con chubascos y viento moderado",
-        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
-        "tags": [
-            "agencia estatal de meteorología (aemet)",
-            "cataluña",
-            "okd",
-            "tiempo",
-            "previsión del tiempo",
-            "españa"
-        ],
-        "link": "https://okdiario.com/cataluna/aemet-preve-un-dia-nublado-y-lluvioso-en-barcelona-con-chubascos-y-viento-moderado-16373954",
-        "date": "2026-03-08 06:19:07",
-        "sentiment_score": 0.08776915073394775
-    },
-    {
-        "title": "Cómo remediar hoy lo que el machismo nos puede traer en un futuro: proteger a niñas y adolescentes ante la violencia sexual digital",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/06/montaje-de-mano-cogiendo-a-una-mujer-como-si-fuera-un-objeto.jpeg",
-        "tags": [
-            "hij@s"
-        ],
-        "link": "https://www.huffingtonpost.es/life/hijos/como-remediar-hoy-machismo-traer-futuro-protegernas-adolescentes-violencia-sexual-digitalbr-f202603.html",
-        "date": "2026-03-08 06:02:21",
-        "sentiment_score": -0.851793808862567
-    },
-    {
-        "title": "Dante en Hiroshima",
-        "image_url": "https://static.grupojoly.com/clip/d57b2d3a-8a30-4650-83ea-b341760c3998_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "dante",
-            "hiroshima"
-        ],
-        "link": "https://www.granadahoy.com/ocio/dante-hiroshima_0_2006099974.html",
-        "date": "2026-03-08 06:02:17",
-        "sentiment_score": 0.08639586716890335
-    },
-    {
-        "title": "Granada 2031, en su semana decisiva",
-        "image_url": "https://static.grupojoly.com/clip/4c41e789-1d07-4e98-bf63-273a91499c01_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ayuntamiento de granada",
-            "últimas noticias granada"
-        ],
-        "link": "https://www.granadahoy.com/granada/granada-2031-semana-decisiva-capitalidad-cultural_0_2006095230.html",
-        "date": "2026-03-08 06:02:16",
-        "sentiment_score": 0.11296476423740387
-    },
-    {
-        "title": "\"Laporta tiene motivos para estar nervioso\"",
-        "image_url": "https://static1.ara.cat/clip/8466dbff-ed51-4daa-9b61-80cbdb5ca63d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "motivos",
-            "laporta",
-            "nervioso"
-        ],
-        "link": "https://es.ara.cat/deportes/futbol/laporta-motivos-nervioso_128_5671752.html",
-        "date": "2026-03-08 06:00:55",
-        "sentiment_score": -0.40595920383930206
-    },
-    {
         "title": "Un 8M multitudinario y diverso se convierte en un grito unánime contra la guerra y el fascismo: “Hoy más que nunca hay que salir a reivindicar nuestros derechos”",
         "image_url": "https://www.infobae.com/resizer/v2/6J3AVEODIRAQ7LIHTDFSYQEBDQ.JPG?auth=42e3a057d892f9af7724d7c547227061bc3a53d26ee9d3b660bd2ea0b7f24ec8&height=3667&smart=true&width=5500",
         "tags": [
@@ -2870,5 +2640,245 @@ export default [
         "link": "https://www.elconfidencialdigital.com/articulo/gourmet/mejor-tortilla-euskadi-tiene-dueno-bar-que-ha-conquistado/202603111832231009095.html",
         "date": "2026-03-11 17:32:23",
         "sentiment_score": 0.17418275773525238
+    },
+    {
+        "title": "Desinfectar el agua en depuradoras es vital, pero puede crear productos perjudiciales",
+        "image_url": "https://images.theconversation.com/files/715202/original/file-20260129-66-wmhc02.jpeg?ixlib=rb-4.1.0&rect=0%2C339%2C5122%2C2561&q=45&auto=format&w=1356&h=668&fit=crop",
+        "tags": [
+            "top"
+        ],
+        "link": "https://theconversation.com/desinfectar-el-agua-en-depuradoras-es-vital-pero-puede-crear-productos-perjudiciales-268900",
+        "date": "2026-03-11 22:35:13",
+        "sentiment_score": -0.0463995635509491
+    },
+    {
+        "title": "Fede Valverde alimenta un nuevo milagro (3-0)",
+        "image_url": "https://imagenes.elidealgallego.com/files/og_thumbnail/uploads/2026/03/11/69b1ec663fd75.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elidealgallego.com/mas-futbol/2026-03-11/fede-valverde-alimenta-un-nuevo-milagro-3-842190.html",
+        "date": "2026-03-11 22:32:46",
+        "sentiment_score": 0.004084765911102295
+    },
+    {
+        "title": "22:00 | 11 MAR 2026 | TIEMPO DE JUEGO",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/01/20/678e8e8da933c.jpeg",
+        "tags": [
+            "22",
+            "2026",
+            "mar",
+            "00",
+            "11"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-11-mar-2026-juego-20260311_3324801.html",
+        "date": "2026-03-11 22:31:55",
+        "sentiment_score": 0.02599114179611206
+    },
+    {
+        "title": "Fede Valverde se vistió de héroe con un “hat-trick” al Manchester City en Champions League",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2026/03/AP26070738570990-e1773262087640.jpg",
+        "tags": [
+            "uefa champions league",
+            "manchester city",
+            "real madrid"
+        ],
+        "link": "https://eldiariony.com/2026/03/11/fede-valverde-se-vistio-de-heroe-con-un-hat-trick-al-manchester-city-en-champions-league/",
+        "date": "2026-03-11 22:31:33",
+        "sentiment_score": 0.8144235424697399
+    },
+    {
+        "title": "Arsenal empató con el Leverkusen en Champions",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2026/03/IMG_0674.webp",
+        "tags": [
+            "top"
+        ],
+        "link": "https://lacalle.com.ve/arsenal-empato-con-el-leverkusen-en-champions/",
+        "date": "2026-03-11 22:28:42",
+        "sentiment_score": -0.11008444428443909
+    },
+    {
+        "title": "Valverde destroza al Manchester City con un hat trick",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/11/2026031123185153619.jpg",
+        "tags": [
+            "real madrid",
+            "manchester city",
+            "champions league"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/deportes/valverde-destroza-manchester-city/20260311232322442764.html",
+        "date": "2026-03-11 22:23:22",
+        "sentiment_score": 0.44756513833999634
+    },
+    {
+        "title": "Triplete de Valverde encendió la fiesta del Real Madrid contra el Manchester City",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/11171331/370a5bb5aa4937231ce3cb0922f18ca76db1167bw.jpg",
+        "tags": [
+            "federico valverde",
+            "champions league"
+        ],
+        "link": "https://www.elnacional.com/2026/03/triplete-de-valverde-encendio-la-fiesta-del-real-madrid-contra-el-manchester-city/",
+        "date": "2026-03-11 22:23:16",
+        "sentiment_score": 0.6487170606851578
+    },
+    {
+        "title": "Fede Valverde deja una noche mágica en el Real Madrid-Manchester City (3-0)",
+        "image_url": "https://static.grupojoly.com/clip/cb7ef4da-7e64-43ea-bb3d-539bf9e92bb8_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "deja",
+            "manchester",
+            "noche",
+            "valverde",
+            "madrid",
+            "magica",
+            "fede",
+            "city",
+            "real"
+        ],
+        "link": "https://www.diariodealmeria.es/deportes/fede-valverde-deja-noche-magica-real-madrid-manchester-city_0_2006145330.html",
+        "date": "2026-03-11 22:22:27",
+        "sentiment_score": 0.7290057763457298
+    },
+    {
+        "title": "Fede Valverde deja una noche mágica en el Real Madrid-Manchester City (3-0)",
+        "image_url": "https://static.grupojoly.com/clip/cb7ef4da-7e64-43ea-bb3d-539bf9e92bb8_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "deja",
+            "noche",
+            "manchester",
+            "real",
+            "madrid",
+            "city",
+            "valverde",
+            "fede",
+            "magica"
+        ],
+        "link": "https://www.europasur.es/deportes/fede-valverde-deja-noche-magica-real-madrid-manchester-city_0_2006145325.html",
+        "date": "2026-03-11 22:22:26",
+        "sentiment_score": 0.8042699061334133
+    },
+    {
+        "title": "El Barça acaba la fase de grupos apalizando al Pelister",
+        "image_url": "https://www.cope.es/files/microformat_image/uploads/2026/03/11/69b1ee28a7b8e.jpeg",
+        "tags": [
+            "apalizando",
+            "grupos",
+            "acaba",
+            "barça",
+            "fase"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/barca-acaba-fase-grupos-apalizando-pelister-20260311_3324800.html",
+        "date": "2026-03-11 22:35:34",
+        "sentiment_score": -0.07859501242637634
+    },
+    {
+        "title": "Haz lo que digo, no lo que hago",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2022/11/06/vivir-en-barcelona/716438354_9417087_1706x960.jpg",
+        "tags": [
+            "vivienda",
+            "urbanismo",
+            "barcelona en comú",
+            "opinión",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/opinion/20260311/haz-digo-no-hago/1003742740535_12.html",
+        "date": "2026-03-11 22:30:00",
+        "sentiment_score": -0.7032483089715242
+    },
+    {
+        "title": "Decenas de pensionistas se concentran en Collblanc para exigir un nuevo hospital en L’Hospitalet: “Llevamos 20 años de promesas”",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/11/actualidad/1003742740367_15812958_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "hospitales",
+            "l'hospitalet de llobregat",
+            "sanidad",
+            "vecinos"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260311/decenas-pensionistas-concentran-collblanc-exigir-nuevo-hospital-lhospitalet-llevamos-anos-promesas/1003742740346_0.html",
+        "date": "2026-03-11 22:30:00",
+        "sentiment_score": -0.90984055865556
+    },
+    {
+        "title": "Los vecinos del Gòtic exigen a Collboni una reunión urgente para buscar soluciones a la \"degradación\" del barrio",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/15/ciutat-vella/1003742716260_15514614_1706x960.jpg",
+        "tags": [
+            "ciutat vella",
+            "el gòtic",
+            "sintecho",
+            "seguridad",
+            "temporal",
+            "jaume collboni",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/ciutat-vella/20260311/vecinos-gotic-exigen-collboni-reunion-urgente-buscar-soluciones-degradacion-barrio/1003742739915_0.html",
+        "date": "2026-03-11 22:30:00",
+        "sentiment_score": -0.23795227706432343
+    },
+    {
+        "title": "De Sitges a Montgat: el monopolio de Òscar Camps (Open Arms) con la seguridad en las playas metropolitanas",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/10/gran-barcelona/1003742739912_15806775_1706x960.jpg",
+        "tags": [
+            "el prat de llobregat",
+            "sant adrià de besòs",
+            "gran barcelona",
+            "playas",
+            "contratos barcelona",
+            "montgat",
+            "castelldefels - noticias",
+            "sitges",
+            "badalona",
+            "gavà"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260311/sitges-montgat-monopolio-oscar-camps-open-arms-seguridad-playas-metropolitanas/1003742739911_0.html",
+        "date": "2026-03-11 22:30:00",
+        "sentiment_score": -0.8936992650851607
+    },
+    {
+        "title": "22:00H | 11 MAR 2026 | La Linterna",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67d04824cf91f.jpeg",
+        "tags": [
+            "00h",
+            "mar",
+            "11",
+            "22",
+            "2026"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/horas-completas/22-00h-11-mar-2026-linterna-20260311_3324794.html",
+        "date": "2026-03-11 22:07:00",
+        "sentiment_score": -0.3785920739173889
+    },
+    {
+        "title": "47-27. El Barça liquida al Pelister por la vía rápida y certifica el primer puesto",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/11/47-27-el-barca-liquida-al-pelister-por-la-via-rapida-y-certifica-el-primer-puesto/",
+        "date": "2026-03-11 22:01:50",
+        "sentiment_score": 0.5713214911520481
+    },
+    {
+        "title": "Una macrooperación internacional desarticula redes de tráfico de residuos que utilizaban también el puerto de València",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/da73367b-dfee-4a5b-8eb4-edefd6078013_alta-libre-aspect-ratio_default_0_x640y240.jpg",
+        "tags": [
+            "sucesos",
+            "guardia civil"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260311/macrooperacion-internacional-desarticula-redes-trafico-127862713",
+        "date": "2026-03-11 21:59:00",
+        "sentiment_score": -0.07236288487911224
+    },
+    {
+        "title": "420 millones de barriles en 120 depósitos, así es el escudo español para emergencias energéticas",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2026/03/1440x810-cmsv2-2a365a0b-2ea5-5636-b193-f5cab8daa03a-9667802-1440x808.webp",
+        "tags": [
+            "energía",
+            "repsol",
+            "petróleo",
+            "irán"
+        ],
+        "link": "https://www.elindependiente.com/economia/2026/03/11/escudo-reservas-estrategicas-petroleo-espana-420-millonesv/",
+        "date": "2026-03-11 21:55:10",
+        "sentiment_score": -0.6719346176832914
     }
 ];
