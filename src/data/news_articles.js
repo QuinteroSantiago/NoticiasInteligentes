@@ -1,381 +1,5 @@
 export default [
     {
-        "title": "La granadina Trevenque Group crea un software que pronostica la crecida de arroyos y cauces",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/03/09/TREVENQUE2-kYND-U2010590686377xB-1200x840@Ideal.jpg",
-        "tags": [
-            "arroyos",
-            "trevenque",
-            "pronostica",
-            "software",
-            "group",
-            "cauces",
-            "granadina",
-            "crecida",
-            "crea"
-        ],
-        "link": "https://www.ideal.es/economia/factoria-de-empresas/granadina-trevenque-group-crea-software-pronostica-crecida-20260309152101-nt.html",
-        "date": "2026-03-08 22:41:38",
-        "sentiment_score": 0.24465639516711235
-    },
-    {
-        "title": "Fernando González Molina: \"No podíamos contar una historia de intersexualidad con un hombre con peluca\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d4ebf183-cb56-44e7-b563-35f6b525e57a_alta-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "entrevistas",
-            "javier calvo",
-            "festival de málaga",
-            "javier ambrossi",
-            "cine español",
-            "festival de cine de málaga"
-        ],
-        "link": "https://www.diariodemallorca.es/cultura/2026/03/08/fernando-gonzalez-molina-podiamos-contar-127720053.html",
-        "date": "2026-03-08 22:34:12",
-        "sentiment_score": -0.23484626039862633
-    },
-    {
-        "title": "MasMusculo, la tienda de barrio de Granada que ahora es un imperio del fitness en toda Europa",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/03/09/grupo-mas-musculo-granada-kkW-U201058934025JmE-1200x840@Ideal.jpg",
-        "tags": [
-            "granada (provincia)",
-            "granada",
-            "europa",
-            "andalucía",
-            "albolote",
-            "evolución",
-            "nutrición"
-        ],
-        "link": "https://www.ideal.es/economia/factoria-de-empresas/masmusculo-tienda-barrio-granada-imperio-fitness-europa-20260309114712-nt.html",
-        "date": "2026-03-08 22:42:52",
-        "sentiment_score": 0.6071498319506645
-    },
-    {
-        "title": "Dani Senabre, en Tiempo de Juego, sobre la entrevista de Xavi: \"Es devastador, se desata una guerra\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/08/69adfa67bc671.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/dani-senabre-juego-sobre-entrevista-xavi-devastador-desata-guerra-20260308_3322214.html",
-        "date": "2026-03-08 22:41:21",
-        "sentiment_score": -0.11358091235160828
-    },
-    {
-        "title": "Xavi rompe su silencio y carga contra Laporta y su mano derecha",
-        "image_url": "https://static1.ara.cat/clip/ae995629-25b1-4f61-bc24-ea9673d1715f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "xavi",
-            "rompe",
-            "laporta",
-            "carga",
-            "silencio",
-            "mano",
-            "derecha"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/xavi-rompe-silencio-carga-laporta-mano-derecha_1_5672326.html",
-        "date": "2026-03-08 22:40:17",
-        "sentiment_score": -0.37189461290836334
-    },
-    {
-        "title": "Xavi culpa a Laporta del no regreso de Messi: \"No viene al Barça porque el presidente no quiere\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/03/08/image-ca4b9580-9088-4c18-b6f2-425e6e804508-85-2560-1440.jpeg",
-        "tags": [
-            "football"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/messi-culpa-laporta-no-regreso-messi-guerra-poder_sto23279013/story.shtml",
-        "date": "2026-03-08 22:32:15",
-        "sentiment_score": -0.7602489423006773
-    },
-    {
-        "title": "Huawei presenta la solución FAN de próxima generación",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "uncategorized",
-            "tiempo libre",
-            "ciencia y tecnologia"
-        ],
-        "link": "https://eltiempove.com/huawei-presenta-la-solucion-fan-de-proxima-generacion/",
-        "date": "2026-03-08 22:30:58",
-        "sentiment_score": 0.5431331899017096
-    },
-    {
-        "title": "Los momentos de la jornada 27",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/08/los-momentos-de-la-jornada-27/",
-        "date": "2026-03-08 22:30:38",
-        "sentiment_score": 0.04336985945701599
-    },
-    {
-        "title": "Los vecinos de Vallcarca exigen la ejecución de la rambla verde: “No queremos una alternativa al proyecto de 2002”",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/12/11/gracia/816428480_12065115_1706x960.jpg",
-        "tags": [
-            "urbanismo",
-            "gràcia",
-            "okupas",
-            "vallcarca i els penitents",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gracia/20260308/vecinos-vallcarca-exigen-ejecucion-rambla-verde-no-queremos-alternativa-proyecto/1003742739117_0.html",
-        "date": "2026-03-08 22:30:00",
-        "sentiment_score": -0.4155297726392746
-    },
-    {
-        "title": "El Prat estudia convertir en viviendas protegidas la antigua residencia de mayores Penedès tras su cierre",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/05/gran-barcelona/1003742738538_15789655_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "baix llobregat",
-            "el prat de llobregat"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260308/prat-estudia-convertir-viviendas-protegidas-antigua-residencia-mayores-penedes-cierre/1003742737874_0.html",
-        "date": "2026-03-08 22:30:00",
-        "sentiment_score": 0.417460061609745
-    },
-    {
-        "title": "El Ayuntamiento se vuelca en Trinitat Nova: construye un edificio de vivienda protegida por 15,2 millones",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/30/nou-barris/1003742712140_15464250_1706x960.jpg",
-        "tags": [
-            "información municipal",
-            "ayuntamiento de barcelona",
-            "vivienda",
-            "la trinitat nova"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260308/ayuntamiento-vuelca-trinitat-nova-construye-edificio-vivienda-protegida-millones/1003742738929_0.html",
-        "date": "2026-03-08 22:30:00",
-        "sentiment_score": 0.32654958963394165
-    },
-    {
-        "title": "La gambeta de la joya de 17 años del Porto que ridiculizó a Nicolás Otamendi en el clásico ante Benfica: el video que se volvió viral",
-        "image_url": "https://www.infobae.com/resizer/v2/T4QJX6REXZD67LJJQWSQPXBGNM.jpg?auth=9d0b42da2131587c53bc86fa57e8ead6d75af24f16285003d77ceedfd4766a7d&height=1079&smart=true&width=1920",
-        "tags": [
-            "benfica",
-            "deportes-argentina",
-            "porto",
-            "josé mourinho",
-            "nicolás otamendi",
-            "oskar pietuszewski"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/09/la-gambeta-de-la-joya-de-17-anos-del-porto-que-ridiculizo-a-nicolas-otamendi-en-el-clasico-ante-benfica-el-video-que-se-volvio-viral/",
-        "date": "2026-03-09 02:25:41",
-        "sentiment_score": -0.2845032066106796
-    },
-    {
-        "title": "Lunes 9 de marzo (02:00 GMT)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/09/lunes-9-de-marzo-0200-gmt/",
-        "date": "2026-03-09 02:15:40",
-        "sentiment_score": 0.004719726741313934
-    },
-    {
-        "title": "El SER reduce a un tercio el tiempo para encontrar aparcamiento en el barrio de Comillas",
-        "image_url": "https://www.madridactual.es/images/stories/noticias/agencias/ep/2026/03/madrid-la-implantacion-comillas-traduce-buscar-aparcamiento.jpg",
-        "tags": [
-            "carabanchel"
-        ],
-        "link": "https://www.madridactual.es/noticias-regionales/madrid-ciudad/carabanchel/madrid-la-implantacion-comillas-traduce-buscar-aparcamiento-20260309-8089854.html",
-        "date": "2026-03-09 02:02:03",
-        "sentiment_score": 0.06091899052262306
-    },
-    {
-        "title": "Los demoledores informes sobre la 'ley de eficiencia' de Bolaños: \"improvisación\", \"colapso\", \"desánimo general\"",
-        "image_url": "https://s3.elespanol.com/2026/03/08/actualidad/1003744161015_261828166_1706x1280.jpg",
-        "tags": [
-            "félix bolaños garcía",
-            "tribunales",
-            "ministerio de justicia",
-            "jueces",
-            "letrados de la administración de justicia"
-        ],
-        "link": "https://www.elespanol.com/espana/tribunales/20260309/demoledores-informes-ley-eficiencia-bolanos-improvisacion-colapso-desanimo-general/1003744159639_0.html",
-        "date": "2026-03-09 02:00:31",
-        "sentiment_score": -0.8329483363777399
-    },
-    {
-        "title": "Germán Torrado: \"CTx Tech aspira a ser el puente entre Europa, Latam y Asia para pasar de las ideas a la ejecución\"",
-        "image_url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744151016_261697874_1706x960.jpg",
-        "tags": [
-            "inteligencia artificial",
-            "startup",
-            "innovación",
-            "tecnología",
-            "digitalización",
-            "empresas tecnológicas",
-            "branded content",
-            "empresas"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/empresas/20260309/german-torrado-ctx-tech-aspira-puente-europa-latam-asia-pasar-ideas-ejecucion/1003744151013_0.html",
-        "date": "2026-03-09 01:53:59",
-        "sentiment_score": 0.6182913333177567
-    },
-    {
-        "title": "La inestabilidad deportiva pasa factura al Real Madrid: no basta con los 1.000 millones de ingresos",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/26/culemania/real-madrid/1003742736462_15763157_1706x960.jpg",
-        "tags": [
-            "santiago bernabéu",
-            "real madrid"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20260309/inestabilidad-deportiva-factura-real-madrid-millones-ingresos/1003742739516_0.html",
-        "date": "2026-03-09 01:13:10",
-        "sentiment_score": -0.48333654925227165
-    },
-    {
-        "title": "El petróleo supera los 100 dólares por primera vez desde 2022 tras una semana de guerra entre EEUU e Irán",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2025/12/06/una-garrafa-de-petroleo-vertiendose-sobre-otro-recipiente.jpeg",
-        "tags": [
-            "global"
-        ],
-        "link": "https://www.huffingtonpost.es/global/el-petroleo-supera-100-dolares-primera-vez-2022-semana-guerra-eeuu-ean-f202603.html",
-        "date": "2026-03-09 01:07:18",
-        "sentiment_score": -0.24717235565185547
-    },
-    {
-        "title": "08 MAR 2026 | EL TERTULIÓN DE LOS DOMINGOS",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/08-mar-2026-tertulion-domingos-20260309_3322228.html",
-        "date": "2026-03-09 00:56:35",
-        "sentiment_score": -0.5787540059536695
-    },
-    {
-        "title": "El ataque de Xavi a Laporta en la semanas de elecciones, en El Tertulión",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/09/69ae05917f6e0.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-08-20260309_3322211.html",
-        "date": "2026-03-09 00:19:37",
-        "sentiment_score": -0.0710172951221466
-    },
-    {
-        "title": "El PSOE busca expulsar a dos militantes por «insultar y denigrar» a Casares en redes",
-        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2026/03/08/PSOE-kdqF--1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "partido socialista obrero español (psoe)",
-            "pedro sánchez",
-            "el diario montañes",
-            "pablo zuloaga",
-            "redes sociales",
-            "facebook",
-            "pedro casares"
-        ],
-        "link": "https://www.eldiariomontanes.es/cantabria/psoe-busca-expulsar-dos-militantes-insultar-denigrar-20260309183148-nt.html",
-        "date": "2026-03-09 00:00:00",
-        "sentiment_score": -0.9251782149076462
-    },
-    {
-        "title": "El 8-M desborda el 'No a la guerra' de Sánchez: el feminismo toma las calles con mensajes de igualdad y transciende los intentos partidistas para reflotar a la izquierda",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/100cc57e14e19b0030a2412626aad5ec/crop/1116x125/2131x1140/f/image/jpeg/assets/multimedia/imagenes/2024/10/31/17303778454999.jpg",
-        "tags": [
-            "feminismo",
-            "marcha 8m",
-            "artículos silvia lorenzo"
-        ],
-        "link": "https://www.elmundo.es/espana/2026/03/09/69adddad21efa0c0568b457d.html",
-        "date": "2026-03-09 02:19:54",
-        "sentiment_score": -0.2366054207086563
-    },
-    {
-        "title": "Temperaturas en Barcelona: prepárate antes de salir de casa",
-        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima en españa",
-            "clima en barcelona",
-            "clima",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/09/temperaturas-en-barcelona-preparate-antes-de-salir-de-casa/",
-        "date": "2026-03-09 02:01:17",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "Loles León inaugura su consultorio sexual abierto al público en ‘Zero dramas’: “Lo que no se usa, se oxida”",
-        "image_url": "https://www.infobae.com/resizer/v2/O66OOB3ARZEXHEMOC32OHKCN6A.jpg?auth=d11ead056a320aacbf651b49a0d6c3bf491e87c3be2b031115f05d02cef9366f&height=1080&smart=true&width=1920",
-        "tags": [
-            "masturbación",
-            "gente españa",
-            "españa-entretenimietno",
-            "televisión españa",
-            "sexo",
-            "rtve",
-            "españa-noticias",
-            "famosos españa",
-            "tve"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/09/loles-leon-inaugura-su-consultorio-sexual-abierto-al-publico-en-zero-dramas-lo-que-no-se-usa-se-oxida/",
-        "date": "2026-03-09 01:54:21",
-        "sentiment_score": 0.038155414164066315
-    },
-    {
-        "title": "Universidad Católica golea a Leones y rompe su mala racha en Ecuador",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/09/universidad-catolica-golea-a-leones-y-rompe-su-mala-racha-en-ecuador/",
-        "date": "2026-03-09 00:33:45",
-        "sentiment_score": -0.7104973271489143
-    },
-    {
-        "title": "La peña Barcelonista Placentina recupera su actividad con 125 socios",
-        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2026/03/09/213628321.jpg",
-        "tags": [
-            "actividad",
-            "placentina",
-            "barcelonista",
-            "pena",
-            "recupera",
-            "socios",
-            "125"
-        ],
-        "link": "https://www.hoy.es/plasencia/pena-barcelonista-placentina-recupera-actividad-125-socios-20260309090124-nt.html",
-        "date": "2026-03-09 00:00:00",
-        "sentiment_score": 0.7238355632871389
-    },
-    {
-        "title": "Excelencia educativa internacional desde Arona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/33ad1210-36ab-4545-971f-e9a080e47d65_16-9-discover-aspect-ratio_default_0_x500y200.jpg",
-        "tags": [
-            "exámenes",
-            "tenerife",
-            "seguridad",
-            "colegios",
-            "españa",
-            "estudiantes",
-            "educación"
-        ],
-        "link": "https://www.eldia.es/tenerife/2026/03/09/excelencia-educativa-internacional-arona-127718479.html",
-        "date": "2026-03-09 00:00:00",
-        "sentiment_score": -0.0726597011089325
-    },
-    {
-        "title": "Cuando Jordi Pujol quiso dominar el Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/07/culemania/historias-del-barca/1003742739354_15800513_1706x960.jpg",
-        "tags": [
-            "historias del barça",
-            "elecciones barça",
-            "jordi pujol soley"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/historias-del-barca/20260309/jordi-pujol-quiso-dominar-barca/1003742739342_0.html",
-        "date": "2026-03-08 23:57:26",
-        "sentiment_score": -0.9143199333921075
-    },
-    {
-        "title": "8-M en España: feminismo, igualdad y democracia frente al ruido del mundo",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/09/2026030900312423592.jpg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.mundiario.com/articulo/opiniones/8-m-espana-feminismo-igualdad-democracia-frente-ruido-mundo/20260309003612377796.html",
-        "date": "2026-03-08 23:36:12",
-        "sentiment_score": -0.7634593266993761
-    },
-    {
         "title": "Cortes de luz en Madrid del 9 al 15 de marzo: horarios y calles afectadas",
         "image_url": "https://okdiario.com/img/2026/03/05/cortes-de-luz-en-madrid-del-9-al-15-de-marzo-horarios-y-calles-afectadas.jpg",
         "tags": [
@@ -2932,5 +2556,218 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2026-03-12/barcelona-blinda-todo-su-medio-natural-por-la-peste-porcina.html",
         "date": "2026-03-12 06:33:20",
         "sentiment_score": -0.6608737502247095
+    },
+    {
+        "title": "'La Tertulia del Oviedo', en Deportes COPE Asturias: El Valencia, el futuro de Escandell y los cambios para mejorar al equipo",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/01/16/67893cd01d061.jpeg",
+        "tags": [
+            "deportes cope asturias"
+        ],
+        "link": "https://www.cope.es/emisoras/asturias/asturias-provincia/deportes-cope-asturias/noticias/tertulia-oviedo-deportes-cope-asturias-valencia-futuro-escandell-cambios-mejorar-equipo-20260312_3325542.html",
+        "date": "2026-03-12 17:37:55",
+        "sentiment_score": -0.05901297926902771
+    },
+    {
+        "title": "Caja Rural Regional analiza junto a expertos el actual escenario económico",
+        "image_url": "https://www.murciadiario.com/media/murciadiario/images/2026/03/12/2026031218322153542.jpg",
+        "tags": [
+            "empresas"
+        ],
+        "link": "https://www.murciadiario.com/articulo/empresas/caja-rural-regional/20260312183555141340.html",
+        "date": "2026-03-12 17:35:55",
+        "sentiment_score": 0.03504207730293274
+    },
+    {
+        "title": "El chef René Redzepi deja Noma tras las acusaciones de malos tratos de sus trabajadores: \"Una disculpa no es suficiente\"",
+        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2026/03/12/2026031218345124965.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.diariodepontevedra.es/articulo/gente/chef-rene-redzepi-deja-noma-acusaciones-malos-tratos-trabajadores-disculpa-es-suficiente/202603121835401437791.html",
+        "date": "2026-03-12 17:35:40",
+        "sentiment_score": -0.8048322033137083
+    },
+    {
+        "title": "El nuevo DAO de la Policía promete tolerancia cero contra abusos para reforzar la confianza ciudadana",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/12/2026031218294435821.jpg",
+        "tags": [
+            "seguridad y defensa"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/seguridad-defensa/nuevo-dao-asume-mando-policia-investigar-abusos/20260312183412442825.html",
+        "date": "2026-03-12 17:34:12",
+        "sentiment_score": 0.07920415699481964
+    },
+    {
+        "title": "El nuevo “médico” que millones de personas están consultando sin salir de casa",
+        "image_url": "https://static.merca2.es/wp-content/uploads/2026/03/El-nuevo-medico-que-millones-de-personas-3.webp",
+        "tags": [
+            "estilo de vida",
+            "últimas noticias"
+        ],
+        "link": "https://www.merca2.es/2026/03/12/medico-ia-consultas-casa-2359884/",
+        "date": "2026-03-12 17:30:00",
+        "sentiment_score": -0.734279453754425
+    },
+    {
+        "title": "El Atlético de Madrid ultima el reparto de sus entradas para la final de Copa",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b42332a4-8247-4da6-91a3-2a39614ec954_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "entradas",
+            "madrid",
+            "reparto",
+            "atletico",
+            "apura"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/futbol/2026/03/12/atletico-madrid-apura-reparto-entradas-10814039.html",
+        "date": "2026-03-12 17:29:36",
+        "sentiment_score": -0.026907898485660553
+    },
+    {
+        "title": "Xavi vuelve a apuntar a Laporta: «Con la verdad por delante siempre»",
+        "image_url": "https://okdiario.com/img/2026/03/12/imagen_recortada-2026-03-12t182229.059.jpg",
+        "tags": [
+            "xavi hernández",
+            "joan laporta",
+            "barcelona",
+            "fc barcelona",
+            "deportes"
+        ],
+        "link": "https://okdiario.com/deportes/xavi-vuelve-apuntar-laporta-verdad-delante-siempre-16406089",
+        "date": "2026-03-12 17:23:03",
+        "sentiment_score": -0.39202168583869934
+    },
+    {
+        "title": "El nuevo DAO de la Policía reafirma apoyo a las víctimas",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/5a59b38f-7f9f-4991-914de06aecbb413e.jpg",
+        "tags": [
+            "audiencia nacional",
+            "fernando grande-marlaska",
+            "cni",
+            "ángel gabilondo",
+            "madrid",
+            "defensor del pueblo",
+            "policía",
+            "congreso de los diputados",
+            "esperanza casteleiro",
+            "acoso sexual",
+            "ministerio del interior",
+            "agresión sexual",
+            "españa",
+            "policía nacional"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z284a23bb-4945-4e0e-b6ebffef59fae7ff/202603/el-nuevo-dao-de-la-policia-reafirma-apoyo-a-las-victimas",
+        "date": "2026-03-12 17:22:16",
+        "sentiment_score": -0.7946442365646362
+    },
+    {
+        "title": "La UE se enfrenta al desafío de las IA que generan deepfakes sexuales",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/16/2026011601223086798.jpg",
+        "tags": [
+            "ciencia y tecnología"
+        ],
+        "link": "https://www.mundiario.com/articulo/tecnologia-ciencia/ue-enfrenta-desafio-ia-que-generan-deepfakes-sexuales/20260312183718378372.html",
+        "date": "2026-03-12 17:37:18",
+        "sentiment_score": -0.9054792672395706
+    },
+    {
+        "title": "Nuevo mensaje de Xavi tras sus críticas a Laporta: \"Con la verdad por delante, ¡siempre!\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/03/12/69b2f5ef0909e.r_d.1521-434-2867.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/nuevo-mensaje-xavi-criticas-laporta-verdad-delante-siempre-20260312_3325543.html",
+        "date": "2026-03-12 17:33:21",
+        "sentiment_score": -0.19902895390987396
+    },
+    {
+        "title": "Casi 40 humoristas gráficos hispanoamericanos homenajean a Forges y visibilizan enfermedades \"olvidadas\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260312182701_690.jpg",
+        "tags": [
+            "exposiciones",
+            "cultura"
+        ],
+        "link": "https://www.europapress.es/cultura/exposiciones-00131/noticia-casi-40-humoristas-graficos-hispanoamericanos-homenajean-forges-visibilizan-enfermedades-olvidadas-20260312182701.html",
+        "date": "2026-03-12 17:27:01",
+        "sentiment_score": 0.11096109449863434
+    },
+    {
+        "title": "El incendio de un vehículo obliga a cortar la AP-7 en Paterna",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ba0c50f2-935b-473d-8d82-3560b7d077e6_16-9-aspect-ratio_default_0_x750y365.jpg",
+        "tags": [
+            "seguridad vial",
+            "levante",
+            "accidentes",
+            "sucesos",
+            "incendio",
+            "paterna",
+            "retenciones",
+            "incendio en valencia",
+            "tráfico"
+        ],
+        "link": "https://www.levante-emv.com/sucesos/2026/03/12/incendio-vehiculo-obliga-cortar-ap-127893972.html",
+        "date": "2026-03-12 17:25:12",
+        "sentiment_score": -0.7893707407638431
+    },
+    {
+        "title": "El incendio de un vehículo obliga a cortar la A-7 en Paterna",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ba0c50f2-935b-473d-8d82-3560b7d077e6_16-9-aspect-ratio_default_0_x750y365.jpg",
+        "tags": [
+            "seguridad vial",
+            "paterna",
+            "levante",
+            "retenciones",
+            "sucesos",
+            "accidentes",
+            "incendio",
+            "incendio en valencia",
+            "tráfico"
+        ],
+        "link": "https://www.informacion.es/sucesos/2026/03/12/incendio-accidente-en-valencia-vehiculo-obliga-cortar-a7-paterna-barcelona-127893970.html",
+        "date": "2026-03-12 17:25:11",
+        "sentiment_score": -0.8048311769962311
+    },
+    {
+        "title": "Viajar al S.XVI sin salir de Barcelona: el espectacular galeón pirata de 500 toneladas que se puede visitar solo hasta este fin de semana",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2015/01/15/cronica-directo/curiosidades/3510476_2109514_1706x960.jpg",
+        "tags": [
+            "planes",
+            "recomendaciones",
+            "vivir en barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260312/viajar-sxvi-sin-salir-barcelona-espectacular-galeon-pirata-toneladas-puede-visitar-solo-fin-semana/1003742740851_0.html",
+        "date": "2026-03-12 17:24:02",
+        "sentiment_score": 0.5356599241495132
+    },
+    {
+        "title": "El papel de los drones iraníes en la guerra",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "claves del día"
+        ],
+        "link": "https://www.lavanguardia.com/videos/claves-del-dia/20260312/11488424/claves-dia-papel-drones-iranies-guerra-claves-educar-perro.html",
+        "date": "2026-03-12 17:23:59",
+        "sentiment_score": 0.5490513276308775
+    },
+    {
+        "title": "SEAT S.A. se muestra optimista con el próximo lanzamiento del Cupra Raval y no reducirá la plantilla en Martorell",
+        "image_url": "https://www.hispanidad.com/uploads/s1/14/53/77/1/15-seat-cupra-completes-a-year-of-resilience-and-transformation-and-outlines-a-clear-roadmap-for-sustainable-growth-starting-with-the-launch-of-the-cupra-raval-hq_4_588x353.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.hispanidad.com/economia/seat-sa-se-muestra-optimista-con-proximo-lanzamiento-cupra-raval-descarta-reducciones-plantilla-en-martorell_12066257_102.html",
+        "date": "2026-03-12 17:21:42",
+        "sentiment_score": 0.012053236365318298
+    },
+    {
+        "title": "GuestReady crece un 52% en 2025 y alcanza los 6,5 millones de euros en reservas en España",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260312182103_690.jpg",
+        "tags": [
+            "transportes",
+            "economía finanzas"
+        ],
+        "link": "https://www.europapress.es/economia/transportes-00343/noticia-guestready-crece-52-2025-alcanza-65-millones-euros-reservas-espana-20260312182103.html",
+        "date": "2026-03-12 17:21:03",
+        "sentiment_score": 0.5005156248807907
     }
 ];
