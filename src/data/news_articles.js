@@ -1,57 +1,5 @@
 export default [
     {
-        "title": "El Gobierno aprueba este martes el RD que garantiza la atención sanitaria a personas migrantes en situación irregular",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260309183719_690.jpg",
-        "tags": [
-            "infosalus.com",
-            "actualidad"
-        ],
-        "link": "https://www.infosalus.com/actualidad/noticia-gobierno-aprueba-martes-rd-garantiza-atencion-sanitaria-personas-migrantes-situacion-irregular-20260309183719.html",
-        "date": "2026-03-09 17:37:19",
-        "sentiment_score": 0.39850320667028427
-    },
-    {
-        "title": "La delegación de la FIFA inició su visita a España visitando el Spotify Camp Nou y del RCDE Stadium",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3a152ccb-6990-4aa4-9121-9c2af97a74e5_16-9-aspect-ratio_default_0_x616y246.jpg",
-        "tags": [
-            "fifa,mundial 2030,camp nou,rcd espanyol"
-        ],
-        "link": "https://www.laopiniondezamora.es/deportes/2026/03/09/delegacion-fifa-inicio-visita-espana-127751554.html",
-        "date": "2026-03-09 17:34:24",
-        "sentiment_score": 0.11426423490047455
-    },
-    {
-        "title": "Joan Garcia: \"Hemos aprendido que la ida puede condicionar toda la eliminatoria\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260309183844_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-joan-garcia-hemos-aprendido-ida-puede-condicionar-toda-eliminatoria-20260309183844.html",
-        "date": "2026-03-09 17:38:44",
-        "sentiment_score": -0.6935851387679577
-    },
-    {
-        "title": "España impulsa la mayor evacuación por la guerra en Oriente Medio: llega otro avión militar con cientos de ciudadanos",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/12/26/2025122612334157649.jpg",
-        "tags": [
-            "defensa"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/defensa/espana-impulsa-mayor-evacuacion-guerra-oriente-medio-llega-avion-militar-cientos-ciudadanos/202603091838421008456.html",
-        "date": "2026-03-09 17:38:42",
-        "sentiment_score": -0.651764515787363
-    },
-    {
-        "title": "El Govern destina 18,8 millones adicionales a los servicios de atención a la infancia en riesgo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c3641229-a5aa-4f57-9a0c-4e3ff596d0a7_alta-libre-aspect-ratio_default_0_x640y240.jpg",
-        "tags": [
-            "conselleria de drets socials"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260309/catalunya-govern-infancia-en-riesgo-127753586",
-        "date": "2026-03-09 17:34:29",
-        "sentiment_score": -0.05828465521335602
-    },
-    {
         "title": "Kike García (Espanyol) suma ante el Real Oviedo su sexto tanto en LaLiga",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
         "tags": [
@@ -2932,5 +2880,283 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2026/03/12/cronica-del-fc-badalona-women-barca-femeni-0-0/",
         "date": "2026-03-12 23:00:57",
         "sentiment_score": -0.07029587402939796
+    },
+    {
+        "title": "Kylian Mbappé estrena carnet de conducir: estos son sus espectaculares cochazos de lujo en los que paseará a Ester Expósito",
+        "image_url": "https://www.hola.com/horizon/landscape/052b82591690-mbappecoche.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "actualidad",
+            "kylian mbappé"
+        ],
+        "link": "https://www.hola.com/actualidad/20260313889190/kylian-mbappe-estrena-carnet-conducir-cochazos-lujo-paseara-ester-exposito/",
+        "date": "2026-03-13 06:46:45",
+        "sentiment_score": 0.6705344934016466
+    },
+    {
+        "title": "Por qué algunos recién nacidos enferman por E. coli y otros no: la pista está en los anticuerpos que heredan de su madre",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260313073948_690.jpg",
+        "tags": [
+            "infosalus.com",
+            "investigación"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-algunos-recien-nacidos-enferman-coli-otros-no-pista-anticuerpos-heredan-madre-20260313073948.html",
+        "date": "2026-03-13 06:39:48",
+        "sentiment_score": -0.5254557430744171
+    },
+    {
+        "title": "Platón en el Consejo Escolar de Estado",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/03/platon-consejo-escolar-estado-750x503.jpeg",
+        "tags": [
+            "opinión",
+            "colaboraciones"
+        ],
+        "link": "https://elfarodeceuta.es/platon-consejo-escolar-estado/",
+        "date": "2026-03-13 06:26:35",
+        "sentiment_score": 0.09173932671546936
+    },
+    {
+        "title": "La Sublevación de Jaca",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/03/sublevacion-jaca-003-750x695.jpg",
+        "tags": [
+            "colaboraciones",
+            "opinión"
+        ],
+        "link": "https://elfarodeceuta.es/sublevacion-jaca/",
+        "date": "2026-03-13 06:26:30",
+        "sentiment_score": -0.08187443017959595
+    },
+    {
+        "title": "Horarios y resultados en directo Balonmano 14-15 Marzo",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/Caserio-Bidasoa-Elena-Rosa-1-de-1-21.jpg",
+        "tags": [
+            "bm bolaños femenino",
+            "bm alarcos",
+            "balonmano femenino",
+            "bm herencia",
+            "primera nacional",
+            "balonmano",
+            "bm bolaños",
+            "bm caserío femenino",
+            "bm caserío ciudad real",
+            "soliss bm pozuelo de calatrava",
+            "herencia",
+            "división honor oro femenina",
+            "liga asobal de balonmano",
+            "bm pozuelo",
+            "división de honor oro femenina",
+            "partidos en directo",
+            "ciudad real",
+            "primera nacional balonmano masculino",
+            "división de honor masculina balonmano - liga nexus energía asobal",
+            "bolaños de calatrava",
+            "pozuelo de calatrava",
+            "división de honor plata femenina",
+            "deportes"
+        ],
+        "link": "https://www.lanzadigital.com/deportes/balonmano/horarios-y-resultados-en-directo-balonmano-14-15-marzo/",
+        "date": "2026-03-13 06:15:00",
+        "sentiment_score": 0.059154003858566284
+    },
+    {
+        "title": "Una vía de crecimiento lejos de San Mamés",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7b810747-5a2c-4537-935b-4ccc252809b6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "domicilio",
+            "crecimiento",
+            "athletic",
+            "girona",
+            "san mamés"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/03/13/crecimiento-athletic-domicilio-san-mames-girona-10815091.html",
+        "date": "2026-03-13 06:07:49",
+        "sentiment_score": 0.36246640980243683
+    },
+    {
+        "title": "Rafael Louzán da la bienvenida en Madrid a la delegación de FIFA que visita las sedes del Mundial 2030",
+        "image_url": "https://www.infobae.com/resizer/v2/HJN2JUP2WFHQHBTLOSVKBHZS6A.jpg?auth=9c2dca5a0bd5bb0d878ad0e746ea367923942895a9cbaed69f1c59e835ba8cad&height=1158&smart=true&width=1920",
+        "tags": [
+            "marruecos",
+            "real federación española de fútbol",
+            "españa",
+            "madrid",
+            "europapress",
+            "rafael louzán",
+            "fifa",
+            "mundial 2030",
+            "fútbol",
+            "barcelona",
+            "portugal"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/11/rafael-louzan-da-la-bienvenida-en-madrid-a-la-delegacion-de-fifa-que-visita-las-sedes-del-mundial-2030/",
+        "date": "2026-03-13 06:02:54",
+        "sentiment_score": 0.8492571786046028
+    },
+    {
+        "title": "El doble blanco",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1fc014c2-7315-46af-9d3e-83cb7d6db0f0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "marruecos",
+            "saharaui",
+            "política",
+            "pesca",
+            "puerto",
+            "naciones unidas",
+            "españa"
+        ],
+        "link": "https://www.laprovincia.es/opinion/2026/03/13/doble-blanco-127897732.html",
+        "date": "2026-03-13 06:00:00",
+        "sentiment_score": -0.33174560964107513
+    },
+    {
+        "title": "Arbeloa confía en que Mbappé regrese: \"Su evolución es buena\"",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/13093639/Arbeloa-alabo-tener-un-equipo-muy-comprometido-Foto-Archivo.jpg",
+        "tags": [
+            "arbeloa",
+            "fútbol",
+            "el real madrid",
+            "laliga",
+            "deportes"
+        ],
+        "link": "https://www.elnacional.com/2026/03/arbeloa-confia-en-que-mbappe-regrese-su-evolucion-es-buena/",
+        "date": "2026-03-13 06:00:00",
+        "sentiment_score": 0.5004659853875637
+    },
+    {
+        "title": "Viva la rutina",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/99ff08e9-2809-4968-8932-6602e2c73249_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "universidad de la laguna",
+            "charlas",
+            "emprendimiento",
+            "cerebro",
+            "máster"
+        ],
+        "link": "https://www.eldia.es/opinion/2026/03/13/viva-rutina-127900737.html",
+        "date": "2026-03-13 06:00:00",
+        "sentiment_score": 0.16317972540855408
+    },
+    {
+        "title": "Louzán recibe en Madrid a la delegación de la FIFA que inspecciona sedes de Mundial 2030",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/11/louzan-recibe-en-madrid-a-la-delegacion-de-la-fifa-que-inspecciona-sedes-de-mundial-2030/",
+        "date": "2026-03-13 06:31:06",
+        "sentiment_score": 0.09798058867454529
+    },
+    {
+        "title": "Vlachodimos se confiesa: \"Mi hijo pequeño juega en el Sevilla\"",
+        "image_url": "https://static.grupojoly.com/clip/a5a679c7-dc7f-46aa-84e8-593aee91c1ea_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "confiesa",
+            "video",
+            "pequeno",
+            "vlachodimos",
+            "hijo",
+            "juega",
+            "sevilla"
+        ],
+        "link": "https://www.diariodesevilla.es/sevillafc/video-vlachodimos-confiesa-hijo-pequeno-juega-sevilla_8_2006162189.html",
+        "date": "2026-03-13 06:30:44",
+        "sentiment_score": 0.021617013961076736
+    },
+    {
+        "title": "Vueling fue la aerolínea low-cost más puntual de Europa en febrero",
+        "image_url": "https://actualidadaeroespacial.com/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "compañías",
+            "puntual",
+            "vueling",
+            "low cost"
+        ],
+        "link": "https://actualidadaeroespacial.com/vueling-fue-la-aerolinea-low-cost-mas-puntual-de-europa-en-febrero/",
+        "date": "2026-03-13 06:30:42",
+        "sentiment_score": 0.36334841698408127
+    },
+    {
+        "title": "La estación de Toledo más allá de los trenes: un edificio monumental neomudéjar que visitó Marie Curie",
+        "image_url": "https://static.eldiario.es/clip/03342eb1-bc15-40b0-8868-b6daa26be6d4_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "neomudejar",
+            "marie",
+            "curie",
+            "monumental",
+            "trenes",
+            "estacion",
+            "pm",
+            "toledo",
+            "edificio",
+            "visito"
+        ],
+        "link": "https://www.eldiario.es/viajes/estacion-toledo-trenes-edificio-monumental-neomudejar-visito-marie-curie-pm_1_13064671.html",
+        "date": "2026-03-13 06:29:30",
+        "sentiment_score": 0.030400246381759644
+    },
+    {
+        "title": "1111: \"Lo mejor del grupo es que tenemos un espacio de creación totalmente seguro\"",
+        "image_url": "https://www.elplural.com/uploads/s1/24/91/51/2/fedra-jose-ros-campallo-armas-mateo-jime-nez-grela-y-ru0001-rube-n-lo-pez-moreno-forma-1111-director-creativo-aaron-mira-foto-grafo-alfon-lopez_7_480x270.jpeg",
+        "tags": [
+            "música"
+        ],
+        "link": "https://www.elplural.com/revista-bando/musica/1111-lo-mejor-grupo-tenemos-espacio-creacion-totalmente-seguro_383955102",
+        "date": "2026-03-13 06:16:34",
+        "sentiment_score": 0.038981109857559204
+    },
+    {
+        "title": "El Seve Ballesteros cayó un 11,7% en febrero por los recortes de Ryanair",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2026/03/12/1496736466-RFhdXXDjjjzGJyulfvMjGPN-1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "ryanair",
+            "aeropuerto seve ballesteros-santander",
+            "turismo en cantabria"
+        ],
+        "link": "https://www.eldiariomontanes.es/cantabria/seve-ballesteros-cerro-febrero-caida-pasajeros-117-20260313132749-nt.html",
+        "date": "2026-03-13 06:14:41",
+        "sentiment_score": -0.5208426862955093
+    },
+    {
+        "title": "Conseguir un sueño de calidad en una sociedad pegada a las pantallas ¿Misión imposible?",
+        "image_url": "https://efesalud.com/wp-content/uploads/2026/03/sueno-pantallas.webp",
+        "tags": [
+            "prevención",
+            "nutrición y bienestar",
+            "trastornos del sueño",
+            "insomnio",
+            "noticias principales",
+            "expertos"
+        ],
+        "link": "https://efesalud.com/sueno-pantallas-como-dormir-bien/",
+        "date": "2026-03-13 06:10:00",
+        "sentiment_score": -0.516082264482975
+    },
+    {
+        "title": "El catalanismo se la juega en la Cataluña del Norte: ¿tiene opciones o se aboca al fracaso?",
+        "image_url": "https://static1.ara.cat/clip/2df4ca0a-055c-47b1-95bb-737e02272350_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "juega",
+            "norte",
+            "fracaso",
+            "cataluna",
+            "catalanismo",
+            "aboca",
+            "opciones"
+        ],
+        "link": "https://es.ara.cat/politica/catalanismo-juega-cataluna-norte-opciones-aboca-fracaso_1_5676960.html",
+        "date": "2026-03-13 06:03:17",
+        "sentiment_score": -0.2887642830610275
+    },
+    {
+        "title": "El yo gana terreno: cada vez somos más individualistas",
+        "image_url": "https://static1.ara.cat/clip/4f899606-7c7a-4d8b-8cc2-cf3f1da26c94_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "individualistas",
+            "terreno",
+            "gana",
+            "vez"
+        ],
+        "link": "https://es.ara.cat/politica/gana-terreno-vez-individualistas_1_5676959.html",
+        "date": "2026-03-13 06:03:14",
+        "sentiment_score": -0.1804646998643875
     }
 ];
