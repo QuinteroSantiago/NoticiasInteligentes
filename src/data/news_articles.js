@@ -1,21 +1,5 @@
 export default [
     {
-        "title": "CNN: Venezuela abre el debate de la ley de minería, clave en la relación de Rodríguez con Trump",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/07/venezuela.jpg",
-        "tags": [
-            "nacionales",
-            "internacionales",
-            "venezuela",
-            "actualidad",
-            "usa",
-            "ley de minería",
-            "eeuu"
-        ],
-        "link": "https://lapatilla.com/2026/03/09/cnn-venezuela-abre-el-debate-de-la-ley-de-mineria-clave-en-la-relacion-de-rodriguez-con-trump/",
-        "date": "2026-03-09 13:23:19",
-        "sentiment_score": -0.27829205617308617
-    },
-    {
         "title": "El Gobierno aprueba este martes el RD que garantiza la atención sanitaria a personas migrantes en situación irregular",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260309183719_690.jpg",
         "tags": [
@@ -694,22 +678,6 @@ export default [
         "link": "https://www.lne.es/espana/2026/03/10/judicial-prepara-respuesta-bolanos-tribunales-de-instancia-equipos-flotantes-sedes-dispersa-127764053.html",
         "date": "2026-03-10 06:30:07",
         "sentiment_score": -0.15150964260101318
-    },
-    {
-        "title": "CNN: Venezuela abre el debate de la ley de minería, clave en la relación de Rodríguez con Trump",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/07/venezuela.jpg",
-        "tags": [
-            "nacionales",
-            "internacionales",
-            "venezuela",
-            "actualidad",
-            "usa",
-            "ley de minería",
-            "eeuu"
-        ],
-        "link": "https://lapatilla.com/2026/03/09/cnn-venezuela-abre-el-debate-de-la-ley-de-mineria-clave-en-la-relacion-de-rodriguez-con-trump/",
-        "date": "2026-03-09 13:23:19",
-        "sentiment_score": -0.2782916724681854
     },
     {
         "title": "El 99,95% de los aspirantes supera las pruebas de Formación Sanitaria Especializada 2026",
@@ -2751,5 +2719,218 @@ export default [
         "link": "https://www.eldiario.es/era/centro-comercial-vips-dime-dire-clase-ocio-marco-juventud_1_13060055.html",
         "date": "2026-03-12 21:16:28",
         "sentiment_score": -0.18374069035053253
+    },
+    {
+        "title": "La revolución joven de Turquía: Arda Güler y Kenan Yıldız lideran el ambicioso plan para terminar con 24 años de ausencia en Mundiales",
+        "image_url": "https://www.infobae.com/resizer/v2/JNWVK7YI6BFQHKQGDTAU4VWXYQ.jpg?auth=3473ac3507502e3ffaeed3029968c326bda18f769becd07e3c8482f4808991d1&height=1080&smart=true&width=1920",
+        "tags": [
+            "mundial 2026",
+            "kenan yıldız",
+            "peru-deportes",
+            "arda güler",
+            "selección turquía mundial 2026"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/03/13/la-revolucion-joven-de-turquia-arda-guler-y-kenan-yildiz-lideran-el-ambicioso-plan-para-terminar-con-24-anos-de-ausencia-en-mundiales/",
+        "date": "2026-03-13 02:32:18",
+        "sentiment_score": 0.7070803046226501
+    },
+    {
+        "title": "Ester Expósito y Kylian Mbappé, ¿nueva pareja a la vista?",
+        "image_url": "https://ktvz.b-cdn.net/2026/03/0312_headlines-375x225.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://ktvz.com/cnn-spanish/2026/03/12/ester-exposito-y-kylian-mbappe-nueva-pareja-a-la-vista/",
+        "date": "2026-03-13 02:12:14",
+        "sentiment_score": -0.12465718388557434
+    },
+    {
+        "title": "España se consolida como refugio mundial de la inversión inmobiliaria de lujo en mitad del conflicto de Oriente Medio",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/5db2e0230b1b009a84d9c81065260149/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/12/17733422186504.jpg",
+        "tags": [
+            "mercado inmobiliario>",
+            "inmobiliario>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2026/03/13/69b2d50be5fdea777e8b459f.html",
+        "date": "2026-03-13 01:23:33",
+        "sentiment_score": 0.02698415517807007
+    },
+    {
+        "title": "Carabela de Plata para Álvaro Carreras",
+        "image_url": "https://diariodeferrol-imagenes.elidealgallego.com/files/og_thumbnail/uploads/2026/03/12/69b325c8643a9.JPG",
+        "tags": [
+            "+deportes"
+        ],
+        "link": "https://diariodeferrol.elidealgallego.com/deportes/mas-deporte/2026-03-13/carabela-de-plata-para-alvaro-carreras-842464.html",
+        "date": "2026-03-13 01:19:35",
+        "sentiment_score": 0.1513974666595459
+    },
+    {
+        "title": "2a PARTE | 12 MAR 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-12-mar-2026-partidazo-cope-20260313_3325639.html",
+        "date": "2026-03-12 23:49:36",
+        "sentiment_score": 0.08537840470671654
+    },
+    {
+        "title": "Comprueba los números ganadores del Cupón Diario de la Once del 12 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
+        "tags": [
+            "últimas actualizaciones",
+            "cupón diario once españa",
+            "resultado cupón diario hoy",
+            "loterías de españa"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/12/comprueba-los-numeros-ganadores-del-cupon-diario-de-la-once-del-12-de-marzo/",
+        "date": "2026-03-12 23:16:14",
+        "sentiment_score": 0.5587739534676075
+    },
+    {
+        "title": "La moda asalta la capital: de la pasarela en Plaza de España al 'show' en Cabaret (con Asier Etxeandía) o la 'performance' en la Casa de Campo",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/92042cd9e05d2a24a87846b71ad52681/crop/4x0/1000x996/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529670346812.jpg",
+        "tags": [
+            "cultura",
+            "moda",
+            "madrid",
+            "artículos virginia gómez"
+        ],
+        "link": "https://www.elmundo.es/madrid/2026/03/13/69b2db3de9cf4a89288b45a8.html",
+        "date": "2026-03-12 23:12:00",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "La Finalissima entre España y Argentina, en serio riesgo de cancelación",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/03/01/69a4345ec96cb.r_d.375-299-15809.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/finalissima-espana-argentina-serio-riesgo-cancelacion-20260312_3325623.html",
+        "date": "2026-03-12 22:41:32",
+        "sentiment_score": -0.12367093563079834
+    },
+    {
+        "title": "El Real Madrid roba el 'average' al Valencia Basket y aprieta aún más la Euroliga",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/227f9d52-35a7-4f45-b0e9-aa1ba909daf0_16-9-aspect-ratio_default_0_x1200y533.jpg",
+        "tags": [
+            "valencia basket",
+            "real madrid de baloncesto",
+            "baloncesto",
+            "euroliga"
+        ],
+        "link": "https://www.elperiodicodearagon.com/deportes/2026/03/12/real-madrid-roba-average-valencia-127902320.html",
+        "date": "2026-03-12 22:38:41",
+        "sentiment_score": 0.5929872095584869
+    },
+    {
+        "title": "Clima en España: la predicción del tiempo para Barcelona este 13 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima en barcelona",
+            "clima",
+            "clima en españa",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/13/clima-en-espana-la-prediccion-del-tiempo-para-barcelona-este-13-de-marzo/",
+        "date": "2026-03-13 02:01:02",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Laporta le 'roba' el bocata a Víctor Font en otro debate de patio de colegio: gana el abusón",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/13/actualidad/1003742741021_15821761_1706x960.jpg",
+        "tags": [
+            "víctor font",
+            "joan laporta",
+            "palco",
+            "elecciones barça",
+            "barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260313/laporta-bocata-victor-font-debate-colegio-abuson/1003742740979_0.html",
+        "date": "2026-03-13 00:52:43",
+        "sentiment_score": -0.608860582113266
+    },
+    {
+        "title": "Las series que se estrenan esta semana",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/11/esa-noche-kArC-U2301914652050eGI-758x531@RC.jpg",
+        "tags": [
+            "amazon",
+            "kate moss",
+            "the walking dead",
+            "disney",
+            "apple",
+            "netflix",
+            "mujeres",
+            "hbo",
+            "series de televisión"
+        ],
+        "link": "https://www.elnortedecastilla.es/pantallas/series/series-estrenan-semana-netflix-amazon-disney-filmin-apple-hbo-20260311155932-ntrc.html",
+        "date": "2026-03-13 00:14:12",
+        "sentiment_score": 0.8513344516977668
+    },
+    {
+        "title": "El glaucoma afecta al 6 % de la población y suele detectarse cuando el daño ya es avanzado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f7d4f2b5-4f8e-47bb-8209-4724966a51ec_16-9-discover-aspect-ratio_default_0_x663y250.jpg",
+        "tags": [
+            "tenerife",
+            "población"
+        ],
+        "link": "https://www.eldia.es/tenerife/2026/03/13/glaucoma-afecta-6-poblacion-suele-127900446.html",
+        "date": "2026-03-12 23:59:00",
+        "sentiment_score": -0.8605592977255583
+    },
+    {
+        "title": "Lo que Víctor Font no quiere que se sepa",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/13/pensamiento/1003742741017_15821654_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "barcelona",
+            "fc barcelona",
+            "periodismo",
+            "víctor font",
+            "zona franca",
+            "empresarios",
+            "medios de comunicación"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20260313/victor-font-no-quiere-sepa/1003742740967_12.html",
+        "date": "2026-03-12 23:22:03",
+        "sentiment_score": -0.24337655305862427
+    },
+    {
+        "title": "Víctor Font",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/13/actualidad/1003742741016_15821633_1706x960.jpg",
+        "tags": [
+            "fc barcelona",
+            "fútbol",
+            "víctor font",
+            "examen a los protagonistas",
+            "empresarios",
+            "barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20260313/victor-font/1003742740985_0.html",
+        "date": "2026-03-12 23:16:07",
+        "sentiment_score": -0.3362009823322296
+    },
+    {
+        "title": "Caos en la A-7 por el incendio de un camión",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/12/69b3426af1597.jpeg",
+        "tags": [
+            "luz de cruce"
+        ],
+        "link": "https://www.cope.es/emisoras/comunidad-valenciana/valencia-provincia/valencia/luz-de-cruce/noticias/caos-7-incendio-camion-20260312_3325624.html",
+        "date": "2026-03-12 23:06:11",
+        "sentiment_score": -0.37942592799663544
+    },
+    {
+        "title": "Crónica del FC Badalona Women - Barça Femení, 0-0",
+        "image_url": "https://www.infobae.com/resizer/v2/WYHW753NZRDZNK77UETY6MULT4.jpg?auth=16a6cc56e7da3f6401cc0f676f440ea464d5178a7fc4f8a45089c0e0e32c27f9&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/12/cronica-del-fc-badalona-women-barca-femeni-0-0/",
+        "date": "2026-03-12 23:00:57",
+        "sentiment_score": -0.07029587402939796
     }
 ];
