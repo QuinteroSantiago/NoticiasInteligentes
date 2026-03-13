@@ -1,188 +1,5 @@
 export default [
     {
-        "title": "Cortes de luz en Madrid del 9 al 15 de marzo: horarios y calles afectadas",
-        "image_url": "https://okdiario.com/img/2026/03/05/cortes-de-luz-en-madrid-del-9-al-15-de-marzo-horarios-y-calles-afectadas.jpg",
-        "tags": [
-            "okd",
-            "luz",
-            "madrid",
-            "españa",
-            "apagón"
-        ],
-        "link": "https://okdiario.com/madrid/cortes-luz-madrid-del-9-15-marzo-horarios-calles-afectadas-16356705",
-        "date": "2026-03-09 07:00:57",
-        "sentiment_score": -0.4625939652323723
-    },
-    {
-        "title": "Un impulso que permite al Athletic creer",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/af8dc78d-f81a-4a34-bb52-9dab7c49cf69_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "athletic",
-            "impulso",
-            "creer",
-            "permite"
-        ],
-        "link": "https://www.deia.eus/athletic/2026/03/09/impulso-permite-athletic-creer-10796184.html",
-        "date": "2026-03-09 07:00:28",
-        "sentiment_score": -0.08767777681350708
-    },
-    {
-        "title": "Dimite el secretario general de las Nuevas Generaciones del PP y pide el voto para Vox",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2026/03/09/el-secretario-de-nuevas-generaciones-del-pp-carlo-angrisano-en-una-imagen-de-la-formacion-conservadora.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/dimite-secretario-general-nuevas-generaciones-pp-pide-voto-voxbr-f202603.html",
-        "date": "2026-03-09 06:42:30",
-        "sentiment_score": -0.7750103622674942
-    },
-    {
-        "title": "El banquillo de Osasuna también juega",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/586fed94-f3ad-4e13-8281-468f92f3d766_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "juega",
-            "osasuna",
-            "banquillo"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2026/03/09/banquillo-osasuna-juega-10796335.html",
-        "date": "2026-03-09 06:41:00",
-        "sentiment_score": -0.16031546890735626
-    },
-    {
-        "title": "Un paseo por el INFIERNO",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/03/paseo-infierno-1-750x500.jpg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://elfarodeceuta.es/paseo-infierno/",
-        "date": "2026-03-09 06:36:00",
-        "sentiment_score": -0.7806696109473705
-    },
-    {
-        "title": "Eurocolegio Casvi (Villaviciosa de Odón) refuerza su modelo plurilingüe con mandarín y alemán obligatorio",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7883475",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5799825/eurocolegio-casvi-villaviciosa-odon-refuerza-modelo-plurilingue-mandarin-aleman-obligatorio",
-        "date": "2026-03-09 06:30:00",
-        "sentiment_score": 0.09643998742103577
-    },
-    {
-        "title": "El sorianista meticuloso",
-        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/files/fp/uploads/2026/03/08/69adbb8a2b884.r_d.781-445-8468.jpeg",
-        "tags": [
-            "castilla y león"
-        ],
-        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/260309/105305/sorianista-meticuloso.html",
-        "date": "2026-03-09 06:30:00",
-        "sentiment_score": 0.25649142265319824
-    },
-    {
-        "title": "Toda la economía europea puede verse arrastrada si el conflicto se extiende a las monarquías del Golfo, que son aliadas de occidente\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el monólogo de las 6h de bustos"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/el-monologo-de-las-6h-de-bustos/monologos/toda-economia-europea-verse-arrastrada-conflicto-extiende-monarquias-golfo-son-aliadas-occidente-20260309_3322238.html",
-        "date": "2026-03-09 06:10:01",
-        "sentiment_score": -0.16499578952789307
-    },
-    {
-        "title": "Un estadio por 300 millones",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9d553884-10a7-4e3f-b57c-eea490d48c2e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "españa",
-            "real madrid",
-            "inversión",
-            "motor"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2026/03/09/estadio-300-millones-127718404.html",
-        "date": "2026-03-09 06:01:00",
-        "sentiment_score": -0.24995990097522736
-    },
-    {
-        "title": "Encuesta de Gesop para LA OPINIÓN: Los ciudadanos urgen a los partidos respuestas firmes ante la despoblación",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d6ece8f1-be1d-4b2e-98ad-4806b02d6f2c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "encuesta,vecinos,despoblación,ciudadanos,comunidad autónoma,tierra,el correo,elecciones autonómicas en castilla y león 2026"
-        ],
-        "link": "https://www.laopiniondezamora.es/zamora/2026/03/09/encuesta-gesop-opinion-ciudadanos-urgen-127718005.html",
-        "date": "2026-03-09 06:00:59",
-        "sentiment_score": -0.17935976386070251
-    },
-    {
-        "title": "Capaces de todo: alumnos con discapacidad de la UMA, en ARCO y en el Festival de Cine de Málaga",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1193f836-1c51-4a88-9416-42951f08cac0_16-9-aspect-ratio_default_0_x600y266.jpg",
-        "tags": [
-            "vega",
-            "arco",
-            "arte",
-            "opinión",
-            "estudiantes",
-            "universidad",
-            "discapacidad"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2026/03/09/alumnos-discapacidad-uma-taec-arte-arco-127633083.html",
-        "date": "2026-03-09 07:00:48",
-        "sentiment_score": 0.15744030475616455
-    },
-    {
-        "title": "Abusos y suicidios: la memoria más oscura de la ‘mili’",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9a51d07b-67b6-4f9f-8717-c8d39a86617c_16-9-aspect-ratio_default_0_x643y619.jpg",
-        "tags": [
-            "abusos",
-            "memoria",
-            "oscura",
-            "suicidios",
-            "mili"
-        ],
-        "link": "https://www.noticiasdenavarra.com/politica/2026/03/09/abusos-suicidios-memoria-oscura-mili-10796878.html",
-        "date": "2026-03-09 07:00:35",
-        "sentiment_score": -0.11914461851119995
-    },
-    {
-        "title": "Aldo Comas confiesa convivir con un \"TDAH galopante\": \"Solo me sirve para meterme en líos\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/09/69ae6be3e31753-84795741.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/gente/aldo-comas-confiesa-convivir-con-un-tdah-galopante-mis-altas-capacidades-solo-me-sirven-para-meterme-lios_6943390_0.html",
-        "date": "2026-03-09 06:55:11",
-        "sentiment_score": 0.3048657812178135
-    },
-    {
-        "title": "El 'método Apple': así funciona la escalera de precios que ahora baja su primer peldaño",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2026/03/04/apple-presenta-el-nuevo-macbook-neo-su-portatil-mas-barato.jpeg",
-        "tags": [
-            "ocio y cultura"
-        ],
-        "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/03/09/apple-iphone-17e-macbook-neo-estrategia-precios-nuevos-productos-2026-1900572.html",
-        "date": "2026-03-09 06:54:41",
-        "sentiment_score": 0.6837154403328896
-    },
-    {
-        "title": "Así fue el amplio dispositivo para buscar al desaparecido en Llinars del Vallès",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2026/03/09/69ae6ad1771da.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20260309/asi-amplio-dispositivo-buscar-desaparecido-llinars-valles_393551.html",
-        "date": "2026-03-09 06:38:12",
-        "sentiment_score": -0.23979153484106064
-    },
-    {
-        "title": "Nueva señal de tráfico en Valencia: qué son los dientes de dragón y para qué sirven",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/03/09/69ae67ad65b51.jpeg",
-        "tags": [
-            "c. valenciana"
-        ],
-        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20260309/nueva-senal-trafico-valencia-son-dientes-dragon-sirven_393552.html",
-        "date": "2026-03-09 06:36:10",
-        "sentiment_score": -0.05111708864569664
-    },
-    {
         "title": "CNN: Venezuela abre el debate de la ley de minería, clave en la relación de Rodríguez con Trump",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/07/venezuela.jpg",
         "tags": [
@@ -2769,5 +2586,170 @@ export default [
         "link": "https://www.europapress.es/economia/transportes-00343/noticia-guestready-crece-52-2025-alcanza-65-millones-euros-reservas-espana-20260312182103.html",
         "date": "2026-03-12 17:21:03",
         "sentiment_score": 0.5005156248807907
+    },
+    {
+        "title": "Endrick evita la victoria del Celta",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/2150eb27-cc85-4c98-b202d86a2c3546c6.jpg",
+        "tags": [
+            "lyon",
+            "celta de vigo",
+            "real madrid",
+            "francia",
+            "borja iglesias"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zeaac4949-9c87-49ca-81583f6760826275/202603/endrick-evita-la-victoria-del-celta",
+        "date": "2026-03-12 22:32:46",
+        "sentiment_score": -0.04951602220535278
+    },
+    {
+        "title": "El Betis tropieza en Atenas con un polémico penalti y Endrick borra la ventaja del Celta",
+        "image_url": "https://www.infobae.com/resizer/v2/MXQ7MF4PL5ASJH6FGL3ASFH2BQ.jpg?auth=9e3e3dc0126204e6f4c638a650896078811dd857b7c4194928d8cf948ef3df9e&height=1278&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/12/el-betis-tropieza-en-atenas-con-un-polemico-penalti-y-endrick-borra-la-ventaja-del-celta/",
+        "date": "2026-03-12 22:30:36",
+        "sentiment_score": -0.741492610424757
+    },
+    {
+        "title": "Endrick, en el minuto 87, evita la victoria del Celta ante el Lyon",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/35a67c21-453e-43be-9c67-f323b2322168_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "celta de vigo",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2026/03/12/endrick-minuto-87-evita-victoria-celta-lyon-127902032.html",
+        "date": "2026-03-12 22:17:04",
+        "sentiment_score": 0.6050679534673691
+    },
+    {
+        "title": "Real Madrid baja de la euforia del triplete de Valverde en Champions al desgaste de La Liga",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/3ab911a/2147483647/strip/true/crop/3419x1795+0+242/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fac%2F21%2F9964d30548c1b935e9fe994b312c%2Faf06c5b0897646abb597429a53b7def1.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-12/real-madrid-baja-de-la-euforia-del-triplete-de-valverde-en-champions-al-desgaste-de-la-liga",
+        "date": "2026-03-12 22:10:53",
+        "sentiment_score": 0.007892310619354248
+    },
+    {
+        "title": "22:00H | 12 MAR 2026 | La Linterna",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la linterna"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/horas-completas/22-00h-12-mar-2026-linterna-20260312_3325618.html",
+        "date": "2026-03-12 22:09:00",
+        "sentiment_score": -0.2809154838323593
+    },
+    {
+        "title": "Las brigadas de mantenimiento de Sant Boi se plantan ante el ayuntamiento por la mejora de sus condiciones laborales",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/12/actualidad/1003742740816_15818833_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "trabajadores",
+            "sant boi de llobregat",
+            "precariedad laboral",
+            "sindicatos"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260312/brigadas-mantenimiento-sant-boi-plantan-ayuntamiento-mejora-condiciones-laborales/1003742731826_0.html",
+        "date": "2026-03-12 22:00:00",
+        "sentiment_score": 0.3314504772424698
+    },
+    {
+        "title": "La falta de suelo empuja a las inmobiliarias de lujo a construir en los barrios periféricos de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/11/actualidad/1003742740467_15814242_1706x960.jpg",
+        "tags": [
+            "viviendas",
+            "sant andreu de palomar",
+            "la sagrera",
+            "vivienda",
+            "economía",
+            "la marina del prat vermell",
+            "alquiler vivienda",
+            "la clota"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260312/falta-suelo-empuja-inmobiliarias-lujo-construir-barrios-perifericos-barcelona/1003742740859_0.html",
+        "date": "2026-03-12 22:00:00",
+        "sentiment_score": 0.3016645014286041
+    },
+    {
+        "title": "Barcelona invertirá más de medio millón de euros en la rehabilitación de túneles de la ronda Litoral",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2022/09/05/movilidad/700939903_9195374_1706x960.jpg",
+        "tags": [
+            "ronda litoral",
+            "motos",
+            "obras",
+            "información municipal",
+            "ayuntamiento de barcelona",
+            "coches",
+            "tráfico"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260312/barcelona-invertira-medio-millon-euros-rehabilitacion-tuneles-ronda-litoral/1003742740446_0.html",
+        "date": "2026-03-12 22:00:00",
+        "sentiment_score": -0.1345861405134201
+    },
+    {
+        "title": "Dónde han caído 124,5 millones de euros de La Primitiva los premios de la Lotería Nacional, Bonoloto, ONCE y EuroDreams de hoy jueves 12 de marzo de 2026",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2019/12/15/DD6F937B-CB78-45BE-A8BA-423DBC0AECA2/98.jpg?crop=594%2C334%2Cx0%2Cy53&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "loterías"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-1245-millones-euros-primitiva-premios-loteria-nacional-bonoloto-once-eurodreams-hoy-jueves-12-marzo-2026_2026031269b3326cd489bf782e18430e.html",
+        "date": "2026-03-12 21:38:52",
+        "sentiment_score": 0.017770282924175262
+    },
+    {
+        "title": "Muere atropellado al ser perseguido tras apuñalar a su familia",
+        "image_url": "https://www.clm24.es/media/clm24/images/2025/02/11/2025021120263036705.jpg",
+        "tags": [
+            "sucesos"
+        ],
+        "link": "https://www.clm24.es/articulo/sucesos/muere-atropellado-ser-perseguido-apunalar-familia/20260312223231472888.html",
+        "date": "2026-03-12 21:32:31",
+        "sentiment_score": -0.721722861751914
+    },
+    {
+        "title": "El sorteo de la Bonoloto deja un nuevo millonario este jueves",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2026/02/19/bolotos-administracion-loteria-kq9H-U208011677639oC-1200x840@Hoy.jpg",
+        "tags": [
+            "bonoloto",
+            "jueves",
+            "sorteo"
+        ],
+        "link": "https://www.hoy.es/sociedad/sorteo-bonoloto-deja-nuevo-millonario-jueves-20260312222543-nt.html",
+        "date": "2026-03-12 21:25:47",
+        "sentiment_score": 0.08022906631231308
+    },
+    {
+        "title": "Cambios por circular con nuestro gato en el coche tras la \"controvertida Ley de protección de los derechos y el bienestar de los animales\": adiós a abrazarlo o dar caricias, con sanción de 500 euros",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1e4014f5-21c3-4f1d-86fa-307c16b84d04_16-9-aspect-ratio_default_0_x960y426.jpg",
+        "tags": [
+            "animales,mascotas,seguridad,gatos,gente"
+        ],
+        "link": "https://www.laopiniondezamora.es/vida-y-estilo/2026/03/12/cambios-circular-gato-coche-controvertida-127901092.html",
+        "date": "2026-03-12 21:22:53",
+        "sentiment_score": -0.5042570531368256
+    },
+    {
+        "title": "Del centro comercial al VIPS: dime de dónde eres y te diré qué clase de ocio marcó tu juventud",
+        "image_url": "https://static.eldiario.es/clip/d181d45a-cee5-4ee1-a762-bfa2b4d70836_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ocio",
+            "centro",
+            "juventud",
+            "dire",
+            "vips",
+            "comercial",
+            "marco",
+            "dime",
+            "clase"
+        ],
+        "link": "https://www.eldiario.es/era/centro-comercial-vips-dime-dire-clase-ocio-marco-juventud_1_13060055.html",
+        "date": "2026-03-12 21:16:28",
+        "sentiment_score": -0.18374069035053253
     }
 ];
