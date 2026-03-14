@@ -2948,5 +2948,256 @@ export default [
         "link": "https://www.infobae.com/peru/deportes/2026/03/13/miguel-rondelli-se-muestra-conforme-con-el-rendimiento-de-cusco-fc-pese-al-irregular-inicio-en-liga-1-a-puertas-del-derbi-ante-cienciano/",
         "date": "2026-03-13 21:13:16",
         "sentiment_score": -0.7528773881494999
+    },
+    {
+        "title": "La Finalissima sigue en suspenso: Argentina y España siguen sin resolver sede del encuentro",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2024/07/Finalissima-trofeo.jpg",
+        "tags": [
+            "titulares",
+            "españa",
+            "futbol",
+            "finalissima",
+            "argentina",
+            "deportes"
+        ],
+        "link": "https://lapatilla.com/2026/03/13/la-finalissima-sigue-en-suspenso-argentina-y-espana-siguen-sin-resolver-sede-del-encuentro/",
+        "date": "2026-03-14 02:14:09",
+        "sentiment_score": 0.011980526149272919
+    },
+    {
+        "title": "El Gran Hermano sanchista te vigila: el 'hodiómetro' culmina la estrategia del Gobierno para controlar las redes y las noticias",
+        "image_url": "https://s3.elespanol.com/2026/03/12/actualidad/1003744167516_261912604_1706x960.jpg",
+        "tags": [
+            "delitos odio",
+            "porfolio",
+            "inclusión y migraciones",
+            "x",
+            "política",
+            "ministerio de seguridad social",
+            "redes sociales",
+            "elon musk",
+            "google",
+            "pedro sánchez",
+            "begoña gómez"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260314/gran-hermano-sanchista-vigila-hodiometro-culmina-estrategia-gobierno-controlar-redes-noticias/1003744167514_0.html",
+        "date": "2026-03-14 00:40:00",
+        "sentiment_score": -0.08605463802814484
+    },
+    {
+        "title": "Susana Fernández, la gallega que participó en Supervivientes hace 20 años y ahora regenta un hotel rural: “Me siento libre”",
+        "image_url": "https://s3.elespanol.com/2026/03/13/actualidad/1003744168495_261924458_1706x960.jpg",
+        "tags": [
+            "ferrol",
+            "comarca de ferrol",
+            "valdoviño",
+            "galicia",
+            "vivir"
+        ],
+        "link": "https://www.elespanol.com/quincemil/vivir/20260314/susana-fernandez-gallega-participo-supervivientes-hace-anos-ahora-regenta-hotel-rural-siento-libre-dl/1003744168233_0.html",
+        "date": "2026-03-14 00:40:00",
+        "sentiment_score": 0.3611418604850769
+    },
+    {
+        "title": "Rocío y otros reconvertidos al cristianismo que cargan con la \"cruz de cada día\" en la Hora Santa: \"Con Dios se vive mejor\"",
+        "image_url": "https://s3.elespanol.com/2026/03/11/actualidad/1003744165121_261881511_1706x960.jpg",
+        "tags": [
+            "católicos",
+            "jóvenes",
+            "toledo",
+            "sociedad",
+            "iglesia católica",
+            "religión"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/sociedad/20260314/rocio-reconvertidos-cristianismo-cargan-cruz-dia-hora-santa-dios-vive-mejor-dl/1003744163332_0.html",
+        "date": "2026-03-14 00:40:00",
+        "sentiment_score": 0.1681484431028366
+    },
+    {
+        "title": "CDMX: estos son los vuelos cancelados y demorados de este viernes",
+        "image_url": "https://www.infobae.com/resizer/v2/CMVDXZ7HBNDMZAW7GUGISD32D4.jpg?auth=fd780efd04da6bc6657766960a77be0fdc35bc06a966a2e995d067f0537c0450&height=1080&smart=true&width=1920",
+        "tags": [
+            "vuelos afectados en méxico",
+            "vuelos afectados aicm",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/mexico/2026/03/14/cdmx-estos-son-los-vuelos-cancelados-y-demorados-de-este-viernes/",
+        "date": "2026-03-14 00:17:54",
+        "sentiment_score": -0.760679854080081
+    },
+    {
+        "title": "Las agencias de calificación confirman sus buenas notas para España, pero sin contar aún mucho la guerra",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/03/13/sanchez-consejo-ministros-kJbC-U201194023062RbG-1200x840@RC.jpg",
+        "tags": [
+            "producto interior bruto (pib)",
+            "envejecimiento de la población",
+            "estrecho de ormuz",
+            "presupuestos generales del estado",
+            "energía",
+            "oriente-proximo",
+            "gobierno de pedro sánchez",
+            "vivienda"
+        ],
+        "link": "https://www.leonoticias.com/economia/mercados/agencias-calificacion-confirman-buenas-notas-espana-contar-20260313011427-ntrc.html",
+        "date": "2026-03-14 00:17:53",
+        "sentiment_score": -0.5168406143784523
+    },
+    {
+        "title": "Las heridas abiertas del 11-M y el «PSOE state of mind» como principal ideología sistémica",
+        "image_url": "https://gaceta.es/wp-content/uploads/2026/01/rajoy-09.jpg",
+        "tags": [
+            "11m",
+            "psoe",
+            "partido popular",
+            "españa"
+        ],
+        "link": "https://gaceta.es/espana/las-heridas-abiertas-del-11-m-y-el-psoe-state-of-mind-como-principal-ideologia-sistemica-20260314-0100/",
+        "date": "2026-03-14 00:00:00",
+        "sentiment_score": -0.4286414384841919
+    },
+    {
+        "title": "El futuro de Nico Paz en el Real Madrid: rumores, dudas y sorpresas",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/25/2025112503261180351.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/dudas-futuro-nico-paz-real-madrid/20260314003913378550.html",
+        "date": "2026-03-13 23:39:13",
+        "sentiment_score": -0.42433398216962814
+    },
+    {
+        "title": "David Gil, un seguro de vida para Sergio",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/canal-amarillo/2026/03/13/_JMM7638-Rwh464bgEyjedpsLdvnZtmJ-758x531@abc.JPG",
+        "tags": [
+            "cd mirandés",
+            "cádiz cf",
+            "liga de fútbol profesional"
+        ],
+        "link": "https://www.lavozdigital.es/canal-amarillo/noticias-cadiz-cf/david-gil-seguro-vida-sergio-20260313003407-ntv.html",
+        "date": "2026-03-13 23:35:57",
+        "sentiment_score": -0.05025273561477661
+    },
+    {
+        "title": "El viaje de Clint Eastwood a España que cambió su carrera: el rodaje en Madrid donde nació un mito del cine",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/14/2026031400225849545.jpg",
+        "tags": [
+            "famosos"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/famosos/viaje-clint-eastwood-espana-que-cambio-carrera-rodaje-madrid-donde-nacio-mito-cine/202603140023111009694.html",
+        "date": "2026-03-13 23:23:11",
+        "sentiment_score": -0.09747445583343506
+    },
+    {
+        "title": "España: las predicciones del tiempo en Barcelona este 14 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima",
+            "clima en barcelona",
+            "clima en españa",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/14/espana-las-predicciones-del-tiempo-en-barcelona-este-14-de-marzo/",
+        "date": "2026-03-14 02:00:58",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "👩🏻‍💻💄💅🏻El pulso femenino: 👠la fuerza que redibuja el mercado venezolano",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/240620_080_BG_Creativos-Coca_Cola-Red_Empoderamiento_Femenino.jpg-300x200.jpeg",
+        "tags": [
+            "actualidad",
+            "mercado",
+            "zoom",
+            "economía"
+        ],
+        "link": "https://ultimasnoticias.com.ve/zoom/%F0%9F%91%A9%F0%9F%8F%BB%F0%9F%92%BB%F0%9F%92%84%F0%9F%92%85%F0%9F%8F%BBel-pulso-femenino-%F0%9F%91%A0la-fuerza-que-redibuja-el-mercado-venezolano/",
+        "date": "2026-03-14 01:38:59",
+        "sentiment_score": 0.1855965182185173
+    },
+    {
+        "title": "Gladys Tejeda se alista para la Maratón de Barcelona y mantiene firme su objetivo de llegar a Los Ángeles 2028",
+        "image_url": "https://www.infobae.com/resizer/v2/VSW34KH6MNB75JQHSKYZQQ3NHQ.png?auth=dfb7a569f6b52eee29460fe8e2ee56a1ec9c6dea38b2ab6104975e4467681239&height=1080&smart=true&width=1920",
+        "tags": [
+            "peru-deportes",
+            "gladys tejeda",
+            "los ángeles 2028",
+            "maratón de barcelona",
+            "atletismo peruano"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/03/14/gladys-tejeda-se-alista-para-la-maraton-de-barcelona-y-mantiene-firme-su-objetivo-de-llegar-a-los-angeles-2028/",
+        "date": "2026-03-14 01:07:14",
+        "sentiment_score": 0.5297548770904541
+    },
+    {
+        "title": "La gran promesa de Laporta sobre la cubierta del nuevo Camp Nou: adiós a Montjuïc",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/14/actualidad/1003742741391_15826408_1706x960.jpg",
+        "tags": [
+            "espai barça",
+            "camp nou",
+            "palco",
+            "limak construction"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260314/promesa-laporta-cubierta-nuevo-camp-nou-montjuic/1003742741374_0.html",
+        "date": "2026-03-14 00:58:53",
+        "sentiment_score": 0.47291961312294006
+    },
+    {
+        "title": "Los tres pilares de Laporta para revalidar la presidencia del Barça: estocada final a Víctor Font",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/13/actualidad/1003742741023_15826275_1706x960.jpg",
+        "tags": [
+            "joan laporta",
+            "víctor font",
+            "barça",
+            "palco",
+            "elecciones barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260314/laporta-revalidar-presidencia-barca-estocada-victor-font/1003742741384_0.html",
+        "date": "2026-03-14 00:25:43",
+        "sentiment_score": 0.0489729568362236
+    },
+    {
+        "title": "Petro aboga por una alianza contra el narcotráfico con todos los países americanos y sin \"fundamentalismos\"",
+        "image_url": "https://www.infobae.com/resizer/v2/DWMBP4TKHVCLZP3N5E3KTJ42IU.jpg?auth=da6277c412bbb9890f8ff397fd9326d0aea1e5d97531c4993cc25d9db08e4df9&height=1280&smart=true&width=1920",
+        "tags": [
+            "estados unidos",
+            "colombia",
+            "claudia sheinbaum",
+            "celac",
+            "barcelona",
+            "donald trump",
+            "europapress",
+            "narcotráfico",
+            "brasil",
+            "méxico",
+            "gustavo petro"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/12/petro-aboga-por-una-alianza-contra-el-narcotrafico-con-todos-los-paises-americanos-y-sin-fundamentalismos/",
+        "date": "2026-03-14 00:17:11",
+        "sentiment_score": -0.1708512306213379
+    },
+    {
+        "title": "Fernâo Brandâo ocultó la Biblioteca de Barcarrota",
+        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2026/03/13/213902926.jpg",
+        "tags": [
+            "barcarrota",
+            "biblioteca",
+            "oculto",
+            "brandao",
+            "fernao"
+        ],
+        "link": "https://www.hoy.es/culturas/trazos/fernao-brandao-oculto-biblioteca-barcarrota-20260314093955-nt.html",
+        "date": "2026-03-14 00:00:00",
+        "sentiment_score": -0.7687337454408407
+    },
+    {
+        "title": "Un estudio revela una mayor mortalidad por ictus en pacientes con trastornos mentales en España",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/487a1b1d-4a1f-4f6c-ae57-46c29bacf535_16-9-aspect-ratio_default_0_x568y213.jpg",
+        "tags": [
+            "salud mental",
+            "ictus",
+            "estudio"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/sociedad/2026/03/14/madrid-estudio-revela-mayor-mortalidad-ictus-pacientes-mental-127945899.html",
+        "date": "2026-03-13 23:51:58",
+        "sentiment_score": -0.36392033845186234
     }
 ];
