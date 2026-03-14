@@ -1,188 +1,5 @@
 export default [
     {
-        "title": "Newcastle - Barcelona: Hora, alineaciones y dónde ver el partido de ida de octavos de final de Champions League en directo",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/03/09/F04407CC-856E-4922-954F-83AACD27F0B9/rashford-newcastle-barca-liguilla-champions-league-2025-2026_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/newcastle-barcelona-hora-alineaciones-donde-ver-partido-ida-octavos-final-champions-league-directo_2026031069aeef176cf703292f6a7ecf.html",
-        "date": "2026-03-10 07:00:13",
-        "sentiment_score": 0.07181259244680405
-    },
-    {
-        "title": "Avalancha de rondas en el ecosistema startup",
-        "image_url": "https://wp.emprendedores.es/wp-content/uploads/2026/02/Gyala-Therapeutics-Claudio-Santos-Nela-Klein-Gonzalez.jpg",
-        "tags": [
-            "startups",
-            "financiación"
-        ],
-        "link": "https://emprendedores.es/startups/avalancha-de-rondas-en-el-ecosistema-startup",
-        "date": "2026-03-10 07:00:00",
-        "sentiment_score": 0.09916414320468903
-    },
-    {
-        "title": "Rodrigo de la Calle, chef de la revolución vegetal: \"Es un problema que los más jóvenes se hayan acostumbrado a los procesados y a comprar por el móvil en lugar de ir al mercado\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cfdc3877-2118-4e83-be07-ba798566c60e_16-9-aspect-ratio_default_0_x664y354.jpg",
-        "tags": [
-            "cocineros",
-            "sostenibilidad"
-        ],
-        "link": "https://www.laopiniondemalaga.es/sociedad/2026/03/10/rodrigo-calle-chef-revolucion-vegetal-127764555.html",
-        "date": "2026-03-10 06:56:32",
-        "sentiment_score": 0.11821240931749344
-    },
-    {
-        "title": "Agenda Informativa de Europa Press para hoy martes, 10 de marzo (y 2)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/10/agenda-informativa-de-europa-press-para-hoy-martes-10-de-marzo-y-2/",
-        "date": "2026-03-10 06:46:06",
-        "sentiment_score": 0.029754910618066788
-    },
-    {
-        "title": "Lo que se sabe de la supuesta relación entre Ester Expósito y Mbappé: citas en París y Madrid, avión privado...",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/09/69aebcbad135a4-82943032.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/gente/que-se-sabe-supuesta-relacion-entre-ester-exposito-mbappe-citas-paris-madrid-juntos-un-hotel-avion-privado_6943855_0.html",
-        "date": "2026-03-10 06:11:38",
-        "sentiment_score": 0.09973267465829849
-    },
-    {
-        "title": "Generación propia",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6a273367-fb11-415c-bbeb-260e9841dbf7_16-9-aspect-ratio_default_0_x1000y433.jpg",
-        "tags": [
-            "memoria",
-            "acb",
-            "ibon navarro",
-            "unicaja"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2026/03/10/generacion-propia-127756116.html",
-        "date": "2026-03-10 06:00:55",
-        "sentiment_score": 0.5004917606711388
-    },
-    {
-        "title": "\"Aquí certezas\": las otras certezas que no caben en un lema",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cb30e9b8-8cb1-49ac-8cfd-e0fda517a1c8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "vivienda,pueblos,castilla y león,seguridad,elecciones autonómicas en castilla y león 2026"
-        ],
-        "link": "https://www.laopiniondezamora.es/opinion/2026/03/10/certezas-certezas-caben-lema-127742620.html",
-        "date": "2026-03-10 06:00:44",
-        "sentiment_score": 0.6506541296839714
-    },
-    {
-        "title": "El impacto de los puertos deportivos en la economía de Málaga alcanza los 710 millones de euros",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e6989635-a9a3-4831-866c-a8c56b96af6d_16-9-aspect-ratio_default_0_x750y333.jpg",
-        "tags": [
-            "andalucía",
-            "internacional",
-            "economía",
-            "costa del sol",
-            "puertos"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2026/03/10/impacto-puertos-deportivos-economia-malaga-millones-euros-127654467.html",
-        "date": "2026-03-10 06:00:41",
-        "sentiment_score": 0.06025470793247223
-    },
-    {
-        "title": "Éstas son las personas que están obligadas a hacer el curso para tener perro: temario, en qué consiste y cuándo empieza",
-        "image_url": "https://okdiario.com/img/2026/03/09/estas-son-las-personas-que-estan-obligadas-a-hacer-el-curso-para-tener-perro-temario-en-que-consiste-y-cuando-empieza.jpg",
-        "tags": [
-            "animales de compañía",
-            "mascotas",
-            "animales domésticos",
-            "okd",
-            "perros"
-        ],
-        "link": "https://okdiario.com/mascotas/estas-son-personas-que-estan-obligadas-hacer-curso-tener-perro-temario-que-consiste-cuando-empieza-16379464",
-        "date": "2026-03-10 06:00:21",
-        "sentiment_score": 0.07384069263935089
-    },
-    {
-        "title": "En Comfort Business Barcelona se consolida el despacho ideal para empresas exigentes",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7885426",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5801567/comfort-business-barcelona-consolida-despacho-ideal-empresas-exigentes",
-        "date": "2026-03-10 07:00:00",
-        "sentiment_score": 0.5344362761825323
-    },
-    {
-        "title": "David Dévora, una paciente del servicio de Hematología en Canarias: \"Tenía miedo, no dejaba de pensar que mucha gente muere por leucemia\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/52bda20e-35cb-472a-af1c-bd1a4e6f1b85_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "gente",
-            "familia",
-            "canarias",
-            "cáncer",
-            "leucemia",
-            "huc",
-            "pacientes"
-        ],
-        "link": "https://www.laprovincia.es/canarias/2026/03/10/david-devora-paciente-servicio-hematologia-127754559.html",
-        "date": "2026-03-10 07:00:00",
-        "sentiment_score": -0.6839276067912579
-    },
-    {
-        "title": "Júlia Pericas, la joven catalana que bailó con Bad Bunny en la Superbowl: \"No podía decir nada hasta el día de la actuación\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6b2894a4-bffd-4c17-b506-2fc5d7eaacbe_alta-libre-aspect-ratio_default_0_x1000y432.jpg",
-        "tags": [
-            "la voz",
-            "bad bunny",
-            "operación triunfo",
-            "badalona",
-            "tu cara me suena",
-            "estados unidos",
-            "karol g",
-            "redes sociales",
-            "danza",
-            "super bowl",
-            "barcelona",
-            "vallès oriental"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20260310/julia-pericas-vallromanes-cataluna-bailarina-bad-bunny-superbowl-dv-loc-127487017",
-        "date": "2026-03-10 06:35:00",
-        "sentiment_score": -0.43092911690473557
-    },
-    {
-        "title": "Este es el precio de la gasolina en Madrid, Barcelona y otras ciudades de España este 10 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "últimas actualizaciones",
-            "madrid y otras ciudades",
-            "precio de la gasolina en españa hoy",
-            "españa-economia",
-            "precio de la gasolina en españa",
-            "precio de la gasonila en barcelona"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/10/este-es-el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-de-espana-este-10-de-marzo/",
-        "date": "2026-03-10 06:31:09",
-        "sentiment_score": -0.0731721930205822
-    },
-    {
-        "title": "El Poder Judicial prepara una respuesta a Bolaños: equipos \"flotantes\" y sedes dispersas lastran la nueva organización de los juzgados",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b516829e-7d12-4bc8-b383-74785e0bc001_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "juzgados",
-            "funcionarios",
-            "tribunales",
-            "consejo general del poder judicial",
-            "política",
-            "abogados",
-            "barcelona"
-        ],
-        "link": "https://www.lne.es/espana/2026/03/10/judicial-prepara-respuesta-bolanos-tribunales-de-instancia-equipos-flotantes-sedes-dispersa-127764053.html",
-        "date": "2026-03-10 06:30:07",
-        "sentiment_score": -0.15150964260101318
-    },
-    {
         "title": "El 99,95% de los aspirantes supera las pruebas de Formación Sanitaria Especializada 2026",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260310183900_690.jpg",
         "tags": [
@@ -2913,5 +2730,223 @@ export default [
         "link": "https://www.elperiodico.com/es/tarragona/20260313/collboni-rompe-20-anos-visitas-127936400",
         "date": "2026-03-13 17:19:15",
         "sentiment_score": 0.08454027771949768
+    },
+    {
+        "title": "Esta empresa española es la encargada de proteger el activo más valioso de Ucrania en la guerra",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/6af97ce4b9209f38d9aa751a2b4e0434/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/13/17734005380447.jpg",
+        "tags": [
+            "artículos javier g. fernández",
+            "tecnología"
+        ],
+        "link": "https://www.expansion.com/economia-digital/2026/03/13/69b3f22de5fdea6a1c8b4587.html",
+        "date": "2026-03-13 22:17:21",
+        "sentiment_score": 0.21993674337863922
+    },
+    {
+        "title": "3-0. Fede Valverde alimenta un nuevo milagro",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/11/3-0-fede-valverde-alimenta-un-nuevo-milagro/",
+        "date": "2026-03-13 22:16:50",
+        "sentiment_score": 0.8893746081739664
+    },
+    {
+        "title": "Crónica del Real Madrid - Manchester City: 3-0",
+        "image_url": "https://www.infobae.com/resizer/v2/HHSUAPX6BZCWTH3UAQL6XXGSEI.jpg?auth=656e0c69b1d07b4c2e0914139d09c22f5d639eb1481673e674abf466f241cf35&height=1280&smart=true&width=1920",
+        "tags": [
+            "real madrid",
+            "vinícius júnior",
+            "liga de campeones",
+            "fede valverde",
+            "etihad stadium",
+            "europapress",
+            "thibaut courtois",
+            "santiago bernabéu",
+            "fútbol",
+            "pep guardiola",
+            "manchester city"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/11/cronica-del-real-madrid-manchester-city-3-0/",
+        "date": "2026-03-13 22:15:48",
+        "sentiment_score": 0.6682989001274109
+    },
+    {
+        "title": "Los médicos retoman la huelga el lunes y advierten: sin acuerdo en Canarias habrá más paros",
+        "image_url": "https://s3.ppllstatics.com/canarias7/www/multimedia/2026/03/13/huelga-medicos-ktCF-U201191505909eeC-1200x840@Canarias7.jpg",
+        "tags": [
+            "servicio canario de salud",
+            "sanidad",
+            "paro",
+            "canarias",
+            "médicos",
+            "gobierno de canarias",
+            "consejería de sanidad",
+            "ministerio de sanidad, servicios sociales e igualdad"
+        ],
+        "link": "https://www.canarias7.es/sociedad/salud/medicos-retoman-huelga-lunes-advierten-acuerdo-canarias-20260314194637-nt.html",
+        "date": "2026-03-13 22:14:01",
+        "sentiment_score": 0.26196568459272385
+    },
+    {
+        "title": "El aviso de Renfe a sus interventores tras un nuevo incidente en la línea Madrid-Sevilla: \"Hay que concienciar a todos, el olor a humo es un indicio evidente de riesgo muy grande\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/4b0ab66c35091c52a9f988ef54ff6c02/crop/702x111/2640x2048/f/image/jpeg/assets/multimedia/imagenes/2024/12/15/17342882060591.jpg",
+        "tags": [
+            "artículos marcos iriarte",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/economia/2026/03/13/69b40f0dfc6c83946c8b45a1.html",
+        "date": "2026-03-13 21:44:38",
+        "sentiment_score": -0.795584175735712
+    },
+    {
+        "title": "Mbappé progresa en su recuperación y apunta a la Champions ante el Manchester City",
+        "image_url": "https://www.infobae.com/resizer/v2/UJGL4XOXCJGMZMDYNLABSXGY2U.jpg?auth=fd84a96a088a030d02e974fd4a3d08606a30aef9c3b3a25a83ffb6d92ebaed5b&height=995&smart=true&width=1500",
+        "tags": [
+            "españa-deportes",
+            "manchester city",
+            "champions league",
+            "lesiones deportivas",
+            "españa-noticias",
+            "fútbol",
+            "uefa champions league",
+            "real madrid",
+            "kylian mbappé",
+            "mbappé",
+            "fútbol españa"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/03/13/mbappe-progresa-en-su-recuperacion-y-apunta-a-la-champions-ante-el-manchester-city/",
+        "date": "2026-03-13 21:31:15",
+        "sentiment_score": 0.32192542031407356
+    },
+    {
+        "title": "Àlex Rigola lleva al teatro un texto histórico de la resistencia palestina: \"Es incómodo pero hay que escucharlo\"",
+        "image_url": "https://static.eldiario.es/clip/a104199f-778d-4f2a-8359-3747bb885664_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cataluña",
+            "ignacio escolar",
+            "periodismo independiente",
+            "barcelona",
+            "política",
+            "noticias",
+            "actualidad",
+            "economía"
+        ],
+        "link": "https://www.eldiario.es/catalunya/alex-rigola-lleva-teatro-texto-historico-resistencia-palestina-incomodo-hay-escucharlo_1_13062392.html",
+        "date": "2026-03-13 21:20:02",
+        "sentiment_score": -0.08572441339492798
+    },
+    {
+        "title": "Deportes | El Elche CF busca el más difícil todavía: ganar en casa del Real Madrid su primer encuentro del año",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1801779.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-elche-cf-busca-el-mas-dificil-todavia-ganar-en-casa-del-real-madrid-su-primer-encuentro-del-ano",
+        "date": "2026-03-13 21:17:26",
+        "sentiment_score": 0.19149257987737656
+    },
+    {
+        "title": "Deportes | El Elche CF busca el más difícil todavía: ganar en casa del Real Madrid su primer encuentro de 2026",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1801781.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-elche-cf-busca-el-mas-dificil-todavia-ganar-en-casa-del-real-madrid-su-primer-encuentro-de-2026",
+        "date": "2026-03-13 21:17:26",
+        "sentiment_score": 0.1562192216515541
+    },
+    {
+        "title": "¿Dónde será la Finalissima entre Argentina y España? O, mejor dicho, ¿se jugará?",
+        "image_url": "https://ktvz.b-cdn.net/2026/03/649842331_1595821415599765_6756979438746880778_n-375x225.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://ktvz.com/cnn-spanish/2026/03/13/donde-sera-la-finalissima-entre-argentina-y-espana-o-mejor-dicho-se-jugara/",
+        "date": "2026-03-13 20:31:19",
+        "sentiment_score": -0.20929430425167084
+    },
+    {
+        "title": "Cuenca 30 - Ademar 24: 'La habitual pesadilla en El Sargal'",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/32/21/30/6/pizarro-alberto.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.lanuevacronica.com/deportes/cuenca-30-ademar-24-habitual-pesadilla-en-sargal_192837_102.html",
+        "date": "2026-03-13 22:19:23",
+        "sentiment_score": -0.8840287057682872
+    },
+    {
+        "title": "EEUU advierte a sus ciudadanos en España: ‘Prepárate para cambiar tus planes’",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/6d/media_thumb-link-4156817.webp?1773425886=",
+        "tags": [
+            "irán",
+            "manifestaciones",
+            "guerra",
+            "actualidad",
+            "españa",
+            "eeuu",
+            "embajada"
+        ],
+        "link": "https://www.meneame.net/story/eeuu-advierte-ciudadanos-espana-preparate-cambiar-tus-planes",
+        "date": "2026-03-13 22:10:02",
+        "sentiment_score": -0.18964602053165436
+    },
+    {
+        "title": "Dónde han caído el bote de 26 millones de euros del Euromillones, los 2,5 millones de la Bonoloto, y los del Eurojackpot y la ONCE de hoy viernes 13 de marzo de 2026",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2019/12/15/DD6F937B-CB78-45BE-A8BA-423DBC0AECA2/98.jpg?crop=594%2C334%2Cx0%2Cy53&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "loterías",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-bote-26-millones-euros-euromillones-25-millones-bonoloto-eurojackpot-once-hoy-viernes-13-marzo-2026_2026031369b48993d489bf782e1961d0.html",
+        "date": "2026-03-13 22:02:59",
+        "sentiment_score": 0.0616702176630497
+    },
+    {
+        "title": "Los consumidores ya han hablado; estas son las marcas con el Mejor Servicio del Año® 2026",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7893117",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5808300/consumidores-hablado-estas-marcas-mejor-servicio-ano-2026",
+        "date": "2026-03-13 21:48:21",
+        "sentiment_score": 0.8265574052929878
+    },
+    {
+        "title": "Mudanzas BCN Internacional conecta Barcelona y Colombia con mudanzas seguras y eficientes",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7893121",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5808302/mudanzas-bcn-internacional-conecta-barcelona-colombia-mudanzas-seguras-eficientes",
+        "date": "2026-03-13 21:41:24",
+        "sentiment_score": 0.243244094774127
+    },
+    {
+        "title": "España supera las 160.000 bodas anuales con un giro hacia el espectáculo y lo visual",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7893104",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5808288/espana-supera-160000-bodas-anuales-giro-hacia-espectaculo-visual",
+        "date": "2026-03-13 21:25:39",
+        "sentiment_score": 0.6361836027354002
+    },
+    {
+        "title": "Miguel Rondelli se muestra “conforme” con el rendimiento de Cusco FC pese al irregular inicio en Liga 1 a puertas del derbi ante Cienciano",
+        "image_url": "https://www.infobae.com/resizer/v2/YF4GSVEMBZBIPAUPUCNIRLQMS4.jpg?auth=d6ebd04ddfd43c6ca83538f51cd18824e2e96dc7bd23eb3dd081cb59cda502d5&height=1080&smart=true&width=1920",
+        "tags": [
+            "cusco fc",
+            "peru-deportes",
+            "miguel rondelli",
+            "cienciano",
+            "liga 1"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/03/13/miguel-rondelli-se-muestra-conforme-con-el-rendimiento-de-cusco-fc-pese-al-irregular-inicio-en-liga-1-a-puertas-del-derbi-ante-cienciano/",
+        "date": "2026-03-13 21:13:16",
+        "sentiment_score": -0.7528773881494999
     }
 ];
