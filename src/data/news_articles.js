@@ -1,224 +1,5 @@
 export default [
     {
-        "title": "El 99,95% de los aspirantes supera las pruebas de Formación Sanitaria Especializada 2026",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260310183900_690.jpg",
-        "tags": [
-            "actualidad",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/actualidad/noticia-9995-aspirantes-supera-pruebas-formacion-sanitaria-especializada-2026-20260310183900.html",
-        "date": "2026-03-10 17:39:00",
-        "sentiment_score": 0.05604514479637146
-    },
-    {
-        "title": "Talavera como punto de inflexión: el Avilés afronta un tramo clave de la temporada ante rivales directos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/467c8796-02d0-4216-927d-9710ca425a0c_16-9-aspect-ratio_default_0_x449y138.jpg",
-        "tags": [
-            "avilés",
-            "sueño",
-            "real avilés",
-            "el paso",
-            "fin de semana"
-        ],
-        "link": "https://www.lne.es/real-aviles/2026/03/10/talavera-punto-inflexion-aviles-afronta-127796252.html",
-        "date": "2026-03-10 17:37:35",
-        "sentiment_score": -0.13262924551963806
-    },
-    {
-        "title": "HM CIOCC atendió en 2025 a más de 4.000 nuevos pacientes oncológicos y administró más de 14.200 tratamientos",
-        "image_url": "https://www.infobae.com/resizer/v2/62MV66UJ7RHHXJYVCUU6WDL65M.jpg?auth=9a94b658cde051f47d3dec4a40efd605bc16917ef216def81ce2137b2c6e542a&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/10/hm-ciocc-atendio-en-2025-a-mas-de-4000-nuevos-pacientes-oncologicos-y-administro-mas-de-14200-tratamientos/",
-        "date": "2026-03-10 17:33:29",
-        "sentiment_score": 0.15093878284096718
-    },
-    {
-        "title": "La Real Sociedad se agrieta: los debates que marcan la previa de la final de Copa",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/07/69ac66c579456.jpeg",
-        "tags": [
-            "deportes gipuzkoa"
-        ],
-        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-guipuzcoa/noticias/real-sociedad-agrieta-debates-marcan-previa-final-copa-20260310_3323803.html",
-        "date": "2026-03-10 17:27:24",
-        "sentiment_score": -0.029739171266555786
-    },
-    {
-        "title": "Atlético y Real Sociedad tendrán 25.680 entradas para la final de La Cartuja",
-        "image_url": "https://static.grupojoly.com/clip/6e317194-3cf0-4171-8c59-6ce7dfa26796_source-aspect-ratio_default_0_x1264y312.jpg",
-        "tags": [
-            "tendran",
-            "25",
-            "atletico",
-            "sociedad",
-            "real"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/atletico-real-sociedad-tendran-25_0_2006126803.html",
-        "date": "2026-03-10 17:24:35",
-        "sentiment_score": -0.4501892067492008
-    },
-    {
-        "title": "En su nuevo disco, Rafa Ferrà resume «un buen momento en mi vida»",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4405649.jpg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.ultimahora.es/noticias/cultura/2026/03/10/2586051/nuevo-disco-rafa-ferra-resume-buen-momento-vida.html",
-        "date": "2026-03-10 17:22:36",
-        "sentiment_score": 0.09126448631286621
-    },
-    {
-        "title": "Fetico reclama pluralidad sindical y tener voz en la mesa de diálogo social sobre el conflicto en Irán",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260310181440_120.jpg",
-        "tags": [
-            "economía finanzas",
-            "laboral"
-        ],
-        "link": "https://www.europapress.es/economia/laboral-00346/noticia-fetico-reclama-pluralidad-sindical-tener-voz-mesa-dialogo-social-conflicto-iran-20260310181440.html",
-        "date": "2026-03-10 17:14:40",
-        "sentiment_score": -0.10491573810577393
-    },
-    {
-        "title": "Sánchez declara que el muñeco de su figura apaleado en la Nochevieja del 2023 fue una \"apelación directa\" a su \"muerte\"",
-        "image_url": "https://s3.elespanol.com/2026/03/10/actualidad/1003744164071_261867278_1706x960.jpg",
-        "tags": [
-            "ferraz",
-            "pedro sánchez",
-            "psoe (partido socialista obrero español)",
-            "tribunales"
-        ],
-        "link": "https://www.elespanol.com/espana/tribunales/20260310/sanchez-declara-muneco-figura-apaleado-nochevieja-apelacion-directa-muerte/1003744164067_0.html",
-        "date": "2026-03-10 17:14:37",
-        "sentiment_score": -0.8644231129437685
-    },
-    {
-        "title": "Mujeres por Almaraz a la ministra Ana Redondo: “La igualdad no puede depender del código postal”",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/43173517-34ae-4b4d-b563-e3de1042165e_16-9-aspect-ratio_default_0_x640y283.jpg",
-        "tags": [
-            "extremadura",
-            "almaraz",
-            "igualdad",
-            "energía",
-            "mujeres",
-            "central nuclear de almaraz"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/03/10/mujeres-almaraz-ministra-ana-redondo-127795200.html",
-        "date": "2026-03-10 17:11:24",
-        "sentiment_score": -0.12371863424777985
-    },
-    {
-        "title": "Bodø/Glimt, el equipo de un pueblo pesquero noruego que vive un cuento de hadas en la Champions",
-        "image_url": "https://dims.apnews.com/dims4/default/3f40fd8/2147483647/strip/true/crop/5808x3872+0+0/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff7%2Ff6%2F7906bb98c454ec2d166bec688bdb%2F0e24c1305c0e4af6af0c992d575f757a",
-        "tags": [
-            "bodo glimt champions league",
-            "sports",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/bodo-glimt-champions-league-18ef462137f546ed955548fd5964fc63",
-        "date": "2026-03-10 17:11:21",
-        "sentiment_score": 0.016839832067489624
-    },
-    {
-        "title": "LaLiga denuncia cánticos insultantes de San Mamés contra el Barça",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/901acd8f-7e94-4e1d-8b51-51e76fd08814_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "denuncia",
-            "cánticos",
-            "san mamés",
-            "insultantes",
-            "barça",
-            "laliga"
-        ],
-        "link": "https://www.deia.eus/athletic/2026/03/10/laliga-denuncia-canticos-insultantes-barca-san-mames-10804949.html",
-        "date": "2026-03-10 17:39:23",
-        "sentiment_score": -0.7097852099686861
-    },
-    {
-        "title": "El III Foro ALIA sobre inteligencia artificial, en imágenes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/90b1c006-2192-4b93-84b2-ed82ccd61330_16-9-aspect-ratio_default_0_x640y284.jpg",
-        "tags": [
-            "motor",
-            "barcelona",
-            "comunitat valenciana",
-            "inteligencia artificial",
-            "empresas"
-        ],
-        "link": "https://www.levante-emv.com/fotos/comunitat-valenciana/2026/03/10/tercer-foro-alia-inteligencia-artificial-127793930.html",
-        "date": "2026-03-10 17:38:55",
-        "sentiment_score": 0.34777921438217163
-    },
-    {
-        "title": "Los octavos de final de la Champions comienzan este martes con cuatro duelos decisivos",
-        "image_url": "https://noticialdia.com/wp-content/firewall/uploads/2026/03/octavos.jpg",
-        "tags": [
-            "octavos de final",
-            "uefa champions league",
-            "juegos",
-            "deportes"
-        ],
-        "link": "https://noticialdia.com/deportes/los-octavos-de-final-de-la-champions-comienzan-este-martes-con-cuatro-duelos-decisivos/",
-        "date": "2026-03-10 17:34:53",
-        "sentiment_score": 0.27652016282081604
-    },
-    {
-        "title": "Los alcaldes de Leganés, Badalona y Castelldefels debaten sobre la convivencia y libertad en Catalunya",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/10/gran-barcelona/1003742740123_15809631_1706x960.jpg",
-        "tags": [
-            "cataluña",
-            "badalona",
-            "gran barcelona",
-            "xavier garcía albiol"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260310/alcaldes-leganes-badalona-castelldefels-debaten-convivencia-libertad-catalunya/1003742740047_0.html",
-        "date": "2026-03-10 17:33:51",
-        "sentiment_score": -0.35442040860652924
-    },
-    {
-        "title": "Filven-Anzoátegui se realizará del 12 al 14 de marzo en Barcelona",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "cultura",
-            "locales"
-        ],
-        "link": "https://eltiempove.com/filven-anzoategui-se-realizara-del-12-al-14-de-marzo-en-barcelona/",
-        "date": "2026-03-10 17:32:33",
-        "sentiment_score": 0.10477077588438988
-    },
-    {
-        "title": "Muere el escritor peruano Alfredo Bryce Echenique a los 87 años",
-        "image_url": "https://www.infobae.com/resizer/v2/XSVSDWFASRG73APRSYUJ6UTQ5M.jpg?auth=db9ba491341646da11c3f34915f9a03c597369e8526ea308b4e2ca46453ae73b&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/10/muere-el-escritor-peruano-alfredo-bryce-echenique-a-los-87-anos/",
-        "date": "2026-03-10 17:31:24",
-        "sentiment_score": -0.6780691109597683
-    },
-    {
-        "title": "La UCO desvela cómo la trama de Rubiales cobraba sus presuntas mordidas de la RFEF y La Cartuja",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1f6bb278-8189-4889-9bf6-e9dc046e803c_16-9-aspect-ratio_default_0_x810y360.jpg",
-        "tags": [
-            "corrupción",
-            "luis rubiales",
-            "fútbol"
-        ],
-        "link": "https://www.laopiniondemalaga.es/deportes/2026/03/10/uco-desvela-trama-rubiales-cobraba-127796299.html",
-        "date": "2026-03-10 17:28:16",
-        "sentiment_score": -0.5710635930299759
-    },
-    {
-        "title": "Las entidades asociadas a CECA reivindican en ARCO el valor de su patrimonio artístico y cultural",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260310181847_690.jpg",
-        "tags": [
-            "responsables",
-            "ep social"
-        ],
-        "link": "https://www.europapress.es/epsocial/responsables/noticia-entidades-asociadas-ceca-reivindican-arco-valor-patrimonio-artistico-cultural-20260310181847.html",
-        "date": "2026-03-10 17:18:47",
-        "sentiment_score": 0.7062586471438408
-    },
-    {
         "title": "La inmigración y los incendios marcan un bronco debate electoral a tres en Castilla y León",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/68f47233-d51c-45a8-8ee1-bd2b1fc06d48_16-9-aspect-ratio_default_0_x750y312.jpg",
         "tags": [
@@ -3199,5 +2980,233 @@ export default [
         "link": "https://www.elperiodicoextremadura.com/sociedad/2026/03/14/madrid-estudio-revela-mayor-mortalidad-ictus-pacientes-mental-127945899.html",
         "date": "2026-03-13 23:51:58",
         "sentiment_score": -0.36392033845186234
+    },
+    {
+        "title": "La calle no miente, dónde ver las nuevas entregas de '091: Alerta Policía'",
+        "image_url": "https://static.grupojoly.com/clip/def8744e-10f0-4d63-bd54-b22cf9a18037_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "calle",
+            "ver",
+            "miente",
+            "nuevas",
+            "no"
+        ],
+        "link": "https://www.eldiadecordoba.es/television/calle-no-miente-ver-nuevas_0_2006171152.html",
+        "date": "2026-03-14 06:41:40",
+        "sentiment_score": 0.34751155227422714
+    },
+    {
+        "title": "Diez años contando las historias más oscuras: «Teníamos mucho miedo a que causaran rechazo»",
+        "image_url": "https://s1.ppllstatics.com/lagacetadesalamanca/www/multimedia/2026/03/13/maldi1-RNK1SNajvAfDse4AlnEnoRM-758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "ciudad rodrigo y comarca",
+            "ciudad rodrigo"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/provincia/diez-anos-contando-historia-oscuras-ciudad-rodrigo-20260313172933-nt.html",
+        "date": "2026-03-14 06:30:00",
+        "sentiment_score": 0.1721145063638687
+    },
+    {
+        "title": "Real Madrid - Elche: Horario, onces y dónde ver el partido de LaLiga EA Sports, en directo",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/03/13/D8BA6C88-2637-4F19-8E8A-6A6DC6D6389E/vinicius-accion-elche_98.jpg?crop=5702%2C3208%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/real-madrid-elche-horario-onces-donde-ver-partido-laliga-sports-directo_2026031469b4f96dd489bf782e1999fa.html",
+        "date": "2026-03-14 06:00:13",
+        "sentiment_score": 0.02107999473810196
+    },
+    {
+        "title": "Loterías que dan millones y hermanitas que cuidaron de los mayores de Cáceres",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/079b40c2-2883-405b-9861-1246858b1813_16-9-aspect-ratio_default_0_x714y357.jpg",
+        "tags": [
+            "cámara",
+            "ávila",
+            "barrio a barrio",
+            "comercio",
+            "provincia de cáceres",
+            "negocios"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/caceres-local/2026/03/14/loterias-dan-millones-hermanitas-cuidaron-127815409.html",
+        "date": "2026-03-14 05:30:07",
+        "sentiment_score": -0.14965346455574036
+    },
+    {
+        "title": "Guardia Civil y el vehículo táctico IBERO: así es la máquina española que sorprende en SICUR",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/11/2026031116541398474.jpg",
+        "tags": [
+            "defensa"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/defensa/guardia-civil-vehiculo-tactico-ibero-asi-es-maquina-espanola-que-sorprende-sicur/202603140605001009074.html",
+        "date": "2026-03-14 05:05:00",
+        "sentiment_score": -0.09179165959358215
+    },
+    {
+        "title": "El UCAM Murcia regresa a casa ante un ‘gigante dormido’",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ab2190cb-bb54-49d0-879e-5d493c951b15_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gran canaria",
+            "peso",
+            "tiempo",
+            "ucam murcia cb",
+            "casa"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2026/03/14/ucam-murcia-regresa-casa-gigante-127939627.html",
+        "date": "2026-03-14 05:01:09",
+        "sentiment_score": -0.009788185358047485
+    },
+    {
+        "title": "Seis rasgos de mentalidad regresiva en el sistema educativo",
+        "image_url": "https://static.infolibre.es/clip/e1ff97e2-29a9-43d4-a908-7774b29608d9_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "plaza pública",
+            "educación"
+        ],
+        "link": "https://www.infolibre.es/opinion/plaza-publica/seis-rasgos-mentalidad-regresiva-sistema-educativo_129_2154796.html",
+        "date": "2026-03-14 05:00:40",
+        "sentiment_score": -0.10695628821849823
+    },
+    {
+        "title": "El \"No a la guerra\"... salvo cuando sí",
+        "image_url": "https://www.hispanidad.com/uploads/s1/14/53/95/2/whatsapp-image-2026-03-12-at-22-32-27_4_588x353.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.hispanidad.com/sociedad/no-guerra-salvo-cuando-si_12066266_102.html",
+        "date": "2026-03-14 05:00:00",
+        "sentiment_score": -0.9099599355831742
+    },
+    {
+        "title": "La Premier League, sorprendida y desnuda en la Champions League",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/27/2025032714571191461.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/premier-sorprendida-desnuda-champions/20260314053436378580.html",
+        "date": "2026-03-14 04:34:36",
+        "sentiment_score": 0.14950884878635406
+    },
+    {
+        "title": "La consejera de Educación de Madrid cancela su presencia en un espectáculo de un colegio porque no se podía grabar: “Querían la foto”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/E7Q2UKQUCBGPPIGXPQ6FDTWL3Q.jpg?auth=fe215459ef83f8df382a0a7dcc04953d4bfdb03bcb9f634e44b00bdd4f150460&width=1200",
+        "tags": [
+            "madrid",
+            "educación",
+            "menores",
+            "medios comunicación",
+            "derechos imagen",
+            "actos públicos",
+            "fotografía",
+            "colegios públicos",
+            "prensa",
+            "comunidad de madrid",
+            "política educativa",
+            "familia",
+            "pp",
+            "isabel díaz ayuso",
+            "colegios"
+        ],
+        "link": "https://elpais.com/espana/madrid/2026-03-14/la-consejera-de-educacion-de-madrid-cancela-su-presencia-en-un-espectaculo-de-un-colegio-porque-no-se-podia-grabar-querian-la-foto.html",
+        "date": "2026-03-14 04:30:01",
+        "sentiment_score": -0.761080039665103
+    },
+    {
+        "title": "Así nació la DKW F89 Schnellaster, la inolvidable «Decauve»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/14/Foto1DKW-RFu099kB3HLoIzkX2U1UdbL-1200x840@diario_abc.jpg",
+        "tags": [
+            "diésel",
+            "seat",
+            "vitoria-gasteiz",
+            "audi (coches)",
+            "segunda guerra mundial",
+            "marca",
+            "automóviles",
+            "motor",
+            "alemania",
+            "volkswagen (coches)",
+            "jeep"
+        ],
+        "link": "https://www.ideal.es/motor/reportajes/nacio-dkw-f89-schnellaster-inolvidable-decauve-20260314072600-ntrc.html",
+        "date": "2026-03-14 06:37:15",
+        "sentiment_score": 0.4955371990799904
+    },
+    {
+        "title": "AEMET prevé lluvia y tormentas en Barcelona, con heladas y cielos despejándose por la tarde",
+        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
+        "tags": [
+            "previsión del tiempo",
+            "okd",
+            "tiempo",
+            "cataluña",
+            "agencia estatal de meteorología (aemet)",
+            "españa"
+        ],
+        "link": "https://okdiario.com/cataluna/aemet-preve-lluvia-y-tormentas-en-barcelona-con-heladas-y-cielos-despejandose-por-la-tarde-16415653",
+        "date": "2026-03-14 06:23:38",
+        "sentiment_score": 0.07661041617393494
+    },
+    {
+        "title": "Andrés Palop: «Para ganar al Barça hay que desesperarle»",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/14/PALOP-kFyE-U201164341317meD-1200x840@RC.jpg",
+        "tags": [
+            "lamine yamal",
+            "pep guardiola",
+            "f.c. barcelona"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/andres-palop-ganar-barca-desesperarle-20260314071614-ntrc.html",
+        "date": "2026-03-14 06:16:23",
+        "sentiment_score": 0.019880063831806183
+    },
+    {
+        "title": "Camisetas prohibidas y símbolos: la ropa que no deberías llevar al colegio electoral si no quieres tener problemas",
+        "image_url": "https://s2.ppllstatics.com/lagacetadesalamanca/www/multimedia/2026/03/12/votar-kJ8E-U201168387662GCB-758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "junta electoral central",
+            "elecciones autonómicas",
+            "salamanca"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/elecciones/castilla-y-leon/camisetas-prohibidas-simbolos-ropa-deberias-llevar-colegio-20260312071500-nt.html",
+        "date": "2026-03-14 06:15:01",
+        "sentiment_score": -0.3732898198068142
+    },
+    {
+        "title": "La imagen de El Calvario, bendecida en 1956, amplió el patrimonio de la cofradía de Jesús Nazareno de Cáceres",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f3e38690-1227-4129-82c4-a0d085e757f8_16-9-aspect-ratio_default_0_x491y368.jpg",
+        "tags": [
+            "semana santa",
+            "barcelona",
+            "nuestro pasado"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/caceres-local/2026/03/14/imagen-calvario-bendecida-1956-amplio-127939548.html",
+        "date": "2026-03-14 06:05:50",
+        "sentiment_score": 0.2963806241750717
+    },
+    {
+        "title": "El arte de montar una tabla de quesos, los orígenes de este aperitivo",
+        "image_url": "https://static.grupojoly.com/clip/27d034f9-c293-42d5-a603-9b337c7e5793_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "arte",
+            "origenes",
+            "quesos",
+            "tabla",
+            "montar"
+        ],
+        "link": "https://www.diariodejerez.es/gente/arte-montar-tabla-quesos-origenes_0_2006171075.html",
+        "date": "2026-03-14 06:04:08",
+        "sentiment_score": -0.232595756649971
+    },
+    {
+        "title": "Furia épica",
+        "image_url": "https://static.grupojoly.com/clip/4ac967e7-2555-41af-9592-16f12318e4f2_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "furia",
+            "epica"
+        ],
+        "link": "https://www.diariodejerez.es/miki-duarte/furia-epica_0_2006171061.html",
+        "date": "2026-03-14 06:01:05",
+        "sentiment_score": 0.5981174856424332
     }
 ];
