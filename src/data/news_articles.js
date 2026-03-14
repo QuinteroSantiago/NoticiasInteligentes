@@ -1,450 +1,5 @@
 export default [
     {
-        "title": "Kike García (Espanyol) suma ante el Real Oviedo su sexto tanto en LaLiga",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/09/kike-garcia-espanyol-suma-ante-el-real-oviedo-su-sexto-tanto-en-laliga/",
-        "date": "2026-03-09 22:17:01",
-        "sentiment_score": 0.14712458848953247
-    },
-    {
-        "title": "Arribas (Almería), con dos goles ante la Cultural, líder de nuevo con 17 goles",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/09/arribas-almeria-con-dos-goles-ante-la-cultural-lider-de-nuevo-con-17-goles/",
-        "date": "2026-03-09 22:01:08",
-        "sentiment_score": 0.5066342167556286
-    },
-    {
-        "title": "«Convertir a espectadores en creadores», la gran apuesta de Oviedo para ser capital cultural",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/788e507d-7ea6-4f71-9bd2-3cad2e17f2ce_16-9-aspect-ratio_default_0_x640y426.jpg",
-        "tags": [
-            "participación",
-            "cultura",
-            "asturias",
-            "proyecto"
-        ],
-        "link": "https://www.lne.es/oviedo/2026/03/09/convertir-espectadores-creadores-gran-apuesta-127749862.html",
-        "date": "2026-03-09 22:00:07",
-        "sentiment_score": 0.028308823704719543
-    },
-    {
-        "title": "Ester Expósito y Mbappé, ¿sorprendidos juntos en París?",
-        "image_url": "https://www.diariodeburgos.es/media/img/2026/20c96319-a90e-4473-af89bf20d9ec22f5.jpg",
-        "tags": [
-            "kylian mbappé",
-            "parís",
-            "real madrid",
-            "cayetano rivera",
-            "redes sociales",
-            "vinícius júnior"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/zf21b0fe2-875a-4959-b65f65e66bb045c1/202603/ester-exposito-y-mbappe-sorprendidos-juntos-en-paris",
-        "date": "2026-03-09 21:56:04",
-        "sentiment_score": -0.768473707139492
-    },
-    {
-        "title": "La comunidad autónoma 18 se examina en las urnas: \"Cansados de la izquierda de Madrid\" y \"del olvido del PP\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/75d9e163daab9520a2d5d04197036668/crop/606x55/2446x1894/f/image/jpeg/assets/multimedia/imagenes/2026/01/19/17687986239658.jpg",
-        "tags": [
-            "nlpremium",
-            "psoe",
-            "castilla y león",
-            "artículos candela ibáñez",
-            "vox"
-        ],
-        "link": "https://www.elmundo.es/elecciones/elecciones-castilla-y-leon/2026/03/09/69af26a1e85ece974f8b4579.html",
-        "date": "2026-03-09 21:48:55",
-        "sentiment_score": 0.3902049958705902
-    },
-    {
-        "title": "Quién es quién en la familia de Joan Manuel Serrat, que va a ser bisabuelo por partida doble",
-        "image_url": "https://www.hola.com/horizon/landscape/76d33607c136-saveclipapp61955086417984020643781557798506291874023210n.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "actualidad",
-            "candela serrat",
-            "joan manuel serrat",
-            "luna serrat"
-        ],
-        "link": "https://www.hola.com/actualidad/20260309888403/joan-manuel-serrat-bisabuelo-familia-quien-es-quien/",
-        "date": "2026-03-09 21:30:38",
-        "sentiment_score": 0.033881574869155884
-    },
-    {
-        "title": "Registran en Mallorca varias mansiones de un fabricante de armas ruso ligado a Putin",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/09/18/68cc46879b372.r_d.1905-881.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20260309/registran-mallorca-varias-mansiones-fabricante-armas-ruso-ligado-putin_394018.html",
-        "date": "2026-03-09 21:29:46",
-        "sentiment_score": -0.5126725472509861
-    },
-    {
-        "title": "Un entrenador argentino es uno de los máximos candidatos a dirigir al Real Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/77OPRAGHHNF3HO6ZWGN2ER5BWM.JPG?auth=01aba4106adf703724e1a5868d9924731d906f70f566d4095192daadf814cd6f&height=2396&smart=true&width=4260",
-        "tags": [
-            "mauricio pochettino",
-            "deportes-internacional",
-            "real madrid",
-            "florentino pérez",
-            "álbaro arbeloa",
-            "selección de estados unidos"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/09/un-entrenador-argentino-es-uno-de-los-maximos-candidatos-a-dirigir-al-real-madrid/",
-        "date": "2026-03-09 21:20:56",
-        "sentiment_score": -0.07180215418338776
-    },
-    {
-        "title": "Escandell: \"Hay que darlo todo por este escudo\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/09/escandell-hay-que-darlo-todo-por-este-escudo/",
-        "date": "2026-03-09 22:32:18",
-        "sentiment_score": 0.4579223543405533
-    },
-    {
-        "title": "Almada: \"El equipo recuperó la esencia de lo que venía demostrando\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/09/almada-el-equipo-recupero-la-esencia-de-lo-que-venia-demostrando/",
-        "date": "2026-03-09 22:31:45",
-        "sentiment_score": 0.5204125344753265
-    },
-    {
-        "title": "Alerta en Brasil: Neymar fue excluido de la convocatoria del Santos y peligra su presencia en el Mundial 2026",
-        "image_url": "https://www.infobae.com/resizer/v2/35YWWWT7HJDZRGIP4NUYLHXVLY.jpg?auth=90766ea92a1d9d93f01947e769dba647f9bcf94979ad732fb0007fb82bc8bdfc&height=1152&smart=true&width=2048",
-        "tags": [
-            "deportes-internacional",
-            "santos fc",
-            "selección de brasil",
-            "neymar",
-            "carlo ancelotti",
-            "mundial 2026"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/09/alerta-en-brasil-neymar-fue-excluido-de-la-convocatoria-del-santos-y-peligra-su-presencia-en-el-mundial-2026/",
-        "date": "2026-03-09 22:30:39",
-        "sentiment_score": -0.4624016433954239
-    },
-    {
-        "title": "Barcelona ultima el traslado de más de 500 trabajadores municipales a un nuevo edificio del 22@",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/09/informacion-municipal/1003742739802_15805673_1706x960.jpg",
-        "tags": [
-            "oficinas barcelona",
-            "ayuntamiento de barcelona",
-            "información municipal",
-            "22@"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260309/barcelona-ultima-traslado-trabajadores-municipales-nuevo-edificio/1003742739739_0.html",
-        "date": "2026-03-09 22:30:00",
-        "sentiment_score": 0.34376293793320656
-    },
-    {
-        "title": "Sant Feliu rescata el parking de Can Ricart tras más de dos años cerrado y un proceso judicial",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/09/gran-barcelona/1003742739579_15802993_1706x960.jpg",
-        "tags": [
-            "baix llobregat",
-            "obras",
-            "gran barcelona",
-            "sant feliu de llobregat"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260309/sant-feliu-rescata-parking-can-ricart-anos-cerrado-proceso-judicial/1003742738704_0.html",
-        "date": "2026-03-09 22:30:00",
-        "sentiment_score": 0.49643997848033905
-    },
-    {
-        "title": "Salud y adrenalina: claves para disfrutar de deportes extremos a partir de los 50",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/09/vivir-en-barcelona/1003742739676_15804029_1706x960.jpg",
-        "tags": [
-            "salud",
-            "deportes",
-            "quirónsalud barcelona",
-            "vivir en barcelona",
-            "branded content",
-            "medicina",
-            "contenido crítico"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260309/salud-adrenalina-claves-disfrutar-deportes-extremos-partir/1003742739674_0.html",
-        "date": "2026-03-09 22:30:00",
-        "sentiment_score": 0.8211458940058947
-    },
-    {
-        "title": "Golpe al grupo Lancaster: la empresa pierde el 'Carita Morena', su último chiringuito en Castelldefels",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/06/14/gastro/1003742665937_14731424_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "playas",
-            "empresas barcelona",
-            "contratos barcelona",
-            "bares y restaurantes",
-            "castelldefels"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260309/golpe-grupo-lancaster-empresa-pierde-carita-morena-ultimo-chiringuito-castelldefels/1003742738373_0.html",
-        "date": "2026-03-09 22:30:00",
-        "sentiment_score": -0.22407206892967224
-    },
-    {
-        "title": "Paga 5,25 euros por un donut en Madrid y su veredicto es claro",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2025/11/18/un-donut.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/paga-525-euros-donut-madrid-veredicto-claro-f202603.html",
-        "date": "2026-03-09 22:29:19",
-        "sentiment_score": 0.22104483842849731
-    },
-    {
-        "title": "La comedia de Broadway 'Tootsie' aterriza en Málaga con una versión actualizada que promete multiplicar las risas",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/09/69af48e7ae550.jpeg",
-        "tags": [
-            "málaga - antequera - benalmádena"
-        ],
-        "link": "https://www.cope.es/emisoras/andalucia/malaga-provincia/malaga/noticias/comedia-broadway-tootsie-aterriza-malaga-version-actualizada-promete-multiplicar-risas-20260309_3323025.html",
-        "date": "2026-03-09 22:28:05",
-        "sentiment_score": -0.008995294570922852
-    },
-    {
-        "title": "Reconocimiento al ingenio en los Premios Canarias 2026",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/be8a1824-4e8d-4bc1-908a-1dcbb9651095_16-9-aspect-ratio_default_0_x465y369.jpg",
-        "tags": [
-            "canarias",
-            "integración",
-            "premios",
-            "trabajo"
-        ],
-        "link": "https://www.laprovincia.es/canarias/2026/03/09/reconocimiento-ingenio-premios-canarias-2026-127759663.html",
-        "date": "2026-03-09 22:21:45",
-        "sentiment_score": -0.01669982075691223
-    },
-    {
-        "title": "James Rodríguez ya le puso fecha a su debut con el Minnesota United, al que llegó para preparar la Copa del Mundo que jugará con Colombia",
-        "image_url": "https://www.infobae.com/resizer/v2/JEL3ZZLBIBHQ7JJO7VKOKKCW7A.jpg?auth=24d1329f7fb393877a0560935e6a5d728a0fcd41ab0d9a220af4b1988be9144f&height=685&smart=true&width=1080",
-        "tags": [
-            "mls",
-            "mundial 2026",
-            "selección colombia",
-            "copa del mundo 2026",
-            "minnesota united",
-            "néstor lorenzo",
-            "james rodríguez",
-            "colombia-deportes"
-        ],
-        "link": "https://www.infobae.com/colombia/2026/03/10/james-rodriguez-ya-le-puso-fecha-a-su-debut-con-el-minnesota-united-al-que-llego-para-preparar-la-copa-del-mundo-que-jugara-con-colombia/",
-        "date": "2026-03-10 02:37:23",
-        "sentiment_score": 0.09644802287220955
-    },
-    {
-        "title": "La postura de Pablo Aimar al ser consultado por la sede de la Finalíssima entre Argentina y España",
-        "image_url": "https://www.infobae.com/resizer/v2/NZO2UVMZBNFI7E5UG3BJSPMH4Q.JPG?auth=77597dad954e7ff79b32bf81ed7ba92ac67bac57d1754dbebb964b7b67dfc12d&height=1284&smart=true&width=2283",
-        "tags": [
-            "pablo aimar",
-            "finalissima",
-            "selección argentina",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/10/la-postura-de-pablo-aimar-al-ser-consultado-por-la-sede-de-la-finalissima-entre-argentina-y-espana/",
-        "date": "2026-03-10 01:54:52",
-        "sentiment_score": -0.8855372043326497
-    },
-    {
-        "title": "Angrisano dejó NNGG al saber que le iban a expulsar y tras una bronca con Fanjul: ahora vive en Ecuador, en el círculo de Noboa",
-        "image_url": "https://s3.elespanol.com/2026/03/09/actualidad/1003744162636_261849668_1706x960.jpg",
-        "tags": [
-            "partido popular (pp)",
-            "juan carlos girauta",
-            "nuevas generaciones",
-            "daniel noboa",
-            "ecuador",
-            "parlamento europeo",
-            "vox",
-            "guayaquil",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260310/angrisano-dejo-nngg-saber-iban-expulsar-bronca-fanjul-ahora-vive-ecuador-circulo-noboa/1003744161448_0.html",
-        "date": "2026-03-10 01:53:16",
-        "sentiment_score": 0.14863859117031097
-    },
-    {
-        "title": "Justin Quiles y Lenny Tavárez revolucionan la música con “Superarte”: por qué querían cerrar un ciclo y los secretos de su bro-mance",
-        "image_url": "https://www.infobae.com/resizer/v2/ON6JXQ637VBBLG3UFFJ5W4G7BA.jpg?auth=80cadcfd39087572cfd0cd2fa4262eb3ca237b5f34c88078d0a6efc4da888001&height=2340&smart=true&width=4159",
-        "tags": [
-            "justin quiles",
-            "lenny tavarez"
-        ],
-        "link": "https://www.infobae.com/entretenimiento/2026/03/10/justin-quiles-y-lenny-tavarez-revolucionan-la-musica-con-superarte-por-que-querian-cerrar-un-ciclo-y-los-secretos-de-su-bro-mance/",
-        "date": "2026-03-10 01:37:23",
-        "sentiment_score": 0.7134195258840919
-    },
-    {
-        "title": "¿Piloto a los 17? Daniel Luis es el joven que vuela más alto en Tenerife",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/54b771f9-51df-4d7d-b2e4-74bee43a06d0_16-9-discover-aspect-ratio_default_0_x872y387.jpg",
-        "tags": [
-            "piloto",
-            "padres",
-            "vueling",
-            "tenerife",
-            "iberia express",
-            "daniel",
-            "madrid",
-            "iberia",
-            "formación"
-        ],
-        "link": "https://www.eldia.es/tenerife/2026/03/10/piloto-17-daniel-luis-joven-127757671.html",
-        "date": "2026-03-10 01:17:01",
-        "sentiment_score": -0.017184913158416748
-    },
-    {
-        "title": "El tiempo se le acaba al Oviedo en LaLiga: ¿será el descenso su único destino posible?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/14/2025121416510213695.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/tiempo-acaba-oviedo-sera-descenso-unico-destino-posible/20260310020828377881.html",
-        "date": "2026-03-10 01:08:28",
-        "sentiment_score": -0.9072922710329294
-    },
-    {
-        "title": "Madrid-Man City y PSG-Chelsea lideran octavos de Champions. Bodø/Glimt debuta",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/c2b3591/2147483647/strip/true/crop/2949x1548+0+209/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe5%2Fdc%2Fa4084a884ca189deab49a4898004%2F626521cfc17b4423b23971ce932e1df2.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-09/madrid-man-city-y-psg-chelsea-lideran-octavos-de-champions-bod-glimt-debuta",
-        "date": "2026-03-10 00:58:49",
-        "sentiment_score": 0.8628956563770771
-    },
-    {
-        "title": "El cabreo silenciado de Xavi Hernández con Hansi Flick: una historia de traición y perdón",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/09/culemania/primer-equipo/1003742739842_15806209_1706x960.jpg",
-        "tags": [
-            "xavi hernández",
-            "primer equipo",
-            "hansi flick",
-            "barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260310/silenciado-xavi-hernandez-hansi-flick-historia-traicion/1003742739841_0.html",
-        "date": "2026-03-10 00:28:43",
-        "sentiment_score": -0.11615084111690521
-    },
-    {
-        "title": "Dani Ceballos y Luna Serrat anuncian que serán padres de gemelos",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/24/2025042407333033944.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/dani-ceballos-luna-serrat-anuncian-que-seran-padres-gemelos/20260310005054377876.html",
-        "date": "2026-03-09 23:50:54",
-        "sentiment_score": 0.2952655330300331
-    },
-    {
-        "title": "Real Madrid vs. Manchester City: Mbappé no estará en el Bernabéu",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/19/2025101923111111708.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/real-madrid-vs-manchester-city-mbappe-estara-bernabeu/20260310003648377875.html",
-        "date": "2026-03-09 23:36:48",
-        "sentiment_score": -0.7849851055070758
-    },
-    {
-        "title": "Cerámica con Adelina al fondo",
-        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "adelina",
-            "ceramica",
-            "fondo"
-        ],
-        "link": "https://www.granadahoy.com/opinion/articulos/ceramica-adelina-fondo_0_2006121224.html",
-        "date": "2026-03-10 02:08:12",
-        "sentiment_score": 0.34952858090400696
-    },
-    {
-        "title": "No a la guerra",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "guerra",
-            "no"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/no-guerra_0_2006121199.html",
-        "date": "2026-03-10 02:08:01",
-        "sentiment_score": -0.8146261796355247
-    },
-    {
-        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 10 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima",
-            "clima en españa",
-            "clima en barcelona",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/10/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-10-de-marzo/",
-        "date": "2026-03-10 02:01:15",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "Laporta saca los colmillos por la comisión de Darren Dein sobre Nike: los 28 millones en 14 años que enfurecen a Font",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/10/culemania/palco/1003742739855_15806351_1706x960.jpg",
-        "tags": [
-            "víctor font",
-            "joan laporta",
-            "palco",
-            "nike",
-            "fc barcelona"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260310/laporta-colmillos-darren-dein-nike-enfurecen-font/1003742739849_0.html",
-        "date": "2026-03-10 01:35:23",
-        "sentiment_score": -0.4102041572332382
-    },
-    {
-        "title": "Neymar quedó fuera de la convocatoria del Santos y crece la incertidumbre por el Mundial",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/neymar-jr-brasil-santos-fc.jpg",
-        "tags": [
-            "titulares",
-            "brasil",
-            "mundial 2026",
-            "neymar",
-            "carlo ancelotti",
-            "deportes",
-            "santos"
-        ],
-        "link": "https://lapatilla.com/2026/03/09/neymar-quedo-fuera-de-la-convocatoria-del-santos-y-crece-la-incertidumbre-por-el-mundial/",
-        "date": "2026-03-10 01:26:59",
-        "sentiment_score": 0.11847667396068573
-    },
-    {
-        "title": "Rafa Márquez celebra la vida de su 'princesa', su hija Rafaella",
-        "image_url": "https://www.hola.com/horizon/landscape/9048f165681c-gettyimages-2157851739.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.hola.com/us-es/celebrities/20260310888450/rafa-marquez-celebra-cumpleanios-21-hija-rafaella/",
-        "date": "2026-03-10 01:04:56",
-        "sentiment_score": 0.53996242582798
-    },
-    {
-        "title": "Multiverse Computing pelea desde San Sebastián por el talento más escaso de la IA",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/8c4a0fe11be746211a82ee07c4f76cd9/crop/360x240/1800x1200/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/09/17730670741097.jpg",
-        "tags": [
-            "tecnología>",
-            "empleo>",
-            "emprendedores>",
-            "artículos miriam prieto>"
-        ],
-        "link": "https://www.expansion.com/economia-digital/companias/2026/03/10/69ab0279e5fdea67408b4578.html",
-        "date": "2026-03-10 01:01:14",
-        "sentiment_score": 0.6903282925486565
-    },
-    {
         "title": "Newcastle - Barcelona: Hora, alineaciones y dónde ver el partido de ida de octavos de final de Champions League en directo",
         "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2026/03/09/F04407CC-856E-4922-954F-83AACD27F0B9/rashford-newcastle-barca-liguilla-champions-league-2025-2026_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
         "tags": [
@@ -3158,5 +2713,205 @@ export default [
         "link": "https://es.ara.cat/politica/gana-terreno-vez-individualistas_1_5676959.html",
         "date": "2026-03-13 06:03:14",
         "sentiment_score": -0.1804646998643875
+    },
+    {
+        "title": "Posponen reunión entre Delcy Rodríguez y Gustavo Petro por “motivos de fuerza mayor”",
+        "image_url": "https://static.wixstatic.com/media/335561_b22878d33b964f2d937ca9f33a59f77c~mv2.png/v1/fit/w_845,h_471,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/posponen-reuni%C3%B3n-entre-delcy-rodr%C3%ADguez-y-gustavo-petro-por-motivos-de-fuerza-mayor",
+        "date": "2026-03-13 11:35:23",
+        "sentiment_score": 0.042054034769535065
+    },
+    {
+        "title": "\"Boom Boom\": la propaganda estadounidense frente a la realidad de la guerra con Irán",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/6b/media_thumb-link-4156344.webp?1773327546=",
+        "tags": [
+            "medios",
+            "eeuu",
+            "propaganda",
+            "guerra",
+            "iran"
+        ],
+        "link": "https://www.meneame.net/story/boom-boom-propaganda-estadounidense-frente-realidad-guerra-iran",
+        "date": "2026-03-13 03:00:06",
+        "sentiment_score": -0.7072157971560955
+    },
+    {
+        "title": "El sándwich más bueno del mundo es obra de una estudiante española (y su secreto es la mantequilla de pepinillos)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c22d1d74-145b-4ec2-b120-e768cfa7ef5e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "hostelería,concurso,comidas,gastronomía"
+        ],
+        "link": "https://www.laopiniondezamora.es/vida-y-estilo/2026/03/13/sandwich-bueno-mundo-obra-estudiante-127936442.html",
+        "date": "2026-03-13 17:35:14",
+        "sentiment_score": 0.12648752331733704
+    },
+    {
+        "title": "La imagen de Mbappé que dispara la ilusión del madridismo: Ya toca balón y su vuelta se acerca",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/03/13/image-9df041f9-4578-48b1-9fe9-5bb4355e786e-85-2560-1440.jpeg",
+        "tags": [
+            "la liga 2025/2026",
+            "football"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/mbappe-imagen-dispara-ilusion-real-madrid-ya-toca-balon-vuelta-se-acerca_sto23280633/story.shtml",
+        "date": "2026-03-13 17:31:29",
+        "sentiment_score": 0.525027222931385
+    },
+    {
+        "title": "Las 10 profesiones más expuestas a la inteligencia artificial: descubre si la tuya está en riesgo",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260313182843_690.jpg",
+        "tags": [
+            "economía finanzas",
+            "laboral"
+        ],
+        "link": "https://www.europapress.es/economia/laboral-00346/noticia-10-profesiones-mas-expuestas-inteligencia-artificial-descubre-si-tuya-riesgo-20260313182843.html",
+        "date": "2026-03-13 17:28:43",
+        "sentiment_score": 0.21656838804483414
+    },
+    {
+        "title": "El MICFootball bate récord con 464 equipos y más de 8.500 jugadores en la Costa Brava",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260313182657_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-micfootball-bate-record-464-equipos-mas-8500-jugadores-costa-brava-20260313182657.html",
+        "date": "2026-03-13 17:26:57",
+        "sentiment_score": 0.6451308224350214
+    },
+    {
+        "title": "Lamine Yamal regresa a tiempo para el duelo del Barcelona ante Sevilla",
+        "image_url": "https://noticialdia.com/wp-content/firewall/uploads/2026/03/NHYDHYW5FBP4NGZFDP2E3F2SOA.jpg",
+        "tags": [
+            "laliga",
+            "sevilla",
+            "deportes",
+            "barcelona",
+            "lamine yamal"
+        ],
+        "link": "https://noticialdia.com/deportes/lamine-yamal-regresa-a-tiempo-para-el-duelo-del-barcelona-ante-sevilla/",
+        "date": "2026-03-13 17:21:56",
+        "sentiment_score": -0.5161843448877335
+    },
+    {
+        "title": "El Ibex 35 pierde los 17.100 puntos en la semana, con el petróleo en 101 dólares",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260313181907_690.jpg",
+        "tags": [
+            "economía finanzas",
+            "finanzas"
+        ],
+        "link": "https://www.europapress.es/economia/finanzas-00340/noticia-ibex-35-pierde-17100-puntos-semana-petroleo-101-dolares-20260313181907.html",
+        "date": "2026-03-13 17:19:07",
+        "sentiment_score": -0.1842772364616394
+    },
+    {
+        "title": "El MNAR de Mérida organiza un taller infantil el 20 de marzo con motivo del IV Día del Cómic y del Tebeo",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260313181856_260.jpg",
+        "tags": [
+            "extremadura"
+        ],
+        "link": "https://www.europapress.es/extremadura/noticia-mnar-merida-organiza-taller-infantil-20-marzo-motivo-iv-dia-comic-tebeo-20260313181856.html",
+        "date": "2026-03-13 17:18:56",
+        "sentiment_score": 0.4567892514169216
+    },
+    {
+        "title": "(Previa) La Real Sociedad quiere arrebatar al Real Madrid la segunda plaza en la Liga F Moeve",
+        "image_url": "https://www.infobae.com/resizer/v2/KL3ZX3KSIZCRFF3AS6BME7YOXM.jpg?auth=54ab12e3dcb50c39d5b1ba92fad771b43eadfe416aebc445768532526d130a9d&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/13/previa-la-real-sociedad-quiere-arrebatar-al-real-madrid-la-segunda-plaza-en-la-liga-f-moeve/",
+        "date": "2026-03-13 17:17:14",
+        "sentiment_score": -0.7669262569397688
+    },
+    {
+        "title": "Previa del Real Madrid-Elche CF",
+        "image_url": "https://www.infobae.com/resizer/v2/XAUXU3J3TVEWRHPGWC6HKWGOBE.jpg?auth=53b0cd3044c36279d513a9f671b898d3e6836d28a0e492ae887cb1bce367a378&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/13/previa-del-real-madrid-elche-cf/",
+        "date": "2026-03-13 17:16:12",
+        "sentiment_score": -0.021009013056755066
+    },
+    {
+        "title": "La científica que cambió la vida de Marisol Soengas con una sola frase: \"Te doy una oportunidad\"",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/13/2026031318131498992.jpg",
+        "tags": [
+            "podcast"
+        ],
+        "link": "https://www.mundiario.com/articulo/podcast-mundiario/margarita-salas-cambio-vida-marisol-soengas-oportunidad-cnio-melanoma/20260313181439378524.html",
+        "date": "2026-03-13 17:14:39",
+        "sentiment_score": 0.2567756772041321
+    },
+    {
+        "title": "Collboni en Tarragona: \"Catalunya necesita dos grandes áreas metropolitanas\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260313183530_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-collboni-tarragona-catalunya-necesita-dos-grandes-areas-metropolitanas-20260313183530.html",
+        "date": "2026-03-13 17:35:30",
+        "sentiment_score": 0.08386312425136566
+    },
+    {
+        "title": "Antonia tiene 69 años y lleva 11.000 euros gastados en el carnet de conducir: \"Lo llevo intentando 20 años\"",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/03/13/AE5497B1-8487-4196-AAAE-07762DC9AF63/antonia_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "programas",
+            "antena3",
+            "y ahora sonsoles"
+        ],
+        "link": "https://www.antena3.com/programas/y-ahora-sonsoles/antonia-tiene-69-anos-lleva-11000-euros-gastados-carnet-conducir-llevo-intentando-20-anos_2026031369b44a336cf703292f6f968f.html",
+        "date": "2026-03-13 17:32:35",
+        "sentiment_score": -0.3936043828725815
+    },
+    {
+        "title": "La esperada cita de los reyes con León XIV: el anuncio oficial que toda España estaba esperando",
+        "image_url": "https://www.elconfidencialdigital.com/media/monarquiaconfidencial/images/2025/05/19/2025051919103658168.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elconfidencialdigital.com/monarquia/articulo/espana/esperada-cita-reyes-leon-xiv-anuncio-oficial-que-toda-espana-estaba-esperando/20260313182945150094.html",
+        "date": "2026-03-13 17:29:45",
+        "sentiment_score": 0.19360272586345673
+    },
+    {
+        "title": "Aparece un delfín muerto en una playa de Mataró",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/13/actualidad/1003742741295_15825180_1706x960.jpg",
+        "tags": [
+            "playas",
+            "animales",
+            "gran barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260313/aparece-delfin-muerto-playa-mataro/1003742741290_0.html",
+        "date": "2026-03-13 17:25:13",
+        "sentiment_score": -0.858863627538085
+    },
+    {
+        "title": "El PP pide al Govern un fondo de 50 millones para empresas ante el encarecimiento del petróleo",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260313182218_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-pp-pide-govern-fondo-50-millones-empresas-encarecimiento-petroleo-20260313182218.html",
+        "date": "2026-03-13 17:22:18",
+        "sentiment_score": 0.005327701568603516
+    },
+    {
+        "title": "Collboni rompe con 20 años sin visitas oficiales de alcaldes de Barcelona a Tarragona: \"Catalunya necesita dos grandes áreas metropolitanas\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cf7555f9-c909-4176-b2b0-22e275df713c_alta-libre-aspect-ratio_default_0_x800y399.jpg",
+        "tags": [
+            "tarragona",
+            "amt (área metropolitana de tarragona)",
+            "ayuntamiento de tarragona",
+            "barcelona",
+            "amb ( área metropolitana de barcelona )"
+        ],
+        "link": "https://www.elperiodico.com/es/tarragona/20260313/collboni-rompe-20-anos-visitas-127936400",
+        "date": "2026-03-13 17:19:15",
+        "sentiment_score": 0.08454027771949768
     }
 ];
