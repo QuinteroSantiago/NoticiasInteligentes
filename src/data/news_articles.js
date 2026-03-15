@@ -1,458 +1,5 @@
 export default [
     {
-        "title": "La inmigración y los incendios marcan un bronco debate electoral a tres en Castilla y León",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/68f47233-d51c-45a8-8ee1-bd2b1fc06d48_16-9-aspect-ratio_default_0_x750y312.jpg",
-        "tags": [
-            "castilla y león,partido popular,junta de castilla y león,comunidad,incendios,inmigración,pp,elecciones autonómicas en castilla y león 2026"
-        ],
-        "link": "https://www.laopiniondezamora.es/castilla-leon/2026/03/10/inmigracion-incendios-marcan-bronco-debate-127805999.html",
-        "date": "2026-03-10 22:32:17",
-        "sentiment_score": -0.9367548199370503
-    },
-    {
-        "title": "CTA reconoce que el árbitro falló a favor del Real Madrid ante Getafe",
-        "image_url": "https://pxcdn.meridiano.net/032026/1773180870997.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/cta-reconoce-que-el-arbitro-fallo-a-favor-del-real-madrid-ante-getafe-202631018180",
-        "date": "2026-03-10 22:18:00",
-        "sentiment_score": -0.18476508185267448
-    },
-    {
-        "title": "Cyber Embajadoras pone el foco en la formación para impulsar el talento femenino en ciberseguridad",
-        "image_url": "https://cybersecuritynews.es/wp-content/uploads/2026/03/cyber-embajadoras.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://cybersecuritynews.es/cyber-embajadoras-pone-el-foco-en-la-formacion-para-impulsar-el-talento-femenino-en-ciberseguridad/",
-        "date": "2026-03-10 22:00:00",
-        "sentiment_score": 0.49831321090459824
-    },
-    {
-        "title": "El Atlético le da al Tottenham un manotazo de Champions",
-        "image_url": "https://okdiario.com/img/2026/03/10/cronica-atletico-interior-14.jpg",
-        "tags": [
-            "champions league",
-            "atlético de madrid",
-            "fútbol",
-            "deportes",
-            "tottenham hotspur"
-        ],
-        "link": "https://okdiario.com/deportes/atletico-da-tottenham-manotazo-champions-16391748",
-        "date": "2026-03-10 21:58:15",
-        "sentiment_score": -0.413564071059227
-    },
-    {
-        "title": "Martínez defiende que \"nunca\" sale a por el \"bronce\" y pide el voto para \"modernizar y transformar\" CyL",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260310225747_690.jpg",
-        "tags": [
-            "castilla y león"
-        ],
-        "link": "https://www.europapress.es/castilla-y-leon/noticia-martinez-defiende-nunca-sale-bronce-pide-voto-modernizar-transformar-cyl-20260310225747.html",
-        "date": "2026-03-10 21:57:47",
-        "sentiment_score": -0.21610510349273682
-    },
-    {
-        "title": "Muere un peatón en silla de ruedas tras ser arrollado por un camión",
-        "image_url": "https://www.clm24.es/media/clm24/images/2025/02/21/2025022110485832989.jpg",
-        "tags": [
-            "sucesos"
-        ],
-        "link": "https://www.clm24.es/articulo/sucesos/muere-peaton-silla-ruedas-atropellado-camion/20260310224734472749.html",
-        "date": "2026-03-10 21:47:34",
-        "sentiment_score": -0.8374212412163615
-    },
-    {
-        "title": "Confirmado por el CTA: el VAR perdonó la roja a Rüdiger por \"conducta violenta\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9170f0b8-2e8c-4b58-a3ec-d820e83ea33e_16-9-aspect-ratio_default_0_x718y253.jpg",
-        "tags": [
-            "var,getafe,real madrid,valverde,laliga,antonio rüdiger,roja,diego rico,agresión,árbitro,perdón"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2026/03/10/confirmado-arbitros-var-perdona-roja-conducta-violenta-rudiger-127803323.html",
-        "date": "2026-03-10 21:22:36",
-        "sentiment_score": -0.6692031286656857
-    },
-    {
-        "title": "Paco Arango, presidente de la Fundación Aladina: \"He acompañado a muchos niños con cáncer y eso me dió una butaca en primera fila del mayor espectáculo del amor\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/083cae4b-ab94-4b48-9809-853e6b457c6d_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "dios",
-            "jesús",
-            "cáncer",
-            "familia",
-            "fundación",
-            "adolescentes",
-            "niños"
-        ],
-        "link": "https://www.lne.es/asturias-exterior/2026/03/10/paco-arango-presidente-fundacion-aladina-127802840.html",
-        "date": "2026-03-10 21:16:34",
-        "sentiment_score": -0.20858769118785858
-    },
-    {
-        "title": "Haizam Amirah Fernández, experto en Oriente Medio: “Un cierre de Ormuz es un arma de destrucción masiva socioeconómica”",
-        "image_url": "https://static.eldiario.es/clip/8f4eefb2-454a-403b-8743-093c9965c272_16-9-discover-aspect-ratio_default_1138354.jpg",
-        "tags": [
-            "socioeconomica",
-            "cierre",
-            "experto",
-            "fernandez",
-            "haizam",
-            "oriente",
-            "arma",
-            "masiva",
-            "destruccion",
-            "medio",
-            "ormuz",
-            "amirah"
-        ],
-        "link": "https://www.eldiario.es/economia/haizam-amirah-fernandez-experto-oriente-medio-cierre-ormuz-arma-destruccion-masiva-socioeconomica_1_13056861.html",
-        "date": "2026-03-10 21:14:23",
-        "sentiment_score": -0.28701265156269073
-    },
-    {
-        "title": "Philippe Lazzarini: \"Hay que mantenerse firmes, porque si no hay derecho internacional se impone la ley de la selva”",
-        "image_url": "https://static.eldiario.es/clip/6d382023-472b-44fb-b469-f53998cac2c4_16-9-discover-aspect-ratio_default_1138371.jpg",
-        "tags": [
-            "firmes",
-            "no",
-            "lazzarini",
-            "derecho",
-            "philippe",
-            "ley",
-            "selva",
-            "impone",
-            "internacional",
-            "hay",
-            "mantenerse",
-            "si"
-        ],
-        "link": "https://www.eldiario.es/internacional/philippe-lazzarini-hay-mantenerse-firmes-si-no-hay-derecho-internacional-impone-ley-selva_128_13057372.html",
-        "date": "2026-03-10 21:14:22",
-        "sentiment_score": -0.19515402615070343
-    },
-    {
-        "title": "El pesimismo de Minguella con el empate del Barcelona en Champions: \"Hay que ser realista y ver que las posibilidades a grandes retos no son muchos\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/10/69b09917e5644.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/empate-barcelona-pesimismo-minguella-hay-realista-ver-posibilidades-grandes-retos-no-son-20260310_3323902.html",
-        "date": "2026-03-10 22:33:09",
-        "sentiment_score": -0.07448667287826538
-    },
-    {
-        "title": "El Barcelona sale vivo de St James' Park (1-1)",
-        "image_url": "https://cflvdg.avoz.es/sc/xSygllCv8rUUXc2Yn39FySP7n_s=/768x/2026/03/10/00121773180541973456929/Foto/efe_20260310_214411774.jpg",
-        "tags": [
-            "deportes",
-            "baloncesto",
-            "fc barcelona",
-            "leb oro"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/03/10/barcelona-sale-vivo-st-james-park-1-1/00031773180553359234793.htm",
-        "date": "2026-03-10 22:33:00",
-        "sentiment_score": 0.3760092854499817
-    },
-    {
-        "title": "La reacción de preocupación de Dani Senabre tras el empate del Barça ante el Newcastle en la Champions: \"Viendo el partido, es para dar volteretas hacia atrás\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/reaccion-preocupacion-dani-senabre-empate-barca-newcastle-champions-viendo-partido-dar-volteretas-20260310_3323901.html",
-        "date": "2026-03-10 22:30:49",
-        "sentiment_score": -0.08787107467651367
-    },
-    {
-        "title": "Crónica del Newcastle - FC Barcelona: 1-1",
-        "image_url": "https://www.infobae.com/resizer/v2/YD2SENXVJFGJFF2IHIBZUX4DGI.jpg?auth=5acb0c9dcdd3674f933cb3ef02481d0a1e9ac7891c6125ba810d7abc21758fa5&height=1257&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/10/cronica-del-newcastle-fc-barcelona-1-1/",
-        "date": "2026-03-10 22:30:48",
-        "sentiment_score": -0.03162077069282532
-    },
-    {
-        "title": "El Barcelona respira hondo al final con el gol de Lamine Yamal (1-1)",
-        "image_url": "https://static.grupojoly.com/clip/e50d0172-b2e8-4167-a54a-131232f60286_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "yamal",
-            "respira",
-            "lamine",
-            "gol",
-            "final",
-            "hondo",
-            "barcelona",
-            "1-1"
-        ],
-        "link": "https://www.malagahoy.es/deportes/barcelona-respira-hondo-final-gol-lamine-yamal-1-1_0_2006129672.html",
-        "date": "2026-03-10 22:30:22",
-        "sentiment_score": -0.0401587188243866
-    },
-    {
-        "title": "El Castillo de Castelldefels abrirá por primera vez un bar en sus renovados jardines",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/06/gran-barcelona/1003742739010_15796029_1706x960.jpg",
-        "tags": [
-            "contratos barcelona",
-            "economía",
-            "castelldefels - noticias",
-            "gran barcelona",
-            "edificios históricos",
-            "gastronomía",
-            "bares y restaurantes",
-            "historia"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260310/castillo-castelldefels-abrira-primera-vez-bar-renovados-jardines/1003742738989_0.html",
-        "date": "2026-03-10 22:30:00",
-        "sentiment_score": 0.4099466875195503
-    },
-    {
-        "title": "Viladecans rechaza instalar cámaras de vigilancia para evitar robos en el Parc Agrari: \"Es caro, ineficaz e innecesario\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/04/01/vivir-en-barcelona/935666450_14354988_1706x960.jpg",
-        "tags": [
-            "viladecans",
-            "parc agrari",
-            "baix llobregat",
-            "gran barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260310/viladecans-rechaza-instalar-camaras-vigilancia-evitar-robos-parc-agraries-caro-ineficaz-innecesario/1003742739557_0.html",
-        "date": "2026-03-10 22:30:00",
-        "sentiment_score": -0.8015044946223497
-    },
-    {
-        "title": "A qué hora juega Real Madrid vs Manchester City en Perú: partido por octavos de final ida de Champions League 2026",
-        "image_url": "https://www.infobae.com/resizer/v2/3WIXAAXZMRDLFIGO7YAP6H3HFY.jpg?auth=32475711c62ab4717fc8ba36cc573f618af11b4616ea4ff14bc8937cc913bbbe&height=1080&smart=true&width=1920",
-        "tags": [
-            "manchester city",
-            "peru-deportes",
-            "champions league",
-            "real madrid"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2026/03/11/a-que-hora-juega-real-madrid-vs-manchester-city-partido-bernabeu-octavos-de-final-ida-champions-league-2026/",
-        "date": "2026-03-11 02:18:39",
-        "sentiment_score": 0.20284447073936462
-    },
-    {
-        "title": "La declaración de Julián Álvarez sobre su futuro que encendió todas las alarmas en el Atlético de Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/LDFJUOEMWFE2LMALG35SJRM2OQ.JPG?auth=4b450d15da0f0cbdd9624c2287e8b620b14b2caeed2b110ec0dee16862f91290&height=3413&smart=true&width=4779",
-        "tags": [
-            "deportes-argentina",
-            "champions league",
-            "tottenham",
-            "julián álvarez",
-            "atlético de madrid"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/11/la-declaracion-de-julian-alvarez-sobre-su-futuro-que-encendio-todas-las-alarmas-en-el-atletico-de-madrid/",
-        "date": "2026-03-11 02:03:34",
-        "sentiment_score": 0.6720554456114769
-    },
-    {
-        "title": "Deportes | La conexión portuguesa pide paso en el Elche CF de cara a la cita del Bernabéu",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1798244.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/la-conexion-portuguesa-pide-paso-en-el-elche-cf-de-cara-a-la-cita-del-bernabeu",
-        "date": "2026-03-11 02:00:32",
-        "sentiment_score": 0.1128176599740982
-    },
-    {
-        "title": "Los clientes de Digi disparan las quejas por fallos del servicio en 2025 en plena puesta en marcha de su red móvil propia",
-        "image_url": "https://s3.elespanol.com/2025/11/12/actualidad/1003744010943_259899447_1706x960.jpg",
-        "tags": [
-            "fibra óptica",
-            "5g",
-            "telecomunicaciones",
-            "tecnología",
-            "telefonía",
-            "apagón en españa"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/tecnologia/20260311/clientes-digi-disparan-quejas-fallos-servicio-plena-puesta-marcha-red-movil-propia/1003744158301_0.html",
-        "date": "2026-03-11 01:40:12",
-        "sentiment_score": -0.10050550103187561
-    },
-    {
-        "title": "La Elbphilharmonie de Hamburgo y el nuevo mapa cultural que está redefiniendo el viaje en Europa",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7887285",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5803238/elbphilharmonie-hamburgo-nuevo-mapa-cultural-esta-redefiniendo-viaje-europa",
-        "date": "2026-03-11 01:26:09",
-        "sentiment_score": -0.012836463749408722
-    },
-    {
-        "title": "Empresas ofrecen vacantes para perfiles técnicos y tecnólogos colombianos en España y Canadá, con sueldos de hasta $10 millones",
-        "image_url": "https://www.infobae.com/resizer/v2/GFA3F4OHKJFJBC76HGUHHX73SQ.JPG?auth=fa34445368c88204de9d3c654bc672054d48659e5bc9f9e8982c2c915e583714&height=2908&smart=true&width=4362",
-        "tags": [
-            "trabajo en canadá",
-            "formación técnica",
-            "colombia-noticias",
-            "colombia-servicios",
-            "españa",
-            "vacantes sena",
-            "agencia pública de empleo"
-        ],
-        "link": "https://www.infobae.com/colombia/2026/03/11/empresas-ofrecen-vacantes-para-perfiles-tecnicos-y-tecnologos-colombianos-en-espana-y-canada-con-sueldos-de-hasta-10-millones/",
-        "date": "2026-03-11 01:22:32",
-        "sentiment_score": 0.3935065884143114
-    },
-    {
-        "title": "Mano dura en la NBA: Luka Doncic recibe fuerte multa por gestos inapropiados",
-        "image_url": "https://pxcdn.meridiano.net/032026/1773193050335.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/usa/baloncesto/nba/mano-dura-en-la-nba-luka-doncic-recibe-fuerte-multa-por-gestos-inapropiados-20263102190",
-        "date": "2026-03-11 01:09:00",
-        "sentiment_score": -0.8614486381411552
-    },
-    {
-        "title": "Las autonomías cogen el timón de la aceleración espacial: ocho regiones ya tienen incubadora oficial de la Agencia Europea",
-        "image_url": "https://s3.elespanol.com/2025/08/06/actualidad/1003743877396_257823438_1706x960.jpg",
-        "tags": [
-            "comunidades autónomas",
-            "innovación",
-            "industria aeroespacial",
-            "autonomías 4.0",
-            "startup",
-            "tecnología",
-            "aeroespacial",
-            "wake up spain"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/20260311/autonomias-cogen-timon-aceleracion-espacial-regiones-incubadora-oficial-agencia-europea/1003744163214_0.html",
-        "date": "2026-03-11 00:50:00",
-        "sentiment_score": 0.2497040331363678
-    },
-    {
-        "title": "10 MAR 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/10-mar-2026-partidazo-cope-20260311_3323925.html",
-        "date": "2026-03-11 00:38:20",
-        "sentiment_score": 0.6104498207569122
-    },
-    {
-        "title": "Promoción estratégica y presencia en medios, el modelo de Visibilidad; El Gran Reto",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7887256",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5803225/promocion-estrategica-presencia-medios-modelo-visibilidad-gran-reto",
-        "date": "2026-03-11 00:36:51",
-        "sentiment_score": 0.6955031752586365
-    },
-    {
-        "title": "1-1 Lamine Yamal rescata al Barcelona con un penalti en el minuto 96",
-        "image_url": "https://latino-news.com/wp-content/uploads/2026/03/1-1-lamine-yamal-rescata-al-barcelona-con-un-penalti-en-el-minuto-96.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://latino-news.com/1-1-lamine-yamal-rescata-al-barcelona-con-un-penalti-en-el-minuto-96/",
-        "date": "2026-03-11 02:15:37",
-        "sentiment_score": 0.15122239291667938
-    },
-    {
-        "title": "El Triángulo de las Bermudas catalán",
-        "image_url": "https://s1.staticld.com/2026/01/27/tren-accidente-gelida-rodalies-270126.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/opinion/2026-03-11/pablo-planas-el-triangulo-de-las-bermudas-catalan-7371539/",
-        "date": "2026-03-11 02:09:24",
-        "sentiment_score": -0.8463242528960109
-    },
-    {
-        "title": "El tenis argentino dice presente en tres torneos del circuito Challenger",
-        "image_url": "https://www.infobae.com/resizer/v2/7W57HHXJSRHE3EVDM5KJLMVRDU.JPG?auth=d768a8dc3ba83b255f08a2df2caf2e2f3bc2e1f7b1481942a7bc0dbd09657cb8&height=2470&smart=true&width=3707",
-        "tags": [
-            "santiago",
-            "tenis argentino",
-            "deportes-argentina",
-            "francisco comesaña",
-            "mariano navone",
-            "tenis",
-            "capcana",
-            "challenger"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/11/el-tenis-argentino-dice-presente-en-tres-torneos-del-circuito-challenger/",
-        "date": "2026-03-11 02:05:21",
-        "sentiment_score": 0.0983191728591919
-    },
-    {
-        "title": "Barcelona salva el empate en el último instante",
-        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/03/Barcelona.jpg",
-        "tags": [
-            "barcelona",
-            "deportes",
-            "10mar"
-        ],
-        "link": "https://laverdaddemonagas.com/2026/03/10/barcelona-salva-el-empate/",
-        "date": "2026-03-11 02:02:02",
-        "sentiment_score": 0.4820706397294998
-    },
-    {
-        "title": "Las últimas previsiones para Barcelona: temperatura, lluvias y viento",
-        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
-        "tags": [
-            "últimas actualizaciones",
-            "clima en españa",
-            "clima",
-            "clima en barcelona"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/11/las-ultimas-previsiones-para-barcelona-temperatura-lluvias-y-viento/",
-        "date": "2026-03-11 02:01:13",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "El director financiero de Wow abandona el proyecto de Dimas Gimeno en plena ampliación de capital y búsqueda de socio",
-        "image_url": "https://s3.elespanol.com/2025/10/09/actualidad/1003743962237_259269695_1706x960.jpg",
-        "tags": [
-            "distribución",
-            "dimas gimeno álvarez"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20260311/director-financiero-wow-abandona-proyecto-dimas-gimeno-plena-ampliacion-capital-busqueda-socio/1003744163405_0.html",
-        "date": "2026-03-11 01:40:15",
-        "sentiment_score": 0.4433957077562809
-    },
-    {
-        "title": "El Barcelona salva el empate en el último instante frente al Newcastle",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://eltiempove.com/el-barcelona-salva-el-empate-en-el-ultimo-instante-frente-al-newcastle/",
-        "date": "2026-03-11 01:35:00",
-        "sentiment_score": 0.47834671288728714
-    },
-    {
-        "title": "Liga de Campeones: Bayern y Atlético de Madrid golean en la Liga de Campeones, Liverpool pierde y Barcelona es frenado",
-        "image_url": "https://noticiasaldiayalahora.co/wp-content/uploads/2026/03/Galatasaray-777x437.webp",
-        "tags": [
-            "fc barcelona",
-            "atalanta",
-            "tottenham",
-            "liga de campeones",
-            "deportes",
-            "liverpool",
-            "bayern de múnich",
-            "atlético de madrid",
-            "newcastle",
-            "galatasaray"
-        ],
-        "link": "https://noticiasaldiayalahora.co/deportes/liga-de-campeones-bayern-y-atletico-de-madrid-golean-en-la-liga-de-campeones-liverpool-pierde-y-barcelona-es-frenado/",
-        "date": "2026-03-11 01:23:01",
-        "sentiment_score": -0.0034652650356292725
-    },
-    {
         "title": "La crisis de Irán amenaza la recuperación del sector del automóvil",
         "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/11/BYD-Explorer-No-1-R44U3UUS7XNztIEp0uigH9I-1200x840@diario_abc.jpg",
         "tags": [
@@ -3208,5 +2755,187 @@ export default [
         "link": "https://www.diariodejerez.es/miki-duarte/furia-epica_0_2006171061.html",
         "date": "2026-03-14 06:01:05",
         "sentiment_score": 0.5981174856424332
+    },
+    {
+        "title": "La Caprichosa de Toledo y una administración de Yuncos reparten el segundo premio de la Lotería Nacional: 120.000 € al número",
+        "image_url": "https://s3.elespanol.com/2026/03/14/actualidad/1003744169904_261945311_1706x960.jpg",
+        "tags": [
+            "yuncos (toledo)",
+            "toledo"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20260314/caprichosa-toledo-administracion-yuncos-reparten-segundo-premio-loteria-nacional-eur-numero/1003744169896_0.html",
+        "date": "2026-03-14 17:53:29",
+        "sentiment_score": 0.4457301050424576
+    },
+    {
+        "title": "¿Cómo queda la defensa del Real Madrid previo a la Champions League?",
+        "image_url": "https://i.ytimg.com/vi/NSc3-ln8ZTw/mqdefault.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/como-queda-la-defensa-del-real-madrid-previo-a-la-champions-league-202631413530",
+        "date": "2026-03-14 17:53:00",
+        "sentiment_score": -0.8729318296536803
+    },
+    {
+        "title": "Colby Covington estalla contra la UFC y critica la cartelera de la Casa Blanca",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/15/2026011510001891366.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/colby-covington-estalla-ufc-critica-cartelera-casa-blanca/20260314183415378630.html",
+        "date": "2026-03-14 17:34:15",
+        "sentiment_score": -0.8122986610978842
+    },
+    {
+        "title": "‘Mi hermano americano’, una experiencia vital",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/03/14/5849629C-291A-492E-A9F4-E878A2EA58B3/hermano-americano-experiencia-vital_98.jpg?crop=5032%2C2831%2Cx0%2Cy524&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "castilla y león",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/castilla-y-leon/hermano-americano-experiencia-vital_2026031469b59b256cf703292f7075bb.html",
+        "date": "2026-03-14 17:30:13",
+        "sentiment_score": 0.15789154917001724
+    },
+    {
+        "title": "Muere la actriz Gemma Cuervo a los 91 años",
+        "image_url": "https://static.grupojoly.com/clip/94c73288-9b60-47c2-ac94-763316b819db_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "actriz",
+            "gemma",
+            "91",
+            "cuervo",
+            "muere"
+        ],
+        "link": "https://www.diariodealmeria.es/ocio/muere-actriz-gemma-cuervo-91_0_2006173747.html",
+        "date": "2026-03-14 17:23:50",
+        "sentiment_score": 0.8017081841826439
+    },
+    {
+        "title": "Muere la actriz Gemma Cuervo",
+        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2026/03/14/2026031418055836872.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodepontevedra.es/articulo/cultura/muere-91-anos-actriz-gemma-cuervo/202603141810251438084.html",
+        "date": "2026-03-14 17:10:25",
+        "sentiment_score": -0.7825431041419506
+    },
+    {
+        "title": "YPF y el motivo tras el mono de Milei: la petrolera que Argentina expropió a Repsol y le puede costar 16.000 millones",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/03/14/69b5856d13a1b.r_d.2233-972.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.eldebate.com/economia/20260314/ypf-motivo-mono-milei-petrolera-argentina-expropio-repsol-le-puede-costar-16000-millones_396048.html",
+        "date": "2026-03-14 16:55:33",
+        "sentiment_score": -0.32635514810681343
+    },
+    {
+        "title": "Rodrigo Quian Quiroga, neurocientífico: \"Guardar un recuerdo implica reescribir conexiones neuronales\"",
+        "image_url": "https://images.ecestaticos.com/S0wPF22pWs0sVzTbO1lsgPs4xNY=/0x0:886x591/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb6b%2F400%2F867%2Fb6b40086792de781e6140b1001a25d1e.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-03-14/rodrigo-quian-quiroga-neurocientifico-recuerdo_4307490/",
+        "date": "2026-03-14 17:57:00",
+        "sentiment_score": 0.05094511806964874
+    },
+    {
+        "title": "Lamine Yamal respalda a Laporta en redes a horas de elecciones del Barça",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/07/2026030723530459937.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/lamine-yamal-respalda-laporta-redes-horas-elecciones-barca/20260314185538378632.html",
+        "date": "2026-03-14 17:55:38",
+        "sentiment_score": 0.5379897803068161
+    },
+    {
+        "title": "Muere la actriz Gemma Cuervo a los 91 años",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/312acf91925d7ce610ad6e0230c3a9c5/crop/155x43/1890x1200/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/14/17735108438297.jpg",
+        "tags": [
+            "sociedad>"
+        ],
+        "link": "https://www.expansion.com/sociedad/2026/03/14/69b5a01de5fdeabf118b45d3.html",
+        "date": "2026-03-14 17:54:55",
+        "sentiment_score": -0.594923447817564
+    },
+    {
+        "title": "Andreu Rami: \"Queremos que La Llama Fest sea un espacio para la locura\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260314184654_120.jpg",
+        "tags": [
+            "vídeos culturaocio",
+            "cultura y ocio"
+        ],
+        "link": "https://www.culturaocio.com/videos/video-andreu-rami-queremos-llama-fest-sea-espacio-locura-20260314184654.html",
+        "date": "2026-03-14 17:46:54",
+        "sentiment_score": 0.1641709879040718
+    },
+    {
+        "title": "Se derrumba parte de un puente de la R3 afectado por las obras de Rodalies en La Garriga y el Ayuntamiento pide explicaciones a Adif: \"Es muy grave\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/b24ef089553db1b81c39d8cc106c29d9/crop/0x92/1421x1039/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/14/17735097236870.jpg",
+        "tags": [
+            "artículos el mundo"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2026/03/14/69b59ed3e4d4d8b6058b459d.html",
+        "date": "2026-03-14 17:46:13",
+        "sentiment_score": -0.6172063574194908
+    },
+    {
+        "title": "Muere la actriz Gemma Cuervo a los 91 años",
+        "image_url": "https://www.alertadigital.com/wp-content/uploads/2026/03/gemma-1.jpg",
+        "tags": [
+            "cine y tv",
+            "gemma cuervo"
+        ],
+        "link": "https://www.alertadigital.com/2026/03/14/muere-la-actriz-gemma-cuervo-a-los-91-anos/",
+        "date": "2026-03-14 17:39:15",
+        "sentiment_score": -0.3852303512394428
+    },
+    {
+        "title": "El Festival de Cine LGTBI de Avilés ya tiene fecha: del 9 al 19 de abril en el Centro Niemeyer",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/03/14/festival-cine-lgtbi-aviles-niemeyer-RIzmyGM0AdVKDmsOsxdJOuM-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "aviles",
+            "lgtbi",
+            "cine",
+            "niemeyer",
+            "abril",
+            "centro",
+            "fecha",
+            "festival"
+        ],
+        "link": "https://www.elcomercio.es/planes/festival-cine-lgtbi-aviles-fecha-abril-centro-20260314183828-nt.html",
+        "date": "2026-03-14 17:38:30",
+        "sentiment_score": 0.3308944143354893
+    },
+    {
+        "title": "El Femenino quiere volver a ganar fuera tras el parón",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2026/03/14/granada-femenino-k6II-U201200412693gZH-1200x840@Ideal.jpg",
+        "tags": [
+            "granada cf femenino",
+            "fútbol femenino",
+            "levante",
+            "granada cf",
+            "granada",
+            "badalona",
+            "copa de la reina de fútbol"
+        ],
+        "link": "https://www.ideal.es/granadacf/previa-levante-badalona-femenino-quiere-volver-ganar-tras-paron-20260314171805-nt.html",
+        "date": "2026-03-14 17:34:27",
+        "sentiment_score": -0.03545185923576355
+    },
+    {
+        "title": "Junqueras mantiene el pulso a Illa: «Si la cárcel no nos ha rendido, tampoco nos rendirá ninguna presión»",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/03/14/69b59bf455fbc.r_d.816-439-7423.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/20260314/junqueras-mantiene-pulso-illa-carcel-no-rendido-tampoco-rendira-ninguna-presion_396067.html",
+        "date": "2026-03-14 17:33:55",
+        "sentiment_score": -0.4820804335176945
     }
 ];
