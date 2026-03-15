@@ -2893,5 +2893,213 @@ export default [
         "link": "https://www.20minutos.es/nacional/bonoloto-acertantes-ganan-miles-euros-bote-sube_6946103_0.html",
         "date": "2026-03-14 21:10:46",
         "sentiment_score": 0.16480325907468796
+    },
+    {
+        "title": "Valverde mantiene su racha goleadora con el Madrid, que arrolla 4-1 al Elche",
+        "image_url": "https://dims.apnews.com/dims4/default/c0b40d5/2147483647/strip/true/crop/6101x4068+0+0/resize/319x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0d%2F53%2F079c23f644223d76c0b64798ef2b%2F05b9fdc3cb9e4ce4ad1af3164ab525f3",
+        "tags": [
+            "real madrid valverde laliga elche guler",
+            "sports",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/real-madrid-valverde-laliga-elche-guler-06cabbe8fdf297d86fab8abeca2082c9",
+        "date": "2026-03-15 00:52:02",
+        "sentiment_score": 0.7676413841545582
+    },
+    {
+        "title": "Ser un Nadal",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20260315/nadal_395905.html",
+        "date": "2026-03-15 00:35:00",
+        "sentiment_score": -0.08195783197879791
+    },
+    {
+        "title": "La Colonia Fin de Semana, el salvaje oeste de Madrid: \"Podían venir los gitanos a atracarte, encontrarte con yonquis, había peleas... Era una de las zonas más deprimidas de España\"",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/10/17731600345853.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2026/03/15/69afe26be4d4d863618b458c.html",
+        "date": "2026-03-15 00:26:45",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "14 MAR 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/14-mar-2026-tramo-final-juego-20260315_3326721.html",
+        "date": "2026-03-15 00:15:29",
+        "sentiment_score": 0.5232988819479942
+    },
+    {
+        "title": "La fiesta barcelonista del 15M: elecciones, nueva apertura del Spotify Camp Nou y liderato en la Liga",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/22/culemania/palco/1003742709932_15435995_1706x960.jpg",
+        "tags": [
+            "barça",
+            "elecciones barça",
+            "la liga",
+            "camp nou",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260315/barcelonista-elecciones-apertura-spotify-camp-nou-liga/1003742741499_0.html",
+        "date": "2026-03-15 00:02:29",
+        "sentiment_score": 0.044526759535074234
+    },
+    {
+        "title": "La Grada del Barça, menos violenta y más despolitizada que nunca: el verdadero problema para los Mossos está fuera",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/07/culemania/palco/1003742705635_15380397_1706x960.jpg",
+        "tags": [
+            "camp nou",
+            "culemaníacos",
+            "grada d’animació"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20260315/grada-barca-violenta-despolitizada-verdadero-problema-mossos/1003742740856_0.html",
+        "date": "2026-03-15 00:01:57",
+        "sentiment_score": 0.033225059509277344
+    },
+    {
+        "title": "Golazo de Arda Güler, bombeado desde su mitad del campo en triunfo del Real Madrid ante Elche",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.houstonchronicle.com/sports/article/golazo-de-arda-guler-bombeado-desde-su-mitad-22077126.php",
+        "date": "2026-03-14 23:39:18",
+        "sentiment_score": 0.6499248743057251
+    },
+    {
+        "title": "Golazo de Arda Güler, bombeado desde su mitad del campo en triunfo del Real Madrid ante Elche",
+        "image_url": "https://dims.apnews.com/dims4/default/a78ed75/2147483647/strip/true/crop/3017x2011+0+0/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2F1a%2F739d4ef9f5913e5a77429b3f9a99%2F407033570f0d4748b67e119971b59148",
+        "tags": [
+            "sports",
+            "espana laliga real madrid arda guller golazo elche",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/espana-laliga-real-madrid-arda-guller-golazo-elche-e531e77b17eca688aa37e089cc79e823",
+        "date": "2026-03-14 23:39:18",
+        "sentiment_score": 0.8201498351991177
+    },
+    {
+        "title": "Las imágenes del Atlético de Madrid-Getafe",
+        "image_url": "https://static.grupojoly.com/clip/af65d9f9-7ec5-4b8f-8476-30feb386c463_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "laliga"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/imagenes-atletico-madrid-getafe_3_2006176092.html",
+        "date": "2026-03-14 23:39:07",
+        "sentiment_score": 0.7061997577548027
+    },
+    {
+        "title": "Netflix estrenará documental con material inédito de la historia y vida de Ronaldinho",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/ronaldinho-en-venezuela.jpg",
+        "tags": [
+            "ronaldinho",
+            "netflix",
+            "entretenimiento",
+            "futbol",
+            "titulares"
+        ],
+        "link": "https://lapatilla.com/2026/03/14/netflix-estrenara-documental-con-material-inedito-de-la-historia-y-vida-de-ronaldinho/",
+        "date": "2026-03-15 02:15:00",
+        "sentiment_score": 0.2066359929740429
+    },
+    {
+        "title": "A votar antes de que venga el Papa",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "venga",
+            "votar",
+            "papa"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/articulos/votar-venga-papa_0_2006176637.html",
+        "date": "2026-03-15 02:12:33",
+        "sentiment_score": -0.9395084986463189
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 15 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima",
+            "últimas actualizaciones",
+            "clima en barcelona",
+            "clima en españa"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/15/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-15-de-marzo/",
+        "date": "2026-03-15 02:00:58",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Illa descarta presionar a Sánchez para que ceda ante ERC y tener Presupuestos: \"No usaré mis diputados para hacer caer al presidente\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
+        "tags": [
+            "artículos víctor mondelo"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2026/03/15/69b462affdddffec2f8b4586.html",
+        "date": "2026-03-15 01:11:24",
+        "sentiment_score": -0.235268235206604
+    },
+    {
+        "title": "Iceta, el felipista al que Sánchez regaló \"un Erasmus\" en París tras colocar Koldo a su 'marido': \"Mi lápida dirá 'era gay y bailó'\"",
+        "image_url": "https://s3.elespanol.com/2026/03/12/actualidad/1003744167592_261945698_1706x1280.jpg",
+        "tags": [
+            "miquel iceta",
+            "porfolio",
+            "psoe (partido socialista obrero español)",
+            "parís",
+            "psc",
+            "unesco",
+            "reportajes-newsletter",
+            "pedro sánchez",
+            "koldo garcía izaguirre",
+            "felipe gonzález"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260315/iceta-felipista-sanchez-regalo-erasmus-paris-colocar-koldo-marido-lapida-dira-gay-bailo/1003744164409_0.html",
+        "date": "2026-03-15 01:01:13",
+        "sentiment_score": 0.436197429895401
+    },
+    {
+        "title": "El imperio chocolatero de los Ferrero, la familia catalana tras ColaCao, Nocilla o Paladin: \"Facturan 220 millones\"",
+        "image_url": "https://s3.elespanol.com/2026/03/13/actualidad/1003744168843_261929412_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "porfolio",
+            "empresas",
+            "industria agroalimentaria",
+            "consumo",
+            "reportajes",
+            "familia",
+            "multinacionales",
+            "alimentación",
+            "negocios"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260315/imperio-chocolatero-ferrero-familia-catalana-colacao-nocilla-paladin-facturan-millones/1003744167402_0.html",
+        "date": "2026-03-15 01:00:07",
+        "sentiment_score": 0.1478581428527832
+    },
+    {
+        "title": "Napoleonchu, el bombero pirómano",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2026/03/13/69b45d893be5d.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20260315/napoleonchu-bombero-piromano_395854.html",
+        "date": "2026-03-15 00:35:00",
+        "sentiment_score": -0.5719134658575058
+    },
+    {
+        "title": "La nueva Nit de les Lletres corona a Carré-Pons y Rebassa",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/15/69b5f6bca0a49.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.lavanguardia.com/cultura/20260315/11490105/nueva-nit-lletres-corona-carre-pons-rebassa-omnium-iec.html",
+        "date": "2026-03-15 00:03:17",
+        "sentiment_score": -0.07286469638347626
     }
 ];
