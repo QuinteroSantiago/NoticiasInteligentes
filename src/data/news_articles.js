@@ -1,257 +1,5 @@
 export default [
     {
-        "title": "La crisis de Irán amenaza la recuperación del sector del automóvil",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/11/BYD-Explorer-No-1-R44U3UUS7XNztIEp0uigH9I-1200x840@diario_abc.jpg",
-        "tags": [
-            "china",
-            "industria automovilística",
-            "energía",
-            "motor",
-            "irán"
-        ],
-        "link": "https://www.ideal.es/motor/economia/crisis-iran-amenaza-recuperacion-sector-automovil-20260311080000-ntrc.html",
-        "date": "2026-03-11 07:00:25",
-        "sentiment_score": -0.6985490545630455
-    },
-    {
-        "title": "Estas son las puertas monumentales más espectaculares de España",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/03/09/1B168ABC-F284-4C73-A600-D1AA14A43B61/puerta-santa-maria-burgos_98.jpg?crop=2000%2C1125%2Cx0%2Cy81&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "home la razón",
-            "castilla y león"
-        ],
-        "link": "https://www.larazon.es/castilla-y-leon/estas-son-puertas-monumentales-mas-espectaculares-espana_2026031169b11300e1ff634075e439d0.html",
-        "date": "2026-03-11 07:00:16",
-        "sentiment_score": -0.20933683961629868
-    },
-    {
-        "title": "La Audiencia Nacional rechaza el asilo de un hombre de origen somalí que se encuentra cumpliendo una condena de cinco años por agresión sexual",
-        "image_url": "https://www.infobae.com/resizer/v2/ICHO7XTTXRBY5PGOLVOOSDR6UM.png?auth=a9de9f68af576a920d06eb30ad7a63cf13eaf15b263ac5e7e5d54df813e0bd7f&height=1080&smart=true&width=1920",
-        "tags": [
-            "juicios",
-            "agresiones sexuales",
-            "justicia",
-            "sentencias",
-            "nacionalidad",
-            "españa-nacional",
-            "audiencia nacional",
-            "somalía",
-            "españa-noticias",
-            "tribunales españa"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/11/la-audiencia-nacional-rechaza-el-asilo-de-un-hombre-de-origen-somali-que-se-encuentra-cumpliendo-una-condena-de-cinco-anos-por-agresion-sexual/",
-        "date": "2026-03-11 06:52:54",
-        "sentiment_score": -0.6722902245819569
-    },
-    {
-        "title": "Las tres noticias de Carlos Alsina para empezar el día: \"El régimen iraní advierte a Trump de que también él puede ser eliminado\"",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/05/09/6DE83B54-8831-4632-AA7C-6CB358183EDA/tres-historias-empezar-dia-carlos-alsina_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "ondacero",
-            "noticias",
-            "mundo"
-        ],
-        "link": "https://www.ondacero.es/noticias/mundo/tres-noticias-carlos-alsina-empezar-dia-regimen-irani-advierte-trump-que-tambien-puede-ser-eliminado_2026031169b10f966cf703292f6ca314.html",
-        "date": "2026-03-11 06:45:42",
-        "sentiment_score": -0.24379520118236542
-    },
-    {
-        "title": "Pollán (VOX): «León es una víctima más del estado autonómico, como otras provincias. La solución no es crear otra autonomía»",
-        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/files/fp/uploads/2026/03/10/69b069f6c2ea0.r_d.787-606-8664.jpeg",
-        "tags": [
-            "castilla y león"
-        ],
-        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/260311/105366/pollan-vox-leon-victima-autonomico-provincias-solucion-crear-autonomia.html",
-        "date": "2026-03-11 06:35:00",
-        "sentiment_score": 0.14850494265556335
-    },
-    {
-        "title": "Isabel Preysler irradia felicidad junto a Tamara e Íñigo tras la llegada de Ana Boyer desde Doha",
-        "image_url": "https://okdiario.com/look/img/2026/03/10/u603174_025-1.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://okdiario.com/look/actualidad/isabel-preysler-irradia-felicidad-junto-tamara-inigo-llegada-ana-doha-2502074",
-        "date": "2026-03-11 06:30:51",
-        "sentiment_score": 0.43973778188228607
-    },
-    {
-        "title": "Real Madrid - Manchester City: horario y dónde ver el partido de octavos de la Champions League",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GC4PTEXMPRN4BFI7TOM45OUDPY.jpg?auth=ed4e4d48b1d8933f19ea8734c3f778d71dec95dd17801ab74cabbab2f3496df3&width=1200",
-        "tags": [
-            "deportes",
-            "champions league",
-            "sporting portugal",
-            "chelsea fc",
-            "estadio santiago bernabéu",
-            "bayer leverkusen",
-            "futbolistas",
-            "bodo glimt",
-            "manchester city",
-            "entrenadores",
-            "competiciones",
-            "real madrid",
-            "pep guardiola",
-            "psg",
-            "arsenal fc",
-            "fútbol"
-        ],
-        "link": "https://elpais.com/deportes/futbol/2026-03-11/real-madrid-manchester-city-horario-y-donde-ver-el-partido-de-octavos-de-la-champions-league.html",
-        "date": "2026-03-11 06:27:25",
-        "sentiment_score": 0.14864956960082054
-    },
-    {
-        "title": "La revisión arbitral reconoce un error a favor del Madrid: señala que Rüdiger sí que debió ser expulsado",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/03/69a6ed0194fb68-06010333.png",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/revision-arbitral-reconoce-un-error-favor-real-madrid-senala-que-antonio-ruediger-si-que-debio-ser-expulsado-ante-getafe_6944424_0.html",
-        "date": "2026-03-11 06:26:20",
-        "sentiment_score": -0.1278558075428009
-    },
-    {
-        "title": "El Sporting ofrece 20 millones por Arribas; por esa cifra, el Almería ni las botas",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/03/11/69b108918c545.jpeg",
-        "tags": [
-            "ud almería"
-        ],
-        "link": "https://www.lavozdealmeria.com/ud-almeria/486634/sporting-ofrece-20-millones-arribas-cifra-almeria-botas.html",
-        "date": "2026-03-11 06:25:07",
-        "sentiment_score": 0.2498510256409645
-    },
-    {
-        "title": "Precio de la gasolina y el diésel hoy, miércoles 11 de marzo: estas son las gasolineras más baratas de España",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-549576.jpg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.vozpopuli.com/economia/precio-de-la-gasolina-y-el-diesel-hoy-miercoles-11-de-marzo-estas-son-las-gasolineras-mas-baratas-de-espana.html",
-        "date": "2026-03-11 07:02:23",
-        "sentiment_score": -0.09194796532392502
-    },
-    {
-        "title": "Cinco números acertados: el Euromillones deja premio en Las Palmas de Gran Canaria",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/35b11d1c-0b5c-4427-8645-ddd79d7754e2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "españa",
-            "las palmas",
-            "las palmas de gran canaria",
-            "euromillones"
-        ],
-        "link": "https://www.laprovincia.es/las-palmas/2026/03/11/cinco-numeros-acertados-euromillones-deja-127806594.html",
-        "date": "2026-03-11 07:00:00",
-        "sentiment_score": 0.6562329307198524
-    },
-    {
-        "title": "Un día en la vida de Junqueras: De Illa a Irla y Otegi",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/11/primeras-planas/1003742740223_15811049_1706x960.jpg",
-        "tags": [
-            "primeras planas",
-            "cataluña",
-            "oriol junqueras",
-            "salvador illa"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260311/dia-vida-junqueras-illa-irla-otegi/1003742740221_0.html",
-        "date": "2026-03-11 06:59:10",
-        "sentiment_score": -0.9084526589140296
-    },
-    {
-        "title": "Cinco datos clave para entender el Gran Premio de China de Fórmula 1",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/09/2025110920085955383.jpg",
-        "tags": [
-            "fórmula 1"
-        ],
-        "link": "https://www.mundiario.com/articulo/formula-1/cinco-datos-clave-entender-gran-premio-china-formula-1/20260311075433378051.html",
-        "date": "2026-03-11 06:54:33",
-        "sentiment_score": 0.5939676910638809
-    },
-    {
-        "title": "Los vuelos más baratos desde Bilbao por el puente del Día del Padre",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/271ab3e1-c439-4a6b-a7c2-e4ca468395a9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "padre",
-            "baratos",
-            "puente",
-            "bilbao",
-            "dia",
-            "vuelos"
-        ],
-        "link": "https://www.deia.eus/bizkaia/2026/03/11/vuelos-baratos-bilbao-puente-dia-padre-10805141.html",
-        "date": "2026-03-11 06:53:10",
-        "sentiment_score": 0.5058479681611061
-    },
-    {
-        "title": "Fermín Cacho sigue ingresado diez días después de sufrir un desfallecimiento",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/files/fp/uploads/imagenes/2026/03/02/fermin-cacho-en-una-imagen-de-archivo.r_d.384-296-14710.png",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.heraldo.es/noticias/deportes/2026/03/11/fermin-cacho-sigue-ingresado-diez-dias-despues-de-sufrir-un-desfallecimiento-1901193.html",
-        "date": "2026-03-11 06:46:11",
-        "sentiment_score": -0.8616650700569153
-    },
-    {
-        "title": "El precio más alto de la gasolina hoy en Madrid, Barcelona y otras ciudades de España este 11 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-economia",
-            "precio de la gasolina en españa hoy",
-            "madrid y otras ciudades",
-            "precio de la gasonila en barcelona",
-            "últimas actualizaciones",
-            "precio de la gasolina en españa"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/11/el-precio-mas-alto-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-de-espana-este-11-de-marzo/",
-        "date": "2026-03-11 06:31:15",
-        "sentiment_score": -0.04640984535217285
-    },
-    {
-        "title": "Julián Álvarez no cierra la puerta de salida: «No sé si estaré en el Atlético la próxima temporada»",
-        "image_url": "https://okdiario.com/img/2026/03/10/julia.jpg",
-        "tags": [
-            "deportes",
-            "fútbol",
-            "atlético de madrid",
-            "tottenham hotspur",
-            "champions league"
-        ],
-        "link": "https://okdiario.com/deportes/julian-alvarez-no-cierra-puerta-salida-no-si-estare-atletico-proxima-temporada-16393040",
-        "date": "2026-03-11 06:30:40",
-        "sentiment_score": 0.06341773271560669
-    },
-    {
-        "title": "Buscan a India y Thor, dos cane corso robados en Pinedo, Valencia: \"Están de moda y las crías pueden venderse por 3.000 euros\"",
-        "image_url": "https://album.mediaset.es/eimg/2026/03/10/whatsapp-image-2026-03-10-at-13-55-58_85b5.jpg",
-        "tags": [
-            "valencia"
-        ],
-        "link": "https://www.telecinco.es/noticias/valencia/20260311/buscan-india-thor-cane-corso-robados-pinedo_18_018573660.html",
-        "date": "2026-03-11 06:30:12",
-        "sentiment_score": 0.12937429547309875
-    },
-    {
-        "title": "El tesoro medieval de Girona: un castillo del siglo XIV, murallas y calles de piedra en una ruta imprescindible del Empordà",
-        "image_url": "https://www.infobae.com/resizer/v2/7UHPAG33OZBCDOMFBRYE7EIZMA.jpg?auth=cb28d4f1ac20ca1bff2cd84f2dfefefab4ef65d734d3bd5ce8067f0c064748ce&height=576&smart=true&width=1024",
-        "tags": [
-            "destinos españa",
-            "españa-viajes",
-            "cataluña",
-            "viajes",
-            "destinos",
-            "pueblos",
-            "turismo",
-            "girona",
-            "turismo españa",
-            "viajes y turismo",
-            "españa-noticias",
-            "pueblos de españa"
-        ],
-        "link": "https://www.infobae.com/espana/viajes/2026/03/11/el-tesoro-medieval-de-girona-un-castillo-del-siglo-xiv-murallas-y-calles-de-piedra-en-una-ruta-imprescindible-del-emporda/",
-        "date": "2026-03-11 06:30:00",
-        "sentiment_score": 0.8934399532154202
-    },
-    {
         "title": "El ranking de las 10 gasolineras más baratas de la Comunidad de Madrid: todo lo que te puedes ahorrar si sabes elegir",
         "image_url": "https://s3.elespanol.com/2026/03/11/madrid/1003744165594_261887381_1706x960.jpg",
         "tags": [
@@ -2937,5 +2685,213 @@ export default [
         "link": "https://www.eldebate.com/espana/cataluna/20260314/junqueras-mantiene-pulso-illa-carcel-no-rendido-tampoco-rendira-ninguna-presion_396067.html",
         "date": "2026-03-14 17:33:55",
         "sentiment_score": -0.4820804335176945
+    },
+    {
+        "title": "El Manchester City empató contra el West Ham y dijo adiós a sus esperanzas por el título de la Premier League",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/West-Ham-United-vs-Manchester-City.jpg",
+        "tags": [
+            "titulares",
+            "premier league",
+            "manchester city",
+            "futbol",
+            "west ham united fc",
+            "reino unido",
+            "deportes"
+        ],
+        "link": "https://lapatilla.com/2026/03/14/el-manchester-city-empato-contra-el-west-ham-y-dijo-adios-a-sus-esperanzas-por-el-titulo-de-la-premier-league/",
+        "date": "2026-03-14 22:20:52",
+        "sentiment_score": 0.11985105276107788
+    },
+    {
+        "title": "Arda Güler lo remata con un gol de larga distancia (4-1)",
+        "image_url": "https://static.grupojoly.com/clip/add518c2-60a4-4e04-9987-779a4a80163e_source-aspect-ratio_default_0_x1335y181.jpg",
+        "tags": [
+            "remata",
+            "larga",
+            "arda",
+            "gueler",
+            "gol"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/arda-gueler-remata-gol-larga_0_2006175416.html",
+        "date": "2026-03-14 22:18:35",
+        "sentiment_score": 0.3986705020070076
+    },
+    {
+        "title": "Así narró Manolo Lama el golazo de Arda Güler desde más de 60 metros",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/gol-arda-gueler-real-madrid-4-elche-1-20260314_3326705.html",
+        "date": "2026-03-14 22:17:15",
+        "sentiment_score": 0.4626607447862625
+    },
+    {
+        "title": "La alegría del Madrid golea a la tristeza del Elche",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/356c0942-6363-4f28-9832295e860f8d57.jpg",
+        "tags": [
+            "vinícius júnior",
+            "fran garcía",
+            "fede valverde",
+            "real madrid",
+            "dean huijsen",
+            "álvaro arbeloa",
+            "getafe cf",
+            "fc barcelona",
+            "elche cf",
+            "santiago bernabéu",
+            "thibaut courtois",
+            "eduardo camavinga",
+            "sevilla fc",
+            "laliga ea sports",
+            "manchester city"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z54e67351-ba5e-4912-890dba6b81a8f8cb/202603/la-alegria-del-madrid-golea-a-la-tristeza-del-elche",
+        "date": "2026-03-14 22:17:12",
+        "sentiment_score": 0.6649817600846291
+    },
+    {
+        "title": "El fútbol provoca una crisis en esta pareja de Atrapa un millón: él es del Atlético de Madrid y ella le ve “merengue total”",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/03/14/D75F325E-D26A-4BA2-8F21-4C30BCC30681/jose-sandra-concursantes-atrapa-millon_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "atrapa un millón",
+            "antena3",
+            "programas"
+        ],
+        "link": "https://www.antena3.com/programas/millon/futbol-provoca-crisis-esta-pareja-atrapa-millon-atletico-madrid-ella-merengue-total_2026031469b5de0d6cf703292f70a7d3.html",
+        "date": "2026-03-14 22:15:41",
+        "sentiment_score": -0.8973765950649977
+    },
+    {
+        "title": "El Real Madrid golea y pone el foco en la Champions League",
+        "image_url": "https://pxcdn.meridiano.net/032026/1773526191871.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/el-real-madrid-golea-y-pone-el-foco-en-la-champions-league-202631418100",
+        "date": "2026-03-14 22:10:00",
+        "sentiment_score": -0.18468938022851944
+    },
+    {
+        "title": "Descubriendo a Manuel Ángel: “Decíamos que sería el que llegaría más lejos, por delante de Nico Paz”",
+        "image_url": "https://recentlyheard.com/wp-content/uploads/2026/03/Descubriendo-a-Manuel-Angel-Deciamos-que-seria-el-que-llegaria.jpg",
+        "tags": [
+            "news"
+        ],
+        "link": "https://recentlyheard.com/descubriendo-a-manuel-angel-deciamos-que-seria-el-que-llegaria-mas-lejos-por-delante-de-nico-paz/",
+        "date": "2026-03-14 22:05:05",
+        "sentiment_score": 0.24528656899929047
+    },
+    {
+        "title": "Rodolfo Sánchez, director de la candidatura de Oviedo a Capital Europea de la Cultura: \"Tenemos en nuestra mano lograr la Capitalidad\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4404e03b-2255-4eae-9a4e-e9baab779e0e_16-9-aspect-ratio_default_0_x609y270.jpg",
+        "tags": [
+            "sánchez",
+            "proyecto",
+            "cultura",
+            "oviedo capital cultural",
+            "la vega"
+        ],
+        "link": "https://www.lne.es/oviedo/2026/03/14/rodolfo-sanchez-director-candidatura-oviedo-127972199.html",
+        "date": "2026-03-14 22:04:44",
+        "sentiment_score": 0.8094568327069283
+    },
+    {
+        "title": "Valverde y Arda echan abajo el castillo de naipes de Eder Sarabia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/adc57bd9-561d-42e9-8fa0-0e802b5d0f54_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "real madrid",
+            "elche",
+            "laliga",
+            "fútbol"
+        ],
+        "link": "https://www.lne.es/deportes/2026/03/14/real-madrid-elche-laliga-resumen-resultado-futbol-127972236.html",
+        "date": "2026-03-14 22:02:46",
+        "sentiment_score": 0.037015289068222046
+    },
+    {
+        "title": "La rocambolesca historia de amor de Jose y Sandra, concursantes de Atrapa un millón: “Guardé el número como ‘futura esposa’”",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/03/14/05FDD485-AF76-4E15-9D79-105D0B41F6A4/jose-sandra-concursantes-atrapa-millon_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "atrapa un millón",
+            "antena3",
+            "programas"
+        ],
+        "link": "https://www.antena3.com/programas/millon/rocambolesca-historia-amor-jose-sandra-concursantes-guarde-numero-como-futura-esposa_2026031469b5db65d489bf782e1a3f4e.html",
+        "date": "2026-03-14 22:04:21",
+        "sentiment_score": 0.6736334376037121
+    },
+    {
+        "title": "Los poceros despiden (con seis velas a punto de apagarse) a Raúl del Pozo",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/da74726c09132be564ee3257b8a0cb81/crop/117x368/2574x2825/f/image/jpeg/assets/multimedia/imagenes/2022/02/09/16444360039230.jpg",
+        "tags": [
+            "artículos martín mucha",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/cronica/2026/03/14/69b59d94e4d4d83e778b4578.html",
+        "date": "2026-03-14 21:52:25",
+        "sentiment_score": 0.41920098662376404
+    },
+    {
+        "title": "Perú tendrá nuevas rutas aéreas y más frecuencias de vuelos a Europa, Estados Unidos y el Caribe",
+        "image_url": "https://www.infobae.com/resizer/v2/N2OYOTTGABGH3EZHROEGG5VIJQ.jpg?auth=babcf98717a0a3db140a6b4649ad6c61b53f9b99ab4deddd9165b5b5bd54529e&height=1080&smart=true&width=1920",
+        "tags": [
+            "peru-noticias",
+            "aeropuerto internacional jorge chávez",
+            "mtc"
+        ],
+        "link": "https://www.infobae.com/peru/2026/03/14/peru-tendra-nuevas-rutas-aereas-y-mas-frecuencias-de-vuelos-a-europa-estados-unidos-y-el-caribe/",
+        "date": "2026-03-14 21:52:01",
+        "sentiment_score": 0.41216728650033474
+    },
+    {
+        "title": "David Costas cree que la victoria «da vida» y ya piensa en el partido del Levante",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/03/14/213996028-kEGG--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "cree",
+            "levante",
+            "victoria",
+            "costas",
+            "david",
+            "partido",
+            "vida",
+            "piensa"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/david-costas-cree-victoria-vida-piensa-partido-20260314223816-nt.html",
+        "date": "2026-03-14 21:43:07",
+        "sentiment_score": 0.6241550855338573
+    },
+    {
+        "title": "A Vecinal, un supermercado cooperativo en Zaragoza: “Otras formas de consumo son posibles y reales”",
+        "image_url": "https://static.eldiario.es/clip/006bfc9a-dd94-47c5-a6e5-36c5c05f767f_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "zaragoza",
+            "sociedad",
+            "huesca",
+            "teruel",
+            "actualidad",
+            "aragón",
+            "marimar cabrera",
+            "celia soria",
+            "eldiario",
+            "fernando garcía mongay",
+            "óscar f. civieta",
+            "política",
+            "elprismático"
+        ],
+        "link": "https://www.eldiario.es/aragon/zaragoza/vecinal-supermercado-cooperativo-zaragoza-formas-consumo-son-posibles-reales_1_13056087.html",
+        "date": "2026-03-14 21:36:38",
+        "sentiment_score": -0.021673619747161865
+    },
+    {
+        "title": "Dos acertantes de la Bonoloto ganan cerca de 70.000 euros y el bote sube a 600.000 euros",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/14/69b5cdf2137260-86732190.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/nacional/bonoloto-acertantes-ganan-miles-euros-bote-sube_6946103_0.html",
+        "date": "2026-03-14 21:10:46",
+        "sentiment_score": 0.16480325907468796
     }
 ];
