@@ -1,218 +1,5 @@
 export default [
     {
-        "title": "'La Tertulia del Oviedo', en Deportes COPE Asturias: El Valencia, el futuro de Escandell y los cambios para mejorar al equipo",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/01/16/67893cd01d061.jpeg",
-        "tags": [
-            "deportes cope asturias"
-        ],
-        "link": "https://www.cope.es/emisoras/asturias/asturias-provincia/deportes-cope-asturias/noticias/tertulia-oviedo-deportes-cope-asturias-valencia-futuro-escandell-cambios-mejorar-equipo-20260312_3325542.html",
-        "date": "2026-03-12 17:37:55",
-        "sentiment_score": -0.05901297926902771
-    },
-    {
-        "title": "Caja Rural Regional analiza junto a expertos el actual escenario económico",
-        "image_url": "https://www.murciadiario.com/media/murciadiario/images/2026/03/12/2026031218322153542.jpg",
-        "tags": [
-            "empresas"
-        ],
-        "link": "https://www.murciadiario.com/articulo/empresas/caja-rural-regional/20260312183555141340.html",
-        "date": "2026-03-12 17:35:55",
-        "sentiment_score": 0.03504207730293274
-    },
-    {
-        "title": "El chef René Redzepi deja Noma tras las acusaciones de malos tratos de sus trabajadores: \"Una disculpa no es suficiente\"",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2026/03/12/2026031218345124965.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/gente/chef-rene-redzepi-deja-noma-acusaciones-malos-tratos-trabajadores-disculpa-es-suficiente/202603121835401437791.html",
-        "date": "2026-03-12 17:35:40",
-        "sentiment_score": -0.8048322033137083
-    },
-    {
-        "title": "El nuevo DAO de la Policía promete tolerancia cero contra abusos para reforzar la confianza ciudadana",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/12/2026031218294435821.jpg",
-        "tags": [
-            "seguridad y defensa"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/seguridad-defensa/nuevo-dao-asume-mando-policia-investigar-abusos/20260312183412442825.html",
-        "date": "2026-03-12 17:34:12",
-        "sentiment_score": 0.07920415699481964
-    },
-    {
-        "title": "El nuevo “médico” que millones de personas están consultando sin salir de casa",
-        "image_url": "https://static.merca2.es/wp-content/uploads/2026/03/El-nuevo-medico-que-millones-de-personas-3.webp",
-        "tags": [
-            "estilo de vida",
-            "últimas noticias"
-        ],
-        "link": "https://www.merca2.es/2026/03/12/medico-ia-consultas-casa-2359884/",
-        "date": "2026-03-12 17:30:00",
-        "sentiment_score": -0.734279453754425
-    },
-    {
-        "title": "El Atlético de Madrid ultima el reparto de sus entradas para la final de Copa",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b42332a4-8247-4da6-91a3-2a39614ec954_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "entradas",
-            "madrid",
-            "reparto",
-            "atletico",
-            "apura"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/futbol/2026/03/12/atletico-madrid-apura-reparto-entradas-10814039.html",
-        "date": "2026-03-12 17:29:36",
-        "sentiment_score": -0.026907898485660553
-    },
-    {
-        "title": "Xavi vuelve a apuntar a Laporta: «Con la verdad por delante siempre»",
-        "image_url": "https://okdiario.com/img/2026/03/12/imagen_recortada-2026-03-12t182229.059.jpg",
-        "tags": [
-            "xavi hernández",
-            "joan laporta",
-            "barcelona",
-            "fc barcelona",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/xavi-vuelve-apuntar-laporta-verdad-delante-siempre-16406089",
-        "date": "2026-03-12 17:23:03",
-        "sentiment_score": -0.39202168583869934
-    },
-    {
-        "title": "El nuevo DAO de la Policía reafirma apoyo a las víctimas",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/5a59b38f-7f9f-4991-914de06aecbb413e.jpg",
-        "tags": [
-            "audiencia nacional",
-            "fernando grande-marlaska",
-            "cni",
-            "ángel gabilondo",
-            "madrid",
-            "defensor del pueblo",
-            "policía",
-            "congreso de los diputados",
-            "esperanza casteleiro",
-            "acoso sexual",
-            "ministerio del interior",
-            "agresión sexual",
-            "españa",
-            "policía nacional"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z284a23bb-4945-4e0e-b6ebffef59fae7ff/202603/el-nuevo-dao-de-la-policia-reafirma-apoyo-a-las-victimas",
-        "date": "2026-03-12 17:22:16",
-        "sentiment_score": -0.7946442365646362
-    },
-    {
-        "title": "La UE se enfrenta al desafío de las IA que generan deepfakes sexuales",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/16/2026011601223086798.jpg",
-        "tags": [
-            "ciencia y tecnología"
-        ],
-        "link": "https://www.mundiario.com/articulo/tecnologia-ciencia/ue-enfrenta-desafio-ia-que-generan-deepfakes-sexuales/20260312183718378372.html",
-        "date": "2026-03-12 17:37:18",
-        "sentiment_score": -0.9054792672395706
-    },
-    {
-        "title": "Nuevo mensaje de Xavi tras sus críticas a Laporta: \"Con la verdad por delante, ¡siempre!\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/03/12/69b2f5ef0909e.r_d.1521-434-2867.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/nuevo-mensaje-xavi-criticas-laporta-verdad-delante-siempre-20260312_3325543.html",
-        "date": "2026-03-12 17:33:21",
-        "sentiment_score": -0.19902895390987396
-    },
-    {
-        "title": "Casi 40 humoristas gráficos hispanoamericanos homenajean a Forges y visibilizan enfermedades \"olvidadas\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260312182701_690.jpg",
-        "tags": [
-            "exposiciones",
-            "cultura"
-        ],
-        "link": "https://www.europapress.es/cultura/exposiciones-00131/noticia-casi-40-humoristas-graficos-hispanoamericanos-homenajean-forges-visibilizan-enfermedades-olvidadas-20260312182701.html",
-        "date": "2026-03-12 17:27:01",
-        "sentiment_score": 0.11096109449863434
-    },
-    {
-        "title": "El incendio de un vehículo obliga a cortar la AP-7 en Paterna",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ba0c50f2-935b-473d-8d82-3560b7d077e6_16-9-aspect-ratio_default_0_x750y365.jpg",
-        "tags": [
-            "seguridad vial",
-            "levante",
-            "accidentes",
-            "sucesos",
-            "incendio",
-            "paterna",
-            "retenciones",
-            "incendio en valencia",
-            "tráfico"
-        ],
-        "link": "https://www.levante-emv.com/sucesos/2026/03/12/incendio-vehiculo-obliga-cortar-ap-127893972.html",
-        "date": "2026-03-12 17:25:12",
-        "sentiment_score": -0.7893707407638431
-    },
-    {
-        "title": "El incendio de un vehículo obliga a cortar la A-7 en Paterna",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ba0c50f2-935b-473d-8d82-3560b7d077e6_16-9-aspect-ratio_default_0_x750y365.jpg",
-        "tags": [
-            "seguridad vial",
-            "paterna",
-            "levante",
-            "retenciones",
-            "sucesos",
-            "accidentes",
-            "incendio",
-            "incendio en valencia",
-            "tráfico"
-        ],
-        "link": "https://www.informacion.es/sucesos/2026/03/12/incendio-accidente-en-valencia-vehiculo-obliga-cortar-a7-paterna-barcelona-127893970.html",
-        "date": "2026-03-12 17:25:11",
-        "sentiment_score": -0.8048311769962311
-    },
-    {
-        "title": "Viajar al S.XVI sin salir de Barcelona: el espectacular galeón pirata de 500 toneladas que se puede visitar solo hasta este fin de semana",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2015/01/15/cronica-directo/curiosidades/3510476_2109514_1706x960.jpg",
-        "tags": [
-            "planes",
-            "recomendaciones",
-            "vivir en barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260312/viajar-sxvi-sin-salir-barcelona-espectacular-galeon-pirata-toneladas-puede-visitar-solo-fin-semana/1003742740851_0.html",
-        "date": "2026-03-12 17:24:02",
-        "sentiment_score": 0.5356599241495132
-    },
-    {
-        "title": "El papel de los drones iraníes en la guerra",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-        "tags": [
-            "claves del día"
-        ],
-        "link": "https://www.lavanguardia.com/videos/claves-del-dia/20260312/11488424/claves-dia-papel-drones-iranies-guerra-claves-educar-perro.html",
-        "date": "2026-03-12 17:23:59",
-        "sentiment_score": 0.5490513276308775
-    },
-    {
-        "title": "SEAT S.A. se muestra optimista con el próximo lanzamiento del Cupra Raval y no reducirá la plantilla en Martorell",
-        "image_url": "https://www.hispanidad.com/uploads/s1/14/53/77/1/15-seat-cupra-completes-a-year-of-resilience-and-transformation-and-outlines-a-clear-roadmap-for-sustainable-growth-starting-with-the-launch-of-the-cupra-raval-hq_4_588x353.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.hispanidad.com/economia/seat-sa-se-muestra-optimista-con-proximo-lanzamiento-cupra-raval-descarta-reducciones-plantilla-en-martorell_12066257_102.html",
-        "date": "2026-03-12 17:21:42",
-        "sentiment_score": 0.012053236365318298
-    },
-    {
-        "title": "GuestReady crece un 52% en 2025 y alcanza los 6,5 millones de euros en reservas en España",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260312182103_690.jpg",
-        "tags": [
-            "transportes",
-            "economía finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/transportes-00343/noticia-guestready-crece-52-2025-alcanza-65-millones-euros-reservas-espana-20260312182103.html",
-        "date": "2026-03-12 17:21:03",
-        "sentiment_score": 0.5005156248807907
-    },
-    {
         "title": "Endrick evita la victoria del Celta",
         "image_url": "https://www.latribunadetoledo.es/media/img/2026/2150eb27-cc85-4c98-b202d86a2c3546c6.jpg",
         "tags": [
@@ -3298,5 +3085,174 @@ export default [
         "link": "https://ultimasnoticias.com.ve/anzoateggui/entregan-insumos-para-nuevas-viviendas-en-urbanismo-la-victoria-de-barcelona/",
         "date": "2026-03-16 00:49:24",
         "sentiment_score": 0.08316460251808167
+    },
+    {
+        "title": "Joan Laporta gana con contundencia las elecciones del FC Barcelona y seguirá como presidente hasta 2031",
+        "image_url": "https://www.elplural.com/uploads/s1/24/94/20/2/el-presidente-del-futbol-club-barcelona-joan-laporta-ep_7_480x270.jpeg",
+        "tags": [
+            "el regate"
+        ],
+        "link": "https://www.elplural.com/el-regate/joan-laporta-gana-contundencia-elecciones-fc-barcelona-seguira-presidente-hasta-2031_384237102",
+        "date": "2026-03-16 06:20:57",
+        "sentiment_score": 0.003291308879852295
+    },
+    {
+        "title": "Mbappé está de regreso en la convocatoria del Real Madrid",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/16085720/Mbappe-logro-superar-el-esguince-de-rodilla-que-arrastra-desde-diciembre-Foto-Archivo.jpg",
+        "tags": [
+            "deportes",
+            "real madrid",
+            "fútbol",
+            "mbappé",
+            "champions"
+        ],
+        "link": "https://www.elnacional.com/2026/03/mbappe-esta-de-regreso-en-la-convocatoria-del-real-madrid/",
+        "date": "2026-03-16 06:00:00",
+        "sentiment_score": 0.005374103784561157
+    },
+    {
+        "title": "Los médicos de Madrid retoman la huelga contra el Estatuto Marco del Ministerio de Sanidad",
+        "image_url": "https://www.madridactual.es/images/stories/noticias/agencias/ep/2026/03/madrid-medicos-madrilenos-retoman-proxima-semana-huelga.jpg",
+        "tags": [
+            "sanidad madrid"
+        ],
+        "link": "https://www.madridactual.es/noticias-regionales/sanidad-madrid/madrid-medicos-madrilenos-retoman-lunes-semana-huelga-20260316-8091435.html",
+        "date": "2026-03-16 05:46:02",
+        "sentiment_score": 0.06091899052262306
+    },
+    {
+        "title": "¿Aguja en un pajar o la nueva ola? Los fondos de infraestructuras desembarcan en España para ser parte de la solución del problema de la vivienda",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3870c1b0-a043-4ef8-a38c-27b02d797e55_16-9-aspect-ratio_default_0_x1200y533.jpg",
+        "tags": [
+            "mercado inmobiliario",
+            "sector inmobiliario",
+            "construcción",
+            "fondos de inversión",
+            "alquiler",
+            "vivienda"
+        ],
+        "link": "https://www.laprovincia.es/economia/2026/03/16/fondos-infraestructuras-vivienda-espana-128012272.html",
+        "date": "2026-03-16 05:25:55",
+        "sentiment_score": -0.058735743165016174
+    },
+    {
+        "title": "Gasolineras más baratas hoy: encuentra la gasolina con el precio más bajo de hoy lunes en tu municipio",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/55584ab3-9934-49e3-8de6-9a7cd70e4fb2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "santana",
+            "fuerteventura",
+            "gran canaria",
+            "gasolineras",
+            "gasolina",
+            "lanzarote"
+        ],
+        "link": "https://www.laprovincia.es/gran-canaria/2026/03/16/gasolineras-baratas-hoy-encuentra-gasolina-128014159.html",
+        "date": "2026-03-16 07:15:00",
+        "sentiment_score": 0.05281664431095123
+    },
+    {
+        "title": "¿Cuáles son los servicios mínimos en Cataluña ante la huelga educativa?",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/02/11/5A77A8A7-E960-4181-867A-718CD7A69B98/98.jpg?crop=5668%2C3189%2Cx0%2Cy295&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/cuales-son-servicios-minimos-cataluna-huelga-educativa_2026031669b721c2d489bf782e1b2a7d.html",
+        "date": "2026-03-16 07:00:21",
+        "sentiment_score": 0.041589390486478806
+    },
+    {
+        "title": "La temporada más difícil de Valverde en el Athletic",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f3a2d0b3-6a70-49ca-81bb-bd18a9d09875_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "temporada",
+            "dificil",
+            "athletic",
+            "valverde"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/03/16/temporada-dificil-valverde-athletic-10823855.html",
+        "date": "2026-03-16 06:52:28",
+        "sentiment_score": 0.0881788432598114
+    },
+    {
+        "title": "Laporta arrasa en las elecciones del Barcelona y seguirá cinco años más",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/03/16/2026031607500412382.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/deportes/laporta-arrasa-elecciones-barcelona-seguira-cinco-anos-mas/20260316075118581672.html",
+        "date": "2026-03-16 06:51:18",
+        "sentiment_score": -0.8041600994765759
+    },
+    {
+        "title": "Lo que debes saber hoy, 16 de marzo, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/20/vivir-en-barcelona/1003742717874_15535517_1706x960.jpg",
+        "tags": [
+            "transporte",
+            "tráfico",
+            "el tiempo",
+            "rodalies",
+            "transports metropolitans barcelona tmb",
+            "vivir en barcelona",
+            "clima",
+            "gran barcelona",
+            "metro barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260316/debes-saber-hoy-marzo-barcelona/1003742741743_0.html",
+        "date": "2026-03-16 06:24:17",
+        "sentiment_score": -0.8364732265472412
+    },
+    {
+        "title": "Qué día es San Patricio 2026: origen, fechas, cuándo es y cómo se celebra en España",
+        "image_url": "https://okdiario.com/img/2026/03/14/que-dia-es-san-patricio-2026origen-fechas-cuando-es-y-como-se-celebra-en-espana.jpg",
+        "tags": [
+            "madrid",
+            "okd",
+            "fiestas",
+            "curiosidades",
+            "san patricio"
+        ],
+        "link": "https://okdiario.com/curiosidades/que-dia-san-patricio-2026-origen-fechas-cuando-como-celebra-espana-16415598",
+        "date": "2026-03-16 06:15:46",
+        "sentiment_score": 0.017168909311294556
+    },
+    {
+        "title": "9 buenos restaurantes que debes visitar antes de que acabe marzo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5f75cac8-ed15-4cd9-b9f4-ef24b73b3c9e_alta-libre-aspect-ratio_default_0_x665y249.jpg",
+        "tags": [
+            "restaurante",
+            "restaurantes barcelona",
+            "gastronomía",
+            "dónde comer hoy",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260316/buenos-restaurantes-barcelona-superauto-bistro-piropo-tru-taberna-nardi-127914430",
+        "date": "2026-03-16 06:00:59",
+        "sentiment_score": 0.4679403305053711
+    },
+    {
+        "title": "¿Por qué los narcisistas siempre se salen con la suya?",
+        "image_url": "https://static1.ara.cat/clip/556a6739-a1d3-4620-bd1e-f5e7cb8e84fa_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "narcisistas",
+            "salen"
+        ],
+        "link": "https://es.ara.cat/estilo/narcisistas-salen_130_5679547.html",
+        "date": "2026-03-16 06:00:50",
+        "sentiment_score": -0.18259723484516144
+    },
+    {
+        "title": "Un nuevo viejo Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/15/culemania/palco/1003742741701_15830230_1706x960.jpg",
+        "tags": [
+            "barça",
+            "pablo martín páez gavira gavi",
+            "hansi flick",
+            "juanito blaugrana",
+            "un culé en la castellana"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/juanito-blaugrana/20260316/nuevo-viejo-barca/1003742741705_0.html",
+        "date": "2026-03-16 05:59:37",
+        "sentiment_score": -0.18591353297233582
     }
 ];
