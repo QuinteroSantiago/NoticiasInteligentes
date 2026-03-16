@@ -3035,5 +3035,268 @@ export default [
         "link": "https://www.hoy.es/deportes/futbol/liga-primera/presidentes-barcelona-20260315231441-ntrc.html",
         "date": "2026-03-15 22:14:47",
         "sentiment_score": -0.1342414692044258
+    },
+    {
+        "title": "Condenado en Palma por estafar a su cuñado 8.211 euros con un viaje familiar a República Dominicana",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4411985.jpg",
+        "tags": [
+            "accidente de tráfico",
+            "ultimas noticias",
+            "sucesos en mallorca",
+            "noticias",
+            "cuñado",
+            "república dominicana",
+            "dinero",
+            "última hora",
+            "estafas en mallorca",
+            "noticias sucesos hoy"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2026/03/16/2589471/condenado-palma-por-estafar-cunado-8211-euros-viaje-familiar-republica-dominicana.html",
+        "date": "2026-03-16 02:48:01",
+        "sentiment_score": -0.8327355831861496
+    },
+    {
+        "title": "Por primera vez las cédulas de votación del extranjero deberán volver al Perú: ¿Cuánto se gastará?",
+        "image_url": "https://www.infobae.com/resizer/v2/56YNNYG2UVGX3FYZA54NRPGHO4.png?auth=1e8614834796c9b3be6f9a370d22e478e4f16b93bef0bce1ebf40c6c62282f01&height=1080&smart=true&width=1920",
+        "tags": [
+            "elecciones perú 2026",
+            "elecciones 2026",
+            "cancillería",
+            "ministerio de relaciones exteriores",
+            "peru-noticias"
+        ],
+        "link": "https://www.infobae.com/peru/2026/03/16/por-primera-vez-las-cedulas-de-votacion-del-extranjero-deberan-volver-al-peru-cuanto-se-gastara/",
+        "date": "2026-03-16 00:59:30",
+        "sentiment_score": 0.07471667230129242
+    },
+    {
+        "title": "Joan Laporta, el niño que soñaba con ser Johan Cruyff y que ha cambiado la historia del Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/16/culemania/palco/1003742741740_15830838_1706x960.jpg",
+        "tags": [
+            "joan laporta",
+            "elecciones barça",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260316/joan-laporta-johan-cruyff-cambiado-historia-barca/1003742741696_0.html",
+        "date": "2026-03-16 00:54:03",
+        "sentiment_score": -0.4247143268585205
+    },
+    {
+        "title": "Médicos claman contra Mónica García por las guardias de 24 horas: \"Sabe lo que hay, pero no empatiza y tergiversa la verdad\"",
+        "image_url": "https://s3.elespanol.com/2026/03/13/actualidad/1003744168967_261931272_1706x960.jpg",
+        "tags": [
+            "mónica garcía gómez",
+            "huelga general",
+            "médicos",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260316/medicos-claman-monica-garcia-guardias-horas-sabe-no-empatiza-tergiversa-verdad/1003744161249_0.html",
+        "date": "2026-03-16 00:37:42",
+        "sentiment_score": -0.7806283123791218
+    },
+    {
+        "title": "Pedro Escudero (Silverway AM) espera gestionar entre 3.000 y 4.000 millones de euros con un equipo de 20 personas",
+        "image_url": "https://s3.elespanol.com/2026/03/13/actualidad/1003744169090_261932811_1706x960.jpg",
+        "tags": [
+            "mercados financieros",
+            "wall street",
+            "fondos de inversión",
+            "cotizaciones bolsa"
+        ],
+        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20260316/pedro-escudero-silverway-am-espera-gestionar-millones-euros-equipo-personas/1003744169083_0.html",
+        "date": "2026-03-16 00:20:46",
+        "sentiment_score": -0.011194422841072083
+    },
+    {
+        "title": "La reelección de Laporta y los canteranos del Real Madrid, en El Tertulión de los domingos",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/16/69b7499460a0f.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-15-20260316_3326928.html",
+        "date": "2026-03-16 00:18:51",
+        "sentiment_score": -0.0008689463138580322
+    },
+    {
+        "title": "Gilberto Mora es mejor que Franco Mastantuono, asegura Piojo Herrera por esta razón",
+        "image_url": "https://www.infobae.com/resizer/v2/JWDA7N2D6NEADJBYGFPE5WDEFA.jpg?auth=e63377810881a2b590cc58f0d272a56f9a413fc5ce404f168b8b397dd925b944&height=4805&smart=true&width=7207",
+        "tags": [
+            "mexico-deportes",
+            "miguel herrera",
+            "selección mexicana",
+            "mexico-noticias",
+            "franco mastantuono",
+            "gilberto mora"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2026/03/16/gilberto-mora-es-mejor-que-franco-mastantuono-asegura-piojo-herrera-por-esta-razon/",
+        "date": "2026-03-16 00:07:40",
+        "sentiment_score": -0.8156445622444153
+    },
+    {
+        "title": "Alessio Lisci: \"Hay un penalti que no se pita\"",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/dd6c46d9-7555-499c-a076-5b84478ca67d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lisci",
+            "hay",
+            "pita",
+            "alessio",
+            "penalti"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/03/16/alessio-lisci-hay-penalti-pita-10824421.html",
+        "date": "2026-03-15 23:17:26",
+        "sentiment_score": -0.1869341880083084
+    },
+    {
+        "title": "«La rabia me ayuda a escribir»",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/16/Imagen%201508443797-Rn8A6ZBYGEADUx4ag0azpQK-1200x840@RC.jpg",
+        "tags": [
+            "educación",
+            "libros",
+            "universidades",
+            "novela",
+            "filosofía",
+            "metoo"
+        ],
+        "link": "https://www.ideal.es/sociedad/rabia-ayuda-escribir-20260316001459-ntrc.html",
+        "date": "2026-03-15 23:15:03",
+        "sentiment_score": -0.9349617380648851
+    },
+    {
+        "title": "Joan Laporta golea a Víctor Font con 28.000 votos más y se proclama presidente del Barça con la participación más baja del Siglo XXI",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/16/actualidad/1003742741730_15830626_1706x960.jpg",
+        "tags": [
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260316/victor-font-pretension-anti-laportismo-participacion-siglo-xxi/1003742741715_0.html",
+        "date": "2026-03-15 23:07:16",
+        "sentiment_score": -0.9320322964340448
+    },
+    {
+        "title": "'Valor sentimental' deja sin premio a 'Sirat' en los Oscar 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/GFVIQGQLQJC33IIE5H4NUECWNQ.jpg?auth=2f130a07bdafa5555271c6448ba377040592fb033f4ac9310c4b512f780bf1fc&height=1621&smart=true&width=1920",
+        "tags": [
+            "premios goya",
+            "barcelona",
+            "sirat",
+            "cine internacional",
+            "joachim trier",
+            "hollywood",
+            "f1 la película",
+            "oscar",
+            "festival de cannes",
+            "oliver laxe",
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/16/valor-sentimental-deja-sin-premio-a-sirat-en-los-oscar-2026/",
+        "date": "2026-03-16 02:45:28",
+        "sentiment_score": 0.4090788811445236
+    },
+    {
+        "title": "Iván Cepeda estaría repitiendo la misma estrategia de Gustavo Petro en 2022 con visitas a líderes de izquierda en el exterior",
+        "image_url": "https://www.infobae.com/resizer/v2/FIFZAXDHTFDLLDTENLTS6UXVY4.jpg?auth=6646e5774613f94cedba53c87d6fc3fc0d49a6996ad38a401a525e21e700d356&height=500&smart=true&width=800",
+        "tags": [
+            "candidatos presidenciales",
+            "gustavo petro",
+            "elecciones presidenciales colombia",
+            "elecciones 2026 colombia",
+            "iván cepeda",
+            "elecciones presidenciales 2026",
+            "colombia-noticias"
+        ],
+        "link": "https://www.infobae.com/colombia/2026/03/16/ivan-cepeda-estaria-repitiendo-la-misma-estrategia-de-gustavo-petro-en-2022-con-visitas-a-lideres-de-izquierda-en-el-exterior/",
+        "date": "2026-03-16 02:25:32",
+        "sentiment_score": 0.22871434688568115
+    },
+    {
+        "title": "'F1' arrebata el Óscar a la oscense Yasmina Praderas y al equipo de ‘Sirat’",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2026/03/15/llueven-felicitaciones-y-elogios-al-sonido-de-sirat-aseguran-las-nominadas-al-oscar.jpeg",
+        "tags": [
+            "ocio y cultura"
+        ],
+        "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/03/16/oscar-aragonesa-yasmina-praderas-sirat-1902497.html",
+        "date": "2026-03-16 01:45:49",
+        "sentiment_score": 0.4833000376820564
+    },
+    {
+        "title": "VÍDEO: Joan Laporta, reelegido presidente del FC Barcelona con el 68,18% de los votos",
+        "image_url": "https://www.infobae.com/resizer/v2/EJL5COCJNNES3A5RS2XGH6FKAU.jpg?auth=fb980b1577733398c8bdc978716556c0e453637d309c65ae3cfa15e3fc784a6e&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress",
+            "sevilla fc",
+            "spotify camp nou",
+            "fc barcelona",
+            "elecciones",
+            "andorra",
+            "catalunya",
+            "europa press televisión",
+            "víctor font",
+            "presidencia",
+            "joan laporta"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/16/video-joan-laporta-reelegido-presidente-del-fc-barcelona-con-el-6818-de-los-votos/",
+        "date": "2026-03-16 01:15:28",
+        "sentiment_score": 0.8092328011989594
+    },
+    {
+        "title": "La Fundación Puente China: 20 años promoviendo las relaciones entre España y China",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/16/2026031602040741203.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.mundiario.com/articulo/internacional/fundacion-puente-china-20-anos-promoviendo-relaciones-entre-espana-china/20260316020521378786.html",
+        "date": "2026-03-16 01:05:21",
+        "sentiment_score": 0.7977765575051308
+    },
+    {
+        "title": "Joan Laporta, reelegido presidente del FC Barcelona con el 68,18% de los votos",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/202603/16/media/cortadas/joan-laporta-reelegido-presidente-barcelona-6818-votos-20260316004528-vi.jpg",
+        "tags": [
+            "presidente",
+            "reelegido",
+            "joan",
+            "6818",
+            "votos",
+            "barcelona",
+            "laporta"
+        ],
+        "link": "https://www.elcomercio.es/deportes/joan-laporta-reelegido-presidente-barcelona-6818-votos-20260316004528-vi.html",
+        "date": "2026-03-16 01:05:11",
+        "sentiment_score": -0.007523447275161743
+    },
+    {
+        "title": "15 MAR 2026 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/15-mar-2026-tertulion-domingos-20260316_3326962.html",
+        "date": "2026-03-16 00:55:09",
+        "sentiment_score": 0.20096614956855774
+    },
+    {
+        "title": "Los mejores vestidos de los Oscar: escotes ceñidos y plumas",
+        "image_url": "https://static1.ara.cat/clip/5df1c7b6-d882-440f-beb3-e8b087e2df3d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "plumas",
+            "vestidos",
+            "mejores",
+            "cenidos",
+            "oscar",
+            "escotes"
+        ],
+        "link": "https://es.ara.cat/estilo/mejores-vestidos-oscar-escotes-cenidos-plumas_1_5679526.html",
+        "date": "2026-03-16 00:54:19",
+        "sentiment_score": 0.26304370164871216
+    },
+    {
+        "title": "Entregan insumos para nuevas viviendas en urbanismo La Victoria de Barcelona",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-15-at-10.56.15-AM.jpeg",
+        "tags": [
+            "anzoátegui",
+            "actualidad"
+        ],
+        "link": "https://ultimasnoticias.com.ve/anzoateggui/entregan-insumos-para-nuevas-viviendas-en-urbanismo-la-victoria-de-barcelona/",
+        "date": "2026-03-16 00:49:24",
+        "sentiment_score": 0.08316460251808167
     }
 ];
