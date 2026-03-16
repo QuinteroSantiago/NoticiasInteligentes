@@ -1,22 +1,5 @@
 export default [
     {
-        "title": "Barcelona blinda todo su medio natural por la peste porcina",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HPIXECXHCVDTNFWKXNWTYTQCXM.jpg?auth=7b982d6e23d088037093bfa819818bcdd93012165384f5ad7d4c01a782c341f9&width=1200",
-        "tags": [
-            "restricciones",
-            "jabalíes",
-            "porcino",
-            "barcelona",
-            "cataluña",
-            "enfermedades",
-            "peste porcina",
-            "generalitat cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2026-03-12/barcelona-blinda-todo-su-medio-natural-por-la-peste-porcina.html",
-        "date": "2026-03-12 06:33:20",
-        "sentiment_score": -0.6608737502247095
-    },
-    {
         "title": "'La Tertulia del Oviedo', en Deportes COPE Asturias: El Valencia, el futuro de Escandell y los cambios para mejorar al equipo",
         "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/01/16/67893cd01d061.jpeg",
         "tags": [
@@ -2814,5 +2797,243 @@ export default [
         "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-de-la-semana-la-ciclista-que-casi-cae-por-un-acantilado",
         "date": "2026-03-14 18:00:15",
         "sentiment_score": -0.686813797801733
+    },
+    {
+        "title": "Sigue la última hora de la gala de los premios Oscar",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/15/1508625836-kOhC--758x531@RC.JPG",
+        "tags": [
+            "premios oscar"
+        ],
+        "link": "https://www.elcorreo.com/pantallas/premios-oscar/directo-sigue-ultima-hora-gala-premios-oscar-20260315233002-dirc.html",
+        "date": "2026-03-15 22:43:02",
+        "sentiment_score": 0.5324022490531206
+    },
+    {
+        "title": "Laporta es reelegido como presidente del FC Barcelona para los próximos cinco años",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/15210117/Laporta-Barcelona.jpg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "joan laporta",
+            "barcelona fc"
+        ],
+        "link": "https://www.elnacional.com/2026/03/laporta-es-reelegido-como-presidente-del-fc-barcelona-para-los-proximos-cinco-anos/",
+        "date": "2026-03-15 22:32:00",
+        "sentiment_score": 0.06174632906913757
+    },
+    {
+        "title": "Laporta gana las elecciones a la presidencia del Barça por goleada",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/15/Clipboard-0098-kxvG-U201213984295SLH-1200x840@RC.jpg",
+        "tags": [
+            "joan laporta i estruch",
+            "f.c. barcelona"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/laporta-gana-elecciones-presidencia-barca-goleada-20260315231337-ntrc.html",
+        "date": "2026-03-15 22:13:41",
+        "sentiment_score": 0.6111419312655926
+    },
+    {
+        "title": "Fernández Mañueco, un corredor de fondo",
+        "image_url": "https://s3.ppllstatics.com/lagacetadesalamanca/www/multimedia/2026/03/15/manueco-kcPE--758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "fondo",
+            "corredor"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/elecciones/castilla-y-leon/fernandez-manueco-corredor-fondo-20260315230728-nt.html",
+        "date": "2026-03-15 22:07:32",
+        "sentiment_score": 0.12489926815032959
+    },
+    {
+        "title": "Yangel Herrera deja el campo entre lágrimas tras volverse a romper",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/fa788e24-080b-4146-b66b-5595553a1533_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "herrera",
+            "vuelve",
+            "romper",
+            "yangel"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/03/15/yangel-herrera-vuelve-romper-10824173.html",
+        "date": "2026-03-15 22:05:19",
+        "sentiment_score": -0.7615017779171467
+    },
+    {
+        "title": "Vox crece en Castilla y León y tiene la llave de la reelección de Mañueco, pero sube menos de lo esperado",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/03/20260315222600.jpg?fit=1920%2C1279&ssl=1",
+        "tags": [
+            "política"
+        ],
+        "link": "https://cronicadecantabria.com/cr/vox-crece-en-castilla-y-len-y-tiene-la-llave-de-la-reeleccin-de-maueco-pero-sube-menos-de-lo-esperado/",
+        "date": "2026-03-15 22:00:06",
+        "sentiment_score": -0.014659404754638672
+    },
+    {
+        "title": "Vox sube menos lo previsto, pero tiene la llave del gobierno",
+        "image_url": "https://www.diariodeburgos.es/media/img/2026/3c735be7-eaa0-4a9a-9561be290ae7db68.jpeg",
+        "tags": [
+            "extremadura",
+            "machismo",
+            "santiago abascal",
+            "comunidad valenciana",
+            "aragón",
+            "oriente próximo",
+            "murcia",
+            "cortes de castilla y león",
+            "elecciones castilla y león",
+            "juan garcía-gallardo",
+            "castilla y león",
+            "españa",
+            "alfonso fernández mañueco",
+            "memoria histórica",
+            "javier ortega smith",
+            "vox",
+            "donald trump",
+            "pp",
+            "violencia"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z68cd5771-621a-4716-8354c628db9f4074/202603/vox-sube-menos-lo-previsto-pero-tiene-la-llave-del-gobierno",
+        "date": "2026-03-15 21:55:18",
+        "sentiment_score": 0.4086328521370888
+    },
+    {
+        "title": "¿Quiénes son los nuevos procuradores por Salamanca?",
+        "image_url": "https://s3.ppllstatics.com/lagacetadesalamanca/www/multimedia/2026/03/15/procuradores-kCbG-U2012115982504TB-758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "castilla y león",
+            "junta de castilla y león",
+            "salamanca"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/elecciones/castilla-y-leon/nuevos-procuradores-salamanca-20260315224853-nt.html",
+        "date": "2026-03-15 21:48:56",
+        "sentiment_score": 0.47783704474568367
+    },
+    {
+        "title": "Vox crece en Castilla y León y tiene la llave de la reelección de Mañueco, pero sube menos de lo esperado",
+        "image_url": "https://www.infobae.com/resizer/v2/OSG2P6OXVNG2LEGQLP6SMLK3IU.jpg?auth=7fbcab55da3226079a3d1f5037dd7e387d2060bcb172b9a4118672449e26ae28&height=1278&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/15/vox-crece-en-castilla-y-leon-y-tiene-la-llave-de-la-reeleccion-de-manueco-pero-sube-menos-de-lo-esperado/",
+        "date": "2026-03-15 21:45:48",
+        "sentiment_score": -0.30328959226608276
+    },
+    {
+        "title": "Beñat Turrientes no podrá jugar frente al Villarreal",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e95b2ba7-4fbf-424f-a7aa-45aee780d45d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "benat",
+            "turrientes",
+            "jugar",
+            "frente",
+            "podra"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/03/15/benat-turrientes-podra-jugar-frente-10824083.html",
+        "date": "2026-03-15 21:43:45",
+        "sentiment_score": -0.3150106146931648
+    },
+    {
+        "title": "Joan Laporta continuará como presidente del FC Barcelona tras imponerse en elecciones del club",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/Joan-Laporta.jpg",
+        "tags": [
+            "joan laporta",
+            "titulares",
+            "deportes",
+            "fc barcelona",
+            "futbol"
+        ],
+        "link": "https://lapatilla.com/2026/03/15/joan-laporta-continuara-como-presidente-del-fc-barcelona-tras-imponerse-en-elecciones-del-club/",
+        "date": "2026-03-15 22:44:11",
+        "sentiment_score": -0.3545731231570244
+    },
+    {
+        "title": "Víctor Muñoz no se esconde",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2026/03/15/69b732219ca23.jpeg",
+        "tags": [
+            "osasuna"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/deportes/futbol/osasuna/2026/03/15/victor-munoz-no-esconde-813627-32.html",
+        "date": "2026-03-15 22:39:28",
+        "sentiment_score": -0.39841435849666595
+    },
+    {
+        "title": "Joan Laporta vuelve a ganar las elecciones presidenciales del Barcelona",
+        "image_url": "https://i.ytimg.com/vi/IdCQoDaw66o/mqdefault.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/joan-laporta-vuelve-a-ganar-las-elecciones-presidenciales-del-barcelona-202631518350",
+        "date": "2026-03-15 22:35:00",
+        "sentiment_score": 0.8427066076546907
+    },
+    {
+        "title": "La lucha de Gerardo Pisarello para deshacerse de la mochila de Ada Colau",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2018/04/15/opinion/299980011_10674349_1706x960.jpg",
+        "tags": [
+            "ayuntamiento de barcelona",
+            "información municipal",
+            "ada colau",
+            "barcelona en comú",
+            "psc - partit dels socialistes de catalunya",
+            "jaume collboni"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260315/lucha-gerardo-pisarello-deshacerse-mochila-ada-colau/1003742741116_0.html",
+        "date": "2026-03-15 22:32:21",
+        "sentiment_score": 0.12484407424926758
+    },
+    {
+        "title": "Ignacio del Olmo, carpintero con más de 30 años de experiencia: \"Si esto sigue así, en 10 años no habrá oficios\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/13/actualidad/1003742741208_15823998_1706x960.jpg",
+        "tags": [
+            "vivir en barcelona",
+            "economía",
+            "comercio"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260315/ignacio-olmo-carpintero-anos-experiencia-sigue-no-oficios/1003742740875_0.html",
+        "date": "2026-03-15 22:32:09",
+        "sentiment_score": 0.1466071754693985
+    },
+    {
+        "title": "Joan Laporta arrasa en las elecciones del Barça y es reelegido como presidente",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/15/69b7238ddc9326-26784472.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/joan-laporta-arrasa-las-elecciones-barca-es-reelegido-como-presidente_6946276_0.html",
+        "date": "2026-03-15 22:21:46",
+        "sentiment_score": 0.13219745457172394
+    },
+    {
+        "title": "¡Laporta seguirá presidiendo el Barcelona hasta 2031!",
+        "image_url": "https://okdiario.com/img/2026/03/15/laporta-seguira-presidiendo-deportes-interior.jpg",
+        "tags": [
+            "barcelona",
+            "deportes",
+            "joan laporta",
+            "fc barcelona"
+        ],
+        "link": "https://okdiario.com/deportes/laporta-seguira-presidiendo-barcelona-hasta-2031-16422423",
+        "date": "2026-03-15 22:20:15",
+        "sentiment_score": 0.18469566106796265
+    },
+    {
+        "title": "Laporta gana la presidencia del Barça con el 67% de votos",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/15/2026031523175192746.webp",
+        "tags": [
+            "noticias en la red"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/laporta-gana-presidencia-barca-67-votos/20260315231815442979.html",
+        "date": "2026-03-15 22:18:15",
+        "sentiment_score": 0.30422891676425934
+    },
+    {
+        "title": "Todos los presidentes del Barcelona",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/03/15/Clipboard-0094-kgNF-U201213827238bqB-1200x840@RC.jpg",
+        "tags": [
+            "f.c. barcelona",
+            "joan laporta i estruch"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-primera/presidentes-barcelona-20260315231441-ntrc.html",
+        "date": "2026-03-15 22:14:47",
+        "sentiment_score": -0.1342414692044258
     }
 ];
