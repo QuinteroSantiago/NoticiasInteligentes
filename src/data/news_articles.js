@@ -1,492 +1,5 @@
 export default [
     {
-        "title": "Desinfectar el agua en depuradoras es vital, pero puede crear productos perjudiciales",
-        "image_url": "https://images.theconversation.com/files/715202/original/file-20260129-66-wmhc02.jpeg?ixlib=rb-4.1.0&rect=0%2C339%2C5122%2C2561&q=45&auto=format&w=1356&h=668&fit=crop",
-        "tags": [
-            "top"
-        ],
-        "link": "https://theconversation.com/desinfectar-el-agua-en-depuradoras-es-vital-pero-puede-crear-productos-perjudiciales-268900",
-        "date": "2026-03-11 22:35:13",
-        "sentiment_score": -0.0463995635509491
-    },
-    {
-        "title": "Fede Valverde alimenta un nuevo milagro (3-0)",
-        "image_url": "https://imagenes.elidealgallego.com/files/og_thumbnail/uploads/2026/03/11/69b1ec663fd75.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elidealgallego.com/mas-futbol/2026-03-11/fede-valverde-alimenta-un-nuevo-milagro-3-842190.html",
-        "date": "2026-03-11 22:32:46",
-        "sentiment_score": 0.004084765911102295
-    },
-    {
-        "title": "22:00 | 11 MAR 2026 | TIEMPO DE JUEGO",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/01/20/678e8e8da933c.jpeg",
-        "tags": [
-            "22",
-            "2026",
-            "mar",
-            "00",
-            "11"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-11-mar-2026-juego-20260311_3324801.html",
-        "date": "2026-03-11 22:31:55",
-        "sentiment_score": 0.02599114179611206
-    },
-    {
-        "title": "Fede Valverde se vistió de héroe con un “hat-trick” al Manchester City en Champions League",
-        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2026/03/AP26070738570990-e1773262087640.jpg",
-        "tags": [
-            "uefa champions league",
-            "manchester city",
-            "real madrid"
-        ],
-        "link": "https://eldiariony.com/2026/03/11/fede-valverde-se-vistio-de-heroe-con-un-hat-trick-al-manchester-city-en-champions-league/",
-        "date": "2026-03-11 22:31:33",
-        "sentiment_score": 0.8144235424697399
-    },
-    {
-        "title": "Arsenal empató con el Leverkusen en Champions",
-        "image_url": "https://lacalle.com.ve/wp-content/uploads/2026/03/IMG_0674.webp",
-        "tags": [
-            "top"
-        ],
-        "link": "https://lacalle.com.ve/arsenal-empato-con-el-leverkusen-en-champions/",
-        "date": "2026-03-11 22:28:42",
-        "sentiment_score": -0.11008444428443909
-    },
-    {
-        "title": "Valverde destroza al Manchester City con un hat trick",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/11/2026031123185153619.jpg",
-        "tags": [
-            "real madrid",
-            "manchester city",
-            "champions league"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/deportes/valverde-destroza-manchester-city/20260311232322442764.html",
-        "date": "2026-03-11 22:23:22",
-        "sentiment_score": 0.44756513833999634
-    },
-    {
-        "title": "Triplete de Valverde encendió la fiesta del Real Madrid contra el Manchester City",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/11171331/370a5bb5aa4937231ce3cb0922f18ca76db1167bw.jpg",
-        "tags": [
-            "federico valverde",
-            "champions league"
-        ],
-        "link": "https://www.elnacional.com/2026/03/triplete-de-valverde-encendio-la-fiesta-del-real-madrid-contra-el-manchester-city/",
-        "date": "2026-03-11 22:23:16",
-        "sentiment_score": 0.6487170606851578
-    },
-    {
-        "title": "Fede Valverde deja una noche mágica en el Real Madrid-Manchester City (3-0)",
-        "image_url": "https://static.grupojoly.com/clip/cb7ef4da-7e64-43ea-bb3d-539bf9e92bb8_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "deja",
-            "manchester",
-            "noche",
-            "valverde",
-            "madrid",
-            "magica",
-            "fede",
-            "city",
-            "real"
-        ],
-        "link": "https://www.diariodealmeria.es/deportes/fede-valverde-deja-noche-magica-real-madrid-manchester-city_0_2006145330.html",
-        "date": "2026-03-11 22:22:27",
-        "sentiment_score": 0.7290057763457298
-    },
-    {
-        "title": "Fede Valverde deja una noche mágica en el Real Madrid-Manchester City (3-0)",
-        "image_url": "https://static.grupojoly.com/clip/cb7ef4da-7e64-43ea-bb3d-539bf9e92bb8_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "deja",
-            "noche",
-            "manchester",
-            "real",
-            "madrid",
-            "city",
-            "valverde",
-            "fede",
-            "magica"
-        ],
-        "link": "https://www.europasur.es/deportes/fede-valverde-deja-noche-magica-real-madrid-manchester-city_0_2006145325.html",
-        "date": "2026-03-11 22:22:26",
-        "sentiment_score": 0.8042699061334133
-    },
-    {
-        "title": "El Barça acaba la fase de grupos apalizando al Pelister",
-        "image_url": "https://www.cope.es/files/microformat_image/uploads/2026/03/11/69b1ee28a7b8e.jpeg",
-        "tags": [
-            "apalizando",
-            "grupos",
-            "acaba",
-            "barça",
-            "fase"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/barca-acaba-fase-grupos-apalizando-pelister-20260311_3324800.html",
-        "date": "2026-03-11 22:35:34",
-        "sentiment_score": -0.07859501242637634
-    },
-    {
-        "title": "Haz lo que digo, no lo que hago",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2022/11/06/vivir-en-barcelona/716438354_9417087_1706x960.jpg",
-        "tags": [
-            "vivienda",
-            "urbanismo",
-            "barcelona en comú",
-            "opinión",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/opinion/20260311/haz-digo-no-hago/1003742740535_12.html",
-        "date": "2026-03-11 22:30:00",
-        "sentiment_score": -0.7032483089715242
-    },
-    {
-        "title": "Decenas de pensionistas se concentran en Collblanc para exigir un nuevo hospital en L’Hospitalet: “Llevamos 20 años de promesas”",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/11/actualidad/1003742740367_15812958_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "hospitales",
-            "l'hospitalet de llobregat",
-            "sanidad",
-            "vecinos"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260311/decenas-pensionistas-concentran-collblanc-exigir-nuevo-hospital-lhospitalet-llevamos-anos-promesas/1003742740346_0.html",
-        "date": "2026-03-11 22:30:00",
-        "sentiment_score": -0.90984055865556
-    },
-    {
-        "title": "Los vecinos del Gòtic exigen a Collboni una reunión urgente para buscar soluciones a la \"degradación\" del barrio",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/15/ciutat-vella/1003742716260_15514614_1706x960.jpg",
-        "tags": [
-            "ciutat vella",
-            "el gòtic",
-            "sintecho",
-            "seguridad",
-            "temporal",
-            "jaume collboni",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/ciutat-vella/20260311/vecinos-gotic-exigen-collboni-reunion-urgente-buscar-soluciones-degradacion-barrio/1003742739915_0.html",
-        "date": "2026-03-11 22:30:00",
-        "sentiment_score": -0.23795227706432343
-    },
-    {
-        "title": "De Sitges a Montgat: el monopolio de Òscar Camps (Open Arms) con la seguridad en las playas metropolitanas",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/10/gran-barcelona/1003742739912_15806775_1706x960.jpg",
-        "tags": [
-            "el prat de llobregat",
-            "sant adrià de besòs",
-            "gran barcelona",
-            "playas",
-            "contratos barcelona",
-            "montgat",
-            "castelldefels - noticias",
-            "sitges",
-            "badalona",
-            "gavà"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260311/sitges-montgat-monopolio-oscar-camps-open-arms-seguridad-playas-metropolitanas/1003742739911_0.html",
-        "date": "2026-03-11 22:30:00",
-        "sentiment_score": -0.8936992650851607
-    },
-    {
-        "title": "22:00H | 11 MAR 2026 | La Linterna",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67d04824cf91f.jpeg",
-        "tags": [
-            "00h",
-            "mar",
-            "11",
-            "22",
-            "2026"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna/horas-completas/22-00h-11-mar-2026-linterna-20260311_3324794.html",
-        "date": "2026-03-11 22:07:00",
-        "sentiment_score": -0.3785920739173889
-    },
-    {
-        "title": "47-27. El Barça liquida al Pelister por la vía rápida y certifica el primer puesto",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/11/47-27-el-barca-liquida-al-pelister-por-la-via-rapida-y-certifica-el-primer-puesto/",
-        "date": "2026-03-11 22:01:50",
-        "sentiment_score": 0.5713214911520481
-    },
-    {
-        "title": "Una macrooperación internacional desarticula redes de tráfico de residuos que utilizaban también el puerto de València",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/da73367b-dfee-4a5b-8eb4-edefd6078013_alta-libre-aspect-ratio_default_0_x640y240.jpg",
-        "tags": [
-            "sucesos",
-            "guardia civil"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260311/macrooperacion-internacional-desarticula-redes-trafico-127862713",
-        "date": "2026-03-11 21:59:00",
-        "sentiment_score": -0.07236288487911224
-    },
-    {
-        "title": "420 millones de barriles en 120 depósitos, así es el escudo español para emergencias energéticas",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2026/03/1440x810-cmsv2-2a365a0b-2ea5-5636-b193-f5cab8daa03a-9667802-1440x808.webp",
-        "tags": [
-            "energía",
-            "repsol",
-            "petróleo",
-            "irán"
-        ],
-        "link": "https://www.elindependiente.com/economia/2026/03/11/escudo-reservas-estrategicas-petroleo-espana-420-millonesv/",
-        "date": "2026-03-11 21:55:10",
-        "sentiment_score": -0.6719346176832914
-    },
-    {
-        "title": "El Real Madrid vapuleó al Manchester City",
-        "image_url": "https://primicia.com.ve/wp-content/uploads/2026/03/Diseno-sin-titulo-6.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://primicia.com.ve/deportes/el-real-madrid-vapuleo-al-manchester-city/",
-        "date": "2026-03-12 01:00:40",
-        "sentiment_score": -0.6122042015194893
-    },
-    {
-        "title": "Teresa Ko Chen, la italiana de padres taiwaneses que saltó a una multinacional tras estudiar un máster en Madrid",
-        "image_url": "https://s3.elespanol.com/2026/03/09/madrid/1003744162017_261840667_1706x960.jpg",
-        "tags": [
-            "viajes",
-            "instagram",
-            "educación",
-            "madrid total",
-            "madrid"
-        ],
-        "link": "https://www.elespanol.com/madrid/20260312/teresa-ko-chen-italiana-padres-taiwaneses-salto-multinacional-estudiar-master-madrid/1003744161233_0.html",
-        "date": "2026-03-12 01:00:00",
-        "sentiment_score": 0.6050325445830822
-    },
-    {
-        "title": "Partidos de hoy, miércoles 11 de marzo de 2026: programación, canales TV y resultados en vivo",
-        "image_url": "https://www.infobae.com/resizer/v2/U4JSKC2EKVFK7LPVHTVO23MJTA.png?auth=d05204ac7c8400f7da78ed53d90f57075b5136615f80c5b32caed631b252fb96&smart=true&width=1920&height=1080",
-        "tags": [
-            "peru-deportes",
-            "real madrid",
-            "chelsea",
-            "manchester city",
-            "sporting cristal",
-            "copa libertadores",
-            "champions league",
-            "partidos de hoy",
-            "psg"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2026/03/11/partidos-de-hoy-miercoles-11-de-marzo-de-2026-programacion-canales-tv-y-resultados-en-vivo/",
-        "date": "2026-03-12 00:57:44",
-        "sentiment_score": 0.4769521225243807
-    },
-    {
-        "title": "Jorge Luis Pinto reveló las ofertas que tuvo para volver a ser técnico: lo llamaron de cuatro países",
-        "image_url": "https://www.infobae.com/resizer/v2/7SVFZQALNREZJMSA2W7A6RBLPI.jpeg?auth=74a2960bf1ac901f592de50a597b59816d21a2d8e96de75d9dc70822b1ea8d9e&smart=true&width=4160&height=2774",
-        "tags": [
-            "costa rica",
-            "jorge luis pinto",
-            "haití",
-            "perú",
-            "guatemala",
-            "colombia-deportes",
-            "jorge luis pinto equipo"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/03/12/jorge-luis-pinto-revelo-las-ofertas-que-tuvo-para-volver-a-ser-tecnico-lo-llamaron-de-cuatro-paises/",
-        "date": "2026-03-12 00:49:10",
-        "sentiment_score": 0.32617820985615253
-    },
-    {
-        "title": "3a PARTE | 11 MAR 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/06/10/684828a972448.jpeg",
-        "tags": [
-            "parte",
-            "3ª",
-            "11",
-            "mar",
-            "2026"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-11-mar-2026-partidazo-cope-20260312_3324827.html",
-        "date": "2026-03-12 00:40:07",
-        "sentiment_score": 0.42333052307367325
-    },
-    {
-        "title": "Fede Valverde destroza al Manchester City con un triplete histórico en el Bernabéu",
-        "image_url": "https://noticias24carabobo.com/wp-content/uploads/2026/03/Resultado-Real-Madrid-hoy.jpg",
-        "tags": [
-            "noticias 24 horas carabobo",
-            "noticias de valencia",
-            "news",
-            "noticias de carabobo",
-            "noticias de hoy valencia",
-            "fede valverde",
-            "noticias de venezuela",
-            "valverde",
-            "noticias24carabobo",
-            "noticias 24",
-            "noticias de sucesos",
-            "champions league",
-            "noticias hoy",
-            "real madrid",
-            "noticias24carabobo en google news"
-        ],
-        "link": "https://noticias24carabobo.com/resultado-real-madrid-manchester-city-triplete-historico-valverde/",
-        "date": "2026-03-12 00:35:20",
-        "sentiment_score": 0.4470452219247818
-    },
-    {
-        "title": "Jueves 12 de marzo de 2026 (00.25 GMT)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/12/jueves-12-de-marzo-de-2026-0025-gmt/",
-        "date": "2026-03-12 00:30:38",
-        "sentiment_score": -0.00995783880352974
-    },
-    {
-        "title": "El avión fletado por la RFEF en Arabia Saudí para evacuar a españoles llega a Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/DGUFZQ64VNCPHKU7TYJZZ56SBM.jpg?auth=db2bce7041961161585657e963f6656ee8a6e1f3a86a4b5e77bbe322d7d53057&smart=true&width=1920&height=1080",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/12/el-avion-fletado-por-la-rfef-en-arabia-saudi-para-evacuar-a-espanoles-llega-a-madrid/",
-        "date": "2026-03-12 00:30:35",
-        "sentiment_score": -0.34490712732076645
-    },
-    {
-        "title": "Champions League: Sorpresas y goleadas en los juegos de ida de octavos de final",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "champions league"
-        ],
-        "link": "https://meridiano.net/futbol/liga-de-campeones/champions-league-sorpresas-y-goleadas-en-los-juegos-de-ida-de-octavos-de-final-202631120150",
-        "date": "2026-03-12 00:15:00",
-        "sentiment_score": -0.5174999106675386
-    },
-    {
-        "title": "Real Madrid goleó al Manchester City de Guardiola en una noche consagratoria de Fede Valverde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://noticiasya.com/2026/03/11/resultado-real-madrid-manchester-city-valverde-champions-orix/",
-        "date": "2026-03-12 00:03:44",
-        "sentiment_score": -0.5922565497457981
-    },
-    {
-        "title": "De activo inmobiliario a pensión privada: el auge de la nuda propiedad en las capitales",
-        "image_url": "https://s3.elespanol.com/2024/08/23/invertia/observatorios/vivienda/880422680_248664302_1706x960.jpg",
-        "tags": [
-            "vivienda",
-            "observatorio de la vivienda",
-            "propiedades"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20260312/activo-inmobiliario-pension-privada-auge-nuda-propiedad-capitales/1003744154194_0.html",
-        "date": "2026-03-12 01:40:44",
-        "sentiment_score": 0.4626321643590927
-    },
-    {
-        "title": "Sporting Cristal recibirá millonaria cifra por clasificar a la fase de grupos de la Copa Libertadores 2026",
-        "image_url": "https://www.infobae.com/resizer/v2/HFN25FVV5JAEFO2C3HVDO5LQRY.jpg?auth=2e1ebe1e515b7e6d98ac7403d065f151e69fe7d07dbefde53a5fdc0713e168a9&smart=true&width=1920&height=1080",
-        "tags": [
-            "peru-deportes",
-            "copa libertadores",
-            "sporting cristal"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2026/03/12/sporting-cristal-recibira-millonaria-cifra-por-clasificar-a-la-fase-de-grupos-de-la-copa-libertadores-2026/",
-        "date": "2026-03-12 01:02:49",
-        "sentiment_score": 0.7092924155294895
-    },
-    {
-        "title": "Petro aboga por una alianza contra el narcotráfico con todos los países americanos y sin \"fundamentalismos\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260312015548_1200.jpg",
-        "tags": [
-            "narcotráfico",
-            "estados unidos",
-            "colombia"
-        ],
-        "link": "https://www.europapress.es/internacional/noticia-petro-aboga-alianza-contra-narcotrafico-todos-paises-americanos-fundamentalismos-20260312015548.html",
-        "date": "2026-03-12 00:55:48",
-        "sentiment_score": -0.4463507831096649
-    },
-    {
-        "title": "Netflix y Amazon Prime ponen el foco en Tarragona: la ciudad se convierte en escenario de grandes producciones",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/12/2026031201353045961.jpg",
-        "tags": [
-            "amazon prime video",
-            "netflix",
-            "tarragona"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/series/netflix-amazon-prime-ponen-foco-tarragona-ciudad-convierte-escenario-grandes-producciones/202603120135521009166.html",
-        "date": "2026-03-12 00:35:52",
-        "sentiment_score": 0.46841756254434586
-    },
-    {
-        "title": "Los puntos de fricción y desacuerdo entre Ferran Olivé y Jaume Guardiola, los capataces económicos de las elecciones del Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/12/culemania/palco/1003742740565_15815697_1706x960.jpg",
-        "tags": [
-            "ferran olivé",
-            "elecciones barça",
-            "jaume guardiola",
-            "fc barcelona",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260312/desacuerdo-ferran-olive-jaume-guardiola-economicos-barca/1003742740500_0.html",
-        "date": "2026-03-12 00:17:58",
-        "sentiment_score": -0.07422399520874023
-    },
-    {
-        "title": "El loft del Poblenou que reunió a 100 VIP y agitó Barcelona: Gerard Guiu convierte una fiesta privada en cita clave",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/12/2026031201111850059.jpg",
-        "tags": [
-            "acto",
-            "empresarios",
-            "barcelona",
-            "alcalde"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/famosos/loft-poblenou-que-reunio-100-vip-agito-barcelona-gerard-guiu-convierte-fiesta-privada-cita-clave/202603120111311009155.html",
-        "date": "2026-03-12 00:11:31",
-        "sentiment_score": -0.08718477189540863
-    },
-    {
-        "title": "Sierra, la compañía de IA del exCEO de Salesforce, desembarca en España",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/e70a9437685dc4b2edf81bfc39ad34e4/crop/298x275/1936x1367/resize/1638/assets/multimedia/imagenes/2026/03/11/17732263644390.jpg",
-        "tags": [
-            "empresas",
-            "economia-digital/companias",
-            "tecnología"
-        ],
-        "link": "https://www.expansion.com/economia-digital/companias/2026/03/12/69b148eee5fdea82668b45a2.html",
-        "date": "2026-03-12 00:10:06",
-        "sentiment_score": 0.4631914161145687
-    },
-    {
-        "title": "Empresas Polar entra al mercado del café en Venezuela con distribución de marcas reconocidas (+Fotos)",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://eltiempove.com/empresas-polar-entra-al-mercado-del-cafe-en-venezuela-con-distribucion-de-marcas-reconocidas-fotos/",
-        "date": "2026-03-12 00:07:33",
-        "sentiment_score": 0.7894510328769684
-    },
-    {
-        "title": "Fede Valverde disfruta como antes",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/12080606/El-uruguayo-Fede-Valverde-fue-el-protagonista-de-la-noche-redonda-del-Madrid-Foto-Archivo.jpg",
-        "tags": [
-            "real madrid",
-            "fútbol",
-            "fede valverde",
-            "manchester city",
-            "deportes"
-        ],
-        "link": "https://www.elnacional.com/2026/03/fede-valverde-disfruta-como-antes/",
-        "date": "2026-03-12 05:12:00",
-        "sentiment_score": 0.7600271627306938
-    },
-    {
         "title": "Barcelona blinda todo su medio natural por la peste porcina",
         "image_url": "https://imagenes.elpais.com/resizer/v2/HPIXECXHCVDTNFWKXNWTYTQCXM.jpg?auth=7b982d6e23d088037093bfa819818bcdd93012165384f5ad7d4c01a782c341f9&width=1200",
         "tags": [
@@ -3075,5 +2588,231 @@ export default [
         "link": "https://www.lacronicabadajoz.com/comunicaciones-empresas/2026/03/15/sutega-refuerza-crecimiento-incorporacion-constructora-127976382.html",
         "date": "2026-03-15 06:01:54",
         "sentiment_score": 0.5032984986901283
+    },
+    {
+        "title": "Qué es el síndrome compartimental, la condición que podría comprometer el rendimiento de los pilotos de Fórmula 1",
+        "image_url": "https://www.infobae.com/resizer/v2/GAF7NOFNRNBWDDTHVB4ZF52E7I.jpg?auth=7bf58fcf038c2d8f083cc097a095d0548c5642e611e27604e9784fb133167606&height=1080&smart=true&width=1920",
+        "tags": [
+            "vibraciones autos",
+            "fernando alonso",
+            "f1",
+            "fórmula 1",
+            "newsroom bue",
+            "aston martin",
+            "adrian newey"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/15/que-es-el-sindrome-compartimental-la-condicion-que-podria-comprometer-el-rendimiento-de-los-pilotos-de-formula-1/",
+        "date": "2026-03-15 18:09:12",
+        "sentiment_score": -0.5109156221151352
+    },
+    {
+        "title": "El Real Avilés femenino vuelve a empatar y ve cada vez más lejos la salvación",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/03/15/atletico-aviles-klYB-U201213851498M7C-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "deportes avilés",
+            "fútbol femenino"
+        ],
+        "link": "https://www.elcomercio.es/deportes/deporte-femenino/real-aviles-femenino-vuelve-empatar-vez-lejos-20260315185432-nt.html",
+        "date": "2026-03-15 17:56:42",
+        "sentiment_score": -0.6169803887605667
+    },
+    {
+        "title": "Kylian Mbappé entrena con el grupo y podría viajar a Mánchester para la vuelta ante el City",
+        "image_url": "https://www.infobae.com/resizer/v2/JOZXSN7JQRGNXCDWLC4JQS6IHE.jpg?auth=7687eee6d139218120ac7fc87cf03968a99677c59dad22cef9e7f6f562540260&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/15/kylian-mbappe-entrena-con-el-grupo-y-podria-viajar-a-manchester-para-la-vuelta-ante-el-city/",
+        "date": "2026-03-15 17:45:37",
+        "sentiment_score": 0.11304949969053268
+    },
+    {
+        "title": "Dani Vidal, entrenador del Real Avilés: «Hemos probado todo para no encajar, tendremos que ir a marcar un gol más que el rival»",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/03/15/dani-vidal-kUlG-U201213533869TjC-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real avilés"
+        ],
+        "link": "https://www.elcomercio.es/real-aviles/dani-vidal-entrenador-real-aviles-probado-encajar-20260315183921-nt.html",
+        "date": "2026-03-15 17:39:25",
+        "sentiment_score": -0.22305551171302795
+    },
+    {
+        "title": "Fiesta completa del Barça ante el Sevilla",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/15/Clipboard-0089-kARC-U201161659779NO-1200x840@RC.jpg",
+        "tags": [
+            "f.c. barcelona"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-primera/fiesta-completa-barca-ante-sevilla-20260315182403-ntrc.html",
+        "date": "2026-03-15 17:37:14",
+        "sentiment_score": 0.3460095226764679
+    },
+    {
+        "title": "Rafael Carrasco, el exfutbolista 'galáctico' que cambió a David Beckham por el volante del tren turístico de Aracena, en Huelva",
+        "image_url": "https://album.mediaset.es/eimg/2026/03/10/tren-turistico-de-aracena-huelva_4d96.jpg",
+        "tags": [
+            "andalucía"
+        ],
+        "link": "https://www.telecinco.es/noticias/andalucia/20260315/rafael-carrasco-exfutbolista-conductor-tren-turistico-aracena-huelva_18_018573665.html",
+        "date": "2026-03-15 17:30:15",
+        "sentiment_score": -0.26771533489227295
+    },
+    {
+        "title": "La versión de la AFA para cancelar la Finalissima contra España",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/03/01/69a4345ec96cb.r_d.375-299-15809.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/version-afa-cancelar-finalissima-espana-20260315_3326850.html",
+        "date": "2026-03-15 17:17:56",
+        "sentiment_score": -0.022189468145370483
+    },
+    {
+        "title": "Coincidencia para superar las penas: el Lugo también fue goleado por el Castilla el año de su último ascenso",
+        "image_url": "https://cflvdg.avoz.es/sc/3s_5C_SR5o31kThM5vtDPNIL_3g=/768x/2026/03/15/00121773594541625340287/Foto/m_20260314_220544000.jpg",
+        "tags": [
+            "cdlugo",
+            "cd lugo",
+            "primera rfef"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/cdlugo/2026/03/15/coincidencia-superar-penas-lugo-goleado-castilla-ano-ultimo-ascenso/00031773594450212462429.htm",
+        "date": "2026-03-15 17:14:00",
+        "sentiment_score": -0.2585402652621269
+    },
+    {
+        "title": "Estos son los próximos rivales del Real Zaragoza: continúa el Tourmalet",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2026/03/14/real-zaragoza-almeria-54.jpeg",
+        "tags": [
+            "real zaragoza"
+        ],
+        "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/03/15/estos-son-los-proximos-rivales-del-real-zaragoza-continua-el-tourmalet-1902414.html",
+        "date": "2026-03-15 16:57:45",
+        "sentiment_score": 0.11648530140519142
+    },
+    {
+        "title": "Madrid se prepara para su gran semana de la moda con Baro Lucas y Fely Campo entre los nombres destacados",
+        "image_url": "https://www.tribunavalladolid.com/uploads/imagenes/images/2026/3/15/437854/20260315190941_caratula.webP",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.tribunasalamanca.com/noticias/437854/madrid-se-prepara-para-su-gran-semana-de-la-moda-con-baro-lucas-y-fely-campo-entre-los-nombres-destacados",
+        "date": "2026-03-15 18:06:00",
+        "sentiment_score": 0.36295101046562195
+    },
+    {
+        "title": "Los profesores empiezan una huelga y presionan al Govern de Illa en su semana más crítica",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/c8960417ed23b19cba2bd8b74e5ced05/crop/2x0/998x997/f/image/jpeg/assets/multimedia/imagenes/2023/12/28/17037819584998.jpg",
+        "tags": [
+            "artículos cristina rubio"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2026/03/15/69b6f179e85ecebe488b45a9.html",
+        "date": "2026-03-15 18:02:04",
+        "sentiment_score": 0.06031275913119316
+    },
+    {
+        "title": "Barcelona reactiva este lunes la Zona de Bajas Emisiones tras más de un mes suspendida por el caos de Rodalies",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/12/693beb8af3f039-21888789.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona-reactiva-este-lunes-zona-bajas-emisiones-tras-mas-un-mes-suspendida-por-caos-rodalies_6946190_0.html",
+        "date": "2026-03-15 17:52:28",
+        "sentiment_score": -0.7688083462417126
+    },
+    {
+        "title": "Barcelona aplasta al Sevilla con triplete de Raphinha y se mantiene sólido en la cima",
+        "image_url": "https://noticialdia.com/wp-content/firewall/uploads/2026/03/GettyImages-2266639336-768x534-1.jpg",
+        "tags": [
+            "laliga",
+            "sevilla",
+            "deportes",
+            "raphinha",
+            "barcelona"
+        ],
+        "link": "https://noticialdia.com/deportes/barcelona-aplasta-al-sevilla-con-triplete-de-raphinha-y-se-mantiene-solido-en-la-cima/",
+        "date": "2026-03-15 17:41:00",
+        "sentiment_score": 0.659084752202034
+    },
+    {
+        "title": "Nortur se consolida dentro del sector del campismo: «La de Avilés es una feria de referencia»",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/03/15/clausura-feria-nortur-aviles-RD68QxPqmX5i4byQOqwRHKL-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "avilés",
+            "exposiciones",
+            "cámara de comercio de avilés",
+            "pabellón de exposiciones de la magdalena",
+            "feria"
+        ],
+        "link": "https://www.elcomercio.es/aviles/nortur-consolida-dentro-sector-campismo-aviles-feria-20260315183856-nt.html",
+        "date": "2026-03-15 17:38:58",
+        "sentiment_score": 0.7634833976626396
+    },
+    {
+        "title": "El detalle del Barcelona-Sevilla que sorprendió a Paco González: \"Si tú le cuentas a alguien que el Barça va ganando 5-1 al Sevilla y 0 goles...\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/15/69b6e41cf1d2b.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/detalle-barcelona-sevilla-sorprendio-paco-gonzalez-le-cuentas-alguien-barca-gana-5-1-sevilla-0-goles-20260315_3326847.html",
+        "date": "2026-03-15 17:23:30",
+        "sentiment_score": -0.09011989831924438
+    },
+    {
+        "title": "Ceuta, destino de buceo en la feria internacional de Cornellá",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/03/ceuta-destino-buceo-feria-internacional-cornella-005-750x500.jpeg",
+        "tags": [
+            "turismo",
+            "sociedad",
+            "buceo",
+            "noticias",
+            "gobierno de ceuta"
+        ],
+        "link": "https://elfarodeceuta.es/ceuta-destino-buceo-feria-internacional-cornella/",
+        "date": "2026-03-15 17:20:23",
+        "sentiment_score": 0.40895184874534607
+    },
+    {
+        "title": "Adiós con honores a la ‘Final Four’",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b438e55e-bfb4-4dfd-80b0-5deeb8434e62_16-9-aspect-ratio_default_0_x648y261.jpg",
+        "tags": [
+            "final",
+            "baskonia",
+            "jovenes",
+            "honores",
+            "españa",
+            "euroliga",
+            "baloncesto",
+            "vitoria",
+            "adios",
+            "four",
+            "barcelona"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/03/15/adios-honores-final-four-baskonia-barcelona-euroliga-jovenes-baloncesto-espana-vitoria-10823427.html",
+        "date": "2026-03-15 17:06:38",
+        "sentiment_score": 0.8520886935293674
+    },
+    {
+        "title": "Fernanda Trías: \"La vida común puede ser un universo interesante de explorar literariamente\"",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/06/letraglobal/1003742738980_15795482_1706x960.jpg",
+        "tags": [
+            "libros",
+            "entrevistas",
+            "escritores",
+            "literatura",
+            "letras"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/letraglobal/letras/20260315/fernanda-trias-comun-universo-interesante-explorar-literariamente/1003742739805_0.html",
+        "date": "2026-03-15 17:00:00",
+        "sentiment_score": -0.2658328488469124
+    },
+    {
+        "title": "Lo más viral de la semana: La ciclista que casi cae por un acantilado",
+        "image_url": "https://static.wixstatic.com/media/cf263a_a995c89c6cd34e08992e98693e6cdd64~mv2.jpg/v1/fit/w_640,h_427,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-de-la-semana-la-ciclista-que-casi-cae-por-un-acantilado",
+        "date": "2026-03-14 18:00:15",
+        "sentiment_score": -0.686813797801733
     }
 ];
