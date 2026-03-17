@@ -1,283 +1,5 @@
 export default [
     {
-        "title": "Kylian Mbappé estrena carnet de conducir: estos son sus espectaculares cochazos de lujo en los que paseará a Ester Expósito",
-        "image_url": "https://www.hola.com/horizon/landscape/052b82591690-mbappecoche.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "actualidad",
-            "kylian mbappé"
-        ],
-        "link": "https://www.hola.com/actualidad/20260313889190/kylian-mbappe-estrena-carnet-conducir-cochazos-lujo-paseara-ester-exposito/",
-        "date": "2026-03-13 06:46:45",
-        "sentiment_score": 0.6705344934016466
-    },
-    {
-        "title": "Por qué algunos recién nacidos enferman por E. coli y otros no: la pista está en los anticuerpos que heredan de su madre",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260313073948_690.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-algunos-recien-nacidos-enferman-coli-otros-no-pista-anticuerpos-heredan-madre-20260313073948.html",
-        "date": "2026-03-13 06:39:48",
-        "sentiment_score": -0.5254557430744171
-    },
-    {
-        "title": "Platón en el Consejo Escolar de Estado",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/03/platon-consejo-escolar-estado-750x503.jpeg",
-        "tags": [
-            "opinión",
-            "colaboraciones"
-        ],
-        "link": "https://elfarodeceuta.es/platon-consejo-escolar-estado/",
-        "date": "2026-03-13 06:26:35",
-        "sentiment_score": 0.09173932671546936
-    },
-    {
-        "title": "La Sublevación de Jaca",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/03/sublevacion-jaca-003-750x695.jpg",
-        "tags": [
-            "colaboraciones",
-            "opinión"
-        ],
-        "link": "https://elfarodeceuta.es/sublevacion-jaca/",
-        "date": "2026-03-13 06:26:30",
-        "sentiment_score": -0.08187443017959595
-    },
-    {
-        "title": "Horarios y resultados en directo Balonmano 14-15 Marzo",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/02/Caserio-Bidasoa-Elena-Rosa-1-de-1-21.jpg",
-        "tags": [
-            "bm bolaños femenino",
-            "bm alarcos",
-            "balonmano femenino",
-            "bm herencia",
-            "primera nacional",
-            "balonmano",
-            "bm bolaños",
-            "bm caserío femenino",
-            "bm caserío ciudad real",
-            "soliss bm pozuelo de calatrava",
-            "herencia",
-            "división honor oro femenina",
-            "liga asobal de balonmano",
-            "bm pozuelo",
-            "división de honor oro femenina",
-            "partidos en directo",
-            "ciudad real",
-            "primera nacional balonmano masculino",
-            "división de honor masculina balonmano - liga nexus energía asobal",
-            "bolaños de calatrava",
-            "pozuelo de calatrava",
-            "división de honor plata femenina",
-            "deportes"
-        ],
-        "link": "https://www.lanzadigital.com/deportes/balonmano/horarios-y-resultados-en-directo-balonmano-14-15-marzo/",
-        "date": "2026-03-13 06:15:00",
-        "sentiment_score": 0.059154003858566284
-    },
-    {
-        "title": "Una vía de crecimiento lejos de San Mamés",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7b810747-5a2c-4537-935b-4ccc252809b6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "domicilio",
-            "crecimiento",
-            "athletic",
-            "girona",
-            "san mamés"
-        ],
-        "link": "https://www.deia.eus/athletic/2026/03/13/crecimiento-athletic-domicilio-san-mames-girona-10815091.html",
-        "date": "2026-03-13 06:07:49",
-        "sentiment_score": 0.36246640980243683
-    },
-    {
-        "title": "Rafael Louzán da la bienvenida en Madrid a la delegación de FIFA que visita las sedes del Mundial 2030",
-        "image_url": "https://www.infobae.com/resizer/v2/HJN2JUP2WFHQHBTLOSVKBHZS6A.jpg?auth=9c2dca5a0bd5bb0d878ad0e746ea367923942895a9cbaed69f1c59e835ba8cad&height=1158&smart=true&width=1920",
-        "tags": [
-            "marruecos",
-            "real federación española de fútbol",
-            "españa",
-            "madrid",
-            "europapress",
-            "rafael louzán",
-            "fifa",
-            "mundial 2030",
-            "fútbol",
-            "barcelona",
-            "portugal"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/11/rafael-louzan-da-la-bienvenida-en-madrid-a-la-delegacion-de-fifa-que-visita-las-sedes-del-mundial-2030/",
-        "date": "2026-03-13 06:02:54",
-        "sentiment_score": 0.8492571786046028
-    },
-    {
-        "title": "El doble blanco",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1fc014c2-7315-46af-9d3e-83cb7d6db0f0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "marruecos",
-            "saharaui",
-            "política",
-            "pesca",
-            "puerto",
-            "naciones unidas",
-            "españa"
-        ],
-        "link": "https://www.laprovincia.es/opinion/2026/03/13/doble-blanco-127897732.html",
-        "date": "2026-03-13 06:00:00",
-        "sentiment_score": -0.33174560964107513
-    },
-    {
-        "title": "Arbeloa confía en que Mbappé regrese: \"Su evolución es buena\"",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/13093639/Arbeloa-alabo-tener-un-equipo-muy-comprometido-Foto-Archivo.jpg",
-        "tags": [
-            "arbeloa",
-            "fútbol",
-            "el real madrid",
-            "laliga",
-            "deportes"
-        ],
-        "link": "https://www.elnacional.com/2026/03/arbeloa-confia-en-que-mbappe-regrese-su-evolucion-es-buena/",
-        "date": "2026-03-13 06:00:00",
-        "sentiment_score": 0.5004659853875637
-    },
-    {
-        "title": "Viva la rutina",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/99ff08e9-2809-4968-8932-6602e2c73249_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "universidad de la laguna",
-            "charlas",
-            "emprendimiento",
-            "cerebro",
-            "máster"
-        ],
-        "link": "https://www.eldia.es/opinion/2026/03/13/viva-rutina-127900737.html",
-        "date": "2026-03-13 06:00:00",
-        "sentiment_score": 0.16317972540855408
-    },
-    {
-        "title": "Louzán recibe en Madrid a la delegación de la FIFA que inspecciona sedes de Mundial 2030",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/11/louzan-recibe-en-madrid-a-la-delegacion-de-la-fifa-que-inspecciona-sedes-de-mundial-2030/",
-        "date": "2026-03-13 06:31:06",
-        "sentiment_score": 0.09798058867454529
-    },
-    {
-        "title": "Vlachodimos se confiesa: \"Mi hijo pequeño juega en el Sevilla\"",
-        "image_url": "https://static.grupojoly.com/clip/a5a679c7-dc7f-46aa-84e8-593aee91c1ea_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "confiesa",
-            "video",
-            "pequeno",
-            "vlachodimos",
-            "hijo",
-            "juega",
-            "sevilla"
-        ],
-        "link": "https://www.diariodesevilla.es/sevillafc/video-vlachodimos-confiesa-hijo-pequeno-juega-sevilla_8_2006162189.html",
-        "date": "2026-03-13 06:30:44",
-        "sentiment_score": 0.021617013961076736
-    },
-    {
-        "title": "Vueling fue la aerolínea low-cost más puntual de Europa en febrero",
-        "image_url": "https://actualidadaeroespacial.com/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "compañías",
-            "puntual",
-            "vueling",
-            "low cost"
-        ],
-        "link": "https://actualidadaeroespacial.com/vueling-fue-la-aerolinea-low-cost-mas-puntual-de-europa-en-febrero/",
-        "date": "2026-03-13 06:30:42",
-        "sentiment_score": 0.36334841698408127
-    },
-    {
-        "title": "La estación de Toledo más allá de los trenes: un edificio monumental neomudéjar que visitó Marie Curie",
-        "image_url": "https://static.eldiario.es/clip/03342eb1-bc15-40b0-8868-b6daa26be6d4_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "neomudejar",
-            "marie",
-            "curie",
-            "monumental",
-            "trenes",
-            "estacion",
-            "pm",
-            "toledo",
-            "edificio",
-            "visito"
-        ],
-        "link": "https://www.eldiario.es/viajes/estacion-toledo-trenes-edificio-monumental-neomudejar-visito-marie-curie-pm_1_13064671.html",
-        "date": "2026-03-13 06:29:30",
-        "sentiment_score": 0.030400246381759644
-    },
-    {
-        "title": "1111: \"Lo mejor del grupo es que tenemos un espacio de creación totalmente seguro\"",
-        "image_url": "https://www.elplural.com/uploads/s1/24/91/51/2/fedra-jose-ros-campallo-armas-mateo-jime-nez-grela-y-ru0001-rube-n-lo-pez-moreno-forma-1111-director-creativo-aaron-mira-foto-grafo-alfon-lopez_7_480x270.jpeg",
-        "tags": [
-            "música"
-        ],
-        "link": "https://www.elplural.com/revista-bando/musica/1111-lo-mejor-grupo-tenemos-espacio-creacion-totalmente-seguro_383955102",
-        "date": "2026-03-13 06:16:34",
-        "sentiment_score": 0.038981109857559204
-    },
-    {
-        "title": "El Seve Ballesteros cayó un 11,7% en febrero por los recortes de Ryanair",
-        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2026/03/12/1496736466-RFhdXXDjjjzGJyulfvMjGPN-1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "ryanair",
-            "aeropuerto seve ballesteros-santander",
-            "turismo en cantabria"
-        ],
-        "link": "https://www.eldiariomontanes.es/cantabria/seve-ballesteros-cerro-febrero-caida-pasajeros-117-20260313132749-nt.html",
-        "date": "2026-03-13 06:14:41",
-        "sentiment_score": -0.5208426862955093
-    },
-    {
-        "title": "Conseguir un sueño de calidad en una sociedad pegada a las pantallas ¿Misión imposible?",
-        "image_url": "https://efesalud.com/wp-content/uploads/2026/03/sueno-pantallas.webp",
-        "tags": [
-            "prevención",
-            "nutrición y bienestar",
-            "trastornos del sueño",
-            "insomnio",
-            "noticias principales",
-            "expertos"
-        ],
-        "link": "https://efesalud.com/sueno-pantallas-como-dormir-bien/",
-        "date": "2026-03-13 06:10:00",
-        "sentiment_score": -0.516082264482975
-    },
-    {
-        "title": "El catalanismo se la juega en la Cataluña del Norte: ¿tiene opciones o se aboca al fracaso?",
-        "image_url": "https://static1.ara.cat/clip/2df4ca0a-055c-47b1-95bb-737e02272350_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "juega",
-            "norte",
-            "fracaso",
-            "cataluna",
-            "catalanismo",
-            "aboca",
-            "opciones"
-        ],
-        "link": "https://es.ara.cat/politica/catalanismo-juega-cataluna-norte-opciones-aboca-fracaso_1_5676960.html",
-        "date": "2026-03-13 06:03:17",
-        "sentiment_score": -0.2887642830610275
-    },
-    {
-        "title": "El yo gana terreno: cada vez somos más individualistas",
-        "image_url": "https://static1.ara.cat/clip/4f899606-7c7a-4d8b-8cc2-cf3f1da26c94_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "individualistas",
-            "terreno",
-            "gana",
-            "vez"
-        ],
-        "link": "https://es.ara.cat/politica/gana-terreno-vez-individualistas_1_5676959.html",
-        "date": "2026-03-13 06:03:14",
-        "sentiment_score": -0.1804646998643875
-    },
-    {
         "title": "Posponen reunión entre Delcy Rodríguez y Gustavo Petro por “motivos de fuerza mayor”",
         "image_url": "https://static.wixstatic.com/media/335561_b22878d33b964f2d937ca9f33a59f77c~mv2.png/v1/fit/w_845,h_471,al_c,q_80/file.png",
         "tags": [
@@ -3043,5 +2765,213 @@ export default [
         "link": "https://www.farodevigo.es/vida-y-estilo/gente/2026/03/16/oscars-2026-delgadez-demi-moore-nicole-kidman-emma-stone-ozempic-128044859.html",
         "date": "2026-03-16 17:38:17",
         "sentiment_score": -0.10097263753414154
+    },
+    {
+        "title": "Cuando la libertad se convierte en privilegio",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/03/16/elecciones-CYL-kyQB--170x119@diario_abc.jpg",
+        "tags": [
+            "convierte",
+            "libertad",
+            "privilegio"
+        ],
+        "link": "https://www.elcomercio.es/opinion/ana-solis-libertad-convierte-privilegio-20260317204551-nt.html",
+        "date": "2026-03-16 22:46:20",
+        "sentiment_score": 0.04609813541173935
+    },
+    {
+        "title": "Thiago Pitarch desata disputa entre España y Marruecos por su futuro",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/14/2026031401423462627.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/thiago-pitarch-desata-disputa-entre-espana-marruecos-futuro/20260316232222378900.html",
+        "date": "2026-03-16 22:22:22",
+        "sentiment_score": -0.8650468876585364
+    },
+    {
+        "title": "Primark pone a la venta ropa del Real Madrid: estos son los modelos y precios que están arrasando",
+        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2025/10/14/el-escudo-del-real-madrid-en-una-camiseta.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/primark-pone-venta-ropa-real-madrid-son-modelos-precios-arrasando-f202603.html",
+        "date": "2026-03-16 22:19:32",
+        "sentiment_score": 0.04128868877887726
+    },
+    {
+        "title": "El rey Felipe VI de España reconoce que en la conquista de América hubo «mucho abuso»",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2026/03/AP26075759544534.webp",
+        "tags": [
+            "internacionales"
+        ],
+        "link": "https://lacalle.com.ve/el-rey-felipe-vi-de-espana-reconoce-que-en-la-conquista-de-america-hubo-mucho-abuso/",
+        "date": "2026-03-16 22:14:49",
+        "sentiment_score": -0.7436438240110874
+    },
+    {
+        "title": "La UCO vigiló por Madrid al expresidente de la Diputación de Almería en un viaje «personal» pagado con dinero público",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/03/16/leadalmeria-kAB-RIFs2GWgjKQRACJHVFHyRPP-1200x840@Ideal.jpg",
+        "tags": [
+            "unidad central operativa (uco)",
+            "almería",
+            "partido popular (pp)",
+            "almerimar",
+            "diputación provincial de almería",
+            "madrid (ciudad)",
+            "redes sociales",
+            "instagram",
+            "guardia civil"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/uco-vigilo-madrid-expresidente-diputacion-almeria-viaje-20260316193225-nt.html",
+        "date": "2026-03-16 22:09:12",
+        "sentiment_score": -0.04825177043676376
+    },
+    {
+        "title": "Ancelotti confirma que Brasil ampliará su contrato hasta el Mundial 2030",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/f54e033/2147483647/strip/true/crop/3379x1774+0+240/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F84%2F26%2Fb4acd3444bd2bf59e6e6c8572880%2Fbb9e05414a854f6e87f2f50dd9a06db0.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-16/ancelotti-confirma-que-brasil-ampliara-su-contrato-hasta-el-mundial-2030",
+        "date": "2026-03-16 22:03:50",
+        "sentiment_score": 0.28814697265625
+    },
+    {
+        "title": "Moeve Fútbol Zone 1x17: El debate definitivo sobre el '9' del Barça",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/381a1510-7aa3-4fb0-9f76-321b50a48dad_16-9-aspect-ratio_default_1445227.jpg",
+        "tags": [
+            "fútbol",
+            "real madrid",
+            "deportes",
+            "la liga",
+            "mbappé"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2026/03/16/moeve-futbol-zone-1x17-debate-128051469.html",
+        "date": "2026-03-16 21:44:47",
+        "sentiment_score": 0.7907150648534298
+    },
+    {
+        "title": "Un acertante de 'La Primitiva' gana más de 126 millones de euros, el mayor premio en la historia del sorteo",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/99b4989db2b708c98753f7aaae23f02f/f/webp/assets/multimedia/imagenes/2026/03/16/17737010520230.jpg",
+        "tags": [
+            "primitiva",
+            "lotería"
+        ],
+        "link": "https://www.elmundo.es/loterias/2026/03/16/69b8877ffc6c83b71d8b456f.html",
+        "date": "2026-03-16 22:44:44",
+        "sentiment_score": 0.17974119633436203
+    },
+    {
+        "title": "Barcelona toma una decisión con Hansi Flick tras la victoria de Laporta",
+        "image_url": "https://pxcdn.meridiano.net/032026/1773700912944.jpg?ch=180&cw=320",
+        "tags": [
+            "entertainment",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/barcelona-toma-una-decision-con-hansi-flick-tras-la-victoria-de-laporta-202631618420",
+        "date": "2026-03-16 22:42:00",
+        "sentiment_score": 0.004743367433547974
+    },
+    {
+        "title": "Un acertante de la Primitiva gana 126 millones de euros, el mayor premio en la historia del sorteo",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/06/03/resultados-primitiva-hoy-numeros-premiados-combinacion-ganadora-kjY--758x531@El%20Correo.jpg",
+        "tags": [
+            "primitiva",
+            "loterías y apuestas del estado",
+            "audiencias"
+        ],
+        "link": "https://www.elcorreo.com/loteria/primitiva/primitiva-lunes-comprobar-resultados-16-marzo-20260316190532-nt.html",
+        "date": "2026-03-16 22:34:37",
+        "sentiment_score": 0.19823288172483444
+    },
+    {
+        "title": "Tribunal ordenó juicio contra jefe de una banda extorsiva en Anzoátegui",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2024/01/Indicios-Ecuador-Fiscal.jpg",
+        "tags": [
+            "sucesos",
+            "actualidad"
+        ],
+        "link": "https://ultimasnoticias.com.ve/sucesos/tribunal-ordeno-juicio-contra-jefe-de-una-banda-extorsiva-en-anzoategui/",
+        "date": "2026-03-16 22:32:31",
+        "sentiment_score": -0.4157644882798195
+    },
+    {
+        "title": "Un acertante se lleva el mayor premio de la historia de La Primitiva: 126 millones de euros",
+        "image_url": "https://okdiario.com/img/2026/03/16/imagen_recortada-2-3.jpg",
+        "tags": [
+            "loterías",
+            "la primitiva"
+        ],
+        "link": "https://okdiario.com/loteria/acertante-lleva-mayor-premio-historia-primitiva-126-millones-euros-16430404",
+        "date": "2026-03-16 22:32:10",
+        "sentiment_score": 0.6045798510313034
+    },
+    {
+        "title": "Vecinos de la Gran Barcelona exigen acabar con la protección indefinida de la vivienda protegida",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/20/actualidad/1003742724914_15620861_1706x960.jpg",
+        "tags": [
+            "generalitat de catalunya",
+            "gran barcelona",
+            "vivienda",
+            "alquiler vivienda"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260316/vecinos-gran-barcelona-exigen-acabar-proteccion-indefinida-vivienda-protegida/1003742684379_0.html",
+        "date": "2026-03-16 22:30:00",
+        "sentiment_score": -0.7912562154233456
+    },
+    {
+        "title": "Badia pedirá salir de la zona tensionada para desbloquear la liberalización de 1.200 viviendas protegidas",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/20/actualidad/1003742724911_15620798_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "vivienda"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260316/badia-pedira-salir-zona-tensionada-desbloquear-liberalizacion-viviendas-protegidas/1003742737833_0.html",
+        "date": "2026-03-16 22:30:00",
+        "sentiment_score": 0.10297298431396484
+    },
+    {
+        "title": "La educación catalana inunda el centro de Barcelona contra un acuerdo \"insultante e indigno\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/16/actualidad/1003742741923_15833451_1706x960.jpg",
+        "tags": [
+            "manifestaciones",
+            "huelga",
+            "el pulso de la ciudad",
+            "educación",
+            "trabajadores",
+            "sindicatos"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260316/educacion-catalana-inunda-centro-barcelona-acuerdo-insultante-indigno/1003742741936_0.html",
+        "date": "2026-03-16 22:30:00",
+        "sentiment_score": 0.1804281622171402
+    },
+    {
+        "title": "Aurora Trigo, profesora en huelga en Barcelona: \"Nos han hecho una propuesta salarial que es un insulto\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/16/actualidad/1003742742083_15835538_1706x960.jpg",
+        "tags": [
+            "huelga",
+            "el pulso de la ciudad",
+            "educación",
+            "trabajadores",
+            "sindicatos"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260316/aurora-trigo-profesora-huelga-barcelona-hecho-propuesta-salarial-insulto/1003742742054_0.html",
+        "date": "2026-03-16 22:30:00",
+        "sentiment_score": -0.7791142277419567
+    },
+    {
+        "title": "Barcelona da el primer paso para desencallar el reivindicado polideportivo de Trinitat Nova",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/16/actualidad/1003742742035_15834905_1706x960.jpg",
+        "tags": [
+            "ayuntamiento de barcelona",
+            "nou barris",
+            "la trinitat nova",
+            "urbanismo",
+            "vivienda"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/nou-barris/20260316/barcelona-da-primer-paso-desencallar-reivindicado-polideportivo-trinitat-nova/1003742742026_0.html",
+        "date": "2026-03-16 22:30:00",
+        "sentiment_score": 0.3875747546553612
     }
 ];
