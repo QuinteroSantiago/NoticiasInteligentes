@@ -1,181 +1,5 @@
 export default [
     {
-        "title": "El sándwich más bueno del mundo es obra de una estudiante española (y su secreto es la mantequilla de pepinillos)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c22d1d74-145b-4ec2-b120-e768cfa7ef5e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "hostelería,concurso,comidas,gastronomía"
-        ],
-        "link": "https://www.laopiniondezamora.es/vida-y-estilo/2026/03/13/sandwich-bueno-mundo-obra-estudiante-127936442.html",
-        "date": "2026-03-13 17:35:14",
-        "sentiment_score": 0.12648752331733704
-    },
-    {
-        "title": "La imagen de Mbappé que dispara la ilusión del madridismo: Ya toca balón y su vuelta se acerca",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/03/13/image-9df041f9-4578-48b1-9fe9-5bb4355e786e-85-2560-1440.jpeg",
-        "tags": [
-            "la liga 2025/2026",
-            "football"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/mbappe-imagen-dispara-ilusion-real-madrid-ya-toca-balon-vuelta-se-acerca_sto23280633/story.shtml",
-        "date": "2026-03-13 17:31:29",
-        "sentiment_score": 0.525027222931385
-    },
-    {
-        "title": "Las 10 profesiones más expuestas a la inteligencia artificial: descubre si la tuya está en riesgo",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260313182843_690.jpg",
-        "tags": [
-            "economía finanzas",
-            "laboral"
-        ],
-        "link": "https://www.europapress.es/economia/laboral-00346/noticia-10-profesiones-mas-expuestas-inteligencia-artificial-descubre-si-tuya-riesgo-20260313182843.html",
-        "date": "2026-03-13 17:28:43",
-        "sentiment_score": 0.21656838804483414
-    },
-    {
-        "title": "El MICFootball bate récord con 464 equipos y más de 8.500 jugadores en la Costa Brava",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260313182657_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-micfootball-bate-record-464-equipos-mas-8500-jugadores-costa-brava-20260313182657.html",
-        "date": "2026-03-13 17:26:57",
-        "sentiment_score": 0.6451308224350214
-    },
-    {
-        "title": "Lamine Yamal regresa a tiempo para el duelo del Barcelona ante Sevilla",
-        "image_url": "https://noticialdia.com/wp-content/firewall/uploads/2026/03/NHYDHYW5FBP4NGZFDP2E3F2SOA.jpg",
-        "tags": [
-            "laliga",
-            "sevilla",
-            "deportes",
-            "barcelona",
-            "lamine yamal"
-        ],
-        "link": "https://noticialdia.com/deportes/lamine-yamal-regresa-a-tiempo-para-el-duelo-del-barcelona-ante-sevilla/",
-        "date": "2026-03-13 17:21:56",
-        "sentiment_score": -0.5161843448877335
-    },
-    {
-        "title": "El Ibex 35 pierde los 17.100 puntos en la semana, con el petróleo en 101 dólares",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260313181907_690.jpg",
-        "tags": [
-            "economía finanzas",
-            "finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/finanzas-00340/noticia-ibex-35-pierde-17100-puntos-semana-petroleo-101-dolares-20260313181907.html",
-        "date": "2026-03-13 17:19:07",
-        "sentiment_score": -0.1842772364616394
-    },
-    {
-        "title": "El MNAR de Mérida organiza un taller infantil el 20 de marzo con motivo del IV Día del Cómic y del Tebeo",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260313181856_260.jpg",
-        "tags": [
-            "extremadura"
-        ],
-        "link": "https://www.europapress.es/extremadura/noticia-mnar-merida-organiza-taller-infantil-20-marzo-motivo-iv-dia-comic-tebeo-20260313181856.html",
-        "date": "2026-03-13 17:18:56",
-        "sentiment_score": 0.4567892514169216
-    },
-    {
-        "title": "(Previa) La Real Sociedad quiere arrebatar al Real Madrid la segunda plaza en la Liga F Moeve",
-        "image_url": "https://www.infobae.com/resizer/v2/KL3ZX3KSIZCRFF3AS6BME7YOXM.jpg?auth=54ab12e3dcb50c39d5b1ba92fad771b43eadfe416aebc445768532526d130a9d&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/13/previa-la-real-sociedad-quiere-arrebatar-al-real-madrid-la-segunda-plaza-en-la-liga-f-moeve/",
-        "date": "2026-03-13 17:17:14",
-        "sentiment_score": -0.7669262569397688
-    },
-    {
-        "title": "Previa del Real Madrid-Elche CF",
-        "image_url": "https://www.infobae.com/resizer/v2/XAUXU3J3TVEWRHPGWC6HKWGOBE.jpg?auth=53b0cd3044c36279d513a9f671b898d3e6836d28a0e492ae887cb1bce367a378&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/13/previa-del-real-madrid-elche-cf/",
-        "date": "2026-03-13 17:16:12",
-        "sentiment_score": -0.021009013056755066
-    },
-    {
-        "title": "La científica que cambió la vida de Marisol Soengas con una sola frase: \"Te doy una oportunidad\"",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/13/2026031318131498992.jpg",
-        "tags": [
-            "podcast"
-        ],
-        "link": "https://www.mundiario.com/articulo/podcast-mundiario/margarita-salas-cambio-vida-marisol-soengas-oportunidad-cnio-melanoma/20260313181439378524.html",
-        "date": "2026-03-13 17:14:39",
-        "sentiment_score": 0.2567756772041321
-    },
-    {
-        "title": "Collboni en Tarragona: \"Catalunya necesita dos grandes áreas metropolitanas\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260313183530_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-collboni-tarragona-catalunya-necesita-dos-grandes-areas-metropolitanas-20260313183530.html",
-        "date": "2026-03-13 17:35:30",
-        "sentiment_score": 0.08386312425136566
-    },
-    {
-        "title": "Antonia tiene 69 años y lleva 11.000 euros gastados en el carnet de conducir: \"Lo llevo intentando 20 años\"",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/03/13/AE5497B1-8487-4196-AAAE-07762DC9AF63/antonia_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "programas",
-            "antena3",
-            "y ahora sonsoles"
-        ],
-        "link": "https://www.antena3.com/programas/y-ahora-sonsoles/antonia-tiene-69-anos-lleva-11000-euros-gastados-carnet-conducir-llevo-intentando-20-anos_2026031369b44a336cf703292f6f968f.html",
-        "date": "2026-03-13 17:32:35",
-        "sentiment_score": -0.3936043828725815
-    },
-    {
-        "title": "La esperada cita de los reyes con León XIV: el anuncio oficial que toda España estaba esperando",
-        "image_url": "https://www.elconfidencialdigital.com/media/monarquiaconfidencial/images/2025/05/19/2025051919103658168.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elconfidencialdigital.com/monarquia/articulo/espana/esperada-cita-reyes-leon-xiv-anuncio-oficial-que-toda-espana-estaba-esperando/20260313182945150094.html",
-        "date": "2026-03-13 17:29:45",
-        "sentiment_score": 0.19360272586345673
-    },
-    {
-        "title": "Aparece un delfín muerto en una playa de Mataró",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/13/actualidad/1003742741295_15825180_1706x960.jpg",
-        "tags": [
-            "playas",
-            "animales",
-            "gran barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260313/aparece-delfin-muerto-playa-mataro/1003742741290_0.html",
-        "date": "2026-03-13 17:25:13",
-        "sentiment_score": -0.858863627538085
-    },
-    {
-        "title": "El PP pide al Govern un fondo de 50 millones para empresas ante el encarecimiento del petróleo",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260313182218_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-pp-pide-govern-fondo-50-millones-empresas-encarecimiento-petroleo-20260313182218.html",
-        "date": "2026-03-13 17:22:18",
-        "sentiment_score": 0.005327701568603516
-    },
-    {
-        "title": "Collboni rompe con 20 años sin visitas oficiales de alcaldes de Barcelona a Tarragona: \"Catalunya necesita dos grandes áreas metropolitanas\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cf7555f9-c909-4176-b2b0-22e275df713c_alta-libre-aspect-ratio_default_0_x800y399.jpg",
-        "tags": [
-            "tarragona",
-            "amt (área metropolitana de tarragona)",
-            "ayuntamiento de tarragona",
-            "barcelona",
-            "amb ( área metropolitana de barcelona )"
-        ],
-        "link": "https://www.elperiodico.com/es/tarragona/20260313/collboni-rompe-20-anos-visitas-127936400",
-        "date": "2026-03-13 17:19:15",
-        "sentiment_score": 0.08454027771949768
-    },
-    {
         "title": "Esta empresa española es la encargada de proteger el activo más valioso de Ucrania en la guerra",
         "image_url": "https://e01-phantom-expansion.uecdn.es/6af97ce4b9209f38d9aa751a2b4e0434/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/13/17734005380447.jpg",
         "tags": [
@@ -3182,5 +3006,247 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260317/estrategia-laporta-aplasto-font-puesta-escena-primera/1003742742121_0.html",
         "date": "2026-03-17 01:12:35",
         "sentiment_score": 0.34668634831905365
+    },
+    {
+        "title": "07:00H | 17 MAR 2026 | Herrera en COPE",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67cfe50112eb6.jpeg",
+        "tags": [
+            "17",
+            "2026",
+            "07",
+            "00h",
+            "mar"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/07-00h-17-mar-2026-herrera-cope-20260317_3327851.html",
+        "date": "2026-03-17 07:07:00",
+        "sentiment_score": -0.1249602735042572
+    },
+    {
+        "title": "Ni Móstoles ni Alcalá de Henares: los municipios de Madrid dónde el impuesto de circulación es más barato",
+        "image_url": "https://okdiario.com/img/2026/03/16/ni-mostoles-ni-alcala-de-henares-los-municipios-de-madrid-donde-el-impuesto-de-circulacion-es-mas-barato.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://okdiario.com/madrid/ni-mostoles-ni-alcala-henares-municipios-madrid-donde-impuesto-circulacion-mas-barato-16426390",
+        "date": "2026-03-17 07:00:18",
+        "sentiment_score": -0.5911606773734093
+    },
+    {
+        "title": "De imposible a histórico: el City quiere hacer lo que solo cuatro equipos han logrado en Champions y así puedes ver si lo consigue",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/03/12/69b2975a01992.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.mundodeportivo.com/elrecomendador/deportes/20260317/1004153549/imposible-historico-city-cuatro-equipos-logrado-champions-asi-puedes-ver-mkt-movi.html",
+        "date": "2026-03-17 07:00:00",
+        "sentiment_score": -0.4726240932941437
+    },
+    {
+        "title": "Resiliencia y esperanza, lecciones que dejan mujeres que vuelven a abrir la puerta a la vida tras sufrir daño cerebral",
+        "image_url": "http://st1.lacerca.com/imagenes/view/5f63b0e239a613c84080497845f275ae.jpg",
+        "tags": [
+            "cerebral",
+            "lecciones",
+            "resiliencia",
+            "dejan",
+            "mujeres",
+            "sufrir",
+            "vuelven",
+            "esperanza",
+            "puerta",
+            "dano",
+            "vida",
+            "abrir"
+        ],
+        "link": "https://www.lacerca.com/noticias/castilla_la_mancha/resiliencia-esperanza-mujeres-abrir-vida-sufrir-dano-cerebral-806248-1.html",
+        "date": "2026-03-17 06:59:00",
+        "sentiment_score": -0.41838616877794266
+    },
+    {
+        "title": "La Juventus estudia reforzar la portería pero no avanza por Dibu Martínez",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/29/2025062900104989540.jpg",
+        "tags": [
+            "serie a",
+            "juventus-fc",
+            "argentina",
+            "premier league",
+            "dibu mart&iacute;nez",
+            "aston villa"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/juventus-estudia-reforzar-porteria-avanza-dibu-martinez/20260317075534378924.html",
+        "date": "2026-03-17 06:55:34",
+        "sentiment_score": -0.22085291892290115
+    },
+    {
+        "title": "En la Semana del Cerebro: datos, bulos y artículos sobre este órgano",
+        "image_url": "https://maldita.es/uploads/public/202102/cerebro.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://maldita.es/malditaciencia/20260317/dia-mundial-cerebro-recopilacion-articulo/",
+        "date": "2026-03-17 06:53:00",
+        "sentiment_score": -0.1170450747013092
+    },
+    {
+        "title": "Un ex jugador del Sevilla se acerca a la Premier League: ¿de quién se trata?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2023/12/20/2023122000075499122.jpg",
+        "tags": [
+            "chelsea-fc",
+            "chelsea",
+            "fichajes",
+            "premier league",
+            "sevilla fc",
+            "valent&iacute;n barco"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/ex-jugador-sevilla-acera-premier-league-quien-trata/20260317074226378923.html",
+        "date": "2026-03-17 06:42:26",
+        "sentiment_score": 0.2070825845003128
+    },
+    {
+        "title": "Doncic lidera a los Lakers con 36 puntos y prolonga su gran racha en la NBA",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/28/2025032814432882048.jpg",
+        "tags": [
+            "el esloveno luka doncic",
+            "luka doncic",
+            "mundial baloncesto",
+            "houston-rockets",
+            "doncic",
+            "nba"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/doncic-lidera-lakers-36-puntos-prolonga-gran-racha-nba/20260317073131378922.html",
+        "date": "2026-03-17 06:31:31",
+        "sentiment_score": 0.6079249158501625
+    },
+    {
+        "title": "El Real Madrid afronta el duelo de vuelta de Champions ante el Manchester City con un Valverde convertido en halcón y la vuelta de Mbappé",
+        "image_url": "https://www.infobae.com/resizer/v2/MOXKJYYCWJAYJN3A4ROONASPQI.JPG?auth=9d629a20d7315b89de799760192135259b7652a5fd431465fbc9c4c8937fb304&smart=true&width=2426&height=1365",
+        "tags": [
+            "españa-noticias",
+            "fútbol españa",
+            "real madrid",
+            "españa-deportes",
+            "manchester city",
+            "fútbol",
+            "champions"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/03/17/el-real-madrid-afronta-el-duelo-de-vuelta-de-champions-ante-el-manchester-city-con-un-valverde-convertido-en-halcon-y-la-vuelta-de-mbappe/",
+        "date": "2026-03-17 06:30:00",
+        "sentiment_score": 0.6817963160574436
+    },
+    {
+        "title": "El cártel de coches también afecta a León: «La gente está recuperando miles de euros pagados de más»",
+        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2026/03/10/parque-k4iE-U240759495616EAF-1200x840@Leonoticias-kDyH--758x531@Leonoticias.jpg",
+        "tags": [
+            "castilla y león",
+            "barcelona (provincia)",
+            "ponferrada",
+            "peugeot (coches)",
+            "bilbao",
+            "león (capital)",
+            "españa"
+        ],
+        "link": "https://www.leonoticias.com/leon/cartel-coches-afecta-leon-gente-recuperando-miles-20260317081200-nt.html",
+        "date": "2026-03-17 07:12:03",
+        "sentiment_score": 0.017721883952617645
+    },
+    {
+        "title": "¿El Barça se interesa por un futbolista del Newcastle?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/30/2025103021484811334.jpg",
+        "tags": [
+            "lewis hall",
+            "newcastle",
+            "bar&ccedil;a",
+            "premier league",
+            "real madrid"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/barca-interesa-futbolista-newcastle/20260317081036378925.html",
+        "date": "2026-03-17 07:10:36",
+        "sentiment_score": -0.014953017234802246
+    },
+    {
+        "title": "Estado de los embalses hoy, 17 de marzo en Catalunya: así está el nivel de Sau, Foix, Susqueda y el resto de pantanos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a2bbd5f2-19db-45a5-bffc-fce1e0d25a7b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "embalses",
+            "otoño",
+            "agua",
+            "lluvias",
+            "sequía"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260317/embalses-hoy-17-marzo-catalunya-dv-128039349",
+        "date": "2026-03-17 07:09:41",
+        "sentiment_score": 0.6756476387381554
+    },
+    {
+        "title": "Le gritan a Leire Martínez \"que le jodan a La Oreja\" y ella da una respuesta que es un ejemplo",
+        "image_url": "https://img2.huffingtonpost.es/files/og_thumbnail/uploads/2026/03/17/leire-martinez-en-una-foto-de-archivo-en-un-concierto.jpeg",
+        "tags": [
+            "hubo",
+            "abuso",
+            "dice",
+            "conquista",
+            "rey"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/le-gritan-a-leire-martinez-que-le-jodan-a-la-oreja-y-ella-da-una-respuesta-que-es-para-elogiar-f202603.html",
+        "date": "2026-03-17 07:02:37",
+        "sentiment_score": 0.3533521145582199
+    },
+    {
+        "title": "Eva Baltasar y la infección del amor",
+        "image_url": "https://static1.ara.cat/clip/6c688bcd-f2ae-40b4-9a2f-52d5641ad626_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "baltasar",
+            "eva",
+            "amor",
+            "infeccion"
+        ],
+        "link": "https://es.ara.cat/cultura/leer/eva-baltasar-infeccion-amor_1_5680578.html",
+        "date": "2026-03-17 07:00:37",
+        "sentiment_score": -0.24980808794498444
+    },
+    {
+        "title": "Indra reúne a 330 empresas del norte de España para contratarlas e impulsar sus programas de Defensa",
+        "image_url": "https://okdiario.com/img/2026/03/16/indra-reune-a-500-companias-interior.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://okdiario.com/economia/empresas/indra-reune-330-empresas-del-norte-espana-contratarlas-impulsar-sus-programas-defensa-16429040",
+        "date": "2026-03-17 07:00:29",
+        "sentiment_score": 0.4365917854011059
+    },
+    {
+        "title": "Indra moviliza a más de 300 empresas del norte de España para incorporarlas a sus planes militares",
+        "image_url": "https://s10.s3c.es/imag/_v0/1920x1048/8/1/1/1200x655__documentacion61_Fot124248002.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.eleconomista.es/industria/noticias/13826953/03/26/indra-moviliza-a-mas-de-300-empresas-del-norte-de-espana-para-incorporarlas-a-sus-planes-militares.html",
+        "date": "2026-03-17 07:00:04",
+        "sentiment_score": 0.38607577234506607
+    },
+    {
+        "title": "Más del 24% de las personas que viven solas en el área de Barcelona están en riesgo de pobreza",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/16/69b8578981a25.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20260317/11491614/24-personas-viven-solas-area-barcelona-riesgo-pobreza.html",
+        "date": "2026-03-17 07:00:00",
+        "sentiment_score": -0.5347237177193165
+    },
+    {
+        "title": "Cae el carnet de conducir entre los más jóvenes: los nuevos conductores menores de 24 años pasan del 73% al 57% en 40 años",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/31ea4f05-78a3-4381-98bc-14adf084bcd6_16-9-aspect-ratio_default_0_x800y400.jpg",
+        "tags": [
+            "coches",
+            "movilidad",
+            "tendencias",
+            "tráfico",
+            "jóvenes"
+        ],
+        "link": "https://www.lacronicabadajoz.com/sociedad/2026/03/17/caida-carnet-conducir-jovenes-espana-128056173.html",
+        "date": "2026-03-17 06:55:14",
+        "sentiment_score": -0.2124352976679802
     }
 ];
