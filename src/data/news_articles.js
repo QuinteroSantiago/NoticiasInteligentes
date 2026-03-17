@@ -1,15 +1,5 @@
 export default [
     {
-        "title": "Posponen reunión entre Delcy Rodríguez y Gustavo Petro por “motivos de fuerza mayor”",
-        "image_url": "https://static.wixstatic.com/media/335561_b22878d33b964f2d937ca9f33a59f77c~mv2.png/v1/fit/w_845,h_471,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/posponen-reuni%C3%B3n-entre-delcy-rodr%C3%ADguez-y-gustavo-petro-por-motivos-de-fuerza-mayor",
-        "date": "2026-03-13 11:35:23",
-        "sentiment_score": 0.042054034769535065
-    },
-    {
         "title": "El sándwich más bueno del mundo es obra de una estudiante española (y su secreto es la mantequilla de pepinillos)",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c22d1d74-145b-4ec2-b120-e768cfa7ef5e_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2973,5 +2963,224 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/nou-barris/20260316/barcelona-da-primer-paso-desencallar-reivindicado-polideportivo-trinitat-nova/1003742742026_0.html",
         "date": "2026-03-16 22:30:00",
         "sentiment_score": 0.3875747546553612
+    },
+    {
+        "title": "El 'Criptogate' acorrala a Milei: la Justicia de Argentina sospecha que el presidente cobró una mordida de 5 M de dólares",
+        "image_url": "https://s3.elespanol.com/2026/03/16/actualidad/1003744172276_261978364_1706x960.jpg",
+        "tags": [
+            "javier milei",
+            "argentina",
+            "américa",
+            "latinoamérica"
+        ],
+        "link": "https://www.elespanol.com/mundo/america/20260317/criptogate-acorrala-milei-justicia-argentina-sospecha-presidente-cobro-mordida-dolares/1003744172244_0.html",
+        "date": "2026-03-17 01:47:29",
+        "sentiment_score": -0.842199919745326
+    },
+    {
+        "title": "Jugó en la selección de Italia, tuvo un paso fugaz por Racing y se convirtió en jugador y vicepresidente de un club europeo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "ezequiel schelotto",
+            "deportes-argentina",
+            "fc paradiso"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/17/jugo-en-la-seleccion-de-italia-tuvo-un-paso-fugaz-por-racing-y-se-convirtio-en-jugador-y-vicepresidente-de-un-club-europeo/",
+        "date": "2026-03-17 01:39:14",
+        "sentiment_score": 0.01486051082611084
+    },
+    {
+        "title": "¿Qué importancia tienen los fondos NGEU destinados a I+D+i+d?",
+        "image_url": "https://s3.elespanol.com/2024/10/17/invertia/opinion/894171083_250088015_1706x960.jpg",
+        "tags": [
+            "tribunas de opinión",
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20260317/importancia-fondos-ngeu-destinados-idid/1003744171312_12.html",
+        "date": "2026-03-17 01:38:35",
+        "sentiment_score": -0.07940715551376343
+    },
+    {
+        "title": "Viagogo entra en venta directa con Sevilla y Betis",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/bb83a96e17a3f7bed81b2e2c9f5fc4bd/crop/651x411/1462x952/f/webp/assets/multimedia/imagenes/2026/03/16/17736972592768.jpg",
+        "tags": [
+            "empresas>",
+            "artículos artur zanón>"
+        ],
+        "link": "https://www.expansion.com/empresas/2026/03/17/69b87a19e5fdea68538b4587.html",
+        "date": "2026-03-17 01:05:08",
+        "sentiment_score": 0.5725182928144932
+    },
+    {
+        "title": "16 MAR 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/16-mar-2026-partidazo-cope-20260317_3327791.html",
+        "date": "2026-03-17 00:50:00",
+        "sentiment_score": 0.2834322154521942
+    },
+    {
+        "title": "Ancelotti convoca a Endrick y deja fuera a Neymar para los amistosos con Francia y Croacia",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe",
+            "internacional",
+            "carlo ancelotti",
+            "brasil",
+            "mundial",
+            "equipo",
+            "futbol",
+            "seleccion"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/17/ancelotti-convoca-a-endrick-y-deja-fuera-a-neymar-para-los-amistosos-con-francia-y-croacia/",
+        "date": "2026-03-17 00:48:53",
+        "sentiment_score": -0.3699212297797203
+    },
+    {
+        "title": "'Yoli goes to Hollywood'",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/02/08/65c41a4046e54.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20260317/yoli-goes-to-hollywood_396774.html",
+        "date": "2026-03-17 00:35:00",
+        "sentiment_score": -0.08516333252191544
+    },
+    {
+        "title": "Quo vadis, Vox?",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2026/03/16/69b840ed187e9.jpeg",
+        "tags": [
+            "en primera línea"
+        ],
+        "link": "https://www.eldebate.com/opinion/en-primera-linea/20260317/quo-vadis-vox_396750.html",
+        "date": "2026-03-17 00:35:00",
+        "sentiment_score": -0.08068905770778656
+    },
+    {
+        "title": "Las becas MEC cambian en 2026",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/17/2026031701335998064.jpg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/dinero/becas-mec-cambian-2026/202603170134511010043.html",
+        "date": "2026-03-17 00:34:51",
+        "sentiment_score": 0.3883887603878975
+    },
+    {
+        "title": "Madrid pone sobre la mesa hasta 150.000 euros para autónomos y pymes",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/17/2026031701302998663.jpg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/dinero/madrid-pone-mesa-150000-euros-autonomos-pymes/202603170130381010041.html",
+        "date": "2026-03-17 00:30:38",
+        "sentiment_score": 0.3662738874554634
+    },
+    {
+        "title": "Sindicatos y gremios se concentraron en la casa sindical de Barcelona para exigir mejores salarios y pensiones",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "gremios",
+            "otras",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/sindicatos-y-gremios-se-concentraron-en-la-casa-sindical-de-barcelona-para-exigir-mejores-salarios-y-pensiones/",
+        "date": "2026-03-17 02:48:35",
+        "sentiment_score": 0.25334715098142624
+    },
+    {
+        "title": "David Cirici firma una novela sobre Llull y su «pasión por las mujeres y Dios»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4413881.jpg",
+        "tags": [
+            "ramon llull",
+            "cultura en mallorca",
+            "david cirici",
+            "cultura"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2026/03/17/2590505/david-cirici-firma-novela-sobre-llull-pasion-por-mujeres-dios.html",
+        "date": "2026-03-17 02:48:01",
+        "sentiment_score": 0.1781078726053238
+    },
+    {
+        "title": "Josep R. Cerdà: «Desde que dejé el cargo en el Principal escribo teatro de forma más libre»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4413783.jpg",
+        "tags": [
+            "institut d'estudis catalans",
+            "josep r. cerdà",
+            "teatre principal de palma",
+            "cultura",
+            "omnium cultural",
+            "teatro en mallorca",
+            "literatura en mallorca"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2026/03/17/2590445/josep-cerda-desde-deje-cargo-principal-escribo-teatro-forma-mas-libre.html",
+        "date": "2026-03-17 02:48:01",
+        "sentiment_score": -0.08654624223709106
+    },
+    {
+        "title": "El 'same vibes' de Pepe Álvarez y Mojtaba Jameneí",
+        "image_url": "https://s1.staticld.com/2026/02/16/europapress-7246772-secretarios-generales-ccoo-ugt-unai-sordo-pepe-alvarez-rueda-prensa-sede.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2026-03-17/pedro-gil-ruiz-el-same-vibes-de-pepe-alvarez-y-mojtaba-jamenei-7375442/",
+        "date": "2026-03-17 02:11:16",
+        "sentiment_score": -0.8480687364935875
+    },
+    {
+        "title": "Pronóstico del clima: las temperaturas esperadas en Barcelona este 17 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
+        "tags": [
+            "clima en barcelona",
+            "clima en españa",
+            "últimas actualizaciones",
+            "clima"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/17/pronostico-del-clima-las-temperaturas-esperadas-en-barcelona-este-17-de-marzo/",
+        "date": "2026-03-17 02:01:29",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "La raqueta solidaria de Emilio Sánchez Vicario en EEUU es por niños vulnerables: \"Tengo que devolver lo que el tenis me dio\"",
+        "image_url": "https://s3.elespanol.com/2026/03/16/actualidad/1003744172121_261976405_1706x960.jpg",
+        "tags": [
+            "objetivo 4: educación de calidad",
+            "objetivo 3: salud y bienestar",
+            "emilio sánchez vicario",
+            "estados unidos",
+            "historias",
+            "infancia",
+            "tenis"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20260317/raqueta-solidaria-emilio-sanchez-vicario-eeuu-ninos-vulnerables-devolver-tenis-dio/1003744172074_0.html",
+        "date": "2026-03-17 01:47:28",
+        "sentiment_score": 0.31127839535474777
+    },
+    {
+        "title": "Brookfield, Meag y Carlyle entran en residencial con 2.000 millones",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/307776592790a66308b2d227f4516199/crop/156x195/1354x993/f/webp/assets/multimedia/imagenes/2026/03/16/17736873467717.jpg",
+        "tags": [
+            "empresas>",
+            "transporte y turismo>",
+            "artículos rebeca arroyo>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2026/03/17/69b8525ae5fdea377d8b4571.html",
+        "date": "2026-03-17 01:43:27",
+        "sentiment_score": 0.07229245454072952
+    },
+    {
+        "title": "La estrategia de Laporta que aplastó a Font en las urnas: puesta en escena letal desde primera hora de la mañana",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/17/actualidad/1003742742126_15836021_1706x960.jpg",
+        "tags": [
+            "elecciones barça",
+            "joan laporta",
+            "víctor font",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260317/estrategia-laporta-aplasto-font-puesta-escena-primera/1003742742121_0.html",
+        "date": "2026-03-17 01:12:35",
+        "sentiment_score": 0.34668634831905365
     }
 ];
