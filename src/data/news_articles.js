@@ -1,383 +1,5 @@
 export default [
     {
-        "title": "Endrick evita la victoria del Celta",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/2150eb27-cc85-4c98-b202d86a2c3546c6.jpg",
-        "tags": [
-            "lyon",
-            "celta de vigo",
-            "real madrid",
-            "francia",
-            "borja iglesias"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zeaac4949-9c87-49ca-81583f6760826275/202603/endrick-evita-la-victoria-del-celta",
-        "date": "2026-03-12 22:32:46",
-        "sentiment_score": -0.04951602220535278
-    },
-    {
-        "title": "El Betis tropieza en Atenas con un polémico penalti y Endrick borra la ventaja del Celta",
-        "image_url": "https://www.infobae.com/resizer/v2/MXQ7MF4PL5ASJH6FGL3ASFH2BQ.jpg?auth=9e3e3dc0126204e6f4c638a650896078811dd857b7c4194928d8cf948ef3df9e&height=1278&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/12/el-betis-tropieza-en-atenas-con-un-polemico-penalti-y-endrick-borra-la-ventaja-del-celta/",
-        "date": "2026-03-12 22:30:36",
-        "sentiment_score": -0.741492610424757
-    },
-    {
-        "title": "Endrick, en el minuto 87, evita la victoria del Celta ante el Lyon",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/35a67c21-453e-43be-9c67-f323b2322168_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "celta de vigo",
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2026/03/12/endrick-minuto-87-evita-victoria-celta-lyon-127902032.html",
-        "date": "2026-03-12 22:17:04",
-        "sentiment_score": 0.6050679534673691
-    },
-    {
-        "title": "Real Madrid baja de la euforia del triplete de Valverde en Champions al desgaste de La Liga",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/3ab911a/2147483647/strip/true/crop/3419x1795+0+242/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fac%2F21%2F9964d30548c1b935e9fe994b312c%2Faf06c5b0897646abb597429a53b7def1.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-12/real-madrid-baja-de-la-euforia-del-triplete-de-valverde-en-champions-al-desgaste-de-la-liga",
-        "date": "2026-03-12 22:10:53",
-        "sentiment_score": 0.007892310619354248
-    },
-    {
-        "title": "22:00H | 12 MAR 2026 | La Linterna",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la linterna"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna/horas-completas/22-00h-12-mar-2026-linterna-20260312_3325618.html",
-        "date": "2026-03-12 22:09:00",
-        "sentiment_score": -0.2809154838323593
-    },
-    {
-        "title": "Las brigadas de mantenimiento de Sant Boi se plantan ante el ayuntamiento por la mejora de sus condiciones laborales",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/12/actualidad/1003742740816_15818833_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "trabajadores",
-            "sant boi de llobregat",
-            "precariedad laboral",
-            "sindicatos"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260312/brigadas-mantenimiento-sant-boi-plantan-ayuntamiento-mejora-condiciones-laborales/1003742731826_0.html",
-        "date": "2026-03-12 22:00:00",
-        "sentiment_score": 0.3314504772424698
-    },
-    {
-        "title": "La falta de suelo empuja a las inmobiliarias de lujo a construir en los barrios periféricos de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/11/actualidad/1003742740467_15814242_1706x960.jpg",
-        "tags": [
-            "viviendas",
-            "sant andreu de palomar",
-            "la sagrera",
-            "vivienda",
-            "economía",
-            "la marina del prat vermell",
-            "alquiler vivienda",
-            "la clota"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260312/falta-suelo-empuja-inmobiliarias-lujo-construir-barrios-perifericos-barcelona/1003742740859_0.html",
-        "date": "2026-03-12 22:00:00",
-        "sentiment_score": 0.3016645014286041
-    },
-    {
-        "title": "Barcelona invertirá más de medio millón de euros en la rehabilitación de túneles de la ronda Litoral",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2022/09/05/movilidad/700939903_9195374_1706x960.jpg",
-        "tags": [
-            "ronda litoral",
-            "motos",
-            "obras",
-            "información municipal",
-            "ayuntamiento de barcelona",
-            "coches",
-            "tráfico"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260312/barcelona-invertira-medio-millon-euros-rehabilitacion-tuneles-ronda-litoral/1003742740446_0.html",
-        "date": "2026-03-12 22:00:00",
-        "sentiment_score": -0.1345861405134201
-    },
-    {
-        "title": "Dónde han caído 124,5 millones de euros de La Primitiva los premios de la Lotería Nacional, Bonoloto, ONCE y EuroDreams de hoy jueves 12 de marzo de 2026",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2019/12/15/DD6F937B-CB78-45BE-A8BA-423DBC0AECA2/98.jpg?crop=594%2C334%2Cx0%2Cy53&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "loterías"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-1245-millones-euros-primitiva-premios-loteria-nacional-bonoloto-once-eurodreams-hoy-jueves-12-marzo-2026_2026031269b3326cd489bf782e18430e.html",
-        "date": "2026-03-12 21:38:52",
-        "sentiment_score": 0.017770282924175262
-    },
-    {
-        "title": "Muere atropellado al ser perseguido tras apuñalar a su familia",
-        "image_url": "https://www.clm24.es/media/clm24/images/2025/02/11/2025021120263036705.jpg",
-        "tags": [
-            "sucesos"
-        ],
-        "link": "https://www.clm24.es/articulo/sucesos/muere-atropellado-ser-perseguido-apunalar-familia/20260312223231472888.html",
-        "date": "2026-03-12 21:32:31",
-        "sentiment_score": -0.721722861751914
-    },
-    {
-        "title": "El sorteo de la Bonoloto deja un nuevo millonario este jueves",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2026/02/19/bolotos-administracion-loteria-kq9H-U208011677639oC-1200x840@Hoy.jpg",
-        "tags": [
-            "bonoloto",
-            "jueves",
-            "sorteo"
-        ],
-        "link": "https://www.hoy.es/sociedad/sorteo-bonoloto-deja-nuevo-millonario-jueves-20260312222543-nt.html",
-        "date": "2026-03-12 21:25:47",
-        "sentiment_score": 0.08022906631231308
-    },
-    {
-        "title": "Cambios por circular con nuestro gato en el coche tras la \"controvertida Ley de protección de los derechos y el bienestar de los animales\": adiós a abrazarlo o dar caricias, con sanción de 500 euros",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1e4014f5-21c3-4f1d-86fa-307c16b84d04_16-9-aspect-ratio_default_0_x960y426.jpg",
-        "tags": [
-            "animales,mascotas,seguridad,gatos,gente"
-        ],
-        "link": "https://www.laopiniondezamora.es/vida-y-estilo/2026/03/12/cambios-circular-gato-coche-controvertida-127901092.html",
-        "date": "2026-03-12 21:22:53",
-        "sentiment_score": -0.5042570531368256
-    },
-    {
-        "title": "Del centro comercial al VIPS: dime de dónde eres y te diré qué clase de ocio marcó tu juventud",
-        "image_url": "https://static.eldiario.es/clip/d181d45a-cee5-4ee1-a762-bfa2b4d70836_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ocio",
-            "centro",
-            "juventud",
-            "dire",
-            "vips",
-            "comercial",
-            "marco",
-            "dime",
-            "clase"
-        ],
-        "link": "https://www.eldiario.es/era/centro-comercial-vips-dime-dire-clase-ocio-marco-juventud_1_13060055.html",
-        "date": "2026-03-12 21:16:28",
-        "sentiment_score": -0.18374069035053253
-    },
-    {
-        "title": "La revolución joven de Turquía: Arda Güler y Kenan Yıldız lideran el ambicioso plan para terminar con 24 años de ausencia en Mundiales",
-        "image_url": "https://www.infobae.com/resizer/v2/JNWVK7YI6BFQHKQGDTAU4VWXYQ.jpg?auth=3473ac3507502e3ffaeed3029968c326bda18f769becd07e3c8482f4808991d1&height=1080&smart=true&width=1920",
-        "tags": [
-            "mundial 2026",
-            "kenan yıldız",
-            "peru-deportes",
-            "arda güler",
-            "selección turquía mundial 2026"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2026/03/13/la-revolucion-joven-de-turquia-arda-guler-y-kenan-yildiz-lideran-el-ambicioso-plan-para-terminar-con-24-anos-de-ausencia-en-mundiales/",
-        "date": "2026-03-13 02:32:18",
-        "sentiment_score": 0.7070803046226501
-    },
-    {
-        "title": "Ester Expósito y Kylian Mbappé, ¿nueva pareja a la vista?",
-        "image_url": "https://ktvz.b-cdn.net/2026/03/0312_headlines-375x225.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://ktvz.com/cnn-spanish/2026/03/12/ester-exposito-y-kylian-mbappe-nueva-pareja-a-la-vista/",
-        "date": "2026-03-13 02:12:14",
-        "sentiment_score": -0.12465718388557434
-    },
-    {
-        "title": "España se consolida como refugio mundial de la inversión inmobiliaria de lujo en mitad del conflicto de Oriente Medio",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/5db2e0230b1b009a84d9c81065260149/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/12/17733422186504.jpg",
-        "tags": [
-            "mercado inmobiliario>",
-            "inmobiliario>"
-        ],
-        "link": "https://www.expansion.com/inmobiliario/mercado/2026/03/13/69b2d50be5fdea777e8b459f.html",
-        "date": "2026-03-13 01:23:33",
-        "sentiment_score": 0.02698415517807007
-    },
-    {
-        "title": "Carabela de Plata para Álvaro Carreras",
-        "image_url": "https://diariodeferrol-imagenes.elidealgallego.com/files/og_thumbnail/uploads/2026/03/12/69b325c8643a9.JPG",
-        "tags": [
-            "+deportes"
-        ],
-        "link": "https://diariodeferrol.elidealgallego.com/deportes/mas-deporte/2026-03-13/carabela-de-plata-para-alvaro-carreras-842464.html",
-        "date": "2026-03-13 01:19:35",
-        "sentiment_score": 0.1513974666595459
-    },
-    {
-        "title": "2a PARTE | 12 MAR 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-12-mar-2026-partidazo-cope-20260313_3325639.html",
-        "date": "2026-03-12 23:49:36",
-        "sentiment_score": 0.08537840470671654
-    },
-    {
-        "title": "Comprueba los números ganadores del Cupón Diario de la Once del 12 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
-        "tags": [
-            "últimas actualizaciones",
-            "cupón diario once españa",
-            "resultado cupón diario hoy",
-            "loterías de españa"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/12/comprueba-los-numeros-ganadores-del-cupon-diario-de-la-once-del-12-de-marzo/",
-        "date": "2026-03-12 23:16:14",
-        "sentiment_score": 0.5587739534676075
-    },
-    {
-        "title": "La moda asalta la capital: de la pasarela en Plaza de España al 'show' en Cabaret (con Asier Etxeandía) o la 'performance' en la Casa de Campo",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/92042cd9e05d2a24a87846b71ad52681/crop/4x0/1000x996/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529670346812.jpg",
-        "tags": [
-            "cultura",
-            "moda",
-            "madrid",
-            "artículos virginia gómez"
-        ],
-        "link": "https://www.elmundo.es/madrid/2026/03/13/69b2db3de9cf4a89288b45a8.html",
-        "date": "2026-03-12 23:12:00",
-        "sentiment_score": -0.032287657260894775
-    },
-    {
-        "title": "La Finalissima entre España y Argentina, en serio riesgo de cancelación",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/03/01/69a4345ec96cb.r_d.375-299-15809.jpeg",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/finalissima-espana-argentina-serio-riesgo-cancelacion-20260312_3325623.html",
-        "date": "2026-03-12 22:41:32",
-        "sentiment_score": -0.12367093563079834
-    },
-    {
-        "title": "El Real Madrid roba el 'average' al Valencia Basket y aprieta aún más la Euroliga",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/227f9d52-35a7-4f45-b0e9-aa1ba909daf0_16-9-aspect-ratio_default_0_x1200y533.jpg",
-        "tags": [
-            "valencia basket",
-            "real madrid de baloncesto",
-            "baloncesto",
-            "euroliga"
-        ],
-        "link": "https://www.elperiodicodearagon.com/deportes/2026/03/12/real-madrid-roba-average-valencia-127902320.html",
-        "date": "2026-03-12 22:38:41",
-        "sentiment_score": 0.5929872095584869
-    },
-    {
-        "title": "Clima en España: la predicción del tiempo para Barcelona este 13 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima en barcelona",
-            "clima",
-            "clima en españa",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/13/clima-en-espana-la-prediccion-del-tiempo-para-barcelona-este-13-de-marzo/",
-        "date": "2026-03-13 02:01:02",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "Laporta le 'roba' el bocata a Víctor Font en otro debate de patio de colegio: gana el abusón",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/13/actualidad/1003742741021_15821761_1706x960.jpg",
-        "tags": [
-            "víctor font",
-            "joan laporta",
-            "palco",
-            "elecciones barça",
-            "barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260313/laporta-bocata-victor-font-debate-colegio-abuson/1003742740979_0.html",
-        "date": "2026-03-13 00:52:43",
-        "sentiment_score": -0.608860582113266
-    },
-    {
-        "title": "Las series que se estrenan esta semana",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/11/esa-noche-kArC-U2301914652050eGI-758x531@RC.jpg",
-        "tags": [
-            "amazon",
-            "kate moss",
-            "the walking dead",
-            "disney",
-            "apple",
-            "netflix",
-            "mujeres",
-            "hbo",
-            "series de televisión"
-        ],
-        "link": "https://www.elnortedecastilla.es/pantallas/series/series-estrenan-semana-netflix-amazon-disney-filmin-apple-hbo-20260311155932-ntrc.html",
-        "date": "2026-03-13 00:14:12",
-        "sentiment_score": 0.8513344516977668
-    },
-    {
-        "title": "El glaucoma afecta al 6 % de la población y suele detectarse cuando el daño ya es avanzado",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f7d4f2b5-4f8e-47bb-8209-4724966a51ec_16-9-discover-aspect-ratio_default_0_x663y250.jpg",
-        "tags": [
-            "tenerife",
-            "población"
-        ],
-        "link": "https://www.eldia.es/tenerife/2026/03/13/glaucoma-afecta-6-poblacion-suele-127900446.html",
-        "date": "2026-03-12 23:59:00",
-        "sentiment_score": -0.8605592977255583
-    },
-    {
-        "title": "Lo que Víctor Font no quiere que se sepa",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/13/pensamiento/1003742741017_15821654_1706x960.jpg",
-        "tags": [
-            "cataluña",
-            "barcelona",
-            "fc barcelona",
-            "periodismo",
-            "víctor font",
-            "zona franca",
-            "empresarios",
-            "medios de comunicación"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20260313/victor-font-no-quiere-sepa/1003742740967_12.html",
-        "date": "2026-03-12 23:22:03",
-        "sentiment_score": -0.24337655305862427
-    },
-    {
-        "title": "Víctor Font",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/13/actualidad/1003742741016_15821633_1706x960.jpg",
-        "tags": [
-            "fc barcelona",
-            "fútbol",
-            "víctor font",
-            "examen a los protagonistas",
-            "empresarios",
-            "barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20260313/victor-font/1003742740985_0.html",
-        "date": "2026-03-12 23:16:07",
-        "sentiment_score": -0.3362009823322296
-    },
-    {
-        "title": "Caos en la A-7 por el incendio de un camión",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/12/69b3426af1597.jpeg",
-        "tags": [
-            "luz de cruce"
-        ],
-        "link": "https://www.cope.es/emisoras/comunidad-valenciana/valencia-provincia/valencia/luz-de-cruce/noticias/caos-7-incendio-camion-20260312_3325624.html",
-        "date": "2026-03-12 23:06:11",
-        "sentiment_score": -0.37942592799663544
-    },
-    {
-        "title": "Crónica del FC Badalona Women - Barça Femení, 0-0",
-        "image_url": "https://www.infobae.com/resizer/v2/WYHW753NZRDZNK77UETY6MULT4.jpg?auth=16a6cc56e7da3f6401cc0f676f440ea464d5178a7fc4f8a45089c0e0e32c27f9&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/12/cronica-del-fc-badalona-women-barca-femeni-0-0/",
-        "date": "2026-03-12 23:00:57",
-        "sentiment_score": -0.07029587402939796
-    },
-    {
         "title": "Kylian Mbappé estrena carnet de conducir: estos son sus espectaculares cochazos de lujo en los que paseará a Ester Expósito",
         "image_url": "https://www.hola.com/horizon/landscape/052b82591690-mbappecoche.jpg?im=Resize%3D%281200%29",
         "tags": [
@@ -664,20 +286,6 @@ export default [
         "link": "https://www.informe21.com/post/posponen-reuni%C3%B3n-entre-delcy-rodr%C3%ADguez-y-gustavo-petro-por-motivos-de-fuerza-mayor",
         "date": "2026-03-13 11:35:23",
         "sentiment_score": 0.042054034769535065
-    },
-    {
-        "title": "\"Boom Boom\": la propaganda estadounidense frente a la realidad de la guerra con Irán",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/6b/media_thumb-link-4156344.webp?1773327546=",
-        "tags": [
-            "medios",
-            "eeuu",
-            "propaganda",
-            "guerra",
-            "iran"
-        ],
-        "link": "https://www.meneame.net/story/boom-boom-propaganda-estadounidense-frente-realidad-guerra-iran",
-        "date": "2026-03-13 03:00:06",
-        "sentiment_score": -0.7072157971560955
     },
     {
         "title": "El sándwich más bueno del mundo es obra de una estudiante española (y su secreto es la mantequilla de pepinillos)",
@@ -3254,5 +2862,186 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/juanito-blaugrana/20260316/nuevo-viejo-barca/1003742741705_0.html",
         "date": "2026-03-16 05:59:37",
         "sentiment_score": -0.18591353297233582
+    },
+    {
+        "title": "El Real Zaragoza Club de Tenis reunirá a cerca de 200 jugadores en la décima edición del ITF Sénior MT400",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/03/16/2026031618424328574.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.aragondigital.es/articulo/deportes/real-zaragoza-club-tenis-reunira-cerca-200-jugadores-decima-edicion-itf-senior-mt400/20260316184842972718.html",
+        "date": "2026-03-16 17:48:42",
+        "sentiment_score": 0.3714235983788967
+    },
+    {
+        "title": "Clubes ingleses buscan evitar quedar fuera de la Champions. Bodø/Glimt roza cuartos",
+        "image_url": "https://dims.apnews.com/dims4/default/2dea48a/2147483647/strip/true/crop/5747x3832+0+0/resize/319x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffd%2F6f%2F91f51704cee8292c3bae81e4095e%2F8cb2cc317b4245d5b0728bff63ed1213",
+        "tags": [
+            "sports",
+            "deportes",
+            "champions league real madrid bodoglimt arsenal"
+        ],
+        "link": "https://apnews.com/article/champions-league-real-madrid-bodoglimt-arsenal-99649705d380fdc4f984625c259d2021",
+        "date": "2026-03-16 17:48:23",
+        "sentiment_score": -0.13290178775787354
+    },
+    {
+        "title": "El jurado misterioso ya busca a los finalistas de La Mejor Fabada del Mundo",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/03/16/fabada-villaviciosa-madrid-RqBR8WZhIooQGO0TGoiPpyL-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "villaviciosa"
+        ],
+        "link": "https://www.elcomercio.es/gastronomia/jurado-misterioso-busca-finalistas-mejor-fabada-mundo-20260316184701-nt.html",
+        "date": "2026-03-16 17:47:03",
+        "sentiment_score": 0.05437136068940163
+    },
+    {
+        "title": "EN VIDEO: El rey de España dice que hubo «mucho abuso» en la conquista de América",
+        "image_url": "https://caraotadigital.net/wp-content/uploads/2026/03/a0710d46e1e2f7c952e6ec31fb3d3cf9f7264252miniw-1.jpg",
+        "tags": [
+            "rey de españa",
+            "mundo",
+            "conquista",
+            "américa",
+            "felipe vi"
+        ],
+        "link": "https://caraotadigital.net/mundo/en-video-el-rey-de-espana-dice-que-hubo-mucho-abuso-en-la-conquista-de-america/",
+        "date": "2026-03-16 17:34:53",
+        "sentiment_score": -0.41311582177877426
+    },
+    {
+        "title": "Maldini analiza la vuelta de los octavos de Champions: \"Hay uno que va a sufrir\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/16/69b83cfc3c501.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/maldini-analiza-vuelta-octavos-champions-hay-sufrir-20260316_3327675.html",
+        "date": "2026-03-16 17:26:38",
+        "sentiment_score": -0.12225806713104248
+    },
+    {
+        "title": "La DGT se pone seria con los nuevos radares que reducen la velocidad: 100 kilómetros en autovía y nuevos controladores de tramo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2ac86e61-7a27-4e78-9ad6-13e8661a4363_16-9-aspect-ratio_default_0_x1182y525.jpg",
+        "tags": [
+            "radares",
+            "tráfico",
+            "neomotor",
+            "selva",
+            "dgt",
+            "inteligencia"
+        ],
+        "link": "https://www.lne.es/motor/2026/03/16/dgt-pone-seria-nuevos-radares-128042870.html",
+        "date": "2026-03-16 17:21:45",
+        "sentiment_score": 0.7637914381921291
+    },
+    {
+        "title": "Vox dice estar \"estupefacto\" con las palabras del Rey sobre la Conquista",
+        "image_url": "https://www.infobae.com/resizer/v2/OKGDCRCEBZGJ7OWBZMKBCFLEYA.jpg?auth=6b3a1a9a89296ee12db33e77bb398a80bc4fe7861a1f366842f353da125b5960&height=1280&smart=true&width=1920",
+        "tags": [
+            "vox",
+            "hermann tertsch",
+            "claudia sheinbaum",
+            "europapress",
+            "conquista",
+            "méxico",
+            "américa",
+            "andrés manuel lópez obrador",
+            "reyes católicos",
+            "felipe vi",
+            "españa"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/16/vox-dice-estar-estupefacto-con-las-palabras-del-rey-sobre-la-conquista/",
+        "date": "2026-03-16 17:15:57",
+        "sentiment_score": -0.8907763361930847
+    },
+    {
+        "title": "Más Madrid y PSOE-M exigen el cese de Miguel Ángel Rodríguez tras su citación judicial",
+        "image_url": "https://s1.staticld.com/2026/03/13/europapress-7357369-presidenta-comunidad-madrid-isabel-diaz-ayuso-jefe-gabinete-miguel-angel.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.libertaddigital.com/madrid/2026-03-16/mas-madrid-y-psoe-m-exigen-el-cese-de-miguel-angel-rodriguez-tras-su-citacion-judicial-7375305/",
+        "date": "2026-03-16 17:13:12",
+        "sentiment_score": -0.7902063336223364
+    },
+    {
+        "title": "El Colegio de Médicos de Álava apoya la huelga nacional para reclamar un estatuto propio para el colectivo médico",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260316181255_690.jpg",
+        "tags": [
+            "país vasco"
+        ],
+        "link": "https://www.europapress.es/euskadi/noticia-colegio-medicos-alava-apoya-huelga-nacional-reclamar-estatuto-propio-colectivo-medico-20260316181255.html",
+        "date": "2026-03-16 17:12:55",
+        "sentiment_score": 0.3435761630535126
+    },
+    {
+        "title": "Cruce de comunicados entre Real Zaragoza y Deportivo por las entradas visitantes de Riazor",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/11/03/2025110311355536809.jpg",
+        "tags": [
+            "real zaragoza"
+        ],
+        "link": "https://www.aragondigital.es/articulo/real-zaragoza/cruce-comunicados-entre-real-zaragoza-deportivo-entradas-visitantes-riazor/20260316180858972699.html",
+        "date": "2026-03-16 17:08:58",
+        "sentiment_score": -0.6132638081908226
+    },
+    {
+        "title": "(Previa) El Arsenal busca decantar la eliminatoria en el Emirates y PSG y Bodo/Glimt, no pasar apuros",
+        "image_url": "https://www.infobae.com/resizer/v2/6FYOKHZTA5BTVBWARZMV6VZBQU.jpg?auth=87c6a25e61f32b0a23cf834c18969e5728e446bbbc29b9914ea94f243961969b&height=1280&smart=true&width=1920",
+        "tags": [
+            "paris saint-germain",
+            "arsenal",
+            "sporting de portugal",
+            "europapress",
+            "bayer leverkusen",
+            "bodo/glimt",
+            "liga de campeones",
+            "emirates stadium",
+            "fútbol",
+            "londres",
+            "chelsea"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/16/previa-el-arsenal-busca-decantar-la-eliminatoria-en-el-emirates-y-psg-y-bodoglimt-no-pasar-apuros/",
+        "date": "2026-03-16 17:47:38",
+        "sentiment_score": 0.5664981454610825
+    },
+    {
+        "title": "KTM amplía la garantía de sus motos de carretera a 4 años",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/16/ktm-RNcrPOFJ0LmlgJ7HWbvstGM-1200x840@diario_abc.jpg",
+        "tags": [
+            "amplia",
+            "ktm",
+            "carretera",
+            "garantia",
+            "anos",
+            "motos"
+        ],
+        "link": "https://www.leonoticias.com/motor/motos/ktm-amplia-garantia-motos-carretera-anos-20260316184700-ntrc.html",
+        "date": "2026-03-16 17:47:08",
+        "sentiment_score": 0.5971786398440599
+    },
+    {
+        "title": "El Parlament afronta esta semana el primer pleno de Presupuestos sin acuerdo aún entre ERC y Govern",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260316184329_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-parlament-afronta-semana-primer-pleno-presupuestos-acuerdo-aun-erc-govern-20260316184329.html",
+        "date": "2026-03-16 17:43:29",
+        "sentiment_score": -0.43298723362386227
+    },
+    {
+        "title": "¿Demasiado Ozempic en la alfombra roja de los Oscars? Demi Moore, Nicole Kidman y Emma Stone despiertan el fantasma del 'heroin chic' de los 90",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e2d74f81-379a-4b06-90c3-f2506beda130_16-9-aspect-ratio_default_0_x960y360.jpg",
+        "tags": [
+            "premios oscar",
+            "emma stone",
+            "mujeres",
+            "obesidad",
+            "nicole kidman",
+            "oscars"
+        ],
+        "link": "https://www.farodevigo.es/vida-y-estilo/gente/2026/03/16/oscars-2026-delgadez-demi-moore-nicole-kidman-emma-stone-ozempic-128044859.html",
+        "date": "2026-03-16 17:38:17",
+        "sentiment_score": -0.10097263753414154
     }
 ];
