@@ -1,138 +1,5 @@
 export default [
     {
-        "title": "La calle no miente, dónde ver las nuevas entregas de '091: Alerta Policía'",
-        "image_url": "https://static.grupojoly.com/clip/def8744e-10f0-4d63-bd54-b22cf9a18037_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "calle",
-            "ver",
-            "miente",
-            "nuevas",
-            "no"
-        ],
-        "link": "https://www.eldiadecordoba.es/television/calle-no-miente-ver-nuevas_0_2006171152.html",
-        "date": "2026-03-14 06:41:40",
-        "sentiment_score": 0.34751155227422714
-    },
-    {
-        "title": "Diez años contando las historias más oscuras: «Teníamos mucho miedo a que causaran rechazo»",
-        "image_url": "https://s1.ppllstatics.com/lagacetadesalamanca/www/multimedia/2026/03/13/maldi1-RNK1SNajvAfDse4AlnEnoRM-758x531@Gaceta%20Salamanca.jpg",
-        "tags": [
-            "ciudad rodrigo y comarca",
-            "ciudad rodrigo"
-        ],
-        "link": "https://www.lagacetadesalamanca.es/provincia/diez-anos-contando-historia-oscuras-ciudad-rodrigo-20260313172933-nt.html",
-        "date": "2026-03-14 06:30:00",
-        "sentiment_score": 0.1721145063638687
-    },
-    {
-        "title": "Real Madrid - Elche: Horario, onces y dónde ver el partido de LaLiga EA Sports, en directo",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/03/13/D8BA6C88-2637-4F19-8E8A-6A6DC6D6389E/vinicius-accion-elche_98.jpg?crop=5702%2C3208%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/real-madrid-elche-horario-onces-donde-ver-partido-laliga-sports-directo_2026031469b4f96dd489bf782e1999fa.html",
-        "date": "2026-03-14 06:00:13",
-        "sentiment_score": 0.02107999473810196
-    },
-    {
-        "title": "Así nació la DKW F89 Schnellaster, la inolvidable «Decauve»",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/14/Foto1DKW-RFu099kB3HLoIzkX2U1UdbL-1200x840@diario_abc.jpg",
-        "tags": [
-            "diésel",
-            "seat",
-            "vitoria-gasteiz",
-            "audi (coches)",
-            "segunda guerra mundial",
-            "marca",
-            "automóviles",
-            "motor",
-            "alemania",
-            "volkswagen (coches)",
-            "jeep"
-        ],
-        "link": "https://www.ideal.es/motor/reportajes/nacio-dkw-f89-schnellaster-inolvidable-decauve-20260314072600-ntrc.html",
-        "date": "2026-03-14 06:37:15",
-        "sentiment_score": 0.4955371990799904
-    },
-    {
-        "title": "AEMET prevé lluvia y tormentas en Barcelona, con heladas y cielos despejándose por la tarde",
-        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
-        "tags": [
-            "previsión del tiempo",
-            "okd",
-            "tiempo",
-            "cataluña",
-            "agencia estatal de meteorología (aemet)",
-            "españa"
-        ],
-        "link": "https://okdiario.com/cataluna/aemet-preve-lluvia-y-tormentas-en-barcelona-con-heladas-y-cielos-despejandose-por-la-tarde-16415653",
-        "date": "2026-03-14 06:23:38",
-        "sentiment_score": 0.07661041617393494
-    },
-    {
-        "title": "Andrés Palop: «Para ganar al Barça hay que desesperarle»",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/14/PALOP-kFyE-U201164341317meD-1200x840@RC.jpg",
-        "tags": [
-            "lamine yamal",
-            "pep guardiola",
-            "f.c. barcelona"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/andres-palop-ganar-barca-desesperarle-20260314071614-ntrc.html",
-        "date": "2026-03-14 06:16:23",
-        "sentiment_score": 0.019880063831806183
-    },
-    {
-        "title": "Camisetas prohibidas y símbolos: la ropa que no deberías llevar al colegio electoral si no quieres tener problemas",
-        "image_url": "https://s2.ppllstatics.com/lagacetadesalamanca/www/multimedia/2026/03/12/votar-kJ8E-U201168387662GCB-758x531@Gaceta%20Salamanca.jpg",
-        "tags": [
-            "junta electoral central",
-            "elecciones autonómicas",
-            "salamanca"
-        ],
-        "link": "https://www.lagacetadesalamanca.es/elecciones/castilla-y-leon/camisetas-prohibidas-simbolos-ropa-deberias-llevar-colegio-20260312071500-nt.html",
-        "date": "2026-03-14 06:15:01",
-        "sentiment_score": -0.3732898198068142
-    },
-    {
-        "title": "La imagen de El Calvario, bendecida en 1956, amplió el patrimonio de la cofradía de Jesús Nazareno de Cáceres",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f3e38690-1227-4129-82c4-a0d085e757f8_16-9-aspect-ratio_default_0_x491y368.jpg",
-        "tags": [
-            "semana santa",
-            "barcelona",
-            "nuestro pasado"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres-local/2026/03/14/imagen-calvario-bendecida-1956-amplio-127939548.html",
-        "date": "2026-03-14 06:05:50",
-        "sentiment_score": 0.2963806241750717
-    },
-    {
-        "title": "El arte de montar una tabla de quesos, los orígenes de este aperitivo",
-        "image_url": "https://static.grupojoly.com/clip/27d034f9-c293-42d5-a603-9b337c7e5793_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "arte",
-            "origenes",
-            "quesos",
-            "tabla",
-            "montar"
-        ],
-        "link": "https://www.diariodejerez.es/gente/arte-montar-tabla-quesos-origenes_0_2006171075.html",
-        "date": "2026-03-14 06:04:08",
-        "sentiment_score": -0.232595756649971
-    },
-    {
-        "title": "Furia épica",
-        "image_url": "https://static.grupojoly.com/clip/4ac967e7-2555-41af-9592-16f12318e4f2_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "furia",
-            "epica"
-        ],
-        "link": "https://www.diariodejerez.es/miki-duarte/furia-epica_0_2006171061.html",
-        "date": "2026-03-14 06:01:05",
-        "sentiment_score": 0.5981174856424332
-    },
-    {
         "title": "La Caprichosa de Toledo y una administración de Yuncos reparten el segundo premio de la Lotería Nacional: 120.000 € al número",
         "image_url": "https://s3.elespanol.com/2026/03/14/actualidad/1003744169904_261945311_1706x960.jpg",
         "tags": [
@@ -2935,5 +2802,245 @@ export default [
         "link": "https://www.elplural.com/autonomias/cataluna/generalitat-aprueba-firma-convenio-gobierno-creacion-primer-centro-semiconductores-avanzados-cataluna_384434102",
         "date": "2026-03-17 17:42:58",
         "sentiment_score": -0.03718654811382294
+    },
+    {
+        "title": "Aeropuertos en EE.UU. colapsan tras renuncias de agentes de la TSA por cierre parcial del Gobierno",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "cierre gobierno",
+            "aeropuertos",
+            "usa"
+        ],
+        "link": "https://www.meneame.net/story/aeropuertos-ee-uu-colapsan-tras-renuncias-agentes-tsa-cierre",
+        "date": "2026-03-17 21:25:04",
+        "sentiment_score": -0.8103159908205271
+    },
+    {
+        "title": "Jennifer López, la mejor jugadora de petanca de España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.meneame.net/story/jennifer-lopez-mejor-jugadora-petanca-espana",
+        "date": "2026-03-17 22:50:02",
+        "sentiment_score": 0.194056898355484
+    },
+    {
+        "title": "Pep Guardiola felicita al Real Madrid y a la prensa por la clasificación del equipo blanco para cuartos de final de la Champions: \"Felicidades al Madrid y a todos vosotros\"",
+        "image_url": "https://www.cope.es/files/microformat_image/uploads/2026/03/17/69b9d9a49040d.jpeg",
+        "tags": [
+            "pep",
+            "felicita",
+            "guardiola",
+            "real",
+            "madrid"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/pep-guardiola-felicita-real-madrid-prensa-clasificacion-equipo-blanco-cuartos-final-champions-felicidades-madrid-todos-vosotros-20260317_3328624.html",
+        "date": "2026-03-17 22:48:59",
+        "sentiment_score": -0.0029045045375823975
+    },
+    {
+        "title": "22:00 | 17 MAR 2026 | TIEMPO DE JUEGO",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/01/20/678e8e8da933c.jpeg",
+        "tags": [
+            "mar",
+            "17",
+            "2026",
+            "22",
+            "00"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-17-mar-2026-juego-20260317_3328622.html",
+        "date": "2026-03-17 22:48:36",
+        "sentiment_score": 0.05505234748125076
+    },
+    {
+        "title": "El codo que quebró la pizarra de Guardiola",
+        "image_url": "https://cflvdg.avoz.es/sc/PaDB1jbbMVInPD_BiTrk3nDz5vI=/768x/2026/03/17/00121773787381459226946/Foto/efe_20260317_210936352.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/03/17/codo-quebro-pizarra-guardiola/00031773787268341549696.htm",
+        "date": "2026-03-17 22:43:00",
+        "sentiment_score": 0.6845276951789856
+    },
+    {
+        "title": "El Real Madrid cierra el pase a los cuartos de final y deja al City a cuadros",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/03/17/manchestercity-realmadrid-vinicius-kJEH--758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/deportes/futbol/liga-campeones/cronica-manchestercity-realmadrid-20260317201734-ntrc.html",
+        "date": "2026-03-17 22:41:18",
+        "sentiment_score": 0.42394255101680756
+    },
+    {
+        "title": "Sofisticación y elegancia en la exclusiva cena inaugural de la MBFW en el Teatro Real",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260317233522_1200.jpg",
+        "tags": [
+            "mercedes-benz",
+            "teatro real",
+            "moda"
+        ],
+        "link": "https://www.europapress.es/chance/moda/noticia-sofisticacion-elegancia-exclusiva-cena-inaugural-mbfw-teatro-real-20260317233522.html",
+        "date": "2026-03-17 22:35:22",
+        "sentiment_score": 0.7535939011722803
+    },
+    {
+        "title": "Real Madrid elimina al Manchester City y reafirma su dominio en Champions",
+        "image_url": "https://www.mundonow.com/wp-content/uploads/2026/03/3b552de8744e7717462553bf2d2e777ebe01c83a-1-scaled.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.mundonow.com/real-madrid-elimina-manchester-city/",
+        "date": "2026-03-17 22:34:57",
+        "sentiment_score": -0.20234771072864532
+    },
+    {
+        "title": "5 claves esenciales para elegir un Cerrajero 24 horas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5812762/5-claves-esenciales-elegir-cerrajero-24-horas",
+        "date": "2026-03-17 22:34:16",
+        "sentiment_score": 0.37138500809669495
+    },
+    {
+        "title": "Vinicius rompe los papeles de Guardiola en el paraíso eterno del Madrid",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/17/17737861240166.jpg",
+        "tags": [
+            "pep guardiola",
+            "deportes/futbol/champions-league",
+            "liga de campeones",
+            "fútbol",
+            "vinicius júnior",
+            "real madrid",
+            "deportes"
+        ],
+        "link": "https://www.elmundo.es/deportes/futbol/champions-league/2026/03/17/69b9d688e9cf4a915b8b458b.html",
+        "date": "2026-03-17 22:33:49",
+        "sentiment_score": -0.7824827134609222
+    },
+    {
+        "title": "Zelenski afirma que ha enviado más de 200 \"expertos\" en drones a países del golfo Pérsico",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260317233258_1200.jpg",
+        "tags": [
+            "reino unido",
+            "ucrania",
+            "irán",
+            "israel",
+            "estados unidos",
+            "drones",
+            "volodimir zelenski"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-zelenski-afirma-enviado-mas-200-expertos-drones-paises-golfo-persico-20260317233258.html",
+        "date": "2026-03-17 22:32:58",
+        "sentiment_score": -0.7478797771036625
+    },
+    {
+        "title": "Rosalía dio apertura a su gira Lux sinfónico en Francia",
+        "image_url": "https://elluchador.info/wp-content/uploads/2026/03/rosalia-dio-apertura-a-su-gira-lux-sinfonico-en-francia-195528.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elluchador.info/?p=305259",
+        "date": "2026-03-17 22:34:00",
+        "sentiment_score": 0.22077395021915436
+    },
+    {
+        "title": "Terrassa emula a Barcelona y dibuja su 'superilla': más calles sin coches, horarios para 'riders' y multas de 200 euros",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/16/actualidad/1003742742072_15835340_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "superilla",
+            "movilidad",
+            "terrassa",
+            "coches"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260317/terrassa-emula-barcelona-dibuja-superilla-calles-sin-coches-horarios-riders-multas-euros/1003742741640_0.html",
+        "date": "2026-03-17 22:32:48",
+        "sentiment_score": 0.2550295740365982
+    },
+    {
+        "title": "Un té con leche",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/12/18/el-pulso-de-la-ciudad/635696428_9793967_1706x960.jpg",
+        "tags": [
+            "gremi de restauració",
+            "restaurantes barcelona",
+            "macropanaderías",
+            "inmigración",
+            "inversion",
+            "opinión",
+            "bares y restaurantes",
+            "turismo"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/opinion/20260317/leche/1003742742578_12.html",
+        "date": "2026-03-17 22:30:00",
+        "sentiment_score": -0.8969811238348484
+    },
+    {
+        "title": "Antifrau archiva la denuncia por la caducidad de casi 1.600 multas de tráfico en Montgat",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/24/gran-barcelona/1003742735767_15754801_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "montgat",
+            "multas en barcelona",
+            "guardia urbana"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260317/antifrau-archiva-denuncia-caducidad-multas-trafico-montgat/1003742735929_0.html",
+        "date": "2026-03-17 22:30:00",
+        "sentiment_score": -0.8090139664709568
+    },
+    {
+        "title": "Barcelona se prepara para exhibir sus diseños en la Semana de la Moda de Milán",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/13/actualidad/1003742741310_15825386_1706x960.jpg",
+        "tags": [
+            "moda",
+            "ayuntamiento de barcelona",
+            "información municipal",
+            "eventos",
+            "generalitat de catalunya"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260317/barcelona-prepara-exhibir-disenos-semana-moda-milan/1003742741233_0.html",
+        "date": "2026-03-17 22:30:00",
+        "sentiment_score": 0.6080704145133495
+    },
+    {
+        "title": "Muere un excursionista de Torelló que quedó atrapado en un alud en el Pallars Sobirà",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/17/69b9d34fe771b.r_d.635-721-0.jpeg",
+        "tags": [
+            "quedó",
+            "alud",
+            "torelló",
+            "excursionista",
+            "sobirà",
+            "muere",
+            "pallars",
+            "atrapado"
+        ],
+        "link": "https://www.lavanguardia.com/local/pirineos/20260317/11492546/muere-excursionista-torello-quedo-atrapado-alud-pallars-sobira.html",
+        "date": "2026-03-17 22:29:52",
+        "sentiment_score": -0.6894486546516418
+    },
+    {
+        "title": "La Fundación Emilio Sánchez Vicario recibe el Premio ‘Fuera Pista’ del RCT Barcelona-1899",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2025/04/rune-gana-alcaraz-trofeo-conde-godo-469x317.jpg",
+        "tags": [
+            "servimedia"
+        ],
+        "link": "https://theobjective.com/actualidad/2026-03-17/fundacion-emilio-sanchez-vicario-premio-fuera-pista-rct/",
+        "date": "2026-03-17 22:28:31",
+        "sentiment_score": 0.557801116257906
+    },
+    {
+        "title": "Champions League: Real Madrid y PSG avanzan a cuartos. Sporting revienta el sueño de Bodø/Glimt",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/e/9d/e9dd242e-68d9-55f4-8aa1-95c9850a62cd/69b97d021e86a.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+        "tags": [
+            "sports",
+            "madrid psg city chelsea bodo liga campeones"
+        ],
+        "link": "https://santamariatimes.com/ap/sports/champions-league-real-madrid-y-psg-avanzan-a-cuartos-sporting-revienta-el-sue-o-de/article_61e270eb-258d-5793-92fb-dd317ec9ae55.html",
+        "date": "2026-03-17 22:14:00",
+        "sentiment_score": 0.2061551809310913
     }
 ];
