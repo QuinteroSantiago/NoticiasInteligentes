@@ -3042,5 +3042,211 @@ export default [
         "link": "https://santamariatimes.com/ap/sports/champions-league-real-madrid-y-psg-avanzan-a-cuartos-sporting-revienta-el-sue-o-de/article_61e270eb-258d-5793-92fb-dd317ec9ae55.html",
         "date": "2026-03-17 22:14:00",
         "sentiment_score": 0.2061551809310913
+    },
+    {
+        "title": "Esta es la estrella de Japón que no jugará el Mundial 2026 en México por lesión",
+        "image_url": "https://www.infobae.com/resizer/v2/BU4C36WC6FEHNOS6GOSIOQWRWI.png?auth=52320b1fd91800cd86fcdeb4ac4ce1f048e414b9cfb30fdb1366b10666e2c261&smart=true&width=1600&height=900",
+        "tags": [
+            "mundial 2026",
+            "takumi minamino",
+            "as monaco",
+            "japón",
+            "mexico-noticias",
+            "mexico-deportes"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2026/03/18/esta-es-la-estrella-de-japon-que-no-jugara-el-mundial-2026-en-mexico-por-lesion/",
+        "date": "2026-03-18 02:56:00",
+        "sentiment_score": -0.6666019335389137
+    },
+    {
+        "title": "Guardiola reconoce que todos lo quieren despedir tras derrota del City en la Champions",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "sports",
+            "deportes",
+            "manchester city liga campeones pep guardiola"
+        ],
+        "link": "https://apnews.com/article/manchester-city-liga-campeones-pep-guardiola-3358bfdf616b4095254e1c6fa175b241",
+        "date": "2026-03-18 01:55:20",
+        "sentiment_score": -0.09128783643245697
+    },
+    {
+        "title": "Cuando la baja estatura esconde un causa genética: \"En los últimos años hemos conocido muchos genes que regulan el crecimiento\"",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/17/17737864548858.jpg",
+        "tags": [
+            "salud",
+            "ciencia-y-salud/salud",
+            "ciencia y salud",
+            "genética",
+            "pediatría"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2026/03/18/69b99c83e85eceb50f8b4574.html",
+        "date": "2026-03-18 01:29:38",
+        "sentiment_score": 0.006130054593086243
+    },
+    {
+        "title": "Madrid se convierte en el epicentro de la Fórmula 1 escolar con STEM Racing Spain",
+        "image_url": "https://s1.staticld.com/2026/03/17/primera-vez-32-centros-publicos-andaluces-participan-stem-racing-supported-170326.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.libertaddigital.com/madrid/2026-03-18/madrid-se-convierte-en-el-epicentro-de-la-formula-1-escolar-con-stem-racing-spain-7375955/",
+        "date": "2026-03-18 01:00:20",
+        "sentiment_score": 0.35805733874440193
+    },
+    {
+        "title": "La guerra en Irán ya desvía turismo de Oriente Próximo hacia España",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/a2a3dd3aea56204bbe76c7c0e79154b2/resize/600/assets/multimedia/imagenes/2026/03/17/17737836918797.jpg",
+        "tags": [
+            "reino unido",
+            "empresas/transporte",
+            "empresas",
+            "transporte y turismo"
+        ],
+        "link": "https://www.expansion.com/empresas/transporte/2026/03/18/69b9caa3e5fdeaff688b457a.html",
+        "date": "2026-03-18 00:54:06",
+        "sentiment_score": 0.2599266692996025
+    },
+    {
+        "title": "La izquierda radical convierte Saint-Denis en «la ciudad de los negros» tras movilizar el voto musulmán en una localidad dominada por la inmigración",
+        "image_url": "https://gaceta.es/wp-content/uploads/2026/03/HDFKrluaMAA3pdR.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://gaceta.es/europa/la-izquierda-radical-convierte-saint-denis-en-la-ciudad-de-los-negros-tras-movilizar-el-voto-musulman-en-una-localidad-dominada-por-la-inmigracion-20260318-0146/",
+        "date": "2026-03-18 00:46:00",
+        "sentiment_score": 0.5370980128645897
+    },
+    {
+        "title": "Crear empresas desde la universidad, la mejor manera de fomentar el emprendimiento",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "business"
+        ],
+        "link": "https://theconversation.com/crear-empresas-desde-la-universidad-la-mejor-manera-de-fomentar-el-emprendimiento-235024",
+        "date": "2026-03-18 00:45:01",
+        "sentiment_score": 0.6474057510495186
+    },
+    {
+        "title": "17 MAR 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/06/10/684828a972448.jpeg",
+        "tags": [
+            "mar",
+            "17",
+            "2026",
+            "partidazo",
+            "cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/17-mar-2026-partidazo-cope-20260318_3328642.html",
+        "date": "2026-03-18 00:34:43",
+        "sentiment_score": 0.5511181727051735
+    },
+    {
+        "title": "PSG elimina al Chelsea",
+        "image_url": "https://diarioavance.com/wp-content/uploads/2026/03/1-13.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://diarioavance.com/psg-elimina-al-chelsea/",
+        "date": "2026-03-18 00:19:51",
+        "sentiment_score": 0.5269795507192612
+    },
+    {
+        "title": "PSG, Real Madrid y Arsenal avanzan a los cuartos de final de la Champions League",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/17201147/AFP__20260317__A3NV4T4__v1__MidRes__FblEurC1ArsenalLeverkusen.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.elnacional.com/2026/03/psg-real-madrid-y-arsenal-avanzan-a-los-cuartos-de-final-de-la-champions-league/",
+        "date": "2026-03-18 00:14:54",
+        "sentiment_score": 0.6842162050306797
+    },
+    {
+        "title": "Santanyí añora la línea ferroviaria que comunicó el Migjorn con la ciudad de Palma",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4415189.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/part-forana/2026/03/18/2591303/santanyi-anora-linea-ferroviaria-comunico-migjorn-ciudad-palma.html",
+        "date": "2026-03-18 02:48:01",
+        "sentiment_score": -0.2923920899629593
+    },
+    {
+        "title": "Carles Rebassa: «No soy de esos escritores a los que le gusta enseñar pierna por Sant Jordi»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4415115.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2026/03/18/2591247/carles-rebassa-soy-esos-escritores-que-gusta-ensenar-pierna-por-sant-jordi.html",
+        "date": "2026-03-18 02:48:01",
+        "sentiment_score": -0.5448612943291664
+    },
+    {
+        "title": "Cuenta atrás para el regreso de Enric Mas en Catalunya",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4415111.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/otros-deportes/2026/03/18/2591255/cuenta-atras-para-regreso-enric-mas-catalunya.html",
+        "date": "2026-03-18 02:48:01",
+        "sentiment_score": -0.13737882673740387
+    },
+    {
+        "title": "La huella de Miró en los Estados Unidos ‘viaja’ a lo grande a Washington",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4415237.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2026/03/18/2591361/huella-miro-estados-unidos-viaja-grande-washington.html",
+        "date": "2026-03-18 02:48:01",
+        "sentiment_score": 0.25548186898231506
+    },
+    {
+        "title": "El Newcastle, el nuevo rico de la Premier League financiado por Arabia Saudí: gasta 10 veces más que el Barça en fichajes",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/06/07/culemania/palco/769683028_8059869_1706x960.jpg",
+        "tags": [
+            "palco",
+            "arabia saudí",
+            "champions league"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260318/newcastle-premier-league-financiado-arabia-saudi-barca/1003742742642_0.html",
+        "date": "2026-03-18 01:08:53",
+        "sentiment_score": -0.5340606868267059
+    },
+    {
+        "title": "Más de 70% de acatamiento en el segundo día de huelga educativa en Cataluña",
+        "image_url": "https://www.laizquierdadiario.com/IMG/logo/lid-221.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.laizquierdadiario.com/Mas-de-70-de-acatamiento-en-el-segundo-dia-de-huelga-educativa-en-Cataluna",
+        "date": "2026-03-18 00:02:44",
+        "sentiment_score": 0.19261140376329422
+    },
+    {
+        "title": "Kaiser Chiefs, Iván Ferreiro, Valeria Castro y León Benavente en el Sonarama Ribera Day",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2026/03/17/214128369--758x531.jpg",
+        "tags": [
+            "conciertos en cantabria",
+            "cultura",
+            "rock"
+        ],
+        "link": "https://www.eldiariomontanes.es/dmusica/festivales/kaiser-chiefs-ivan-ferreiro-valeria-castro-leon-20260318220653-nt.html",
+        "date": "2026-03-18 00:00:00",
+        "sentiment_score": 0.035968877375125885
+    },
+    {
+        "title": "La Policía no encuentra a los responsables del boicot a cientos de cajetines de pisos turísticos en Granada",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/03/17/cajetines-airbnb-U50835238534SOg-758x531@Ideal.jpeg",
+        "tags": [
+            "whatsapp",
+            "ideal",
+            "albaicín",
+            "granada",
+            "policía nacional"
+        ],
+        "link": "https://www.ideal.es/granada/policia-encuentra-responsables-boicot-cientos-cajetines-pisos-20260318183354-nt.html",
+        "date": "2026-03-17 23:43:42",
+        "sentiment_score": -0.5701672099530697
     }
 ];
