@@ -1,474 +1,5 @@
 export default [
     {
-        "title": "Esta empresa española es la encargada de proteger el activo más valioso de Ucrania en la guerra",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/6af97ce4b9209f38d9aa751a2b4e0434/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/13/17734005380447.jpg",
-        "tags": [
-            "artículos javier g. fernández",
-            "tecnología"
-        ],
-        "link": "https://www.expansion.com/economia-digital/2026/03/13/69b3f22de5fdea6a1c8b4587.html",
-        "date": "2026-03-13 22:17:21",
-        "sentiment_score": 0.21993674337863922
-    },
-    {
-        "title": "3-0. Fede Valverde alimenta un nuevo milagro",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/11/3-0-fede-valverde-alimenta-un-nuevo-milagro/",
-        "date": "2026-03-13 22:16:50",
-        "sentiment_score": 0.8893746081739664
-    },
-    {
-        "title": "Crónica del Real Madrid - Manchester City: 3-0",
-        "image_url": "https://www.infobae.com/resizer/v2/HHSUAPX6BZCWTH3UAQL6XXGSEI.jpg?auth=656e0c69b1d07b4c2e0914139d09c22f5d639eb1481673e674abf466f241cf35&height=1280&smart=true&width=1920",
-        "tags": [
-            "real madrid",
-            "vinícius júnior",
-            "liga de campeones",
-            "fede valverde",
-            "etihad stadium",
-            "europapress",
-            "thibaut courtois",
-            "santiago bernabéu",
-            "fútbol",
-            "pep guardiola",
-            "manchester city"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/11/cronica-del-real-madrid-manchester-city-3-0/",
-        "date": "2026-03-13 22:15:48",
-        "sentiment_score": 0.6682989001274109
-    },
-    {
-        "title": "Los médicos retoman la huelga el lunes y advierten: sin acuerdo en Canarias habrá más paros",
-        "image_url": "https://s3.ppllstatics.com/canarias7/www/multimedia/2026/03/13/huelga-medicos-ktCF-U201191505909eeC-1200x840@Canarias7.jpg",
-        "tags": [
-            "servicio canario de salud",
-            "sanidad",
-            "paro",
-            "canarias",
-            "médicos",
-            "gobierno de canarias",
-            "consejería de sanidad",
-            "ministerio de sanidad, servicios sociales e igualdad"
-        ],
-        "link": "https://www.canarias7.es/sociedad/salud/medicos-retoman-huelga-lunes-advierten-acuerdo-canarias-20260314194637-nt.html",
-        "date": "2026-03-13 22:14:01",
-        "sentiment_score": 0.26196568459272385
-    },
-    {
-        "title": "El aviso de Renfe a sus interventores tras un nuevo incidente en la línea Madrid-Sevilla: \"Hay que concienciar a todos, el olor a humo es un indicio evidente de riesgo muy grande\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/4b0ab66c35091c52a9f988ef54ff6c02/crop/702x111/2640x2048/f/image/jpeg/assets/multimedia/imagenes/2024/12/15/17342882060591.jpg",
-        "tags": [
-            "artículos marcos iriarte",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/03/13/69b40f0dfc6c83946c8b45a1.html",
-        "date": "2026-03-13 21:44:38",
-        "sentiment_score": -0.795584175735712
-    },
-    {
-        "title": "Mbappé progresa en su recuperación y apunta a la Champions ante el Manchester City",
-        "image_url": "https://www.infobae.com/resizer/v2/UJGL4XOXCJGMZMDYNLABSXGY2U.jpg?auth=fd84a96a088a030d02e974fd4a3d08606a30aef9c3b3a25a83ffb6d92ebaed5b&height=995&smart=true&width=1500",
-        "tags": [
-            "españa-deportes",
-            "manchester city",
-            "champions league",
-            "lesiones deportivas",
-            "españa-noticias",
-            "fútbol",
-            "uefa champions league",
-            "real madrid",
-            "kylian mbappé",
-            "mbappé",
-            "fútbol españa"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/03/13/mbappe-progresa-en-su-recuperacion-y-apunta-a-la-champions-ante-el-manchester-city/",
-        "date": "2026-03-13 21:31:15",
-        "sentiment_score": 0.32192542031407356
-    },
-    {
-        "title": "Àlex Rigola lleva al teatro un texto histórico de la resistencia palestina: \"Es incómodo pero hay que escucharlo\"",
-        "image_url": "https://static.eldiario.es/clip/a104199f-778d-4f2a-8359-3747bb885664_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cataluña",
-            "ignacio escolar",
-            "periodismo independiente",
-            "barcelona",
-            "política",
-            "noticias",
-            "actualidad",
-            "economía"
-        ],
-        "link": "https://www.eldiario.es/catalunya/alex-rigola-lleva-teatro-texto-historico-resistencia-palestina-incomodo-hay-escucharlo_1_13062392.html",
-        "date": "2026-03-13 21:20:02",
-        "sentiment_score": -0.08572441339492798
-    },
-    {
-        "title": "Deportes | El Elche CF busca el más difícil todavía: ganar en casa del Real Madrid su primer encuentro del año",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1801779.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-elche-cf-busca-el-mas-dificil-todavia-ganar-en-casa-del-real-madrid-su-primer-encuentro-del-ano",
-        "date": "2026-03-13 21:17:26",
-        "sentiment_score": 0.19149257987737656
-    },
-    {
-        "title": "Deportes | El Elche CF busca el más difícil todavía: ganar en casa del Real Madrid su primer encuentro de 2026",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1801781.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-elche-cf-busca-el-mas-dificil-todavia-ganar-en-casa-del-real-madrid-su-primer-encuentro-de-2026",
-        "date": "2026-03-13 21:17:26",
-        "sentiment_score": 0.1562192216515541
-    },
-    {
-        "title": "¿Dónde será la Finalissima entre Argentina y España? O, mejor dicho, ¿se jugará?",
-        "image_url": "https://ktvz.b-cdn.net/2026/03/649842331_1595821415599765_6756979438746880778_n-375x225.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://ktvz.com/cnn-spanish/2026/03/13/donde-sera-la-finalissima-entre-argentina-y-espana-o-mejor-dicho-se-jugara/",
-        "date": "2026-03-13 20:31:19",
-        "sentiment_score": -0.20929430425167084
-    },
-    {
-        "title": "Cuenca 30 - Ademar 24: 'La habitual pesadilla en El Sargal'",
-        "image_url": "https://www.lanuevacronica.com/uploads/s1/32/21/30/6/pizarro-alberto.jpeg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.lanuevacronica.com/deportes/cuenca-30-ademar-24-habitual-pesadilla-en-sargal_192837_102.html",
-        "date": "2026-03-13 22:19:23",
-        "sentiment_score": -0.8840287057682872
-    },
-    {
-        "title": "EEUU advierte a sus ciudadanos en España: ‘Prepárate para cambiar tus planes’",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/6d/media_thumb-link-4156817.webp?1773425886=",
-        "tags": [
-            "irán",
-            "manifestaciones",
-            "guerra",
-            "actualidad",
-            "españa",
-            "eeuu",
-            "embajada"
-        ],
-        "link": "https://www.meneame.net/story/eeuu-advierte-ciudadanos-espana-preparate-cambiar-tus-planes",
-        "date": "2026-03-13 22:10:02",
-        "sentiment_score": -0.18964602053165436
-    },
-    {
-        "title": "Dónde han caído el bote de 26 millones de euros del Euromillones, los 2,5 millones de la Bonoloto, y los del Eurojackpot y la ONCE de hoy viernes 13 de marzo de 2026",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2019/12/15/DD6F937B-CB78-45BE-A8BA-423DBC0AECA2/98.jpg?crop=594%2C334%2Cx0%2Cy53&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "loterías",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-bote-26-millones-euros-euromillones-25-millones-bonoloto-eurojackpot-once-hoy-viernes-13-marzo-2026_2026031369b48993d489bf782e1961d0.html",
-        "date": "2026-03-13 22:02:59",
-        "sentiment_score": 0.0616702176630497
-    },
-    {
-        "title": "Los consumidores ya han hablado; estas son las marcas con el Mejor Servicio del Año® 2026",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7893117",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5808300/consumidores-hablado-estas-marcas-mejor-servicio-ano-2026",
-        "date": "2026-03-13 21:48:21",
-        "sentiment_score": 0.8265574052929878
-    },
-    {
-        "title": "Mudanzas BCN Internacional conecta Barcelona y Colombia con mudanzas seguras y eficientes",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7893121",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5808302/mudanzas-bcn-internacional-conecta-barcelona-colombia-mudanzas-seguras-eficientes",
-        "date": "2026-03-13 21:41:24",
-        "sentiment_score": 0.243244094774127
-    },
-    {
-        "title": "España supera las 160.000 bodas anuales con un giro hacia el espectáculo y lo visual",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7893104",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5808288/espana-supera-160000-bodas-anuales-giro-hacia-espectaculo-visual",
-        "date": "2026-03-13 21:25:39",
-        "sentiment_score": 0.6361836027354002
-    },
-    {
-        "title": "Miguel Rondelli se muestra “conforme” con el rendimiento de Cusco FC pese al irregular inicio en Liga 1 a puertas del derbi ante Cienciano",
-        "image_url": "https://www.infobae.com/resizer/v2/YF4GSVEMBZBIPAUPUCNIRLQMS4.jpg?auth=d6ebd04ddfd43c6ca83538f51cd18824e2e96dc7bd23eb3dd081cb59cda502d5&height=1080&smart=true&width=1920",
-        "tags": [
-            "cusco fc",
-            "peru-deportes",
-            "miguel rondelli",
-            "cienciano",
-            "liga 1"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2026/03/13/miguel-rondelli-se-muestra-conforme-con-el-rendimiento-de-cusco-fc-pese-al-irregular-inicio-en-liga-1-a-puertas-del-derbi-ante-cienciano/",
-        "date": "2026-03-13 21:13:16",
-        "sentiment_score": -0.7528773881494999
-    },
-    {
-        "title": "La Finalissima sigue en suspenso: Argentina y España siguen sin resolver sede del encuentro",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2024/07/Finalissima-trofeo.jpg",
-        "tags": [
-            "titulares",
-            "españa",
-            "futbol",
-            "finalissima",
-            "argentina",
-            "deportes"
-        ],
-        "link": "https://lapatilla.com/2026/03/13/la-finalissima-sigue-en-suspenso-argentina-y-espana-siguen-sin-resolver-sede-del-encuentro/",
-        "date": "2026-03-14 02:14:09",
-        "sentiment_score": 0.011980526149272919
-    },
-    {
-        "title": "El Gran Hermano sanchista te vigila: el 'hodiómetro' culmina la estrategia del Gobierno para controlar las redes y las noticias",
-        "image_url": "https://s3.elespanol.com/2026/03/12/actualidad/1003744167516_261912604_1706x960.jpg",
-        "tags": [
-            "delitos odio",
-            "porfolio",
-            "inclusión y migraciones",
-            "x",
-            "política",
-            "ministerio de seguridad social",
-            "redes sociales",
-            "elon musk",
-            "google",
-            "pedro sánchez",
-            "begoña gómez"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260314/gran-hermano-sanchista-vigila-hodiometro-culmina-estrategia-gobierno-controlar-redes-noticias/1003744167514_0.html",
-        "date": "2026-03-14 00:40:00",
-        "sentiment_score": -0.08605463802814484
-    },
-    {
-        "title": "Susana Fernández, la gallega que participó en Supervivientes hace 20 años y ahora regenta un hotel rural: “Me siento libre”",
-        "image_url": "https://s3.elespanol.com/2026/03/13/actualidad/1003744168495_261924458_1706x960.jpg",
-        "tags": [
-            "ferrol",
-            "comarca de ferrol",
-            "valdoviño",
-            "galicia",
-            "vivir"
-        ],
-        "link": "https://www.elespanol.com/quincemil/vivir/20260314/susana-fernandez-gallega-participo-supervivientes-hace-anos-ahora-regenta-hotel-rural-siento-libre-dl/1003744168233_0.html",
-        "date": "2026-03-14 00:40:00",
-        "sentiment_score": 0.3611418604850769
-    },
-    {
-        "title": "Rocío y otros reconvertidos al cristianismo que cargan con la \"cruz de cada día\" en la Hora Santa: \"Con Dios se vive mejor\"",
-        "image_url": "https://s3.elespanol.com/2026/03/11/actualidad/1003744165121_261881511_1706x960.jpg",
-        "tags": [
-            "católicos",
-            "jóvenes",
-            "toledo",
-            "sociedad",
-            "iglesia católica",
-            "religión"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/sociedad/20260314/rocio-reconvertidos-cristianismo-cargan-cruz-dia-hora-santa-dios-vive-mejor-dl/1003744163332_0.html",
-        "date": "2026-03-14 00:40:00",
-        "sentiment_score": 0.1681484431028366
-    },
-    {
-        "title": "CDMX: estos son los vuelos cancelados y demorados de este viernes",
-        "image_url": "https://www.infobae.com/resizer/v2/CMVDXZ7HBNDMZAW7GUGISD32D4.jpg?auth=fd780efd04da6bc6657766960a77be0fdc35bc06a966a2e995d067f0537c0450&height=1080&smart=true&width=1920",
-        "tags": [
-            "vuelos afectados en méxico",
-            "vuelos afectados aicm",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/mexico/2026/03/14/cdmx-estos-son-los-vuelos-cancelados-y-demorados-de-este-viernes/",
-        "date": "2026-03-14 00:17:54",
-        "sentiment_score": -0.760679854080081
-    },
-    {
-        "title": "Las agencias de calificación confirman sus buenas notas para España, pero sin contar aún mucho la guerra",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/03/13/sanchez-consejo-ministros-kJbC-U201194023062RbG-1200x840@RC.jpg",
-        "tags": [
-            "producto interior bruto (pib)",
-            "envejecimiento de la población",
-            "estrecho de ormuz",
-            "presupuestos generales del estado",
-            "energía",
-            "oriente-proximo",
-            "gobierno de pedro sánchez",
-            "vivienda"
-        ],
-        "link": "https://www.leonoticias.com/economia/mercados/agencias-calificacion-confirman-buenas-notas-espana-contar-20260313011427-ntrc.html",
-        "date": "2026-03-14 00:17:53",
-        "sentiment_score": -0.5168406143784523
-    },
-    {
-        "title": "Las heridas abiertas del 11-M y el «PSOE state of mind» como principal ideología sistémica",
-        "image_url": "https://gaceta.es/wp-content/uploads/2026/01/rajoy-09.jpg",
-        "tags": [
-            "11m",
-            "psoe",
-            "partido popular",
-            "españa"
-        ],
-        "link": "https://gaceta.es/espana/las-heridas-abiertas-del-11-m-y-el-psoe-state-of-mind-como-principal-ideologia-sistemica-20260314-0100/",
-        "date": "2026-03-14 00:00:00",
-        "sentiment_score": -0.4286414384841919
-    },
-    {
-        "title": "El futuro de Nico Paz en el Real Madrid: rumores, dudas y sorpresas",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/25/2025112503261180351.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/dudas-futuro-nico-paz-real-madrid/20260314003913378550.html",
-        "date": "2026-03-13 23:39:13",
-        "sentiment_score": -0.42433398216962814
-    },
-    {
-        "title": "David Gil, un seguro de vida para Sergio",
-        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/canal-amarillo/2026/03/13/_JMM7638-Rwh464bgEyjedpsLdvnZtmJ-758x531@abc.JPG",
-        "tags": [
-            "cd mirandés",
-            "cádiz cf",
-            "liga de fútbol profesional"
-        ],
-        "link": "https://www.lavozdigital.es/canal-amarillo/noticias-cadiz-cf/david-gil-seguro-vida-sergio-20260313003407-ntv.html",
-        "date": "2026-03-13 23:35:57",
-        "sentiment_score": -0.05025273561477661
-    },
-    {
-        "title": "El viaje de Clint Eastwood a España que cambió su carrera: el rodaje en Madrid donde nació un mito del cine",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/14/2026031400225849545.jpg",
-        "tags": [
-            "famosos"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/famosos/viaje-clint-eastwood-espana-que-cambio-carrera-rodaje-madrid-donde-nacio-mito-cine/202603140023111009694.html",
-        "date": "2026-03-13 23:23:11",
-        "sentiment_score": -0.09747445583343506
-    },
-    {
-        "title": "España: las predicciones del tiempo en Barcelona este 14 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima",
-            "clima en barcelona",
-            "clima en españa",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/14/espana-las-predicciones-del-tiempo-en-barcelona-este-14-de-marzo/",
-        "date": "2026-03-14 02:00:58",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "👩🏻‍💻💄💅🏻El pulso femenino: 👠la fuerza que redibuja el mercado venezolano",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/240620_080_BG_Creativos-Coca_Cola-Red_Empoderamiento_Femenino.jpg-300x200.jpeg",
-        "tags": [
-            "actualidad",
-            "mercado",
-            "zoom",
-            "economía"
-        ],
-        "link": "https://ultimasnoticias.com.ve/zoom/%F0%9F%91%A9%F0%9F%8F%BB%F0%9F%92%BB%F0%9F%92%84%F0%9F%92%85%F0%9F%8F%BBel-pulso-femenino-%F0%9F%91%A0la-fuerza-que-redibuja-el-mercado-venezolano/",
-        "date": "2026-03-14 01:38:59",
-        "sentiment_score": 0.1855965182185173
-    },
-    {
-        "title": "Gladys Tejeda se alista para la Maratón de Barcelona y mantiene firme su objetivo de llegar a Los Ángeles 2028",
-        "image_url": "https://www.infobae.com/resizer/v2/VSW34KH6MNB75JQHSKYZQQ3NHQ.png?auth=dfb7a569f6b52eee29460fe8e2ee56a1ec9c6dea38b2ab6104975e4467681239&height=1080&smart=true&width=1920",
-        "tags": [
-            "peru-deportes",
-            "gladys tejeda",
-            "los ángeles 2028",
-            "maratón de barcelona",
-            "atletismo peruano"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2026/03/14/gladys-tejeda-se-alista-para-la-maraton-de-barcelona-y-mantiene-firme-su-objetivo-de-llegar-a-los-angeles-2028/",
-        "date": "2026-03-14 01:07:14",
-        "sentiment_score": 0.5297548770904541
-    },
-    {
-        "title": "La gran promesa de Laporta sobre la cubierta del nuevo Camp Nou: adiós a Montjuïc",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/14/actualidad/1003742741391_15826408_1706x960.jpg",
-        "tags": [
-            "espai barça",
-            "camp nou",
-            "palco",
-            "limak construction"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260314/promesa-laporta-cubierta-nuevo-camp-nou-montjuic/1003742741374_0.html",
-        "date": "2026-03-14 00:58:53",
-        "sentiment_score": 0.47291961312294006
-    },
-    {
-        "title": "Los tres pilares de Laporta para revalidar la presidencia del Barça: estocada final a Víctor Font",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/13/actualidad/1003742741023_15826275_1706x960.jpg",
-        "tags": [
-            "joan laporta",
-            "víctor font",
-            "barça",
-            "palco",
-            "elecciones barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260314/laporta-revalidar-presidencia-barca-estocada-victor-font/1003742741384_0.html",
-        "date": "2026-03-14 00:25:43",
-        "sentiment_score": 0.0489729568362236
-    },
-    {
-        "title": "Petro aboga por una alianza contra el narcotráfico con todos los países americanos y sin \"fundamentalismos\"",
-        "image_url": "https://www.infobae.com/resizer/v2/DWMBP4TKHVCLZP3N5E3KTJ42IU.jpg?auth=da6277c412bbb9890f8ff397fd9326d0aea1e5d97531c4993cc25d9db08e4df9&height=1280&smart=true&width=1920",
-        "tags": [
-            "estados unidos",
-            "colombia",
-            "claudia sheinbaum",
-            "celac",
-            "barcelona",
-            "donald trump",
-            "europapress",
-            "narcotráfico",
-            "brasil",
-            "méxico",
-            "gustavo petro"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/12/petro-aboga-por-una-alianza-contra-el-narcotrafico-con-todos-los-paises-americanos-y-sin-fundamentalismos/",
-        "date": "2026-03-14 00:17:11",
-        "sentiment_score": -0.1708512306213379
-    },
-    {
-        "title": "Fernâo Brandâo ocultó la Biblioteca de Barcarrota",
-        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2026/03/13/213902926.jpg",
-        "tags": [
-            "barcarrota",
-            "biblioteca",
-            "oculto",
-            "brandao",
-            "fernao"
-        ],
-        "link": "https://www.hoy.es/culturas/trazos/fernao-brandao-oculto-biblioteca-barcarrota-20260314093955-nt.html",
-        "date": "2026-03-14 00:00:00",
-        "sentiment_score": -0.7687337454408407
-    },
-    {
-        "title": "Un estudio revela una mayor mortalidad por ictus en pacientes con trastornos mentales en España",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/487a1b1d-4a1f-4f6c-ae57-46c29bacf535_16-9-aspect-ratio_default_0_x568y213.jpg",
-        "tags": [
-            "salud mental",
-            "ictus",
-            "estudio"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/sociedad/2026/03/14/madrid-estudio-revela-mayor-mortalidad-ictus-pacientes-mental-127945899.html",
-        "date": "2026-03-13 23:51:58",
-        "sentiment_score": -0.36392033845186234
-    },
-    {
         "title": "La calle no miente, dónde ver las nuevas entregas de '091: Alerta Policía'",
         "image_url": "https://static.grupojoly.com/clip/def8744e-10f0-4d63-bd54-b22cf9a18037_facebook-aspect-ratio_default_0.jpg",
         "tags": [
@@ -504,101 +35,6 @@ export default [
         "link": "https://www.antena3.com/noticias/deportes/futbol/real-madrid-elche-horario-onces-donde-ver-partido-laliga-sports-directo_2026031469b4f96dd489bf782e1999fa.html",
         "date": "2026-03-14 06:00:13",
         "sentiment_score": 0.02107999473810196
-    },
-    {
-        "title": "Loterías que dan millones y hermanitas que cuidaron de los mayores de Cáceres",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/079b40c2-2883-405b-9861-1246858b1813_16-9-aspect-ratio_default_0_x714y357.jpg",
-        "tags": [
-            "cámara",
-            "ávila",
-            "barrio a barrio",
-            "comercio",
-            "provincia de cáceres",
-            "negocios"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres-local/2026/03/14/loterias-dan-millones-hermanitas-cuidaron-127815409.html",
-        "date": "2026-03-14 05:30:07",
-        "sentiment_score": -0.14965346455574036
-    },
-    {
-        "title": "Guardia Civil y el vehículo táctico IBERO: así es la máquina española que sorprende en SICUR",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/11/2026031116541398474.jpg",
-        "tags": [
-            "defensa"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/defensa/guardia-civil-vehiculo-tactico-ibero-asi-es-maquina-espanola-que-sorprende-sicur/202603140605001009074.html",
-        "date": "2026-03-14 05:05:00",
-        "sentiment_score": -0.09179165959358215
-    },
-    {
-        "title": "El UCAM Murcia regresa a casa ante un ‘gigante dormido’",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ab2190cb-bb54-49d0-879e-5d493c951b15_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gran canaria",
-            "peso",
-            "tiempo",
-            "ucam murcia cb",
-            "casa"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2026/03/14/ucam-murcia-regresa-casa-gigante-127939627.html",
-        "date": "2026-03-14 05:01:09",
-        "sentiment_score": -0.009788185358047485
-    },
-    {
-        "title": "Seis rasgos de mentalidad regresiva en el sistema educativo",
-        "image_url": "https://static.infolibre.es/clip/e1ff97e2-29a9-43d4-a908-7774b29608d9_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "plaza pública",
-            "educación"
-        ],
-        "link": "https://www.infolibre.es/opinion/plaza-publica/seis-rasgos-mentalidad-regresiva-sistema-educativo_129_2154796.html",
-        "date": "2026-03-14 05:00:40",
-        "sentiment_score": -0.10695628821849823
-    },
-    {
-        "title": "El \"No a la guerra\"... salvo cuando sí",
-        "image_url": "https://www.hispanidad.com/uploads/s1/14/53/95/2/whatsapp-image-2026-03-12-at-22-32-27_4_588x353.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.hispanidad.com/sociedad/no-guerra-salvo-cuando-si_12066266_102.html",
-        "date": "2026-03-14 05:00:00",
-        "sentiment_score": -0.9099599355831742
-    },
-    {
-        "title": "La Premier League, sorprendida y desnuda en la Champions League",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/27/2025032714571191461.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/premier-sorprendida-desnuda-champions/20260314053436378580.html",
-        "date": "2026-03-14 04:34:36",
-        "sentiment_score": 0.14950884878635406
-    },
-    {
-        "title": "La consejera de Educación de Madrid cancela su presencia en un espectáculo de un colegio porque no se podía grabar: “Querían la foto”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/E7Q2UKQUCBGPPIGXPQ6FDTWL3Q.jpg?auth=fe215459ef83f8df382a0a7dcc04953d4bfdb03bcb9f634e44b00bdd4f150460&width=1200",
-        "tags": [
-            "madrid",
-            "educación",
-            "menores",
-            "medios comunicación",
-            "derechos imagen",
-            "actos públicos",
-            "fotografía",
-            "colegios públicos",
-            "prensa",
-            "comunidad de madrid",
-            "política educativa",
-            "familia",
-            "pp",
-            "isabel díaz ayuso",
-            "colegios"
-        ],
-        "link": "https://elpais.com/espana/madrid/2026-03-14/la-consejera-de-educacion-de-madrid-cancela-su-presencia-en-un-espectaculo-de-un-colegio-porque-no-se-podia-grabar-querian-la-foto.html",
-        "date": "2026-03-14 04:30:01",
-        "sentiment_score": -0.761080039665103
     },
     {
         "title": "Así nació la DKW F89 Schnellaster, la inolvidable «Decauve»",
@@ -3248,5 +2684,256 @@ export default [
         "link": "https://www.lacronicabadajoz.com/sociedad/2026/03/17/caida-carnet-conducir-jovenes-espana-128056173.html",
         "date": "2026-03-17 06:55:14",
         "sentiment_score": -0.2124352976679802
+    },
+    {
+        "title": "Castellana Properties sigue de compras: se hace con el 50% del centro comercial Splau",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ADXJWOD4MJMLPPGWLFYA6ABTLA.jpg?auth=2ce56d29953f82daeefbc4fe232f700c16baec8319a07de9c82a37653dbdf905",
+        "tags": [
+            "bolsa",
+            "socimi",
+            "mercado inmobiliario",
+            "empresas",
+            "castellana properties",
+            "barcelona",
+            "unibail-rodamco-westfield",
+            "centros comerciales"
+        ],
+        "link": "https://cincodias.elpais.com/companias/2026-03-17/castellana-properties-sigue-de-compras-se-hace-con-el-50-del-centro-comercial-splau-por-175-millones.html",
+        "date": "2026-03-17 17:46:02",
+        "sentiment_score": 0.21155811473727226
+    },
+    {
+        "title": "Colegio de Enfermería de Ciudad Real traslada su apoyo a la concentración del 10 de abril por la carrera profesional",
+        "image_url": "http://st1.lacerca.com/imagenes/view/1f66596424acb0caa6f20122b2614c32.jpg",
+        "tags": [
+            "colegio",
+            "apoyo",
+            "profesional",
+            "concentracion",
+            "traslada",
+            "enfermeria",
+            "real",
+            "abril",
+            "carrera",
+            "10",
+            "ciudad"
+        ],
+        "link": "https://www.lacerca.com/noticias/ciudad_real/colegio-ciudad-real-apoyo-concentracion-abril-carrera-profesional-806394-1.html",
+        "date": "2026-03-17 17:35:00",
+        "sentiment_score": 0.15198414772748947
+    },
+    {
+        "title": "La pesadez e hinchazón de piernas pueden ser una señal de complicación vascular",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260317183410_1200.jpg",
+        "tags": [
+            "science",
+            "health"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-pesadez-hinchazon-piernas-pueden-ser-senal-complicacion-vascular-20260317183410.html",
+        "date": "2026-03-17 17:34:10",
+        "sentiment_score": -0.7259153071790934
+    },
+    {
+        "title": "Comienza el juicio contra Alquiler Seguro por cobros ilegales de honorarios y retención de depósitos de fianza",
+        "image_url": "https://www.elplural.com/uploads/s1/19/45/04/9/calle-bajada-de-la-libertad-jpg.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elplural.com/sociedad/tribunales/comienza-juicio-contra-alquiler-seguro-cobros-ilegales-honorarios-retencion-depositos-fianza_384415102",
+        "date": "2026-03-17 17:26:43",
+        "sentiment_score": -0.1769496351480484
+    },
+    {
+        "title": "Los mejores robots educativos de Andalucía compiten en Málaga",
+        "image_url": "https://static.grupojoly.com/clip/c6ca07ec-669b-411f-8d46-534bb62e91a9_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/mejores-robots-educativos-andalucia-compiten_0_2006206933.html",
+        "date": "2026-03-17 17:22:30",
+        "sentiment_score": 0.20228216797113419
+    },
+    {
+        "title": "Castilla-La Mancha registró 900 denuncias por desaparición en 2025",
+        "image_url": "https://www.clm24.es/media/clm24/images/2026/03/16/2026031616091110427.jpg",
+        "tags": [
+            "sucesos",
+            "desaparecidos"
+        ],
+        "link": "https://www.clm24.es/articulo/sociedad/castilla-mancha-registro-900-denuncias-desaparicion-2025/20260317181707473201.html",
+        "date": "2026-03-17 17:17:07",
+        "sentiment_score": -0.6795201860368252
+    },
+    {
+        "title": "\"¿El delantero centro de la selección? Raúl García de Haro\"",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/df58dcb3-95b6-41d2-85eb-50c4eb3d8e48_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "de la fuente",
+            "barcelona",
+            "raul moro",
+            "garcia",
+            "dazn",
+            "convocatoria",
+            "seleccion",
+            "raul",
+            "selección española",
+            "delantero",
+            "españa",
+            "osasuna",
+            "raúl garcía",
+            "centro"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2026/03/17/delantero-centro-seleccion-raul-garcia-espana-de-la-fuente-convocatoria-raul-moro-dazn-10833728.html",
+        "date": "2026-03-17 17:15:10",
+        "sentiment_score": -0.32182776927948
+    },
+    {
+        "title": "¿Qué dice la IA sobre la permanencia del Real Oviedo? Las cinco claves para luchar por quedarse en Primera División",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9afb0d19-d723-49de-b144-1beabe5eea93_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "mallorca",
+            "primera división",
+            "levante",
+            "real oviedo"
+        ],
+        "link": "https://www.lne.es/real-oviedo/2026/03/17/dice-ia-permanencia-real-oviedo-128085868.html",
+        "date": "2026-03-17 17:13:57",
+        "sentiment_score": 0.4094938039779663
+    },
+    {
+        "title": "17:00H | 17 MAR 2026 | La Tarde",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67d05b36b2414.jpeg",
+        "tags": [
+            "00h",
+            "17",
+            "mar",
+            "2026"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-17-mar-2026-tarde-20260317_3328527.html",
+        "date": "2026-03-17 17:05:00",
+        "sentiment_score": -0.14525607228279114
+    },
+    {
+        "title": "Aprobada la declaración como Bien de Interés Cultural del Puente de Cruzul, en Becerreá (Lugo)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "sergas",
+            "mundial 2030"
+        ],
+        "link": "https://www.galiciapress.es/articulo/ultima-hora/2026-03-17/5812427-aprobada-declaracion-como-bien-interes-cultural-puente-cruzul-becerrea-lugo",
+        "date": "2026-03-17 17:03:04",
+        "sentiment_score": 0.22393209487199783
+    },
+    {
+        "title": "Cataluña refuerza con 5 millones de euros el dispositivo contra la peste porcina",
+        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB280W7_L.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://es.investing.com/news/stock-market-news/cataluna-refuerza-con-5-millones-de-euros-el-dispositivo-contra-la-peste-porcina-3566032",
+        "date": "2026-03-17 17:53:35",
+        "sentiment_score": -0.23171144723892212
+    },
+    {
+        "title": "Los consumidores de Ozempic; gastan un 3,1 % menos en alimentación y bebidas",
+        "image_url": "https://imagenes.esdiario.com/files/og_thumbnail/uploads/2026/03/17/69b994c8caa43.jpeg",
+        "tags": [
+            "medicamentos",
+            "consumidores",
+            "alimentación",
+            "españa",
+            "bebidas"
+        ],
+        "link": "https://www.esdiario.com/economia/260317/182700/consumidores-ozempic-gastan-3-1-alimentacion-bebidas.html",
+        "date": "2026-03-17 17:52:27",
+        "sentiment_score": 0.024171851575374603
+    },
+    {
+        "title": "Dos médicos de Zaragoza, entre los 50 mejores del sector privado en España en 2025",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/03/17/69b99463b663c3-45100554.jpeg",
+        "tags": [
+            "zaragoza",
+            "entre",
+            "médicos",
+            "los",
+            "dos"
+        ],
+        "link": "https://www.heraldo.es/noticias/aragon/2026/03/17/dos-medicos-zaragoza-entre-50-mejores-sector-privado-espana-2025-2002227.html",
+        "date": "2026-03-17 17:50:43",
+        "sentiment_score": 0.7951777148991823
+    },
+    {
+        "title": "Vox denuncia el «retiro dorado» de Iceta mientras los españoles «sufren las nefastas políticas de vivienda» del Gobierno",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/files/fp/uploads/2023/09/01/64f222bd9824b.r_d.966-349-0.jpeg",
+        "tags": [
+            "vox",
+            "iceta",
+            "denuncia",
+            "dorado",
+            "retiro"
+        ],
+        "link": "https://www.eldebate.com/espana/20260317/vox-denuncia-retiro-dorado-iceta-mientras-espanoles-sufren-nefastas-politicas-vivienda-gobierno_397204.html",
+        "date": "2026-03-17 17:49:47",
+        "sentiment_score": -0.8730258662253618
+    },
+    {
+        "title": "El Papa visitará Montserrat el 10 de junio",
+        "image_url": "https://www.eldiadevalladolid.com/media/img/2026/470aa650-c453-41bb-9174818c5fc5ccae.jpg",
+        "tags": [
+            "barcelona",
+            "logística",
+            "abusos sexuales",
+            "españa",
+            "santa cruz de tenerife",
+            "conferencia episcopal",
+            "religión",
+            "roma",
+            "madrid",
+            "vaticano",
+            "el hierro",
+            "tenerife",
+            "antoni gaudí",
+            "iglesia católica",
+            "sagrada familia",
+            "corpus christi",
+            "santiago bernabéu",
+            "gran canaria",
+            "congreso de los diputados"
+        ],
+        "link": "https://www.eldiadevalladolid.com/noticia/z1d493fc0-4697-42ac-abd12247cb962d69/202603/el-papa-visitara-montserrat-el-10-de-junio",
+        "date": "2026-03-17 17:49:23",
+        "sentiment_score": 0.06238408014178276
+    },
+    {
+        "title": "Ya es oficial: El Papa León XVI celebrará una misa masiva en Tenerife para cerrar su gira",
+        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2026/01/papa-leon-xiv.jpg",
+        "tags": [
+            "papa león"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2026/03/papa-leon-misa-masiva-tenerife/",
+        "date": "2026-03-17 17:49:00",
+        "sentiment_score": 0.10342485085129738
+    },
+    {
+        "title": "Elche | Un estudio de la calidad del aire de Margalló muestra que la estación autonómica en Elche no cumple con su función",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1528484.jpg",
+        "tags": [
+            "aire",
+            "medio ambiente",
+            "elche"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/elcheplaza/un-estudio-de-la-calidad-del-aire-de-margallo-muestra-que-la-estacion-autonomica-en-elche-no-cumple-con-su-funcion",
+        "date": "2026-03-17 17:46:07",
+        "sentiment_score": -0.6840919181704521
+    },
+    {
+        "title": "La Generalitat aprueba el convenio con el Gobierno para la creación del primer centro de semiconductores avanzados de Cataluña",
+        "image_url": "https://www.elplural.com/uploads/s1/24/97/05/1/sincrotron-alba_17_1200x630.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elplural.com/autonomias/cataluna/generalitat-aprueba-firma-convenio-gobierno-creacion-primer-centro-semiconductores-avanzados-cataluna_384434102",
+        "date": "2026-03-17 17:42:58",
+        "sentiment_score": -0.03718654811382294
     }
 ];
