@@ -1,187 +1,5 @@
 export default [
     {
-        "title": "La Caprichosa de Toledo y una administración de Yuncos reparten el segundo premio de la Lotería Nacional: 120.000 € al número",
-        "image_url": "https://s3.elespanol.com/2026/03/14/actualidad/1003744169904_261945311_1706x960.jpg",
-        "tags": [
-            "yuncos (toledo)",
-            "toledo"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20260314/caprichosa-toledo-administracion-yuncos-reparten-segundo-premio-loteria-nacional-eur-numero/1003744169896_0.html",
-        "date": "2026-03-14 17:53:29",
-        "sentiment_score": 0.4457301050424576
-    },
-    {
-        "title": "¿Cómo queda la defensa del Real Madrid previo a la Champions League?",
-        "image_url": "https://i.ytimg.com/vi/NSc3-ln8ZTw/mqdefault.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-internacional/como-queda-la-defensa-del-real-madrid-previo-a-la-champions-league-202631413530",
-        "date": "2026-03-14 17:53:00",
-        "sentiment_score": -0.8729318296536803
-    },
-    {
-        "title": "Colby Covington estalla contra la UFC y critica la cartelera de la Casa Blanca",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/15/2026011510001891366.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/colby-covington-estalla-ufc-critica-cartelera-casa-blanca/20260314183415378630.html",
-        "date": "2026-03-14 17:34:15",
-        "sentiment_score": -0.8122986610978842
-    },
-    {
-        "title": "‘Mi hermano americano’, una experiencia vital",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/03/14/5849629C-291A-492E-A9F4-E878A2EA58B3/hermano-americano-experiencia-vital_98.jpg?crop=5032%2C2831%2Cx0%2Cy524&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "castilla y león",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/castilla-y-leon/hermano-americano-experiencia-vital_2026031469b59b256cf703292f7075bb.html",
-        "date": "2026-03-14 17:30:13",
-        "sentiment_score": 0.15789154917001724
-    },
-    {
-        "title": "Muere la actriz Gemma Cuervo a los 91 años",
-        "image_url": "https://static.grupojoly.com/clip/94c73288-9b60-47c2-ac94-763316b819db_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "actriz",
-            "gemma",
-            "91",
-            "cuervo",
-            "muere"
-        ],
-        "link": "https://www.diariodealmeria.es/ocio/muere-actriz-gemma-cuervo-91_0_2006173747.html",
-        "date": "2026-03-14 17:23:50",
-        "sentiment_score": 0.8017081841826439
-    },
-    {
-        "title": "Muere la actriz Gemma Cuervo",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2026/03/14/2026031418055836872.jpg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/cultura/muere-91-anos-actriz-gemma-cuervo/202603141810251438084.html",
-        "date": "2026-03-14 17:10:25",
-        "sentiment_score": -0.7825431041419506
-    },
-    {
-        "title": "YPF y el motivo tras el mono de Milei: la petrolera que Argentina expropió a Repsol y le puede costar 16.000 millones",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/03/14/69b5856d13a1b.r_d.2233-972.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.eldebate.com/economia/20260314/ypf-motivo-mono-milei-petrolera-argentina-expropio-repsol-le-puede-costar-16000-millones_396048.html",
-        "date": "2026-03-14 16:55:33",
-        "sentiment_score": -0.32635514810681343
-    },
-    {
-        "title": "Rodrigo Quian Quiroga, neurocientífico: \"Guardar un recuerdo implica reescribir conexiones neuronales\"",
-        "image_url": "https://images.ecestaticos.com/S0wPF22pWs0sVzTbO1lsgPs4xNY=/0x0:886x591/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb6b%2F400%2F867%2Fb6b40086792de781e6140b1001a25d1e.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-03-14/rodrigo-quian-quiroga-neurocientifico-recuerdo_4307490/",
-        "date": "2026-03-14 17:57:00",
-        "sentiment_score": 0.05094511806964874
-    },
-    {
-        "title": "Lamine Yamal respalda a Laporta en redes a horas de elecciones del Barça",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/07/2026030723530459937.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/lamine-yamal-respalda-laporta-redes-horas-elecciones-barca/20260314185538378632.html",
-        "date": "2026-03-14 17:55:38",
-        "sentiment_score": 0.5379897803068161
-    },
-    {
-        "title": "Muere la actriz Gemma Cuervo a los 91 años",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/312acf91925d7ce610ad6e0230c3a9c5/crop/155x43/1890x1200/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/14/17735108438297.jpg",
-        "tags": [
-            "sociedad>"
-        ],
-        "link": "https://www.expansion.com/sociedad/2026/03/14/69b5a01de5fdeabf118b45d3.html",
-        "date": "2026-03-14 17:54:55",
-        "sentiment_score": -0.594923447817564
-    },
-    {
-        "title": "Andreu Rami: \"Queremos que La Llama Fest sea un espacio para la locura\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260314184654_120.jpg",
-        "tags": [
-            "vídeos culturaocio",
-            "cultura y ocio"
-        ],
-        "link": "https://www.culturaocio.com/videos/video-andreu-rami-queremos-llama-fest-sea-espacio-locura-20260314184654.html",
-        "date": "2026-03-14 17:46:54",
-        "sentiment_score": 0.1641709879040718
-    },
-    {
-        "title": "Se derrumba parte de un puente de la R3 afectado por las obras de Rodalies en La Garriga y el Ayuntamiento pide explicaciones a Adif: \"Es muy grave\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/b24ef089553db1b81c39d8cc106c29d9/crop/0x92/1421x1039/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/14/17735097236870.jpg",
-        "tags": [
-            "artículos el mundo"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2026/03/14/69b59ed3e4d4d8b6058b459d.html",
-        "date": "2026-03-14 17:46:13",
-        "sentiment_score": -0.6172063574194908
-    },
-    {
-        "title": "Muere la actriz Gemma Cuervo a los 91 años",
-        "image_url": "https://www.alertadigital.com/wp-content/uploads/2026/03/gemma-1.jpg",
-        "tags": [
-            "cine y tv",
-            "gemma cuervo"
-        ],
-        "link": "https://www.alertadigital.com/2026/03/14/muere-la-actriz-gemma-cuervo-a-los-91-anos/",
-        "date": "2026-03-14 17:39:15",
-        "sentiment_score": -0.3852303512394428
-    },
-    {
-        "title": "El Festival de Cine LGTBI de Avilés ya tiene fecha: del 9 al 19 de abril en el Centro Niemeyer",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/03/14/festival-cine-lgtbi-aviles-niemeyer-RIzmyGM0AdVKDmsOsxdJOuM-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "aviles",
-            "lgtbi",
-            "cine",
-            "niemeyer",
-            "abril",
-            "centro",
-            "fecha",
-            "festival"
-        ],
-        "link": "https://www.elcomercio.es/planes/festival-cine-lgtbi-aviles-fecha-abril-centro-20260314183828-nt.html",
-        "date": "2026-03-14 17:38:30",
-        "sentiment_score": 0.3308944143354893
-    },
-    {
-        "title": "El Femenino quiere volver a ganar fuera tras el parón",
-        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2026/03/14/granada-femenino-k6II-U201200412693gZH-1200x840@Ideal.jpg",
-        "tags": [
-            "granada cf femenino",
-            "fútbol femenino",
-            "levante",
-            "granada cf",
-            "granada",
-            "badalona",
-            "copa de la reina de fútbol"
-        ],
-        "link": "https://www.ideal.es/granadacf/previa-levante-badalona-femenino-quiere-volver-ganar-tras-paron-20260314171805-nt.html",
-        "date": "2026-03-14 17:34:27",
-        "sentiment_score": -0.03545185923576355
-    },
-    {
-        "title": "Junqueras mantiene el pulso a Illa: «Si la cárcel no nos ha rendido, tampoco nos rendirá ninguna presión»",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/03/14/69b59bf455fbc.r_d.816-439-7423.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/20260314/junqueras-mantiene-pulso-illa-carcel-no-rendido-tampoco-rendira-ninguna-presion_396067.html",
-        "date": "2026-03-14 17:33:55",
-        "sentiment_score": -0.4820804335176945
-    },
-    {
         "title": "El Manchester City empató contra el West Ham y dijo adiós a sus esperanzas por el título de la Premier League",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/West-Ham-United-vs-Manchester-City.jpg",
         "tags": [
@@ -1021,16 +839,6 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/letraglobal/letras/20260315/fernanda-trias-comun-universo-interesante-explorar-literariamente/1003742739805_0.html",
         "date": "2026-03-15 17:00:00",
         "sentiment_score": -0.2658328488469124
-    },
-    {
-        "title": "Lo más viral de la semana: La ciclista que casi cae por un acantilado",
-        "image_url": "https://static.wixstatic.com/media/cf263a_a995c89c6cd34e08992e98693e6cdd64~mv2.jpg/v1/fit/w_640,h_427,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-de-la-semana-la-ciclista-que-casi-cae-por-un-acantilado",
-        "date": "2026-03-14 18:00:15",
-        "sentiment_score": -0.686813797801733
     },
     {
         "title": "Sigue la última hora de la gala de los premios Oscar",
@@ -3248,5 +3056,236 @@ export default [
         "link": "https://www.ideal.es/granada/policia-encuentra-responsables-boicot-cientos-cajetines-pisos-20260318183354-nt.html",
         "date": "2026-03-17 23:43:42",
         "sentiment_score": -0.5701672099530697
+    },
+    {
+        "title": "Aeropuertos en EE.UU. colapsan tras renuncias de agentes de la TSA por cierre parcial del Gobierno",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "cierre gobierno",
+            "aeropuertos",
+            "usa"
+        ],
+        "link": "https://www.meneame.net/story/aeropuertos-ee-uu-colapsan-tras-renuncias-agentes-tsa-cierre",
+        "date": "2026-03-17 21:25:04",
+        "sentiment_score": -0.8103161845356226
+    },
+    {
+        "title": "Jennifer López, la mejor jugadora de petanca de España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.meneame.net/story/jennifer-lopez-mejor-jugadora-petanca-espana",
+        "date": "2026-03-17 22:50:02",
+        "sentiment_score": 0.19405753910541534
+    },
+    {
+        "title": "Los 100 mejores colegios de España de 2026 según la lista Forbes: ninguno público y la mayoría multilingüistas",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/16/69b81a409ba4c1-82929441.jpeg",
+        "tags": [
+            "españa",
+            "madrid",
+            "colegios",
+            "forbes",
+            "seo20",
+            "educación"
+        ],
+        "link": "https://www.20minutos.es/nacional/100-mejores-colegios-lista-forbes-espana-2026-ninguno-publico-mayoria-multilingueistas_6946628_0.html",
+        "date": "2026-03-18 07:07:40",
+        "sentiment_score": 0.21877804398536682
+    },
+    {
+        "title": "Nuevos problemas en los trenes de alta velocidad: retrasos en los AVE con origen o destino Madrid por un problema de Adif",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3eb21edd-cbcb-4352-b92f-0a9adfe34b58_alta-libre-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "madrid",
+            "adif",
+            "trenes",
+            "ave"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260318/nuevos-problemas-trenes-alta-velocidad-retrasos-ave-madrid-128104953",
+        "date": "2026-03-18 07:03:11",
+        "sentiment_score": -0.8111811513081193
+    },
+    {
+        "title": "Carmen Tomás.- Vivienda: una política fallida",
+        "image_url": "https://s01.europapress.net/imagenes/estaticos/amp-logo/logo-europapress.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.europapress.es/otr-press/firmas/carmentomas/noticia-carmen-tomas-vivienda-politica-fallida-20260318080155.html",
+        "date": "2026-03-18 07:01:55",
+        "sentiment_score": -0.7195593789219856
+    },
+    {
+        "title": "Sánchez se reúne este miércoles con Zelenski, en la que supone la cuarta visita a España de su homólogo ucraniano",
+        "image_url": "https://www.infobae.com/resizer/v2/AQGCZFQEINF5VK3LXDH4V3TRXY.jpg?auth=a6f3b0e3ed1c31c11083a84b87c9a154b902b98b087ca76c5bbce8e16628b6b5&smart=true&width=1920&height=1280",
+        "tags": [
+            "volodímir zelenski",
+            "felipe vi",
+            "francina armengol",
+            "congreso de los diputados",
+            "visita oficial",
+            "europapress",
+            "relaciones internacionales",
+            "palacio de la moncloa",
+            "españa",
+            "madrid",
+            "pedro sánchez"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/18/sanchez-se-reune-este-miercoles-con-zelenski-en-la-que-supone-la-cuarta-visita-a-espana-de-su-homologo-ucraniano/",
+        "date": "2026-03-18 07:01:43",
+        "sentiment_score": 0.45130758732557297
+    },
+    {
+        "title": "Fermín Bocos.- Cuba, días contados",
+        "image_url": "https://s01.europapress.net/imagenes/estaticos/amp-logo/logo-europapress.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.europapress.es/otr-press/firmas/ferminbocos/noticia-fermin-bocos-cuba-dias-contados-20260318080128.html",
+        "date": "2026-03-18 07:01:28",
+        "sentiment_score": -0.08696573972702026
+    },
+    {
+        "title": "Una pareja de 'youtubers' argentinos que viven en España desde hace un año lo tienen claro: \"Puede ser exactamente lo que necesitas\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3a172c89-5913-412c-8669-716fc449a30f_alta-libre-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "alicante"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260318/pareja-youtubers-argentinos-viven-espana-alicante-dv-128061320",
+        "date": "2026-03-18 07:00:53",
+        "sentiment_score": 0.3295041024684906
+    },
+    {
+        "title": "Sobre la sexualidad y el castigo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6d10dfa9-a61a-4769-a783-80f4584563db_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "vinos",
+            "sexualidad",
+            "sexo",
+            "mujeres"
+        ],
+        "link": "https://www.laprovincia.es/opinion/2026/03/18/sexualidad-castigo-128096075.html",
+        "date": "2026-03-18 07:00:22",
+        "sentiment_score": -0.07155603170394897
+    },
+    {
+        "title": "Los 8 destinos más baratos para viajar en Semana Santa 2026 sin salir de España",
+        "image_url": "https://okdiario.com/img/2026/03/17/los-8-destinos-mas-baratos-para-viajar-en-semana-santa-2026-sin-salir-de-espana.jpg",
+        "tags": [
+            "pueblos",
+            "semana santa",
+            "viajar",
+            "viajes",
+            "españa",
+            "okd"
+        ],
+        "link": "https://okdiario.com/viajes/8-destinos-mas-baratos-viajar-semana-santa-2026-sin-salir-espana-16432394",
+        "date": "2026-03-18 07:00:14",
+        "sentiment_score": 0.0433938205242157
+    },
+    {
+        "title": "La fiscal española que descubrió que su tío argentino estuvo en prisión por torturas: \"Atravesé una fase de negación\"",
+        "image_url": "https://album.mediaset.es/eimg/2026/03/13/alexandra-garcia-tabernero-16-9-aspect-ratio-default-1035730_da39.jpg?w=1024",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.telecinco.es/noticias/cultura/20260318/alexandra-garcia-tabernero-fiscal-descubrio-tio-prision-torturas-upp3rs_18_018612998.html",
+        "date": "2026-03-18 07:00:13",
+        "sentiment_score": -0.4766249433159828
+    },
+    {
+        "title": "La preciosa villa española que parece sacada de \"Los Bridgerton\"",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/03/15/78F63D0E-BCA8-4CDD-876F-9945C88F845D/palacio-jardines-real-sitio-san-ildefonso_96.jpg?crop=2000,1125,x0,y0&width=1200&height=675&optimize=low&format=webply",
+        "tags": [
+            "naturaleza",
+            "historia",
+            "medio ambiente",
+            "patrimonio",
+            "televisión",
+            "segovia"
+        ],
+        "link": "https://www.larazon.es/castilla-y-leon/preciosa-villa-espanola-que-parece-sacada-bridgerton_2026031869ba4d7d3156ba241d59a510.html",
+        "date": "2026-03-18 07:00:13",
+        "sentiment_score": 0.5189070925116539
+    },
+    {
+        "title": "Barcelona, preparada para lo que llega: el Meteocat confirma un cambio radical del tiempo en los próximos días",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/11/16/69196e9416583.r_d.1961-1429-0.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20260318/1004154765/barcelona-preparada-llega-meteocat-confirma-cambio-radical-proximos-dias-dct.html",
+        "date": "2026-03-18 07:04:12",
+        "sentiment_score": 0.5969622433185577
+    },
+    {
+        "title": "Los docentes también cortan la C-55 en Manresa y la C-16c en Sant Fruitós (Barcelona)",
+        "image_url": "https://s01.europapress.net/imagenes/estaticos/amp-logo/logo-europapress.png",
+        "tags": [
+            "huelga"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-docentes-tambien-cortan-55-manresa-16c-sant-fruitos-barcelona-20260318080136.html",
+        "date": "2026-03-18 07:01:36",
+        "sentiment_score": -0.22966395318508148
+    },
+    {
+        "title": "Bizkaia diseña para finales de año un evento para atraer inversores internacionales",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/30649e43-b21a-472d-8561-bf96313634a9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "finales",
+            "bilbao",
+            "extranjeros",
+            "disena",
+            "bilbao metropoli 30",
+            "ano",
+            "evento",
+            "bizkaia",
+            "euskadi globala",
+            "inversores"
+        ],
+        "link": "https://www.deia.eus/bizkaia/2026/03/18/bizkaia-disena-finales-ano-evento-bilbao-inversores-extranjeros-10832720.html",
+        "date": "2026-03-18 07:00:03",
+        "sentiment_score": 0.21737824380397797
+    },
+    {
+        "title": "Tres convocatorias para tu startup que no te puedes perder",
+        "image_url": "https://wp.emprendedores.es/wp-content/uploads/2026/03/convocatoria-Eria.png",
+        "tags": [
+            "business"
+        ],
+        "link": "https://emprendedores.es/ayudas/directorio-quien-te-ayuda-a-emprender/convocatorias-nuevas",
+        "date": "2026-03-18 07:00:00",
+        "sentiment_score": 0.7134549943730235
+    },
+    {
+        "title": "Sumar presiona para congelar el precio del alquiler ante la guerra de Irán y Junts amenaza con no aprobar el decreto",
+        "image_url": "https://s3.elespanol.com/2026/03/18/actualidad/1003744174205_262003947_1706x960.jpg",
+        "tags": [
+            "junts per catalunya",
+            "guerra de irán",
+            "sumar",
+            "política",
+            "gobierno de españa",
+            "psoe (partido socialista obrero español)"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20260318/sumar-presiona-congelar-precio-alquiler-guerra-iran-junts-amenaza-no-aprobar-decreto/1003744174183_0.html",
+        "date": "2026-03-18 06:55:09",
+        "sentiment_score": -0.04965449869632721
+    },
+    {
+        "title": "La fiscalía reclama 28 años de prisión para un entrenador de fúbtol de alevines de Barcelona por abusar de cinco niños",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2b88ff38-22f1-4707-bdf0-3a7f7ec09dca_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol",
+            "barcelona",
+            "abusos sexuales",
+            "niños",
+            "justicia"
+        ],
+        "link": "https://www.laopiniondemalaga.es/sucesos/2026/03/18/fiscalia-prision-entrenador-de-futbol-ninos-barcelona-128103425.html",
+        "date": "2026-03-18 06:53:05",
+        "sentiment_score": -0.37389738857746124
     }
 ];
