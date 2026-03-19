@@ -1,176 +1,5 @@
 export default [
     {
-        "title": "Vox expulsa a su afiliado número 1, Ignacio Ansaldo, y a Toscano por ser afines a Ortega Smith",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/6f/media_thumb-link-4157257.webp?1773528966=",
-        "tags": [
-            "dictador",
-            "abascal",
-            "purga",
-            "politica",
-            "stalin",
-            "vox"
-        ],
-        "link": "https://www.meneame.net/story/vox-expulsa-afiliado-numero-1-ignacio-ansaldo-toscano-ser-afines",
-        "date": "2026-03-15 06:15:04",
-        "sentiment_score": -0.32168886810541153
-    },
-    {
-        "title": "Marco subió al Almería, dio la cara por todos... y le hicieron la puñeta",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/03/09/69aeb139cfd9e.jpeg",
-        "tags": [
-            "ud almería"
-        ],
-        "link": "https://www.lavozdealmeria.com/ud-almeria/484605/marco-subio-almeria-defendio-companeros-le-ensenaron-puerta.html",
-        "date": "2026-03-15 06:46:42",
-        "sentiment_score": -0.8506055744364858
-    },
-    {
-        "title": "Marta Flich: \"Antes daba portazos, ahora sé irme elegantemente\"",
-        "image_url": "https://www.elplural.com/uploads/s1/24/91/86/4/marta-flich-en-el-museo-chicote-elplural-com_7_480x270.jpeg",
-        "tags": [
-            "extratele"
-        ],
-        "link": "https://www.elplural.com/extratele/marta-flich-antes-daba-portazos-ahora-se-irme-elegantemente_384056102",
-        "date": "2026-03-15 06:44:12",
-        "sentiment_score": -0.01180294156074524
-    },
-    {
-        "title": "Barcelona-Sevilla: Alineaciones probables, estadísticas y cómo ver por TV y online (16:15)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(138x67:140x65)/origin-imgresizer.eurosport.com/2026/02/24/image-94635448-7724-4997-bdb9-c00b6d7e1198-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "la liga 2025/2026"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/barcelona-sevilla-alineaciones-probables-previa-estadisticas-datos-previos-horario-como-donde-ver-television-online-streaming-hoy_sto23281059/story.shtml",
-        "date": "2026-03-15 06:44:09",
-        "sentiment_score": 0.03453856706619263
-    },
-    {
-        "title": "Manuel Romero: dos trasplantes y ocho años en diálisis tras más de 50 años viviendo con una enfermedad renal",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/03/trasplantado-y-dializado-JJ-2.jpg",
-        "tags": [
-            "provincia de ciudad real",
-            "trasplante",
-            "tratamiento",
-            "ejercicio",
-            "diálisis",
-            "ciudad real",
-            "alimentación",
-            "hábitos de vida saludable",
-            "enfermedad renal",
-            "salud"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/manuel-romero-dos-trasplantes-y-ocho-anos-en-dialisis-tras-mas-de-50-anos-viviendo-con-una-enfermedad-renal/",
-        "date": "2026-03-15 06:28:00",
-        "sentiment_score": -0.13152997195720673
-    },
-    {
-        "title": "Rubén Amón: \"Mientras más vengo a la Maestranza menos me gusta ir a Las Ventas\"",
-        "image_url": "https://static.grupojoly.com/clip/73bbb4c1-fa19-4ed9-bc29-fed240fd7eb3_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "plaza de toros de la maestranza de sevilla"
-        ],
-        "link": "https://www.diariodesevilla.es/toros/ruben-amon-vengo-maestranza-gusta_0_2006015087.html",
-        "date": "2026-03-15 06:00:46",
-        "sentiment_score": 0.02401280403137207
-    },
-    {
-        "title": "Panorámica desde el altozano",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2026/03/149_OTERO_DE_HERREROS_INMACULADA_CONCEPCION_2025_15.jpg",
-        "tags": [
-            "nuestros pueblos",
-            "segovia"
-        ],
-        "link": "https://eladelantado.com/segovia/2026/03/15/panoramica-desde-el-altozano/",
-        "date": "2026-03-15 06:00:40",
-        "sentiment_score": -0.1555493175983429
-    },
-    {
-        "title": "Laporta vs Font: el futuro del Barcelona está en las manos del socio culé",
-        "image_url": "https://okdiario.com/img/2026/03/14/laporta-vs-font-interior.jpg",
-        "tags": [
-            "barcelona",
-            "joan laporta",
-            "fc barcelona",
-            "camp nou",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/laporta-vs-font-futuro-del-barcelona-esta-manos-del-socio-cule-16417488",
-        "date": "2026-03-15 06:00:14",
-        "sentiment_score": 0.03764418140053749
-    },
-    {
-        "title": "Un estudio apunta al Atlántico Norte como factor clave en la intensidad de la dana de Valencia",
-        "image_url": "https://www.elplural.com/uploads/s1/21/09/60/2/destrozos-causados-por-la-dana-de-octubre-de-2024-en-letur-albacete-ep_7_480x270.jpeg",
-        "tags": [
-            "comunidad valenciana"
-        ],
-        "link": "https://www.elplural.com/autonomias/comunidad-valenciana/estudio-apunta-atlantico-norte-factor-clave-intensidad-dana-valencia_384072102",
-        "date": "2026-03-15 06:44:05",
-        "sentiment_score": -0.11334539949893951
-    },
-    {
-        "title": "¿Cómo se escribe en español, ‘catiuscas’ o ‘katiuskas’? La respuesta de la RAE sorprende y es culpa del teatro",
-        "image_url": "https://okdiario.com/img/2026/03/11/botas-agua.jpg",
-        "tags": [
-            "rusia",
-            "palabras",
-            "curiosidades",
-            "frases",
-            "idiomas",
-            "rae",
-            "lenguaje",
-            "real academia española (rae)",
-            "idioma",
-            "castellano",
-            "español"
-        ],
-        "link": "https://okdiario.com/curiosidades/como-escribe-espanol-catiuscas-o-katiuskas-respuesta-rae-sorprende-culpa-del-teatro-16395196",
-        "date": "2026-03-15 06:30:28",
-        "sentiment_score": -0.46517882868647575
-    },
-    {
-        "title": "AEMET prevé cielo poco nuboso y temperaturas en ascenso en Barcelona, con viento moderado y heladas débiles",
-        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
-        "tags": [
-            "españa",
-            "cataluña",
-            "previsión del tiempo",
-            "okd",
-            "tiempo",
-            "agencia estatal de meteorología (aemet)"
-        ],
-        "link": "https://okdiario.com/cataluna/aemet-preve-cielo-poco-nuboso-y-temperaturas-en-ascenso-en-barcelona-con-viento-moderado-y-heladas-debiles-16419034",
-        "date": "2026-03-15 06:22:51",
-        "sentiment_score": 0.11933310329914093
-    },
-    {
-        "title": "El del medio de Los Chichos",
-        "image_url": "https://static.grupojoly.com/clip/4655b70c-c1c2-4fa2-b75b-a779189d5cd5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "aniversario",
-            "documental",
-            "chichos",
-            "jeros"
-        ],
-        "link": "https://www.diariodealmeria.es/ocio/chichos-jeros-aniversario-documental_0_2006177305.html",
-        "date": "2026-03-15 06:09:07",
-        "sentiment_score": 0.30295616388320923
-    },
-    {
-        "title": "Sutega refuerza su crecimiento con la incorporación de la constructora InSitu",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/baab8a75-5024-4731-b62b-c63ae3a6e5e8_16-9-aspect-ratio_default_0_x750y281.jpg",
-        "tags": [
-            "galicia",
-            "crecimiento",
-            "empresas",
-            "catalunya"
-        ],
-        "link": "https://www.lacronicabadajoz.com/comunicaciones-empresas/2026/03/15/sutega-refuerza-crecimiento-incorporacion-constructora-127976382.html",
-        "date": "2026-03-15 06:01:54",
-        "sentiment_score": 0.5032984986901283
-    },
-    {
         "title": "Qué es el síndrome compartimental, la condición que podría comprometer el rendimiento de los pilotos de Fórmula 1",
         "image_url": "https://www.infobae.com/resizer/v2/GAF7NOFNRNBWDDTHVB4ZF52E7I.jpg?auth=7bf58fcf038c2d8f083cc097a095d0548c5642e611e27604e9784fb133167606&height=1080&smart=true&width=1920",
         "tags": [
@@ -3088,5 +2917,194 @@ export default [
         "link": "https://www.diariodelaltoaragon.es/noticias/cultura/2026/03/18/lita-cabellut-rinde-tributo-con-su-pintura-paisaje-olivarero-los-agricultores-2003944.html",
         "date": "2026-03-18 17:41:50",
         "sentiment_score": 0.33719002828001976
+    },
+    {
+        "title": "Champions: Barcelona demolió al Newcastle 7-1 y pasó a cuartos de final",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/18174926/a665e40b562fd29a59202dddaf2044c567ba80d4w.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnacional.com/2026/03/champions-barcelona-demolio-al-newcastle-7-1-y-paso-a-cuartos-de-final/",
+        "date": "2026-03-18 22:33:29",
+        "sentiment_score": 0.14614683389663696
+    },
+    {
+        "title": "(Crónica) El Liverpool y el Bayern golean al Galatasaray y a la Atalanta para pasar a cuartos",
+        "image_url": "https://www.infobae.com/resizer/v2/VXY65PWHBBHFJMUOHXYG7W24DQ.jpg?auth=2eb9bf32dbcdc371e8377538d14b38d27ea9c96bcbb929df6292be1d0cace697&smart=true&width=1920&height=1326",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/18/cronica-el-liverpool-y-el-bayern-golean-al-galatasaray-y-a-la-atalanta-para-pasar-a-cuartos/",
+        "date": "2026-03-18 22:31:03",
+        "sentiment_score": 0.22007158398628235
+    },
+    {
+        "title": "El Atlético tratará de volver a ser la 'bestia negra' del FC Barcelona",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260318232929_1200.jpg",
+        "tags": [
+            "atlético de madrid",
+            "champions league",
+            "fútbol club barcelona"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-atletico-tratara-volver-ser-bestia-negra-fc-barcelona-20260318232929.html",
+        "date": "2026-03-18 22:29:29",
+        "sentiment_score": 0.3039085566997528
+    },
+    {
+        "title": "Barcelona-Atlético, Madrid-Bayern, PSG-Liverpool y Sporting-Arsenal, los cuartos de final",
+        "image_url": "https://laconexionusa.com/wp-content/uploads/2026/03/rss-efea47fd21ca8f9c9d8820bd2420c37574d758d257ew-1000x600.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://laconexionusa.com/barcelona-atletico-madrid-bayern-psg-liverpool-y-sporting-arsenal-los-cuartos-de-final/",
+        "date": "2026-03-18 22:24:05",
+        "sentiment_score": -0.029306836426258087
+    },
+    {
+        "title": "Así quedan los cruces de cuartos de final de Champions de los equipos españoles: Real Madrid-Bayern Múnich y FC Barcelona - Atlético de Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/KUTTFJPJWJB6RAJWVG4VS2IFLA.jpg?auth=941e6694f7c949d1575afa2274db8f48a3bc5eafc8ba66e1f0a524e4e49eda77&smart=true&width=1920&height=1080",
+        "tags": [
+            "champions league",
+            "uefa champions league",
+            "real madrid",
+            "fc barcelona",
+            "fútbol",
+            "fútbol españa",
+            "españa-deportes",
+            "españa noticias",
+            "atlético de madrid"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/03/18/asi-quedan-los-cruces-de-cuartos-de-final-de-champions-de-los-equipos-espanoles-real-madrid-bayern-munich-y-fc-barcelona-atletico-de-madrid/",
+        "date": "2026-03-18 22:23:21",
+        "sentiment_score": -0.03529035300016403
+    },
+    {
+        "title": "Julián Alvarez celebra a lo grande su partido 100 con la camiseta rojiblanca",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/18/julian-alvarez-celebra-a-lo-grande-su-partido-100-con-la-camiseta-rojiblanca/",
+        "date": "2026-03-18 22:21:40",
+        "sentiment_score": 0.7970334440469742
+    },
+    {
+        "title": "Barcelona-Atlético, Madrid-Bayern, PSG-Liverpool y Sporting-Arsenal, los cuartos de final",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/18/barcelona-atletico-madrid-bayern-psg-liverpool-y-sporting-arsenal-los-cuartos-de-final/",
+        "date": "2026-03-18 22:21:07",
+        "sentiment_score": -0.0604545995593071
+    },
+    {
+        "title": "Barcelona-Atlético, Madrid-Bayern, PSG-Liverpool y Sporting-Arsenal, los cuartos de final",
+        "image_url": "https://qpwebsite.s3.amazonaws.com/uploads/2026/03/rss-efea47fd21ca8f9c9d8820bd2420c37574d758d257ew.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://quepasamedia.com/deportes/barcelona-atletico-madrid-bayern-psg-liverpool-y-sporting-arsenal-los-cuartos-de-final/",
+        "date": "2026-03-18 22:17:38",
+        "sentiment_score": -0.09585613012313843
+    },
+    {
+        "title": "Así quedan los cuartos de final de la Champions con un equipo español asegurado en semifinales",
+        "image_url": "https://www.cope.es/files/og_thumbnail/files/fp/uploads/2025/08/28/68afa7e700c74.r_d.1561-918-0.jpeg",
+        "tags": [
+            "champions",
+            "final",
+            "quedan",
+            "cuartos",
+            "así"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/asi-quedan-cuartos-final-champions-equipo-espanol-asegurado-semifinales-20260318_3329511.html",
+        "date": "2026-03-18 22:17:05",
+        "sentiment_score": -0.11728522181510925
+    },
+    {
+        "title": "Alexia Putellas guía al Barcelona a su tercera final de Copa consecutiva",
+        "image_url": "https://www.cope.es/files/microformat_image/uploads/2026/03/18/69bb28a93cbb9.jpeg",
+        "tags": [
+            "tercera",
+            "barcelona",
+            "guía",
+            "putellas",
+            "alexia"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/alexia-putellas-guia-barcelona-tercera-final-copa-consecutiva-20260318_3329521.html",
+        "date": "2026-03-18 22:36:20",
+        "sentiment_score": -0.052802830934524536
+    },
+    {
+        "title": "Cocktail explosivo en el Spotify Camp Nou que culmina en orgasmo colectivo del barcelonismo",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/18/actualidad/1003742743089_15850389_1706x960.jpg",
+        "tags": [
+            "primer equipo"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260318/cocktail-explosivo-spotify-camp-nou-colectivo-barcelonismo/1003742743050_0.html",
+        "date": "2026-03-18 22:33:48",
+        "sentiment_score": 0.6736924573779106
+    },
+    {
+        "title": "Las viviendas de lujo se encarecen en 2025 en Barcelona por la falta de oferta: la rehabilitación, el escape",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/04/03/economia/844925519_12715566_1706x960.jpg",
+        "tags": [
+            "alquiler vivienda",
+            "vivienda",
+            "tecnología",
+            "economía",
+            "viviendas",
+            "inversion",
+            "la dreta de l'eixample"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260318/viviendas-lujo-encarecen-barcelona-falta-oferta-rehabilitacion-escape/1003742742928_0.html",
+        "date": "2026-03-18 22:30:00",
+        "sentiment_score": 0.09030911326408386
+    },
+    {
+        "title": "Una placa para Carmen",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2017/06/17/quien-hace-barcelona/224487551_10776602_1706x960.jpg",
+        "tags": [
+            "el raval",
+            "el gòtic",
+            "cultura",
+            "ayuntamiento de barcelona",
+            "opinión"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/opinion/20260318/placa-carmen/1003742743052_12.html",
+        "date": "2026-03-18 22:30:00",
+        "sentiment_score": -0.32365067303180695
+    },
+    {
+        "title": "En el 95% de las grandes ciudades es más barato comprar que alquilar una vivienda, según UVE Valoraciones",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260318232951_1200.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-95-grandes-ciudades-mas-barato-comprar-alquilar-vivienda-uve-valoraciones-20260318232951.html",
+        "date": "2026-03-18 22:29:51",
+        "sentiment_score": 0.08936759829521179
+    },
+    {
+        "title": "En el 95% de las grandes ciudades es más barato comprar que alquilar una vivienda, según UVE Valoraciones",
+        "image_url": "https://forbes.es/wp-content/uploads/2026/03/fotonoticia_20260318232951_1920-1200x675.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://forbes.es/economia/892780/en-el-95-de-las-grandes-ciudades-es-mas-barato-comprar-que-alquilar-una-vivienda-segun-uve-valoraciones/",
+        "date": "2026-03-18 22:29:51",
+        "sentiment_score": 0.18391400575637817
+    },
+    {
+        "title": "22 menores afectados por una reacción de productos tóxicos en una piscina de Rubí",
+        "image_url": "https://album.mediaset.es/eimg/2026/03/18/los-bomberos-de-la-generalitat-de-cataluna-han-desalojado-a-varias-decenas-de-personas-16-9-aspect-r_da39-2.jpg?w=1024",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20260318/menores-afectados-reaccion-productos-toxicos-piscina-rubi_18_018659676.html",
+        "date": "2026-03-18 22:28:40",
+        "sentiment_score": -0.7266261037439108
     }
 ];
