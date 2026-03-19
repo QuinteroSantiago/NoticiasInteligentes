@@ -3106,5 +3106,220 @@ export default [
         "link": "https://www.telecinco.es/noticias/catalunya/20260318/menores-afectados-reaccion-productos-toxicos-piscina-rubi_18_018659676.html",
         "date": "2026-03-18 22:28:40",
         "sentiment_score": -0.7266261037439108
+    },
+    {
+        "title": "Así quedaron definidos los cuartos de final de la UEFA Champions League",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2026/03/AP26077792712930-e1773886866682.jpg",
+        "tags": [
+            "uefa champions league"
+        ],
+        "link": "https://eldiariony.com/2026/03/18/asi-quedaron-definidos-los-cuartos-de-final-de-la-uefa-champions-league/",
+        "date": "2026-03-19 02:22:50",
+        "sentiment_score": 0.6979454681277275
+    },
+    {
+        "title": "Bayern Munich avanzó de fase goleando y con autoridad",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/Luis-Diaz.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://ultimasnoticias.com.ve/deportes/bayern-munich-avanzo-de-fase-goleando-y-con-autoridad/",
+        "date": "2026-03-19 02:06:25",
+        "sentiment_score": 0.5742616504430771
+    },
+    {
+        "title": "Cardoso: “Estamos preparados para todo lo que viene”",
+        "image_url": "https://laconexionusa.com/wp-content/uploads/2026/03/rss-efe9f4af931f25d0dac65107b865f7833f6eeb41b5fw-1000x600.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://laconexionusa.com/cardoso-estamos-preparados-para-todo-lo-que-viene/",
+        "date": "2026-03-19 02:04:18",
+        "sentiment_score": 0.22195842117071152
+    },
+    {
+        "title": "María José Baños, la terrorista del GRAPO no arrepentida para la que Belarra pide la libertad: le acaban de dar el tercer grado",
+        "image_url": "https://s3.elespanol.com/2026/03/18/actualidad/1003744175563_262022267_1706x960.jpg",
+        "tags": [
+            "instituciones penitenciarias",
+            "almería (municipio)",
+            "reportajes",
+            "terrorismo",
+            "cárceles",
+            "grapo",
+            "murcia (municipio)",
+            "ministerio del interior"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260319/maria-jose-banos-terrorista-grapo-no-arrepentida-belarra-pide-libertad-acaban-dar-tercer-grado/1003744174655_0.html",
+        "date": "2026-03-19 01:45:07",
+        "sentiment_score": -0.7349100057035685
+    },
+    {
+        "title": "‘Lucho’ Díaz se mete en la historia de Europa y se corona como el máximo goleador colombiano en la Champions League",
+        "image_url": "https://www.infobae.com/resizer/v2/3LVNZLYHGBGJ3CATX3A7SOUSPE.jpg?auth=4e3499ee693d2e6caaf2c8c459e0d694519f0895fab70e0a2123e99067848a34&smart=true&width=5290&height=3527",
+        "tags": [
+            "bayern munich",
+            "uefa champions league",
+            "colombianos en champions",
+            "luis díaz",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/03/19/lucho-diaz-se-mete-en-la-historia-de-europa-y-se-corona-como-el-maximo-goleador-colombiano-en-la-champions-league/",
+        "date": "2026-03-19 01:02:44",
+        "sentiment_score": 0.8765143509954214
+    },
+    {
+        "title": "UEFA Champions League: estos son los cruces definidos para los cuartos de final",
+        "image_url": "https://pxcdn.2001online.com/2001/032026/1773879982701/fc-barcelona-v-newcastle-united-fc-uefa-champions-league-2025-26-round-of-16-second-leg.jpg?cw=1170&ch=645",
+        "tags": [
+            "fc barcelona",
+            "champions league",
+            "cuartos de final",
+            "real madrid",
+            "uefa champions league",
+            "bayern",
+            "champions"
+        ],
+        "link": "https://2001online.com/deportes/uefa-champions-league-estos-son-los-cruces-definidos-para-los-cuartos-de-final-202631821150",
+        "date": "2026-03-19 00:45:05",
+        "sentiment_score": 0.8376429155468941
+    },
+    {
+        "title": "18 MAR 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/06/10/684828a972448.jpeg",
+        "tags": [
+            "cope",
+            "mar",
+            "partidazo",
+            "18",
+            "2026"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/18-mar-2026-partidazo-cope-20260319_3329544.html",
+        "date": "2026-03-19 00:38:40",
+        "sentiment_score": 0.05514825880527496
+    },
+    {
+        "title": "El pito guardado",
+        "image_url": "https://www.eldebate.com/files/fp/uploads/2021/10/21/61713c9335472.r_d.577-326-0.jpeg",
+        "tags": [
+            "pito",
+            "guardado"
+        ],
+        "link": "https://www.eldebate.com/opinion/20260319/pito-guardado_397684.html",
+        "date": "2026-03-19 00:35:00",
+        "sentiment_score": -0.07525685429573059
+    },
+    {
+        "title": "El polvo de nuestros hogares, un depósito de contaminantes: así varía su composición en diferentes ciudades españolas",
+        "image_url": "https://images.theconversation.com/files/721706/original/file-20260303-57-lwyjvp.jpeg?ixlib=rb-4.1.0&rect=0%2C593%2C4800%2C2400&q=45&auto=format&w=1356&h=668&fit=crop",
+        "tags": [
+            "top"
+        ],
+        "link": "https://theconversation.com/el-polvo-de-nuestros-hogares-un-deposito-de-contaminantes-asi-varia-su-composicion-en-diferentes-ciudades-espanolas-276461",
+        "date": "2026-03-19 00:32:12",
+        "sentiment_score": -0.08859618753194809
+    },
+    {
+        "title": "Nace en Bilbao una agencia de IA que automatiza llamadas y el 30% de las tareas en empresas españolas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "business"
+        ],
+        "link": "https://emprendedores.es/noticias-de-empresa/nace-en-bilbao-una-agencia-de-ia-que-automatiza-llamadas-y-el-30-de-las-tareas-en-empresas-espanolas",
+        "date": "2026-03-19 00:17:50",
+        "sentiment_score": 0.5785403959453106
+    },
+    {
+        "title": "La doble vara de Puente: ceses en Rodalies, pero nadie asume el caos del AVE en Málaga",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/03/18/87F100C1-C2CD-40FD-AD05-D8B5DF9ACD21/imagenes-trabajos-que-estan-llevando-cabo-via-alta-velocidad-que-une-malaga-madrid_96.jpg?crop=6000,3375,x0,y317&width=1200&height=675&optimize=low&format=webply",
+        "tags": [
+            "rodalies",
+            "óscar puente",
+            "ave",
+            "málaga"
+        ],
+        "link": "https://www.larazon.es/andalucia/malaga/doble-vara-puente-ceses-rodalies-pero-nadie-asume-caos-ave-malaga_2026031969bb5bb6e89622081d41020a.html",
+        "date": "2026-03-19 02:13:10",
+        "sentiment_score": -0.8066870849579573
+    },
+    {
+        "title": "Messi llega a los 900 goles",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/Lionel-Messi.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://ultimasnoticias.com.ve/deportes/messi-llega-a-los-900-goles/",
+        "date": "2026-03-19 02:09:21",
+        "sentiment_score": 0.533268503844738
+    },
+    {
+        "title": "Lionel Messi anota el gol 900 de su carrera",
+        "image_url": "https://laconexionusa.com/wp-content/uploads/2026/03/rss-efe5cec6e069abf85e00250845df53cb34523265a16w-1000x600.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://laconexionusa.com/lionel-messi-anota-el-gol-900-de-su-carrera/",
+        "date": "2026-03-19 02:05:01",
+        "sentiment_score": 0.18008317053318024
+    },
+    {
+        "title": "Lionel Messi anota el gol 900 de su carrera",
+        "image_url": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/68cda828e230a-730217.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://noticiasvenevision.com/noticias/deportes/lionel-messi-anota-el-gol-900-de-su-carrera",
+        "date": "2026-03-19 02:03:00",
+        "sentiment_score": 0.6925870254635811
+    },
+    {
+        "title": "Ampliar el túnel del Metro en Camino de Ronda hasta la rotonda de Europa, una de las propuestas para la movilidad en Granada",
+        "image_url": "https://static.grupojoly.com/clip/30b5da33-0622-4724-ae4c-c36f1a9f8f9b_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "carreteras granada",
+            "últimas noticias granada",
+            "tren granada",
+            "link en bio granada",
+            "ave granada",
+            "infraestructuras granada"
+        ],
+        "link": "https://www.granadahoy.com/granada/ampliar-tunel-metro-camino-ronda-gran-estacion-fuentenueva-ugr-colectivos-movilidad-granada_0_2006218746.html",
+        "date": "2026-03-19 01:59:27",
+        "sentiment_score": 0.5286263898015022
+    },
+    {
+        "title": "Messi se coloca en la senda de Cristiano: 900 goles y el sueño de los 1000 en el horizonte",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/15/2025061505461142635.jpg",
+        "tags": [
+            "cristiano ronaldo",
+            "mls",
+            "al-nassr",
+            "argentina",
+            "lionel messi",
+            "messi",
+            "inter miami"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/messi-alcanza-900-goles-vida-coloca-misma-senda-cristiano-ronaldo/20260319024344379231.html",
+        "date": "2026-03-19 01:43:44",
+        "sentiment_score": 0.8155293483287096
+    },
+    {
+        "title": "Juanma Moreno pedirá que el Gobierno pague los 1.300M que costará la interrupción del AVE a Málaga en Semana Santa",
+        "image_url": "https://s3.elespanol.com/2026/03/18/actualidad/1003744175496_262021264_1706x960.jpg",
+        "tags": [
+            "iryo",
+            "trenes",
+            "madrid",
+            "ouigo",
+            "psoe (partido socialista obrero español)",
+            "málaga",
+            "juan manuel moreno bonilla",
+            "carolina españa",
+            "ave",
+            "partido popular (pp)"
+        ],
+        "link": "https://www.elespanol.com/malaga/20260319/juanma-moreno-pedira-gobierno-pague-costara-interrupcion-ave-malaga-semana-santa/1003744175155_0.html",
+        "date": "2026-03-19 01:39:26",
+        "sentiment_score": -0.8974572960287333
     }
 ];
