@@ -1,221 +1,5 @@
 export default [
     {
-        "title": "Qué es el síndrome compartimental, la condición que podría comprometer el rendimiento de los pilotos de Fórmula 1",
-        "image_url": "https://www.infobae.com/resizer/v2/GAF7NOFNRNBWDDTHVB4ZF52E7I.jpg?auth=7bf58fcf038c2d8f083cc097a095d0548c5642e611e27604e9784fb133167606&height=1080&smart=true&width=1920",
-        "tags": [
-            "vibraciones autos",
-            "fernando alonso",
-            "f1",
-            "fórmula 1",
-            "newsroom bue",
-            "aston martin",
-            "adrian newey"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/15/que-es-el-sindrome-compartimental-la-condicion-que-podria-comprometer-el-rendimiento-de-los-pilotos-de-formula-1/",
-        "date": "2026-03-15 18:09:12",
-        "sentiment_score": -0.5109156221151352
-    },
-    {
-        "title": "El Real Avilés femenino vuelve a empatar y ve cada vez más lejos la salvación",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/03/15/atletico-aviles-klYB-U201213851498M7C-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "deportes avilés",
-            "fútbol femenino"
-        ],
-        "link": "https://www.elcomercio.es/deportes/deporte-femenino/real-aviles-femenino-vuelve-empatar-vez-lejos-20260315185432-nt.html",
-        "date": "2026-03-15 17:56:42",
-        "sentiment_score": -0.6169803887605667
-    },
-    {
-        "title": "Kylian Mbappé entrena con el grupo y podría viajar a Mánchester para la vuelta ante el City",
-        "image_url": "https://www.infobae.com/resizer/v2/JOZXSN7JQRGNXCDWLC4JQS6IHE.jpg?auth=7687eee6d139218120ac7fc87cf03968a99677c59dad22cef9e7f6f562540260&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/15/kylian-mbappe-entrena-con-el-grupo-y-podria-viajar-a-manchester-para-la-vuelta-ante-el-city/",
-        "date": "2026-03-15 17:45:37",
-        "sentiment_score": 0.11304949969053268
-    },
-    {
-        "title": "Dani Vidal, entrenador del Real Avilés: «Hemos probado todo para no encajar, tendremos que ir a marcar un gol más que el rival»",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/03/15/dani-vidal-kUlG-U201213533869TjC-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "real avilés"
-        ],
-        "link": "https://www.elcomercio.es/real-aviles/dani-vidal-entrenador-real-aviles-probado-encajar-20260315183921-nt.html",
-        "date": "2026-03-15 17:39:25",
-        "sentiment_score": -0.22305551171302795
-    },
-    {
-        "title": "Fiesta completa del Barça ante el Sevilla",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/15/Clipboard-0089-kARC-U201161659779NO-1200x840@RC.jpg",
-        "tags": [
-            "f.c. barcelona"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-primera/fiesta-completa-barca-ante-sevilla-20260315182403-ntrc.html",
-        "date": "2026-03-15 17:37:14",
-        "sentiment_score": 0.3460095226764679
-    },
-    {
-        "title": "Rafael Carrasco, el exfutbolista 'galáctico' que cambió a David Beckham por el volante del tren turístico de Aracena, en Huelva",
-        "image_url": "https://album.mediaset.es/eimg/2026/03/10/tren-turistico-de-aracena-huelva_4d96.jpg",
-        "tags": [
-            "andalucía"
-        ],
-        "link": "https://www.telecinco.es/noticias/andalucia/20260315/rafael-carrasco-exfutbolista-conductor-tren-turistico-aracena-huelva_18_018573665.html",
-        "date": "2026-03-15 17:30:15",
-        "sentiment_score": -0.26771533489227295
-    },
-    {
-        "title": "La versión de la AFA para cancelar la Finalissima contra España",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2026/03/01/69a4345ec96cb.r_d.375-299-15809.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/version-afa-cancelar-finalissima-espana-20260315_3326850.html",
-        "date": "2026-03-15 17:17:56",
-        "sentiment_score": -0.022189468145370483
-    },
-    {
-        "title": "Coincidencia para superar las penas: el Lugo también fue goleado por el Castilla el año de su último ascenso",
-        "image_url": "https://cflvdg.avoz.es/sc/3s_5C_SR5o31kThM5vtDPNIL_3g=/768x/2026/03/15/00121773594541625340287/Foto/m_20260314_220544000.jpg",
-        "tags": [
-            "cdlugo",
-            "cd lugo",
-            "primera rfef"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/cdlugo/2026/03/15/coincidencia-superar-penas-lugo-goleado-castilla-ano-ultimo-ascenso/00031773594450212462429.htm",
-        "date": "2026-03-15 17:14:00",
-        "sentiment_score": -0.2585402652621269
-    },
-    {
-        "title": "Estos son los próximos rivales del Real Zaragoza: continúa el Tourmalet",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2026/03/14/real-zaragoza-almeria-54.jpeg",
-        "tags": [
-            "real zaragoza"
-        ],
-        "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/03/15/estos-son-los-proximos-rivales-del-real-zaragoza-continua-el-tourmalet-1902414.html",
-        "date": "2026-03-15 16:57:45",
-        "sentiment_score": 0.11648530140519142
-    },
-    {
-        "title": "Madrid se prepara para su gran semana de la moda con Baro Lucas y Fely Campo entre los nombres destacados",
-        "image_url": "https://www.tribunavalladolid.com/uploads/imagenes/images/2026/3/15/437854/20260315190941_caratula.webP",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.tribunasalamanca.com/noticias/437854/madrid-se-prepara-para-su-gran-semana-de-la-moda-con-baro-lucas-y-fely-campo-entre-los-nombres-destacados",
-        "date": "2026-03-15 18:06:00",
-        "sentiment_score": 0.36295101046562195
-    },
-    {
-        "title": "Los profesores empiezan una huelga y presionan al Govern de Illa en su semana más crítica",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/c8960417ed23b19cba2bd8b74e5ced05/crop/2x0/998x997/f/image/jpeg/assets/multimedia/imagenes/2023/12/28/17037819584998.jpg",
-        "tags": [
-            "artículos cristina rubio"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2026/03/15/69b6f179e85ecebe488b45a9.html",
-        "date": "2026-03-15 18:02:04",
-        "sentiment_score": 0.06031275913119316
-    },
-    {
-        "title": "Barcelona reactiva este lunes la Zona de Bajas Emisiones tras más de un mes suspendida por el caos de Rodalies",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/12/693beb8af3f039-21888789.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona-reactiva-este-lunes-zona-bajas-emisiones-tras-mas-un-mes-suspendida-por-caos-rodalies_6946190_0.html",
-        "date": "2026-03-15 17:52:28",
-        "sentiment_score": -0.7688083462417126
-    },
-    {
-        "title": "Barcelona aplasta al Sevilla con triplete de Raphinha y se mantiene sólido en la cima",
-        "image_url": "https://noticialdia.com/wp-content/firewall/uploads/2026/03/GettyImages-2266639336-768x534-1.jpg",
-        "tags": [
-            "laliga",
-            "sevilla",
-            "deportes",
-            "raphinha",
-            "barcelona"
-        ],
-        "link": "https://noticialdia.com/deportes/barcelona-aplasta-al-sevilla-con-triplete-de-raphinha-y-se-mantiene-solido-en-la-cima/",
-        "date": "2026-03-15 17:41:00",
-        "sentiment_score": 0.659084752202034
-    },
-    {
-        "title": "Nortur se consolida dentro del sector del campismo: «La de Avilés es una feria de referencia»",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/03/15/clausura-feria-nortur-aviles-RD68QxPqmX5i4byQOqwRHKL-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "avilés",
-            "exposiciones",
-            "cámara de comercio de avilés",
-            "pabellón de exposiciones de la magdalena",
-            "feria"
-        ],
-        "link": "https://www.elcomercio.es/aviles/nortur-consolida-dentro-sector-campismo-aviles-feria-20260315183856-nt.html",
-        "date": "2026-03-15 17:38:58",
-        "sentiment_score": 0.7634833976626396
-    },
-    {
-        "title": "El detalle del Barcelona-Sevilla que sorprendió a Paco González: \"Si tú le cuentas a alguien que el Barça va ganando 5-1 al Sevilla y 0 goles...\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/15/69b6e41cf1d2b.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/detalle-barcelona-sevilla-sorprendio-paco-gonzalez-le-cuentas-alguien-barca-gana-5-1-sevilla-0-goles-20260315_3326847.html",
-        "date": "2026-03-15 17:23:30",
-        "sentiment_score": -0.09011989831924438
-    },
-    {
-        "title": "Ceuta, destino de buceo en la feria internacional de Cornellá",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/03/ceuta-destino-buceo-feria-internacional-cornella-005-750x500.jpeg",
-        "tags": [
-            "turismo",
-            "sociedad",
-            "buceo",
-            "noticias",
-            "gobierno de ceuta"
-        ],
-        "link": "https://elfarodeceuta.es/ceuta-destino-buceo-feria-internacional-cornella/",
-        "date": "2026-03-15 17:20:23",
-        "sentiment_score": 0.40895184874534607
-    },
-    {
-        "title": "Adiós con honores a la ‘Final Four’",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b438e55e-bfb4-4dfd-80b0-5deeb8434e62_16-9-aspect-ratio_default_0_x648y261.jpg",
-        "tags": [
-            "final",
-            "baskonia",
-            "jovenes",
-            "honores",
-            "españa",
-            "euroliga",
-            "baloncesto",
-            "vitoria",
-            "adios",
-            "four",
-            "barcelona"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/03/15/adios-honores-final-four-baskonia-barcelona-euroliga-jovenes-baloncesto-espana-vitoria-10823427.html",
-        "date": "2026-03-15 17:06:38",
-        "sentiment_score": 0.8520886935293674
-    },
-    {
-        "title": "Fernanda Trías: \"La vida común puede ser un universo interesante de explorar literariamente\"",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/06/letraglobal/1003742738980_15795482_1706x960.jpg",
-        "tags": [
-            "libros",
-            "entrevistas",
-            "escritores",
-            "literatura",
-            "letras"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/letraglobal/letras/20260315/fernanda-trias-comun-universo-interesante-explorar-literariamente/1003742739805_0.html",
-        "date": "2026-03-15 17:00:00",
-        "sentiment_score": -0.2658328488469124
-    },
-    {
         "title": "Sigue la última hora de la gala de los premios Oscar",
         "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/15/1508625836-kOhC--758x531@RC.JPG",
         "tags": [
@@ -3321,5 +3105,269 @@ export default [
         "link": "https://www.elespanol.com/malaga/20260319/juanma-moreno-pedira-gobierno-pague-costara-interrupcion-ave-malaga-semana-santa/1003744175155_0.html",
         "date": "2026-03-19 01:39:26",
         "sentiment_score": -0.8974572960287333
+    },
+    {
+        "title": "Mbappé domina el Pichichi de la Champions mientras Kane y Julián aprietan",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/19/2025101923111111708.jpg",
+        "tags": [
+            "real madrid",
+            "pichichi",
+            "harry-kane",
+            "juli&aacute;n &aacute;lvarez",
+            "champions league",
+            "kylian-mbappe",
+            "mbappe"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/mbappe-domina-pichichi-champions-mientras-kane-julian-aprietan/20260319080653379266.html",
+        "date": "2026-03-19 07:06:53",
+        "sentiment_score": 0.0647631585597992
+    },
+    {
+        "title": "07:00H | 19 MAR 2026 | Herrera en COPE",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67cfe50112eb6.jpeg",
+        "tags": [
+            "19",
+            "07",
+            "mar",
+            "00h",
+            "2026"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/07-00h-19-mar-2026-herrera-cope-20260319_3329593.html",
+        "date": "2026-03-19 07:06:00",
+        "sentiment_score": 0.025577079504728317
+    },
+    {
+        "title": "Francisco Muro de Iscar.- La ineptitud: de Ormuz a Adamuz",
+        "image_url": "https://s01.europapress.net/imagenes/estaticos/amp-logo/logo-europapress.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.europapress.es/otr-press/firmas/franciscomuro/noticia-francisco-muro-iscar-ineptitud-ormuz-adamuz-20260319080103.html",
+        "date": "2026-03-19 07:01:03",
+        "sentiment_score": -0.9229370281100273
+    },
+    {
+        "title": "Agenda de la Mercedes-Benz Fashion Week Madrid 2026 hoy, 19 marzo: diseñadores, horario y qué desfiles hay",
+        "image_url": "https://okdiario.com/img/2026/03/17/agenda-de-la-mercedes-benz-fashion-week-madrid-2026-hoy-19-marzo-disenadores-horario-y-que-desfiles-hay.jpg",
+        "tags": [
+            "madrid",
+            "moda",
+            "mercedes benz",
+            "mercedes-benz fashion week madrid (mbfwm)",
+            "okd"
+        ],
+        "link": "https://okdiario.com/cool/moda/agenda-mercedes-benz-fashion-week-madrid-2026-hoy-19-marzo-disenadores-horario-que-desfiles-hay-16431570",
+        "date": "2026-03-19 07:00:51",
+        "sentiment_score": 0.1347789466381073
+    },
+    {
+        "title": "Alonsotegi cumple sueños y deseos en ayuda a domicilio",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/cbb462f1-730a-4970-a934-f0267a33ea28_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "memoria",
+            "ayuntamiento de alonsotegi",
+            "personas mayores",
+            "domicilio",
+            "ayuda",
+            "cumple",
+            "gestora",
+            "suenos",
+            "deseos",
+            "alonsotegi"
+        ],
+        "link": "https://www.deia.eus/bizkaia/2026/03/19/alonsotegi-cumple-suenos-deseos-ayuda-domicilio-10838913.html",
+        "date": "2026-03-19 07:00:26",
+        "sentiment_score": -0.013213008642196655
+    },
+    {
+        "title": "Poder duro o poder blando, el dilema de Von der Leyen",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/53TT7U67E5I2XLYH5QU6V43G5M.jpg?auth=8c24587c8bde0e27325b0b1e0083610f48abb40ccc5894f9d08606fd15966b6c",
+        "tags": [
+            "unión europea",
+            "ursula von der leyen",
+            "opinión",
+            "pib",
+            "comisión europea",
+            "bruselas",
+            "donald trump"
+        ],
+        "link": "https://cincodias.elpais.com/opinion/2026-03-19/soft-power-vs-hard-power-el-dilema-von-der-leyen.html",
+        "date": "2026-03-19 07:00:00",
+        "sentiment_score": -0.7632105108350515
+    },
+    {
+        "title": "Dónde ver el Valencia - Barça: día y hora del partido de la Euroliga de baloncesto",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/18/69ba65706b73b.jpeg",
+        "tags": [
+            "dónde",
+            "euroliga",
+            "partido",
+            "ver",
+            "valencia",
+            "baloncesto",
+            "día",
+            "hora",
+            "barça"
+        ],
+        "link": "https://www.lavanguardia.com/comprar/cultura-ocio/20260319/11492809/donde-ver-valencia-barca-dia-hora-partido-euroliga-baloncesto-mkt-movi.html",
+        "date": "2026-03-19 06:55:00",
+        "sentiment_score": -0.1994224190711975
+    },
+    {
+        "title": "El Tribunal Supremo reabre la guerra por la tributación en el IRPF de los intereses de demora",
+        "image_url": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2024/01/31/17066861678073.jpg",
+        "tags": [
+            "economia",
+            "economía",
+            "fiscal",
+            "artículos ignacio faes"
+        ],
+        "link": "https://www.expansion.com/economia/2026/03/19/69bb027a468aeb232e8b4574.html",
+        "date": "2026-03-19 06:53:13",
+        "sentiment_score": 0.058578476309776306
+    },
+    {
+        "title": "La camisa de Guardiola se vuelve viral tras la eliminación del City ante el Madrid",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/19/2026031907484662578.jpg",
+        "tags": [
+            "manchester city",
+            "champions league",
+            "guardiola",
+            "real madrid",
+            "pep guardiola"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/camisa-guardiola-vuelve-viral-eliminacion-city-madrid/20260319074924379265.html",
+        "date": "2026-03-19 06:49:24",
+        "sentiment_score": 0.6961330249905586
+    },
+    {
+        "title": "Raúl Moro es duda para el partido contra el Girona",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2cd28218-4e45-444d-bbf0-3ad1882840e1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "osasuna",
+            "girona",
+            "raul",
+            "partido",
+            "moro",
+            "raúl moro",
+            "fútbol",
+            "el sadar",
+            "duda"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2026/03/19/raul-moro-duda-partido-girona-10838816.html",
+        "date": "2026-03-19 06:22:52",
+        "sentiment_score": -0.6757721267640591
+    },
+    {
+        "title": "07:00H | 19 MAR 2026 | ¡Buenos días, Javi y Mar!",
+        "image_url": "https://www.cadena100.es/files/microformat_image_1x1/uploads/2025/03/19/67db06446809d.jpeg",
+        "tags": [
+            "19",
+            "07",
+            "mar",
+            "00h",
+            "2026"
+        ],
+        "link": "https://www.cadena100.es/programas/buenos-dias-javi-y-mar/horas-completas/07-00h-19-mar-2026-buenos-dias-javi-mar-20260319_147625.html",
+        "date": "2026-03-19 07:10:00",
+        "sentiment_score": -0.3014877736568451
+    },
+    {
+        "title": "Sin relevo generacional para cubrir las jubilaciones de aparejadores: «Tenemos paro casi cero»",
+        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2026/03/13/WhatsApp%20Image%202026-03-12%20at%2013.55.00%20(1)-klhF--758x531@Leonoticias.jpg",
+        "tags": [
+            "león (capital)"
+        ],
+        "link": "https://www.leonoticias.com/leon/relevo-generacional-cubrir-jubilaciones-aparejadores-paro-cero-20260319080912-nt.html",
+        "date": "2026-03-19 07:09:17",
+        "sentiment_score": 0.6208521388471127
+    },
+    {
+        "title": "Guía práctica del sorteo de las Copas Libertadores y Sudamericana 2026: clasificados, bombos, formato y todo lo que hay que saber",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes-argentina",
+            "deportes-internacional",
+            "copa sudamericana",
+            "boca juniors",
+            "copa libertadores",
+            "river plate"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/19/guia-practica-del-sorteo-de-las-copas-libertadores-y-sudamericana-2026-clasificados-bombos-formato-y-todo-lo-que-hay-que-saber/",
+        "date": "2026-03-19 07:05:17",
+        "sentiment_score": 0.09330463781952858
+    },
+    {
+        "title": "Gràcia se lleva la pequeña joya literaria del Raval",
+        "image_url": "https://static1.ara.cat/clip/93ca8561-ec7c-4230-95d5-a315ec97c720_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lleva",
+            "literaria",
+            "joya",
+            "raval",
+            "pequena",
+            "gracia"
+        ],
+        "link": "https://es.ara.cat/sociedad/barcelona/gracia-lleva-pequena-joya-literaria-raval_1_5682929.html",
+        "date": "2026-03-19 07:04:29",
+        "sentiment_score": -0.2053702473640442
+    },
+    {
+        "title": "Los docentes cortan la C-58 en Sant Quirze del Vallès y el acceso a Mataró por la C-60 en el cuarto día de huelga",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c8af5b3c-7bc9-426e-b0de-8d313a8e2ee4_alta-libre-aspect-ratio_default_0_x1024y512.jpg",
+        "tags": [
+            "mataró",
+            "huelgas",
+            "granollers",
+            "funcionarios",
+            "maestros y profesores",
+            "sabadell",
+            "educación",
+            "terrassa",
+            "profesores",
+            "ugt",
+            "girona",
+            "ccoo",
+            "sindicatos",
+            "educación en catalunya"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260319/docentes-huelga-educacion-carreteras-protesta-educacion-valles-manifestaciones-maresme-girona-128156539",
+        "date": "2026-03-19 07:04:05",
+        "sentiment_score": -0.45435521751642227
+    },
+    {
+        "title": "Cortada la C-58 en ambos sentidos en Sant Quirze (Barcelona) por la huelga de docentes",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260319080258_1200.jpg",
+        "tags": [
+            "huelga"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-cortada-58-ambos-sentidos-sant-quirze-barcelona-huelga-docentes-20260319080258.html",
+        "date": "2026-03-19 07:02:58",
+        "sentiment_score": -0.6537675186991692
+    },
+    {
+        "title": "Pérdidas en el sector turístico: el aplazamiento del AVE Málaga-Madrid enfrenta a Junta y Gobierno central",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c05a6de0-0f6d-4bef-9f1c-f71c3ab5dcad_16-9-aspect-ratio_default_0_x800y355.jpg",
+        "tags": [
+            "tren",
+            "ave",
+            "alta velocidad"
+        ],
+        "link": "https://www.elcorreoweb.es/andalucia/2026/03/19/perdidas-sector-turistico-aplazamiento-ave-128155421.html",
+        "date": "2026-03-19 07:01:46",
+        "sentiment_score": -0.48269742727279663
+    },
+    {
+        "title": "¿Por qué triunfa ‘Lux’?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/01bd8118-62ee-434a-8f71-f6df90ba42aa_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "barcelona",
+            "evolución",
+            "crónica",
+            "rosalía"
+        ],
+        "link": "https://www.laprovincia.es/opinion/2026/03/19/triunfa-lux-128152010.html",
+        "date": "2026-03-19 07:00:02",
+        "sentiment_score": -0.0011608302593231201
     }
 ];
