@@ -1,421 +1,5 @@
 export default [
     {
-        "title": "El Manchester City empató contra el West Ham y dijo adiós a sus esperanzas por el título de la Premier League",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/West-Ham-United-vs-Manchester-City.jpg",
-        "tags": [
-            "titulares",
-            "premier league",
-            "manchester city",
-            "futbol",
-            "west ham united fc",
-            "reino unido",
-            "deportes"
-        ],
-        "link": "https://lapatilla.com/2026/03/14/el-manchester-city-empato-contra-el-west-ham-y-dijo-adios-a-sus-esperanzas-por-el-titulo-de-la-premier-league/",
-        "date": "2026-03-14 22:20:52",
-        "sentiment_score": 0.11985105276107788
-    },
-    {
-        "title": "Arda Güler lo remata con un gol de larga distancia (4-1)",
-        "image_url": "https://static.grupojoly.com/clip/add518c2-60a4-4e04-9987-779a4a80163e_source-aspect-ratio_default_0_x1335y181.jpg",
-        "tags": [
-            "remata",
-            "larga",
-            "arda",
-            "gueler",
-            "gol"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/arda-gueler-remata-gol-larga_0_2006175416.html",
-        "date": "2026-03-14 22:18:35",
-        "sentiment_score": 0.3986705020070076
-    },
-    {
-        "title": "Así narró Manolo Lama el golazo de Arda Güler desde más de 60 metros",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/gol-arda-gueler-real-madrid-4-elche-1-20260314_3326705.html",
-        "date": "2026-03-14 22:17:15",
-        "sentiment_score": 0.4626607447862625
-    },
-    {
-        "title": "La alegría del Madrid golea a la tristeza del Elche",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/356c0942-6363-4f28-9832295e860f8d57.jpg",
-        "tags": [
-            "vinícius júnior",
-            "fran garcía",
-            "fede valverde",
-            "real madrid",
-            "dean huijsen",
-            "álvaro arbeloa",
-            "getafe cf",
-            "fc barcelona",
-            "elche cf",
-            "santiago bernabéu",
-            "thibaut courtois",
-            "eduardo camavinga",
-            "sevilla fc",
-            "laliga ea sports",
-            "manchester city"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z54e67351-ba5e-4912-890dba6b81a8f8cb/202603/la-alegria-del-madrid-golea-a-la-tristeza-del-elche",
-        "date": "2026-03-14 22:17:12",
-        "sentiment_score": 0.6649817600846291
-    },
-    {
-        "title": "El fútbol provoca una crisis en esta pareja de Atrapa un millón: él es del Atlético de Madrid y ella le ve “merengue total”",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/03/14/D75F325E-D26A-4BA2-8F21-4C30BCC30681/jose-sandra-concursantes-atrapa-millon_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "atrapa un millón",
-            "antena3",
-            "programas"
-        ],
-        "link": "https://www.antena3.com/programas/millon/futbol-provoca-crisis-esta-pareja-atrapa-millon-atletico-madrid-ella-merengue-total_2026031469b5de0d6cf703292f70a7d3.html",
-        "date": "2026-03-14 22:15:41",
-        "sentiment_score": -0.8973765950649977
-    },
-    {
-        "title": "El Real Madrid golea y pone el foco en la Champions League",
-        "image_url": "https://pxcdn.meridiano.net/032026/1773526191871.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-internacional/el-real-madrid-golea-y-pone-el-foco-en-la-champions-league-202631418100",
-        "date": "2026-03-14 22:10:00",
-        "sentiment_score": -0.18468938022851944
-    },
-    {
-        "title": "Descubriendo a Manuel Ángel: “Decíamos que sería el que llegaría más lejos, por delante de Nico Paz”",
-        "image_url": "https://recentlyheard.com/wp-content/uploads/2026/03/Descubriendo-a-Manuel-Angel-Deciamos-que-seria-el-que-llegaria.jpg",
-        "tags": [
-            "news"
-        ],
-        "link": "https://recentlyheard.com/descubriendo-a-manuel-angel-deciamos-que-seria-el-que-llegaria-mas-lejos-por-delante-de-nico-paz/",
-        "date": "2026-03-14 22:05:05",
-        "sentiment_score": 0.24528656899929047
-    },
-    {
-        "title": "Rodolfo Sánchez, director de la candidatura de Oviedo a Capital Europea de la Cultura: \"Tenemos en nuestra mano lograr la Capitalidad\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4404e03b-2255-4eae-9a4e-e9baab779e0e_16-9-aspect-ratio_default_0_x609y270.jpg",
-        "tags": [
-            "sánchez",
-            "proyecto",
-            "cultura",
-            "oviedo capital cultural",
-            "la vega"
-        ],
-        "link": "https://www.lne.es/oviedo/2026/03/14/rodolfo-sanchez-director-candidatura-oviedo-127972199.html",
-        "date": "2026-03-14 22:04:44",
-        "sentiment_score": 0.8094568327069283
-    },
-    {
-        "title": "Valverde y Arda echan abajo el castillo de naipes de Eder Sarabia",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/adc57bd9-561d-42e9-8fa0-0e802b5d0f54_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "real madrid",
-            "elche",
-            "laliga",
-            "fútbol"
-        ],
-        "link": "https://www.lne.es/deportes/2026/03/14/real-madrid-elche-laliga-resumen-resultado-futbol-127972236.html",
-        "date": "2026-03-14 22:02:46",
-        "sentiment_score": 0.037015289068222046
-    },
-    {
-        "title": "La rocambolesca historia de amor de Jose y Sandra, concursantes de Atrapa un millón: “Guardé el número como ‘futura esposa’”",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2026/03/14/05FDD485-AF76-4E15-9D79-105D0B41F6A4/jose-sandra-concursantes-atrapa-millon_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "atrapa un millón",
-            "antena3",
-            "programas"
-        ],
-        "link": "https://www.antena3.com/programas/millon/rocambolesca-historia-amor-jose-sandra-concursantes-guarde-numero-como-futura-esposa_2026031469b5db65d489bf782e1a3f4e.html",
-        "date": "2026-03-14 22:04:21",
-        "sentiment_score": 0.6736334376037121
-    },
-    {
-        "title": "Los poceros despiden (con seis velas a punto de apagarse) a Raúl del Pozo",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/da74726c09132be564ee3257b8a0cb81/crop/117x368/2574x2825/f/image/jpeg/assets/multimedia/imagenes/2022/02/09/16444360039230.jpg",
-        "tags": [
-            "artículos martín mucha",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/cronica/2026/03/14/69b59d94e4d4d83e778b4578.html",
-        "date": "2026-03-14 21:52:25",
-        "sentiment_score": 0.41920098662376404
-    },
-    {
-        "title": "Perú tendrá nuevas rutas aéreas y más frecuencias de vuelos a Europa, Estados Unidos y el Caribe",
-        "image_url": "https://www.infobae.com/resizer/v2/N2OYOTTGABGH3EZHROEGG5VIJQ.jpg?auth=babcf98717a0a3db140a6b4649ad6c61b53f9b99ab4deddd9165b5b5bd54529e&height=1080&smart=true&width=1920",
-        "tags": [
-            "peru-noticias",
-            "aeropuerto internacional jorge chávez",
-            "mtc"
-        ],
-        "link": "https://www.infobae.com/peru/2026/03/14/peru-tendra-nuevas-rutas-aereas-y-mas-frecuencias-de-vuelos-a-europa-estados-unidos-y-el-caribe/",
-        "date": "2026-03-14 21:52:01",
-        "sentiment_score": 0.41216728650033474
-    },
-    {
-        "title": "David Costas cree que la victoria «da vida» y ya piensa en el partido del Levante",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/03/14/213996028-kEGG--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "cree",
-            "levante",
-            "victoria",
-            "costas",
-            "david",
-            "partido",
-            "vida",
-            "piensa"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/david-costas-cree-victoria-vida-piensa-partido-20260314223816-nt.html",
-        "date": "2026-03-14 21:43:07",
-        "sentiment_score": 0.6241550855338573
-    },
-    {
-        "title": "A Vecinal, un supermercado cooperativo en Zaragoza: “Otras formas de consumo son posibles y reales”",
-        "image_url": "https://static.eldiario.es/clip/006bfc9a-dd94-47c5-a6e5-36c5c05f767f_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "zaragoza",
-            "sociedad",
-            "huesca",
-            "teruel",
-            "actualidad",
-            "aragón",
-            "marimar cabrera",
-            "celia soria",
-            "eldiario",
-            "fernando garcía mongay",
-            "óscar f. civieta",
-            "política",
-            "elprismático"
-        ],
-        "link": "https://www.eldiario.es/aragon/zaragoza/vecinal-supermercado-cooperativo-zaragoza-formas-consumo-son-posibles-reales_1_13056087.html",
-        "date": "2026-03-14 21:36:38",
-        "sentiment_score": -0.021673619747161865
-    },
-    {
-        "title": "Dos acertantes de la Bonoloto ganan cerca de 70.000 euros y el bote sube a 600.000 euros",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/14/69b5cdf2137260-86732190.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/nacional/bonoloto-acertantes-ganan-miles-euros-bote-sube_6946103_0.html",
-        "date": "2026-03-14 21:10:46",
-        "sentiment_score": 0.16480325907468796
-    },
-    {
-        "title": "Valverde mantiene su racha goleadora con el Madrid, que arrolla 4-1 al Elche",
-        "image_url": "https://dims.apnews.com/dims4/default/c0b40d5/2147483647/strip/true/crop/6101x4068+0+0/resize/319x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0d%2F53%2F079c23f644223d76c0b64798ef2b%2F05b9fdc3cb9e4ce4ad1af3164ab525f3",
-        "tags": [
-            "real madrid valverde laliga elche guler",
-            "sports",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/real-madrid-valverde-laliga-elche-guler-06cabbe8fdf297d86fab8abeca2082c9",
-        "date": "2026-03-15 00:52:02",
-        "sentiment_score": 0.7676413841545582
-    },
-    {
-        "title": "Ser un Nadal",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20260315/nadal_395905.html",
-        "date": "2026-03-15 00:35:00",
-        "sentiment_score": -0.08195783197879791
-    },
-    {
-        "title": "La Colonia Fin de Semana, el salvaje oeste de Madrid: \"Podían venir los gitanos a atracarte, encontrarte con yonquis, había peleas... Era una de las zonas más deprimidas de España\"",
-        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/10/17731600345853.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elmundo.es/madrid/2026/03/15/69afe26be4d4d863618b458c.html",
-        "date": "2026-03-15 00:26:45",
-        "sentiment_score": -0.032287657260894775
-    },
-    {
-        "title": "14 MAR 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/14-mar-2026-tramo-final-juego-20260315_3326721.html",
-        "date": "2026-03-15 00:15:29",
-        "sentiment_score": 0.5232988819479942
-    },
-    {
-        "title": "La fiesta barcelonista del 15M: elecciones, nueva apertura del Spotify Camp Nou y liderato en la Liga",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/22/culemania/palco/1003742709932_15435995_1706x960.jpg",
-        "tags": [
-            "barça",
-            "elecciones barça",
-            "la liga",
-            "camp nou",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260315/barcelonista-elecciones-apertura-spotify-camp-nou-liga/1003742741499_0.html",
-        "date": "2026-03-15 00:02:29",
-        "sentiment_score": 0.044526759535074234
-    },
-    {
-        "title": "La Grada del Barça, menos violenta y más despolitizada que nunca: el verdadero problema para los Mossos está fuera",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/07/culemania/palco/1003742705635_15380397_1706x960.jpg",
-        "tags": [
-            "camp nou",
-            "culemaníacos",
-            "grada d’animació"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20260315/grada-barca-violenta-despolitizada-verdadero-problema-mossos/1003742740856_0.html",
-        "date": "2026-03-15 00:01:57",
-        "sentiment_score": 0.033225059509277344
-    },
-    {
-        "title": "Golazo de Arda Güler, bombeado desde su mitad del campo en triunfo del Real Madrid ante Elche",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.houstonchronicle.com/sports/article/golazo-de-arda-guler-bombeado-desde-su-mitad-22077126.php",
-        "date": "2026-03-14 23:39:18",
-        "sentiment_score": 0.6499248743057251
-    },
-    {
-        "title": "Golazo de Arda Güler, bombeado desde su mitad del campo en triunfo del Real Madrid ante Elche",
-        "image_url": "https://dims.apnews.com/dims4/default/a78ed75/2147483647/strip/true/crop/3017x2011+0+0/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2F1a%2F739d4ef9f5913e5a77429b3f9a99%2F407033570f0d4748b67e119971b59148",
-        "tags": [
-            "sports",
-            "espana laliga real madrid arda guller golazo elche",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/espana-laliga-real-madrid-arda-guller-golazo-elche-e531e77b17eca688aa37e089cc79e823",
-        "date": "2026-03-14 23:39:18",
-        "sentiment_score": 0.8201498351991177
-    },
-    {
-        "title": "Las imágenes del Atlético de Madrid-Getafe",
-        "image_url": "https://static.grupojoly.com/clip/af65d9f9-7ec5-4b8f-8476-30feb386c463_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "laliga"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/imagenes-atletico-madrid-getafe_3_2006176092.html",
-        "date": "2026-03-14 23:39:07",
-        "sentiment_score": 0.7061997577548027
-    },
-    {
-        "title": "Netflix estrenará documental con material inédito de la historia y vida de Ronaldinho",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/ronaldinho-en-venezuela.jpg",
-        "tags": [
-            "ronaldinho",
-            "netflix",
-            "entretenimiento",
-            "futbol",
-            "titulares"
-        ],
-        "link": "https://lapatilla.com/2026/03/14/netflix-estrenara-documental-con-material-inedito-de-la-historia-y-vida-de-ronaldinho/",
-        "date": "2026-03-15 02:15:00",
-        "sentiment_score": 0.2066359929740429
-    },
-    {
-        "title": "A votar antes de que venga el Papa",
-        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "venga",
-            "votar",
-            "papa"
-        ],
-        "link": "https://www.eldiadecordoba.es/opinion/articulos/votar-venga-papa_0_2006176637.html",
-        "date": "2026-03-15 02:12:33",
-        "sentiment_score": -0.9395084986463189
-    },
-    {
-        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 15 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima",
-            "últimas actualizaciones",
-            "clima en barcelona",
-            "clima en españa"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/15/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-15-de-marzo/",
-        "date": "2026-03-15 02:00:58",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "Illa descarta presionar a Sánchez para que ceda ante ERC y tener Presupuestos: \"No usaré mis diputados para hacer caer al presidente\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
-        "tags": [
-            "artículos víctor mondelo"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2026/03/15/69b462affdddffec2f8b4586.html",
-        "date": "2026-03-15 01:11:24",
-        "sentiment_score": -0.235268235206604
-    },
-    {
-        "title": "Iceta, el felipista al que Sánchez regaló \"un Erasmus\" en París tras colocar Koldo a su 'marido': \"Mi lápida dirá 'era gay y bailó'\"",
-        "image_url": "https://s3.elespanol.com/2026/03/12/actualidad/1003744167592_261945698_1706x1280.jpg",
-        "tags": [
-            "miquel iceta",
-            "porfolio",
-            "psoe (partido socialista obrero español)",
-            "parís",
-            "psc",
-            "unesco",
-            "reportajes-newsletter",
-            "pedro sánchez",
-            "koldo garcía izaguirre",
-            "felipe gonzález"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260315/iceta-felipista-sanchez-regalo-erasmus-paris-colocar-koldo-marido-lapida-dira-gay-bailo/1003744164409_0.html",
-        "date": "2026-03-15 01:01:13",
-        "sentiment_score": 0.436197429895401
-    },
-    {
-        "title": "El imperio chocolatero de los Ferrero, la familia catalana tras ColaCao, Nocilla o Paladin: \"Facturan 220 millones\"",
-        "image_url": "https://s3.elespanol.com/2026/03/13/actualidad/1003744168843_261929412_1706x960.jpg",
-        "tags": [
-            "cataluña",
-            "porfolio",
-            "empresas",
-            "industria agroalimentaria",
-            "consumo",
-            "reportajes",
-            "familia",
-            "multinacionales",
-            "alimentación",
-            "negocios"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260315/imperio-chocolatero-ferrero-familia-catalana-colacao-nocilla-paladin-facturan-millones/1003744167402_0.html",
-        "date": "2026-03-15 01:00:07",
-        "sentiment_score": 0.1478581428527832
-    },
-    {
-        "title": "Napoleonchu, el bombero pirómano",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2026/03/13/69b45d893be5d.png",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20260315/napoleonchu-bombero-piromano_395854.html",
-        "date": "2026-03-15 00:35:00",
-        "sentiment_score": -0.5719134658575058
-    },
-    {
-        "title": "La nueva Nit de les Lletres corona a Carré-Pons y Rebassa",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/15/69b5f6bca0a49.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.lavanguardia.com/cultura/20260315/11490105/nueva-nit-lletres-corona-carre-pons-rebassa-omnium-iec.html",
-        "date": "2026-03-15 00:03:17",
-        "sentiment_score": -0.07286469638347626
-    },
-    {
         "title": "Vox expulsa a su afiliado número 1, Ignacio Ansaldo, y a Toscano por ser afines a Ortega Smith",
         "image_url": "https://cdn.mnmstatic.net/cache/3f/6f/media_thumb-link-4157257.webp?1773528966=",
         "tags": [
@@ -514,44 +98,6 @@ export default [
         "link": "https://okdiario.com/deportes/laporta-vs-font-futuro-del-barcelona-esta-manos-del-socio-cule-16417488",
         "date": "2026-03-15 06:00:14",
         "sentiment_score": 0.03764418140053749
-    },
-    {
-        "title": "Andrés Sanz Hernando, un artista olvidado (I)",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2026/03/1-Exp-1901-Andres-Sanz-Hernando-Autorretrato-pintando-.jpg",
-        "tags": [
-            "la mirada",
-            "segovia"
-        ],
-        "link": "https://eladelantado.com/segovia/2026/03/15/andres-sanz-hernando-un-artista-olvidado-i/",
-        "date": "2026-03-15 05:45:24",
-        "sentiment_score": -0.5846016556024551
-    },
-    {
-        "title": "El clásico europeo del mes se vive en Movistar Plus+ al mejor precio",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5SPCSDMH4VB6LCVJ6AUWX3DY24.png?auth=308bad8b6a36e603f345a055479270a25b60bd52853bf0e94862ebd2aa356b2d&width=1200",
-        "tags": [
-            "real madrid",
-            "manchester city",
-            "plataformas digitales",
-            "fútbol",
-            "movistar +",
-            "champions league",
-            "comercio electrónico"
-        ],
-        "link": "https://elpais.com/escaparate/estilo-de-vida/2026-03-15/movistar-plus-real-madrid-manchester-city.html",
-        "date": "2026-03-15 05:15:00",
-        "sentiment_score": 0.4449162743985653
-    },
-    {
-        "title": "Jackie Kennedy y la duquesa de Alba: desvelamos el contenido de la carta secreta guardada durante 60 años entre los tesoros de Cayetana",
-        "image_url": "https://www.hola.com/horizon/landscape/754f2de19fc8-gettyimages-515535764.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "actualidad",
-            "duquesa de alba"
-        ],
-        "link": "https://www.hola.com/actualidad/20260315889498/jackie-kennedy-la-duquesa-de-alba-carta-secreta/",
-        "date": "2026-03-15 05:02:00",
-        "sentiment_score": 0.06402202695608139
     },
     {
         "title": "Un estudio apunta al Atlántico Norte como factor clave en la intensidad de la dana de Valencia",
@@ -3287,5 +2833,260 @@ export default [
         "link": "https://www.laopiniondemalaga.es/sucesos/2026/03/18/fiscalia-prision-entrenador-de-futbol-ninos-barcelona-128103425.html",
         "date": "2026-03-18 06:53:05",
         "sentiment_score": -0.37389738857746124
+    },
+    {
+        "title": "Un centenar de becas de la Fundación \"la Caixa\" para atraer y retener el talento de jóvenes investigadores",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/58af44eb-df6e-427a-ba70-a526dfe76c1d_16-9-aspect-ratio_default_0_x532y236.jpg",
+        "tags": [
+            "jóvenes",
+            "portugal",
+            "comunitat valenciana",
+            "becas",
+            "españa",
+            "investigación",
+            "ayudas"
+        ],
+        "link": "https://www.levante-emv.com/comunitat-valenciana/2026/03/18/centenar-becas-fundacion-caixa-atraer-128087006.html",
+        "date": "2026-03-18 17:40:43",
+        "sentiment_score": 0.7214950993657112
+    },
+    {
+        "title": "Revancha de los octavos de la Champions League: partidos, resultados, fechas, horarios y cómo sigue",
+        "image_url": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+        "tags": [
+            "top"
+        ],
+        "link": "https://krdo.com/news/2026/03/18/revancha-de-los-octavos-de-la-champions-league-partidos-fechas-horarios-y-como-sigue/",
+        "date": "2026-03-18 17:39:00",
+        "sentiment_score": 0.1981481984257698
+    },
+    {
+        "title": "Lionel Scaloni dio a conocer la última lista de la selección argentina antes del Mundial 2026 con varias sorpresas",
+        "image_url": "https://www.infobae.com/resizer/v2/XKZ34SULWJC5XH6RINH7KQZJAY.JPG?auth=47a747d10abb799d67dea3b84b147e3687ce1add414e7540b23a30499419a6be&smart=true&width=4770&height=2683",
+        "tags": [
+            "lionel scaloni",
+            "seleccion de guatemala",
+            "mundial 2026",
+            "lionel messi",
+            "selección argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/18/lionel-scaloni-dio-a-conocer-la-ultima-lista-de-la-seleccion-argentina-antes-del-mundial-2026-con-varias-sorpresas/",
+        "date": "2026-03-18 17:38:09",
+        "sentiment_score": 0.23154537752270699
+    },
+    {
+        "title": "Fallece Manuel Etura, uno de los once aldeanos del Athletic",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/52e01983-faef-4663-b91c-22ad590987fc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "supervivientes",
+            "manuel",
+            "fallece",
+            "aldeanos",
+            "león",
+            "etura",
+            "once",
+            "athletic"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/03/18/fallece-manuel-etura-once-aldeanos-athletic-10838211.html",
+        "date": "2026-03-18 17:36:31",
+        "sentiment_score": -0.8919087098911405
+    },
+    {
+        "title": "Drones autónomos, cirugía de precisión y satélites: la tecnología española que redefine el futuro se exhibe en Matadero",
+        "image_url": "https://album.mediaset.es/eimg/2026/03/18/ingenieros-e-investigadores-presentan-en-matadero-innovaciones-tecnologicas-16-9-aspect-ratio-defaul_da39.png?w=1024",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.telecinco.es/noticias/ciencia-y-tecnologia/ia/20260318/drones-autonomos-cirujia-precision-satelites-tecnologia-espanola-futuro-exhibicion-matadero_18_018655863.html",
+        "date": "2026-03-18 17:34:45",
+        "sentiment_score": 0.5780967064201832
+    },
+    {
+        "title": "Isra Salazar se recupera en el Nuevo Vivero",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5d4c8da7-d564-46cd-a3ab-30f5d0c22b48_16-9-aspect-ratio_default_0_x1024y455.jpg",
+        "tags": [
+            "fútbol",
+            "cd badajoz",
+            "nuevo vivero"
+        ],
+        "link": "https://www.lacronicabadajoz.com/cd-badajoz/2026/03/18/isra-salazar-recupera-nuevo-vivero-128139122.html",
+        "date": "2026-03-18 17:33:31",
+        "sentiment_score": -0.3175921142101288
+    },
+    {
+        "title": "Vinícius, letal en las eliminatorias",
+        "image_url": "https://qpwebsite.s3.amazonaws.com/uploads/2026/03/rss-efe28665dcf63db7223046e274274f8d3bc7a7e60edw.jpg",
+        "tags": [
+            "real madrid",
+            "fútbol"
+        ],
+        "link": "https://quepasamedia.com/deportes/vinicius-letal-en-las-eliminatorias/",
+        "date": "2026-03-18 17:33:19",
+        "sentiment_score": 0.19487158954143524
+    },
+    {
+        "title": "El sector aeroespacial español ante su mayor reto: fidelizar talento anta la competencia global",
+        "image_url": "https://fly-news.es/wp-content/uploads/FlyNews-17Marzo-27-scaled.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://fly-news.es/aviacion-comercial/aeropuertos/sector-aeroespacial-espanol-ante-su-mayor-reto-fidelizar-talento-y-la-competencia-global/",
+        "date": "2026-03-18 17:32:24",
+        "sentiment_score": 0.5561197102069855
+    },
+    {
+        "title": "El sector aeroespacial español ante su mayor reto: fidelizar talento y la competencia global",
+        "image_url": "https://fly-news.es/wp-content/uploads/FlyNews-17Marzo-27-scaled.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://fly-news.es/aviacion-comercial/aeropuertos/el-sector-aeroespacial-espanol-ante-su-mayor-reto-fidelizar-talento-y-la-competencia-global/",
+        "date": "2026-03-18 17:32:24",
+        "sentiment_score": 0.5872581154108047
+    },
+    {
+        "title": "El sector aeroespacial español ante su mayor reto: fidelizar talento ante la competencia global",
+        "image_url": "https://fly-news.es/wp-content/uploads/FlyNews-17Marzo-27-scaled.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://fly-news.es/foros-fly-news/sector-aeroespacial-espanol-ante-su-mayor-reto-fidelizar-talento-y-la-competencia-global/",
+        "date": "2026-03-18 17:32:24",
+        "sentiment_score": 0.5962497219443321
+    },
+    {
+        "title": "Tarde de fallas en el Roig Arena: El Valencia Basket se enfrenta al Barça en la Euroliga",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2026/03/18/1501762321_20260318183516-RIv7VmYsMoLPmtsCQ8PYV9H-1200x840@Las%20Provincias.jpg",
+        "tags": [
+            "basket",
+            "valencia",
+            "enfrenta",
+            "roig",
+            "tarde",
+            "arena",
+            "fallas",
+            "euroliga",
+            "barca"
+        ],
+        "link": "https://www.lasprovincias.es/deportes/baloncesto/liga-acb/tarde-fallas-roig-arena-valencia-basket-enfrenta-20260318183845-nt.html",
+        "date": "2026-03-18 17:48:57",
+        "sentiment_score": 0.6031861901283264
+    },
+    {
+        "title": "Reabierto el caso de la joven que murió ahogada en la piscina de la UAB tras ver indicios de imprudencia",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/02/26/sucesos/561953804_9870206_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "juicios",
+            "sucesos"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260318/reabierto-caso-joven-murio-ahogada-piscina-uab-ver-indicios-imprudencia/1003742742995_0.html",
+        "date": "2026-03-18 17:48:41",
+        "sentiment_score": -0.6173092555254698
+    },
+    {
+        "title": "Barcelona lanza un concurso público para la construcción de 625 viviendas de alquiler asequible",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2ef078b6-5166-4f30-92ad-05c50c1515d1_alta-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "concurso",
+            "publico",
+            "viviendas alquiler asequible",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20260318/barcelona-concurso-publico-viviendas-alquiler-asequible-128139565",
+        "date": "2026-03-18 17:48:14",
+        "sentiment_score": 0.3130408264696598
+    },
+    {
+        "title": "Un acuerdo sobre el desacuerdo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/74355ba9-b8f3-4312-88cc-d34cf3787e92_alta-libre-aspect-ratio_default_0_x874y328.jpg",
+        "tags": [
+            "editorial",
+            "junqueras",
+            "desacuerdo",
+            "acuerdo",
+            "presupuestos",
+            "illa",
+            "generalitat"
+        ],
+        "link": "https://www.elperiodico.com/es/opinion/20260318/acuerdo-desacuerdo-presupuestos-generalitat-illa-junqueras-editorial-128138837",
+        "date": "2026-03-18 17:47:26",
+        "sentiment_score": 0.01645570993423462
+    },
+    {
+        "title": "Los Mossos buscan a un estudiante de Chicago desaparecido en Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/H2W2LVPWBJB6FJRLAXISKPJBKA.jpg?auth=f19b48ca49f22e8f0911a8de4dc3f5028fcbe369cfa314e9c47718494cb869b6",
+        "tags": [
+            "estudiantes",
+            "investigación policial",
+            "cnn",
+            "cataluña",
+            "barcelona",
+            "personas desaparecidas",
+            "discotecas",
+            "mossos d'esquadra"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2026-03-18/los-mossos-buscan-a-un-estudiante-de-chicago-desaparecido-en-barcelona.html",
+        "date": "2026-03-18 17:46:15",
+        "sentiment_score": -0.517862793058157
+    },
+    {
+        "title": "Barcelona estudiará dotar un plan de choque para afrontar la subida de precios por la guerra de Oriente Medio",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a82c8f7f-0adf-4005-be6b-ce287c547cce_alta-libre-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "guerra",
+            "iran",
+            "choque",
+            "precios",
+            "subida",
+            "plan",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20260318/barcelona-guerra-iran-subida-precios-plan-choque-128137658",
+        "date": "2026-03-18 17:46:00",
+        "sentiment_score": -0.20362241566181183
+    },
+    {
+        "title": "Entre poemario y fotolibro: así es la obra que el artista ilicitano Kliment presenta en Alicante",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/442a3479-bf78-4755-9bb2-cc6ad25707ca_16-9-aspect-ratio_default_0_x540y498.jpg",
+        "tags": [
+            "manuel",
+            "cultura",
+            "público",
+            "presentación",
+            "imagen"
+        ],
+        "link": "https://www.informacion.es/cultura/2026/03/18/poemario-fotolibro-obra-artista-ilicitano-kliment-presenta-alicante-128134592.html",
+        "date": "2026-03-18 17:45:29",
+        "sentiment_score": 0.11277878284454346
+    },
+    {
+        "title": "\"Periodismo es hacer preguntas\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5533a569-474b-42b5-96d7-a47b0f5b2192_alta-libre-aspect-ratio_default_0_x1200y533.jpg",
+        "tags": [
+            "replica",
+            "david alandete",
+            "periodismo",
+            "carta",
+            "preguntas"
+        ],
+        "link": "https://www.elperiodico.com/es/entre-todos/participacion/periodismo-preguntas-carta-replica-david-alandete-128139022",
+        "date": "2026-03-18 17:41:51",
+        "sentiment_score": -0.7708597779273987
+    },
+    {
+        "title": "Lita Cabellut rinde tributo con su pintura al paisaje olivarero y los agricultores",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2026/03/18/69bae032d7c087-12943208.jpeg",
+        "tags": [
+            "rinde",
+            "con",
+            "tributo",
+            "cabellut",
+            "lita"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/cultura/2026/03/18/lita-cabellut-rinde-tributo-con-su-pintura-paisaje-olivarero-los-agricultores-2003944.html",
+        "date": "2026-03-18 17:41:50",
+        "sentiment_score": 0.33719002828001976
     }
 ];
