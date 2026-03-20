@@ -1,186 +1,5 @@
 export default [
     {
-        "title": "El Real Zaragoza Club de Tenis reunirá a cerca de 200 jugadores en la décima edición del ITF Sénior MT400",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/03/16/2026031618424328574.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.aragondigital.es/articulo/deportes/real-zaragoza-club-tenis-reunira-cerca-200-jugadores-decima-edicion-itf-senior-mt400/20260316184842972718.html",
-        "date": "2026-03-16 17:48:42",
-        "sentiment_score": 0.3714235983788967
-    },
-    {
-        "title": "Clubes ingleses buscan evitar quedar fuera de la Champions. Bodø/Glimt roza cuartos",
-        "image_url": "https://dims.apnews.com/dims4/default/2dea48a/2147483647/strip/true/crop/5747x3832+0+0/resize/319x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffd%2F6f%2F91f51704cee8292c3bae81e4095e%2F8cb2cc317b4245d5b0728bff63ed1213",
-        "tags": [
-            "sports",
-            "deportes",
-            "champions league real madrid bodoglimt arsenal"
-        ],
-        "link": "https://apnews.com/article/champions-league-real-madrid-bodoglimt-arsenal-99649705d380fdc4f984625c259d2021",
-        "date": "2026-03-16 17:48:23",
-        "sentiment_score": -0.13290178775787354
-    },
-    {
-        "title": "El jurado misterioso ya busca a los finalistas de La Mejor Fabada del Mundo",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/03/16/fabada-villaviciosa-madrid-RqBR8WZhIooQGO0TGoiPpyL-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "villaviciosa"
-        ],
-        "link": "https://www.elcomercio.es/gastronomia/jurado-misterioso-busca-finalistas-mejor-fabada-mundo-20260316184701-nt.html",
-        "date": "2026-03-16 17:47:03",
-        "sentiment_score": 0.05437136068940163
-    },
-    {
-        "title": "EN VIDEO: El rey de España dice que hubo «mucho abuso» en la conquista de América",
-        "image_url": "https://caraotadigital.net/wp-content/uploads/2026/03/a0710d46e1e2f7c952e6ec31fb3d3cf9f7264252miniw-1.jpg",
-        "tags": [
-            "rey de españa",
-            "mundo",
-            "conquista",
-            "américa",
-            "felipe vi"
-        ],
-        "link": "https://caraotadigital.net/mundo/en-video-el-rey-de-espana-dice-que-hubo-mucho-abuso-en-la-conquista-de-america/",
-        "date": "2026-03-16 17:34:53",
-        "sentiment_score": -0.41311582177877426
-    },
-    {
-        "title": "Maldini analiza la vuelta de los octavos de Champions: \"Hay uno que va a sufrir\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/16/69b83cfc3c501.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/maldini-analiza-vuelta-octavos-champions-hay-sufrir-20260316_3327675.html",
-        "date": "2026-03-16 17:26:38",
-        "sentiment_score": -0.12225806713104248
-    },
-    {
-        "title": "La DGT se pone seria con los nuevos radares que reducen la velocidad: 100 kilómetros en autovía y nuevos controladores de tramo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2ac86e61-7a27-4e78-9ad6-13e8661a4363_16-9-aspect-ratio_default_0_x1182y525.jpg",
-        "tags": [
-            "radares",
-            "tráfico",
-            "neomotor",
-            "selva",
-            "dgt",
-            "inteligencia"
-        ],
-        "link": "https://www.lne.es/motor/2026/03/16/dgt-pone-seria-nuevos-radares-128042870.html",
-        "date": "2026-03-16 17:21:45",
-        "sentiment_score": 0.7637914381921291
-    },
-    {
-        "title": "Vox dice estar \"estupefacto\" con las palabras del Rey sobre la Conquista",
-        "image_url": "https://www.infobae.com/resizer/v2/OKGDCRCEBZGJ7OWBZMKBCFLEYA.jpg?auth=6b3a1a9a89296ee12db33e77bb398a80bc4fe7861a1f366842f353da125b5960&height=1280&smart=true&width=1920",
-        "tags": [
-            "vox",
-            "hermann tertsch",
-            "claudia sheinbaum",
-            "europapress",
-            "conquista",
-            "méxico",
-            "américa",
-            "andrés manuel lópez obrador",
-            "reyes católicos",
-            "felipe vi",
-            "españa"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/16/vox-dice-estar-estupefacto-con-las-palabras-del-rey-sobre-la-conquista/",
-        "date": "2026-03-16 17:15:57",
-        "sentiment_score": -0.8907763361930847
-    },
-    {
-        "title": "Más Madrid y PSOE-M exigen el cese de Miguel Ángel Rodríguez tras su citación judicial",
-        "image_url": "https://s1.staticld.com/2026/03/13/europapress-7357369-presidenta-comunidad-madrid-isabel-diaz-ayuso-jefe-gabinete-miguel-angel.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.libertaddigital.com/madrid/2026-03-16/mas-madrid-y-psoe-m-exigen-el-cese-de-miguel-angel-rodriguez-tras-su-citacion-judicial-7375305/",
-        "date": "2026-03-16 17:13:12",
-        "sentiment_score": -0.7902063336223364
-    },
-    {
-        "title": "El Colegio de Médicos de Álava apoya la huelga nacional para reclamar un estatuto propio para el colectivo médico",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260316181255_690.jpg",
-        "tags": [
-            "país vasco"
-        ],
-        "link": "https://www.europapress.es/euskadi/noticia-colegio-medicos-alava-apoya-huelga-nacional-reclamar-estatuto-propio-colectivo-medico-20260316181255.html",
-        "date": "2026-03-16 17:12:55",
-        "sentiment_score": 0.3435761630535126
-    },
-    {
-        "title": "Cruce de comunicados entre Real Zaragoza y Deportivo por las entradas visitantes de Riazor",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/11/03/2025110311355536809.jpg",
-        "tags": [
-            "real zaragoza"
-        ],
-        "link": "https://www.aragondigital.es/articulo/real-zaragoza/cruce-comunicados-entre-real-zaragoza-deportivo-entradas-visitantes-riazor/20260316180858972699.html",
-        "date": "2026-03-16 17:08:58",
-        "sentiment_score": -0.6132638081908226
-    },
-    {
-        "title": "(Previa) El Arsenal busca decantar la eliminatoria en el Emirates y PSG y Bodo/Glimt, no pasar apuros",
-        "image_url": "https://www.infobae.com/resizer/v2/6FYOKHZTA5BTVBWARZMV6VZBQU.jpg?auth=87c6a25e61f32b0a23cf834c18969e5728e446bbbc29b9914ea94f243961969b&height=1280&smart=true&width=1920",
-        "tags": [
-            "paris saint-germain",
-            "arsenal",
-            "sporting de portugal",
-            "europapress",
-            "bayer leverkusen",
-            "bodo/glimt",
-            "liga de campeones",
-            "emirates stadium",
-            "fútbol",
-            "londres",
-            "chelsea"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/16/previa-el-arsenal-busca-decantar-la-eliminatoria-en-el-emirates-y-psg-y-bodoglimt-no-pasar-apuros/",
-        "date": "2026-03-16 17:47:38",
-        "sentiment_score": 0.5664981454610825
-    },
-    {
-        "title": "KTM amplía la garantía de sus motos de carretera a 4 años",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/16/ktm-RNcrPOFJ0LmlgJ7HWbvstGM-1200x840@diario_abc.jpg",
-        "tags": [
-            "amplia",
-            "ktm",
-            "carretera",
-            "garantia",
-            "anos",
-            "motos"
-        ],
-        "link": "https://www.leonoticias.com/motor/motos/ktm-amplia-garantia-motos-carretera-anos-20260316184700-ntrc.html",
-        "date": "2026-03-16 17:47:08",
-        "sentiment_score": 0.5971786398440599
-    },
-    {
-        "title": "El Parlament afronta esta semana el primer pleno de Presupuestos sin acuerdo aún entre ERC y Govern",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260316184329_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-parlament-afronta-semana-primer-pleno-presupuestos-acuerdo-aun-erc-govern-20260316184329.html",
-        "date": "2026-03-16 17:43:29",
-        "sentiment_score": -0.43298723362386227
-    },
-    {
-        "title": "¿Demasiado Ozempic en la alfombra roja de los Oscars? Demi Moore, Nicole Kidman y Emma Stone despiertan el fantasma del 'heroin chic' de los 90",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e2d74f81-379a-4b06-90c3-f2506beda130_16-9-aspect-ratio_default_0_x960y360.jpg",
-        "tags": [
-            "premios oscar",
-            "emma stone",
-            "mujeres",
-            "obesidad",
-            "nicole kidman",
-            "oscars"
-        ],
-        "link": "https://www.farodevigo.es/vida-y-estilo/gente/2026/03/16/oscars-2026-delgadez-demi-moore-nicole-kidman-emma-stone-ozempic-128044859.html",
-        "date": "2026-03-16 17:38:17",
-        "sentiment_score": -0.10097263753414154
-    },
-    {
         "title": "Cuando la libertad se convierte en privilegio",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/03/16/elecciones-CYL-kyQB--170x119@diario_abc.jpg",
         "tags": [
@@ -3261,5 +3080,131 @@ export default [
         "link": "https://ktvz.com/cnn-spanish/2026/03/19/se-sorteo-la-copa-libertadores-2026-asi-quedaron-los-grupos/",
         "date": "2026-03-20 01:33:33",
         "sentiment_score": 0.2505922093987465
+    },
+    {
+        "title": "Semana Santa 2026 con niños: los mejores planes para estas vacaciones",
+        "image_url": "https://okdiario.com/img/2026/03/03/semana-santa-2026-con-ninos-los-mejores-planes-para-estas-vacaciones.jpg",
+        "tags": [
+            "semana santa",
+            "niños",
+            "okd",
+            "vacaciones"
+        ],
+        "link": "https://okdiario.com/bebes/semana-santa-2026-ninos-mejores-planes-estas-vacaciones-16339191",
+        "date": "2026-03-20 07:00:09",
+        "sentiment_score": 0.5688024014234543
+    },
+    {
+        "title": "La Clínica Universidad de Navarra recibe una de las mayores acreditaciones sanitarias del mundo",
+        "image_url": "https://navarra.okdiario.com/media/navarra/images/2026/03/13/2026031310441244520.jpg",
+        "tags": [
+            "sanidad",
+            "salud",
+            "cl&iacute;nica universidad de navarra"
+        ],
+        "link": "https://navarra.okdiario.com/articulo/sociedad/clinica-universidad-navarra-recibe-mayores-acreditaciones-sanitarias-mundo-octava-vez/20260320075914636164.html",
+        "date": "2026-03-20 06:59:14",
+        "sentiment_score": 0.4732141252607107
+    },
+    {
+        "title": "Jorge Dezcallar, exembajador español: \"No habrá seguridad para Israel sin justicia para los palestinos\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8b960846-4724-41ef-9907-f1b8086355c7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "justicia",
+            "mallorca",
+            "geopolítica",
+            "libros",
+            "literatura",
+            "israel",
+            "seguridad",
+            "palestina",
+            "cni",
+            "jorge dezcallar"
+        ],
+        "link": "https://www.diariodemallorca.es/mallorca/2026/03/20/jorge-dezcallar-novela-pez-negro-israel-palestina-128177101.html",
+        "date": "2026-03-20 06:54:41",
+        "sentiment_score": -0.23664158582687378
+    },
+    {
+        "title": "Así son las camisetas retro de los equipos de Primera y Segunda",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2026/03/20/camisetas-retro-kfGG--758x531@Ideal.jpg",
+        "tags": [
+            "fútbol",
+            "liga de fútbol profesional"
+        ],
+        "link": "https://www.ideal.es/granadacf/camisetas-retro-equipos-primera-segunda-20260320074904-ga.html",
+        "date": "2026-03-20 06:49:06",
+        "sentiment_score": 0.10063033550977707
+    },
+    {
+        "title": "El oficial: las viviendas con árboles a 50 cm de la casa de un vecino podrán enfrentarse a multas de hasta 500€",
+        "image_url": "https://s3.elespanol.com/2026/03/17/actualidad/1003744173740_261996856_1706x960.jpg",
+        "tags": [
+            "sociedad",
+            "propietarios",
+            "soft",
+            "vivienda"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20260320/oficial-viviendas-arboles-cm-casa-vecino-podran-enfrentarse-multas/1003744173483_0.html",
+        "date": "2026-03-20 06:41:43",
+        "sentiment_score": -0.6656658183783293
+    },
+    {
+        "title": "El Athletic presenta su camiseta retro",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/4cd8cb88-e0e2-40e3-bf48-8b919615bc1e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "setenta",
+            "rojiblanca",
+            "ernesto valverde",
+            "camiseta",
+            "laliga",
+            "retro",
+            "años",
+            "villarreal"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/03/20/camiseta-retro-rojiblanca-anos-setenta-10843015.html",
+        "date": "2026-03-20 06:37:50",
+        "sentiment_score": 0.4629862755537033
+    },
+    {
+        "title": "Courtois sufre una lesión muscular y estará de baja más de un mes",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/20082207/Courtois-se-perdera-la-eliminatoria-de-cuartos-de-final-de-la-Liga-de-Campeones-Foto-Archivo.jpg",
+        "tags": [
+            "lesión",
+            "real madrid",
+            "thibaut courtois"
+        ],
+        "link": "https://www.elnacional.com/2026/03/courtois-sufre-una-lesion-muscular-y-estara-de-baja-mas-de-un-mes/",
+        "date": "2026-03-20 06:32:00",
+        "sentiment_score": -0.823298392817378
+    },
+    {
+        "title": "Athletic y Betis, dos equipos de autor",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/3d769fa1-9581-41dc-8283-b10f5b5461e1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "villarreal",
+            "pellegrini",
+            "betis",
+            "autor",
+            "equipos",
+            "athletic",
+            "valverde"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/03/20/betis-equipos-autor-valverde-pellegrini-10843001.html",
+        "date": "2026-03-20 06:21:15",
+        "sentiment_score": -0.04640558362007141
+    },
+    {
+        "title": "Shakira anuncia tres conciertos en Madrid para 2026: una residencia europea que tendrá un estadio a medida en Villaverde",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bc5d3ebe-706b-4a9a-bae0-8674a7e14e5b_16-9-aspect-ratio_default_0_x677y300.jpg",
+        "tags": [
+            "shakira",
+            "conciertos",
+            "música",
+            "madrid"
+        ],
+        "link": "https://www.informacion.es/cultura/2026/03/20/shakira-anuncia-tres-conciertos-madrid-estadio-entradas-fechas-128199464.html",
+        "date": "2026-03-20 07:00:45",
+        "sentiment_score": -0.11162659525871277
     }
 ];
