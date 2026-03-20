@@ -1,159 +1,5 @@
 export default [
     {
-        "title": "Joan Laporta gana con contundencia las elecciones del FC Barcelona y seguirá como presidente hasta 2031",
-        "image_url": "https://www.elplural.com/uploads/s1/24/94/20/2/el-presidente-del-futbol-club-barcelona-joan-laporta-ep_7_480x270.jpeg",
-        "tags": [
-            "el regate"
-        ],
-        "link": "https://www.elplural.com/el-regate/joan-laporta-gana-contundencia-elecciones-fc-barcelona-seguira-presidente-hasta-2031_384237102",
-        "date": "2026-03-16 06:20:57",
-        "sentiment_score": 0.003291308879852295
-    },
-    {
-        "title": "Mbappé está de regreso en la convocatoria del Real Madrid",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/16085720/Mbappe-logro-superar-el-esguince-de-rodilla-que-arrastra-desde-diciembre-Foto-Archivo.jpg",
-        "tags": [
-            "deportes",
-            "real madrid",
-            "fútbol",
-            "mbappé",
-            "champions"
-        ],
-        "link": "https://www.elnacional.com/2026/03/mbappe-esta-de-regreso-en-la-convocatoria-del-real-madrid/",
-        "date": "2026-03-16 06:00:00",
-        "sentiment_score": 0.005374103784561157
-    },
-    {
-        "title": "Los médicos de Madrid retoman la huelga contra el Estatuto Marco del Ministerio de Sanidad",
-        "image_url": "https://www.madridactual.es/images/stories/noticias/agencias/ep/2026/03/madrid-medicos-madrilenos-retoman-proxima-semana-huelga.jpg",
-        "tags": [
-            "sanidad madrid"
-        ],
-        "link": "https://www.madridactual.es/noticias-regionales/sanidad-madrid/madrid-medicos-madrilenos-retoman-lunes-semana-huelga-20260316-8091435.html",
-        "date": "2026-03-16 05:46:02",
-        "sentiment_score": 0.06091899052262306
-    },
-    {
-        "title": "Gasolineras más baratas hoy: encuentra la gasolina con el precio más bajo de hoy lunes en tu municipio",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/55584ab3-9934-49e3-8de6-9a7cd70e4fb2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "santana",
-            "fuerteventura",
-            "gran canaria",
-            "gasolineras",
-            "gasolina",
-            "lanzarote"
-        ],
-        "link": "https://www.laprovincia.es/gran-canaria/2026/03/16/gasolineras-baratas-hoy-encuentra-gasolina-128014159.html",
-        "date": "2026-03-16 07:15:00",
-        "sentiment_score": 0.05281664431095123
-    },
-    {
-        "title": "¿Cuáles son los servicios mínimos en Cataluña ante la huelga educativa?",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/02/11/5A77A8A7-E960-4181-867A-718CD7A69B98/98.jpg?crop=5668%2C3189%2Cx0%2Cy295&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/cuales-son-servicios-minimos-cataluna-huelga-educativa_2026031669b721c2d489bf782e1b2a7d.html",
-        "date": "2026-03-16 07:00:21",
-        "sentiment_score": 0.041589390486478806
-    },
-    {
-        "title": "La temporada más difícil de Valverde en el Athletic",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f3a2d0b3-6a70-49ca-81bb-bd18a9d09875_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "temporada",
-            "dificil",
-            "athletic",
-            "valverde"
-        ],
-        "link": "https://www.deia.eus/athletic/2026/03/16/temporada-dificil-valverde-athletic-10823855.html",
-        "date": "2026-03-16 06:52:28",
-        "sentiment_score": 0.0881788432598114
-    },
-    {
-        "title": "Laporta arrasa en las elecciones del Barcelona y seguirá cinco años más",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/03/16/2026031607500412382.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/deportes/laporta-arrasa-elecciones-barcelona-seguira-cinco-anos-mas/20260316075118581672.html",
-        "date": "2026-03-16 06:51:18",
-        "sentiment_score": -0.8041600994765759
-    },
-    {
-        "title": "Lo que debes saber hoy, 16 de marzo, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/20/vivir-en-barcelona/1003742717874_15535517_1706x960.jpg",
-        "tags": [
-            "transporte",
-            "tráfico",
-            "el tiempo",
-            "rodalies",
-            "transports metropolitans barcelona tmb",
-            "vivir en barcelona",
-            "clima",
-            "gran barcelona",
-            "metro barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260316/debes-saber-hoy-marzo-barcelona/1003742741743_0.html",
-        "date": "2026-03-16 06:24:17",
-        "sentiment_score": -0.8364732265472412
-    },
-    {
-        "title": "Qué día es San Patricio 2026: origen, fechas, cuándo es y cómo se celebra en España",
-        "image_url": "https://okdiario.com/img/2026/03/14/que-dia-es-san-patricio-2026origen-fechas-cuando-es-y-como-se-celebra-en-espana.jpg",
-        "tags": [
-            "madrid",
-            "okd",
-            "fiestas",
-            "curiosidades",
-            "san patricio"
-        ],
-        "link": "https://okdiario.com/curiosidades/que-dia-san-patricio-2026-origen-fechas-cuando-como-celebra-espana-16415598",
-        "date": "2026-03-16 06:15:46",
-        "sentiment_score": 0.017168909311294556
-    },
-    {
-        "title": "9 buenos restaurantes que debes visitar antes de que acabe marzo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5f75cac8-ed15-4cd9-b9f4-ef24b73b3c9e_alta-libre-aspect-ratio_default_0_x665y249.jpg",
-        "tags": [
-            "restaurante",
-            "restaurantes barcelona",
-            "gastronomía",
-            "dónde comer hoy",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260316/buenos-restaurantes-barcelona-superauto-bistro-piropo-tru-taberna-nardi-127914430",
-        "date": "2026-03-16 06:00:59",
-        "sentiment_score": 0.4679403305053711
-    },
-    {
-        "title": "¿Por qué los narcisistas siempre se salen con la suya?",
-        "image_url": "https://static1.ara.cat/clip/556a6739-a1d3-4620-bd1e-f5e7cb8e84fa_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "narcisistas",
-            "salen"
-        ],
-        "link": "https://es.ara.cat/estilo/narcisistas-salen_130_5679547.html",
-        "date": "2026-03-16 06:00:50",
-        "sentiment_score": -0.18259723484516144
-    },
-    {
-        "title": "Un nuevo viejo Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/15/culemania/palco/1003742741701_15830230_1706x960.jpg",
-        "tags": [
-            "barça",
-            "pablo martín páez gavira gavi",
-            "hansi flick",
-            "juanito blaugrana",
-            "un culé en la castellana"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/juanito-blaugrana/20260316/nuevo-viejo-barca/1003742741705_0.html",
-        "date": "2026-03-16 05:59:37",
-        "sentiment_score": -0.18591353297233582
-    },
-    {
         "title": "El Real Zaragoza Club de Tenis reunirá a cerca de 200 jugadores en la décima edición del ITF Sénior MT400",
         "image_url": "https://www.aragondigital.es/media/aragondigital/images/2026/03/16/2026031618424328574.jpg",
         "tags": [
@@ -2991,5 +2837,224 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/economia/20260319/govern-abre-segunda-convocatoria-solares-alquiler-social-incluye-rehabilitacion-edificios/1003742743335_0.html",
         "date": "2026-03-19 17:24:24",
         "sentiment_score": 0.396896630525589
+    },
+    {
+        "title": "0-1. El Rayo vuelve con sufrimiento a unos cuartos de final en Europa 25 años después",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/19/0-1-el-rayo-vuelve-con-sufrimiento-a-unos-cuartos-de-final-en-europa-25-anos-despues/",
+        "date": "2026-03-19 22:33:06",
+        "sentiment_score": -0.8881087368354201
+    },
+    {
+        "title": "Los chungos, los fules y...",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/19/opinion/1003742743360_15853932_1706x960.jpg",
+        "tags": [
+            "el prat de llobregat",
+            "opinión",
+            "aeropuerto barcelona",
+            "gran barcelona",
+            "seguridad"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/opinion/20260319/chungos-fules/1003742743340_12.html",
+        "date": "2026-03-19 22:30:00",
+        "sentiment_score": -0.8332366729155183
+    },
+    {
+        "title": "Aguirre sorprende con el regreso de Ochoa y el debut de Fidalgo a la selección",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "sports",
+            "guillermo ochoa alvaro fidalgo mexico mundial 2026 portugal",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/guillermo-ochoa-alvaro-fidalgo-mexico-mundial-2026-portugal-a4433a3d90151576a4377857cb188f08",
+        "date": "2026-03-19 22:20:29",
+        "sentiment_score": 0.3640308678150177
+    },
+    {
+        "title": "Aguirre sorprende con el regreso de Ochoa y el debut de Fidalgo a la selección",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/9/9e/99e292b6-47d3-56ab-804b-d737132b7700/69bc7ae05c8e1.image.jpg?crop=1176%2C617%2C0%2C572",
+        "tags": [
+            "guillermo ochoa alvaro fidalgo mexico mundial 2026 portugal",
+            "sports"
+        ],
+        "link": "https://santamariatimes.com/ap/sports/aguirre-sorprende-con-el-regreso-de-ochoa-y-el-debut-de-fidalgo-a-la-selecci/article_b578c2cb-3f06-54f3-aaef-0224ee18d542.html",
+        "date": "2026-03-19 22:20:15",
+        "sentiment_score": 0.4141767881810665
+    },
+    {
+        "title": "0-1. El Rayo se mete en cuartos en Europa 25 años después tras eliminar al Samsunspor",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/19/0-1-el-rayo-se-mete-en-cuartos-en-europa-25-anos-despues-tras-eliminar-al-samsunspor/",
+        "date": "2026-03-19 22:19:48",
+        "sentiment_score": -0.07153931260108948
+    },
+    {
+        "title": "El Granada CF recupera la esencia del 'Matagigantes' con su nueva camiseta retro",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/03/19/web_nota_retro-kNYC--758x531@Ideal.png",
+        "tags": [
+            "adidas",
+            "liga de fútbol profesional",
+            "granada cf"
+        ],
+        "link": "https://www.ideal.es/granadacf/granada-recupera-esencia-matagigantes-nueva-camiseta-retro-20260319231012-nt.html",
+        "date": "2026-03-19 22:14:43",
+        "sentiment_score": 0.5884994063526392
+    },
+    {
+        "title": "El Real Oviedo presenta en Madrid la camiseta que usará en la jornada 'retro'",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/03/19/camisetaOviedo-U70223421103uqy-758x531@El%20Comercio.jpg",
+        "tags": [
+            "madrid",
+            "oviedo",
+            "presenta",
+            "retro",
+            "usara",
+            "camiseta",
+            "jornada",
+            "real"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-presenta-madrid-camiseta-usara-jornada-20260319231205-nt.html",
+        "date": "2026-03-19 22:12:08",
+        "sentiment_score": 0.20817723870277405
+    },
+    {
+        "title": "El Rayo sufre para eliminar al Samsunspor y se mete en cuartos en Europa 25 años después",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2c517ba5-49e1-459f-9af6-6b4f54e6f52b_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "rayo vallecano",
+            "fútbol",
+            "uefa",
+            "conference league"
+        ],
+        "link": "https://www.elcorreogallego.es/deportes/2026/03/19/rayo-sufre-eliminar-samsunspor-mete-128193726.html",
+        "date": "2026-03-19 22:11:51",
+        "sentiment_score": -0.36880333721637726
+    },
+    {
+        "title": "El Rayo sufre para eliminar al Samsunspor y se mete en cuartos en Europa 25 años después",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2c517ba5-49e1-459f-9af6-6b4f54e6f52b_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "fútbol",
+            "uefa",
+            "rayo vallecano",
+            "conference league"
+        ],
+        "link": "https://www.eldia.es/deportes/2026/03/19/rayo-sufre-eliminar-samsunspor-mete-128193721.html",
+        "date": "2026-03-19 22:11:48",
+        "sentiment_score": 0.34206975996494293
+    },
+    {
+        "title": "Sant Just busca nuevo operador para el histórico restaurante El Parador tras el fracaso de la licitación",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/17/actualidad/1003742742601_15843276_1706x960.jpg",
+        "tags": [
+            "contratos barcelona",
+            "gastronomía",
+            "gran barcelona",
+            "restaurantes barcelona",
+            "sant just desvern"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260319/sant-just-busca-nuevo-operador-historico-restaurante-parador-fracaso-licitacion/1003742737488_0.html",
+        "date": "2026-03-19 22:30:00",
+        "sentiment_score": -0.38350021094083786
+    },
+    {
+        "title": "4-0 El Barça sentencia al Noia Freixenet en la segunda parte y ya está en semifinales",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/19/4-0-el-barca-sentencia-al-noia-freixenet-en-la-segunda-parte-y-ya-esta-en-semifinales/",
+        "date": "2026-03-19 22:18:43",
+        "sentiment_score": 0.11985164880752563
+    },
+    {
+        "title": "Cuánto vale tu voto según dónde vivas",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/20/fotoleads-voto-1200x672.jpg",
+        "tags": [
+            "historias visuales",
+            "vivas",
+            "elecciones autonómicas",
+            "vale",
+            "segun",
+            "voto"
+        ],
+        "link": "https://www.canarias7.es/nacional/vale-voto-segun-vivas-20260319001746-ntrc.html",
+        "date": "2026-03-19 22:17:49",
+        "sentiment_score": -0.28508274629712105
+    },
+    {
+        "title": "Canarias se adelanta a la ceguera por diabetes con un exitoso sistema",
+        "image_url": "https://s2.ppllstatics.com/canarias7/www/multimedia/2026/03/19/Profesional-manejando-el-nuevo-retinografo-en-el-Centro-de-Salud-de-Valsequillo-kCvD-U201299087708nWH-758x531@Canarias7.jpg",
+        "tags": [
+            "diabetes",
+            "mujeres",
+            "jornadas",
+            "gran canaria",
+            "médicos",
+            "canarias",
+            "centro de salud"
+        ],
+        "link": "https://www.canarias7.es/sociedad/salud/canarias-adelanta-ceguera-diabetes-exitoso-sistema-20260320195605-nt.html",
+        "date": "2026-03-19 22:15:06",
+        "sentiment_score": 0.09203687310218811
+    },
+    {
+        "title": "La Fórmula E aterriza en el ePrix de Madrid: Así vivimos una tarde con Citroën, Nick Cassidy y Éric Verge",
+        "image_url": "https://hips.hearstapps.com/hmg-prod/images/fb3a2f36-5051-4d14-8f88-341413296a44.jpeg",
+        "tags": [
+            "nick cassidy y verge",
+            "content-type: news",
+            "collection: noticias",
+            "locale: es",
+            "shorttitle: vivimos una tarde con citroën",
+            "contentid: cb1b07b5-a8a6-4d1f-a919-15fe6054d92d",
+            "displaytype: standard article"
+        ],
+        "link": "https://www.caranddriver.com/es/motorsport/a70796357/formula-e-aterriza-eprix-madrid-vivimos-citroen-nick-cassidy-eric-verge/",
+        "date": "2026-03-19 22:14:00",
+        "sentiment_score": 0.7179141715168953
+    },
+    {
+        "title": "Resultado del sorteo de 'La Bonoloto' de este jueves 19 de marzo",
+        "image_url": "https://s01.europapress.net/imagenes/estaticos/amp-logo/logo-europapress.png",
+        "tags": [
+            "bonoloto"
+        ],
+        "link": "https://www.europapress.es/sociedad/noticia-resultado-sorteo-bonoloto-jueves-19-marzo-20260319230532.html",
+        "date": "2026-03-19 22:05:32",
+        "sentiment_score": 0.05385464429855347
+    },
+    {
+        "title": "Valencia Basket-Barcelona: Clyburn apaga el fuego 'taronja' (62-66)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/310x310/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/03/19/image-8a8fcb5c-750a-4429-a2eb-2f6c842a3c1a-68-310-310.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.eurosport.es/baloncesto/euroliga/2025-2026/valencia-basket-barcelona-video-resumen-resultado-mejores-momentos-fase-regular-jornada-32-highlights_vid60064207/video.shtml",
+        "date": "2026-03-19 22:04:22",
+        "sentiment_score": 0.26665122620761395
+    },
+    {
+        "title": "Hallan el cuerpo sin vida de James Gracey, estadounidense desaparecido en Barcelona",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-gracey.jpg?c=16x9&q=w_800,c_fill",
+        "tags": [
+            "james gracey",
+            "españa",
+            "estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2026/03/19/mundo/video/james-gracey-cuerpo-espana-dusa-tv",
+        "date": "2026-03-19 22:04:10",
+        "sentiment_score": -0.5505231209099293
     }
 ];
