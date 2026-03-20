@@ -3056,5 +3056,210 @@ export default [
         "link": "https://cnnespanol.cnn.com/2026/03/19/mundo/video/james-gracey-cuerpo-espana-dusa-tv",
         "date": "2026-03-19 22:04:10",
         "sentiment_score": -0.5505231209099293
+    },
+    {
+        "title": "Real Madrid jugará su próximo partido de Euroliga bajo esta medida",
+        "image_url": "https://pxcdn.meridiano.net/032026/1773974372109.jpg",
+        "tags": [
+            "real madrid",
+            "euroliga"
+        ],
+        "link": "https://meridiano.net/baloncesto/baloncesto-internacional/real-madrid-jugara-su-proximo-partido-de-euroliga-bajo-esta-medida-202631922390",
+        "date": "2026-03-20 02:39:00",
+        "sentiment_score": 0.01764967292547226
+    },
+    {
+        "title": "¿No juega ante México? Real Madrid confirma insólita lesión de Thibaut Courtois",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/7SYQP4H7SFH3DKYOWS7GR3VJAQ.jpg?auth=8688067b5f9d9abfe7b99e596dad78c09792aa73ab0464586d175d636f6f72e2&smart=true&width=5720&height=3813",
+        "tags": [
+            "thibaut courtois",
+            "real madrid"
+        ],
+        "link": "https://www.metroworldnews.com/deportes/2026/03/20/no-juega-ante-mexico-real-madrid-confirma-insolita-lesion-de-thibaut-courtois/",
+        "date": "2026-03-20 02:16:49",
+        "sentiment_score": -0.5885749515146017
+    },
+    {
+        "title": "El AVE viaja en autobús",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "viaja",
+            "ave",
+            "autobus"
+        ],
+        "link": "https://www.malagahoy.es/opinion/editorial/ave-viaja-autobus_0_2006231614.html",
+        "date": "2026-03-20 02:08:54",
+        "sentiment_score": -0.22089387476444244
+    },
+    {
+        "title": "Adif nos “hodia”",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "hodia",
+            "adif"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/adif-hodia_0_2006231613.html",
+        "date": "2026-03-20 02:08:53",
+        "sentiment_score": -0.7523892931640148
+    },
+    {
+        "title": "La vía Moreno",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "via",
+            "moreno"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/via-moreno_0_2006231590.html",
+        "date": "2026-03-20 02:08:40",
+        "sentiment_score": -0.33324941992759705
+    },
+    {
+        "title": "Clima en Barcelona: el pronóstico para este 20 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&smart=true&width=1920&height=1080",
+        "tags": [
+            "clima en españa",
+            "clima en barcelona",
+            "últimas actualizaciones",
+            "clima"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/20/clima-en-barcelona-el-pronostico-para-este-20-de-marzo/",
+        "date": "2026-03-20 02:00:56",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Un centenar de becas de la Fundación \"la Caixa\" para atraer y retener el talento de jóvenes investigadores",
+        "image_url": "https://www.hispanidad.com/uploads/s1/14/57/39/8/foto-de-familia-en-el-acto-de-entrega-de-becas-de-doctorado-y-posdoctorado-de-la-fundacion-la-caixa-celebrado-en-el-museo-de-la-ciencia-cosmocaixa_14_1200x600.jpeg",
+        "tags": [
+            "educación",
+            "religión",
+            "pp",
+            "entrevistas"
+        ],
+        "link": "https://www.hispanidad.com/publirreportaje/centenar-becas-fundacion-la-caixa-atraer-retener-talento-jovenes-investigadores_12066409_102.html",
+        "date": "2026-03-20 02:00:00",
+        "sentiment_score": 0.09146243333816528
+    },
+    {
+        "title": "Podemos negociará con Rufián no presentarse en País Vasco y Cataluña para no dividir el voto y favorecer a Bildu y ERC",
+        "image_url": "https://s3.elespanol.com/2026/03/19/actualidad/1003744176857_262038218_1706x960.jpg",
+        "tags": [
+            "irene montero",
+            "podemos",
+            "sumar",
+            "eh bildu",
+            "erc",
+            "política",
+            "psoe (partido socialista obrero español)",
+            "gabriel rufián"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20260320/podemos-negociara-rufian-no-presentarse-pais-vasco-cataluna-dividir-voto-favorecer-bildu-erc/1003744176790_0.html",
+        "date": "2026-03-20 01:57:57",
+        "sentiment_score": 0.4436744526028633
+    },
+    {
+        "title": "Jimmy, el veinteañero de EEUU muerto en Barcelona: apareció a cuatro metros bajo el mar y un \"ladrón habitual\" tenía su móvil",
+        "image_url": "https://s3.elespanol.com/2026/03/19/actualidad/1003744176659_262035902_1706x960.jpg",
+        "tags": [
+            "reportajes",
+            "personas desaparecidas",
+            "eeuu",
+            "guardia urbana",
+            "cataluña",
+            "mozos de escuadra (mossos d'esquadra)",
+            "españa",
+            "barcelona"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260320/jimmy-veinteanero-eeuu-muerto-barcelona-aparecio-metros-mar-ladron-habitual-movil/1003744176046_0.html",
+        "date": "2026-03-20 01:57:51",
+        "sentiment_score": -0.5528831370174885
+    },
+    {
+        "title": "Del abrazo entre Riquelme y Ramón Díaz al show de Ruggeri: las perlitas del sorteo de la Copa Libertadores",
+        "image_url": "https://www.infobae.com/resizer/v2/OAHAEJTH7ZDKZHGR62G45OCNPI.jpg?auth=cd86b60f7d5616a264e5d84c725bbfad2e1683bffdc69feec74c49a256d5a8f3&smart=true&width=1920&height=1080",
+        "tags": [
+            "oscar ruggeri",
+            "felipe melo",
+            "ramón díaz",
+            "copa libertadores",
+            "deportes-argentina",
+            "juan román riquelme"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/20/del-abrazo-entre-riquelme-y-ramon-diaz-al-show-de-ruggeri-las-perlitas-del-sorteo-de-la-copa-libertadores/",
+        "date": "2026-03-20 01:57:39",
+        "sentiment_score": 0.8222386986017227
+    },
+    {
+        "title": "Cuántos kilómetros hará Boca Juniors en el Grupo D de la Copa Libertadores: el historial que ilusiona a los hinchas",
+        "image_url": "https://www.infobae.com/resizer/v2/EZSLVLVQP5E7LE4W5PWO6MJOR4.JPG?auth=d51761acb2df11c6b7d26f8f8b2191fbab133df795438e473be294cdce35cad6&smart=true&width=5248&height=2952",
+        "tags": [
+            "copa sudamericana",
+            "copa libertadores",
+            "barcelona de ecuador",
+            "cruzeiro",
+            "deportes-argentina",
+            "deportes-internacional",
+            "boca juniors",
+            "universidad católica"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/20/cuantos-kilometros-hara-boca-juniors-en-el-grupo-d-de-la-copa-libertadores-el-historial-que-ilusiona-a-los-hinchas/",
+        "date": "2026-03-20 01:46:38",
+        "sentiment_score": -0.18094445765018463
+    },
+    {
+        "title": "Millonarios llega a la fase de grupos de la Copa Sudamericana con el pie en el acelerador en la Liga BetPlay: así va su campaña",
+        "image_url": "https://www.infobae.com/resizer/v2/JM56UD7HLJGYHBB3Z6FL2RRSUE.jpg?auth=938acc30fda615b8ec55f9e751b1b30bc2e840add64adc73babc51ac86add7e7&smart=true&width=4816&height=3308",
+        "tags": [
+            "fabián bustos",
+            "colombia-deportes",
+            "millonarios",
+            "liga betplay",
+            "copa sudamerica"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/03/20/millonarios-llega-a-la-fase-de-grupos-de-la-copa-sudamericana-con-el-pie-en-el-acelerador-en-la-liga-betplay-asi-va-su-campana/",
+        "date": "2026-03-20 01:43:32",
+        "sentiment_score": 0.5490367263555527
+    },
+    {
+        "title": "Los mejores memes de los sorteos de la Libertadores y Sudamericana: Boca, River, Benedetto, Neymar y la ausencia de Independiente",
+        "image_url": "https://www.infobae.com/resizer/v2/HMHA2HSDTJBANPDMH2D7VS52JM.jpg?auth=f1b4123d5ffbaf159cc1974f7805a234919a1ecaf91ad26afbe642ed62ff5aa4&smart=true&width=1920&height=1080",
+        "tags": [
+            "river plate",
+            "copa sudamericana",
+            "copa libertadores",
+            "darío benedetto",
+            "memes",
+            "deportivo riestra",
+            "barracas central",
+            "independiente",
+            "racing club",
+            "neymar",
+            "boca juniors",
+            "san lorenzo"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/20/los-mejores-memes-de-los-sorteos-de-la-libertadores-y-sudamericana-boca-river-benedetto-neymar-y-la-ausencia-de-independiente/",
+        "date": "2026-03-20 01:43:22",
+        "sentiment_score": -0.44590210914611816
+    },
+    {
+        "title": "Se sorteó la Copa Libertadores 2026: así quedaron los grupos",
+        "image_url": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://krdo.com/news/2026/03/19/se-sorteo-la-copa-libertadores-2026-asi-quedaron-los-grupos/",
+        "date": "2026-03-20 01:33:33",
+        "sentiment_score": 0.24991948902606964
+    },
+    {
+        "title": "Se sorteó la Copa Libertadores 2026: así quedaron los grupos",
+        "image_url": "https://ktvz.b-cdn.net/2025/02/KTVZ-Default-image-860x484.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://ktvz.com/cnn-spanish/2026/03/19/se-sorteo-la-copa-libertadores-2026-asi-quedaron-los-grupos/",
+        "date": "2026-03-20 01:33:33",
+        "sentiment_score": 0.2505922093987465
     }
 ];
