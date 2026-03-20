@@ -1,506 +1,5 @@
 export default [
     {
-        "title": "Sigue la última hora de la gala de los premios Oscar",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/15/1508625836-kOhC--758x531@RC.JPG",
-        "tags": [
-            "premios oscar"
-        ],
-        "link": "https://www.elcorreo.com/pantallas/premios-oscar/directo-sigue-ultima-hora-gala-premios-oscar-20260315233002-dirc.html",
-        "date": "2026-03-15 22:43:02",
-        "sentiment_score": 0.5324022490531206
-    },
-    {
-        "title": "Laporta es reelegido como presidente del FC Barcelona para los próximos cinco años",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/15210117/Laporta-Barcelona.jpg",
-        "tags": [
-            "fútbol",
-            "deportes",
-            "joan laporta",
-            "barcelona fc"
-        ],
-        "link": "https://www.elnacional.com/2026/03/laporta-es-reelegido-como-presidente-del-fc-barcelona-para-los-proximos-cinco-anos/",
-        "date": "2026-03-15 22:32:00",
-        "sentiment_score": 0.06174632906913757
-    },
-    {
-        "title": "Laporta gana las elecciones a la presidencia del Barça por goleada",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/15/Clipboard-0098-kxvG-U201213984295SLH-1200x840@RC.jpg",
-        "tags": [
-            "joan laporta i estruch",
-            "f.c. barcelona"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/laporta-gana-elecciones-presidencia-barca-goleada-20260315231337-ntrc.html",
-        "date": "2026-03-15 22:13:41",
-        "sentiment_score": 0.6111419312655926
-    },
-    {
-        "title": "Fernández Mañueco, un corredor de fondo",
-        "image_url": "https://s3.ppllstatics.com/lagacetadesalamanca/www/multimedia/2026/03/15/manueco-kcPE--758x531@Gaceta%20Salamanca.jpg",
-        "tags": [
-            "fondo",
-            "corredor"
-        ],
-        "link": "https://www.lagacetadesalamanca.es/elecciones/castilla-y-leon/fernandez-manueco-corredor-fondo-20260315230728-nt.html",
-        "date": "2026-03-15 22:07:32",
-        "sentiment_score": 0.12489926815032959
-    },
-    {
-        "title": "Yangel Herrera deja el campo entre lágrimas tras volverse a romper",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/fa788e24-080b-4146-b66b-5595553a1533_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "herrera",
-            "vuelve",
-            "romper",
-            "yangel"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/03/15/yangel-herrera-vuelve-romper-10824173.html",
-        "date": "2026-03-15 22:05:19",
-        "sentiment_score": -0.7615017779171467
-    },
-    {
-        "title": "Vox crece en Castilla y León y tiene la llave de la reelección de Mañueco, pero sube menos de lo esperado",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/03/20260315222600.jpg?fit=1920%2C1279&ssl=1",
-        "tags": [
-            "política"
-        ],
-        "link": "https://cronicadecantabria.com/cr/vox-crece-en-castilla-y-len-y-tiene-la-llave-de-la-reeleccin-de-maueco-pero-sube-menos-de-lo-esperado/",
-        "date": "2026-03-15 22:00:06",
-        "sentiment_score": -0.014659404754638672
-    },
-    {
-        "title": "Vox sube menos lo previsto, pero tiene la llave del gobierno",
-        "image_url": "https://www.diariodeburgos.es/media/img/2026/3c735be7-eaa0-4a9a-9561be290ae7db68.jpeg",
-        "tags": [
-            "extremadura",
-            "machismo",
-            "santiago abascal",
-            "comunidad valenciana",
-            "aragón",
-            "oriente próximo",
-            "murcia",
-            "cortes de castilla y león",
-            "elecciones castilla y león",
-            "juan garcía-gallardo",
-            "castilla y león",
-            "españa",
-            "alfonso fernández mañueco",
-            "memoria histórica",
-            "javier ortega smith",
-            "vox",
-            "donald trump",
-            "pp",
-            "violencia"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z68cd5771-621a-4716-8354c628db9f4074/202603/vox-sube-menos-lo-previsto-pero-tiene-la-llave-del-gobierno",
-        "date": "2026-03-15 21:55:18",
-        "sentiment_score": 0.4086328521370888
-    },
-    {
-        "title": "¿Quiénes son los nuevos procuradores por Salamanca?",
-        "image_url": "https://s3.ppllstatics.com/lagacetadesalamanca/www/multimedia/2026/03/15/procuradores-kCbG-U2012115982504TB-758x531@Gaceta%20Salamanca.jpg",
-        "tags": [
-            "castilla y león",
-            "junta de castilla y león",
-            "salamanca"
-        ],
-        "link": "https://www.lagacetadesalamanca.es/elecciones/castilla-y-leon/nuevos-procuradores-salamanca-20260315224853-nt.html",
-        "date": "2026-03-15 21:48:56",
-        "sentiment_score": 0.47783704474568367
-    },
-    {
-        "title": "Vox crece en Castilla y León y tiene la llave de la reelección de Mañueco, pero sube menos de lo esperado",
-        "image_url": "https://www.infobae.com/resizer/v2/OSG2P6OXVNG2LEGQLP6SMLK3IU.jpg?auth=7fbcab55da3226079a3d1f5037dd7e387d2060bcb172b9a4118672449e26ae28&height=1278&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/15/vox-crece-en-castilla-y-leon-y-tiene-la-llave-de-la-reeleccion-de-manueco-pero-sube-menos-de-lo-esperado/",
-        "date": "2026-03-15 21:45:48",
-        "sentiment_score": -0.30328959226608276
-    },
-    {
-        "title": "Beñat Turrientes no podrá jugar frente al Villarreal",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e95b2ba7-4fbf-424f-a7aa-45aee780d45d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "benat",
-            "turrientes",
-            "jugar",
-            "frente",
-            "podra"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/03/15/benat-turrientes-podra-jugar-frente-10824083.html",
-        "date": "2026-03-15 21:43:45",
-        "sentiment_score": -0.3150106146931648
-    },
-    {
-        "title": "Joan Laporta continuará como presidente del FC Barcelona tras imponerse en elecciones del club",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/Joan-Laporta.jpg",
-        "tags": [
-            "joan laporta",
-            "titulares",
-            "deportes",
-            "fc barcelona",
-            "futbol"
-        ],
-        "link": "https://lapatilla.com/2026/03/15/joan-laporta-continuara-como-presidente-del-fc-barcelona-tras-imponerse-en-elecciones-del-club/",
-        "date": "2026-03-15 22:44:11",
-        "sentiment_score": -0.3545731231570244
-    },
-    {
-        "title": "Víctor Muñoz no se esconde",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2026/03/15/69b732219ca23.jpeg",
-        "tags": [
-            "osasuna"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/deportes/futbol/osasuna/2026/03/15/victor-munoz-no-esconde-813627-32.html",
-        "date": "2026-03-15 22:39:28",
-        "sentiment_score": -0.39841435849666595
-    },
-    {
-        "title": "Joan Laporta vuelve a ganar las elecciones presidenciales del Barcelona",
-        "image_url": "https://i.ytimg.com/vi/IdCQoDaw66o/mqdefault.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-internacional/joan-laporta-vuelve-a-ganar-las-elecciones-presidenciales-del-barcelona-202631518350",
-        "date": "2026-03-15 22:35:00",
-        "sentiment_score": 0.8427066076546907
-    },
-    {
-        "title": "La lucha de Gerardo Pisarello para deshacerse de la mochila de Ada Colau",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2018/04/15/opinion/299980011_10674349_1706x960.jpg",
-        "tags": [
-            "ayuntamiento de barcelona",
-            "información municipal",
-            "ada colau",
-            "barcelona en comú",
-            "psc - partit dels socialistes de catalunya",
-            "jaume collboni"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260315/lucha-gerardo-pisarello-deshacerse-mochila-ada-colau/1003742741116_0.html",
-        "date": "2026-03-15 22:32:21",
-        "sentiment_score": 0.12484407424926758
-    },
-    {
-        "title": "Ignacio del Olmo, carpintero con más de 30 años de experiencia: \"Si esto sigue así, en 10 años no habrá oficios\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/13/actualidad/1003742741208_15823998_1706x960.jpg",
-        "tags": [
-            "vivir en barcelona",
-            "economía",
-            "comercio"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260315/ignacio-olmo-carpintero-anos-experiencia-sigue-no-oficios/1003742740875_0.html",
-        "date": "2026-03-15 22:32:09",
-        "sentiment_score": 0.1466071754693985
-    },
-    {
-        "title": "Joan Laporta arrasa en las elecciones del Barça y es reelegido como presidente",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/15/69b7238ddc9326-26784472.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/joan-laporta-arrasa-las-elecciones-barca-es-reelegido-como-presidente_6946276_0.html",
-        "date": "2026-03-15 22:21:46",
-        "sentiment_score": 0.13219745457172394
-    },
-    {
-        "title": "¡Laporta seguirá presidiendo el Barcelona hasta 2031!",
-        "image_url": "https://okdiario.com/img/2026/03/15/laporta-seguira-presidiendo-deportes-interior.jpg",
-        "tags": [
-            "barcelona",
-            "deportes",
-            "joan laporta",
-            "fc barcelona"
-        ],
-        "link": "https://okdiario.com/deportes/laporta-seguira-presidiendo-barcelona-hasta-2031-16422423",
-        "date": "2026-03-15 22:20:15",
-        "sentiment_score": 0.18469566106796265
-    },
-    {
-        "title": "Laporta gana la presidencia del Barça con el 67% de votos",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/15/2026031523175192746.webp",
-        "tags": [
-            "noticias en la red"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/laporta-gana-presidencia-barca-67-votos/20260315231815442979.html",
-        "date": "2026-03-15 22:18:15",
-        "sentiment_score": 0.30422891676425934
-    },
-    {
-        "title": "Todos los presidentes del Barcelona",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/03/15/Clipboard-0094-kgNF-U201213827238bqB-1200x840@RC.jpg",
-        "tags": [
-            "f.c. barcelona",
-            "joan laporta i estruch"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-primera/presidentes-barcelona-20260315231441-ntrc.html",
-        "date": "2026-03-15 22:14:47",
-        "sentiment_score": -0.1342414692044258
-    },
-    {
-        "title": "Condenado en Palma por estafar a su cuñado 8.211 euros con un viaje familiar a República Dominicana",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4411985.jpg",
-        "tags": [
-            "accidente de tráfico",
-            "ultimas noticias",
-            "sucesos en mallorca",
-            "noticias",
-            "cuñado",
-            "república dominicana",
-            "dinero",
-            "última hora",
-            "estafas en mallorca",
-            "noticias sucesos hoy"
-        ],
-        "link": "https://www.ultimahora.es/sucesos/ultimas/2026/03/16/2589471/condenado-palma-por-estafar-cunado-8211-euros-viaje-familiar-republica-dominicana.html",
-        "date": "2026-03-16 02:48:01",
-        "sentiment_score": -0.8327355831861496
-    },
-    {
-        "title": "Por primera vez las cédulas de votación del extranjero deberán volver al Perú: ¿Cuánto se gastará?",
-        "image_url": "https://www.infobae.com/resizer/v2/56YNNYG2UVGX3FYZA54NRPGHO4.png?auth=1e8614834796c9b3be6f9a370d22e478e4f16b93bef0bce1ebf40c6c62282f01&height=1080&smart=true&width=1920",
-        "tags": [
-            "elecciones perú 2026",
-            "elecciones 2026",
-            "cancillería",
-            "ministerio de relaciones exteriores",
-            "peru-noticias"
-        ],
-        "link": "https://www.infobae.com/peru/2026/03/16/por-primera-vez-las-cedulas-de-votacion-del-extranjero-deberan-volver-al-peru-cuanto-se-gastara/",
-        "date": "2026-03-16 00:59:30",
-        "sentiment_score": 0.07471667230129242
-    },
-    {
-        "title": "Joan Laporta, el niño que soñaba con ser Johan Cruyff y que ha cambiado la historia del Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/16/culemania/palco/1003742741740_15830838_1706x960.jpg",
-        "tags": [
-            "joan laporta",
-            "elecciones barça",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260316/joan-laporta-johan-cruyff-cambiado-historia-barca/1003742741696_0.html",
-        "date": "2026-03-16 00:54:03",
-        "sentiment_score": -0.4247143268585205
-    },
-    {
-        "title": "Médicos claman contra Mónica García por las guardias de 24 horas: \"Sabe lo que hay, pero no empatiza y tergiversa la verdad\"",
-        "image_url": "https://s3.elespanol.com/2026/03/13/actualidad/1003744168967_261931272_1706x960.jpg",
-        "tags": [
-            "mónica garcía gómez",
-            "huelga general",
-            "médicos",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260316/medicos-claman-monica-garcia-guardias-horas-sabe-no-empatiza-tergiversa-verdad/1003744161249_0.html",
-        "date": "2026-03-16 00:37:42",
-        "sentiment_score": -0.7806283123791218
-    },
-    {
-        "title": "Pedro Escudero (Silverway AM) espera gestionar entre 3.000 y 4.000 millones de euros con un equipo de 20 personas",
-        "image_url": "https://s3.elespanol.com/2026/03/13/actualidad/1003744169090_261932811_1706x960.jpg",
-        "tags": [
-            "mercados financieros",
-            "wall street",
-            "fondos de inversión",
-            "cotizaciones bolsa"
-        ],
-        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20260316/pedro-escudero-silverway-am-espera-gestionar-millones-euros-equipo-personas/1003744169083_0.html",
-        "date": "2026-03-16 00:20:46",
-        "sentiment_score": -0.011194422841072083
-    },
-    {
-        "title": "La reelección de Laporta y los canteranos del Real Madrid, en El Tertulión de los domingos",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/03/16/69b7499460a0f.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-15-20260316_3326928.html",
-        "date": "2026-03-16 00:18:51",
-        "sentiment_score": -0.0008689463138580322
-    },
-    {
-        "title": "Gilberto Mora es mejor que Franco Mastantuono, asegura Piojo Herrera por esta razón",
-        "image_url": "https://www.infobae.com/resizer/v2/JWDA7N2D6NEADJBYGFPE5WDEFA.jpg?auth=e63377810881a2b590cc58f0d272a56f9a413fc5ce404f168b8b397dd925b944&height=4805&smart=true&width=7207",
-        "tags": [
-            "mexico-deportes",
-            "miguel herrera",
-            "selección mexicana",
-            "mexico-noticias",
-            "franco mastantuono",
-            "gilberto mora"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2026/03/16/gilberto-mora-es-mejor-que-franco-mastantuono-asegura-piojo-herrera-por-esta-razon/",
-        "date": "2026-03-16 00:07:40",
-        "sentiment_score": -0.8156445622444153
-    },
-    {
-        "title": "Alessio Lisci: \"Hay un penalti que no se pita\"",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/dd6c46d9-7555-499c-a076-5b84478ca67d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "lisci",
-            "hay",
-            "pita",
-            "alessio",
-            "penalti"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/03/16/alessio-lisci-hay-penalti-pita-10824421.html",
-        "date": "2026-03-15 23:17:26",
-        "sentiment_score": -0.1869341880083084
-    },
-    {
-        "title": "«La rabia me ayuda a escribir»",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/16/Imagen%201508443797-Rn8A6ZBYGEADUx4ag0azpQK-1200x840@RC.jpg",
-        "tags": [
-            "educación",
-            "libros",
-            "universidades",
-            "novela",
-            "filosofía",
-            "metoo"
-        ],
-        "link": "https://www.ideal.es/sociedad/rabia-ayuda-escribir-20260316001459-ntrc.html",
-        "date": "2026-03-15 23:15:03",
-        "sentiment_score": -0.9349617380648851
-    },
-    {
-        "title": "Joan Laporta golea a Víctor Font con 28.000 votos más y se proclama presidente del Barça con la participación más baja del Siglo XXI",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/16/actualidad/1003742741730_15830626_1706x960.jpg",
-        "tags": [
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260316/victor-font-pretension-anti-laportismo-participacion-siglo-xxi/1003742741715_0.html",
-        "date": "2026-03-15 23:07:16",
-        "sentiment_score": -0.9320322964340448
-    },
-    {
-        "title": "'Valor sentimental' deja sin premio a 'Sirat' en los Oscar 2026",
-        "image_url": "https://www.infobae.com/resizer/v2/GFVIQGQLQJC33IIE5H4NUECWNQ.jpg?auth=2f130a07bdafa5555271c6448ba377040592fb033f4ac9310c4b512f780bf1fc&height=1621&smart=true&width=1920",
-        "tags": [
-            "premios goya",
-            "barcelona",
-            "sirat",
-            "cine internacional",
-            "joachim trier",
-            "hollywood",
-            "f1 la película",
-            "oscar",
-            "festival de cannes",
-            "oliver laxe",
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/16/valor-sentimental-deja-sin-premio-a-sirat-en-los-oscar-2026/",
-        "date": "2026-03-16 02:45:28",
-        "sentiment_score": 0.4090788811445236
-    },
-    {
-        "title": "Iván Cepeda estaría repitiendo la misma estrategia de Gustavo Petro en 2022 con visitas a líderes de izquierda en el exterior",
-        "image_url": "https://www.infobae.com/resizer/v2/FIFZAXDHTFDLLDTENLTS6UXVY4.jpg?auth=6646e5774613f94cedba53c87d6fc3fc0d49a6996ad38a401a525e21e700d356&height=500&smart=true&width=800",
-        "tags": [
-            "candidatos presidenciales",
-            "gustavo petro",
-            "elecciones presidenciales colombia",
-            "elecciones 2026 colombia",
-            "iván cepeda",
-            "elecciones presidenciales 2026",
-            "colombia-noticias"
-        ],
-        "link": "https://www.infobae.com/colombia/2026/03/16/ivan-cepeda-estaria-repitiendo-la-misma-estrategia-de-gustavo-petro-en-2022-con-visitas-a-lideres-de-izquierda-en-el-exterior/",
-        "date": "2026-03-16 02:25:32",
-        "sentiment_score": 0.22871434688568115
-    },
-    {
-        "title": "'F1' arrebata el Óscar a la oscense Yasmina Praderas y al equipo de ‘Sirat’",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2026/03/15/llueven-felicitaciones-y-elogios-al-sonido-de-sirat-aseguran-las-nominadas-al-oscar.jpeg",
-        "tags": [
-            "ocio y cultura"
-        ],
-        "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/03/16/oscar-aragonesa-yasmina-praderas-sirat-1902497.html",
-        "date": "2026-03-16 01:45:49",
-        "sentiment_score": 0.4833000376820564
-    },
-    {
-        "title": "VÍDEO: Joan Laporta, reelegido presidente del FC Barcelona con el 68,18% de los votos",
-        "image_url": "https://www.infobae.com/resizer/v2/EJL5COCJNNES3A5RS2XGH6FKAU.jpg?auth=fb980b1577733398c8bdc978716556c0e453637d309c65ae3cfa15e3fc784a6e&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress",
-            "sevilla fc",
-            "spotify camp nou",
-            "fc barcelona",
-            "elecciones",
-            "andorra",
-            "catalunya",
-            "europa press televisión",
-            "víctor font",
-            "presidencia",
-            "joan laporta"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/16/video-joan-laporta-reelegido-presidente-del-fc-barcelona-con-el-6818-de-los-votos/",
-        "date": "2026-03-16 01:15:28",
-        "sentiment_score": 0.8092328011989594
-    },
-    {
-        "title": "La Fundación Puente China: 20 años promoviendo las relaciones entre España y China",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/16/2026031602040741203.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.mundiario.com/articulo/internacional/fundacion-puente-china-20-anos-promoviendo-relaciones-entre-espana-china/20260316020521378786.html",
-        "date": "2026-03-16 01:05:21",
-        "sentiment_score": 0.7977765575051308
-    },
-    {
-        "title": "Joan Laporta, reelegido presidente del FC Barcelona con el 68,18% de los votos",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/202603/16/media/cortadas/joan-laporta-reelegido-presidente-barcelona-6818-votos-20260316004528-vi.jpg",
-        "tags": [
-            "presidente",
-            "reelegido",
-            "joan",
-            "6818",
-            "votos",
-            "barcelona",
-            "laporta"
-        ],
-        "link": "https://www.elcomercio.es/deportes/joan-laporta-reelegido-presidente-barcelona-6818-votos-20260316004528-vi.html",
-        "date": "2026-03-16 01:05:11",
-        "sentiment_score": -0.007523447275161743
-    },
-    {
-        "title": "15 MAR 2026 | EL TERTULIÓN DE LOS DOMINGOS",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/15-mar-2026-tertulion-domingos-20260316_3326962.html",
-        "date": "2026-03-16 00:55:09",
-        "sentiment_score": 0.20096614956855774
-    },
-    {
-        "title": "Los mejores vestidos de los Oscar: escotes ceñidos y plumas",
-        "image_url": "https://static1.ara.cat/clip/5df1c7b6-d882-440f-beb3-e8b087e2df3d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "plumas",
-            "vestidos",
-            "mejores",
-            "cenidos",
-            "oscar",
-            "escotes"
-        ],
-        "link": "https://es.ara.cat/estilo/mejores-vestidos-oscar-escotes-cenidos-plumas_1_5679526.html",
-        "date": "2026-03-16 00:54:19",
-        "sentiment_score": 0.26304370164871216
-    },
-    {
-        "title": "Entregan insumos para nuevas viviendas en urbanismo La Victoria de Barcelona",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-15-at-10.56.15-AM.jpeg",
-        "tags": [
-            "anzoátegui",
-            "actualidad"
-        ],
-        "link": "https://ultimasnoticias.com.ve/anzoateggui/entregan-insumos-para-nuevas-viviendas-en-urbanismo-la-victoria-de-barcelona/",
-        "date": "2026-03-16 00:49:24",
-        "sentiment_score": 0.08316460251808167
-    },
-    {
         "title": "Joan Laporta gana con contundencia las elecciones del FC Barcelona y seguirá como presidente hasta 2031",
         "image_url": "https://www.elplural.com/uploads/s1/24/94/20/2/el-presidente-del-futbol-club-barcelona-joan-laporta-ep_7_480x270.jpeg",
         "tags": [
@@ -533,21 +32,6 @@ export default [
         "link": "https://www.madridactual.es/noticias-regionales/sanidad-madrid/madrid-medicos-madrilenos-retoman-lunes-semana-huelga-20260316-8091435.html",
         "date": "2026-03-16 05:46:02",
         "sentiment_score": 0.06091899052262306
-    },
-    {
-        "title": "¿Aguja en un pajar o la nueva ola? Los fondos de infraestructuras desembarcan en España para ser parte de la solución del problema de la vivienda",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3870c1b0-a043-4ef8-a38c-27b02d797e55_16-9-aspect-ratio_default_0_x1200y533.jpg",
-        "tags": [
-            "mercado inmobiliario",
-            "sector inmobiliario",
-            "construcción",
-            "fondos de inversión",
-            "alquiler",
-            "vivienda"
-        ],
-        "link": "https://www.laprovincia.es/economia/2026/03/16/fondos-infraestructuras-vivienda-espana-128012272.html",
-        "date": "2026-03-16 05:25:55",
-        "sentiment_score": -0.058735743165016174
     },
     {
         "title": "Gasolineras más baratas hoy: encuentra la gasolina con el precio más bajo de hoy lunes en tu municipio",
@@ -3369,5 +2853,143 @@ export default [
         "link": "https://www.laprovincia.es/opinion/2026/03/19/triunfa-lux-128152010.html",
         "date": "2026-03-19 07:00:02",
         "sentiment_score": -0.0011608302593231201
+    },
+    {
+        "title": "‘Zeta’: James Bond también puede ser Mario Casas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4f2e9dae-8e50-4196-834f-9d01791002ca_16-9-aspect-ratio_default_0_x640y240.jpg",
+        "tags": [
+            "cine",
+            "james bond",
+            "cni",
+            "películas",
+            "amazon"
+        ],
+        "link": "https://www.elperiodicodearagon.com/ocio/cine/criticas/2026/03/19/zeta-james-bond-mario-casas-128185975.html",
+        "date": "2026-03-19 17:42:14",
+        "sentiment_score": -0.2738570123910904
+    },
+    {
+        "title": "Un encuentro que habla más que los pactos: Rufián y Montero frente a la izquierda",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/06/2025040621312922116.jpg",
+        "tags": [
+            "espa&ntilde;a",
+            "izquierda",
+            "psoe",
+            "pol&iacute;tica",
+            "irene-montero",
+            "gabriel rufi&aacute;n"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/gabriel-rufian-irene-montero-reavivan-debate-unidad-izquierda/20260319184106379375.html",
+        "date": "2026-03-19 17:41:06",
+        "sentiment_score": 0.20432031154632568
+    },
+    {
+        "title": "Barcelona y el Arzobispado empiezan las obras de la Capella dels Segadors de Sant Andreu de Palomar",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260319184050_1200.jpg",
+        "tags": [
+            "generalitat de catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-barcelona-arzobispado-empiezan-obras-capella-dels-segadors-sant-andreu-palomar-20260319184050.html",
+        "date": "2026-03-19 17:40:50",
+        "sentiment_score": 0.4789612516760826
+    },
+    {
+        "title": "Paneque ve una \"misión de país\" ofrecer pisos públicos de alquiler asequible",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260319183653_1200.jpg",
+        "tags": [
+            "alquiler",
+            "generalitat de catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-paneque-ve-mision-pais-ofrecer-pisos-publicos-alquiler-asequible-20260319183653.html",
+        "date": "2026-03-19 17:36:53",
+        "sentiment_score": 0.37464143335819244
+    },
+    {
+        "title": "Irene Montero y Gabriel Rufián, nueva pareja de izquierdas",
+        "image_url": "https://album.mediaset.es/eimg/2026/03/19/irene-montero-y-gabriel-rufian-la-nueva-pareja-para-explorar-el-futuro-de-la-izquierda-16-9-aspect-r_da39-2.jpg?w=1024",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.telecinco.es/noticias/espana/20260319/irene-montero-gabriel-rufian-pareja-izquierdas_18_018668697.html",
+        "date": "2026-03-19 17:36:51",
+        "sentiment_score": 0.03423984348773956
+    },
+    {
+        "title": "Colonial SFL mira a Berlín y Múnich para su entrada en Alemania",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/030d441f71221975f64cb98b103ca831/resize/600/assets/multimedia/imagenes/2026/03/19/17739415988903.jpg",
+        "tags": [
+            "catalunya",
+            "mercado inmobiliario",
+            "inmobiliario",
+            "empresas",
+            "cataluńa"
+        ],
+        "link": "https://www.expansion.com/catalunya/2026/03/19/69bc323e468aeb97688b45a0.html",
+        "date": "2026-03-19 17:36:05",
+        "sentiment_score": 0.490539513528347
+    },
+    {
+        "title": "Crean fondo rotatorio para fortalecer la pesca artesanal en Barcelona",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/IMG_4183-scaled.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://ultimasnoticias.com.ve/anzoateggui/crean-fondo-rotatorio-para-fortalecer-la-pesca-artesanal-en-barcelona/",
+        "date": "2026-03-19 17:32:22",
+        "sentiment_score": 0.26167262718081474
+    },
+    {
+        "title": "Los Reyes Felipe VI y Letizia se reunirán mañana con el Papa León XIV en su biblioteca privada en el Vaticano",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260319183104_1200.jpg",
+        "tags": [
+            "letizia",
+            "papa león xiv",
+            "iglesia católica",
+            "casa real"
+        ],
+        "link": "https://www.europapress.es/sociedad/noticia-reyes-felipe-vi-letizia-reuniran-manana-papa-leon-xiv-biblioteca-privada-vaticano-20260319183104.html",
+        "date": "2026-03-19 17:31:04",
+        "sentiment_score": 0.10304458439350128
+    },
+    {
+        "title": "Definidos los cuartos de final de la Champions League tras una intensa ronda de vuelta en octavos",
+        "image_url": "https://noticialdia.com/wp-content/firewall/uploads/2026/03/cuartos-champions-1_13855240_20260318161136-930x450.webp",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://noticialdia.com/deportes/definidos-los-cuartos-de-final-de-la-champions-league-tras-una-intensa-ronda-de-vuelta-en-octavos/",
+        "date": "2026-03-19 17:25:48",
+        "sentiment_score": 0.041773393750190735
+    },
+    {
+        "title": "Quique Llopis y Attaoui lideran las esperanzas de España en Torun",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7c1715bd-c2d0-4e3a-8063-dc510999c7ea_16-9-aspect-ratio_default_0_x854y379.jpg",
+        "tags": [
+            "invierno",
+            "parís",
+            "tokio",
+            "selección española",
+            "españa"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2026/03/19/quique-llopis-lideran-esperanzas-espana-128184896.html",
+        "date": "2026-03-19 17:24:47",
+        "sentiment_score": 0.5243637189269066
+    },
+    {
+        "title": "El Govern abre una segunda convocatoria de solares para alquiler social que incluye la rehabilitación de edificios",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/19/actualidad/1003742743297_15853182_1706x960.jpg",
+        "tags": [
+            "viviendas",
+            "generalitat de catalunya",
+            "vivienda",
+            "economía",
+            "alquiler vivienda"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260319/govern-abre-segunda-convocatoria-solares-alquiler-social-incluye-rehabilitacion-edificios/1003742743335_0.html",
+        "date": "2026-03-19 17:24:24",
+        "sentiment_score": 0.396896630525589
     }
 ];
