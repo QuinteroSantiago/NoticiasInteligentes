@@ -1,432 +1,5 @@
 export default [
     {
-        "title": "Cuando la libertad se convierte en privilegio",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/03/16/elecciones-CYL-kyQB--170x119@diario_abc.jpg",
-        "tags": [
-            "convierte",
-            "libertad",
-            "privilegio"
-        ],
-        "link": "https://www.elcomercio.es/opinion/ana-solis-libertad-convierte-privilegio-20260317204551-nt.html",
-        "date": "2026-03-16 22:46:20",
-        "sentiment_score": 0.04609813541173935
-    },
-    {
-        "title": "Thiago Pitarch desata disputa entre España y Marruecos por su futuro",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/14/2026031401423462627.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/thiago-pitarch-desata-disputa-entre-espana-marruecos-futuro/20260316232222378900.html",
-        "date": "2026-03-16 22:22:22",
-        "sentiment_score": -0.8650468876585364
-    },
-    {
-        "title": "Primark pone a la venta ropa del Real Madrid: estos son los modelos y precios que están arrasando",
-        "image_url": "https://img2.huffingtonpost.es/files/image_720_480/uploads/2025/10/14/el-escudo-del-real-madrid-en-una-camiseta.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/primark-pone-venta-ropa-real-madrid-son-modelos-precios-arrasando-f202603.html",
-        "date": "2026-03-16 22:19:32",
-        "sentiment_score": 0.04128868877887726
-    },
-    {
-        "title": "El rey Felipe VI de España reconoce que en la conquista de América hubo «mucho abuso»",
-        "image_url": "https://lacalle.com.ve/wp-content/uploads/2026/03/AP26075759544534.webp",
-        "tags": [
-            "internacionales"
-        ],
-        "link": "https://lacalle.com.ve/el-rey-felipe-vi-de-espana-reconoce-que-en-la-conquista-de-america-hubo-mucho-abuso/",
-        "date": "2026-03-16 22:14:49",
-        "sentiment_score": -0.7436438240110874
-    },
-    {
-        "title": "La UCO vigiló por Madrid al expresidente de la Diputación de Almería en un viaje «personal» pagado con dinero público",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/03/16/leadalmeria-kAB-RIFs2GWgjKQRACJHVFHyRPP-1200x840@Ideal.jpg",
-        "tags": [
-            "unidad central operativa (uco)",
-            "almería",
-            "partido popular (pp)",
-            "almerimar",
-            "diputación provincial de almería",
-            "madrid (ciudad)",
-            "redes sociales",
-            "instagram",
-            "guardia civil"
-        ],
-        "link": "https://www.ideal.es/almeria/almeria/uco-vigilo-madrid-expresidente-diputacion-almeria-viaje-20260316193225-nt.html",
-        "date": "2026-03-16 22:09:12",
-        "sentiment_score": -0.04825177043676376
-    },
-    {
-        "title": "Ancelotti confirma que Brasil ampliará su contrato hasta el Mundial 2030",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/f54e033/2147483647/strip/true/crop/3379x1774+0+240/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F84%2F26%2Fb4acd3444bd2bf59e6e6c8572880%2Fbb9e05414a854f6e87f2f50dd9a06db0.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-16/ancelotti-confirma-que-brasil-ampliara-su-contrato-hasta-el-mundial-2030",
-        "date": "2026-03-16 22:03:50",
-        "sentiment_score": 0.28814697265625
-    },
-    {
-        "title": "Moeve Fútbol Zone 1x17: El debate definitivo sobre el '9' del Barça",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/381a1510-7aa3-4fb0-9f76-321b50a48dad_16-9-aspect-ratio_default_1445227.jpg",
-        "tags": [
-            "fútbol",
-            "real madrid",
-            "deportes",
-            "la liga",
-            "mbappé"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2026/03/16/moeve-futbol-zone-1x17-debate-128051469.html",
-        "date": "2026-03-16 21:44:47",
-        "sentiment_score": 0.7907150648534298
-    },
-    {
-        "title": "Un acertante de 'La Primitiva' gana más de 126 millones de euros, el mayor premio en la historia del sorteo",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/99b4989db2b708c98753f7aaae23f02f/f/webp/assets/multimedia/imagenes/2026/03/16/17737010520230.jpg",
-        "tags": [
-            "primitiva",
-            "lotería"
-        ],
-        "link": "https://www.elmundo.es/loterias/2026/03/16/69b8877ffc6c83b71d8b456f.html",
-        "date": "2026-03-16 22:44:44",
-        "sentiment_score": 0.17974119633436203
-    },
-    {
-        "title": "Barcelona toma una decisión con Hansi Flick tras la victoria de Laporta",
-        "image_url": "https://pxcdn.meridiano.net/032026/1773700912944.jpg?ch=180&cw=320",
-        "tags": [
-            "entertainment",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/barcelona-toma-una-decision-con-hansi-flick-tras-la-victoria-de-laporta-202631618420",
-        "date": "2026-03-16 22:42:00",
-        "sentiment_score": 0.004743367433547974
-    },
-    {
-        "title": "Un acertante de la Primitiva gana 126 millones de euros, el mayor premio en la historia del sorteo",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/06/03/resultados-primitiva-hoy-numeros-premiados-combinacion-ganadora-kjY--758x531@El%20Correo.jpg",
-        "tags": [
-            "primitiva",
-            "loterías y apuestas del estado",
-            "audiencias"
-        ],
-        "link": "https://www.elcorreo.com/loteria/primitiva/primitiva-lunes-comprobar-resultados-16-marzo-20260316190532-nt.html",
-        "date": "2026-03-16 22:34:37",
-        "sentiment_score": 0.19823288172483444
-    },
-    {
-        "title": "Tribunal ordenó juicio contra jefe de una banda extorsiva en Anzoátegui",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2024/01/Indicios-Ecuador-Fiscal.jpg",
-        "tags": [
-            "sucesos",
-            "actualidad"
-        ],
-        "link": "https://ultimasnoticias.com.ve/sucesos/tribunal-ordeno-juicio-contra-jefe-de-una-banda-extorsiva-en-anzoategui/",
-        "date": "2026-03-16 22:32:31",
-        "sentiment_score": -0.4157644882798195
-    },
-    {
-        "title": "Un acertante se lleva el mayor premio de la historia de La Primitiva: 126 millones de euros",
-        "image_url": "https://okdiario.com/img/2026/03/16/imagen_recortada-2-3.jpg",
-        "tags": [
-            "loterías",
-            "la primitiva"
-        ],
-        "link": "https://okdiario.com/loteria/acertante-lleva-mayor-premio-historia-primitiva-126-millones-euros-16430404",
-        "date": "2026-03-16 22:32:10",
-        "sentiment_score": 0.6045798510313034
-    },
-    {
-        "title": "Vecinos de la Gran Barcelona exigen acabar con la protección indefinida de la vivienda protegida",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/20/actualidad/1003742724914_15620861_1706x960.jpg",
-        "tags": [
-            "generalitat de catalunya",
-            "gran barcelona",
-            "vivienda",
-            "alquiler vivienda"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260316/vecinos-gran-barcelona-exigen-acabar-proteccion-indefinida-vivienda-protegida/1003742684379_0.html",
-        "date": "2026-03-16 22:30:00",
-        "sentiment_score": -0.7912562154233456
-    },
-    {
-        "title": "Badia pedirá salir de la zona tensionada para desbloquear la liberalización de 1.200 viviendas protegidas",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/20/actualidad/1003742724911_15620798_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "vivienda"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260316/badia-pedira-salir-zona-tensionada-desbloquear-liberalizacion-viviendas-protegidas/1003742737833_0.html",
-        "date": "2026-03-16 22:30:00",
-        "sentiment_score": 0.10297298431396484
-    },
-    {
-        "title": "La educación catalana inunda el centro de Barcelona contra un acuerdo \"insultante e indigno\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/16/actualidad/1003742741923_15833451_1706x960.jpg",
-        "tags": [
-            "manifestaciones",
-            "huelga",
-            "el pulso de la ciudad",
-            "educación",
-            "trabajadores",
-            "sindicatos"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260316/educacion-catalana-inunda-centro-barcelona-acuerdo-insultante-indigno/1003742741936_0.html",
-        "date": "2026-03-16 22:30:00",
-        "sentiment_score": 0.1804281622171402
-    },
-    {
-        "title": "Aurora Trigo, profesora en huelga en Barcelona: \"Nos han hecho una propuesta salarial que es un insulto\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/16/actualidad/1003742742083_15835538_1706x960.jpg",
-        "tags": [
-            "huelga",
-            "el pulso de la ciudad",
-            "educación",
-            "trabajadores",
-            "sindicatos"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260316/aurora-trigo-profesora-huelga-barcelona-hecho-propuesta-salarial-insulto/1003742742054_0.html",
-        "date": "2026-03-16 22:30:00",
-        "sentiment_score": -0.7791142277419567
-    },
-    {
-        "title": "Barcelona da el primer paso para desencallar el reivindicado polideportivo de Trinitat Nova",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/16/actualidad/1003742742035_15834905_1706x960.jpg",
-        "tags": [
-            "ayuntamiento de barcelona",
-            "nou barris",
-            "la trinitat nova",
-            "urbanismo",
-            "vivienda"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/nou-barris/20260316/barcelona-da-primer-paso-desencallar-reivindicado-polideportivo-trinitat-nova/1003742742026_0.html",
-        "date": "2026-03-16 22:30:00",
-        "sentiment_score": 0.3875747546553612
-    },
-    {
-        "title": "El 'Criptogate' acorrala a Milei: la Justicia de Argentina sospecha que el presidente cobró una mordida de 5 M de dólares",
-        "image_url": "https://s3.elespanol.com/2026/03/16/actualidad/1003744172276_261978364_1706x960.jpg",
-        "tags": [
-            "javier milei",
-            "argentina",
-            "américa",
-            "latinoamérica"
-        ],
-        "link": "https://www.elespanol.com/mundo/america/20260317/criptogate-acorrala-milei-justicia-argentina-sospecha-presidente-cobro-mordida-dolares/1003744172244_0.html",
-        "date": "2026-03-17 01:47:29",
-        "sentiment_score": -0.842199919745326
-    },
-    {
-        "title": "Jugó en la selección de Italia, tuvo un paso fugaz por Racing y se convirtió en jugador y vicepresidente de un club europeo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "ezequiel schelotto",
-            "deportes-argentina",
-            "fc paradiso"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/17/jugo-en-la-seleccion-de-italia-tuvo-un-paso-fugaz-por-racing-y-se-convirtio-en-jugador-y-vicepresidente-de-un-club-europeo/",
-        "date": "2026-03-17 01:39:14",
-        "sentiment_score": 0.01486051082611084
-    },
-    {
-        "title": "¿Qué importancia tienen los fondos NGEU destinados a I+D+i+d?",
-        "image_url": "https://s3.elespanol.com/2024/10/17/invertia/opinion/894171083_250088015_1706x960.jpg",
-        "tags": [
-            "tribunas de opinión",
-            "opinión"
-        ],
-        "link": "https://www.elespanol.com/invertia/opinion/20260317/importancia-fondos-ngeu-destinados-idid/1003744171312_12.html",
-        "date": "2026-03-17 01:38:35",
-        "sentiment_score": -0.07940715551376343
-    },
-    {
-        "title": "Viagogo entra en venta directa con Sevilla y Betis",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/bb83a96e17a3f7bed81b2e2c9f5fc4bd/crop/651x411/1462x952/f/webp/assets/multimedia/imagenes/2026/03/16/17736972592768.jpg",
-        "tags": [
-            "empresas>",
-            "artículos artur zanón>"
-        ],
-        "link": "https://www.expansion.com/empresas/2026/03/17/69b87a19e5fdea68538b4587.html",
-        "date": "2026-03-17 01:05:08",
-        "sentiment_score": 0.5725182928144932
-    },
-    {
-        "title": "16 MAR 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/16-mar-2026-partidazo-cope-20260317_3327791.html",
-        "date": "2026-03-17 00:50:00",
-        "sentiment_score": 0.2834322154521942
-    },
-    {
-        "title": "Ancelotti convoca a Endrick y deja fuera a Neymar para los amistosos con Francia y Croacia",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe",
-            "internacional",
-            "carlo ancelotti",
-            "brasil",
-            "mundial",
-            "equipo",
-            "futbol",
-            "seleccion"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/17/ancelotti-convoca-a-endrick-y-deja-fuera-a-neymar-para-los-amistosos-con-francia-y-croacia/",
-        "date": "2026-03-17 00:48:53",
-        "sentiment_score": -0.3699212297797203
-    },
-    {
-        "title": "'Yoli goes to Hollywood'",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/02/08/65c41a4046e54.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20260317/yoli-goes-to-hollywood_396774.html",
-        "date": "2026-03-17 00:35:00",
-        "sentiment_score": -0.08516333252191544
-    },
-    {
-        "title": "Quo vadis, Vox?",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2026/03/16/69b840ed187e9.jpeg",
-        "tags": [
-            "en primera línea"
-        ],
-        "link": "https://www.eldebate.com/opinion/en-primera-linea/20260317/quo-vadis-vox_396750.html",
-        "date": "2026-03-17 00:35:00",
-        "sentiment_score": -0.08068905770778656
-    },
-    {
-        "title": "Las becas MEC cambian en 2026",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/17/2026031701335998064.jpg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/dinero/becas-mec-cambian-2026/202603170134511010043.html",
-        "date": "2026-03-17 00:34:51",
-        "sentiment_score": 0.3883887603878975
-    },
-    {
-        "title": "Madrid pone sobre la mesa hasta 150.000 euros para autónomos y pymes",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/17/2026031701302998663.jpg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/dinero/madrid-pone-mesa-150000-euros-autonomos-pymes/202603170130381010041.html",
-        "date": "2026-03-17 00:30:38",
-        "sentiment_score": 0.3662738874554634
-    },
-    {
-        "title": "Sindicatos y gremios se concentraron en la casa sindical de Barcelona para exigir mejores salarios y pensiones",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "gremios",
-            "otras",
-            "locales"
-        ],
-        "link": "https://eltiempove.com/sindicatos-y-gremios-se-concentraron-en-la-casa-sindical-de-barcelona-para-exigir-mejores-salarios-y-pensiones/",
-        "date": "2026-03-17 02:48:35",
-        "sentiment_score": 0.25334715098142624
-    },
-    {
-        "title": "David Cirici firma una novela sobre Llull y su «pasión por las mujeres y Dios»",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4413881.jpg",
-        "tags": [
-            "ramon llull",
-            "cultura en mallorca",
-            "david cirici",
-            "cultura"
-        ],
-        "link": "https://www.ultimahora.es/noticias/cultura/2026/03/17/2590505/david-cirici-firma-novela-sobre-llull-pasion-por-mujeres-dios.html",
-        "date": "2026-03-17 02:48:01",
-        "sentiment_score": 0.1781078726053238
-    },
-    {
-        "title": "Josep R. Cerdà: «Desde que dejé el cargo en el Principal escribo teatro de forma más libre»",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4413783.jpg",
-        "tags": [
-            "institut d'estudis catalans",
-            "josep r. cerdà",
-            "teatre principal de palma",
-            "cultura",
-            "omnium cultural",
-            "teatro en mallorca",
-            "literatura en mallorca"
-        ],
-        "link": "https://www.ultimahora.es/noticias/cultura/2026/03/17/2590445/josep-cerda-desde-deje-cargo-principal-escribo-teatro-forma-mas-libre.html",
-        "date": "2026-03-17 02:48:01",
-        "sentiment_score": -0.08654624223709106
-    },
-    {
-        "title": "El 'same vibes' de Pepe Álvarez y Mojtaba Jameneí",
-        "image_url": "https://s1.staticld.com/2026/02/16/europapress-7246772-secretarios-generales-ccoo-ugt-unai-sordo-pepe-alvarez-rueda-prensa-sede.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/opinion/2026-03-17/pedro-gil-ruiz-el-same-vibes-de-pepe-alvarez-y-mojtaba-jamenei-7375442/",
-        "date": "2026-03-17 02:11:16",
-        "sentiment_score": -0.8480687364935875
-    },
-    {
-        "title": "Pronóstico del clima: las temperaturas esperadas en Barcelona este 17 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
-        "tags": [
-            "clima en barcelona",
-            "clima en españa",
-            "últimas actualizaciones",
-            "clima"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/17/pronostico-del-clima-las-temperaturas-esperadas-en-barcelona-este-17-de-marzo/",
-        "date": "2026-03-17 02:01:29",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "La raqueta solidaria de Emilio Sánchez Vicario en EEUU es por niños vulnerables: \"Tengo que devolver lo que el tenis me dio\"",
-        "image_url": "https://s3.elespanol.com/2026/03/16/actualidad/1003744172121_261976405_1706x960.jpg",
-        "tags": [
-            "objetivo 4: educación de calidad",
-            "objetivo 3: salud y bienestar",
-            "emilio sánchez vicario",
-            "estados unidos",
-            "historias",
-            "infancia",
-            "tenis"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/historias/20260317/raqueta-solidaria-emilio-sanchez-vicario-eeuu-ninos-vulnerables-devolver-tenis-dio/1003744172074_0.html",
-        "date": "2026-03-17 01:47:28",
-        "sentiment_score": 0.31127839535474777
-    },
-    {
-        "title": "Brookfield, Meag y Carlyle entran en residencial con 2.000 millones",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/307776592790a66308b2d227f4516199/crop/156x195/1354x993/f/webp/assets/multimedia/imagenes/2026/03/16/17736873467717.jpg",
-        "tags": [
-            "empresas>",
-            "transporte y turismo>",
-            "artículos rebeca arroyo>"
-        ],
-        "link": "https://www.expansion.com/inmobiliario/mercado/2026/03/17/69b8525ae5fdea377d8b4571.html",
-        "date": "2026-03-17 01:43:27",
-        "sentiment_score": 0.07229245454072952
-    },
-    {
-        "title": "La estrategia de Laporta que aplastó a Font en las urnas: puesta en escena letal desde primera hora de la mañana",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/17/actualidad/1003742742126_15836021_1706x960.jpg",
-        "tags": [
-            "elecciones barça",
-            "joan laporta",
-            "víctor font",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260317/estrategia-laporta-aplasto-font-puesta-escena-primera/1003742742121_0.html",
-        "date": "2026-03-17 01:12:35",
-        "sentiment_score": 0.34668634831905365
-    },
-    {
         "title": "07:00H | 17 MAR 2026 | Herrera en COPE",
         "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67cfe50112eb6.jpeg",
         "tags": [
@@ -3206,5 +2779,251 @@ export default [
         "link": "https://www.informacion.es/cultura/2026/03/20/shakira-anuncia-tres-conciertos-madrid-estadio-entradas-fechas-128199464.html",
         "date": "2026-03-20 07:00:45",
         "sentiment_score": -0.11162659525871277
+    },
+    {
+        "title": "LaLiga recupera su historia con las equipaciones 'retro'",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4418991.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.ultimahora.es/deportes/futbol/2026/03/20/2593527/laliga-recupera-historia-las-equipaciones-retro.html",
+        "date": "2026-03-20 17:32:00",
+        "sentiment_score": 0.4600100480020046
+    },
+    {
+        "title": "La CEOE carga contra la prórroga de alquileres sin valorar las medidas anticrisis",
+        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEABT0MT_L.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://es.investing.com/news/economy-news/la-ceoe-carga-contra-la-prorroga-de-alquileres-sin-valorar-las-medidas-anticrisis-3571865",
+        "date": "2026-03-20 17:31:55",
+        "sentiment_score": -0.7945523280650377
+    },
+    {
+        "title": "Mbappé apunta al derbi tras superar su lesión",
+        "image_url": "https://www.cope.es/files/og_thumbnail/files/fp/uploads/2026/03/20/69bd83a37d90e.r_d.1209-368-0.jpeg",
+        "tags": [
+            "mbappé",
+            "superar",
+            "derbi",
+            "lesión",
+            "apunta"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/mbappe-apunta-derbi-superar-lesion-20260320_3331082.html",
+        "date": "2026-03-20 17:30:50",
+        "sentiment_score": 0.0038002431392669678
+    },
+    {
+        "title": "Un ‘podcaster’ revela el detalle de la Reina Letizia tras rechazar participar en su programa",
+        "image_url": "https://okdiario.com/look/img/2026/03/20/letiz.jpg",
+        "tags": [
+            "letizia"
+        ],
+        "link": "https://okdiario.com/look/casa-real/podcaster-revela-detalle-reina-letizia-rechazar-participar-programa-2507150",
+        "date": "2026-03-20 17:29:19",
+        "sentiment_score": -0.28473517298698425
+    },
+    {
+        "title": "(Previa) FC Barcelona y Real Madrid no quieren fallar en la Liga F Moeve antes de su carrusel de Clásicos",
+        "image_url": "https://www.infobae.com/resizer/v2/U2B7WYSELFCRNMAE7UPNSZA52E.jpg?auth=586df630b9b487e678b72e5075d176943033cfc736a3f49d5b6433d350875b69&smart=true&width=1920&height=1280",
+        "tags": [
+            "liga f moeve",
+            "fútbol femenino",
+            "europapress",
+            "sd eibar",
+            "real madrid",
+            "copa de la reina",
+            "madrid",
+            "athletic club",
+            "clásico",
+            "uefa champions league",
+            "fc barcelona"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/20/previa-fc-barcelona-y-real-madrid-no-quieren-fallar-en-la-liga-f-moeve-antes-de-su-carrusel-de-clasicos/",
+        "date": "2026-03-20 17:19:23",
+        "sentiment_score": -0.010209739208221436
+    },
+    {
+        "title": "Keylor Navas entra en el radar de la Major League Soccer",
+        "image_url": "https://laopinion.com/wp-content/uploads/sites/3/2026/03/Imago-1762554-e1774016246455.jpg",
+        "tags": [
+            "mls",
+            "pumas de la unam",
+            "keylor navas"
+        ],
+        "link": "https://laopinion.com/2026/03/20/keylor-navas-entra-en-el-radar-de-la-major-league-soccer/",
+        "date": "2026-03-20 17:18:25",
+        "sentiment_score": -0.1774650737643242
+    },
+    {
+        "title": "DT de Bélgica convoca a varios jóvenes para amistosos de este mes con México y EEUU",
+        "image_url": "https://www.reuters.com/resizer/v2/WDFCQ42KNNPF5HE5H7RTZ56URE.jpg?auth=4241d1b7f31f1a9ef44848a8a92770c0fa17ad5b2b80050a9bf6e33fdcd19768&smart=true&width=1920",
+        "tags": [
+            "2026:newsml_l6n4080z8:2146037753",
+            "usn:l6n4080z8",
+            "usn:kbn3q21vl",
+            "usn:kbn3q21vm",
+            "2026:newsml_kbn3q21vl",
+            "vguid:tag:reuters.com",
+            "2026:newsml_kbn3q21vm:1",
+            "2026:newsml_kbn3q21vl:1",
+            "guid:tag:reuters.com",
+            "2026:newsml_kbn3q21vm",
+            "2026:newsml_l6n4080z8"
+        ],
+        "link": "https://www.reuters.com/es/deportivo/AQD7QLW6PBIHPEJWZ3QXQVQHUE-2026-03-20/",
+        "date": "2026-03-20 17:12:10",
+        "sentiment_score": 0.14084770902991295
+    },
+    {
+        "title": "España se burla del fracaso de reprogramar la Finalissima ante Argentina con un sketch cómico",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2026/03/AP26079540130652.webp",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://lacalle.com.ve/espana-se-burla-del-fracaso-de-reprogramar-la-finalissima-ante-argentina-con-un-sketch-comico/",
+        "date": "2026-03-20 17:09:20",
+        "sentiment_score": -0.9224302172660828
+    },
+    {
+        "title": "Compás de espera para la renovación de Alexia Putellas",
+        "image_url": "https://static1.ara.cat/clip/0a70fb14-5438-4261-8083-933e3aebeafc_16-9-aspect-ratio_default_1056988.jpg",
+        "tags": [
+            "compas",
+            "alexia",
+            "renovacion",
+            "espera",
+            "putellas"
+        ],
+        "link": "https://es.ara.cat/deportes/barca-femenino/compas-espera-renovacion-alexia-putellas_1_5684624.html",
+        "date": "2026-03-20 17:01:06",
+        "sentiment_score": 0.36826495826244354
+    },
+    {
+        "title": "La venta de la camiseta retro del Córdoba CF, en imágenes",
+        "image_url": "https://static.grupojoly.com/clip/5790c157-9e4d-4216-a375-15db0a3c01eb_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias córdoba",
+            "últimas noticias",
+            "córdoba club de fútbol"
+        ],
+        "link": "https://www.eldiadecordoba.es/cordobacf/venta-camiseta-retro-cordoba-cf-imagenes_3_2006237266.html",
+        "date": "2026-03-20 16:58:24",
+        "sentiment_score": 0.15261903405189514
+    },
+    {
+        "title": "Un donante anónimo de semen en España transmite una enfermedad rara varias veces",
+        "image_url": "https://static.grupojoly.com/clip/cb388690-5b2e-4cc6-b2ca-29aba8fc600c_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "transmite",
+            "semen",
+            "rara",
+            "donante",
+            "enfermedad",
+            "anonimo",
+            "espana"
+        ],
+        "link": "https://www.diariodesevilla.es/salud/donante-anonimo-semen-espana-transmite-enfermedad-rara_0_2006237547.html",
+        "date": "2026-03-20 17:34:49",
+        "sentiment_score": -0.9129320671781898
+    },
+    {
+        "title": "Lesión deja a Cristiano Ronaldo fuera de amistosos de Portugal ante EEUU y México",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2026/03/AP26079531430544.webp",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://lacalle.com.ve/lesion-deja-a-cristiano-ronaldo-fuera-de-amistosos-de-portugal-ante-eeuu-y-mexico/",
+        "date": "2026-03-20 17:32:13",
+        "sentiment_score": -0.21334287524223328
+    },
+    {
+        "title": "La Semana Santa de Sevilla de 2026 tendrá Ley Seca: prohibido vender alcohol al paso de las hermandades y cierre de los bares a las 3.00 en la Madrugá",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/70cfe41f-50aa-46c1-b478-349a3b5cde3a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "veladores",
+            "la madrugá",
+            "bares",
+            "hosteleros",
+            "cofradias",
+            "hermandades"
+        ],
+        "link": "https://www.elcorreoweb.es/semana-santa/2026/03/20/semana-santa-2026-veladores-cierre-bares-venta-alcohol-128230269.html",
+        "date": "2026-03-20 17:31:12",
+        "sentiment_score": -0.21784818172454834
+    },
+    {
+        "title": "El presidente de Xiaomi presenta “Una nueva generación del SU7”: muchos cambios para el eléctrico que (por fin) veremos en España en 2027",
+        "image_url": "https://hips.hearstapps.com/hmg-prod/images/cda0da51-ac41-439d-9069-1404a54de9a0.jpg",
+        "tags": [
+            "displaytype: standard article",
+            "collection: noticias",
+            "subsection: novedades",
+            "shorttitle: un 'nuevo' xiaomi su7 se pone a la venta",
+            "collection: berlinas",
+            "collection: eléctricos",
+            "content-type: default",
+            "locale: es",
+            "contentid: 3b793681-2286-4735-af56-f30a48fb7f32"
+        ],
+        "link": "https://www.caranddriver.com/es/coches/novedades/a70798562/xiaomi-su7-2026/",
+        "date": "2026-03-20 17:30:00",
+        "sentiment_score": 0.1359318494796753
+    },
+    {
+        "title": "Ernesto Valverde dejará la dirección del Athletic Bilbao al final de la temporada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-20/ernesto-valverde-dejara-la-direccion-del-athletic-bilbao-al-final-de-la-temporada",
+        "date": "2026-03-20 17:29:46",
+        "sentiment_score": 0.0694369375705719
+    },
+    {
+        "title": "Las bromas de Ruggeri por su confundida reacción ante una pregunta en portugués durante el sorteo de la Libertadores",
+        "image_url": "https://www.infobae.com/resizer/v2/YIV4DDGYIVH3ZKIVONOPQ5L764.jpg?auth=81b79395c3938ee75647592399e660c7ac8f986eb943f3a8609675f90249a182&smart=true&width=1585&height=772",
+        "tags": [
+            "nery pumpido",
+            "copa sudamericana",
+            "copa libertadores",
+            "conmebol",
+            "óscar ruggeri",
+            "boca juniors"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/20/las-bromas-de-ruggeri-por-su-confundida-reaccion-ante-una-pregunta-en-portugues-durante-el-sorteo-de-la-libertadores/",
+        "date": "2026-03-20 17:26:27",
+        "sentiment_score": -0.4222835674881935
+    },
+    {
+        "title": "Solarprofit activa una nueva reestructuración tras su enfrentamiento con la banca",
+        "image_url": "https://s10.s3c.es/imag/_v0/3888x2592/f/5/f/1200x655_sede_solarprofit.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.eleconomista.es/energia/noticias/13834720/03/26/solarprofit-activa-una-nueva-reestructuracion-tras-su-enfrentamiento-con-la-banca.html",
+        "date": "2026-03-20 17:23:14",
+        "sentiment_score": -0.4972529709339142
+    },
+    {
+        "title": "Radiografía de las violaciones en 'manada' de adolescentes: el 80% son planificadas y en un 22% participan menores de 14 años",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a37f7bc3-4bca-4da2-8070-05c822ab335c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "igualdad",
+            "machismo",
+            "adolescentes",
+            "violencia de género",
+            "niños",
+            "agresión sexual",
+            "violaciones"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/sociedad/2026/03/20/violaciones-manada-menores-14-anos-porno-planificadas-128231019.html",
+        "date": "2026-03-20 17:23:11",
+        "sentiment_score": -0.8549436768516898
     }
 ];
