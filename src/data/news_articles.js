@@ -1,256 +1,5 @@
 export default [
     {
-        "title": "Castellana Properties sigue de compras: se hace con el 50% del centro comercial Splau",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ADXJWOD4MJMLPPGWLFYA6ABTLA.jpg?auth=2ce56d29953f82daeefbc4fe232f700c16baec8319a07de9c82a37653dbdf905",
-        "tags": [
-            "bolsa",
-            "socimi",
-            "mercado inmobiliario",
-            "empresas",
-            "castellana properties",
-            "barcelona",
-            "unibail-rodamco-westfield",
-            "centros comerciales"
-        ],
-        "link": "https://cincodias.elpais.com/companias/2026-03-17/castellana-properties-sigue-de-compras-se-hace-con-el-50-del-centro-comercial-splau-por-175-millones.html",
-        "date": "2026-03-17 17:46:02",
-        "sentiment_score": 0.21155811473727226
-    },
-    {
-        "title": "Colegio de Enfermería de Ciudad Real traslada su apoyo a la concentración del 10 de abril por la carrera profesional",
-        "image_url": "http://st1.lacerca.com/imagenes/view/1f66596424acb0caa6f20122b2614c32.jpg",
-        "tags": [
-            "colegio",
-            "apoyo",
-            "profesional",
-            "concentracion",
-            "traslada",
-            "enfermeria",
-            "real",
-            "abril",
-            "carrera",
-            "10",
-            "ciudad"
-        ],
-        "link": "https://www.lacerca.com/noticias/ciudad_real/colegio-ciudad-real-apoyo-concentracion-abril-carrera-profesional-806394-1.html",
-        "date": "2026-03-17 17:35:00",
-        "sentiment_score": 0.15198414772748947
-    },
-    {
-        "title": "La pesadez e hinchazón de piernas pueden ser una señal de complicación vascular",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260317183410_1200.jpg",
-        "tags": [
-            "science",
-            "health"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-pesadez-hinchazon-piernas-pueden-ser-senal-complicacion-vascular-20260317183410.html",
-        "date": "2026-03-17 17:34:10",
-        "sentiment_score": -0.7259153071790934
-    },
-    {
-        "title": "Comienza el juicio contra Alquiler Seguro por cobros ilegales de honorarios y retención de depósitos de fianza",
-        "image_url": "https://www.elplural.com/uploads/s1/19/45/04/9/calle-bajada-de-la-libertad-jpg.jpeg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elplural.com/sociedad/tribunales/comienza-juicio-contra-alquiler-seguro-cobros-ilegales-honorarios-retencion-depositos-fianza_384415102",
-        "date": "2026-03-17 17:26:43",
-        "sentiment_score": -0.1769496351480484
-    },
-    {
-        "title": "Los mejores robots educativos de Andalucía compiten en Málaga",
-        "image_url": "https://static.grupojoly.com/clip/c6ca07ec-669b-411f-8d46-534bb62e91a9_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/mejores-robots-educativos-andalucia-compiten_0_2006206933.html",
-        "date": "2026-03-17 17:22:30",
-        "sentiment_score": 0.20228216797113419
-    },
-    {
-        "title": "Castilla-La Mancha registró 900 denuncias por desaparición en 2025",
-        "image_url": "https://www.clm24.es/media/clm24/images/2026/03/16/2026031616091110427.jpg",
-        "tags": [
-            "sucesos",
-            "desaparecidos"
-        ],
-        "link": "https://www.clm24.es/articulo/sociedad/castilla-mancha-registro-900-denuncias-desaparicion-2025/20260317181707473201.html",
-        "date": "2026-03-17 17:17:07",
-        "sentiment_score": -0.6795201860368252
-    },
-    {
-        "title": "\"¿El delantero centro de la selección? Raúl García de Haro\"",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/df58dcb3-95b6-41d2-85eb-50c4eb3d8e48_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "de la fuente",
-            "barcelona",
-            "raul moro",
-            "garcia",
-            "dazn",
-            "convocatoria",
-            "seleccion",
-            "raul",
-            "selección española",
-            "delantero",
-            "españa",
-            "osasuna",
-            "raúl garcía",
-            "centro"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2026/03/17/delantero-centro-seleccion-raul-garcia-espana-de-la-fuente-convocatoria-raul-moro-dazn-10833728.html",
-        "date": "2026-03-17 17:15:10",
-        "sentiment_score": -0.32182776927948
-    },
-    {
-        "title": "¿Qué dice la IA sobre la permanencia del Real Oviedo? Las cinco claves para luchar por quedarse en Primera División",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9afb0d19-d723-49de-b144-1beabe5eea93_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "mallorca",
-            "primera división",
-            "levante",
-            "real oviedo"
-        ],
-        "link": "https://www.lne.es/real-oviedo/2026/03/17/dice-ia-permanencia-real-oviedo-128085868.html",
-        "date": "2026-03-17 17:13:57",
-        "sentiment_score": 0.4094938039779663
-    },
-    {
-        "title": "17:00H | 17 MAR 2026 | La Tarde",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67d05b36b2414.jpeg",
-        "tags": [
-            "00h",
-            "17",
-            "mar",
-            "2026"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-17-mar-2026-tarde-20260317_3328527.html",
-        "date": "2026-03-17 17:05:00",
-        "sentiment_score": -0.14525607228279114
-    },
-    {
-        "title": "Aprobada la declaración como Bien de Interés Cultural del Puente de Cruzul, en Becerreá (Lugo)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "sergas",
-            "mundial 2030"
-        ],
-        "link": "https://www.galiciapress.es/articulo/ultima-hora/2026-03-17/5812427-aprobada-declaracion-como-bien-interes-cultural-puente-cruzul-becerrea-lugo",
-        "date": "2026-03-17 17:03:04",
-        "sentiment_score": 0.22393209487199783
-    },
-    {
-        "title": "Cataluña refuerza con 5 millones de euros el dispositivo contra la peste porcina",
-        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB280W7_L.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://es.investing.com/news/stock-market-news/cataluna-refuerza-con-5-millones-de-euros-el-dispositivo-contra-la-peste-porcina-3566032",
-        "date": "2026-03-17 17:53:35",
-        "sentiment_score": -0.23171144723892212
-    },
-    {
-        "title": "Los consumidores de Ozempic; gastan un 3,1 % menos en alimentación y bebidas",
-        "image_url": "https://imagenes.esdiario.com/files/og_thumbnail/uploads/2026/03/17/69b994c8caa43.jpeg",
-        "tags": [
-            "medicamentos",
-            "consumidores",
-            "alimentación",
-            "españa",
-            "bebidas"
-        ],
-        "link": "https://www.esdiario.com/economia/260317/182700/consumidores-ozempic-gastan-3-1-alimentacion-bebidas.html",
-        "date": "2026-03-17 17:52:27",
-        "sentiment_score": 0.024171851575374603
-    },
-    {
-        "title": "Dos médicos de Zaragoza, entre los 50 mejores del sector privado en España en 2025",
-        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/03/17/69b99463b663c3-45100554.jpeg",
-        "tags": [
-            "zaragoza",
-            "entre",
-            "médicos",
-            "los",
-            "dos"
-        ],
-        "link": "https://www.heraldo.es/noticias/aragon/2026/03/17/dos-medicos-zaragoza-entre-50-mejores-sector-privado-espana-2025-2002227.html",
-        "date": "2026-03-17 17:50:43",
-        "sentiment_score": 0.7951777148991823
-    },
-    {
-        "title": "Vox denuncia el «retiro dorado» de Iceta mientras los españoles «sufren las nefastas políticas de vivienda» del Gobierno",
-        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/files/fp/uploads/2023/09/01/64f222bd9824b.r_d.966-349-0.jpeg",
-        "tags": [
-            "vox",
-            "iceta",
-            "denuncia",
-            "dorado",
-            "retiro"
-        ],
-        "link": "https://www.eldebate.com/espana/20260317/vox-denuncia-retiro-dorado-iceta-mientras-espanoles-sufren-nefastas-politicas-vivienda-gobierno_397204.html",
-        "date": "2026-03-17 17:49:47",
-        "sentiment_score": -0.8730258662253618
-    },
-    {
-        "title": "El Papa visitará Montserrat el 10 de junio",
-        "image_url": "https://www.eldiadevalladolid.com/media/img/2026/470aa650-c453-41bb-9174818c5fc5ccae.jpg",
-        "tags": [
-            "barcelona",
-            "logística",
-            "abusos sexuales",
-            "españa",
-            "santa cruz de tenerife",
-            "conferencia episcopal",
-            "religión",
-            "roma",
-            "madrid",
-            "vaticano",
-            "el hierro",
-            "tenerife",
-            "antoni gaudí",
-            "iglesia católica",
-            "sagrada familia",
-            "corpus christi",
-            "santiago bernabéu",
-            "gran canaria",
-            "congreso de los diputados"
-        ],
-        "link": "https://www.eldiadevalladolid.com/noticia/z1d493fc0-4697-42ac-abd12247cb962d69/202603/el-papa-visitara-montserrat-el-10-de-junio",
-        "date": "2026-03-17 17:49:23",
-        "sentiment_score": 0.06238408014178276
-    },
-    {
-        "title": "Ya es oficial: El Papa León XVI celebrará una misa masiva en Tenerife para cerrar su gira",
-        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2026/01/papa-leon-xiv.jpg",
-        "tags": [
-            "papa león"
-        ],
-        "link": "https://diariodeavisos.elespanol.com/2026/03/papa-leon-misa-masiva-tenerife/",
-        "date": "2026-03-17 17:49:00",
-        "sentiment_score": 0.10342485085129738
-    },
-    {
-        "title": "Elche | Un estudio de la calidad del aire de Margalló muestra que la estación autonómica en Elche no cumple con su función",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1528484.jpg",
-        "tags": [
-            "aire",
-            "medio ambiente",
-            "elche"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/elcheplaza/un-estudio-de-la-calidad-del-aire-de-margallo-muestra-que-la-estacion-autonomica-en-elche-no-cumple-con-su-funcion",
-        "date": "2026-03-17 17:46:07",
-        "sentiment_score": -0.6840919181704521
-    },
-    {
-        "title": "La Generalitat aprueba el convenio con el Gobierno para la creación del primer centro de semiconductores avanzados de Cataluña",
-        "image_url": "https://www.elplural.com/uploads/s1/24/97/05/1/sincrotron-alba_17_1200x630.jpeg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elplural.com/autonomias/cataluna/generalitat-aprueba-firma-convenio-gobierno-creacion-primer-centro-semiconductores-avanzados-cataluna_384434102",
-        "date": "2026-03-17 17:42:58",
-        "sentiment_score": -0.03718654811382294
-    },
-    {
         "title": "Aeropuertos en EE.UU. colapsan tras renuncias de agentes de la TSA por cierre parcial del Gobierno",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -3257,5 +3006,222 @@ export default [
         "link": "https://meridiano.net/futbol/barcelona-se-ahorro-una-millonada-de-650-millones-y-hay-datos-que-lo-respaldan-202632020100",
         "date": "2026-03-21 00:14:00",
         "sentiment_score": 0.4932907111942768
+    },
+    {
+        "title": "Mourinho despide a Silvino Louro con un mensaje que emociona al fútbol mundial",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/30/2026013013070771239.jpg",
+        "tags": [
+            "portugal",
+            "jos&eacute; mourinho",
+            "inter-de-mil&aacute;n",
+            "silvino louro",
+            "chelsea-fc",
+            "real madrid"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/mourinho-despide-silvino-louro-mensaje-que-emociona-futbol-mundial/20260321074454379581.html",
+        "date": "2026-03-21 06:44:54",
+        "sentiment_score": 0.15001460909843445
+    },
+    {
+        "title": "La gesta del Basconia de Iribar en el Viejo Zorrilla",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2026/03/21/montoVistAtras-kbiG-U201324315821sHB-758x531@El%20Norte.jpg",
+        "tags": [
+            "basconia",
+            "estadio josé zorrilla",
+            "athletic de bilbao",
+            "iribar",
+            "viejo",
+            "copa del rey de fútbol",
+            "real valladolid club de fútbol",
+            "atlético de madrid",
+            "gesta",
+            "zorrilla"
+        ],
+        "link": "https://www.elnortedecastilla.es/realvalladolid/gesta-basconia-iribar-viejo-zorrilla-20260321074424-nt.html",
+        "date": "2026-03-21 06:44:26",
+        "sentiment_score": -0.08992038667201996
+    },
+    {
+        "title": "El portero goleador",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2026/03/20/goleador-samperio-kT6F--758x531@Diario%20Montanes.jpg",
+        "tags": [
+            "campos de sport de el sardinero",
+            "goleador",
+            "real racing club",
+            "portero"
+        ],
+        "link": "https://www.eldiariomontanes.es/deportes/racing/raul-gomez-samperio-portero-goleador-20260321212926-nt.html",
+        "date": "2026-03-21 06:39:11",
+        "sentiment_score": 0.1673385500907898
+    },
+    {
+        "title": "Una batalla tras otra",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2026/03/20/Imagen%20racing_1-ksu--758x531@Diario%20Montanes.jpg",
+        "tags": [
+            "albacete",
+            "fútbol",
+            "real racing club",
+            "segunda división"
+        ],
+        "link": "https://www.eldiariomontanes.es/deportes/racing/batalla-tras-20260321222624-nt.html",
+        "date": "2026-03-21 06:39:04",
+        "sentiment_score": 0.1580379158258438
+    },
+    {
+        "title": "Suena cruel pero la ciencia lo avala: Madrid retira más de 4.000 animales de especies invasoras que alteran el entorno local",
+        "image_url": "https://okdiario.com/img/2026/03/19/suena-cruel-pero-la-ciencia-lo-avala-madrid-retira-mas-de-4.000-animales-de-especies-invasoras-que-alteran-el-entorno-local.jpg",
+        "tags": [
+            "animales",
+            "ciencia",
+            "madrid",
+            "okd"
+        ],
+        "link": "https://okdiario.com/madrid/suena-cruel-pero-ciencia-lo-avala-madrid-retira-mas-4-000-animales-especies-invasoras-que-alteran-entorno-local-16446860",
+        "date": "2026-03-21 06:30:57",
+        "sentiment_score": -0.8579993098974228
+    },
+    {
+        "title": "El extraño misterio familiar que rodea a Sonsoles Espinosa, mujer de Zapatero",
+        "image_url": "https://theobjective.com/wp-content/uploads/2024/08/zapatero-sonso.jpg",
+        "tags": [
+            "josé luis rodríguez zapatero",
+            "celebrities"
+        ],
+        "link": "https://theobjective.com/gente/2026-03-21/el-extrano-misterio-familiar-que-rodea-a-sonsoles-espinosa-mujer-de-zapatero/",
+        "date": "2026-03-21 06:30:00",
+        "sentiment_score": 0.4352450370788574
+    },
+    {
+        "title": "El destino del Real Madrid en manos de Lunin: gloria o desastre",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/21/2026032107262993518.jpg",
+        "tags": [
+            "champions league",
+            "real madrid",
+            "thibaut-courtois",
+            "laliga",
+            "andriy lunin",
+            "lunin"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/lunin-manga-que-puede-salvar-hundir-temporada-madrid/20260321072707379580.html",
+        "date": "2026-03-21 06:27:07",
+        "sentiment_score": 0.6648044362664223
+    },
+    {
+        "title": "“La clave más sobresaliente de la Semana Santa segoviana es su densidad espiritual”",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2026/03/Oscar-Garcia5.jpeg",
+        "tags": [
+            "semana santa segoviana"
+        ],
+        "link": "https://eladelantado.com/segovia/2026/03/21/la-clave-mas-sobresaliente-de-la-semana-santa-segoviana-es-su-densidad-espiritual/",
+        "date": "2026-03-21 06:24:18",
+        "sentiment_score": -0.36666078120470047
+    },
+    {
+        "title": "Víctor Muñoz, el 12o rojillo en la selección",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/766ab694-6278-4bd6-a2c4-803357795c7a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "selección española",
+            "12o",
+            "victor",
+            "fútbol",
+            "munoz",
+            "luis de la fuente",
+            "rojillo",
+            "seleccion",
+            "osasuna",
+            "víctor muñoz"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2026/03/21/victor-munoz-12o-rojillo-seleccion-10846802.html",
+        "date": "2026-03-21 06:10:16",
+        "sentiment_score": 0.1145307719707489
+    },
+    {
+        "title": "Un Quijote en los pasillos de la memoria",
+        "image_url": "https://static.grupojoly.com/clip/7f2af67e-be89-4194-b93a-6f5f958eb699_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "quijote",
+            "memoria",
+            "pasillos"
+        ],
+        "link": "https://www.malagahoy.es/ocio/quijote-pasillos-memoria_0_2006227447.html",
+        "date": "2026-03-21 06:02:50",
+        "sentiment_score": -0.09079737961292267
+    },
+    {
+        "title": "Ya basta",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/affe3add-e58e-4042-90f4-f73ad41dc2d8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "presupuestos",
+            "irán",
+            "barcelona",
+            "guerra",
+            "irene montero",
+            "público",
+            "basta",
+            "huelga"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/opinion/2026/03/21/basta-10847320.html",
+        "date": "2026-03-21 06:48:07",
+        "sentiment_score": -0.537632942199707
+    },
+    {
+        "title": "Gaztambide 37, el último caso de resistencia vecinal ante el \"acoso inmobiliario\" en Madrid: \"Alfombra roja a los fondos buitre\"",
+        "image_url": "https://www.elplural.com/uploads/s1/24/99/16/7/diseno-sin-titulo-2026-03-18t183533-715_17_1200x630.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.elplural.com/autonomias/madrid/gaztambide-37-ultimo-caso-resistencia-vecinal-acoso-inmobiliario-madrid-alfombra-roja-fondos-buitre_384570102",
+        "date": "2026-03-21 06:46:12",
+        "sentiment_score": -0.2023306041955948
+    },
+    {
+        "title": "La Ciudad participa en la feria B-Travel de Barcelona para promocionar Melilla como destino turístico estratégico",
+        "image_url": "https://melillahoy.es/wp-content/uploads/2026/03/feria-btravel-barcelona-melilla.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://melillahoy.es/la-ciudad-participa-en-la-feria-b-travel-de-barcelona-para-promocionar-melilla-como-destino-turistico-estrategico/",
+        "date": "2026-03-21 06:45:25",
+        "sentiment_score": 0.5614723674952984
+    },
+    {
+        "title": "El Cunqueiro investiga el uso de la IA para predecir el suicidio",
+        "image_url": "https://static.laregion.es/clip/818cd577-893b-4a98-a44a-3aaf17707bf6_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "hospital álvaro cunqueiro",
+            "sanidad"
+        ],
+        "link": "https://www.atlantico.net/vigo/cunqueiro-investiga-ia-predecir-suicidio_1_20260321-4207613.html",
+        "date": "2026-03-21 06:30:04",
+        "sentiment_score": 0.0011847391724586487
+    },
+    {
+        "title": "Barcelona, en fallas: paella y actividades varias este fin de semana cerca del mar",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fad25c06-c56b-478e-8e8c-a47fd1fa7b87_alta-libre-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "conciertos",
+            "valencia",
+            "qué hacer hoy en barcelona",
+            "fallas de valencia",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20260321/fallas-fiesta-barcelona-conciertos-actividades-paella-poblenou-dv-loc-128183693",
+        "date": "2026-03-21 06:20:09",
+        "sentiment_score": -0.1398022323846817
+    },
+    {
+        "title": "AEMET prevé un día soleado y estable en Barcelona con viento suave y algunas nubes altas",
+        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
+        "tags": [
+            "tiempo",
+            "previsión del tiempo",
+            "okd",
+            "cataluña",
+            "agencia estatal de meteorología (aemet)"
+        ],
+        "link": "https://okdiario.com/cataluna/aemet-preve-un-dia-soleado-y-estable-en-barcelona-con-viento-suave-y-algunas-nubes-altas-16458955",
+        "date": "2026-03-21 06:19:31",
+        "sentiment_score": 0.15813586115837097
     }
 ];
