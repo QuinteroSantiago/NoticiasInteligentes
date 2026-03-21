@@ -3005,5 +3005,257 @@ export default [
         "link": "https://www.eldia.es/deportes/cb-canarias/2026/03/20/la-laguna-tenerife-unicaja-de-malaga-liga-endesa-128237817.html",
         "date": "2026-03-20 21:48:35",
         "sentiment_score": -0.10353595018386841
+    },
+    {
+        "title": "Yunior García, opositor cubano asilado en España: \"Apoyar a un régimen así y llamarse progresista es muy hipócrita\"",
+        "image_url": "https://s3.elespanol.com/2026/03/20/actualidad/1003744177917_262051255_1706x990.jpg",
+        "tags": [
+            "podemos",
+            "marco rubio",
+            "cuba",
+            "américa",
+            "negociaciones",
+            "bloqueo económico",
+            "estados unidos",
+            "raúl castro",
+            "fidel castro",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/espana/20260321/yunior-garcia-opositor-cubano-asilado-espana-apoyar-regimen-llamarse-progresista-hipocrita/1003744177642_0.html",
+        "date": "2026-03-21 02:12:26",
+        "sentiment_score": -0.9316672338172793
+    },
+    {
+        "title": "Fútbol robado",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "robado",
+            "futbol"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/articulos/futbol-robado_0_2006239585.html",
+        "date": "2026-03-21 02:08:37",
+        "sentiment_score": -0.06100797653198242
+    },
+    {
+        "title": "Scaloni sumó dos jugadores para el amistoso ante Mauritania",
+        "image_url": "https://pxbcdn.diariohuarpe.com/huarpe/092024/1725841518836.jpg",
+        "tags": [
+            "cambios",
+            "argentina",
+            "la bombonera",
+            "selección argentina",
+            "amistoso"
+        ],
+        "link": "https://www.diariohuarpe.com/nota/scaloni-agrego-a-mastantuono-y-panichelli-para-el-amistoso-argentino-20263202320",
+        "date": "2026-03-21 02:07:32",
+        "sentiment_score": -0.45760786533355713
+    },
+    {
+        "title": "Argentina reemplaza a Guatemala por Zambia para amistoso de fecha FIFA",
+        "image_url": "https://laopinion.com/wp-content/uploads/sites/3/2025/10/AP23318859007939-e1759530228871.jpg",
+        "tags": [
+            "copa mundial de la fifa",
+            "selección argentina"
+        ],
+        "link": "https://laopinion.com/2026/03/20/argentina-reemplaza-a-guatemala-por-zambia-para-amistoso-de-fecha-fifa/",
+        "date": "2026-03-21 01:32:36",
+        "sentiment_score": -0.4676418248564005
+    },
+    {
+        "title": "Ernesto Cherquis Bialo retratado en cinco historias mínimas: el boxeo, la redacción de “El Gráfico” y la ética periodística",
+        "image_url": "https://www.infobae.com/resizer/v2/M5DW4ZALVJCHJF3YRM6GM5DXOQ.jpg?auth=c213ae0fefc69eb67631a5e292fe06f6217ae009310796e6458cafce8cecc155&smart=true&width=1920&height=1080",
+        "tags": [
+            "ernesto cherquis bialo"
+        ],
+        "link": "https://www.infobae.com/sociedad/2026/03/21/ernesto-cherquis-bialo-retratado-en-cinco-historias-minimas-el-boxeo-la-redaccion-de-el-grafico-y-la-etica-periodistica/",
+        "date": "2026-03-21 01:17:28",
+        "sentiment_score": 0.3566454201936722
+    },
+    {
+        "title": "Keylor Navas sigue con Pumas UNAM un año más a los 39 años",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-20/keylor-navas-sigue-con-pumas-unam-un-ano-mas-los-39-anos",
+        "date": "2026-03-21 01:16:52",
+        "sentiment_score": 0.27995462715625763
+    },
+    {
+        "title": "Vanderlei Luxemburgo, exentrenador del Real Madrid, en cuidados intensivos por infección pulmonar",
+        "image_url": "https://laopinion.com/wp-content/uploads/sites/3/2026/03/AP050106020220.jpg",
+        "tags": [
+            "real madrid",
+            "selección brasil"
+        ],
+        "link": "https://laopinion.com/2026/03/20/vanderlei-luxemburgo-exentrenador-del-real-madrid-en-cuidados-intensivos-por-infeccion-pulmonar/",
+        "date": "2026-03-21 00:50:46",
+        "sentiment_score": -0.06819337233901024
+    },
+    {
+        "title": "Jimmy Gracey cayó al mar \"de forma accidental\" tras irse de la discoteca y no salió: su móvil lo cogió del espigón un paquistaní",
+        "image_url": "https://s3.elespanol.com/2026/03/20/actualidad/1003744178014_262052527_1706x960.jpg",
+        "tags": [
+            "reportajes",
+            "reportajes-newsletter",
+            "guardia urbana",
+            "investigación policial",
+            "eeuu",
+            "barcelona",
+            "porfolio",
+            "mozos de escuadra (mossos d'esquadra)",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260321/jimmy-gracey-cayo-mar-forma-accidental-irse-discoteca-no-salio-movil-cogio-espigon-paquistani/1003744177774_0.html",
+        "date": "2026-03-21 00:40:00",
+        "sentiment_score": -0.7550937440246344
+    },
+    {
+        "title": "Lidia Bedman, la \"encantadora\" influencer que llevaba las redes de Vidal-Quadras mientras le espiaba para su marido Abascal",
+        "image_url": "https://s3.elespanol.com/2026/03/20/actualidad/1003744178224_262055850_1706x960.jpg",
+        "tags": [
+            "reportajes",
+            "reportajes-newsletter",
+            "juan garcía-gallardo frings",
+            "política",
+            "santiago abascal",
+            "vox",
+            "partidos políticos",
+            "porfolio",
+            "españa",
+            "javier ortega smith"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260321/lidia-bedman-encantadora-influencer-llevaba-redes-vidal-quadras-espiaba-marido-abascal/1003744177853_0.html",
+        "date": "2026-03-21 00:40:00",
+        "sentiment_score": -0.9031702941283584
+    },
+    {
+        "title": "20 MAR 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/06/10/684828a972448.jpeg",
+        "tags": [
+            "20",
+            "mar",
+            "partidazo",
+            "2026",
+            "cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/20-mar-2026-partidazo-cope-20260321_3331174.html",
+        "date": "2026-03-21 00:40:00",
+        "sentiment_score": 0.02628098428249359
+    },
+    {
+        "title": "Un donante de semen anónimo transfiere una enfermedad rara a, al menos, tres hijos: \"Ninguna ley obliga a mirar ciertos genes\"",
+        "image_url": "https://s3.elespanol.com/2025/05/26/ciencia/salud/1003743775454_255914961_1706x960.jpg",
+        "tags": [
+            "reproducción asistida",
+            "genética",
+            "enfermedades raras",
+            "ciencia",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/ciencia/20260321/donante-semen-anonimo-transfiere-enfermedad-rara-hijos-ninguna-ley-obliga-mirar-ciertos-genes/1003744178431_0.html",
+        "date": "2026-03-21 02:12:30",
+        "sentiment_score": -0.840170631185174
+    },
+    {
+        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 21 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&smart=true&width=1920&height=1080",
+        "tags": [
+            "clima en barcelona",
+            "últimas actualizaciones",
+            "clima en españa",
+            "clima"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/21/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-21-de-marzo/",
+        "date": "2026-03-21 02:00:58",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Venezolanos Rafa y Chinin están listos para conquistar España",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2022/03/ImagenUN.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://ultimasnoticias.com.ve/chevere/rafa-y-chinin-daran-conciertos-en-espana/",
+        "date": "2026-03-21 00:46:57",
+        "sentiment_score": 0.28540920838713646
+    },
+    {
+        "title": "Daniel, de repartir flyers a hacer con 28 años de su festival Blackworks una referencia mundial del 'hard techno'",
+        "image_url": "https://s3.elespanol.com/2026/03/20/madrid/1003744178182_262055112_1706x960.jpg",
+        "tags": [
+            "ocio",
+            "ifema",
+            "festivales de música",
+            "hard techno",
+            "ocio nocturno"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20260321/daniel-repartir-flyers-hacer-anos-festival-blackworks-referencia-mundial-hard-techno/1003744175372_0.html",
+        "date": "2026-03-21 00:40:00",
+        "sentiment_score": 0.06492904946208
+    },
+    {
+        "title": "Adriana Cabot, de estudiar turismo a trabajar como pastelera para Inditex: tiene dulces en el top 10 de España",
+        "image_url": "https://s3.elespanol.com/2026/03/20/actualidad/1003744177892_262050868_1706x960.jpg",
+        "tags": [
+            "arteixo",
+            "galicia",
+            "a coruña",
+            "gastrocoruña",
+            "comarca de a coruña",
+            "pastelerías"
+        ],
+        "link": "https://www.elespanol.com/quincemil/vivir/gastrocoruna/20260321/adriana-cabot-estudiar-turismo-trabajar-pastelera-inditex-dulces-top-espana-dl/1003744175665_0.html",
+        "date": "2026-03-21 00:40:00",
+        "sentiment_score": 0.37292805314064026
+    },
+    {
+        "title": "Laporta subirá el presupuesto del Barça de basket a los 35 millones de euros en la temporada 26-27",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/06/03/culemania/secciones/860174142_13035558_1706x960.jpg",
+        "tags": [
+            "juan carlos navarro",
+            "palco",
+            "baloncesto",
+            "fcb basket",
+            "xavi pascual"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260321/laporta-subira-presupuesto-barca-basket-millones-temporada/1003742743992_0.html",
+        "date": "2026-03-21 00:25:21",
+        "sentiment_score": 0.10820502042770386
+    },
+    {
+        "title": "El curioso homenaje de la ciudad de Jaén a Ricardo Darín al enterarse que la eligió como lugar de “nacimiento”",
+        "image_url": "https://www.infobae.com/resizer/v2/6MVIERVNBNDTLLJLBOVLBEA6SA.jpg?auth=3c3e2261f9e2afadc55ce795f28987ee817743bc06d5a369df3cbf4218a15125&smart=true&width=1920&height=1080",
+        "tags": [
+            "ciudadanía española",
+            "ricardo darín",
+            "jaén"
+        ],
+        "link": "https://www.infobae.com/teleshow/2026/03/21/el-curioso-homenaje-de-la-ciudad-de-jaen-a-ricardo-darin-al-enterarse-que-la-eligio-como-lugar-de-nacimiento/",
+        "date": "2026-03-21 00:23:46",
+        "sentiment_score": 0.3138531595468521
+    },
+    {
+        "title": "España anuncia convocatoria mundialista liderada por el FC Barcelona",
+        "image_url": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo-6-6ea3ad.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://noticiasvenevision.com/noticias/deportes/espana-anuncia-convocatoria-mundialista-liderada-por-el-fc-barcelona",
+        "date": "2026-03-21 00:15:00",
+        "sentiment_score": 0.11848820745944977
+    },
+    {
+        "title": "Barcelona se 'ahorró' una millonada de 620 millones y hay datos que lo respaldan",
+        "image_url": "https://pxcdn.meridiano.net/032026/1774051798059.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/barcelona-se-ahorro-una-millonada-de-650-millones-y-hay-datos-que-lo-respaldan-202632020100",
+        "date": "2026-03-21 00:14:00",
+        "sentiment_score": 0.4932907111942768
     }
 ];
