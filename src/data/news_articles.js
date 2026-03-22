@@ -1,260 +1,5 @@
 export default [
     {
-        "title": "Un centenar de becas de la Fundación \"la Caixa\" para atraer y retener el talento de jóvenes investigadores",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/58af44eb-df6e-427a-ba70-a526dfe76c1d_16-9-aspect-ratio_default_0_x532y236.jpg",
-        "tags": [
-            "jóvenes",
-            "portugal",
-            "comunitat valenciana",
-            "becas",
-            "españa",
-            "investigación",
-            "ayudas"
-        ],
-        "link": "https://www.levante-emv.com/comunitat-valenciana/2026/03/18/centenar-becas-fundacion-caixa-atraer-128087006.html",
-        "date": "2026-03-18 17:40:43",
-        "sentiment_score": 0.7214950993657112
-    },
-    {
-        "title": "Revancha de los octavos de la Champions League: partidos, resultados, fechas, horarios y cómo sigue",
-        "image_url": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-        "tags": [
-            "top"
-        ],
-        "link": "https://krdo.com/news/2026/03/18/revancha-de-los-octavos-de-la-champions-league-partidos-fechas-horarios-y-como-sigue/",
-        "date": "2026-03-18 17:39:00",
-        "sentiment_score": 0.1981481984257698
-    },
-    {
-        "title": "Lionel Scaloni dio a conocer la última lista de la selección argentina antes del Mundial 2026 con varias sorpresas",
-        "image_url": "https://www.infobae.com/resizer/v2/XKZ34SULWJC5XH6RINH7KQZJAY.JPG?auth=47a747d10abb799d67dea3b84b147e3687ce1add414e7540b23a30499419a6be&smart=true&width=4770&height=2683",
-        "tags": [
-            "lionel scaloni",
-            "seleccion de guatemala",
-            "mundial 2026",
-            "lionel messi",
-            "selección argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/18/lionel-scaloni-dio-a-conocer-la-ultima-lista-de-la-seleccion-argentina-antes-del-mundial-2026-con-varias-sorpresas/",
-        "date": "2026-03-18 17:38:09",
-        "sentiment_score": 0.23154537752270699
-    },
-    {
-        "title": "Fallece Manuel Etura, uno de los once aldeanos del Athletic",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/52e01983-faef-4663-b91c-22ad590987fc_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "supervivientes",
-            "manuel",
-            "fallece",
-            "aldeanos",
-            "león",
-            "etura",
-            "once",
-            "athletic"
-        ],
-        "link": "https://www.deia.eus/athletic/2026/03/18/fallece-manuel-etura-once-aldeanos-athletic-10838211.html",
-        "date": "2026-03-18 17:36:31",
-        "sentiment_score": -0.8919087098911405
-    },
-    {
-        "title": "Drones autónomos, cirugía de precisión y satélites: la tecnología española que redefine el futuro se exhibe en Matadero",
-        "image_url": "https://album.mediaset.es/eimg/2026/03/18/ingenieros-e-investigadores-presentan-en-matadero-innovaciones-tecnologicas-16-9-aspect-ratio-defaul_da39.png?w=1024",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.telecinco.es/noticias/ciencia-y-tecnologia/ia/20260318/drones-autonomos-cirujia-precision-satelites-tecnologia-espanola-futuro-exhibicion-matadero_18_018655863.html",
-        "date": "2026-03-18 17:34:45",
-        "sentiment_score": 0.5780967064201832
-    },
-    {
-        "title": "Isra Salazar se recupera en el Nuevo Vivero",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5d4c8da7-d564-46cd-a3ab-30f5d0c22b48_16-9-aspect-ratio_default_0_x1024y455.jpg",
-        "tags": [
-            "fútbol",
-            "cd badajoz",
-            "nuevo vivero"
-        ],
-        "link": "https://www.lacronicabadajoz.com/cd-badajoz/2026/03/18/isra-salazar-recupera-nuevo-vivero-128139122.html",
-        "date": "2026-03-18 17:33:31",
-        "sentiment_score": -0.3175921142101288
-    },
-    {
-        "title": "Vinícius, letal en las eliminatorias",
-        "image_url": "https://qpwebsite.s3.amazonaws.com/uploads/2026/03/rss-efe28665dcf63db7223046e274274f8d3bc7a7e60edw.jpg",
-        "tags": [
-            "real madrid",
-            "fútbol"
-        ],
-        "link": "https://quepasamedia.com/deportes/vinicius-letal-en-las-eliminatorias/",
-        "date": "2026-03-18 17:33:19",
-        "sentiment_score": 0.19487158954143524
-    },
-    {
-        "title": "El sector aeroespacial español ante su mayor reto: fidelizar talento anta la competencia global",
-        "image_url": "https://fly-news.es/wp-content/uploads/FlyNews-17Marzo-27-scaled.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://fly-news.es/aviacion-comercial/aeropuertos/sector-aeroespacial-espanol-ante-su-mayor-reto-fidelizar-talento-y-la-competencia-global/",
-        "date": "2026-03-18 17:32:24",
-        "sentiment_score": 0.5561197102069855
-    },
-    {
-        "title": "El sector aeroespacial español ante su mayor reto: fidelizar talento y la competencia global",
-        "image_url": "https://fly-news.es/wp-content/uploads/FlyNews-17Marzo-27-scaled.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://fly-news.es/aviacion-comercial/aeropuertos/el-sector-aeroespacial-espanol-ante-su-mayor-reto-fidelizar-talento-y-la-competencia-global/",
-        "date": "2026-03-18 17:32:24",
-        "sentiment_score": 0.5872581154108047
-    },
-    {
-        "title": "El sector aeroespacial español ante su mayor reto: fidelizar talento ante la competencia global",
-        "image_url": "https://fly-news.es/wp-content/uploads/FlyNews-17Marzo-27-scaled.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://fly-news.es/foros-fly-news/sector-aeroespacial-espanol-ante-su-mayor-reto-fidelizar-talento-y-la-competencia-global/",
-        "date": "2026-03-18 17:32:24",
-        "sentiment_score": 0.5962497219443321
-    },
-    {
-        "title": "Tarde de fallas en el Roig Arena: El Valencia Basket se enfrenta al Barça en la Euroliga",
-        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2026/03/18/1501762321_20260318183516-RIv7VmYsMoLPmtsCQ8PYV9H-1200x840@Las%20Provincias.jpg",
-        "tags": [
-            "basket",
-            "valencia",
-            "enfrenta",
-            "roig",
-            "tarde",
-            "arena",
-            "fallas",
-            "euroliga",
-            "barca"
-        ],
-        "link": "https://www.lasprovincias.es/deportes/baloncesto/liga-acb/tarde-fallas-roig-arena-valencia-basket-enfrenta-20260318183845-nt.html",
-        "date": "2026-03-18 17:48:57",
-        "sentiment_score": 0.6031861901283264
-    },
-    {
-        "title": "Reabierto el caso de la joven que murió ahogada en la piscina de la UAB tras ver indicios de imprudencia",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/02/26/sucesos/561953804_9870206_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "juicios",
-            "sucesos"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260318/reabierto-caso-joven-murio-ahogada-piscina-uab-ver-indicios-imprudencia/1003742742995_0.html",
-        "date": "2026-03-18 17:48:41",
-        "sentiment_score": -0.6173092555254698
-    },
-    {
-        "title": "Barcelona lanza un concurso público para la construcción de 625 viviendas de alquiler asequible",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2ef078b6-5166-4f30-92ad-05c50c1515d1_alta-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "concurso",
-            "publico",
-            "viviendas alquiler asequible",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20260318/barcelona-concurso-publico-viviendas-alquiler-asequible-128139565",
-        "date": "2026-03-18 17:48:14",
-        "sentiment_score": 0.3130408264696598
-    },
-    {
-        "title": "Un acuerdo sobre el desacuerdo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/74355ba9-b8f3-4312-88cc-d34cf3787e92_alta-libre-aspect-ratio_default_0_x874y328.jpg",
-        "tags": [
-            "editorial",
-            "junqueras",
-            "desacuerdo",
-            "acuerdo",
-            "presupuestos",
-            "illa",
-            "generalitat"
-        ],
-        "link": "https://www.elperiodico.com/es/opinion/20260318/acuerdo-desacuerdo-presupuestos-generalitat-illa-junqueras-editorial-128138837",
-        "date": "2026-03-18 17:47:26",
-        "sentiment_score": 0.01645570993423462
-    },
-    {
-        "title": "Los Mossos buscan a un estudiante de Chicago desaparecido en Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/H2W2LVPWBJB6FJRLAXISKPJBKA.jpg?auth=f19b48ca49f22e8f0911a8de4dc3f5028fcbe369cfa314e9c47718494cb869b6",
-        "tags": [
-            "estudiantes",
-            "investigación policial",
-            "cnn",
-            "cataluña",
-            "barcelona",
-            "personas desaparecidas",
-            "discotecas",
-            "mossos d'esquadra"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2026-03-18/los-mossos-buscan-a-un-estudiante-de-chicago-desaparecido-en-barcelona.html",
-        "date": "2026-03-18 17:46:15",
-        "sentiment_score": -0.517862793058157
-    },
-    {
-        "title": "Barcelona estudiará dotar un plan de choque para afrontar la subida de precios por la guerra de Oriente Medio",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a82c8f7f-0adf-4005-be6b-ce287c547cce_alta-libre-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "guerra",
-            "iran",
-            "choque",
-            "precios",
-            "subida",
-            "plan",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20260318/barcelona-guerra-iran-subida-precios-plan-choque-128137658",
-        "date": "2026-03-18 17:46:00",
-        "sentiment_score": -0.20362241566181183
-    },
-    {
-        "title": "Entre poemario y fotolibro: así es la obra que el artista ilicitano Kliment presenta en Alicante",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/442a3479-bf78-4755-9bb2-cc6ad25707ca_16-9-aspect-ratio_default_0_x540y498.jpg",
-        "tags": [
-            "manuel",
-            "cultura",
-            "público",
-            "presentación",
-            "imagen"
-        ],
-        "link": "https://www.informacion.es/cultura/2026/03/18/poemario-fotolibro-obra-artista-ilicitano-kliment-presenta-alicante-128134592.html",
-        "date": "2026-03-18 17:45:29",
-        "sentiment_score": 0.11277878284454346
-    },
-    {
-        "title": "\"Periodismo es hacer preguntas\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5533a569-474b-42b5-96d7-a47b0f5b2192_alta-libre-aspect-ratio_default_0_x1200y533.jpg",
-        "tags": [
-            "replica",
-            "david alandete",
-            "periodismo",
-            "carta",
-            "preguntas"
-        ],
-        "link": "https://www.elperiodico.com/es/entre-todos/participacion/periodismo-preguntas-carta-replica-david-alandete-128139022",
-        "date": "2026-03-18 17:41:51",
-        "sentiment_score": -0.7708597779273987
-    },
-    {
-        "title": "Lita Cabellut rinde tributo con su pintura al paisaje olivarero y los agricultores",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2026/03/18/69bae032d7c087-12943208.jpeg",
-        "tags": [
-            "rinde",
-            "con",
-            "tributo",
-            "cabellut",
-            "lita"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/cultura/2026/03/18/lita-cabellut-rinde-tributo-con-su-pintura-paisaje-olivarero-los-agricultores-2003944.html",
-        "date": "2026-03-18 17:41:50",
-        "sentiment_score": 0.33719002828001976
-    },
-    {
         "title": "Champions: Barcelona demolió al Newcastle 7-1 y pasó a cuartos de final",
         "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/18174926/a665e40b562fd29a59202dddaf2044c567ba80d4w.jpg",
         "tags": [
@@ -3341,5 +3086,283 @@ export default [
         "link": "https://www.elespanol.com/reportajes/20260322/luisa-sandoval-turista-sanitaria-espana-trajo-hijo-curar-enfermedad-barcelona-peru-costaba-eur/1003744170307_0.html",
         "date": "2026-03-22 00:08:57",
         "sentiment_score": -0.7746573034673929
+    },
+    {
+        "title": "Horario y TV del Alcaraz vs Korda en el Miami Open 2026 desde España",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/30/2025063019373281038.jpg",
+        "tags": [
+            "atp",
+            "carlos alcaraz",
+            "tenis",
+            "masters 1000 miami open",
+            "sebastian korda"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/horario-tv-alcaraz-vs-korda-miami-open-2026-espana/20260322074618379675.html",
+        "date": "2026-03-22 06:46:18",
+        "sentiment_score": -0.2979359142482281
+    },
+    {
+        "title": "Lola García: «En Fuerteventura, no cabe más gente»",
+        "image_url": "https://s1.ppllstatics.com/canarias7/www/multimedia/2026/03/20/lola-garciasentada-kLEG-U2013164839199HH-758x531@Canarias7.jpg",
+        "tags": [
+            "coalicion canaria",
+            "canarias",
+            "obras",
+            "unión europea",
+            "rehabilitación",
+            "gobierno de canarias",
+            "vivienda",
+            "yacimientos",
+            "patrimonio",
+            "fuerteventura",
+            "servicios públicos",
+            "minería",
+            "movilidad",
+            "energías renovables",
+            "servicios",
+            "tradiciones",
+            "cabildo de fuerteventura",
+            "paisaje",
+            "población",
+            "agua",
+            "infraestructuras",
+            "sanidad"
+        ],
+        "link": "https://www.canarias7.es/canarias/fuerteventura/lola-garcia-fuerteventura-cabe-gente-20260322072500-nt.html",
+        "date": "2026-03-22 06:45:24",
+        "sentiment_score": 0.3136741816997528
+    },
+    {
+        "title": "El Real Oviedo necesita un auténtico milagro para mantenerse en Primera",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/14/2025121416510213695.jpg",
+        "tags": [
+            "real oviedo",
+            "oviedo",
+            "primera divisi&oacute;n",
+            "levante-ud",
+            "laliga"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/real-oviedo-necesita-autentico-milagro-mantenerse-primera/20260322070938379674.html",
+        "date": "2026-03-22 06:09:38",
+        "sentiment_score": -0.8952207211405039
+    },
+    {
+        "title": "La candidatura de Cáceres a Capital Europea de la Cultura 2031: visibilidad, inversión y futuro",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/40c48a78-4365-445e-8c4a-0dbde66c31d7_16-9-aspect-ratio_default_0_x609y270.jpg",
+        "tags": [
+            "las palmas de gran canaria",
+            "capitalidad 2031",
+            "oviedo",
+            "cultura",
+            "granada",
+            "europa",
+            "unión europea",
+            "futuro",
+            "cáceres"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/caceres-local/2026/03/22/candidatura-caceres-capital-europea-cultura-visibilidad-inversion-futuro-128235108.html",
+        "date": "2026-03-22 06:01:11",
+        "sentiment_score": 0.2988269031047821
+    },
+    {
+        "title": "Viernes Santo en Sevilla 2026: dónde ver las procesiones, horarios clave e itinerarios oficiales",
+        "image_url": "https://static.grupojoly.com/clip/8ccc686b-f5e7-435a-9fac-77a084f78ca0_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "viernes santo",
+            "semana santa sevilla"
+        ],
+        "link": "https://www.diariodesevilla.es/semana_santa/guia-viernes-santo-semana-santa-sevilla-2026_0_2006090274.html",
+        "date": "2026-03-22 06:00:44",
+        "sentiment_score": 0.02447805553674698
+    },
+    {
+        "title": "Bárbara Lennie, de actriz mágica a chica Almodóvar",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/70fdfd62-ff73-40f2-8737-4772596e93a0_alta-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "entender más",
+            "navidad",
+            "pedro almodóvar",
+            "películas"
+        ],
+        "link": "https://www.elperiodico.com/es/gente/20260322/barbara-lennie-actriz-magica-chica-128169876",
+        "date": "2026-03-22 06:00:37",
+        "sentiment_score": -0.007962286472320557
+    },
+    {
+        "title": "Así fue la vida universitaria de la Infanta Cristina en los años 80",
+        "image_url": "https://okdiario.com/look/img/2025/02/26/dl_u438094_034.jpg",
+        "tags": [
+            "infanta cristina"
+        ],
+        "link": "https://okdiario.com/look/casa-real/infanta-cristina-universidad-anos-80-vida-estudiante-complutense-2505871",
+        "date": "2026-03-22 06:00:16",
+        "sentiment_score": -0.16360412538051605
+    },
+    {
+        "title": "\"La mejor la defensa de Málaga no es ponerse una camiseta diciendo 'aliquindoi', es respetar nuestra historia\"",
+        "image_url": "https://s3.elespanol.com/2026/03/20/actualidad/1003744178595_262060992_1706x960.jpg",
+        "tags": [
+            "málaga (municipio)",
+            "a título personal",
+            "rehabilitación de edificios",
+            "arquitectura",
+            "málaga"
+        ],
+        "link": "https://www.elespanol.com/malaga/20260322/mejor-defensa-malaga-no-ponerse-camiseta-diciendo-aliquindoi-respetar-historia/1003744178238_0.html",
+        "date": "2026-03-22 05:50:00",
+        "sentiment_score": -0.2760269343852997
+    },
+    {
+        "title": "Simeone arma un Atlético condicionado por las bajas para asaltar el Bernabéu",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/15/2026021519032968884.jpg",
+        "tags": [
+            "atleti",
+            "real madrid",
+            "diego simeone",
+            "sorloth",
+            "laliga",
+            "derbi-madrileno",
+            "atl&eacute;tico de madrid"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/simeone-arma-atletico-condicionado-bajas-asaltar-bernabeu/20260322063506379673.html",
+        "date": "2026-03-22 05:35:06",
+        "sentiment_score": -0.6183469444513321
+    },
+    {
+        "title": "Charo Olarte, de la Marbella de los árabes al Madrid de los artistas",
+        "image_url": "https://static.grupojoly.com/clip/ca1fb551-c620-4766-b3df-66641f6533af_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "marbella",
+            "charo",
+            "olarte",
+            "arabes",
+            "madrid"
+        ],
+        "link": "https://www.malagahoy.es/marbella/charo-olarte-marbella-arabes-madrid_0_2006247386.html",
+        "date": "2026-03-22 05:30:54",
+        "sentiment_score": -0.8782728053629398
+    },
+    {
+        "title": "El balance de un año marcado por el apagón",
+        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2026/03/20/001%20LEAD%20ST%20ANUARIO%202026-kuOE-U201306336211GfD-758x531@Diario%20Montanes.png",
+        "tags": [
+            "el diario montañes",
+            "ano",
+            "marcado",
+            "balance",
+            "apagon"
+        ],
+        "link": "https://www.eldiariomontanes.es/cantabria/balance-ano-marcado-apagon-20260322074840-nt.html",
+        "date": "2026-03-22 06:48:43",
+        "sentiment_score": 0.19838503189384937
+    },
+    {
+        "title": "Osasuna 1 – Girona 0: Víctor Muñoz deslumbra y Budimir define",
+        "image_url": "https://www.periodistadigital.com/wp-content/uploads/2026/03/Osasuna.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.periodistadigital.com/deportes/futbol/20260322/osasuna-1-girona-0-victor-munoz-deslumbra-budimir-define-noticia-689405193485/",
+        "date": "2026-03-22 06:44:29",
+        "sentiment_score": 0.431363582611084
+    },
+    {
+        "title": "Almería acoge la reunión anual de jefes de Tuna del Circuito Nacional de Tunas de Derecho",
+        "image_url": "https://static.grupojoly.com/clip/55208c50-b612-48be-a34a-53fbf0593d0b_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "noticias almería"
+        ],
+        "link": "https://www.diariodealmeria.es/ocio/almeria-acoge-reunion-anual-jefes_0_2006245958.html",
+        "date": "2026-03-22 06:35:42",
+        "sentiment_score": 0.645119764842093
+    },
+    {
+        "title": "La infancia de Isabel Pardo de Vera en Lugo: cuatro hermanos, un padre alcalde, una vocación frustrada y un tren que nunca fue suyo",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/03/pardo-de-vera-469x317.jpg",
+        "tags": [
+            "celebrities",
+            "isabel pardo de vera",
+            "caso koldo",
+            "adif"
+        ],
+        "link": "https://theobjective.com/gente/2026-03-22/la-infancia-de-isabel-pardo-de-vera-en-lugo-cinco-hermanos-un-padre-alcalde-y-un-tren-que-nunca-fue-suyo/",
+        "date": "2026-03-22 06:30:00",
+        "sentiment_score": 0.24261891096830368
+    },
+    {
+        "title": "Susana, la hermana de Xabier Fortes que es escritora y comparte logro con Juan del Val",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/susana-fortes-vida-scaled.jpg",
+        "tags": [
+            "celebrities",
+            "xabier fortes",
+            "escritores",
+            "hermanos",
+            "premio planeta"
+        ],
+        "link": "https://theobjective.com/gente/2026-03-22/susana-hermana-xabier-fortes-juan-val/",
+        "date": "2026-03-22 06:30:00",
+        "sentiment_score": 0.7656169459223747
+    },
+    {
+        "title": "AEMET prevé un día soleado en Barcelona con nubes y posibles lluvias por la tarde-noche",
+        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
+        "tags": [
+            "tiempo",
+            "previsión del tiempo",
+            "okd",
+            "cataluña",
+            "agencia estatal de meteorología (aemet)"
+        ],
+        "link": "https://okdiario.com/cataluna/aemet-preve-un-dia-soleado-en-barcelona-con-nubes-y-posibles-lluvias-por-la-tarde-noche-16462621",
+        "date": "2026-03-22 06:20:30",
+        "sentiment_score": 0.004516571760177612
+    },
+    {
+        "title": "Santoral: qué santos se celebran este lunes 23 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/F4OKC3K7Q5DLNFNWRBV72HW4RI.jpg?auth=5b861cdfe01175692c63be426d447b2355b32dbcd6df45cc40bc4308831e6d30&smart=true&width=1920&height=1080",
+        "tags": [
+            "santoral",
+            "santoral hoy",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/22/santoral-que-santos-se-celebran-este-lunes-23-de-marzo/",
+        "date": "2026-03-22 06:15:49",
+        "sentiment_score": -0.022669658064842224
+    },
+    {
+        "title": "Grandes acrobacias, fantasía y humor: la mirada \"imaginativa\" del Circo del Sol llevará a Málaga a un mundo oculto",
+        "image_url": "https://static.grupojoly.com/clip/3ee8d14e-62a8-4af0-8b8a-826c79d9168b_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "link en bio málaga",
+            "últimas noticias málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/grandes-acrobacias-fantasia-humor-mirada-circo-sol-malaga_0_2006198552.html",
+        "date": "2026-03-22 06:10:13",
+        "sentiment_score": 0.3340008221566677
+    },
+    {
+        "title": "La ‘odisea’ de empresarios malagueños para ir a Madrid: \"En el avión ya nos conocemos todos\"",
+        "image_url": "https://static.grupojoly.com/clip/0dfd773d-e9f7-4ebf-8065-2250d046b509_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias málaga",
+            "transporte málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/odisea-empresarios-malaguenos-ir-madrid-avion_0_2006238675.html",
+        "date": "2026-03-22 06:05:09",
+        "sentiment_score": -0.8055812511593103
+    },
+    {
+        "title": "Visión y especialización inteligente: los pilares del ‘tech hub’ de Málaga",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c3d9d10f-9b0e-41d0-941f-8077e5588919_16-9-aspect-ratio_default_0_x947y382.jpg",
+        "tags": [
+            "transporte",
+            "quirós",
+            "tecnología",
+            "talento"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2026/03/22/vision-especializacion-inteligente-pilares-tech-128262827.html",
+        "date": "2026-03-22 06:01:25",
+        "sentiment_score": -0.16672855615615845
     }
 ];
