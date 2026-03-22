@@ -3066,5 +3066,280 @@ export default [
         "link": "https://www.superdeporte.es/polideportivo/2026/03/21/ascenso-turia-debera-esperar-barca-rugby-liga-iberdrola-128263290.html",
         "date": "2026-03-21 21:46:50",
         "sentiment_score": 0.7801947519183159
+    },
+    {
+        "title": "Albanese exige el fin la \"limpieza étnica\" de Israel en los territorios palestinos ocupados",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260322024329_1200.jpg",
+        "tags": [
+            "jerusalén",
+            "israel",
+            "onu",
+            "palestina"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-albanese-exige-fin-limpieza-etnica-israel-territorios-palestinos-ocupados-20260322024329.html",
+        "date": "2026-03-22 01:43:29",
+        "sentiment_score": -0.8971894346177578
+    },
+    {
+        "title": "\"Los terroristas han ganado\": la libertad de 'Anboto', fruto de los pactos PSOE-Bildu, conmociona a las víctimas de ETA",
+        "image_url": "https://s3.elespanol.com/2026/03/21/actualidad/1003744179164_262068605_1706x960.jpg",
+        "tags": [
+            "víctimas terrorismo",
+            "bildu",
+            "fernando buesa",
+            "eta",
+            "país vasco",
+            "avt asociación de víctimas del terrorismo",
+            "arnaldo otegi",
+            "miguel ángel blanco",
+            "dignidad y justicia",
+            "francia"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20260322/terroristas-ganado-libertad-anboto-fruto-pactos-psoe-bildu-conmociona-victimas-eta/1003744179158_0.html",
+        "date": "2026-03-22 01:21:32",
+        "sentiment_score": -0.6533132437616587
+    },
+    {
+        "title": "Sin salón, sin convivencia: el auge del piso compartido sin espacios comunes que encierra a los jóvenes en su cuarto",
+        "image_url": "https://s3.elespanol.com/2026/03/10/actualidad/1003744163614_261861860_1706x960.jpg",
+        "tags": [
+            "vivienda",
+            "observatorio de la vivienda",
+            "habitación",
+            "arquitectura",
+            "alquiler de viviendas"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20260322/sin-salon-sin-convivencia-auge-piso-compartido-espacios-comunes-encierra-jovenes-cuarto/1003744173715_0.html",
+        "date": "2026-03-22 01:20:34",
+        "sentiment_score": 0.0354449599981308
+    },
+    {
+        "title": "Real Madrid vs. Atlético de Madrid: estas son las posibles alineaciones del derbi",
+        "image_url": "https://pxcdn.2001online.com/2001/032026/1774138005692/manchester-city-fc-v-real-madrid-cf-uefa-champions-league-2025-26-round-of-16-second-leg%20(3).jpg?cw=1170&ch=645",
+        "tags": [
+            "vinicius jr",
+            "kylian mbappé",
+            "atlético de madrid",
+            "derbi madrileño",
+            "real madrid",
+            "españa",
+            "laliga"
+        ],
+        "link": "https://2001online.com/deportes/real-madrid-vs-atletico-de-madrid-estas-son-las-posibles-alineaciones-del-derbi-20263212100",
+        "date": "2026-03-22 01:18:00",
+        "sentiment_score": -0.021839097142219543
+    },
+    {
+        "title": "General Ballesteros: \"El problema que tendría España si cortara con EEUU multiplicaría por 100 el generado con Israel\"",
+        "image_url": "https://s3.elespanol.com/2026/03/21/actualidad/1003744179104_262067941_1706x1280.jpg",
+        "tags": [
+            "ministerio de defensa",
+            "geopolítica",
+            "irán",
+            "defensa",
+            "fuerzas armadas",
+            "donald trump",
+            "estados unidos",
+            "rusia",
+            "consejo seguridad nacional",
+            "seguridad nacional"
+        ],
+        "link": "https://www.elespanol.com/espana/20260322/general-ballesteros-problema-espana-cortara-eeuu-multiplicaria-generado-israel/1003744173830_0.html",
+        "date": "2026-03-22 00:49:40",
+        "sentiment_score": -0.8471083752810955
+    },
+    {
+        "title": "San Francisco no puede más: «Los delincuentes se han apoderado del barrio y se ríen de la Policía»",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2026/03/22/san-francisco--758x531.jpg",
+        "tags": [
+            "policía",
+            "san francisco",
+            "bilbao"
+        ],
+        "link": "https://www.elcorreo.com/bizkaia/san-francisco-quiere-zona-evitar-20260322203400-nt.html",
+        "date": "2026-03-22 00:17:22",
+        "sentiment_score": -0.8510821424424648
+    },
+    {
+        "title": "21 MAR 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/01/20/678e8eae3dd99.jpeg",
+        "tags": [
+            "21",
+            "tramo",
+            "2026",
+            "final",
+            "mar"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/21-mar-2026-tramo-final-juego-20260322_3331328.html",
+        "date": "2026-03-22 00:15:00",
+        "sentiment_score": -0.21340320259332657
+    },
+    {
+        "title": "2a PARTE | 21 MAR 2026 | TIEMPO DE JUEGO",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/01/20/678e8eae3dd99.jpeg",
+        "tags": [
+            "21",
+            "mar",
+            "2ª",
+            "parte",
+            "2026"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/2a-parte-21-mar-2026-juego-20260322_3331325.html",
+        "date": "2026-03-21 23:51:56",
+        "sentiment_score": 0.292712964117527
+    },
+    {
+        "title": "Así queda el Casademont Zaragoza en la clasificación de la Liga Endesa",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/03/21/69bf1041dcc349-43766174.jpeg",
+        "tags": [
+            "clasificación",
+            "así",
+            "casademont",
+            "zaragoza",
+            "queda"
+        ],
+        "link": "https://www.heraldo.es/noticias/deportes/baloncesto/2026/03/22/asi-queda-casademont-zaragoza-clasificacion-liga-endesa-2005713.html",
+        "date": "2026-03-21 23:39:27",
+        "sentiment_score": -0.1707276701927185
+    },
+    {
+        "title": "Chimezie Metu, el esperado salvador del CB Gran Canaria",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6484f19e-af8f-4412-a8d2-eabfbd47c0a3_16-9-aspect-ratio_default_0_x600y300.jpg",
+        "tags": [
+            "afición",
+            "isla",
+            "gran canaria",
+            "euroliga",
+            "cb gran canaria"
+        ],
+        "link": "https://www.laprovincia.es/cb-gran-canaria/2026/03/22/chimezie-metu-esperado-salvador-cb-128265206.html",
+        "date": "2026-03-21 23:31:13",
+        "sentiment_score": 0.01836484670639038
+    },
+    {
+        "title": "Pronóstico del clima: las temperaturas esperadas en Barcelona este 22 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&smart=true&width=1920&height=1080",
+        "tags": [
+            "clima en barcelona",
+            "últimas actualizaciones",
+            "clima en españa",
+            "clima"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/22/pronostico-del-clima-las-temperaturas-esperadas-en-barcelona-este-22-de-marzo/",
+        "date": "2026-03-22 02:00:36",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "H. Ball (Atomico): \"La ambición no cerrará por sí sola la brecha en valoraciones de las startups españolas: hay que salir a bolsa\"",
+        "image_url": "https://s3.elespanol.com/2026/03/17/actualidad/1003744173667_261995919_1706x960.jpg",
+        "tags": [
+            "startup",
+            "emprendedores",
+            "innovación",
+            "fondos de inversión",
+            "emprendedores de éxito",
+            "inversores",
+            "tecnología"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/inversores/20260322/ball-atomico-ambicion-no-cerrara-sola-brecha-valoraciones-startups-espanolas-salir-bolsa/1003744173663_0.html",
+        "date": "2026-03-22 01:28:04",
+        "sentiment_score": 0.5568266324698925
+    },
+    {
+        "title": "Veolia lleva el agua a todas las personas a través de la innovación",
+        "image_url": "https://www.eldia.es/ideas/dia-mundial-del-agua-2026/images/redes/redes.jpg",
+        "tags": [
+            "dia mundial del agua 2026"
+        ],
+        "link": "https://www.elperiodico.com/ideas/dia-mundial-del-agua-2026/index-epc.html",
+        "date": "2026-03-22 00:59:21",
+        "sentiment_score": 0.3771210163831711
+    },
+    {
+        "title": "El antídoto del BIHUB para la plaga de lesiones que explica las 80 bajas del Barça de Flick: la huella epigenética como medicina de prevención",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/04/culemania/primer-equipo/1003742738168_15866042_1706x960.jpg",
+        "tags": [
+            "barça",
+            "hansi flick",
+            "palco",
+            "lesiones"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260322/antidoto-bihub-lesiones-barca-flick-epigenetica-prevencion/1003742744168_0.html",
+        "date": "2026-03-22 00:45:47",
+        "sentiment_score": -0.12089546769857407
+    },
+    {
+        "title": "Así será la nueva Barça Store del Spotify Camp Nou: triple diamante con gradas en el techo y adiós a la 'Botiga' actual",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/21/culemania/palco/1003742744180_15866133_1706x960.jpg",
+        "tags": [
+            "espai barça",
+            "camp nou",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260322/barca-store-spotify-camp-nou-diamante-botiga/1003742744179_0.html",
+        "date": "2026-03-22 00:45:29",
+        "sentiment_score": -0.11195448040962219
+    },
+    {
+        "title": "Valencia no deja de abrir gimnasios: más del doble en una década",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2026/03/22/gimnasios-domingo-noticia.jpg",
+        "tags": [
+            "competencia",
+            "invade",
+            "gimnasios",
+            "valencia"
+        ],
+        "link": "https://www.lasprovincias.es/comunitat/competencia-gimnasios-invade-valencia-20260306172409-nt.html",
+        "date": "2026-03-22 00:42:40",
+        "sentiment_score": 0.11412700265645981
+    },
+    {
+        "title": "Manuel y Adrián han creado el imperio inmobiliario Redpiso con 6.000 operaciones en un año: \"En Madrid se vende todo\"",
+        "image_url": "https://s3.elespanol.com/2026/03/19/actualidad/1003744176192_262030210_1706x960.jpg",
+        "tags": [
+            "madrid",
+            "sociedad",
+            "sector inmobiliario",
+            "comunidad de madrid"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20260322/manuel-adrian-creado-imperio-inmobiliario-redpiso-operaciones-ano-madrid-vende/1003744175273_0.html",
+        "date": "2026-03-22 00:32:12",
+        "sentiment_score": 0.40258919820189476
+    },
+    {
+        "title": "El ala dura del trumpismo apuesta por llevar las bases a Marruecos y aumentar la presión sobre Ceuta y Melilla",
+        "image_url": "https://s3.elespanol.com/2026/03/21/actualidad/1003744179131_262068343_1706x960.jpg",
+        "tags": [
+            "porfolio",
+            "reportajes-newsletter-destacada",
+            "mohamed vi",
+            "donald trump",
+            "ceuta",
+            "melilla",
+            "pedro sánchez",
+            "estados unidos",
+            "marcha verde",
+            "marruecos"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260322/ala-dura-trumpismo-apuesta-llevar-bases-marruecos-aumentar-presion-ceuta-melilla/1003744178324_0.html",
+        "date": "2026-03-22 00:30:22",
+        "sentiment_score": -0.44459395855665207
+    },
+    {
+        "title": "Luisa Sandoval, turista sanitaria en España: trajo a su hijo a curar una enfermedad a Barcelona que en Perú \"costaba 1.000 €\"",
+        "image_url": "https://s3.elespanol.com/2026/03/20/actualidad/1003744178271_262056469_1706x960.jpg",
+        "tags": [
+            "porfolio",
+            "reportajes",
+            "perú",
+            "sanidad",
+            "salud pública",
+            "reportajes-newsletter",
+            "cataluña",
+            "barcelona"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260322/luisa-sandoval-turista-sanitaria-espana-trajo-hijo-curar-enfermedad-barcelona-peru-costaba-eur/1003744170307_0.html",
+        "date": "2026-03-22 00:08:57",
+        "sentiment_score": -0.7746573034673929
     }
 ];
