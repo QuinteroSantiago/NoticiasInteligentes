@@ -1,214 +1,5 @@
 export default [
     {
-        "title": "Los 100 mejores colegios de España de 2026 según la lista Forbes: ninguno público y la mayoría multilingüistas",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/16/69b81a409ba4c1-82929441.jpeg",
-        "tags": [
-            "españa",
-            "madrid",
-            "colegios",
-            "forbes",
-            "seo20",
-            "educación"
-        ],
-        "link": "https://www.20minutos.es/nacional/100-mejores-colegios-lista-forbes-espana-2026-ninguno-publico-mayoria-multilingueistas_6946628_0.html",
-        "date": "2026-03-18 07:07:40",
-        "sentiment_score": 0.21877804398536682
-    },
-    {
-        "title": "Nuevos problemas en los trenes de alta velocidad: retrasos en los AVE con origen o destino Madrid por un problema de Adif",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3eb21edd-cbcb-4352-b92f-0a9adfe34b58_alta-libre-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "madrid",
-            "adif",
-            "trenes",
-            "ave"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260318/nuevos-problemas-trenes-alta-velocidad-retrasos-ave-madrid-128104953",
-        "date": "2026-03-18 07:03:11",
-        "sentiment_score": -0.8111811513081193
-    },
-    {
-        "title": "Carmen Tomás.- Vivienda: una política fallida",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/amp-logo/logo-europapress.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.europapress.es/otr-press/firmas/carmentomas/noticia-carmen-tomas-vivienda-politica-fallida-20260318080155.html",
-        "date": "2026-03-18 07:01:55",
-        "sentiment_score": -0.7195593789219856
-    },
-    {
-        "title": "Sánchez se reúne este miércoles con Zelenski, en la que supone la cuarta visita a España de su homólogo ucraniano",
-        "image_url": "https://www.infobae.com/resizer/v2/AQGCZFQEINF5VK3LXDH4V3TRXY.jpg?auth=a6f3b0e3ed1c31c11083a84b87c9a154b902b98b087ca76c5bbce8e16628b6b5&smart=true&width=1920&height=1280",
-        "tags": [
-            "volodímir zelenski",
-            "felipe vi",
-            "francina armengol",
-            "congreso de los diputados",
-            "visita oficial",
-            "europapress",
-            "relaciones internacionales",
-            "palacio de la moncloa",
-            "españa",
-            "madrid",
-            "pedro sánchez"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/18/sanchez-se-reune-este-miercoles-con-zelenski-en-la-que-supone-la-cuarta-visita-a-espana-de-su-homologo-ucraniano/",
-        "date": "2026-03-18 07:01:43",
-        "sentiment_score": 0.45130758732557297
-    },
-    {
-        "title": "Fermín Bocos.- Cuba, días contados",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/amp-logo/logo-europapress.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.europapress.es/otr-press/firmas/ferminbocos/noticia-fermin-bocos-cuba-dias-contados-20260318080128.html",
-        "date": "2026-03-18 07:01:28",
-        "sentiment_score": -0.08696573972702026
-    },
-    {
-        "title": "Una pareja de 'youtubers' argentinos que viven en España desde hace un año lo tienen claro: \"Puede ser exactamente lo que necesitas\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3a172c89-5913-412c-8669-716fc449a30f_alta-libre-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "alicante"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260318/pareja-youtubers-argentinos-viven-espana-alicante-dv-128061320",
-        "date": "2026-03-18 07:00:53",
-        "sentiment_score": 0.3295041024684906
-    },
-    {
-        "title": "Sobre la sexualidad y el castigo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6d10dfa9-a61a-4769-a783-80f4584563db_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "vinos",
-            "sexualidad",
-            "sexo",
-            "mujeres"
-        ],
-        "link": "https://www.laprovincia.es/opinion/2026/03/18/sexualidad-castigo-128096075.html",
-        "date": "2026-03-18 07:00:22",
-        "sentiment_score": -0.07155603170394897
-    },
-    {
-        "title": "Los 8 destinos más baratos para viajar en Semana Santa 2026 sin salir de España",
-        "image_url": "https://okdiario.com/img/2026/03/17/los-8-destinos-mas-baratos-para-viajar-en-semana-santa-2026-sin-salir-de-espana.jpg",
-        "tags": [
-            "pueblos",
-            "semana santa",
-            "viajar",
-            "viajes",
-            "españa",
-            "okd"
-        ],
-        "link": "https://okdiario.com/viajes/8-destinos-mas-baratos-viajar-semana-santa-2026-sin-salir-espana-16432394",
-        "date": "2026-03-18 07:00:14",
-        "sentiment_score": 0.0433938205242157
-    },
-    {
-        "title": "La fiscal española que descubrió que su tío argentino estuvo en prisión por torturas: \"Atravesé una fase de negación\"",
-        "image_url": "https://album.mediaset.es/eimg/2026/03/13/alexandra-garcia-tabernero-16-9-aspect-ratio-default-1035730_da39.jpg?w=1024",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.telecinco.es/noticias/cultura/20260318/alexandra-garcia-tabernero-fiscal-descubrio-tio-prision-torturas-upp3rs_18_018612998.html",
-        "date": "2026-03-18 07:00:13",
-        "sentiment_score": -0.4766249433159828
-    },
-    {
-        "title": "La preciosa villa española que parece sacada de \"Los Bridgerton\"",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/03/15/78F63D0E-BCA8-4CDD-876F-9945C88F845D/palacio-jardines-real-sitio-san-ildefonso_96.jpg?crop=2000,1125,x0,y0&width=1200&height=675&optimize=low&format=webply",
-        "tags": [
-            "naturaleza",
-            "historia",
-            "medio ambiente",
-            "patrimonio",
-            "televisión",
-            "segovia"
-        ],
-        "link": "https://www.larazon.es/castilla-y-leon/preciosa-villa-espanola-que-parece-sacada-bridgerton_2026031869ba4d7d3156ba241d59a510.html",
-        "date": "2026-03-18 07:00:13",
-        "sentiment_score": 0.5189070925116539
-    },
-    {
-        "title": "Barcelona, preparada para lo que llega: el Meteocat confirma un cambio radical del tiempo en los próximos días",
-        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/11/16/69196e9416583.r_d.1961-1429-0.jpeg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20260318/1004154765/barcelona-preparada-llega-meteocat-confirma-cambio-radical-proximos-dias-dct.html",
-        "date": "2026-03-18 07:04:12",
-        "sentiment_score": 0.5969622433185577
-    },
-    {
-        "title": "Los docentes también cortan la C-55 en Manresa y la C-16c en Sant Fruitós (Barcelona)",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/amp-logo/logo-europapress.png",
-        "tags": [
-            "huelga"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-docentes-tambien-cortan-55-manresa-16c-sant-fruitos-barcelona-20260318080136.html",
-        "date": "2026-03-18 07:01:36",
-        "sentiment_score": -0.22966395318508148
-    },
-    {
-        "title": "Bizkaia diseña para finales de año un evento para atraer inversores internacionales",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/30649e43-b21a-472d-8561-bf96313634a9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "finales",
-            "bilbao",
-            "extranjeros",
-            "disena",
-            "bilbao metropoli 30",
-            "ano",
-            "evento",
-            "bizkaia",
-            "euskadi globala",
-            "inversores"
-        ],
-        "link": "https://www.deia.eus/bizkaia/2026/03/18/bizkaia-disena-finales-ano-evento-bilbao-inversores-extranjeros-10832720.html",
-        "date": "2026-03-18 07:00:03",
-        "sentiment_score": 0.21737824380397797
-    },
-    {
-        "title": "Tres convocatorias para tu startup que no te puedes perder",
-        "image_url": "https://wp.emprendedores.es/wp-content/uploads/2026/03/convocatoria-Eria.png",
-        "tags": [
-            "business"
-        ],
-        "link": "https://emprendedores.es/ayudas/directorio-quien-te-ayuda-a-emprender/convocatorias-nuevas",
-        "date": "2026-03-18 07:00:00",
-        "sentiment_score": 0.7134549943730235
-    },
-    {
-        "title": "Sumar presiona para congelar el precio del alquiler ante la guerra de Irán y Junts amenaza con no aprobar el decreto",
-        "image_url": "https://s3.elespanol.com/2026/03/18/actualidad/1003744174205_262003947_1706x960.jpg",
-        "tags": [
-            "junts per catalunya",
-            "guerra de irán",
-            "sumar",
-            "política",
-            "gobierno de españa",
-            "psoe (partido socialista obrero español)"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20260318/sumar-presiona-congelar-precio-alquiler-guerra-iran-junts-amenaza-no-aprobar-decreto/1003744174183_0.html",
-        "date": "2026-03-18 06:55:09",
-        "sentiment_score": -0.04965449869632721
-    },
-    {
-        "title": "La fiscalía reclama 28 años de prisión para un entrenador de fúbtol de alevines de Barcelona por abusar de cinco niños",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2b88ff38-22f1-4707-bdf0-3a7f7ec09dca_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol",
-            "barcelona",
-            "abusos sexuales",
-            "niños",
-            "justicia"
-        ],
-        "link": "https://www.laopiniondemalaga.es/sucesos/2026/03/18/fiscalia-prision-entrenador-de-futbol-ninos-barcelona-128103425.html",
-        "date": "2026-03-18 06:53:05",
-        "sentiment_score": -0.37389738857746124
-    },
-    {
         "title": "Un centenar de becas de la Fundación \"la Caixa\" para atraer y retener el talento de jóvenes investigadores",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/58af44eb-df6e-427a-ba70-a526dfe76c1d_16-9-aspect-ratio_default_0_x532y236.jpg",
         "tags": [
@@ -3002,5 +2793,278 @@ export default [
         "link": "https://es.ara.cat/deportes/rcd-espanyol/espanyol-mete-lio_1_5685565.html",
         "date": "2026-03-21 17:25:10",
         "sentiment_score": -0.9003165056928992
+    },
+    {
+        "title": "UCAM Murcia sigue firme arriba al batir al BAXI Manresa",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/e0c4e2d7-105f-4034-94e6376413d3ca57.jpg",
+        "tags": [
+            "joan plaza",
+            "fichajes",
+            "fc barcelona",
+            "pabellón príncipe felipe",
+            "txus vidorreta",
+            "real madrid",
+            "casademont zaragoza",
+            "morabanc andorra",
+            "unicaja",
+            "valencia basket",
+            "liga endesa",
+            "ucam murcia",
+            "champions league",
+            "málaga",
+            "liga acb"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z0cacfd25-6ce6-4fd8-b1988130e632ee3a/202603/ucam-murcia-sigue-firme-arriba-al-batir-al-baxi-manresa",
+        "date": "2026-03-21 22:14:41",
+        "sentiment_score": 0.4266427010297775
+    },
+    {
+        "title": "Otro 'match-ball' del Gobierno: «No podíamos ir a Semana Santa con la gasolina disparada»",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/03/22/sanchez-diaz-congreso-k0DD-U2013297561624EG-758x531@RC.jpg",
+        "tags": [
+            "pedro sánchez",
+            "yolanda díaz",
+            "consejo de ministros"
+        ],
+        "link": "https://www.canarias7.es/nacional/politica/matchball-gobierno-podiamos-semana-santa-gasolina-disparada-20260322175006-ntrc.html",
+        "date": "2026-03-21 22:08:42",
+        "sentiment_score": -0.307145394384861
+    },
+    {
+        "title": "UCAM sigue firme arriba y Mills lidera el asalto al Carpena de La Laguna Tenerife",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260321230824_1200.jpg",
+        "tags": [
+            "universidad católica san antonio de murcia"
+        ],
+        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-ucam-sigue-firme-arriba-mills-lidera-asalto-carpena-laguna-tenerife-20260321230824.html",
+        "date": "2026-03-21 22:08:24",
+        "sentiment_score": 0.3927178308367729
+    },
+    {
+        "title": "Sevilla 0 - 2 Valencia | Resumen, goles y resultado del partido de hoy",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260321230741_1200.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.europapress.es/deportes/estadisticas-deportivas/noticia-sevilla-valencia-resumen-goles-resultado-partido-hoy-20260321230741.html",
+        "date": "2026-03-21 22:07:41",
+        "sentiment_score": 0.08953365683555603
+    },
+    {
+        "title": "La ciudadanía en Madrid reivindica ‘No a la guerra’ contra la invasión en Irán",
+        "image_url": "https://www.infobae.com/resizer/v2/Z5BVTRSDQZEWHKF5V2OS3B6JVU.JPG?auth=1f90d63b48ff5fedc64d1adaf75bd4d196daaa53afb85397b7ad890c42c1064a&smart=true&width=2000&height=1347",
+        "tags": [
+            "estados unidos",
+            "españa-sociedad",
+            "guerra en medio oriente",
+            "pedro sánchez",
+            "españa-noticias",
+            "javier bardem",
+            "irán",
+            "manifestaciones españa",
+            "discursos"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/21/la-ciudadania-en-madrid-reivindica-no-a-la-guerra-contra-la-invasion-en-iran/",
+        "date": "2026-03-21 22:02:18",
+        "sentiment_score": -0.4407452642917633
+    },
+    {
+        "title": "Alcaraz regresa a Miami para reescribir su historia en el Masters 1000",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/18/2026011813354181506.jpg",
+        "tags": [
+            "carlos alcaraz",
+            "masters 1000 miami open",
+            "alcaraz"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/alcaraz-regresa-miami-reescribir-historia-masters-1000/20260321230029379645.html",
+        "date": "2026-03-21 22:00:29",
+        "sentiment_score": 0.5985842198133469
+    },
+    {
+        "title": "Miles de personas se manifiestan en Madrid bajo el lema de \"No a la guerra\": exigen que se ponga freno a la escalada militar",
+        "image_url": "https://album.mediaset.es/eimg/2026/03/21/miles-de-personas-se-manifiestan-en-madrid-bajo-el-lema-de-no-a-la-guerra-exigen-que-se-ponga-freno_da39-2.jpg?w=1024",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.telecinco.es/noticias/madrid/20260321/miles-personas-manifiestan-madrid-exigen-freno-escalada-militar_18_018685435.html",
+        "date": "2026-03-21 21:51:33",
+        "sentiment_score": -0.8529309630393982
+    },
+    {
+        "title": "Sinner iguala a Djokovic y firma una racha histórica en Masters 1000",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/04/2025060423494694769.jpg",
+        "tags": [
+            "wta tenis",
+            "jannik sinner",
+            "wta",
+            "novak djokovic"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/sinner-iguala-djokovic-firma-racha-historica-masters-1000/20260321224435379644.html",
+        "date": "2026-03-21 21:44:35",
+        "sentiment_score": 0.8086597621440887
+    },
+    {
+        "title": "La España vaciada acumula el 45% del total de casas vacías: \"Si resolvemos la vivienda aquí, resolvemos también parte del problema de las ciudades\"",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/graficos/1773995407_990x0.jpg",
+        "tags": [
+            "economia",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/economia/2026/03/21/69bd277921efa0d8178b4593.html",
+        "date": "2026-03-21 21:39:07",
+        "sentiment_score": -0.7435687705874443
+    },
+    {
+        "title": "El sector turístico de Málaga alza la voz: «El impacto del corte del AVE es incalculable, pero ya se nota»",
+        "image_url": "https://www.alertadigital.com/wp-content/uploads/2026/03/procesion.webp",
+        "tags": [
+            "economía",
+            "tecnología",
+            "daily",
+            "news",
+            "ultimas noticias",
+            "internet",
+            "cataluña",
+            "technology",
+            "buscador",
+            "alerta digital",
+            "catalunya",
+            "navegante",
+            "metropoli",
+            "periódico",
+            "newspaper",
+            "salud",
+            "alertadigital.com",
+            "periodico",
+            "economia",
+            "opinion",
+            "deportes",
+            "sport",
+            "noticias",
+            "madrid",
+            "breaking news",
+            "internacional",
+            "spain",
+            "politica",
+            "españa",
+            "diario",
+            "tiempo",
+            "espana",
+            "weather",
+            "alertadigital",
+            "dinero",
+            "urgente"
+        ],
+        "link": "https://www.alertadigital.com/2026/03/21/el-sector-turistico-de-malaga-alza-la-voz-el-impacto-del-corte-del-ave-es-incalculable-pero-ya-se-nota/",
+        "date": "2026-03-21 21:32:22",
+        "sentiment_score": -0.9040211690589786
+    },
+    {
+        "title": "El Barcelona supera al Palma y se disputará la Copa de España con el Jaén en Granada",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/03/21/copa-barsa-palma-semifinal-baldo%20(29)-knb--758x531@Ideal.jpg",
+        "tags": [
+            "copa del rey de fútbol",
+            "f.c. barcelona",
+            "jaén",
+            "españa",
+            "palma de mallorca"
+        ],
+        "link": "https://www.ideal.es/deportes/provincial-granada/barcelona-supera-palma-disputara-copa-espana-jaen-20260321232332-nt.html",
+        "date": "2026-03-21 22:23:35",
+        "sentiment_score": 0.1872974932193756
+    },
+    {
+        "title": "El Palma Futsal naufraga en 'semis' y extiende el maleficio nacional",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4420569.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.ultimahora.es/deportes/palma-futsal/2026/03/21/2594183/fcb-palma-futsal.html",
+        "date": "2026-03-21 22:19:00",
+        "sentiment_score": -0.3786369115114212
+    },
+    {
+        "title": "Maxi López sorprendió al revelar cuál fue la mayor cantidad de dinero que ganó en un mes",
+        "image_url": "https://www.infobae.com/resizer/v2/CYJYQP7XY5BW3K2IIED34EVY7Q.jpg?auth=953a5106ed8a5006a7f904c34a846b6207292061b64b94ad23411e392719be97&smart=true&width=1920&height=1080",
+        "tags": [
+            "maxi lopez",
+            "masterchef"
+        ],
+        "link": "https://www.infobae.com/teleshow/2026/03/21/maxi-lopez-sorprendio-al-revelar-cual-fue-la-mayor-cantidad-de-dinero-que-gano-en-un-mes/",
+        "date": "2026-03-21 22:15:02",
+        "sentiment_score": 0.6526233647018671
+    },
+    {
+        "title": "0-4. El PSG golea y recupera el liderato; Dro se estrena",
+        "image_url": "https://qpwebsite.s3.amazonaws.com/uploads/2026/03/rss-efe02356bb297b7b4cb5eb0f34f3a717eeb0ecb76e1w.jpg",
+        "tags": [
+            "fútbol",
+            "psg"
+        ],
+        "link": "https://quepasamedia.com/deportes/0-4-el-psg-golea-y-recupera-el-liderato-dro-se-estrena/",
+        "date": "2026-03-21 22:13:25",
+        "sentiment_score": 0.27756090462207794
+    },
+    {
+        "title": "El Barcelona castiga al Athletic y vuelve a golearle",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2026/03/21/barcelona-nueva56-kaXD--758x531@El%20Correo.jpg",
+        "tags": [
+            "f.c. barcelona",
+            "athletic de bilbao"
+        ],
+        "link": "https://www.elcorreo.com/deporte-femenino/futbol/athletic-femenino/barcelona-castiga-athletic-vuelve-golearle-20260321231252-nt.html",
+        "date": "2026-03-21 22:12:55",
+        "sentiment_score": -0.5949509292840958
+    },
+    {
+        "title": "Sólo ocho días duró el suministro de agua en Aragua de Barcelona",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://eltiempove.com/solo-ocho-dias-duro-el-suministro-de-agua-en-aragua-de-barcelona/",
+        "date": "2026-03-21 22:00:00",
+        "sentiment_score": -0.6393046360462904
+    },
+    {
+        "title": "Ibon Navarro: \"Puedo armar un follón, pero el equipo está muerto\"",
+        "image_url": "https://static.grupojoly.com/clip/c27341bb-98de-4aed-9c51-34dab08bc31e_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unicaja baloncesto"
+        ],
+        "link": "https://www.malagahoy.es/unicaja/ibon-navarro-armar-follon-equipo_0_2006248399.html",
+        "date": "2026-03-21 21:54:30",
+        "sentiment_score": -0.26025666296482086
+    },
+    {
+        "title": "Ibon Navarro, tras la derrota del Unicaja con el Tenerife: \"Hemos llegado blandos, sin colmillo\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e884fce4-7ccc-4399-98ba-fbf1dc0ad2b5_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "energía",
+            "gente",
+            "la laguna",
+            "unicaja",
+            "tenerife",
+            "ibon navarro"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2026/03/21/ibon-navarro-tenerife-entrenador-unicaja-128261865.html",
+        "date": "2026-03-21 21:49:54",
+        "sentiment_score": -0.9245901415124536
+    },
+    {
+        "title": "El ascenso del Rugby Turia deberá esperar",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/71495514-8ecb-4a3a-b2ae-d2687a9d9031_16-9-aspect-ratio_default_0_x980y454.jpg",
+        "tags": [
+            "rugby",
+            "turia",
+            "iberdrola"
+        ],
+        "link": "https://www.superdeporte.es/polideportivo/2026/03/21/ascenso-turia-debera-esperar-barca-rugby-liga-iberdrola-128263290.html",
+        "date": "2026-03-21 21:46:50",
+        "sentiment_score": 0.7801947519183159
     }
 ];
