@@ -1,473 +1,5 @@
 export default [
     {
-        "title": "Aeropuertos en EE.UU. colapsan tras renuncias de agentes de la TSA por cierre parcial del Gobierno",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "cierre gobierno",
-            "aeropuertos",
-            "usa"
-        ],
-        "link": "https://www.meneame.net/story/aeropuertos-ee-uu-colapsan-tras-renuncias-agentes-tsa-cierre",
-        "date": "2026-03-17 21:25:04",
-        "sentiment_score": -0.8103159908205271
-    },
-    {
-        "title": "Jennifer López, la mejor jugadora de petanca de España",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.meneame.net/story/jennifer-lopez-mejor-jugadora-petanca-espana",
-        "date": "2026-03-17 22:50:02",
-        "sentiment_score": 0.194056898355484
-    },
-    {
-        "title": "Pep Guardiola felicita al Real Madrid y a la prensa por la clasificación del equipo blanco para cuartos de final de la Champions: \"Felicidades al Madrid y a todos vosotros\"",
-        "image_url": "https://www.cope.es/files/microformat_image/uploads/2026/03/17/69b9d9a49040d.jpeg",
-        "tags": [
-            "pep",
-            "felicita",
-            "guardiola",
-            "real",
-            "madrid"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/pep-guardiola-felicita-real-madrid-prensa-clasificacion-equipo-blanco-cuartos-final-champions-felicidades-madrid-todos-vosotros-20260317_3328624.html",
-        "date": "2026-03-17 22:48:59",
-        "sentiment_score": -0.0029045045375823975
-    },
-    {
-        "title": "22:00 | 17 MAR 2026 | TIEMPO DE JUEGO",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/01/20/678e8e8da933c.jpeg",
-        "tags": [
-            "mar",
-            "17",
-            "2026",
-            "22",
-            "00"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-17-mar-2026-juego-20260317_3328622.html",
-        "date": "2026-03-17 22:48:36",
-        "sentiment_score": 0.05505234748125076
-    },
-    {
-        "title": "El codo que quebró la pizarra de Guardiola",
-        "image_url": "https://cflvdg.avoz.es/sc/PaDB1jbbMVInPD_BiTrk3nDz5vI=/768x/2026/03/17/00121773787381459226946/Foto/efe_20260317_210936352.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/03/17/codo-quebro-pizarra-guardiola/00031773787268341549696.htm",
-        "date": "2026-03-17 22:43:00",
-        "sentiment_score": 0.6845276951789856
-    },
-    {
-        "title": "El Real Madrid cierra el pase a los cuartos de final y deja al City a cuadros",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/03/17/manchestercity-realmadrid-vinicius-kJEH--758x531@RC.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreo.com/deportes/futbol/liga-campeones/cronica-manchestercity-realmadrid-20260317201734-ntrc.html",
-        "date": "2026-03-17 22:41:18",
-        "sentiment_score": 0.42394255101680756
-    },
-    {
-        "title": "Sofisticación y elegancia en la exclusiva cena inaugural de la MBFW en el Teatro Real",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260317233522_1200.jpg",
-        "tags": [
-            "mercedes-benz",
-            "teatro real",
-            "moda"
-        ],
-        "link": "https://www.europapress.es/chance/moda/noticia-sofisticacion-elegancia-exclusiva-cena-inaugural-mbfw-teatro-real-20260317233522.html",
-        "date": "2026-03-17 22:35:22",
-        "sentiment_score": 0.7535939011722803
-    },
-    {
-        "title": "Real Madrid elimina al Manchester City y reafirma su dominio en Champions",
-        "image_url": "https://www.mundonow.com/wp-content/uploads/2026/03/3b552de8744e7717462553bf2d2e777ebe01c83a-1-scaled.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.mundonow.com/real-madrid-elimina-manchester-city/",
-        "date": "2026-03-17 22:34:57",
-        "sentiment_score": -0.20234771072864532
-    },
-    {
-        "title": "5 claves esenciales para elegir un Cerrajero 24 horas",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5812762/5-claves-esenciales-elegir-cerrajero-24-horas",
-        "date": "2026-03-17 22:34:16",
-        "sentiment_score": 0.37138500809669495
-    },
-    {
-        "title": "Vinicius rompe los papeles de Guardiola en el paraíso eterno del Madrid",
-        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/17/17737861240166.jpg",
-        "tags": [
-            "pep guardiola",
-            "deportes/futbol/champions-league",
-            "liga de campeones",
-            "fútbol",
-            "vinicius júnior",
-            "real madrid",
-            "deportes"
-        ],
-        "link": "https://www.elmundo.es/deportes/futbol/champions-league/2026/03/17/69b9d688e9cf4a915b8b458b.html",
-        "date": "2026-03-17 22:33:49",
-        "sentiment_score": -0.7824827134609222
-    },
-    {
-        "title": "Zelenski afirma que ha enviado más de 200 \"expertos\" en drones a países del golfo Pérsico",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260317233258_1200.jpg",
-        "tags": [
-            "reino unido",
-            "ucrania",
-            "irán",
-            "israel",
-            "estados unidos",
-            "drones",
-            "volodimir zelenski"
-        ],
-        "link": "https://www.europapress.es/internacional/noticia-zelenski-afirma-enviado-mas-200-expertos-drones-paises-golfo-persico-20260317233258.html",
-        "date": "2026-03-17 22:32:58",
-        "sentiment_score": -0.7478797771036625
-    },
-    {
-        "title": "Rosalía dio apertura a su gira Lux sinfónico en Francia",
-        "image_url": "https://elluchador.info/wp-content/uploads/2026/03/rosalia-dio-apertura-a-su-gira-lux-sinfonico-en-francia-195528.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elluchador.info/?p=305259",
-        "date": "2026-03-17 22:34:00",
-        "sentiment_score": 0.22077395021915436
-    },
-    {
-        "title": "Terrassa emula a Barcelona y dibuja su 'superilla': más calles sin coches, horarios para 'riders' y multas de 200 euros",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/16/actualidad/1003742742072_15835340_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "superilla",
-            "movilidad",
-            "terrassa",
-            "coches"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260317/terrassa-emula-barcelona-dibuja-superilla-calles-sin-coches-horarios-riders-multas-euros/1003742741640_0.html",
-        "date": "2026-03-17 22:32:48",
-        "sentiment_score": 0.2550295740365982
-    },
-    {
-        "title": "Un té con leche",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/12/18/el-pulso-de-la-ciudad/635696428_9793967_1706x960.jpg",
-        "tags": [
-            "gremi de restauració",
-            "restaurantes barcelona",
-            "macropanaderías",
-            "inmigración",
-            "inversion",
-            "opinión",
-            "bares y restaurantes",
-            "turismo"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/opinion/20260317/leche/1003742742578_12.html",
-        "date": "2026-03-17 22:30:00",
-        "sentiment_score": -0.8969811238348484
-    },
-    {
-        "title": "Antifrau archiva la denuncia por la caducidad de casi 1.600 multas de tráfico en Montgat",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/02/24/gran-barcelona/1003742735767_15754801_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "montgat",
-            "multas en barcelona",
-            "guardia urbana"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260317/antifrau-archiva-denuncia-caducidad-multas-trafico-montgat/1003742735929_0.html",
-        "date": "2026-03-17 22:30:00",
-        "sentiment_score": -0.8090139664709568
-    },
-    {
-        "title": "Barcelona se prepara para exhibir sus diseños en la Semana de la Moda de Milán",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/13/actualidad/1003742741310_15825386_1706x960.jpg",
-        "tags": [
-            "moda",
-            "ayuntamiento de barcelona",
-            "información municipal",
-            "eventos",
-            "generalitat de catalunya"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260317/barcelona-prepara-exhibir-disenos-semana-moda-milan/1003742741233_0.html",
-        "date": "2026-03-17 22:30:00",
-        "sentiment_score": 0.6080704145133495
-    },
-    {
-        "title": "Muere un excursionista de Torelló que quedó atrapado en un alud en el Pallars Sobirà",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/17/69b9d34fe771b.r_d.635-721-0.jpeg",
-        "tags": [
-            "quedó",
-            "alud",
-            "torelló",
-            "excursionista",
-            "sobirà",
-            "muere",
-            "pallars",
-            "atrapado"
-        ],
-        "link": "https://www.lavanguardia.com/local/pirineos/20260317/11492546/muere-excursionista-torello-quedo-atrapado-alud-pallars-sobira.html",
-        "date": "2026-03-17 22:29:52",
-        "sentiment_score": -0.6894486546516418
-    },
-    {
-        "title": "La Fundación Emilio Sánchez Vicario recibe el Premio ‘Fuera Pista’ del RCT Barcelona-1899",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2025/04/rune-gana-alcaraz-trofeo-conde-godo-469x317.jpg",
-        "tags": [
-            "servimedia"
-        ],
-        "link": "https://theobjective.com/actualidad/2026-03-17/fundacion-emilio-sanchez-vicario-premio-fuera-pista-rct/",
-        "date": "2026-03-17 22:28:31",
-        "sentiment_score": 0.557801116257906
-    },
-    {
-        "title": "Champions League: Real Madrid y PSG avanzan a cuartos. Sporting revienta el sueño de Bodø/Glimt",
-        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/e/9d/e9dd242e-68d9-55f4-8aa1-95c9850a62cd/69b97d021e86a.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-        "tags": [
-            "sports",
-            "madrid psg city chelsea bodo liga campeones"
-        ],
-        "link": "https://santamariatimes.com/ap/sports/champions-league-real-madrid-y-psg-avanzan-a-cuartos-sporting-revienta-el-sue-o-de/article_61e270eb-258d-5793-92fb-dd317ec9ae55.html",
-        "date": "2026-03-17 22:14:00",
-        "sentiment_score": 0.2061551809310913
-    },
-    {
-        "title": "Esta es la estrella de Japón que no jugará el Mundial 2026 en México por lesión",
-        "image_url": "https://www.infobae.com/resizer/v2/BU4C36WC6FEHNOS6GOSIOQWRWI.png?auth=52320b1fd91800cd86fcdeb4ac4ce1f048e414b9cfb30fdb1366b10666e2c261&smart=true&width=1600&height=900",
-        "tags": [
-            "mundial 2026",
-            "takumi minamino",
-            "as monaco",
-            "japón",
-            "mexico-noticias",
-            "mexico-deportes"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2026/03/18/esta-es-la-estrella-de-japon-que-no-jugara-el-mundial-2026-en-mexico-por-lesion/",
-        "date": "2026-03-18 02:56:00",
-        "sentiment_score": -0.6666019335389137
-    },
-    {
-        "title": "Guardiola reconoce que todos lo quieren despedir tras derrota del City en la Champions",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "sports",
-            "deportes",
-            "manchester city liga campeones pep guardiola"
-        ],
-        "link": "https://apnews.com/article/manchester-city-liga-campeones-pep-guardiola-3358bfdf616b4095254e1c6fa175b241",
-        "date": "2026-03-18 01:55:20",
-        "sentiment_score": -0.09128783643245697
-    },
-    {
-        "title": "Cuando la baja estatura esconde un causa genética: \"En los últimos años hemos conocido muchos genes que regulan el crecimiento\"",
-        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/17/17737864548858.jpg",
-        "tags": [
-            "salud",
-            "ciencia-y-salud/salud",
-            "ciencia y salud",
-            "genética",
-            "pediatría"
-        ],
-        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2026/03/18/69b99c83e85eceb50f8b4574.html",
-        "date": "2026-03-18 01:29:38",
-        "sentiment_score": 0.006130054593086243
-    },
-    {
-        "title": "Madrid se convierte en el epicentro de la Fórmula 1 escolar con STEM Racing Spain",
-        "image_url": "https://s1.staticld.com/2026/03/17/primera-vez-32-centros-publicos-andaluces-participan-stem-racing-supported-170326.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.libertaddigital.com/madrid/2026-03-18/madrid-se-convierte-en-el-epicentro-de-la-formula-1-escolar-con-stem-racing-spain-7375955/",
-        "date": "2026-03-18 01:00:20",
-        "sentiment_score": 0.35805733874440193
-    },
-    {
-        "title": "La guerra en Irán ya desvía turismo de Oriente Próximo hacia España",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/a2a3dd3aea56204bbe76c7c0e79154b2/resize/600/assets/multimedia/imagenes/2026/03/17/17737836918797.jpg",
-        "tags": [
-            "reino unido",
-            "empresas/transporte",
-            "empresas",
-            "transporte y turismo"
-        ],
-        "link": "https://www.expansion.com/empresas/transporte/2026/03/18/69b9caa3e5fdeaff688b457a.html",
-        "date": "2026-03-18 00:54:06",
-        "sentiment_score": 0.2599266692996025
-    },
-    {
-        "title": "La izquierda radical convierte Saint-Denis en «la ciudad de los negros» tras movilizar el voto musulmán en una localidad dominada por la inmigración",
-        "image_url": "https://gaceta.es/wp-content/uploads/2026/03/HDFKrluaMAA3pdR.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://gaceta.es/europa/la-izquierda-radical-convierte-saint-denis-en-la-ciudad-de-los-negros-tras-movilizar-el-voto-musulman-en-una-localidad-dominada-por-la-inmigracion-20260318-0146/",
-        "date": "2026-03-18 00:46:00",
-        "sentiment_score": 0.5370980128645897
-    },
-    {
-        "title": "Crear empresas desde la universidad, la mejor manera de fomentar el emprendimiento",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "business"
-        ],
-        "link": "https://theconversation.com/crear-empresas-desde-la-universidad-la-mejor-manera-de-fomentar-el-emprendimiento-235024",
-        "date": "2026-03-18 00:45:01",
-        "sentiment_score": 0.6474057510495186
-    },
-    {
-        "title": "17 MAR 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/06/10/684828a972448.jpeg",
-        "tags": [
-            "mar",
-            "17",
-            "2026",
-            "partidazo",
-            "cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/17-mar-2026-partidazo-cope-20260318_3328642.html",
-        "date": "2026-03-18 00:34:43",
-        "sentiment_score": 0.5511181727051735
-    },
-    {
-        "title": "PSG elimina al Chelsea",
-        "image_url": "https://diarioavance.com/wp-content/uploads/2026/03/1-13.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://diarioavance.com/psg-elimina-al-chelsea/",
-        "date": "2026-03-18 00:19:51",
-        "sentiment_score": 0.5269795507192612
-    },
-    {
-        "title": "PSG, Real Madrid y Arsenal avanzan a los cuartos de final de la Champions League",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/17201147/AFP__20260317__A3NV4T4__v1__MidRes__FblEurC1ArsenalLeverkusen.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.elnacional.com/2026/03/psg-real-madrid-y-arsenal-avanzan-a-los-cuartos-de-final-de-la-champions-league/",
-        "date": "2026-03-18 00:14:54",
-        "sentiment_score": 0.6842162050306797
-    },
-    {
-        "title": "Santanyí añora la línea ferroviaria que comunicó el Migjorn con la ciudad de Palma",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4415189.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ultimahora.es/noticias/part-forana/2026/03/18/2591303/santanyi-anora-linea-ferroviaria-comunico-migjorn-ciudad-palma.html",
-        "date": "2026-03-18 02:48:01",
-        "sentiment_score": -0.2923920899629593
-    },
-    {
-        "title": "Carles Rebassa: «No soy de esos escritores a los que le gusta enseñar pierna por Sant Jordi»",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4415115.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ultimahora.es/noticias/cultura/2026/03/18/2591247/carles-rebassa-soy-esos-escritores-que-gusta-ensenar-pierna-por-sant-jordi.html",
-        "date": "2026-03-18 02:48:01",
-        "sentiment_score": -0.5448612943291664
-    },
-    {
-        "title": "Cuenta atrás para el regreso de Enric Mas en Catalunya",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4415111.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ultimahora.es/deportes/otros-deportes/2026/03/18/2591255/cuenta-atras-para-regreso-enric-mas-catalunya.html",
-        "date": "2026-03-18 02:48:01",
-        "sentiment_score": -0.13737882673740387
-    },
-    {
-        "title": "La huella de Miró en los Estados Unidos ‘viaja’ a lo grande a Washington",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4415237.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ultimahora.es/noticias/cultura/2026/03/18/2591361/huella-miro-estados-unidos-viaja-grande-washington.html",
-        "date": "2026-03-18 02:48:01",
-        "sentiment_score": 0.25548186898231506
-    },
-    {
-        "title": "El Newcastle, el nuevo rico de la Premier League financiado por Arabia Saudí: gasta 10 veces más que el Barça en fichajes",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/06/07/culemania/palco/769683028_8059869_1706x960.jpg",
-        "tags": [
-            "palco",
-            "arabia saudí",
-            "champions league"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260318/newcastle-premier-league-financiado-arabia-saudi-barca/1003742742642_0.html",
-        "date": "2026-03-18 01:08:53",
-        "sentiment_score": -0.5340606868267059
-    },
-    {
-        "title": "Más de 70% de acatamiento en el segundo día de huelga educativa en Cataluña",
-        "image_url": "https://www.laizquierdadiario.com/IMG/logo/lid-221.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.laizquierdadiario.com/Mas-de-70-de-acatamiento-en-el-segundo-dia-de-huelga-educativa-en-Cataluna",
-        "date": "2026-03-18 00:02:44",
-        "sentiment_score": 0.19261140376329422
-    },
-    {
-        "title": "Kaiser Chiefs, Iván Ferreiro, Valeria Castro y León Benavente en el Sonarama Ribera Day",
-        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2026/03/17/214128369--758x531.jpg",
-        "tags": [
-            "conciertos en cantabria",
-            "cultura",
-            "rock"
-        ],
-        "link": "https://www.eldiariomontanes.es/dmusica/festivales/kaiser-chiefs-ivan-ferreiro-valeria-castro-leon-20260318220653-nt.html",
-        "date": "2026-03-18 00:00:00",
-        "sentiment_score": 0.035968877375125885
-    },
-    {
-        "title": "La Policía no encuentra a los responsables del boicot a cientos de cajetines de pisos turísticos en Granada",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/03/17/cajetines-airbnb-U50835238534SOg-758x531@Ideal.jpeg",
-        "tags": [
-            "whatsapp",
-            "ideal",
-            "albaicín",
-            "granada",
-            "policía nacional"
-        ],
-        "link": "https://www.ideal.es/granada/policia-encuentra-responsables-boicot-cientos-cajetines-pisos-20260318183354-nt.html",
-        "date": "2026-03-17 23:43:42",
-        "sentiment_score": -0.5701672099530697
-    },
-    {
-        "title": "Aeropuertos en EE.UU. colapsan tras renuncias de agentes de la TSA por cierre parcial del Gobierno",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "cierre gobierno",
-            "aeropuertos",
-            "usa"
-        ],
-        "link": "https://www.meneame.net/story/aeropuertos-ee-uu-colapsan-tras-renuncias-agentes-tsa-cierre",
-        "date": "2026-03-17 21:25:04",
-        "sentiment_score": -0.8103161845356226
-    },
-    {
-        "title": "Jennifer López, la mejor jugadora de petanca de España",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.meneame.net/story/jennifer-lopez-mejor-jugadora-petanca-espana",
-        "date": "2026-03-17 22:50:02",
-        "sentiment_score": 0.19405753910541534
-    },
-    {
         "title": "Los 100 mejores colegios de España de 2026 según la lista Forbes: ninguno público y la mayoría multilingüistas",
         "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/16/69b81a409ba4c1-82929441.jpeg",
         "tags": [
@@ -3223,5 +2755,252 @@ export default [
         "link": "https://okdiario.com/cataluna/aemet-preve-un-dia-soleado-y-estable-en-barcelona-con-viento-suave-y-algunas-nubes-altas-16458955",
         "date": "2026-03-21 06:19:31",
         "sentiment_score": 0.15813586115837097
+    },
+    {
+        "title": "Trump ofrece acceso a su informe privado de Seguridad Nacional a los que le donen dinero [Ing]",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "donantes",
+            "negocios",
+            "trump",
+            "seguridad"
+        ],
+        "link": "https://www.meneame.net/story/trump-ofrece-acceso-informe-privado-seguridad-nacional-donen-ing",
+        "date": "2026-03-21 10:15:03",
+        "sentiment_score": -0.7634982243180275
+    },
+    {
+        "title": "El Barca 'calienta' el mercado de la próxima temporada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "barca",
+            "euroliga",
+            "pascual",
+            "baskonia",
+            "mercado",
+            "temporada",
+            "calienta",
+            "proxima",
+            "xavi",
+            "españa",
+            "barcelona"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/03/21/barca-calienta-mercado-proxima-temporada-euroliga-baskonia-10848937.html",
+        "date": "2026-03-21 17:35:21",
+        "sentiment_score": -0.8792091868817806
+    },
+    {
+        "title": "La Rosario Weiss de Sergio del Molino",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2026/03/21/sergio-molino-keRC-U201308875659R4D-758x531@El%20Correo.jpg",
+        "tags": [
+            "sergio",
+            "weiss",
+            "molino",
+            "rosario"
+        ],
+        "link": "https://www.elcorreo.com/culturas/territorios/rosario-weiss-sergio-molino-20260321125235-nt.html",
+        "date": "2026-03-21 17:32:46",
+        "sentiment_score": 0.1917582005262375
+    },
+    {
+        "title": "Números previos al derbi entre Real Madrid y Atlético",
+        "image_url": "https://pxcdn.meridiano.net/032026/1774113925601.jpg",
+        "tags": [
+            "real madrid",
+            "atlético de madrid",
+            "laliga"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/numeros-previos-al-derbi-entre-real-madrid-y-atletico-202632113310",
+        "date": "2026-03-21 17:31:00",
+        "sentiment_score": 0.29578013718128204
+    },
+    {
+        "title": "Ayuso, junto al Rey, en la primera carrera en España del Campeonato del Mundo de Fórmula E",
+        "image_url": "https://s1.staticld.com/2026/03/21/ayuso-fe-01.jpeg",
+        "tags": [
+            "madrid",
+            "felipe vi",
+            "isabel díaz ayuso"
+        ],
+        "link": "https://www.libertaddigital.com/madrid/2026-03-21/ayuso-junto-al-rey-en-la-primera-carrera-en-espana-del-campeonato-del-mundo-de-formula-e-7378303/",
+        "date": "2026-03-21 17:30:36",
+        "sentiment_score": 0.6624194663017988
+    },
+    {
+        "title": "El derbi de las ausencias: Real Madrid y Atlético de Madrid llegan al Bernabéu con sus onces mermados por las lesiones",
+        "image_url": "https://www.infobae.com/resizer/v2/XC4INEWPDJFVPKSSHRFZQFFQZE.jpg?auth=d9880aede996d7f1a44dcfe7e445c86a01a8665a5d197e4e7a3ca4aa407c5918&smart=true&width=1920&height=1080",
+        "tags": [
+            "españa deportes",
+            "atlético de madrid",
+            "lesiones deportivas",
+            "fútbol españa",
+            "españa noticias",
+            "fútbol",
+            "real madrid",
+            "lesiones",
+            "laliga"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/21/el-derbi-de-las-ausencias-real-madrid-y-atletico-de-madrid-llegan-al-bernabeu-con-sus-onces-mermados-por-las-lesiones/",
+        "date": "2026-03-21 17:30:16",
+        "sentiment_score": -0.529528833925724
+    },
+    {
+        "title": "La navarra Amaia Romero emociona en la premier de 'Amarga Navidad' interpretando 'Las simples cosas'",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/6cd21404-292d-4d51-8e07-2cc03b1357f0_16-9-aspect-ratio_default_0_x695y292.jpg",
+        "tags": [
+            "premier",
+            "emociona",
+            "navidad",
+            "interpretación",
+            "navarra",
+            "las simples cosas",
+            "amaia",
+            "amarga",
+            "película",
+            "romero",
+            "pedro almodóvar",
+            "amaia romero"
+        ],
+        "link": "https://www.noticiasdenavarra.com/gente/2026/03/21/navarra-amaia-romero-emociona-premier-amarga-navidad-interpretacion-las-simples-cosas-10848934.html",
+        "date": "2026-03-21 17:30:02",
+        "sentiment_score": 0.18485359102487564
+    },
+    {
+        "title": "¿Le falta nivel? Simeone evalúa al mexicano Obed Vargas previo al encuentro frente al Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/6EJZRLJW7RATROGNLQIY5M2PYY.jpg?auth=6dbd79d275bd2f730fcc4e2497372e10b090007e6020e5fa1b050f35f0e108cc&smart=true&width=1920&height=1080",
+        "tags": [
+            "obed vargas",
+            "mexico-deportes",
+            "atlético de madrid",
+            "mexico-noticias",
+            "real madrid"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2026/03/21/le-falta-nivel-simeone-evalua-al-mexicano-obed-vargas-previo-al-encuentro-frente-al-real-madrid/",
+        "date": "2026-03-21 17:26:31",
+        "sentiment_score": 0.23719121888279915
+    },
+    {
+        "title": "Montero exige al Gobierno que salga de la OTAN y que realice un \"tope real de los precios\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260321182424_1200.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.europapress.es/videos/video-montero-exige-gobierno-salga-otan-realice-tope-real-precios-20260321182424.html",
+        "date": "2026-03-21 17:24:24",
+        "sentiment_score": -0.04627484083175659
+    },
+    {
+        "title": "‘+ Ortega’ rescata obra inédita del artista ciudadrealeño y reaviva su legado cultural",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/03/FotoJet-2026-03-21T182026.219-519x337.jpg",
+        "tags": [
+            "ortega"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/ortega-rescata-obra-inedita-del-artista-ciudadrealeno-y-reaviva-su-legado-cultural/",
+        "date": "2026-03-21 17:22:34",
+        "sentiment_score": -0.030585676431655884
+    },
+    {
+        "title": "“Tú eres una inspiración”, las emotivas palabras de Danilo a Pol Deportes tras visitar a Flamengo en el Maracaná",
+        "image_url": "https://www.infobae.com/resizer/v2/36ECWRM7GVGVJBBX37LPIMS5EA.jpg?auth=bccd15fc82d264cd50b82481094c35e204c93ae52e1c1612dbf375f31b50b10a&smart=true&width=1920&height=1080",
+        "tags": [
+            "danilo",
+            "flamengo",
+            "peru-deportes",
+            "pol deportes"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/03/21/tu-eres-una-inspiracion-las-emotivas-palabras-de-danilo-a-pol-deportes-tras-visitar-a-flamengo-en-el-maracana/",
+        "date": "2026-03-21 17:16:39",
+        "sentiment_score": 0.2387406826019287
+    },
+    {
+        "title": "Francesc Galí presenta en Barcelona su libro sobre la escritora Zenobia Camprubí",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/03/Libro-gastronomi%CC%81a-469x317.jpg",
+        "tags": [
+            "servimedia"
+        ],
+        "link": "https://theobjective.com/actualidad/2026-03-21/francesc-gali-libro/",
+        "date": "2026-03-21 17:37:26",
+        "sentiment_score": 0.1488684006035328
+    },
+    {
+        "title": "Cinco experimentos escénicos para salir del teatro boquiabiertos",
+        "image_url": "https://static1.ara.cat/clip/d9f9b3e8-d718-48fa-8725-b5feda7ddde2_16-9-aspect-ratio_default_0_x380y629.jpg",
+        "tags": [
+            "experimentos",
+            "salir",
+            "boquiabiertos",
+            "escenicos",
+            "teatro",
+            "cinco"
+        ],
+        "link": "https://es.ara.cat/cultura/teatro/cinco-experimentos-escenicos-salir-teatro-boquiabiertos_1_5685551.html",
+        "date": "2026-03-21 17:35:45",
+        "sentiment_score": 0.09209339320659637
+    },
+    {
+        "title": "Cazan un 'taxi pirata' en Barcelona: positivo en drogas, sin seguro, con la ITV falsa y el carnet caducado",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/21/actualidad/1003742744135_15865469_1706x960.jpg",
+        "tags": [
+            "consumo drogas",
+            "drogas",
+            "taxistas barcelona",
+            "guardia urbana",
+            "sucesos"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sucesos/20260321/cazan-taxi-pirata-barcelona-positivo-drogas-sin-seguro-itv-falsa-carnet-caducado/1003742744130_0.html",
+        "date": "2026-03-21 17:31:54",
+        "sentiment_score": -0.9151472430676222
+    },
+    {
+        "title": "Dos adolescentes hieren a otros dos a puñaladas para robarles el patinete",
+        "image_url": "https://www.clm24.es/media/clm24/images/2024/08/16/2024081617382861027.jpg",
+        "tags": [
+            "agresi&oacute;n",
+            "sucesos",
+            "adolescentes",
+            "robo"
+        ],
+        "link": "https://www.clm24.es/articulo/viral/dos-adolescentes-hieren-otros-dos-punaladas-robarles-patinete/20260321183140473468.html",
+        "date": "2026-03-21 17:31:40",
+        "sentiment_score": -0.7421565447002649
+    },
+    {
+        "title": "El Barça bloqueará la venta de más de 300 entradas del Spotify Camp Nou por mala visibilidad",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/19/actualidad/1003742743449_15865402_1706x960.jpg",
+        "tags": [
+            "barça",
+            "camp nou",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260321/barca-bloqueara-entradas-spotify-camp-nou-visibilidad/1003742744129_0.html",
+        "date": "2026-03-21 17:30:19",
+        "sentiment_score": -0.24502714723348618
+    },
+    {
+        "title": "Las provincias del Mediterráneo lideran el déficit de vivienda: el incremento acelerado de los hogares eleva la carencia de pisos hasta los 730.000, según un estudio",
+        "image_url": "https://www.infobae.com/resizer/v2/YQWBIFWF2VBBLC2WDOBJUPP7VU.png?auth=d38f544069c079af0c15284ecb38a935be5bbcfb12b30c804eea87a2269113f0&smart=true&width=1920&height=1080",
+        "tags": [
+            "vivienda",
+            "españa-noticias",
+            "mercado inmobiliario",
+            "vivienda españa",
+            "españa-economia"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/21/las-provincias-del-mediterraneo-lideran-el-deficit-de-vivienda-el-incremento-acelerado-de-los-hogares-eleva-la-carencia-de-pisos-hasta-los-730000-segun-un-estudio/",
+        "date": "2026-03-21 17:26:27",
+        "sentiment_score": -0.6162579879164696
+    },
+    {
+        "title": "El Espanyol se mete en un lío",
+        "image_url": "https://static1.ara.cat/clip/00825b2b-fe2f-4ea9-934d-e35110ebac9a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lio",
+            "espanyol",
+            "mete"
+        ],
+        "link": "https://es.ara.cat/deportes/rcd-espanyol/espanyol-mete-lio_1_5685565.html",
+        "date": "2026-03-21 17:25:10",
+        "sentiment_score": -0.9003165056928992
     }
 ];
