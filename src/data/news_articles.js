@@ -1,269 +1,5 @@
 export default [
     {
-        "title": "Mbappé domina el Pichichi de la Champions mientras Kane y Julián aprietan",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/19/2025101923111111708.jpg",
-        "tags": [
-            "real madrid",
-            "pichichi",
-            "harry-kane",
-            "juli&aacute;n &aacute;lvarez",
-            "champions league",
-            "kylian-mbappe",
-            "mbappe"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/mbappe-domina-pichichi-champions-mientras-kane-julian-aprietan/20260319080653379266.html",
-        "date": "2026-03-19 07:06:53",
-        "sentiment_score": 0.0647631585597992
-    },
-    {
-        "title": "07:00H | 19 MAR 2026 | Herrera en COPE",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67cfe50112eb6.jpeg",
-        "tags": [
-            "19",
-            "07",
-            "mar",
-            "00h",
-            "2026"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/07-00h-19-mar-2026-herrera-cope-20260319_3329593.html",
-        "date": "2026-03-19 07:06:00",
-        "sentiment_score": 0.025577079504728317
-    },
-    {
-        "title": "Francisco Muro de Iscar.- La ineptitud: de Ormuz a Adamuz",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/amp-logo/logo-europapress.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.europapress.es/otr-press/firmas/franciscomuro/noticia-francisco-muro-iscar-ineptitud-ormuz-adamuz-20260319080103.html",
-        "date": "2026-03-19 07:01:03",
-        "sentiment_score": -0.9229370281100273
-    },
-    {
-        "title": "Agenda de la Mercedes-Benz Fashion Week Madrid 2026 hoy, 19 marzo: diseñadores, horario y qué desfiles hay",
-        "image_url": "https://okdiario.com/img/2026/03/17/agenda-de-la-mercedes-benz-fashion-week-madrid-2026-hoy-19-marzo-disenadores-horario-y-que-desfiles-hay.jpg",
-        "tags": [
-            "madrid",
-            "moda",
-            "mercedes benz",
-            "mercedes-benz fashion week madrid (mbfwm)",
-            "okd"
-        ],
-        "link": "https://okdiario.com/cool/moda/agenda-mercedes-benz-fashion-week-madrid-2026-hoy-19-marzo-disenadores-horario-que-desfiles-hay-16431570",
-        "date": "2026-03-19 07:00:51",
-        "sentiment_score": 0.1347789466381073
-    },
-    {
-        "title": "Alonsotegi cumple sueños y deseos en ayuda a domicilio",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/cbb462f1-730a-4970-a934-f0267a33ea28_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "memoria",
-            "ayuntamiento de alonsotegi",
-            "personas mayores",
-            "domicilio",
-            "ayuda",
-            "cumple",
-            "gestora",
-            "suenos",
-            "deseos",
-            "alonsotegi"
-        ],
-        "link": "https://www.deia.eus/bizkaia/2026/03/19/alonsotegi-cumple-suenos-deseos-ayuda-domicilio-10838913.html",
-        "date": "2026-03-19 07:00:26",
-        "sentiment_score": -0.013213008642196655
-    },
-    {
-        "title": "Poder duro o poder blando, el dilema de Von der Leyen",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/53TT7U67E5I2XLYH5QU6V43G5M.jpg?auth=8c24587c8bde0e27325b0b1e0083610f48abb40ccc5894f9d08606fd15966b6c",
-        "tags": [
-            "unión europea",
-            "ursula von der leyen",
-            "opinión",
-            "pib",
-            "comisión europea",
-            "bruselas",
-            "donald trump"
-        ],
-        "link": "https://cincodias.elpais.com/opinion/2026-03-19/soft-power-vs-hard-power-el-dilema-von-der-leyen.html",
-        "date": "2026-03-19 07:00:00",
-        "sentiment_score": -0.7632105108350515
-    },
-    {
-        "title": "Dónde ver el Valencia - Barça: día y hora del partido de la Euroliga de baloncesto",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/18/69ba65706b73b.jpeg",
-        "tags": [
-            "dónde",
-            "euroliga",
-            "partido",
-            "ver",
-            "valencia",
-            "baloncesto",
-            "día",
-            "hora",
-            "barça"
-        ],
-        "link": "https://www.lavanguardia.com/comprar/cultura-ocio/20260319/11492809/donde-ver-valencia-barca-dia-hora-partido-euroliga-baloncesto-mkt-movi.html",
-        "date": "2026-03-19 06:55:00",
-        "sentiment_score": -0.1994224190711975
-    },
-    {
-        "title": "El Tribunal Supremo reabre la guerra por la tributación en el IRPF de los intereses de demora",
-        "image_url": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2024/01/31/17066861678073.jpg",
-        "tags": [
-            "economia",
-            "economía",
-            "fiscal",
-            "artículos ignacio faes"
-        ],
-        "link": "https://www.expansion.com/economia/2026/03/19/69bb027a468aeb232e8b4574.html",
-        "date": "2026-03-19 06:53:13",
-        "sentiment_score": 0.058578476309776306
-    },
-    {
-        "title": "La camisa de Guardiola se vuelve viral tras la eliminación del City ante el Madrid",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/19/2026031907484662578.jpg",
-        "tags": [
-            "manchester city",
-            "champions league",
-            "guardiola",
-            "real madrid",
-            "pep guardiola"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/camisa-guardiola-vuelve-viral-eliminacion-city-madrid/20260319074924379265.html",
-        "date": "2026-03-19 06:49:24",
-        "sentiment_score": 0.6961330249905586
-    },
-    {
-        "title": "Raúl Moro es duda para el partido contra el Girona",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2cd28218-4e45-444d-bbf0-3ad1882840e1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "osasuna",
-            "girona",
-            "raul",
-            "partido",
-            "moro",
-            "raúl moro",
-            "fútbol",
-            "el sadar",
-            "duda"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2026/03/19/raul-moro-duda-partido-girona-10838816.html",
-        "date": "2026-03-19 06:22:52",
-        "sentiment_score": -0.6757721267640591
-    },
-    {
-        "title": "07:00H | 19 MAR 2026 | ¡Buenos días, Javi y Mar!",
-        "image_url": "https://www.cadena100.es/files/microformat_image_1x1/uploads/2025/03/19/67db06446809d.jpeg",
-        "tags": [
-            "19",
-            "07",
-            "mar",
-            "00h",
-            "2026"
-        ],
-        "link": "https://www.cadena100.es/programas/buenos-dias-javi-y-mar/horas-completas/07-00h-19-mar-2026-buenos-dias-javi-mar-20260319_147625.html",
-        "date": "2026-03-19 07:10:00",
-        "sentiment_score": -0.3014877736568451
-    },
-    {
-        "title": "Sin relevo generacional para cubrir las jubilaciones de aparejadores: «Tenemos paro casi cero»",
-        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2026/03/13/WhatsApp%20Image%202026-03-12%20at%2013.55.00%20(1)-klhF--758x531@Leonoticias.jpg",
-        "tags": [
-            "león (capital)"
-        ],
-        "link": "https://www.leonoticias.com/leon/relevo-generacional-cubrir-jubilaciones-aparejadores-paro-cero-20260319080912-nt.html",
-        "date": "2026-03-19 07:09:17",
-        "sentiment_score": 0.6208521388471127
-    },
-    {
-        "title": "Guía práctica del sorteo de las Copas Libertadores y Sudamericana 2026: clasificados, bombos, formato y todo lo que hay que saber",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "deportes-argentina",
-            "deportes-internacional",
-            "copa sudamericana",
-            "boca juniors",
-            "copa libertadores",
-            "river plate"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/19/guia-practica-del-sorteo-de-las-copas-libertadores-y-sudamericana-2026-clasificados-bombos-formato-y-todo-lo-que-hay-que-saber/",
-        "date": "2026-03-19 07:05:17",
-        "sentiment_score": 0.09330463781952858
-    },
-    {
-        "title": "Gràcia se lleva la pequeña joya literaria del Raval",
-        "image_url": "https://static1.ara.cat/clip/93ca8561-ec7c-4230-95d5-a315ec97c720_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "lleva",
-            "literaria",
-            "joya",
-            "raval",
-            "pequena",
-            "gracia"
-        ],
-        "link": "https://es.ara.cat/sociedad/barcelona/gracia-lleva-pequena-joya-literaria-raval_1_5682929.html",
-        "date": "2026-03-19 07:04:29",
-        "sentiment_score": -0.2053702473640442
-    },
-    {
-        "title": "Los docentes cortan la C-58 en Sant Quirze del Vallès y el acceso a Mataró por la C-60 en el cuarto día de huelga",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c8af5b3c-7bc9-426e-b0de-8d313a8e2ee4_alta-libre-aspect-ratio_default_0_x1024y512.jpg",
-        "tags": [
-            "mataró",
-            "huelgas",
-            "granollers",
-            "funcionarios",
-            "maestros y profesores",
-            "sabadell",
-            "educación",
-            "terrassa",
-            "profesores",
-            "ugt",
-            "girona",
-            "ccoo",
-            "sindicatos",
-            "educación en catalunya"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260319/docentes-huelga-educacion-carreteras-protesta-educacion-valles-manifestaciones-maresme-girona-128156539",
-        "date": "2026-03-19 07:04:05",
-        "sentiment_score": -0.45435521751642227
-    },
-    {
-        "title": "Cortada la C-58 en ambos sentidos en Sant Quirze (Barcelona) por la huelga de docentes",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260319080258_1200.jpg",
-        "tags": [
-            "huelga"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-cortada-58-ambos-sentidos-sant-quirze-barcelona-huelga-docentes-20260319080258.html",
-        "date": "2026-03-19 07:02:58",
-        "sentiment_score": -0.6537675186991692
-    },
-    {
-        "title": "Pérdidas en el sector turístico: el aplazamiento del AVE Málaga-Madrid enfrenta a Junta y Gobierno central",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c05a6de0-0f6d-4bef-9f1c-f71c3ab5dcad_16-9-aspect-ratio_default_0_x800y355.jpg",
-        "tags": [
-            "tren",
-            "ave",
-            "alta velocidad"
-        ],
-        "link": "https://www.elcorreoweb.es/andalucia/2026/03/19/perdidas-sector-turistico-aplazamiento-ave-128155421.html",
-        "date": "2026-03-19 07:01:46",
-        "sentiment_score": -0.48269742727279663
-    },
-    {
-        "title": "¿Por qué triunfa ‘Lux’?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/01bd8118-62ee-434a-8f71-f6df90ba42aa_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "barcelona",
-            "evolución",
-            "crónica",
-            "rosalía"
-        ],
-        "link": "https://www.laprovincia.es/opinion/2026/03/19/triunfa-lux-128152010.html",
-        "date": "2026-03-19 07:00:02",
-        "sentiment_score": -0.0011608302593231201
-    },
-    {
         "title": "‘Zeta’: James Bond también puede ser Mario Casas",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4f2e9dae-8e50-4196-834f-9d01791002ca_16-9-aspect-ratio_default_0_x640y240.jpg",
         "tags": [
@@ -3133,5 +2869,178 @@ export default [
         "link": "https://www.20minutos.es/nacional/therese-seguira-trayendo-cielos-nubosos-lluvias-este-lunes-antes-un-martes-que-ya-llegara-estabilidad_6949184_0.html",
         "date": "2026-03-22 17:48:37",
         "sentiment_score": -0.35729799419641495
+    },
+    {
+        "title": "Asistencia de taco de Giuliano Simeone y golazo de Nahuel Molina: las perlitas del Atlético de Madrid en la caída ante el Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/P5CH7Y26U5CBVBVRMJZLJCQG2M.JPG?auth=308ea3f1ec469ef996b873970f40ab8f533edc93c1c556c2dbc91852242d81b1&smart=true&width=3506&height=1972",
+        "tags": [
+            "deportes-argentina",
+            "giuliano simeone",
+            "julián álvarez",
+            "nahuel molina",
+            "la liga",
+            "atlético de madrid",
+            "real madrid"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/22/asistencia-de-taco-de-giuliano-simeone-y-golazo-de-nahuel-molina-las-perlitas-del-atletico-de-madrid-en-la-caida-ante-el-real-madrid/",
+        "date": "2026-03-22 22:49:27",
+        "sentiment_score": -0.04043525457382202
+    },
+    {
+        "title": "Simeone: “No creo que no hayamos ganado por el árbitro; pudimos haber hecho más”",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/22/simeone-no-creo-que-no-hayamos-ganado-por-el-arbitro-pudimos-haber-hecho-mas/",
+        "date": "2026-03-22 22:45:45",
+        "sentiment_score": -0.2839161902666092
+    },
+    {
+        "title": "La selección española se concentra este lunes para los amistosos ante Serbia y Egipto",
+        "image_url": "https://www.infobae.com/resizer/v2/KCRW6NSDJREPNDK7G4WDVFU3RY.jpg?auth=e879aa0461e20a889f1b0d21156576a4e57d793d05185f8b658a702c955f6965&smart=true&width=1920&height=1280",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/22/la-seleccion-espanola-se-concentra-este-lunes-para-los-amistosos-ante-serbia-y-egipto/",
+        "date": "2026-03-22 22:45:42",
+        "sentiment_score": 0.07170837372541428
+    },
+    {
+        "title": "Crónica del Real Madrid - Atlético de Madrid: 3-2",
+        "image_url": "https://www.infobae.com/resizer/v2/KAQOIGCCVFEX5C4QZF3RXGEUVY.jpg?auth=f3a05750043cecd3870064b8dee9c475b5f9bbdc2f0ab6420f7f83f025d1d07b&smart=true&width=1920&height=1280",
+        "tags": [
+            "madrid",
+            "santiago bernabéu",
+            "nahuel molina",
+            "kylian mbappé",
+            "atlético de madrid",
+            "vinícius júnior",
+            "europapress",
+            "fede valverde",
+            "derbi madrileño",
+            "real madrid",
+            "laliga"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/22/cronica-del-real-madrid-atletico-de-madrid-3-2/",
+        "date": "2026-03-22 22:45:34",
+        "sentiment_score": 0.7345041036605835
+    },
+    {
+        "title": "VÍDEO | Nuevo lío Vinícius-Simeone: Las quejas del 'Cholo' a los gestos del brasileño",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/310x310/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/03/22/image-01856da1-da92-4671-9386-e1a5651070ca-68-310-310.jpeg",
+        "tags": [
+            "football",
+            "la liga 2025/2026"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/nuevo-lio-vinicius-simeone-quejas-cholo-real-madrid-atletico_sto23283703/story.shtml",
+        "date": "2026-03-22 22:45:18",
+        "sentiment_score": 0.6700233817100525
+    },
+    {
+        "title": "Simeone: “No creo que no hayamos ganado por el árbitro; pudimos haber hecho más”",
+        "image_url": "https://qpwebsite.s3.amazonaws.com/uploads/2026/03/rss-efedd850a784a5b42f0967a81f1e2c41dcaf0268249w.jpg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://quepasamedia.com/deportes/simeone-no-creo-que-no-hayamos-ganado-por-el-arbitro-pudimos-haber-hecho-mas/",
+        "date": "2026-03-22 22:43:40",
+        "sentiment_score": -0.18699237704277039
+    },
+    {
+        "title": "El Real Madrid atropella a un Barça desmoronado",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/6fa07a8c-b83d-427e-a0d576bd7312ac07.jpg",
+        "tags": [
+            "facundo campazzo",
+            "liga acb",
+            "real madrid",
+            "fc barcelona",
+            "liga endesa"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zafd0bbe5-9137-49aa-b749cbdae3e66b1f/202603/el-real-madrid-atropella-a-un-barca-desmoronado",
+        "date": "2026-03-22 22:42:55",
+        "sentiment_score": 0.7773517277091742
+    },
+    {
+        "title": "El Real Madrid se hace con un derbi espectacular para seguir vivo en la Liga",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/22/realmadrid-atletico-vinicius-cronica-kXoD-U201318459768d0D-758x531@RC.jpg",
+        "tags": [
+            "real madrid",
+            "atlético de madrid"
+        ],
+        "link": "https://www.ideal.es/deportes/futbol/liga-primera/cronica-realmadrid-atletico-primera-jornada29-20260322182836-ntrc.html",
+        "date": "2026-03-22 22:41:28",
+        "sentiment_score": -0.6098413653671741
+    },
+    {
+        "title": "Real Madrid se quedó con el Derbi y con uno menos en canch: Venció al Atlético en el Bernabéu",
+        "image_url": "https://noticiasaldiayalahora.co/wp-content/uploads/2026/03/Vinicius.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://noticiasaldiayalahora.co/sin-categoria/real-madrid-se-quedo-con-el-derbi-y-con-uno-menos-en-canch-vencio-al-atletico-en-el-bernabeu/",
+        "date": "2026-03-22 22:40:16",
+        "sentiment_score": -0.06275667995214462
+    },
+    {
+        "title": "Así fue la expulsión de Valverde en el partido entre el Real Madrid y el Atlético de Madrid, tras un nuevo encontronazo con Baena",
+        "image_url": "https://www.infobae.com/resizer/v2/KJWY4REK3BF2ZPFUB5N5L7W6ZU.JPG?auth=21a0ca0d55dfd0d88cb82db3bcac7b5ec6ac1b115a26a871d407f4d2a3f88972&smart=true&width=3044&height=1712",
+        "tags": [
+            "españa-noticias",
+            "españa-deportes",
+            "atlético de madrid",
+            "fútbol españa",
+            "fútbol",
+            "real madrid"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2026/03/22/asi-fue-la-expulsion-de-valverde-en-el-partido-entre-el-real-madrid-y-el-atletico-de-madrid-tras-un-nuevo-encontronazo-con-baena/",
+        "date": "2026-03-22 22:39:29",
+        "sentiment_score": -0.005130261182785034
+    },
+    {
+        "title": "Un turista en el Reino de Saba",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/03/22/214349066-kWiE--758x531@El%20Comercio.jpg",
+        "tags": [
+            "saba",
+            "turista",
+            "reino"
+        ],
+        "link": "https://www.elcomercio.es/opinion/ignacio-del-valle-turista-reino-saba-20260323221415-nt.html",
+        "date": "2026-03-22 22:43:25",
+        "sentiment_score": -0.10269962251186371
+    },
+    {
+        "title": "El maldito apeadero",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/03/20/pedro-sanchez-ktXF--170x119@diario_abc.jpg",
+        "tags": [
+            "apeadero",
+            "maldito"
+        ],
+        "link": "https://www.elcomercio.es/opinion/carlos-prieto-maldito-apeadero-20260323221242-nt.html",
+        "date": "2026-03-22 22:43:25",
+        "sentiment_score": -0.46129801124334335
+    },
+    {
+        "title": "El Barça refuerza su liderato con un gol de Araujo",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/22/2026032223420340421.jpg",
+        "tags": [
+            "bar&ccedil;a"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/barca-refuerza-liderato-gol-araujo/20260322234203443634.html",
+        "date": "2026-03-22 22:42:03",
+        "sentiment_score": 0.3657475560903549
+    },
+    {
+        "title": "Vinicius mantiene a flote al Madrid antes del parón",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/22/vinicius-mantiene-a-flote-al-madrid-antes-del-paron/",
+        "date": "2026-03-22 22:34:50",
+        "sentiment_score": 0.2400038093328476
     }
 ];
