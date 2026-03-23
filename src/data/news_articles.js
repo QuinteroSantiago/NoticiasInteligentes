@@ -1,143 +1,5 @@
 export default [
     {
-        "title": "‘Zeta’: James Bond también puede ser Mario Casas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4f2e9dae-8e50-4196-834f-9d01791002ca_16-9-aspect-ratio_default_0_x640y240.jpg",
-        "tags": [
-            "cine",
-            "james bond",
-            "cni",
-            "películas",
-            "amazon"
-        ],
-        "link": "https://www.elperiodicodearagon.com/ocio/cine/criticas/2026/03/19/zeta-james-bond-mario-casas-128185975.html",
-        "date": "2026-03-19 17:42:14",
-        "sentiment_score": -0.2738570123910904
-    },
-    {
-        "title": "Un encuentro que habla más que los pactos: Rufián y Montero frente a la izquierda",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/06/2025040621312922116.jpg",
-        "tags": [
-            "espa&ntilde;a",
-            "izquierda",
-            "psoe",
-            "pol&iacute;tica",
-            "irene-montero",
-            "gabriel rufi&aacute;n"
-        ],
-        "link": "https://www.mundiario.com/articulo/politica/gabriel-rufian-irene-montero-reavivan-debate-unidad-izquierda/20260319184106379375.html",
-        "date": "2026-03-19 17:41:06",
-        "sentiment_score": 0.20432031154632568
-    },
-    {
-        "title": "Barcelona y el Arzobispado empiezan las obras de la Capella dels Segadors de Sant Andreu de Palomar",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260319184050_1200.jpg",
-        "tags": [
-            "generalitat de catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-barcelona-arzobispado-empiezan-obras-capella-dels-segadors-sant-andreu-palomar-20260319184050.html",
-        "date": "2026-03-19 17:40:50",
-        "sentiment_score": 0.4789612516760826
-    },
-    {
-        "title": "Paneque ve una \"misión de país\" ofrecer pisos públicos de alquiler asequible",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260319183653_1200.jpg",
-        "tags": [
-            "alquiler",
-            "generalitat de catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-paneque-ve-mision-pais-ofrecer-pisos-publicos-alquiler-asequible-20260319183653.html",
-        "date": "2026-03-19 17:36:53",
-        "sentiment_score": 0.37464143335819244
-    },
-    {
-        "title": "Irene Montero y Gabriel Rufián, nueva pareja de izquierdas",
-        "image_url": "https://album.mediaset.es/eimg/2026/03/19/irene-montero-y-gabriel-rufian-la-nueva-pareja-para-explorar-el-futuro-de-la-izquierda-16-9-aspect-r_da39-2.jpg?w=1024",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.telecinco.es/noticias/espana/20260319/irene-montero-gabriel-rufian-pareja-izquierdas_18_018668697.html",
-        "date": "2026-03-19 17:36:51",
-        "sentiment_score": 0.03423984348773956
-    },
-    {
-        "title": "Colonial SFL mira a Berlín y Múnich para su entrada en Alemania",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/030d441f71221975f64cb98b103ca831/resize/600/assets/multimedia/imagenes/2026/03/19/17739415988903.jpg",
-        "tags": [
-            "catalunya",
-            "mercado inmobiliario",
-            "inmobiliario",
-            "empresas",
-            "cataluńa"
-        ],
-        "link": "https://www.expansion.com/catalunya/2026/03/19/69bc323e468aeb97688b45a0.html",
-        "date": "2026-03-19 17:36:05",
-        "sentiment_score": 0.490539513528347
-    },
-    {
-        "title": "Crean fondo rotatorio para fortalecer la pesca artesanal en Barcelona",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/IMG_4183-scaled.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://ultimasnoticias.com.ve/anzoateggui/crean-fondo-rotatorio-para-fortalecer-la-pesca-artesanal-en-barcelona/",
-        "date": "2026-03-19 17:32:22",
-        "sentiment_score": 0.26167262718081474
-    },
-    {
-        "title": "Los Reyes Felipe VI y Letizia se reunirán mañana con el Papa León XIV en su biblioteca privada en el Vaticano",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260319183104_1200.jpg",
-        "tags": [
-            "letizia",
-            "papa león xiv",
-            "iglesia católica",
-            "casa real"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-reyes-felipe-vi-letizia-reuniran-manana-papa-leon-xiv-biblioteca-privada-vaticano-20260319183104.html",
-        "date": "2026-03-19 17:31:04",
-        "sentiment_score": 0.10304458439350128
-    },
-    {
-        "title": "Definidos los cuartos de final de la Champions League tras una intensa ronda de vuelta en octavos",
-        "image_url": "https://noticialdia.com/wp-content/firewall/uploads/2026/03/cuartos-champions-1_13855240_20260318161136-930x450.webp",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://noticialdia.com/deportes/definidos-los-cuartos-de-final-de-la-champions-league-tras-una-intensa-ronda-de-vuelta-en-octavos/",
-        "date": "2026-03-19 17:25:48",
-        "sentiment_score": 0.041773393750190735
-    },
-    {
-        "title": "Quique Llopis y Attaoui lideran las esperanzas de España en Torun",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7c1715bd-c2d0-4e3a-8063-dc510999c7ea_16-9-aspect-ratio_default_0_x854y379.jpg",
-        "tags": [
-            "invierno",
-            "parís",
-            "tokio",
-            "selección española",
-            "españa"
-        ],
-        "link": "https://www.levante-emv.com/deportes/2026/03/19/quique-llopis-lideran-esperanzas-espana-128184896.html",
-        "date": "2026-03-19 17:24:47",
-        "sentiment_score": 0.5243637189269066
-    },
-    {
-        "title": "El Govern abre una segunda convocatoria de solares para alquiler social que incluye la rehabilitación de edificios",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/19/actualidad/1003742743297_15853182_1706x960.jpg",
-        "tags": [
-            "viviendas",
-            "generalitat de catalunya",
-            "vivienda",
-            "economía",
-            "alquiler vivienda"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260319/govern-abre-segunda-convocatoria-solares-alquiler-social-incluye-rehabilitacion-edificios/1003742743335_0.html",
-        "date": "2026-03-19 17:24:24",
-        "sentiment_score": 0.396896630525589
-    },
-    {
         "title": "0-1. El Rayo vuelve con sufrimiento a unos cuartos de final en Europa 25 años después",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
         "tags": [
@@ -3219,5 +3081,206 @@ export default [
         "link": "https://www.infobae.com/mexico/2026/03/23/mujer-senala-a-alfonso-waithsman-maquillista-de-las-estrellas-por-agresion-e-intimidacion-actitud-peligrosa/",
         "date": "2026-03-23 01:36:32",
         "sentiment_score": 0.10140475630760193
+    },
+    {
+        "title": "07:00H | 23 MAR 2026 | Herrera en COPE",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67cfe50112eb6.jpeg",
+        "tags": [
+            "00h",
+            "mar",
+            "07",
+            "23",
+            "2026"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/07-00h-23-mar-2026-herrera-cope-20260323_3331556.html",
+        "date": "2026-03-23 07:04:00",
+        "sentiment_score": -0.695840872824192
+    },
+    {
+        "title": "Qamarero gana los Premios EmprendeXXI como la startup con mayor potencial de Andalucía",
+        "image_url": "https://wp.emprendedores.es/wp-content/uploads/2026/03/qamarero_premio_emprendexxi_andaluci%CC%81a-.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://emprendedores.es/ayudas/directorio-quien-te-ayuda-a-emprender/qamarero-premio-emprendexxi-andalucia",
+        "date": "2026-03-23 07:02:43",
+        "sentiment_score": 0.4565494041889906
+    },
+    {
+        "title": "Cajamar Innova convoca una nueva edición de sus programas de aceleración de Agua, Agrotech y Foodtech",
+        "image_url": "https://wp.emprendedores.es/wp-content/uploads/2026/03/convocatoria_cajamar_innova_2026.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://emprendedores.es/ayudas/aceleradoras-incubadoras/cajamar-innova-nueva-edicion-programas-agua-agrotech-foodtech",
+        "date": "2026-03-23 07:02:08",
+        "sentiment_score": 0.4325828682631254
+    },
+    {
+        "title": "Santiago Abascal, el hombre sin sombra",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e7b127e5-396d-4f79-9d00-89f7a5bbdabb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sombra",
+            "vox",
+            "abascal",
+            "iván espinosa de los monteros",
+            "santiago",
+            "macarena olona",
+            "hombre",
+            "santiago abascal"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/politica/2026/03/23/santiago-abascal-hombre-sombra-10852558.html",
+        "date": "2026-03-23 07:00:40",
+        "sentiment_score": -0.9114788332954049
+    },
+    {
+        "title": "Manuel Cabrera, un tenor en las corales",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/50342776-5e64-4b49-bb2a-ee648a15b302_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ópera",
+            "música",
+            "manuel",
+            "profesores"
+        ],
+        "link": "https://www.laprovincia.es/opinion/2026/03/23/manuel-cabrera-tenor-corales-128290210.html",
+        "date": "2026-03-23 07:00:19",
+        "sentiment_score": 0.06630493700504303
+    },
+    {
+        "title": "Esta es la comunidad española que tiene más kilómetros de carreteras",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2023/07/25/CBD80448-3FA5-4178-9E7B-26EEEFC8F717/gobierno-licita-mas-14-millones-euros-contrato-conservacion-explotacion-217-kilometros-carreteras-zamora-que-incluyen-3252-autovia_96.jpg?crop=1600,900,x0,y130&width=1200&height=675&optimize=low&format=webply",
+        "tags": [
+            "castilla y león",
+            "carreteras",
+            "transporte"
+        ],
+        "link": "https://www.larazon.es/castilla-y-leon/esta-comunidad-espanola-que-tiene-mas-kilometros-carreteras_2026032369bfad3c219e1f762b70ac07.html",
+        "date": "2026-03-23 07:00:17",
+        "sentiment_score": -0.11903049051761627
+    },
+    {
+        "title": "Piensin explica cómo reducir más de un 50 % el coste del seguro de vida vinculado a la hipoteca",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5818360/piensin-explica-como-reducir-50-coste-seguro-vida-vinculado-hipoteca",
+        "date": "2026-03-23 07:00:17",
+        "sentiment_score": 0.3399839363992214
+    },
+    {
+        "title": "El clásico del fútbol español se jugará el Spotify Camp Nou",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/23074510/Captura-de-pantalla-2026-03-23-074154.png",
+        "tags": [
+            "laliga",
+            "real madrid",
+            "fc barcelona",
+            "spotify camp"
+        ],
+        "link": "https://www.elnacional.com/2026/03/el-clasico-del-futbol-espanol-se-jugara-el-spotify-camp-nou/",
+        "date": "2026-03-23 06:49:00",
+        "sentiment_score": 0.13505658507347107
+    },
+    {
+        "title": "El desastre inmobiliario y vuelta a negociar",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/23/actualidad/1003742744393_15869329_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "primeras planas",
+            "vivienda"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260323/desastre-inmobiliario-vuelta-negociar/1003742744384_0.html",
+        "date": "2026-03-23 07:03:53",
+        "sentiment_score": -0.618186891078949
+    },
+    {
+        "title": "María Romero, tras su clasificación para el Mundial: “El Ramón y Cajal es la élite de España”",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/03/maria-romero-clasificacion-mundial-ramon-y-cajal-elite-espana-2.jpg",
+        "tags": [
+            "atletismo",
+            "comandancia general de ceuta",
+            "castrense"
+        ],
+        "link": "https://elfarodeceuta.es/maria-romero-clasificacion-mundial-ramon-y-cajal-elite-espana/",
+        "date": "2026-03-23 07:02:22",
+        "sentiment_score": 0.4761088639497757
+    },
+    {
+        "title": "La justicia obliga a Airbnb a pagar una multa de 64 millones de euros impuesta por Consumo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/I24UMMDMWZBZ5JKJLOVZFEGZ6M.jpg?auth=e97d40f4dd7c255ecaf61736d6a97f9e2ecd5ab208d9e1517cdb6859a1e513ba&width=4500&height=3000&smart=true",
+        "tags": [
+            "registradores",
+            "pisos turísticos",
+            "economía",
+            "sentencias",
+            "ministerio de vivienda",
+            "airbnb",
+            "viviendas alquiler",
+            "tsj madrid",
+            "mercado inmobiliario"
+        ],
+        "link": "https://cincodias.elpais.com/economia/2026-03-23/la-justicia-obliga-a-airbnb-a-pagar-una-multa-de-64-millones-de-euros-impuesta-por-consumo.html",
+        "date": "2026-03-23 06:59:33",
+        "sentiment_score": -0.5255033448338509
+    },
+    {
+        "title": "Despliegan en Barcelona un dispositivo contra un red de tráfico internacional de armas y drogas vinculado a la mafia turca",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/20/69bd108f586e10-12670749.jpeg",
+        "tags": [
+            "despliegan",
+            "barcelona",
+            "nacional",
+            "policía",
+            "mossos"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/despliegan-barcelona-un-dispositivo-contra-un-red-trafico-internacional-armas-drogas-vinculado-mafia-turca_6949258_0.html",
+        "date": "2026-03-23 06:59:11",
+        "sentiment_score": 0.04381350055336952
+    },
+    {
+        "title": "23 de marzo de 2026: lo que tienes que saber de España",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/03/Feijoo.-Cocha-Ortega-EP-scaled-e1773218913780.jpg",
+        "tags": [
+            "aranceles",
+            "europa",
+            "venezuela",
+            "bruselas",
+            "china",
+            "estados unidos",
+            "gaza",
+            "israel"
+        ],
+        "link": "https://theobjective.com/espana/2026-03-23/23-de-marzo-de-2026-lo-que-tienes-que-saber-de-espana/",
+        "date": "2026-03-23 06:50:27",
+        "sentiment_score": -0.2960110753774643
+    },
+    {
+        "title": "El precio de la gasolina este 23 de marzo en Madrid, Barcelona y otras ciudades de España",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&smart=true&width=1920&height=1080",
+        "tags": [
+            "precio de la gasonila en barcelona",
+            "precio de la gasolina en españa",
+            "madrid y otras ciudades",
+            "precio de la gasolina en españa hoy",
+            "españa-economia",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/23/el-precio-de-la-gasolina-este-23-de-marzo-en-madrid-barcelona-y-otras-ciudades-de-espana/",
+        "date": "2026-03-23 06:45:36",
+        "sentiment_score": 0.010696455836296082
+    },
+    {
+        "title": "Colas en Gran Vía a partir del jueves 26 de marzo: abre el famoso restaurante de alitas típico de EEUU con menús a 15 euros",
+        "image_url": "https://okdiario.com/img/2026/03/20/colas-en-gran-via-a-partir-del-jueves-26-de-marzo-abre-el-famoso-restaurante-de-alitas-tipico-de-eeuu-con-menus-a-15-euros.jpg",
+        "tags": [
+            "madrid",
+            "okd",
+            "gran vía",
+            "restaurantes",
+            "recetas de pollo"
+        ],
+        "link": "https://okdiario.com/economia/consumo/colas-gran-via-partir-del-jueves-26-marzo-abre-famoso-restaurante-alitas-tipico-eeuu-menus-15-euros-16456631",
+        "date": "2026-03-23 06:45:06",
+        "sentiment_score": 0.19880635291337967
     }
 ];
