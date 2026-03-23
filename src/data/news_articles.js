@@ -1,409 +1,5 @@
 export default [
     {
-        "title": "Champions: Barcelona demolió al Newcastle 7-1 y pasó a cuartos de final",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/18174926/a665e40b562fd29a59202dddaf2044c567ba80d4w.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnacional.com/2026/03/champions-barcelona-demolio-al-newcastle-7-1-y-paso-a-cuartos-de-final/",
-        "date": "2026-03-18 22:33:29",
-        "sentiment_score": 0.14614683389663696
-    },
-    {
-        "title": "(Crónica) El Liverpool y el Bayern golean al Galatasaray y a la Atalanta para pasar a cuartos",
-        "image_url": "https://www.infobae.com/resizer/v2/VXY65PWHBBHFJMUOHXYG7W24DQ.jpg?auth=2eb9bf32dbcdc371e8377538d14b38d27ea9c96bcbb929df6292be1d0cace697&smart=true&width=1920&height=1326",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/18/cronica-el-liverpool-y-el-bayern-golean-al-galatasaray-y-a-la-atalanta-para-pasar-a-cuartos/",
-        "date": "2026-03-18 22:31:03",
-        "sentiment_score": 0.22007158398628235
-    },
-    {
-        "title": "El Atlético tratará de volver a ser la 'bestia negra' del FC Barcelona",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260318232929_1200.jpg",
-        "tags": [
-            "atlético de madrid",
-            "champions league",
-            "fútbol club barcelona"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-atletico-tratara-volver-ser-bestia-negra-fc-barcelona-20260318232929.html",
-        "date": "2026-03-18 22:29:29",
-        "sentiment_score": 0.3039085566997528
-    },
-    {
-        "title": "Barcelona-Atlético, Madrid-Bayern, PSG-Liverpool y Sporting-Arsenal, los cuartos de final",
-        "image_url": "https://laconexionusa.com/wp-content/uploads/2026/03/rss-efea47fd21ca8f9c9d8820bd2420c37574d758d257ew-1000x600.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://laconexionusa.com/barcelona-atletico-madrid-bayern-psg-liverpool-y-sporting-arsenal-los-cuartos-de-final/",
-        "date": "2026-03-18 22:24:05",
-        "sentiment_score": -0.029306836426258087
-    },
-    {
-        "title": "Así quedan los cruces de cuartos de final de Champions de los equipos españoles: Real Madrid-Bayern Múnich y FC Barcelona - Atlético de Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/KUTTFJPJWJB6RAJWVG4VS2IFLA.jpg?auth=941e6694f7c949d1575afa2274db8f48a3bc5eafc8ba66e1f0a524e4e49eda77&smart=true&width=1920&height=1080",
-        "tags": [
-            "champions league",
-            "uefa champions league",
-            "real madrid",
-            "fc barcelona",
-            "fútbol",
-            "fútbol españa",
-            "españa-deportes",
-            "españa noticias",
-            "atlético de madrid"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/03/18/asi-quedan-los-cruces-de-cuartos-de-final-de-champions-de-los-equipos-espanoles-real-madrid-bayern-munich-y-fc-barcelona-atletico-de-madrid/",
-        "date": "2026-03-18 22:23:21",
-        "sentiment_score": -0.03529035300016403
-    },
-    {
-        "title": "Julián Alvarez celebra a lo grande su partido 100 con la camiseta rojiblanca",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/18/julian-alvarez-celebra-a-lo-grande-su-partido-100-con-la-camiseta-rojiblanca/",
-        "date": "2026-03-18 22:21:40",
-        "sentiment_score": 0.7970334440469742
-    },
-    {
-        "title": "Barcelona-Atlético, Madrid-Bayern, PSG-Liverpool y Sporting-Arsenal, los cuartos de final",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/18/barcelona-atletico-madrid-bayern-psg-liverpool-y-sporting-arsenal-los-cuartos-de-final/",
-        "date": "2026-03-18 22:21:07",
-        "sentiment_score": -0.0604545995593071
-    },
-    {
-        "title": "Barcelona-Atlético, Madrid-Bayern, PSG-Liverpool y Sporting-Arsenal, los cuartos de final",
-        "image_url": "https://qpwebsite.s3.amazonaws.com/uploads/2026/03/rss-efea47fd21ca8f9c9d8820bd2420c37574d758d257ew.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://quepasamedia.com/deportes/barcelona-atletico-madrid-bayern-psg-liverpool-y-sporting-arsenal-los-cuartos-de-final/",
-        "date": "2026-03-18 22:17:38",
-        "sentiment_score": -0.09585613012313843
-    },
-    {
-        "title": "Así quedan los cuartos de final de la Champions con un equipo español asegurado en semifinales",
-        "image_url": "https://www.cope.es/files/og_thumbnail/files/fp/uploads/2025/08/28/68afa7e700c74.r_d.1561-918-0.jpeg",
-        "tags": [
-            "champions",
-            "final",
-            "quedan",
-            "cuartos",
-            "así"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/asi-quedan-cuartos-final-champions-equipo-espanol-asegurado-semifinales-20260318_3329511.html",
-        "date": "2026-03-18 22:17:05",
-        "sentiment_score": -0.11728522181510925
-    },
-    {
-        "title": "Alexia Putellas guía al Barcelona a su tercera final de Copa consecutiva",
-        "image_url": "https://www.cope.es/files/microformat_image/uploads/2026/03/18/69bb28a93cbb9.jpeg",
-        "tags": [
-            "tercera",
-            "barcelona",
-            "guía",
-            "putellas",
-            "alexia"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/alexia-putellas-guia-barcelona-tercera-final-copa-consecutiva-20260318_3329521.html",
-        "date": "2026-03-18 22:36:20",
-        "sentiment_score": -0.052802830934524536
-    },
-    {
-        "title": "Cocktail explosivo en el Spotify Camp Nou que culmina en orgasmo colectivo del barcelonismo",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/18/actualidad/1003742743089_15850389_1706x960.jpg",
-        "tags": [
-            "primer equipo"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260318/cocktail-explosivo-spotify-camp-nou-colectivo-barcelonismo/1003742743050_0.html",
-        "date": "2026-03-18 22:33:48",
-        "sentiment_score": 0.6736924573779106
-    },
-    {
-        "title": "Las viviendas de lujo se encarecen en 2025 en Barcelona por la falta de oferta: la rehabilitación, el escape",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/04/03/economia/844925519_12715566_1706x960.jpg",
-        "tags": [
-            "alquiler vivienda",
-            "vivienda",
-            "tecnología",
-            "economía",
-            "viviendas",
-            "inversion",
-            "la dreta de l'eixample"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260318/viviendas-lujo-encarecen-barcelona-falta-oferta-rehabilitacion-escape/1003742742928_0.html",
-        "date": "2026-03-18 22:30:00",
-        "sentiment_score": 0.09030911326408386
-    },
-    {
-        "title": "Una placa para Carmen",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2017/06/17/quien-hace-barcelona/224487551_10776602_1706x960.jpg",
-        "tags": [
-            "el raval",
-            "el gòtic",
-            "cultura",
-            "ayuntamiento de barcelona",
-            "opinión"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/opinion/20260318/placa-carmen/1003742743052_12.html",
-        "date": "2026-03-18 22:30:00",
-        "sentiment_score": -0.32365067303180695
-    },
-    {
-        "title": "En el 95% de las grandes ciudades es más barato comprar que alquilar una vivienda, según UVE Valoraciones",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260318232951_1200.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-95-grandes-ciudades-mas-barato-comprar-alquilar-vivienda-uve-valoraciones-20260318232951.html",
-        "date": "2026-03-18 22:29:51",
-        "sentiment_score": 0.08936759829521179
-    },
-    {
-        "title": "En el 95% de las grandes ciudades es más barato comprar que alquilar una vivienda, según UVE Valoraciones",
-        "image_url": "https://forbes.es/wp-content/uploads/2026/03/fotonoticia_20260318232951_1920-1200x675.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://forbes.es/economia/892780/en-el-95-de-las-grandes-ciudades-es-mas-barato-comprar-que-alquilar-una-vivienda-segun-uve-valoraciones/",
-        "date": "2026-03-18 22:29:51",
-        "sentiment_score": 0.18391400575637817
-    },
-    {
-        "title": "22 menores afectados por una reacción de productos tóxicos en una piscina de Rubí",
-        "image_url": "https://album.mediaset.es/eimg/2026/03/18/los-bomberos-de-la-generalitat-de-cataluna-han-desalojado-a-varias-decenas-de-personas-16-9-aspect-r_da39-2.jpg?w=1024",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.telecinco.es/noticias/catalunya/20260318/menores-afectados-reaccion-productos-toxicos-piscina-rubi_18_018659676.html",
-        "date": "2026-03-18 22:28:40",
-        "sentiment_score": -0.7266261037439108
-    },
-    {
-        "title": "Así quedaron definidos los cuartos de final de la UEFA Champions League",
-        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2026/03/AP26077792712930-e1773886866682.jpg",
-        "tags": [
-            "uefa champions league"
-        ],
-        "link": "https://eldiariony.com/2026/03/18/asi-quedaron-definidos-los-cuartos-de-final-de-la-uefa-champions-league/",
-        "date": "2026-03-19 02:22:50",
-        "sentiment_score": 0.6979454681277275
-    },
-    {
-        "title": "Bayern Munich avanzó de fase goleando y con autoridad",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/Luis-Diaz.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://ultimasnoticias.com.ve/deportes/bayern-munich-avanzo-de-fase-goleando-y-con-autoridad/",
-        "date": "2026-03-19 02:06:25",
-        "sentiment_score": 0.5742616504430771
-    },
-    {
-        "title": "Cardoso: “Estamos preparados para todo lo que viene”",
-        "image_url": "https://laconexionusa.com/wp-content/uploads/2026/03/rss-efe9f4af931f25d0dac65107b865f7833f6eeb41b5fw-1000x600.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://laconexionusa.com/cardoso-estamos-preparados-para-todo-lo-que-viene/",
-        "date": "2026-03-19 02:04:18",
-        "sentiment_score": 0.22195842117071152
-    },
-    {
-        "title": "María José Baños, la terrorista del GRAPO no arrepentida para la que Belarra pide la libertad: le acaban de dar el tercer grado",
-        "image_url": "https://s3.elespanol.com/2026/03/18/actualidad/1003744175563_262022267_1706x960.jpg",
-        "tags": [
-            "instituciones penitenciarias",
-            "almería (municipio)",
-            "reportajes",
-            "terrorismo",
-            "cárceles",
-            "grapo",
-            "murcia (municipio)",
-            "ministerio del interior"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260319/maria-jose-banos-terrorista-grapo-no-arrepentida-belarra-pide-libertad-acaban-dar-tercer-grado/1003744174655_0.html",
-        "date": "2026-03-19 01:45:07",
-        "sentiment_score": -0.7349100057035685
-    },
-    {
-        "title": "‘Lucho’ Díaz se mete en la historia de Europa y se corona como el máximo goleador colombiano en la Champions League",
-        "image_url": "https://www.infobae.com/resizer/v2/3LVNZLYHGBGJ3CATX3A7SOUSPE.jpg?auth=4e3499ee693d2e6caaf2c8c459e0d694519f0895fab70e0a2123e99067848a34&smart=true&width=5290&height=3527",
-        "tags": [
-            "bayern munich",
-            "uefa champions league",
-            "colombianos en champions",
-            "luis díaz",
-            "colombia-deportes"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/03/19/lucho-diaz-se-mete-en-la-historia-de-europa-y-se-corona-como-el-maximo-goleador-colombiano-en-la-champions-league/",
-        "date": "2026-03-19 01:02:44",
-        "sentiment_score": 0.8765143509954214
-    },
-    {
-        "title": "UEFA Champions League: estos son los cruces definidos para los cuartos de final",
-        "image_url": "https://pxcdn.2001online.com/2001/032026/1773879982701/fc-barcelona-v-newcastle-united-fc-uefa-champions-league-2025-26-round-of-16-second-leg.jpg?cw=1170&ch=645",
-        "tags": [
-            "fc barcelona",
-            "champions league",
-            "cuartos de final",
-            "real madrid",
-            "uefa champions league",
-            "bayern",
-            "champions"
-        ],
-        "link": "https://2001online.com/deportes/uefa-champions-league-estos-son-los-cruces-definidos-para-los-cuartos-de-final-202631821150",
-        "date": "2026-03-19 00:45:05",
-        "sentiment_score": 0.8376429155468941
-    },
-    {
-        "title": "18 MAR 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/06/10/684828a972448.jpeg",
-        "tags": [
-            "cope",
-            "mar",
-            "partidazo",
-            "18",
-            "2026"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/18-mar-2026-partidazo-cope-20260319_3329544.html",
-        "date": "2026-03-19 00:38:40",
-        "sentiment_score": 0.05514825880527496
-    },
-    {
-        "title": "El pito guardado",
-        "image_url": "https://www.eldebate.com/files/fp/uploads/2021/10/21/61713c9335472.r_d.577-326-0.jpeg",
-        "tags": [
-            "pito",
-            "guardado"
-        ],
-        "link": "https://www.eldebate.com/opinion/20260319/pito-guardado_397684.html",
-        "date": "2026-03-19 00:35:00",
-        "sentiment_score": -0.07525685429573059
-    },
-    {
-        "title": "El polvo de nuestros hogares, un depósito de contaminantes: así varía su composición en diferentes ciudades españolas",
-        "image_url": "https://images.theconversation.com/files/721706/original/file-20260303-57-lwyjvp.jpeg?ixlib=rb-4.1.0&rect=0%2C593%2C4800%2C2400&q=45&auto=format&w=1356&h=668&fit=crop",
-        "tags": [
-            "top"
-        ],
-        "link": "https://theconversation.com/el-polvo-de-nuestros-hogares-un-deposito-de-contaminantes-asi-varia-su-composicion-en-diferentes-ciudades-espanolas-276461",
-        "date": "2026-03-19 00:32:12",
-        "sentiment_score": -0.08859618753194809
-    },
-    {
-        "title": "Nace en Bilbao una agencia de IA que automatiza llamadas y el 30% de las tareas en empresas españolas",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "business"
-        ],
-        "link": "https://emprendedores.es/noticias-de-empresa/nace-en-bilbao-una-agencia-de-ia-que-automatiza-llamadas-y-el-30-de-las-tareas-en-empresas-espanolas",
-        "date": "2026-03-19 00:17:50",
-        "sentiment_score": 0.5785403959453106
-    },
-    {
-        "title": "La doble vara de Puente: ceses en Rodalies, pero nadie asume el caos del AVE en Málaga",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/03/18/87F100C1-C2CD-40FD-AD05-D8B5DF9ACD21/imagenes-trabajos-que-estan-llevando-cabo-via-alta-velocidad-que-une-malaga-madrid_96.jpg?crop=6000,3375,x0,y317&width=1200&height=675&optimize=low&format=webply",
-        "tags": [
-            "rodalies",
-            "óscar puente",
-            "ave",
-            "málaga"
-        ],
-        "link": "https://www.larazon.es/andalucia/malaga/doble-vara-puente-ceses-rodalies-pero-nadie-asume-caos-ave-malaga_2026031969bb5bb6e89622081d41020a.html",
-        "date": "2026-03-19 02:13:10",
-        "sentiment_score": -0.8066870849579573
-    },
-    {
-        "title": "Messi llega a los 900 goles",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/Lionel-Messi.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://ultimasnoticias.com.ve/deportes/messi-llega-a-los-900-goles/",
-        "date": "2026-03-19 02:09:21",
-        "sentiment_score": 0.533268503844738
-    },
-    {
-        "title": "Lionel Messi anota el gol 900 de su carrera",
-        "image_url": "https://laconexionusa.com/wp-content/uploads/2026/03/rss-efe5cec6e069abf85e00250845df53cb34523265a16w-1000x600.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://laconexionusa.com/lionel-messi-anota-el-gol-900-de-su-carrera/",
-        "date": "2026-03-19 02:05:01",
-        "sentiment_score": 0.18008317053318024
-    },
-    {
-        "title": "Lionel Messi anota el gol 900 de su carrera",
-        "image_url": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/68cda828e230a-730217.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://noticiasvenevision.com/noticias/deportes/lionel-messi-anota-el-gol-900-de-su-carrera",
-        "date": "2026-03-19 02:03:00",
-        "sentiment_score": 0.6925870254635811
-    },
-    {
-        "title": "Ampliar el túnel del Metro en Camino de Ronda hasta la rotonda de Europa, una de las propuestas para la movilidad en Granada",
-        "image_url": "https://static.grupojoly.com/clip/30b5da33-0622-4724-ae4c-c36f1a9f8f9b_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "carreteras granada",
-            "últimas noticias granada",
-            "tren granada",
-            "link en bio granada",
-            "ave granada",
-            "infraestructuras granada"
-        ],
-        "link": "https://www.granadahoy.com/granada/ampliar-tunel-metro-camino-ronda-gran-estacion-fuentenueva-ugr-colectivos-movilidad-granada_0_2006218746.html",
-        "date": "2026-03-19 01:59:27",
-        "sentiment_score": 0.5286263898015022
-    },
-    {
-        "title": "Messi se coloca en la senda de Cristiano: 900 goles y el sueño de los 1000 en el horizonte",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/15/2025061505461142635.jpg",
-        "tags": [
-            "cristiano ronaldo",
-            "mls",
-            "al-nassr",
-            "argentina",
-            "lionel messi",
-            "messi",
-            "inter miami"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/messi-alcanza-900-goles-vida-coloca-misma-senda-cristiano-ronaldo/20260319024344379231.html",
-        "date": "2026-03-19 01:43:44",
-        "sentiment_score": 0.8155293483287096
-    },
-    {
-        "title": "Juanma Moreno pedirá que el Gobierno pague los 1.300M que costará la interrupción del AVE a Málaga en Semana Santa",
-        "image_url": "https://s3.elespanol.com/2026/03/18/actualidad/1003744175496_262021264_1706x960.jpg",
-        "tags": [
-            "iryo",
-            "trenes",
-            "madrid",
-            "ouigo",
-            "psoe (partido socialista obrero español)",
-            "málaga",
-            "juan manuel moreno bonilla",
-            "carolina españa",
-            "ave",
-            "partido popular (pp)"
-        ],
-        "link": "https://www.elespanol.com/malaga/20260319/juanma-moreno-pedira-gobierno-pague-costara-interrupcion-ave-malaga-semana-santa/1003744175155_0.html",
-        "date": "2026-03-19 01:39:26",
-        "sentiment_score": -0.8974572960287333
-    },
-    {
         "title": "Mbappé domina el Pichichi de la Champions mientras Kane y Julián aprietan",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/19/2025101923111111708.jpg",
         "tags": [
@@ -3364,5 +2960,178 @@ export default [
         "link": "https://www.laopiniondemalaga.es/malaga/2026/03/22/vision-especializacion-inteligente-pilares-tech-128262827.html",
         "date": "2026-03-22 06:01:25",
         "sentiment_score": -0.16672855615615845
+    },
+    {
+        "title": "Barcelona logra el 1-0 ante el Rayo Vallecano y aumenta la presión sobre el Real Madrid",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/22132407/barce.png",
+        "tags": [
+            "real madrid",
+            "champions",
+            "barcelona fc"
+        ],
+        "link": "https://bitlysdowssl-aws.com/2026/03/barcelona-logra-el-1-0-ante-el-rayo-vallecano-y-aumenta-la-presion-sobre-el-real-madrid/",
+        "date": "2026-03-22 17:53:20",
+        "sentiment_score": 0.3302411139011383
+    },
+    {
+        "title": "Akliouche marca la diferencia y Mónaco vence al Lyon para conseguir su sexta victoria consecutiva",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "sports",
+            "liga francesa monaco lyon marsella lille rennes",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/liga-francesa-monaco-lyon-marsella-lille-rennes-2729584c9fc41c67d22d40c4567165b1",
+        "date": "2026-03-22 17:46:51",
+        "sentiment_score": 0.7422858290374279
+    },
+    {
+        "title": "El Real Madrid gana antes del triple Clásico; el Tenerife no pierde la cara a Europa",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/22/el-real-madrid-gana-antes-del-triple-clasico-el-tenerife-no-pierde-la-cara-a-europa/",
+        "date": "2026-03-22 17:46:42",
+        "sentiment_score": -0.19717465341091156
+    },
+    {
+        "title": "El Valencia Basket impone la lógica ante el colista y se reencuentra con la victoria",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/291421ce-cfc7-47eb-aacc-07c1057bab81_16-9-aspect-ratio_default_0_x960y523.jpg",
+        "tags": [
+            "covirán granada",
+            "pedro martínez",
+            "roig arena",
+            "valencia basket",
+            "liga endesa"
+        ],
+        "link": "https://www.superdeporte.es/valencia-basket/2026/03/22/valencia-basket-colista-coviran-granada-liga-endesa-cronica-128278723.html",
+        "date": "2026-03-22 17:45:22",
+        "sentiment_score": 0.19626279175281525
+    },
+    {
+        "title": "Nana, el lugar donde el arte acompaña y la infancia encuentra su espacio",
+        "image_url": "https://elfarodemelilla.es/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-22-at-11.52.23.jpeg?v=1774193664",
+        "tags": [
+            "natalia díaz",
+            "asociación nana"
+        ],
+        "link": "https://elfarodemelilla.es/nana-el-lugar-donde-el-arte-acompana-y-la-infancia-encuentra-su-espacio/",
+        "date": "2026-03-22 17:31:28",
+        "sentiment_score": 0.25514792650938034
+    },
+    {
+        "title": "Liga ACB: FC Barcelona - Real Madrid, en directo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/63287f72-7f44-4832-9e01-a29005c78fc0_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "fc barcelona vs real madrid en directo",
+            "partidos acb",
+            "partidos acb en directo",
+            "partidos en directo",
+            "partidos baloncesto",
+            "acb partidos",
+            "fc barcelona vs real madrid",
+            "fc barcelona real madrid en directo"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/deportes/baloncesto/acb/2025-2026/barcelona-r-madrid-30535_10_23_6216_6210.html",
+        "date": "2026-03-22 17:31:03",
+        "sentiment_score": 0.026651866734027863
+    },
+    {
+        "title": "107-91. El ritmo y el rebote bastan al Valencia Basket para doblegar al Granada",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/22/107-91-el-ritmo-y-el-rebote-bastan-al-valencia-basket-para-doblegar-al-granada/",
+        "date": "2026-03-22 18:00:48",
+        "sentiment_score": 0.27010947465896606
+    },
+    {
+        "title": "Expulsada de un ático insalubre justo cuando al fin se reforma: \"Me ha provocado problemas de salud crónicos\"",
+        "image_url": "https://static1.ara.cat/clip/18d95ab4-dee7-4d5d-bcc9-c302f8d1d36d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "justo",
+            "provocado",
+            "salud",
+            "cronicos",
+            "insalubre",
+            "atico",
+            "problemas",
+            "reforma",
+            "expulsada"
+        ],
+        "link": "https://es.ara.cat/economia/inmobiliario/expulsada-atico-insalubre-justo-reforma-provocado-problemas-salud-cronicos_1_5686407.html",
+        "date": "2026-03-22 18:00:43",
+        "sentiment_score": -0.7195124216377735
+    },
+    {
+        "title": "La IA europea no hablará catalán si no es lengua oficial",
+        "image_url": "https://static1.ara.cat/clip/16f39b97-1374-4d88-96d0-657c82555908_16-9-aspect-ratio_default_0_x2174y1356.jpg",
+        "tags": [
+            "catalan",
+            "no",
+            "oficial",
+            "europea",
+            "lengua",
+            "hablara",
+            "ia"
+        ],
+        "link": "https://es.ara.cat/ciencia-tecnologia/ia-europea-no-hablara-catalan-no-lengua-oficial_1_5686405.html",
+        "date": "2026-03-22 18:00:42",
+        "sentiment_score": 0.6775732263922691
+    },
+    {
+        "title": "El sacerdote escolapio Manel Sales admite en un documental haber abusado sexualmente de más de 20 niños en Senegal",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fa08ade3-a208-447b-b4b2-b43e2252b157_alta-libre-aspect-ratio_default_0_x640y240.jpg",
+        "tags": [
+            "pederastia",
+            "abusos sexuales",
+            "iglesia católica",
+            "colegios",
+            "senegal",
+            "abusos sexuales en la iglesia",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260322/sacerdote-manel-sales-escolapios-abusos-sexuales-menores-senegal-documental-la-fugida-128206561",
+        "date": "2026-03-22 18:00:05",
+        "sentiment_score": -0.6295288279652596
+    },
+    {
+        "title": "El primer puente de hormigón armado de Europa está en España y sigue en pie: 134 metros de largo, 24 de alto y resiste hasta 300 toneladas",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/12/vida/1003742740600_15816045_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "viajes"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/viajes/20260322/primer-puente-hormigon-europa-espana-resiste-toneladas/1003742740595_0.html",
+        "date": "2026-03-22 18:00:00",
+        "sentiment_score": -0.0971316397190094
+    },
+    {
+        "title": "Cuatro jóvenes quedan atrapados en el antiguo Hospital de Esparraguera tras el derrumbe de la estructura",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/36996dd8-fe10-4ef1-9e0f-49b53f908503_alta-libre-aspect-ratio_default_0_x833y369.jpg",
+        "tags": [
+            "sucesos"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260322/cuatro-jovenes-quedan-atrapados-antiguo-hospital-esparreguera-128282967",
+        "date": "2026-03-22 17:54:44",
+        "sentiment_score": -0.8768041720613837
+    },
+    {
+        "title": "Therese seguirá trayendo cielos nubosos y lluvias este lunes, antes de un martes en el que ya llegará la estabilidad",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/22/69c028ab425921-95576482.png",
+        "tags": [
+            "nubosos",
+            "cielos",
+            "therese",
+            "trayendo",
+            "seguirá"
+        ],
+        "link": "https://www.20minutos.es/nacional/therese-seguira-trayendo-cielos-nubosos-lluvias-este-lunes-antes-un-martes-que-ya-llegara-estabilidad_6949184_0.html",
+        "date": "2026-03-22 17:48:37",
+        "sentiment_score": -0.35729799419641495
     }
 ];
