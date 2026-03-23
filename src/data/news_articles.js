@@ -3042,5 +3042,182 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2026/03/22/vinicius-mantiene-a-flote-al-madrid-antes-del-paron/",
         "date": "2026-03-22 22:34:50",
         "sentiment_score": 0.2400038093328476
+    },
+    {
+        "title": "Impacto en el mercado de pases: Antoine Griezmann quedó a punto de firmar con el clásico rival del Inter Miami de Messi",
+        "image_url": "https://www.infobae.com/resizer/v2/ZZDQXQVO2BE25FMKEY5DOFOWOE.JPG?auth=c70c672aebf7447dad84f72b343f3b9004c96662819290c772368f731a6ddcc8&smart=true&width=2430&height=1596",
+        "tags": [
+            "major league soccer",
+            "orlando city",
+            "deportes-argentina",
+            "atlético de madrid",
+            "antoine griezmann"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/23/impacto-en-el-mercado-de-pases-antoine-griezmann-quedo-a-punto-de-firmar-con-el-clasico-rival-del-inter-miami-de-messi/",
+        "date": "2026-03-23 02:17:21",
+        "sentiment_score": 0.11958451941609383
+    },
+    {
+        "title": "El menú de \"Las Delicias\" sigue en el paladar y sale a subasta: el restaurante de Gijón donde Tierno Galván organizó la comanda y comió la cúpula de Play Boy",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9a47c620-aed7-4f61-b16f-112ef1e3b824_16-9-aspect-ratio_default_0_x597y240.jpg",
+        "tags": [
+            "somió",
+            "gastronomía"
+        ],
+        "link": "https://www.lne.es/gijon/2026/03/23/menu-delicias-sigue-paladar-sale-128285689.html",
+        "date": "2026-03-23 01:59:23",
+        "sentiment_score": 0.6160118281841278
+    },
+    {
+        "title": "Griezmann viaja a Estados Unidos para fichar por Orlando para la próxima temporada",
+        "image_url": "https://qpwebsite.s3.amazonaws.com/uploads/2026/03/rss-efe6f117e58dcd487731863e0b6fe8a3e9185dd5977w.jpg",
+        "tags": [
+            "mls",
+            "fútbol"
+        ],
+        "link": "https://quepasamedia.com/deportes/griezmann-viaja-a-estados-unidos-para-fichar-por-orlando-para-la-proxima-temporada/",
+        "date": "2026-03-23 01:34:33",
+        "sentiment_score": 0.015737280249595642
+    },
+    {
+        "title": "Griezmann viaja a Estados Unidos para fichar por Orlando para la próxima temporada",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/23/griezmann-viaja-a-estados-unidos-para-fichar-por-orlando-para-la-proxima-temporada/",
+        "date": "2026-03-23 01:15:37",
+        "sentiment_score": 0.04148062318563461
+    },
+    {
+        "title": "Deportes | El Elche CF regatea un marrón mayúsculo en otro fin de semana de infarto en la lucha por la permanencia",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1807799.jpg",
+        "tags": [
+            "elche cf"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-elche-cf-regatea-un-marron-mayusculo-en-otro-fin-de-semana-de-infarto-en-la-lucha-por-la-permanencia",
+        "date": "2026-03-23 01:00:47",
+        "sentiment_score": -0.4241041839122772
+    },
+    {
+        "title": "22 MAR 2026 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/01/06/677b2375741e9.jpeg",
+        "tags": [
+            "mar",
+            "22",
+            "tertulión",
+            "2026",
+            "domingos"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/22-mar-2026-tertulion-domingos-20260323_3331510.html",
+        "date": "2026-03-23 01:00:05",
+        "sentiment_score": -0.40828558802604675
+    },
+    {
+        "title": "Real Madrid triunfa en el derbi contra el Atlético y se mantiene al acecho del Barcelona",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/22204942/Real-Madrid-.jpg",
+        "tags": [
+            "real madrid",
+            "atlético de madrid"
+        ],
+        "link": "https://www.elnacional.com/2026/03/real-madrid-triunfa-en-el-derbi-contra-el-atletico-y-se-mantiene-al-acecho-del-barcelona/",
+        "date": "2026-03-23 00:51:33",
+        "sentiment_score": 0.19352473318576813
+    },
+    {
+        "title": "Copa de la Reina de Baloncesto: Historia, récords y datos clave del torneo 'fetiche' de Perfumerías Avenida",
+        "image_url": "https://www.tribunasalamanca.com/uploads/imagenes/images/2026/3/23/438318/20260322185212_caratula.webP",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.tribunasalamanca.com/noticias/438318/copa-de-la-reina-de-baloncesto-historia-records-y-datos-clave-del-torneo-fetiche-de-perfumerias-avenida",
+        "date": "2026-03-23 00:38:00",
+        "sentiment_score": 0.7384500280022621
+    },
+    {
+        "title": "«He planteado mi accidente doméstico como un rito de maduración»",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2026/03/22/marta-jimenez-serrano-k5NC-U2013397227012fD-758x531@El%20Correo.jpg",
+        "tags": [
+            "bbk",
+            "novela"
+        ],
+        "link": "https://www.elcorreo.com/culturas/aula-de-cultura/planteado-accidente-domestico-rito-maduracion-20260322170802-nt.html",
+        "date": "2026-03-23 00:34:59",
+        "sentiment_score": -0.28690632432699203
+    },
+    {
+        "title": "Le conoció, se enamoró de él y poco después vio que iba en silla de ruedas",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4421467.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2026/03/23/2594553/conocio-enamoro-poco-despues-vio-iba-silla-ruedas.html",
+        "date": "2026-03-23 02:48:01",
+        "sentiment_score": 0.25111304223537445
+    },
+    {
+        "title": "11 frases de Úbeda tras el triunfo de Boca: enorme elogio a Tomás Aranda, la lesión de Marchesín, cómo está Cavani y la Libertadores",
+        "image_url": "https://www.infobae.com/resizer/v2/YHXYUISJVRAUTCXRAHY7MNGF2E.JPG?auth=18500b0e0f31a9178bda270a5edd312e1310c8330a52c73a6afbe565d73b6f60&smart=true&width=1680&height=945",
+        "tags": [
+            "agustín marchesín",
+            "tomás aranda",
+            "edinson cavani",
+            "boca juniors",
+            "copa libertadores",
+            "instituto",
+            "claudio úbeda"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/23/11-frases-de-ubeda-tras-el-triunfo-de-boca-enorme-elogio-a-tomas-aranda-la-lesion-de-marchesin-como-esta-cavani-y-la-libertadores/",
+        "date": "2026-03-23 02:41:06",
+        "sentiment_score": 0.8229598943144083
+    },
+    {
+        "title": "Pronóstico del clima: las temperaturas que se esperan en Barcelona este 23 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&smart=true&width=1920&height=1080",
+        "tags": [
+            "clima",
+            "clima en españa",
+            "clima en barcelona",
+            "últimas actualizaciones"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/23/pronostico-del-clima-las-temperaturas-que-se-esperan-en-barcelona-este-23-de-marzo/",
+        "date": "2026-03-23 02:16:45",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "¿Para quién trabaja Puente?",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "trabaja",
+            "puente"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/trabaja-puente_0_2006267046.html",
+        "date": "2026-03-23 02:09:09",
+        "sentiment_score": -0.7090990319848061
+    },
+    {
+        "title": "Independiente mantiene el liderato en Ecuador y Benedetto salva empate para el Barcelona",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/23/independiente-mantiene-el-liderato-en-ecuador-y-benedetto-salva-empate-para-el-barcelona/",
+        "date": "2026-03-23 02:00:17",
+        "sentiment_score": 0.6925178989768028
+    },
+    {
+        "title": "Mujer señala a Alfonso Waithsman, ‘maquillista de las estrellas’, por agresión e intimidación: “Actitud peligrosa”",
+        "image_url": "https://www.infobae.com/resizer/v2/JJJZKYMAINBB3J6DZKI45QRFZI.JPG?auth=cf4e1fc1d79119c2ba6336e6075009c24e5ec8273e86f5a45c661b5c88fedfac&smart=true&width=706&height=488",
+        "tags": [
+            "cdmx",
+            "mexico-entretenimiento",
+            "alfonso waithsman"
+        ],
+        "link": "https://www.infobae.com/mexico/2026/03/23/mujer-senala-a-alfonso-waithsman-maquillista-de-las-estrellas-por-agresion-e-intimidacion-actitud-peligrosa/",
+        "date": "2026-03-23 01:36:32",
+        "sentiment_score": 0.10140475630760193
     }
 ];
