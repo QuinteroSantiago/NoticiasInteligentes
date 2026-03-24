@@ -1,429 +1,5 @@
 export default [
     {
-        "title": "0-1. El Rayo vuelve con sufrimiento a unos cuartos de final en Europa 25 años después",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/19/0-1-el-rayo-vuelve-con-sufrimiento-a-unos-cuartos-de-final-en-europa-25-anos-despues/",
-        "date": "2026-03-19 22:33:06",
-        "sentiment_score": -0.8881087368354201
-    },
-    {
-        "title": "Los chungos, los fules y...",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/19/opinion/1003742743360_15853932_1706x960.jpg",
-        "tags": [
-            "el prat de llobregat",
-            "opinión",
-            "aeropuerto barcelona",
-            "gran barcelona",
-            "seguridad"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/opinion/20260319/chungos-fules/1003742743340_12.html",
-        "date": "2026-03-19 22:30:00",
-        "sentiment_score": -0.8332366729155183
-    },
-    {
-        "title": "Aguirre sorprende con el regreso de Ochoa y el debut de Fidalgo a la selección",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "sports",
-            "guillermo ochoa alvaro fidalgo mexico mundial 2026 portugal",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/guillermo-ochoa-alvaro-fidalgo-mexico-mundial-2026-portugal-a4433a3d90151576a4377857cb188f08",
-        "date": "2026-03-19 22:20:29",
-        "sentiment_score": 0.3640308678150177
-    },
-    {
-        "title": "Aguirre sorprende con el regreso de Ochoa y el debut de Fidalgo a la selección",
-        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/9/9e/99e292b6-47d3-56ab-804b-d737132b7700/69bc7ae05c8e1.image.jpg?crop=1176%2C617%2C0%2C572",
-        "tags": [
-            "guillermo ochoa alvaro fidalgo mexico mundial 2026 portugal",
-            "sports"
-        ],
-        "link": "https://santamariatimes.com/ap/sports/aguirre-sorprende-con-el-regreso-de-ochoa-y-el-debut-de-fidalgo-a-la-selecci/article_b578c2cb-3f06-54f3-aaef-0224ee18d542.html",
-        "date": "2026-03-19 22:20:15",
-        "sentiment_score": 0.4141767881810665
-    },
-    {
-        "title": "0-1. El Rayo se mete en cuartos en Europa 25 años después tras eliminar al Samsunspor",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/19/0-1-el-rayo-se-mete-en-cuartos-en-europa-25-anos-despues-tras-eliminar-al-samsunspor/",
-        "date": "2026-03-19 22:19:48",
-        "sentiment_score": -0.07153931260108948
-    },
-    {
-        "title": "El Granada CF recupera la esencia del 'Matagigantes' con su nueva camiseta retro",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/03/19/web_nota_retro-kNYC--758x531@Ideal.png",
-        "tags": [
-            "adidas",
-            "liga de fútbol profesional",
-            "granada cf"
-        ],
-        "link": "https://www.ideal.es/granadacf/granada-recupera-esencia-matagigantes-nueva-camiseta-retro-20260319231012-nt.html",
-        "date": "2026-03-19 22:14:43",
-        "sentiment_score": 0.5884994063526392
-    },
-    {
-        "title": "El Real Oviedo presenta en Madrid la camiseta que usará en la jornada 'retro'",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/03/19/camisetaOviedo-U70223421103uqy-758x531@El%20Comercio.jpg",
-        "tags": [
-            "madrid",
-            "oviedo",
-            "presenta",
-            "retro",
-            "usara",
-            "camiseta",
-            "jornada",
-            "real"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-presenta-madrid-camiseta-usara-jornada-20260319231205-nt.html",
-        "date": "2026-03-19 22:12:08",
-        "sentiment_score": 0.20817723870277405
-    },
-    {
-        "title": "El Rayo sufre para eliminar al Samsunspor y se mete en cuartos en Europa 25 años después",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2c517ba5-49e1-459f-9af6-6b4f54e6f52b_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "rayo vallecano",
-            "fútbol",
-            "uefa",
-            "conference league"
-        ],
-        "link": "https://www.elcorreogallego.es/deportes/2026/03/19/rayo-sufre-eliminar-samsunspor-mete-128193726.html",
-        "date": "2026-03-19 22:11:51",
-        "sentiment_score": -0.36880333721637726
-    },
-    {
-        "title": "El Rayo sufre para eliminar al Samsunspor y se mete en cuartos en Europa 25 años después",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2c517ba5-49e1-459f-9af6-6b4f54e6f52b_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "fútbol",
-            "uefa",
-            "rayo vallecano",
-            "conference league"
-        ],
-        "link": "https://www.eldia.es/deportes/2026/03/19/rayo-sufre-eliminar-samsunspor-mete-128193721.html",
-        "date": "2026-03-19 22:11:48",
-        "sentiment_score": 0.34206975996494293
-    },
-    {
-        "title": "Sant Just busca nuevo operador para el histórico restaurante El Parador tras el fracaso de la licitación",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/17/actualidad/1003742742601_15843276_1706x960.jpg",
-        "tags": [
-            "contratos barcelona",
-            "gastronomía",
-            "gran barcelona",
-            "restaurantes barcelona",
-            "sant just desvern"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260319/sant-just-busca-nuevo-operador-historico-restaurante-parador-fracaso-licitacion/1003742737488_0.html",
-        "date": "2026-03-19 22:30:00",
-        "sentiment_score": -0.38350021094083786
-    },
-    {
-        "title": "4-0 El Barça sentencia al Noia Freixenet en la segunda parte y ya está en semifinales",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/19/4-0-el-barca-sentencia-al-noia-freixenet-en-la-segunda-parte-y-ya-esta-en-semifinales/",
-        "date": "2026-03-19 22:18:43",
-        "sentiment_score": 0.11985164880752563
-    },
-    {
-        "title": "Cuánto vale tu voto según dónde vivas",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2026/03/20/fotoleads-voto-1200x672.jpg",
-        "tags": [
-            "historias visuales",
-            "vivas",
-            "elecciones autonómicas",
-            "vale",
-            "segun",
-            "voto"
-        ],
-        "link": "https://www.canarias7.es/nacional/vale-voto-segun-vivas-20260319001746-ntrc.html",
-        "date": "2026-03-19 22:17:49",
-        "sentiment_score": -0.28508274629712105
-    },
-    {
-        "title": "Canarias se adelanta a la ceguera por diabetes con un exitoso sistema",
-        "image_url": "https://s2.ppllstatics.com/canarias7/www/multimedia/2026/03/19/Profesional-manejando-el-nuevo-retinografo-en-el-Centro-de-Salud-de-Valsequillo-kCvD-U201299087708nWH-758x531@Canarias7.jpg",
-        "tags": [
-            "diabetes",
-            "mujeres",
-            "jornadas",
-            "gran canaria",
-            "médicos",
-            "canarias",
-            "centro de salud"
-        ],
-        "link": "https://www.canarias7.es/sociedad/salud/canarias-adelanta-ceguera-diabetes-exitoso-sistema-20260320195605-nt.html",
-        "date": "2026-03-19 22:15:06",
-        "sentiment_score": 0.09203687310218811
-    },
-    {
-        "title": "La Fórmula E aterriza en el ePrix de Madrid: Así vivimos una tarde con Citroën, Nick Cassidy y Éric Verge",
-        "image_url": "https://hips.hearstapps.com/hmg-prod/images/fb3a2f36-5051-4d14-8f88-341413296a44.jpeg",
-        "tags": [
-            "nick cassidy y verge",
-            "content-type: news",
-            "collection: noticias",
-            "locale: es",
-            "shorttitle: vivimos una tarde con citroën",
-            "contentid: cb1b07b5-a8a6-4d1f-a919-15fe6054d92d",
-            "displaytype: standard article"
-        ],
-        "link": "https://www.caranddriver.com/es/motorsport/a70796357/formula-e-aterriza-eprix-madrid-vivimos-citroen-nick-cassidy-eric-verge/",
-        "date": "2026-03-19 22:14:00",
-        "sentiment_score": 0.7179141715168953
-    },
-    {
-        "title": "Resultado del sorteo de 'La Bonoloto' de este jueves 19 de marzo",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/amp-logo/logo-europapress.png",
-        "tags": [
-            "bonoloto"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-resultado-sorteo-bonoloto-jueves-19-marzo-20260319230532.html",
-        "date": "2026-03-19 22:05:32",
-        "sentiment_score": 0.05385464429855347
-    },
-    {
-        "title": "Valencia Basket-Barcelona: Clyburn apaga el fuego 'taronja' (62-66)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/310x310/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/03/19/image-8a8fcb5c-750a-4429-a2eb-2f6c842a3c1a-68-310-310.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.eurosport.es/baloncesto/euroliga/2025-2026/valencia-basket-barcelona-video-resumen-resultado-mejores-momentos-fase-regular-jornada-32-highlights_vid60064207/video.shtml",
-        "date": "2026-03-19 22:04:22",
-        "sentiment_score": 0.26665122620761395
-    },
-    {
-        "title": "Hallan el cuerpo sin vida de James Gracey, estadounidense desaparecido en Barcelona",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-gracey.jpg?c=16x9&q=w_800,c_fill",
-        "tags": [
-            "james gracey",
-            "españa",
-            "estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/2026/03/19/mundo/video/james-gracey-cuerpo-espana-dusa-tv",
-        "date": "2026-03-19 22:04:10",
-        "sentiment_score": -0.5505231209099293
-    },
-    {
-        "title": "Real Madrid jugará su próximo partido de Euroliga bajo esta medida",
-        "image_url": "https://pxcdn.meridiano.net/032026/1773974372109.jpg",
-        "tags": [
-            "real madrid",
-            "euroliga"
-        ],
-        "link": "https://meridiano.net/baloncesto/baloncesto-internacional/real-madrid-jugara-su-proximo-partido-de-euroliga-bajo-esta-medida-202631922390",
-        "date": "2026-03-20 02:39:00",
-        "sentiment_score": 0.01764967292547226
-    },
-    {
-        "title": "¿No juega ante México? Real Madrid confirma insólita lesión de Thibaut Courtois",
-        "image_url": "https://www.metroworldnews.com/resizer/v2/7SYQP4H7SFH3DKYOWS7GR3VJAQ.jpg?auth=8688067b5f9d9abfe7b99e596dad78c09792aa73ab0464586d175d636f6f72e2&smart=true&width=5720&height=3813",
-        "tags": [
-            "thibaut courtois",
-            "real madrid"
-        ],
-        "link": "https://www.metroworldnews.com/deportes/2026/03/20/no-juega-ante-mexico-real-madrid-confirma-insolita-lesion-de-thibaut-courtois/",
-        "date": "2026-03-20 02:16:49",
-        "sentiment_score": -0.5885749515146017
-    },
-    {
-        "title": "El AVE viaja en autobús",
-        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "viaja",
-            "ave",
-            "autobus"
-        ],
-        "link": "https://www.malagahoy.es/opinion/editorial/ave-viaja-autobus_0_2006231614.html",
-        "date": "2026-03-20 02:08:54",
-        "sentiment_score": -0.22089387476444244
-    },
-    {
-        "title": "Adif nos “hodia”",
-        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "hodia",
-            "adif"
-        ],
-        "link": "https://www.malagahoy.es/opinion/articulos/adif-hodia_0_2006231613.html",
-        "date": "2026-03-20 02:08:53",
-        "sentiment_score": -0.7523892931640148
-    },
-    {
-        "title": "La vía Moreno",
-        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "via",
-            "moreno"
-        ],
-        "link": "https://www.granadahoy.com/opinion/articulos/via-moreno_0_2006231590.html",
-        "date": "2026-03-20 02:08:40",
-        "sentiment_score": -0.33324941992759705
-    },
-    {
-        "title": "Clima en Barcelona: el pronóstico para este 20 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&smart=true&width=1920&height=1080",
-        "tags": [
-            "clima en españa",
-            "clima en barcelona",
-            "últimas actualizaciones",
-            "clima"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/20/clima-en-barcelona-el-pronostico-para-este-20-de-marzo/",
-        "date": "2026-03-20 02:00:56",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "Un centenar de becas de la Fundación \"la Caixa\" para atraer y retener el talento de jóvenes investigadores",
-        "image_url": "https://www.hispanidad.com/uploads/s1/14/57/39/8/foto-de-familia-en-el-acto-de-entrega-de-becas-de-doctorado-y-posdoctorado-de-la-fundacion-la-caixa-celebrado-en-el-museo-de-la-ciencia-cosmocaixa_14_1200x600.jpeg",
-        "tags": [
-            "educación",
-            "religión",
-            "pp",
-            "entrevistas"
-        ],
-        "link": "https://www.hispanidad.com/publirreportaje/centenar-becas-fundacion-la-caixa-atraer-retener-talento-jovenes-investigadores_12066409_102.html",
-        "date": "2026-03-20 02:00:00",
-        "sentiment_score": 0.09146243333816528
-    },
-    {
-        "title": "Podemos negociará con Rufián no presentarse en País Vasco y Cataluña para no dividir el voto y favorecer a Bildu y ERC",
-        "image_url": "https://s3.elespanol.com/2026/03/19/actualidad/1003744176857_262038218_1706x960.jpg",
-        "tags": [
-            "irene montero",
-            "podemos",
-            "sumar",
-            "eh bildu",
-            "erc",
-            "política",
-            "psoe (partido socialista obrero español)",
-            "gabriel rufián"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20260320/podemos-negociara-rufian-no-presentarse-pais-vasco-cataluna-dividir-voto-favorecer-bildu-erc/1003744176790_0.html",
-        "date": "2026-03-20 01:57:57",
-        "sentiment_score": 0.4436744526028633
-    },
-    {
-        "title": "Jimmy, el veinteañero de EEUU muerto en Barcelona: apareció a cuatro metros bajo el mar y un \"ladrón habitual\" tenía su móvil",
-        "image_url": "https://s3.elespanol.com/2026/03/19/actualidad/1003744176659_262035902_1706x960.jpg",
-        "tags": [
-            "reportajes",
-            "personas desaparecidas",
-            "eeuu",
-            "guardia urbana",
-            "cataluña",
-            "mozos de escuadra (mossos d'esquadra)",
-            "españa",
-            "barcelona"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260320/jimmy-veinteanero-eeuu-muerto-barcelona-aparecio-metros-mar-ladron-habitual-movil/1003744176046_0.html",
-        "date": "2026-03-20 01:57:51",
-        "sentiment_score": -0.5528831370174885
-    },
-    {
-        "title": "Del abrazo entre Riquelme y Ramón Díaz al show de Ruggeri: las perlitas del sorteo de la Copa Libertadores",
-        "image_url": "https://www.infobae.com/resizer/v2/OAHAEJTH7ZDKZHGR62G45OCNPI.jpg?auth=cd86b60f7d5616a264e5d84c725bbfad2e1683bffdc69feec74c49a256d5a8f3&smart=true&width=1920&height=1080",
-        "tags": [
-            "oscar ruggeri",
-            "felipe melo",
-            "ramón díaz",
-            "copa libertadores",
-            "deportes-argentina",
-            "juan román riquelme"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/20/del-abrazo-entre-riquelme-y-ramon-diaz-al-show-de-ruggeri-las-perlitas-del-sorteo-de-la-copa-libertadores/",
-        "date": "2026-03-20 01:57:39",
-        "sentiment_score": 0.8222386986017227
-    },
-    {
-        "title": "Cuántos kilómetros hará Boca Juniors en el Grupo D de la Copa Libertadores: el historial que ilusiona a los hinchas",
-        "image_url": "https://www.infobae.com/resizer/v2/EZSLVLVQP5E7LE4W5PWO6MJOR4.JPG?auth=d51761acb2df11c6b7d26f8f8b2191fbab133df795438e473be294cdce35cad6&smart=true&width=5248&height=2952",
-        "tags": [
-            "copa sudamericana",
-            "copa libertadores",
-            "barcelona de ecuador",
-            "cruzeiro",
-            "deportes-argentina",
-            "deportes-internacional",
-            "boca juniors",
-            "universidad católica"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/20/cuantos-kilometros-hara-boca-juniors-en-el-grupo-d-de-la-copa-libertadores-el-historial-que-ilusiona-a-los-hinchas/",
-        "date": "2026-03-20 01:46:38",
-        "sentiment_score": -0.18094445765018463
-    },
-    {
-        "title": "Millonarios llega a la fase de grupos de la Copa Sudamericana con el pie en el acelerador en la Liga BetPlay: así va su campaña",
-        "image_url": "https://www.infobae.com/resizer/v2/JM56UD7HLJGYHBB3Z6FL2RRSUE.jpg?auth=938acc30fda615b8ec55f9e751b1b30bc2e840add64adc73babc51ac86add7e7&smart=true&width=4816&height=3308",
-        "tags": [
-            "fabián bustos",
-            "colombia-deportes",
-            "millonarios",
-            "liga betplay",
-            "copa sudamerica"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2026/03/20/millonarios-llega-a-la-fase-de-grupos-de-la-copa-sudamericana-con-el-pie-en-el-acelerador-en-la-liga-betplay-asi-va-su-campana/",
-        "date": "2026-03-20 01:43:32",
-        "sentiment_score": 0.5490367263555527
-    },
-    {
-        "title": "Los mejores memes de los sorteos de la Libertadores y Sudamericana: Boca, River, Benedetto, Neymar y la ausencia de Independiente",
-        "image_url": "https://www.infobae.com/resizer/v2/HMHA2HSDTJBANPDMH2D7VS52JM.jpg?auth=f1b4123d5ffbaf159cc1974f7805a234919a1ecaf91ad26afbe642ed62ff5aa4&smart=true&width=1920&height=1080",
-        "tags": [
-            "river plate",
-            "copa sudamericana",
-            "copa libertadores",
-            "darío benedetto",
-            "memes",
-            "deportivo riestra",
-            "barracas central",
-            "independiente",
-            "racing club",
-            "neymar",
-            "boca juniors",
-            "san lorenzo"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/20/los-mejores-memes-de-los-sorteos-de-la-libertadores-y-sudamericana-boca-river-benedetto-neymar-y-la-ausencia-de-independiente/",
-        "date": "2026-03-20 01:43:22",
-        "sentiment_score": -0.44590210914611816
-    },
-    {
-        "title": "Se sorteó la Copa Libertadores 2026: así quedaron los grupos",
-        "image_url": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://krdo.com/news/2026/03/19/se-sorteo-la-copa-libertadores-2026-asi-quedaron-los-grupos/",
-        "date": "2026-03-20 01:33:33",
-        "sentiment_score": 0.24991948902606964
-    },
-    {
-        "title": "Se sorteó la Copa Libertadores 2026: así quedaron los grupos",
-        "image_url": "https://ktvz.b-cdn.net/2025/02/KTVZ-Default-image-860x484.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://ktvz.com/cnn-spanish/2026/03/19/se-sorteo-la-copa-libertadores-2026-asi-quedaron-los-grupos/",
-        "date": "2026-03-20 01:33:33",
-        "sentiment_score": 0.2505922093987465
-    },
-    {
         "title": "Semana Santa 2026 con niños: los mejores planes para estas vacaciones",
         "image_url": "https://okdiario.com/img/2026/03/03/semana-santa-2026-con-ninos-los-mejores-planes-para-estas-vacaciones.jpg",
         "tags": [
@@ -3282,5 +2858,272 @@ export default [
         "link": "https://okdiario.com/economia/consumo/colas-gran-via-partir-del-jueves-26-marzo-abre-famoso-restaurante-alitas-tipico-eeuu-menus-15-euros-16456631",
         "date": "2026-03-23 06:45:06",
         "sentiment_score": 0.19880635291337967
+    },
+    {
+        "title": "Detenidos los presuntos responsables de quemar con combustible a una mujer en Sevilla la Nueva (Madrid)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "venganza",
+            "agresores",
+            "sevilla la nueva",
+            "líquido",
+            "quemaduras",
+            "combustible"
+        ],
+        "link": "https://www.meneame.net/story/detenidos-presuntos-responsables-quemar-combustible-mujer-nueva",
+        "date": "2026-03-23 08:10:02",
+        "sentiment_score": -0.8632906656712294
+    },
+    {
+        "title": "Un juzgado cita a un ex alto cargo de Hacienda tras una querella de Anticorrupción por presunto cohecho",
+        "image_url": "https://www.infobae.com/resizer/v2/Y2QLTAM7LND2DACLEXXZJAUYCQ.jpg?auth=17c436e7b29745c345d83c5eb653872eae34f7d35c0d389a76286f46d8f59cbc&smart=true&width=1920&height=1280",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/23/un-juzgado-cita-a-un-ex-alto-cargo-de-hacienda-tras-una-querella-de-anticorrupcion-por-presunto-cohecho/",
+        "date": "2026-03-23 17:46:50",
+        "sentiment_score": -0.5438088811933994
+    },
+    {
+        "title": "Hungría es una brecha en la seguridad de la Unión Europea",
+        "image_url": "https://www.atalayar.com/media/atalayar/images/2025/10/17/2025101711541888926.webp",
+        "tags": [
+            "hungary",
+            "uni&oacute;n europea",
+            "ucrania",
+            "espa&ntilde;a",
+            "european union",
+            "portada",
+            "la russie",
+            "l&#039;union europ&eacute;enne",
+            "l&#039;ukraine",
+            "l&#039;espagne",
+            "spain",
+            "la hongrie",
+            "rusia",
+            "russia",
+            "ukraine",
+            "hungr&iacute;a"
+        ],
+        "link": "https://www.atalayar.com/articulo/politica/hungria-es-brecha-seguridad-union-europea/20260323184500224246.html",
+        "date": "2026-03-23 17:45:00",
+        "sentiment_score": -0.1870398335158825
+    },
+    {
+        "title": "Héctor Santana, pionero en la Gala Drag, presenta su libro contra el estigma del síndrome de Down",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ba75447a-9938-4134-803d-f57e50fcf8eb_16-9-aspect-ratio_default_0_x562y249.jpg",
+        "tags": [
+            "síndrome de down",
+            "libros",
+            "fundación mapfre",
+            "canarias",
+            "madrid"
+        ],
+        "link": "https://www.laprovincia.es/canarias/2026/03/23/canario-hector-santana-presenta-madrid-128324992.html",
+        "date": "2026-03-23 17:39:28",
+        "sentiment_score": 0.017538920044898987
+    },
+    {
+        "title": "Yolanda Díaz anima a los ministros de Sumar a seguir dando la batalla dentro del Gobierno",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2026/03/23/69c17a649b40d5-14741950.jpeg",
+        "tags": [
+            "yolanda",
+            "anima",
+            "díaz",
+            "los",
+            "ministros"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/actualidad/2026/03/23/yolanda-diaz-anima-los-ministros-sumar-seguir-dando-batalla-dentro-gobierno-2006219.html",
+        "date": "2026-03-23 17:38:19",
+        "sentiment_score": -0.17109964787960052
+    },
+    {
+        "title": "Zidane será entrenador de Francia tras el Mundial 2026",
+        "image_url": "https://www.mundonow.com/wp-content/uploads/2026/03/shutterstock_1011783064-1-scaled.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.mundonow.com/zidane-sera-entrenador-de-francia-tras-el-mundial-2026/",
+        "date": "2026-03-23 17:32:02",
+        "sentiment_score": 0.2721259519457817
+    },
+    {
+        "title": "Lolo Escobar, sustituto de Dani Vidal para intentar salvar al Real Avilés",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/03/23/lolo-escobar-entrenador-RgdfbDQ2znpVkPGhs2H7mBO-758x531@El%20Comercio.jpg",
+        "tags": [
+            "real avilés",
+            "primera rfef",
+            "estadio román suárez puerta",
+            "segunda división"
+        ],
+        "link": "https://www.elcomercio.es/real-aviles/lolo-escobar-sustituto-dani-vidal-intentar-salvar-equipo-20260323181813-nt.html",
+        "date": "2026-03-23 17:30:13",
+        "sentiment_score": 0.06900385022163391
+    },
+    {
+        "title": "Empresas | La patronal de apartamentos turísticos nombra a Esther Guilabert nueva secretaria general",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1808465.jpg",
+        "tags": [
+            "patronal",
+            "pisos turísticos"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/empresas/la-patronal-de-apartamentos-turisticos-nombra-a-esther-guilabert-nueva-secretaria-general",
+        "date": "2026-03-23 17:29:41",
+        "sentiment_score": 0.2946646362543106
+    },
+    {
+        "title": "Llorente, tras el penalti no señalado de Carvajal en el derbi: “No merece la pena opinar”",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e60ce621-1eee-4fd6-bf07-487570900d84_16-9-aspect-ratio_default_0_x512y192.jpg",
+        "tags": [
+            "real madrid",
+            "atlético de madrid",
+            "var",
+            "derbi",
+            "madrid"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2026/03/23/llorente-penalti-senalado-carvajal-derbi-var-128324300.html",
+        "date": "2026-03-23 17:27:31",
+        "sentiment_score": -0.35850927233695984
+    },
+    {
+        "title": "Las fotos, looks y detalles de la boda de Irene Matamoros, hija de Kiko Matamoros, quien coincidió con su primera mujer",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2820178.jpg",
+        "tags": [
+            "kiko matamoros",
+            "mar flores",
+            "diego matamoros",
+            "famosos",
+            "laura matamoros",
+            "bodas"
+        ],
+        "link": "https://www.vozpopuli.com/dolcevita/las-fotos-looks-y-detalles-de-la-boda-de-irene-matamoros-hija-de-kiko-matamoros-quien-coincidio-con-su-primera-mujer.html",
+        "date": "2026-03-23 17:24:19",
+        "sentiment_score": 0.2538314014673233
+    },
+    {
+        "title": "Vinícius Júnior se desquita en los derbis y mantiene su vuelo en el tramo clave de temporada",
+        "image_url": "https://www.infobae.com/resizer/v2/2V765PVEC5FOPKZH5DMAINKGO4.jpg?auth=6ec4153d9721d0f20a1b74bd7404f3b17413595c8bbeba7309b58f22d5cbbd05&smart=true&width=1920&height=1280",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/23/vinicius-junior-se-desquita-en-los-derbis-y-mantiene-su-vuelo-en-el-tramo-clave-de-temporada/",
+        "date": "2026-03-23 17:15:19",
+        "sentiment_score": 0.325823288410902
+    },
+    {
+        "title": "Fundación Mapfre inicia en Cáceres la recuperación de la red de fundaciones",
+        "image_url": "https://static.grupojoly.com/clip/68c216b6-ce88-44e2-911c-16fc427f0218_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "mapfre",
+            "recuperacion",
+            "fundacion",
+            "inicia",
+            "caceres"
+        ],
+        "link": "https://www.eldiadecordoba.es/empresas-al-dia/fundacion-mapfre-inicia-caceres-recuperacion_0_2006278162.html",
+        "date": "2026-03-23 17:47:05",
+        "sentiment_score": 0.5485072825103998
+    },
+    {
+        "title": "Fundación Mapfre elige Cáceres como sede de la Red Ibérica",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/10/02/plaza-de-san-jorge-en-caceres.jpeg",
+        "tags": [
+            "mapfre",
+            "como",
+            "fundación",
+            "cáceres",
+            "elige"
+        ],
+        "link": "https://www.20minutos.es/extremadura/caceres/fundacion-mapfre-elige-caceres-como-sede-red-iberica_6949694_0.html",
+        "date": "2026-03-23 17:43:24",
+        "sentiment_score": 0.4221954233944416
+    },
+    {
+        "title": "El cine de barrio: cuando una comunidad soñaba unida",
+        "image_url": "https://images.theconversation.com/files/723350/original/file-20260311-57-abb4nr.jpg?ixlib=rb-4.1.0&rect=0%2C170%2C1552%2C776&q=45&auto=format&w=1356&h=668&fit=crop",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://theconversation.com/el-cine-de-barrio-cuando-una-comunidad-sonaba-unida-275981",
+        "date": "2026-03-23 17:41:59",
+        "sentiment_score": 0.08955691754817963
+    },
+    {
+        "title": "¿Por qué a Shakira o Bad Bunny les gustan tanto las residencias?",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/02/69a528f2b7405.r_d.1231-1029-0.jpeg",
+        "tags": [
+            "bunny",
+            "residencias",
+            "gustan",
+            "tanto",
+            "shakira",
+            "bad",
+            "les"
+        ],
+        "link": "https://www.lavanguardia.com/cultura/20260323/11497372/shakira-bad-bunny-les-gustan-tanto-residencias.html",
+        "date": "2026-03-23 17:39:54",
+        "sentiment_score": 0.6276732534170151
+    },
+    {
+        "title": "El pueblo vinícola perfecto para una escapada en primavera: con un castillo del siglo X y un mirador panorámico de 360 grados",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/23/actualidad/1003742744626_15872051_1706x960.jpg",
+        "tags": [
+            "recomendaciones",
+            "curiosidades",
+            "planes",
+            "vivir en barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260323/pueblo-vinicola-perfecto-escapada-primavera-castillo-mirador-panoramico-trt/1003742744589_0.html",
+        "date": "2026-03-23 17:35:04",
+        "sentiment_score": 0.5142379179596901
+    },
+    {
+        "title": "Lewandowski y su futuro... Aún no",
+        "image_url": "https://www.cope.es/files/microformat_image/uploads/2026/02/24/699d9ce611e2a.jpeg",
+        "tags": [
+            "futuro",
+            "lewandowski",
+            "no",
+            "aún"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/lewandowski-futuro-aun-no-20260323_3332244.html",
+        "date": "2026-03-23 17:34:12",
+        "sentiment_score": -0.0729091465473175
+    },
+    {
+        "title": "Muere a los 81 años Antoni Marí, poeta, escritor y profesor de carácter indomable e irreductible",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/04/17/6800b3144f5a2.r_d.1434-794-0.jpeg",
+        "tags": [
+            "poeta",
+            "profesor",
+            "muere",
+            "81",
+            "indomable",
+            "e",
+            "antoni",
+            "irreductible",
+            "escritor",
+            "marí",
+            "carácter",
+            "años"
+        ],
+        "link": "https://www.lavanguardia.com/cultura/20260323/11497368/muere-81-anos-antoni-mari-poeta-escritor-profesor-caracter-indomable-e-irreductible.html",
+        "date": "2026-03-23 17:33:32",
+        "sentiment_score": 0.3588748201727867
+    },
+    {
+        "title": "Alcaraz se apunta a unas necesarias vacaciones",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/23/alcaraz-merecidas-vacaciones-kabG-U201359897040GV-1200x840@RC.jpg",
+        "tags": [
+            "alcaraz",
+            "necesarias",
+            "vacaciones",
+            "apunta"
+        ],
+        "link": "https://www.lasprovincias.es/deportes/tenis/alcaraz-apunta-necesarias-vacaciones-20260323183308-ntrc.html",
+        "date": "2026-03-23 17:33:17",
+        "sentiment_score": -0.819823918864131
     }
 ];
