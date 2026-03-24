@@ -1,251 +1,5 @@
 export default [
     {
-        "title": "LaLiga recupera su historia con las equipaciones 'retro'",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4418991.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.ultimahora.es/deportes/futbol/2026/03/20/2593527/laliga-recupera-historia-las-equipaciones-retro.html",
-        "date": "2026-03-20 17:32:00",
-        "sentiment_score": 0.4600100480020046
-    },
-    {
-        "title": "La CEOE carga contra la prórroga de alquileres sin valorar las medidas anticrisis",
-        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEABT0MT_L.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://es.investing.com/news/economy-news/la-ceoe-carga-contra-la-prorroga-de-alquileres-sin-valorar-las-medidas-anticrisis-3571865",
-        "date": "2026-03-20 17:31:55",
-        "sentiment_score": -0.7945523280650377
-    },
-    {
-        "title": "Mbappé apunta al derbi tras superar su lesión",
-        "image_url": "https://www.cope.es/files/og_thumbnail/files/fp/uploads/2026/03/20/69bd83a37d90e.r_d.1209-368-0.jpeg",
-        "tags": [
-            "mbappé",
-            "superar",
-            "derbi",
-            "lesión",
-            "apunta"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/mbappe-apunta-derbi-superar-lesion-20260320_3331082.html",
-        "date": "2026-03-20 17:30:50",
-        "sentiment_score": 0.0038002431392669678
-    },
-    {
-        "title": "Un ‘podcaster’ revela el detalle de la Reina Letizia tras rechazar participar en su programa",
-        "image_url": "https://okdiario.com/look/img/2026/03/20/letiz.jpg",
-        "tags": [
-            "letizia"
-        ],
-        "link": "https://okdiario.com/look/casa-real/podcaster-revela-detalle-reina-letizia-rechazar-participar-programa-2507150",
-        "date": "2026-03-20 17:29:19",
-        "sentiment_score": -0.28473517298698425
-    },
-    {
-        "title": "(Previa) FC Barcelona y Real Madrid no quieren fallar en la Liga F Moeve antes de su carrusel de Clásicos",
-        "image_url": "https://www.infobae.com/resizer/v2/U2B7WYSELFCRNMAE7UPNSZA52E.jpg?auth=586df630b9b487e678b72e5075d176943033cfc736a3f49d5b6433d350875b69&smart=true&width=1920&height=1280",
-        "tags": [
-            "liga f moeve",
-            "fútbol femenino",
-            "europapress",
-            "sd eibar",
-            "real madrid",
-            "copa de la reina",
-            "madrid",
-            "athletic club",
-            "clásico",
-            "uefa champions league",
-            "fc barcelona"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/20/previa-fc-barcelona-y-real-madrid-no-quieren-fallar-en-la-liga-f-moeve-antes-de-su-carrusel-de-clasicos/",
-        "date": "2026-03-20 17:19:23",
-        "sentiment_score": -0.010209739208221436
-    },
-    {
-        "title": "Keylor Navas entra en el radar de la Major League Soccer",
-        "image_url": "https://laopinion.com/wp-content/uploads/sites/3/2026/03/Imago-1762554-e1774016246455.jpg",
-        "tags": [
-            "mls",
-            "pumas de la unam",
-            "keylor navas"
-        ],
-        "link": "https://laopinion.com/2026/03/20/keylor-navas-entra-en-el-radar-de-la-major-league-soccer/",
-        "date": "2026-03-20 17:18:25",
-        "sentiment_score": -0.1774650737643242
-    },
-    {
-        "title": "DT de Bélgica convoca a varios jóvenes para amistosos de este mes con México y EEUU",
-        "image_url": "https://www.reuters.com/resizer/v2/WDFCQ42KNNPF5HE5H7RTZ56URE.jpg?auth=4241d1b7f31f1a9ef44848a8a92770c0fa17ad5b2b80050a9bf6e33fdcd19768&smart=true&width=1920",
-        "tags": [
-            "2026:newsml_l6n4080z8:2146037753",
-            "usn:l6n4080z8",
-            "usn:kbn3q21vl",
-            "usn:kbn3q21vm",
-            "2026:newsml_kbn3q21vl",
-            "vguid:tag:reuters.com",
-            "2026:newsml_kbn3q21vm:1",
-            "2026:newsml_kbn3q21vl:1",
-            "guid:tag:reuters.com",
-            "2026:newsml_kbn3q21vm",
-            "2026:newsml_l6n4080z8"
-        ],
-        "link": "https://www.reuters.com/es/deportivo/AQD7QLW6PBIHPEJWZ3QXQVQHUE-2026-03-20/",
-        "date": "2026-03-20 17:12:10",
-        "sentiment_score": 0.14084770902991295
-    },
-    {
-        "title": "España se burla del fracaso de reprogramar la Finalissima ante Argentina con un sketch cómico",
-        "image_url": "https://lacalle.com.ve/wp-content/uploads/2026/03/AP26079540130652.webp",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://lacalle.com.ve/espana-se-burla-del-fracaso-de-reprogramar-la-finalissima-ante-argentina-con-un-sketch-comico/",
-        "date": "2026-03-20 17:09:20",
-        "sentiment_score": -0.9224302172660828
-    },
-    {
-        "title": "Compás de espera para la renovación de Alexia Putellas",
-        "image_url": "https://static1.ara.cat/clip/0a70fb14-5438-4261-8083-933e3aebeafc_16-9-aspect-ratio_default_1056988.jpg",
-        "tags": [
-            "compas",
-            "alexia",
-            "renovacion",
-            "espera",
-            "putellas"
-        ],
-        "link": "https://es.ara.cat/deportes/barca-femenino/compas-espera-renovacion-alexia-putellas_1_5684624.html",
-        "date": "2026-03-20 17:01:06",
-        "sentiment_score": 0.36826495826244354
-    },
-    {
-        "title": "La venta de la camiseta retro del Córdoba CF, en imágenes",
-        "image_url": "https://static.grupojoly.com/clip/5790c157-9e4d-4216-a375-15db0a3c01eb_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias córdoba",
-            "últimas noticias",
-            "córdoba club de fútbol"
-        ],
-        "link": "https://www.eldiadecordoba.es/cordobacf/venta-camiseta-retro-cordoba-cf-imagenes_3_2006237266.html",
-        "date": "2026-03-20 16:58:24",
-        "sentiment_score": 0.15261903405189514
-    },
-    {
-        "title": "Un donante anónimo de semen en España transmite una enfermedad rara varias veces",
-        "image_url": "https://static.grupojoly.com/clip/cb388690-5b2e-4cc6-b2ca-29aba8fc600c_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "transmite",
-            "semen",
-            "rara",
-            "donante",
-            "enfermedad",
-            "anonimo",
-            "espana"
-        ],
-        "link": "https://www.diariodesevilla.es/salud/donante-anonimo-semen-espana-transmite-enfermedad-rara_0_2006237547.html",
-        "date": "2026-03-20 17:34:49",
-        "sentiment_score": -0.9129320671781898
-    },
-    {
-        "title": "Lesión deja a Cristiano Ronaldo fuera de amistosos de Portugal ante EEUU y México",
-        "image_url": "https://lacalle.com.ve/wp-content/uploads/2026/03/AP26079531430544.webp",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://lacalle.com.ve/lesion-deja-a-cristiano-ronaldo-fuera-de-amistosos-de-portugal-ante-eeuu-y-mexico/",
-        "date": "2026-03-20 17:32:13",
-        "sentiment_score": -0.21334287524223328
-    },
-    {
-        "title": "La Semana Santa de Sevilla de 2026 tendrá Ley Seca: prohibido vender alcohol al paso de las hermandades y cierre de los bares a las 3.00 en la Madrugá",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/70cfe41f-50aa-46c1-b478-349a3b5cde3a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "veladores",
-            "la madrugá",
-            "bares",
-            "hosteleros",
-            "cofradias",
-            "hermandades"
-        ],
-        "link": "https://www.elcorreoweb.es/semana-santa/2026/03/20/semana-santa-2026-veladores-cierre-bares-venta-alcohol-128230269.html",
-        "date": "2026-03-20 17:31:12",
-        "sentiment_score": -0.21784818172454834
-    },
-    {
-        "title": "El presidente de Xiaomi presenta “Una nueva generación del SU7”: muchos cambios para el eléctrico que (por fin) veremos en España en 2027",
-        "image_url": "https://hips.hearstapps.com/hmg-prod/images/cda0da51-ac41-439d-9069-1404a54de9a0.jpg",
-        "tags": [
-            "displaytype: standard article",
-            "collection: noticias",
-            "subsection: novedades",
-            "shorttitle: un 'nuevo' xiaomi su7 se pone a la venta",
-            "collection: berlinas",
-            "collection: eléctricos",
-            "content-type: default",
-            "locale: es",
-            "contentid: 3b793681-2286-4735-af56-f30a48fb7f32"
-        ],
-        "link": "https://www.caranddriver.com/es/coches/novedades/a70798562/xiaomi-su7-2026/",
-        "date": "2026-03-20 17:30:00",
-        "sentiment_score": 0.1359318494796753
-    },
-    {
-        "title": "Ernesto Valverde dejará la dirección del Athletic Bilbao al final de la temporada",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-20/ernesto-valverde-dejara-la-direccion-del-athletic-bilbao-al-final-de-la-temporada",
-        "date": "2026-03-20 17:29:46",
-        "sentiment_score": 0.0694369375705719
-    },
-    {
-        "title": "Las bromas de Ruggeri por su confundida reacción ante una pregunta en portugués durante el sorteo de la Libertadores",
-        "image_url": "https://www.infobae.com/resizer/v2/YIV4DDGYIVH3ZKIVONOPQ5L764.jpg?auth=81b79395c3938ee75647592399e660c7ac8f986eb943f3a8609675f90249a182&smart=true&width=1585&height=772",
-        "tags": [
-            "nery pumpido",
-            "copa sudamericana",
-            "copa libertadores",
-            "conmebol",
-            "óscar ruggeri",
-            "boca juniors"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/20/las-bromas-de-ruggeri-por-su-confundida-reaccion-ante-una-pregunta-en-portugues-durante-el-sorteo-de-la-libertadores/",
-        "date": "2026-03-20 17:26:27",
-        "sentiment_score": -0.4222835674881935
-    },
-    {
-        "title": "Solarprofit activa una nueva reestructuración tras su enfrentamiento con la banca",
-        "image_url": "https://s10.s3c.es/imag/_v0/3888x2592/f/5/f/1200x655_sede_solarprofit.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.eleconomista.es/energia/noticias/13834720/03/26/solarprofit-activa-una-nueva-reestructuracion-tras-su-enfrentamiento-con-la-banca.html",
-        "date": "2026-03-20 17:23:14",
-        "sentiment_score": -0.4972529709339142
-    },
-    {
-        "title": "Radiografía de las violaciones en 'manada' de adolescentes: el 80% son planificadas y en un 22% participan menores de 14 años",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a37f7bc3-4bca-4da2-8070-05c822ab335c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "igualdad",
-            "machismo",
-            "adolescentes",
-            "violencia de género",
-            "niños",
-            "agresión sexual",
-            "violaciones"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/sociedad/2026/03/20/violaciones-manada-menores-14-anos-porno-planificadas-128231019.html",
-        "date": "2026-03-20 17:23:11",
-        "sentiment_score": -0.8549436768516898
-    },
-    {
         "title": "Bélgica anuncia convocatoria para amistosos contra México y Estados Unidos",
         "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2026/03/AP25160689796433-e1774045064346.jpg",
         "tags": [
@@ -3451,5 +3205,187 @@ export default [
         "link": "https://www.hoy.es/economia/veinte-empresas-promocionan-productos-regionales-barcelona-20260324082320-nt.html",
         "date": "2026-03-24 00:00:00",
         "sentiment_score": 0.6465955916792154
+    },
+    {
+        "title": "Detenidos los presuntos responsables de quemar con combustible a una mujer en Sevilla la Nueva (Madrid)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "venganza",
+            "agresores",
+            "sevilla la nueva",
+            "líquido",
+            "quemaduras",
+            "combustible"
+        ],
+        "link": "https://www.meneame.net/story/detenidos-presuntos-responsables-quemar-combustible-mujer-nueva",
+        "date": "2026-03-23 08:10:02",
+        "sentiment_score": -0.8632908463478088
+    },
+    {
+        "title": "Precio de la gasolina hoy 24 de marzo: localiza las gasolineras más baratas de Madrid",
+        "image_url": "https://okdiario.com/img/2026/03/23/precio-de-la-gasolina-hoy-24-de-marzo-localiza-las-gasolineras-mas-baratas-de-madrid.jpg",
+        "tags": [
+            "madrid",
+            "precio de la gasolina",
+            "gasolina",
+            "okd"
+        ],
+        "link": "https://okdiario.com/madrid/precio-gasolina-hoy-24-marzo-localiza-gasolineras-mas-baratas-madrid-16466588",
+        "date": "2026-03-24 07:15:14",
+        "sentiment_score": -0.40627558529376984
+    },
+    {
+        "title": "07:00H | 24 MAR 2026 | Herrera en COPE",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67cfe50112eb6.jpeg",
+        "tags": [
+            "24",
+            "07",
+            "00h",
+            "2026",
+            "mar"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/07-00h-24-mar-2026-herrera-cope-20260324_3332414.html",
+        "date": "2026-03-24 07:06:00",
+        "sentiment_score": -0.6626024022698402
+    },
+    {
+        "title": "David Pérez, neurólogo, sobre cómo cuidar tu salud cerebral: \"La mayoría de suplementos para la memoria son inútiles\"",
+        "image_url": "https://album.mediaset.es/eimg/2026/03/20/david-perez-16-9-aspect-ratio-default-1036636_da39.jpg?w=1024",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.telecinco.es/noticias/salud/20260324/david-perez-neurologo-como-cuidar-salud-cerebral-suplementos-memoria-inutiles-upp3rs_18_018675343.html",
+        "date": "2026-03-24 07:00:26",
+        "sentiment_score": 0.2229786440730095
+    },
+    {
+        "title": "El Tribunal Supremo rechaza devolver 52.619 euros a un jubilado tras comprar una vivienda al considerar que no era para vivir",
+        "image_url": "https://images.ecestaticos.com/Vgnl3G3PckjioQYPdK8FKrBxwew=/0x0:1254x836/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F165%2F7f3%2F6f5%2F1657f36f545691d33ca32db8cf105941.jpg",
+        "tags": [
+            "vivienda"
+        ],
+        "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-03-24/tribunal-supremo-rechaza-devolver-52619-euros-jubilado_4325198/",
+        "date": "2026-03-24 07:00:00",
+        "sentiment_score": -0.7540870793163776
+    },
+    {
+        "title": "“El fascismo no es solo violencia: es peligroso por su gran capacidad de persuasión”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/682be3df-7004-4b8a-ad05-eb8c0b004dde_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "irán",
+            "crossover series fascismo blas moreno",
+            "trump",
+            "series",
+            "crossover"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/cultura/2026/03/24/crossover-series-fascismo-blas-moreno-10856723.html",
+        "date": "2026-03-24 06:51:01",
+        "sentiment_score": -0.3511194512248039
+    },
+    {
+        "title": "Parón crítico para el Real Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/eb47c2ce-08d0-4b8a-b331-a7eeb5205256_16-9-aspect-ratio_default_0_x595y222.jpg",
+        "tags": [
+            "kylian mbappé",
+            "fifa",
+            "real madrid",
+            "fútbol",
+            "jude bellingham"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2026/03/24/paron-critico-real-madrid-arbeloa-mbappe-bellingham-128337288.html",
+        "date": "2026-03-24 06:36:58",
+        "sentiment_score": 0.28427019715309143
+    },
+    {
+        "title": "Las Edades del Hombre se prolongan en Zamora: ‘EsperanZa’ estará abierta hasta el 3 de mayo",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialautonomico/images/2026/03/24/2026032408123487776.jpg",
+        "tags": [
+            "zamora",
+            "portada",
+            "pan"
+        ],
+        "link": "https://www.elconfidencialdigital.com/autonomico/articulo/castilla-y-leon/zamora-acoge-primer-simposio-pan-harina-antesala-gran-panfest-2027/20251117050000155853.html",
+        "date": "2026-03-24 07:13:05",
+        "sentiment_score": -0.010392069816589355
+    },
+    {
+        "title": "50 días para poner las guindas",
+        "image_url": "https://static.laregion.es/clip/2d24a0ad-83cd-4e34-98b8-227bfd5b7c7d_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "celta"
+        ],
+        "link": "https://www.atlantico.net/celtismo/50-dias-poner-guindas_1_20260324-4210915.html",
+        "date": "2026-03-24 07:10:36",
+        "sentiment_score": 0.5978407375514507
+    },
+    {
+        "title": "El Meteocat confirma un cambio radical del tiempo en Barcelona, a partir de este día",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/11/16/69196e9416583.r_d.1961-1429-0.jpeg",
+        "tags": [
+            "confirma",
+            "partir",
+            "radical",
+            "meteocat",
+            "cambio",
+            "barcelona",
+            "día"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20260324/1004158548/meteocat-confirma-cambio-radical-barcelona-partir-dia-dct.html",
+        "date": "2026-03-24 07:07:29",
+        "sentiment_score": 0.6360718868672848
+    },
+    {
+        "title": "Illa anuncia un primer paquete de 400 millones en medidas de respuesta para Catalunya por la guerra",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/97c19af5-be58-4205-bb0d-c31d958ed66e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "responsabilidad",
+            "empresas",
+            "anuncia",
+            "illa",
+            "paquete",
+            "irán",
+            "400",
+            "financiación",
+            "govern",
+            "guerra",
+            "primer",
+            "salvador illa",
+            "ayudas"
+        ],
+        "link": "https://www.noticiasdenavarra.com/economia/2026/03/24/illa-anuncia-primer-paquete-400-10858144.html",
+        "date": "2026-03-24 07:05:49",
+        "sentiment_score": 0.15318416059017181
+    },
+    {
+        "title": "España registró un récord de 2.255 solicitudes de patentes europeas en 2025, un 3% más",
+        "image_url": "https://forbes.es/wp-content/uploads/2026/03/fotonoticia_20260324080051_1920-1200x675.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://forbes.es/economia/894896/espana-registro-un-record-de-2-255-solicitudes-de-patentes-europeas-en-2025-un-3-mas/",
+        "date": "2026-03-24 07:00:51",
+        "sentiment_score": 0.29356131702661514
+    },
+    {
+        "title": "La demanda de patentes europeas superó por primera vez las 200.000 peticiones en 2025",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e6f6e95c-5d36-44db-b738-64138faa8a5c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "europeas",
+            "motor",
+            "crecimiento",
+            "supero",
+            "empresas",
+            "primera",
+            "barcelona",
+            "euskadi",
+            "europa",
+            "china",
+            "demanda",
+            "patentes"
+        ],
+        "link": "https://www.deia.eus/economia/2026/03/24/demanda-patentes-europeas-supero-primera-10858129.html",
+        "date": "2026-03-24 07:00:47",
+        "sentiment_score": 0.468454223126173
     }
 ];
