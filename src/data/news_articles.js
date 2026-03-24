@@ -1,131 +1,5 @@
 export default [
     {
-        "title": "Semana Santa 2026 con niños: los mejores planes para estas vacaciones",
-        "image_url": "https://okdiario.com/img/2026/03/03/semana-santa-2026-con-ninos-los-mejores-planes-para-estas-vacaciones.jpg",
-        "tags": [
-            "semana santa",
-            "niños",
-            "okd",
-            "vacaciones"
-        ],
-        "link": "https://okdiario.com/bebes/semana-santa-2026-ninos-mejores-planes-estas-vacaciones-16339191",
-        "date": "2026-03-20 07:00:09",
-        "sentiment_score": 0.5688024014234543
-    },
-    {
-        "title": "La Clínica Universidad de Navarra recibe una de las mayores acreditaciones sanitarias del mundo",
-        "image_url": "https://navarra.okdiario.com/media/navarra/images/2026/03/13/2026031310441244520.jpg",
-        "tags": [
-            "sanidad",
-            "salud",
-            "cl&iacute;nica universidad de navarra"
-        ],
-        "link": "https://navarra.okdiario.com/articulo/sociedad/clinica-universidad-navarra-recibe-mayores-acreditaciones-sanitarias-mundo-octava-vez/20260320075914636164.html",
-        "date": "2026-03-20 06:59:14",
-        "sentiment_score": 0.4732141252607107
-    },
-    {
-        "title": "Jorge Dezcallar, exembajador español: \"No habrá seguridad para Israel sin justicia para los palestinos\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8b960846-4724-41ef-9907-f1b8086355c7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "justicia",
-            "mallorca",
-            "geopolítica",
-            "libros",
-            "literatura",
-            "israel",
-            "seguridad",
-            "palestina",
-            "cni",
-            "jorge dezcallar"
-        ],
-        "link": "https://www.diariodemallorca.es/mallorca/2026/03/20/jorge-dezcallar-novela-pez-negro-israel-palestina-128177101.html",
-        "date": "2026-03-20 06:54:41",
-        "sentiment_score": -0.23664158582687378
-    },
-    {
-        "title": "Así son las camisetas retro de los equipos de Primera y Segunda",
-        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2026/03/20/camisetas-retro-kfGG--758x531@Ideal.jpg",
-        "tags": [
-            "fútbol",
-            "liga de fútbol profesional"
-        ],
-        "link": "https://www.ideal.es/granadacf/camisetas-retro-equipos-primera-segunda-20260320074904-ga.html",
-        "date": "2026-03-20 06:49:06",
-        "sentiment_score": 0.10063033550977707
-    },
-    {
-        "title": "El oficial: las viviendas con árboles a 50 cm de la casa de un vecino podrán enfrentarse a multas de hasta 500€",
-        "image_url": "https://s3.elespanol.com/2026/03/17/actualidad/1003744173740_261996856_1706x960.jpg",
-        "tags": [
-            "sociedad",
-            "propietarios",
-            "soft",
-            "vivienda"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20260320/oficial-viviendas-arboles-cm-casa-vecino-podran-enfrentarse-multas/1003744173483_0.html",
-        "date": "2026-03-20 06:41:43",
-        "sentiment_score": -0.6656658183783293
-    },
-    {
-        "title": "El Athletic presenta su camiseta retro",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/4cd8cb88-e0e2-40e3-bf48-8b919615bc1e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "setenta",
-            "rojiblanca",
-            "ernesto valverde",
-            "camiseta",
-            "laliga",
-            "retro",
-            "años",
-            "villarreal"
-        ],
-        "link": "https://www.deia.eus/athletic/2026/03/20/camiseta-retro-rojiblanca-anos-setenta-10843015.html",
-        "date": "2026-03-20 06:37:50",
-        "sentiment_score": 0.4629862755537033
-    },
-    {
-        "title": "Courtois sufre una lesión muscular y estará de baja más de un mes",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/20082207/Courtois-se-perdera-la-eliminatoria-de-cuartos-de-final-de-la-Liga-de-Campeones-Foto-Archivo.jpg",
-        "tags": [
-            "lesión",
-            "real madrid",
-            "thibaut courtois"
-        ],
-        "link": "https://www.elnacional.com/2026/03/courtois-sufre-una-lesion-muscular-y-estara-de-baja-mas-de-un-mes/",
-        "date": "2026-03-20 06:32:00",
-        "sentiment_score": -0.823298392817378
-    },
-    {
-        "title": "Athletic y Betis, dos equipos de autor",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/3d769fa1-9581-41dc-8283-b10f5b5461e1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "villarreal",
-            "pellegrini",
-            "betis",
-            "autor",
-            "equipos",
-            "athletic",
-            "valverde"
-        ],
-        "link": "https://www.deia.eus/athletic/2026/03/20/betis-equipos-autor-valverde-pellegrini-10843001.html",
-        "date": "2026-03-20 06:21:15",
-        "sentiment_score": -0.04640558362007141
-    },
-    {
-        "title": "Shakira anuncia tres conciertos en Madrid para 2026: una residencia europea que tendrá un estadio a medida en Villaverde",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bc5d3ebe-706b-4a9a-bae0-8674a7e14e5b_16-9-aspect-ratio_default_0_x677y300.jpg",
-        "tags": [
-            "shakira",
-            "conciertos",
-            "música",
-            "madrid"
-        ],
-        "link": "https://www.informacion.es/cultura/2026/03/20/shakira-anuncia-tres-conciertos-madrid-estadio-entradas-fechas-128199464.html",
-        "date": "2026-03-20 07:00:45",
-        "sentiment_score": -0.11162659525871277
-    },
-    {
         "title": "LaLiga recupera su historia con las equipaciones 'retro'",
         "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4418991.jpg",
         "tags": [
@@ -3125,5 +2999,245 @@ export default [
         "link": "https://www.lasprovincias.es/deportes/tenis/alcaraz-apunta-necesarias-vacaciones-20260323183308-ntrc.html",
         "date": "2026-03-23 17:33:17",
         "sentiment_score": -0.819823918864131
+    },
+    {
+        "title": "Defensa prepara el desfile del Día de las Fuerzas Armadas en Vigo con un contrato clave",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/23/2026032323253320274.jpg",
+        "tags": [
+            "ministerio de defensa",
+            "d&iacute;a de las fuerzas armadas",
+            "desfile",
+            "felipe vi",
+            "ej&eacute;rcito de tierra",
+            "ej&eacute;rcito del aire",
+            "unidad militar de emergencias",
+            "reina letizia",
+            "desfile militar",
+            "patrulla acrob&aacute;tica de paracaidismo",
+            "fuerzas armadas",
+            "armada",
+            "guardia real"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/defensa/defensa-prepara-desfile-dia-fuerzas-armadas-vigo-contrato-clave/202603232344441011373.html",
+        "date": "2026-03-23 22:44:44",
+        "sentiment_score": 0.2028147429227829
+    },
+    {
+        "title": "Hansi Flick se deshizo en elogios con este jugador tras la victoria ante el Rayo",
+        "image_url": "https://pxcdn.meridiano.net/032026/1774305751394.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/hansi-flick-se-deshizo-en-elogios-con-este-jugador-tras-la-victoria-ante-el-rayo-202632318440",
+        "date": "2026-03-23 22:44:00",
+        "sentiment_score": 0.027152374386787415
+    },
+    {
+        "title": "No es un impuesto, es una entrada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "entrada",
+            "impuesto"
+        ],
+        "link": "https://www.lasprovincias.es/opinion/antonio-badillo-impuesto-entrada-20260324232342-nt.html",
+        "date": "2026-03-23 22:30:56",
+        "sentiment_score": -0.7900965511798859
+    },
+    {
+        "title": "El Castellón se deja dos puntos en el 90 ante la Cultural",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260323231822_1200.jpg",
+        "tags": [
+            "cd castellón",
+            "primera división"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-castellon-deja-dos-puntos-90-cultural-20260323231822.html",
+        "date": "2026-03-23 22:18:22",
+        "sentiment_score": 0.3159782886505127
+    },
+    {
+        "title": "Klopp se 'desmarca' de un posible fichaje por el Real Madrid: \"Ni siquiera me han llamado\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/310x310/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/03/23/image-4535c4ff-1cc2-4328-8bf5-f9bb69be2105-68-310-310.jpeg",
+        "tags": [
+            "football"
+        ],
+        "link": "https://www.eurosport.es/futbol/jurgen-klopp-rechaza-entrenar-real-madrid-fichaje_sto23283977/story.shtml",
+        "date": "2026-03-23 22:10:24",
+        "sentiment_score": -0.818095319904387
+    },
+    {
+        "title": "Dinko Horkas: el número uno de la UD Las Palmas y la próxima gran venta",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bbba5064-99b5-452d-bccb-8a3114fca422_16-9-aspect-ratio_default_0_x543y511.jpg",
+        "tags": [
+            "cádiz",
+            "goles",
+            "burgos",
+            "ud las palmas",
+            "valles",
+            "gran canaria",
+            "ud"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2026/03/23/horkas-numero-ud-palmas-proxima-128332920.html",
+        "date": "2026-03-23 22:01:41",
+        "sentiment_score": 0.22573788464069366
+    },
+    {
+        "title": "Mbappé: \"En París encontré el diagnóstico correcto con mi rodilla\"",
+        "image_url": "https://www.cope.es/files/microformat_image/uploads/2026/03/20/69bd83a37d90e.jpeg",
+        "tags": [
+            "parís",
+            "mbappé",
+            "encontré",
+            "diagnóstico",
+            "correcto"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/mbappe-paris-encontre-diagnostico-correcto-mi-rodilla-20260323_3332327.html",
+        "date": "2026-03-23 21:53:49",
+        "sentiment_score": -0.10011732578277588
+    },
+    {
+        "title": "España arranca su concentración para los amistosos",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/105d876b-c5af-4973-bf2f77a4a38db6c4.jpg",
+        "tags": [
+            "fc barcelona",
+            "egipto",
+            "oriente próximo",
+            "real madrid",
+            "rodri hernández",
+            "serbia",
+            "selección española de fútbol",
+            "real federación española de fútbol",
+            "atlético de madrid",
+            "arsenal fc",
+            "estados unidos",
+            "luis de la fuente",
+            "méxico",
+            "athletic club",
+            "liga de naciones",
+            "real sociedad"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z5be63b07-eff1-47e9-b23ebb194e4fbc4e/202603/espana-arranca-su-concentracion-para-los-amistosos",
+        "date": "2026-03-23 21:34:13",
+        "sentiment_score": 0.021388165652751923
+    },
+    {
+        "title": "La Finalissima en llamas: Enzo Fernández provoca a España y Cucurella entra en escena",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/23/2026032322284191739.jpg",
+        "tags": [
+            "espa&ntilde;a",
+            "argentina",
+            "marc cucurella",
+            "chelsea-fc",
+            "enzo fern&aacute;ndez",
+            "finalissima"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/enzo-fernandez-reaviva-polemica-finalissima-dardo-espana-que-involucra-cucurella/20260323222856379828.html",
+        "date": "2026-03-23 21:28:56",
+        "sentiment_score": -0.7452322673052549
+    },
+    {
+        "title": "La película ganadora de un Goya basada en la vida de la Cañada Real acaba de llegar a Movistar Plus+",
+        "image_url": "https://www.infobae.com/resizer/v2/L6MI737H6ZHLTDWH7TM3NM74AM.webp?auth=adb599a35763726d65470ea78b8d8f3f009490a86b86acef8d7b549cff1796b9&smart=true&width=1024&height=576",
+        "tags": [
+            "festival de cannes",
+            "españa-cultura",
+            "cine",
+            "cañada real",
+            "españa noticias",
+            "cine españa",
+            "películas",
+            "premios goya"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2026/03/23/la-pelicula-ganadora-de-un-goya-basada-en-la-vida-de-la-canada-real-acaba-de-llegar-a-movistar-plus/",
+        "date": "2026-03-23 21:27:40",
+        "sentiment_score": 0.5404254999011755
+    },
+    {
+        "title": "Spotify Camp Nou, el gran trampolín de Limak para asentarse en Europa: retrasos, indemnizaciones y ERE",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/23/culemania/palco/1003742744664_15872642_1706x960.jpg",
+        "tags": [
+            "limak construction",
+            "palco",
+            "camp nou"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260323/spotify-camp-nou-limak-europa-indemnizaciones-ere/1003742744656_0.html",
+        "date": "2026-03-23 22:44:14",
+        "sentiment_score": -0.12769705057144165
+    },
+    {
+        "title": "Detenida joven de 18 años en Anzoátegui tras intoxicar a su bebé con \"tua tua\"",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/23173830/IMG_20260323_173813.jpg",
+        "tags": [
+            "policía nacional bolivariana",
+            "pnb",
+            "intoxicación",
+            "planta medicinal tua tua",
+            "hospital dr. luis razetti"
+        ],
+        "link": "https://www.elnacional.com/2026/03/detenida-joven-de-18-anos-en-anzoategui-tras-intoxicar-a-su-bebe-con-tua-tua/",
+        "date": "2026-03-23 22:43:20",
+        "sentiment_score": -0.8092506201937795
+    },
+    {
+        "title": "¡Bombazo! Stefan reconoce que tuvo una relación paralela al experimento en 'Casados a primera vista': \"No es nadie para mi\"",
+        "image_url": "https://album.mediaset.es/eimg/2026/03/23/diseno-sin-titulo-2026-03-23t233310-317-16-9-aspect-ratio-default-0_da39.jpg?w=1024",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.telecinco.es/television/20260323/casados-primera-vista-stefab-reconoce-relacion-paralela-experimento_18_018701075.html",
+        "date": "2026-03-23 22:34:04",
+        "sentiment_score": 0.1281159520149231
+    },
+    {
+        "title": "Apagón de 12 horas afectó a los municipios Santa Ana, Mac Gregor y Aragua",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://eltiempove.com/apagon-de-12-horas-afecto-a-los-municipios-santa-ana-mac-gregor-y-aragua/",
+        "date": "2026-03-23 22:30:49",
+        "sentiment_score": -0.8383726980537176
+    },
+    {
+        "title": "Nada Itrab (22), la joven de L’Hospitalet que sobrevivió a un secuestro en Bolivia a sus 9 años: “Estuve siete meses sufriendo abusos sexuales”",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/23/actualidad/1003742744639_15872282_1706x960.jpg",
+        "tags": [
+            "sucesos",
+            "agresiones sexuales barcelona",
+            "l'hospitalet de llobregat",
+            "guardia civil",
+            "gran barcelona",
+            "violencia machista"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260323/itrab-joven-lhospitalet-sobrevivio-secuestro-bolivia-anos-meses-sufriendo-abusos-sexuales/1003742744573_0.html",
+        "date": "2026-03-23 22:30:00",
+        "sentiment_score": -0.20261941850185394
+    },
+    {
+        "title": "Tengo una cita para usted",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/04/23/informacion-municipal/575952417_9959883_1706x960.jpg",
+        "tags": [
+            "opinión",
+            "psc - partit dels socialistes de catalunya",
+            "ayuntamiento de barcelona",
+            "servicio de emergencias médicas (sem)"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/opinion/20260323/cita-usted/1003742744602_12.html",
+        "date": "2026-03-23 22:30:00",
+        "sentiment_score": 0.08341957628726959
+    },
+    {
+        "title": "Barcelona sustituirá a Reikiavik como epicentro mundial de la ingeniería ecológica en 2027",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/23/actualidad/1003742744619_15871981_1706x960.jpg",
+        "tags": [
+            "economía",
+            "universidades de barcelona",
+            "congresos barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260323/barcelona-sustituira-reikiavik-epicentro-mundial-ingenieria-ecologica/1003742744532_0.html",
+        "date": "2026-03-23 22:30:00",
+        "sentiment_score": 0.2415965124964714
     }
 ];
