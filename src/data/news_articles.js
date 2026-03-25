@@ -1,235 +1,5 @@
 export default [
     {
-        "title": "Mourinho despide a Silvino Louro con un mensaje que emociona al fútbol mundial",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/30/2026013013070771239.jpg",
-        "tags": [
-            "portugal",
-            "jos&eacute; mourinho",
-            "inter-de-mil&aacute;n",
-            "silvino louro",
-            "chelsea-fc",
-            "real madrid"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/mourinho-despide-silvino-louro-mensaje-que-emociona-futbol-mundial/20260321074454379581.html",
-        "date": "2026-03-21 06:44:54",
-        "sentiment_score": 0.15001460909843445
-    },
-    {
-        "title": "La gesta del Basconia de Iribar en el Viejo Zorrilla",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2026/03/21/montoVistAtras-kbiG-U201324315821sHB-758x531@El%20Norte.jpg",
-        "tags": [
-            "basconia",
-            "estadio josé zorrilla",
-            "athletic de bilbao",
-            "iribar",
-            "viejo",
-            "copa del rey de fútbol",
-            "real valladolid club de fútbol",
-            "atlético de madrid",
-            "gesta",
-            "zorrilla"
-        ],
-        "link": "https://www.elnortedecastilla.es/realvalladolid/gesta-basconia-iribar-viejo-zorrilla-20260321074424-nt.html",
-        "date": "2026-03-21 06:44:26",
-        "sentiment_score": -0.08992038667201996
-    },
-    {
-        "title": "El portero goleador",
-        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2026/03/20/goleador-samperio-kT6F--758x531@Diario%20Montanes.jpg",
-        "tags": [
-            "campos de sport de el sardinero",
-            "goleador",
-            "real racing club",
-            "portero"
-        ],
-        "link": "https://www.eldiariomontanes.es/deportes/racing/raul-gomez-samperio-portero-goleador-20260321212926-nt.html",
-        "date": "2026-03-21 06:39:11",
-        "sentiment_score": 0.1673385500907898
-    },
-    {
-        "title": "Una batalla tras otra",
-        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2026/03/20/Imagen%20racing_1-ksu--758x531@Diario%20Montanes.jpg",
-        "tags": [
-            "albacete",
-            "fútbol",
-            "real racing club",
-            "segunda división"
-        ],
-        "link": "https://www.eldiariomontanes.es/deportes/racing/batalla-tras-20260321222624-nt.html",
-        "date": "2026-03-21 06:39:04",
-        "sentiment_score": 0.1580379158258438
-    },
-    {
-        "title": "Suena cruel pero la ciencia lo avala: Madrid retira más de 4.000 animales de especies invasoras que alteran el entorno local",
-        "image_url": "https://okdiario.com/img/2026/03/19/suena-cruel-pero-la-ciencia-lo-avala-madrid-retira-mas-de-4.000-animales-de-especies-invasoras-que-alteran-el-entorno-local.jpg",
-        "tags": [
-            "animales",
-            "ciencia",
-            "madrid",
-            "okd"
-        ],
-        "link": "https://okdiario.com/madrid/suena-cruel-pero-ciencia-lo-avala-madrid-retira-mas-4-000-animales-especies-invasoras-que-alteran-entorno-local-16446860",
-        "date": "2026-03-21 06:30:57",
-        "sentiment_score": -0.8579993098974228
-    },
-    {
-        "title": "El extraño misterio familiar que rodea a Sonsoles Espinosa, mujer de Zapatero",
-        "image_url": "https://theobjective.com/wp-content/uploads/2024/08/zapatero-sonso.jpg",
-        "tags": [
-            "josé luis rodríguez zapatero",
-            "celebrities"
-        ],
-        "link": "https://theobjective.com/gente/2026-03-21/el-extrano-misterio-familiar-que-rodea-a-sonsoles-espinosa-mujer-de-zapatero/",
-        "date": "2026-03-21 06:30:00",
-        "sentiment_score": 0.4352450370788574
-    },
-    {
-        "title": "El destino del Real Madrid en manos de Lunin: gloria o desastre",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/21/2026032107262993518.jpg",
-        "tags": [
-            "champions league",
-            "real madrid",
-            "thibaut-courtois",
-            "laliga",
-            "andriy lunin",
-            "lunin"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/lunin-manga-que-puede-salvar-hundir-temporada-madrid/20260321072707379580.html",
-        "date": "2026-03-21 06:27:07",
-        "sentiment_score": 0.6648044362664223
-    },
-    {
-        "title": "“La clave más sobresaliente de la Semana Santa segoviana es su densidad espiritual”",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2026/03/Oscar-Garcia5.jpeg",
-        "tags": [
-            "semana santa segoviana"
-        ],
-        "link": "https://eladelantado.com/segovia/2026/03/21/la-clave-mas-sobresaliente-de-la-semana-santa-segoviana-es-su-densidad-espiritual/",
-        "date": "2026-03-21 06:24:18",
-        "sentiment_score": -0.36666078120470047
-    },
-    {
-        "title": "Víctor Muñoz, el 12o rojillo en la selección",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/766ab694-6278-4bd6-a2c4-803357795c7a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "selección española",
-            "12o",
-            "victor",
-            "fútbol",
-            "munoz",
-            "luis de la fuente",
-            "rojillo",
-            "seleccion",
-            "osasuna",
-            "víctor muñoz"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2026/03/21/victor-munoz-12o-rojillo-seleccion-10846802.html",
-        "date": "2026-03-21 06:10:16",
-        "sentiment_score": 0.1145307719707489
-    },
-    {
-        "title": "Un Quijote en los pasillos de la memoria",
-        "image_url": "https://static.grupojoly.com/clip/7f2af67e-be89-4194-b93a-6f5f958eb699_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "quijote",
-            "memoria",
-            "pasillos"
-        ],
-        "link": "https://www.malagahoy.es/ocio/quijote-pasillos-memoria_0_2006227447.html",
-        "date": "2026-03-21 06:02:50",
-        "sentiment_score": -0.09079737961292267
-    },
-    {
-        "title": "Ya basta",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/affe3add-e58e-4042-90f4-f73ad41dc2d8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "presupuestos",
-            "irán",
-            "barcelona",
-            "guerra",
-            "irene montero",
-            "público",
-            "basta",
-            "huelga"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/opinion/2026/03/21/basta-10847320.html",
-        "date": "2026-03-21 06:48:07",
-        "sentiment_score": -0.537632942199707
-    },
-    {
-        "title": "Gaztambide 37, el último caso de resistencia vecinal ante el \"acoso inmobiliario\" en Madrid: \"Alfombra roja a los fondos buitre\"",
-        "image_url": "https://www.elplural.com/uploads/s1/24/99/16/7/diseno-sin-titulo-2026-03-18t183533-715_17_1200x630.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.elplural.com/autonomias/madrid/gaztambide-37-ultimo-caso-resistencia-vecinal-acoso-inmobiliario-madrid-alfombra-roja-fondos-buitre_384570102",
-        "date": "2026-03-21 06:46:12",
-        "sentiment_score": -0.2023306041955948
-    },
-    {
-        "title": "La Ciudad participa en la feria B-Travel de Barcelona para promocionar Melilla como destino turístico estratégico",
-        "image_url": "https://melillahoy.es/wp-content/uploads/2026/03/feria-btravel-barcelona-melilla.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://melillahoy.es/la-ciudad-participa-en-la-feria-b-travel-de-barcelona-para-promocionar-melilla-como-destino-turistico-estrategico/",
-        "date": "2026-03-21 06:45:25",
-        "sentiment_score": 0.5614723674952984
-    },
-    {
-        "title": "El Cunqueiro investiga el uso de la IA para predecir el suicidio",
-        "image_url": "https://static.laregion.es/clip/818cd577-893b-4a98-a44a-3aaf17707bf6_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "hospital álvaro cunqueiro",
-            "sanidad"
-        ],
-        "link": "https://www.atlantico.net/vigo/cunqueiro-investiga-ia-predecir-suicidio_1_20260321-4207613.html",
-        "date": "2026-03-21 06:30:04",
-        "sentiment_score": 0.0011847391724586487
-    },
-    {
-        "title": "Barcelona, en fallas: paella y actividades varias este fin de semana cerca del mar",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fad25c06-c56b-478e-8e8c-a47fd1fa7b87_alta-libre-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "conciertos",
-            "valencia",
-            "qué hacer hoy en barcelona",
-            "fallas de valencia",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20260321/fallas-fiesta-barcelona-conciertos-actividades-paella-poblenou-dv-loc-128183693",
-        "date": "2026-03-21 06:20:09",
-        "sentiment_score": -0.1398022323846817
-    },
-    {
-        "title": "AEMET prevé un día soleado y estable en Barcelona con viento suave y algunas nubes altas",
-        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
-        "tags": [
-            "tiempo",
-            "previsión del tiempo",
-            "okd",
-            "cataluña",
-            "agencia estatal de meteorología (aemet)"
-        ],
-        "link": "https://okdiario.com/cataluna/aemet-preve-un-dia-soleado-y-estable-en-barcelona-con-viento-suave-y-algunas-nubes-altas-16458955",
-        "date": "2026-03-21 06:19:31",
-        "sentiment_score": 0.15813586115837097
-    },
-    {
-        "title": "Trump ofrece acceso a su informe privado de Seguridad Nacional a los que le donen dinero [Ing]",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "donantes",
-            "negocios",
-            "trump",
-            "seguridad"
-        ],
-        "link": "https://www.meneame.net/story/trump-ofrece-acceso-informe-privado-seguridad-nacional-donen-ing",
-        "date": "2026-03-21 10:15:03",
-        "sentiment_score": -0.7634982243180275
-    },
-    {
         "title": "El Barca 'calienta' el mercado de la próxima temporada",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -3097,5 +2867,216 @@ export default [
         "link": "https://www.elcomercio.es/asturias/junta-general-principado/expertos-derecho-constitucional-asturias-democracia-mundo-20260324183122-nt.html",
         "date": "2026-03-24 17:31:46",
         "sentiment_score": -0.04654192924499512
+    },
+    {
+        "title": "Crónica del Real Madrid - Hapoel Tel Aviv: 92-83",
+        "image_url": "https://www.infobae.com/resizer/v2/ISHJ6ZSIPVCHPO6V27YR2B7Q7Y.jpg?auth=0aee74a7462ddf585e462a7aa35d24d5fb4464cb948d3bbd561c73b8a878cab1&smart=true&width=1920&height=1280",
+        "tags": [
+            "europapress",
+            "théo maledon",
+            "hapoel tel aviv",
+            "mario hezonja",
+            "sergio scariolo",
+            "baloncesto",
+            "real madrid",
+            "madrid",
+            "movistar arena",
+            "euroliga",
+            "facu campazzo"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/24/cronica-del-real-madrid-hapoel-tel-aviv-92-83/",
+        "date": "2026-03-24 22:45:49",
+        "sentiment_score": 0.8612609133124352
+    },
+    {
+        "title": "Scariolo: \"La identidad del equipo desde hace meses es muy positiva\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/24/scariolo-la-identidad-del-equipo-desde-hace-meses-es-muy-positiva/",
+        "date": "2026-03-24 22:45:21",
+        "sentiment_score": 0.857815214432776
+    },
+    {
+        "title": "El Real Madrid recupera su gran tono europeo frente al Hapoel",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/7f5a577f-dda1-431c-b6c62085c18a24ef.jpg",
+        "tags": [
+            "real madrid",
+            "fenerbahçe",
+            "sergio scariolo",
+            "sergio llull",
+            "euroliga",
+            "usman garuba"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z2d50e8f2-68f3-446b-ad35b422ed4de3db/202603/el-real-madrid-recupera-su-gran-tono-europeo-frente-al-hapoel",
+        "date": "2026-03-24 22:44:37",
+        "sentiment_score": 0.526033092290163
+    },
+    {
+        "title": "“¿Y si te llama Riquelme?”: la tajante respuesta de Giuliano Simeone sobre la posibilidad de jugar en Boca Juniors",
+        "image_url": "https://www.infobae.com/resizer/v2/ID3BHECOXNFJJBMEQYQESDT43M.jpg?auth=39bfa4ec84ccc97281ba3694e1e32ee331dd8735031a5c66fb8e7f61952c5c7a&smart=true&width=1920&height=1080",
+        "tags": [
+            "giuliano simeone",
+            "boca juniors",
+            "juan román riquelme",
+            "deportes-internacional"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/24/y-si-te-llama-riquelme-la-tajante-respuesta-de-giuliano-simeone-sobre-la-posibilidad-de-jugar-en-boca-juniors/",
+        "date": "2026-03-24 22:44:21",
+        "sentiment_score": 0.650069797411561
+    },
+    {
+        "title": "Itoudis: \"No hemos tenido la mentalidad necesaria en defensa\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260324232843_1200.jpg",
+        "tags": [
+            "real madrid",
+            "euroliga"
+        ],
+        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-itoudis-no-hemos-tenido-mentalidad-necesaria-defensa-20260324232843.html",
+        "date": "2026-03-24 22:28:43",
+        "sentiment_score": -0.7685380652546883
+    },
+    {
+        "title": "El Madrid doblega al Hapoel de Tel Aviv y asalta el tercer puesto de la Euroliga",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cd4c7d42-2a0d-4960-a9fb-a51f9676275d_16-9-aspect-ratio_default_0_x643y241.jpg",
+        "tags": [
+            "real madrid de baloncesto",
+            "baloncesto",
+            "euroliga"
+        ],
+        "link": "https://www.superdeporte.es/baloncesto/2026/03/24/madrid-doblega-hapoel-tel-aviv-128377548.html",
+        "date": "2026-03-24 22:20:35",
+        "sentiment_score": 0.23633098602294922
+    },
+    {
+        "title": "Sigue la entrevista a Unai Simón en El Partidazo de COPE",
+        "image_url": "https://www.cope.es/files/microformat_image/uploads/2026/03/24/69c30f88538c7.jpeg",
+        "tags": [
+            "partidazo",
+            "unai",
+            "cope",
+            "simón",
+            "entrevista"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/entrevista-unai-simon-partidazo-cope-24-20260324_3333182.html",
+        "date": "2026-03-24 22:33:05",
+        "sentiment_score": 0.0830661803483963
+    },
+    {
+        "title": "Pascual: \"Era una final extremadamente importante y la hemos sacado adelante\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/24/pascual-era-una-final-extremadamente-importante-y-la-hemos-sacado-adelante/",
+        "date": "2026-03-24 22:31:20",
+        "sentiment_score": 0.8760220985859632
+    },
+    {
+        "title": "Prosegur cerró 2025 con más de 44.500 horas en descubiertos en la red de Rodalies y la Alta Velocidad catalanas",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/12/27/vida/911918866_13917919_1706x960.png",
+        "tags": [
+            "transporte",
+            "trabajadores",
+            "sindicatos",
+            "empresas barcelona",
+            "el pulso de la ciudad",
+            "adif",
+            "seguridad"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260324/prosegur-cerro-horas-descubiertos-red-rodalies-alta-velocidad-catalanas/1003742742845_0.html",
+        "date": "2026-03-24 22:30:00",
+        "sentiment_score": -0.7988090887665749
+    },
+    {
+        "title": "¿'Poca vergonya' o ninguna?",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/14/opinion/1003742741517_15827825_1706x960.jpg",
+        "tags": [
+            "sant martí de provençals",
+            "contaminación",
+            "ayuntamiento de barcelona",
+            "opinión",
+            "terrazas",
+            "sagrada família",
+            "bares y restaurantes",
+            "turismo",
+            "limpieza"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/opinion/20260324/poca-vergonya-ninguna/1003742744979_12.html",
+        "date": "2026-03-24 22:30:00",
+        "sentiment_score": -0.7349843829870224
+    },
+    {
+        "title": "Barcelona invertirá más de medio millón de euros en equipamientos deportivos gratuitos para el Besòs i el Maresme",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/24/actualidad/1003742744989_15876775_1706x960.jpg",
+        "tags": [
+            "deportes",
+            "psc - partit dels socialistes de catalunya",
+            "ayuntamiento de barcelona",
+            "sant martí",
+            "urbanismo",
+            "erc"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sant-marti/20260324/barcelona-invertira-medio-millon-euros-equipamientos-deportivos-gratuitos-besos-maresme/1003742744924_0.html",
+        "date": "2026-03-24 22:30:00",
+        "sentiment_score": 0.5979229845106602
+    },
+    {
+        "title": "La Central consolida su propuesta como hamburguesería en Barcelona con una carta renovada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5821219/central-consolida-propuesta-como-hamburgueseria-barcelona-carta-renovada",
+        "date": "2026-03-24 22:22:07",
+        "sentiment_score": 0.40479612722992897
+    },
+    {
+        "title": "78-71. Clyburn afianza al Barça entre los diez primeros de la Euroliga",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "crime"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/24/78-71-clyburn-afianza-al-barca-entre-los-diez-primeros-de-la-euroliga/",
+        "date": "2026-03-24 22:00:58",
+        "sentiment_score": 0.10994204878807068
+    },
+    {
+        "title": "Sàmper confía en que habrá Presupuestos y descarta que Illa tenga que avanzar las elecciones",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260324230051_1200.jpg",
+        "tags": [
+            "generalitat de catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-samper-confia-habra-presupuestos-descarta-illa-tenga-avanzar-elecciones-20260324230051.html",
+        "date": "2026-03-24 22:00:51",
+        "sentiment_score": 0.3226724863052368
+    },
+    {
+        "title": "PC Barcelona emite recomendaciones ante aumento de temperaturas",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/PC-Anzoategui.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://ultimasnoticias.com.ve/anzoateggui/pc-barcelona-emite-recomendaciones-ante-aumento-de-temperaturas/",
+        "date": "2026-03-24 21:57:49",
+        "sentiment_score": -0.8126467894762754
+    },
+    {
+        "title": "Muere un joven tras estrellarse su moto con un jabalí que ha salido a la vía",
+        "image_url": "https://www.clm24.es/media/clm24/images/2026/03/22/2026032217550549050.jpg",
+        "tags": [
+            "motorista",
+            "sucesos",
+            "jabal&iacute;"
+        ],
+        "link": "https://www.clm24.es/articulo/viral/muere-joven-estrellarse-moto-que-conducia-jabali/20260324225201473534.html",
+        "date": "2026-03-24 21:52:01",
+        "sentiment_score": -0.8906616428866982
     }
 ];
