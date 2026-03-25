@@ -1,239 +1,5 @@
 export default [
     {
-        "title": "El Barca 'calienta' el mercado de la próxima temporada",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "barca",
-            "euroliga",
-            "pascual",
-            "baskonia",
-            "mercado",
-            "temporada",
-            "calienta",
-            "proxima",
-            "xavi",
-            "españa",
-            "barcelona"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2026/03/21/barca-calienta-mercado-proxima-temporada-euroliga-baskonia-10848937.html",
-        "date": "2026-03-21 17:35:21",
-        "sentiment_score": -0.8792091868817806
-    },
-    {
-        "title": "La Rosario Weiss de Sergio del Molino",
-        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2026/03/21/sergio-molino-keRC-U201308875659R4D-758x531@El%20Correo.jpg",
-        "tags": [
-            "sergio",
-            "weiss",
-            "molino",
-            "rosario"
-        ],
-        "link": "https://www.elcorreo.com/culturas/territorios/rosario-weiss-sergio-molino-20260321125235-nt.html",
-        "date": "2026-03-21 17:32:46",
-        "sentiment_score": 0.1917582005262375
-    },
-    {
-        "title": "Números previos al derbi entre Real Madrid y Atlético",
-        "image_url": "https://pxcdn.meridiano.net/032026/1774113925601.jpg",
-        "tags": [
-            "real madrid",
-            "atlético de madrid",
-            "laliga"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/numeros-previos-al-derbi-entre-real-madrid-y-atletico-202632113310",
-        "date": "2026-03-21 17:31:00",
-        "sentiment_score": 0.29578013718128204
-    },
-    {
-        "title": "Ayuso, junto al Rey, en la primera carrera en España del Campeonato del Mundo de Fórmula E",
-        "image_url": "https://s1.staticld.com/2026/03/21/ayuso-fe-01.jpeg",
-        "tags": [
-            "madrid",
-            "felipe vi",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://www.libertaddigital.com/madrid/2026-03-21/ayuso-junto-al-rey-en-la-primera-carrera-en-espana-del-campeonato-del-mundo-de-formula-e-7378303/",
-        "date": "2026-03-21 17:30:36",
-        "sentiment_score": 0.6624194663017988
-    },
-    {
-        "title": "El derbi de las ausencias: Real Madrid y Atlético de Madrid llegan al Bernabéu con sus onces mermados por las lesiones",
-        "image_url": "https://www.infobae.com/resizer/v2/XC4INEWPDJFVPKSSHRFZQFFQZE.jpg?auth=d9880aede996d7f1a44dcfe7e445c86a01a8665a5d197e4e7a3ca4aa407c5918&smart=true&width=1920&height=1080",
-        "tags": [
-            "españa deportes",
-            "atlético de madrid",
-            "lesiones deportivas",
-            "fútbol españa",
-            "españa noticias",
-            "fútbol",
-            "real madrid",
-            "lesiones",
-            "laliga"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/21/el-derbi-de-las-ausencias-real-madrid-y-atletico-de-madrid-llegan-al-bernabeu-con-sus-onces-mermados-por-las-lesiones/",
-        "date": "2026-03-21 17:30:16",
-        "sentiment_score": -0.529528833925724
-    },
-    {
-        "title": "La navarra Amaia Romero emociona en la premier de 'Amarga Navidad' interpretando 'Las simples cosas'",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/6cd21404-292d-4d51-8e07-2cc03b1357f0_16-9-aspect-ratio_default_0_x695y292.jpg",
-        "tags": [
-            "premier",
-            "emociona",
-            "navidad",
-            "interpretación",
-            "navarra",
-            "las simples cosas",
-            "amaia",
-            "amarga",
-            "película",
-            "romero",
-            "pedro almodóvar",
-            "amaia romero"
-        ],
-        "link": "https://www.noticiasdenavarra.com/gente/2026/03/21/navarra-amaia-romero-emociona-premier-amarga-navidad-interpretacion-las-simples-cosas-10848934.html",
-        "date": "2026-03-21 17:30:02",
-        "sentiment_score": 0.18485359102487564
-    },
-    {
-        "title": "¿Le falta nivel? Simeone evalúa al mexicano Obed Vargas previo al encuentro frente al Real Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/6EJZRLJW7RATROGNLQIY5M2PYY.jpg?auth=6dbd79d275bd2f730fcc4e2497372e10b090007e6020e5fa1b050f35f0e108cc&smart=true&width=1920&height=1080",
-        "tags": [
-            "obed vargas",
-            "mexico-deportes",
-            "atlético de madrid",
-            "mexico-noticias",
-            "real madrid"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2026/03/21/le-falta-nivel-simeone-evalua-al-mexicano-obed-vargas-previo-al-encuentro-frente-al-real-madrid/",
-        "date": "2026-03-21 17:26:31",
-        "sentiment_score": 0.23719121888279915
-    },
-    {
-        "title": "Montero exige al Gobierno que salga de la OTAN y que realice un \"tope real de los precios\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260321182424_1200.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.europapress.es/videos/video-montero-exige-gobierno-salga-otan-realice-tope-real-precios-20260321182424.html",
-        "date": "2026-03-21 17:24:24",
-        "sentiment_score": -0.04627484083175659
-    },
-    {
-        "title": "‘+ Ortega’ rescata obra inédita del artista ciudadrealeño y reaviva su legado cultural",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/03/FotoJet-2026-03-21T182026.219-519x337.jpg",
-        "tags": [
-            "ortega"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/ortega-rescata-obra-inedita-del-artista-ciudadrealeno-y-reaviva-su-legado-cultural/",
-        "date": "2026-03-21 17:22:34",
-        "sentiment_score": -0.030585676431655884
-    },
-    {
-        "title": "“Tú eres una inspiración”, las emotivas palabras de Danilo a Pol Deportes tras visitar a Flamengo en el Maracaná",
-        "image_url": "https://www.infobae.com/resizer/v2/36ECWRM7GVGVJBBX37LPIMS5EA.jpg?auth=bccd15fc82d264cd50b82481094c35e204c93ae52e1c1612dbf375f31b50b10a&smart=true&width=1920&height=1080",
-        "tags": [
-            "danilo",
-            "flamengo",
-            "peru-deportes",
-            "pol deportes"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2026/03/21/tu-eres-una-inspiracion-las-emotivas-palabras-de-danilo-a-pol-deportes-tras-visitar-a-flamengo-en-el-maracana/",
-        "date": "2026-03-21 17:16:39",
-        "sentiment_score": 0.2387406826019287
-    },
-    {
-        "title": "Francesc Galí presenta en Barcelona su libro sobre la escritora Zenobia Camprubí",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/03/Libro-gastronomi%CC%81a-469x317.jpg",
-        "tags": [
-            "servimedia"
-        ],
-        "link": "https://theobjective.com/actualidad/2026-03-21/francesc-gali-libro/",
-        "date": "2026-03-21 17:37:26",
-        "sentiment_score": 0.1488684006035328
-    },
-    {
-        "title": "Cinco experimentos escénicos para salir del teatro boquiabiertos",
-        "image_url": "https://static1.ara.cat/clip/d9f9b3e8-d718-48fa-8725-b5feda7ddde2_16-9-aspect-ratio_default_0_x380y629.jpg",
-        "tags": [
-            "experimentos",
-            "salir",
-            "boquiabiertos",
-            "escenicos",
-            "teatro",
-            "cinco"
-        ],
-        "link": "https://es.ara.cat/cultura/teatro/cinco-experimentos-escenicos-salir-teatro-boquiabiertos_1_5685551.html",
-        "date": "2026-03-21 17:35:45",
-        "sentiment_score": 0.09209339320659637
-    },
-    {
-        "title": "Cazan un 'taxi pirata' en Barcelona: positivo en drogas, sin seguro, con la ITV falsa y el carnet caducado",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/21/actualidad/1003742744135_15865469_1706x960.jpg",
-        "tags": [
-            "consumo drogas",
-            "drogas",
-            "taxistas barcelona",
-            "guardia urbana",
-            "sucesos"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sucesos/20260321/cazan-taxi-pirata-barcelona-positivo-drogas-sin-seguro-itv-falsa-carnet-caducado/1003742744130_0.html",
-        "date": "2026-03-21 17:31:54",
-        "sentiment_score": -0.9151472430676222
-    },
-    {
-        "title": "Dos adolescentes hieren a otros dos a puñaladas para robarles el patinete",
-        "image_url": "https://www.clm24.es/media/clm24/images/2024/08/16/2024081617382861027.jpg",
-        "tags": [
-            "agresi&oacute;n",
-            "sucesos",
-            "adolescentes",
-            "robo"
-        ],
-        "link": "https://www.clm24.es/articulo/viral/dos-adolescentes-hieren-otros-dos-punaladas-robarles-patinete/20260321183140473468.html",
-        "date": "2026-03-21 17:31:40",
-        "sentiment_score": -0.7421565447002649
-    },
-    {
-        "title": "El Barça bloqueará la venta de más de 300 entradas del Spotify Camp Nou por mala visibilidad",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/19/actualidad/1003742743449_15865402_1706x960.jpg",
-        "tags": [
-            "barça",
-            "camp nou",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260321/barca-bloqueara-entradas-spotify-camp-nou-visibilidad/1003742744129_0.html",
-        "date": "2026-03-21 17:30:19",
-        "sentiment_score": -0.24502714723348618
-    },
-    {
-        "title": "Las provincias del Mediterráneo lideran el déficit de vivienda: el incremento acelerado de los hogares eleva la carencia de pisos hasta los 730.000, según un estudio",
-        "image_url": "https://www.infobae.com/resizer/v2/YQWBIFWF2VBBLC2WDOBJUPP7VU.png?auth=d38f544069c079af0c15284ecb38a935be5bbcfb12b30c804eea87a2269113f0&smart=true&width=1920&height=1080",
-        "tags": [
-            "vivienda",
-            "españa-noticias",
-            "mercado inmobiliario",
-            "vivienda españa",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/21/las-provincias-del-mediterraneo-lideran-el-deficit-de-vivienda-el-incremento-acelerado-de-los-hogares-eleva-la-carencia-de-pisos-hasta-los-730000-segun-un-estudio/",
-        "date": "2026-03-21 17:26:27",
-        "sentiment_score": -0.6162579879164696
-    },
-    {
-        "title": "El Espanyol se mete en un lío",
-        "image_url": "https://static1.ara.cat/clip/00825b2b-fe2f-4ea9-934d-e35110ebac9a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "lio",
-            "espanyol",
-            "mete"
-        ],
-        "link": "https://es.ara.cat/deportes/rcd-espanyol/espanyol-mete-lio_1_5685565.html",
-        "date": "2026-03-21 17:25:10",
-        "sentiment_score": -0.9003165056928992
-    },
-    {
         "title": "UCAM Murcia sigue firme arriba al batir al BAXI Manresa",
         "image_url": "https://www.latribunadetoledo.es/media/img/2026/e0c4e2d7-105f-4034-94e6376413d3ca57.jpg",
         "tags": [
@@ -3309,5 +3075,247 @@ export default [
         "link": "https://www.expansion.com/economia-digital/companias/2026/03/25/69c2c6ace5fdea0e758b4597.html",
         "date": "2026-03-25 00:09:02",
         "sentiment_score": 0.674297172576189
+    },
+    {
+        "title": "Nadal, sobre Alcaraz: \"No vamos a preocuparnos por dos derrotas, no se puede exigir más\"",
+        "image_url": "https://static.grupojoly.com/clip/0e4fb5c6-844b-44cc-ac89-748ad5942b21_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tenis",
+            "carlos alcaraz"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/nadal-alcaraz-no-preocuparnos-derrotas_0_2006289331.html",
+        "date": "2026-03-25 07:05:57",
+        "sentiment_score": -0.4228147566318512
+    },
+    {
+        "title": "Agenda Informativa de Europa Press para hoy miércoles, 25 de marzo (1)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "europapress",
+            "agenda informativa",
+            "actividad parlamentaria",
+            "pedro sánchez",
+            "santiago de chile",
+            "margarita robles",
+            "antonio maíllo",
+            "madrid",
+            "política española",
+            "europa press",
+            "congreso de los diputados",
+            "felipe vi",
+            "senado"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/25/agenda-informativa-de-europa-press-para-hoy-miercoles-25-de-marzo-1/",
+        "date": "2026-03-25 07:02:31",
+        "sentiment_score": 0.10900397971272469
+    },
+    {
+        "title": "¿Cada cuánto conviene eyacular? Un estudio revela cómo la frecuencia afecta a la calidad del esperma",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260325080147_1200.jpg",
+        "tags": [
+            "health",
+            "science"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-cada-cuanto-conviene-eyacular-estudio-revela-frecuencia-afecta-calidad-esperma-20260325080147.html",
+        "date": "2026-03-25 07:01:47",
+        "sentiment_score": 0.0775216594338417
+    },
+    {
+        "title": "Mario Martín: «Bordalás me ha hecho mejor jugador»",
+        "image_url": "https://okdiario.com/img/2026/03/24/entrevista-mario-martin-deportes-interior-1.jpg",
+        "tags": [
+            "selección española de fútbol sub-21",
+            "fútbol",
+            "deportes",
+            "españa sub 21",
+            "getafe club de fútbol"
+        ],
+        "link": "https://okdiario.com/deportes/mario-martin-bordalas-hecho-mejor-jugador-16477583",
+        "date": "2026-03-25 07:00:41",
+        "sentiment_score": -0.6353179514408112
+    },
+    {
+        "title": "El Tenerife ya es el mejor en casa y en la Península",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a65faaf6-9e45-4c2c-83be-3303a2161415_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fortuna",
+            "península",
+            "tenerife",
+            "lugo"
+        ],
+        "link": "https://www.eldia.es/deportes/cd-tenerife/2026/03/25/tenerife-mejor-casa-peninsula-128378750.html",
+        "date": "2026-03-25 07:00:13",
+        "sentiment_score": 0.5379007905721664
+    },
+    {
+        "title": "Herzog viaja a Chipre con la Sub-21 de Gordo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5746af87-faae-4f95-baff-019b07983adc_16-9-aspect-ratio_default_0_x828y293.jpg",
+        "tags": [
+            "madrid",
+            "pino",
+            "chipre",
+            "ud"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2026/03/25/herzog-viaja-chipre-sub-21-128378697.html",
+        "date": "2026-03-25 07:00:11",
+        "sentiment_score": 0.007276371121406555
+    },
+    {
+        "title": "¿Quién es Alfonso Frade, el silledense en la RAE cuatro décadas después de su muerte?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b955eb27-6b75-4f47-8658-c33b0e466f55_16-9-aspect-ratio_default_0_x527y468.jpg",
+        "tags": [
+            "escritores",
+            "rae"
+        ],
+        "link": "https://www.farodevigo.es/deza-tabeiros-montes/2026/03/25/alfonso-frade-silledense-rae-cuatro-128367714.html",
+        "date": "2026-03-25 07:00:09",
+        "sentiment_score": -0.15343208611011505
+    },
+    {
+        "title": "“Como médico y como paciente, creo que debería aconsejarse protección en las aglomeraciones”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "huelga sergas",
+            "irán"
+        ],
+        "link": "https://www.galiciapress.es/articulo/sanidad/2026-03-25/5820677-como-medico-como-paciente-creo-deberia-aconsejarse-mascarillas-aglomeraciones",
+        "date": "2026-03-25 06:58:16",
+        "sentiment_score": -0.6569591760635376
+    },
+    {
+        "title": "O Goberno estatal traspón no decreto 'anticrise' unha norma da UE que \"acelera\" os eólicos",
+        "image_url": "https://www.nosdiario.gal/media/nosdiario/images/2026/03/24/2026032418450441184.jpg",
+        "tags": [
+            "parques e&oacute;licos",
+            "enerx&iacute;a e&oacute;lica",
+            "uni&oacute;n europea (ue)",
+            "goberno espa&ntilde;ol"
+        ],
+        "link": "https://www.nosdiario.gal/articulo/social/goberno-estatal-traspon-decreto-anticrise-norma-da-ue-que-acelera-eolicos/20260325075707251400.html",
+        "date": "2026-03-25 06:57:07",
+        "sentiment_score": -0.2055376023054123
+    },
+    {
+        "title": "El último baile de Antoine Griezmann con una deuda por saldar: un título grande para el Atlético de Madrid",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/24/69c2ce62026df4-21944216.jpeg",
+        "tags": [
+            "fútbol",
+            "antoine griezmann",
+            "atlético de madrid",
+            "selección de fútbol de francia",
+            "diego simeone"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/ultimo-baile-antoine-griezmann-con-una-deuda-por-saldar-un-titulo-grande-para-atletico-madrid_6950156_0.html",
+        "date": "2026-03-25 06:54:13",
+        "sentiment_score": 0.030862584710121155
+    },
+    {
+        "title": "Un experto en realeza señala la estrecha relación entre los reyes Felipe y Letizia y los hijos de la infanta Cristina: “Están muy unidos”",
+        "image_url": "https://www.infobae.com/resizer/v2/YGGP6TGBY5HUNEJZLOTH2GSJJQ.jpg?auth=50a73094872f6f019964afe596bc6de4a202a006725b1b191bfec5a63bd88372&smart=true&width=3255&height=1831",
+        "tags": [
+            "casa real españa",
+            "españa-entretenimiento",
+            "corazón y estilo españa",
+            "españa-noticias",
+            "reina letizia",
+            "casas reales",
+            "felipe vi"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/25/un-experto-en-realeza-senala-la-estrecha-relacion-entre-los-reyes-felipe-y-letizia-y-los-hijos-de-la-infanta-cristina-estan-muy-unidos/",
+        "date": "2026-03-25 07:02:46",
+        "sentiment_score": -0.027580678462982178
+    },
+    {
+        "title": "Mozilla invierte en la herramienta catalana de simulación de despliegues de IA en las empresas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1324f030-b10c-4e7d-88a5-c05773fa3ff9_alta-libre-aspect-ratio_default_0_x707y312.jpg",
+        "tags": [
+            "start-ups",
+            "emprendedores",
+            "inteligencia artificial",
+            "innovación",
+            "empresas"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20260325/mozilla-invierte-galtea-herramienta-catalana-simulacion-despliegues-ia-128326399",
+        "date": "2026-03-25 07:00:53",
+        "sentiment_score": -0.03126108646392822
+    },
+    {
+        "title": "La 'influencer' Marta Díaz, relacionada con un ex del FC Barcelona: \"Han estado juntos\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/acce24ee-c41c-4fee-a514-8a51766ecc99_alta-libre-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "joao félix",
+            "famosos",
+            "influencers"
+        ],
+        "link": "https://www.elperiodico.com/es/gente/20260325/influencer-marta-diaz-relacionada-ex-fc-barcelona-dv-128357667",
+        "date": "2026-03-25 07:00:53",
+        "sentiment_score": -0.540391355752945
+    },
+    {
+        "title": "Agencias y turoperadores avanzan una buena Semana Santa, pese al impacto puntual del conflicto en Oriente",
+        "image_url": "https://forbes.es/wp-content/uploads/2026/03/fotonoticia_20260325080046_1920-1200x675.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://forbes.es/economia/895678/agencias-y-turoperadores-avanzan-una-buena-semana-santa-pese-al-impacto-puntual-del-conflicto-en-oriente/",
+        "date": "2026-03-25 07:00:46",
+        "sentiment_score": 0.23603403568267822
+    },
+    {
+        "title": "Vecinos de Barcelona se concentran para frenar el desahucio del bloque Sant Agustí, comprado por un fondo extranjero",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c12743af-3166-49ce-bdb9-7ee8210ee373_alta-libre-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "barcelona",
+            "vivienda",
+            "desahucios"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20260325/vecinos-gracia-protestan-desahucio-bloque-fondo-coliving-128383191",
+        "date": "2026-03-25 07:00:39",
+        "sentiment_score": -0.05889676511287689
+    },
+    {
+        "title": "Noelia, la joven parapléjica de Barcelona, anuncia que morirá por eutanasia este jueves",
+        "image_url": "https://www.periodistadigital.com/wp-content/uploads/2026/03/Noelia.jpg",
+        "tags": [
+            "salud",
+            "ciencia"
+        ],
+        "link": "https://www.periodistadigital.com/ciencia/salud/20260325/noelia-joven-paraplejica-barcelona-anuncia-morira-eutanasia-jueves-noticia-689405194520/",
+        "date": "2026-03-25 06:58:28",
+        "sentiment_score": -0.15647144615650177
+    },
+    {
+        "title": "Edin Terzic y Jon Uriarte preparan el relevo en el Athletic tras la era Valverde",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/28/2025062815452147292.jpg",
+        "tags": [
+            "athletic club",
+            "edin terzic",
+            "san-mam&eacute;s",
+            "athletic club de bilbao",
+            "laliga",
+            "jon uriarte"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/edin-terzic-jon-uriarte-preparan-relevo-athletic-era-valverde/20260325075821379998.html",
+        "date": "2026-03-25 06:58:21",
+        "sentiment_score": 0.2730191834270954
+    },
+    {
+        "title": "ERC, otra vez a la carga con el IRPF, y los alquileres",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/25/actualidad/1003742745093_15878176_1706x960.jpg",
+        "tags": [
+            "presupuestos",
+            "vivienda",
+            "barcelona",
+            "lengua catalana",
+            "sijena",
+            "generalitat de cataluña",
+            "irpf",
+            "oriol junqueras",
+            "sagrada familia",
+            "erc"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260325/erc-vez-carga-irpf-alquileres/1003742745088_0.html",
+        "date": "2026-03-25 06:44:49",
+        "sentiment_score": -0.9153467379510403
     }
 ];
