@@ -1,479 +1,5 @@
 export default [
     {
-        "title": "Bélgica anuncia convocatoria para amistosos contra México y Estados Unidos",
-        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2026/03/AP25160689796433-e1774045064346.jpg",
-        "tags": [
-            "bélgica"
-        ],
-        "link": "https://eldiariony.com/2026/03/20/belgica-anuncia-convocatoria-para-amistosos-contra-mexico-y-estados-unidos/",
-        "date": "2026-03-20 22:20:37",
-        "sentiment_score": 0.2711019106209278
-    },
-    {
-        "title": "La pegada del Villarreal desmonta a la Real en 20 minutos",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260320231945_1200.jpg",
-        "tags": [
-            "primera división",
-            "champions league",
-            "real sociedad",
-            "atlético de madrid"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-pegada-villarreal-desmonta-real-20-minutos-20260320231945.html",
-        "date": "2026-03-20 22:19:45",
-        "sentiment_score": 0.6662724390625954
-    },
-    {
-        "title": "El argentino Fernando Gago llega a Santiago para dirigir a Universidad de Chile",
-        "image_url": "https://laconexionusa.com/wp-content/uploads/2026/03/rss-efe717bd826e18459da89ce1196ccc4d24022328cddw-1000x600.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://laconexionusa.com/el-argentino-fernando-gago-llega-a-santiago-para-dirigir-a-universidad-de-chile/",
-        "date": "2026-03-20 22:17:23",
-        "sentiment_score": 0.2781745046377182
-    },
-    {
-        "title": "Mastantuono tiene una oportunidad de brillar y es llamado con Argentina",
-        "image_url": "https://pxcdn.meridiano.net/032026/1774044718898.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/mastantuono-tiene-una-oportunidad-de-brillar-y-es-llamado-con-argentina-202632018120",
-        "date": "2026-03-20 22:12:00",
-        "sentiment_score": -0.8466450404375792
-    },
-    {
-        "title": "Lesión en isquiotibial deja a Cristiano Ronaldo fuera de amistosos de Portugal ante EEUU y México",
-        "image_url": "https://i.headtopics.com/images/2026/3/20/latimes/lesi-n-en-isquiotibial-deja-a-cristiano-ronaldo-fu-lesi-n-en-isquiotibial-deja-a-cristiano-ronaldo-fu-5BD9C4326314F916B142234A41D7D77D.webp",
-        "tags": [
-            "united states news"
-        ],
-        "link": "https://us.headtopics.com/news/lesi-n-en-isquiotibial-deja-a-cristiano-ronaldo-fuera-de-81256265",
-        "date": "2026-03-20 22:07:37",
-        "sentiment_score": -0.873307827860117
-    },
-    {
-        "title": "El Real Madrid falla de nuevo a domicilio en Kaunas",
-        "image_url": "https://www.eldiadevalladolid.com/media/img/2026/b6b6768f-94ee-48cb-b9ea1ca0a51da353.jpg",
-        "tags": [
-            "cabo verde",
-            "real madrid",
-            "zalgiris kaunas",
-            "sergio llull",
-            "euroliga",
-            "facundo campazzo"
-        ],
-        "link": "https://www.eldiadevalladolid.com/noticia/zd230a5d3-4b7f-48e2-87a8de9989e62730/202603/el-real-madrid-falla-de-nuevo-a-domicilio-en-kaunas",
-        "date": "2026-03-20 22:06:21",
-        "sentiment_score": -0.2125111222267151
-    },
-    {
-        "title": "Villareal 3 - 1 Real Sociedad | Resumen, goles y resultado del partido de hoy",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260320230252_1200.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.europapress.es/deportes/estadisticas-deportivas/noticia-villareal-real-sociedad-resumen-goles-resultado-partido-hoy-20260320230252.html",
-        "date": "2026-03-20 22:02:52",
-        "sentiment_score": 0.03815731406211853
-    },
-    {
-        "title": "La ciudad del descubrimiento",
-        "image_url": "https://static.eldiario.es/clip/b77a10d4-4982-4ec6-97fb-756da5f8abb6_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "descubrimiento",
-            "ciudad"
-        ],
-        "link": "https://www.eldiario.es/canariasahora/opinion/ciudad-descubrimiento_132_13086174.html",
-        "date": "2026-03-20 21:54:59",
-        "sentiment_score": -0.03951147198677063
-    },
-    {
-        "title": "Regreso de una imagen, un manto restaurado y tronos que crecen: estas son las novedades de la Semana Santa de Gijón",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b8cfd077-1bf7-4cb1-8b1f-1a499057b464_16-9-aspect-ratio_default_0_x722y321.jpg",
-        "tags": [
-            "san pedro",
-            "semana santa",
-            "domingo",
-            "cristo",
-            "imagen"
-        ],
-        "link": "https://www.lne.es/gijon/2026/03/20/regreso-imagen-manto-restaurado-tronos-128236457.html",
-        "date": "2026-03-20 21:41:56",
-        "sentiment_score": 0.2788972854614258
-    },
-    {
-        "title": "Felipe Melo mostró los regalos que le hizo Riquelme tras el sorteo de la Copa Libertadores: su sueño de ser el DT de Boca",
-        "image_url": "https://www.infobae.com/resizer/v2/5LUZ2PBCGJFIDMBE5VI2VJ6574.jfif?auth=64ac0ffaefbca3665fce3fa6b74165eae20a427c6b8adda92bc0a8063a499bd1&smart=true&width=880&height=495",
-        "tags": [
-            "felipe melo",
-            "edinson cavani",
-            "copa libertadores",
-            "juan román riquelme",
-            "boca juniors"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/20/felipe-melo-mostro-los-regalos-que-le-hizo-riquelme-tras-el-sorteo-de-la-copa-libertadores-su-sueno-de-ser-el-dt-de-boca/",
-        "date": "2026-03-20 22:20:03",
-        "sentiment_score": 0.6770432870835066
-    },
-    {
-        "title": "Bad Gyal se abre, pero no se toca",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/20/69bdc69b3b329.r_d.1676-1224-0.jpeg",
-        "tags": [
-            "jordi",
-            "bad",
-            "toca",
-            "concierto",
-            "sant",
-            "gyal",
-            "palau",
-            "abre",
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/cultura/musica/20260320/11495410/bad-gyal-abre-toca-concierto-palau-sant-jordi-barcelona.html",
-        "date": "2026-03-20 22:18:02",
-        "sentiment_score": 0.5254854038357735
-    },
-    {
-        "title": "Estas son las estrellas de Portugal que sí jugarán contra México en el Estadio Azteca",
-        "image_url": "https://www.infobae.com/resizer/v2/RTRG26LPSJCSHAKVZCVWSAHFTA.jpg?auth=95c45041de6a7d8794a0a6a76687355ef807630d5492f11d26042473c849b580&smart=true&width=1920&height=1080",
-        "tags": [
-            "selección mexicana",
-            "mexico-deportes",
-            "estadio azteca",
-            "mexico-noticias",
-            "cr7",
-            "cristiano ronaldo",
-            "méxico vs portugal"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2026/03/20/estas-son-las-estrellas-de-portugal-que-si-jugaran-contra-mexico-en-el-estadio-azteca/",
-        "date": "2026-03-20 22:13:59",
-        "sentiment_score": 0.0703100711107254
-    },
-    {
-        "title": "22:00H | 20 MAR 2026 | Almudena Navarro",
-        "image_url": "https://www.cadena100.es/files/microformat_image_1x1/uploads/2025/03/19/67db064238ca4.jpeg",
-        "tags": [
-            "00h",
-            "20",
-            "mar",
-            "22",
-            "2026"
-        ],
-        "link": "https://www.cadena100.es/programas/almudena-navarro/horas-completas/22-00h-20-mar-2026-almudena-navarro-20260320_147740.html",
-        "date": "2026-03-20 22:11:00",
-        "sentiment_score": 0.25377409160137177
-    },
-    {
-        "title": "Bad Gyal sube la apuesta por el hedonismo en el Palau Sant Jordi",
-        "image_url": "https://static1.ara.cat/clip/ff82b56a-83f4-4301-9375-d4db978fad28_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "hedonismo",
-            "jordi",
-            "bad",
-            "apuesta",
-            "sant",
-            "gyal",
-            "palau",
-            "sube"
-        ],
-        "link": "https://es.ara.cat/cultura/musica/bad-gyal-sube-apuesta-hedonismo-palau-sant-jordi_1_5685093.html",
-        "date": "2026-03-20 21:59:27",
-        "sentiment_score": 0.10826683044433594
-    },
-    {
-        "title": "BBVA y CaixaBank avisan: el déficit de vivienda se agravará",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/47a3dc8bd066c04ff09016024030b98d/crop/99x66/1843x1229/resize/1744/assets/multimedia/imagenes/2020/10/13/16025798299441.jpg",
-        "tags": [
-            "economia",
-            "economía"
-        ],
-        "link": "https://www.expansion.com/economia/2026/03/20/69bdbefbe5fdea2a748b4594.html",
-        "date": "2026-03-20 21:58:54",
-        "sentiment_score": 0.11923366412520409
-    },
-    {
-        "title": "Laporta cierra un 'fichaje de campaña' para reforzar el departamento de comunicación del Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/05/30/business/1003742661955_14657997_1706x960.jpg",
-        "tags": [
-            "joan laporta",
-            "palco",
-            "elecciones barça",
-            "junta directiva del barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260320/laporta-fichaje-campana-reforzar-departamento-comunicacion-barca/1003742743956_0.html",
-        "date": "2026-03-20 21:48:36",
-        "sentiment_score": 0.336732879281044
-    },
-    {
-        "title": "La Laguna Tenerife, a Málaga con el 'turista' Patty Mills",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/81584025-1230-4657-986b-5e46043de3d1_16-9-aspect-ratio_default_0_x1200y533.jpg",
-        "tags": [
-            "liga endesa",
-            "la laguna tenerife",
-            "cb canarias",
-            "unicaja de málaga"
-        ],
-        "link": "https://www.eldia.es/deportes/cb-canarias/2026/03/20/la-laguna-tenerife-unicaja-de-malaga-liga-endesa-128237817.html",
-        "date": "2026-03-20 21:48:35",
-        "sentiment_score": -0.10353595018386841
-    },
-    {
-        "title": "Yunior García, opositor cubano asilado en España: \"Apoyar a un régimen así y llamarse progresista es muy hipócrita\"",
-        "image_url": "https://s3.elespanol.com/2026/03/20/actualidad/1003744177917_262051255_1706x990.jpg",
-        "tags": [
-            "podemos",
-            "marco rubio",
-            "cuba",
-            "américa",
-            "negociaciones",
-            "bloqueo económico",
-            "estados unidos",
-            "raúl castro",
-            "fidel castro",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/espana/20260321/yunior-garcia-opositor-cubano-asilado-espana-apoyar-regimen-llamarse-progresista-hipocrita/1003744177642_0.html",
-        "date": "2026-03-21 02:12:26",
-        "sentiment_score": -0.9316672338172793
-    },
-    {
-        "title": "Fútbol robado",
-        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "robado",
-            "futbol"
-        ],
-        "link": "https://www.eldiadecordoba.es/opinion/articulos/futbol-robado_0_2006239585.html",
-        "date": "2026-03-21 02:08:37",
-        "sentiment_score": -0.06100797653198242
-    },
-    {
-        "title": "Scaloni sumó dos jugadores para el amistoso ante Mauritania",
-        "image_url": "https://pxbcdn.diariohuarpe.com/huarpe/092024/1725841518836.jpg",
-        "tags": [
-            "cambios",
-            "argentina",
-            "la bombonera",
-            "selección argentina",
-            "amistoso"
-        ],
-        "link": "https://www.diariohuarpe.com/nota/scaloni-agrego-a-mastantuono-y-panichelli-para-el-amistoso-argentino-20263202320",
-        "date": "2026-03-21 02:07:32",
-        "sentiment_score": -0.45760786533355713
-    },
-    {
-        "title": "Argentina reemplaza a Guatemala por Zambia para amistoso de fecha FIFA",
-        "image_url": "https://laopinion.com/wp-content/uploads/sites/3/2025/10/AP23318859007939-e1759530228871.jpg",
-        "tags": [
-            "copa mundial de la fifa",
-            "selección argentina"
-        ],
-        "link": "https://laopinion.com/2026/03/20/argentina-reemplaza-a-guatemala-por-zambia-para-amistoso-de-fecha-fifa/",
-        "date": "2026-03-21 01:32:36",
-        "sentiment_score": -0.4676418248564005
-    },
-    {
-        "title": "Ernesto Cherquis Bialo retratado en cinco historias mínimas: el boxeo, la redacción de “El Gráfico” y la ética periodística",
-        "image_url": "https://www.infobae.com/resizer/v2/M5DW4ZALVJCHJF3YRM6GM5DXOQ.jpg?auth=c213ae0fefc69eb67631a5e292fe06f6217ae009310796e6458cafce8cecc155&smart=true&width=1920&height=1080",
-        "tags": [
-            "ernesto cherquis bialo"
-        ],
-        "link": "https://www.infobae.com/sociedad/2026/03/21/ernesto-cherquis-bialo-retratado-en-cinco-historias-minimas-el-boxeo-la-redaccion-de-el-grafico-y-la-etica-periodistica/",
-        "date": "2026-03-21 01:17:28",
-        "sentiment_score": 0.3566454201936722
-    },
-    {
-        "title": "Keylor Navas sigue con Pumas UNAM un año más a los 39 años",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-20/keylor-navas-sigue-con-pumas-unam-un-ano-mas-los-39-anos",
-        "date": "2026-03-21 01:16:52",
-        "sentiment_score": 0.27995462715625763
-    },
-    {
-        "title": "Vanderlei Luxemburgo, exentrenador del Real Madrid, en cuidados intensivos por infección pulmonar",
-        "image_url": "https://laopinion.com/wp-content/uploads/sites/3/2026/03/AP050106020220.jpg",
-        "tags": [
-            "real madrid",
-            "selección brasil"
-        ],
-        "link": "https://laopinion.com/2026/03/20/vanderlei-luxemburgo-exentrenador-del-real-madrid-en-cuidados-intensivos-por-infeccion-pulmonar/",
-        "date": "2026-03-21 00:50:46",
-        "sentiment_score": -0.06819337233901024
-    },
-    {
-        "title": "Jimmy Gracey cayó al mar \"de forma accidental\" tras irse de la discoteca y no salió: su móvil lo cogió del espigón un paquistaní",
-        "image_url": "https://s3.elespanol.com/2026/03/20/actualidad/1003744178014_262052527_1706x960.jpg",
-        "tags": [
-            "reportajes",
-            "reportajes-newsletter",
-            "guardia urbana",
-            "investigación policial",
-            "eeuu",
-            "barcelona",
-            "porfolio",
-            "mozos de escuadra (mossos d'esquadra)",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260321/jimmy-gracey-cayo-mar-forma-accidental-irse-discoteca-no-salio-movil-cogio-espigon-paquistani/1003744177774_0.html",
-        "date": "2026-03-21 00:40:00",
-        "sentiment_score": -0.7550937440246344
-    },
-    {
-        "title": "Lidia Bedman, la \"encantadora\" influencer que llevaba las redes de Vidal-Quadras mientras le espiaba para su marido Abascal",
-        "image_url": "https://s3.elespanol.com/2026/03/20/actualidad/1003744178224_262055850_1706x960.jpg",
-        "tags": [
-            "reportajes",
-            "reportajes-newsletter",
-            "juan garcía-gallardo frings",
-            "política",
-            "santiago abascal",
-            "vox",
-            "partidos políticos",
-            "porfolio",
-            "españa",
-            "javier ortega smith"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260321/lidia-bedman-encantadora-influencer-llevaba-redes-vidal-quadras-espiaba-marido-abascal/1003744177853_0.html",
-        "date": "2026-03-21 00:40:00",
-        "sentiment_score": -0.9031702941283584
-    },
-    {
-        "title": "20 MAR 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/06/10/684828a972448.jpeg",
-        "tags": [
-            "20",
-            "mar",
-            "partidazo",
-            "2026",
-            "cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/20-mar-2026-partidazo-cope-20260321_3331174.html",
-        "date": "2026-03-21 00:40:00",
-        "sentiment_score": 0.02628098428249359
-    },
-    {
-        "title": "Un donante de semen anónimo transfiere una enfermedad rara a, al menos, tres hijos: \"Ninguna ley obliga a mirar ciertos genes\"",
-        "image_url": "https://s3.elespanol.com/2025/05/26/ciencia/salud/1003743775454_255914961_1706x960.jpg",
-        "tags": [
-            "reproducción asistida",
-            "genética",
-            "enfermedades raras",
-            "ciencia",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/ciencia/20260321/donante-semen-anonimo-transfiere-enfermedad-rara-hijos-ninguna-ley-obliga-mirar-ciertos-genes/1003744178431_0.html",
-        "date": "2026-03-21 02:12:30",
-        "sentiment_score": -0.840170631185174
-    },
-    {
-        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 21 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&smart=true&width=1920&height=1080",
-        "tags": [
-            "clima en barcelona",
-            "últimas actualizaciones",
-            "clima en españa",
-            "clima"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/21/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-21-de-marzo/",
-        "date": "2026-03-21 02:00:58",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "Venezolanos Rafa y Chinin están listos para conquistar España",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2022/03/ImagenUN.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://ultimasnoticias.com.ve/chevere/rafa-y-chinin-daran-conciertos-en-espana/",
-        "date": "2026-03-21 00:46:57",
-        "sentiment_score": 0.28540920838713646
-    },
-    {
-        "title": "Daniel, de repartir flyers a hacer con 28 años de su festival Blackworks una referencia mundial del 'hard techno'",
-        "image_url": "https://s3.elespanol.com/2026/03/20/madrid/1003744178182_262055112_1706x960.jpg",
-        "tags": [
-            "ocio",
-            "ifema",
-            "festivales de música",
-            "hard techno",
-            "ocio nocturno"
-        ],
-        "link": "https://www.elespanol.com/madrid/ocio/20260321/daniel-repartir-flyers-hacer-anos-festival-blackworks-referencia-mundial-hard-techno/1003744175372_0.html",
-        "date": "2026-03-21 00:40:00",
-        "sentiment_score": 0.06492904946208
-    },
-    {
-        "title": "Adriana Cabot, de estudiar turismo a trabajar como pastelera para Inditex: tiene dulces en el top 10 de España",
-        "image_url": "https://s3.elespanol.com/2026/03/20/actualidad/1003744177892_262050868_1706x960.jpg",
-        "tags": [
-            "arteixo",
-            "galicia",
-            "a coruña",
-            "gastrocoruña",
-            "comarca de a coruña",
-            "pastelerías"
-        ],
-        "link": "https://www.elespanol.com/quincemil/vivir/gastrocoruna/20260321/adriana-cabot-estudiar-turismo-trabajar-pastelera-inditex-dulces-top-espana-dl/1003744175665_0.html",
-        "date": "2026-03-21 00:40:00",
-        "sentiment_score": 0.37292805314064026
-    },
-    {
-        "title": "Laporta subirá el presupuesto del Barça de basket a los 35 millones de euros en la temporada 26-27",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/06/03/culemania/secciones/860174142_13035558_1706x960.jpg",
-        "tags": [
-            "juan carlos navarro",
-            "palco",
-            "baloncesto",
-            "fcb basket",
-            "xavi pascual"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260321/laporta-subira-presupuesto-barca-basket-millones-temporada/1003742743992_0.html",
-        "date": "2026-03-21 00:25:21",
-        "sentiment_score": 0.10820502042770386
-    },
-    {
-        "title": "El curioso homenaje de la ciudad de Jaén a Ricardo Darín al enterarse que la eligió como lugar de “nacimiento”",
-        "image_url": "https://www.infobae.com/resizer/v2/6MVIERVNBNDTLLJLBOVLBEA6SA.jpg?auth=3c3e2261f9e2afadc55ce795f28987ee817743bc06d5a369df3cbf4218a15125&smart=true&width=1920&height=1080",
-        "tags": [
-            "ciudadanía española",
-            "ricardo darín",
-            "jaén"
-        ],
-        "link": "https://www.infobae.com/teleshow/2026/03/21/el-curioso-homenaje-de-la-ciudad-de-jaen-a-ricardo-darin-al-enterarse-que-la-eligio-como-lugar-de-nacimiento/",
-        "date": "2026-03-21 00:23:46",
-        "sentiment_score": 0.3138531595468521
-    },
-    {
-        "title": "España anuncia convocatoria mundialista liderada por el FC Barcelona",
-        "image_url": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/diseo-sin-ttulo-6-6ea3ad.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://noticiasvenevision.com/noticias/deportes/espana-anuncia-convocatoria-mundialista-liderada-por-el-fc-barcelona",
-        "date": "2026-03-21 00:15:00",
-        "sentiment_score": 0.11848820745944977
-    },
-    {
-        "title": "Barcelona se 'ahorró' una millonada de 620 millones y hay datos que lo respaldan",
-        "image_url": "https://pxcdn.meridiano.net/032026/1774051798059.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/barcelona-se-ahorro-una-millonada-de-650-millones-y-hay-datos-que-lo-respaldan-202632020100",
-        "date": "2026-03-21 00:14:00",
-        "sentiment_score": 0.4932907111942768
-    },
-    {
         "title": "Mourinho despide a Silvino Louro con un mensaje que emociona al fútbol mundial",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/30/2026013013070771239.jpg",
         "tags": [
@@ -3387,5 +2913,189 @@ export default [
         "link": "https://www.deia.eus/economia/2026/03/24/demanda-patentes-europeas-supero-primera-10858129.html",
         "date": "2026-03-24 07:00:47",
         "sentiment_score": 0.468454223126173
+    },
+    {
+        "title": "¿Qué pasó con el avión de Air Canada y cómo se estrelló en el aeropuerto LaGuardia con un camión?",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/Screenshot_124.jpg",
+        "tags": [
+            "air canada",
+            "aeropuerto laguardia",
+            "avion"
+        ],
+        "link": "https://lapatilla.com/2026/03/24/que-paso-con-el-avion-de-air-canada-y-como-se-estrello-en-el-aeropuerto-laguardia-con-un-camion/",
+        "date": "2026-03-24 12:10:32",
+        "sentiment_score": -0.7544825710356236
+    },
+    {
+        "title": "Juan Manuel de Prada: La derecha cipaya",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "españa",
+            "vox",
+            "epstein",
+            "columna",
+            "abc",
+            "pp",
+            "sionismo",
+            "derecha"
+        ],
+        "link": "https://www.meneame.net/story/juan-manuel-prada-derecha-cipaya",
+        "date": "2026-03-24 09:20:02",
+        "sentiment_score": -0.8364880420267582
+    },
+    {
+        "title": "Luis García Plaza, nuevo entrenador del Sevilla hasta junio de 2027",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/49e1c49d-5a9d-4c8f-a4bb-a512a72716bf_16-9-aspect-ratio_default_0_x1024y455.jpg",
+        "tags": [
+            "sevilla fc",
+            "futbol"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2026/03/24/luis-garcia-plaza-nuevo-entrenador-128370318.html",
+        "date": "2026-03-24 17:52:48",
+        "sentiment_score": 0.3055054545402527
+    },
+    {
+        "title": "El Defensor del Pueblo recoge en su informe 2025 los problemas del Imserso y el CETI",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/03/defensor-pueblo-recoge-informe-2025-problemas-imserso-ceti-4.jpg",
+        "tags": [
+            "imserso",
+            "sanidad",
+            "ceti"
+        ],
+        "link": "https://elfarodeceuta.es/defensor-pueblo-recoge-informe-2025-problemas-imserso-ceti/",
+        "date": "2026-03-24 17:51:43",
+        "sentiment_score": -0.5270205773413181
+    },
+    {
+        "title": "Zaragoza, cuarta ciudad española en patentes europeas: una gran industria explica su liderazgo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/01203575-511f-429b-8a49-f0195633a650_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tecnología",
+            "madrid",
+            "aragón",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodicodearagon.com/aragon/2026/03/24/zaragoza-cuarta-ciudad-espanola-patentes-128368559.html",
+        "date": "2026-03-24 17:53:30",
+        "sentiment_score": 0.10639573633670807
+    },
+    {
+        "title": "Joan García confía en estar en el Mundial: «Ir convocado significa que estoy más cerca»",
+        "image_url": "https://okdiario.com/img/2026/03/24/joan-garcia.jpg",
+        "tags": [
+            "joan garcía",
+            "selección de españa fútbol"
+        ],
+        "link": "https://okdiario.com/deportes/joan-garcia-confia-estar-mundial-ir-convocado-significa-que-estoy-mas-cerca-16477858",
+        "date": "2026-03-24 17:49:21",
+        "sentiment_score": 0.41080453991889954
+    },
+    {
+        "title": "Niall Horan llevará su 'Dinner Party' al Palau Sant Jordi de Barcelona el 25 de octubre",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/24/niall-horan-llevara-su-dinner-party-al-palau-sant-jordi-de-barcelona-el-25-de-octubre/",
+        "date": "2026-03-24 17:48:43",
+        "sentiment_score": 0.06291588768362999
+    },
+    {
+        "title": "Sabadell empieza a construir el primer centro para mayores con discapacidad intelectual en el Vallès",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/02e8382c-63ac-4c82-afd1-d541271f84ca_alta-libre-aspect-ratio_default_0_x325y116.jpg",
+        "tags": [
+            "ayuntamientos"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20260324/sabadell-empieza-construir-primer-centro-discapacidad-mayores-intelectual-valles-128372519",
+        "date": "2026-03-24 17:44:30",
+        "sentiment_score": 0.35798634588718414
+    },
+    {
+        "title": "Ocho ‘vacas sagradas’ claves para el ascenso del Almería tienen o superan los 30 años",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/03/24/69c270d4c48b6.jpeg",
+        "tags": [
+            "segunda división",
+            "fútbol"
+        ],
+        "link": "https://www.lavozdealmeria.com/ud-almeria/jugadores/498918/ocho-vacas-sagradas-claves-ascenso-almeria-superan-30-anos.html",
+        "date": "2026-03-24 17:42:41",
+        "sentiment_score": 0.6360942460596561
+    },
+    {
+        "title": "Barcelona Culinary Hub se une a Martín Berasategui en su proyecto más ambicioso: \"Vamos a dejar huella, va a haber un antes y un después\"",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/24/cronica-directo/1003742744911_15875862_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "martín berasategui",
+            "business",
+            "cocineros",
+            "grupo planeta",
+            "cocina",
+            "universidad de barcelona (ub)"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20260324/barcelona-culinary-hub-martin-berasategui-ambicioso-vamos/1003742744922_0.html",
+        "date": "2026-03-24 17:41:52",
+        "sentiment_score": 0.5591674149036407
+    },
+    {
+        "title": "Collboni en Bruselas: Barcelona ha vuelto a Europa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/37891b5a-376f-4715-b3f9-1e7ce4bf48ef_alta-libre-aspect-ratio_default_0_x800y400.jpg",
+        "tags": [
+            "ayuntamiento de barcelona",
+            "barcelona",
+            "unión europea",
+            "bruselas",
+            "jaume collboni"
+        ],
+        "link": "https://www.elperiodico.com/es/politica/20260324/collboni-bruselas-barcelona-vuelto-europa-128370590",
+        "date": "2026-03-24 17:40:16",
+        "sentiment_score": 0.3436107262969017
+    },
+    {
+        "title": "Jaume Collboni defiende en Bruselas el papel de “las ciudades en el combate por la democracia y los derechos”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SNP6F3VSZNAKRPDVK54U2UYIRE.jpg?auth=35ddfd9bf8d8fc9be02d9535d032bc1d8deb09b7fba91adff63ff9520b3c8e06",
+        "tags": [
+            "vivienda",
+            "ciudades turísticas",
+            "política municipal",
+            "bruselas",
+            "jaume collboni",
+            "ayuntamiento barcelona",
+            "cataluña",
+            "barcelona",
+            "fondos cohesión"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2026-03-24/jaume-collboni-defiende-en-bruselas-el-papel-de-las-ciudades-en-el-combate-por-la-democracia-y-los-derechos.html",
+        "date": "2026-03-24 17:38:52",
+        "sentiment_score": 0.39616672694683075
+    },
+    {
+        "title": "Una muestra fotográfica enseña en tiempos de guerra la realidad franciscana en Tierra Santa",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2026/03/24/1509092942-ks8C-RMCeZLIPzFnAQwwwJ5lypbK-758x531@El%20Norte.JPG",
+        "tags": [
+            "jesús julio carnero",
+            "papa león xiv",
+            "europa",
+            "semana santa",
+            "valladolid (ciudad)",
+            "conrado íscar",
+            "luis argüello",
+            "españa"
+        ],
+        "link": "https://www.elnortedecastilla.es/valladolid/muestra-fotografica-ensena-tiempos-guerra-realidad-franciscana-20260324183328-nt.html",
+        "date": "2026-03-24 17:33:31",
+        "sentiment_score": 0.12371023744344711
+    },
+    {
+        "title": "Expertos en derecho constitucional advierten en Asturias sobre la «preocupante erosión de la democracia» a nivel mundial",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/03/24/esto%202-R4tSWJk2IJuEmCrbc6E2PHL-758x531@El%20Comercio.jpg",
+        "tags": [
+            "junta general del principado de asturias",
+            "universidad de oviedo"
+        ],
+        "link": "https://www.elcomercio.es/asturias/junta-general-principado/expertos-derecho-constitucional-asturias-democracia-mundo-20260324183122-nt.html",
+        "date": "2026-03-24 17:31:46",
+        "sentiment_score": -0.04654192924499512
     }
 ];
