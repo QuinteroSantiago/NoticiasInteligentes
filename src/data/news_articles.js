@@ -3078,5 +3078,236 @@ export default [
         "link": "https://www.clm24.es/articulo/viral/muere-joven-estrellarse-moto-que-conducia-jabali/20260324225201473534.html",
         "date": "2026-03-24 21:52:01",
         "sentiment_score": -0.8906616428866982
+    },
+    {
+        "title": "La sangría defensiva sigue con Demichelis",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4423097.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/03/25/2595545/sangria-defensiva-sigue-demichelis.html",
+        "date": "2026-03-25 02:48:01",
+        "sentiment_score": 0.14568808674812317
+    },
+    {
+        "title": "Demichelis, invitado al Málaga–Leganés del sábado",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4423457.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/03/25/2595775/demichelis-tiene-previsto-acudir-como-invitado-malaga-leganes-del-sabado.html",
+        "date": "2026-03-25 02:48:01",
+        "sentiment_score": 0.19562754034996033
+    },
+    {
+        "title": "Negociar con bombas: Hegseth valida uso de fuerza extrema contra Irán",
+        "image_url": "https://ikona.telesurtv.net/content/uploads/2026/03/7d097e80ce12235b7b928a6151644c1667443dadw.jpg.webp",
+        "tags": [
+            "conflicto",
+            "chantaje",
+            "oriente medio",
+            "trump",
+            "irán",
+            "ee.uu."
+        ],
+        "link": "https://www.telesurtv.net/hegseth-valida-uso-fuerza-extrema-iran/",
+        "date": "2026-03-25 02:42:15",
+        "sentiment_score": -0.7332735098898411
+    },
+    {
+        "title": "Miércoles, 25 de marzo de 2026 (02:00 GMT)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/25/miercoles-25-de-marzo-de-2026-0200-gmt/",
+        "date": "2026-03-25 02:16:19",
+        "sentiment_score": -0.012785851955413818
+    },
+    {
+        "title": "¿Por qué no hay sardinas en Perú? Cómo El Niño, la anchoveta y la pesca sin estribos borraron una industria del mar",
+        "image_url": "https://www.infobae.com/resizer/v2/XJZF3D2ZBZB3XOTZ7FRSY5VH7I.jpg?auth=eaf9cc4b5a9d211e4bab33ed48124c298ab4793d86e7670c306b77b4119d2f07&smart=true&width=1900&height=1175",
+        "tags": [
+            "sardinas",
+            "ministerio de la producción",
+            "heroínas de la mar",
+            "peru-economia",
+            "pesca",
+            "imarpe",
+            "oceana",
+            "anchoveta"
+        ],
+        "link": "https://www.infobae.com/peru/2026/03/25/por-que-no-hay-sardinas-en-peru-como-el-nino-la-anchoveta-y-la-pesca-sin-estribos-borraron-una-industria-del-mar/",
+        "date": "2026-03-25 01:34:53",
+        "sentiment_score": 0.1534281075000763
+    },
+    {
+        "title": "Bélgica pierde a su artillero: Romelu Lukaku es baja definitiva para enfrentar a México",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/4QCX35Y4RFE7FC74XXDJ5QEYYQ.jpg?auth=4a9159db588b01b21450e485769b77ab5e6a8c9d7a1ae08247e817ac6c73a359&smart=true&width=3865&height=2577",
+        "tags": [
+            "fecha fifa",
+            "romelu lukaku"
+        ],
+        "link": "https://www.metroworldnews.com/deportes/2026/03/25/belgica-pierde-a-su-artillero-romelu-lukaku-es-baja-definitiva-para-enfrentar-a-mexico/",
+        "date": "2026-03-25 01:10:04",
+        "sentiment_score": -0.888164134696126
+    },
+    {
+        "title": "Mbappé dice que su lesión de rodilla 'quedó atrás'. Tranquiliza a Francia y Real Madrid",
+        "image_url": "https://i.headtopics.com/images/2026/3/25/latimes/mbappe-dice-que-su-lesi-n-de-rodilla-qued-atr-s-mbappe-dice-que-su-lesi-n-de-rodilla-qued-atr-s-FB45C015D7B07445BA69C8F42A669A63.webp",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://us.headtopics.com/news/mbappe-dice-que-su-lesi-n-de-rodilla-qued-atr-s-81414645",
+        "date": "2026-03-25 01:07:18",
+        "sentiment_score": -0.0005436092615127563
+    },
+    {
+        "title": "Klopp tacha de 'disparates' rumores sobre el Real Madrid y niega contactos",
+        "image_url": "https://i.headtopics.com/images/2026/3/25/latimes/klopp-tacha-de-disparates-rumores-sobre-el-real-ma-klopp-tacha-de-disparates-rumores-sobre-el-real-ma-92063E0F5883406672C5BED299148AF6.webp",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://us.headtopics.com/news/klopp-tacha-de-disparates-rumores-sobre-el-real-madrid-y-81414167",
+        "date": "2026-03-25 00:36:45",
+        "sentiment_score": -0.8812476610764861
+    },
+    {
+        "title": "Mbappé dice que su lesión de rodilla \"quedó atrás\". Tranquiliza a Francia y Real Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-24/mbappe-dice-que-su-lesion-de-rodilla-quedo-atras-tranquiliza-francia-y-real-madrid",
+        "date": "2026-03-25 00:25:42",
+        "sentiment_score": -0.0005436092615127563
+    },
+    {
+        "title": "Klopp tacha de \"disparates\" rumores sobre el Real Madrid y niega contactos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-24/klopp-tacha-de-disparates-rumores-sobre-el-real-madrid-y-niega-contactos",
+        "date": "2026-03-25 00:19:52",
+        "sentiment_score": -0.8812476610764861
+    },
+    {
+        "title": "La Sagrada Familia bate récord de visitantes y se prepara para recibir al papa León XIV",
+        "image_url": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/sagrada-familia-de-antoni-gaudi-interior-1-3fce73.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://noticiasvenevision.com/noticias/internacional/la-sagrada-familia-bate-record-de-visitantes-y-se-prepara-para-recibir-al-papa-leon-xiv",
+        "date": "2026-03-25 02:12:00",
+        "sentiment_score": 0.817551851272583
+    },
+    {
+        "title": "Un incendio en un piso de Mataró (Barcelona) causa cuatro heridos, uno en estado crítico",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2020/11/23/fachada-del-hospital-vall-dhebron-de-barcelona.jpeg",
+        "tags": [
+            "nacional",
+            "actualidad"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/un-incendio-un-piso-mataro-barcelona-causa-cuatro-heridos-uno-estado-critico_6950351_0.html",
+        "date": "2026-03-25 02:06:57",
+        "sentiment_score": -0.7325136363506317
+    },
+    {
+        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 25 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&smart=true&width=1920&height=1080",
+        "tags": [
+            "clima en españa",
+            "clima en barcelona",
+            "últimas actualizaciones",
+            "clima"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/25/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-25-de-marzo/",
+        "date": "2026-03-25 02:00:59",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Barcelona abre la puerta a Ferran Torres: escuchará ofertas y busca dos delanteros",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/52OK5TS7T5AOZBSZQ2XZATNIGE.jpg?auth=486365e8e8baef8e198254cab7a574661ca94fa428a4c8ed4e3956ebcb96c6be&smart=true&width=1366&height=768",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.metroworldnews.com/deportes/2026/03/25/barcelona-abre-la-puerta-a-ferran-torres-escuchara-ofertas-y-busca-dos-delanteros/",
+        "date": "2026-03-25 01:28:15",
+        "sentiment_score": 0.20560018718242645
+    },
+    {
+        "title": "Luis Cortés creció entre \"gitanos\", trabajó en el campo y ya triunfa en toda España: “Me beneficia ser negro y flamenco”",
+        "image_url": "https://s3.elespanol.com/2026/03/24/actualidad/1003744182598_262111586_1706x960.jpg",
+        "tags": [
+            "ocio",
+            "flamenco",
+            "conciertos música"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20260325/luis-cortes-crecio-gitanos-trabajo-campo-triunfa-toda-espana-beneficia-negro-flamenco/1003744182571_0.html",
+        "date": "2026-03-25 01:15:37",
+        "sentiment_score": -0.2103324830532074
+    },
+    {
+        "title": "Creas compra el 70% de la compañía de salud mental adolescente Desconecta",
+        "image_url": "https://s3.elespanol.com/2026/03/24/actualidad/1003744182579_262111343_1706x960.jpg",
+        "tags": [
+            "startup",
+            "adquisiciones empresariales",
+            "capital riesgo",
+            "sanidad - industria",
+            "fondos de inversión"
+        ],
+        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20260325/creas-compra-compania-salud-mental-adolescente-desconecta/1003744182574_0.html",
+        "date": "2026-03-25 01:15:06",
+        "sentiment_score": 0.12651153653860092
+    },
+    {
+        "title": "Un incendio en un piso de Mataró (Barcelona) causa cuatro heridos, uno en estado crítico",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/25/un-incendio-en-un-piso-de-mataro-barcelona-causa-cuatro-heridos-uno-en-estado-critico/",
+        "date": "2026-03-25 00:46:05",
+        "sentiment_score": -0.7933401186019182
+    },
+    {
+        "title": "Joan Garcia: \"Para nada es un mano a mano con Unai Simón\"",
+        "image_url": "https://www.infobae.com/resizer/v2/AUDA3KDYGRAQ7FRCHSQFY443VQ.jpg?auth=ddf4321b7253e8b7c1b0b41b5af5bf6d69f30f061dc63aee0e4bddf949719080&smart=true&width=1920&height=1280",
+        "tags": [
+            "selección española",
+            "europapress",
+            "mundial 2026",
+            "porteros",
+            "lamine yamal",
+            "luis de la fuente",
+            "joan garcia",
+            "fc barcelona",
+            "canadá",
+            "unai simón",
+            "españa"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/25/joan-garcia-para-nada-es-un-mano-a-mano-con-unai-simon/",
+        "date": "2026-03-25 00:15:36",
+        "sentiment_score": -0.4506262391805649
+    },
+    {
+        "title": "La española Templus elimina su techo de inversión para crecer en centros de datos",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/d69c6b704c42c781e026b32ff456c1b7/crop/176x168/1200x850/resize/1024/assets/multimedia/imagenes/2026/03/24/17743724982530.jpg",
+        "tags": [
+            "economia-digital/companias",
+            "empresas",
+            "tecnología"
+        ],
+        "link": "https://www.expansion.com/economia-digital/companias/2026/03/25/69c2c6ace5fdea0e758b4597.html",
+        "date": "2026-03-25 00:09:02",
+        "sentiment_score": 0.674297172576189
     }
 ];
