@@ -1,163 +1,5 @@
 export default [
     {
-        "title": "Horario y TV del Alcaraz vs Korda en el Miami Open 2026 desde España",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/30/2025063019373281038.jpg",
-        "tags": [
-            "atp",
-            "carlos alcaraz",
-            "tenis",
-            "masters 1000 miami open",
-            "sebastian korda"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/horario-tv-alcaraz-vs-korda-miami-open-2026-espana/20260322074618379675.html",
-        "date": "2026-03-22 06:46:18",
-        "sentiment_score": -0.2979359142482281
-    },
-    {
-        "title": "Lola García: «En Fuerteventura, no cabe más gente»",
-        "image_url": "https://s1.ppllstatics.com/canarias7/www/multimedia/2026/03/20/lola-garciasentada-kLEG-U2013164839199HH-758x531@Canarias7.jpg",
-        "tags": [
-            "coalicion canaria",
-            "canarias",
-            "obras",
-            "unión europea",
-            "rehabilitación",
-            "gobierno de canarias",
-            "vivienda",
-            "yacimientos",
-            "patrimonio",
-            "fuerteventura",
-            "servicios públicos",
-            "minería",
-            "movilidad",
-            "energías renovables",
-            "servicios",
-            "tradiciones",
-            "cabildo de fuerteventura",
-            "paisaje",
-            "población",
-            "agua",
-            "infraestructuras",
-            "sanidad"
-        ],
-        "link": "https://www.canarias7.es/canarias/fuerteventura/lola-garcia-fuerteventura-cabe-gente-20260322072500-nt.html",
-        "date": "2026-03-22 06:45:24",
-        "sentiment_score": 0.3136741816997528
-    },
-    {
-        "title": "El Real Oviedo necesita un auténtico milagro para mantenerse en Primera",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/14/2025121416510213695.jpg",
-        "tags": [
-            "real oviedo",
-            "oviedo",
-            "primera divisi&oacute;n",
-            "levante-ud",
-            "laliga"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/real-oviedo-necesita-autentico-milagro-mantenerse-primera/20260322070938379674.html",
-        "date": "2026-03-22 06:09:38",
-        "sentiment_score": -0.8952207211405039
-    },
-    {
-        "title": "El balance de un año marcado por el apagón",
-        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2026/03/20/001%20LEAD%20ST%20ANUARIO%202026-kuOE-U201306336211GfD-758x531@Diario%20Montanes.png",
-        "tags": [
-            "el diario montañes",
-            "ano",
-            "marcado",
-            "balance",
-            "apagon"
-        ],
-        "link": "https://www.eldiariomontanes.es/cantabria/balance-ano-marcado-apagon-20260322074840-nt.html",
-        "date": "2026-03-22 06:48:43",
-        "sentiment_score": 0.19838503189384937
-    },
-    {
-        "title": "Osasuna 1 – Girona 0: Víctor Muñoz deslumbra y Budimir define",
-        "image_url": "https://www.periodistadigital.com/wp-content/uploads/2026/03/Osasuna.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.periodistadigital.com/deportes/futbol/20260322/osasuna-1-girona-0-victor-munoz-deslumbra-budimir-define-noticia-689405193485/",
-        "date": "2026-03-22 06:44:29",
-        "sentiment_score": 0.431363582611084
-    },
-    {
-        "title": "Almería acoge la reunión anual de jefes de Tuna del Circuito Nacional de Tunas de Derecho",
-        "image_url": "https://static.grupojoly.com/clip/55208c50-b612-48be-a34a-53fbf0593d0b_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "noticias almería"
-        ],
-        "link": "https://www.diariodealmeria.es/ocio/almeria-acoge-reunion-anual-jefes_0_2006245958.html",
-        "date": "2026-03-22 06:35:42",
-        "sentiment_score": 0.645119764842093
-    },
-    {
-        "title": "La infancia de Isabel Pardo de Vera en Lugo: cuatro hermanos, un padre alcalde, una vocación frustrada y un tren que nunca fue suyo",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/03/pardo-de-vera-469x317.jpg",
-        "tags": [
-            "celebrities",
-            "isabel pardo de vera",
-            "caso koldo",
-            "adif"
-        ],
-        "link": "https://theobjective.com/gente/2026-03-22/la-infancia-de-isabel-pardo-de-vera-en-lugo-cinco-hermanos-un-padre-alcalde-y-un-tren-que-nunca-fue-suyo/",
-        "date": "2026-03-22 06:30:00",
-        "sentiment_score": 0.24261891096830368
-    },
-    {
-        "title": "Susana, la hermana de Xabier Fortes que es escritora y comparte logro con Juan del Val",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/susana-fortes-vida-scaled.jpg",
-        "tags": [
-            "celebrities",
-            "xabier fortes",
-            "escritores",
-            "hermanos",
-            "premio planeta"
-        ],
-        "link": "https://theobjective.com/gente/2026-03-22/susana-hermana-xabier-fortes-juan-val/",
-        "date": "2026-03-22 06:30:00",
-        "sentiment_score": 0.7656169459223747
-    },
-    {
-        "title": "AEMET prevé un día soleado en Barcelona con nubes y posibles lluvias por la tarde-noche",
-        "image_url": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
-        "tags": [
-            "tiempo",
-            "previsión del tiempo",
-            "okd",
-            "cataluña",
-            "agencia estatal de meteorología (aemet)"
-        ],
-        "link": "https://okdiario.com/cataluna/aemet-preve-un-dia-soleado-en-barcelona-con-nubes-y-posibles-lluvias-por-la-tarde-noche-16462621",
-        "date": "2026-03-22 06:20:30",
-        "sentiment_score": 0.004516571760177612
-    },
-    {
-        "title": "Santoral: qué santos se celebran este lunes 23 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/F4OKC3K7Q5DLNFNWRBV72HW4RI.jpg?auth=5b861cdfe01175692c63be426d447b2355b32dbcd6df45cc40bc4308831e6d30&smart=true&width=1920&height=1080",
-        "tags": [
-            "santoral",
-            "santoral hoy",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/22/santoral-que-santos-se-celebran-este-lunes-23-de-marzo/",
-        "date": "2026-03-22 06:15:49",
-        "sentiment_score": -0.022669658064842224
-    },
-    {
-        "title": "Grandes acrobacias, fantasía y humor: la mirada \"imaginativa\" del Circo del Sol llevará a Málaga a un mundo oculto",
-        "image_url": "https://static.grupojoly.com/clip/3ee8d14e-62a8-4af0-8b8a-826c79d9168b_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "link en bio málaga",
-            "últimas noticias málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/grandes-acrobacias-fantasia-humor-mirada-circo-sol-malaga_0_2006198552.html",
-        "date": "2026-03-22 06:10:13",
-        "sentiment_score": 0.3340008221566677
-    },
-    {
         "title": "Barcelona logra el 1-0 ante el Rayo Vallecano y aumenta la presión sobre el Real Madrid",
         "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/22132407/barce.png",
         "tags": [
@@ -2882,5 +2724,255 @@ export default [
         "link": "https://www.caranddriver.com/es/formula-1/a70846805/carlos-sainz-mensaje-williams-f1-alex-albon-gp-japon-lentos/",
         "date": "2026-03-25 18:00:00",
         "sentiment_score": 0.4807719960808754
+    },
+    {
+        "title": "El Barça sentencia al Real Madrid con un 2-6 en Champions",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/25/2026032523455156811.jpg",
+        "tags": [
+            "madrid",
+            "champions",
+            "bar&ccedil;a",
+            "sentencia"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/barca-sentencia-real-madrid-2-6-champions/20260325234551444017.html",
+        "date": "2026-03-25 22:45:51",
+        "sentiment_score": 0.44501641392707825
+    },
+    {
+        "title": "Mbappé desmiente el error en el examen de su rodilla",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/25/2026032523450817704.jpg",
+        "tags": [
+            "mbapp&eacute;",
+            "rodilla",
+            "error",
+            "examen"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/mbappe-desmiente-error-examen-rodilla/20260325234508444011.html",
+        "date": "2026-03-25 22:45:08",
+        "sentiment_score": -0.48145741969347
+    },
+    {
+        "title": "Felipe VI nombra a Senegal primer socio estratégico africano",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/25/2026032523405590802.jpg",
+        "tags": [
+            "socio",
+            "senegal"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/felipe-vi-nombra-senegal-primer-socio-estrategico-africano/20260325234056443987.html",
+        "date": "2026-03-25 22:40:56",
+        "sentiment_score": 0.39976033568382263
+    },
+    {
+        "title": "Aris Gómez se querella contra Torbe por injurias y amenazas",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/25/2026032523402160021.jpg",
+        "tags": [
+            "querella",
+            "injurias",
+            "amenazas"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/aris-gomez-querella-torbe-injurias-amenazas/20260325234021443983.html",
+        "date": "2026-03-25 22:40:21",
+        "sentiment_score": -0.8824757114052773
+    },
+    {
+        "title": "Jude Bellingham y Álvaro Arbeloa abren un dilema táctico en el Real Madrid",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/14/2025111405385678795.jpg",
+        "tags": [
+            "real madrid",
+            "inglaterra",
+            "alvaro-arbeloa",
+            "thomas-tuchel",
+            "jude bellingham"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/jude-bellingham-alvaro-arbeloa-abren-dilema-tactico-real-madrid/20260325233207380109.html",
+        "date": "2026-03-25 22:32:07",
+        "sentiment_score": -0.7917400114238262
+    },
+    {
+        "title": "Desarrollan una tecnología para reducir las emisiones en las granjas de cerdos y aves",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2026/03/25/agrarias2-kZHF-U2014045638319yG-758x531@El%20Norte.jpg",
+        "tags": [
+            "ministerio para la transición ecológica",
+            "castilla y león",
+            "la yutera",
+            "universidad de valladolid",
+            "ministerio de agricultura y pesca",
+            "alimentacion y medio ambiente",
+            "unión europea",
+            "españa"
+        ],
+        "link": "https://www.elnortedecastilla.es/palencia/desarrollan-tecnologia-reducir-emisiones-granjas-cerdos-aves-20260325232750-nt.html",
+        "date": "2026-03-25 22:27:54",
+        "sentiment_score": 0.3000076189637184
+    },
+    {
+        "title": "La victoria de Estrella Roja en Vitoria aprieta aún más la clasificación de Euroliga",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/03/25/69c45f1793e5f.jpeg",
+        "tags": [
+            "victoria",
+            "vitoria",
+            "roja",
+            "estrella",
+            "clasificación",
+            "más",
+            "euroliga",
+            "aprieta",
+            "aún"
+        ],
+        "link": "https://www.mundodeportivo.com/baloncesto/euroliga/20260325/1004159602/victoria-estrella-roja-vitoria-aprieta-aun-clasificacion-euroliga.html",
+        "date": "2026-03-25 22:24:47",
+        "sentiment_score": 0.6272345334291458
+    },
+    {
+        "title": "¡Otro escándalo médico en el Real Madrid: ahora, con Camavinga!",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2025/12/03/69309804309c6.jpeg",
+        "tags": [
+            "camavinga",
+            "escándalo",
+            "real",
+            "médico",
+            "madrid"
+        ],
+        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260325/1004159592/escandalo-medico-real-madrid-camavinga.html",
+        "date": "2026-03-25 22:23:27",
+        "sentiment_score": -0.8659165985882282
+    },
+    {
+        "title": "Brasil vs Francia: duelo de gigantes rumbo al Mundial 2026",
+        "image_url": "https://www.mundonow.com/wp-content/uploads/2025/12/Sin-contrato-Limited-Users-No-Monthly-Fees-Up-to-100-Projects-1200-x-768-px-2025-12-19T154456.754.png",
+        "tags": [
+            "top",
+            "entertainment"
+        ],
+        "link": "https://www.mundonow.com/brasil-vs-francia-duelo-de-gigantes-rumbo-al-mundial-2026/",
+        "date": "2026-03-25 22:12:21",
+        "sentiment_score": 0.20923512428998947
+    },
+    {
+        "title": "Mbappé desmiente que examinasen su rodilla equivocada",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/8ace2134-cdd9-48a9-9d050a2bd2edb89e.jpg",
+        "tags": [
+            "kylian mbappé",
+            "salud",
+            "brasil",
+            "real madrid",
+            "parís",
+            "estados unidos",
+            "médicos",
+            "francia",
+            "fisioterapia"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z77e90e4b-4952-4bc2-90e9d65b590c4c44/202603/mbappe-desmiente-que-examinasen-su-rodilla-equivocada",
+        "date": "2026-03-25 22:11:53",
+        "sentiment_score": -0.662772499024868
+    },
+    {
+        "title": "Por qué la supercomputadora MareNostrum será clave para los pronósticos del clima en México",
+        "image_url": "https://www.infobae.com/resizer/v2/NT4PWU4DVBAKPID4EJXRVZGANE.jpg?auth=93c03f04fe7834ce82823c0a4dad21a54779cd56f4188fadc2ce35d838dfb847&smart=true&width=1920&height=1280",
+        "tags": [
+            "mexico-noticias",
+            "supercomputadoras",
+            "clima"
+        ],
+        "link": "https://www.infobae.com/mexico/2026/03/25/por-que-la-supercomputadora-marenostrum-sera-clave-para-los-pronosticos-del-clima-en-mexico/",
+        "date": "2026-03-25 22:49:05",
+        "sentiment_score": 0.6299995481967926
+    },
+    {
+        "title": "La Masia no produce nueves",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "masia",
+            "nueves",
+            "produce"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/20260325/11499432/masia-produce-nueves.html",
+        "date": "2026-03-25 22:48:45",
+        "sentiment_score": -0.5212660729885101
+    },
+    {
+        "title": "Rufián y Montero celebrarán su acto en la UPF de Barcelona",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/25/2026032523453866187.jpg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/rufian-montero-celebraran-acto-upf-barcelona/20260325234538444015.html",
+        "date": "2026-03-25 22:45:38",
+        "sentiment_score": 0.35361674427986145
+    },
+    {
+        "title": "Edison Flores brinda su apoyo a Javier Rabanal en Universitario: “Es un entrenador muy bueno, tiene ideas y me gusta el estilo que juega”",
+        "image_url": "https://www.infobae.com/resizer/v2/DMPJ2QPA7FGI3DL5MWIQGXBJHE.jpg?auth=17c1a9e76cbd31d0b945d2ca9d091d5aee7e7eb5dc6ad0c1c7b4a0350a145506&smart=true&width=1920&height=1080",
+        "tags": [
+            "javier rabanal",
+            "liga 1",
+            "universitario de deportes",
+            "peru-deportes",
+            "edison flores"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/03/25/edison-flores-brinda-su-apoyo-a-javier-rabanal-en-universitario-es-un-entrenador-muy-bueno-tiene-ideas-y-me-gusta-el-estilo-que-juega/",
+        "date": "2026-03-25 22:45:14",
+        "sentiment_score": 0.21345964819192886
+    },
+    {
+        "title": "El Gobierno logra colocar a Olóndriz presidenta de la AIReF y colonizarla como hizo con el INE y el Banco de España",
+        "image_url": "https://okdiario.com/img/2026/03/25/ines-olondriz-nueva-presidenta-de-la-presidenta-de-la-airef.-ep.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://okdiario.com/economia/gobierno-logra-colocar-olondriz-presidenta-airef-colonizarla-como-hizo-ine-banco-espana-16487629",
+        "date": "2026-03-25 22:38:30",
+        "sentiment_score": -0.4482791870832443
+    },
+    {
+        "title": "Gremios y sindicatos salieron a las calles de Barcelona a exigir mejoras salariales (+Video)",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "top",
+            "entertainment"
+        ],
+        "link": "https://eltiempove.com/gremios-y-sindicatos-salieron-a-las-calles-de-barcelona-a-exigir-mejoras-salariales-video/",
+        "date": "2026-03-25 22:35:49",
+        "sentiment_score": 0.1105082556605339
+    },
+    {
+        "title": "Adif suspende el contrato de obras para cuadruplicar las vías de la R2 Sud entre Castelldefels y El Prat",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/04/29/vivir-en-barcelona/1003742652964_14496195_1706x960.jpg",
+        "tags": [
+            "obras",
+            "castelldefels - noticias",
+            "rodalies",
+            "movilidad",
+            "adif",
+            "gran barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/movilidad/20260325/adif-suspende-contrato-obras-cuadruplicar-vias-r2-sud-castelldefels-prat/1003742745310_0.html",
+        "date": "2026-03-25 22:30:00",
+        "sentiment_score": -0.0696946233510971
+    },
+    {
+        "title": "La incineradora Tersa se 'escuda' en sus nuevas cámaras ante las denuncias de ecologistas y vecinos: así funcionará la quema de residuos",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/01/03/el-pulso-de-la-ciudad/730936900_9271716_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "sant adrià de besòs",
+            "ecología"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260325/incineradora-tersa-escuda-nuevas-camaras-denuncias-ecologistas-vecinos-funcionara-quema-residuos/1003742744810_0.html",
+        "date": "2026-03-25 22:30:00",
+        "sentiment_score": 0.3408531825989485
+    },
+    {
+        "title": "Rosalía cancela su concierto en Milán a los pocos minutos de empezar: \"Lo siento, volveré cuando esté en mejores condiciones\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/85955e4f-6fc1-4513-ae04-5e900ee4e6d4_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "música",
+            "cantantes",
+            "rosalía"
+        ],
+        "link": "https://www.laprovincia.es/cultura/2026/03/25/rosalia-cancela-concierto-milan-minutos-empezar-lo-siento-128421323.html",
+        "date": "2026-03-25 22:25:58",
+        "sentiment_score": -0.041730672121047974
     }
 ];
