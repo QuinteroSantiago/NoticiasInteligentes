@@ -2974,5 +2974,209 @@ export default [
         "link": "https://www.laprovincia.es/cultura/2026/03/25/rosalia-cancela-concierto-milan-minutos-empezar-lo-siento-128421323.html",
         "date": "2026-03-25 22:25:58",
         "sentiment_score": -0.041730672121047974
+    },
+    {
+        "title": "Ryan Richards en Maó: «Aquí el basket es muy rápido»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/4425025.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.menorca.info/deportes/baloncesto/2026/03/26/2596807/ryan-richards-mao-aqui-basket-muy-rapido.html",
+        "date": "2026-03-26 02:59:01",
+        "sentiment_score": 0.2804289609193802
+    },
+    {
+        "title": "CxM, primer análisis",
+        "image_url": "https://uh.gsstatic.es/autor/marc-gonzalez/10869.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2026/03/26/2596755/cxm-primer-analisis.html",
+        "date": "2026-03-26 02:48:01",
+        "sentiment_score": -0.8802660498768091
+    },
+    {
+        "title": "Tranquilidad con el futuro de Jan Virgili",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4424131.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/03/26/2596221/tranquilidad-futuro-jan-virgili.html",
+        "date": "2026-03-26 02:48:01",
+        "sentiment_score": 0.035078346729278564
+    },
+    {
+        "title": "Reino Unido autoriza a su Ejército a abordar en sus aguas a petroleros de la 'flota fantasma' rusa",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260326032234_1200.jpg",
+        "tags": [
+            "rusia",
+            "reino unido",
+            "vladimir putin"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-reino-unido-autoriza-ejercito-abordar-aguas-petroleros-flota-fantasma-rusa-20260326032234.html",
+        "date": "2026-03-26 02:22:34",
+        "sentiment_score": -0.5798812583088875
+    },
+    {
+        "title": "Doncic domina la NBA pero divide al jurado del MVP por su impacto total en defensa",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/25/2026012507281380195.jpg",
+        "tags": [
+            "el esloveno luka doncic",
+            "doncic",
+            "luka doncic",
+            "los lakers",
+            "los-angeles-lakers",
+            "nba",
+            "ee uu"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/doncic-domina-nba-divide-jurado-mvp-impacto-total-defensa/20260326024658380136.html",
+        "date": "2026-03-26 01:46:58",
+        "sentiment_score": -0.7890305630862713
+    },
+    {
+        "title": "Azvalor 'guarda en el cajón' su promesa de cerrar los fondos tras alcanzar el límite fijado y contraría a Paramés",
+        "image_url": "https://s3.elespanol.com/2022/03/16/invertia/mis-finanzas/fondos-de-inversion/657695118_262121292_1706x960.jpg",
+        "tags": [
+            "mercados financieros",
+            "fondos de inversión",
+            "cotizaciones bolsa"
+        ],
+        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20260326/azvalor-guarda-cajon-promesa-cerrar-fondos-alcanzar-limite-fijado-contraria-parames/1003744183361_0.html",
+        "date": "2026-03-26 01:40:48",
+        "sentiment_score": -0.09771829098463058
+    },
+    {
+        "title": "Landaluce roza el top 100 tras caer con honor ante Lehecka en Miami",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/09/05/2025090513025252368.jpg",
+        "tags": [
+            "masters 1000 miami open",
+            "tenis",
+            "atp",
+            "jiri lehecka",
+            "miami",
+            "mart&iacute;n landaluce",
+            "ee uu"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/landaluce-roza-top-100-caer-honor-lehecka-miami/20260326022714380132.html",
+        "date": "2026-03-26 01:27:14",
+        "sentiment_score": 0.8516674488782883
+    },
+    {
+        "title": "“No somos favoritos”: La sorprendente autocrítica de Vinícius Jr. a meses del Mundial",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/TDMMXCZZZBASTGNCQ44YNVITQA.jpg?auth=3d9b472a084e319db70f1cf0807f704c4c416d8f0048327f7483358945a7c149&smart=true&width=594&height=396",
+        "tags": [
+            "vinicius jr.",
+            "brasil"
+        ],
+        "link": "https://www.metroworldnews.com/deportes/2026/03/26/no-somos-favoritos-la-sorprendente-autocritica-de-vinicius-jr-a-meses-del-mundial/",
+        "date": "2026-03-26 01:20:38",
+        "sentiment_score": -0.14537204802036285
+    },
+    {
+        "title": "Los 300 mejores médicos de España del Observatorio de la Sanidad (II): Oncología",
+        "image_url": "https://s3.elespanol.com/2026/03/25/actualidad/1003744183184_262118943_1706x960.jpg",
+        "tags": [
+            "mejores médicos 2026",
+            "observatorio de la sanidad"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260326/mejores-medicos-espana-observatorio-sanidad-ii-oncologia/1003744182932_32.html",
+        "date": "2026-03-26 01:10:00",
+        "sentiment_score": 0.3195742778480053
+    },
+    {
+        "title": "Argentina ensaya su once de gala con Messi para enfrentar a Mauritania",
+        "image_url": "https://qpwebsite.s3.amazonaws.com/uploads/2026/03/rss-efe869f9c434f805bc078137a69035912d7b4631ceaw.jpg",
+        "tags": [
+            "argentina",
+            "mundial 2026",
+            "fútbol"
+        ],
+        "link": "https://quepasamedia.com/deportes/argentina-ensaya-su-once-de-gala-con-messi-para-enfrentar-a-mauritania/",
+        "date": "2026-03-26 01:05:45",
+        "sentiment_score": 0.05444207787513733
+    },
+    {
+        "title": "«El turismo no se deslocaliza ni lo sustituirá la Inteligencia Artificial»",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/uploads/2026/03/25/69c3b58318472.jpeg",
+        "tags": [
+            "deslocaliza",
+            "turismo",
+            "inteligencia",
+            "no",
+            "sustituirá"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20260326/turismo-no-deslocaliza-sustituira-inteligencia-artificial_399591.html",
+        "date": "2026-03-26 03:00:00",
+        "sentiment_score": 0.1767270490527153
+    },
+    {
+        "title": "Lo que esconden las aguas residuales: Valencia y Castellón, entre las ciudades españolas con más consumo de cocaína",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/uploads/2025/07/29/688894d72d2d8.jpeg",
+        "tags": [
+            "drogas"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20260326/esconden-aguas-residuales-valencia-castellon-entre-ciudades-espanolas-consumo-cocaina_398406.html",
+        "date": "2026-03-26 03:00:00",
+        "sentiment_score": 0.19805321097373962
+    },
+    {
+        "title": "Las seis empresas de Menorca galardonadas con el Premio Lidera de PIME",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/4425309.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2026/03/26/2596913/seis-empresas-menorca-galardonadas-premio-lidera-pime.html",
+        "date": "2026-03-26 02:59:01",
+        "sentiment_score": 0.4690258502960205
+    },
+    {
+        "title": "Punto y a parte del ‘Chapi’: «Pienso correr sin presión por medalla o podio; quiero disfrutar»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/4425153.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.menorca.info/deportes/polideportivo/2026/03/26/2596887/punto-parte-del-chapi-pienso-correr-presion-por-medalla-podio-quiero-disfrutar.html",
+        "date": "2026-03-26 02:59:01",
+        "sentiment_score": 0.23719437420368195
+    },
+    {
+        "title": "Daniel Illescas, de 'El desafío', confiesa su destino favorito de las Baleares: «Voy todos los años sin fallar. Es una isla mágica y siempre me siento como en casa»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/4421807.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.menorca.info/vips/television/2026/03/26/2594751/daniel-illescas-desafio-confiesa-destino-favorito-baleares-voy-todos-anos-fallar-isla-magica-siempre-siento-como-casa.html",
+        "date": "2026-03-26 02:48:01",
+        "sentiment_score": 0.4097006916999817
+    },
+    {
+        "title": "David Uclés: «Llegué tarde a la obra de Blai Bonet, pero me ha fascinado»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4425079.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2026/03/26/2596841/david-ucles-llegue-tarde-obra-blai-bonet-pero-fascinado.html",
+        "date": "2026-03-26 02:48:01",
+        "sentiment_score": -0.19363869726657867
+    },
+    {
+        "title": "Puig negocia con Estée Lauder tener acciones de 'primera clase' en la fusión",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/f95aed6a073f3b63255ca2f6bcec6590/resize/600/assets/multimedia/imagenes/2026/03/25/17744763197431.jpg",
+        "tags": [
+            "empresas/distribucion",
+            "distribución",
+            "empresas",
+            "fusiones y adquisiciones"
+        ],
+        "link": "https://www.expansion.com/empresas/distribucion/2026/03/26/69c45484e5fdea41208b458c.html",
+        "date": "2026-03-26 02:39:08",
+        "sentiment_score": 0.18396718055009842
     }
 ];
