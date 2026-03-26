@@ -1,178 +1,5 @@
 export default [
     {
-        "title": "Barcelona logra el 1-0 ante el Rayo Vallecano y aumenta la presión sobre el Real Madrid",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/22132407/barce.png",
-        "tags": [
-            "real madrid",
-            "champions",
-            "barcelona fc"
-        ],
-        "link": "https://bitlysdowssl-aws.com/2026/03/barcelona-logra-el-1-0-ante-el-rayo-vallecano-y-aumenta-la-presion-sobre-el-real-madrid/",
-        "date": "2026-03-22 17:53:20",
-        "sentiment_score": 0.3302411139011383
-    },
-    {
-        "title": "Akliouche marca la diferencia y Mónaco vence al Lyon para conseguir su sexta victoria consecutiva",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "sports",
-            "liga francesa monaco lyon marsella lille rennes",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/liga-francesa-monaco-lyon-marsella-lille-rennes-2729584c9fc41c67d22d40c4567165b1",
-        "date": "2026-03-22 17:46:51",
-        "sentiment_score": 0.7422858290374279
-    },
-    {
-        "title": "El Real Madrid gana antes del triple Clásico; el Tenerife no pierde la cara a Europa",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/22/el-real-madrid-gana-antes-del-triple-clasico-el-tenerife-no-pierde-la-cara-a-europa/",
-        "date": "2026-03-22 17:46:42",
-        "sentiment_score": -0.19717465341091156
-    },
-    {
-        "title": "El Valencia Basket impone la lógica ante el colista y se reencuentra con la victoria",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/291421ce-cfc7-47eb-aacc-07c1057bab81_16-9-aspect-ratio_default_0_x960y523.jpg",
-        "tags": [
-            "covirán granada",
-            "pedro martínez",
-            "roig arena",
-            "valencia basket",
-            "liga endesa"
-        ],
-        "link": "https://www.superdeporte.es/valencia-basket/2026/03/22/valencia-basket-colista-coviran-granada-liga-endesa-cronica-128278723.html",
-        "date": "2026-03-22 17:45:22",
-        "sentiment_score": 0.19626279175281525
-    },
-    {
-        "title": "Nana, el lugar donde el arte acompaña y la infancia encuentra su espacio",
-        "image_url": "https://elfarodemelilla.es/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-22-at-11.52.23.jpeg?v=1774193664",
-        "tags": [
-            "natalia díaz",
-            "asociación nana"
-        ],
-        "link": "https://elfarodemelilla.es/nana-el-lugar-donde-el-arte-acompana-y-la-infancia-encuentra-su-espacio/",
-        "date": "2026-03-22 17:31:28",
-        "sentiment_score": 0.25514792650938034
-    },
-    {
-        "title": "Liga ACB: FC Barcelona - Real Madrid, en directo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/63287f72-7f44-4832-9e01-a29005c78fc0_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "fc barcelona vs real madrid en directo",
-            "partidos acb",
-            "partidos acb en directo",
-            "partidos en directo",
-            "partidos baloncesto",
-            "acb partidos",
-            "fc barcelona vs real madrid",
-            "fc barcelona real madrid en directo"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/deportes/baloncesto/acb/2025-2026/barcelona-r-madrid-30535_10_23_6216_6210.html",
-        "date": "2026-03-22 17:31:03",
-        "sentiment_score": 0.026651866734027863
-    },
-    {
-        "title": "107-91. El ritmo y el rebote bastan al Valencia Basket para doblegar al Granada",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/22/107-91-el-ritmo-y-el-rebote-bastan-al-valencia-basket-para-doblegar-al-granada/",
-        "date": "2026-03-22 18:00:48",
-        "sentiment_score": 0.27010947465896606
-    },
-    {
-        "title": "Expulsada de un ático insalubre justo cuando al fin se reforma: \"Me ha provocado problemas de salud crónicos\"",
-        "image_url": "https://static1.ara.cat/clip/18d95ab4-dee7-4d5d-bcc9-c302f8d1d36d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "justo",
-            "provocado",
-            "salud",
-            "cronicos",
-            "insalubre",
-            "atico",
-            "problemas",
-            "reforma",
-            "expulsada"
-        ],
-        "link": "https://es.ara.cat/economia/inmobiliario/expulsada-atico-insalubre-justo-reforma-provocado-problemas-salud-cronicos_1_5686407.html",
-        "date": "2026-03-22 18:00:43",
-        "sentiment_score": -0.7195124216377735
-    },
-    {
-        "title": "La IA europea no hablará catalán si no es lengua oficial",
-        "image_url": "https://static1.ara.cat/clip/16f39b97-1374-4d88-96d0-657c82555908_16-9-aspect-ratio_default_0_x2174y1356.jpg",
-        "tags": [
-            "catalan",
-            "no",
-            "oficial",
-            "europea",
-            "lengua",
-            "hablara",
-            "ia"
-        ],
-        "link": "https://es.ara.cat/ciencia-tecnologia/ia-europea-no-hablara-catalan-no-lengua-oficial_1_5686405.html",
-        "date": "2026-03-22 18:00:42",
-        "sentiment_score": 0.6775732263922691
-    },
-    {
-        "title": "El sacerdote escolapio Manel Sales admite en un documental haber abusado sexualmente de más de 20 niños en Senegal",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fa08ade3-a208-447b-b4b2-b43e2252b157_alta-libre-aspect-ratio_default_0_x640y240.jpg",
-        "tags": [
-            "pederastia",
-            "abusos sexuales",
-            "iglesia católica",
-            "colegios",
-            "senegal",
-            "abusos sexuales en la iglesia",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260322/sacerdote-manel-sales-escolapios-abusos-sexuales-menores-senegal-documental-la-fugida-128206561",
-        "date": "2026-03-22 18:00:05",
-        "sentiment_score": -0.6295288279652596
-    },
-    {
-        "title": "El primer puente de hormigón armado de Europa está en España y sigue en pie: 134 metros de largo, 24 de alto y resiste hasta 300 toneladas",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/12/vida/1003742740600_15816045_1706x960.jpg",
-        "tags": [
-            "cataluña",
-            "viajes"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/viajes/20260322/primer-puente-hormigon-europa-espana-resiste-toneladas/1003742740595_0.html",
-        "date": "2026-03-22 18:00:00",
-        "sentiment_score": -0.0971316397190094
-    },
-    {
-        "title": "Cuatro jóvenes quedan atrapados en el antiguo Hospital de Esparraguera tras el derrumbe de la estructura",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/36996dd8-fe10-4ef1-9e0f-49b53f908503_alta-libre-aspect-ratio_default_0_x833y369.jpg",
-        "tags": [
-            "sucesos"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260322/cuatro-jovenes-quedan-atrapados-antiguo-hospital-esparreguera-128282967",
-        "date": "2026-03-22 17:54:44",
-        "sentiment_score": -0.8768041720613837
-    },
-    {
-        "title": "Therese seguirá trayendo cielos nubosos y lluvias este lunes, antes de un martes en el que ya llegará la estabilidad",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/22/69c028ab425921-95576482.png",
-        "tags": [
-            "nubosos",
-            "cielos",
-            "therese",
-            "trayendo",
-            "seguirá"
-        ],
-        "link": "https://www.20minutos.es/nacional/therese-seguira-trayendo-cielos-nubosos-lluvias-este-lunes-antes-un-martes-que-ya-llegara-estabilidad_6949184_0.html",
-        "date": "2026-03-22 17:48:37",
-        "sentiment_score": -0.35729799419641495
-    },
-    {
         "title": "Asistencia de taco de Giuliano Simeone y golazo de Nahuel Molina: las perlitas del Atlético de Madrid en la caída ante el Real Madrid",
         "image_url": "https://www.infobae.com/resizer/v2/P5CH7Y26U5CBVBVRMJZLJCQG2M.JPG?auth=308ea3f1ec469ef996b873970f40ab8f533edc93c1c556c2dbc91852242d81b1&smart=true&width=3506&height=1972",
         "tags": [
@@ -3178,5 +3005,249 @@ export default [
         "link": "https://www.expansion.com/empresas/distribucion/2026/03/26/69c45484e5fdea41208b458c.html",
         "date": "2026-03-26 02:39:08",
         "sentiment_score": 0.18396718055009842
+    },
+    {
+        "title": "Brasil vs Francia: cómo, cuándo y dónde ver por TV el choque de selecciones",
+        "image_url": "https://www.periodistadigital.com/wp-content/uploads/2026/03/Brasil-vs-Francia.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.periodistadigital.com/deportes/futbol/20260326/brasil-vs-francia-ver-tv-choque-selecciones-noticia-689405194982/",
+        "date": "2026-03-26 07:11:23",
+        "sentiment_score": 0.4820129945874214
+    },
+    {
+        "title": "07:00H | 26 MAR 2026 | Herrera en COPE",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67cfe50112eb6.jpeg",
+        "tags": [
+            "2026",
+            "07",
+            "26",
+            "00h",
+            "mar"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/07-00h-26-mar-2026-herrera-cope-20260326_3334120.html",
+        "date": "2026-03-26 07:06:00",
+        "sentiment_score": -0.18959055840969086
+    },
+    {
+        "title": "Isa Pantoja rompe su silencio sobre su reconciliación con su madre: \"No quiero dar ningún paso en falso\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260326080409_1200.jpg",
+        "tags": [
+            "kiko rivera",
+            "chabelita",
+            "isabel pantoja"
+        ],
+        "link": "https://www.europapress.es/chance/gente/noticia-isa-pantoja-rompe-silencio-reconciliacion-madre-no-quiero-dar-ningun-paso-falso-20260326080409.html",
+        "date": "2026-03-26 07:04:09",
+        "sentiment_score": -0.7191302925348282
+    },
+    {
+        "title": "Aramark quiere fichar por el Real Madrid",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/03/24/69c2acb10c1eb.jpeg",
+        "tags": [
+            "real",
+            "aramark",
+            "fichar",
+            "quiere",
+            "madrid"
+        ],
+        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260326/1004159661/aramark-quiere-fichar-real-madrid.html",
+        "date": "2026-03-26 07:03:09",
+        "sentiment_score": 0.0467587411403656
+    },
+    {
+        "title": "Patri Gavira: «Sería un error pensar que la temporada ha acabado»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1607caa5-5193-4daf-99cf-0edee49f4206_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "la liga",
+            "costa adeje",
+            "fin de semana",
+            "madrid"
+        ],
+        "link": "https://www.eldia.es/deportes/ud-tenerife/2026/03/26/patri-gavira-seria-error-pensar-128422688.html",
+        "date": "2026-03-26 07:00:21",
+        "sentiment_score": -0.8995182197540998
+    },
+    {
+        "title": "Sorprendente resolución de la sanción a Fede Valverde",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/03/26/69c4d6f773aa0.jpeg",
+        "tags": [
+            "valverde",
+            "fede",
+            "sanción",
+            "resolución",
+            "sorprendente"
+        ],
+        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260326/1004159658/sorprendente-resolucion-sancion-fede-valverde.html",
+        "date": "2026-03-26 07:00:14",
+        "sentiment_score": -0.2626551613211632
+    },
+    {
+        "title": "\"Estamos en un buen momento\"",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/03/25/69c43494a74de.jpeg",
+        "tags": [
+            "soccer)",
+            "sports",
+            "football (association rules"
+        ],
+        "link": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20260326/1004159499/buen-momento.html",
+        "date": "2026-03-26 07:00:00",
+        "sentiment_score": -0.8180151470005512
+    },
+    {
+        "title": "Intestino y cerebro: describen cómo unas células intestinales activan la pérdida de apetito durante una infección",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260326075957_1200.jpg",
+        "tags": [
+            "science",
+            "health"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-intestino-cerebro-describen-celulas-intestinales-activan-perdida-apetito-infeccion-20260326075957.html",
+        "date": "2026-03-26 06:59:57",
+        "sentiment_score": -0.3955334648489952
+    },
+    {
+        "title": "\"No puedes renunciar a jugar en el Real Madrid\"",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/12/17/6761b5c6e86d3.r_d.1313-717-0.jpeg",
+        "tags": [
+            "real",
+            "puedes",
+            "jugar",
+            "madrid",
+            "renunciar"
+        ],
+        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260326/1004159650/puedes-renunciar-jugar-real-madrid.html",
+        "date": "2026-03-26 06:54:32",
+        "sentiment_score": -0.5675198808312416
+    },
+    {
+        "title": "En Madrid hay 23.246 'influencers' y la mayoría son mujeres: \"Aún no hemos tocado techo, las cifras lo demuestran\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cc9ecf8d-b657-4e30-a917-fe5c1c448bba_16-9-aspect-ratio_default_0_x600y232.jpg",
+        "tags": [
+            "influencers",
+            "instagram",
+            "redes sociales",
+            "madrid",
+            "tiktok"
+        ],
+        "link": "https://www.elcorreogallego.es/sociedad/2026/03/26/madrid-23-246-influencers-mujeres-mayoria-espana-128426163.html",
+        "date": "2026-03-26 06:50:02",
+        "sentiment_score": -0.1690765619277954
+    },
+    {
+        "title": "Rosalía interrumpe su concierto en Milán por problemas de salud: \"No puedo seguir\"",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2826184.jpg",
+        "tags": [
+            "milan",
+            "0",
+            "conciertos",
+            "salud"
+        ],
+        "link": "https://www.vozpopuli.com/altavoz/cultura/rosalia-interrumpe-su-concierto-en-milan-por-problemas-de-salud-no-puedo-seguir.html",
+        "date": "2026-03-26 07:17:11",
+        "sentiment_score": -0.6368625685572624
+    },
+    {
+        "title": "Estado de los embalses hoy, 26 de marzo en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a2bbd5f2-19db-45a5-bffc-fce1e0d25a7b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "otoño",
+            "lluvias",
+            "sequía",
+            "embalses",
+            "agua"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260326/embalses-hoy-26-marzo-cataluna-dv-128428025",
+        "date": "2026-03-26 07:17:07",
+        "sentiment_score": 0.6756476387381554
+    },
+    {
+        "title": "Noelia será la persona más joven en recibir la eutanasia en España y la sexta paciente psiquiátrica catalana que accederá a la muerte digna",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f0535a50-a5b3-4a60-9e48-ea1b1770108f_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "salud mental",
+            "ministerio de sanidad",
+            "eutanasia"
+        ],
+        "link": "https://www.elcorreoweb.es/sociedad/2026/03/26/noelia-espanola-mas-joven-eutanasia-sexta-paciente-psiquiatrica-cataluna-128425497.html",
+        "date": "2026-03-26 07:14:31",
+        "sentiment_score": -0.004970729351043701
+    },
+    {
+        "title": "La competencia por los pisos de alquiler en León se multiplica por seis",
+        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2026/03/24/WhatsApp%20Image%202026-03-24%20at%2011.41.56-knnC--758x531@Leonoticias.jpg",
+        "tags": [
+            "vivienda",
+            "alquiler"
+        ],
+        "link": "https://www.leonoticias.com/leon/competencia-pisos-alquiler-leon-multiplica-seis-20260326133702-nt.html",
+        "date": "2026-03-26 07:09:17",
+        "sentiment_score": 0.22202865406870842
+    },
+    {
+        "title": "La inversión en fondos de deuda privada en España se limita a 913 millones",
+        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA6M0QA_L.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://es.investing.com/news/economy-news/la-inversion-en-fondos-de-deuda-privada-en-espana-se-limita-a-913-millones-3578565",
+        "date": "2026-03-26 07:08:15",
+        "sentiment_score": -0.08837075531482697
+    },
+    {
+        "title": "La eutanasia de Noelia y los días \"malosos\" de Rodalies",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/26/actualidad/1003742745508_15883858_1706x960.jpg",
+        "tags": [
+            "rodalies",
+            "okupas",
+            "desahucio",
+            "vivienda",
+            "junts per catalunya",
+            "salud",
+            "eutanasia",
+            "barcelona",
+            "gràcia",
+            "gabriel rufián"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260326/eutanasia-noelia-dias-malosos-rodalies/1003742745503_0.html",
+        "date": "2026-03-26 07:07:32",
+        "sentiment_score": -0.886624495498836
+    },
+    {
+        "title": "La nueva KLE 500 ya ha llegado a nuestros concesionarios y con la posibilidad de poder probarla a fondo",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/03/25/69c3aadfe102a.r_d.1500-1000-0.jpeg",
+        "tags": [
+            "500",
+            "kle",
+            "llegado",
+            "probarla",
+            "nueva",
+            "fondo",
+            "posibilidad",
+            "concesionarios"
+        ],
+        "link": "https://www.mundodeportivo.com/solomoto/20260326/1004159115/nueva-kle-500-llegado-concesionarios-posibilidad-probarla-fondo.html",
+        "date": "2026-03-26 07:02:48",
+        "sentiment_score": 0.582331694662571
+    },
+    {
+        "title": "Un mosso rompe un escaparate histórico de Barcelona durante una detención y otro ladrón le roba el móvil",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f3d2f9ac-06b1-42c8-8a28-9e553d4bb480_alta-libre-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "humor",
+            "barcelona",
+            "delincuencia",
+            "mossos d'esquadra",
+            "robos",
+            "sucesos",
+            "redes sociales",
+            "vandalismo",
+            "twitter",
+            "tiendas"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20260326/barcelona-mosso-rompe-escaparate-ladron-roba-movil-128427097",
+        "date": "2026-03-26 07:02:16",
+        "sentiment_score": -0.26208145916461945
     }
 ];
