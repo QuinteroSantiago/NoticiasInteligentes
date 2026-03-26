@@ -1,553 +1,5 @@
 export default [
     {
-        "title": "UCAM Murcia sigue firme arriba al batir al BAXI Manresa",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/e0c4e2d7-105f-4034-94e6376413d3ca57.jpg",
-        "tags": [
-            "joan plaza",
-            "fichajes",
-            "fc barcelona",
-            "pabellón príncipe felipe",
-            "txus vidorreta",
-            "real madrid",
-            "casademont zaragoza",
-            "morabanc andorra",
-            "unicaja",
-            "valencia basket",
-            "liga endesa",
-            "ucam murcia",
-            "champions league",
-            "málaga",
-            "liga acb"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z0cacfd25-6ce6-4fd8-b1988130e632ee3a/202603/ucam-murcia-sigue-firme-arriba-al-batir-al-baxi-manresa",
-        "date": "2026-03-21 22:14:41",
-        "sentiment_score": 0.4266427010297775
-    },
-    {
-        "title": "Otro 'match-ball' del Gobierno: «No podíamos ir a Semana Santa con la gasolina disparada»",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/03/22/sanchez-diaz-congreso-k0DD-U2013297561624EG-758x531@RC.jpg",
-        "tags": [
-            "pedro sánchez",
-            "yolanda díaz",
-            "consejo de ministros"
-        ],
-        "link": "https://www.canarias7.es/nacional/politica/matchball-gobierno-podiamos-semana-santa-gasolina-disparada-20260322175006-ntrc.html",
-        "date": "2026-03-21 22:08:42",
-        "sentiment_score": -0.307145394384861
-    },
-    {
-        "title": "UCAM sigue firme arriba y Mills lidera el asalto al Carpena de La Laguna Tenerife",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260321230824_1200.jpg",
-        "tags": [
-            "universidad católica san antonio de murcia"
-        ],
-        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-ucam-sigue-firme-arriba-mills-lidera-asalto-carpena-laguna-tenerife-20260321230824.html",
-        "date": "2026-03-21 22:08:24",
-        "sentiment_score": 0.3927178308367729
-    },
-    {
-        "title": "Sevilla 0 - 2 Valencia | Resumen, goles y resultado del partido de hoy",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260321230741_1200.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.europapress.es/deportes/estadisticas-deportivas/noticia-sevilla-valencia-resumen-goles-resultado-partido-hoy-20260321230741.html",
-        "date": "2026-03-21 22:07:41",
-        "sentiment_score": 0.08953365683555603
-    },
-    {
-        "title": "La ciudadanía en Madrid reivindica ‘No a la guerra’ contra la invasión en Irán",
-        "image_url": "https://www.infobae.com/resizer/v2/Z5BVTRSDQZEWHKF5V2OS3B6JVU.JPG?auth=1f90d63b48ff5fedc64d1adaf75bd4d196daaa53afb85397b7ad890c42c1064a&smart=true&width=2000&height=1347",
-        "tags": [
-            "estados unidos",
-            "españa-sociedad",
-            "guerra en medio oriente",
-            "pedro sánchez",
-            "españa-noticias",
-            "javier bardem",
-            "irán",
-            "manifestaciones españa",
-            "discursos"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/21/la-ciudadania-en-madrid-reivindica-no-a-la-guerra-contra-la-invasion-en-iran/",
-        "date": "2026-03-21 22:02:18",
-        "sentiment_score": -0.4407452642917633
-    },
-    {
-        "title": "Alcaraz regresa a Miami para reescribir su historia en el Masters 1000",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/18/2026011813354181506.jpg",
-        "tags": [
-            "carlos alcaraz",
-            "masters 1000 miami open",
-            "alcaraz"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/alcaraz-regresa-miami-reescribir-historia-masters-1000/20260321230029379645.html",
-        "date": "2026-03-21 22:00:29",
-        "sentiment_score": 0.5985842198133469
-    },
-    {
-        "title": "Miles de personas se manifiestan en Madrid bajo el lema de \"No a la guerra\": exigen que se ponga freno a la escalada militar",
-        "image_url": "https://album.mediaset.es/eimg/2026/03/21/miles-de-personas-se-manifiestan-en-madrid-bajo-el-lema-de-no-a-la-guerra-exigen-que-se-ponga-freno_da39-2.jpg?w=1024",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.telecinco.es/noticias/madrid/20260321/miles-personas-manifiestan-madrid-exigen-freno-escalada-militar_18_018685435.html",
-        "date": "2026-03-21 21:51:33",
-        "sentiment_score": -0.8529309630393982
-    },
-    {
-        "title": "Sinner iguala a Djokovic y firma una racha histórica en Masters 1000",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/04/2025060423494694769.jpg",
-        "tags": [
-            "wta tenis",
-            "jannik sinner",
-            "wta",
-            "novak djokovic"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/sinner-iguala-djokovic-firma-racha-historica-masters-1000/20260321224435379644.html",
-        "date": "2026-03-21 21:44:35",
-        "sentiment_score": 0.8086597621440887
-    },
-    {
-        "title": "La España vaciada acumula el 45% del total de casas vacías: \"Si resolvemos la vivienda aquí, resolvemos también parte del problema de las ciudades\"",
-        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/graficos/1773995407_990x0.jpg",
-        "tags": [
-            "economia",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/economia/2026/03/21/69bd277921efa0d8178b4593.html",
-        "date": "2026-03-21 21:39:07",
-        "sentiment_score": -0.7435687705874443
-    },
-    {
-        "title": "El sector turístico de Málaga alza la voz: «El impacto del corte del AVE es incalculable, pero ya se nota»",
-        "image_url": "https://www.alertadigital.com/wp-content/uploads/2026/03/procesion.webp",
-        "tags": [
-            "economía",
-            "tecnología",
-            "daily",
-            "news",
-            "ultimas noticias",
-            "internet",
-            "cataluña",
-            "technology",
-            "buscador",
-            "alerta digital",
-            "catalunya",
-            "navegante",
-            "metropoli",
-            "periódico",
-            "newspaper",
-            "salud",
-            "alertadigital.com",
-            "periodico",
-            "economia",
-            "opinion",
-            "deportes",
-            "sport",
-            "noticias",
-            "madrid",
-            "breaking news",
-            "internacional",
-            "spain",
-            "politica",
-            "españa",
-            "diario",
-            "tiempo",
-            "espana",
-            "weather",
-            "alertadigital",
-            "dinero",
-            "urgente"
-        ],
-        "link": "https://www.alertadigital.com/2026/03/21/el-sector-turistico-de-malaga-alza-la-voz-el-impacto-del-corte-del-ave-es-incalculable-pero-ya-se-nota/",
-        "date": "2026-03-21 21:32:22",
-        "sentiment_score": -0.9040211690589786
-    },
-    {
-        "title": "El Barcelona supera al Palma y se disputará la Copa de España con el Jaén en Granada",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/03/21/copa-barsa-palma-semifinal-baldo%20(29)-knb--758x531@Ideal.jpg",
-        "tags": [
-            "copa del rey de fútbol",
-            "f.c. barcelona",
-            "jaén",
-            "españa",
-            "palma de mallorca"
-        ],
-        "link": "https://www.ideal.es/deportes/provincial-granada/barcelona-supera-palma-disputara-copa-espana-jaen-20260321232332-nt.html",
-        "date": "2026-03-21 22:23:35",
-        "sentiment_score": 0.1872974932193756
-    },
-    {
-        "title": "El Palma Futsal naufraga en 'semis' y extiende el maleficio nacional",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4420569.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.ultimahora.es/deportes/palma-futsal/2026/03/21/2594183/fcb-palma-futsal.html",
-        "date": "2026-03-21 22:19:00",
-        "sentiment_score": -0.3786369115114212
-    },
-    {
-        "title": "Maxi López sorprendió al revelar cuál fue la mayor cantidad de dinero que ganó en un mes",
-        "image_url": "https://www.infobae.com/resizer/v2/CYJYQP7XY5BW3K2IIED34EVY7Q.jpg?auth=953a5106ed8a5006a7f904c34a846b6207292061b64b94ad23411e392719be97&smart=true&width=1920&height=1080",
-        "tags": [
-            "maxi lopez",
-            "masterchef"
-        ],
-        "link": "https://www.infobae.com/teleshow/2026/03/21/maxi-lopez-sorprendio-al-revelar-cual-fue-la-mayor-cantidad-de-dinero-que-gano-en-un-mes/",
-        "date": "2026-03-21 22:15:02",
-        "sentiment_score": 0.6526233647018671
-    },
-    {
-        "title": "0-4. El PSG golea y recupera el liderato; Dro se estrena",
-        "image_url": "https://qpwebsite.s3.amazonaws.com/uploads/2026/03/rss-efe02356bb297b7b4cb5eb0f34f3a717eeb0ecb76e1w.jpg",
-        "tags": [
-            "fútbol",
-            "psg"
-        ],
-        "link": "https://quepasamedia.com/deportes/0-4-el-psg-golea-y-recupera-el-liderato-dro-se-estrena/",
-        "date": "2026-03-21 22:13:25",
-        "sentiment_score": 0.27756090462207794
-    },
-    {
-        "title": "El Barcelona castiga al Athletic y vuelve a golearle",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2026/03/21/barcelona-nueva56-kaXD--758x531@El%20Correo.jpg",
-        "tags": [
-            "f.c. barcelona",
-            "athletic de bilbao"
-        ],
-        "link": "https://www.elcorreo.com/deporte-femenino/futbol/athletic-femenino/barcelona-castiga-athletic-vuelve-golearle-20260321231252-nt.html",
-        "date": "2026-03-21 22:12:55",
-        "sentiment_score": -0.5949509292840958
-    },
-    {
-        "title": "Sólo ocho días duró el suministro de agua en Aragua de Barcelona",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://eltiempove.com/solo-ocho-dias-duro-el-suministro-de-agua-en-aragua-de-barcelona/",
-        "date": "2026-03-21 22:00:00",
-        "sentiment_score": -0.6393046360462904
-    },
-    {
-        "title": "Ibon Navarro: \"Puedo armar un follón, pero el equipo está muerto\"",
-        "image_url": "https://static.grupojoly.com/clip/c27341bb-98de-4aed-9c51-34dab08bc31e_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unicaja baloncesto"
-        ],
-        "link": "https://www.malagahoy.es/unicaja/ibon-navarro-armar-follon-equipo_0_2006248399.html",
-        "date": "2026-03-21 21:54:30",
-        "sentiment_score": -0.26025666296482086
-    },
-    {
-        "title": "Ibon Navarro, tras la derrota del Unicaja con el Tenerife: \"Hemos llegado blandos, sin colmillo\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e884fce4-7ccc-4399-98ba-fbf1dc0ad2b5_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "energía",
-            "gente",
-            "la laguna",
-            "unicaja",
-            "tenerife",
-            "ibon navarro"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2026/03/21/ibon-navarro-tenerife-entrenador-unicaja-128261865.html",
-        "date": "2026-03-21 21:49:54",
-        "sentiment_score": -0.9245901415124536
-    },
-    {
-        "title": "El ascenso del Rugby Turia deberá esperar",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/71495514-8ecb-4a3a-b2ae-d2687a9d9031_16-9-aspect-ratio_default_0_x980y454.jpg",
-        "tags": [
-            "rugby",
-            "turia",
-            "iberdrola"
-        ],
-        "link": "https://www.superdeporte.es/polideportivo/2026/03/21/ascenso-turia-debera-esperar-barca-rugby-liga-iberdrola-128263290.html",
-        "date": "2026-03-21 21:46:50",
-        "sentiment_score": 0.7801947519183159
-    },
-    {
-        "title": "Albanese exige el fin la \"limpieza étnica\" de Israel en los territorios palestinos ocupados",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260322024329_1200.jpg",
-        "tags": [
-            "jerusalén",
-            "israel",
-            "onu",
-            "palestina"
-        ],
-        "link": "https://www.europapress.es/internacional/noticia-albanese-exige-fin-limpieza-etnica-israel-territorios-palestinos-ocupados-20260322024329.html",
-        "date": "2026-03-22 01:43:29",
-        "sentiment_score": -0.8971894346177578
-    },
-    {
-        "title": "\"Los terroristas han ganado\": la libertad de 'Anboto', fruto de los pactos PSOE-Bildu, conmociona a las víctimas de ETA",
-        "image_url": "https://s3.elespanol.com/2026/03/21/actualidad/1003744179164_262068605_1706x960.jpg",
-        "tags": [
-            "víctimas terrorismo",
-            "bildu",
-            "fernando buesa",
-            "eta",
-            "país vasco",
-            "avt asociación de víctimas del terrorismo",
-            "arnaldo otegi",
-            "miguel ángel blanco",
-            "dignidad y justicia",
-            "francia"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20260322/terroristas-ganado-libertad-anboto-fruto-pactos-psoe-bildu-conmociona-victimas-eta/1003744179158_0.html",
-        "date": "2026-03-22 01:21:32",
-        "sentiment_score": -0.6533132437616587
-    },
-    {
-        "title": "Sin salón, sin convivencia: el auge del piso compartido sin espacios comunes que encierra a los jóvenes en su cuarto",
-        "image_url": "https://s3.elespanol.com/2026/03/10/actualidad/1003744163614_261861860_1706x960.jpg",
-        "tags": [
-            "vivienda",
-            "observatorio de la vivienda",
-            "habitación",
-            "arquitectura",
-            "alquiler de viviendas"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20260322/sin-salon-sin-convivencia-auge-piso-compartido-espacios-comunes-encierra-jovenes-cuarto/1003744173715_0.html",
-        "date": "2026-03-22 01:20:34",
-        "sentiment_score": 0.0354449599981308
-    },
-    {
-        "title": "Real Madrid vs. Atlético de Madrid: estas son las posibles alineaciones del derbi",
-        "image_url": "https://pxcdn.2001online.com/2001/032026/1774138005692/manchester-city-fc-v-real-madrid-cf-uefa-champions-league-2025-26-round-of-16-second-leg%20(3).jpg?cw=1170&ch=645",
-        "tags": [
-            "vinicius jr",
-            "kylian mbappé",
-            "atlético de madrid",
-            "derbi madrileño",
-            "real madrid",
-            "españa",
-            "laliga"
-        ],
-        "link": "https://2001online.com/deportes/real-madrid-vs-atletico-de-madrid-estas-son-las-posibles-alineaciones-del-derbi-20263212100",
-        "date": "2026-03-22 01:18:00",
-        "sentiment_score": -0.021839097142219543
-    },
-    {
-        "title": "General Ballesteros: \"El problema que tendría España si cortara con EEUU multiplicaría por 100 el generado con Israel\"",
-        "image_url": "https://s3.elespanol.com/2026/03/21/actualidad/1003744179104_262067941_1706x1280.jpg",
-        "tags": [
-            "ministerio de defensa",
-            "geopolítica",
-            "irán",
-            "defensa",
-            "fuerzas armadas",
-            "donald trump",
-            "estados unidos",
-            "rusia",
-            "consejo seguridad nacional",
-            "seguridad nacional"
-        ],
-        "link": "https://www.elespanol.com/espana/20260322/general-ballesteros-problema-espana-cortara-eeuu-multiplicaria-generado-israel/1003744173830_0.html",
-        "date": "2026-03-22 00:49:40",
-        "sentiment_score": -0.8471083752810955
-    },
-    {
-        "title": "San Francisco no puede más: «Los delincuentes se han apoderado del barrio y se ríen de la Policía»",
-        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2026/03/22/san-francisco--758x531.jpg",
-        "tags": [
-            "policía",
-            "san francisco",
-            "bilbao"
-        ],
-        "link": "https://www.elcorreo.com/bizkaia/san-francisco-quiere-zona-evitar-20260322203400-nt.html",
-        "date": "2026-03-22 00:17:22",
-        "sentiment_score": -0.8510821424424648
-    },
-    {
-        "title": "21 MAR 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/01/20/678e8eae3dd99.jpeg",
-        "tags": [
-            "21",
-            "tramo",
-            "2026",
-            "final",
-            "mar"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/21-mar-2026-tramo-final-juego-20260322_3331328.html",
-        "date": "2026-03-22 00:15:00",
-        "sentiment_score": -0.21340320259332657
-    },
-    {
-        "title": "2a PARTE | 21 MAR 2026 | TIEMPO DE JUEGO",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/01/20/678e8eae3dd99.jpeg",
-        "tags": [
-            "21",
-            "mar",
-            "2ª",
-            "parte",
-            "2026"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/2a-parte-21-mar-2026-juego-20260322_3331325.html",
-        "date": "2026-03-21 23:51:56",
-        "sentiment_score": 0.292712964117527
-    },
-    {
-        "title": "Así queda el Casademont Zaragoza en la clasificación de la Liga Endesa",
-        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/03/21/69bf1041dcc349-43766174.jpeg",
-        "tags": [
-            "clasificación",
-            "así",
-            "casademont",
-            "zaragoza",
-            "queda"
-        ],
-        "link": "https://www.heraldo.es/noticias/deportes/baloncesto/2026/03/22/asi-queda-casademont-zaragoza-clasificacion-liga-endesa-2005713.html",
-        "date": "2026-03-21 23:39:27",
-        "sentiment_score": -0.1707276701927185
-    },
-    {
-        "title": "Chimezie Metu, el esperado salvador del CB Gran Canaria",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6484f19e-af8f-4412-a8d2-eabfbd47c0a3_16-9-aspect-ratio_default_0_x600y300.jpg",
-        "tags": [
-            "afición",
-            "isla",
-            "gran canaria",
-            "euroliga",
-            "cb gran canaria"
-        ],
-        "link": "https://www.laprovincia.es/cb-gran-canaria/2026/03/22/chimezie-metu-esperado-salvador-cb-128265206.html",
-        "date": "2026-03-21 23:31:13",
-        "sentiment_score": 0.01836484670639038
-    },
-    {
-        "title": "Pronóstico del clima: las temperaturas esperadas en Barcelona este 22 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&smart=true&width=1920&height=1080",
-        "tags": [
-            "clima en barcelona",
-            "últimas actualizaciones",
-            "clima en españa",
-            "clima"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/22/pronostico-del-clima-las-temperaturas-esperadas-en-barcelona-este-22-de-marzo/",
-        "date": "2026-03-22 02:00:36",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "H. Ball (Atomico): \"La ambición no cerrará por sí sola la brecha en valoraciones de las startups españolas: hay que salir a bolsa\"",
-        "image_url": "https://s3.elespanol.com/2026/03/17/actualidad/1003744173667_261995919_1706x960.jpg",
-        "tags": [
-            "startup",
-            "emprendedores",
-            "innovación",
-            "fondos de inversión",
-            "emprendedores de éxito",
-            "inversores",
-            "tecnología"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/inversores/20260322/ball-atomico-ambicion-no-cerrara-sola-brecha-valoraciones-startups-espanolas-salir-bolsa/1003744173663_0.html",
-        "date": "2026-03-22 01:28:04",
-        "sentiment_score": 0.5568266324698925
-    },
-    {
-        "title": "Veolia lleva el agua a todas las personas a través de la innovación",
-        "image_url": "https://www.eldia.es/ideas/dia-mundial-del-agua-2026/images/redes/redes.jpg",
-        "tags": [
-            "dia mundial del agua 2026"
-        ],
-        "link": "https://www.elperiodico.com/ideas/dia-mundial-del-agua-2026/index-epc.html",
-        "date": "2026-03-22 00:59:21",
-        "sentiment_score": 0.3771210163831711
-    },
-    {
-        "title": "El antídoto del BIHUB para la plaga de lesiones que explica las 80 bajas del Barça de Flick: la huella epigenética como medicina de prevención",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/04/culemania/primer-equipo/1003742738168_15866042_1706x960.jpg",
-        "tags": [
-            "barça",
-            "hansi flick",
-            "palco",
-            "lesiones"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260322/antidoto-bihub-lesiones-barca-flick-epigenetica-prevencion/1003742744168_0.html",
-        "date": "2026-03-22 00:45:47",
-        "sentiment_score": -0.12089546769857407
-    },
-    {
-        "title": "Así será la nueva Barça Store del Spotify Camp Nou: triple diamante con gradas en el techo y adiós a la 'Botiga' actual",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/21/culemania/palco/1003742744180_15866133_1706x960.jpg",
-        "tags": [
-            "espai barça",
-            "camp nou",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260322/barca-store-spotify-camp-nou-diamante-botiga/1003742744179_0.html",
-        "date": "2026-03-22 00:45:29",
-        "sentiment_score": -0.11195448040962219
-    },
-    {
-        "title": "Valencia no deja de abrir gimnasios: más del doble en una década",
-        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2026/03/22/gimnasios-domingo-noticia.jpg",
-        "tags": [
-            "competencia",
-            "invade",
-            "gimnasios",
-            "valencia"
-        ],
-        "link": "https://www.lasprovincias.es/comunitat/competencia-gimnasios-invade-valencia-20260306172409-nt.html",
-        "date": "2026-03-22 00:42:40",
-        "sentiment_score": 0.11412700265645981
-    },
-    {
-        "title": "Manuel y Adrián han creado el imperio inmobiliario Redpiso con 6.000 operaciones en un año: \"En Madrid se vende todo\"",
-        "image_url": "https://s3.elespanol.com/2026/03/19/actualidad/1003744176192_262030210_1706x960.jpg",
-        "tags": [
-            "madrid",
-            "sociedad",
-            "sector inmobiliario",
-            "comunidad de madrid"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20260322/manuel-adrian-creado-imperio-inmobiliario-redpiso-operaciones-ano-madrid-vende/1003744175273_0.html",
-        "date": "2026-03-22 00:32:12",
-        "sentiment_score": 0.40258919820189476
-    },
-    {
-        "title": "El ala dura del trumpismo apuesta por llevar las bases a Marruecos y aumentar la presión sobre Ceuta y Melilla",
-        "image_url": "https://s3.elespanol.com/2026/03/21/actualidad/1003744179131_262068343_1706x960.jpg",
-        "tags": [
-            "porfolio",
-            "reportajes-newsletter-destacada",
-            "mohamed vi",
-            "donald trump",
-            "ceuta",
-            "melilla",
-            "pedro sánchez",
-            "estados unidos",
-            "marcha verde",
-            "marruecos"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260322/ala-dura-trumpismo-apuesta-llevar-bases-marruecos-aumentar-presion-ceuta-melilla/1003744178324_0.html",
-        "date": "2026-03-22 00:30:22",
-        "sentiment_score": -0.44459395855665207
-    },
-    {
-        "title": "Luisa Sandoval, turista sanitaria en España: trajo a su hijo a curar una enfermedad a Barcelona que en Perú \"costaba 1.000 €\"",
-        "image_url": "https://s3.elespanol.com/2026/03/20/actualidad/1003744178271_262056469_1706x960.jpg",
-        "tags": [
-            "porfolio",
-            "reportajes",
-            "perú",
-            "sanidad",
-            "salud pública",
-            "reportajes-newsletter",
-            "cataluña",
-            "barcelona"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20260322/luisa-sandoval-turista-sanitaria-espana-trajo-hijo-curar-enfermedad-barcelona-peru-costaba-eur/1003744170307_0.html",
-        "date": "2026-03-22 00:08:57",
-        "sentiment_score": -0.7746573034673929
-    },
-    {
         "title": "Horario y TV del Alcaraz vs Korda en el Miami Open 2026 desde España",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/30/2025063019373281038.jpg",
         "tags": [
@@ -605,102 +57,6 @@ export default [
         "link": "https://www.mundiario.com/articulo/deportes/real-oviedo-necesita-autentico-milagro-mantenerse-primera/20260322070938379674.html",
         "date": "2026-03-22 06:09:38",
         "sentiment_score": -0.8952207211405039
-    },
-    {
-        "title": "La candidatura de Cáceres a Capital Europea de la Cultura 2031: visibilidad, inversión y futuro",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/40c48a78-4365-445e-8c4a-0dbde66c31d7_16-9-aspect-ratio_default_0_x609y270.jpg",
-        "tags": [
-            "las palmas de gran canaria",
-            "capitalidad 2031",
-            "oviedo",
-            "cultura",
-            "granada",
-            "europa",
-            "unión europea",
-            "futuro",
-            "cáceres"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres-local/2026/03/22/candidatura-caceres-capital-europea-cultura-visibilidad-inversion-futuro-128235108.html",
-        "date": "2026-03-22 06:01:11",
-        "sentiment_score": 0.2988269031047821
-    },
-    {
-        "title": "Viernes Santo en Sevilla 2026: dónde ver las procesiones, horarios clave e itinerarios oficiales",
-        "image_url": "https://static.grupojoly.com/clip/8ccc686b-f5e7-435a-9fac-77a084f78ca0_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "viernes santo",
-            "semana santa sevilla"
-        ],
-        "link": "https://www.diariodesevilla.es/semana_santa/guia-viernes-santo-semana-santa-sevilla-2026_0_2006090274.html",
-        "date": "2026-03-22 06:00:44",
-        "sentiment_score": 0.02447805553674698
-    },
-    {
-        "title": "Bárbara Lennie, de actriz mágica a chica Almodóvar",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/70fdfd62-ff73-40f2-8737-4772596e93a0_alta-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "entender más",
-            "navidad",
-            "pedro almodóvar",
-            "películas"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20260322/barbara-lennie-actriz-magica-chica-128169876",
-        "date": "2026-03-22 06:00:37",
-        "sentiment_score": -0.007962286472320557
-    },
-    {
-        "title": "Así fue la vida universitaria de la Infanta Cristina en los años 80",
-        "image_url": "https://okdiario.com/look/img/2025/02/26/dl_u438094_034.jpg",
-        "tags": [
-            "infanta cristina"
-        ],
-        "link": "https://okdiario.com/look/casa-real/infanta-cristina-universidad-anos-80-vida-estudiante-complutense-2505871",
-        "date": "2026-03-22 06:00:16",
-        "sentiment_score": -0.16360412538051605
-    },
-    {
-        "title": "\"La mejor la defensa de Málaga no es ponerse una camiseta diciendo 'aliquindoi', es respetar nuestra historia\"",
-        "image_url": "https://s3.elespanol.com/2026/03/20/actualidad/1003744178595_262060992_1706x960.jpg",
-        "tags": [
-            "málaga (municipio)",
-            "a título personal",
-            "rehabilitación de edificios",
-            "arquitectura",
-            "málaga"
-        ],
-        "link": "https://www.elespanol.com/malaga/20260322/mejor-defensa-malaga-no-ponerse-camiseta-diciendo-aliquindoi-respetar-historia/1003744178238_0.html",
-        "date": "2026-03-22 05:50:00",
-        "sentiment_score": -0.2760269343852997
-    },
-    {
-        "title": "Simeone arma un Atlético condicionado por las bajas para asaltar el Bernabéu",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/02/15/2026021519032968884.jpg",
-        "tags": [
-            "atleti",
-            "real madrid",
-            "diego simeone",
-            "sorloth",
-            "laliga",
-            "derbi-madrileno",
-            "atl&eacute;tico de madrid"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/simeone-arma-atletico-condicionado-bajas-asaltar-bernabeu/20260322063506379673.html",
-        "date": "2026-03-22 05:35:06",
-        "sentiment_score": -0.6183469444513321
-    },
-    {
-        "title": "Charo Olarte, de la Marbella de los árabes al Madrid de los artistas",
-        "image_url": "https://static.grupojoly.com/clip/ca1fb551-c620-4766-b3df-66641f6533af_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "marbella",
-            "charo",
-            "olarte",
-            "arabes",
-            "madrid"
-        ],
-        "link": "https://www.malagahoy.es/marbella/charo-olarte-marbella-arabes-madrid_0_2006247386.html",
-        "date": "2026-03-22 05:30:54",
-        "sentiment_score": -0.8782728053629398
     },
     {
         "title": "El balance de un año marcado por el apagón",
@@ -800,30 +156,6 @@ export default [
         "link": "https://www.malagahoy.es/malaga/grandes-acrobacias-fantasia-humor-mirada-circo-sol-malaga_0_2006198552.html",
         "date": "2026-03-22 06:10:13",
         "sentiment_score": 0.3340008221566677
-    },
-    {
-        "title": "La ‘odisea’ de empresarios malagueños para ir a Madrid: \"En el avión ya nos conocemos todos\"",
-        "image_url": "https://static.grupojoly.com/clip/0dfd773d-e9f7-4ebf-8065-2250d046b509_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias málaga",
-            "transporte málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/odisea-empresarios-malaguenos-ir-madrid-avion_0_2006238675.html",
-        "date": "2026-03-22 06:05:09",
-        "sentiment_score": -0.8055812511593103
-    },
-    {
-        "title": "Visión y especialización inteligente: los pilares del ‘tech hub’ de Málaga",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c3d9d10f-9b0e-41d0-941f-8077e5588919_16-9-aspect-ratio_default_0_x947y382.jpg",
-        "tags": [
-            "transporte",
-            "quirós",
-            "tecnología",
-            "talento"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2026/03/22/vision-especializacion-inteligente-pilares-tech-128262827.html",
-        "date": "2026-03-22 06:01:25",
-        "sentiment_score": -0.16672855615615845
     },
     {
         "title": "Barcelona logra el 1-0 ante el Rayo Vallecano y aumenta la presión sobre el Real Madrid",
@@ -3317,5 +2649,238 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260325/erc-vez-carga-irpf-alquileres/1003742745088_0.html",
         "date": "2026-03-25 06:44:49",
         "sentiment_score": -0.9153467379510403
+    },
+    {
+        "title": "18:00H | 25 MAR 2026 | La Tarde",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67d05b36b2414.jpeg",
+        "tags": [
+            "2026",
+            "00h",
+            "25",
+            "18",
+            "mar"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/18-00h-25-mar-2026-tarde-20260325_3333984.html",
+        "date": "2026-03-25 18:05:00",
+        "sentiment_score": -0.5796993970870972
+    },
+    {
+        "title": "VOX insta al Congreso a derogar el RD de universalidad de Sanidad porque \"los españoles deben ser siempre los primeros\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260325190349_1200.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infosalus.com/actualidad/noticia-vox-insta-congreso-derogar-rd-universalidad-sanidad-porque-espanoles-deben-ser-siempre-primeros-20260325190349.html",
+        "date": "2026-03-25 18:03:49",
+        "sentiment_score": 0.07038621604442596
+    },
+    {
+        "title": "Un partido de sanción a Fede Valverde",
+        "image_url": "https://laconexionusa.com/wp-content/uploads/2026/03/rss-efe28fac9dd9c457874fd663684309dadfc768a5247w-1000x600.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://laconexionusa.com/un-partido-de-sancion-a-fede-valverde/",
+        "date": "2026-03-25 17:57:49",
+        "sentiment_score": -0.16650686413049698
+    },
+    {
+        "title": "Griezmann se entrena de nuevo con el Atlético tras cerrar su fichaje por el Orlando City",
+        "image_url": "https://laconexionusa.com/wp-content/uploads/2026/03/rss-efef59084a9b33af61138daa02f2ce97d8507fe0ba9w-1000x600.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://laconexionusa.com/griezmann-se-entrena-de-nuevo-con-el-atletico-tras-cerrar-su-fichaje-por-el-orlando-city/",
+        "date": "2026-03-25 17:57:43",
+        "sentiment_score": 0.1873180903494358
+    },
+    {
+        "title": "Laura Gómez (2a jefa de la Comandancia de la Guardia Civil de Guadalajara): \"No es una profesión. Es un modo de vida\"",
+        "image_url": "https://www.cope.es/files/og_thumbnail/files/fp/uploads/2026/03/25/69c414323f9dc.r_d.1034-944-0.jpeg",
+        "tags": [
+            "benemérita",
+            "comandancia de la guardia civil de guadalajara",
+            "desfile",
+            "coronel",
+            "laura gómez campos",
+            "instituto armado",
+            "laura",
+            "agente",
+            "igualdad",
+            "fiesta nacional",
+            "teniente",
+            "gómez",
+            "guardia civil"
+        ],
+        "link": "https://www.cope.es/emisoras/castilla-la-mancha/guadalajara-provincia/guadalajara/noticias/laura-gomez-2a-jefa-comandancia-guardia-civil-guadalajara-no-profesion-vida-20260325_3333915.html",
+        "date": "2026-03-25 17:55:50",
+        "sentiment_score": -0.01643231511116028
+    },
+    {
+        "title": "La expulsión de Valverde se queda en un partido de sanción",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/25/Clipboard-0344.jpg",
+        "tags": [
+            "partido",
+            "queda",
+            "valverde",
+            "expulsion",
+            "sancion"
+        ],
+        "link": "https://www.lasprovincias.es/deportes/futbol/liga-primera/expulsion-valverde-queda-partido-sancion-20260325184901-ntrc.html",
+        "date": "2026-03-25 17:54:47",
+        "sentiment_score": -0.30581672489643097
+    },
+    {
+        "title": "Como en los tiempos del Hai que roelo: el Pontevedra CF regresa a La Quiniela",
+        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2026/03/25/2026032518394924603.jpg",
+        "tags": [
+            "f&uacute;tbol",
+            "quiniela",
+            "loter&iacute;as",
+            "pontevedra cf",
+            "deportes"
+        ],
+        "link": "https://www.diariodepontevedra.es/articulo/deporte-local-pontevedra/como-tiempos-hai-que-roelo-pontevedra-cf-regresa-quiniela/202603251854461439845.html",
+        "date": "2026-03-25 17:54:46",
+        "sentiment_score": 0.006936915218830109
+    },
+    {
+        "title": "4-0: Iker, Campos y Guille, titulares en el triunfo de la Sub-18 ante Croacia",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/03/25/69c420c7538e3.png",
+        "tags": [
+            "iker",
+            "18",
+            "sub",
+            "guille",
+            "triunfo",
+            "0",
+            "croacia",
+            "campos",
+            "4",
+            "titulares"
+        ],
+        "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260325/1004159460/4-0-iker-campos-guille-titulares-triunfo-sub-18-croacia.html",
+        "date": "2026-03-25 17:54:13",
+        "sentiment_score": 0.07168209552764893
+    },
+    {
+        "title": "Historia del Honda SH «Scoopy»: El escúter con más vidas que un gato",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/25/TODAS-RzwewXfey3vmmnofQGXJq1L-758x531@diario_abc.jpg",
+        "tags": [
+            "scoopy",
+            "vidas",
+            "gato",
+            "escuter",
+            "historia",
+            "honda"
+        ],
+        "link": "https://www.ideal.es/motor/motos/historia-honda-scoopy-escuter-vidas-gato-20260325171707-ntrc.html",
+        "date": "2026-03-25 18:04:13",
+        "sentiment_score": 0.8233256079256535
+    },
+    {
+        "title": "Los gallos del pelotón miden sus fuerzas en tres etapas diabólicas en los Pirineos",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/25/los-gallos-del-peloton-miden-sus-fuerzas-en-tres-etapas-diabolicas-en-los-pirineos/",
+        "date": "2026-03-25 18:01:39",
+        "sentiment_score": -0.10723352432250977
+    },
+    {
+        "title": "Gracias al Hospital Universitario de Navarra, Pabellón Virgen del Camino",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/02301e88-8e35-435b-ae79-171a7af65d09_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "pabellon",
+            "hospital",
+            "gracias",
+            "universitario",
+            "navarra"
+        ],
+        "link": "https://www.noticiasdenavarra.com/opinion/cartas-al-director/2026/03/25/gracias-hospital-universitario-navarra-pabellon-10867152.html",
+        "date": "2026-03-25 18:00:59",
+        "sentiment_score": 0.6007544323801994
+    },
+    {
+        "title": "Ópera XXI premia al Centre de Perfeccionament del Palau de les Arts y a la Fundación Banco Sabadell",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "teatro colón",
+            "ópera latinoamericana",
+            "ópera xxi",
+            "valencia",
+            "fundación banco sabadell",
+            "premios honoríficos",
+            "barcelona",
+            "producción latinoamericana",
+            "centre de perfeccionament del palau de les arts",
+            "benjamin britten",
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/25/opera-xxi-premia-al-centre-de-perfeccionament-del-palau-de-les-arts-y-a-la-fundacion-banco-sabadell/",
+        "date": "2026-03-25 18:00:28",
+        "sentiment_score": 0.7779720760881901
+    },
+    {
+        "title": "El consumo de kéfir crece un 71% en España en 2025 y alcanza los 145 millones, según Activia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://cronicadecantabria.com/cr/el-consumo-de-kfir-crece-un-71-en-espaa-en-2025-y-alcanza-los-145-millones-segn-activia/",
+        "date": "2026-03-25 18:00:10",
+        "sentiment_score": 0.2967700734734535
+    },
+    {
+        "title": "El precio de la vivienda de lujo sube un 10,87% en 2025 y consolida su identidad propia, según Tecnitasa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "business",
+            "top"
+        ],
+        "link": "https://cronicadecantabria.com/cr/el-precio-de-la-vivienda-de-lujo-sube-un-1087-en-2025-y-consolida-su-identidad-propia-segn-tecnitasa/",
+        "date": "2026-03-25 18:00:08",
+        "sentiment_score": 0.405692495405674
+    },
+    {
+        "title": "Merlin lanza una ampliación de 768 millones de euros para financiar la expansión de sus centros de datos",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260325190007_1200.jpg",
+        "tags": [
+            "merlin properties"
+        ],
+        "link": "https://www.europapress.es/economia/noticia-merlin-lanza-ampliacion-768-millones-euros-financiar-expansion-centros-datos-20260325190007.html",
+        "date": "2026-03-25 18:00:07",
+        "sentiment_score": 0.6209217719733715
+    },
+    {
+        "title": "Merlin lanza una ampliación de 768 millones de euros para financiar la expansión de sus centros de datos",
+        "image_url": "https://forbes.es/wp-content/uploads/2026/03/fotonoticia_20260325190007_1920-1200x675.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://forbes.es/economia/896270/merlin-lanza-una-ampliacion-de-768-millones-de-euros-para-financiar-la-expansion-de-sus-centros-de-datos/",
+        "date": "2026-03-25 18:00:07",
+        "sentiment_score": 0.5947252996265888
+    },
+    {
+        "title": "Carlos Sainz y su duro mensaje para WIlliams F1 y Alex Albon antes del GP de Japón: \"Somos demasiado lentos\"",
+        "image_url": "https://hips.hearstapps.com/hmg-prod/images/41acb9fe-4472-4a62-bbda-1d7aa9288be6.jpg",
+        "tags": [
+            "displaytype: standard article",
+            "shorttitle: carlos sainz y su duro mensaje para williams f1",
+            "collection: noticias f1",
+            "contentid: f91e188f-e97e-4094-9c9e-d5ad63f9390f",
+            "locale: es",
+            "content-type: news"
+        ],
+        "link": "https://www.caranddriver.com/es/formula-1/a70846805/carlos-sainz-mensaje-williams-f1-alex-albon-gp-japon-lentos/",
+        "date": "2026-03-25 18:00:00",
+        "sentiment_score": 0.4807719960808754
     }
 ];
