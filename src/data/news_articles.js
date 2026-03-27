@@ -1,257 +1,5 @@
 export default [
     {
-        "title": "Un juzgado cita a un ex alto cargo de Hacienda tras una querella de Anticorrupción por presunto cohecho",
-        "image_url": "https://www.infobae.com/resizer/v2/Y2QLTAM7LND2DACLEXXZJAUYCQ.jpg?auth=17c436e7b29745c345d83c5eb653872eae34f7d35c0d389a76286f46d8f59cbc&smart=true&width=1920&height=1280",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/23/un-juzgado-cita-a-un-ex-alto-cargo-de-hacienda-tras-una-querella-de-anticorrupcion-por-presunto-cohecho/",
-        "date": "2026-03-23 17:46:50",
-        "sentiment_score": -0.5438088811933994
-    },
-    {
-        "title": "Hungría es una brecha en la seguridad de la Unión Europea",
-        "image_url": "https://www.atalayar.com/media/atalayar/images/2025/10/17/2025101711541888926.webp",
-        "tags": [
-            "hungary",
-            "uni&oacute;n europea",
-            "ucrania",
-            "espa&ntilde;a",
-            "european union",
-            "portada",
-            "la russie",
-            "l&#039;union europ&eacute;enne",
-            "l&#039;ukraine",
-            "l&#039;espagne",
-            "spain",
-            "la hongrie",
-            "rusia",
-            "russia",
-            "ukraine",
-            "hungr&iacute;a"
-        ],
-        "link": "https://www.atalayar.com/articulo/politica/hungria-es-brecha-seguridad-union-europea/20260323184500224246.html",
-        "date": "2026-03-23 17:45:00",
-        "sentiment_score": -0.1870398335158825
-    },
-    {
-        "title": "Héctor Santana, pionero en la Gala Drag, presenta su libro contra el estigma del síndrome de Down",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ba75447a-9938-4134-803d-f57e50fcf8eb_16-9-aspect-ratio_default_0_x562y249.jpg",
-        "tags": [
-            "síndrome de down",
-            "libros",
-            "fundación mapfre",
-            "canarias",
-            "madrid"
-        ],
-        "link": "https://www.laprovincia.es/canarias/2026/03/23/canario-hector-santana-presenta-madrid-128324992.html",
-        "date": "2026-03-23 17:39:28",
-        "sentiment_score": 0.017538920044898987
-    },
-    {
-        "title": "Yolanda Díaz anima a los ministros de Sumar a seguir dando la batalla dentro del Gobierno",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2026/03/23/69c17a649b40d5-14741950.jpeg",
-        "tags": [
-            "yolanda",
-            "anima",
-            "díaz",
-            "los",
-            "ministros"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/actualidad/2026/03/23/yolanda-diaz-anima-los-ministros-sumar-seguir-dando-batalla-dentro-gobierno-2006219.html",
-        "date": "2026-03-23 17:38:19",
-        "sentiment_score": -0.17109964787960052
-    },
-    {
-        "title": "Zidane será entrenador de Francia tras el Mundial 2026",
-        "image_url": "https://www.mundonow.com/wp-content/uploads/2026/03/shutterstock_1011783064-1-scaled.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.mundonow.com/zidane-sera-entrenador-de-francia-tras-el-mundial-2026/",
-        "date": "2026-03-23 17:32:02",
-        "sentiment_score": 0.2721259519457817
-    },
-    {
-        "title": "Lolo Escobar, sustituto de Dani Vidal para intentar salvar al Real Avilés",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/03/23/lolo-escobar-entrenador-RgdfbDQ2znpVkPGhs2H7mBO-758x531@El%20Comercio.jpg",
-        "tags": [
-            "real avilés",
-            "primera rfef",
-            "estadio román suárez puerta",
-            "segunda división"
-        ],
-        "link": "https://www.elcomercio.es/real-aviles/lolo-escobar-sustituto-dani-vidal-intentar-salvar-equipo-20260323181813-nt.html",
-        "date": "2026-03-23 17:30:13",
-        "sentiment_score": 0.06900385022163391
-    },
-    {
-        "title": "Empresas | La patronal de apartamentos turísticos nombra a Esther Guilabert nueva secretaria general",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1808465.jpg",
-        "tags": [
-            "patronal",
-            "pisos turísticos"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/empresas/la-patronal-de-apartamentos-turisticos-nombra-a-esther-guilabert-nueva-secretaria-general",
-        "date": "2026-03-23 17:29:41",
-        "sentiment_score": 0.2946646362543106
-    },
-    {
-        "title": "Llorente, tras el penalti no señalado de Carvajal en el derbi: “No merece la pena opinar”",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e60ce621-1eee-4fd6-bf07-487570900d84_16-9-aspect-ratio_default_0_x512y192.jpg",
-        "tags": [
-            "real madrid",
-            "atlético de madrid",
-            "var",
-            "derbi",
-            "madrid"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2026/03/23/llorente-penalti-senalado-carvajal-derbi-var-128324300.html",
-        "date": "2026-03-23 17:27:31",
-        "sentiment_score": -0.35850927233695984
-    },
-    {
-        "title": "Las fotos, looks y detalles de la boda de Irene Matamoros, hija de Kiko Matamoros, quien coincidió con su primera mujer",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2820178.jpg",
-        "tags": [
-            "kiko matamoros",
-            "mar flores",
-            "diego matamoros",
-            "famosos",
-            "laura matamoros",
-            "bodas"
-        ],
-        "link": "https://www.vozpopuli.com/dolcevita/las-fotos-looks-y-detalles-de-la-boda-de-irene-matamoros-hija-de-kiko-matamoros-quien-coincidio-con-su-primera-mujer.html",
-        "date": "2026-03-23 17:24:19",
-        "sentiment_score": 0.2538314014673233
-    },
-    {
-        "title": "Vinícius Júnior se desquita en los derbis y mantiene su vuelo en el tramo clave de temporada",
-        "image_url": "https://www.infobae.com/resizer/v2/2V765PVEC5FOPKZH5DMAINKGO4.jpg?auth=6ec4153d9721d0f20a1b74bd7404f3b17413595c8bbeba7309b58f22d5cbbd05&smart=true&width=1920&height=1280",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/23/vinicius-junior-se-desquita-en-los-derbis-y-mantiene-su-vuelo-en-el-tramo-clave-de-temporada/",
-        "date": "2026-03-23 17:15:19",
-        "sentiment_score": 0.325823288410902
-    },
-    {
-        "title": "Fundación Mapfre inicia en Cáceres la recuperación de la red de fundaciones",
-        "image_url": "https://static.grupojoly.com/clip/68c216b6-ce88-44e2-911c-16fc427f0218_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "mapfre",
-            "recuperacion",
-            "fundacion",
-            "inicia",
-            "caceres"
-        ],
-        "link": "https://www.eldiadecordoba.es/empresas-al-dia/fundacion-mapfre-inicia-caceres-recuperacion_0_2006278162.html",
-        "date": "2026-03-23 17:47:05",
-        "sentiment_score": 0.5485072825103998
-    },
-    {
-        "title": "Fundación Mapfre elige Cáceres como sede de la Red Ibérica",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/10/02/plaza-de-san-jorge-en-caceres.jpeg",
-        "tags": [
-            "mapfre",
-            "como",
-            "fundación",
-            "cáceres",
-            "elige"
-        ],
-        "link": "https://www.20minutos.es/extremadura/caceres/fundacion-mapfre-elige-caceres-como-sede-red-iberica_6949694_0.html",
-        "date": "2026-03-23 17:43:24",
-        "sentiment_score": 0.4221954233944416
-    },
-    {
-        "title": "El cine de barrio: cuando una comunidad soñaba unida",
-        "image_url": "https://images.theconversation.com/files/723350/original/file-20260311-57-abb4nr.jpg?ixlib=rb-4.1.0&rect=0%2C170%2C1552%2C776&q=45&auto=format&w=1356&h=668&fit=crop",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://theconversation.com/el-cine-de-barrio-cuando-una-comunidad-sonaba-unida-275981",
-        "date": "2026-03-23 17:41:59",
-        "sentiment_score": 0.08955691754817963
-    },
-    {
-        "title": "¿Por qué a Shakira o Bad Bunny les gustan tanto las residencias?",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/02/69a528f2b7405.r_d.1231-1029-0.jpeg",
-        "tags": [
-            "bunny",
-            "residencias",
-            "gustan",
-            "tanto",
-            "shakira",
-            "bad",
-            "les"
-        ],
-        "link": "https://www.lavanguardia.com/cultura/20260323/11497372/shakira-bad-bunny-les-gustan-tanto-residencias.html",
-        "date": "2026-03-23 17:39:54",
-        "sentiment_score": 0.6276732534170151
-    },
-    {
-        "title": "El pueblo vinícola perfecto para una escapada en primavera: con un castillo del siglo X y un mirador panorámico de 360 grados",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/23/actualidad/1003742744626_15872051_1706x960.jpg",
-        "tags": [
-            "recomendaciones",
-            "curiosidades",
-            "planes",
-            "vivir en barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260323/pueblo-vinicola-perfecto-escapada-primavera-castillo-mirador-panoramico-trt/1003742744589_0.html",
-        "date": "2026-03-23 17:35:04",
-        "sentiment_score": 0.5142379179596901
-    },
-    {
-        "title": "Lewandowski y su futuro... Aún no",
-        "image_url": "https://www.cope.es/files/microformat_image/uploads/2026/02/24/699d9ce611e2a.jpeg",
-        "tags": [
-            "futuro",
-            "lewandowski",
-            "no",
-            "aún"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/lewandowski-futuro-aun-no-20260323_3332244.html",
-        "date": "2026-03-23 17:34:12",
-        "sentiment_score": -0.0729091465473175
-    },
-    {
-        "title": "Muere a los 81 años Antoni Marí, poeta, escritor y profesor de carácter indomable e irreductible",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/04/17/6800b3144f5a2.r_d.1434-794-0.jpeg",
-        "tags": [
-            "poeta",
-            "profesor",
-            "muere",
-            "81",
-            "indomable",
-            "e",
-            "antoni",
-            "irreductible",
-            "escritor",
-            "marí",
-            "carácter",
-            "años"
-        ],
-        "link": "https://www.lavanguardia.com/cultura/20260323/11497368/muere-81-anos-antoni-mari-poeta-escritor-profesor-caracter-indomable-e-irreductible.html",
-        "date": "2026-03-23 17:33:32",
-        "sentiment_score": 0.3588748201727867
-    },
-    {
-        "title": "Alcaraz se apunta a unas necesarias vacaciones",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/23/alcaraz-merecidas-vacaciones-kabG-U201359897040GV-1200x840@RC.jpg",
-        "tags": [
-            "alcaraz",
-            "necesarias",
-            "vacaciones",
-            "apunta"
-        ],
-        "link": "https://www.lasprovincias.es/deportes/tenis/alcaraz-apunta-necesarias-vacaciones-20260323183308-ntrc.html",
-        "date": "2026-03-23 17:33:17",
-        "sentiment_score": -0.819823918864131
-    },
-    {
         "title": "Defensa prepara el desfile del Día de las Fuerzas Armadas en Vigo con un contrato clave",
         "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/23/2026032323253320274.jpg",
         "tags": [
@@ -3255,5 +3003,263 @@ export default [
         "link": "https://noticiasvenevision.com/noticias/internacional/la-espanola-noelia-castillo-recibe-la-eutanasia-tras-una-lucha-judicial-contra-su-padre",
         "date": "2026-03-27 01:17:00",
         "sentiment_score": -0.8346438044682145
+    },
+    {
+        "title": "Fedeto advierte sobre un \"cambio en la acción sindical\" en C-LM y que no negociará con interlocutores violentos",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260327080033_1200.jpg",
+        "tags": [
+            "top",
+            "lifestyle",
+            "entertainment"
+        ],
+        "link": "https://www.europapress.es/castilla-lamancha/noticia-fedeto-advierte-cambio-accion-sindical-lm-no-negociara-interlocutores-violentos-20260327080033.html",
+        "date": "2026-03-27 07:00:33",
+        "sentiment_score": -0.8656187523156404
+    },
+    {
+        "title": "Fedeto advierte sobre un \"cambio en la acción sindical\" en C-LM y que no negociará con interlocutores violentos",
+        "image_url": "http://st1.lacerca.com/imagenes/view/fa2c68ddc7b031f083b2ec27a6d61cb0.jpg",
+        "tags": [
+            "c",
+            "cambio",
+            "violentos",
+            "negociara",
+            "advierte",
+            "accion",
+            "interlocutores",
+            "lm",
+            "fedeto",
+            "sindical"
+        ],
+        "link": "https://www.lacerca.com/noticias/castilla_la_mancha/fedeto-cambio-accion-sindical-lm-negociara-interlocutores-violentos-807861-1.html",
+        "date": "2026-03-27 07:00:00",
+        "sentiment_score": 0.8541107885539532
+    },
+    {
+        "title": "¿Rodri al Madrid? esto dijo el centrocampista español",
+        "image_url": "https://www.mundonow.com/wp-content/uploads/2026/03/sports-1-16.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.mundonow.com/rodri-al-madrid-esto-dijo-el-centrocampista-espanol/",
+        "date": "2026-03-27 06:57:53",
+        "sentiment_score": 0.37157271057367325
+    },
+    {
+        "title": "Euroliga: el Real Madrid se deshace del Efes, alcanza al Olympiacos y acecha al líder Fenerbahce",
+        "image_url": "https://www.periodistadigital.com/wp-content/uploads/2026/03/Real-Madrid-de-Baloncesto.jpg",
+        "tags": [
+            "baloncesto",
+            "deportes",
+            "real madrid baloncesto",
+            "sergio scariolo",
+            "pablo laso"
+        ],
+        "link": "https://www.periodistadigital.com/deportes/baloncesto/20260327/euroliga-real-madrid-deshace-efes-alcanza-olympiacos-acecha-lider-fenerbahce-noticia-689405195377/",
+        "date": "2026-03-27 06:51:38",
+        "sentiment_score": 0.14105288684368134
+    },
+    {
+        "title": "La Francia de Mbappé arrasa al Brasil de Vinicius con gol del crack",
+        "image_url": "https://www.periodistadigital.com/wp-content/uploads/2026/03/Mbappe-Ancelotti-y-Vinicius.jpg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "kylian mbappé",
+            "vinícius júnior",
+            "carlo ancelotti"
+        ],
+        "link": "https://www.periodistadigital.com/deportes/futbol/20260327/francia-mbappe-arrasa-brasil-vinicius-gol-crack-noticia-689405195375/",
+        "date": "2026-03-27 06:47:05",
+        "sentiment_score": 0.49285663664340973
+    },
+    {
+        "title": "Comienza la operación especial de Semana Santa con atascos récord y 17 millones de desplazamientos",
+        "image_url": "https://www.periodistadigital.com/wp-content/uploads/2016/07/Atascos-trafico-min.jpg",
+        "tags": [
+            "economía",
+            "motor"
+        ],
+        "link": "https://www.periodistadigital.com/economia/e-motor/20260327/comienza-operacion-especial-semana-santa-atascos-record-17-millones-desplazamientos-noticia-689405195402/",
+        "date": "2026-03-27 06:40:32",
+        "sentiment_score": -0.028910085558891296
+    },
+    {
+        "title": "Madrid peatonaliza 75 calles alrededor de parroquias para blindar sus procesiones de Semana Santa",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/03/25/procesion-semana-santa-madrid.jpeg",
+        "tags": [
+            "peatonaliza",
+            "madrid",
+            "calles",
+            "alrededor",
+            "75"
+        ],
+        "link": "https://www.20minutos.es/madrid/madrid-peatonaliza-75-calles-alrededor-parroquias-para-blindar-sus-procesiones-semana-santa_6951316_0.html",
+        "date": "2026-03-27 06:25:37",
+        "sentiment_score": -0.6536122877150774
+    },
+    {
+        "title": "Otro arranque de vuelta al ralentí",
+        "image_url": "https://static.laregion.es/clip/e7e2c2ac-5721-449c-a0f0-6169bfe5d632_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "celta"
+        ],
+        "link": "https://www.atlantico.net/celtismo/arranque-vuelta-ralenti_1_20260327-4215701.html",
+        "date": "2026-03-27 06:20:54",
+        "sentiment_score": 0.07868537306785583
+    },
+    {
+        "title": "Alarma en Brasil: Raphinha, sustituido por una molestia en el amistoso contra Francia",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/27/69c61d460194d.r_d.2444-1052-0.jpeg",
+        "tags": [
+            "sustituido",
+            "molestia",
+            "raphinha",
+            "brasil",
+            "amistoso",
+            "alarma",
+            "francia"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/futbol/20260327/11500521/alarma-brasil-raphinha-sustituido-molestia-amistoso-francia.html",
+        "date": "2026-03-27 06:20:17",
+        "sentiment_score": -0.4308860618621111
+    },
+    {
+        "title": "La flota cántabra pierde un 30% de sus ingresos en marzo por el impacto del precio del gasoil",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2026/03/26/pesca-combustible%202-k7G--758x531@Diario%20Montanes.jpg",
+        "tags": [
+            "cantabria (provincia)",
+            "verdel",
+            "pescadores",
+            "madrid (ciudad)",
+            "pescado",
+            "consumo",
+            "semana santa",
+            "economia",
+            "santoña",
+            "irán",
+            "pesca en cantabria"
+        ],
+        "link": "https://www.eldiariomontanes.es/economia/precio-gasoil-lastra-flota-cantabra-pierde-ingresos-20260327120432-nt.html",
+        "date": "2026-03-27 06:15:00",
+        "sentiment_score": -0.8913368294015527
+    },
+    {
+        "title": "Alejandro Fernández (PP) cree que \"solo un fanático\" puede compartir limitar el precio de vivienda",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260327080429_1200.jpg",
+        "tags": [
+            "pp"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-alejandro-fernandez-pp-cree-solo-fanatico-puede-compartir-limitar-precio-vivienda-20260327080429.html",
+        "date": "2026-03-27 07:04:29",
+        "sentiment_score": -0.35214927792549133
+    },
+    {
+        "title": "Luis del Val.- El PVV (Partido de Violadores Vascos)",
+        "image_url": "https://s01.europapress.net/imagenes/estaticos/amp-logo/logo-europapress.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.europapress.es/otr-press/firmas/luisdelval/noticia-luis-val-pvv-partido-violadores-vascos-20260327080108.html",
+        "date": "2026-03-27 07:01:08",
+        "sentiment_score": -0.8927007839083672
+    },
+    {
+        "title": "Las aerolíneas que operan en Barajas programan 12.933 vuelos en Semana Santa, un 4,73% más",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260327080048_1200.jpg",
+        "tags": [
+            "aena",
+            "aeropuerto adolfo suárez madrid-barajas",
+            "semana santa"
+        ],
+        "link": "https://www.europapress.es/madrid/noticia-aerolineas-operan-barajas-programan-12933-vuelos-semana-santa-473-mas-20260327080048.html",
+        "date": "2026-03-27 07:00:48",
+        "sentiment_score": 0.08341127634048462
+    },
+    {
+        "title": "Los aeropuertos españoles afrontan la Semana Santa con 70.505 vuelos y dos huelgas de handling desde hoy",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260327080036_1200.jpg",
+        "tags": [
+            "aena",
+            "huelga",
+            "semana santa"
+        ],
+        "link": "https://www.europapress.es/economia/transportes-00343/noticia-aeropuertos-espanoles-afrontan-semana-santa-70505-vuelos-dos-huelgas-handling-hoy-20260327080036.html",
+        "date": "2026-03-27 07:00:36",
+        "sentiment_score": 0.12854263931512833
+    },
+    {
+        "title": "Los aeropuertos españoles afrontan la Semana Santa con 70.505 vuelos y dos huelgas de handling desde hoy",
+        "image_url": "https://forbes.es/wp-content/uploads/2026/03/fotonoticia_20260327080036_1920-1200x675.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://forbes.es/economia/897308/los-aeropuertos-espanoles-afrontan-la-semana-santa-con-70-505-vuelos-y-dos-huelgas-de-handling-desde-hoy/",
+        "date": "2026-03-27 07:00:36",
+        "sentiment_score": 0.11925157904624939
+    },
+    {
+        "title": "Llegan las primeras multas por tender ropa mirando a la calle: estas son las sanciones",
+        "image_url": "https://album.mediaset.es/eimg/2026/03/17/las-multas-van-a-depender-de-la-normativa-de-cada-ciudad-16-9-aspect-ratio-default-0_da39.png?w=1024",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.cuatro.com/noticias/sociedad/20260327/sancion-tender-ropa-mirando-calle_18_018636593.html",
+        "date": "2026-03-27 07:00:31",
+        "sentiment_score": -0.5765118226408958
+    },
+    {
+        "title": "Mate: la 'app' de Barcelona para ampliar tu círculo social empieza a hacer quedadas analógicas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/071bc458-062d-4c9b-b8b0-b845648fba69_alta-libre-aspect-ratio_default_0_x960y426.jpg",
+        "tags": [
+            "ampliar",
+            "amigos",
+            "app",
+            "quedadas",
+            "circulo",
+            "barcelona",
+            "social",
+            "mate"
+        ],
+        "link": "https://www.elperiodico.com/es/que-hacer/planes/20260327/mate-app-barcelona-ampliar-circulo-social-amigos-quedadas-128463106",
+        "date": "2026-03-27 07:00:21",
+        "sentiment_score": -0.4717913158237934
+    },
+    {
+        "title": "Noelia Castillo: dos años de odisea judicial para ver cumplido su derecho a la eutanasia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.elsaltodiario.com/eutanasia/odisea-judicial-noelia-castillo-ver-cumplido-derecho-eutanasia",
+        "date": "2026-03-27 07:00:00",
+        "sentiment_score": -0.6967221610248089
+    },
+    {
+        "title": "La huelga de 'handling' amenaza al aeropuerto de Palma con posibles retrasos y cancelaciones en plena Semana Santa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6d806f33-7c21-4fad-8b2f-65e1d2279506_alta-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "semana santa",
+            "mallorca"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260327/huelga-handling-amenaza-aeropuerto-palma-128472555",
+        "date": "2026-03-27 06:59:11",
+        "sentiment_score": -0.8807628145441413
+    },
+    {
+        "title": "Así afecta al corazón la exposición continuada al humo de coches diésel",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0d7a5b64-dc1c-4e4e-8d17-be8e10f3b48a_16-9-aspect-ratio_default_0_x600y266.jpg",
+        "tags": [
+            "tráfico",
+            "contaminación",
+            "dièsel",
+            "medio ambiente"
+        ],
+        "link": "https://www.laopiniondemurcia.es/medio-ambiente/2026/03/27/afecta-corazon-exposicion-continuada-humo-128471687.html",
+        "date": "2026-03-27 06:55:09",
+        "sentiment_score": -0.8010077923536301
     }
 ];
