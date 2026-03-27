@@ -1,221 +1,5 @@
 export default [
     {
-        "title": "07:00H | 23 MAR 2026 | Herrera en COPE",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67cfe50112eb6.jpeg",
-        "tags": [
-            "00h",
-            "mar",
-            "07",
-            "23",
-            "2026"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/07-00h-23-mar-2026-herrera-cope-20260323_3331556.html",
-        "date": "2026-03-23 07:04:00",
-        "sentiment_score": -0.695840872824192
-    },
-    {
-        "title": "Qamarero gana los Premios EmprendeXXI como la startup con mayor potencial de Andalucía",
-        "image_url": "https://wp.emprendedores.es/wp-content/uploads/2026/03/qamarero_premio_emprendexxi_andaluci%CC%81a-.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://emprendedores.es/ayudas/directorio-quien-te-ayuda-a-emprender/qamarero-premio-emprendexxi-andalucia",
-        "date": "2026-03-23 07:02:43",
-        "sentiment_score": 0.4565494041889906
-    },
-    {
-        "title": "Cajamar Innova convoca una nueva edición de sus programas de aceleración de Agua, Agrotech y Foodtech",
-        "image_url": "https://wp.emprendedores.es/wp-content/uploads/2026/03/convocatoria_cajamar_innova_2026.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://emprendedores.es/ayudas/aceleradoras-incubadoras/cajamar-innova-nueva-edicion-programas-agua-agrotech-foodtech",
-        "date": "2026-03-23 07:02:08",
-        "sentiment_score": 0.4325828682631254
-    },
-    {
-        "title": "Santiago Abascal, el hombre sin sombra",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e7b127e5-396d-4f79-9d00-89f7a5bbdabb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sombra",
-            "vox",
-            "abascal",
-            "iván espinosa de los monteros",
-            "santiago",
-            "macarena olona",
-            "hombre",
-            "santiago abascal"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/politica/2026/03/23/santiago-abascal-hombre-sombra-10852558.html",
-        "date": "2026-03-23 07:00:40",
-        "sentiment_score": -0.9114788332954049
-    },
-    {
-        "title": "Manuel Cabrera, un tenor en las corales",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/50342776-5e64-4b49-bb2a-ee648a15b302_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ópera",
-            "música",
-            "manuel",
-            "profesores"
-        ],
-        "link": "https://www.laprovincia.es/opinion/2026/03/23/manuel-cabrera-tenor-corales-128290210.html",
-        "date": "2026-03-23 07:00:19",
-        "sentiment_score": 0.06630493700504303
-    },
-    {
-        "title": "Esta es la comunidad española que tiene más kilómetros de carreteras",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2023/07/25/CBD80448-3FA5-4178-9E7B-26EEEFC8F717/gobierno-licita-mas-14-millones-euros-contrato-conservacion-explotacion-217-kilometros-carreteras-zamora-que-incluyen-3252-autovia_96.jpg?crop=1600,900,x0,y130&width=1200&height=675&optimize=low&format=webply",
-        "tags": [
-            "castilla y león",
-            "carreteras",
-            "transporte"
-        ],
-        "link": "https://www.larazon.es/castilla-y-leon/esta-comunidad-espanola-que-tiene-mas-kilometros-carreteras_2026032369bfad3c219e1f762b70ac07.html",
-        "date": "2026-03-23 07:00:17",
-        "sentiment_score": -0.11903049051761627
-    },
-    {
-        "title": "Piensin explica cómo reducir más de un 50 % el coste del seguro de vida vinculado a la hipoteca",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5818360/piensin-explica-como-reducir-50-coste-seguro-vida-vinculado-hipoteca",
-        "date": "2026-03-23 07:00:17",
-        "sentiment_score": 0.3399839363992214
-    },
-    {
-        "title": "El clásico del fútbol español se jugará el Spotify Camp Nou",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/23074510/Captura-de-pantalla-2026-03-23-074154.png",
-        "tags": [
-            "laliga",
-            "real madrid",
-            "fc barcelona",
-            "spotify camp"
-        ],
-        "link": "https://www.elnacional.com/2026/03/el-clasico-del-futbol-espanol-se-jugara-el-spotify-camp-nou/",
-        "date": "2026-03-23 06:49:00",
-        "sentiment_score": 0.13505658507347107
-    },
-    {
-        "title": "El desastre inmobiliario y vuelta a negociar",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/23/actualidad/1003742744393_15869329_1706x960.jpg",
-        "tags": [
-            "cataluña",
-            "primeras planas",
-            "vivienda"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260323/desastre-inmobiliario-vuelta-negociar/1003742744384_0.html",
-        "date": "2026-03-23 07:03:53",
-        "sentiment_score": -0.618186891078949
-    },
-    {
-        "title": "María Romero, tras su clasificación para el Mundial: “El Ramón y Cajal es la élite de España”",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/03/maria-romero-clasificacion-mundial-ramon-y-cajal-elite-espana-2.jpg",
-        "tags": [
-            "atletismo",
-            "comandancia general de ceuta",
-            "castrense"
-        ],
-        "link": "https://elfarodeceuta.es/maria-romero-clasificacion-mundial-ramon-y-cajal-elite-espana/",
-        "date": "2026-03-23 07:02:22",
-        "sentiment_score": 0.4761088639497757
-    },
-    {
-        "title": "La justicia obliga a Airbnb a pagar una multa de 64 millones de euros impuesta por Consumo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/I24UMMDMWZBZ5JKJLOVZFEGZ6M.jpg?auth=e97d40f4dd7c255ecaf61736d6a97f9e2ecd5ab208d9e1517cdb6859a1e513ba&width=4500&height=3000&smart=true",
-        "tags": [
-            "registradores",
-            "pisos turísticos",
-            "economía",
-            "sentencias",
-            "ministerio de vivienda",
-            "airbnb",
-            "viviendas alquiler",
-            "tsj madrid",
-            "mercado inmobiliario"
-        ],
-        "link": "https://cincodias.elpais.com/economia/2026-03-23/la-justicia-obliga-a-airbnb-a-pagar-una-multa-de-64-millones-de-euros-impuesta-por-consumo.html",
-        "date": "2026-03-23 06:59:33",
-        "sentiment_score": -0.5255033448338509
-    },
-    {
-        "title": "Despliegan en Barcelona un dispositivo contra un red de tráfico internacional de armas y drogas vinculado a la mafia turca",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/20/69bd108f586e10-12670749.jpeg",
-        "tags": [
-            "despliegan",
-            "barcelona",
-            "nacional",
-            "policía",
-            "mossos"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/despliegan-barcelona-un-dispositivo-contra-un-red-trafico-internacional-armas-drogas-vinculado-mafia-turca_6949258_0.html",
-        "date": "2026-03-23 06:59:11",
-        "sentiment_score": 0.04381350055336952
-    },
-    {
-        "title": "23 de marzo de 2026: lo que tienes que saber de España",
-        "image_url": "https://theobjective.com/wp-content/uploads/2026/03/Feijoo.-Cocha-Ortega-EP-scaled-e1773218913780.jpg",
-        "tags": [
-            "aranceles",
-            "europa",
-            "venezuela",
-            "bruselas",
-            "china",
-            "estados unidos",
-            "gaza",
-            "israel"
-        ],
-        "link": "https://theobjective.com/espana/2026-03-23/23-de-marzo-de-2026-lo-que-tienes-que-saber-de-espana/",
-        "date": "2026-03-23 06:50:27",
-        "sentiment_score": -0.2960110753774643
-    },
-    {
-        "title": "El precio de la gasolina este 23 de marzo en Madrid, Barcelona y otras ciudades de España",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&smart=true&width=1920&height=1080",
-        "tags": [
-            "precio de la gasonila en barcelona",
-            "precio de la gasolina en españa",
-            "madrid y otras ciudades",
-            "precio de la gasolina en españa hoy",
-            "españa-economia",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/23/el-precio-de-la-gasolina-este-23-de-marzo-en-madrid-barcelona-y-otras-ciudades-de-espana/",
-        "date": "2026-03-23 06:45:36",
-        "sentiment_score": 0.010696455836296082
-    },
-    {
-        "title": "Colas en Gran Vía a partir del jueves 26 de marzo: abre el famoso restaurante de alitas típico de EEUU con menús a 15 euros",
-        "image_url": "https://okdiario.com/img/2026/03/20/colas-en-gran-via-a-partir-del-jueves-26-de-marzo-abre-el-famoso-restaurante-de-alitas-tipico-de-eeuu-con-menus-a-15-euros.jpg",
-        "tags": [
-            "madrid",
-            "okd",
-            "gran vía",
-            "restaurantes",
-            "recetas de pollo"
-        ],
-        "link": "https://okdiario.com/economia/consumo/colas-gran-via-partir-del-jueves-26-marzo-abre-famoso-restaurante-alitas-tipico-eeuu-menus-15-euros-16456631",
-        "date": "2026-03-23 06:45:06",
-        "sentiment_score": 0.19880635291337967
-    },
-    {
-        "title": "Detenidos los presuntos responsables de quemar con combustible a una mujer en Sevilla la Nueva (Madrid)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "venganza",
-            "agresores",
-            "sevilla la nueva",
-            "líquido",
-            "quemaduras",
-            "combustible"
-        ],
-        "link": "https://www.meneame.net/story/detenidos-presuntos-responsables-quemar-combustible-mujer-nueva",
-        "date": "2026-03-23 08:10:02",
-        "sentiment_score": -0.8632906656712294
-    },
-    {
         "title": "Un juzgado cita a un ex alto cargo de Hacienda tras una querella de Anticorrupción por presunto cohecho",
         "image_url": "https://www.infobae.com/resizer/v2/Y2QLTAM7LND2DACLEXXZJAUYCQ.jpg?auth=17c436e7b29745c345d83c5eb653872eae34f7d35c0d389a76286f46d8f59cbc&smart=true&width=1920&height=1280",
         "tags": [
@@ -918,21 +702,6 @@ export default [
         "link": "https://www.hoy.es/economia/veinte-empresas-promocionan-productos-regionales-barcelona-20260324082320-nt.html",
         "date": "2026-03-24 00:00:00",
         "sentiment_score": 0.6465955916792154
-    },
-    {
-        "title": "Detenidos los presuntos responsables de quemar con combustible a una mujer en Sevilla la Nueva (Madrid)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "venganza",
-            "agresores",
-            "sevilla la nueva",
-            "líquido",
-            "quemaduras",
-            "combustible"
-        ],
-        "link": "https://www.meneame.net/story/detenidos-presuntos-responsables-quemar-combustible-mujer-nueva",
-        "date": "2026-03-23 08:10:02",
-        "sentiment_score": -0.8632908463478088
     },
     {
         "title": "Precio de la gasolina hoy 24 de marzo: localiza las gasolineras más baratas de Madrid",
@@ -3127,5 +2896,147 @@ export default [
         "link": "https://www.larazon.es/cataluna/mirada-mas-completa-universo-matisse-llega-caixaforum_2026032669c573c483aca52e0e3a6ffb.html",
         "date": "2026-03-26 17:58:28",
         "sentiment_score": 0.8961038645356894
+    },
+    {
+        "title": "Francia gana a Brasil un amistoso con sabor a Mundial",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260326233342_1200.jpg",
+        "tags": [
+            "brasil",
+            "mbappé"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-francia-gana-brasil-amistoso-sabor-mundial-20260326233342.html",
+        "date": "2026-03-26 22:33:42",
+        "sentiment_score": 0.2840700298547745
+    },
+    {
+        "title": "El Real Madrid también puede con el Efes de Laso y sigue intratable en casa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ca968e0b-f62d-4951-8fa1-44622b2aeb9e_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "euroliga",
+            "baloncesto",
+            "real madrid de baloncesto"
+        ],
+        "link": "https://www.informacion.es/deportes/2026/03/26/real-madrid-efes-laso-sigue-128465705.html",
+        "date": "2026-03-26 22:32:49",
+        "sentiment_score": 0.2965232878923416
+    },
+    {
+        "title": "Victoria de Francia contra Brasil con gol de Mbappé",
+        "image_url": "https://www.cope.es/files/microformat_image/uploads/2026/03/26/69c5b3acb129c.jpeg",
+        "tags": [
+            "brasil",
+            "francia",
+            "mbappé",
+            "victoria",
+            "gol"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/victoria-francia-brasil-gol-mbappe-20260326_3334947.html",
+        "date": "2026-03-26 22:32:13",
+        "sentiment_score": -0.08803161978721619
+    },
+    {
+        "title": "Más de un millón de alquileres afrontan una subida de hasta el 50% si decae la prórroga del Gobierno",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/03/26/alquiler-840--758x531.jpg",
+        "tags": [
+            "boe",
+            "alquiler",
+            "vivienda",
+            "gobierno de pedro sánchez"
+        ],
+        "link": "https://www.canarias7.es/economia/vivienda/millon-alquileres-afrontan-subida-decae-prorroga-gobierno-20260327003203-ntrc.html",
+        "date": "2026-03-26 22:32:08",
+        "sentiment_score": -0.25516388565301895
+    },
+    {
+        "title": "1-2. Mbappé pone a la Brasil de Ancelotti en su sitio",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/26/1-2-mbappe-pone-a-la-brasil-de-ancelotti-en-su-sitio/",
+        "date": "2026-03-26 22:31:25",
+        "sentiment_score": -0.2843142971396446
+    },
+    {
+        "title": "Feijóo pide una \"profunda reflexión\" ante el caso de Noelia: \"Las instituciones que debían proteger le fallaron\"",
+        "image_url": "https://www.infobae.com/resizer/v2/VLNNZ5ZCJJELPB2VC7WU3JBYFQ.jpg?auth=133ec208260520b9b7aa2cae71b52a2eb634cb262ff46d70f848d115bfeaca4b&smart=true&width=1920&height=1280",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/26/feijoo-pide-una-profunda-reflexion-ante-el-caso-de-noelia-las-instituciones-que-debian-proteger-le-fallaron/",
+        "date": "2026-03-26 22:30:54",
+        "sentiment_score": -0.8345412509515882
+    },
+    {
+        "title": "Raúl Montilla destapa la Barcelona “bajo la alfombra” de la posguerra con 'Los acordes de la ciudad'",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/26/actualidad/1003742745819_15887505_1706x960.jpg",
+        "tags": [
+            "música",
+            "política",
+            "cultura",
+            "vivir en barcelona",
+            "historia"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260326/raul-montilla-destapa-barcelona-alfombra-posguerra-acordes-ciudad/1003742745817_0.html",
+        "date": "2026-03-26 22:30:00",
+        "sentiment_score": -0.48759158700704575
+    },
+    {
+        "title": "Barcelona borra su último bastión ‘underground’: “La ciudad era un referente mundial para los grafiteros, ahora todo está capado”",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/26/vivir-en-barcelona/1003742745522_15884056_1706x960.jpg",
+        "tags": [
+            "ayuntamiento de barcelona",
+            "cultura",
+            "arte barcelona",
+            "el pulso de la ciudad",
+            "vandalismo",
+            "arte urbano"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260326/barcelona-borra-ultimo-bastion-underground-ciudad-referente-mundial-grafiteros-ahora-capado/1003742745755_0.html",
+        "date": "2026-03-26 22:30:00",
+        "sentiment_score": -0.8252637609839439
+    },
+    {
+        "title": "El Síndic de Greuges 'ignora' más de medio millar de quejas de los barceloneses",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/25/actualidad/1003742745365_15881937_1706x960.jpg",
+        "tags": [
+            "sindica de greuges de barcelona",
+            "ayuntamiento de barcelona",
+            "información municipal"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20260326/sindic-greuges-ignora-medio-millar-quejas-barceloneses/1003742745272_0.html",
+        "date": "2026-03-26 22:30:00",
+        "sentiment_score": 0.1370847225189209
+    },
+    {
+        "title": "La Selección juega en casa: El 'orgullo Mundial' del fútbol valenciano",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/683de3bc-2439-4e48-978f-4fc489b39aed_16-9-aspect-ratio_default_0_x1136y991.jpg",
+        "tags": [
+            "serbia",
+            "ferran torres",
+            "selección española",
+            "mosquera",
+            "españa",
+            "mundial",
+            "valencia cf",
+            "carlos soler",
+            "valenciano"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2026/03/26/seleccion-espanola-juega-casa-orgullo-mosquera-ferran-soler-de-la-fuente-128465607.html",
+        "date": "2026-03-26 22:26:10",
+        "sentiment_score": 0.006730526685714722
+    },
+    {
+        "title": "Rafael, 63 años, maquinista jubilado en Vallecas: \"En 2019 por un piso ya pedían más de 1.000 euros, ahora una litera cuesta 600\"",
+        "image_url": "https://img2.huffingtonpost.es/files/og_thumbnail/uploads/2023/11/08/una-llave-puesta-en-una-puerta.jpeg",
+        "tags": [
+            "vivienda",
+            "vallecas",
+            "alquileres"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/rafael-63-anos-maquinista-jubilado-vallecas-en-2019-piso-pedian-mas-1000-euros-litera-cuesta-600-f202603.html",
+        "date": "2026-03-26 22:18:52",
+        "sentiment_score": -0.8888391759246588
     }
 ];
