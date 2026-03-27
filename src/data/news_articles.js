@@ -3038,5 +3038,222 @@ export default [
         "link": "https://www.huffingtonpost.es/sociedad/rafael-63-anos-maquinista-jubilado-vallecas-en-2019-piso-pedian-mas-1000-euros-litera-cuesta-600-f202603.html",
         "date": "2026-03-26 22:18:52",
         "sentiment_score": -0.8888391759246588
+    },
+    {
+        "title": "La reacción de Ancelotti ante el pedido de los fanáticos de Brasil por Neymar en medio de la derrota frente a Francia",
+        "image_url": "https://www.infobae.com/resizer/v2/CSGM5NFPSFDXXHQAJG376CLIHE.JPG?auth=c8c9dc51d485c5f9b0f55c4f93b1a1bcf21d009a75e635d99bab51ffd59a0de6&smart=true&width=4530&height=3019",
+        "tags": [
+            "selección de francia",
+            "deportes-argentina",
+            "neymar",
+            "selección de brasil",
+            "deportes-internacional",
+            "carlo ancelotti"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/27/la-reaccion-de-ancelotti-ante-el-pedido-de-los-fanaticos-de-brasil-por-neymar-en-medio-de-la-derrota-frente-a-francia/",
+        "date": "2026-03-27 02:30:06",
+        "sentiment_score": -0.7104276288300753
+    },
+    {
+        "title": "De ministro oyente a número dos del Gobierno",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "oyente",
+            "gobierno",
+            "ministro",
+            "numero"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/analisis/ministro-oyente-numero-gobierno_0_2006304830.html",
+        "date": "2026-03-27 02:06:57",
+        "sentiment_score": -0.6101042255759239
+    },
+    {
+        "title": "Trump maniobra para acabar con la misión de paz de la ONU en el Sáhara Occidental: EEUU la tacha de \"costosa\" y \"obsoleta\"",
+        "image_url": "https://s3.elespanol.com/2026/03/26/actualidad/1003744184726_262138600_1706x960.jpg",
+        "tags": [
+            "saharaui",
+            "áfrica",
+            "sáhara",
+            "onu",
+            "donald trump",
+            "sáhara occidental",
+            "mundo-newsletter"
+        ],
+        "link": "https://www.elespanol.com/mundo/africa/20260327/trump-maniobra-acabar-mision-paz-onu-sahara-occidental-eeuu-tacha-costosa-obsoleta/1003744184467_0.html",
+        "date": "2026-03-27 01:50:36",
+        "sentiment_score": -0.45735087990760803
+    },
+    {
+        "title": "Francia se impone a Brasil en un vibrante amistoso con sabor a Mundial",
+        "image_url": "https://noticialdia.com/wp-content/firewall/uploads/2026/03/mbappe-jugador-de-francia-fecha-fifa-768x432-1.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://noticialdia.com/deportes/francia-se-impone-a-brasil-en-un-vibrante-amistoso-con-sabor-a-mundial/",
+        "date": "2026-03-27 01:35:50",
+        "sentiment_score": -0.45779459178447723
+    },
+    {
+        "title": "Un buque tailandés encalla en Qeshm (Irán) dos semanas después de su evacuación por un ataque en el estrecho de Ormuz",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260327023351_1200.jpg",
+        "tags": [
+            "incendio",
+            "irán",
+            "ormuz"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-buque-tailandes-encalla-qeshm-iran-dos-semanas-despues-evacuacion-ataque-estrecho-ormuz-20260327023351.html",
+        "date": "2026-03-27 01:33:51",
+        "sentiment_score": -0.8199256081134081
+    },
+    {
+        "title": "Tchouaméni admite que enfrentar a su compañero Vinicus es \" muy complicado\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "crime"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/27/tchouameni-admite-que-enfrentar-a-su-companero-vinicus-es-muy-complicado/",
+        "date": "2026-03-27 01:15:17",
+        "sentiment_score": -0.8592171519994736
+    },
+    {
+        "title": "Scaloni: 'Haré todo lo posible para que Messi juegue el Mundial'",
+        "image_url": "https://i.headtopics.com/images/2026/3/27/latimes/scaloni-hare-todo-lo-posible-para-que-messi-juegue-scaloni-hare-todo-lo-posible-para-que-messi-juegue-019D895BA07DFA6DE4DE467B90013163.webp",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://us.headtopics.com/news/scaloni-hare-todo-lo-posible-para-que-messi-juegue-el-81509919",
+        "date": "2026-03-27 01:15:02",
+        "sentiment_score": -0.7427123673260212
+    },
+    {
+        "title": "Doce futbolistas de Argentina pugnan en próximos amistosos por meterse en lista final para Mundial",
+        "image_url": "https://i.headtopics.com/images/2026/3/27/latimes/doce-futbolistas-de-argentina-pugnan-en-pr-ximos-a-doce-futbolistas-de-argentina-pugnan-en-pr-ximos-a-A374E86AAD23DEBDDEC0B979389BE2BB.webp",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://us.headtopics.com/news/doce-futbolistas-de-argentina-pugnan-en-pr-ximos-amistosos-81510254",
+        "date": "2026-03-27 01:15:01",
+        "sentiment_score": -0.009474217891693115
+    },
+    {
+        "title": "Italia vence a Irlanda del Norte en semi de repechaje al Mundial. Gyökeres anota 3 con Suecia",
+        "image_url": "https://i.headtopics.com/images/2026/3/27/latimes/italia-vence-a-irlanda-del-norte-en-semi-de-repech-italia-vence-a-irlanda-del-norte-en-semi-de-repech-30D637D17FAE08FECB3AF43B65B3A7E4.webp",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://us.headtopics.com/news/italia-vence-a-irlanda-del-norte-en-semi-de-repechaje-al-81510292",
+        "date": "2026-03-27 01:15:01",
+        "sentiment_score": 0.6224087402224541
+    },
+    {
+        "title": "Mbappé y Hugo González intercambian camisetas firmadas en Boston",
+        "image_url": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/hews_xzacaarhur-cf1bf1.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://noticiasvenevision.com/noticias/deportes/mbappe-y-hugo-gonzalez-intercambian-camisetas-firmadas-en-boston",
+        "date": "2026-03-27 01:05:00",
+        "sentiment_score": 0.009956896305084229
+    },
+    {
+        "title": "La ‘66 Festa da Lamprea de Arbo’ se pasea por Barcelona",
+        "image_url": "https://static.laregion.es/clip/cab0b561-1976-42ae-88eb-0cf68dcf2ce5_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "arbo",
+            "fiestas gastronomicas"
+        ],
+        "link": "https://www.atlantico.net/condado-paradanta/66-festa-da-lamprea-arbo_1_20260327-4215609.html",
+        "date": "2026-03-27 02:30:29",
+        "sentiment_score": 0.32776976749300957
+    },
+    {
+        "title": "La joven Noelia Castillo recibe la eutanasia tras un largo periplo judicial",
+        "image_url": "https://lanacionweb.com/fotoedicion/2026/03/eutanasia.webp",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://lanacionweb.com/internacional/la-joven-noelia-castillo-recibe-la-eutanasia-tras-un-largo-periplo-judicial/",
+        "date": "2026-03-27 02:10:48",
+        "sentiment_score": -0.47289591282606125
+    },
+    {
+        "title": "Rosalía sufre intoxicación alimentaria y suspende show",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2026/03/ROSALIA.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://primicia.com.ve/placeres/rosalia-sufre-intoxicacion-alimentaria-y-suspende-show/",
+        "date": "2026-03-27 02:00:05",
+        "sentiment_score": -0.8125621760264039
+    },
+    {
+        "title": "Así fue la eutanasia de Noelia Castillo: ella sola con una médica, 3 fármacos y sus padres y grupos provida en el exterior",
+        "image_url": "https://s3.elespanol.com/2026/03/26/actualidad/1003744185692_262152201_1706x960.jpg",
+        "tags": [
+            "barcelona",
+            "reportajes",
+            "españa",
+            "eutanasia",
+            "cataluña"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260327/eutanasia-noelia-castillo-sola-medica-farmacos-padres-grupos-provida-exterior/1003744184577_0.html",
+        "date": "2026-03-27 01:50:38",
+        "sentiment_score": -0.7009962685406208
+    },
+    {
+        "title": "En la cima inmobiliaria: el lujo de vivir en los municipios más caros de España",
+        "image_url": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/03/26/17745569817058.jpg",
+        "tags": [
+            "casas",
+            "inmobiliario",
+            "inmobiliario/casas"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/casas/2026/03/27/69c596ff468aeb06378b459b.html",
+        "date": "2026-03-27 01:48:57",
+        "sentiment_score": 0.29310037195682526
+    },
+    {
+        "title": "La joven Noelia recibió la eutanasia en España tras dura batalla legal y revuelo mediático",
+        "image_url": "https://www.el-carabobeno.com/wp-content/uploads/2026/03/Hospital-espanol-eutanasia.webp",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.el-carabobeno.com/la-joven-noelia-recibio-la-eutanasia-en-espana-tras-dura-batalla-legal-y-revuelo-mediatico/",
+        "date": "2026-03-27 01:26:42",
+        "sentiment_score": -0.8631496531888843
+    },
+    {
+        "title": "Una joven de 25 años recibe la eutanasia en España: un caso que genera controversia legal y mediática",
+        "image_url": "https://s.france24.com/media/display/be2bdb0e-2965-11f1-98f6-005056a90284/w:1280/p:16x9/FOTO-PORTADA-ESPAN%CC%83A-EUTANASIA-NOELIA.jpg",
+        "tags": [
+            "paraplejía",
+            "pedro sánchez",
+            "cataluña",
+            "europa",
+            "eutanasia",
+            "salud",
+            "suicidio asistido",
+            "españa",
+            "muerte asistida"
+        ],
+        "link": "https://www.france24.com/es/europa/20260327-una-joven-de-25-a%C3%B1os-recibe-la-eutanasia-en-espa%C3%B1a-un-caso-que-genera-controversia-legal-y-medi%C3%A1tica",
+        "date": "2026-03-27 01:25:45",
+        "sentiment_score": -0.09380052983760834
+    },
+    {
+        "title": "La española Noelia Castillo recibió la eutanasia tras una lucha judicial contra su padre",
+        "image_url": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/noelia-castillo-okey-737da3.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://noticiasvenevision.com/noticias/internacional/la-espanola-noelia-castillo-recibe-la-eutanasia-tras-una-lucha-judicial-contra-su-padre",
+        "date": "2026-03-27 01:17:00",
+        "sentiment_score": -0.8346438044682145
     }
 ];
