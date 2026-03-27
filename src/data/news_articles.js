@@ -1,355 +1,5 @@
 export default [
     {
-        "title": "Asistencia de taco de Giuliano Simeone y golazo de Nahuel Molina: las perlitas del Atlético de Madrid en la caída ante el Real Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/P5CH7Y26U5CBVBVRMJZLJCQG2M.JPG?auth=308ea3f1ec469ef996b873970f40ab8f533edc93c1c556c2dbc91852242d81b1&smart=true&width=3506&height=1972",
-        "tags": [
-            "deportes-argentina",
-            "giuliano simeone",
-            "julián álvarez",
-            "nahuel molina",
-            "la liga",
-            "atlético de madrid",
-            "real madrid"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/22/asistencia-de-taco-de-giuliano-simeone-y-golazo-de-nahuel-molina-las-perlitas-del-atletico-de-madrid-en-la-caida-ante-el-real-madrid/",
-        "date": "2026-03-22 22:49:27",
-        "sentiment_score": -0.04043525457382202
-    },
-    {
-        "title": "Simeone: “No creo que no hayamos ganado por el árbitro; pudimos haber hecho más”",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/22/simeone-no-creo-que-no-hayamos-ganado-por-el-arbitro-pudimos-haber-hecho-mas/",
-        "date": "2026-03-22 22:45:45",
-        "sentiment_score": -0.2839161902666092
-    },
-    {
-        "title": "La selección española se concentra este lunes para los amistosos ante Serbia y Egipto",
-        "image_url": "https://www.infobae.com/resizer/v2/KCRW6NSDJREPNDK7G4WDVFU3RY.jpg?auth=e879aa0461e20a889f1b0d21156576a4e57d793d05185f8b658a702c955f6965&smart=true&width=1920&height=1280",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/22/la-seleccion-espanola-se-concentra-este-lunes-para-los-amistosos-ante-serbia-y-egipto/",
-        "date": "2026-03-22 22:45:42",
-        "sentiment_score": 0.07170837372541428
-    },
-    {
-        "title": "Crónica del Real Madrid - Atlético de Madrid: 3-2",
-        "image_url": "https://www.infobae.com/resizer/v2/KAQOIGCCVFEX5C4QZF3RXGEUVY.jpg?auth=f3a05750043cecd3870064b8dee9c475b5f9bbdc2f0ab6420f7f83f025d1d07b&smart=true&width=1920&height=1280",
-        "tags": [
-            "madrid",
-            "santiago bernabéu",
-            "nahuel molina",
-            "kylian mbappé",
-            "atlético de madrid",
-            "vinícius júnior",
-            "europapress",
-            "fede valverde",
-            "derbi madrileño",
-            "real madrid",
-            "laliga"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/22/cronica-del-real-madrid-atletico-de-madrid-3-2/",
-        "date": "2026-03-22 22:45:34",
-        "sentiment_score": 0.7345041036605835
-    },
-    {
-        "title": "VÍDEO | Nuevo lío Vinícius-Simeone: Las quejas del 'Cholo' a los gestos del brasileño",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/310x310/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/03/22/image-01856da1-da92-4671-9386-e1a5651070ca-68-310-310.jpeg",
-        "tags": [
-            "football",
-            "la liga 2025/2026"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/nuevo-lio-vinicius-simeone-quejas-cholo-real-madrid-atletico_sto23283703/story.shtml",
-        "date": "2026-03-22 22:45:18",
-        "sentiment_score": 0.6700233817100525
-    },
-    {
-        "title": "Simeone: “No creo que no hayamos ganado por el árbitro; pudimos haber hecho más”",
-        "image_url": "https://qpwebsite.s3.amazonaws.com/uploads/2026/03/rss-efedd850a784a5b42f0967a81f1e2c41dcaf0268249w.jpg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://quepasamedia.com/deportes/simeone-no-creo-que-no-hayamos-ganado-por-el-arbitro-pudimos-haber-hecho-mas/",
-        "date": "2026-03-22 22:43:40",
-        "sentiment_score": -0.18699237704277039
-    },
-    {
-        "title": "El Real Madrid atropella a un Barça desmoronado",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/6fa07a8c-b83d-427e-a0d576bd7312ac07.jpg",
-        "tags": [
-            "facundo campazzo",
-            "liga acb",
-            "real madrid",
-            "fc barcelona",
-            "liga endesa"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zafd0bbe5-9137-49aa-b749cbdae3e66b1f/202603/el-real-madrid-atropella-a-un-barca-desmoronado",
-        "date": "2026-03-22 22:42:55",
-        "sentiment_score": 0.7773517277091742
-    },
-    {
-        "title": "El Real Madrid se hace con un derbi espectacular para seguir vivo en la Liga",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/22/realmadrid-atletico-vinicius-cronica-kXoD-U201318459768d0D-758x531@RC.jpg",
-        "tags": [
-            "real madrid",
-            "atlético de madrid"
-        ],
-        "link": "https://www.ideal.es/deportes/futbol/liga-primera/cronica-realmadrid-atletico-primera-jornada29-20260322182836-ntrc.html",
-        "date": "2026-03-22 22:41:28",
-        "sentiment_score": -0.6098413653671741
-    },
-    {
-        "title": "Real Madrid se quedó con el Derbi y con uno menos en canch: Venció al Atlético en el Bernabéu",
-        "image_url": "https://noticiasaldiayalahora.co/wp-content/uploads/2026/03/Vinicius.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://noticiasaldiayalahora.co/sin-categoria/real-madrid-se-quedo-con-el-derbi-y-con-uno-menos-en-canch-vencio-al-atletico-en-el-bernabeu/",
-        "date": "2026-03-22 22:40:16",
-        "sentiment_score": -0.06275667995214462
-    },
-    {
-        "title": "Así fue la expulsión de Valverde en el partido entre el Real Madrid y el Atlético de Madrid, tras un nuevo encontronazo con Baena",
-        "image_url": "https://www.infobae.com/resizer/v2/KJWY4REK3BF2ZPFUB5N5L7W6ZU.JPG?auth=21a0ca0d55dfd0d88cb82db3bcac7b5ec6ac1b115a26a871d407f4d2a3f88972&smart=true&width=3044&height=1712",
-        "tags": [
-            "españa-noticias",
-            "españa-deportes",
-            "atlético de madrid",
-            "fútbol españa",
-            "fútbol",
-            "real madrid"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2026/03/22/asi-fue-la-expulsion-de-valverde-en-el-partido-entre-el-real-madrid-y-el-atletico-de-madrid-tras-un-nuevo-encontronazo-con-baena/",
-        "date": "2026-03-22 22:39:29",
-        "sentiment_score": -0.005130261182785034
-    },
-    {
-        "title": "Un turista en el Reino de Saba",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/03/22/214349066-kWiE--758x531@El%20Comercio.jpg",
-        "tags": [
-            "saba",
-            "turista",
-            "reino"
-        ],
-        "link": "https://www.elcomercio.es/opinion/ignacio-del-valle-turista-reino-saba-20260323221415-nt.html",
-        "date": "2026-03-22 22:43:25",
-        "sentiment_score": -0.10269962251186371
-    },
-    {
-        "title": "El maldito apeadero",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/03/20/pedro-sanchez-ktXF--170x119@diario_abc.jpg",
-        "tags": [
-            "apeadero",
-            "maldito"
-        ],
-        "link": "https://www.elcomercio.es/opinion/carlos-prieto-maldito-apeadero-20260323221242-nt.html",
-        "date": "2026-03-22 22:43:25",
-        "sentiment_score": -0.46129801124334335
-    },
-    {
-        "title": "El Barça refuerza su liderato con un gol de Araujo",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/22/2026032223420340421.jpg",
-        "tags": [
-            "bar&ccedil;a"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/barca-refuerza-liderato-gol-araujo/20260322234203443634.html",
-        "date": "2026-03-22 22:42:03",
-        "sentiment_score": 0.3657475560903549
-    },
-    {
-        "title": "Vinicius mantiene a flote al Madrid antes del parón",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/22/vinicius-mantiene-a-flote-al-madrid-antes-del-paron/",
-        "date": "2026-03-22 22:34:50",
-        "sentiment_score": 0.2400038093328476
-    },
-    {
-        "title": "Impacto en el mercado de pases: Antoine Griezmann quedó a punto de firmar con el clásico rival del Inter Miami de Messi",
-        "image_url": "https://www.infobae.com/resizer/v2/ZZDQXQVO2BE25FMKEY5DOFOWOE.JPG?auth=c70c672aebf7447dad84f72b343f3b9004c96662819290c772368f731a6ddcc8&smart=true&width=2430&height=1596",
-        "tags": [
-            "major league soccer",
-            "orlando city",
-            "deportes-argentina",
-            "atlético de madrid",
-            "antoine griezmann"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/23/impacto-en-el-mercado-de-pases-antoine-griezmann-quedo-a-punto-de-firmar-con-el-clasico-rival-del-inter-miami-de-messi/",
-        "date": "2026-03-23 02:17:21",
-        "sentiment_score": 0.11958451941609383
-    },
-    {
-        "title": "El menú de \"Las Delicias\" sigue en el paladar y sale a subasta: el restaurante de Gijón donde Tierno Galván organizó la comanda y comió la cúpula de Play Boy",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9a47c620-aed7-4f61-b16f-112ef1e3b824_16-9-aspect-ratio_default_0_x597y240.jpg",
-        "tags": [
-            "somió",
-            "gastronomía"
-        ],
-        "link": "https://www.lne.es/gijon/2026/03/23/menu-delicias-sigue-paladar-sale-128285689.html",
-        "date": "2026-03-23 01:59:23",
-        "sentiment_score": 0.6160118281841278
-    },
-    {
-        "title": "Griezmann viaja a Estados Unidos para fichar por Orlando para la próxima temporada",
-        "image_url": "https://qpwebsite.s3.amazonaws.com/uploads/2026/03/rss-efe6f117e58dcd487731863e0b6fe8a3e9185dd5977w.jpg",
-        "tags": [
-            "mls",
-            "fútbol"
-        ],
-        "link": "https://quepasamedia.com/deportes/griezmann-viaja-a-estados-unidos-para-fichar-por-orlando-para-la-proxima-temporada/",
-        "date": "2026-03-23 01:34:33",
-        "sentiment_score": 0.015737280249595642
-    },
-    {
-        "title": "Griezmann viaja a Estados Unidos para fichar por Orlando para la próxima temporada",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/23/griezmann-viaja-a-estados-unidos-para-fichar-por-orlando-para-la-proxima-temporada/",
-        "date": "2026-03-23 01:15:37",
-        "sentiment_score": 0.04148062318563461
-    },
-    {
-        "title": "Deportes | El Elche CF regatea un marrón mayúsculo en otro fin de semana de infarto en la lucha por la permanencia",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1807799.jpg",
-        "tags": [
-            "elche cf"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-elche-cf-regatea-un-marron-mayusculo-en-otro-fin-de-semana-de-infarto-en-la-lucha-por-la-permanencia",
-        "date": "2026-03-23 01:00:47",
-        "sentiment_score": -0.4241041839122772
-    },
-    {
-        "title": "22 MAR 2026 | EL TERTULIÓN DE LOS DOMINGOS",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/01/06/677b2375741e9.jpeg",
-        "tags": [
-            "mar",
-            "22",
-            "tertulión",
-            "2026",
-            "domingos"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/22-mar-2026-tertulion-domingos-20260323_3331510.html",
-        "date": "2026-03-23 01:00:05",
-        "sentiment_score": -0.40828558802604675
-    },
-    {
-        "title": "Real Madrid triunfa en el derbi contra el Atlético y se mantiene al acecho del Barcelona",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/22204942/Real-Madrid-.jpg",
-        "tags": [
-            "real madrid",
-            "atlético de madrid"
-        ],
-        "link": "https://www.elnacional.com/2026/03/real-madrid-triunfa-en-el-derbi-contra-el-atletico-y-se-mantiene-al-acecho-del-barcelona/",
-        "date": "2026-03-23 00:51:33",
-        "sentiment_score": 0.19352473318576813
-    },
-    {
-        "title": "Copa de la Reina de Baloncesto: Historia, récords y datos clave del torneo 'fetiche' de Perfumerías Avenida",
-        "image_url": "https://www.tribunasalamanca.com/uploads/imagenes/images/2026/3/23/438318/20260322185212_caratula.webP",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.tribunasalamanca.com/noticias/438318/copa-de-la-reina-de-baloncesto-historia-records-y-datos-clave-del-torneo-fetiche-de-perfumerias-avenida",
-        "date": "2026-03-23 00:38:00",
-        "sentiment_score": 0.7384500280022621
-    },
-    {
-        "title": "«He planteado mi accidente doméstico como un rito de maduración»",
-        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2026/03/22/marta-jimenez-serrano-k5NC-U2013397227012fD-758x531@El%20Correo.jpg",
-        "tags": [
-            "bbk",
-            "novela"
-        ],
-        "link": "https://www.elcorreo.com/culturas/aula-de-cultura/planteado-accidente-domestico-rito-maduracion-20260322170802-nt.html",
-        "date": "2026-03-23 00:34:59",
-        "sentiment_score": -0.28690632432699203
-    },
-    {
-        "title": "Le conoció, se enamoró de él y poco después vio que iba en silla de ruedas",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4421467.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.ultimahora.es/noticias/sociedad/2026/03/23/2594553/conocio-enamoro-poco-despues-vio-iba-silla-ruedas.html",
-        "date": "2026-03-23 02:48:01",
-        "sentiment_score": 0.25111304223537445
-    },
-    {
-        "title": "11 frases de Úbeda tras el triunfo de Boca: enorme elogio a Tomás Aranda, la lesión de Marchesín, cómo está Cavani y la Libertadores",
-        "image_url": "https://www.infobae.com/resizer/v2/YHXYUISJVRAUTCXRAHY7MNGF2E.JPG?auth=18500b0e0f31a9178bda270a5edd312e1310c8330a52c73a6afbe565d73b6f60&smart=true&width=1680&height=945",
-        "tags": [
-            "agustín marchesín",
-            "tomás aranda",
-            "edinson cavani",
-            "boca juniors",
-            "copa libertadores",
-            "instituto",
-            "claudio úbeda"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/23/11-frases-de-ubeda-tras-el-triunfo-de-boca-enorme-elogio-a-tomas-aranda-la-lesion-de-marchesin-como-esta-cavani-y-la-libertadores/",
-        "date": "2026-03-23 02:41:06",
-        "sentiment_score": 0.8229598943144083
-    },
-    {
-        "title": "Pronóstico del clima: las temperaturas que se esperan en Barcelona este 23 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&smart=true&width=1920&height=1080",
-        "tags": [
-            "clima",
-            "clima en españa",
-            "clima en barcelona",
-            "últimas actualizaciones"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/23/pronostico-del-clima-las-temperaturas-que-se-esperan-en-barcelona-este-23-de-marzo/",
-        "date": "2026-03-23 02:16:45",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "¿Para quién trabaja Puente?",
-        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "trabaja",
-            "puente"
-        ],
-        "link": "https://www.malagahoy.es/opinion/articulos/trabaja-puente_0_2006267046.html",
-        "date": "2026-03-23 02:09:09",
-        "sentiment_score": -0.7090990319848061
-    },
-    {
-        "title": "Independiente mantiene el liderato en Ecuador y Benedetto salva empate para el Barcelona",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/23/independiente-mantiene-el-liderato-en-ecuador-y-benedetto-salva-empate-para-el-barcelona/",
-        "date": "2026-03-23 02:00:17",
-        "sentiment_score": 0.6925178989768028
-    },
-    {
-        "title": "Mujer señala a Alfonso Waithsman, ‘maquillista de las estrellas’, por agresión e intimidación: “Actitud peligrosa”",
-        "image_url": "https://www.infobae.com/resizer/v2/JJJZKYMAINBB3J6DZKI45QRFZI.JPG?auth=cf4e1fc1d79119c2ba6336e6075009c24e5ec8273e86f5a45c661b5c88fedfac&smart=true&width=706&height=488",
-        "tags": [
-            "cdmx",
-            "mexico-entretenimiento",
-            "alfonso waithsman"
-        ],
-        "link": "https://www.infobae.com/mexico/2026/03/23/mujer-senala-a-alfonso-waithsman-maquillista-de-las-estrellas-por-agresion-e-intimidacion-actitud-peligrosa/",
-        "date": "2026-03-23 01:36:32",
-        "sentiment_score": 0.10140475630760193
-    },
-    {
         "title": "07:00H | 23 MAR 2026 | Herrera en COPE",
         "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67cfe50112eb6.jpeg",
         "tags": [
@@ -3249,5 +2899,233 @@ export default [
         "link": "https://www.elperiodico.com/es/barcelona/20260326/barcelona-mosso-rompe-escaparate-ladron-roba-movil-128427097",
         "date": "2026-03-26 07:02:16",
         "sentiment_score": -0.26208145916461945
+    },
+    {
+        "title": "¿Sucesión o traición? El avance de Delcy Rodríguez en el tablero chavista lejos de Nicolás Maduro",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/photo_5053324775652002711_y.jpg",
+        "tags": [
+            "delcy rodriguez",
+            "nicolás maduro"
+        ],
+        "link": "https://lapatilla.com/2026/03/26/sucesion-o-traicion-el-avance-de-delcy-rodriguez-en-el-tablero-chavista-lejos-de-nicolas-maduro/",
+        "date": "2026-03-26 13:56:56",
+        "sentiment_score": -0.0727141946554184
+    },
+    {
+        "title": "18:00H | 26 MAR 2026 | La Tarde",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67d05b36b2414.jpeg",
+        "tags": [
+            "2026",
+            "00h",
+            "26",
+            "18",
+            "mar"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/18-00h-26-mar-2026-tarde-20260326_3334880.html",
+        "date": "2026-03-26 18:05:00",
+        "sentiment_score": -0.2634265720844269
+    },
+    {
+        "title": "El Valencia Basket quiere atar como mínimo el play-in ante el Partizan Belgrado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d0756f83-3a48-47e4-8da3-28c6d64bd7e5_16-9-aspect-ratio_default_0_x845y560.jpg",
+        "tags": [
+            "xabi lópez-arostegui",
+            "jean montero",
+            "olympiacos",
+            "euroliga",
+            "valencia basket",
+            "partizan belgrado"
+        ],
+        "link": "https://www.superdeporte.es/valencia-basket/2026/03/26/valencia-basket-quiere-asegurar-minimo-play-in-euroliga-partizan-belgrado-128454292.html",
+        "date": "2026-03-26 18:04:08",
+        "sentiment_score": -0.12378478050231934
+    },
+    {
+        "title": "Las sucesoras de Aitana Bonmatí, Graham Hansen y Mapi León impulsan al Barça Femenino hacia el triplete",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/26/actualidad/1003742745780_15887093_1706x960.jpg",
+        "tags": [
+            "champions league",
+            "secciones",
+            "fcbfemeni",
+            "futfem"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260326/aitana-bonmati-graham-hansen-mapi-barca-femenino/1003742745767_0.html",
+        "date": "2026-03-26 18:03:57",
+        "sentiment_score": 0.8869071956723928
+    },
+    {
+        "title": "COAG apoya las medidas adoptadas por la guerra aunque sean insuficientes a largo plazo",
+        "image_url": "https://i-invdn-com.investing.com/news/oil_2_800x533_L_1412692774.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://es.investing.com/news/stock-market-news/coag-apoya-las-medidas-adoptadas-por-la-guerra-aunque-sean-insuficientes-a-largo-plazo-3580119",
+        "date": "2026-03-26 18:02:39",
+        "sentiment_score": -0.07031849026679993
+    },
+    {
+        "title": "Àlex Moreno: \"Tenemos que llegar a los 42 puntos y luego ya veremos\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/26/alex-moreno-tenemos-que-llegar-a-los-42-puntos-y-luego-ya-veremos/",
+        "date": "2026-03-26 18:02:10",
+        "sentiment_score": 0.12441037222743034
+    },
+    {
+        "title": "Los chatbots de IA refuerzan las creencias erróneas de los usuarios",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/d26d528cf61e2d7a9003340864678771/crop/69x46/2017x1344/resize/1948/assets/multimedia/imagenes/2026/03/26/17745102325950.jpg",
+        "tags": [
+            "directivos/estilo-vida/salud",
+            "salud y ciencia",
+            "inteligencia artificial"
+        ],
+        "link": "https://www.expansion.com/directivos/estilo-vida/salud/2026/03/26/69c4dee5e5fdeaef088b458d.html",
+        "date": "2026-03-26 18:00:00",
+        "sentiment_score": -0.02434486150741577
+    },
+    {
+        "title": "Carlos Cuerpo, en las distancias cortas: un vicepresidente políglota y el mejor valorado en el CIS",
+        "image_url": "https://img2.huffingtonpost.es/files/og_thumbnail/uploads/2026/03/26/carlos-cuerpo-el-pasado-martes.jpeg",
+        "tags": [
+            "carlos cuerpo"
+        ],
+        "link": "https://www.huffingtonpost.es/politica/carlos-cuerpo-vicepresidente-poliglota-mejor-valorado-f202603.html",
+        "date": "2026-03-26 17:55:51",
+        "sentiment_score": -0.03382337838411331
+    },
+    {
+        "title": "La POP pide a Sanidad y CCAA que el Consejo Interterritorial del SNS sirva para poner fin a la huelga médica",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260326184604_1200.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infosalus.com/actualidad/noticia-pop-pide-sanidad-ccaa-consejo-interterritorial-sns-sirva-poner-fin-huelga-medica-20260326184604.html",
+        "date": "2026-03-26 17:46:04",
+        "sentiment_score": -0.30635610967874527
+    },
+    {
+        "title": "Reabiertas las negociaciones entre Sanidad y los médicos \"en un clima de diálogo en el que hará falta la voluntad de todas las partes\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8de021f0-cbba-4d1e-92c9-6d96ed47f63e_alta-libre-aspect-ratio_default_0_x794y353.jpg",
+        "tags": [
+            "hospitales",
+            "mónica garcía gómez",
+            "huelgas",
+            "ministerio de sanidad",
+            "médicos"
+        ],
+        "link": "https://www.elperiodico.com/es/sanidad/20260326/reabiertas-negociaciones-sanidad-medicos-clima-dialogo-falta-esfuerzo-partes-128451953",
+        "date": "2026-03-26 17:44:53",
+        "sentiment_score": 0.04471893608570099
+    },
+    {
+        "title": "El Congreso de Salud Mental en el Deporte congrega a 350 participantes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8811de88-4286-4b68-829e-3ec2a143abef_16-9-aspect-ratio_default_0_x562y281.jpg",
+        "tags": [
+            "deportes",
+            "psicología",
+            "salud mental",
+            "deporte",
+            "congreso",
+            "árbitros",
+            "ffrm"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2026/03/26/congreso-salud-mental-deporte-congrega-128456337.html",
+        "date": "2026-03-26 17:41:07",
+        "sentiment_score": 0.35192248225212097
+    },
+    {
+        "title": "Abogados Cristianos tenía la esperanza de que la joven de Barcelona reconsiderara su eutanasia",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/202603/26/media/cortadas/abogados-cristianos-tena-esperanza-joven-barcelona-reconsiderara-20260326175522-vi.jpg",
+        "tags": [
+            "vídeos de agencias"
+        ],
+        "link": "https://www.elcomercio.es/sociedad/sucesos/abogados-cristianos-tena-esperanza-joven-barcelona-reconsiderara-20260326175522-vi.html",
+        "date": "2026-03-26 18:05:38",
+        "sentiment_score": 0.01788569986820221
+    },
+    {
+        "title": "El TC admite a trámite un recurso del PP contra la cesión de interventores a Cataluña",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/26/el-tc-admite-a-tramite-un-recurso-del-pp-contra-la-cesion-de-interventores-a-cataluna/",
+        "date": "2026-03-26 18:03:35",
+        "sentiment_score": -0.1537342518568039
+    },
+    {
+        "title": "Una emprendedora argentina y un astrofísico mexicano, Premio Princesa Girona Internacional",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/26/una-emprendedora-argentina-y-un-astrofisico-mexicano-premio-princesa-girona-internacional/",
+        "date": "2026-03-26 18:03:01",
+        "sentiment_score": 0.35718705505132675
+    },
+    {
+        "title": "Todo sobre el Barça-Unicaja de la Liga Endesa: fecha, hora y dónde verlo por televisión",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/142968df-4585-4cd1-abb6-93d8c63c7862_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "la liga",
+            "barça",
+            "unicaja",
+            "xavi",
+            "endesa"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2026/03/26/barca-unicaja-liga-endesa-fecha-128457518.html",
+        "date": "2026-03-26 18:02:46",
+        "sentiment_score": -0.15707823634147644
+    },
+    {
+        "title": "Un nuevo fósil revela los orígenes de los simios",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260326190058_1200.jpg",
+        "tags": [
+            "arqueología",
+            "egipto"
+        ],
+        "link": "https://www.europapress.es/ciencia/laboratorio/noticia-nuevo-fosil-revela-origenes-simios-20260326190058.html",
+        "date": "2026-03-26 18:00:58",
+        "sentiment_score": 0.21962027251720428
+    },
+    {
+        "title": "La Apdcat pide que la ley de servicios digitales reconozca competencias a autoridades autonómicas",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260326190034_1200.jpg",
+        "tags": [
+            "protección de datos",
+            "congreso de los diputados"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-apdcat-pide-ley-servicios-digitales-reconozca-competencias-autoridades-autonomicas-20260326190034.html",
+        "date": "2026-03-26 18:00:34",
+        "sentiment_score": 0.06249871104955673
+    },
+    {
+        "title": "El cambio de hora dispara un 38% el gasto en bares",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/04/14/2025041407121148305.jpg",
+        "tags": [
+            "última hora"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/vivir/cambio-hora-reduce-ventas-tarde-comercios-complica-organizacion-88/20251002190041982487.html",
+        "date": "2026-03-26 18:00:00",
+        "sentiment_score": 0.5354969464242458
+    },
+    {
+        "title": "La mirada más completa al universo de Matisse llega a CaixaForum",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/03/26/7331BAFF-7935-4AA5-A64C-C87BF1A7C571/96.jpg?crop=1920,1080,x0,y180&width=1200&height=675&optimize=low&format=webply",
+        "tags": [
+            "arte",
+            "cultura",
+            "exposición",
+            "caixaforum barcelona"
+        ],
+        "link": "https://www.larazon.es/cataluna/mirada-mas-completa-universo-matisse-llega-caixaforum_2026032669c573c483aca52e0e3a6ffb.html",
+        "date": "2026-03-26 17:58:28",
+        "sentiment_score": 0.8961038645356894
     }
 ];
