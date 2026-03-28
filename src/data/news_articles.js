@@ -1,17 +1,5 @@
 export default [
     {
-        "title": "¿Qué pasó con el avión de Air Canada y cómo se estrelló en el aeropuerto LaGuardia con un camión?",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/Screenshot_124.jpg",
-        "tags": [
-            "air canada",
-            "aeropuerto laguardia",
-            "avion"
-        ],
-        "link": "https://lapatilla.com/2026/03/24/que-paso-con-el-avion-de-air-canada-y-como-se-estrello-en-el-aeropuerto-laguardia-con-un-camion/",
-        "date": "2026-03-24 12:10:32",
-        "sentiment_score": -0.7544825710356236
-    },
-    {
         "title": "Luis García Plaza, nuevo entrenador del Sevilla hasta junio de 2027",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/49e1c49d-5a9d-4c8f-a4bb-a512a72716bf_16-9-aspect-ratio_default_0_x1024y455.jpg",
         "tags": [
@@ -3043,5 +3031,279 @@ export default [
         "link": "https://www.deia.eus/athletic/2026/03/27/simon-laporte-mundial-penultimo-examen-titulares-10878099.html",
         "date": "2026-03-27 22:01:39",
         "sentiment_score": 0.38310767710208893
+    },
+    {
+        "title": "Ataque aéreo israelí impacta en un campamento de desplazados en Gaza",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "gaza",
+            "genocidio",
+            "israel"
+        ],
+        "link": "https://www.meneame.net/story/ataque-aereo-israeli-impacta-campamento-desplazados-gaza",
+        "date": "2026-03-28 02:00:03",
+        "sentiment_score": -0.8507484262809157
+    },
+    {
+        "title": "Nico Paz se estrena con Argentina y lanza su candidatura con un gol de falta espectacular",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/28/2026032802515492561.jpg",
+        "tags": [
+            "argentina",
+            "mauritania",
+            "la bombonera",
+            "nico paz",
+            "futbol"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/nico-paz-estrena-argentina-lanza-candidatura-gol-falta-espectacular/20260328025313380378.html",
+        "date": "2026-03-28 01:53:13",
+        "sentiment_score": 0.8023272063583136
+    },
+    {
+        "title": "Las exigencias de Arcadi España a Montero que ahora tiene en su mano: \"La reforma de la financiación es urgente\"",
+        "image_url": "https://s3.elespanol.com/2026/03/27/actualidad/1003744187087_262169546_1706x960.jpg",
+        "tags": [
+            "valencia",
+            "comunidad valenciana",
+            "financiación autonómica",
+            "ministerio de hacienda"
+        ],
+        "link": "https://www.elespanol.com/valencia/20260328/exigencias-arcadi-espana-montero-ahora-mano-reforma-financiacion-urgente/1003744186230_0.html",
+        "date": "2026-03-28 01:43:17",
+        "sentiment_score": -0.07239951193332672
+    },
+    {
+        "title": "Cofradías de Almería perdidas en la memoria ciudadana",
+        "image_url": "https://static.grupojoly.com/clip/b2298ba2-a22a-4ca6-9047-12e068c53732_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "memoria",
+            "cofradias",
+            "almeria",
+            "ciudadana",
+            "perdidas"
+        ],
+        "link": "https://www.diariodealmeria.es/semanasanta/cofradias-almeria-perdidas-memoria-ciudadana_0_2006200561.html",
+        "date": "2026-03-28 01:15:27",
+        "sentiment_score": -0.6019745022058487
+    },
+    {
+        "title": "Mei Rui, la virtuosa americana del piano que trata el cáncer o la demencia tocando a Mozart: \"Ha servido en el Ejército y la NASA\"",
+        "image_url": "https://s3.elespanol.com/2026/03/27/actualidad/1003744186671_262164181_1706x960.jpg",
+        "tags": [
+            "conciertos",
+            "neurociencia",
+            "sociedad",
+            "música"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20260328/mei-rui-virtuosa-americana-piano-trata-cancer-demencia-tocando-mozart-servido-ejercito-nasa/1003744186063_0.html",
+        "date": "2026-03-28 01:00:00",
+        "sentiment_score": 0.1813334822654724
+    },
+    {
+        "title": "Nico Paz anotó su primer gol con la camiseta de la selección argentina: su gran tiro libre ante Mauritania en La Bombonera",
+        "image_url": "https://www.infobae.com/resizer/v2/LRIOGJ2SJBFMPCTVHMU2IUUB3M.JPG?auth=d516622deb8b30ed29c73258f383dd078d01a3d3b4ae9182fd8897d7874c91a1&smart=true&width=993&height=559",
+        "tags": [
+            "lionel scaloni",
+            "la bombonera",
+            "mundial 2026",
+            "nico paz",
+            "selección argentina",
+            "como",
+            "mauritania"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/03/28/nico-paz-anoto-su-primer-gol-con-la-camiseta-de-la-seleccion-argentina-su-gran-tiro-libre-ante-mauritania-en-la-bombonera/",
+        "date": "2026-03-28 00:40:29",
+        "sentiment_score": 0.7749924920499325
+    },
+    {
+        "title": "Balenciaga y Givenchy, cómplices de vida y oficio",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2026/03/27/1509246739-k6kC--758x531@El%20Correo.jpg",
+        "tags": [
+            "givenchy"
+        ],
+        "link": "https://www.elcorreo.com/culturas/arte/balenciaga-givenchy-complices-vida-oficio-20260327005926-nt.html",
+        "date": "2026-03-27 23:59:28",
+        "sentiment_score": 0.20044956356287003
+    },
+    {
+        "title": "Rafael Louzán: \"No sería entendible que España no fuese la sede de la final del Mundial\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260328005532_1200.jpg",
+        "tags": [
+            "argentina",
+            "rfef"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-rafael-louzan-no-seria-entendible-espana-no-fuese-sede-final-mundial-20260328005532.html",
+        "date": "2026-03-27 23:55:32",
+        "sentiment_score": -0.7716183084994555
+    },
+    {
+        "title": "Entrevista a Jone Amezaga: «Era inimaginable debutar en el Athletic, llegar a cien partidos es un sueño»",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2026/03/27/jone-amezaga-athletic%20-002-ksHI--758x531@El%20Correo.jpg",
+        "tags": [
+            "san mamés",
+            "atlético de madrid",
+            "liga primera división femenina",
+            "athletic de bilbao",
+            "fútbol femenino"
+        ],
+        "link": "https://www.elcorreo.com/deporte-femenino/futbol/athletic-femenino/entrevista-jone-amezaga-era-inimaginable-debutar-athletic-20260327163927-nt.html",
+        "date": "2026-03-27 23:55:23",
+        "sentiment_score": 0.40539949387311935
+    },
+    {
+        "title": "Sara Carbonero vive un derbi inolvidable con su hijo y celebra la remontada del Real Madrid",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/06/2026010620124685467.jpg",
+        "tags": [
+            "real madrid",
+            "iker casillas",
+            "mart&iacute;n casillas",
+            "laliga futures",
+            "sara carbonero"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/sara-carbonero-vive-derbi-inolvidable-hijo-celebra-remontada-real-madrid/20260328005317380370.html",
+        "date": "2026-03-27 23:53:17",
+        "sentiment_score": -0.8503845278173685
+    },
+    {
+        "title": "Fede Valverde: \"Puedo jugar por el medio y por fuera\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/27/fede-valverde-puedo-jugar-por-el-medio-y-por-fuera/",
+        "date": "2026-03-27 23:46:01",
+        "sentiment_score": 0.3057439401745796
+    },
+    {
+        "title": "Laura Meseguer: “Cuando todo el mundo usa las mismas tipografías la identidad de las ciudades se destruye, todas empiezan a parecer lo mismo”",
+        "image_url": "https://static.grupojoly.com/clip/d35e37f0-9a7c-4280-a0d9-3f486dc70d53_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "jerez hoy",
+            "últimas noticias jerez"
+        ],
+        "link": "https://www.diariodejerez.es/jerez/laura-meseguer-mundo-tipografias-identidad_0_2006306604.html",
+        "date": "2026-03-28 02:17:39",
+        "sentiment_score": 0.6851585581898689
+    },
+    {
+        "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&smart=true&width=1920&height=1080",
+        "tags": [
+            "clima en españa",
+            "últimas actualizaciones",
+            "clima en barcelona",
+            "clima"
+        ],
+        "link": "https://www.infobae.com/noticias/2026/03/28/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-barcelona/",
+        "date": "2026-03-28 02:01:03",
+        "sentiment_score": -0.05413059890270233
+    },
+    {
+        "title": "España inicia la Semana Santa más cara de la historia, pese a que el sector turístico contiene precios por la guerra",
+        "image_url": "https://s3.elespanol.com/2026/03/27/actualidad/1003744186127_262166862_1706x960.jpg",
+        "tags": [
+            "turismo",
+            "hoteles",
+            "semana santa"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/turismo/20260328/espana-inicia-semana-santa-cara-historia-pese-sector-turistico-contiene-precios-guerra/1003744186090_0.html",
+        "date": "2026-03-28 01:42:56",
+        "sentiment_score": -0.49077682197093964
+    },
+    {
+        "title": "Las dos posibles sanciones de la UEFA que amenazan al Barça de Laporta",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/08/20/culemania/palco/1003742682844_15036579_1706x960.jpg",
+        "tags": [
+            "joan laporta",
+            "josé maría enríquez negreira",
+            "palco",
+            "uefa",
+            "fc barcelona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260328/posibles-sanciones-uefa-amenazan-barca-laporta/1003742746240_0.html",
+        "date": "2026-03-28 01:32:08",
+        "sentiment_score": 0.026413768529891968
+    },
+    {
+        "title": "La Hora del Planeta vuelve a 'apagar' el mundo para poner en valor la acción colectiva ante la emergencia climática",
+        "image_url": "https://s3.elespanol.com/2016/03/20/espana/110999176_262170905_1706x960.jpg",
+        "tags": [
+            "la hora del planeta",
+            "objetivo 17: alianzas para lograr los objetivos",
+            "cambio climático",
+            "objetivo 13: acción por el clima",
+            "historias"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20260328/hora-planeta-vuelve-apagar-mundo-poner-valor-accion-colectiva-emergencia-climatica/1003744186775_0.html",
+        "date": "2026-03-28 00:45:00",
+        "sentiment_score": 0.5241276174783707
+    },
+    {
+        "title": "27 MAR 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/06/10/684828a972448.jpeg",
+        "tags": [
+            "2026",
+            "cope",
+            "27",
+            "partidazo",
+            "mar"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/27-mar-2026-partidazo-cope-20260328_3335860.html",
+        "date": "2026-03-28 00:40:00",
+        "sentiment_score": -0.5693937987089157
+    },
+    {
+        "title": "Los cuatro años infernales de Noelia Castillo bajo el sistema de tutela: \"Les drogan y golpean, lo de Epstein se queda corto\"",
+        "image_url": "https://s3.elespanol.com/2026/03/27/actualidad/1003744187289_262172523_1706x960.jpg",
+        "tags": [
+            "reportajes-newsletter-destacada",
+            "porfolio",
+            "cataluña",
+            "barcelona",
+            "españa",
+            "reportajes",
+            "generalitat de catalunya",
+            "eutanasia"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260328/anos-infernales-noelia-castillo-sistema-tutela-drogan-golpean-epstein-queda-corto/1003744187004_0.html",
+        "date": "2026-03-28 00:40:00",
+        "sentiment_score": -0.9297632249072194
+    },
+    {
+        "title": "Karina y María alquilan su vientre por Facebook: una cobró 12.000 € por el embarazo y vino a parir a España para su cliente",
+        "image_url": "https://s3.elespanol.com/2026/03/27/actualidad/1003744187302_262172696_1706x960.jpg",
+        "tags": [
+            "reportajes-newsletter",
+            "porfolio",
+            "reportajes",
+            "latinoamérica"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260328/karina-maria-alquilan-vientre-facebook-cobro-eur-embarazo-vino-parir-espana-cliente/1003744187291_0.html",
+        "date": "2026-03-28 00:40:00",
+        "sentiment_score": 0.03329373896121979
+    },
+    {
+        "title": "Vete en paz, Noelia",
+        "image_url": "https://static.laregion.es/clip/72379ffe-9f2c-412a-9568-0ed758259a33_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "eutanasia"
+        ],
+        "link": "https://www.atlantico.net/opinion/vete-paz-noelia_1_20260328-4217027.html",
+        "date": "2026-03-28 00:30:09",
+        "sentiment_score": 0.5706052370369434
+    },
+    {
+        "title": "Charnegos, guiris e integristas en Cataluña",
+        "image_url": "https://www.eldebate.com/images/el-debate.png",
+        "tags": [
+            "charnegos",
+            "cataluña",
+            "integristas",
+            "guiris",
+            "e"
+        ],
+        "link": "https://www.eldebate.com/opinion/en-primera-linea/20260328/charnegos-guiris-e-integristas-cataluna_401089.html",
+        "date": "2026-03-28 00:25:00",
+        "sentiment_score": -0.39572599343955517
     }
 ];
