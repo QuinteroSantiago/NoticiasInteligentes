@@ -1,457 +1,5 @@
 export default [
     {
-        "title": "Defensa prepara el desfile del Día de las Fuerzas Armadas en Vigo con un contrato clave",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/23/2026032323253320274.jpg",
-        "tags": [
-            "ministerio de defensa",
-            "d&iacute;a de las fuerzas armadas",
-            "desfile",
-            "felipe vi",
-            "ej&eacute;rcito de tierra",
-            "ej&eacute;rcito del aire",
-            "unidad militar de emergencias",
-            "reina letizia",
-            "desfile militar",
-            "patrulla acrob&aacute;tica de paracaidismo",
-            "fuerzas armadas",
-            "armada",
-            "guardia real"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/defensa/defensa-prepara-desfile-dia-fuerzas-armadas-vigo-contrato-clave/202603232344441011373.html",
-        "date": "2026-03-23 22:44:44",
-        "sentiment_score": 0.2028147429227829
-    },
-    {
-        "title": "Hansi Flick se deshizo en elogios con este jugador tras la victoria ante el Rayo",
-        "image_url": "https://pxcdn.meridiano.net/032026/1774305751394.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/hansi-flick-se-deshizo-en-elogios-con-este-jugador-tras-la-victoria-ante-el-rayo-202632318440",
-        "date": "2026-03-23 22:44:00",
-        "sentiment_score": 0.027152374386787415
-    },
-    {
-        "title": "No es un impuesto, es una entrada",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "entrada",
-            "impuesto"
-        ],
-        "link": "https://www.lasprovincias.es/opinion/antonio-badillo-impuesto-entrada-20260324232342-nt.html",
-        "date": "2026-03-23 22:30:56",
-        "sentiment_score": -0.7900965511798859
-    },
-    {
-        "title": "El Castellón se deja dos puntos en el 90 ante la Cultural",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260323231822_1200.jpg",
-        "tags": [
-            "cd castellón",
-            "primera división"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-castellon-deja-dos-puntos-90-cultural-20260323231822.html",
-        "date": "2026-03-23 22:18:22",
-        "sentiment_score": 0.3159782886505127
-    },
-    {
-        "title": "Klopp se 'desmarca' de un posible fichaje por el Real Madrid: \"Ni siquiera me han llamado\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/310x310/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/03/23/image-4535c4ff-1cc2-4328-8bf5-f9bb69be2105-68-310-310.jpeg",
-        "tags": [
-            "football"
-        ],
-        "link": "https://www.eurosport.es/futbol/jurgen-klopp-rechaza-entrenar-real-madrid-fichaje_sto23283977/story.shtml",
-        "date": "2026-03-23 22:10:24",
-        "sentiment_score": -0.818095319904387
-    },
-    {
-        "title": "Dinko Horkas: el número uno de la UD Las Palmas y la próxima gran venta",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bbba5064-99b5-452d-bccb-8a3114fca422_16-9-aspect-ratio_default_0_x543y511.jpg",
-        "tags": [
-            "cádiz",
-            "goles",
-            "burgos",
-            "ud las palmas",
-            "valles",
-            "gran canaria",
-            "ud"
-        ],
-        "link": "https://www.laprovincia.es/ud-las-palmas/2026/03/23/horkas-numero-ud-palmas-proxima-128332920.html",
-        "date": "2026-03-23 22:01:41",
-        "sentiment_score": 0.22573788464069366
-    },
-    {
-        "title": "Mbappé: \"En París encontré el diagnóstico correcto con mi rodilla\"",
-        "image_url": "https://www.cope.es/files/microformat_image/uploads/2026/03/20/69bd83a37d90e.jpeg",
-        "tags": [
-            "parís",
-            "mbappé",
-            "encontré",
-            "diagnóstico",
-            "correcto"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/mbappe-paris-encontre-diagnostico-correcto-mi-rodilla-20260323_3332327.html",
-        "date": "2026-03-23 21:53:49",
-        "sentiment_score": -0.10011732578277588
-    },
-    {
-        "title": "España arranca su concentración para los amistosos",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/105d876b-c5af-4973-bf2f77a4a38db6c4.jpg",
-        "tags": [
-            "fc barcelona",
-            "egipto",
-            "oriente próximo",
-            "real madrid",
-            "rodri hernández",
-            "serbia",
-            "selección española de fútbol",
-            "real federación española de fútbol",
-            "atlético de madrid",
-            "arsenal fc",
-            "estados unidos",
-            "luis de la fuente",
-            "méxico",
-            "athletic club",
-            "liga de naciones",
-            "real sociedad"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z5be63b07-eff1-47e9-b23ebb194e4fbc4e/202603/espana-arranca-su-concentracion-para-los-amistosos",
-        "date": "2026-03-23 21:34:13",
-        "sentiment_score": 0.021388165652751923
-    },
-    {
-        "title": "La Finalissima en llamas: Enzo Fernández provoca a España y Cucurella entra en escena",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/23/2026032322284191739.jpg",
-        "tags": [
-            "espa&ntilde;a",
-            "argentina",
-            "marc cucurella",
-            "chelsea-fc",
-            "enzo fern&aacute;ndez",
-            "finalissima"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/enzo-fernandez-reaviva-polemica-finalissima-dardo-espana-que-involucra-cucurella/20260323222856379828.html",
-        "date": "2026-03-23 21:28:56",
-        "sentiment_score": -0.7452322673052549
-    },
-    {
-        "title": "La película ganadora de un Goya basada en la vida de la Cañada Real acaba de llegar a Movistar Plus+",
-        "image_url": "https://www.infobae.com/resizer/v2/L6MI737H6ZHLTDWH7TM3NM74AM.webp?auth=adb599a35763726d65470ea78b8d8f3f009490a86b86acef8d7b549cff1796b9&smart=true&width=1024&height=576",
-        "tags": [
-            "festival de cannes",
-            "españa-cultura",
-            "cine",
-            "cañada real",
-            "españa noticias",
-            "cine españa",
-            "películas",
-            "premios goya"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2026/03/23/la-pelicula-ganadora-de-un-goya-basada-en-la-vida-de-la-canada-real-acaba-de-llegar-a-movistar-plus/",
-        "date": "2026-03-23 21:27:40",
-        "sentiment_score": 0.5404254999011755
-    },
-    {
-        "title": "Spotify Camp Nou, el gran trampolín de Limak para asentarse en Europa: retrasos, indemnizaciones y ERE",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/23/culemania/palco/1003742744664_15872642_1706x960.jpg",
-        "tags": [
-            "limak construction",
-            "palco",
-            "camp nou"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260323/spotify-camp-nou-limak-europa-indemnizaciones-ere/1003742744656_0.html",
-        "date": "2026-03-23 22:44:14",
-        "sentiment_score": -0.12769705057144165
-    },
-    {
-        "title": "Detenida joven de 18 años en Anzoátegui tras intoxicar a su bebé con \"tua tua\"",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/03/23173830/IMG_20260323_173813.jpg",
-        "tags": [
-            "policía nacional bolivariana",
-            "pnb",
-            "intoxicación",
-            "planta medicinal tua tua",
-            "hospital dr. luis razetti"
-        ],
-        "link": "https://www.elnacional.com/2026/03/detenida-joven-de-18-anos-en-anzoategui-tras-intoxicar-a-su-bebe-con-tua-tua/",
-        "date": "2026-03-23 22:43:20",
-        "sentiment_score": -0.8092506201937795
-    },
-    {
-        "title": "¡Bombazo! Stefan reconoce que tuvo una relación paralela al experimento en 'Casados a primera vista': \"No es nadie para mi\"",
-        "image_url": "https://album.mediaset.es/eimg/2026/03/23/diseno-sin-titulo-2026-03-23t233310-317-16-9-aspect-ratio-default-0_da39.jpg?w=1024",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.telecinco.es/television/20260323/casados-primera-vista-stefab-reconoce-relacion-paralela-experimento_18_018701075.html",
-        "date": "2026-03-23 22:34:04",
-        "sentiment_score": 0.1281159520149231
-    },
-    {
-        "title": "Apagón de 12 horas afectó a los municipios Santa Ana, Mac Gregor y Aragua",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://eltiempove.com/apagon-de-12-horas-afecto-a-los-municipios-santa-ana-mac-gregor-y-aragua/",
-        "date": "2026-03-23 22:30:49",
-        "sentiment_score": -0.8383726980537176
-    },
-    {
-        "title": "Nada Itrab (22), la joven de L’Hospitalet que sobrevivió a un secuestro en Bolivia a sus 9 años: “Estuve siete meses sufriendo abusos sexuales”",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/23/actualidad/1003742744639_15872282_1706x960.jpg",
-        "tags": [
-            "sucesos",
-            "agresiones sexuales barcelona",
-            "l'hospitalet de llobregat",
-            "guardia civil",
-            "gran barcelona",
-            "violencia machista"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260323/itrab-joven-lhospitalet-sobrevivio-secuestro-bolivia-anos-meses-sufriendo-abusos-sexuales/1003742744573_0.html",
-        "date": "2026-03-23 22:30:00",
-        "sentiment_score": -0.20261941850185394
-    },
-    {
-        "title": "Tengo una cita para usted",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/04/23/informacion-municipal/575952417_9959883_1706x960.jpg",
-        "tags": [
-            "opinión",
-            "psc - partit dels socialistes de catalunya",
-            "ayuntamiento de barcelona",
-            "servicio de emergencias médicas (sem)"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/opinion/20260323/cita-usted/1003742744602_12.html",
-        "date": "2026-03-23 22:30:00",
-        "sentiment_score": 0.08341957628726959
-    },
-    {
-        "title": "Barcelona sustituirá a Reikiavik como epicentro mundial de la ingeniería ecológica en 2027",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/23/actualidad/1003742744619_15871981_1706x960.jpg",
-        "tags": [
-            "economía",
-            "universidades de barcelona",
-            "congresos barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20260323/barcelona-sustituira-reikiavik-epicentro-mundial-ingenieria-ecologica/1003742744532_0.html",
-        "date": "2026-03-23 22:30:00",
-        "sentiment_score": 0.2415965124964714
-    },
-    {
-        "title": "La hoja de ruta de los cinco internacionales del Real Mallorca",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4422485.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/03/24/2595087/hoja-ruta-cinco-internacionales-del-real-mallorca.html",
-        "date": "2026-03-24 02:48:01",
-        "sentiment_score": 0.03468939661979675
-    },
-    {
-        "title": "Carmen Maura y su conexión familiar con Mallorca: su vinculación con Antoni Maura",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4418335.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.ultimahora.es/vips/quiosco-rosa/2026/03/24/2593113/carmen-maura-conexion-familiar-mallorca-vinculacion-antoni-maura.html",
-        "date": "2026-03-24 02:48:01",
-        "sentiment_score": -0.09086748957633972
-    },
-    {
-        "title": "Mbappé encontró el diagnóstico correcto sobre su rodilla en París",
-        "image_url": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/mbappe-real-2026-moue-b32b83.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://noticiasvenevision.com/noticias/deportes/mbappe-encontro-el-diagnostico-correcto-sobre-su-rodilla-en-paris",
-        "date": "2026-03-24 02:03:00",
-        "sentiment_score": -0.48019902408123016
-    },
-    {
-        "title": "El 17-M, primera vuelta de las generales: el barón más parecido a Feijóo contra la más 'sanchista' del sanchismo",
-        "image_url": "https://s3.elespanol.com/2026/03/24/actualidad/1003744181295_262096164_1706x960.jpg",
-        "tags": [
-            "elecciones",
-            "política",
-            "psoe andalucía",
-            "partido popular (pp)",
-            "alberto núñez feijóo",
-            "elecciones andalucía",
-            "juan manuel moreno bonilla",
-            "psoe (partido socialista obrero español)",
-            "pedro sánchez",
-            "maría jesús montero"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20260324/primera-vuelta-generales-baron-parecido-feijoo-sanchista-sanchismo/1003744181145_0.html",
-        "date": "2026-03-24 01:50:44",
-        "sentiment_score": 0.15779562294483185
-    },
-    {
-        "title": "Un Juanma Moreno reforzado por las crisis lanza el órdago del PP a Sánchez",
-        "image_url": "https://s3.elespanol.com/2026/03/23/actualidad/1003744181142_262094037_1024x576.jpg",
-        "tags": [
-            "elecciones andalucía",
-            "juan manuel moreno bonilla",
-            "andalucía",
-            "opinión",
-            "editoriales de opinión",
-            "editoriales"
-        ],
-        "link": "https://www.elespanol.com/opinion/editoriales/20260324/juanma-moreno-reforzado-crisis-lanza-ordago-pp-sanchez/1003744181060_14.html",
-        "date": "2026-03-24 01:40:22",
-        "sentiment_score": -0.6779120117425919
-    },
-    {
-        "title": "Madrid busca atraer inversión logística al recortar de 12 a 4 años los plazos urbanísticos con la reforma de la Ley de Suelo",
-        "image_url": "https://s3.elespanol.com/2026/02/11/actualidad/1003744125239_261362499_1706x960.jpg",
-        "tags": [
-            "vivienda",
-            "logística",
-            "observatorio de la vivienda",
-            "isabel díaz ayuso",
-            "construcción",
-            "alquiler de viviendas"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20260324/madrid-busca-atraer-inversion-logistica-recortar-anos-plazos-urbanisticos-reforma-ley-suelo/1003744180665_0.html",
-        "date": "2026-03-24 01:40:16",
-        "sentiment_score": -0.8182370867580175
-    },
-    {
-        "title": "Vinícius Júnior lidera la remontada del Real Madrid en el derbi",
-        "image_url": "https://diarioavance.com/wp-content/uploads/2026/03/real-madrid-vinicius.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://diarioavance.com/vinicius-junior-lidera-la-remontada-del-real-madrid-en-el-derbi/",
-        "date": "2026-03-24 01:28:40",
-        "sentiment_score": 0.3274938315153122
-    },
-    {
-        "title": "El clásico del fútbol español se jugará el Spotify Camp Nou",
-        "image_url": "https://diarioavance.com/wp-content/uploads/2026/03/1-1.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://diarioavance.com/el-clasico-del-futbol-espanol-se-jugara-el-spotify-camp-nou/",
-        "date": "2026-03-24 01:12:15",
-        "sentiment_score": 0.10455645620822906
-    },
-    {
-        "title": "Zinedine Zidane, el heredero elegido para el banquillo de Francia luego del Mundial 2026",
-        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/02/zidane-e1739542012409.jpg",
-        "tags": [
-            "zinedine zidane",
-            "selección francia"
-        ],
-        "link": "https://eldiariony.com/2026/03/23/zinedine-zidane-el-heredero-elegido-para-el-banquillo-de-francia-luego-del-mundial-2026/",
-        "date": "2026-03-24 00:58:51",
-        "sentiment_score": 0.1780504658818245
-    },
-    {
-        "title": "Dictadura: las que éramos “doblemente subversivas”",
-        "image_url": "https://www.laizquierdadiario.com/IMG/logo/whatsapp_image_2026-03-23_at_22.56_17.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.laizquierdadiario.com/Dictadura-las-que-eramos-doblemente-subversivas",
-        "date": "2026-03-24 02:23:40",
-        "sentiment_score": -0.19398077204823494
-    },
-    {
-        "title": "Conductores solicitan rehabilitación de accesos al elevado de Puerto La Cruz (+Video)",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "top",
-            "entertainment"
-        ],
-        "link": "https://eltiempove.com/conductores-solicitan-rehabilitacion-de-accesos-al-elevado-de-puerto-la-cruz-video/",
-        "date": "2026-03-24 02:05:04",
-        "sentiment_score": -0.5471915639936924
-    },
-    {
-        "title": "Sindicatos y gremios acudieron a la Inspectoría del Trabajo de Barcelona a solicitar aumento salarial (+Fotos)",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://eltiempove.com/sindicatos-y-gremios-acudieron-a-la-inspectoria-del-trabajo-de-barcelona-a-solicitar-aumento-salarial-fotos/",
-        "date": "2026-03-24 01:35:00",
-        "sentiment_score": 0.21426929533481598
-    },
-    {
-        "title": "La sociedad actual y la religión",
-        "image_url": "https://static.laregion.es/clip/72379ffe-9f2c-412a-9568-0ed758259a33_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "religión"
-        ],
-        "link": "https://www.atlantico.net/opinion/sociedad-actual-religion_1_20260324-4210440.html",
-        "date": "2026-03-24 00:59:13",
-        "sentiment_score": -0.23529155552387238
-    },
-    {
-        "title": "Salió a la luz el video de la provocación de Vinícius Junior a Giuliano Simeone durante el clásico de Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/Z7GK2Y34YNAAFA77DT7FCINHNY.jpg?auth=ac2e443c425ef91bf1252552bf6d8480de32a055dcd1ca6f290996c4eb094add&smart=true&width=1920&height=1080",
-        "tags": [
-            "laliga",
-            "deportes-argentina",
-            "real madrid",
-            "vinicius junior",
-            "atlético de madrid",
-            "giuliano simeone"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/24/salio-a-la-luz-el-video-de-la-provocacion-de-vinicius-junior-a-giuliano-simeone-durante-el-clasico-de-madrid/",
-        "date": "2026-03-24 00:50:25",
-        "sentiment_score": -0.37223710864782333
-    },
-    {
-        "title": "23 MAR 2026 | EL PARTIDAZO DE COPE",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/06/10/684828a972448.jpeg",
-        "tags": [
-            "partidazo",
-            "23",
-            "cope",
-            "2026",
-            "mar"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/23-mar-2026-partidazo-cope-20260324_3332363.html",
-        "date": "2026-03-24 00:50:00",
-        "sentiment_score": -0.353879164904356
-    },
-    {
-        "title": "España alcanzó un nuevo máximo en solicitudes de patentes europeas en 2025, un 2,9 % más",
-        "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB5S0BB_L.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://es.investing.com/news/stock-market-news/espana-alcanzo-un-nuevo-maximo-en-solicitudes-de-patentes-europeas-en-2025-un-29--mas-3574383",
-        "date": "2026-03-24 00:04:47",
-        "sentiment_score": 0.57239630818367
-    },
-    {
-        "title": "Veinte empresas promocionan los productos regionales en Barcelona",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2026/03/24/214436547--758x531.jpg",
-        "tags": [
-            "regionales",
-            "veinte",
-            "empresas",
-            "promocionan",
-            "productos",
-            "barcelona"
-        ],
-        "link": "https://www.hoy.es/economia/veinte-empresas-promocionan-productos-regionales-barcelona-20260324082320-nt.html",
-        "date": "2026-03-24 00:00:00",
-        "sentiment_score": 0.6465955916792154
-    },
-    {
         "title": "Precio de la gasolina hoy 24 de marzo: localiza las gasolineras más baratas de Madrid",
         "image_url": "https://okdiario.com/img/2026/03/23/precio-de-la-gasolina-hoy-24-de-marzo-localiza-las-gasolineras-mas-baratas-de-madrid.jpg",
         "tags": [
@@ -3261,5 +2809,203 @@ export default [
         "link": "https://www.laopiniondemurcia.es/medio-ambiente/2026/03/27/afecta-corazon-exposicion-continuada-humo-128471687.html",
         "date": "2026-03-27 06:55:09",
         "sentiment_score": -0.8010077923536301
+    },
+    {
+        "title": "Andrés Fernández no piensa en la jubilación: “Mi ilusión es jugar con 40 años en Primera con el Almería”",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/03/27/69c6c324a5746.jpeg",
+        "tags": [
+            "segunda división",
+            "fútbol",
+            "entrenadores"
+        ],
+        "link": "https://www.lavozdealmeria.com/ud-almeria/jugadores/502034/andres-fernandez.html",
+        "date": "2026-03-27 17:45:48",
+        "sentiment_score": 0.41849272698163986
+    },
+    {
+        "title": "Dónde ver Ecuador vs Marruecos HOY: canal tv online del partido amistoso en el Metropolitano por fecha FIFA 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/W5VWLUHIKNHT3JSZZE7OR65IGA.png?auth=015cb0aa03358e8c29b7dfec2e6fe5a3f71c9b32cb110f5b0af20e137c7b51cf&smart=true&width=1920&height=1080",
+        "tags": [
+            "peru-deportes",
+            "selección  de ecuador",
+            "selección marruecos mundial 2026",
+            "mundial 2026",
+            "selección ecuador mundial 2026"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/03/27/donde-ver-ecuador-vs-marruecos-en-vivo-hoy-canal-tv-online-partido-amistoso-madrid-fecha-fifa-2026/",
+        "date": "2026-03-27 17:41:32",
+        "sentiment_score": 0.7826036671176553
+    },
+    {
+        "title": "Festival goleador de la Sub-21: Así le fue a Vicent Abril y Yarek",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/125f64b7-57c5-43cf-a59a-62ae77ccddda_16-9-aspect-ratio_default_0_x720y319.jpg",
+        "tags": [
+            "joel",
+            "atlético de madrid",
+            "selección española",
+            "españa",
+            "valencia cf",
+            "chipre"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2026/03/27/festival-goleador-sub-21-yarek-128500198.html",
+        "date": "2026-03-27 17:37:58",
+        "sentiment_score": 0.13285143673419952
+    },
+    {
+        "title": "Guía de la Semana Santa de Sanlúcar 2026: horarios e itinerarios de esta Fiesta de Interés Turístico Nacional de Andalucía",
+        "image_url": "https://static.grupojoly.com/clip/86fbd4a8-b064-4129-8185-12c1282c986b_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sanlucar",
+            "2026",
+            "guia",
+            "santa",
+            "semana"
+        ],
+        "link": "https://www.diariodejerez.es/que-hacer/guia-semana-santa-sanlucar-2026_0_2006215817.html",
+        "date": "2026-03-27 17:37:15",
+        "sentiment_score": 0.07313842326402664
+    },
+    {
+        "title": "La opción de que Dani Ceballos salga gratis del Real Madrid aparece en el horizonte",
+        "image_url": "https://static.grupojoly.com/clip/10318504-7c21-4aaa-b437-e348f43d5d09_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "betis",
+            "laliga",
+            "fichajes betis"
+        ],
+        "link": "https://www.diariodesevilla.es/realbetis/opcion-dani-ceballos-salga-gratis-betis_0_2006277955.html",
+        "date": "2026-03-27 17:32:28",
+        "sentiment_score": -0.24410799890756607
+    },
+    {
+        "title": "La selección sub-21 apabulla a Chipre camino del Europeo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1d9befc4-a636-46c8-9f0d-53243185db23_16-9-aspect-ratio_default_0_x750y333.jpg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.lne.es/deportes/2026/03/27/seleccion-sub-21-apabulla-chipre-128500998.html",
+        "date": "2026-03-27 17:27:58",
+        "sentiment_score": 0.6876905038952827
+    },
+    {
+        "title": "Aina Vidal ve preocupante el nombramiento de Cuerpo, al que tilda de \"delfín de Nadia Calviño\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260327184700_1200.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.europapress.es/videos/video-aina-vidal-ve-preocupante-nombramiento-cuerpo-tilda-delfin-nadia-calvino-20260327184700.html",
+        "date": "2026-03-27 17:47:00",
+        "sentiment_score": -0.5555967316031456
+    },
+    {
+        "title": "La fotógrafa Pilar Aymerich expone en el Centre Catany \"la liberación\" de la mujer en la Transición",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cf50f07a-1c16-47ec-9687-df1908338509_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "fundació toni catany",
+            "fotografía",
+            "transicion",
+            "feminismo"
+        ],
+        "link": "https://www.diariodemallorca.es/cultura/2026/03/27/fotografa-pilar-aymerich-centre-catany-128499903.html",
+        "date": "2026-03-27 17:46:10",
+        "sentiment_score": -0.17268316447734833
+    },
+    {
+        "title": "La compañía Royal Air Maroc ofrece vía directa Bruselas-Tetuán",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/03/compania-royal-air-maroc-via-directa-bruselas-tetuan.jpg",
+        "tags": [
+            "turismo",
+            "tetuán",
+            "marruecos"
+        ],
+        "link": "https://elfarodeceuta.es/compania-royal-air-maroc-via-directa-bruselas-tetuan/",
+        "date": "2026-03-27 17:46:04",
+        "sentiment_score": 0.21150708198547363
+    },
+    {
+        "title": "El Miralvalle, ante su segunda oportunidad de celebrar la salvación",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2026/03/27/Miralvalle-RDnFYPpzgVO77fQP2p2qLeM-758x531@Hoy.jpg",
+        "tags": [
+            "plasencia",
+            "baloncesto"
+        ],
+        "link": "https://www.hoy.es/deportes/baloncesto/miralvalle-ante-segunda-oportunidad-celebrar-salvacion-20260327184339-nt.html",
+        "date": "2026-03-27 17:45:37",
+        "sentiment_score": 0.27103951573371887
+    },
+    {
+        "title": "El Femenino quiere acercar otras metas con una tercera victoria seguida",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/03/27/granada-femenino-kHiD--758x531@Ideal.jpg",
+        "tags": [
+            "fútbol femenino",
+            "granada cf femenino",
+            "granada cf",
+            "granada",
+            "sevilla",
+            "atlético de madrid"
+        ],
+        "link": "https://www.ideal.es/granadacf/previa-sevilla-femenino-quiere-acercar-metas-tercera-victoria-seguida-20260327184057-nt.html",
+        "date": "2026-03-27 17:43:48",
+        "sentiment_score": 0.7087764590978622
+    },
+    {
+        "title": "Un tren choca contra un árbol caído en Sant Jordi Desvalls (Girona) y obliga a evacuar a todos los pasajeros",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YMSHL4KPKBCU7BI2HXCD2A4T4Y.jpg?auth=c67f9a082e730ecb3d554893337d4ce0cb3c6cf67a3d0735df90d5b729236f9b",
+        "tags": [
+            "cataluña",
+            "barcelona",
+            "girona",
+            "vías ferroviarias",
+            "rodalies catalunya",
+            "adif",
+            "trenes",
+            "renfe"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2026-03-27/un-tren-choca-contra-un-arbol-en-sant-jordi-desvalls-girona-y-obliga-a-evacuar-a-todos-los-pasajeros.html",
+        "date": "2026-03-27 17:41:41",
+        "sentiment_score": -0.7038941774517298
+    },
+    {
+        "title": "Peter Löscher, nombrado vicepresidente de CaixaBank",
+        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB2C0AG_L.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://es.investing.com/news/stock-market-news/peter-loscher-nombrado-vicepresidente-de-caixabank-3581905",
+        "date": "2026-03-27 17:37:26",
+        "sentiment_score": -0.08333408832550049
+    },
+    {
+        "title": "Barcelona aprueba provisionalmente la MPGM para ubicar el futuro Museu Carmen Thyssen",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260327183654_1200.jpg",
+        "tags": [
+            "museo thyssen"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-barcelona-aprueba-provisionalmente-mpgm-ubicar-futuro-museu-carmen-thyssen-20260327183654.html",
+        "date": "2026-03-27 17:36:54",
+        "sentiment_score": 0.19850914180278778
+    },
+    {
+        "title": "Las últimas palabras de Noelia Castillo, la joven española que conmocionó al mundo con su decisión",
+        "image_url": "https://www.hola.com/horizon/landscape/f8656d75db43-noelia.jpg",
+        "tags": [
+            "actualidad",
+            "sucesos"
+        ],
+        "link": "https://www.hola.com/us-es/celebrities/20260327892360/noelia-castillo-ultimas-palabras-muerte-eutanasia/",
+        "date": "2026-03-27 17:35:33",
+        "sentiment_score": -0.8445384595543146
+    },
+    {
+        "title": "Cristian Toro, el campeón olímpico que rema ahora en la política como nuevo portavoz de Deportes de VOX",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages02/2026/03/27/1718A9CC-F13D-4FE5-9820-ACDCFD62D3D3/cristian-toro-campeon-olimpico-que-rema-ahora-politica-como-nuevo-portavoz-deportes-vox_96.jpg?crop=1280,720,x0,y0&width=1200&height=675&optimize=low&format=webply",
+        "tags": [
+            "vox",
+            "piragüismo"
+        ],
+        "link": "https://www.ondacero.es/noticias/espana/cristian-toro-campeon-olimpico-que-rema-ahora-politica-como-nuevo-portavoz-deportes-vox_2026032769c6bf876b2f88359259b83e.html",
+        "date": "2026-03-27 17:33:59",
+        "sentiment_score": 0.6520661935210228
     }
 ];
