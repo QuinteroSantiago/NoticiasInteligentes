@@ -1,160 +1,5 @@
 export default [
     {
-        "title": "Luis García Plaza, nuevo entrenador del Sevilla hasta junio de 2027",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/49e1c49d-5a9d-4c8f-a4bb-a512a72716bf_16-9-aspect-ratio_default_0_x1024y455.jpg",
-        "tags": [
-            "sevilla fc",
-            "futbol"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2026/03/24/luis-garcia-plaza-nuevo-entrenador-128370318.html",
-        "date": "2026-03-24 17:52:48",
-        "sentiment_score": 0.3055054545402527
-    },
-    {
-        "title": "El Defensor del Pueblo recoge en su informe 2025 los problemas del Imserso y el CETI",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/03/defensor-pueblo-recoge-informe-2025-problemas-imserso-ceti-4.jpg",
-        "tags": [
-            "imserso",
-            "sanidad",
-            "ceti"
-        ],
-        "link": "https://elfarodeceuta.es/defensor-pueblo-recoge-informe-2025-problemas-imserso-ceti/",
-        "date": "2026-03-24 17:51:43",
-        "sentiment_score": -0.5270205773413181
-    },
-    {
-        "title": "Zaragoza, cuarta ciudad española en patentes europeas: una gran industria explica su liderazgo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/01203575-511f-429b-8a49-f0195633a650_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tecnología",
-            "madrid",
-            "aragón",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodicodearagon.com/aragon/2026/03/24/zaragoza-cuarta-ciudad-espanola-patentes-128368559.html",
-        "date": "2026-03-24 17:53:30",
-        "sentiment_score": 0.10639573633670807
-    },
-    {
-        "title": "Joan García confía en estar en el Mundial: «Ir convocado significa que estoy más cerca»",
-        "image_url": "https://okdiario.com/img/2026/03/24/joan-garcia.jpg",
-        "tags": [
-            "joan garcía",
-            "selección de españa fútbol"
-        ],
-        "link": "https://okdiario.com/deportes/joan-garcia-confia-estar-mundial-ir-convocado-significa-que-estoy-mas-cerca-16477858",
-        "date": "2026-03-24 17:49:21",
-        "sentiment_score": 0.41080453991889954
-    },
-    {
-        "title": "Niall Horan llevará su 'Dinner Party' al Palau Sant Jordi de Barcelona el 25 de octubre",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/24/niall-horan-llevara-su-dinner-party-al-palau-sant-jordi-de-barcelona-el-25-de-octubre/",
-        "date": "2026-03-24 17:48:43",
-        "sentiment_score": 0.06291588768362999
-    },
-    {
-        "title": "Sabadell empieza a construir el primer centro para mayores con discapacidad intelectual en el Vallès",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/02e8382c-63ac-4c82-afd1-d541271f84ca_alta-libre-aspect-ratio_default_0_x325y116.jpg",
-        "tags": [
-            "ayuntamientos"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20260324/sabadell-empieza-construir-primer-centro-discapacidad-mayores-intelectual-valles-128372519",
-        "date": "2026-03-24 17:44:30",
-        "sentiment_score": 0.35798634588718414
-    },
-    {
-        "title": "Ocho ‘vacas sagradas’ claves para el ascenso del Almería tienen o superan los 30 años",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/03/24/69c270d4c48b6.jpeg",
-        "tags": [
-            "segunda división",
-            "fútbol"
-        ],
-        "link": "https://www.lavozdealmeria.com/ud-almeria/jugadores/498918/ocho-vacas-sagradas-claves-ascenso-almeria-superan-30-anos.html",
-        "date": "2026-03-24 17:42:41",
-        "sentiment_score": 0.6360942460596561
-    },
-    {
-        "title": "Barcelona Culinary Hub se une a Martín Berasategui en su proyecto más ambicioso: \"Vamos a dejar huella, va a haber un antes y un después\"",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/24/cronica-directo/1003742744911_15875862_1706x960.jpg",
-        "tags": [
-            "cataluña",
-            "martín berasategui",
-            "business",
-            "cocineros",
-            "grupo planeta",
-            "cocina",
-            "universidad de barcelona (ub)"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/business/20260324/barcelona-culinary-hub-martin-berasategui-ambicioso-vamos/1003742744922_0.html",
-        "date": "2026-03-24 17:41:52",
-        "sentiment_score": 0.5591674149036407
-    },
-    {
-        "title": "Collboni en Bruselas: Barcelona ha vuelto a Europa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/37891b5a-376f-4715-b3f9-1e7ce4bf48ef_alta-libre-aspect-ratio_default_0_x800y400.jpg",
-        "tags": [
-            "ayuntamiento de barcelona",
-            "barcelona",
-            "unión europea",
-            "bruselas",
-            "jaume collboni"
-        ],
-        "link": "https://www.elperiodico.com/es/politica/20260324/collboni-bruselas-barcelona-vuelto-europa-128370590",
-        "date": "2026-03-24 17:40:16",
-        "sentiment_score": 0.3436107262969017
-    },
-    {
-        "title": "Jaume Collboni defiende en Bruselas el papel de “las ciudades en el combate por la democracia y los derechos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SNP6F3VSZNAKRPDVK54U2UYIRE.jpg?auth=35ddfd9bf8d8fc9be02d9535d032bc1d8deb09b7fba91adff63ff9520b3c8e06",
-        "tags": [
-            "vivienda",
-            "ciudades turísticas",
-            "política municipal",
-            "bruselas",
-            "jaume collboni",
-            "ayuntamiento barcelona",
-            "cataluña",
-            "barcelona",
-            "fondos cohesión"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2026-03-24/jaume-collboni-defiende-en-bruselas-el-papel-de-las-ciudades-en-el-combate-por-la-democracia-y-los-derechos.html",
-        "date": "2026-03-24 17:38:52",
-        "sentiment_score": 0.39616672694683075
-    },
-    {
-        "title": "Una muestra fotográfica enseña en tiempos de guerra la realidad franciscana en Tierra Santa",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2026/03/24/1509092942-ks8C-RMCeZLIPzFnAQwwwJ5lypbK-758x531@El%20Norte.JPG",
-        "tags": [
-            "jesús julio carnero",
-            "papa león xiv",
-            "europa",
-            "semana santa",
-            "valladolid (ciudad)",
-            "conrado íscar",
-            "luis argüello",
-            "españa"
-        ],
-        "link": "https://www.elnortedecastilla.es/valladolid/muestra-fotografica-ensena-tiempos-guerra-realidad-franciscana-20260324183328-nt.html",
-        "date": "2026-03-24 17:33:31",
-        "sentiment_score": 0.12371023744344711
-    },
-    {
-        "title": "Expertos en derecho constitucional advierten en Asturias sobre la «preocupante erosión de la democracia» a nivel mundial",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/03/24/esto%202-R4tSWJk2IJuEmCrbc6E2PHL-758x531@El%20Comercio.jpg",
-        "tags": [
-            "junta general del principado de asturias",
-            "universidad de oviedo"
-        ],
-        "link": "https://www.elcomercio.es/asturias/junta-general-principado/expertos-derecho-constitucional-asturias-democracia-mundo-20260324183122-nt.html",
-        "date": "2026-03-24 17:31:46",
-        "sentiment_score": -0.04654192924499512
-    },
-    {
         "title": "Crónica del Real Madrid - Hapoel Tel Aviv: 92-83",
         "image_url": "https://www.infobae.com/resizer/v2/ISHJ6ZSIPVCHPO6V27YR2B7Q7Y.jpg?auth=0aee74a7462ddf585e462a7aa35d24d5fb4464cb948d3bbd561c73b8a878cab1&smart=true&width=1920&height=1280",
         "tags": [
@@ -3305,5 +3150,191 @@ export default [
         "link": "https://www.eldebate.com/opinion/en-primera-linea/20260328/charnegos-guiris-e-integristas-cataluna_401089.html",
         "date": "2026-03-28 00:25:00",
         "sentiment_score": -0.39572599343955517
+    },
+    {
+        "title": "Ataque aéreo israelí impacta en un campamento de desplazados en Gaza",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "gaza",
+            "genocidio",
+            "israel"
+        ],
+        "link": "https://www.meneame.net/story/ataque-aereo-israeli-impacta-campamento-desplazados-gaza",
+        "date": "2026-03-28 02:00:03",
+        "sentiment_score": -0.8507482213899493
+    },
+    {
+        "title": "El escudo 'antipedros'",
+        "image_url": "https://s1.staticld.com/2026/03/28/cartel-pedro-sanchez-manifestacion-iran-alemania280326.jpg",
+        "tags": [
+            "pedro sánchez"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2026-03-28/javier-somalo-el-escudo-antipedros-7381608/",
+        "date": "2026-03-28 06:47:10",
+        "sentiment_score": -0.41082556545734406
+    },
+    {
+        "title": "Hospital del mundo: España paga",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2024/03/23/boe-hora-kP3-U201378431706L6E-170x119@diario_abc.jpg",
+        "tags": [
+            "mundo",
+            "espana",
+            "paga",
+            "hospital"
+        ],
+        "link": "https://www.eldiariomontanes.es/opinion/angel-l-martin-de-francisco-hospital-mundo-espana-paga-20260328194713-nt.html",
+        "date": "2026-03-28 06:40:46",
+        "sentiment_score": 0.2373587116599083
+    },
+    {
+        "title": "Precio de la gasolina hoy 28 de marzo: localiza las gasolineras más baratas de Sevilla, Cádiz y otras ciudades de Andalucía",
+        "image_url": "https://okdiario.com/img/2026/03/26/precio-de-la-gasolina-hoy-28-de-marzo-localiza-las-gasolineras-mas-baratas-de-sevilla-cadiz-y-otras-ciudades-de-andalucia.jpg",
+        "tags": [
+            "precio de la gasolina",
+            "gasolina",
+            "okd",
+            "andalucía"
+        ],
+        "link": "https://okdiario.com/andalucia/precio-gasolina-hoy-28-marzo-localiza-gasolineras-mas-baratas-sevilla-cadiz-otras-ciudades-andalucia-16487919",
+        "date": "2026-03-28 06:30:47",
+        "sentiment_score": -0.31330840289592743
+    },
+    {
+        "title": "Amanda, la desconocida y brillante prima de Leonor e hija de Telma Ortiz que cumple 18 años",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/03/LETIZIA_SOBRINA_G.jpg",
+        "tags": [
+            "celebrities",
+            "familia real española",
+            "reina letizia",
+            "telma ortiz",
+            "hijos",
+            "casa real española"
+        ],
+        "link": "https://theobjective.com/gente/2026-03-28/amanda-prima-leonor-cumple-18-anos/",
+        "date": "2026-03-28 06:30:00",
+        "sentiment_score": 0.2600264735519886
+    },
+    {
+        "title": "Justicia y reparaciĂłn para la Ăşltimas vĂ­ctimas del franquismo: las indemnizaciones llegan a asesinados como GarcĂ­a CaparrĂłs",
+        "image_url": "https://www.elplural.com/uploads/s1/25/11/08/1/diseno-sin-titulo_17_1200x630.jpeg",
+        "tags": [
+            "top",
+            "lifestyle",
+            "entertainment"
+        ],
+        "link": "https://www.elplural.com/politica/espana/justicia-reparacion-ultimas-victimas-franquismo-indemnizaciones-llegan-asesinados-garcia-caparros_385458102",
+        "date": "2026-03-28 06:19:16",
+        "sentiment_score": -0.24823854863643646
+    },
+    {
+        "title": "Calendario de la Semana Santa 2026 en España: procesiones, rompida y representaciones en vivo de la Pasión",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "semana santa",
+            "religiones y creencias",
+            "iglesia católica",
+            "fiestas y tradiciones"
+        ],
+        "link": "https://www.rtve.es/noticias/20260328/semana-santa-2026-procesiones-calendario-horario-recorrido-espana/16989343.shtml",
+        "date": "2026-03-28 06:04:05",
+        "sentiment_score": -0.012583158910274506
+    },
+    {
+        "title": "In memoriam de Miguel Hernández",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ca5c7cfd-011b-4754-8545-502df66e13ce_16-9-aspect-ratio_default_0_x600y223.jpg",
+        "tags": [
+            "tierra",
+            "miguel hernández",
+            "muerte",
+            "españa"
+        ],
+        "link": "https://www.laopiniondemalaga.es/opinion/2026/03/28/in-memoriam-miguel-hernandez-128500229.html",
+        "date": "2026-03-28 06:00:44",
+        "sentiment_score": -0.27501948177814484
+    },
+    {
+        "title": "Noelia Castillo descansa, a pesar de la cruel campaña ultra en las redes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/315c8853-5f63-409c-8ad7-29bf2f808c5d_alta-libre-aspect-ratio_default_0_x567y401.jpg",
+        "tags": [
+            "entender más",
+            "santiago abascal",
+            "real madrid",
+            "eta - euskadi ta askatasuna",
+            "vox",
+            "eutanasia",
+            "kylian mbappé"
+        ],
+        "link": "https://www.elperiodico.com/es/gente/20260328/noelia-castillo-descansa-pesar-cruel-128502625",
+        "date": "2026-03-28 06:00:14",
+        "sentiment_score": -0.8073997227475047
+    },
+    {
+        "title": "Llega a Huesca la obra interpretada por la Orquesta Reino de Aragón que tiene doce millones de reproducciones",
+        "image_url": "https://www.cope.es/files/og_thumbnail/uploads/2026/03/27/69c65dad783c5.jpeg",
+        "tags": [
+            "aragón",
+            "orquesta",
+            "reino",
+            "estaciones",
+            "cuatro"
+        ],
+        "link": "https://www.cope.es/emisoras/aragon/huesca-provincia/huesca/noticias/orquesta-reino-aragon-cuatro-estaciones-vivaldi-huesca-20260328_3335253.html",
+        "date": "2026-03-28 06:00:00",
+        "sentiment_score": 0.003455638885498047
+    },
+    {
+        "title": "La más gitana de las duquesas",
+        "image_url": "https://static.grupojoly.com/clip/3503463b-6619-42e1-88d5-305ac9a4daca_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "semana santa sevilla"
+        ],
+        "link": "https://www.diariodesevilla.es/semana_santa/gitana-duquesas_0_2006310525.html",
+        "date": "2026-03-28 05:51:36",
+        "sentiment_score": -0.08774314820766449
+    },
+    {
+        "title": "Miss Caffeina y Tam Tam Go! ponen la banda sonora a las Fiestas de la Verdura de Tudela 2026",
+        "image_url": "https://www.cope.es/files/microformat_image/uploads/2026/03/27/69c6532a99b5f.webp",
+        "tags": [
+            "tam",
+            "go",
+            "miss",
+            "caffeina"
+        ],
+        "link": "https://www.cope.es/emisoras/navarra/navarra-provincia/tudela/noticias/miss-caffeina-tam-tam-go-ponen-banda-sonora-fiestas-verdura-tudela-2026-20260328_3335205.html",
+        "date": "2026-03-28 06:48:00",
+        "sentiment_score": 0.013192564249038696
+    },
+    {
+        "title": "Spannabis, la feria del cannabis más influyente de Europa, llega a Bilbao",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e7c1eb23-3885-42ea-8b2a-2d408bc467f3_16-9-aspect-ratio_default_0_x940y557.jpg",
+        "tags": [
+            "europa",
+            "evento",
+            "bec",
+            "spannabis",
+            "barakaldo",
+            "grupo musical",
+            "influyente",
+            "feria",
+            "cannabis"
+        ],
+        "link": "https://www.deia.eus/vivir/2026/03/28/spannabis-feria-cannabis-influyente-europa-10871299.html",
+        "date": "2026-03-28 06:31:49",
+        "sentiment_score": -0.5914496406912804
+    },
+    {
+        "title": "La Pedrera, el entorno monumental para la nueva colección de esta firma",
+        "image_url": "https://static.grupojoly.com/clip/07bac0b6-e866-46c6-a655-7fa45e3d9a83_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "monumental",
+            "coleccion",
+            "nueva",
+            "pedrera",
+            "entorno"
+        ],
+        "link": "https://www.eldiadecordoba.es/gente/pedrera-entorno-monumental-nueva-coleccion_0_2006315676.html",
+        "date": "2026-03-28 06:26:11",
+        "sentiment_score": 0.5847116038203239
     }
 ];
