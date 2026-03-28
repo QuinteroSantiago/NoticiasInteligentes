@@ -1,172 +1,5 @@
 export default [
     {
-        "title": "Precio de la gasolina hoy 24 de marzo: localiza las gasolineras más baratas de Madrid",
-        "image_url": "https://okdiario.com/img/2026/03/23/precio-de-la-gasolina-hoy-24-de-marzo-localiza-las-gasolineras-mas-baratas-de-madrid.jpg",
-        "tags": [
-            "madrid",
-            "precio de la gasolina",
-            "gasolina",
-            "okd"
-        ],
-        "link": "https://okdiario.com/madrid/precio-gasolina-hoy-24-marzo-localiza-gasolineras-mas-baratas-madrid-16466588",
-        "date": "2026-03-24 07:15:14",
-        "sentiment_score": -0.40627558529376984
-    },
-    {
-        "title": "07:00H | 24 MAR 2026 | Herrera en COPE",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67cfe50112eb6.jpeg",
-        "tags": [
-            "24",
-            "07",
-            "00h",
-            "2026",
-            "mar"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/07-00h-24-mar-2026-herrera-cope-20260324_3332414.html",
-        "date": "2026-03-24 07:06:00",
-        "sentiment_score": -0.6626024022698402
-    },
-    {
-        "title": "David Pérez, neurólogo, sobre cómo cuidar tu salud cerebral: \"La mayoría de suplementos para la memoria son inútiles\"",
-        "image_url": "https://album.mediaset.es/eimg/2026/03/20/david-perez-16-9-aspect-ratio-default-1036636_da39.jpg?w=1024",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.telecinco.es/noticias/salud/20260324/david-perez-neurologo-como-cuidar-salud-cerebral-suplementos-memoria-inutiles-upp3rs_18_018675343.html",
-        "date": "2026-03-24 07:00:26",
-        "sentiment_score": 0.2229786440730095
-    },
-    {
-        "title": "El Tribunal Supremo rechaza devolver 52.619 euros a un jubilado tras comprar una vivienda al considerar que no era para vivir",
-        "image_url": "https://images.ecestaticos.com/Vgnl3G3PckjioQYPdK8FKrBxwew=/0x0:1254x836/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F165%2F7f3%2F6f5%2F1657f36f545691d33ca32db8cf105941.jpg",
-        "tags": [
-            "vivienda"
-        ],
-        "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-03-24/tribunal-supremo-rechaza-devolver-52619-euros-jubilado_4325198/",
-        "date": "2026-03-24 07:00:00",
-        "sentiment_score": -0.7540870793163776
-    },
-    {
-        "title": "“El fascismo no es solo violencia: es peligroso por su gran capacidad de persuasión”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/682be3df-7004-4b8a-ad05-eb8c0b004dde_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "irán",
-            "crossover series fascismo blas moreno",
-            "trump",
-            "series",
-            "crossover"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/cultura/2026/03/24/crossover-series-fascismo-blas-moreno-10856723.html",
-        "date": "2026-03-24 06:51:01",
-        "sentiment_score": -0.3511194512248039
-    },
-    {
-        "title": "Parón crítico para el Real Madrid",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/eb47c2ce-08d0-4b8a-b331-a7eeb5205256_16-9-aspect-ratio_default_0_x595y222.jpg",
-        "tags": [
-            "kylian mbappé",
-            "fifa",
-            "real madrid",
-            "fútbol",
-            "jude bellingham"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2026/03/24/paron-critico-real-madrid-arbeloa-mbappe-bellingham-128337288.html",
-        "date": "2026-03-24 06:36:58",
-        "sentiment_score": 0.28427019715309143
-    },
-    {
-        "title": "Las Edades del Hombre se prolongan en Zamora: ‘EsperanZa’ estará abierta hasta el 3 de mayo",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialautonomico/images/2026/03/24/2026032408123487776.jpg",
-        "tags": [
-            "zamora",
-            "portada",
-            "pan"
-        ],
-        "link": "https://www.elconfidencialdigital.com/autonomico/articulo/castilla-y-leon/zamora-acoge-primer-simposio-pan-harina-antesala-gran-panfest-2027/20251117050000155853.html",
-        "date": "2026-03-24 07:13:05",
-        "sentiment_score": -0.010392069816589355
-    },
-    {
-        "title": "50 días para poner las guindas",
-        "image_url": "https://static.laregion.es/clip/2d24a0ad-83cd-4e34-98b8-227bfd5b7c7d_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "celta"
-        ],
-        "link": "https://www.atlantico.net/celtismo/50-dias-poner-guindas_1_20260324-4210915.html",
-        "date": "2026-03-24 07:10:36",
-        "sentiment_score": 0.5978407375514507
-    },
-    {
-        "title": "El Meteocat confirma un cambio radical del tiempo en Barcelona, a partir de este día",
-        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/11/16/69196e9416583.r_d.1961-1429-0.jpeg",
-        "tags": [
-            "confirma",
-            "partir",
-            "radical",
-            "meteocat",
-            "cambio",
-            "barcelona",
-            "día"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20260324/1004158548/meteocat-confirma-cambio-radical-barcelona-partir-dia-dct.html",
-        "date": "2026-03-24 07:07:29",
-        "sentiment_score": 0.6360718868672848
-    },
-    {
-        "title": "Illa anuncia un primer paquete de 400 millones en medidas de respuesta para Catalunya por la guerra",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/97c19af5-be58-4205-bb0d-c31d958ed66e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "responsabilidad",
-            "empresas",
-            "anuncia",
-            "illa",
-            "paquete",
-            "irán",
-            "400",
-            "financiación",
-            "govern",
-            "guerra",
-            "primer",
-            "salvador illa",
-            "ayudas"
-        ],
-        "link": "https://www.noticiasdenavarra.com/economia/2026/03/24/illa-anuncia-primer-paquete-400-10858144.html",
-        "date": "2026-03-24 07:05:49",
-        "sentiment_score": 0.15318416059017181
-    },
-    {
-        "title": "España registró un récord de 2.255 solicitudes de patentes europeas en 2025, un 3% más",
-        "image_url": "https://forbes.es/wp-content/uploads/2026/03/fotonoticia_20260324080051_1920-1200x675.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://forbes.es/economia/894896/espana-registro-un-record-de-2-255-solicitudes-de-patentes-europeas-en-2025-un-3-mas/",
-        "date": "2026-03-24 07:00:51",
-        "sentiment_score": 0.29356131702661514
-    },
-    {
-        "title": "La demanda de patentes europeas superó por primera vez las 200.000 peticiones en 2025",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e6f6e95c-5d36-44db-b738-64138faa8a5c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "europeas",
-            "motor",
-            "crecimiento",
-            "supero",
-            "empresas",
-            "primera",
-            "barcelona",
-            "euskadi",
-            "europa",
-            "china",
-            "demanda",
-            "patentes"
-        ],
-        "link": "https://www.deia.eus/economia/2026/03/24/demanda-patentes-europeas-supero-primera-10858129.html",
-        "date": "2026-03-24 07:00:47",
-        "sentiment_score": 0.468454223126173
-    },
-    {
         "title": "¿Qué pasó con el avión de Air Canada y cómo se estrelló en el aeropuerto LaGuardia con un camión?",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/Screenshot_124.jpg",
         "tags": [
@@ -177,23 +10,6 @@ export default [
         "link": "https://lapatilla.com/2026/03/24/que-paso-con-el-avion-de-air-canada-y-como-se-estrello-en-el-aeropuerto-laguardia-con-un-camion/",
         "date": "2026-03-24 12:10:32",
         "sentiment_score": -0.7544825710356236
-    },
-    {
-        "title": "Juan Manuel de Prada: La derecha cipaya",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "españa",
-            "vox",
-            "epstein",
-            "columna",
-            "abc",
-            "pp",
-            "sionismo",
-            "derecha"
-        ],
-        "link": "https://www.meneame.net/story/juan-manuel-prada-derecha-cipaya",
-        "date": "2026-03-24 09:20:02",
-        "sentiment_score": -0.8364880420267582
     },
     {
         "title": "Luis García Plaza, nuevo entrenador del Sevilla hasta junio de 2027",
@@ -3007,5 +2823,225 @@ export default [
         "link": "https://www.ondacero.es/noticias/espana/cristian-toro-campeon-olimpico-que-rema-ahora-politica-como-nuevo-portavoz-deportes-vox_2026032769c6bf876b2f88359259b83e.html",
         "date": "2026-03-27 17:33:59",
         "sentiment_score": 0.6520661935210228
+    },
+    {
+        "title": "Hansi Flick respira aliviado: los seis cracks del Barça que afinan los colmillos con la selección española",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/27/actualidad/1003742746230_15893195_1706x960.jpg",
+        "tags": [
+            "lamine yamal",
+            "fermín lópez",
+            "selección española",
+            "pau cubarsí",
+            "culemaníacos"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20260327/hansi-flick-aliviado-barca-colmillos-seleccion-espanola/1003742746222_0.html",
+        "date": "2026-03-27 22:14:55",
+        "sentiment_score": 0.1661018431186676
+    },
+    {
+        "title": "¡Casemiro podría jugar con Messi!",
+        "image_url": "https://www.mundonow.com/wp-content/uploads/2026/03/sports-33.png",
+        "tags": [
+            "top",
+            "entertainment"
+        ],
+        "link": "https://www.mundonow.com/casemiro-podria-jugar-con-messi/",
+        "date": "2026-03-27 22:14:36",
+        "sentiment_score": 0.6429153606295586
+    },
+    {
+        "title": "22:00 | 26 MAR 2026 | TIEMPO DE JUEGO",
+        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/01/20/678e8eae3dd99.jpeg",
+        "tags": [
+            "2026",
+            "22",
+            "26",
+            "00",
+            "mar"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-26-mar-2026-juego-20260327_3335845.html",
+        "date": "2026-03-27 22:05:18",
+        "sentiment_score": 0.027680575847625732
+    },
+    {
+        "title": "Úbeda consolida las 'Calles del silencio' para una Semana Santa más inclusiva",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2026/03/27/PROVINCIA-ubeda-semana-santa-R2R2hGbePN03TyHrdnLWjJL-758x531@Ideal.jpg",
+        "tags": [
+            "semana santa",
+            "úbeda",
+            "úbeda y baeza patrimonio de la humanidad."
+        ],
+        "link": "https://www.ideal.es/jaen/provincia-jaen/ubeda-consolida-calles-silencio-semana-santa-inclusiva-20260327194650-nt.html",
+        "date": "2026-03-27 22:02:14",
+        "sentiment_score": -0.06154152750968933
+    },
+    {
+        "title": "El Casademont U22 apabulla al Burgos con una exhibición de Savkov",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/03/27/69c6fd5a1b3845-07062855.jpeg",
+        "tags": [
+            "una",
+            "casademont",
+            "u22",
+            "burgos",
+            "apabulla"
+        ],
+        "link": "https://www.heraldo.es/noticias/deportes/baloncesto/2026/03/27/casademont-u22-apabulla-burgos-con-una-exhibicion-savkov-2007777.html",
+        "date": "2026-03-27 22:01:08",
+        "sentiment_score": -0.8016521986573935
+    },
+    {
+        "title": "En vídeo | ¿Recordabas a Sabin Merino? El remate acrobático del exdelantero del Dépor para opositar a gol de la jornada",
+        "image_url": "https://dxtcampeon-imagenes.elidealgallego.com/files/og_thumbnail/uploads/2025/09/10/68c1f4aea8a0b.jpeg",
+        "tags": [
+            "sabin",
+            "recordabas",
+            "vídeo",
+            "remate",
+            "merino"
+        ],
+        "link": "https://dxtcampeon.elidealgallego.com/deportivo/depor/2026-03-27/en-video-recordabas-a-sabin-merino-el-remate-acrobatico-del-exdelantero-del-depor-para-opositar-a-gol-de-la-jornada-845598.html",
+        "date": "2026-03-27 22:00:51",
+        "sentiment_score": 0.701462659984827
+    },
+    {
+        "title": "Memphis Depay podría ser sancionado en Brasil con seis partidos por usar el celular en el banco",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2026/03/DEPAY-e1774647855157.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://eldiariony.com/2026/03/27/memphis-depay-podria-ser-sancionado-en-brasil-con-seis-partidos-por-usar-el-celular-en-el-banco/",
+        "date": "2026-03-27 21:49:25",
+        "sentiment_score": -0.6683724746108055
+    },
+    {
+        "title": "El Leyma Coruña acabó domando a un Cartagena que justificó su buen momento (82-77)",
+        "image_url": "https://dxtcampeon-imagenes.elidealgallego.com/files/og_thumbnail/uploads/2026/03/27/69c6f87c64b58.jpg",
+        "tags": [
+            "cartagena",
+            "leyma"
+        ],
+        "link": "https://dxtcampeon.elidealgallego.com/basquet-coruna/2026-03-27/el-leyma-coruna-acabo-domando-a-un-cartagena-que-justifico-su-buen-momento-82-845501.html",
+        "date": "2026-03-27 21:48:32",
+        "sentiment_score": -0.6441743262112141
+    },
+    {
+        "title": "Baskonia sale del agujero ante el Hapoel en un festival ofensivo",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260327224741_1200.jpg",
+        "tags": [
+            "euroliga"
+        ],
+        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-baskonia-sale-agujero-hapoel-festival-ofensivo-20260327224741.html",
+        "date": "2026-03-27 21:47:41",
+        "sentiment_score": 0.27111952006816864
+    },
+    {
+        "title": "Fran García, el futbolista que aprovecha su oportunidad en medio de las calamidades del Madrid",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/08/2026010818030148225.jpg",
+        "tags": [
+            "alvaro-arbeloa",
+            "real madrid",
+            "ferland mendy",
+            "&aacute;lvaro carreras",
+            "fran garc&iacute;a"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/fran-garcia-aprovecha-oportunidad-consolida-nuevo-sistema-madrid/20260327224705380362.html",
+        "date": "2026-03-27 21:47:05",
+        "sentiment_score": 0.7780340742319822
+    },
+    {
+        "title": "Aeropuertu Pedro de Silva",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/03/24/jorge-rey-lluvia-abril-U55638184084hPW-170x119@diario_abc.jpg",
+        "tags": [
+            "aeropuertu",
+            "pedro",
+            "silva"
+        ],
+        "link": "https://www.elcomercio.es/opinion/inaciu-iglesias-aeropuertu-pedro-silva-20260328225731-nt.html",
+        "date": "2026-03-27 22:25:38",
+        "sentiment_score": -0.5546560660004616
+    },
+    {
+        "title": "Víctor Muñoz redondea en su debut la victoria de España contra Serbia (3-0)",
+        "image_url": "https://static.grupojoly.com/clip/d3ec39b0-74b5-46b0-95f3-cfac4285ba8f_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "serbia",
+            "munoz",
+            "redondea",
+            "victor",
+            "españa",
+            "debut"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/victor-munoz-redondea-debut-espana-serbia_0_2006312602.html",
+        "date": "2026-03-27 22:18:14",
+        "sentiment_score": 0.7032776586711407
+    },
+    {
+        "title": "3-0. España golea a Serbia y avanza con paso firme hacia el Mundial",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/27/3-0-espana-golea-a-serbia-y-avanza-con-paso-firme-hacia-el-mundial/",
+        "date": "2026-03-27 22:16:31",
+        "sentiment_score": 0.7937063183635473
+    },
+    {
+        "title": "España baila a Serbia al ritmo de los goles de Oyarzabal",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/27/Clipboard-0272-klZE-U201425768843yHC-1200x840@RC.jpg",
+        "tags": [
+            "espanaserbia",
+            "cronica"
+        ],
+        "link": "https://www.lasprovincias.es/deportes/futbol/seleccion-espanola/cronica-espana-serbia-amistoso-20260327180602-ntrc.html",
+        "date": "2026-03-27 22:10:37",
+        "sentiment_score": 0.7610014155507088
+    },
+    {
+        "title": "España golea a Serbia y avanza con paso firme hacia el Mundial (3-0)",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/03/27/69c6ff0415c240-53721033.jpeg",
+        "tags": [
+            "serbia",
+            "avanza",
+            "golea",
+            "españa",
+            "con"
+        ],
+        "link": "https://www.heraldo.es/noticias/deportes/2026/03/27/partido-espana-serbia-amistoso-oyarzabal-victor-munoz-mundial-2026-2007778.html",
+        "date": "2026-03-27 22:08:47",
+        "sentiment_score": 0.4150211177766323
+    },
+    {
+        "title": "Barcelona sigue avanzando en el fichaje de esta estrella de la Serie A",
+        "image_url": "https://pxcdn.meridiano.net/032026/1774649058383.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/barcelona-sigue-avanzando-en-el-fichaje-de-esta-estrella-de-la-serie-a-20263271850",
+        "date": "2026-03-27 22:05:00",
+        "sentiment_score": -0.0324898362159729
+    },
+    {
+        "title": "Simón y Laporte, titulares en el penúltimo examen antes del Mundial",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/8c895b88-8ec8-4af4-bf76-60afb2374184_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "serbia",
+            "mundial 2026",
+            "examen",
+            "titulares",
+            "aymeric laporte",
+            "unai simón",
+            "laporte",
+            "simón",
+            "mundial",
+            "penúltimo",
+            "españa",
+            "luis de la fuente"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/03/27/simon-laporte-mundial-penultimo-examen-titulares-10878099.html",
+        "date": "2026-03-27 22:01:39",
+        "sentiment_score": 0.38310767710208893
     }
 ];
