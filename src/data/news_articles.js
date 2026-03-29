@@ -3238,5 +3238,256 @@ export default [
         "link": "https://www.infobae.com/espana/agencias/2026/03/28/fallece-la-filologa-y-exeurodiputada-socialista-maria-badia-a-los-78-anos/",
         "date": "2026-03-28 21:46:05",
         "sentiment_score": -0.8452463746070862
+    },
+    {
+        "title": "'El tuerto', 'El cangrejo' y 'La lechuza': así son los miembros del clan familiar que pugnan por suceder a Raúl Castro",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/uploads/2026/03/27/69c6a59e4920b.jpeg",
+        "tags": [
+            "cangrejo",
+            "tuerto",
+            "lechuza",
+            "así",
+            "son"
+        ],
+        "link": "https://www.eldebate.com/internacional/20260329/tuerto-cangrejo-lechuza-asi-son-miembros-clan-familiar-pugnan-suceder-raul-castro_401015.html",
+        "date": "2026-03-29 02:25:00",
+        "sentiment_score": -0.7717438973486423
+    },
+    {
+        "title": "Ormuz: los marines no viajan para hacer guardias",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/uploads/2025/11/24/6924b522e3663.jpeg",
+        "tags": [
+            "marines",
+            "no",
+            "ormuz",
+            "hacer",
+            "viajan"
+        ],
+        "link": "https://www.eldebate.com/internacional/20260329/ormuz-marines-no-viajan-hacer-guardias_401287.html",
+        "date": "2026-03-29 02:25:00",
+        "sentiment_score": -0.28395071625709534
+    },
+    {
+        "title": "La estudiante de Salamanca que triunfa explicando Historia en internet: «Al principio nadie te toma en serio»",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/uploads/2026/03/27/69c653ebddea1.jpeg",
+        "tags": [
+            "salamanca"
+        ],
+        "link": "https://www.eldebate.com/espana/castilla-y-leon/20260329/estudiante-salamanca-triunfa-explicando-historia-internet-principio-nadie-te-toma-serio_400809.html",
+        "date": "2026-03-29 02:20:00",
+        "sentiment_score": 0.21982159465551376
+    },
+    {
+        "title": "'Casus belli' Sa Feixina: Moncloa desafía al poder judicial para imponer su relato 'guerracivilista'",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/uploads/2026/03/26/69c51c313e2c2.jpeg",
+        "tags": [
+            "feixina",
+            "sa",
+            "casus",
+            "belli",
+            "monolito"
+        ],
+        "link": "https://www.eldebate.com/espana/baleares/20260329/casus-belli-sa-feixina-moncloa-desafia-poder-judicial-imponer-relato-guerracivilista_401286.html",
+        "date": "2026-03-29 02:20:00",
+        "sentiment_score": -0.8192100748419762
+    },
+    {
+        "title": "«Hay que salir de la zona de confort y aprovechar toda la mochila que llevas»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0607f55a-ad46-4779-a8d5-e5cb92a65a31_16-9-aspect-ratio_default_0_x960y360.jpg",
+        "tags": [
+            "galicia",
+            "zendal",
+            "industria",
+            "gallegos a la vanguardia",
+            "vacunas covid",
+            "portugal",
+            "grupo zendal",
+            "vacunas"
+        ],
+        "link": "https://www.farodevigo.es/estela/2026/03/29/la-canguesa-saleta-vazquez-de-la-universidad-de-oxford-a-dirigir-la-produccion-de-vacunas-en-portugal-128475494.html",
+        "date": "2026-03-29 02:08:14",
+        "sentiment_score": 0.1281379908323288
+    },
+    {
+        "title": "Entrevista a Diego López, delantero del Valencia CF: \"Estoy muy feliz aquí y por mi parte, si no me echan, seguiré\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3543d42c-3369-4471-8827-981e7d84d31c_16-9-aspect-ratio_default_0_x967y429.jpg",
+        "tags": [
+            "diego",
+            "entrevista",
+            "lopez",
+            "delantero",
+            "valencia"
+        ],
+        "link": "https://www.levante-emv.com/videos/deportes/2026/03/29/entrevista-diego-lopez-delantero-valencia-128483522.html",
+        "date": "2026-03-29 02:00:43",
+        "sentiment_score": 0.07479573786258698
+    },
+    {
+        "title": "La DGT modifica las normas para autocaravanas y furgonetas camperizadas antes de Semana Santa",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/4423441.jpg",
+        "tags": [
+            "top",
+            "entertainment"
+        ],
+        "link": "https://www.menorca.info/actualidad/dudas-respuestas/2026/03/29/2595761/dgt-modifica-normas-para-autocaravanas-furgonetas-camperizadas-antes-semana-santa.html",
+        "date": "2026-03-29 01:48:01",
+        "sentiment_score": 0.09499584138393402
+    },
+    {
+        "title": "Leo Román: «La gente paga mucho para vernos jugar y entiendo que esté enfadada, pero ahora hay una nueva energía»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4427269.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/03/29/2597983/leo-roman-gente-paga-mucho-para-vernos-jugar-entiendo-este-enfadada-pero-ahora-hay-nueva-energia.html",
+        "date": "2026-03-29 01:45:48",
+        "sentiment_score": 0.20056074857711792
+    },
+    {
+        "title": "«Desde hace unos años el ‘Ca de Bestiar’ es una raza en auge»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4428843.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/agricultura/2026/03/29/2598865/desde-hace-anos-bestiar-raza-auge.html",
+        "date": "2026-03-29 01:45:30",
+        "sentiment_score": 0.3171908110380173
+    },
+    {
+        "title": "Kalenn, el artista de la línea 118 de autobús al que habían visto 4 millones antes de sacar disco: \"Me escribió Warner y me fichó\"",
+        "image_url": "https://s3.elespanol.com/2026/03/20/actualidad/1003744178464_262059305_1706x960.jpg",
+        "tags": [
+            "ocio",
+            "warner bros.",
+            "discos música"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20260329/kalenn-artista-linea-autobus-visto-millones-sacar-disco-escribio-warner-ficho/1003744177102_0.html",
+        "date": "2026-03-29 01:03:55",
+        "sentiment_score": 0.25889041274785995
+    },
+    {
+        "title": "¿Qué relación tiene Córdoba con Túnez y Pakistán?",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/files/fp/uploads/2026/03/28/69c7267e3137e.r_d.390-362-0.jpeg",
+        "tags": [
+            "relación",
+            "túnez",
+            "córdoba",
+            "qué",
+            "tiene"
+        ],
+        "link": "https://www.eldebate.com/espana/la-voz-de-cordoba/sociedad/20260329/relacion-tiene-cordoba-tunez-pakistan_401124.html",
+        "date": "2026-03-29 02:30:00",
+        "sentiment_score": -0.33725933730602264
+    },
+    {
+        "title": "Red eléctrica a cuentagotas para el tsunami de la IA",
+        "image_url": "https://www.eldebate.com/images/el-debate.png",
+        "tags": [
+            "cuentagotas",
+            "ia",
+            "eléctrica",
+            "red",
+            "tsunami"
+        ],
+        "link": "https://www.eldebate.com/tecnologia/20260329/red-electrica-cuentagotas-tsunami-ia_400797.html",
+        "date": "2026-03-29 02:25:00",
+        "sentiment_score": 0.7515623494982719
+    },
+    {
+        "title": "Procesión de Verges y Danza de la Muerte: la noche más sobrecogedora de la Semana Santa catalana",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/uploads/2026/03/26/69c51c776756e.jpeg",
+        "tags": [
+            "verges",
+            "procesión",
+            "danza",
+            "muerte",
+            "noche"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/20260329/procesion-verges-danza-muerte-noche-sobrecogedora-semana-santa-catalana_400440.html",
+        "date": "2026-03-29 02:25:00",
+        "sentiment_score": 0.5046035125851631
+    },
+    {
+        "title": "Sobre la milonga del cambio de hora",
+        "image_url": "https://www.eldebate.com/images/el-debate.png",
+        "tags": [
+            "sobre",
+            "viene",
+            "hora",
+            "cambio",
+            "milonga"
+        ],
+        "link": "https://www.eldebate.com/espana/baleares/20260329/sobre-milonga-cambio-hora_400957.html",
+        "date": "2026-03-29 02:25:00",
+        "sentiment_score": -0.9321764465421438
+    },
+    {
+        "title": "La alianza de sangre y azúcar que unió a los Taltavull con los Goytisolo",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/uploads/2026/03/28/69c80b786a36a.jpeg",
+        "tags": [
+            "taltavull",
+            "azúcar",
+            "sangre",
+            "alianza",
+            "unió"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/20260329/alianza-sangre-azucar-unio-taltavull-goytisolo_400674.html",
+        "date": "2026-03-29 02:25:00",
+        "sentiment_score": -0.0656224936246872
+    },
+    {
+        "title": "La bendición de ramos marca el pulso de un domingo cargado de identidad y familia",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/uploads/2026/03/28/69c80dce49596.jpeg",
+        "tags": [
+            "bendición",
+            "ramos",
+            "domingo",
+            "pulso",
+            "marca"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/20260329/bendicion-ramos-marca-pulso-domingo-cargado-identidad-familia_400675.html",
+        "date": "2026-03-29 02:25:00",
+        "sentiment_score": 0.06479301303625107
+    },
+    {
+        "title": "Barcelona será en abril capital 'progre' del mundo",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/uploads/2025/06/03/683f11d77a077.jpeg",
+        "tags": [
+            "capital",
+            "será",
+            "progre",
+            "barcelona",
+            "abril"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20260329/barcelona-sera-abril-capital-progre-mundo_401018.html",
+        "date": "2026-03-29 02:25:00",
+        "sentiment_score": -0.7691936008632183
+    },
+    {
+        "title": "Las otras cifras de la eutanasia: el 5,81 % se arrepiente y el 14,79 % dona sus órganos",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/uploads/2026/03/27/69c6b0f49e58b.jpeg",
+        "tags": [
+            "cifras",
+            "81",
+            "eutanasia",
+            "otras",
+            "5"
+        ],
+        "link": "https://www.eldebate.com/sociedad/20260329/otras-cifras-eutanasia-581-arrepiente-1479-dona-organos_401044.html",
+        "date": "2026-03-29 02:20:00",
+        "sentiment_score": -0.023498795926570892
+    },
+    {
+        "title": "Neymar celebra el apoyo de la afición brasileña pese a la derrota ante Francia",
+        "image_url": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/6eadc1143c8b667e7e5ab12a8f79df36c17bbc73-d7944e.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://noticiasvenevision.com/noticias/deportes/neymar-celebra-el-apoyo-de-la-aficion-brasilena-pese-a-la-derrota-ante-francia",
+        "date": "2026-03-29 02:01:00",
+        "sentiment_score": 0.8315831813961267
     }
 ];
