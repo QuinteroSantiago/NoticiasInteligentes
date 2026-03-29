@@ -1,247 +1,5 @@
 export default [
     {
-        "title": "Nadal, sobre Alcaraz: \"No vamos a preocuparnos por dos derrotas, no se puede exigir más\"",
-        "image_url": "https://static.grupojoly.com/clip/0e4fb5c6-844b-44cc-ac89-748ad5942b21_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tenis",
-            "carlos alcaraz"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/nadal-alcaraz-no-preocuparnos-derrotas_0_2006289331.html",
-        "date": "2026-03-25 07:05:57",
-        "sentiment_score": -0.4228147566318512
-    },
-    {
-        "title": "Agenda Informativa de Europa Press para hoy miércoles, 25 de marzo (1)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "europapress",
-            "agenda informativa",
-            "actividad parlamentaria",
-            "pedro sánchez",
-            "santiago de chile",
-            "margarita robles",
-            "antonio maíllo",
-            "madrid",
-            "política española",
-            "europa press",
-            "congreso de los diputados",
-            "felipe vi",
-            "senado"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/25/agenda-informativa-de-europa-press-para-hoy-miercoles-25-de-marzo-1/",
-        "date": "2026-03-25 07:02:31",
-        "sentiment_score": 0.10900397971272469
-    },
-    {
-        "title": "¿Cada cuánto conviene eyacular? Un estudio revela cómo la frecuencia afecta a la calidad del esperma",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260325080147_1200.jpg",
-        "tags": [
-            "health",
-            "science"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-cada-cuanto-conviene-eyacular-estudio-revela-frecuencia-afecta-calidad-esperma-20260325080147.html",
-        "date": "2026-03-25 07:01:47",
-        "sentiment_score": 0.0775216594338417
-    },
-    {
-        "title": "Mario Martín: «Bordalás me ha hecho mejor jugador»",
-        "image_url": "https://okdiario.com/img/2026/03/24/entrevista-mario-martin-deportes-interior-1.jpg",
-        "tags": [
-            "selección española de fútbol sub-21",
-            "fútbol",
-            "deportes",
-            "españa sub 21",
-            "getafe club de fútbol"
-        ],
-        "link": "https://okdiario.com/deportes/mario-martin-bordalas-hecho-mejor-jugador-16477583",
-        "date": "2026-03-25 07:00:41",
-        "sentiment_score": -0.6353179514408112
-    },
-    {
-        "title": "El Tenerife ya es el mejor en casa y en la Península",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a65faaf6-9e45-4c2c-83be-3303a2161415_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fortuna",
-            "península",
-            "tenerife",
-            "lugo"
-        ],
-        "link": "https://www.eldia.es/deportes/cd-tenerife/2026/03/25/tenerife-mejor-casa-peninsula-128378750.html",
-        "date": "2026-03-25 07:00:13",
-        "sentiment_score": 0.5379007905721664
-    },
-    {
-        "title": "Herzog viaja a Chipre con la Sub-21 de Gordo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5746af87-faae-4f95-baff-019b07983adc_16-9-aspect-ratio_default_0_x828y293.jpg",
-        "tags": [
-            "madrid",
-            "pino",
-            "chipre",
-            "ud"
-        ],
-        "link": "https://www.laprovincia.es/ud-las-palmas/2026/03/25/herzog-viaja-chipre-sub-21-128378697.html",
-        "date": "2026-03-25 07:00:11",
-        "sentiment_score": 0.007276371121406555
-    },
-    {
-        "title": "¿Quién es Alfonso Frade, el silledense en la RAE cuatro décadas después de su muerte?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b955eb27-6b75-4f47-8658-c33b0e466f55_16-9-aspect-ratio_default_0_x527y468.jpg",
-        "tags": [
-            "escritores",
-            "rae"
-        ],
-        "link": "https://www.farodevigo.es/deza-tabeiros-montes/2026/03/25/alfonso-frade-silledense-rae-cuatro-128367714.html",
-        "date": "2026-03-25 07:00:09",
-        "sentiment_score": -0.15343208611011505
-    },
-    {
-        "title": "“Como médico y como paciente, creo que debería aconsejarse protección en las aglomeraciones”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "huelga sergas",
-            "irán"
-        ],
-        "link": "https://www.galiciapress.es/articulo/sanidad/2026-03-25/5820677-como-medico-como-paciente-creo-deberia-aconsejarse-mascarillas-aglomeraciones",
-        "date": "2026-03-25 06:58:16",
-        "sentiment_score": -0.6569591760635376
-    },
-    {
-        "title": "O Goberno estatal traspón no decreto 'anticrise' unha norma da UE que \"acelera\" os eólicos",
-        "image_url": "https://www.nosdiario.gal/media/nosdiario/images/2026/03/24/2026032418450441184.jpg",
-        "tags": [
-            "parques e&oacute;licos",
-            "enerx&iacute;a e&oacute;lica",
-            "uni&oacute;n europea (ue)",
-            "goberno espa&ntilde;ol"
-        ],
-        "link": "https://www.nosdiario.gal/articulo/social/goberno-estatal-traspon-decreto-anticrise-norma-da-ue-que-acelera-eolicos/20260325075707251400.html",
-        "date": "2026-03-25 06:57:07",
-        "sentiment_score": -0.2055376023054123
-    },
-    {
-        "title": "El último baile de Antoine Griezmann con una deuda por saldar: un título grande para el Atlético de Madrid",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/24/69c2ce62026df4-21944216.jpeg",
-        "tags": [
-            "fútbol",
-            "antoine griezmann",
-            "atlético de madrid",
-            "selección de fútbol de francia",
-            "diego simeone"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/ultimo-baile-antoine-griezmann-con-una-deuda-por-saldar-un-titulo-grande-para-atletico-madrid_6950156_0.html",
-        "date": "2026-03-25 06:54:13",
-        "sentiment_score": 0.030862584710121155
-    },
-    {
-        "title": "Un experto en realeza señala la estrecha relación entre los reyes Felipe y Letizia y los hijos de la infanta Cristina: “Están muy unidos”",
-        "image_url": "https://www.infobae.com/resizer/v2/YGGP6TGBY5HUNEJZLOTH2GSJJQ.jpg?auth=50a73094872f6f019964afe596bc6de4a202a006725b1b191bfec5a63bd88372&smart=true&width=3255&height=1831",
-        "tags": [
-            "casa real españa",
-            "españa-entretenimiento",
-            "corazón y estilo españa",
-            "españa-noticias",
-            "reina letizia",
-            "casas reales",
-            "felipe vi"
-        ],
-        "link": "https://www.infobae.com/espana/2026/03/25/un-experto-en-realeza-senala-la-estrecha-relacion-entre-los-reyes-felipe-y-letizia-y-los-hijos-de-la-infanta-cristina-estan-muy-unidos/",
-        "date": "2026-03-25 07:02:46",
-        "sentiment_score": -0.027580678462982178
-    },
-    {
-        "title": "Mozilla invierte en la herramienta catalana de simulación de despliegues de IA en las empresas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1324f030-b10c-4e7d-88a5-c05773fa3ff9_alta-libre-aspect-ratio_default_0_x707y312.jpg",
-        "tags": [
-            "start-ups",
-            "emprendedores",
-            "inteligencia artificial",
-            "innovación",
-            "empresas"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20260325/mozilla-invierte-galtea-herramienta-catalana-simulacion-despliegues-ia-128326399",
-        "date": "2026-03-25 07:00:53",
-        "sentiment_score": -0.03126108646392822
-    },
-    {
-        "title": "La 'influencer' Marta Díaz, relacionada con un ex del FC Barcelona: \"Han estado juntos\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/acce24ee-c41c-4fee-a514-8a51766ecc99_alta-libre-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "joao félix",
-            "famosos",
-            "influencers"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20260325/influencer-marta-diaz-relacionada-ex-fc-barcelona-dv-128357667",
-        "date": "2026-03-25 07:00:53",
-        "sentiment_score": -0.540391355752945
-    },
-    {
-        "title": "Agencias y turoperadores avanzan una buena Semana Santa, pese al impacto puntual del conflicto en Oriente",
-        "image_url": "https://forbes.es/wp-content/uploads/2026/03/fotonoticia_20260325080046_1920-1200x675.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://forbes.es/economia/895678/agencias-y-turoperadores-avanzan-una-buena-semana-santa-pese-al-impacto-puntual-del-conflicto-en-oriente/",
-        "date": "2026-03-25 07:00:46",
-        "sentiment_score": 0.23603403568267822
-    },
-    {
-        "title": "Vecinos de Barcelona se concentran para frenar el desahucio del bloque Sant Agustí, comprado por un fondo extranjero",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c12743af-3166-49ce-bdb9-7ee8210ee373_alta-libre-aspect-ratio_default_0_x1000y444.jpg",
-        "tags": [
-            "barcelona",
-            "vivienda",
-            "desahucios"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20260325/vecinos-gracia-protestan-desahucio-bloque-fondo-coliving-128383191",
-        "date": "2026-03-25 07:00:39",
-        "sentiment_score": -0.05889676511287689
-    },
-    {
-        "title": "Noelia, la joven parapléjica de Barcelona, anuncia que morirá por eutanasia este jueves",
-        "image_url": "https://www.periodistadigital.com/wp-content/uploads/2026/03/Noelia.jpg",
-        "tags": [
-            "salud",
-            "ciencia"
-        ],
-        "link": "https://www.periodistadigital.com/ciencia/salud/20260325/noelia-joven-paraplejica-barcelona-anuncia-morira-eutanasia-jueves-noticia-689405194520/",
-        "date": "2026-03-25 06:58:28",
-        "sentiment_score": -0.15647144615650177
-    },
-    {
-        "title": "Edin Terzic y Jon Uriarte preparan el relevo en el Athletic tras la era Valverde",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/28/2025062815452147292.jpg",
-        "tags": [
-            "athletic club",
-            "edin terzic",
-            "san-mam&eacute;s",
-            "athletic club de bilbao",
-            "laliga",
-            "jon uriarte"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/edin-terzic-jon-uriarte-preparan-relevo-athletic-era-valverde/20260325075821379998.html",
-        "date": "2026-03-25 06:58:21",
-        "sentiment_score": 0.2730191834270954
-    },
-    {
-        "title": "ERC, otra vez a la carga con el IRPF, y los alquileres",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/25/actualidad/1003742745093_15878176_1706x960.jpg",
-        "tags": [
-            "presupuestos",
-            "vivienda",
-            "barcelona",
-            "lengua catalana",
-            "sijena",
-            "generalitat de cataluña",
-            "irpf",
-            "oriol junqueras",
-            "sagrada familia",
-            "erc"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260325/erc-vez-carga-irpf-alquileres/1003742745088_0.html",
-        "date": "2026-03-25 06:44:49",
-        "sentiment_score": -0.9153467379510403
-    },
-    {
         "title": "18:00H | 25 MAR 2026 | La Tarde",
         "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67d05b36b2414.jpeg",
         "tags": [
@@ -3211,5 +2969,274 @@ export default [
         "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-nadia-ferreira-y-marc-anthony-revelan-el-sexo-de-su-pr%C3%B3ximo-beb%C3%A9",
         "date": "2026-03-28 18:00:06",
         "sentiment_score": 0.45170245319604874
+    },
+    {
+        "title": "La UD Almería no conoce la derrota con la Real Sociedad B",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/03/29/UDA-Sanse-Historia-RwpA4hFbSyyJj5FgZXOrV5J-758x531@Ideal.jpg",
+        "tags": [
+            "chumi",
+            "real madrid",
+            "alejandro pozo",
+            "cd mirandés",
+            "real valladolid club de fútbol",
+            "giorgi makaridze",
+            "curro sánchez",
+            "akieme",
+            "dyego sousa",
+            "juan brandariz movilla",
+            "samú costa",
+            "var",
+            "juan villar",
+            "rubi",
+            "juanjo nieto",
+            "césar de la hoz",
+            "xabi alonso",
+            "girona fc",
+            "lazo",
+            "puigmal",
+            "sadiq umar",
+            "liga de fútbol profesional",
+            "babic",
+            "iván martos",
+            "segunda división",
+            "almería",
+            "appiah"
+        ],
+        "link": "https://www.ideal.es/udalmeria/almeria-conoce-derrota-real-sociedad-20260329163325-nt.html",
+        "date": "2026-03-28 22:18:09",
+        "sentiment_score": 0.3214446157217026
+    },
+    {
+        "title": "93-95. El Real Madrid cosecha una trabajada victoria en Girona",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/28/93-95-el-real-madrid-cosecha-una-trabajada-victoria-en-girona/",
+        "date": "2026-03-28 22:15:26",
+        "sentiment_score": 0.7694937326014042
+    },
+    {
+        "title": "La Cibeles, la Sagrada Familia y la Torre del Oro apagan sus luces en la Hora del Planeta",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/28/69c8514bccb276-42723428.jpeg",
+        "tags": [
+            "torre",
+            "sagrada",
+            "cibeles",
+            "familia",
+            "oro"
+        ],
+        "link": "https://www.20minutos.es/nacional/cibeles-sagrada-familia-torre-oro-apagan-luces-hora-planeta_6952131_0.html",
+        "date": "2026-03-28 22:12:42",
+        "sentiment_score": 0.2588512599468231
+    },
+    {
+        "title": "El Deportivo rasca un empate en Gijón para seguir segundo en LaLiga Hypermotion y el Huesca alarga su crisis",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260328231219_1200.jpg",
+        "tags": [
+            "granada cf",
+            "huesca",
+            "deportivo de la coruña",
+            "gijón (ciudad)",
+            "burgos",
+            "primera división",
+            "sporting de gijón"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-deportivo-rasca-empate-gijon-seguir-segundo-laliga-hypermotion-huesca-alarga-crisis-20260328231219.html",
+        "date": "2026-03-28 22:12:19",
+        "sentiment_score": 0.5632616877555847
+    },
+    {
+        "title": "Figura de Francia le guarda respeto a James Rodríguez en la selección Colombia: “Es el jugador que mejor conocemos”",
+        "image_url": "https://www.infobae.com/resizer/v2/Z2N6NAM5B5H3PEILZHMZU7SS7U.JPG?auth=8e53fd875a1cd7f6cbf2d547d2ce4cc7137c93b60face8009469071085657232&smart=true&width=5580&height=3440",
+        "tags": [
+            "francia",
+            "selección colombia",
+            "colombia-deportes",
+            "james rodríguez",
+            "colombia vs francia"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/03/28/figura-de-francia-le-guarda-respeto-a-james-rodriguez-en-la-seleccion-colombia-es-el-jugador-que-mejor-conocemos/",
+        "date": "2026-03-28 22:11:39",
+        "sentiment_score": 0.7863158881664276
+    },
+    {
+        "title": "Hezonja sale al rescate de un Real Madrid que sufre de lo lindo para doblegar al Girona y mantener la racha de triunfos",
+        "image_url": "https://s3.elespanol.com/2026/03/28/actualidad/1003744188073_262184496_1706x960.jpg",
+        "tags": [
+            "baloncesto",
+            "deportes",
+            "real madrid baloncesto",
+            "girona",
+            "liga endesa"
+        ],
+        "link": "https://www.elespanol.com/deportes/baloncesto/20260328/hezonja-sale-rescate-real-madrid-sufre-lindo-doblegar-girona-mantener-racha-triunfos/1003744188072_0.html",
+        "date": "2026-03-28 22:11:26",
+        "sentiment_score": -0.5715948306024075
+    },
+    {
+        "title": "La Noche de CADENA 100 vuelve a poner la banda sonora de Madrid a Alepo: de los giros de David Bisbal al español de Loreen o la complicidad de Antonio Orozco con el público",
+        "image_url": "https://www.cadena100.es/files/og_thumbnail/files/fp/uploads/2026/03/28/69c83b1303384.r_d.1500-1000-0.jpg",
+        "tags": [
+            "crónica la noche de cadena 100",
+            "melendi cadena 100",
+            "orozco concierto madrid",
+            "concierto cadena 100",
+            "loreen en españa",
+            "david bisbal muerte padre"
+        ],
+        "link": "https://www.cadena100.es/eventos/la-noche-de-cadena-100/noticias/noche-cadena-100-vuelve-poner-banda-sonora-madrid-alepo-giros-david-bisbal-espanol-loreen-complicidad-antonio-orozco-publico-20260328_147743.html",
+        "date": "2026-03-28 22:08:29",
+        "sentiment_score": -0.017292141914367676
+    },
+    {
+        "title": "La directiva Eva Fernández Gómez, distinguida con la medalla de oro en la Noche de Galicia en Madrid",
+        "image_url": "https://okdiario.com/img/2026/03/28/eva_fernandez_gomez.jpg",
+        "tags": [
+            "galicia",
+            "madrid",
+            "sociedad"
+        ],
+        "link": "https://okdiario.com/sociedad/directiva-eva-fernandez-gomez-distinguida-medalla-oro-noche-galicia-madrid-16506479",
+        "date": "2026-03-28 22:08:14",
+        "sentiment_score": 0.6163555830717087
+    },
+    {
+        "title": "Un conocido analista de la UFC desata una polémica con la plasmaféresis",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/03/28/2026032823010615502.jpg",
+        "tags": [
+            "mma",
+            "ufc",
+            "plasmaf&eacute;resis",
+            "salud",
+            "joe rogan",
+            "ee uu"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/conocido-analista-ufc-somete-plasmaferesis-desata-debate-envejecimiento-deportote/20260328230230380473.html",
+        "date": "2026-03-28 22:02:30",
+        "sentiment_score": -0.014034613966941833
+    },
+    {
+        "title": "El Pilar se apaga frente al cambio climático en la Hora del Planeta",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/03/28/69c83efcb8b091-34368670.r_d.854-291-13171.jpeg",
+        "tags": [
+            "zaragoza",
+            "se",
+            "pilar",
+            "para",
+            "apaga"
+        ],
+        "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2026/03/28/pilar-zaragoza-se-apaga-para-luchar-por-cambio-climatico-hora-planeta-2007946.html",
+        "date": "2026-03-28 21:19:21",
+        "sentiment_score": -0.7284998632967472
+    },
+    {
+        "title": "Ángel Jové, in memoriam",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/27/actualidad/1003742745882_15888378_1706x960.jpg",
+        "tags": [
+            "ocio nocturno",
+            "cines barcelona",
+            "vivir en barcelona",
+            "cultura"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260328/angel-jove-in-memoriam/1003742745879_0.html",
+        "date": "2026-03-28 22:30:00",
+        "sentiment_score": 0.5631128177046776
+    },
+    {
+        "title": "PlayNuzic, el proyecto nacido en Barcelona que combina música con matemáticas: “El sonido es movimiento”",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/27/actualidad/1003742745970_15889364_1706x960.jpg",
+        "tags": [
+            "música",
+            "niños",
+            "tecnología",
+            "colegios barcelona",
+            "colegios",
+            "educación",
+            "vivir en barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260328/playnuzic-proyecto-nacido-barcelona-combina-musica-matematicas-sonido-movimiento/1003742745960_0.html",
+        "date": "2026-03-28 22:30:00",
+        "sentiment_score": 0.28667639940977097
+    },
+    {
+        "title": "Así se vive la Semana Santa en el Raval: la histórica Congregación del Cristo de la Buena Muerte, desde dentro",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/28/actualidad/1003742746409_15895712_1706x960.jpg",
+        "tags": [
+            "el raval",
+            "semana santa barcelona",
+            "ciutat vella"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/ciutat-vella/20260328/vive-semana-santa-raval-historica-congregacion-cristo-buena-muerte-dentro/1003742746350_0.html",
+        "date": "2026-03-28 22:30:00",
+        "sentiment_score": 0.36063632369041443
+    },
+    {
+        "title": "L'Hospitalet dibuja su distrito biomédico: un revulsivo metropolitano con 50.000 puestos de trabajo y 500.000 m2 de zonas verdes",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/27/actualidad/1003742745881_15888357_1706x960.jpg",
+        "tags": [
+            "hospitales",
+            "salud",
+            "l'hospitalet de llobregat",
+            "sanidad",
+            "gran barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260328/lhospitalet-dibuja-distrito-biomedico-revulsivo-metropolitano-puestos-trabajo-m2-zonas-verdes/1003742745869_0.html",
+        "date": "2026-03-28 22:30:00",
+        "sentiment_score": 0.7546109408140182
+    },
+    {
+        "title": "Almería, designada sede del Congreso Nacional de Parques y Jardines Públicos",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/03/29/parpajj-RNyqqjSA7fWPi53EkrL299L-758x531@Ideal.jpeg",
+        "tags": [
+            "sostenibilidad",
+            "almería"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/almeria-designada-sede-congreso-nacional-parques-jardines-20260329194806-nt.html",
+        "date": "2026-03-28 22:14:11",
+        "sentiment_score": 0.11854071915149689
+    },
+    {
+        "title": "Una joya de la cantera del Barça rechaza marcharse a la Premier League",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/28/2026012818361842057.jpg",
+        "tags": [
+            "manchester united",
+            "premier league",
+            "fichajes",
+            "fc barcelona",
+            "alejandro balde",
+            "bar&ccedil;a"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/uno-canteranos-estrella-barca-niega-irse-premier-league/20260328231312380474.html",
+        "date": "2026-03-28 22:13:12",
+        "sentiment_score": -0.4854678772389889
+    },
+    {
+        "title": "Muere la exparlamentaria socialista en Europa Maria Badia: referente en la defensa de la lengua, la cultura y el proyecto europeo",
+        "image_url": "https://www.infobae.com/resizer/v2/MLV3NKGEZRCZPKKYTUWV2VOLXI.jpg?auth=8822c9e1749f4ade20bb75ae35943198b5bec7cc13cce60ba59819ab1f28499e&smart=true&width=1920&height=1080",
+        "tags": [
+            "españa-nacional",
+            "unión europea",
+            "miquel iceta",
+            "comisión europea",
+            "psoe",
+            "españa-noticias",
+            "carles puigdemont"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/28/muere-la-exparlamentaria-socialista-en-europa-maria-badia-referente-en-la-defensa-de-la-lengua-la-cultura-y-el-proyecto-europeo/",
+        "date": "2026-03-28 22:08:59",
+        "sentiment_score": -0.6273114532232285
+    },
+    {
+        "title": "Fallece la filóloga y exeurodiputada socialista Maria Badia a los 78 años",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/28/fallece-la-filologa-y-exeurodiputada-socialista-maria-badia-a-los-78-anos/",
+        "date": "2026-03-28 21:46:05",
+        "sentiment_score": -0.8452463746070862
     }
 ];
