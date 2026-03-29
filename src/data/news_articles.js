@@ -1,447 +1,5 @@
 export default [
     {
-        "title": "Crónica del Real Madrid - Hapoel Tel Aviv: 92-83",
-        "image_url": "https://www.infobae.com/resizer/v2/ISHJ6ZSIPVCHPO6V27YR2B7Q7Y.jpg?auth=0aee74a7462ddf585e462a7aa35d24d5fb4464cb948d3bbd561c73b8a878cab1&smart=true&width=1920&height=1280",
-        "tags": [
-            "europapress",
-            "théo maledon",
-            "hapoel tel aviv",
-            "mario hezonja",
-            "sergio scariolo",
-            "baloncesto",
-            "real madrid",
-            "madrid",
-            "movistar arena",
-            "euroliga",
-            "facu campazzo"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/24/cronica-del-real-madrid-hapoel-tel-aviv-92-83/",
-        "date": "2026-03-24 22:45:49",
-        "sentiment_score": 0.8612609133124352
-    },
-    {
-        "title": "Scariolo: \"La identidad del equipo desde hace meses es muy positiva\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/24/scariolo-la-identidad-del-equipo-desde-hace-meses-es-muy-positiva/",
-        "date": "2026-03-24 22:45:21",
-        "sentiment_score": 0.857815214432776
-    },
-    {
-        "title": "El Real Madrid recupera su gran tono europeo frente al Hapoel",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/7f5a577f-dda1-431c-b6c62085c18a24ef.jpg",
-        "tags": [
-            "real madrid",
-            "fenerbahçe",
-            "sergio scariolo",
-            "sergio llull",
-            "euroliga",
-            "usman garuba"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z2d50e8f2-68f3-446b-ad35b422ed4de3db/202603/el-real-madrid-recupera-su-gran-tono-europeo-frente-al-hapoel",
-        "date": "2026-03-24 22:44:37",
-        "sentiment_score": 0.526033092290163
-    },
-    {
-        "title": "“¿Y si te llama Riquelme?”: la tajante respuesta de Giuliano Simeone sobre la posibilidad de jugar en Boca Juniors",
-        "image_url": "https://www.infobae.com/resizer/v2/ID3BHECOXNFJJBMEQYQESDT43M.jpg?auth=39bfa4ec84ccc97281ba3694e1e32ee331dd8735031a5c66fb8e7f61952c5c7a&smart=true&width=1920&height=1080",
-        "tags": [
-            "giuliano simeone",
-            "boca juniors",
-            "juan román riquelme",
-            "deportes-internacional"
-        ],
-        "link": "https://www.infobae.com/deportes/2026/03/24/y-si-te-llama-riquelme-la-tajante-respuesta-de-giuliano-simeone-sobre-la-posibilidad-de-jugar-en-boca-juniors/",
-        "date": "2026-03-24 22:44:21",
-        "sentiment_score": 0.650069797411561
-    },
-    {
-        "title": "Itoudis: \"No hemos tenido la mentalidad necesaria en defensa\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260324232843_1200.jpg",
-        "tags": [
-            "real madrid",
-            "euroliga"
-        ],
-        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-itoudis-no-hemos-tenido-mentalidad-necesaria-defensa-20260324232843.html",
-        "date": "2026-03-24 22:28:43",
-        "sentiment_score": -0.7685380652546883
-    },
-    {
-        "title": "El Madrid doblega al Hapoel de Tel Aviv y asalta el tercer puesto de la Euroliga",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cd4c7d42-2a0d-4960-a9fb-a51f9676275d_16-9-aspect-ratio_default_0_x643y241.jpg",
-        "tags": [
-            "real madrid de baloncesto",
-            "baloncesto",
-            "euroliga"
-        ],
-        "link": "https://www.superdeporte.es/baloncesto/2026/03/24/madrid-doblega-hapoel-tel-aviv-128377548.html",
-        "date": "2026-03-24 22:20:35",
-        "sentiment_score": 0.23633098602294922
-    },
-    {
-        "title": "Sigue la entrevista a Unai Simón en El Partidazo de COPE",
-        "image_url": "https://www.cope.es/files/microformat_image/uploads/2026/03/24/69c30f88538c7.jpeg",
-        "tags": [
-            "partidazo",
-            "unai",
-            "cope",
-            "simón",
-            "entrevista"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/entrevista-unai-simon-partidazo-cope-24-20260324_3333182.html",
-        "date": "2026-03-24 22:33:05",
-        "sentiment_score": 0.0830661803483963
-    },
-    {
-        "title": "Pascual: \"Era una final extremadamente importante y la hemos sacado adelante\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/24/pascual-era-una-final-extremadamente-importante-y-la-hemos-sacado-adelante/",
-        "date": "2026-03-24 22:31:20",
-        "sentiment_score": 0.8760220985859632
-    },
-    {
-        "title": "Prosegur cerró 2025 con más de 44.500 horas en descubiertos en la red de Rodalies y la Alta Velocidad catalanas",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/12/27/vida/911918866_13917919_1706x960.png",
-        "tags": [
-            "transporte",
-            "trabajadores",
-            "sindicatos",
-            "empresas barcelona",
-            "el pulso de la ciudad",
-            "adif",
-            "seguridad"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20260324/prosegur-cerro-horas-descubiertos-red-rodalies-alta-velocidad-catalanas/1003742742845_0.html",
-        "date": "2026-03-24 22:30:00",
-        "sentiment_score": -0.7988090887665749
-    },
-    {
-        "title": "¿'Poca vergonya' o ninguna?",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/14/opinion/1003742741517_15827825_1706x960.jpg",
-        "tags": [
-            "sant martí de provençals",
-            "contaminación",
-            "ayuntamiento de barcelona",
-            "opinión",
-            "terrazas",
-            "sagrada família",
-            "bares y restaurantes",
-            "turismo",
-            "limpieza"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/opinion/20260324/poca-vergonya-ninguna/1003742744979_12.html",
-        "date": "2026-03-24 22:30:00",
-        "sentiment_score": -0.7349843829870224
-    },
-    {
-        "title": "Barcelona invertirá más de medio millón de euros en equipamientos deportivos gratuitos para el Besòs i el Maresme",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/24/actualidad/1003742744989_15876775_1706x960.jpg",
-        "tags": [
-            "deportes",
-            "psc - partit dels socialistes de catalunya",
-            "ayuntamiento de barcelona",
-            "sant martí",
-            "urbanismo",
-            "erc"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sant-marti/20260324/barcelona-invertira-medio-millon-euros-equipamientos-deportivos-gratuitos-besos-maresme/1003742744924_0.html",
-        "date": "2026-03-24 22:30:00",
-        "sentiment_score": 0.5979229845106602
-    },
-    {
-        "title": "La Central consolida su propuesta como hamburguesería en Barcelona con una carta renovada",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5821219/central-consolida-propuesta-como-hamburgueseria-barcelona-carta-renovada",
-        "date": "2026-03-24 22:22:07",
-        "sentiment_score": 0.40479612722992897
-    },
-    {
-        "title": "78-71. Clyburn afianza al Barça entre los diez primeros de la Euroliga",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "crime"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/24/78-71-clyburn-afianza-al-barca-entre-los-diez-primeros-de-la-euroliga/",
-        "date": "2026-03-24 22:00:58",
-        "sentiment_score": 0.10994204878807068
-    },
-    {
-        "title": "Sàmper confía en que habrá Presupuestos y descarta que Illa tenga que avanzar las elecciones",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260324230051_1200.jpg",
-        "tags": [
-            "generalitat de catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-samper-confia-habra-presupuestos-descarta-illa-tenga-avanzar-elecciones-20260324230051.html",
-        "date": "2026-03-24 22:00:51",
-        "sentiment_score": 0.3226724863052368
-    },
-    {
-        "title": "PC Barcelona emite recomendaciones ante aumento de temperaturas",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/03/PC-Anzoategui.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://ultimasnoticias.com.ve/anzoateggui/pc-barcelona-emite-recomendaciones-ante-aumento-de-temperaturas/",
-        "date": "2026-03-24 21:57:49",
-        "sentiment_score": -0.8126467894762754
-    },
-    {
-        "title": "Muere un joven tras estrellarse su moto con un jabalí que ha salido a la vía",
-        "image_url": "https://www.clm24.es/media/clm24/images/2026/03/22/2026032217550549050.jpg",
-        "tags": [
-            "motorista",
-            "sucesos",
-            "jabal&iacute;"
-        ],
-        "link": "https://www.clm24.es/articulo/viral/muere-joven-estrellarse-moto-que-conducia-jabali/20260324225201473534.html",
-        "date": "2026-03-24 21:52:01",
-        "sentiment_score": -0.8906616428866982
-    },
-    {
-        "title": "La sangría defensiva sigue con Demichelis",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4423097.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/03/25/2595545/sangria-defensiva-sigue-demichelis.html",
-        "date": "2026-03-25 02:48:01",
-        "sentiment_score": 0.14568808674812317
-    },
-    {
-        "title": "Demichelis, invitado al Málaga–Leganés del sábado",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4423457.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/03/25/2595775/demichelis-tiene-previsto-acudir-como-invitado-malaga-leganes-del-sabado.html",
-        "date": "2026-03-25 02:48:01",
-        "sentiment_score": 0.19562754034996033
-    },
-    {
-        "title": "Negociar con bombas: Hegseth valida uso de fuerza extrema contra Irán",
-        "image_url": "https://ikona.telesurtv.net/content/uploads/2026/03/7d097e80ce12235b7b928a6151644c1667443dadw.jpg.webp",
-        "tags": [
-            "conflicto",
-            "chantaje",
-            "oriente medio",
-            "trump",
-            "irán",
-            "ee.uu."
-        ],
-        "link": "https://www.telesurtv.net/hegseth-valida-uso-fuerza-extrema-iran/",
-        "date": "2026-03-25 02:42:15",
-        "sentiment_score": -0.7332735098898411
-    },
-    {
-        "title": "Miércoles, 25 de marzo de 2026 (02:00 GMT)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/25/miercoles-25-de-marzo-de-2026-0200-gmt/",
-        "date": "2026-03-25 02:16:19",
-        "sentiment_score": -0.012785851955413818
-    },
-    {
-        "title": "¿Por qué no hay sardinas en Perú? Cómo El Niño, la anchoveta y la pesca sin estribos borraron una industria del mar",
-        "image_url": "https://www.infobae.com/resizer/v2/XJZF3D2ZBZB3XOTZ7FRSY5VH7I.jpg?auth=eaf9cc4b5a9d211e4bab33ed48124c298ab4793d86e7670c306b77b4119d2f07&smart=true&width=1900&height=1175",
-        "tags": [
-            "sardinas",
-            "ministerio de la producción",
-            "heroínas de la mar",
-            "peru-economia",
-            "pesca",
-            "imarpe",
-            "oceana",
-            "anchoveta"
-        ],
-        "link": "https://www.infobae.com/peru/2026/03/25/por-que-no-hay-sardinas-en-peru-como-el-nino-la-anchoveta-y-la-pesca-sin-estribos-borraron-una-industria-del-mar/",
-        "date": "2026-03-25 01:34:53",
-        "sentiment_score": 0.1534281075000763
-    },
-    {
-        "title": "Bélgica pierde a su artillero: Romelu Lukaku es baja definitiva para enfrentar a México",
-        "image_url": "https://www.metroworldnews.com/resizer/v2/4QCX35Y4RFE7FC74XXDJ5QEYYQ.jpg?auth=4a9159db588b01b21450e485769b77ab5e6a8c9d7a1ae08247e817ac6c73a359&smart=true&width=3865&height=2577",
-        "tags": [
-            "fecha fifa",
-            "romelu lukaku"
-        ],
-        "link": "https://www.metroworldnews.com/deportes/2026/03/25/belgica-pierde-a-su-artillero-romelu-lukaku-es-baja-definitiva-para-enfrentar-a-mexico/",
-        "date": "2026-03-25 01:10:04",
-        "sentiment_score": -0.888164134696126
-    },
-    {
-        "title": "Mbappé dice que su lesión de rodilla 'quedó atrás'. Tranquiliza a Francia y Real Madrid",
-        "image_url": "https://i.headtopics.com/images/2026/3/25/latimes/mbappe-dice-que-su-lesi-n-de-rodilla-qued-atr-s-mbappe-dice-que-su-lesi-n-de-rodilla-qued-atr-s-FB45C015D7B07445BA69C8F42A669A63.webp",
-        "tags": [
-            "united states news"
-        ],
-        "link": "https://us.headtopics.com/news/mbappe-dice-que-su-lesi-n-de-rodilla-qued-atr-s-81414645",
-        "date": "2026-03-25 01:07:18",
-        "sentiment_score": -0.0005436092615127563
-    },
-    {
-        "title": "Klopp tacha de 'disparates' rumores sobre el Real Madrid y niega contactos",
-        "image_url": "https://i.headtopics.com/images/2026/3/25/latimes/klopp-tacha-de-disparates-rumores-sobre-el-real-ma-klopp-tacha-de-disparates-rumores-sobre-el-real-ma-92063E0F5883406672C5BED299148AF6.webp",
-        "tags": [
-            "united states news"
-        ],
-        "link": "https://us.headtopics.com/news/klopp-tacha-de-disparates-rumores-sobre-el-real-madrid-y-81414167",
-        "date": "2026-03-25 00:36:45",
-        "sentiment_score": -0.8812476610764861
-    },
-    {
-        "title": "Mbappé dice que su lesión de rodilla \"quedó atrás\". Tranquiliza a Francia y Real Madrid",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-24/mbappe-dice-que-su-lesion-de-rodilla-quedo-atras-tranquiliza-francia-y-real-madrid",
-        "date": "2026-03-25 00:25:42",
-        "sentiment_score": -0.0005436092615127563
-    },
-    {
-        "title": "Klopp tacha de \"disparates\" rumores sobre el Real Madrid y niega contactos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-03-24/klopp-tacha-de-disparates-rumores-sobre-el-real-madrid-y-niega-contactos",
-        "date": "2026-03-25 00:19:52",
-        "sentiment_score": -0.8812476610764861
-    },
-    {
-        "title": "La Sagrada Familia bate récord de visitantes y se prepara para recibir al papa León XIV",
-        "image_url": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/sagrada-familia-de-antoni-gaudi-interior-1-3fce73.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://noticiasvenevision.com/noticias/internacional/la-sagrada-familia-bate-record-de-visitantes-y-se-prepara-para-recibir-al-papa-leon-xiv",
-        "date": "2026-03-25 02:12:00",
-        "sentiment_score": 0.817551851272583
-    },
-    {
-        "title": "Un incendio en un piso de Mataró (Barcelona) causa cuatro heridos, uno en estado crítico",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2020/11/23/fachada-del-hospital-vall-dhebron-de-barcelona.jpeg",
-        "tags": [
-            "nacional",
-            "actualidad"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/un-incendio-un-piso-mataro-barcelona-causa-cuatro-heridos-uno-estado-critico_6950351_0.html",
-        "date": "2026-03-25 02:06:57",
-        "sentiment_score": -0.7325136363506317
-    },
-    {
-        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 25 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&smart=true&width=1920&height=1080",
-        "tags": [
-            "clima en españa",
-            "clima en barcelona",
-            "últimas actualizaciones",
-            "clima"
-        ],
-        "link": "https://www.infobae.com/noticias/2026/03/25/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-25-de-marzo/",
-        "date": "2026-03-25 02:00:59",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "Barcelona abre la puerta a Ferran Torres: escuchará ofertas y busca dos delanteros",
-        "image_url": "https://www.metroworldnews.com/resizer/v2/52OK5TS7T5AOZBSZQ2XZATNIGE.jpg?auth=486365e8e8baef8e198254cab7a574661ca94fa428a4c8ed4e3956ebcb96c6be&smart=true&width=1366&height=768",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.metroworldnews.com/deportes/2026/03/25/barcelona-abre-la-puerta-a-ferran-torres-escuchara-ofertas-y-busca-dos-delanteros/",
-        "date": "2026-03-25 01:28:15",
-        "sentiment_score": 0.20560018718242645
-    },
-    {
-        "title": "Luis Cortés creció entre \"gitanos\", trabajó en el campo y ya triunfa en toda España: “Me beneficia ser negro y flamenco”",
-        "image_url": "https://s3.elespanol.com/2026/03/24/actualidad/1003744182598_262111586_1706x960.jpg",
-        "tags": [
-            "ocio",
-            "flamenco",
-            "conciertos música"
-        ],
-        "link": "https://www.elespanol.com/madrid/ocio/20260325/luis-cortes-crecio-gitanos-trabajo-campo-triunfa-toda-espana-beneficia-negro-flamenco/1003744182571_0.html",
-        "date": "2026-03-25 01:15:37",
-        "sentiment_score": -0.2103324830532074
-    },
-    {
-        "title": "Creas compra el 70% de la compañía de salud mental adolescente Desconecta",
-        "image_url": "https://s3.elespanol.com/2026/03/24/actualidad/1003744182579_262111343_1706x960.jpg",
-        "tags": [
-            "startup",
-            "adquisiciones empresariales",
-            "capital riesgo",
-            "sanidad - industria",
-            "fondos de inversión"
-        ],
-        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20260325/creas-compra-compania-salud-mental-adolescente-desconecta/1003744182574_0.html",
-        "date": "2026-03-25 01:15:06",
-        "sentiment_score": 0.12651153653860092
-    },
-    {
-        "title": "Un incendio en un piso de Mataró (Barcelona) causa cuatro heridos, uno en estado crítico",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/25/un-incendio-en-un-piso-de-mataro-barcelona-causa-cuatro-heridos-uno-en-estado-critico/",
-        "date": "2026-03-25 00:46:05",
-        "sentiment_score": -0.7933401186019182
-    },
-    {
-        "title": "Joan Garcia: \"Para nada es un mano a mano con Unai Simón\"",
-        "image_url": "https://www.infobae.com/resizer/v2/AUDA3KDYGRAQ7FRCHSQFY443VQ.jpg?auth=ddf4321b7253e8b7c1b0b41b5af5bf6d69f30f061dc63aee0e4bddf949719080&smart=true&width=1920&height=1280",
-        "tags": [
-            "selección española",
-            "europapress",
-            "mundial 2026",
-            "porteros",
-            "lamine yamal",
-            "luis de la fuente",
-            "joan garcia",
-            "fc barcelona",
-            "canadá",
-            "unai simón",
-            "españa"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/25/joan-garcia-para-nada-es-un-mano-a-mano-con-unai-simon/",
-        "date": "2026-03-25 00:15:36",
-        "sentiment_score": -0.4506262391805649
-    },
-    {
-        "title": "La española Templus elimina su techo de inversión para crecer en centros de datos",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/d69c6b704c42c781e026b32ff456c1b7/crop/176x168/1200x850/resize/1024/assets/multimedia/imagenes/2026/03/24/17743724982530.jpg",
-        "tags": [
-            "economia-digital/companias",
-            "empresas",
-            "tecnología"
-        ],
-        "link": "https://www.expansion.com/economia-digital/companias/2026/03/25/69c2c6ace5fdea0e758b4597.html",
-        "date": "2026-03-25 00:09:02",
-        "sentiment_score": 0.674297172576189
-    },
-    {
         "title": "Nadal, sobre Alcaraz: \"No vamos a preocuparnos por dos derrotas, no se puede exigir más\"",
         "image_url": "https://static.grupojoly.com/clip/0e4fb5c6-844b-44cc-ac89-748ad5942b21_source-aspect-ratio_default_0.jpg",
         "tags": [
@@ -3336,5 +2894,322 @@ export default [
         "link": "https://www.eldiadecordoba.es/gente/pedrera-entorno-monumental-nueva-coleccion_0_2006315676.html",
         "date": "2026-03-28 06:26:11",
         "sentiment_score": 0.5847116038203239
+    },
+    {
+        "title": "La directora de una residencia de adolescentes intercambiaba vídeos de violaciones a niñas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "violaciones",
+            "camarena",
+            "madrid",
+            "videos",
+            "directora",
+            "toledo",
+            "residencia",
+            "niñas"
+        ],
+        "link": "https://www.meneame.net/story/directora-residencia-adolescentes-intercambiaba-videos-ninas",
+        "date": "2026-03-28 17:15:02",
+        "sentiment_score": -0.6540625244379044
+    },
+    {
+        "title": "¿Cuándo vuelve a jugar la selección peruana?: día, hora y canal TV del amistoso ante Honduras por fecha FIFA",
+        "image_url": "https://www.infobae.com/resizer/v2/JMAOJHCQ7FFY7NIERJHGF34ZQM.jpg?auth=d90f541e34e5abb5fd8dc387ef94aa8fba93a2bb4293e987ff74db9ecee72bf9&smart=true&width=1920&height=1080",
+        "tags": [
+            "mano menezes",
+            "peru-deportes",
+            "selección de honduras",
+            "mundial 2026",
+            "selección peruana"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2026/03/28/cuando-vuelve-a-jugar-la-seleccion-peruana-dia-hora-y-canal-tv-del-amistoso-ante-honduras-por-fecha-fifa/",
+        "date": "2026-03-28 17:56:12",
+        "sentiment_score": 0.06734374165534973
+    },
+    {
+        "title": "La Armada y la OTAN ya usan barcos autónomos 'made in Spain': así es la tecnología que está cambiando la guerra en el mar",
+        "image_url": "https://www.cope.es/files/microformat_image/uploads/2026/03/27/69c69d2cbbc85.jpeg",
+        "tags": [
+            "navegación",
+            "barcos",
+            "utek",
+            "revoluciona",
+            "autónomos"
+        ],
+        "link": "https://www.cope.es/programas/lo-que-viene/audios/armada-otan-barcos-autonomos-made-in-spain-asi-tecnologia-cambiando-guerra-mar-20260328_3335655.html",
+        "date": "2026-03-28 17:50:10",
+        "sentiment_score": -0.03249400854110718
+    },
+    {
+        "title": "Jugadores de la selección Colombia hablaron en la previa del partido ante Francia: “Mbappé es un jugador increíble, uno de los mejores en el mundo”",
+        "image_url": "https://www.infobae.com/resizer/v2/DYVWQ22NYBBT5OXRRKKPYIZ33M.jpg?auth=c58108c478a043e34fcb9bad5d42067a6c84d231c76a7936c1f9afac23525b5b&smart=true&width=7008&height=3944",
+        "tags": [
+            "selección francia",
+            "jhon arias",
+            "selección colombia",
+            "francia vs. colombia",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/03/28/jugadores-de-la-seleccion-colombia-hablaron-en-la-previa-del-partido-ante-francia-mbappe-es-un-jugador-increible-uno-de-los-mejores-en-el-mundo/",
+        "date": "2026-03-28 17:47:46",
+        "sentiment_score": 0.11389821767807007
+    },
+    {
+        "title": "Vinícius no entrena con Brasil por unas molestias, aunque las pruebas descartan lesión",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/28/vinicius-no-entrena-con-brasil-por-unas-molestias-aunque-las-pruebas-descartan-lesion/",
+        "date": "2026-03-28 17:46:11",
+        "sentiment_score": -0.597538648173213
+    },
+    {
+        "title": "Kiko Matamoros desveló uno de los grandes vetos de Telecinco: \"Era orden directa de Paolo Vasile\"",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/02/26/69a0c2c272561.r_d.946-562-0.jpeg",
+        "tags": [
+            "kiko",
+            "grandes",
+            "matamoros",
+            "vasile",
+            "vetos",
+            "telecinco",
+            "orden",
+            "desveló",
+            "directa",
+            "paolo"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20260328/1004161196/kiko-matamoros-desvelo-grandes-vetos-telecinco-orden-directa-paolo-vasile-dct.html",
+        "date": "2026-03-28 17:44:29",
+        "sentiment_score": -0.10763367265462875
+    },
+    {
+        "title": "El CB Canarias alcanza las 200 jornadas en zona de 'playoff'; un hito casi inalcanzable para nadie en los siete últimos años de Liga Endesa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/efdca29a-a535-4dd2-8085-6115b405b275_16-9-aspect-ratio_default_0_x872y387.jpg",
+        "tags": [
+            "bilbao",
+            "canarias",
+            "verano",
+            "cb canarias",
+            "real madrid"
+        ],
+        "link": "https://www.eldia.es/deportes/cb-canarias/2026/03/28/cb-canarias-playoff-txus-vidorreta-128524922.html",
+        "date": "2026-03-28 17:36:36",
+        "sentiment_score": 0.6156861782073975
+    },
+    {
+        "title": "Kidd Keo reivindica su cambio personal y carga contra el discurso vacío en redes sociales",
+        "image_url": "https://laconexionusa.com/wp-content/uploads/2026/03/rss-efea011f416c6c7c4ba430bac366e985cf6e32f0b00w-1000x600.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://laconexionusa.com/kidd-keo-reivindica-su-cambio-personal-y-carga-contra-el-discurso-vacio-en-redes-sociales/",
+        "date": "2026-03-28 17:33:17",
+        "sentiment_score": 0.19046913087368011
+    },
+    {
+        "title": "Los reyes Felipe y Letizia cogen vacaciones en Semana Santa para dedicar todo su tiempo al reencuentro con sus hijas, la princesa Leonor y la infanta Sofía",
+        "image_url": "https://www.infobae.com/resizer/v2/Y7PDNP4YGNEWLIQZ3MWTUESF2I.jpg?auth=fa143f4ea6bb562629c734fab3b125ec544b2226a802080e34d8808c8338b50d&smart=true&width=1689&height=950",
+        "tags": [
+            "realeza",
+            "españa-entretenimiento",
+            "corazón y estilo españa",
+            "felipe vi",
+            "reina letizia",
+            "infanta sofía",
+            "casa real españa",
+            "españa-noticias",
+            "casas reales",
+            "princesa leonor"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/28/los-reyes-felipe-y-letizia-cogen-vacaciones-en-semana-santa-para-dedicar-todo-su-tiempo-al-reencuentro-con-sus-hijas-la-princesa-leonor-y-la-infanta-sofia/",
+        "date": "2026-03-28 17:25:19",
+        "sentiment_score": -0.7658813837915659
+    },
+    {
+        "title": "“Hubo conversaciones con el Baskonia en dos veranos, pero nunca llegó a suceder nada”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/85f95e92-6d88-4f7c-a8db-915046eeb915_16-9-aspect-ratio_default_0_x1625y964.jpg",
+        "tags": [
+            "acb",
+            "baskonia",
+            "entrevista",
+            "shannon evans",
+            "andorra",
+            "morabanc andorra"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/03/28/baskonia-shannon-evans-andorra-entrevista-10877126.html",
+        "date": "2026-03-28 17:00:43",
+        "sentiment_score": 0.22703926265239716
+    },
+    {
+        "title": "¡Preocupación en Madrid! Vinícius Jr. no entrena con Brasil",
+        "image_url": "https://i.ytimg.com/vi/eGTAN9RPlOM/mqdefault.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/preocupacion-en-madrid-vinicius-jr-no-entrena-con-brasil-20263281300",
+        "date": "2026-03-28 17:00:00",
+        "sentiment_score": 0.02451484277844429
+    },
+    {
+        "title": "Periodismo incómodo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2026/03/28/DAMBin%20-%202026-03-27T132728.056-Ra0P99yL1JePlj5hjBQDiXK-758x531@diario_abc.jpg",
+        "tags": [
+            "alumnos",
+            "periodismo",
+            "incomodo",
+            "violencia",
+            "madrid (ciudad)",
+            "universidades"
+        ],
+        "link": "https://www.abc.es/opinion/defensora-del-lector-charo-sadaba-periodismo-incomodo-20260328132844-nt.html",
+        "date": "2026-03-28 18:02:02",
+        "sentiment_score": -0.2869284600019455
+    },
+    {
+        "title": "Mónica Oltra regresará a la primera línea política para optar a la alcaldía de València",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2026/03/28/69c8171a3dd1a4-66625337.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/actualidad/2026/03/28/monica-oltra-regresara-primera-linea-politica-para-optar-alcaldia-valencia-2007887.html",
+        "date": "2026-03-28 18:00:19",
+        "sentiment_score": 0.02392713725566864
+    },
+    {
+        "title": "La ley lo avala: te puedes deducir hasta 500 euros en la declaración de la Renta por cuidar de tus padres",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/26/actualidad/1003742745733_15886646_1706x960.jpg",
+        "tags": [
+            "vivir en barcelona",
+            "economía",
+            "ayudas"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260328/ley-avala-puedes-deducir-euros-declaracion-renta-cuidar-padres/1003742745770_0.html",
+        "date": "2026-03-28 18:00:00",
+        "sentiment_score": 0.24435412883758545
+    },
+    {
+        "title": "Los Puig: desde el pionero Antonio Puig hasta el laboratorio de Isdin y la dulce liquidez de la herencia",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/28/actualidad/1003742746358_15894736_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "marc puig",
+            "empresarios",
+            "business",
+            "perfume",
+            "empresas"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20260328/puig-pionero-antonio-laboratorio-isdin-liquidez-herencia/1003742746348_0.html",
+        "date": "2026-03-28 18:00:00",
+        "sentiment_score": 0.08487161993980408
+    },
+    {
+        "title": "¿Por qué Noelia sí y Pedro Sánchez no? La eutanasia como espejo de una España rota",
+        "image_url": "https://www.alertadigital.com/wp-content/uploads/2026/03/noelia-6.webp",
+        "tags": [
+            "metropoli",
+            "cataluña",
+            "alerta digital",
+            "salud",
+            "opinion",
+            "weather",
+            "periodico",
+            "madrid",
+            "tiempo",
+            "periódico",
+            "noticias",
+            "daily",
+            "technology",
+            "buscador",
+            "catalunya",
+            "deportes",
+            "politica",
+            "españa",
+            "internet",
+            "navegante",
+            "espana",
+            "urgente",
+            "alertadigital",
+            "economía",
+            "internacional",
+            "dinero",
+            "ultimas noticias",
+            "spain",
+            "breaking news",
+            "sport",
+            "tecnología",
+            "news",
+            "diario",
+            "economia",
+            "alertadigital.com",
+            "newspaper"
+        ],
+        "link": "https://www.alertadigital.com/2026/03/28/por-que-noelia-si-y-pedro-sanchez-no-la-eutanasia-como-espejo-de-una-espana-rota/",
+        "date": "2026-03-28 17:51:30",
+        "sentiment_score": -0.838965910486877
+    },
+    {
+        "title": "El viento y el frío se ensañan con Castilla y León al inicio de la Semana Santa",
+        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/uploads/2025/10/22/68f8a8a8c2be7.jpeg",
+        "tags": [
+            "cataluña",
+            "castilla y león",
+            "castilla-la mancha",
+            "semana santa",
+            "comunidades autónomas"
+        ],
+        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/260328/105794/viento-frio-ensanan-castilla-leon-inicio-semana-santa.html",
+        "date": "2026-03-28 17:51:17",
+        "sentiment_score": -0.20013820379972458
+    },
+    {
+        "title": "Ni Julián Álvarez ni Victor Osimhen: el fichaje 'low-cost' del Barça que cobra fuerza para sustituir a Lewandowski",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/02/12/culemania/primer-equipo/1003742732250_15713369_1706x960.jpg",
+        "tags": [
+            "barça",
+            "primer equipo",
+            "deco",
+            "fichajes barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260328/julian-alvarez-victor-osimhen-barca-sustituir-lewandowski/1003742746357_0.html",
+        "date": "2026-03-28 17:49:40",
+        "sentiment_score": 0.29230450466275215
+    },
+    {
+        "title": "Lipowitz: \"Estoy triste por no haber seguido a Vingegaard; Remco tenía piernas para ganar\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2026/03/28/lipowitz-estoy-triste-por-no-haber-seguido-a-vingegaard-remco-tenia-piernas-para-ganar/",
+        "date": "2026-03-28 17:45:37",
+        "sentiment_score": -0.8575885351747274
+    },
+    {
+        "title": "El Colegio de Graduados Sociales reelige a Montserrat Cerqueda como decana",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/28/actualidad/1003742746360_15894760_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "vida",
+            "colegios profesionales"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20260328/colegio-graduados-sociales-reelige-montserrat-cerqueda-decana/1003742746359_0.html",
+        "date": "2026-03-28 17:44:36",
+        "sentiment_score": 0.6448291055858135
+    },
+    {
+        "title": "Lo más viral: Nadia Ferreira y Marc Anthony revelan el sexo de su próximo bebé",
+        "image_url": "https://static.wixstatic.com/media/cf263a_3a796fa2183746f2b90ab97a5811b065~mv2.png/v1/fill/w_906,h_550,al_c/cf263a_3a796fa2183746f2b90ab97a5811b065~mv2.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-nadia-ferreira-y-marc-anthony-revelan-el-sexo-de-su-pr%C3%B3ximo-beb%C3%A9",
+        "date": "2026-03-28 18:00:06",
+        "sentiment_score": 0.45170245319604874
     }
 ];
