@@ -1,238 +1,5 @@
 export default [
     {
-        "title": "18:00H | 25 MAR 2026 | La Tarde",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67d05b36b2414.jpeg",
-        "tags": [
-            "2026",
-            "00h",
-            "25",
-            "18",
-            "mar"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/18-00h-25-mar-2026-tarde-20260325_3333984.html",
-        "date": "2026-03-25 18:05:00",
-        "sentiment_score": -0.5796993970870972
-    },
-    {
-        "title": "VOX insta al Congreso a derogar el RD de universalidad de Sanidad porque \"los españoles deben ser siempre los primeros\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260325190349_1200.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infosalus.com/actualidad/noticia-vox-insta-congreso-derogar-rd-universalidad-sanidad-porque-espanoles-deben-ser-siempre-primeros-20260325190349.html",
-        "date": "2026-03-25 18:03:49",
-        "sentiment_score": 0.07038621604442596
-    },
-    {
-        "title": "Un partido de sanción a Fede Valverde",
-        "image_url": "https://laconexionusa.com/wp-content/uploads/2026/03/rss-efe28fac9dd9c457874fd663684309dadfc768a5247w-1000x600.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://laconexionusa.com/un-partido-de-sancion-a-fede-valverde/",
-        "date": "2026-03-25 17:57:49",
-        "sentiment_score": -0.16650686413049698
-    },
-    {
-        "title": "Griezmann se entrena de nuevo con el Atlético tras cerrar su fichaje por el Orlando City",
-        "image_url": "https://laconexionusa.com/wp-content/uploads/2026/03/rss-efef59084a9b33af61138daa02f2ce97d8507fe0ba9w-1000x600.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://laconexionusa.com/griezmann-se-entrena-de-nuevo-con-el-atletico-tras-cerrar-su-fichaje-por-el-orlando-city/",
-        "date": "2026-03-25 17:57:43",
-        "sentiment_score": 0.1873180903494358
-    },
-    {
-        "title": "Laura Gómez (2a jefa de la Comandancia de la Guardia Civil de Guadalajara): \"No es una profesión. Es un modo de vida\"",
-        "image_url": "https://www.cope.es/files/og_thumbnail/files/fp/uploads/2026/03/25/69c414323f9dc.r_d.1034-944-0.jpeg",
-        "tags": [
-            "benemérita",
-            "comandancia de la guardia civil de guadalajara",
-            "desfile",
-            "coronel",
-            "laura gómez campos",
-            "instituto armado",
-            "laura",
-            "agente",
-            "igualdad",
-            "fiesta nacional",
-            "teniente",
-            "gómez",
-            "guardia civil"
-        ],
-        "link": "https://www.cope.es/emisoras/castilla-la-mancha/guadalajara-provincia/guadalajara/noticias/laura-gomez-2a-jefa-comandancia-guardia-civil-guadalajara-no-profesion-vida-20260325_3333915.html",
-        "date": "2026-03-25 17:55:50",
-        "sentiment_score": -0.01643231511116028
-    },
-    {
-        "title": "La expulsión de Valverde se queda en un partido de sanción",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/25/Clipboard-0344.jpg",
-        "tags": [
-            "partido",
-            "queda",
-            "valverde",
-            "expulsion",
-            "sancion"
-        ],
-        "link": "https://www.lasprovincias.es/deportes/futbol/liga-primera/expulsion-valverde-queda-partido-sancion-20260325184901-ntrc.html",
-        "date": "2026-03-25 17:54:47",
-        "sentiment_score": -0.30581672489643097
-    },
-    {
-        "title": "Como en los tiempos del Hai que roelo: el Pontevedra CF regresa a La Quiniela",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2026/03/25/2026032518394924603.jpg",
-        "tags": [
-            "f&uacute;tbol",
-            "quiniela",
-            "loter&iacute;as",
-            "pontevedra cf",
-            "deportes"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/deporte-local-pontevedra/como-tiempos-hai-que-roelo-pontevedra-cf-regresa-quiniela/202603251854461439845.html",
-        "date": "2026-03-25 17:54:46",
-        "sentiment_score": 0.006936915218830109
-    },
-    {
-        "title": "4-0: Iker, Campos y Guille, titulares en el triunfo de la Sub-18 ante Croacia",
-        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/03/25/69c420c7538e3.png",
-        "tags": [
-            "iker",
-            "18",
-            "sub",
-            "guille",
-            "triunfo",
-            "0",
-            "croacia",
-            "campos",
-            "4",
-            "titulares"
-        ],
-        "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260325/1004159460/4-0-iker-campos-guille-titulares-triunfo-sub-18-croacia.html",
-        "date": "2026-03-25 17:54:13",
-        "sentiment_score": 0.07168209552764893
-    },
-    {
-        "title": "Historia del Honda SH «Scoopy»: El escúter con más vidas que un gato",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/25/TODAS-RzwewXfey3vmmnofQGXJq1L-758x531@diario_abc.jpg",
-        "tags": [
-            "scoopy",
-            "vidas",
-            "gato",
-            "escuter",
-            "historia",
-            "honda"
-        ],
-        "link": "https://www.ideal.es/motor/motos/historia-honda-scoopy-escuter-vidas-gato-20260325171707-ntrc.html",
-        "date": "2026-03-25 18:04:13",
-        "sentiment_score": 0.8233256079256535
-    },
-    {
-        "title": "Los gallos del pelotón miden sus fuerzas en tres etapas diabólicas en los Pirineos",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/25/los-gallos-del-peloton-miden-sus-fuerzas-en-tres-etapas-diabolicas-en-los-pirineos/",
-        "date": "2026-03-25 18:01:39",
-        "sentiment_score": -0.10723352432250977
-    },
-    {
-        "title": "Gracias al Hospital Universitario de Navarra, Pabellón Virgen del Camino",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/02301e88-8e35-435b-ae79-171a7af65d09_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pabellon",
-            "hospital",
-            "gracias",
-            "universitario",
-            "navarra"
-        ],
-        "link": "https://www.noticiasdenavarra.com/opinion/cartas-al-director/2026/03/25/gracias-hospital-universitario-navarra-pabellon-10867152.html",
-        "date": "2026-03-25 18:00:59",
-        "sentiment_score": 0.6007544323801994
-    },
-    {
-        "title": "Ópera XXI premia al Centre de Perfeccionament del Palau de les Arts y a la Fundación Banco Sabadell",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "teatro colón",
-            "ópera latinoamericana",
-            "ópera xxi",
-            "valencia",
-            "fundación banco sabadell",
-            "premios honoríficos",
-            "barcelona",
-            "producción latinoamericana",
-            "centre de perfeccionament del palau de les arts",
-            "benjamin britten",
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/25/opera-xxi-premia-al-centre-de-perfeccionament-del-palau-de-les-arts-y-a-la-fundacion-banco-sabadell/",
-        "date": "2026-03-25 18:00:28",
-        "sentiment_score": 0.7779720760881901
-    },
-    {
-        "title": "El consumo de kéfir crece un 71% en España en 2025 y alcanza los 145 millones, según Activia",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://cronicadecantabria.com/cr/el-consumo-de-kfir-crece-un-71-en-espaa-en-2025-y-alcanza-los-145-millones-segn-activia/",
-        "date": "2026-03-25 18:00:10",
-        "sentiment_score": 0.2967700734734535
-    },
-    {
-        "title": "El precio de la vivienda de lujo sube un 10,87% en 2025 y consolida su identidad propia, según Tecnitasa",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "business",
-            "top"
-        ],
-        "link": "https://cronicadecantabria.com/cr/el-precio-de-la-vivienda-de-lujo-sube-un-1087-en-2025-y-consolida-su-identidad-propia-segn-tecnitasa/",
-        "date": "2026-03-25 18:00:08",
-        "sentiment_score": 0.405692495405674
-    },
-    {
-        "title": "Merlin lanza una ampliación de 768 millones de euros para financiar la expansión de sus centros de datos",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260325190007_1200.jpg",
-        "tags": [
-            "merlin properties"
-        ],
-        "link": "https://www.europapress.es/economia/noticia-merlin-lanza-ampliacion-768-millones-euros-financiar-expansion-centros-datos-20260325190007.html",
-        "date": "2026-03-25 18:00:07",
-        "sentiment_score": 0.6209217719733715
-    },
-    {
-        "title": "Merlin lanza una ampliación de 768 millones de euros para financiar la expansión de sus centros de datos",
-        "image_url": "https://forbes.es/wp-content/uploads/2026/03/fotonoticia_20260325190007_1920-1200x675.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://forbes.es/economia/896270/merlin-lanza-una-ampliacion-de-768-millones-de-euros-para-financiar-la-expansion-de-sus-centros-de-datos/",
-        "date": "2026-03-25 18:00:07",
-        "sentiment_score": 0.5947252996265888
-    },
-    {
-        "title": "Carlos Sainz y su duro mensaje para WIlliams F1 y Alex Albon antes del GP de Japón: \"Somos demasiado lentos\"",
-        "image_url": "https://hips.hearstapps.com/hmg-prod/images/41acb9fe-4472-4a62-bbda-1d7aa9288be6.jpg",
-        "tags": [
-            "displaytype: standard article",
-            "shorttitle: carlos sainz y su duro mensaje para williams f1",
-            "collection: noticias f1",
-            "contentid: f91e188f-e97e-4094-9c9e-d5ad63f9390f",
-            "locale: es",
-            "content-type: news"
-        ],
-        "link": "https://www.caranddriver.com/es/formula-1/a70846805/carlos-sainz-mensaje-williams-f1-alex-albon-gp-japon-lentos/",
-        "date": "2026-03-25 18:00:00",
-        "sentiment_score": 0.4807719960808754
-    },
-    {
         "title": "El Barça sentencia al Real Madrid con un 2-6 en Champions",
         "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/25/2026032523455156811.jpg",
         "tags": [
@@ -3489,5 +3256,39 @@ export default [
         "link": "https://noticiasvenevision.com/noticias/deportes/neymar-celebra-el-apoyo-de-la-aficion-brasilena-pese-a-la-derrota-ante-francia",
         "date": "2026-03-29 02:01:00",
         "sentiment_score": 0.8315831813961267
+    },
+    {
+        "title": "Silvia Álava Sordo: «Sigo pidiendo el sándwich de jamón y queso en Moka como cuando era pequeña»",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2026/03/19/silvia1-kaJG--758x531@El%20Norte.jpg",
+        "tags": [
+            "el plan favorito de...",
+            "alava",
+            "silvia"
+        ],
+        "link": "https://www.elnortedecastilla.es/valladolid/silvia-alava-sordo-sigo-pidiendo-sandwich-jamon-20260329084631-nt.html",
+        "date": "2026-03-29 06:46:34",
+        "sentiment_score": 0.058754920959472656
+    },
+    {
+        "title": "El 'boom' del ajedrez se mantiene seis años después de la pandemia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/68671a5c-34f5-4399-bbc9-8a064ba720f0_16-9-aspect-ratio_default_0_x585y678.jpg",
+        "tags": [
+            "ajedrez"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/deportes/2026/03/29/boom-ajedrez-mantiene-seis-anos-128543933.html",
+        "date": "2026-03-29 06:46:00",
+        "sentiment_score": -0.026483237743377686
+    },
+    {
+        "title": "Andrea Orlandi: \"Fui a jugar un torneo de tenis y me desperté cuatro días después en la UCI. Estuve 16 minutos en parada cardiaca\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ad473b63-c240-4740-b42b-b8dd0ac6e044_16-9-aspect-ratio_default_0_x494y208.jpg",
+        "tags": [
+            "futbolistas",
+            "fc barcelona",
+            "fútbol"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/deportes/2026/03/29/andrea-orlandi-entrevista-segunda-vida-128544079.html",
+        "date": "2026-03-29 06:47:28",
+        "sentiment_score": -0.7329773902893066
     }
 ];
