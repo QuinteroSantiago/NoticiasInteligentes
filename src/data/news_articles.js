@@ -1,16 +1,5 @@
 export default [
     {
-        "title": "¿Sucesión o traición? El avance de Delcy Rodríguez en el tablero chavista lejos de Nicolás Maduro",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/photo_5053324775652002711_y.jpg",
-        "tags": [
-            "delcy rodriguez",
-            "nicolás maduro"
-        ],
-        "link": "https://lapatilla.com/2026/03/26/sucesion-o-traicion-el-avance-de-delcy-rodriguez-en-el-tablero-chavista-lejos-de-nicolas-maduro/",
-        "date": "2026-03-26 13:56:56",
-        "sentiment_score": -0.0727141946554184
-    },
-    {
         "title": "18:00H | 26 MAR 2026 | La Tarde",
         "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67d05b36b2414.jpeg",
         "tags": [
@@ -2997,5 +2986,261 @@ export default [
         "link": "https://www.lasprovincias.es/culturas/musica/rosalia-irrumpe-espana-espectaculo-ambicioso-fecha-20260330213632-ntrc.html",
         "date": "2026-03-29 22:11:48",
         "sentiment_score": 0.02528449147939682
+    },
+    {
+        "title": "El triunfo vecinal del Bernabéu inspira más luchas en el norte: la torre de El Viso, el hostal de Guindalera y el cantón de Montecarmelo",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/26/69c56d0de07d77-15039297.jpeg",
+        "tags": [
+            "vecinal",
+            "más",
+            "bernabéu",
+            "inspira",
+            "triunfo"
+        ],
+        "link": "https://www.20minutos.es/madrid/triunfo-vecinal-bernabeu-inspira-mas-luchas-norte-torre-viso-hostal-guindalera-canton-montecarmelo_6951358_0.html",
+        "date": "2026-03-30 03:00:00",
+        "sentiment_score": -0.0035668611526489258
+    },
+    {
+        "title": "La expansión del 'coliving' en Barcelona empuja a vecinos al desahucio: \"Mi vida y mi casa no son el juego del Monopoly\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/25/69c3b5ec807d99-49611353.jpeg",
+        "tags": [
+            "empuja",
+            "coliving",
+            "vecinos",
+            "barcelona",
+            "expansión"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/expansion-coliving-barcelona-empuja-vecinos-desahucio-mi-vida-mi-casa-no-son-juego-monopoly_6950463_0.html",
+        "date": "2026-03-30 03:00:00",
+        "sentiment_score": 0.2945794574916363
+    },
+    {
+        "title": "Aarón Fernández del Olmo, neuropsicólogo: «Por sobreestimular a un niño no vas a conseguir que funcione mejor»",
+        "image_url": "https://cflvdg.avoz.es/sc/9CfmyHQhQGiQhLHKwutghlgh5Xs=/768x/2026/03/24/00121774352462656805783/Foto/aaronfernande.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/lavozdelasalud/salud-mental/2026/03/29/aaron-fernandez-olmo-neuropsicologo-sobreestimular-nino-vas-conseguir-funcione-mejor/00031774792667748311754.htm",
+        "date": "2026-03-30 03:00:00",
+        "sentiment_score": -0.814761683344841
+    },
+    {
+        "title": "Se definen los repechajes para el Mundial 2026: partidos, fechas y horarios de las seis finales de la repesca",
+        "image_url": "https://ktvz.b-cdn.net/2025/02/KTVZ-Default-image-860x484.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://ktvz.com/cnn-spanish/2026/03/29/se-definen-los-repechajes-para-el-mundial-2026-partidos-fechas-y-horarios-de-las-seis-finales-de-la-repesca/",
+        "date": "2026-03-30 02:57:33",
+        "sentiment_score": 0.1279785856604576
+    },
+    {
+        "title": "Se definen los repechajes para el Mundial 2026: partidos, fechas y horarios de las seis finales de la repesca",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2268537671-1-20260330021254128.jpg?c=original/w_800",
+        "tags": [
+            "mundial 2026",
+            "copa mundial de la fifa 2026",
+            "uefa",
+            "bolivia",
+            "fifa",
+            "repechaje mundial",
+            "repesca mundial",
+            "fútbol",
+            "copa del mundo 2026",
+            "italia"
+        ],
+        "link": "https://cnnespanol.cnn.com/2026/03/29/deportes/repechajes-mundial-partidos-horarios-italia-bolivia-orix",
+        "date": "2026-03-30 02:57:33",
+        "sentiment_score": 0.5197091214358807
+    },
+    {
+        "title": "Se definen los repechajes para el Mundial 2026: partidos, fechas y horarios de las seis finales de la repesca",
+        "image_url": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+        "tags": [
+            "top"
+        ],
+        "link": "https://krdo.com/news/2026/03/29/se-definen-los-repechajes-para-el-mundial-2026-partidos-fechas-y-horarios-de-las-seis-finales-de-la-repesca/",
+        "date": "2026-03-30 02:57:33",
+        "sentiment_score": 0.12936507910490036
+    },
+    {
+        "title": "El futuro de Marcus Rashford no está nada claro: ¿Deco mueve ficha para encontrar un reemplazo?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/31/2026013123413611039.jpg",
+        "tags": [
+            "manchester united",
+            "premier league",
+            "fichajes",
+            "laliga",
+            "deco",
+            "marcus rashford",
+            "fc barcelona",
+            "bar&ccedil;a"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/futuro-marcus-rashford-nada-claro-deco-mueve-ficha-encontrar-reemplazo/20260330045443380626.html",
+        "date": "2026-03-30 02:54:43",
+        "sentiment_score": 0.07757250964641571
+    },
+    {
+        "title": "La patente de Ozempic se acaba: ¿y ahora qué?",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-325535.jpg",
+        "tags": [
+            "farmacéuticas",
+            "medicina",
+            "ozempic",
+            "obesidad"
+        ],
+        "link": "https://www.vozpopuli.com/sanitatem/la-patente-de-ozempic-se-acaba-y-ahora-que.html",
+        "date": "2026-03-30 02:45:02",
+        "sentiment_score": -0.0683295838534832
+    },
+    {
+        "title": "El regreso a España del último miembro de la Familia Real que murió en el exilio",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/uploads/2026/03/29/69c94c7a3190c.jpeg",
+        "tags": [
+            "regresó",
+            "último",
+            "infante",
+            "exilio"
+        ],
+        "link": "https://www.eldebate.com/espana/casa-real/20260330/regreso-espana-ultimo-miembro-familia-real-murio-exilio_400220.html",
+        "date": "2026-03-30 02:25:00",
+        "sentiment_score": -0.5678122863173485
+    },
+    {
+        "title": "¡Ahí tenéis a Cuerpo de vicepresidente para desfogaros con él, estúpidos!",
+        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/files/fp/uploads/2025/08/30/68b2c99be4b71.r_d.3376-1112-0.jpeg",
+        "tags": [
+            "tenéis",
+            "desfogaros",
+            "vicepresidente",
+            "él",
+            "cuerpo"
+        ],
+        "link": "https://www.eldebate.com/espana/20260330/ahi-teneis-cuerpo-vicepresidente-desfogaros-estupidos_401433.html",
+        "date": "2026-03-30 02:20:00",
+        "sentiment_score": -0.24610905349254608
+    },
+    {
+        "title": "El Gobierno pagó 7.700 € a Jeanette por cantar solo 'Soy Rebelde' en un acto de Memoria Democrática",
+        "image_url": "https://images.ecestaticos.com/pHMN5SnLbaSaO_A3UXjorA4Pm18=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffc1%2Fede%2F873%2Ffc1ede873ee33d66872b768541a91e44.jpg",
+        "tags": [
+            "gasto público",
+            "memoria histórica"
+        ],
+        "link": "https://www.elconfidencial.com/espana/2026-03-30/gobierno-pago-jeanette-cantar-soy-rebelde-acto-memoria-democratica_4328726/",
+        "date": "2026-03-30 03:00:00",
+        "sentiment_score": -0.783744215965271
+    },
+    {
+        "title": "Vintae: la nueva ola del vino español",
+        "image_url": "https://wp.emprendedores.es/wp-content/uploads/2026/03/Vintae1-copia.png",
+        "tags": [
+            "business"
+        ],
+        "link": "https://emprendedores.es/casos-de-exito/vintae-vino-espanol",
+        "date": "2026-03-30 03:00:00",
+        "sentiment_score": 0.05924022197723389
+    },
+    {
+        "title": "Así se infiltró un guardia civil en foros yihadistas para ‘cazar’ a una propagandista del Daesh",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/03/26/2026032622153426822.jpg",
+        "tags": [
+            "daesh",
+            "yihadismo",
+            "destacadas",
+            "guardia civil"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/seguridad/guia-apunalar-manual-us-army-manos-dos-yihadistas-estepona/20250319190000945697.html",
+        "date": "2026-03-30 03:00:00",
+        "sentiment_score": -0.8922146148979664
+    },
+    {
+        "title": "Prim acelera su crecimiento: aumenta el 8% su cifra de negocios hasta los 251,8 millones",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/07/01/2024070117022590925.jpg",
+        "tags": [
+            "periodico digital",
+            "confidencial digital",
+            "noticias de politica",
+            "actualidad",
+            "internacional",
+            "jose apezarena",
+            "informacion confidencial",
+            "local",
+            "politica economica",
+            "economia internacional",
+            "ecd",
+            "prensa digital",
+            "nacional"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/dinero/grupo-prim-cierra-compra-italiana-easytech-catalana-teyder/20221004125824458082.html",
+        "date": "2026-03-30 03:00:00",
+        "sentiment_score": 0.5497381947934628
+    },
+    {
+        "title": "Las obras de la futura estación de la L9 en el Guinardó alteran desde este lunes la movilidad en el entorno del Hospital Sant Pau",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/27/69c667f62e9a09-48980380.jpeg",
+        "tags": [
+            "estación",
+            "futura",
+            "l9",
+            "obras",
+            "las"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/las-obras-futura-estacion-l9-guinardo-alteran-desde-este-lunes-movilidad-entorno-hospital-sant-pau_6950798_0.html",
+        "date": "2026-03-30 03:00:00",
+        "sentiment_score": 0.37585169449448586
+    },
+    {
+        "title": "Rodalies sigue alejada de la \"normalidad\" al tener 180 tramos con limitación de velocidad durante Semana Santa",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/21/69710ace32f465-15817558.jpeg",
+        "tags": [
+            "rodalies",
+            "normalidad",
+            "sigue",
+            "tendrá",
+            "alejada"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/rodalies-sigue-alejada-normalidad-tener-180-tramos-con-limitacion-velocidad-durante-semana-santa_6951745_0.html",
+        "date": "2026-03-30 03:00:00",
+        "sentiment_score": -0.014497339725494385
+    },
+    {
+        "title": "La infanta Cristina entrega las llaves de Ginebra: su futuro pasa por Londres, Lisboa o... Abu Dabi",
+        "image_url": "https://images.ecestaticos.com/vm_9No-tlxP3-QBfbvsxaIXh9CI=/0x0:800x600/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F525%2F94e%2Fb6e%2F52594eb6edc484bae754f0975530bb52.jpg",
+        "tags": [
+            "infanta cristina"
+        ],
+        "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-03-30/infanta-cristina-ginebra-futuro-londres-abu-dabi-lisboa_4328027/",
+        "date": "2026-03-30 03:00:00",
+        "sentiment_score": -0.36229458451271057
+    },
+    {
+        "title": "Celta y Friburgo, entre los cinco clubes europeos que más tiran de cantera",
+        "image_url": "https://cflvdg.avoz.es/sc/QpL2mpXNWBYegVEyFNbIBWfhMKA=/768x/2026/03/29/00121774814581976810336/Foto/v_20260321_132231000.jpg",
+        "tags": [
+            "celta"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/gradario/2026/03/30/celta-friburgo-cinco-clubes-europeos-tiran-cantera/0003_202603V30P27992.htm",
+        "date": "2026-03-30 03:00:00",
+        "sentiment_score": -0.01016656681895256
+    },
+    {
+        "title": "Mujeres, la banda de culto que inspira al nuevo rock español: “Nos sorprende ser referentes, pero seguimos haciendo lo que al principio, tocar mucho y disfrutar”",
+        "image_url": "https://www.infobae.com/resizer/v2/RK3QH6MUYZDKLMMKK4WA6LR5TQ.png?auth=a4c2e1f3db9831929e6b80762091f5d86b4cc5203b34b54717fc634f237fab83&smart=true&width=3840&height=2160",
+        "tags": [
+            "españa-cultura",
+            "entrevistas",
+            "barcelona",
+            "música",
+            "grupos de música",
+            "música españa",
+            "españa-noticias",
+            "cantantes"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2026/03/30/mujeres-la-banda-de-culto-que-inspira-al-nuevo-rock-espanol-nos-sorprende-ser-referentes-pero-seguimos-haciendo-lo-que-al-principio-tocar-mucho-y-disfrutar/",
+        "date": "2026-03-30 03:00:00",
+        "sentiment_score": -0.85381661914289
     }
 ];
