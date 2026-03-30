@@ -1,459 +1,5 @@
 export default [
     {
-        "title": "El Barça sentencia al Real Madrid con un 2-6 en Champions",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/25/2026032523455156811.jpg",
-        "tags": [
-            "madrid",
-            "champions",
-            "bar&ccedil;a",
-            "sentencia"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/barca-sentencia-real-madrid-2-6-champions/20260325234551444017.html",
-        "date": "2026-03-25 22:45:51",
-        "sentiment_score": 0.44501641392707825
-    },
-    {
-        "title": "Mbappé desmiente el error en el examen de su rodilla",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/25/2026032523450817704.jpg",
-        "tags": [
-            "mbapp&eacute;",
-            "rodilla",
-            "error",
-            "examen"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/mbappe-desmiente-error-examen-rodilla/20260325234508444011.html",
-        "date": "2026-03-25 22:45:08",
-        "sentiment_score": -0.48145741969347
-    },
-    {
-        "title": "Felipe VI nombra a Senegal primer socio estratégico africano",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/25/2026032523405590802.jpg",
-        "tags": [
-            "socio",
-            "senegal"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/felipe-vi-nombra-senegal-primer-socio-estrategico-africano/20260325234056443987.html",
-        "date": "2026-03-25 22:40:56",
-        "sentiment_score": 0.39976033568382263
-    },
-    {
-        "title": "Aris Gómez se querella contra Torbe por injurias y amenazas",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/25/2026032523402160021.jpg",
-        "tags": [
-            "querella",
-            "injurias",
-            "amenazas"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/aris-gomez-querella-torbe-injurias-amenazas/20260325234021443983.html",
-        "date": "2026-03-25 22:40:21",
-        "sentiment_score": -0.8824757114052773
-    },
-    {
-        "title": "Jude Bellingham y Álvaro Arbeloa abren un dilema táctico en el Real Madrid",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/14/2025111405385678795.jpg",
-        "tags": [
-            "real madrid",
-            "inglaterra",
-            "alvaro-arbeloa",
-            "thomas-tuchel",
-            "jude bellingham"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/jude-bellingham-alvaro-arbeloa-abren-dilema-tactico-real-madrid/20260325233207380109.html",
-        "date": "2026-03-25 22:32:07",
-        "sentiment_score": -0.7917400114238262
-    },
-    {
-        "title": "Desarrollan una tecnología para reducir las emisiones en las granjas de cerdos y aves",
-        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2026/03/25/agrarias2-kZHF-U2014045638319yG-758x531@El%20Norte.jpg",
-        "tags": [
-            "ministerio para la transición ecológica",
-            "castilla y león",
-            "la yutera",
-            "universidad de valladolid",
-            "ministerio de agricultura y pesca",
-            "alimentacion y medio ambiente",
-            "unión europea",
-            "españa"
-        ],
-        "link": "https://www.elnortedecastilla.es/palencia/desarrollan-tecnologia-reducir-emisiones-granjas-cerdos-aves-20260325232750-nt.html",
-        "date": "2026-03-25 22:27:54",
-        "sentiment_score": 0.3000076189637184
-    },
-    {
-        "title": "La victoria de Estrella Roja en Vitoria aprieta aún más la clasificación de Euroliga",
-        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/03/25/69c45f1793e5f.jpeg",
-        "tags": [
-            "victoria",
-            "vitoria",
-            "roja",
-            "estrella",
-            "clasificación",
-            "más",
-            "euroliga",
-            "aprieta",
-            "aún"
-        ],
-        "link": "https://www.mundodeportivo.com/baloncesto/euroliga/20260325/1004159602/victoria-estrella-roja-vitoria-aprieta-aun-clasificacion-euroliga.html",
-        "date": "2026-03-25 22:24:47",
-        "sentiment_score": 0.6272345334291458
-    },
-    {
-        "title": "¡Otro escándalo médico en el Real Madrid: ahora, con Camavinga!",
-        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2025/12/03/69309804309c6.jpeg",
-        "tags": [
-            "camavinga",
-            "escándalo",
-            "real",
-            "médico",
-            "madrid"
-        ],
-        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260325/1004159592/escandalo-medico-real-madrid-camavinga.html",
-        "date": "2026-03-25 22:23:27",
-        "sentiment_score": -0.8659165985882282
-    },
-    {
-        "title": "Brasil vs Francia: duelo de gigantes rumbo al Mundial 2026",
-        "image_url": "https://www.mundonow.com/wp-content/uploads/2025/12/Sin-contrato-Limited-Users-No-Monthly-Fees-Up-to-100-Projects-1200-x-768-px-2025-12-19T154456.754.png",
-        "tags": [
-            "top",
-            "entertainment"
-        ],
-        "link": "https://www.mundonow.com/brasil-vs-francia-duelo-de-gigantes-rumbo-al-mundial-2026/",
-        "date": "2026-03-25 22:12:21",
-        "sentiment_score": 0.20923512428998947
-    },
-    {
-        "title": "Mbappé desmiente que examinasen su rodilla equivocada",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2026/8ace2134-cdd9-48a9-9d050a2bd2edb89e.jpg",
-        "tags": [
-            "kylian mbappé",
-            "salud",
-            "brasil",
-            "real madrid",
-            "parís",
-            "estados unidos",
-            "médicos",
-            "francia",
-            "fisioterapia"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z77e90e4b-4952-4bc2-90e9d65b590c4c44/202603/mbappe-desmiente-que-examinasen-su-rodilla-equivocada",
-        "date": "2026-03-25 22:11:53",
-        "sentiment_score": -0.662772499024868
-    },
-    {
-        "title": "Por qué la supercomputadora MareNostrum será clave para los pronósticos del clima en México",
-        "image_url": "https://www.infobae.com/resizer/v2/NT4PWU4DVBAKPID4EJXRVZGANE.jpg?auth=93c03f04fe7834ce82823c0a4dad21a54779cd56f4188fadc2ce35d838dfb847&smart=true&width=1920&height=1280",
-        "tags": [
-            "mexico-noticias",
-            "supercomputadoras",
-            "clima"
-        ],
-        "link": "https://www.infobae.com/mexico/2026/03/25/por-que-la-supercomputadora-marenostrum-sera-clave-para-los-pronosticos-del-clima-en-mexico/",
-        "date": "2026-03-25 22:49:05",
-        "sentiment_score": 0.6299995481967926
-    },
-    {
-        "title": "La Masia no produce nueves",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "masia",
-            "nueves",
-            "produce"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/20260325/11499432/masia-produce-nueves.html",
-        "date": "2026-03-25 22:48:45",
-        "sentiment_score": -0.5212660729885101
-    },
-    {
-        "title": "Rufián y Montero celebrarán su acto en la UPF de Barcelona",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2026/03/25/2026032523453866187.jpg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/noticias-en-la-red/rufian-montero-celebraran-acto-upf-barcelona/20260325234538444015.html",
-        "date": "2026-03-25 22:45:38",
-        "sentiment_score": 0.35361674427986145
-    },
-    {
-        "title": "Edison Flores brinda su apoyo a Javier Rabanal en Universitario: “Es un entrenador muy bueno, tiene ideas y me gusta el estilo que juega”",
-        "image_url": "https://www.infobae.com/resizer/v2/DMPJ2QPA7FGI3DL5MWIQGXBJHE.jpg?auth=17c1a9e76cbd31d0b945d2ca9d091d5aee7e7eb5dc6ad0c1c7b4a0350a145506&smart=true&width=1920&height=1080",
-        "tags": [
-            "javier rabanal",
-            "liga 1",
-            "universitario de deportes",
-            "peru-deportes",
-            "edison flores"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2026/03/25/edison-flores-brinda-su-apoyo-a-javier-rabanal-en-universitario-es-un-entrenador-muy-bueno-tiene-ideas-y-me-gusta-el-estilo-que-juega/",
-        "date": "2026-03-25 22:45:14",
-        "sentiment_score": 0.21345964819192886
-    },
-    {
-        "title": "El Gobierno logra colocar a Olóndriz presidenta de la AIReF y colonizarla como hizo con el INE y el Banco de España",
-        "image_url": "https://okdiario.com/img/2026/03/25/ines-olondriz-nueva-presidenta-de-la-presidenta-de-la-airef.-ep.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://okdiario.com/economia/gobierno-logra-colocar-olondriz-presidenta-airef-colonizarla-como-hizo-ine-banco-espana-16487629",
-        "date": "2026-03-25 22:38:30",
-        "sentiment_score": -0.4482791870832443
-    },
-    {
-        "title": "Gremios y sindicatos salieron a las calles de Barcelona a exigir mejoras salariales (+Video)",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "top",
-            "entertainment"
-        ],
-        "link": "https://eltiempove.com/gremios-y-sindicatos-salieron-a-las-calles-de-barcelona-a-exigir-mejoras-salariales-video/",
-        "date": "2026-03-25 22:35:49",
-        "sentiment_score": 0.1105082556605339
-    },
-    {
-        "title": "Adif suspende el contrato de obras para cuadruplicar las vías de la R2 Sud entre Castelldefels y El Prat",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/04/29/vivir-en-barcelona/1003742652964_14496195_1706x960.jpg",
-        "tags": [
-            "obras",
-            "castelldefels - noticias",
-            "rodalies",
-            "movilidad",
-            "adif",
-            "gran barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/movilidad/20260325/adif-suspende-contrato-obras-cuadruplicar-vias-r2-sud-castelldefels-prat/1003742745310_0.html",
-        "date": "2026-03-25 22:30:00",
-        "sentiment_score": -0.0696946233510971
-    },
-    {
-        "title": "La incineradora Tersa se 'escuda' en sus nuevas cámaras ante las denuncias de ecologistas y vecinos: así funcionará la quema de residuos",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/01/03/el-pulso-de-la-ciudad/730936900_9271716_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "sant adrià de besòs",
-            "ecología"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260325/incineradora-tersa-escuda-nuevas-camaras-denuncias-ecologistas-vecinos-funcionara-quema-residuos/1003742744810_0.html",
-        "date": "2026-03-25 22:30:00",
-        "sentiment_score": 0.3408531825989485
-    },
-    {
-        "title": "Rosalía cancela su concierto en Milán a los pocos minutos de empezar: \"Lo siento, volveré cuando esté en mejores condiciones\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/85955e4f-6fc1-4513-ae04-5e900ee4e6d4_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "música",
-            "cantantes",
-            "rosalía"
-        ],
-        "link": "https://www.laprovincia.es/cultura/2026/03/25/rosalia-cancela-concierto-milan-minutos-empezar-lo-siento-128421323.html",
-        "date": "2026-03-25 22:25:58",
-        "sentiment_score": -0.041730672121047974
-    },
-    {
-        "title": "Ryan Richards en Maó: «Aquí el basket es muy rápido»",
-        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/4425025.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.menorca.info/deportes/baloncesto/2026/03/26/2596807/ryan-richards-mao-aqui-basket-muy-rapido.html",
-        "date": "2026-03-26 02:59:01",
-        "sentiment_score": 0.2804289609193802
-    },
-    {
-        "title": "CxM, primer análisis",
-        "image_url": "https://uh.gsstatic.es/autor/marc-gonzalez/10869.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.ultimahora.es/opinion/tribuna/2026/03/26/2596755/cxm-primer-analisis.html",
-        "date": "2026-03-26 02:48:01",
-        "sentiment_score": -0.8802660498768091
-    },
-    {
-        "title": "Tranquilidad con el futuro de Jan Virgili",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4424131.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.ultimahora.es/deportes/real-mallorca/2026/03/26/2596221/tranquilidad-futuro-jan-virgili.html",
-        "date": "2026-03-26 02:48:01",
-        "sentiment_score": 0.035078346729278564
-    },
-    {
-        "title": "Reino Unido autoriza a su Ejército a abordar en sus aguas a petroleros de la 'flota fantasma' rusa",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260326032234_1200.jpg",
-        "tags": [
-            "rusia",
-            "reino unido",
-            "vladimir putin"
-        ],
-        "link": "https://www.europapress.es/internacional/noticia-reino-unido-autoriza-ejercito-abordar-aguas-petroleros-flota-fantasma-rusa-20260326032234.html",
-        "date": "2026-03-26 02:22:34",
-        "sentiment_score": -0.5798812583088875
-    },
-    {
-        "title": "Doncic domina la NBA pero divide al jurado del MVP por su impacto total en defensa",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/25/2026012507281380195.jpg",
-        "tags": [
-            "el esloveno luka doncic",
-            "doncic",
-            "luka doncic",
-            "los lakers",
-            "los-angeles-lakers",
-            "nba",
-            "ee uu"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/doncic-domina-nba-divide-jurado-mvp-impacto-total-defensa/20260326024658380136.html",
-        "date": "2026-03-26 01:46:58",
-        "sentiment_score": -0.7890305630862713
-    },
-    {
-        "title": "Azvalor 'guarda en el cajón' su promesa de cerrar los fondos tras alcanzar el límite fijado y contraría a Paramés",
-        "image_url": "https://s3.elespanol.com/2022/03/16/invertia/mis-finanzas/fondos-de-inversion/657695118_262121292_1706x960.jpg",
-        "tags": [
-            "mercados financieros",
-            "fondos de inversión",
-            "cotizaciones bolsa"
-        ],
-        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20260326/azvalor-guarda-cajon-promesa-cerrar-fondos-alcanzar-limite-fijado-contraria-parames/1003744183361_0.html",
-        "date": "2026-03-26 01:40:48",
-        "sentiment_score": -0.09771829098463058
-    },
-    {
-        "title": "Landaluce roza el top 100 tras caer con honor ante Lehecka en Miami",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/09/05/2025090513025252368.jpg",
-        "tags": [
-            "masters 1000 miami open",
-            "tenis",
-            "atp",
-            "jiri lehecka",
-            "miami",
-            "mart&iacute;n landaluce",
-            "ee uu"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/landaluce-roza-top-100-caer-honor-lehecka-miami/20260326022714380132.html",
-        "date": "2026-03-26 01:27:14",
-        "sentiment_score": 0.8516674488782883
-    },
-    {
-        "title": "“No somos favoritos”: La sorprendente autocrítica de Vinícius Jr. a meses del Mundial",
-        "image_url": "https://www.metroworldnews.com/resizer/v2/TDMMXCZZZBASTGNCQ44YNVITQA.jpg?auth=3d9b472a084e319db70f1cf0807f704c4c416d8f0048327f7483358945a7c149&smart=true&width=594&height=396",
-        "tags": [
-            "vinicius jr.",
-            "brasil"
-        ],
-        "link": "https://www.metroworldnews.com/deportes/2026/03/26/no-somos-favoritos-la-sorprendente-autocritica-de-vinicius-jr-a-meses-del-mundial/",
-        "date": "2026-03-26 01:20:38",
-        "sentiment_score": -0.14537204802036285
-    },
-    {
-        "title": "Los 300 mejores médicos de España del Observatorio de la Sanidad (II): Oncología",
-        "image_url": "https://s3.elespanol.com/2026/03/25/actualidad/1003744183184_262118943_1706x960.jpg",
-        "tags": [
-            "mejores médicos 2026",
-            "observatorio de la sanidad"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20260326/mejores-medicos-espana-observatorio-sanidad-ii-oncologia/1003744182932_32.html",
-        "date": "2026-03-26 01:10:00",
-        "sentiment_score": 0.3195742778480053
-    },
-    {
-        "title": "Argentina ensaya su once de gala con Messi para enfrentar a Mauritania",
-        "image_url": "https://qpwebsite.s3.amazonaws.com/uploads/2026/03/rss-efe869f9c434f805bc078137a69035912d7b4631ceaw.jpg",
-        "tags": [
-            "argentina",
-            "mundial 2026",
-            "fútbol"
-        ],
-        "link": "https://quepasamedia.com/deportes/argentina-ensaya-su-once-de-gala-con-messi-para-enfrentar-a-mauritania/",
-        "date": "2026-03-26 01:05:45",
-        "sentiment_score": 0.05444207787513733
-    },
-    {
-        "title": "«El turismo no se deslocaliza ni lo sustituirá la Inteligencia Artificial»",
-        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/uploads/2026/03/25/69c3b58318472.jpeg",
-        "tags": [
-            "deslocaliza",
-            "turismo",
-            "inteligencia",
-            "no",
-            "sustituirá"
-        ],
-        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20260326/turismo-no-deslocaliza-sustituira-inteligencia-artificial_399591.html",
-        "date": "2026-03-26 03:00:00",
-        "sentiment_score": 0.1767270490527153
-    },
-    {
-        "title": "Lo que esconden las aguas residuales: Valencia y Castellón, entre las ciudades españolas con más consumo de cocaína",
-        "image_url": "https://imagenes.eldebate.com/files/og_thumbnail/uploads/2025/07/29/688894d72d2d8.jpeg",
-        "tags": [
-            "drogas"
-        ],
-        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20260326/esconden-aguas-residuales-valencia-castellon-entre-ciudades-espanolas-consumo-cocaina_398406.html",
-        "date": "2026-03-26 03:00:00",
-        "sentiment_score": 0.19805321097373962
-    },
-    {
-        "title": "Las seis empresas de Menorca galardonadas con el Premio Lidera de PIME",
-        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/4425309.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.menorca.info/menorca/local/2026/03/26/2596913/seis-empresas-menorca-galardonadas-premio-lidera-pime.html",
-        "date": "2026-03-26 02:59:01",
-        "sentiment_score": 0.4690258502960205
-    },
-    {
-        "title": "Punto y a parte del ‘Chapi’: «Pienso correr sin presión por medalla o podio; quiero disfrutar»",
-        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/4425153.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.menorca.info/deportes/polideportivo/2026/03/26/2596887/punto-parte-del-chapi-pienso-correr-presion-por-medalla-podio-quiero-disfrutar.html",
-        "date": "2026-03-26 02:59:01",
-        "sentiment_score": 0.23719437420368195
-    },
-    {
-        "title": "Daniel Illescas, de 'El desafío', confiesa su destino favorito de las Baleares: «Voy todos los años sin fallar. Es una isla mágica y siempre me siento como en casa»",
-        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/4421807.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.menorca.info/vips/television/2026/03/26/2594751/daniel-illescas-desafio-confiesa-destino-favorito-baleares-voy-todos-anos-fallar-isla-magica-siempre-siento-como-casa.html",
-        "date": "2026-03-26 02:48:01",
-        "sentiment_score": 0.4097006916999817
-    },
-    {
-        "title": "David Uclés: «Llegué tarde a la obra de Blai Bonet, pero me ha fascinado»",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/4425079.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.ultimahora.es/noticias/cultura/2026/03/26/2596841/david-ucles-llegue-tarde-obra-blai-bonet-pero-fascinado.html",
-        "date": "2026-03-26 02:48:01",
-        "sentiment_score": -0.19363869726657867
-    },
-    {
-        "title": "Puig negocia con Estée Lauder tener acciones de 'primera clase' en la fusión",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/f95aed6a073f3b63255ca2f6bcec6590/resize/600/assets/multimedia/imagenes/2026/03/25/17744763197431.jpg",
-        "tags": [
-            "empresas/distribucion",
-            "distribución",
-            "empresas",
-            "fusiones y adquisiciones"
-        ],
-        "link": "https://www.expansion.com/empresas/distribucion/2026/03/26/69c45484e5fdea41208b458c.html",
-        "date": "2026-03-26 02:39:08",
-        "sentiment_score": 0.18396718055009842
-    },
-    {
         "title": "Brasil vs Francia: cómo, cuándo y dónde ver por TV el choque de selecciones",
         "image_url": "https://www.periodistadigital.com/wp-content/uploads/2026/03/Brasil-vs-Francia.jpg",
         "tags": [
@@ -3290,5 +2836,214 @@ export default [
         "link": "https://www.elperiodicoextremadura.com/deportes/2026/03/29/andrea-orlandi-entrevista-segunda-vida-128544079.html",
         "date": "2026-03-29 06:47:28",
         "sentiment_score": -0.7329773902893066
+    },
+    {
+        "title": "El Inter ya ha escogido al sustituto de Bastoni y es español",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b365560c-65ec-42e1-95c6-77f13dc878b1_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "tags": [
+            "verano",
+            "sueño",
+            "lazio",
+            "fc barcelona",
+            "inter"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2026/03/29/inter-escogido-sustituto-bastoni-barca-mercado-128561974.html",
+        "date": "2026-03-29 18:23:26",
+        "sentiment_score": 0.13655050098896027
+    },
+    {
+        "title": "Siete heridos en un accidente de tráfico en La Granja",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2024/11/12-1w.jpg",
+        "tags": [
+            "heridos",
+            "accidente",
+            "tráfico"
+        ],
+        "link": "https://eladelantado.com/provincia/2026/03/29/siete-heridos-en-un-accidente-de-trafico-en-la-granja/",
+        "date": "2026-03-29 18:18:45",
+        "sentiment_score": -0.7400161921977997
+    },
+    {
+        "title": "Sinner dobla la apuesta ante Alcaraz: La táctica para buscar una adaptación rápida hacia la tierra",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/310x310/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/03/29/image-006b192a-c450-438c-90ca-482ef82b4890-68-310-310.jpeg",
+        "tags": [
+            "tennis",
+            "monte carlo men's singles - 2026"
+        ],
+        "link": "https://www.eurosport.es/tenis/atp-monte-carlo/2026/jannik-sinner-dobla-apuesta-carlos-alcaraz-diferente-camino-tierra-batida_sto23285752/story.shtml",
+        "date": "2026-03-29 18:16:50",
+        "sentiment_score": 0.10096776485443115
+    },
+    {
+        "title": "El Real Madrid sale con su once inicial de gala para el Clásico ante el Barça",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/03/25/69c43c30e2701.jpeg",
+        "tags": [
+            "gala",
+            "inicial",
+            "real",
+            "clásico",
+            "madrid",
+            "once",
+            "sale",
+            "barça"
+        ],
+        "link": "https://www.mundodeportivo.com/futbol/femenino/20260329/1004161703/real-madrid-sale-once-inicial-gala-clasico-barca.html",
+        "date": "2026-03-29 18:16:11",
+        "sentiment_score": 0.03689979016780853
+    },
+    {
+        "title": "Real Madrid - Barcelona, en directo el partido de la liga femenina",
+        "image_url": "https://img.rtve.es/imagenes/real-madrid-barcelona-femenino-directo-hoy-resumen-resultado-goles/01774614225157.jpg",
+        "tags": [
+            "real madrid",
+            "fc barcelona"
+        ],
+        "link": "https://www.rtve.es/deportes/20260329/real-madrid-barcelona-femenino-directo-hoy-resumen-resultado-goles/17000474.shtml",
+        "date": "2026-03-29 18:15:38",
+        "sentiment_score": 0.033353131264448166
+    },
+    {
+        "title": "Víctor Muñoz, a RTVE tras su gran debut con la selección: \"De la Fuente te transmite toda la confianza del mundo\"",
+        "image_url": "https://img.rtve.es/imagenes/victor-munoz-a-rtve-tras-su-gran-debut-con-seleccion-fuente-transmite-toda-confianza-del-mundo/01774806033220.jpg",
+        "tags": [
+            "top",
+            "entertainment"
+        ],
+        "link": "https://www.rtve.es/deportes/20260329/victor-munoz-a-rtve-tras-su-gran-debut-con-seleccion-fuente-transmite-toda-confianza-del-mundo/17002746.shtml",
+        "date": "2026-03-29 18:10:05",
+        "sentiment_score": 0.8324993290007114
+    },
+    {
+        "title": "Un Athletic en superioridad no puede contra el Atlético en San Mamés",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2026/03/29/atleti-kn8D--758x531@El%20Correo.jpg",
+        "tags": [
+            "san mamés",
+            "fútbol femenino",
+            "atlético de madrid",
+            "athletic de bilbao"
+        ],
+        "link": "https://www.elcorreo.com/deporte-femenino/futbol/athletic-femenino/athletic-superioridad-puede-atletico-san-mames-20260329193614-nt.html",
+        "date": "2026-03-29 18:01:21",
+        "sentiment_score": -0.11515788733959198
+    },
+    {
+        "title": "Cordón se hace un Ortega Cano",
+        "image_url": "https://static.grupojoly.com/clip/bdcec3b6-0345-42bf-993f-9017a5c6c292_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sevilla fc"
+        ],
+        "link": "https://www.diariodesevilla.es/sevillafc/cordon-ortega-cano-sevilla-director-deportivo-plaza-almeyda_0_2006328097.html",
+        "date": "2026-03-29 17:54:11",
+        "sentiment_score": -0.7935642413794994
+    },
+    {
+        "title": "Galbiati: \"Estoy contento con esta mentalidad\"",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/fb75d7ab-0093-456b-a471-9971bdbf8c2b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "kurucs",
+            "galbiati",
+            "baskonia",
+            "acb",
+            "liga endesa",
+            "liga acb",
+            "andorra",
+            "paolo galbiati",
+            "declaraciones",
+            "rueda de prensa"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/03/29/galbiati-acb-kurucs-rueda-de-prensa-andorra-liga-endesa-baskonia-10882720.html",
+        "date": "2026-03-29 17:51:42",
+        "sentiment_score": 0.6230174452066422
+    },
+    {
+        "title": "1-2: San Mamés se le atraganta al Athletic",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/03/29/69c9655a0212a.r_d.799-542-0.jpeg",
+        "tags": [
+            "2",
+            "mamés",
+            "atraganta",
+            "1",
+            "le",
+            "athletic",
+            "san"
+        ],
+        "link": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20260329/1004161693/1-2-san-mames-le-atraganta-athletic.html",
+        "date": "2026-03-29 17:50:19",
+        "sentiment_score": 0.07029825448989868
+    },
+    {
+        "title": "Omoda & Jaecoo planea producir en la antigua planta de Nissan de Barcelona lo antes posible",
+        "image_url": "https://capital.es/wp-content/uploads/2026/03/omoda-jaecoo-planea-producir-en-la-antigua-planta-de-nissan-de-barcelona-lo-antes-posible.jpg",
+        "tags": [
+            "omoda"
+        ],
+        "link": "https://capital.es/empresas/omoda-jaecoo-planea-producir-en-la-antigua-planta-de-nissan-de-barcelona-lo-antes-posible/173540/",
+        "date": "2026-03-29 18:18:29",
+        "sentiment_score": 0.6176003664731979
+    },
+    {
+        "title": "Ocho detenidos y nueve negocios precintados en Nou Barris",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/29/69c96a50a036b.r_d.517-1083-0.png",
+        "tags": [
+            "nou",
+            "negocios",
+            "ocho",
+            "detenidos",
+            "precintados",
+            "multiinspección",
+            "nueve",
+            "barris",
+            "distrito"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20260329/11501935/ocho-detenidos-nueve-negocios-precintados-multiinspeccion-distrito-nou-barris.html",
+        "date": "2026-03-29 18:16:55",
+        "sentiment_score": -0.9021566202864051
+    },
+    {
+        "title": "Barcelona lo permite y, a partir de este 17 de mayo, las tiendas y comercios abrirán todos los domingos y festivos en determinadas zonas de la ciudad",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/03/25/69c3b1fb24bc9.jpeg",
+        "tags": [
+            "abrirán",
+            "determinadas",
+            "festivos",
+            "barcelona",
+            "todos",
+            "zonas",
+            "17",
+            "ciudad",
+            "comercios",
+            "partir",
+            "permite",
+            "domingos",
+            "tiendas",
+            "mayo"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20260329/1004161689/barcelona-permite-partir-17-mayo-tiendas-comercios-abriran-todos-domingos-festivos-determinadas-zonas-ciudad-lcl-dct.html",
+        "date": "2026-03-29 18:01:02",
+        "sentiment_score": -0.11439506709575653
+    },
+    {
+        "title": "Adiós a los coches en esta calle de Sants-Montjuïc a partir de junio: menos aparcamientos y un solo carril",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/03/04/sants-montjuic/1003742738350_15787330_1706x960.jpg",
+        "tags": [
+            "la bordeta",
+            "ayuntamiento de barcelona",
+            "sants - montjuïc",
+            "obras"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sants-montjuic/20260329/adios-coches-calle-sants-montjuic-partir-junio-aparcamientos-solo-carril/1003742746615_0.html",
+        "date": "2026-03-29 17:48:54",
+        "sentiment_score": 0.5308304578065872
+    },
+    {
+        "title": "Semana Deportiva: Una tribuna lleva el nombre de Leo Messi",
+        "image_url": "https://static.wixstatic.com/media/cf263a_6a32b06ee5164365a2eaa7d7ec731d37~mv2.png/v1/fill/w_512,h_204,al_c/cf263a_6a32b06ee5164365a2eaa7d7ec731d37~mv2.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.informe21.com/post/semana-deportiva-una-tribuna-lleva-el-nombre-de-leo-messi",
+        "date": "2026-03-29 14:00:13",
+        "sentiment_score": 0.30677061527967453
     }
 ];
