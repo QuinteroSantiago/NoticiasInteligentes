@@ -1,249 +1,5 @@
 export default [
     {
-        "title": "Brasil vs Francia: cómo, cuándo y dónde ver por TV el choque de selecciones",
-        "image_url": "https://www.periodistadigital.com/wp-content/uploads/2026/03/Brasil-vs-Francia.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.periodistadigital.com/deportes/futbol/20260326/brasil-vs-francia-ver-tv-choque-selecciones-noticia-689405194982/",
-        "date": "2026-03-26 07:11:23",
-        "sentiment_score": 0.4820129945874214
-    },
-    {
-        "title": "07:00H | 26 MAR 2026 | Herrera en COPE",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67cfe50112eb6.jpeg",
-        "tags": [
-            "2026",
-            "07",
-            "26",
-            "00h",
-            "mar"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/07-00h-26-mar-2026-herrera-cope-20260326_3334120.html",
-        "date": "2026-03-26 07:06:00",
-        "sentiment_score": -0.18959055840969086
-    },
-    {
-        "title": "Isa Pantoja rompe su silencio sobre su reconciliación con su madre: \"No quiero dar ningún paso en falso\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260326080409_1200.jpg",
-        "tags": [
-            "kiko rivera",
-            "chabelita",
-            "isabel pantoja"
-        ],
-        "link": "https://www.europapress.es/chance/gente/noticia-isa-pantoja-rompe-silencio-reconciliacion-madre-no-quiero-dar-ningun-paso-falso-20260326080409.html",
-        "date": "2026-03-26 07:04:09",
-        "sentiment_score": -0.7191302925348282
-    },
-    {
-        "title": "Aramark quiere fichar por el Real Madrid",
-        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/03/24/69c2acb10c1eb.jpeg",
-        "tags": [
-            "real",
-            "aramark",
-            "fichar",
-            "quiere",
-            "madrid"
-        ],
-        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260326/1004159661/aramark-quiere-fichar-real-madrid.html",
-        "date": "2026-03-26 07:03:09",
-        "sentiment_score": 0.0467587411403656
-    },
-    {
-        "title": "Patri Gavira: «Sería un error pensar que la temporada ha acabado»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1607caa5-5193-4daf-99cf-0edee49f4206_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "la liga",
-            "costa adeje",
-            "fin de semana",
-            "madrid"
-        ],
-        "link": "https://www.eldia.es/deportes/ud-tenerife/2026/03/26/patri-gavira-seria-error-pensar-128422688.html",
-        "date": "2026-03-26 07:00:21",
-        "sentiment_score": -0.8995182197540998
-    },
-    {
-        "title": "Sorprendente resolución de la sanción a Fede Valverde",
-        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/03/26/69c4d6f773aa0.jpeg",
-        "tags": [
-            "valverde",
-            "fede",
-            "sanción",
-            "resolución",
-            "sorprendente"
-        ],
-        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260326/1004159658/sorprendente-resolucion-sancion-fede-valverde.html",
-        "date": "2026-03-26 07:00:14",
-        "sentiment_score": -0.2626551613211632
-    },
-    {
-        "title": "\"Estamos en un buen momento\"",
-        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/03/25/69c43494a74de.jpeg",
-        "tags": [
-            "soccer)",
-            "sports",
-            "football (association rules"
-        ],
-        "link": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20260326/1004159499/buen-momento.html",
-        "date": "2026-03-26 07:00:00",
-        "sentiment_score": -0.8180151470005512
-    },
-    {
-        "title": "Intestino y cerebro: describen cómo unas células intestinales activan la pérdida de apetito durante una infección",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260326075957_1200.jpg",
-        "tags": [
-            "science",
-            "health"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-intestino-cerebro-describen-celulas-intestinales-activan-perdida-apetito-infeccion-20260326075957.html",
-        "date": "2026-03-26 06:59:57",
-        "sentiment_score": -0.3955334648489952
-    },
-    {
-        "title": "\"No puedes renunciar a jugar en el Real Madrid\"",
-        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/12/17/6761b5c6e86d3.r_d.1313-717-0.jpeg",
-        "tags": [
-            "real",
-            "puedes",
-            "jugar",
-            "madrid",
-            "renunciar"
-        ],
-        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260326/1004159650/puedes-renunciar-jugar-real-madrid.html",
-        "date": "2026-03-26 06:54:32",
-        "sentiment_score": -0.5675198808312416
-    },
-    {
-        "title": "En Madrid hay 23.246 'influencers' y la mayoría son mujeres: \"Aún no hemos tocado techo, las cifras lo demuestran\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cc9ecf8d-b657-4e30-a917-fe5c1c448bba_16-9-aspect-ratio_default_0_x600y232.jpg",
-        "tags": [
-            "influencers",
-            "instagram",
-            "redes sociales",
-            "madrid",
-            "tiktok"
-        ],
-        "link": "https://www.elcorreogallego.es/sociedad/2026/03/26/madrid-23-246-influencers-mujeres-mayoria-espana-128426163.html",
-        "date": "2026-03-26 06:50:02",
-        "sentiment_score": -0.1690765619277954
-    },
-    {
-        "title": "Rosalía interrumpe su concierto en Milán por problemas de salud: \"No puedo seguir\"",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2826184.jpg",
-        "tags": [
-            "milan",
-            "0",
-            "conciertos",
-            "salud"
-        ],
-        "link": "https://www.vozpopuli.com/altavoz/cultura/rosalia-interrumpe-su-concierto-en-milan-por-problemas-de-salud-no-puedo-seguir.html",
-        "date": "2026-03-26 07:17:11",
-        "sentiment_score": -0.6368625685572624
-    },
-    {
-        "title": "Estado de los embalses hoy, 26 de marzo en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a2bbd5f2-19db-45a5-bffc-fce1e0d25a7b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "otoño",
-            "lluvias",
-            "sequía",
-            "embalses",
-            "agua"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260326/embalses-hoy-26-marzo-cataluna-dv-128428025",
-        "date": "2026-03-26 07:17:07",
-        "sentiment_score": 0.6756476387381554
-    },
-    {
-        "title": "Noelia será la persona más joven en recibir la eutanasia en España y la sexta paciente psiquiátrica catalana que accederá a la muerte digna",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f0535a50-a5b3-4a60-9e48-ea1b1770108f_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "salud mental",
-            "ministerio de sanidad",
-            "eutanasia"
-        ],
-        "link": "https://www.elcorreoweb.es/sociedad/2026/03/26/noelia-espanola-mas-joven-eutanasia-sexta-paciente-psiquiatrica-cataluna-128425497.html",
-        "date": "2026-03-26 07:14:31",
-        "sentiment_score": -0.004970729351043701
-    },
-    {
-        "title": "La competencia por los pisos de alquiler en León se multiplica por seis",
-        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2026/03/24/WhatsApp%20Image%202026-03-24%20at%2011.41.56-knnC--758x531@Leonoticias.jpg",
-        "tags": [
-            "vivienda",
-            "alquiler"
-        ],
-        "link": "https://www.leonoticias.com/leon/competencia-pisos-alquiler-leon-multiplica-seis-20260326133702-nt.html",
-        "date": "2026-03-26 07:09:17",
-        "sentiment_score": 0.22202865406870842
-    },
-    {
-        "title": "La inversión en fondos de deuda privada en España se limita a 913 millones",
-        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA6M0QA_L.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://es.investing.com/news/economy-news/la-inversion-en-fondos-de-deuda-privada-en-espana-se-limita-a-913-millones-3578565",
-        "date": "2026-03-26 07:08:15",
-        "sentiment_score": -0.08837075531482697
-    },
-    {
-        "title": "La eutanasia de Noelia y los días \"malosos\" de Rodalies",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/26/actualidad/1003742745508_15883858_1706x960.jpg",
-        "tags": [
-            "rodalies",
-            "okupas",
-            "desahucio",
-            "vivienda",
-            "junts per catalunya",
-            "salud",
-            "eutanasia",
-            "barcelona",
-            "gràcia",
-            "gabriel rufián"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20260326/eutanasia-noelia-dias-malosos-rodalies/1003742745503_0.html",
-        "date": "2026-03-26 07:07:32",
-        "sentiment_score": -0.886624495498836
-    },
-    {
-        "title": "La nueva KLE 500 ya ha llegado a nuestros concesionarios y con la posibilidad de poder probarla a fondo",
-        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/03/25/69c3aadfe102a.r_d.1500-1000-0.jpeg",
-        "tags": [
-            "500",
-            "kle",
-            "llegado",
-            "probarla",
-            "nueva",
-            "fondo",
-            "posibilidad",
-            "concesionarios"
-        ],
-        "link": "https://www.mundodeportivo.com/solomoto/20260326/1004159115/nueva-kle-500-llegado-concesionarios-posibilidad-probarla-fondo.html",
-        "date": "2026-03-26 07:02:48",
-        "sentiment_score": 0.582331694662571
-    },
-    {
-        "title": "Un mosso rompe un escaparate histórico de Barcelona durante una detención y otro ladrón le roba el móvil",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f3d2f9ac-06b1-42c8-8a28-9e553d4bb480_alta-libre-aspect-ratio_default_0_x600y225.jpg",
-        "tags": [
-            "humor",
-            "barcelona",
-            "delincuencia",
-            "mossos d'esquadra",
-            "robos",
-            "sucesos",
-            "redes sociales",
-            "vandalismo",
-            "twitter",
-            "tiendas"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20260326/barcelona-mosso-rompe-escaparate-ladron-roba-movil-128427097",
-        "date": "2026-03-26 07:02:16",
-        "sentiment_score": -0.26208145916461945
-    },
-    {
         "title": "¿Sucesión o traición? El avance de Delcy Rodríguez en el tablero chavista lejos de Nicolás Maduro",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/03/photo_5053324775652002711_y.jpg",
         "tags": [
@@ -3045,5 +2801,201 @@ export default [
         "link": "https://www.informe21.com/post/semana-deportiva-una-tribuna-lleva-el-nombre-de-leo-messi",
         "date": "2026-03-29 14:00:13",
         "sentiment_score": 0.30677061527967453
+    },
+    {
+        "title": "Sergio Ramos cumple 40 años sin equipo, pero con ofertas para continuar",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/25/2025022518000730580.jpg",
+        "tags": [
+            "psg",
+            "sergio ramos",
+            "real madrid",
+            "futbol",
+            "sevilla",
+            "sevilla fc"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/sergio-ramos-cumple-40-anos-equipo-ofertas-continuar/20260330005156380612.html",
+        "date": "2026-03-29 22:51:56",
+        "sentiment_score": -0.21624153852462769
+    },
+    {
+        "title": "Francia expone fallos defensivos de Colombia y gana 3-1 en amistoso",
+        "image_url": "https://s.hdnux.com/photos/01/65/51/45/30841172/3/square_large.jpg",
+        "tags": [
+            "package 100021 spanish online",
+            "product 32610 latam news service",
+            "colombia francia mundial errores amistoso",
+            "product 30566 ap spanish online - all news",
+            "product 30578 ap spanish online - sports news"
+        ],
+        "link": "https://www.ctinsider.com/sports/article/francia-expone-fallos-defensivos-de-colombia-y-22158634.php",
+        "date": "2026-03-29 22:38:31",
+        "sentiment_score": 0.17202813923358917
+    },
+    {
+        "title": "Francia expone fallos defensivos de Colombia y gana 3-1 en amistoso",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "colombia francia mundial errores amistoso",
+            "deportes",
+            "sports"
+        ],
+        "link": "https://apnews.com/article/colombia-francia-mundial-errores-amistoso-b64b404c2beec262086870933b7c5199",
+        "date": "2026-03-29 22:36:11",
+        "sentiment_score": 0.03288304805755615
+    },
+    {
+        "title": "La cuenta atrás por el título de la Liga F",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/03/29/69c98ce12623b.jpeg",
+        "tags": [
+            "cuenta",
+            "f",
+            "título",
+            "liga"
+        ],
+        "link": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260330/1004161826/cuenta-titulo-liga-f.html",
+        "date": "2026-03-29 22:28:35",
+        "sentiment_score": -0.3641749173402786
+    },
+    {
+        "title": "El duro momento que ha vivido el hijo de Sara Carbonero e Iker Casillas",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2026/03/29/sara-carbonero-e-iker-casillas-en-una-imagen-de-archivo_e530-kZHE-U201471190283dvH-1200x840@Las%20Provincias.jpg",
+        "tags": [
+            "vivido",
+            "hijo",
+            "momento",
+            "duro",
+            "carbonero",
+            "iker",
+            "sara",
+            "casillas"
+        ],
+        "link": "https://www.lasprovincias.es/gente-estilo/duro-momento-vivido-hijo-sara-carbonero-iker-20260329174349-nt.html",
+        "date": "2026-03-29 22:27:38",
+        "sentiment_score": -0.8691438445821404
+    },
+    {
+        "title": "Tu perro podría tener una enfermedad rara y no lo sabes: las señales que no debes ignorar",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/26/enfermedades-perros_20260326144356-RLWOw5KDU27FdoVK8NOKbnI-758x531@RC.jpg",
+        "tags": [
+            "enfermedades raras",
+            "perros"
+        ],
+        "link": "https://www.elcorreo.com/vivir/perro-tener-enfermedad-rara-sabes-senales-debes-20260326112411-ntrc.html",
+        "date": "2026-03-29 22:13:37",
+        "sentiment_score": -0.856801513582468
+    },
+    {
+        "title": "De un kebab en el centro de Valencia a un centro estético en Alicante: los negocios que abren los influencers en la Comunitat",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2026/03/27/20260213_ESIC_GENERACIO%cc%81NESIC_RAULBMSTUDIOS01244-R2PJ0UAsLlUwAJTwcDwLkCL-1200x840@Las%20Provincias.jpg",
+        "tags": [
+            "influencers",
+            "valencia",
+            "centro",
+            "kebab",
+            "negocios",
+            "comunitat",
+            "abren",
+            "alicante",
+            "estetico"
+        ],
+        "link": "https://www.lasprovincias.es/economia/kebab-centro-valencia-centro-estetico-alicante-negocios-20260327160313-nt.html",
+        "date": "2026-03-29 22:31:30",
+        "sentiment_score": 0.12193553149700165
+    },
+    {
+        "title": "Paternidad y posesivos",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2021/03/19/6053f2e5cb3e1.r_d.711-414-0.jpeg",
+        "tags": [
+            "paternidad",
+            "posesivos"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20260330/11501866/paternidad-posesivos.html",
+        "date": "2026-03-29 22:30:00",
+        "sentiment_score": -0.02897922694683075
+    },
+    {
+        "title": "La autoestima de Barcelona",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/29/69c9559fde0e6.jpeg",
+        "tags": [
+            "autoestima",
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20260330/11501898/autoestima-barcelona.html",
+        "date": "2026-03-29 22:30:00",
+        "sentiment_score": 0.5905186161398888
+    },
+    {
+        "title": "Los sindicatos de prisiones denuncian una nueva agresión en la cárcel de Sevilla II: «Cada vez son episodios más imprevisibles y peligrosos»",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/01/EuropaPress_6278732_imagen_archivo_prision_california1.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://gaceta.es/espana/los-sindicatos-de-prisiones-denuncian-una-nueva-agresion-en-la-carcel-de-sevilla-ii-cada-vez-son-episodios-mas-imprevisibles-y-peligrosos-20260330-0021/",
+        "date": "2026-03-29 22:21:00",
+        "sentiment_score": -0.755032503977418
+    },
+    {
+        "title": "El SEPE publica miles de ofertas para trabajar en abril con sueldos de hasta 4.000 euros",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2026/03/29/sepe-kAmF-U20147502506709E-1200x840@Las%20Provincias.jpg",
+        "tags": [
+            "miles",
+            "abril",
+            "trabajar",
+            "euros",
+            "sepe",
+            "sueldos",
+            "publica",
+            "ofertas",
+            "4000"
+        ],
+        "link": "https://www.lasprovincias.es/economia/sepe-publica-miles-ofertas-trabajar-abril-sueldos-20260329233144-nt.html",
+        "date": "2026-03-29 22:19:29",
+        "sentiment_score": -0.08335474506020546
+    },
+    {
+        "title": "Horarios del Lunes Santo en la Semana Santa de Sevilla: programa e itinerario de las procesiones de hoy",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2026/03/25/lunes-santo-kQM-U2013937711167BC-1200x840@Las%20Provincias.jpg",
+        "tags": [
+            "horarios",
+            "hoy",
+            "lunes",
+            "santa",
+            "semana",
+            "santo",
+            "programa",
+            "sevilla",
+            "itinerario",
+            "procesiones"
+        ],
+        "link": "https://www.lasprovincias.es/sociedad/lunes-santo-semana-santa-sevilla-20260325133759-nt.html",
+        "date": "2026-03-29 22:18:02",
+        "sentiment_score": 0.033052386716008186
+    },
+    {
+        "title": "Nueve 'finales' para la redención de Nico",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2026/03/29/nico-williams-U45720581555QYu-758x531@El%20Correo.jpg",
+        "tags": [
+            "nico williams",
+            "athletic de bilbao"
+        ],
+        "link": "https://www.elcorreo.com/athletic/nueve-finales-redencion-nico-20260329212730-nt.html",
+        "date": "2026-03-29 22:15:26",
+        "sentiment_score": -0.7537138499319553
+    },
+    {
+        "title": "Rosalía irrumpe en España con su espectáculo más ambicioso hasta la fecha",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/03/25/rosalia-lyon-khSG-U201403742740gdF-1200x840@RC.jpg",
+        "tags": [
+            "espana",
+            "rosalia",
+            "irrumpe",
+            "ambicioso",
+            "fecha",
+            "espectaculo"
+        ],
+        "link": "https://www.lasprovincias.es/culturas/musica/rosalia-irrumpe-espana-espectaculo-ambicioso-fecha-20260330213632-ntrc.html",
+        "date": "2026-03-29 22:11:48",
+        "sentiment_score": 0.02528449147939682
     }
 ];
