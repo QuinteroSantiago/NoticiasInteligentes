@@ -1,222 +1,5 @@
 export default [
     {
-        "title": "18:00H | 26 MAR 2026 | La Tarde",
-        "image_url": "https://www.cope.es/files/microformat_image_1x1/uploads/2025/03/11/67d05b36b2414.jpeg",
-        "tags": [
-            "2026",
-            "00h",
-            "26",
-            "18",
-            "mar"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/18-00h-26-mar-2026-tarde-20260326_3334880.html",
-        "date": "2026-03-26 18:05:00",
-        "sentiment_score": -0.2634265720844269
-    },
-    {
-        "title": "El Valencia Basket quiere atar como mínimo el play-in ante el Partizan Belgrado",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d0756f83-3a48-47e4-8da3-28c6d64bd7e5_16-9-aspect-ratio_default_0_x845y560.jpg",
-        "tags": [
-            "xabi lópez-arostegui",
-            "jean montero",
-            "olympiacos",
-            "euroliga",
-            "valencia basket",
-            "partizan belgrado"
-        ],
-        "link": "https://www.superdeporte.es/valencia-basket/2026/03/26/valencia-basket-quiere-asegurar-minimo-play-in-euroliga-partizan-belgrado-128454292.html",
-        "date": "2026-03-26 18:04:08",
-        "sentiment_score": -0.12378478050231934
-    },
-    {
-        "title": "Las sucesoras de Aitana Bonmatí, Graham Hansen y Mapi León impulsan al Barça Femenino hacia el triplete",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/26/actualidad/1003742745780_15887093_1706x960.jpg",
-        "tags": [
-            "champions league",
-            "secciones",
-            "fcbfemeni",
-            "futfem"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260326/aitana-bonmati-graham-hansen-mapi-barca-femenino/1003742745767_0.html",
-        "date": "2026-03-26 18:03:57",
-        "sentiment_score": 0.8869071956723928
-    },
-    {
-        "title": "COAG apoya las medidas adoptadas por la guerra aunque sean insuficientes a largo plazo",
-        "image_url": "https://i-invdn-com.investing.com/news/oil_2_800x533_L_1412692774.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://es.investing.com/news/stock-market-news/coag-apoya-las-medidas-adoptadas-por-la-guerra-aunque-sean-insuficientes-a-largo-plazo-3580119",
-        "date": "2026-03-26 18:02:39",
-        "sentiment_score": -0.07031849026679993
-    },
-    {
-        "title": "Àlex Moreno: \"Tenemos que llegar a los 42 puntos y luego ya veremos\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/26/alex-moreno-tenemos-que-llegar-a-los-42-puntos-y-luego-ya-veremos/",
-        "date": "2026-03-26 18:02:10",
-        "sentiment_score": 0.12441037222743034
-    },
-    {
-        "title": "Los chatbots de IA refuerzan las creencias erróneas de los usuarios",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/d26d528cf61e2d7a9003340864678771/crop/69x46/2017x1344/resize/1948/assets/multimedia/imagenes/2026/03/26/17745102325950.jpg",
-        "tags": [
-            "directivos/estilo-vida/salud",
-            "salud y ciencia",
-            "inteligencia artificial"
-        ],
-        "link": "https://www.expansion.com/directivos/estilo-vida/salud/2026/03/26/69c4dee5e5fdeaef088b458d.html",
-        "date": "2026-03-26 18:00:00",
-        "sentiment_score": -0.02434486150741577
-    },
-    {
-        "title": "Carlos Cuerpo, en las distancias cortas: un vicepresidente políglota y el mejor valorado en el CIS",
-        "image_url": "https://img2.huffingtonpost.es/files/og_thumbnail/uploads/2026/03/26/carlos-cuerpo-el-pasado-martes.jpeg",
-        "tags": [
-            "carlos cuerpo"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/carlos-cuerpo-vicepresidente-poliglota-mejor-valorado-f202603.html",
-        "date": "2026-03-26 17:55:51",
-        "sentiment_score": -0.03382337838411331
-    },
-    {
-        "title": "La POP pide a Sanidad y CCAA que el Consejo Interterritorial del SNS sirva para poner fin a la huelga médica",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260326184604_1200.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infosalus.com/actualidad/noticia-pop-pide-sanidad-ccaa-consejo-interterritorial-sns-sirva-poner-fin-huelga-medica-20260326184604.html",
-        "date": "2026-03-26 17:46:04",
-        "sentiment_score": -0.30635610967874527
-    },
-    {
-        "title": "Reabiertas las negociaciones entre Sanidad y los médicos \"en un clima de diálogo en el que hará falta la voluntad de todas las partes\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8de021f0-cbba-4d1e-92c9-6d96ed47f63e_alta-libre-aspect-ratio_default_0_x794y353.jpg",
-        "tags": [
-            "hospitales",
-            "mónica garcía gómez",
-            "huelgas",
-            "ministerio de sanidad",
-            "médicos"
-        ],
-        "link": "https://www.elperiodico.com/es/sanidad/20260326/reabiertas-negociaciones-sanidad-medicos-clima-dialogo-falta-esfuerzo-partes-128451953",
-        "date": "2026-03-26 17:44:53",
-        "sentiment_score": 0.04471893608570099
-    },
-    {
-        "title": "El Congreso de Salud Mental en el Deporte congrega a 350 participantes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8811de88-4286-4b68-829e-3ec2a143abef_16-9-aspect-ratio_default_0_x562y281.jpg",
-        "tags": [
-            "deportes",
-            "psicología",
-            "salud mental",
-            "deporte",
-            "congreso",
-            "árbitros",
-            "ffrm"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2026/03/26/congreso-salud-mental-deporte-congrega-128456337.html",
-        "date": "2026-03-26 17:41:07",
-        "sentiment_score": 0.35192248225212097
-    },
-    {
-        "title": "Abogados Cristianos tenía la esperanza de que la joven de Barcelona reconsiderara su eutanasia",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/202603/26/media/cortadas/abogados-cristianos-tena-esperanza-joven-barcelona-reconsiderara-20260326175522-vi.jpg",
-        "tags": [
-            "vídeos de agencias"
-        ],
-        "link": "https://www.elcomercio.es/sociedad/sucesos/abogados-cristianos-tena-esperanza-joven-barcelona-reconsiderara-20260326175522-vi.html",
-        "date": "2026-03-26 18:05:38",
-        "sentiment_score": 0.01788569986820221
-    },
-    {
-        "title": "El TC admite a trámite un recurso del PP contra la cesión de interventores a Cataluña",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2026/03/26/el-tc-admite-a-tramite-un-recurso-del-pp-contra-la-cesion-de-interventores-a-cataluna/",
-        "date": "2026-03-26 18:03:35",
-        "sentiment_score": -0.1537342518568039
-    },
-    {
-        "title": "Una emprendedora argentina y un astrofísico mexicano, Premio Princesa Girona Internacional",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-logo-infobae-naranja-1200x900.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/03/26/una-emprendedora-argentina-y-un-astrofisico-mexicano-premio-princesa-girona-internacional/",
-        "date": "2026-03-26 18:03:01",
-        "sentiment_score": 0.35718705505132675
-    },
-    {
-        "title": "Todo sobre el Barça-Unicaja de la Liga Endesa: fecha, hora y dónde verlo por televisión",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/142968df-4585-4cd1-abb6-93d8c63c7862_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "la liga",
-            "barça",
-            "unicaja",
-            "xavi",
-            "endesa"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2026/03/26/barca-unicaja-liga-endesa-fecha-128457518.html",
-        "date": "2026-03-26 18:02:46",
-        "sentiment_score": -0.15707823634147644
-    },
-    {
-        "title": "Un nuevo fósil revela los orígenes de los simios",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260326190058_1200.jpg",
-        "tags": [
-            "arqueología",
-            "egipto"
-        ],
-        "link": "https://www.europapress.es/ciencia/laboratorio/noticia-nuevo-fosil-revela-origenes-simios-20260326190058.html",
-        "date": "2026-03-26 18:00:58",
-        "sentiment_score": 0.21962027251720428
-    },
-    {
-        "title": "La Apdcat pide que la ley de servicios digitales reconozca competencias a autoridades autonómicas",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260326190034_1200.jpg",
-        "tags": [
-            "protección de datos",
-            "congreso de los diputados"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-apdcat-pide-ley-servicios-digitales-reconozca-competencias-autoridades-autonomicas-20260326190034.html",
-        "date": "2026-03-26 18:00:34",
-        "sentiment_score": 0.06249871104955673
-    },
-    {
-        "title": "El cambio de hora dispara un 38% el gasto en bares",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/04/14/2025041407121148305.jpg",
-        "tags": [
-            "última hora"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/vivir/cambio-hora-reduce-ventas-tarde-comercios-complica-organizacion-88/20251002190041982487.html",
-        "date": "2026-03-26 18:00:00",
-        "sentiment_score": 0.5354969464242458
-    },
-    {
-        "title": "La mirada más completa al universo de Matisse llega a CaixaForum",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/03/26/7331BAFF-7935-4AA5-A64C-C87BF1A7C571/96.jpg?crop=1920,1080,x0,y180&width=1200&height=675&optimize=low&format=webply",
-        "tags": [
-            "arte",
-            "cultura",
-            "exposición",
-            "caixaforum barcelona"
-        ],
-        "link": "https://www.larazon.es/cataluna/mirada-mas-completa-universo-matisse-llega-caixaforum_2026032669c573c483aca52e0e3a6ffb.html",
-        "date": "2026-03-26 17:58:28",
-        "sentiment_score": 0.8961038645356894
-    },
-    {
         "title": "Francia gana a Brasil un amistoso con sabor a Mundial",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260326233342_1200.jpg",
         "tags": [
@@ -3242,5 +3025,299 @@ export default [
         "link": "https://www.infobae.com/espana/cultura/2026/03/30/mujeres-la-banda-de-culto-que-inspira-al-nuevo-rock-espanol-nos-sorprende-ser-referentes-pero-seguimos-haciendo-lo-que-al-principio-tocar-mucho-y-disfrutar/",
         "date": "2026-03-30 03:00:00",
         "sentiment_score": -0.85381661914289
+    },
+    {
+        "title": "\"Me encanta Madrid y claro que jugaría en el Real Madrid\"",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/03/30/69ca1f31bbd81.jpeg",
+        "tags": [
+            "encanta",
+            "jugaría",
+            "claro",
+            "real",
+            "madrid",
+            "me"
+        ],
+        "link": "https://www.mundodeportivo.com/futbol/real-madrid/20260330/1004161883/me-encanta-madrid-claro-jugaria-real-madrid.html",
+        "date": "2026-03-30 07:07:02",
+        "sentiment_score": -0.16537147015333176
+    },
+    {
+        "title": "La TUR individual del gas se reducirá un 16,6 % a partir del 1 de abril",
+        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA6606G_L.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.investing.com/news/commodities-news/la-tur-individual-del-gas-se-reducira-un-166--a-partir-del-1-de-abril-3582650",
+        "date": "2026-03-30 07:03:41",
+        "sentiment_score": -0.002829022705554962
+    },
+    {
+        "title": "La Sala de lo Social del Tribunal Superior de Justicia de Cantabria tiene nueva presidenta",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2025/09/tribunal-superior-de-justicia_tsj_-cantabria-1000x600.png",
+        "tags": [
+            "elena pérez",
+            "cantabria",
+            "justicia",
+            "mercedes sancha",
+            "presidenta",
+            "social",
+            "magistrada",
+            "tribunal"
+        ],
+        "link": "https://www.economistjurist.es/noticias-juridicas/la-sala-de-lo-social-del-tribunal-superior-de-justicia-de-cantabria-tiene-nueva-presidenta/",
+        "date": "2026-03-30 07:02:06",
+        "sentiment_score": -0.047895148396492004
+    },
+    {
+        "title": "El Dépor ABANCA B cae ante el Burgos CF",
+        "image_url": "https://xornalgalicia.com/images/00-2026/Marzo/6ac4e7e9-8190-4d95-b48f-ecdfb809f8e6-437.webp",
+        "tags": [
+            "industrial",
+            "villalonga",
+            "castellanas",
+            "siguientes",
+            "futbolistas",
+            "resultados",
+            "deportivista"
+        ],
+        "link": "https://xornalgalicia.com/actualidad/agenda/el-depor-abanca-b-cae-ante-el-burgos-cf",
+        "date": "2026-03-30 06:54:39",
+        "sentiment_score": 0.5698897875845432
+    },
+    {
+        "title": "Sara Carbonero arrasa en clave 'sport' con su último look, protagonizado por unos pantalones cargo ideales",
+        "image_url": "https://www.infobae.com/resizer/v2/PXJYDI3JJFHHLCR4YUA2A5UJKE.jpg?auth=4189f8a8d750e766d9b775bc5c07ff14049bf58512f222d7cdc125ab1f9db945&smart=true&width=1920&height=1440",
+        "tags": [
+            "europapress",
+            "real madrid",
+            "lanzarote",
+            "iker casillas",
+            "periodismo",
+            "zara",
+            "laliga futures",
+            "pantalón cargo",
+            "la graciosa",
+            "sara carbonero",
+            "moda deportiva"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/03/30/sara-carbonero-arrasa-en-clave-sport-con-su-ultimo-look-protagonizado-por-unos-pantalones-cargo-ideales/",
+        "date": "2026-03-30 06:45:19",
+        "sentiment_score": 0.8403247334063053
+    },
+    {
+        "title": "Aprobado con nota",
+        "image_url": "https://www.diariodeburgos.es/media/img/2026/563ad2a2-a876-4a5c-8e676ad7bb59872e.jpg",
+        "tags": [
+            "alavés",
+            "real madrid",
+            "levante ud",
+            "benfica",
+            "albacete balompié",
+            "pep guardiola",
+            "lisboa",
+            "cerámica",
+            "jude bellingham",
+            "copa del rey",
+            "champions league",
+            "celta de vigo",
+            "girona fc",
+            "estadio carlos belmonte",
+            "vinícius júnior",
+            "elche cf",
+            "rcd mallorca",
+            "betis",
+            "segunda división"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/za3b54214-339b-4bbc-a7ae7b16a9e4f07a/202603/aprobado-con-nota",
+        "date": "2026-03-30 06:32:46",
+        "sentiment_score": -0.1394580900669098
+    },
+    {
+        "title": "Los reyes de Bélgica se van de escapada por Madrid entre churros y porras: comienzan la Semana Santa sin sus hijos",
+        "image_url": "https://www.infobae.com/resizer/v2/RBMEDB36YRHUJJYG5ORL6ZDU2M.JPG?auth=930318ecdf80a088f2d12a039412086301fda75f2f50ee6c14f021bb4f86e878&smart=true&width=2021&height=1137",
+        "tags": [
+            "españa-noticias",
+            "casas reales",
+            "españa-entretenimiento",
+            "corazón y estilo españa"
+        ],
+        "link": "https://www.infobae.com/espana/2026/03/30/los-reyes-de-belgica-se-van-de-escapada-por-madrid-entre-churros-y-porras-comienzan-la-semana-santa-sin-sus-hijos/",
+        "date": "2026-03-30 06:31:13",
+        "sentiment_score": 0.22847120463848114
+    },
+    {
+        "title": "Consumo avisa a 13 fondos e inmobiliarias de que han de aceptar prorrogar alquileres",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/03/pedro-sanchez-consejo-ministros-guerra-469x317.jpg",
+        "tags": [
+            "contratos",
+            "alquiler de viviendas",
+            "inmobiliarias",
+            "pablo bustinduy",
+            "ministerio de consumo"
+        ],
+        "link": "https://theobjective.com/espana/politica/2026-03-30/consumo-fondos-inmobiliarias-prorroga-alquileres/",
+        "date": "2026-03-30 06:28:26",
+        "sentiment_score": 0.1560999881476164
+    },
+    {
+        "title": "La emoción y orgullo de Sara Carbonero ante las lágrimas de su hijo Martín sobre un campo de fútbol",
+        "image_url": "https://www.cadena100.es/files/og_thumbnail/uploads/2026/03/30/69ca14a9e9545.jpeg",
+        "tags": [
+            "sara carbonero orgullo hijo",
+            "lágrimas martín casillas",
+            "hijo sara carbonero llora fútbol",
+            "lágrimas hijo iker casillas",
+            "martñin casillas carbonero portero"
+        ],
+        "link": "https://www.cadena100.es/trending-topic/noticias/emocion-orgullo-sara-carbonero-lagrimas-hijo-martin-sobre-campo-futbol-20260330_148141.html",
+        "date": "2026-03-30 06:17:11",
+        "sentiment_score": -0.011513769626617432
+    },
+    {
+        "title": "El BOE lo confirma: así quedarán las nuevas tasas turísticas en Catalunya desde este miércoles",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7f743ff7-ddfe-486e-846d-849d6fe9dca7_alta-libre-aspect-ratio_default_0_x600y225.jpg",
+        "tags": [
+            "barcelona",
+            "boe",
+            "turismo",
+            "generalitat de catalunya",
+            "impuestos",
+            "precios"
+        ],
+        "link": "https://www.elperiodico.com/es/catalunya/20260330/tasa-turistica-nuevas-tarifas-barcelona-cataluna-impuestos-dv-loc-128410403",
+        "date": "2026-03-30 07:10:27",
+        "sentiment_score": 0.06987741962075233
+    },
+    {
+        "title": "Un pontevedrés en Barcelona: \"Mucho miedo a ver si te da el palo un quinqui y te lo da el taxista\"",
+        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2026/03/30/2026033009014495131.jpg",
+        "tags": [
+            "barcelona",
+            "redes sociales",
+            "estafa",
+            "taxis"
+        ],
+        "link": "https://www.diariodepontevedra.es/articulo/gente/un-pontevedres/202603300908471440549.html",
+        "date": "2026-03-30 07:08:47",
+        "sentiment_score": -0.7659888453781605
+    },
+    {
+        "title": "Rosalía inicia este lunes su gira en España entre el éxito internacional y la controversia pública",
+        "image_url": "https://www.tribunavalladolid.com/uploads/imagenes/images/2026/3/30/439544/20260330090851_caratula.webP",
+        "tags": [
+            "promoción",
+            "música"
+        ],
+        "link": "https://www.tribunasalamanca.com/noticias/439544/rosalia-inicia-este-lunes-su-gira-en-espana-entre-el-exito-internacional-y-la-controversia-publica",
+        "date": "2026-03-30 07:04:00",
+        "sentiment_score": 0.28653905540704727
+    },
+    {
+        "title": "Viladecans 'se planta' ante los pisos turísticos: prohibirá nuevas licencias y regulará las actuales a partir de 2028",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/10/29/informacion-municipal/1003742702334_15336190_1706x960.jpg",
+        "tags": [
+            "pisos turísticos",
+            "gran barcelona",
+            "viladecans",
+            "vivienda",
+            "jaume collboni"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260330/viladecans-planta-pisos-turisticos-prohibira-nuevas-licencias-regulara-actuales-partir/1003742746680_0.html",
+        "date": "2026-03-30 07:00:04",
+        "sentiment_score": -0.814969539642334
+    },
+    {
+        "title": "El sorteo de El Gordo de la Primitiva deja este pastizal para un único acertante en España",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/12/28/676fda0e25354.r_d.3824-2270-0.jpeg",
+        "tags": [
+            "primitiva",
+            "deja",
+            "pastizal",
+            "españa",
+            "sorteo",
+            "acertante",
+            "gordo",
+            "único"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20260330/1004161880/sorteo-gordo-primitiva-deja-pastizal-unico-acertante-espana-dct.html",
+        "date": "2026-03-30 06:58:40",
+        "sentiment_score": -0.02090996503829956
+    },
+    {
+        "title": "VOX denuncia la proliferación del chabolismo en la provincia de Barcelona y exige un «cambio radical» que pase por la prioridad nacional en materia de vivienda",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/11/jordi-0-2.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://gaceta.es/espana/vox-denuncia-la-proliferacion-del-chabolismo-en-la-provincia-de-barcelona-y-exige-un-cambio-radical-que-pase-por-la-prioridad-nacional-en-materia-de-vivienda-20260330-0854/",
+        "date": "2026-03-30 06:54:37",
+        "sentiment_score": -0.6318829320371151
+    },
+    {
+        "title": "Raphinha como síntoma",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/03/15/culemania/primer-equipo/1003742741677_15829995_1706x960.jpg",
+        "tags": [
+            "un culé en la castellana",
+            "hansi flick",
+            "raphinha",
+            "juanito blaugrana",
+            "barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/juanito-blaugrana/20260330/raphinha-sintoma/1003742746643_0.html",
+        "date": "2026-03-30 06:51:51",
+        "sentiment_score": -0.11492219567298889
+    },
+    {
+        "title": "Consejos para aparcar cerca del centro sin complicaciones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5827012/consejos-aparcar-cerca-centro-complicaciones",
+        "date": "2026-03-30 06:51:34",
+        "sentiment_score": 0.46710755303502083
+    },
+    {
+        "title": "Paz Padilla sorprende a su hija Anna Ferrer con una impresionante despedida de soltera: Cancún, mariachis y lujo caribeño",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/07/31/688badea07fc8.r_d.1740-1314-0.jpeg",
+        "tags": [
+            "mariachis",
+            "lujo",
+            "soltera",
+            "impresionante",
+            "ferrer",
+            "despedida",
+            "cancún",
+            "caribeño",
+            "anna",
+            "sorprende",
+            "hija",
+            "paz",
+            "padilla"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/gente/20260330/1004161879/paz-padilla-sorprende-hija-anna-ferrer-impresionante-despedida-soltera-cancun-mariachis-lujo-caribeno-dct.html",
+        "date": "2026-03-30 06:48:56",
+        "sentiment_score": 0.46165744960308075
+    },
+    {
+        "title": "El Meteocat despeja todas las dudas y lo confirma: esto es lo que pasará con el frío y las lluvias en Barcelona en Semana Santa",
+        "image_url": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/12/01/692d63bd60b4d.r_d.2928-1954-0.jpeg",
+        "tags": [
+            "confirma",
+            "meteocat",
+            "dudas",
+            "semana",
+            "esto",
+            "barcelona",
+            "lluvias",
+            "frío",
+            "pasará",
+            "todas",
+            "santa",
+            "despeja"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20260330/1004161878/meteocat-despeja-todas-dudas-confirma-esto-pasara-frio-lluvias-barcelona-semana-santa-dct.html",
+        "date": "2026-03-30 06:47:48",
+        "sentiment_score": 0.18090875446796417
     }
 ];
